@@ -1,0 +1,3 @@
+# 手元のPCだけで使うもの (GitHub Actions では不要)
+-r requirements.txt
+playwright>=1.40   # price_check.py の料金の自動確認 (インストール済みの Chrome を使う)

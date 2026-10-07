@@ -1,0 +1,15 @@
+// Cloudflare Workers で site/ を公開するための設定
+// 公開URL: https://membership.nijisanji.workers.dev/
+//   (name の "membership" + Cloudflare アカウントの workers.dev サブドメイン "nijisanji")
+// GitHub と連携した Workers Builds では、push のたびに `npx wrangler deploy` が実行され、site/ がそのまま公開される。
+{
+  "name": "membership",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./site",
+    // 存在しないページは site/404.html を返す
+    "not_found_handling": "404-page",
+    // /ch/<ID>/ のような末尾スラッシュつきの URL で index.html を返す
+    "html_handling": "auto-trailing-slash"
+  }
+}

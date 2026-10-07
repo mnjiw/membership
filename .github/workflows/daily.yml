@@ -1,0 +1,90 @@
+# 毎日 5:00 (日本時間) にチャンネルの配信を確認し、集計とサイトを更新して commit する。
+# Cloudflare Workers (wrangler.jsonc) はこのリポジトリと連携していて、push されると site/ を自動で公開する。
+#
+# エラーがあったとき:
+#   - run_daily.py が終了コード 1 を返し、この実行は「失敗」になる
+#     → GitHub から、このワークフローを最後に編集した人にメールが届く
+#       (届かない場合は GitHub の Settings → Notifications → Actions を確認)
+#   - 実行結果のページの Summary に、チャンネルごとの結果とエラーの内容が出る
+#   - 失敗しても、取得できた分のデータは commit する (翌日以降の再挑戦のため)
+#
+# 手動で動かすときは、GitHub の Actions タブ → daily-update → Run workflow。
+
+name: daily-update
+
+on:
+  schedule:
+    - cron: "0 20 * * *"   # UTC 20:00 = 日本時間 5:00。GitHub の混雑で数分〜数十分遅れることがある
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "先頭から何チャンネルだけ処理するか (0 = 全部)"
+        required: false
+        default: "0"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340   # 上限は 6 時間 (360 分)。commit の時間を残す
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: ライブラリを入れる
+        run: pip install -U -r requirements.txt
+
+      - name: 取得・集計・サイト作成
+        id: run
+        continue-on-error: true   # 失敗しても、下の artifact 保存と commit は行う
+        env:
+          TZ: Asia/Tokyo
+        run: python run_daily.py --workers 4 --limit "${{ github.event.inputs.limit || '0' }}"
+
+      # 元のチャットデータは GitHub に入れず、圧縮して artifact として24時間だけ残す
+      # (集計プログラムの不具合や取得の失敗に気づいたとき、その日のうちなら作り直せるように)
+      - name: 元のチャットデータをまとめる
+        if: always()
+        run: |
+          if ls data/*/chats/*.live_chat.json >/dev/null 2>&1; then
+            tar czf raw-chats.tar.gz data/*/chats/*.live_chat.json
+          fi
+
+      - name: 元のチャットデータを artifact に保存 (24時間)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: raw-chats-${{ github.run_id }}
+          path: raw-chats.tar.gz
+          retention-days: 1
+          if-no-files-found: ignore
+
+      - name: commit & push
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data site logs
+          if git diff --cached --quiet; then
+            echo "変更なし"
+          else
+            git commit -m "毎日の更新 $(TZ=Asia/Tokyo date '+%Y-%m-%d')"
+            # 実行中に手元から push されていた場合に備えて、最新を取り込んでから push する
+            git pull --rebase --autostash
+            git push
+          fi
+
+      - name: エラーがあれば失敗にする (メール通知のため)
+        if: steps.run.outcome == 'failure'
+        run: |
+          echo "::error::エラーがありました。この実行の Summary で内容を確認してください。"
+          exit 1

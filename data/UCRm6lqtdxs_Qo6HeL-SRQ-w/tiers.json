@@ -1,0 +1,46 @@
+{
+  "tiers": [
+    {
+      "name": "level1",
+      "prices": [
+        {
+          "from": "2026-10-07",
+          "price": 490
+        }
+      ]
+    },
+    {
+      "name": "level2",
+      "prices": [
+        {
+          "from": "2026-10-07",
+          "price": 1190
+        }
+      ]
+    },
+    {
+      "name": "level4",
+      "prices": [
+        {
+          "from": "2026-10-07",
+          "price": 6300
+        }
+      ]
+    }
+  ],
+  "gift_tier": null,
+  "currency": "JPY",
+  "tax_rate": 0.1,
+  "creator_share": 0.7,
+  "source": "メンバー登録画面で確認（2026-10-07）",
+  "changes": [
+    {
+      "date": "2026-10-07",
+      "note": "level1: （初回） → ¥490 / level2: （初回） → ¥1,190 / level4: （初回） → ¥6,300（メンバー登録画面で自動確認）"
+    }
+  ],
+  "membership": true,
+  "checks": [
+    "2026-10-07"
+  ]
+}

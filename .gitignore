@@ -1,0 +1,12 @@
+# 元のチャットデータ (records に変換して24時間で消す。GitHub には入れない)
+data/*/chats/
+# 表示テスト用のダミーデータ
+site/data/demo.js
+__pycache__/
+*.tmp
+
+# 料金の自動確認用ブラウザのプロフィール (ログイン情報が入るので絶対に GitHub に入れない)
+.price_check_profile/
+
+# ドキュメント (README を含む)。GitHub には公開しない
+MD/

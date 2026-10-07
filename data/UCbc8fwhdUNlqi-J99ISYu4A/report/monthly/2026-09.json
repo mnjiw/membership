@@ -1,0 +1,83 @@
+{
+ "month": "2026-09",
+ "coverage": {
+  "from": "2026-09-07",
+  "to": "2026-09-30"
+ },
+ "streams_analyzed": 16,
+ "streams_missed": 3,
+ "unique_chatters": 1488,
+ "members_confirmed": 234,
+ "member_classes": {
+  "unknown": 197,
+  "known": 7,
+  "gift": 30
+ },
+ "long_term_members": 157,
+ "badges": [
+  {
+   "months": 0,
+   "members": 38
+  },
+  {
+   "months": 1,
+   "members": 6
+  },
+  {
+   "months": 2,
+   "members": 15
+  },
+  {
+   "months": 6,
+   "members": 18
+  },
+  {
+   "months": 12,
+   "members": 41
+  },
+  {
+   "months": 24,
+   "members": 116
+  }
+ ],
+ "events": {
+  "new_members": 2,
+  "rejoins": 0,
+  "milestones": 5,
+  "gifted_total": 30
+ },
+ "tiers": [
+  {
+   "tier": "ノンアルプラン",
+   "price": 140,
+   "confirmed_members": 0,
+   "estimated_members": 0.0
+  },
+  {
+   "tier": "常連さんプラン",
+   "price": 490,
+   "confirmed_members": 2,
+   "estimated_members": 58.3
+  },
+  {
+   "tier": "お得意さんプラン",
+   "price": 990,
+   "confirmed_members": 4,
+   "estimated_members": 116.6
+  },
+  {
+   "tier": "VIPプラン",
+   "price": 3490,
+   "confirmed_members": 1,
+   "estimated_members": 29.1
+  }
+ ],
+ "revenue": {
+  "monthly_low": 22915,
+  "monthly_est": 156338,
+  "gift_once": 2673
+ },
+ "avg_member_chatters": 76.4,
+ "partial": true,
+ "finalized": false
+}
