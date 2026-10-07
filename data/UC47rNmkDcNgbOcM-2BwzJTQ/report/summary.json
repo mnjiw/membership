@@ -3,27 +3,27 @@
  "channel_id": "UC47rNmkDcNgbOcM-2BwzJTQ",
  "handle": "@MillieParfait",
  "subscribers": 486000,
- "fetched_at": "2026-10-07 13:02",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:48",
+ "generated_at": "2026-10-08 08:49",
  "period": {
-  "from": "2026-09-07 13:02",
-  "to": "2026-10-07 13:02",
+  "from": "2026-09-08 08:48",
+  "to": "2026-10-08 08:48",
   "days": 30
  },
- "streams_analyzed": 11,
+ "streams_analyzed": 10,
  "streams_missed": 1,
- "unique_chatters": 1358,
- "members_confirmed": 353,
+ "unique_chatters": 1288,
+ "members_confirmed": 306,
  "member_classes": {
-  "unknown": 144,
-  "known": 60,
-  "gift": 149
+  "known": 59,
+  "unknown": 135,
+  "gift": 112
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 143
+   "members": 106
   },
   {
    "months": 1,
@@ -38,36 +38,36 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 9
+   "members": 8
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 31
+   "members": 29
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 34
+   "members": 33
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 56
+   "members": 54
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 60
+   "members": 56
   }
  ],
  "events": {
   "new_members": 2,
   "rejoins": 5,
-  "milestones": 62,
-  "gift_purchases": 50,
-  "gifted_total": 156,
-  "gift_redemptions": 151
+  "milestones": 49,
+  "gift_purchases": 39,
+  "gifted_total": 119,
+  "gift_redemptions": 114
  },
  "tiers_configured": true,
  "tiers": [
@@ -75,32 +75,32 @@
    "tier": "Meowmeowship",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 55,
-   "share_of_confirmed_pct": 91.7,
-   "allocated_unknown": 132.0,
-   "estimated_members": 187.0,
-   "monthly_net_confirmed": 24150,
-   "monthly_net_estimated": 82110
+   "confirmed_members": 54,
+   "share_of_confirmed_pct": 91.5,
+   "allocated_unknown": 123.6,
+   "estimated_members": 177.6,
+   "monthly_net_confirmed": 23711,
+   "monthly_net_estimated": 77965
   },
   {
    "tier": "Meowmeowmeowship",
    "price": 1990,
    "net_per_member": 1266.4,
    "confirmed_members": 5,
-   "share_of_confirmed_pct": 8.3,
-   "allocated_unknown": 12.0,
-   "estimated_members": 17.0,
+   "share_of_confirmed_pct": 8.5,
+   "allocated_unknown": 11.4,
+   "estimated_members": 16.4,
    "monthly_net_confirmed": 6332,
-   "monthly_net_estimated": 21528
+   "monthly_net_estimated": 20820
   }
  ],
  "revenue": {
-  "monthly_low": 93711,
-  "monthly_est": 103638,
-  "gift_once": 68498,
-  "total_low": 162209,
-  "total_est": 172136,
-  "paying_members": 204,
+  "monthly_low": 89320,
+  "monthly_est": 98785,
+  "gift_once": 52252,
+  "total_low": 141572,
+  "total_est": 151036,
+  "paying_members": 194,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -109,16 +109,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "YMLTGxV1qBk",
-   "start": "2026-09-07 21:03",
-   "title": "【CAT MAIL CO.】ZUTT MAIL CORP #2",
-   "kind": "配信",
-   "chatters": 218,
-   "member_chatters": 124,
-   "new_members": 0,
-   "gifted_total": 37
-  },
   {
    "video_id": "yXpja-T8N-E",
    "start": "2026-09-11 10:00",
@@ -324,13 +314,14 @@
    },
    "avg_member_chatters": 86,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:49"
   },
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-07"
+    "to": "2026-10-08"
    },
    "streams_analyzed": 5,
    "streams_missed": 0,

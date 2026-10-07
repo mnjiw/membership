@@ -3,19 +3,19 @@
  "channel_id": "UCfQVs_KuXeNAlGa3fb8rlnQ",
  "handle": "@SakuraRitsuki",
  "subscribers": 282000,
- "fetched_at": "2026-10-07 07:52",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:44",
+ "generated_at": "2026-10-08 08:44",
  "period": {
-  "from": "2026-09-07 07:52",
-  "to": "2026-10-07 07:52",
+  "from": "2026-09-08 08:44",
+  "to": "2026-10-08 08:44",
   "days": 30
  },
- "streams_analyzed": 26,
+ "streams_analyzed": 25,
  "streams_missed": 1,
- "unique_chatters": 698,
- "members_confirmed": 98,
+ "unique_chatters": 687,
+ "members_confirmed": 97,
  "member_classes": {
-  "unknown": 84,
+  "unknown": 83,
   "known": 13,
   "gift": 1
  },
@@ -58,7 +58,7 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 56
+   "members": 55
   }
  ],
  "events": {
@@ -77,10 +77,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 5,
    "share_of_confirmed_pct": 38.5,
-   "allocated_unknown": 32.3,
-   "estimated_members": 37.3,
+   "allocated_unknown": 31.9,
+   "estimated_members": 36.9,
    "monthly_net_confirmed": 1559,
-   "monthly_net_estimated": 11633
+   "monthly_net_estimated": 11513
   },
   {
    "tier": "桜SP",
@@ -88,19 +88,19 @@
    "net_per_member": 2220.9,
    "confirmed_members": 8,
    "share_of_confirmed_pct": 61.5,
-   "allocated_unknown": 51.7,
-   "estimated_members": 59.7,
+   "allocated_unknown": 51.1,
+   "estimated_members": 59.1,
    "monthly_net_confirmed": 17767,
-   "monthly_net_estimated": 132571
+   "monthly_net_estimated": 131204
   }
  ],
  "revenue": {
-  "monthly_low": 45519,
-  "monthly_est": 144204,
+  "monthly_low": 45207,
+  "monthly_est": 142718,
   "gift_once": 312,
-  "total_low": 45831,
-  "total_est": 144516,
-  "paying_members": 97,
+  "total_low": 45519,
+  "total_est": 143030,
+  "paying_members": 96,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -109,16 +109,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "8R_8vvPqaFY",
-   "start": "2026-09-07 12:00",
-   "title": "【スプラ３】健康スプラ 新シーズン XP測るんだよ～！！ 【にじさんじ/桜凛月】",
-   "kind": "配信",
-   "chatters": 53,
-   "member_chatters": 18,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "Y7WTE-NyH3Q",
    "start": "2026-09-09 12:05",
@@ -473,13 +463,14 @@
    },
    "avg_member_chatters": 32.1,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:44"
   },
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-07"
+    "to": "2026-10-08"
    },
    "streams_analyzed": 6,
    "streams_missed": 0,

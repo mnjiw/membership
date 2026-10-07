@@ -3,27 +3,27 @@
  "channel_id": "UClrQ7xhRBxS_v_-WuudGKmA",
  "handle": "@KaburakiRoco",
  "subscribers": 258000,
- "fetched_at": "2026-10-07 10:28",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:46",
+ "generated_at": "2026-10-08 08:47",
  "period": {
-  "from": "2026-09-07 10:28",
-  "to": "2026-10-07 10:28",
+  "from": "2026-09-08 08:46",
+  "to": "2026-10-08 08:46",
   "days": 30
  },
- "streams_analyzed": 22,
- "streams_missed": 6,
- "unique_chatters": 5137,
- "members_confirmed": 631,
+ "streams_analyzed": 20,
+ "streams_missed": 5,
+ "unique_chatters": 4950,
+ "members_confirmed": 620,
  "member_classes": {
-  "unknown": 607,
-  "known": 18,
+  "unknown": 597,
+  "known": 17,
   "gift": 6
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 41
+   "members": 39
   },
   {
    "months": 1,
@@ -33,31 +33,31 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 71
+   "members": 69
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 81
+   "members": 79
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 158
+   "members": 156
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 108
+   "members": 107
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 157
+   "members": 155
   }
  ],
  "events": {
-  "new_members": 12,
+  "new_members": 10,
   "rejoins": 6,
   "milestones": 0,
   "gift_purchases": 2,
@@ -70,21 +70,21 @@
    "tier": "鏑木ろこのメンバーシップ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 18,
+   "confirmed_members": 17,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 607.0,
-   "estimated_members": 625.0,
-   "monthly_net_confirmed": 5613,
-   "monthly_net_estimated": 194886
+   "allocated_unknown": 597.0,
+   "estimated_members": 614.0,
+   "monthly_net_confirmed": 5301,
+   "monthly_net_estimated": 191456
   }
  ],
  "revenue": {
-  "monthly_low": 194886,
-  "monthly_est": 194886,
+  "monthly_low": 191456,
+  "monthly_est": 191456,
   "gift_once": 1871,
-  "total_low": 196757,
-  "total_est": 196757,
-  "paying_members": 625,
+  "total_low": 193327,
+  "total_est": 193327,
+  "paying_members": 614,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -93,26 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "Amovm3hCEq8",
-   "start": "2026-09-07 18:01",
-   "title": "【 Bloodborne 】#12 初見へっぽこハンターが行く古都ヤーナム【 鏑木ろこ￤にじさんじ 】",
-   "kind": "配信",
-   "chatters": 372,
-   "member_chatters": 119,
-   "new_members": 2,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "uAaSpmN1vbI",
-   "start": "2026-09-08 07:01",
-   "title": "【 おはろこ！】晴れの日が恋しいよ～～～【 鏑木ろこ￤にじさんじ 】",
-   "kind": "配信",
-   "chatters": 424,
-   "member_chatters": 151,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "uXgtguXsF2Y",
    "start": "2026-09-13 22:01",
@@ -316,18 +296,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "3t0be1t1Amw",
-   "start": "2026-09-07 22:04",
-   "title": "【  #にじ遊戯王祭2026 】 初回練習！エクソシスターを理解りたいぞ！！ 【 鏑木ろこ￤にじさんじ 】",
-   "kind": "live",
-   "status": "no_chat",
-   "reason": "チャットリプレイなし（アーカイブ編集・チャット無効の可能性）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 2186,
-   "view_count": 134962
-  },
-  {
    "video_id": "boo5RdMl1s4",
    "start": "2026-09-12 23:01",
    "title": "【 メン限同時視聴 】マンダロリアン・アンド・グローグー",
@@ -372,7 +340,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 235,
+   "like_count": 237,
    "view_count": null
   },
   {
@@ -384,7 +352,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 99,
+   "like_count": 100,
    "view_count": null
   }
  ],
@@ -426,7 +394,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 235,
+   "like_count": 237,
    "view_count": null
   },
   {
@@ -436,7 +404,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 99,
+   "like_count": 100,
    "view_count": null
   }
  ],
@@ -508,13 +476,14 @@
    },
    "avg_member_chatters": 159.5,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:47"
   },
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-07"
+    "to": "2026-10-08"
    },
    "streams_analyzed": 5,
    "streams_missed": 1,

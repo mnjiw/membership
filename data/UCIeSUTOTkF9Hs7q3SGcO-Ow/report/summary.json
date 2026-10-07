@@ -3,19 +3,19 @@
  "channel_id": "UCIeSUTOTkF9Hs7q3SGcO-Ow",
  "handle": "@EliraPendora",
  "subscribers": 514000,
- "fetched_at": "2026-10-07 15:33",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:48",
+ "generated_at": "2026-10-08 08:48",
  "period": {
-  "from": "2026-09-07 15:33",
-  "to": "2026-10-07 15:33",
+  "from": "2026-09-08 08:48",
+  "to": "2026-10-08 08:48",
   "days": 30
  },
- "streams_analyzed": 23,
+ "streams_analyzed": 22,
  "streams_missed": 3,
- "unique_chatters": 1927,
- "members_confirmed": 540,
+ "unique_chatters": 1905,
+ "members_confirmed": 536,
  "member_classes": {
-  "unknown": 274,
+  "unknown": 270,
   "known": 93,
   "gift": 173
  },
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 23
+   "members": 22
   },
   {
    "months": 6,
@@ -43,12 +43,12 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 63
+   "members": 62
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 73
+   "members": 71
   },
   {
    "months": 36,
@@ -68,8 +68,8 @@
  ],
  "events": {
   "new_members": 5,
-  "rejoins": 16,
-  "milestones": 74,
+  "rejoins": 15,
+  "milestones": 72,
   "gift_purchases": 51,
   "gifted_total": 173,
   "gift_redemptions": 173
@@ -82,19 +82,19 @@
    "net_per_member": 439.1,
    "confirmed_members": 93,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 274.0,
-   "estimated_members": 367.0,
+   "allocated_unknown": 270.0,
+   "estimated_members": 363.0,
    "monthly_net_confirmed": 40835,
-   "monthly_net_estimated": 161146
+   "monthly_net_estimated": 159390
   }
  ],
  "revenue": {
-  "monthly_low": 161146,
-  "monthly_est": 161146,
+  "monthly_low": 159390,
+  "monthly_est": 159390,
   "gift_once": 75963,
-  "total_low": 237109,
-  "total_est": 237109,
-  "paying_members": 367,
+  "total_low": 235353,
+  "total_est": 235353,
+  "paying_members": 363,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -103,16 +103,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "dIMMh-9LxCE",
-   "start": "2026-09-08 08:00",
-   "title": "【VA-11 Hall-A: Cyberpunk Bartender Action】 changing lives time 【NIJISANJI EN | Elira Pendora】",
-   "kind": "配信",
-   "chatters": 192,
-   "member_chatters": 104,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "wFWg1a_Rx5w",
    "start": "2026-09-09 08:03",
@@ -480,13 +470,14 @@
    },
    "avg_member_chatters": 106.8,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:48"
   },
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-07"
+    "to": "2026-10-08"
    },
    "streams_analyzed": 6,
    "streams_missed": 1,

@@ -2,28 +2,28 @@
  "channel": "フレン・E・ルスタリオ",
  "channel_id": "UCuep1JCrMvSxOGgGhBfJuYw",
  "handle": "@FurenELustario",
- "subscribers": 838000,
- "fetched_at": "2026-10-07 09:06",
- "generated_at": "2026-10-07 15:39",
+ "subscribers": 839000,
+ "fetched_at": "2026-10-08 08:45",
+ "generated_at": "2026-10-08 08:45",
  "period": {
-  "from": "2026-09-07 09:06",
-  "to": "2026-10-07 09:06",
+  "from": "2026-09-08 08:45",
+  "to": "2026-10-08 08:45",
   "days": 30
  },
- "streams_analyzed": 19,
+ "streams_analyzed": 18,
  "streams_missed": 0,
- "unique_chatters": 11570,
- "members_confirmed": 1314,
+ "unique_chatters": 10414,
+ "members_confirmed": 1289,
  "member_classes": {
-  "unknown": 1269,
-  "known": 33,
+  "unknown": 1247,
+  "known": 30,
   "gift": 12
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 66
+   "members": 63
   },
   {
    "months": 1,
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 114
+   "members": 111
   },
   {
    "months": 6,
@@ -43,27 +43,27 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 178
+   "members": 175
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 218
+   "members": 213
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 151
+   "members": 147
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 454
+   "members": 447
   }
  ],
  "events": {
-  "new_members": 16,
-  "rejoins": 17,
+  "new_members": 14,
+  "rejoins": 15,
   "milestones": 0,
   "gift_purchases": 3,
   "gifted_total": 12,
@@ -75,21 +75,21 @@
    "tier": "フレン親衛隊",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 33,
+   "confirmed_members": 30,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1269.0,
-   "estimated_members": 1302.0,
-   "monthly_net_confirmed": 10290,
-   "monthly_net_estimated": 405987
+   "allocated_unknown": 1247.0,
+   "estimated_members": 1277.0,
+   "monthly_net_confirmed": 9355,
+   "monthly_net_estimated": 398192
   }
  ],
  "revenue": {
-  "monthly_low": 405987,
-  "monthly_est": 405987,
+  "monthly_low": 398192,
+  "monthly_est": 398192,
   "gift_once": 3742,
-  "total_low": 409729,
-  "total_est": 409729,
-  "paying_members": 1302,
+  "total_low": 401934,
+  "total_est": 401934,
+  "paying_members": 1277,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "8k2ySwIdgVg",
-   "start": "2026-09-07 21:04",
-   "title": "【#ミリしらスト6チャレンジ】ここが伝説のはじまり、ってワケ・・・【にじさんじ】",
-   "kind": "配信",
-   "chatters": 2133,
-   "member_chatters": 459,
-   "new_members": 2,
-   "gifted_total": 0
-  },
   {
    "video_id": "foa43yvAI-4",
    "start": "2026-09-08 21:01",
@@ -363,13 +353,14 @@
    },
    "avg_member_chatters": 388.6,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:45"
   },
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-07"
+    "to": "2026-10-08"
    },
    "streams_analyzed": 5,
    "streams_missed": 0,

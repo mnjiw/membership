@@ -3,27 +3,27 @@
  "channel_id": "UCaAu0DXNSPXCZPg6iHVwRVw",
  "handle": "@NekoyashikiMiku",
  "subscribers": 150000,
- "fetched_at": "2026-10-07 12:20",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:48",
+ "generated_at": "2026-10-08 08:48",
  "period": {
-  "from": "2026-09-07 12:20",
-  "to": "2026-10-07 12:20",
+  "from": "2026-09-08 08:48",
+  "to": "2026-10-08 08:48",
   "days": 30
  },
- "streams_analyzed": 45,
- "streams_missed": 2,
- "unique_chatters": 4633,
- "members_confirmed": 674,
+ "streams_analyzed": 44,
+ "streams_missed": 1,
+ "unique_chatters": 4597,
+ "members_confirmed": 672,
  "member_classes": {
-  "unknown": 560,
-  "known": 58,
+  "unknown": 559,
+  "known": 57,
   "gift": 56
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 142
+   "members": 140
   },
   {
    "months": 1,
@@ -42,7 +42,7 @@
   }
  ],
  "events": {
-  "new_members": 50,
+  "new_members": 49,
   "rejoins": 9,
   "milestones": 0,
   "gift_purchases": 10,
@@ -55,21 +55,21 @@
    "tier": "ねこみくランド",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 58,
+   "confirmed_members": 57,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 560.0,
-   "estimated_members": 618.0,
-   "monthly_net_confirmed": 18085,
-   "monthly_net_estimated": 192704
+   "allocated_unknown": 559.0,
+   "estimated_members": 616.0,
+   "monthly_net_confirmed": 17774,
+   "monthly_net_estimated": 192080
   }
  ],
  "revenue": {
-  "monthly_low": 192704,
-  "monthly_est": 192704,
+  "monthly_low": 192080,
+  "monthly_est": 192080,
   "gift_once": 17774,
-  "total_low": 210477,
-  "total_est": 210477,
-  "paying_members": 618,
+  "total_low": 209854,
+  "total_est": 209854,
+  "paying_members": 616,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -78,16 +78,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "orRFPvmZf6Q",
-   "start": "2026-09-08 02:31",
-   "title": "✧︎* 深夜ラジオ┊2026年9月8日(火)のにゃるらじ🌙〖猫屋敷美紅 / にじさんじ〗",
-   "kind": "配信",
-   "chatters": 244,
-   "member_chatters": 98,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "2uMhC8mqIP4",
    "start": "2026-09-08 17:59",
@@ -531,18 +521,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "l29o84TZSDk",
-   "start": "2026-09-07 21:03",
-   "title": "✧︎* ファミレスを享受せよ┊気になっていたゲームを遊んでみよう...！〖猫屋敷美紅 / にじさんじ〗",
-   "kind": "live",
-   "status": "no_chat",
-   "reason": "チャットリプレイなし（アーカイブ編集・チャット無効の可能性）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 1355,
-   "view_count": 51251
-  },
-  {
    "video_id": "RCT6c3qPEJA",
    "start": "2026-09-26 21:03",
    "title": "✧︎* めんばーしっぷ┊新しいバッジとスタンプ先行公開～〖猫屋敷美紅 / にじさんじ〗",
@@ -623,13 +601,14 @@
    },
    "avg_member_chatters": 136.4,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:48"
   },
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-07"
+    "to": "2026-10-08"
    },
    "streams_analyzed": 11,
    "streams_missed": 0,

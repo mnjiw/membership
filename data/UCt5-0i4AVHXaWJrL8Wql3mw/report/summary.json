@@ -3,15 +3,15 @@
  "channel_id": "UCt5-0i4AVHXaWJrL8Wql3mw",
  "handle": "@Ryushen",
  "subscribers": 809000,
- "fetched_at": "2026-10-07 07:37",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:43",
+ "generated_at": "2026-10-08 08:44",
  "period": {
-  "from": "2026-09-07 07:37",
-  "to": "2026-10-07 07:37",
+  "from": "2026-09-08 08:43",
+  "to": "2026-10-08 08:43",
   "days": 30
  },
  "streams_analyzed": 8,
- "streams_missed": 3,
+ "streams_missed": 4,
  "unique_chatters": 3387,
  "members_confirmed": 270,
  "member_classes": {
@@ -237,6 +237,18 @@
    "members_level": "嶺上会報🐼💭",
    "like_count": 83,
    "view_count": null
+  },
+  {
+   "video_id": "qZhWXLQJc3Y",
+   "start": "2026-10-08 00:11",
+   "title": "メンバー限定配信 ｜ 夢を作るぞ",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "嶺上会報🐼💭",
+   "like_count": 51,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -268,6 +280,16 @@
    "status": "members_only",
    "members_level": "嶺上会報🐼💭",
    "like_count": 83,
+   "view_count": null
+  },
+  {
+   "video_id": "qZhWXLQJc3Y",
+   "start": "2026-10-08 00:11",
+   "title": "メンバー限定配信 ｜ 夢を作るぞ",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "嶺上会報🐼💭",
+   "like_count": 51,
    "view_count": null
   }
  ],
@@ -355,7 +377,8 @@
    },
    "avg_member_chatters": 63.8,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:44"
   }
  ],
  "no_streams": false,

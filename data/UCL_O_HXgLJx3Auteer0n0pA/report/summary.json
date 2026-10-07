@@ -3,26 +3,26 @@
  "channel_id": "UCL_O_HXgLJx3Auteer0n0pA",
  "handle": "@SuoSango",
  "subscribers": 679000,
- "fetched_at": "2026-10-07 09:33",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:45",
+ "generated_at": "2026-10-08 08:46",
  "period": {
-  "from": "2026-09-07 09:33",
-  "to": "2026-10-07 09:33",
+  "from": "2026-09-08 08:45",
+  "to": "2026-10-08 08:45",
   "days": 30
  },
- "streams_analyzed": 13,
+ "streams_analyzed": 12,
  "streams_missed": 3,
- "unique_chatters": 1860,
- "members_confirmed": 292,
+ "unique_chatters": 1777,
+ "members_confirmed": 282,
  "member_classes": {
-  "unknown": 281,
+  "unknown": 271,
   "known": 11
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 11
+   "members": 10
   },
   {
    "months": 1,
@@ -32,22 +32,22 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 26
+   "members": 25
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 30
+   "members": 29
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 63
+   "members": 62
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 156
+   "members": 150
   }
  ],
  "events": {
@@ -66,10 +66,10 @@
    "net_per_member": 248.2,
    "confirmed_members": 2,
    "share_of_confirmed_pct": 18.2,
-   "allocated_unknown": 51.1,
-   "estimated_members": 53.1,
+   "allocated_unknown": 49.3,
+   "estimated_members": 51.3,
    "monthly_net_confirmed": 496,
-   "monthly_net_estimated": 13176
+   "monthly_net_estimated": 12725
   },
   {
    "tier": "どすふぁんご",
@@ -77,10 +77,10 @@
    "net_per_member": 439.1,
    "confirmed_members": 7,
    "share_of_confirmed_pct": 63.6,
-   "allocated_unknown": 178.8,
-   "estimated_members": 185.8,
+   "allocated_unknown": 172.5,
+   "estimated_members": 179.5,
    "monthly_net_confirmed": 3074,
-   "monthly_net_estimated": 81591
+   "monthly_net_estimated": 78797
   },
   {
    "tier": "ファ～♪ンゴ",
@@ -88,19 +88,19 @@
    "net_per_member": 2602.7,
    "confirmed_members": 2,
    "share_of_confirmed_pct": 18.2,
-   "allocated_unknown": 51.1,
-   "estimated_members": 53.1,
+   "allocated_unknown": 49.3,
+   "estimated_members": 51.3,
    "monthly_net_confirmed": 5205,
-   "monthly_net_estimated": 138181
+   "monthly_net_estimated": 133449
   }
  ],
  "revenue": {
-  "monthly_low": 78515,
-  "monthly_est": 232948,
+  "monthly_low": 76033,
+  "monthly_est": 224971,
   "gift_once": 0,
-  "total_low": 78515,
-  "total_est": 232948,
-  "paying_members": 292,
+  "total_low": 76033,
+  "total_est": 224971,
+  "paying_members": 282,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -109,16 +109,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "vTpdDrvkK1U",
-   "start": "2026-09-07 21:04",
-   "title": "【DLC！ぽこあポケモン】ケンジ・・・？いるか・・・？#01【周央サンゴ】",
-   "kind": "配信",
-   "chatters": 197,
-   "member_chatters": 72,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "90FMAzcC9VI",
    "start": "2026-09-08 21:34",
@@ -274,7 +264,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "どすふぁんご",
-   "like_count": 94,
+   "like_count": 107,
    "view_count": null
   }
  ],
@@ -306,7 +296,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "どすふぁんご",
-   "like_count": 94,
+   "like_count": 107,
    "view_count": null
   }
  ],
@@ -385,13 +375,14 @@
    },
    "avg_member_chatters": 77.2,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:46"
   },
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-07"
+    "to": "2026-10-08"
    },
    "streams_analyzed": 2,
    "streams_missed": 2,

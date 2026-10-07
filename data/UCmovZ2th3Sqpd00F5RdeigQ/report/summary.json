@@ -3,27 +3,27 @@
  "channel_id": "UCmovZ2th3Sqpd00F5RdeigQ",
  "handle": "@KagamiHayato",
  "subscribers": 962000,
- "fetched_at": "2026-10-07 08:33",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:44",
+ "generated_at": "2026-10-08 08:45",
  "period": {
-  "from": "2026-09-07 08:33",
-  "to": "2026-10-07 08:33",
+  "from": "2026-09-08 08:44",
+  "to": "2026-10-08 08:44",
   "days": 30
  },
- "streams_analyzed": 18,
+ "streams_analyzed": 17,
  "streams_missed": 1,
- "unique_chatters": 9691,
- "members_confirmed": 2944,
+ "unique_chatters": 9502,
+ "members_confirmed": 2901,
  "member_classes": {
-  "unknown": 2785,
-  "known": 34,
+  "unknown": 2743,
+  "known": 33,
   "gift": 125
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 213
+   "members": 211
   },
   {
    "months": 1,
@@ -33,27 +33,27 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 204
+   "members": 200
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 423
+   "members": 416
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 648
+   "members": 647
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 1416
+   "members": 1387
   }
  ],
  "events": {
-  "new_members": 19,
-  "rejoins": 15,
+  "new_members": 18,
+  "rejoins": 14,
   "milestones": 0,
   "gift_purchases": 30,
   "gifted_total": 125,
@@ -65,21 +65,21 @@
    "tier": "加賀美ハヤトのメンバーシップ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 34,
+   "confirmed_members": 33,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2785.0,
-   "estimated_members": 2819.0,
-   "monthly_net_confirmed": 10602,
-   "monthly_net_estimated": 879015
+   "allocated_unknown": 2743.0,
+   "estimated_members": 2776.0,
+   "monthly_net_confirmed": 10290,
+   "monthly_net_estimated": 865607
   }
  ],
  "revenue": {
-  "monthly_low": 879015,
-  "monthly_est": 879015,
+  "monthly_low": 865607,
+  "monthly_est": 865607,
   "gift_once": 38977,
-  "total_low": 917993,
-  "total_est": 917993,
-  "paying_members": 2819,
+  "total_low": 904585,
+  "total_est": 904585,
+  "paying_members": 2776,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "IcB2rmUwgKE",
-   "start": "2026-09-07 22:01",
-   "title": "【Chivalry 2】突如、64人が争うPvPに放り込まれる新兵【加賀美ハヤト視点/イブラヒム/エクス・アルビオ/三枝明那】",
-   "kind": "配信",
-   "chatters": 1352,
-   "member_chatters": 875,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "6R5bsCRzYVQ",
    "start": "2026-09-08 22:31",
@@ -359,13 +349,14 @@
    },
    "avg_member_chatters": 855.2,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:45"
   },
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-07"
+    "to": "2026-10-08"
    },
    "streams_analyzed": 4,
    "streams_missed": 0,

@@ -3,20 +3,20 @@
  "channel_id": "UCqXxS-9x9Ha_UiH6hG4kh5Q",
  "handle": "@HibachiMana",
  "subscribers": 424000,
- "fetched_at": "2026-10-07 10:57",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:47",
+ "generated_at": "2026-10-08 08:47",
  "period": {
-  "from": "2026-09-07 10:57",
-  "to": "2026-10-07 10:57",
+  "from": "2026-09-08 08:47",
+  "to": "2026-10-08 08:47",
   "days": 30
  },
- "streams_analyzed": 27,
+ "streams_analyzed": 26,
  "streams_missed": 2,
- "unique_chatters": 7478,
- "members_confirmed": 1720,
+ "unique_chatters": 7365,
+ "members_confirmed": 1690,
  "member_classes": {
-  "unknown": 1482,
-  "known": 128,
+  "unknown": 1455,
+  "known": 125,
   "gift": 110
  },
  "badges": [
@@ -28,27 +28,27 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 74
+   "members": 71
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 288
+   "members": 283
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 289
+   "members": 284
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 524
+   "members": 512
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 206
+   "members": 201
   },
   {
    "months": 36,
@@ -57,9 +57,9 @@
   }
  ],
  "events": {
-  "new_members": 41,
-  "rejoins": 23,
-  "milestones": 69,
+  "new_members": 40,
+  "rejoins": 22,
+  "milestones": 65,
   "gift_purchases": 9,
   "gifted_total": 110,
   "gift_redemptions": 110
@@ -70,21 +70,21 @@
    "tier": "第マナ世代",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 128,
+   "confirmed_members": 125,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1482.0,
-   "estimated_members": 1610.0,
-   "monthly_net_confirmed": 39913,
-   "monthly_net_estimated": 502027
+   "allocated_unknown": 1455.0,
+   "estimated_members": 1580.0,
+   "monthly_net_confirmed": 38977,
+   "monthly_net_estimated": 492673
   }
  ],
  "revenue": {
-  "monthly_low": 502027,
-  "monthly_est": 502027,
+  "monthly_low": 492673,
+  "monthly_est": 492673,
   "gift_once": 34300,
-  "total_low": 536327,
-  "total_est": 536327,
-  "paying_members": 1610,
+  "total_low": 526973,
+  "total_est": 526973,
+  "paying_members": 1580,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "f9uoMTC6g5w",
-   "start": "2026-09-07 22:06",
-   "title": "【BOMBANANA!】3人で役割分担して爆弾を解除するゲームが面白そう💣【にじさんじ / 緋八マナ・伊波ライ・星導ショウ】",
-   "kind": "配信",
-   "chatters": 716,
-   "member_chatters": 417,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "2XMfZM74UVY",
    "start": "2026-09-09 23:01",
@@ -374,7 +364,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 630,
+   "like_count": 631,
    "view_count": null
   },
   {
@@ -398,7 +388,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 630,
+   "like_count": 631,
    "view_count": null
   },
   {
@@ -480,13 +470,14 @@
    },
    "avg_member_chatters": 371.2,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:47"
   },
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-07"
+    "to": "2026-10-08"
    },
    "streams_analyzed": 7,
    "streams_missed": 0,

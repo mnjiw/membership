@@ -3,27 +3,27 @@
  "channel_id": "UCHVXbQzkl3rDfsXWo8xi2qw",
  "handle": "@AngeKatrina",
  "subscribers": 1040000,
- "fetched_at": "2026-10-07 08:07",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:44",
+ "generated_at": "2026-10-08 08:44",
  "period": {
-  "from": "2026-09-07 08:07",
-  "to": "2026-10-07 08:07",
+  "from": "2026-09-08 08:44",
+  "to": "2026-10-08 08:44",
   "days": 30
  },
- "streams_analyzed": 14,
+ "streams_analyzed": 13,
  "streams_missed": 1,
- "unique_chatters": 10463,
- "members_confirmed": 1381,
+ "unique_chatters": 10386,
+ "members_confirmed": 1374,
  "member_classes": {
-  "known": 188,
-  "unknown": 1054,
+  "known": 187,
+  "unknown": 1048,
   "gift": 139
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 195
+   "members": 194
   },
   {
    "months": 1,
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 73
+   "members": 72
   },
   {
    "months": 6,
@@ -43,17 +43,17 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 140
+   "members": 139
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 873
+   "members": 869
   }
  ],
  "events": {
-  "new_members": 16,
-  "rejoins": 9,
+  "new_members": 15,
+  "rejoins": 7,
   "milestones": 165,
   "gift_purchases": 16,
   "gifted_total": 140,
@@ -65,21 +65,21 @@
    "tier": "アンちゃん大好き倶楽部(仮)",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 188,
+   "confirmed_members": 187,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1054.0,
-   "estimated_members": 1242.0,
-   "monthly_net_confirmed": 58622,
-   "monthly_net_estimated": 387278
+   "allocated_unknown": 1048.0,
+   "estimated_members": 1235.0,
+   "monthly_net_confirmed": 58310,
+   "monthly_net_estimated": 385095
   }
  ],
  "revenue": {
-  "monthly_low": 387278,
-  "monthly_est": 387278,
+  "monthly_low": 385095,
+  "monthly_est": 385095,
   "gift_once": 43655,
-  "total_low": 430933,
-  "total_est": 430933,
-  "paying_members": 1242,
+  "total_low": 428750,
+  "total_est": 428750,
+  "paying_members": 1235,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "Xmq6yu-YCP0",
-   "start": "2026-09-07 22:01",
-   "title": "見ざる･言わざる･聞かざる状態で縛り爆弾処理💣️【BOMBANANA!│にじさんじ/アンジュ視点/葉山舞鈴/ニュイ・ソシエール】",
-   "kind": "配信",
-   "chatters": 371,
-   "member_chatters": 164,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "fbCUMbtYrCw",
    "start": "2026-09-08 21:01",
@@ -319,13 +309,14 @@
    },
    "avg_member_chatters": 322.4,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:44"
   },
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-07"
+    "to": "2026-10-08"
    },
    "streams_analyzed": 1,
    "streams_missed": 0,

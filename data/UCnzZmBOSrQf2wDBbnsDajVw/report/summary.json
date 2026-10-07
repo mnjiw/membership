@@ -3,27 +3,27 @@
  "channel_id": "UCnzZmBOSrQf2wDBbnsDajVw",
  "handle": "@OhJiyu",
  "subscribers": 60500,
- "fetched_at": "2026-10-07 10:24",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:46",
+ "generated_at": "2026-10-08 08:46",
  "period": {
-  "from": "2026-09-07 10:24",
-  "to": "2026-10-07 10:24",
+  "from": "2026-09-08 08:46",
+  "to": "2026-10-08 08:46",
   "days": 30
  },
- "streams_analyzed": 13,
+ "streams_analyzed": 12,
  "streams_missed": 1,
- "unique_chatters": 83,
- "members_confirmed": 34,
+ "unique_chatters": 77,
+ "members_confirmed": 31,
  "member_classes": {
-  "unknown": 17,
-  "gift": 15,
-  "known": 2
+  "unknown": 15,
+  "known": 2,
+  "gift": 14
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 16
+   "members": 14
   },
   {
    "months": 2,
@@ -38,7 +38,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 4
+   "members": 3
   },
   {
    "months": 24,
@@ -50,9 +50,9 @@
   "new_members": 0,
   "rejoins": 1,
   "milestones": 1,
-  "gift_purchases": 7,
-  "gifted_total": 15,
-  "gift_redemptions": 15
+  "gift_purchases": 6,
+  "gifted_total": 14,
+  "gift_redemptions": 14
  },
  "tiers_configured": true,
  "tiers": [
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 2,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 17.0,
-   "estimated_members": 19.0,
+   "allocated_unknown": 15.0,
+   "estimated_members": 17.0,
    "monthly_net_confirmed": 624,
-   "monthly_net_estimated": 5925
+   "monthly_net_estimated": 5301
   }
  ],
  "revenue": {
-  "monthly_low": 5925,
-  "monthly_est": 5925,
-  "gift_once": 4677,
-  "total_low": 10602,
-  "total_est": 10602,
-  "paying_members": 19,
+  "monthly_low": 5301,
+  "monthly_est": 5301,
+  "gift_once": 4365,
+  "total_low": 9666,
+  "total_est": 9666,
+  "paying_members": 17,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "sHzJgdg4lZI",
-   "start": "2026-09-07 22:03",
-   "title": "【고요한 시골 정원 이야기】11. 돈!!! 돈을 벌자【스포일러 주의!!!】",
-   "kind": "配信",
-   "chatters": 17,
-   "member_chatters": 8,
-   "new_members": 0,
-   "gifted_total": 1
-  },
   {
    "video_id": "gGmC_tOlZa0",
    "start": "2026-09-08 16:01",
@@ -300,7 +290,8 @@
    },
    "avg_member_chatters": 7.2,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:46"
   }
  ],
  "no_streams": false,

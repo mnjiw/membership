@@ -3,27 +3,27 @@
  "channel_id": "UChKXd7oqD18qiIYBoRIHTlw",
  "handle": "@MelocoKyoran",
  "subscribers": 728000,
- "fetched_at": "2026-10-07 13:21",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:49",
+ "generated_at": "2026-10-08 08:49",
  "period": {
-  "from": "2026-09-07 13:21",
-  "to": "2026-10-07 13:21",
+  "from": "2026-09-08 08:49",
+  "to": "2026-10-08 08:49",
   "days": 30
  },
- "streams_analyzed": 17,
+ "streams_analyzed": 16,
  "streams_missed": 3,
- "unique_chatters": 4751,
- "members_confirmed": 556,
+ "unique_chatters": 4665,
+ "members_confirmed": 550,
  "member_classes": {
-  "known": 48,
-  "unknown": 433,
+  "unknown": 429,
+  "known": 46,
   "gift": 75
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 114
+   "members": 113
   },
   {
    "months": 1,
@@ -33,17 +33,17 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 60
+   "members": 59
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 183
+   "members": 181
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 106
+   "members": 104
   },
   {
    "months": 24,
@@ -52,9 +52,9 @@
   }
  ],
  "events": {
-  "new_members": 18,
-  "rejoins": 6,
-  "milestones": 26,
+  "new_members": 16,
+  "rejoins": 5,
+  "milestones": 22,
   "gift_purchases": 9,
   "gifted_total": 74,
   "gift_redemptions": 75
@@ -65,21 +65,21 @@
    "tier": "Meloveship",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 48,
+   "confirmed_members": 46,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 433.0,
-   "estimated_members": 481.0,
-   "monthly_net_confirmed": 14967,
-   "monthly_net_estimated": 149985
+   "allocated_unknown": 429.0,
+   "estimated_members": 475.0,
+   "monthly_net_confirmed": 14344,
+   "monthly_net_estimated": 148114
   }
  ],
  "revenue": {
-  "monthly_low": 149985,
-  "monthly_est": 149985,
+  "monthly_low": 148114,
+  "monthly_est": 148114,
   "gift_once": 23075,
-  "total_low": 173059,
-  "total_est": 173059,
-  "paying_members": 481,
+  "total_low": 171188,
+  "total_est": 171188,
+  "paying_members": 475,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "bS8w7KD41KE",
-   "start": "2026-09-07 23:51",
-   "title": "【龍が如く7￤Like a Dragon】IKZ 第10章恩威並行を忘れずから【NIJISANJI EN￤Meloco Kyoran】",
-   "kind": "配信",
-   "chatters": 536,
-   "member_chatters": 89,
-   "new_members": 2,
-   "gifted_total": 0
-  },
   {
    "video_id": "7wGbQoD9Ie8",
    "start": "2026-09-09 06:51",
@@ -281,7 +271,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 194,
+   "like_count": 195,
    "view_count": null
   },
   {
@@ -315,7 +305,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 194,
+   "like_count": 195,
    "view_count": null
   },
   {
@@ -393,13 +383,14 @@
    },
    "avg_member_chatters": 121.4,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:49"
   },
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-07"
+    "to": "2026-10-08"
    },
    "streams_analyzed": 5,
    "streams_missed": 1,

@@ -3,15 +3,15 @@
  "channel_id": "UCHX7YpFG8rVwhsHCx34xt7w",
  "handle": "@YukishiroMahiro",
  "subscribers": 213000,
- "fetched_at": "2026-10-07 08:18",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:44",
+ "generated_at": "2026-10-08 08:44",
  "period": {
-  "from": "2026-09-07 08:18",
-  "to": "2026-10-07 08:18",
+  "from": "2026-09-08 08:44",
+  "to": "2026-10-08 08:44",
   "days": 30
  },
  "streams_analyzed": 16,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 1099,
  "members_confirmed": 258,
  "member_classes": {
@@ -271,8 +271,32 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
- "members_only_content": [],
+ "missed_streams": [
+  {
+   "video_id": "Rn9d97CGaKA",
+   "start": "2026-10-07 20:31",
+   "title": "【member】だらだら色々ここだけの話～！【2026/10/07】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "まひとも",
+   "like_count": null,
+   "view_count": null
+  }
+ ],
+ "members_only_content": [
+  {
+   "video_id": "Rn9d97CGaKA",
+   "start": "2026-10-07 20:31",
+   "title": "【member】だらだら色々ここだけの話～！【2026/10/07】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "まひとも",
+   "like_count": null,
+   "view_count": null
+  }
+ ],
  "history": [
   {
    "month": "2026-09",
@@ -349,16 +373,17 @@
    },
    "avg_member_chatters": 73.3,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:44"
   },
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-07"
+    "to": "2026-10-08"
    },
    "streams_analyzed": 1,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 46,
    "members_confirmed": 28,
    "member_classes": {

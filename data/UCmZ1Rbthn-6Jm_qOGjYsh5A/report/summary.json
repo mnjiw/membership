@@ -3,21 +3,21 @@
  "channel_id": "UCmZ1Rbthn-6Jm_qOGjYsh5A",
  "handle": "@Ibrahim",
  "subscribers": 924000,
- "fetched_at": "2026-10-07 09:13",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:45",
+ "generated_at": "2026-10-08 08:45",
  "period": {
-  "from": "2026-09-07 09:13",
-  "to": "2026-10-07 09:13",
+  "from": "2026-09-08 08:45",
+  "to": "2026-10-08 08:45",
   "days": 30
  },
- "streams_analyzed": 23,
+ "streams_analyzed": 22,
  "streams_missed": 0,
- "unique_chatters": 7211,
- "members_confirmed": 1340,
+ "unique_chatters": 7121,
+ "members_confirmed": 1329,
  "member_classes": {
-  "unknown": 1160,
-  "gift": 96,
-  "known": 84
+  "unknown": 1149,
+  "known": 84,
+  "gift": 96
  },
  "badges": [
   {
@@ -28,12 +28,12 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 23
+   "members": 21
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 89
+   "members": 88
   },
   {
    "months": 6,
@@ -43,12 +43,12 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 154
+   "members": 152
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 898
+   "members": 892
   }
  ],
  "events": {
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 84,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1160.0,
-   "estimated_members": 1244.0,
+   "allocated_unknown": 1149.0,
+   "estimated_members": 1233.0,
    "monthly_net_confirmed": 26193,
-   "monthly_net_estimated": 387902
+   "monthly_net_estimated": 384472
   }
  ],
  "revenue": {
-  "monthly_low": 387902,
-  "monthly_est": 387902,
+  "monthly_low": 384472,
+  "monthly_est": 384472,
   "gift_once": 31494,
-  "total_low": 419395,
-  "total_est": 419395,
-  "paying_members": 1244,
+  "total_low": 415965,
+  "total_est": 415965,
+  "paying_members": 1233,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "_858DBKk2X8",
-   "start": "2026-09-07 22:01",
-   "title": "【chivalry2】ちゃいばらい界隈withABO,AKINA,KAGAMI【にじさんじ/イブラヒム】",
-   "kind": "配信",
-   "chatters": 623,
-   "member_chatters": 339,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "8Gf34F_m6b0",
    "start": "2026-09-08 21:21",
@@ -385,13 +375,14 @@
    },
    "avg_member_chatters": 385.7,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:45"
   },
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-07"
+    "to": "2026-10-08"
    },
    "streams_analyzed": 5,
    "streams_missed": 0,

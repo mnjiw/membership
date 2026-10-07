@@ -3,19 +3,19 @@
  "channel_id": "UCa1HO5wU6csVDePt9EPYqmA",
  "handle": "@PomeloPunch",
  "subscribers": 80400,
- "fetched_at": "2026-10-07 12:55",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:48",
+ "generated_at": "2026-10-08 08:48",
  "period": {
-  "from": "2026-09-07 12:55",
-  "to": "2026-10-07 12:55",
+  "from": "2026-09-08 08:48",
+  "to": "2026-10-08 08:48",
   "days": 30
  },
- "streams_analyzed": 20,
+ "streams_analyzed": 19,
  "streams_missed": 1,
- "unique_chatters": 2065,
- "members_confirmed": 218,
+ "unique_chatters": 2020,
+ "members_confirmed": 217,
  "member_classes": {
-  "unknown": 158,
+  "unknown": 157,
   "known": 46,
   "gift": 14
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 105
+   "members": 104
   },
   {
    "months": 1,
@@ -32,7 +32,7 @@
   }
  ],
  "events": {
-  "new_members": 23,
+  "new_members": 21,
   "rejoins": 0,
   "milestones": 25,
   "gift_purchases": 6,
@@ -47,19 +47,19 @@
    "net_per_member": 439.1,
    "confirmed_members": 46,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 158.0,
-   "estimated_members": 204.0,
+   "allocated_unknown": 157.0,
+   "estimated_members": 203.0,
    "monthly_net_confirmed": 20198,
-   "monthly_net_estimated": 89575
+   "monthly_net_estimated": 89135
   }
  ],
  "revenue": {
-  "monthly_low": 89575,
-  "monthly_est": 89575,
+  "monthly_low": 89135,
+  "monthly_est": 89135,
   "gift_once": 6147,
-  "total_low": 95722,
-  "total_est": 95722,
-  "paying_members": 204,
+  "total_low": 95283,
+  "total_est": 95283,
+  "paying_members": 203,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -68,16 +68,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "SnRHLdtXNCg",
-   "start": "2026-09-07 17:02",
-   "title": "【完全初見】＃10  ラッキーとの戦い【ポケットモンスター ファイアレッド】【ぽめろ・ぱんち / にじさんじ】",
-   "kind": "配信",
-   "chatters": 219,
-   "member_chatters": 59,
-   "new_members": 2,
-   "gifted_total": 0
-  },
   {
    "video_id": "mCP9Co6QqM0",
    "start": "2026-09-08 17:01",
@@ -343,13 +333,14 @@
    },
    "avg_member_chatters": 58.2,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:48"
   },
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-07"
+    "to": "2026-10-08"
    },
    "streams_analyzed": 1,
    "streams_missed": 0,

@@ -3,19 +3,19 @@
  "channel_id": "UCRqBKoKuX30ruKAq05pCeRQ",
  "handle": "@KitakojiHisui",
  "subscribers": 332000,
- "fetched_at": "2026-10-07 09:36",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:45",
+ "generated_at": "2026-10-08 08:46",
  "period": {
-  "from": "2026-09-07 09:36",
-  "to": "2026-10-07 09:36",
+  "from": "2026-09-08 08:45",
+  "to": "2026-10-08 08:45",
   "days": 30
  },
- "streams_analyzed": 12,
+ "streams_analyzed": 11,
  "streams_missed": 1,
- "unique_chatters": 499,
- "members_confirmed": 129,
+ "unique_chatters": 493,
+ "members_confirmed": 127,
  "member_classes": {
-  "unknown": 120,
+  "unknown": 118,
   "known": 9
  },
  "badges": [
@@ -37,7 +37,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 98
+   "members": 96
   }
  ],
  "events": {
@@ -56,10 +56,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 7,
    "share_of_confirmed_pct": 77.8,
-   "allocated_unknown": 93.3,
-   "estimated_members": 100.3,
+   "allocated_unknown": 91.8,
+   "estimated_members": 98.8,
    "monthly_net_confirmed": 2183,
-   "monthly_net_estimated": 31286
+   "monthly_net_estimated": 30801
   },
   {
    "tier": "ひみつの部屋のクローゼット🦈",
@@ -67,10 +67,10 @@
    "net_per_member": 2220.9,
    "confirmed_members": 1,
    "share_of_confirmed_pct": 11.1,
-   "allocated_unknown": 13.3,
-   "estimated_members": 14.3,
+   "allocated_unknown": 13.1,
+   "estimated_members": 14.1,
    "monthly_net_confirmed": 2221,
-   "monthly_net_estimated": 31833
+   "monthly_net_estimated": 31339
   },
   {
    "tier": "わたしの部屋❇",
@@ -78,19 +78,19 @@
    "net_per_member": 8909.1,
    "confirmed_members": 1,
    "share_of_confirmed_pct": 11.1,
-   "allocated_unknown": 13.3,
-   "estimated_members": 14.3,
+   "allocated_unknown": 13.1,
+   "estimated_members": 14.1,
    "monthly_net_confirmed": 8909,
-   "monthly_net_estimated": 127697
+   "monthly_net_estimated": 125717
   }
  ],
  "revenue": {
-  "monthly_low": 50731,
-  "monthly_est": 190816,
+  "monthly_low": 50107,
+  "monthly_est": 187857,
   "gift_once": 0,
-  "total_low": 50731,
-  "total_est": 190816,
-  "paying_members": 129,
+  "total_low": 50107,
+  "total_est": 187857,
+  "paying_members": 127,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -99,16 +99,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "NeldG7I3pqA",
-   "start": "2026-09-07 12:30",
-   "title": "【God Field】負けたら即終了 ゴッドフィールド7回目【北小路ヒスイ/にじさんじ】",
-   "kind": "配信",
-   "chatters": 29,
-   "member_chatters": 20,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "YZNY7p5ucSM",
    "start": "2026-09-08 10:21",
@@ -313,13 +303,14 @@
    },
    "avg_member_chatters": 31.5,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:46"
   },
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-07"
+    "to": "2026-10-08"
    },
    "streams_analyzed": 1,
    "streams_missed": 1,

@@ -3,27 +3,26 @@
  "channel_id": "UCiJ_Um3KbfF19NzkDYLzZVQ",
  "handle": "@Kisara_nijisanji",
  "subscribers": 225000,
- "fetched_at": "2026-10-07 11:44",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:47",
+ "generated_at": "2026-10-08 08:47",
  "period": {
-  "from": "2026-09-07 11:44",
-  "to": "2026-10-07 11:44",
+  "from": "2026-09-08 08:47",
+  "to": "2026-10-08 08:47",
   "days": 30
  },
- "streams_analyzed": 15,
+ "streams_analyzed": 14,
  "streams_missed": 2,
- "unique_chatters": 2713,
- "members_confirmed": 431,
+ "unique_chatters": 2348,
+ "members_confirmed": 415,
  "member_classes": {
-  "unknown": 367,
-  "known": 63,
-  "gift": 1
+  "unknown": 353,
+  "known": 62
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 59
+   "members": 56
   },
   {
    "months": 1,
@@ -33,17 +32,17 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 64
+   "members": 63
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 81
+   "members": 78
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 119
+   "members": 110
   },
   {
    "months": 24,
@@ -53,11 +52,11 @@
  ],
  "events": {
   "new_members": 27,
-  "rejoins": 8,
+  "rejoins": 7,
   "milestones": 30,
-  "gift_purchases": 1,
-  "gifted_total": 1,
-  "gift_redemptions": 1
+  "gift_purchases": 0,
+  "gifted_total": 0,
+  "gift_redemptions": 0
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +64,21 @@
    "tier": "うちの常連さん",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 63,
+   "confirmed_members": 62,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 367.0,
-   "estimated_members": 430.0,
-   "monthly_net_confirmed": 19645,
-   "monthly_net_estimated": 134082
+   "allocated_unknown": 353.0,
+   "estimated_members": 415.0,
+   "monthly_net_confirmed": 19333,
+   "monthly_net_estimated": 129405
   }
  ],
  "revenue": {
-  "monthly_low": 134082,
-  "monthly_est": 134082,
-  "gift_once": 312,
-  "total_low": 134394,
-  "total_est": 134394,
-  "paying_members": 430,
+  "monthly_low": 129405,
+  "monthly_est": 129405,
+  "gift_once": 0,
+  "total_low": 129405,
+  "total_est": 129405,
+  "paying_members": 415,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +87,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "a2-oCEEFPl8",
-   "start": "2026-09-07 18:59",
-   "title": "【歌枠】ついに！仲良し３人組のカラオケ歌枠💞【綺沙良/倉持めると/早乙女ベリー/にじさんじ】",
-   "kind": "配信",
-   "chatters": 577,
-   "member_chatters": 107,
-   "new_members": 0,
-   "gifted_total": 1
-  },
   {
    "video_id": "Fg9Z980h8Vw",
    "start": "2026-09-08 22:32",
@@ -351,13 +340,14 @@
    },
    "avg_member_chatters": 118.4,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:47"
   },
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-07"
+    "to": "2026-10-08"
    },
    "streams_analyzed": 5,
    "streams_missed": 1,

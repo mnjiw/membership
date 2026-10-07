@@ -3,57 +3,57 @@
  "channel_id": "UCz89MGFBrAqwJ5xMr5weSuA",
  "handle": "@InamiRai",
  "subscribers": 419000,
- "fetched_at": "2026-10-07 11:11",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:47",
+ "generated_at": "2026-10-08 08:47",
  "period": {
-  "from": "2026-09-07 11:11",
-  "to": "2026-10-07 11:11",
+  "from": "2026-09-08 08:47",
+  "to": "2026-10-08 08:47",
   "days": 30
  },
- "streams_analyzed": 8,
+ "streams_analyzed": 7,
  "streams_missed": 0,
- "unique_chatters": 3573,
- "members_confirmed": 1738,
+ "unique_chatters": 3346,
+ "members_confirmed": 1665,
  "member_classes": {
-  "unknown": 1602,
-  "known": 136
+  "unknown": 1532,
+  "known": 133
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 72
+   "members": 67
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 59
+   "members": 57
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 292
+   "members": 281
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 336
+   "members": 322
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 642
+   "members": 618
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 337
+   "members": 320
   }
  ],
  "events": {
   "new_members": 19,
-  "rejoins": 7,
-  "milestones": 114,
+  "rejoins": 4,
+  "milestones": 112,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -64,21 +64,21 @@
    "tier": "伊波すたじお",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 136,
+   "confirmed_members": 133,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1602.0,
-   "estimated_members": 1738.0,
-   "monthly_net_confirmed": 42407,
-   "monthly_net_estimated": 541940
+   "allocated_unknown": 1532.0,
+   "estimated_members": 1665.0,
+   "monthly_net_confirmed": 41472,
+   "monthly_net_estimated": 519177
   }
  ],
  "revenue": {
-  "monthly_low": 541940,
-  "monthly_est": 541940,
+  "monthly_low": 519177,
+  "monthly_est": 519177,
   "gift_once": 0,
-  "total_low": 541940,
-  "total_est": 541940,
-  "paying_members": 1738,
+  "total_low": 519177,
+  "total_est": 519177,
+  "paying_members": 1665,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -87,16 +87,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "m-VPI_1r6sM",
-   "start": "2026-09-07 22:04",
-   "title": "【 BOMBANANA! 】今宵三匹の天才猿が爆誕 w / 星導さん, 緋八さん【 伊波ライ / にじさんじ 】",
-   "kind": "配信",
-   "chatters": 1066,
-   "member_chatters": 751,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "CxRTUpBRHrY",
    "start": "2026-09-09 22:00",
@@ -233,13 +223,14 @@
    },
    "avg_member_chatters": 707.7,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:47"
   },
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-07"
+    "to": "2026-10-08"
    },
    "streams_analyzed": 1,
    "streams_missed": 0,

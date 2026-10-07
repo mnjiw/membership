@@ -3,19 +3,19 @@
  "channel_id": "UCe22Bcwd_GCpTjLxn83zl7A",
  "handle": "@PontoNei",
  "subscribers": 319000,
- "fetched_at": "2026-10-07 09:51",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:46",
+ "generated_at": "2026-10-08 08:46",
  "period": {
-  "from": "2026-09-07 09:51",
-  "to": "2026-10-07 09:51",
+  "from": "2026-09-08 08:46",
+  "to": "2026-10-08 08:46",
   "days": 30
  },
- "streams_analyzed": 17,
+ "streams_analyzed": 16,
  "streams_missed": 3,
- "unique_chatters": 2449,
- "members_confirmed": 176,
+ "unique_chatters": 2392,
+ "members_confirmed": 171,
  "member_classes": {
-  "unknown": 166,
+  "unknown": 161,
   "known": 10
  },
  "badges": [
@@ -42,7 +42,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 123
+   "members": 118
   }
  ],
  "events": {
@@ -61,19 +61,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 10,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 166.0,
-   "estimated_members": 176.0,
+   "allocated_unknown": 161.0,
+   "estimated_members": 171.0,
    "monthly_net_confirmed": 3118,
-   "monthly_net_estimated": 54880
+   "monthly_net_estimated": 53321
   }
  ],
  "revenue": {
-  "monthly_low": 54880,
-  "monthly_est": 54880,
+  "monthly_low": 53321,
+  "monthly_est": 53321,
   "gift_once": 0,
-  "total_low": 54880,
-  "total_est": 54880,
-  "paying_members": 176,
+  "total_low": 53321,
+  "total_est": 53321,
+  "paying_members": 171,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -82,16 +82,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "9Tv6XFCPivs",
-   "start": "2026-09-07 22:01",
-   "title": "【魔法少女ノ魔女裁判│06】第3話：三度目の裁判 魔女は許さない、絶対に ※ネタバレ注意【先斗寧/にじさんじ】",
-   "kind": "配信",
-   "chatters": 443,
-   "member_chatters": 69,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "xPa1Qw5_KIM",
    "start": "2026-09-10 22:00",
@@ -287,7 +277,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "バックヤード",
-   "like_count": 73,
+   "like_count": 74,
    "view_count": null
   }
  ],
@@ -319,7 +309,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "バックヤード",
-   "like_count": 73,
+   "like_count": 74,
    "view_count": null
   }
  ],
@@ -382,13 +372,14 @@
    },
    "avg_member_chatters": 72,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:46"
   },
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-07"
+    "to": "2026-10-08"
    },
    "streams_analyzed": 4,
    "streams_missed": 1,

@@ -3,52 +3,52 @@
  "channel_id": "UCUP8TmlO7NNra88AMqGU_vQ",
  "handle": "@KoshimizuToru",
  "subscribers": 393000,
- "fetched_at": "2026-10-07 10:26",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:46",
+ "generated_at": "2026-10-08 08:46",
  "period": {
-  "from": "2026-09-07 10:26",
-  "to": "2026-10-07 10:26",
+  "from": "2026-09-08 08:46",
+  "to": "2026-10-08 08:46",
   "days": 30
  },
- "streams_analyzed": 17,
+ "streams_analyzed": 16,
  "streams_missed": 0,
- "unique_chatters": 4568,
- "members_confirmed": 541,
+ "unique_chatters": 4493,
+ "members_confirmed": 532,
  "member_classes": {
-  "unknown": 508,
-  "known": 28,
+  "unknown": 501,
+  "known": 26,
   "gift": 5
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 32
+   "members": 30
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 7
+   "members": 6
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 57
+   "members": 56
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 63
+   "members": 61
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 131
+   "members": 130
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 80
+   "members": 78
   },
   {
    "months": 36,
@@ -57,7 +57,7 @@
   }
  ],
  "events": {
-  "new_members": 19,
+  "new_members": 17,
   "rejoins": 9,
   "milestones": 0,
   "gift_purchases": 1,
@@ -70,21 +70,21 @@
    "tier": "ばぶめいと",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 28,
+   "confirmed_members": 26,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 508.0,
-   "estimated_members": 536.0,
-   "monthly_net_confirmed": 8731,
-   "monthly_net_estimated": 167135
+   "allocated_unknown": 501.0,
+   "estimated_members": 527.0,
+   "monthly_net_confirmed": 8107,
+   "monthly_net_estimated": 164328
   }
  ],
  "revenue": {
-  "monthly_low": 167135,
-  "monthly_est": 167135,
+  "monthly_low": 164328,
+  "monthly_est": 164328,
   "gift_once": 1559,
-  "total_low": 168694,
-  "total_est": 168694,
-  "paying_members": 536,
+  "total_low": 165887,
+  "total_est": 165887,
+  "paying_members": 527,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "j81nSTGeeOw",
-   "start": "2026-09-08 00:31",
-   "title": "#10【 ゼルダの伝説 ティアーズ オブ ザ キングダム 】完全初見プレイ！オルディンに行く。🌋【小清水 透 / にじさんじ】",
-   "kind": "配信",
-   "chatters": 379,
-   "member_chatters": 136,
-   "new_members": 2,
-   "gifted_total": 0
-  },
   {
    "video_id": "iwhhsBMAIZQ",
    "start": "2026-09-09 00:03",
@@ -334,13 +324,14 @@
    },
    "avg_member_chatters": 163.9,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:46"
   },
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-07"
+    "to": "2026-10-08"
    },
    "streams_analyzed": 5,
    "streams_missed": 0,

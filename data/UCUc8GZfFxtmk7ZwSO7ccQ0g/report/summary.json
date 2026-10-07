@@ -3,19 +3,19 @@
  "channel_id": "UCUc8GZfFxtmk7ZwSO7ccQ0g",
  "handle": "@NuiSociere",
  "subscribers": 708000,
- "fetched_at": "2026-10-07 08:27",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:44",
+ "generated_at": "2026-10-08 08:44",
  "period": {
-  "from": "2026-09-07 08:27",
-  "to": "2026-10-07 08:27",
+  "from": "2026-09-08 08:44",
+  "to": "2026-10-08 08:44",
   "days": 30
  },
- "streams_analyzed": 17,
+ "streams_analyzed": 16,
  "streams_missed": 0,
- "unique_chatters": 5148,
- "members_confirmed": 847,
+ "unique_chatters": 5032,
+ "members_confirmed": 819,
  "member_classes": {
-  "unknown": 834,
+  "unknown": 806,
   "known": 12,
   "gift": 1
  },
@@ -33,22 +33,22 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 28
+   "members": 26
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 34
+   "members": 33
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 71
+   "members": 68
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 701
+   "members": 679
   }
  ],
  "events": {
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 12,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 834.0,
-   "estimated_members": 846.0,
+   "allocated_unknown": 806.0,
+   "estimated_members": 818.0,
    "monthly_net_confirmed": 3742,
-   "monthly_net_estimated": 263798
+   "monthly_net_estimated": 255067
   }
  ],
  "revenue": {
-  "monthly_low": 263798,
-  "monthly_est": 263798,
+  "monthly_low": 255067,
+  "monthly_est": 255067,
   "gift_once": 312,
-  "total_low": 264110,
-  "total_est": 264110,
-  "paying_members": 846,
+  "total_low": 255379,
+  "total_est": 255379,
+  "paying_members": 818,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "ss4higmc1IE",
-   "start": "2026-09-07 22:01",
-   "title": "【BOMBANANA!】見猿、聞か猿、言わ猿になって爆弾解除💣  #マジョマリーナ 【ニュイ・ソシエール視点  / アンジュ・カトリーナ / 葉山舞鈴 /にじさんじ】",
-   "kind": "配信",
-   "chatters": 315,
-   "member_chatters": 163,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "S4xTAP4yfIQ",
    "start": "2026-09-09 12:02",
@@ -325,13 +315,14 @@
    },
    "avg_member_chatters": 203.5,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:44"
   },
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-07"
+    "to": "2026-10-08"
    },
    "streams_analyzed": 6,
    "streams_missed": 0,

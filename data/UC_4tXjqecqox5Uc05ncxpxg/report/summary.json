@@ -3,20 +3,20 @@
  "channel_id": "UC_4tXjqecqox5Uc05ncxpxg",
  "handle": "@ShiinaYuika",
  "subscribers": 913000,
- "fetched_at": "2026-10-07 06:53",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:43",
+ "generated_at": "2026-10-08 08:43",
  "period": {
-  "from": "2026-09-07 06:53",
-  "to": "2026-10-07 06:53",
+  "from": "2026-09-08 08:43",
+  "to": "2026-10-08 08:43",
   "days": 30
  },
- "streams_analyzed": 18,
+ "streams_analyzed": 17,
  "streams_missed": 3,
- "unique_chatters": 5415,
- "members_confirmed": 830,
+ "unique_chatters": 5339,
+ "members_confirmed": 815,
  "member_classes": {
-  "unknown": 735,
-  "known": 20,
+  "unknown": 721,
+  "known": 19,
   "gift": 75
  },
  "badges": [
@@ -28,7 +28,7 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 10
+   "members": 8
   },
   {
    "months": 2,
@@ -38,7 +38,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 22
+   "members": 21
   },
   {
    "months": 12,
@@ -53,22 +53,22 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 90
+   "members": 89
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 74
+   "members": 69
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 334
+   "members": 328
   }
  ],
  "events": {
   "new_members": 4,
-  "rejoins": 5,
+  "rejoins": 4,
   "milestones": 11,
   "gift_purchases": 15,
   "gifted_total": 75,
@@ -80,21 +80,21 @@
    "tier": "ゴリスナー",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 20,
+   "confirmed_members": 19,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 735.0,
-   "estimated_members": 755.0,
-   "monthly_net_confirmed": 6236,
-   "monthly_net_estimated": 235423
+   "allocated_unknown": 721.0,
+   "estimated_members": 740.0,
+   "monthly_net_confirmed": 5925,
+   "monthly_net_estimated": 230745
   }
  ],
  "revenue": {
-  "monthly_low": 235423,
-  "monthly_est": 235423,
+  "monthly_low": 230745,
+  "monthly_est": 230745,
   "gift_once": 23386,
-  "total_low": 258809,
-  "total_est": 258809,
-  "paying_members": 755,
+  "total_low": 254132,
+  "total_est": 254132,
+  "paying_members": 740,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -103,16 +103,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "JMf9B7j37Oo",
-   "start": "2026-09-07 17:35",
-   "title": "【 #サボラス 】DAY1￤チームJ顔合わせ！ぐちつぼさんのRUSTに参加します🌵#SAVOGE RUST : REBIRTH DAY🌵w/りりむデュークさん【 にじさんじ/椎名唯華 】",
-   "kind": "配信",
-   "chatters": 507,
-   "member_chatters": 245,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "_4zHIPNn7Qc",
    "start": "2026-09-08 19:00",
@@ -306,7 +296,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 280,
+   "like_count": 281,
    "view_count": null
   },
   {
@@ -340,7 +330,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 280,
+   "like_count": 281,
    "view_count": null
   },
   {
@@ -430,13 +420,14 @@
    },
    "avg_member_chatters": 221.3,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:43"
   },
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-07"
+    "to": "2026-10-08"
    },
    "streams_analyzed": 4,
    "streams_missed": 0,

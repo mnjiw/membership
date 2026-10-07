@@ -3,26 +3,26 @@
  "channel_id": "UCXW4MqCQn-jCaxlX-nn-BYg",
  "handle": "@NagaoKei",
  "subscribers": 562000,
- "fetched_at": "2026-10-07 09:19",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:45",
+ "generated_at": "2026-10-08 08:45",
  "period": {
-  "from": "2026-09-07 09:19",
-  "to": "2026-10-07 09:19",
+  "from": "2026-09-08 08:45",
+  "to": "2026-10-08 08:45",
   "days": 30
  },
- "streams_analyzed": 28,
+ "streams_analyzed": 26,
  "streams_missed": 2,
- "unique_chatters": 6393,
- "members_confirmed": 1256,
+ "unique_chatters": 6024,
+ "members_confirmed": 1237,
  "member_classes": {
-  "unknown": 1111,
-  "known": 145
+  "unknown": 1093,
+  "known": 144
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 38
+   "members": 37
   },
   {
    "months": 1,
@@ -32,26 +32,26 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 98
+   "members": 93
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 87
+   "members": 86
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 201
+   "members": 197
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 819
+   "members": 811
   }
  ],
  "events": {
-  "new_members": 12,
+  "new_members": 11,
   "rejoins": 13,
   "milestones": 121,
   "gift_purchases": 0,
@@ -65,42 +65,42 @@
    "price": 140,
    "net_per_member": 89.1,
    "confirmed_members": 7,
-   "share_of_confirmed_pct": 4.8,
-   "allocated_unknown": 53.6,
-   "estimated_members": 60.6,
+   "share_of_confirmed_pct": 4.9,
+   "allocated_unknown": 53.1,
+   "estimated_members": 60.1,
    "monthly_net_confirmed": 624,
-   "monthly_net_estimated": 5402
+   "monthly_net_estimated": 5357
   },
   {
    "tier": "ゆうしきしゃ16GB",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 48,
-   "share_of_confirmed_pct": 33.1,
-   "allocated_unknown": 367.8,
-   "estimated_members": 415.8,
-   "monthly_net_confirmed": 14967,
-   "monthly_net_estimated": 129648
+   "confirmed_members": 47,
+   "share_of_confirmed_pct": 32.6,
+   "allocated_unknown": 356.7,
+   "estimated_members": 403.7,
+   "monthly_net_confirmed": 14655,
+   "monthly_net_estimated": 125894
   },
   {
    "tier": "ゆうしきしゃ32GB",
    "price": 1990,
    "net_per_member": 1266.4,
    "confirmed_members": 90,
-   "share_of_confirmed_pct": 62.1,
-   "allocated_unknown": 689.6,
-   "estimated_members": 779.6,
+   "share_of_confirmed_pct": 62.5,
+   "allocated_unknown": 683.1,
+   "estimated_members": 773.1,
    "monthly_net_confirmed": 113973,
-   "monthly_net_estimated": 987240
+   "monthly_net_estimated": 979057
   }
  ],
  "revenue": {
-  "monthly_low": 228544,
-  "monthly_est": 1122289,
+  "monthly_low": 226628,
+  "monthly_est": 1110309,
   "gift_once": 0,
-  "total_low": 228544,
-  "total_est": 1122289,
-  "paying_members": 1256,
+  "total_low": 226628,
+  "total_est": 1110309,
+  "paying_members": 1237,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -109,26 +109,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "7hR1Q62E0ic",
-   "start": "2026-09-07 12:02",
-   "title": "【雑談】IQ3！？唐揚げ卵焼きチャーハンケーキが作りたい長尾景【長尾景/にじさんじ】【#ながおしゃべり】",
-   "kind": "配信",
-   "chatters": 346,
-   "member_chatters": 215,
-   "new_members": 1,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "FJ8dMykoRng",
-   "start": "2026-09-07 21:08",
-   "title": "第五回 #ミリしらスト6チャレンジ【長尾景/にじさんじ】",
-   "kind": "配信",
-   "chatters": 780,
-   "member_chatters": 329,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "MOQF02Hcd2o",
    "start": "2026-09-09 00:05",
@@ -513,13 +493,14 @@
    },
    "avg_member_chatters": 297.6,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:45"
   },
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-07"
+    "to": "2026-10-08"
    },
    "streams_analyzed": 5,
    "streams_missed": 0,

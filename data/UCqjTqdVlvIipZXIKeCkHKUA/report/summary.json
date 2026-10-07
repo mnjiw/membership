@@ -3,15 +3,15 @@
  "channel_id": "UCqjTqdVlvIipZXIKeCkHKUA",
  "handle": "@OliverEvans",
  "subscribers": 358000,
- "fetched_at": "2026-10-07 09:46",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:46",
+ "generated_at": "2026-10-08 08:46",
  "period": {
-  "from": "2026-09-07 09:46",
-  "to": "2026-10-07 09:46",
+  "from": "2026-09-08 08:46",
+  "to": "2026-10-08 08:46",
   "days": 30
  },
  "streams_analyzed": 16,
- "streams_missed": 1,
+ "streams_missed": 2,
  "unique_chatters": 2112,
  "members_confirmed": 395,
  "member_classes": {
@@ -271,6 +271,18 @@
    "members_level": "ゼミ打ち上げ",
    "like_count": 126,
    "view_count": null
+  },
+  {
+   "video_id": "j6OOVJJhq0c",
+   "start": "2026-10-07 22:33",
+   "title": "【メン限】2026/10/7　ただいまメン限【オリバー・エバンス/にじさんじ】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "ゼミ打ち上げ",
+   "like_count": 142,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -282,6 +294,16 @@
    "status": "members_only",
    "members_level": "ゼミ打ち上げ",
    "like_count": 126,
+   "view_count": null
+  },
+  {
+   "video_id": "j6OOVJJhq0c",
+   "start": "2026-10-07 22:33",
+   "title": "【メン限】2026/10/7　ただいまメン限【オリバー・エバンス/にじさんじ】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "ゼミ打ち上げ",
+   "like_count": 142,
    "view_count": null
   }
  ],
@@ -354,16 +376,17 @@
    },
    "avg_member_chatters": 110.5,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:46"
   },
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-07"
+    "to": "2026-10-08"
    },
    "streams_analyzed": 1,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 304,
    "members_confirmed": 182,
    "member_classes": {

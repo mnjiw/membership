@@ -3,56 +3,56 @@
  "channel_id": "UCdh-YF2gTzqDNu0VU9lwPPw",
  "handle": "@ClaudeClawmark",
  "subscribers": 159000,
- "fetched_at": "2026-10-07 13:31",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:49",
+ "generated_at": "2026-10-08 08:49",
  "period": {
-  "from": "2026-09-07 13:31",
-  "to": "2026-10-07 13:31",
+  "from": "2026-09-08 08:49",
+  "to": "2026-10-08 08:49",
   "days": 30
  },
- "streams_analyzed": 21,
+ "streams_analyzed": 19,
  "streams_missed": 2,
- "unique_chatters": 1658,
- "members_confirmed": 595,
+ "unique_chatters": 1528,
+ "members_confirmed": 565,
  "member_classes": {
-  "unknown": 347,
-  "known": 172,
-  "gift": 76
+  "known": 169,
+  "unknown": 327,
+  "gift": 69
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 97
+   "members": 89
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 83
+   "members": 79
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 98
+   "members": 95
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 149
+   "members": 140
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 168
+   "members": 162
   }
  ],
  "events": {
-  "new_members": 13,
-  "rejoins": 12,
-  "milestones": 171,
-  "gift_purchases": 17,
-  "gifted_total": 76,
-  "gift_redemptions": 76
+  "new_members": 11,
+  "rejoins": 7,
+  "milestones": 159,
+  "gift_purchases": 14,
+  "gifted_total": 69,
+  "gift_redemptions": 69
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,21 +60,21 @@
    "tier": "Outclaws",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 172,
+   "confirmed_members": 169,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 347.0,
-   "estimated_members": 519.0,
-   "monthly_net_confirmed": 75524,
-   "monthly_net_estimated": 227888
+   "allocated_unknown": 327.0,
+   "estimated_members": 496.0,
+   "monthly_net_confirmed": 74206,
+   "monthly_net_estimated": 217789
   }
  ],
  "revenue": {
-  "monthly_low": 227888,
-  "monthly_est": 227888,
-  "gift_once": 33371,
-  "total_low": 261259,
-  "total_est": 261259,
-  "paying_members": 519,
+  "monthly_low": 217789,
+  "monthly_est": 217789,
+  "gift_once": 30297,
+  "total_low": 248086,
+  "total_est": 248086,
+  "paying_members": 496,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,26 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "Nu5iJh11kjo",
-   "start": "2026-09-07 17:55",
-   "title": "【雑談】totally not behind on work",
-   "kind": "配信",
-   "chatters": 265,
-   "member_chatters": 150,
-   "new_members": 1,
-   "gifted_total": 1
-  },
-  {
-   "video_id": "YXtnPlAtrbc",
-   "start": "2026-09-07 21:14",
-   "title": "Load Of Laundry",
-   "kind": "配信",
-   "chatters": 305,
-   "member_chatters": 147,
-   "new_members": 1,
-   "gifted_total": 6
-  },
   {
    "video_id": "9wfdyyqDD3A",
    "start": "2026-09-10 08:29",
@@ -402,13 +382,14 @@
    },
    "avg_member_chatters": 128.6,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:49"
   },
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-07"
+    "to": "2026-10-08"
    },
    "streams_analyzed": 5,
    "streams_missed": 0,

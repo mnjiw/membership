@@ -3,27 +3,27 @@
  "channel_id": "UC1vawzfbCnRpHT9SJ5pHlHw",
  "handle": "@AkagiWen",
  "subscribers": 360000,
- "fetched_at": "2026-10-07 10:44",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:47",
+ "generated_at": "2026-10-08 08:47",
  "period": {
-  "from": "2026-09-07 10:44",
-  "to": "2026-10-07 10:44",
+  "from": "2026-09-08 08:47",
+  "to": "2026-10-08 08:47",
   "days": 30
  },
- "streams_analyzed": 29,
+ "streams_analyzed": 28,
  "streams_missed": 1,
- "unique_chatters": 4351,
- "members_confirmed": 2244,
+ "unique_chatters": 4316,
+ "members_confirmed": 2235,
  "member_classes": {
-  "unknown": 1724,
-  "known": 243,
+  "unknown": 1718,
+  "known": 240,
   "gift": 277
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 327
+   "members": 326
   },
   {
    "months": 1,
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 241
+   "members": 239
   },
   {
    "months": 6,
@@ -43,12 +43,12 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 860
+   "members": 857
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 357
+   "members": 354
   },
   {
    "months": 36,
@@ -57,9 +57,9 @@
   }
  ],
  "events": {
-  "new_members": 24,
-  "rejoins": 16,
-  "milestones": 220,
+  "new_members": 23,
+  "rejoins": 15,
+  "milestones": 218,
   "gift_purchases": 51,
   "gifted_total": 300,
   "gift_redemptions": 278
@@ -70,21 +70,21 @@
    "tier": "うちら永遠のダイエッター",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 243,
+   "confirmed_members": 240,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1724.0,
-   "estimated_members": 1967.0,
-   "monthly_net_confirmed": 75772,
-   "monthly_net_estimated": 613346
+   "allocated_unknown": 1718.0,
+   "estimated_members": 1958.0,
+   "monthly_net_confirmed": 74836,
+   "monthly_net_estimated": 610540
   }
  ],
  "revenue": {
-  "monthly_low": 613346,
-  "monthly_est": 613346,
+  "monthly_low": 610540,
+  "monthly_est": 610540,
   "gift_once": 93545,
-  "total_low": 706892,
-  "total_est": 706892,
-  "paying_members": 1967,
+  "total_low": 704085,
+  "total_est": 704085,
+  "paying_members": 1958,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "vTRDH1oEZiA",
-   "start": "2026-09-07 20:29",
-   "title": "【初心者が見る】「ちいかわ」５〜１０話！同時視聴と理解してみる講座！【赤城ウェン/にじさんじ】",
-   "kind": "配信",
-   "chatters": 438,
-   "member_chatters": 350,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "B5MMIUY6ftA",
    "start": "2026-09-08 23:15",
@@ -394,7 +384,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "うちら永遠のダイエッター",
-   "like_count": 665,
+   "like_count": 666,
    "view_count": null
   }
  ],
@@ -406,7 +396,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "うちら永遠のダイエッター",
-   "like_count": 665,
+   "like_count": 666,
    "view_count": null
   }
  ],
@@ -478,13 +468,14 @@
    },
    "avg_member_chatters": 454.0,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:47"
   },
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-07"
+    "to": "2026-10-08"
    },
    "streams_analyzed": 6,
    "streams_missed": 0,

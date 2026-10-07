@@ -3,11 +3,11 @@
  "channel_id": "UCgA2jKRkqpY_8eysPUs8sjw",
  "handle": "@petragurin",
  "subscribers": 503000,
- "fetched_at": "2026-10-07 13:01",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:48",
+ "generated_at": "2026-10-08 08:49",
  "period": {
-  "from": "2026-09-07 13:01",
-  "to": "2026-10-07 13:01",
+  "from": "2026-09-08 08:48",
+  "to": "2026-10-08 08:48",
   "days": 30
  },
  "streams_analyzed": 2,
@@ -129,7 +129,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 113,
+   "like_count": 114,
    "view_count": null
   }
  ],
@@ -141,7 +141,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 113,
+   "like_count": 114,
    "view_count": null
   }
  ],
@@ -217,7 +217,8 @@
    },
    "avg_member_chatters": 97,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:49"
   }
  ],
  "no_streams": false,

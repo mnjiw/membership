@@ -3,16 +3,16 @@
  "channel_id": "UCeK9HFcRZoTrvqcUCtccMoQ",
  "handle": "@ShibuyaHajime",
  "subscribers": 161000,
- "fetched_at": "2026-10-07 06:51",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:43",
+ "generated_at": "2026-10-08 08:43",
  "period": {
-  "from": "2026-09-07 06:51",
-  "to": "2026-10-07 06:51",
+  "from": "2026-09-08 08:43",
+  "to": "2026-10-08 08:43",
   "days": 30
  },
- "streams_analyzed": 24,
+ "streams_analyzed": 23,
  "streams_missed": 0,
- "unique_chatters": 271,
+ "unique_chatters": 234,
  "members_confirmed": 58,
  "member_classes": {
   "unknown": 58
@@ -86,16 +86,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "yAK-ZEDSlPc",
-   "start": "2026-09-08 00:03",
-   "title": "【遊戯王マスターデュエル】サイバー流でランクマ回してみよう【にじさんじ/渋谷ハジメ】",
-   "kind": "配信",
-   "chatters": 66,
-   "member_chatters": 14,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "L8WDszwpY24",
    "start": "2026-09-08 21:10",
@@ -391,13 +381,14 @@
    },
    "avg_member_chatters": 18.3,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:43"
   },
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-07"
+    "to": "2026-10-08"
    },
    "streams_analyzed": 6,
    "streams_missed": 0,

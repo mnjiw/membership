@@ -3,27 +3,27 @@
  "channel_id": "UCFtyinR2ZdvKK_Xgy07qXUg",
  "handle": "@MilanKestrel",
  "subscribers": 312000,
- "fetched_at": "2026-10-07 11:22",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:47",
+ "generated_at": "2026-10-08 08:47",
  "period": {
-  "from": "2026-09-07 11:22",
-  "to": "2026-10-07 11:22",
+  "from": "2026-09-08 08:47",
+  "to": "2026-10-08 08:47",
   "days": 30
  },
- "streams_analyzed": 18,
+ "streams_analyzed": 17,
  "streams_missed": 0,
- "unique_chatters": 3553,
- "members_confirmed": 1175,
+ "unique_chatters": 3455,
+ "members_confirmed": 1157,
  "member_classes": {
-  "unknown": 1119,
-  "known": 41,
+  "unknown": 1103,
+  "known": 39,
   "gift": 15
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 90
+   "members": 88
   },
   {
    "months": 1,
@@ -33,21 +33,21 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 224
+   "members": 221
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 268
+   "members": 260
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 548
+   "members": 543
   }
  ],
  "events": {
-  "new_members": 33,
+  "new_members": 30,
   "rejoins": 8,
   "milestones": 0,
   "gift_purchases": 2,
@@ -60,21 +60,21 @@
    "tier": "魔道の入門書",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 41,
+   "confirmed_members": 39,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1119.0,
-   "estimated_members": 1160.0,
-   "monthly_net_confirmed": 12785,
-   "monthly_net_estimated": 361709
+   "allocated_unknown": 1103.0,
+   "estimated_members": 1142.0,
+   "monthly_net_confirmed": 12161,
+   "monthly_net_estimated": 356096
   }
  ],
  "revenue": {
-  "monthly_low": 361709,
-  "monthly_est": 361709,
+  "monthly_low": 356096,
+  "monthly_est": 356096,
   "gift_once": 4677,
-  "total_low": 366386,
-  "total_est": 366386,
-  "paying_members": 1160,
+  "total_low": 360774,
+  "total_est": 360774,
+  "paying_members": 1142,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "iUfZf_GnYho",
-   "start": "2026-09-08 00:35",
-   "title": "【雑談】少しお話していきません？　夜桜舞う夜に。。。あ、今夏だった【にじさんじ / ミラン・ケストレル】",
-   "kind": "配信",
-   "chatters": 477,
-   "member_chatters": 288,
-   "new_members": 3,
-   "gifted_total": 0
-  },
   {
    "video_id": "IltNYQHSdTI",
    "start": "2026-09-08 22:09",
@@ -326,13 +316,14 @@
    },
    "avg_member_chatters": 331.7,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:47"
   },
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-07"
+    "to": "2026-10-08"
    },
    "streams_analyzed": 4,
    "streams_missed": 0,

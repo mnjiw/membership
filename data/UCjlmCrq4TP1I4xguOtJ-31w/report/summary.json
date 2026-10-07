@@ -3,15 +3,15 @@
  "channel_id": "UCjlmCrq4TP1I4xguOtJ-31w",
  "handle": "@DebidebiDebiru",
  "subscribers": 645000,
- "fetched_at": "2026-10-07 07:49",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:44",
+ "generated_at": "2026-10-08 08:44",
  "period": {
-  "from": "2026-09-07 07:49",
-  "to": "2026-10-07 07:49",
+  "from": "2026-09-08 08:44",
+  "to": "2026-10-08 08:44",
   "days": 30
  },
  "streams_analyzed": 9,
- "streams_missed": 2,
+ "streams_missed": 1,
  "unique_chatters": 979,
  "members_confirmed": 467,
  "member_classes": {
@@ -192,18 +192,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "x3eftUYHxNw",
-   "start": "2026-09-07 23:14",
-   "title": "おわったらめんげんいき【でびでび・でびる/にじさんじ】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 1016,
-   "view_count": null
-  },
-  {
    "video_id": "L7kjI858bMI",
    "start": "2026-09-28 22:04",
    "title": "メンバー限定映画同時視聴　変な家【でびでび・でびる/にじさんじ】",
@@ -217,16 +205,6 @@
   }
  ],
  "members_only_content": [
-  {
-   "video_id": "x3eftUYHxNw",
-   "start": "2026-09-07 23:14",
-   "title": "おわったらめんげんいき【でびでび・でびる/にじさんじ】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 1016,
-   "view_count": null
-  },
   {
    "video_id": "L7kjI858bMI",
    "start": "2026-09-28 22:04",
@@ -308,7 +286,8 @@
    },
    "avg_member_chatters": 137.8,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:44"
   }
  ],
  "no_streams": false,

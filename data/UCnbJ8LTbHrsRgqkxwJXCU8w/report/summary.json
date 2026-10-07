@@ -3,19 +3,19 @@
  "channel_id": "UCnbJ8LTbHrsRgqkxwJXCU8w",
  "handle": "@TachitsuteToto",
  "subscribers": 180000,
- "fetched_at": "2026-10-07 15:34",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:47",
+ "generated_at": "2026-10-08 08:47",
  "period": {
-  "from": "2026-09-07 15:34",
-  "to": "2026-10-07 15:34",
+  "from": "2026-09-08 08:47",
+  "to": "2026-10-08 08:47",
   "days": 30
  },
- "streams_analyzed": 14,
+ "streams_analyzed": 13,
  "streams_missed": 2,
- "unique_chatters": 3425,
- "members_confirmed": 400,
+ "unique_chatters": 3200,
+ "members_confirmed": 369,
  "member_classes": {
-  "unknown": 305,
+  "unknown": 274,
   "known": 11,
   "gift": 84
  },
@@ -23,36 +23,36 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 103
+   "members": 101
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 23
+   "members": 19
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 37
+   "members": 36
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 45
+   "members": 39
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 74
+   "members": 65
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 118
+   "members": 109
   }
  ],
  "events": {
-  "new_members": 7,
+  "new_members": 6,
   "rejoins": 4,
   "milestones": 0,
   "gift_purchases": 6,
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 11,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 305.0,
-   "estimated_members": 316.0,
+   "allocated_unknown": 274.0,
+   "estimated_members": 285.0,
    "monthly_net_confirmed": 3430,
-   "monthly_net_estimated": 98535
+   "monthly_net_estimated": 88868
   }
  ],
  "revenue": {
-  "monthly_low": 98535,
-  "monthly_est": 98535,
+  "monthly_low": 88868,
+  "monthly_est": 88868,
   "gift_once": 28064,
-  "total_low": 126598,
-  "total_est": 126598,
-  "paying_members": 316,
+  "total_low": 116932,
+  "total_est": 116932,
+  "paying_members": 285,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "Vy6XL65JE_w",
-   "start": "2026-09-08 07:10",
-   "title": "【朝活】え？？昨日９月になったばっかりな気がしてるんですけど。【立伝都々/にじさんじ】",
-   "kind": "配信",
-   "chatters": 421,
-   "member_chatters": 135,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "jUx-n6pqSB4",
    "start": "2026-09-09 19:02",
@@ -331,13 +321,14 @@
    },
    "avg_member_chatters": 106.8,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:47"
   },
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-07"
+    "to": "2026-10-08"
    },
    "streams_analyzed": 2,
    "streams_missed": 0,

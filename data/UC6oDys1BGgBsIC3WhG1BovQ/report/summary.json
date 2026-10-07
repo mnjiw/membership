@@ -3,20 +3,20 @@
  "channel_id": "UC6oDys1BGgBsIC3WhG1BovQ",
  "handle": "@ShizukaRin",
  "subscribers": 397000,
- "fetched_at": "2026-10-07 06:51",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:42",
+ "generated_at": "2026-10-08 08:43",
  "period": {
-  "from": "2026-09-07 06:51",
-  "to": "2026-10-07 06:51",
+  "from": "2026-09-08 08:42",
+  "to": "2026-10-08 08:42",
   "days": 30
  },
- "streams_analyzed": 39,
+ "streams_analyzed": 37,
  "streams_missed": 2,
- "unique_chatters": 880,
- "members_confirmed": 265,
+ "unique_chatters": 864,
+ "members_confirmed": 262,
  "member_classes": {
+  "unknown": 221,
   "known": 25,
-  "unknown": 224,
   "gift": 16
  },
  "badges": [
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 25
+   "members": 24
   },
   {
    "months": 24,
@@ -53,7 +53,7 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 18
+   "members": 16
   },
   {
    "months": 48,
@@ -77,19 +77,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 25,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 224.0,
-   "estimated_members": 249.0,
+   "allocated_unknown": 221.0,
+   "estimated_members": 246.0,
    "monthly_net_confirmed": 7795,
-   "monthly_net_estimated": 77643
+   "monthly_net_estimated": 76707
   }
  ],
  "revenue": {
-  "monthly_low": 77643,
-  "monthly_est": 77643,
+  "monthly_low": 76707,
+  "monthly_est": 76707,
   "gift_once": 4989,
-  "total_low": 82632,
-  "total_est": 82632,
-  "paying_members": 249,
+  "total_low": 81696,
+  "total_est": 81696,
+  "paying_members": 246,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,26 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "y4Fa3UlxqxU",
-   "start": "2026-09-07 08:14",
-   "title": "⛏️ 05 | マイクラでRPG❗️ | #えみクラ【静凛/にじさんじ】",
-   "kind": "配信",
-   "chatters": 47,
-   "member_chatters": 30,
-   "new_members": 0,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "cku-s7cmsT0",
-   "start": "2026-09-07 22:23",
-   "title": "⛏️ 06 | マイクラでRPG❗️ | #えみクラ【静凛/にじさんじ】",
-   "kind": "配信",
-   "chatters": 108,
-   "member_chatters": 69,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "ZALNvQJEdzI",
    "start": "2026-09-08 19:57",
@@ -599,13 +579,14 @@
    },
    "avg_member_chatters": 63.1,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:43"
   },
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-07"
+    "to": "2026-10-08"
    },
    "streams_analyzed": 7,
    "streams_missed": 0,

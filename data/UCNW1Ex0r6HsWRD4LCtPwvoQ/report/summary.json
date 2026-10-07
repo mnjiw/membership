@@ -3,25 +3,25 @@
  "channel_id": "UCNW1Ex0r6HsWRD4LCtPwvoQ",
  "handle": "@SaegusaAkina",
  "subscribers": 738000,
- "fetched_at": "2026-10-07 08:11",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:44",
+ "generated_at": "2026-10-08 08:44",
  "period": {
-  "from": "2026-09-07 08:11",
-  "to": "2026-10-07 08:11",
+  "from": "2026-09-08 08:44",
+  "to": "2026-10-08 08:44",
   "days": 30
  },
- "streams_analyzed": 4,
+ "streams_analyzed": 3,
  "streams_missed": 0,
- "unique_chatters": 1746,
- "members_confirmed": 1235,
+ "unique_chatters": 1608,
+ "members_confirmed": 1145,
  "member_classes": {
-  "unknown": 1235
+  "unknown": 1145
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 50
+   "members": 43
   },
   {
    "months": 1,
@@ -31,21 +31,21 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 88
+   "members": 85
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 39
+   "members": 34
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 1046
+   "members": 971
   }
  ],
  "events": {
-  "new_members": 2,
+  "new_members": 1,
   "rejoins": 0,
   "milestones": 0,
   "gift_purchases": 0,
@@ -60,19 +60,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 0,
    "share_of_confirmed_pct": "",
-   "allocated_unknown": 1235.0,
-   "estimated_members": 1235.0,
+   "allocated_unknown": 1145.0,
+   "estimated_members": 1145.0,
    "monthly_net_confirmed": 0,
-   "monthly_net_estimated": 385095
+   "monthly_net_estimated": 357032
   }
  ],
  "revenue": {
-  "monthly_low": 385095,
-  "monthly_est": 385095,
+  "monthly_low": 357032,
+  "monthly_est": 357032,
   "gift_once": 0,
-  "total_low": 385095,
-  "total_est": 385095,
-  "paying_members": 1235,
+  "total_low": 357032,
+  "total_est": 357032,
+  "paying_members": 1145,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -81,16 +81,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "6--Ec0mF1_M",
-   "start": "2026-09-07 22:01",
-   "title": "剣で大量の人間とシバき合うゲームをイブラヒムさんとエクスさんと加賀美社長(え⁉️)と【三枝明那 / にじさんじ】",
-   "kind": "配信",
-   "chatters": 641,
-   "member_chatters": 531,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "EkqTzMYujeg",
    "start": "2026-09-12 20:00",
@@ -182,7 +172,8 @@
    },
    "avg_member_chatters": 618.2,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:44"
   }
  ],
  "no_streams": false,

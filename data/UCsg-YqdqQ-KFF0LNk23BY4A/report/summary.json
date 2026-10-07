@@ -3,19 +3,19 @@
  "channel_id": "UCsg-YqdqQ-KFF0LNk23BY4A",
  "handle": "@HiguchiKaede",
  "subscribers": 1030000,
- "fetched_at": "2026-10-07 06:51",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:42",
+ "generated_at": "2026-10-08 08:43",
  "period": {
-  "from": "2026-09-07 06:51",
-  "to": "2026-10-07 06:51",
+  "from": "2026-09-08 08:42",
+  "to": "2026-10-08 08:42",
   "days": 30
  },
- "streams_analyzed": 17,
+ "streams_analyzed": 16,
  "streams_missed": 0,
- "unique_chatters": 2344,
- "members_confirmed": 305,
+ "unique_chatters": 2212,
+ "members_confirmed": 304,
  "member_classes": {
-  "unknown": 291,
+  "unknown": 290,
   "known": 9,
   "gift": 5
  },
@@ -53,7 +53,7 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 40
+   "members": 39
   },
   {
    "months": 48,
@@ -82,19 +82,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 9,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 291.0,
-   "estimated_members": 300.0,
+   "allocated_unknown": 290.0,
+   "estimated_members": 299.0,
    "monthly_net_confirmed": 2806,
-   "monthly_net_estimated": 93545
+   "monthly_net_estimated": 93234
   }
  ],
  "revenue": {
-  "monthly_low": 93545,
-  "monthly_est": 93545,
+  "monthly_low": 93234,
+  "monthly_est": 93234,
   "gift_once": 1559,
-  "total_low": 95105,
-  "total_est": 95105,
-  "paying_members": 300,
+  "total_low": 94793,
+  "total_est": 94793,
+  "paying_members": 299,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -103,16 +103,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "40nDFydXZN0",
-   "start": "2026-09-07 19:00",
-   "title": "【龍が如く6】第８章~👶懐かしの桃源郷🍑ハン様どこ～ッ😍❓【にじさんじ / 樋口楓】※ネタバレあり",
-   "kind": "配信",
-   "chatters": 535,
-   "member_chatters": 80,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "muH2s9rxeaU",
    "start": "2026-09-09 21:01",
@@ -352,13 +342,14 @@
    },
    "avg_member_chatters": 103.8,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:43"
   },
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-07"
+    "to": "2026-10-08"
    },
    "streams_analyzed": 4,
    "streams_missed": 0,

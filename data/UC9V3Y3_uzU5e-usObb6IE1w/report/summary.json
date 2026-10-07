@@ -3,27 +3,27 @@
  "channel_id": "UC9V3Y3_uzU5e-usObb6IE1w",
  "handle": "@HoshikawaSara",
  "subscribers": 1220000,
- "fetched_at": "2026-10-07 08:53",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:45",
+ "generated_at": "2026-10-08 08:45",
  "period": {
-  "from": "2026-09-07 08:53",
-  "to": "2026-10-07 08:53",
+  "from": "2026-09-08 08:45",
+  "to": "2026-10-08 08:45",
   "days": 30
  },
- "streams_analyzed": 22,
+ "streams_analyzed": 21,
  "streams_missed": 1,
- "unique_chatters": 11859,
- "members_confirmed": 1803,
+ "unique_chatters": 11733,
+ "members_confirmed": 1777,
  "member_classes": {
-  "known": 121,
-  "unknown": 1621,
+  "unknown": 1600,
+  "known": 116,
   "gift": 61
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 115
+   "members": 112
   },
   {
    "months": 1,
@@ -33,22 +33,22 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 119
+   "members": 115
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 317
+   "members": 312
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 863
+   "members": 851
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 100
+   "members": 99
   },
   {
    "months": 36,
@@ -68,13 +68,13 @@
   {
    "months": 72,
    "label": "6年",
-   "members": 71
+   "members": 70
   }
  ],
  "events": {
-  "new_members": 26,
-  "rejoins": 29,
-  "milestones": 69,
+  "new_members": 21,
+  "rejoins": 25,
+  "milestones": 67,
   "gift_purchases": 14,
   "gifted_total": 86,
   "gift_redemptions": 61
@@ -85,21 +85,21 @@
    "tier": "星くずたち",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 121,
+   "confirmed_members": 116,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1621.0,
-   "estimated_members": 1742.0,
-   "monthly_net_confirmed": 37730,
-   "monthly_net_estimated": 543187
+   "allocated_unknown": 1600.0,
+   "estimated_members": 1716.0,
+   "monthly_net_confirmed": 36171,
+   "monthly_net_estimated": 535080
   }
  ],
  "revenue": {
-  "monthly_low": 543187,
-  "monthly_est": 543187,
+  "monthly_low": 535080,
+  "monthly_est": 535080,
   "gift_once": 26816,
-  "total_low": 570004,
-  "total_est": 570004,
-  "paying_members": 1742,
+  "total_low": 561896,
+  "total_est": 561896,
+  "paying_members": 1716,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -108,16 +108,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "v6fww9Bb7xQ",
-   "start": "2026-09-07 19:31",
-   "title": "【FGO】完全初見のFate/Grand Order！禁忌降臨庭園セイレムいくぞおおおおおおおお！#4【星川サラ/にじさんじ】",
-   "kind": "配信",
-   "chatters": 1314,
-   "member_chatters": 489,
-   "new_members": 5,
-   "gifted_total": 0
-  },
   {
    "video_id": "P4HQMLVNNPA",
    "start": "2026-09-12 14:02",
@@ -339,7 +329,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 479,
+   "like_count": 482,
    "view_count": null
   }
  ],
@@ -351,7 +341,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 479,
+   "like_count": 482,
    "view_count": null
   }
  ],
@@ -435,13 +425,14 @@
    },
    "avg_member_chatters": 298.7,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:45"
   },
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-07"
+    "to": "2026-10-08"
    },
    "streams_analyzed": 5,
    "streams_missed": 1,

@@ -2,16 +2,16 @@
  "channel": "アルス・アルマル -ars almal- 【にじさんじ】",
  "channel_id": "UCdpUojq0KWZCN9bxXnZwz5w",
  "handle": "@ArsAlmal",
- "subscribers": 871000,
- "fetched_at": "2026-10-07 08:38",
- "generated_at": "2026-10-07 15:39",
+ "subscribers": 872000,
+ "fetched_at": "2026-10-08 08:44",
+ "generated_at": "2026-10-08 08:45",
  "period": {
-  "from": "2026-09-07 08:38",
-  "to": "2026-10-07 08:38",
+  "from": "2026-09-08 08:44",
+  "to": "2026-10-08 08:44",
   "days": 30
  },
  "streams_analyzed": 16,
- "streams_missed": 6,
+ "streams_missed": 5,
  "unique_chatters": 2242,
  "members_confirmed": 272,
  "member_classes": {
@@ -262,18 +262,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "VsDRYrSRrwk",
-   "start": "2026-09-07 13:21",
-   "title": "【スプラトゥーン3 】これでおわるから！！！あと２じかんだけ！！！【アルス・アルマル/にじさんじ】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "トゲ丸",
-   "like_count": 800,
-   "view_count": null
-  },
-  {
    "video_id": "8MufE1gY3wE",
    "start": "2026-09-16 00:04",
    "title": "【スプラトゥーン3 】ぼくのなかでさいきんあついゲーム【アルス・アルマル/にじさんじ】",
@@ -335,16 +323,6 @@
   }
  ],
  "members_only_content": [
-  {
-   "video_id": "VsDRYrSRrwk",
-   "start": "2026-09-07 13:21",
-   "title": "【スプラトゥーン3 】これでおわるから！！！あと２じかんだけ！！！【アルス・アルマル/にじさんじ】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "トゲ丸",
-   "like_count": 800,
-   "view_count": null
-  },
   {
    "video_id": "8MufE1gY3wE",
    "start": "2026-09-16 00:04",
@@ -461,13 +439,14 @@
    },
    "avg_member_chatters": 82.1,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:45"
   },
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-07"
+    "to": "2026-10-08"
    },
    "streams_analyzed": 3,
    "streams_missed": 2,

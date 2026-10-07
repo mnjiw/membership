@@ -3,19 +3,19 @@
  "channel_id": "UC_GCs6GARLxEHxy1w40d6VQ",
  "handle": "@IenagaMugi",
  "subscribers": 307000,
- "fetched_at": "2026-10-07 06:53",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:43",
+ "generated_at": "2026-10-08 08:43",
  "period": {
-  "from": "2026-09-07 06:53",
-  "to": "2026-10-07 06:53",
+  "from": "2026-09-08 08:43",
+  "to": "2026-10-08 08:43",
   "days": 30
  },
- "streams_analyzed": 13,
- "streams_missed": 5,
- "unique_chatters": 2631,
- "members_confirmed": 254,
+ "streams_analyzed": 12,
+ "streams_missed": 6,
+ "unique_chatters": 2527,
+ "members_confirmed": 243,
  "member_classes": {
-  "unknown": 238,
+  "unknown": 227,
   "gift": 9,
   "known": 7
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 35
+   "members": 33
   },
   {
    "months": 1,
@@ -43,22 +43,22 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 41
+   "members": 38
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 36
+   "members": 34
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 20
+   "members": 19
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 52
+   "members": 49
   }
  ],
  "events": {
@@ -77,19 +77,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 7,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 238.0,
-   "estimated_members": 245.0,
+   "allocated_unknown": 227.0,
+   "estimated_members": 234.0,
    "monthly_net_confirmed": 2183,
-   "monthly_net_estimated": 76395
+   "monthly_net_estimated": 72965
   }
  ],
  "revenue": {
-  "monthly_low": 76395,
-  "monthly_est": 76395,
+  "monthly_low": 72965,
+  "monthly_est": 72965,
   "gift_once": 2806,
-  "total_low": 79202,
-  "total_est": 79202,
-  "paying_members": 245,
+  "total_low": 75772,
+  "total_est": 75772,
+  "paying_members": 234,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "hwXcHR6O1eU",
-   "start": "2026-09-07 22:00",
-   "title": "【JSP2】怖すぎ事故物件監視でお金を稼ごう！！やだ！！！【家長むぎ/にじさんじ】",
-   "kind": "配信",
-   "chatters": 252,
-   "member_chatters": 73,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "zkna6xRp_NM",
    "start": "2026-09-11 13:01",
@@ -287,7 +277,19 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 59,
+   "like_count": 64,
+   "view_count": null
+  },
+  {
+   "video_id": "U4cEMlwsTfI",
+   "start": "2026-10-07 21:00",
+   "title": "《 メンバー限定 》2日連続でやるときも、ある！《 雑談 》",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 46,
    "view_count": null
   }
  ],
@@ -339,7 +341,17 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 59,
+   "like_count": 64,
+   "view_count": null
+  },
+  {
+   "video_id": "U4cEMlwsTfI",
+   "start": "2026-10-07 21:00",
+   "title": "《 メンバー限定 》2日連続でやるときも、ある！《 雑談 》",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 46,
    "view_count": null
   }
  ],
@@ -415,16 +427,17 @@
    },
    "avg_member_chatters": 61.5,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:43"
   },
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-07"
+    "to": "2026-10-08"
    },
    "streams_analyzed": 3,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 869,
    "members_confirmed": 80,
    "member_classes": {

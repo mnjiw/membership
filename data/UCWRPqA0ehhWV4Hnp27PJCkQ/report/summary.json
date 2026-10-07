@@ -3,27 +3,27 @@
  "channel_id": "UCWRPqA0ehhWV4Hnp27PJCkQ",
  "handle": "@ShishidoAkari",
  "subscribers": 349000,
- "fetched_at": "2026-10-07 10:26",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:46",
+ "generated_at": "2026-10-08 08:46",
  "period": {
-  "from": "2026-09-07 10:26",
-  "to": "2026-10-07 10:26",
+  "from": "2026-09-08 08:46",
+  "to": "2026-10-08 08:46",
   "days": 30
  },
- "streams_analyzed": 16,
+ "streams_analyzed": 15,
  "streams_missed": 1,
- "unique_chatters": 3167,
- "members_confirmed": 426,
+ "unique_chatters": 3125,
+ "members_confirmed": 412,
  "member_classes": {
-  "unknown": 316,
-  "known": 80,
-  "gift": 30
+  "unknown": 313,
+  "known": 79,
+  "gift": 20
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 98
+   "members": 87
   },
   {
    "months": 1,
@@ -48,21 +48,21 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 75
+   "members": 74
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 62
+   "members": 60
   }
  ],
  "events": {
-  "new_members": 63,
-  "rejoins": 10,
+  "new_members": 62,
+  "rejoins": 9,
   "milestones": 7,
-  "gift_purchases": 3,
-  "gifted_total": 30,
-  "gift_redemptions": 30
+  "gift_purchases": 2,
+  "gifted_total": 20,
+  "gift_redemptions": 20
  },
  "tiers_configured": true,
  "tiers": [
@@ -70,21 +70,21 @@
    "tier": "ブリーダー(仮)",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 80,
+   "confirmed_members": 79,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 316.0,
-   "estimated_members": 396.0,
-   "monthly_net_confirmed": 24945,
-   "monthly_net_estimated": 123480
+   "allocated_unknown": 313.0,
+   "estimated_members": 392.0,
+   "monthly_net_confirmed": 24634,
+   "monthly_net_estimated": 122233
   }
  ],
  "revenue": {
-  "monthly_low": 123480,
-  "monthly_est": 123480,
-  "gift_once": 9355,
-  "total_low": 132835,
-  "total_est": 132835,
-  "paying_members": 396,
+  "monthly_low": 122233,
+  "monthly_est": 122233,
+  "gift_once": 6236,
+  "total_low": 128469,
+  "total_est": 128469,
+  "paying_members": 392,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "vfjft14-tis",
-   "start": "2026-09-07 17:36",
-   "title": "【  SAVOGE RUST  】１日目！初めてのPVPラスト！【にじさんじ/獅子堂あかり】",
-   "kind": "配信",
-   "chatters": 244,
-   "member_chatters": 115,
-   "new_members": 1,
-   "gifted_total": 10
-  },
   {
    "video_id": "WYtIqSL2zX8",
    "start": "2026-09-08 17:01",
@@ -276,7 +266,7 @@
    "kind": "video",
    "status": "members_only_video",
    "members_level": "",
-   "like_count": 417,
+   "like_count": 418,
    "view_count": null
   },
   {
@@ -358,13 +348,14 @@
    },
    "avg_member_chatters": 112.7,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:46"
   },
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-07"
+    "to": "2026-10-08"
    },
    "streams_analyzed": 1,
    "streams_missed": 0,

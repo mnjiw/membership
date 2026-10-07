@@ -2,28 +2,28 @@
  "channel": "Enna Alouette【NIJISANJI EN】",
  "channel_id": "UCR6qhsLpn62WVxCBK1dkLow",
  "handle": "@EnnaAlouette",
- "subscribers": 644000,
- "fetched_at": "2026-10-07 13:02",
- "generated_at": "2026-10-07 15:39",
+ "subscribers": 645000,
+ "fetched_at": "2026-10-08 08:48",
+ "generated_at": "2026-10-08 08:49",
  "period": {
-  "from": "2026-09-07 13:02",
-  "to": "2026-10-07 13:02",
+  "from": "2026-09-08 08:48",
+  "to": "2026-10-08 08:48",
   "days": 30
  },
- "streams_analyzed": 16,
+ "streams_analyzed": 15,
  "streams_missed": 2,
- "unique_chatters": 2202,
- "members_confirmed": 563,
+ "unique_chatters": 2109,
+ "members_confirmed": 538,
  "member_classes": {
-  "unknown": 288,
+  "unknown": 287,
   "known": 78,
-  "gift": 197
+  "gift": 173
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 207
+   "members": 184
   },
   {
    "months": 1,
@@ -58,16 +58,16 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 97
+   "members": 95
   }
  ],
  "events": {
   "new_members": 2,
   "rejoins": 12,
   "milestones": 67,
-  "gift_purchases": 80,
-  "gifted_total": 200,
-  "gift_redemptions": 199
+  "gift_purchases": 73,
+  "gifted_total": 176,
+  "gift_redemptions": 175
  },
  "tiers_configured": true,
  "tiers": [
@@ -77,19 +77,19 @@
    "net_per_member": 439.1,
    "confirmed_members": 78,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 288.0,
-   "estimated_members": 366.0,
+   "allocated_unknown": 287.0,
+   "estimated_members": 365.0,
    "monthly_net_confirmed": 34249,
-   "monthly_net_estimated": 160707
+   "monthly_net_estimated": 160268
   }
  ],
  "revenue": {
-  "monthly_low": 160707,
-  "monthly_est": 160707,
-  "gift_once": 87818,
-  "total_low": 248525,
-  "total_est": 248525,
-  "paying_members": 366,
+  "monthly_low": 160268,
+  "monthly_est": 160268,
+  "gift_once": 77280,
+  "total_low": 237548,
+  "total_est": 237548,
+  "paying_members": 365,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "v8c-u353hVc",
-   "start": "2026-09-07 21:01",
-   "title": "【Cat Mail Co. (PART 2)】w/ zutt !!  💚🩷💙【NIJISANJI  EN | Enna Alouette】",
-   "kind": "配信",
-   "chatters": 273,
-   "member_chatters": 96,
-   "new_members": 0,
-   "gifted_total": 24
-  },
   {
    "video_id": "OCu051NW2P0",
    "start": "2026-09-11 10:00",
@@ -369,13 +359,14 @@
    },
    "avg_member_chatters": 107.1,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:49"
   },
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-07"
+    "to": "2026-10-08"
    },
    "streams_analyzed": 1,
    "streams_missed": 0,

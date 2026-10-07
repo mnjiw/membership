@@ -3,66 +3,66 @@
  "channel_id": "UCo2N7C-Z91waaR6lF3LL_jw",
  "handle": "@KaidaHaru",
  "subscribers": 742000,
- "fetched_at": "2026-10-07 09:30",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:45",
+ "generated_at": "2026-10-08 08:45",
  "period": {
-  "from": "2026-09-07 09:30",
-  "to": "2026-10-07 09:30",
+  "from": "2026-09-08 08:45",
+  "to": "2026-10-08 08:45",
   "days": 30
  },
- "streams_analyzed": 17,
+ "streams_analyzed": 16,
  "streams_missed": 1,
- "unique_chatters": 4279,
- "members_confirmed": 2406,
+ "unique_chatters": 4081,
+ "members_confirmed": 2324,
  "member_classes": {
-  "unknown": 2374,
-  "known": 32
+  "unknown": 2293,
+  "known": 31
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 72
+   "members": 63
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 73
+   "members": 67
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 236
+   "members": 228
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 290
+   "members": 278
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 567
+   "members": 549
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 355
+   "members": 342
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 291
+   "members": 284
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 522
+   "members": 513
   }
  ],
  "events": {
-  "new_members": 15,
-  "rejoins": 17,
+  "new_members": 14,
+  "rejoins": 15,
   "milestones": 0,
   "gift_purchases": 0,
   "gifted_total": 0,
@@ -75,31 +75,31 @@
    "price": 490,
    "net_per_member": 311.8,
    "confirmed_members": 11,
-   "share_of_confirmed_pct": 34.4,
-   "allocated_unknown": 816.1,
-   "estimated_members": 827.1,
+   "share_of_confirmed_pct": 35.5,
+   "allocated_unknown": 813.6,
+   "estimated_members": 824.6,
    "monthly_net_confirmed": 3430,
-   "monthly_net_estimated": 257893
+   "monthly_net_estimated": 257139
   },
   {
    "tier": "見習い助手コース",
    "price": 1190,
    "net_per_member": 757.3,
-   "confirmed_members": 21,
-   "share_of_confirmed_pct": 65.6,
-   "allocated_unknown": 1557.9,
-   "estimated_members": 1578.9,
-   "monthly_net_confirmed": 15903,
-   "monthly_net_estimated": 1195686
+   "confirmed_members": 20,
+   "share_of_confirmed_pct": 64.5,
+   "allocated_unknown": 1479.4,
+   "estimated_members": 1499.4,
+   "monthly_net_confirmed": 15145,
+   "monthly_net_estimated": 1135421
   }
  ],
  "revenue": {
-  "monthly_low": 759589,
-  "monthly_est": 1453579,
+  "monthly_low": 733575,
+  "monthly_est": 1392560,
   "gift_once": 0,
-  "total_low": 759589,
-  "total_est": 1453579,
-  "paying_members": 2406,
+  "total_low": 733575,
+  "total_est": 1392560,
+  "paying_members": 2324,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -108,16 +108,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "pudZHJMxINU",
-   "start": "2026-09-07 22:30",
-   "title": "【弾き語り】天気が悪い日でも【甲斐田晴/にじさんじ】",
-   "kind": "配信",
-   "chatters": 1186,
-   "member_chatters": 940,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "oXWfKSlVecI",
    "start": "2026-09-08 22:01",
@@ -382,13 +372,14 @@
    },
    "avg_member_chatters": 800,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:45"
   },
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-07"
+    "to": "2026-10-08"
    },
    "streams_analyzed": 3,
    "streams_missed": 0,

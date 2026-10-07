@@ -3,27 +3,27 @@
  "channel_id": "UCam_xf14FPFsRshFTj4wkHw",
  "handle": "@ShirasaAyane",
  "subscribers": 139000,
- "fetched_at": "2026-10-07 12:30",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:48",
+ "generated_at": "2026-10-08 08:48",
  "period": {
-  "from": "2026-09-07 12:30",
-  "to": "2026-10-07 12:30",
+  "from": "2026-09-08 08:48",
+  "to": "2026-10-08 08:48",
   "days": 30
  },
- "streams_analyzed": 15,
+ "streams_analyzed": 14,
  "streams_missed": 3,
- "unique_chatters": 2549,
- "members_confirmed": 385,
+ "unique_chatters": 2473,
+ "members_confirmed": 378,
  "member_classes": {
-  "unknown": 351,
-  "known": 18,
+  "unknown": 345,
+  "known": 17,
   "gift": 16
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 63
+   "members": 62
   },
   {
    "months": 1,
@@ -33,17 +33,17 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 70
+   "members": 67
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 209
+   "members": 206
   }
  ],
  "events": {
   "new_members": 16,
-  "rejoins": 2,
+  "rejoins": 1,
   "milestones": 0,
   "gift_purchases": 3,
   "gifted_total": 16,
@@ -55,21 +55,21 @@
    "tier": "海月花学院美術部",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 18,
+   "confirmed_members": 17,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 351.0,
-   "estimated_members": 369.0,
-   "monthly_net_confirmed": 5613,
-   "monthly_net_estimated": 115061
+   "allocated_unknown": 345.0,
+   "estimated_members": 362.0,
+   "monthly_net_confirmed": 5301,
+   "monthly_net_estimated": 112878
   }
  ],
  "revenue": {
-  "monthly_low": 115061,
-  "monthly_est": 115061,
+  "monthly_low": 112878,
+  "monthly_est": 112878,
   "gift_once": 4989,
-  "total_low": 120050,
-  "total_est": 120050,
-  "paying_members": 369,
+  "total_low": 117867,
+  "total_est": 117867,
+  "paying_members": 362,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -78,16 +78,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "txgyq3z14mc",
-   "start": "2026-09-07 18:01",
-   "title": "【リズム天国 ミラクルスターズ】全部のメダルとＰがほしい🎶ステージ11から🎶【 白砂あやね / にじさんじ 】",
-   "kind": "配信",
-   "chatters": 314,
-   "member_chatters": 119,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "3QEvtNw74PY",
    "start": "2026-09-08 22:16",
@@ -345,13 +335,14 @@
    },
    "avg_member_chatters": 109.9,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:48"
   },
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-07"
+    "to": "2026-10-08"
    },
    "streams_analyzed": 3,
    "streams_missed": 1,

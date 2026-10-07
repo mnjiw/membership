@@ -3,70 +3,21 @@
  "channel_id": "UC53UDnhAAYwvNO7j_2Ju1cQ",
  "handle": "@Dola",
  "subscribers": 362000,
- "fetched_at": "2026-10-07 06:53",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:43",
+ "generated_at": "2026-10-08 08:43",
  "period": {
-  "from": "2026-09-07 06:53",
-  "to": "2026-10-07 06:53",
+  "from": "2026-09-08 08:43",
+  "to": "2026-10-08 08:43",
   "days": 30
  },
- "streams_analyzed": 1,
+ "streams_analyzed": 0,
  "streams_missed": 1,
- "unique_chatters": 302,
- "members_confirmed": 138,
- "member_classes": {
-  "unknown": 136,
-  "known": 2
- },
- "badges": [
-  {
-   "months": 0,
-   "label": "新規(1ヶ月未満)",
-   "members": 3
-  },
-  {
-   "months": 1,
-   "label": "1ヶ月",
-   "members": 3
-  },
-  {
-   "months": 2,
-   "label": "2ヶ月",
-   "members": 1
-  },
-  {
-   "months": 6,
-   "label": "6ヶ月",
-   "members": 6
-  },
-  {
-   "months": 12,
-   "label": "1年",
-   "members": 13
-  },
-  {
-   "months": 24,
-   "label": "2年",
-   "members": 7
-  },
-  {
-   "months": 36,
-   "label": "3年",
-   "members": 8
-  },
-  {
-   "months": 48,
-   "label": "4年",
-   "members": 14
-  },
-  {
-   "months": 60,
-   "label": "5年",
-   "members": 83
-  }
- ],
+ "unique_chatters": 0,
+ "members_confirmed": 0,
+ "member_classes": {},
+ "badges": [],
  "events": {
-  "new_members": 2,
+  "new_members": 0,
   "rejoins": 0,
   "milestones": 0,
   "gift_purchases": 0,
@@ -79,19 +30,19 @@
    "tier": "どらとも🔥弱火",
    "price": 290,
    "net_per_member": 184.5,
-   "confirmed_members": 1,
-   "share_of_confirmed_pct": 50.0,
-   "allocated_unknown": 68.0,
-   "estimated_members": 69.0,
-   "monthly_net_confirmed": 185,
-   "monthly_net_estimated": 12734
+   "confirmed_members": 0,
+   "share_of_confirmed_pct": "",
+   "allocated_unknown": 0.0,
+   "estimated_members": 0.0,
+   "monthly_net_confirmed": 0,
+   "monthly_net_estimated": 0
   },
   {
    "tier": "どらとも🔥中火",
    "price": 490,
    "net_per_member": 311.8,
    "confirmed_members": 0,
-   "share_of_confirmed_pct": 0.0,
+   "share_of_confirmed_pct": "",
    "allocated_unknown": 0.0,
    "estimated_members": 0.0,
    "monthly_net_confirmed": 0,
@@ -101,21 +52,21 @@
    "tier": "どらとも🔥強火",
    "price": 990,
    "net_per_member": 630.0,
-   "confirmed_members": 1,
-   "share_of_confirmed_pct": 50.0,
-   "allocated_unknown": 68.0,
-   "estimated_members": 69.0,
-   "monthly_net_confirmed": 630,
-   "monthly_net_estimated": 43470
+   "confirmed_members": 0,
+   "share_of_confirmed_pct": "",
+   "allocated_unknown": 0.0,
+   "estimated_members": 0.0,
+   "monthly_net_confirmed": 0,
+   "monthly_net_estimated": 0
   }
  ],
  "revenue": {
-  "monthly_low": 25913,
-  "monthly_est": 56204,
+  "monthly_low": 0,
+  "monthly_est": 0,
   "gift_once": 0,
-  "total_low": 25913,
-  "total_est": 56204,
-  "paying_members": 138,
+  "total_low": 0,
+  "total_est": 0,
+  "paying_members": 0,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -123,18 +74,7 @@
   "currency": "JPY",
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
- "streams": [
-  {
-   "video_id": "mgBbI9qCn6g",
-   "start": "2026-09-07 19:59",
-   "title": "【歌枠】今日は男性アーティストONLY！ 𓂃˚✦₊˚ KARAOKE🎤STREAM【にじさんじ/ドーラ】",
-   "kind": "配信",
-   "chatters": 302,
-   "member_chatters": 138,
-   "new_members": 2,
-   "gifted_total": 0
-  }
- ],
+ "streams": [],
  "missed_streams": [
   {
    "video_id": "ciWi0Vd-Opg",
@@ -248,10 +188,11 @@
    },
    "avg_member_chatters": 138,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:43"
   }
  ],
- "no_streams": false,
+ "no_streams": true,
  "membership": true,
  "price_history": [
   {

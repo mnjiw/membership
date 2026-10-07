@@ -3,19 +3,19 @@
  "channel_id": "UCRm6lqtdxs_Qo6HeL-SRQ-w",
  "handle": "@LainPaterson",
  "subscribers": 469000,
- "fetched_at": "2026-10-07 15:33",
- "generated_at": "2026-10-07 15:39",
+ "fetched_at": "2026-10-08 08:46",
+ "generated_at": "2026-10-08 08:46",
  "period": {
-  "from": "2026-09-07 15:33",
-  "to": "2026-10-07 15:33",
+  "from": "2026-09-08 08:46",
+  "to": "2026-10-08 08:46",
   "days": 30
  },
- "streams_analyzed": 23,
+ "streams_analyzed": 22,
  "streams_missed": 1,
- "unique_chatters": 3007,
- "members_confirmed": 86,
+ "unique_chatters": 2445,
+ "members_confirmed": 84,
  "member_classes": {
-  "unknown": 70,
+  "unknown": 68,
   "known": 6,
   "gift": 10
  },
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 10
+   "members": 9
   },
   {
    "months": 24,
@@ -58,7 +58,7 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 17
+   "members": 16
   },
   {
    "months": 60,
@@ -67,7 +67,7 @@
   }
  ],
  "events": {
-  "new_members": 2,
+  "new_members": 1,
   "rejoins": 2,
   "milestones": 3,
   "gift_purchases": 1,
@@ -82,10 +82,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 4,
    "share_of_confirmed_pct": 66.7,
-   "allocated_unknown": 46.7,
-   "estimated_members": 50.7,
+   "allocated_unknown": 45.3,
+   "estimated_members": 49.3,
    "monthly_net_confirmed": 1247,
-   "monthly_net_estimated": 15799
+   "monthly_net_estimated": 15383
   },
   {
    "tier": "level2",
@@ -93,10 +93,10 @@
    "net_per_member": 757.3,
    "confirmed_members": 2,
    "share_of_confirmed_pct": 33.3,
-   "allocated_unknown": 23.3,
-   "estimated_members": 25.3,
+   "allocated_unknown": 22.7,
+   "estimated_members": 24.7,
    "monthly_net_confirmed": 1515,
-   "monthly_net_estimated": 19184
+   "monthly_net_estimated": 18679
   },
   {
    "tier": "level4",
@@ -111,12 +111,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 24589,
-  "monthly_est": 34983,
+  "monthly_low": 23965,
+  "monthly_est": 34062,
   "gift_once": 3118,
-  "total_low": 27707,
-  "total_est": 38101,
-  "paying_members": 76,
+  "total_low": 27084,
+  "total_est": 37181,
+  "paying_members": 74,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -125,16 +125,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "vtmI8Ir0XIo",
-   "start": "2026-09-07 18:59",
-   "title": "【遊戯王マスターデュエル】ドラゴンテイルを学ぶ！｜ #にじ遊戯王祭2026 【レイン・パターソン/にじさんじ】",
-   "kind": "配信",
-   "chatters": 1226,
-   "member_chatters": 27,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "3GeeiAfc-B0",
    "start": "2026-09-09 13:00",
@@ -480,13 +470,14 @@
    },
    "avg_member_chatters": 19.7,
    "partial": true,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:46"
   },
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-07"
+    "to": "2026-10-08"
    },
    "streams_analyzed": 3,
    "streams_missed": 0,
