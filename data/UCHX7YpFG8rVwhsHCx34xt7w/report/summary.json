@@ -3,61 +3,61 @@
  "channel_id": "UCHX7YpFG8rVwhsHCx34xt7w",
  "handle": "@YukishiroMahiro",
  "subscribers": 213000,
- "fetched_at": "2026-10-08 08:44",
- "generated_at": "2026-10-08 08:44",
+ "fetched_at": "2026-10-08 10:14",
+ "generated_at": "2026-10-08 10:14",
  "period": {
-  "from": "2026-09-08 08:44",
-  "to": "2026-10-08 08:44",
+  "from": "2026-09-08 10:14",
+  "to": "2026-10-08 10:14",
   "days": 30
  },
- "streams_analyzed": 16,
+ "streams_analyzed": 17,
  "streams_missed": 1,
- "unique_chatters": 1099,
- "members_confirmed": 258,
+ "unique_chatters": 1124,
+ "members_confirmed": 275,
  "member_classes": {
   "unknown": 222,
-  "known": 3,
-  "gift": 33
+  "known": 7,
+  "gift": 46
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 35
+   "members": 47
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 2
+   "members": 1
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 11
+   "members": 13
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 11
+   "members": 12
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 14
+   "members": 15
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 185
+   "members": 187
   }
  ],
  "events": {
   "new_members": 1,
-  "rejoins": 2,
+  "rejoins": 6,
   "milestones": 0,
-  "gift_purchases": 6,
-  "gifted_total": 33,
-  "gift_redemptions": 33
+  "gift_purchases": 11,
+  "gifted_total": 46,
+  "gift_redemptions": 46
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,23 +65,23 @@
    "tier": "まひとも",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 1,
-   "share_of_confirmed_pct": 33.3,
-   "allocated_unknown": 74.0,
-   "estimated_members": 75.0,
-   "monthly_net_confirmed": 312,
-   "monthly_net_estimated": 23386
+   "confirmed_members": 3,
+   "share_of_confirmed_pct": 42.9,
+   "allocated_unknown": 95.1,
+   "estimated_members": 98.1,
+   "monthly_net_confirmed": 935,
+   "monthly_net_estimated": 30603
   },
   {
    "tier": "ぬまひとも",
    "price": 1190,
    "net_per_member": 757.3,
-   "confirmed_members": 2,
-   "share_of_confirmed_pct": 66.7,
-   "allocated_unknown": 148.0,
-   "estimated_members": 150.0,
-   "monthly_net_confirmed": 1515,
-   "monthly_net_estimated": 113591
+   "confirmed_members": 4,
+   "share_of_confirmed_pct": 57.1,
+   "allocated_unknown": 126.9,
+   "estimated_members": 130.9,
+   "monthly_net_confirmed": 3029,
+   "monthly_net_estimated": 99095
   },
   {
    "tier": "まひろはうす",
@@ -96,12 +96,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 71050,
-  "monthly_est": 136977,
-  "gift_once": 10290,
-  "total_low": 81340,
-  "total_est": 147267,
-  "paying_members": 225,
+  "monthly_low": 73188,
+  "monthly_est": 129697,
+  "gift_once": 14344,
+  "total_low": 87532,
+  "total_est": 144041,
+  "paying_members": 229,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -269,6 +269,16 @@
    "member_chatters": 28,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "cZeVrSUTO2Y",
+   "start": "2026-10-07 19:03",
+   "title": "【雑談】10月が始まり…🍂どうせすぐ年末の話…⛄【雪城眞尋/にじさんじ】",
+   "kind": "配信",
+   "chatters": 207,
+   "member_chatters": 115,
+   "new_members": 0,
+   "gifted_total": 13
   }
  ],
  "missed_streams": [
@@ -382,46 +392,56 @@
     "from": "2026-10-01",
     "to": "2026-10-08"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 1,
-   "unique_chatters": 46,
-   "members_confirmed": 28,
+   "unique_chatters": 226,
+   "members_confirmed": 123,
    "member_classes": {
-    "unknown": 28
+    "unknown": 106,
+    "gift": 13,
+    "known": 4
    },
-   "long_term_members": 25,
+   "long_term_members": 96,
    "badges": [
     {
+     "months": 0,
+     "members": 12
+    },
+    {
      "months": 2,
-     "members": 1
+     "members": 7
     },
     {
      "months": 6,
-     "members": 2
+     "members": 8
+    },
+    {
+     "months": 12,
+     "members": 4
     },
     {
      "months": 24,
-     "members": 25
+     "members": 92
     }
    ],
    "events": {
     "new_members": 0,
-    "rejoins": 0,
+    "rejoins": 4,
     "milestones": 0,
-    "gifted_total": 0
+    "gifted_total": 13
    },
    "tiers": [
     {
      "tier": "まひとも",
      "price": 490,
-     "confirmed_members": 0,
-     "estimated_members": 28.0
+     "confirmed_members": 2,
+     "estimated_members": 55.0
     },
     {
      "tier": "ぬまひとも",
      "price": 1190,
-     "confirmed_members": 0,
-     "estimated_members": 0.0
+     "confirmed_members": 2,
+     "estimated_members": 55.0
     },
     {
      "tier": "まひろはうす",
@@ -431,11 +451,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 8731,
-    "monthly_est": 8731,
-    "gift_once": 0
+    "monthly_low": 35191,
+    "monthly_est": 58800,
+    "gift_once": 4054
    },
-   "avg_member_chatters": 28,
+   "avg_member_chatters": 71.5,
    "partial": true,
    "finalized": false
   }

@@ -10,3 +10,9 @@ __pycache__/
 
 # ドキュメント (README を含む)。GitHub には公開しない
 MD/
+
+# Cloudflare の cron 用 Worker: 手元テスト用のトークン (絶対に上げない) と作業フォルダ
+cron/.dev.vars
+.dev.vars
+.wrangler/
+node_modules/

@@ -3,19 +3,19 @@
  "channel_id": "UCtnO2N4kPTXmyvedjGWdx3Q",
  "handle": "@LeviElipha",
  "subscribers": 375000,
- "fetched_at": "2026-10-08 08:44",
- "generated_at": "2026-10-08 08:44",
+ "fetched_at": "2026-10-08 10:14",
+ "generated_at": "2026-10-08 10:14",
  "period": {
-  "from": "2026-09-08 08:44",
-  "to": "2026-10-08 08:44",
+  "from": "2026-09-08 10:14",
+  "to": "2026-10-08 10:14",
   "days": 30
  },
- "streams_analyzed": 17,
+ "streams_analyzed": 18,
  "streams_missed": 3,
- "unique_chatters": 479,
- "members_confirmed": 61,
+ "unique_chatters": 509,
+ "members_confirmed": 64,
  "member_classes": {
-  "unknown": 52,
+  "unknown": 55,
   "known": 4,
   "gift": 5
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 11
+   "members": 12
   },
   {
    "months": 1,
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 41
+   "members": 43
   }
  ],
  "events": {
@@ -62,10 +62,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 4,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 52.0,
-   "estimated_members": 56.0,
+   "allocated_unknown": 55.0,
+   "estimated_members": 59.0,
    "monthly_net_confirmed": 1247,
-   "monthly_net_estimated": 17462
+   "monthly_net_estimated": 18397
   },
   {
    "tier": "チク",
@@ -91,12 +91,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 17462,
-  "monthly_est": 17462,
+  "monthly_low": 18397,
+  "monthly_est": 18397,
   "gift_once": 1559,
-  "total_low": 19021,
-  "total_est": 19021,
-  "paying_members": 56,
+  "total_low": 19956,
+  "total_est": 19956,
+  "paying_members": 59,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -274,6 +274,16 @@
    "member_chatters": 22,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "lLvjqYhLy5M",
+   "start": "2026-10-07 12:04",
+   "title": "#10【JUDGE EYES：死神の遺言 Remastered】ストーリーも終盤‼今度こそ無実を証明するゾウ　※ネタバレあり【にじさんじ/レヴィ・エリファ】",
+   "kind": "配信",
+   "chatters": 75,
+   "member_chatters": 22,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -427,19 +437,19 @@
     "from": "2026-10-01",
     "to": "2026-10-08"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 4,
    "streams_missed": 2,
-   "unique_chatters": 147,
-   "members_confirmed": 35,
+   "unique_chatters": 182,
+   "members_confirmed": 39,
    "member_classes": {
-    "unknown": 33,
+    "unknown": 37,
     "known": 2
    },
-   "long_term_members": 28,
+   "long_term_members": 31,
    "badges": [
     {
      "months": 0,
-     "members": 4
+     "members": 5
     },
     {
      "months": 2,
@@ -451,7 +461,7 @@
     },
     {
      "months": 12,
-     "members": 28
+     "members": 31
     }
    ],
    "events": {
@@ -465,7 +475,7 @@
      "tier": "バイ",
      "price": 490,
      "confirmed_members": 2,
-     "estimated_members": 35.0
+     "estimated_members": 39.0
     },
     {
      "tier": "チク",
@@ -481,11 +491,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 10914,
-    "monthly_est": 10914,
+    "monthly_low": 12161,
+    "monthly_est": 12161,
     "gift_once": 0
    },
-   "avg_member_chatters": 21.7,
+   "avg_member_chatters": 21.8,
    "partial": true,
    "finalized": false
   }

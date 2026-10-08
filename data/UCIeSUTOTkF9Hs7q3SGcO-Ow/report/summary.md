@@ -1,8 +1,8 @@
 # メンバーシップ集計レポート: Elira Pendora 【NIJISANJI EN】
 
-- 対象期間: 2026-09-08 08:48 〜 2026-10-08 08:48（チャットを集計できた配信・プレミア 22 本）
-- データ取得日時: 2026-10-08 08:48
-- チャットを集計できなかった枠: 3 本（下の「集計できなかった配信」を参照）
+- 対象期間: 2026-09-08 10:21 〜 2026-10-08 10:21（チャットを集計できた配信・プレミア 22 本）
+- データ取得日時: 2026-10-08 10:21
+- チャットを集計できなかった枠: 4 本（下の「集計できなかった配信」を参照）
 
 ## 概要
 
@@ -143,6 +143,7 @@
 | 2026-09-14 08:02 | [MY HERO ACADEMIA SEASON 3 WATCHALONG im ](https://www.youtube.com/watch?v=ypS2ezyB5_g) | メンバー限定配信 | 不明（レベル表記なし） | 34 |
 | 2026-09-28 09:02 | [GNOMEO & JULIET watchalong!!! ive never ](https://www.youtube.com/watch?v=XGVkSBXrqlI) | メンバー限定配信 | 不明（レベル表記なし） | 46 |
 | 2026-10-05 09:01 | [CORALINE watchalong!!! & Looney Tunes: B](https://www.youtube.com/watch?v=FroCwIQaeXY) | メンバー限定配信 | 不明（レベル表記なし） | 46 |
+| 2026-10-08 05:04 | [【FINAL FANTASY XIV】 FALL GUYS EVENT WITH](https://www.youtube.com/watch?v=tMP6oH9BcvM) | アーカイブ処理中（次回再確認） | – | 431 |
 
 > メンバー限定配信の高評価数は「その配信を見られるメンバーが少なくともこれだけいる」という目安になります。
 

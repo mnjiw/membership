@@ -1,0 +1,19 @@
+// 毎朝 GitHub Actions の daily-update を起動するだけの小さな Worker (サイトの公開用 Worker とは別)
+// デプロイ: このフォルダで  npx wrangler deploy
+// トークンの登録: このフォルダで  npx wrangler secret put GITHUB_TOKEN
+{
+  "name": "membership-cron",
+  "main": "src/index.js",
+  "compatibility_date": "2026-10-01",
+  // 公開URLは不要 (時刻になったら動くだけ)
+  "workers_dev": false,
+  "triggers": {
+    // Cloudflare の cron は UTC。20:17 UTC = 日本時間 5:17
+    "crons": ["17 20 * * *"]
+  },
+  "vars": {
+    "GITHUB_REPO": "mnjiw/membership",
+    "WORKFLOW_FILE": "daily.yml"
+  },
+  "observability": { "enabled": true }
+}

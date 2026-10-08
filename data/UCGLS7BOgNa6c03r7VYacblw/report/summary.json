@@ -3,41 +3,41 @@
  "channel_id": "UCGLS7BOgNa6c03r7VYacblw",
  "handle": "@MinamoMadoka",
  "subscribers": 144000,
- "fetched_at": "2026-10-08 08:48",
- "generated_at": "2026-10-08 08:48",
+ "fetched_at": "2026-10-08 10:21",
+ "generated_at": "2026-10-08 10:21",
  "period": {
-  "from": "2026-09-08 08:48",
-  "to": "2026-10-08 08:48",
+  "from": "2026-09-08 10:21",
+  "to": "2026-10-08 10:21",
   "days": 30
  },
- "streams_analyzed": 16,
+ "streams_analyzed": 17,
  "streams_missed": 2,
- "unique_chatters": 1844,
- "members_confirmed": 261,
+ "unique_chatters": 1980,
+ "members_confirmed": 275,
  "member_classes": {
-  "unknown": 235,
-  "known": 5,
+  "unknown": 247,
+  "known": 7,
   "gift": 21
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 55
+   "members": 56
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 49
+   "members": 54
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 157
+   "members": 165
   }
  ],
  "events": {
-  "new_members": 4,
+  "new_members": 6,
   "rejoins": 1,
   "milestones": 0,
   "gift_purchases": 2,
@@ -50,21 +50,21 @@
    "tier": "水飲み隊",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 5,
+   "confirmed_members": 7,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 235.0,
-   "estimated_members": 240.0,
-   "monthly_net_confirmed": 1559,
-   "monthly_net_estimated": 74836
+   "allocated_unknown": 247.0,
+   "estimated_members": 254.0,
+   "monthly_net_confirmed": 2183,
+   "monthly_net_estimated": 79202
   }
  ],
  "revenue": {
-  "monthly_low": 74836,
-  "monthly_est": 74836,
+  "monthly_low": 79202,
+  "monthly_est": 79202,
   "gift_once": 6548,
-  "total_low": 81385,
-  "total_est": 81385,
-  "paying_members": 240,
+  "total_low": 85750,
+  "total_est": 85750,
+  "paying_members": 254,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -232,6 +232,16 @@
    "member_chatters": 62,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "x0Swm8s4P3I",
+   "start": "2026-10-07 17:32",
+   "title": "【 料理配信 】お誕生日パーティに持っていくお菓子作り🍪マカロン＆クッキー【 にじさんじ / 水面まどか 】",
+   "kind": "配信",
+   "chatters": 326,
+   "member_chatters": 96,
+   "new_members": 2,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -343,31 +353,31 @@
     "from": "2026-10-01",
     "to": "2026-10-08"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 6,
    "streams_missed": 0,
-   "unique_chatters": 509,
-   "members_confirmed": 145,
+   "unique_chatters": 705,
+   "members_confirmed": 171,
    "member_classes": {
-    "unknown": 141,
-    "known": 4
+    "unknown": 164,
+    "known": 7
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 15
+     "members": 17
     },
     {
      "months": 2,
-     "members": 30
+     "members": 36
     },
     {
      "months": 6,
-     "members": 100
+     "members": 118
     }
    ],
    "events": {
-    "new_members": 4,
+    "new_members": 6,
     "rejoins": 0,
     "milestones": 0,
     "gifted_total": 0
@@ -376,16 +386,16 @@
     {
      "tier": "水飲み隊",
      "price": 490,
-     "confirmed_members": 4,
-     "estimated_members": 145.0
+     "confirmed_members": 7,
+     "estimated_members": 171.0
     }
    ],
    "revenue": {
-    "monthly_low": 45214,
-    "monthly_est": 45214,
+    "monthly_low": 53321,
+    "monthly_est": 53321,
     "gift_once": 0
    },
-   "avg_member_chatters": 61,
+   "avg_member_chatters": 66.8,
    "partial": true,
    "finalized": false
   }

@@ -3,15 +3,15 @@
  "channel_id": "UCMzVa7B8UEdrvUGsPmSgyjA",
  "handle": "@DeremKado",
  "subscribers": 48300,
- "fetched_at": "2026-10-08 08:46",
- "generated_at": "2026-10-08 08:46",
+ "fetched_at": "2026-10-08 10:17",
+ "generated_at": "2026-10-08 10:17",
  "period": {
-  "from": "2026-09-08 08:46",
-  "to": "2026-10-08 08:46",
+  "from": "2026-09-08 10:17",
+  "to": "2026-10-08 10:17",
   "days": 30
  },
  "streams_analyzed": 17,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 243,
  "members_confirmed": 80,
  "member_classes": {
@@ -269,7 +269,20 @@
    "gifted_total": 5
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "eMisWLt7v0I",
+   "start": "2026-10-07 21:35",
+   "title": "【 Withering Rooms 】#2 IDK BRO 【 NIJISANJI | Derem Kado 】 #spooktober #screamtober",
+   "kind": "live",
+   "status": "processing",
+   "reason": "アーカイブ処理中（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 118,
+   "view_count": 892
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -353,7 +366,7 @@
     "to": "2026-10-08"
    },
    "streams_analyzed": 3,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 68,
    "members_confirmed": 32,
    "member_classes": {

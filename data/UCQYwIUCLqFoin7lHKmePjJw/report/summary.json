@@ -3,27 +3,27 @@
  "channel_id": "UCQYwIUCLqFoin7lHKmePjJw",
  "handle": "@KlaraCharmwood",
  "subscribers": 107000,
- "fetched_at": "2026-10-08 08:49",
- "generated_at": "2026-10-08 08:49",
+ "fetched_at": "2026-10-08 10:22",
+ "generated_at": "2026-10-08 10:22",
  "period": {
-  "from": "2026-09-08 08:49",
-  "to": "2026-10-08 08:49",
+  "from": "2026-09-08 10:22",
+  "to": "2026-10-08 10:22",
   "days": 30
  },
- "streams_analyzed": 10,
+ "streams_analyzed": 11,
  "streams_missed": 1,
- "unique_chatters": 1250,
- "members_confirmed": 259,
+ "unique_chatters": 1265,
+ "members_confirmed": 264,
  "member_classes": {
-  "unknown": 105,
-  "known": 72,
-  "gift": 82
+  "unknown": 107,
+  "known": 73,
+  "gift": 84
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 80
+   "members": 82
   },
   {
    "months": 1,
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 20
+   "members": 22
   },
   {
    "months": 6,
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 51
+   "members": 52
   },
   {
    "months": 24,
@@ -54,10 +54,10 @@
  "events": {
   "new_members": 12,
   "rejoins": 5,
-  "milestones": 59,
-  "gift_purchases": 26,
-  "gifted_total": 83,
-  "gift_redemptions": 82
+  "milestones": 61,
+  "gift_purchases": 28,
+  "gifted_total": 85,
+  "gift_redemptions": 84
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +65,21 @@
    "tier": "Cuppanions",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 72,
+   "confirmed_members": 73,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 105.0,
-   "estimated_members": 177.0,
-   "monthly_net_confirmed": 22451,
-   "monthly_net_estimated": 55192
+   "allocated_unknown": 107.0,
+   "estimated_members": 180.0,
+   "monthly_net_confirmed": 22763,
+   "monthly_net_estimated": 56127
   }
  ],
  "revenue": {
-  "monthly_low": 55192,
-  "monthly_est": 55192,
-  "gift_once": 25881,
-  "total_low": 81073,
-  "total_est": 81073,
-  "paying_members": 177,
+  "monthly_low": 56127,
+  "monthly_est": 56127,
+  "gift_once": 26505,
+  "total_low": 82632,
+  "total_est": 82632,
+  "paying_members": 180,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -187,6 +187,16 @@
    "member_chatters": 52,
    "new_members": 4,
    "gifted_total": 1
+  },
+  {
+   "video_id": "ZfCZ0IxCxyo",
+   "start": "2026-10-07 19:58",
+   "title": "【ReStory: Chill Electronics Repairs】Repairing Precious Memories #2【NIJISANJI EN | Klara Charmwood】",
+   "kind": "配信",
+   "chatters": 89,
+   "member_chatters": 55,
+   "new_members": 0,
+   "gifted_total": 2
   }
  ],
  "missed_streams": [
@@ -288,20 +298,20 @@
     "from": "2026-10-01",
     "to": "2026-10-08"
    },
-   "streams_analyzed": 6,
+   "streams_analyzed": 7,
    "streams_missed": 1,
-   "unique_chatters": 1146,
-   "members_confirmed": 232,
+   "unique_chatters": 1163,
+   "members_confirmed": 239,
    "member_classes": {
-    "unknown": 100,
-    "known": 71,
-    "gift": 61
+    "unknown": 104,
+    "known": 72,
+    "gift": 63
    },
-   "long_term_members": 102,
+   "long_term_members": 105,
    "badges": [
     {
      "months": 0,
-     "members": 60
+     "members": 62
     },
     {
      "months": 1,
@@ -309,7 +319,7 @@
     },
     {
      "months": 2,
-     "members": 20
+     "members": 22
     },
     {
      "months": 6,
@@ -317,7 +327,7 @@
     },
     {
      "months": 12,
-     "members": 46
+     "members": 49
     },
     {
      "months": 24,
@@ -327,23 +337,23 @@
    "events": {
     "new_members": 12,
     "rejoins": 4,
-    "milestones": 33,
-    "gifted_total": 61
+    "milestones": 35,
+    "gifted_total": 63
    },
    "tiers": [
     {
      "tier": "Cuppanions",
      "price": 490,
-     "confirmed_members": 71,
-     "estimated_members": 171.0
+     "confirmed_members": 72,
+     "estimated_members": 176.0
     }
    ],
    "revenue": {
-    "monthly_low": 53321,
-    "monthly_est": 53321,
-    "gift_once": 19021
+    "monthly_low": 54880,
+    "monthly_est": 54880,
+    "gift_once": 19645
    },
-   "avg_member_chatters": 83.7,
+   "avg_member_chatters": 79.6,
    "partial": true,
    "finalized": false
   }

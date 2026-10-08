@@ -3,19 +3,19 @@
  "channel_id": "UC_4QF0dL-9XI9VajsNkMtmQ",
  "handle": "@Rei7_Y4T4",
  "subscribers": 173000,
- "fetched_at": "2026-10-08 08:48",
- "generated_at": "2026-10-08 08:48",
+ "fetched_at": "2026-10-08 10:21",
+ "generated_at": "2026-10-08 10:21",
  "period": {
-  "from": "2026-09-08 08:48",
-  "to": "2026-10-08 08:48",
+  "from": "2026-09-08 10:21",
+  "to": "2026-10-08 10:21",
   "days": 30
  },
- "streams_analyzed": 35,
+ "streams_analyzed": 37,
  "streams_missed": 2,
- "unique_chatters": 6996,
- "members_confirmed": 794,
+ "unique_chatters": 7136,
+ "members_confirmed": 798,
  "member_classes": {
-  "unknown": 738,
+  "unknown": 742,
   "known": 46,
   "gift": 10
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 149
+   "members": 147
   },
   {
    "months": 1,
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 539
+   "members": 545
   }
  ],
  "events": {
@@ -52,19 +52,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 46,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 738.0,
-   "estimated_members": 784.0,
+   "allocated_unknown": 742.0,
+   "estimated_members": 788.0,
    "monthly_net_confirmed": 14344,
-   "monthly_net_estimated": 244465
+   "monthly_net_estimated": 245713
   }
  ],
  "revenue": {
-  "monthly_low": 244465,
-  "monthly_est": 244465,
+  "monthly_low": 245713,
+  "monthly_est": 245713,
   "gift_once": 3430,
-  "total_low": 247895,
-  "total_est": 247895,
-  "paying_members": 784,
+  "total_low": 249143,
+  "total_est": 249143,
+  "paying_members": 788,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -422,6 +422,26 @@
    "member_chatters": 129,
    "new_members": 3,
    "gifted_total": 0
+  },
+  {
+   "video_id": "3H_hiZZ5Png",
+   "start": "2026-10-07 23:15",
+   "title": "【 スト6 】起床。【 Rei7 / にじさんじ 】",
+   "kind": "配信",
+   "chatters": 397,
+   "member_chatters": 102,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "X4yoO515FP8",
+   "start": "2026-10-08 04:47",
+   "title": "【 The Artisan of Glimmith 】鬼ちるぱずる【 Rei7 / にじさんじ 】",
+   "kind": "配信",
+   "chatters": 239,
+   "member_chatters": 73,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -533,12 +553,12 @@
     "from": "2026-10-01",
     "to": "2026-10-08"
    },
-   "streams_analyzed": 8,
+   "streams_analyzed": 10,
    "streams_missed": 1,
-   "unique_chatters": 2066,
-   "members_confirmed": 389,
+   "unique_chatters": 2289,
+   "members_confirmed": 404,
    "member_classes": {
-    "unknown": 365,
+    "unknown": 380,
     "known": 24
    },
    "long_term_members": 0,
@@ -549,11 +569,11 @@
     },
     {
      "months": 1,
-     "members": 41
+     "members": 42
     },
     {
      "months": 2,
-     "members": 307
+     "members": 321
     }
    ],
    "events": {
@@ -567,15 +587,15 @@
      "tier": "Ris7",
      "price": 490,
      "confirmed_members": 24,
-     "estimated_members": 389.0
+     "estimated_members": 404.0
     }
    ],
    "revenue": {
-    "monthly_low": 121297,
-    "monthly_est": 121297,
+    "monthly_low": 125975,
+    "monthly_est": 125975,
     "gift_once": 0
    },
-   "avg_member_chatters": 127.1,
+   "avg_member_chatters": 119.2,
    "partial": true,
    "finalized": false
   }

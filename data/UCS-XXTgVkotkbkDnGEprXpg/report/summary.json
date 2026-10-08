@@ -3,50 +3,50 @@
  "channel_id": "UCS-XXTgVkotkbkDnGEprXpg",
  "handle": "@MashiroMeme",
  "subscribers": 626000,
- "fetched_at": "2026-10-08 08:45",
- "generated_at": "2026-10-08 08:45",
+ "fetched_at": "2026-10-08 10:15",
+ "generated_at": "2026-10-08 10:16",
  "period": {
-  "from": "2026-09-08 08:45",
-  "to": "2026-10-08 08:45",
+  "from": "2026-09-08 10:15",
+  "to": "2026-10-08 10:15",
   "days": 30
  },
- "streams_analyzed": 7,
+ "streams_analyzed": 8,
  "streams_missed": 3,
- "unique_chatters": 1790,
- "members_confirmed": 325,
+ "unique_chatters": 1869,
+ "members_confirmed": 342,
  "member_classes": {
-  "unknown": 316,
-  "known": 9
+  "unknown": 332,
+  "known": 10
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 26
+   "members": 31
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 16
+   "members": 18
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 35
+   "members": 38
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 51
+   "members": 54
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 197
+   "members": 201
   }
  ],
  "events": {
-  "new_members": 5,
+  "new_members": 6,
   "rejoins": 2,
   "milestones": 3,
   "gift_purchases": 0,
@@ -59,32 +59,32 @@
    "tier": "×",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 8,
-   "share_of_confirmed_pct": 88.9,
-   "allocated_unknown": 280.9,
-   "estimated_members": 288.9,
-   "monthly_net_confirmed": 2495,
-   "monthly_net_estimated": 90081
+   "confirmed_members": 9,
+   "share_of_confirmed_pct": 90.0,
+   "allocated_unknown": 298.8,
+   "estimated_members": 307.8,
+   "monthly_net_confirmed": 2806,
+   "monthly_net_estimated": 95978
   },
   {
    "tier": "××",
    "price": 1190,
    "net_per_member": 757.3,
    "confirmed_members": 1,
-   "share_of_confirmed_pct": 11.1,
-   "allocated_unknown": 35.1,
-   "estimated_members": 36.1,
+   "share_of_confirmed_pct": 10.0,
+   "allocated_unknown": 33.2,
+   "estimated_members": 34.2,
    "monthly_net_confirmed": 757,
-   "monthly_net_estimated": 27346
+   "monthly_net_estimated": 25899
   }
  ],
  "revenue": {
-  "monthly_low": 101786,
-  "monthly_est": 117427,
+  "monthly_low": 107087,
+  "monthly_est": 121876,
   "gift_once": 0,
-  "total_low": 101786,
-  "total_est": 117427,
-  "paying_members": 325,
+  "total_low": 107087,
+  "total_est": 121876,
+  "paying_members": 342,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -161,6 +161,16 @@
    "chatters": 368,
    "member_chatters": 136,
    "new_members": 2,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "keQlh7IEevs",
+   "start": "2026-10-08 00:04",
+   "title": "『スクジサマ』を巡る考察 - 前編",
+   "kind": "配信",
+   "chatters": 299,
+   "member_chatters": 142,
+   "new_members": 1,
    "gifted_total": 0
   }
  ],
@@ -308,39 +318,39 @@
     "from": "2026-10-01",
     "to": "2026-10-08"
    },
-   "streams_analyzed": 4,
+   "streams_analyzed": 5,
    "streams_missed": 1,
-   "unique_chatters": 1335,
-   "members_confirmed": 261,
+   "unique_chatters": 1437,
+   "members_confirmed": 290,
    "member_classes": {
-    "unknown": 255,
-    "known": 6
+    "unknown": 283,
+    "known": 7
    },
-   "long_term_members": 158,
+   "long_term_members": 172,
    "badges": [
     {
      "months": 0,
-     "members": 19
+     "members": 24
     },
     {
      "months": 1,
-     "members": 11
+     "members": 13
     },
     {
      "months": 2,
-     "members": 29
+     "members": 34
     },
     {
      "months": 6,
-     "members": 44
+     "members": 47
     },
     {
      "months": 12,
-     "members": 158
+     "members": 172
     }
    ],
    "events": {
-    "new_members": 2,
+    "new_members": 3,
     "rejoins": 1,
     "milestones": 2,
     "gifted_total": 0
@@ -349,22 +359,22 @@
     {
      "tier": "×",
      "price": 490,
-     "confirmed_members": 5,
-     "estimated_members": 217.5
+     "confirmed_members": 6,
+     "estimated_members": 248.6
     },
     {
      "tier": "××",
      "price": 1190,
      "confirmed_members": 1,
-     "estimated_members": 43.5
+     "estimated_members": 41.4
     }
    ],
    "revenue": {
-    "monthly_low": 81830,
-    "monthly_est": 100762,
+    "monthly_low": 90873,
+    "monthly_est": 108882,
     "gift_once": 0
    },
-   "avg_member_chatters": 129.8,
+   "avg_member_chatters": 132.2,
    "partial": true,
    "finalized": false
   }

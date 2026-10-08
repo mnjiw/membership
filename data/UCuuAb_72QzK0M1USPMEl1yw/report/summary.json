@@ -3,37 +3,37 @@
  "channel_id": "UCuuAb_72QzK0M1USPMEl1yw",
  "handle": "@SonnyBrisko",
  "subscribers": 544000,
- "fetched_at": "2026-10-08 08:49",
- "generated_at": "2026-10-08 08:49",
+ "fetched_at": "2026-10-08 10:22",
+ "generated_at": "2026-10-08 10:22",
  "period": {
-  "from": "2026-09-08 08:49",
-  "to": "2026-10-08 08:49",
+  "from": "2026-09-08 10:22",
+  "to": "2026-10-08 10:22",
   "days": 30
  },
- "streams_analyzed": 22,
+ "streams_analyzed": 23,
  "streams_missed": 0,
- "unique_chatters": 1543,
- "members_confirmed": 609,
+ "unique_chatters": 1568,
+ "members_confirmed": 620,
  "member_classes": {
-  "unknown": 393,
-  "known": 86,
-  "gift": 130
+  "unknown": 398,
+  "known": 87,
+  "gift": 135
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 148
+   "members": 152
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 20
+   "members": 19
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 51
+   "members": 53
   },
   {
    "months": 6,
@@ -43,21 +43,21 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 64
+   "members": 66
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 287
+   "members": 291
   }
  ],
  "events": {
   "new_members": 11,
   "rejoins": 9,
-  "milestones": 71,
-  "gift_purchases": 24,
-  "gifted_total": 132,
-  "gift_redemptions": 132
+  "milestones": 74,
+  "gift_purchases": 25,
+  "gifted_total": 137,
+  "gift_redemptions": 137
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +65,21 @@
    "tier": "Brisquad",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 86,
+   "confirmed_members": 87,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 393.0,
-   "estimated_members": 479.0,
-   "monthly_net_confirmed": 26816,
-   "monthly_net_estimated": 149361
+   "allocated_unknown": 398.0,
+   "estimated_members": 485.0,
+   "monthly_net_confirmed": 27128,
+   "monthly_net_estimated": 151232
   }
  ],
  "revenue": {
-  "monthly_low": 149361,
-  "monthly_est": 149361,
-  "gift_once": 41160,
-  "total_low": 190521,
-  "total_est": 190521,
-  "paying_members": 479,
+  "monthly_low": 151232,
+  "monthly_est": 151232,
+  "gift_once": 42719,
+  "total_low": 193951,
+  "total_est": 193951,
+  "paying_members": 485,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -307,6 +307,16 @@
    "member_chatters": 108,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "UBIPPl9KhO0",
+   "start": "2026-10-07 14:02",
+   "title": "【Mina the Hollower】the big cheese in town【NIJISANJI EN | Sonny Brisko】",
+   "kind": "配信",
+   "chatters": 157,
+   "member_chatters": 105,
+   "new_members": 0,
+   "gifted_total": 5
   }
  ],
  "missed_streams": [],
@@ -384,62 +394,62 @@
     "from": "2026-10-01",
     "to": "2026-10-08"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 4,
    "streams_missed": 0,
-   "unique_chatters": 378,
-   "members_confirmed": 231,
+   "unique_chatters": 435,
+   "members_confirmed": 256,
    "member_classes": {
-    "unknown": 178,
-    "known": 47,
-    "gift": 6
+    "unknown": 194,
+    "known": 51,
+    "gift": 11
    },
-   "long_term_members": 168,
+   "long_term_members": 183,
    "badges": [
     {
      "months": 0,
-     "members": 15
+     "members": 20
     },
     {
      "months": 1,
-     "members": 5
+     "members": 6
     },
     {
      "months": 2,
-     "members": 26
+     "members": 29
     },
     {
      "months": 6,
-     "members": 17
+     "members": 18
     },
     {
      "months": 12,
-     "members": 27
+     "members": 29
     },
     {
      "months": 24,
-     "members": 141
+     "members": 154
     }
    ],
    "events": {
     "new_members": 5,
     "rejoins": 0,
-    "milestones": 21,
-    "gifted_total": 6
+    "milestones": 24,
+    "gifted_total": 11
    },
    "tiers": [
     {
      "tier": "Brisquad",
      "price": 490,
-     "confirmed_members": 47,
-     "estimated_members": 225.0
+     "confirmed_members": 51,
+     "estimated_members": 245.0
     }
    ],
    "revenue": {
-    "monthly_low": 70159,
-    "monthly_est": 70159,
-    "gift_once": 1871
+    "monthly_low": 76395,
+    "monthly_est": 76395,
+    "gift_once": 3430
    },
-   "avg_member_chatters": 126,
+   "avg_member_chatters": 120.8,
    "partial": true,
    "finalized": false
   }

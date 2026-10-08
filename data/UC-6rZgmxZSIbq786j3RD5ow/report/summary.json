@@ -3,31 +3,31 @@
  "channel_id": "UC-6rZgmxZSIbq786j3RD5ow",
  "handle": "@LeosVincent",
  "subscribers": 513000,
- "fetched_at": "2026-10-08 08:46",
- "generated_at": "2026-10-08 08:46",
+ "fetched_at": "2026-10-08 10:16",
+ "generated_at": "2026-10-08 10:17",
  "period": {
-  "from": "2026-09-08 08:46",
-  "to": "2026-10-08 08:46",
+  "from": "2026-09-08 10:16",
+  "to": "2026-10-08 10:16",
   "days": 30
  },
- "streams_analyzed": 14,
+ "streams_analyzed": 15,
  "streams_missed": 1,
- "unique_chatters": 3227,
- "members_confirmed": 836,
+ "unique_chatters": 3270,
+ "members_confirmed": 851,
  "member_classes": {
-  "unknown": 831,
+  "unknown": 846,
   "known": 5
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 9
+   "members": 8
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 13
+   "members": 14
   },
   {
    "months": 2,
@@ -47,7 +47,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 640
+   "members": 655
   }
  ],
  "events": {
@@ -66,19 +66,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 5,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 831.0,
-   "estimated_members": 836.0,
+   "allocated_unknown": 846.0,
+   "estimated_members": 851.0,
    "monthly_net_confirmed": 1559,
-   "monthly_net_estimated": 260680
+   "monthly_net_estimated": 265357
   }
  ],
  "revenue": {
-  "monthly_low": 260680,
-  "monthly_est": 260680,
+  "monthly_low": 265357,
+  "monthly_est": 265357,
   "gift_once": 0,
-  "total_low": 260680,
-  "total_est": 260680,
-  "paying_members": 836,
+  "total_low": 265357,
+  "total_est": 265357,
+  "paying_members": 851,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -226,6 +226,16 @@
    "member_chatters": 312,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "GWBcgYl-Uvk",
+   "start": "2026-10-07 21:01",
+   "title": "【Everything is Crab: 生物進化ローグライト】史上最強の化け物を作り出す！【レオス・ヴィンセント/にじさんじ】",
+   "kind": "配信",
+   "chatters": 339,
+   "member_chatters": 256,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -326,39 +336,39 @@
     "from": "2026-10-01",
     "to": "2026-10-08"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 1,
-   "unique_chatters": 415,
-   "members_confirmed": 312,
+   "unique_chatters": 547,
+   "members_confirmed": 384,
    "member_classes": {
-    "unknown": 311,
+    "unknown": 383,
     "known": 1
    },
-   "long_term_members": 291,
+   "long_term_members": 358,
    "badges": [
     {
      "months": 0,
-     "members": 2
+     "members": 1
     },
     {
      "months": 1,
-     "members": 2
-    },
-    {
-     "months": 2,
      "members": 4
     },
     {
+     "months": 2,
+     "members": 6
+    },
+    {
      "months": 6,
-     "members": 13
+     "members": 15
     },
     {
      "months": 12,
-     "members": 46
+     "members": 53
     },
     {
      "months": 24,
-     "members": 245
+     "members": 305
     }
    ],
    "events": {
@@ -372,15 +382,15 @@
      "tier": "まめねこと実験済み被験者たち",
      "price": 490,
      "confirmed_members": 1,
-     "estimated_members": 312.0
+     "estimated_members": 384.0
     }
    ],
    "revenue": {
-    "monthly_low": 97287,
-    "monthly_est": 97287,
+    "monthly_low": 119738,
+    "monthly_est": 119738,
     "gift_once": 0
    },
-   "avg_member_chatters": 312,
+   "avg_member_chatters": 284,
    "partial": true,
    "finalized": false
   }

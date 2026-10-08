@@ -92,10 +92,35 @@ def safe_dirname(name: str) -> str:
     return re.sub(r'[\\/:*?"<>|\s]+', "_", name).strip("_") or "channel"
 
 
+class YtLog:
+    """yt-dlp の警告を画面には出さずに集め、YouTube の制限に関係するものだけ最後に表示する"""
+    HINTS = ("Sign in to confirm", "not a bot", "HTTP Error 429", "Too Many Requests", "rate-limit")
+
+    def __init__(self):
+        self.notable = []
+
+    def debug(self, msg):
+        pass
+
+    def info(self, msg):
+        pass
+
+    def warning(self, msg):
+        if any(h in msg for h in self.HINTS) and len(self.notable) < 20:
+            self.notable.append(msg.strip())
+
+    def error(self, msg):
+        self.warning(msg)
+
+
+YTLOG = YtLog()
+
+
 def base_ydl_opts(args) -> dict:
     opts = {
         "quiet": True,
-        "no_warnings": True,
+        "no_warnings": False,
+        "logger": YTLOG,
         "noprogress": True,                # 進捗表示でログが埋まらないようにする
         "ignoreerrors": False,
         "ignore_no_formats_error": True,   # 動画本体は落とさないので形式エラーは無視
@@ -219,7 +244,7 @@ def list_candidates(args, cutoff_ts: float):
 # ---------------------------------------------------------------------------
 # 2. 各枠を詳しく調べ、期間内の配信・プレミア公開ならチャットを保存
 # ---------------------------------------------------------------------------
-def fetch_one(args, video_id: str, chats_dir: Path, cutoff_ts: float, prev: dict):
+def fetch_one(args, video_id: str, chats_dir: Path, cutoff_ts: float, prev: dict, tab: str = "live"):
     opts = base_ydl_opts(args)
     opts.update({
         "writesubtitles": True,
@@ -236,10 +261,16 @@ def fetch_one(args, video_id: str, chats_dir: Path, cutoff_ts: float, prev: dict
         live_status = info.get("live_status")
         has_chat = "live_chat" in (info.get("subtitles") or {})
         members_only = info.get("availability") == "subscriber_only"
+        # YouTube に制限されると (GitHub Actions などデータセンターからのアクセスで起きやすい)、
+        # 配信かどうか (live_status) や開始時刻が欠けた情報が返ってくることがある
+        limited = live_status is None and not info.get("release_timestamp")
         if live_status in ("was_live", "post_live", "is_live"):
             kind = "live"
         elif has_chat and info.get("release_timestamp"):
             kind = "premiere"     # プレミア公開は not_live だがチャットリプレイがある
+        elif has_chat:
+            # チャットリプレイがあるのは配信かプレミア公開だけ。情報が欠けていても配信として扱う
+            kind = "premiere" if tab == "video" else "live"
         else:
             kind = "video"
         meta = {
@@ -256,6 +287,8 @@ def fetch_one(args, video_id: str, chats_dir: Path, cutoff_ts: float, prev: dict
             "has_chat": has_chat,
             "checked_at": fmt_ts(time.time()),
         }
+        if limited:
+            meta["info_limited"] = True   # 開始時刻は日付だけ (YouTube から欠けた情報が返ってきた)
         if prev.get("seen_live_at"):
             meta["seen_live_at"] = prev["seen_live_at"]
             meta["was_public_when_live"] = prev.get("was_public_when_live")
@@ -270,6 +303,10 @@ def fetch_one(args, video_id: str, chats_dir: Path, cutoff_ts: float, prev: dict
             if prev.get("was_public_when_live"):
                 return meta, "became_members_only"
             return meta, "members_only"
+        if kind == "video" and limited and tab == "live":
+            # ライブタブにある枠なのに配信かどうか分からない = 情報が欠けている。決めつけずに次回また確認する
+            meta["error"] = "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)"
+            return meta, "error"
         if kind == "video":
             return meta, "skip_not_stream"
         if not has_chat:
@@ -425,7 +462,7 @@ def main():
                 # その場合はこの枠を「次回また確認」にして先へ進む (次回は別のプロセスなので消せる)
                 if not remove_parts(chats_dir, vid):
                     raise PartFileLocked()
-                meta, status = fetch_one(args, vid, chats_dir, cutoff_ts, prev)
+                meta, status = fetch_one(args, vid, chats_dir, cutoff_ts, prev, c["tab"])
                 if status != "chat_failed":
                     break
                 if attempt < 2:
@@ -479,6 +516,11 @@ def main():
         save()
         time.sleep(args.sleep)
 
+    if YTLOG.notable:
+        print(f"⚠ YouTube の制限に関する警告が {len(YTLOG.notable)} 件ありました (例: {YTLOG.notable[0][:160]})")
+    limited_n = sum(1 for v in store["videos"].values() if v.get("info_limited") and v.get("checked_at", "") >= fmt_ts(now))
+    if limited_n:
+        print(f"⚠ {limited_n} 枠で、YouTube から欠けた情報が返ってきました (配信の開始時刻は日付だけになります)")
     refreshed = refresh_members_only(args, store, now)
     if refreshed:
         print(f"  メンバー限定コンテンツ {refreshed} 本の高評価数を更新しました")

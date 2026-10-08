@@ -3,26 +3,27 @@
  "channel_id": "UCz89MGFBrAqwJ5xMr5weSuA",
  "handle": "@InamiRai",
  "subscribers": 419000,
- "fetched_at": "2026-10-08 08:47",
- "generated_at": "2026-10-08 08:47",
+ "fetched_at": "2026-10-08 10:19",
+ "generated_at": "2026-10-08 10:19",
  "period": {
-  "from": "2026-09-08 08:47",
-  "to": "2026-10-08 08:47",
+  "from": "2026-09-08 10:19",
+  "to": "2026-10-08 10:19",
   "days": 30
  },
- "streams_analyzed": 7,
+ "streams_analyzed": 8,
  "streams_missed": 0,
- "unique_chatters": 3346,
- "members_confirmed": 1665,
+ "unique_chatters": 3717,
+ "members_confirmed": 1821,
  "member_classes": {
-  "unknown": 1532,
-  "known": 133
+  "unknown": 1626,
+  "known": 146,
+  "gift": 49
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 67
+   "members": 120
   },
   {
    "months": 1,
@@ -32,31 +33,31 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 281
+   "members": 303
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 322
+   "members": 339
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 618
+   "members": 662
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 320
+   "members": 340
   }
  ],
  "events": {
-  "new_members": 19,
-  "rejoins": 4,
-  "milestones": 112,
-  "gift_purchases": 0,
-  "gifted_total": 0,
-  "gift_redemptions": 0
+  "new_members": 23,
+  "rejoins": 6,
+  "milestones": 121,
+  "gift_purchases": 1,
+  "gifted_total": 50,
+  "gift_redemptions": 49
  },
  "tiers_configured": true,
  "tiers": [
@@ -64,21 +65,21 @@
    "tier": "伊波すたじお",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 133,
+   "confirmed_members": 146,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1532.0,
-   "estimated_members": 1665.0,
-   "monthly_net_confirmed": 41472,
-   "monthly_net_estimated": 519177
+   "allocated_unknown": 1626.0,
+   "estimated_members": 1772.0,
+   "monthly_net_confirmed": 45525,
+   "monthly_net_estimated": 552542
   }
  ],
  "revenue": {
-  "monthly_low": 519177,
-  "monthly_est": 519177,
-  "gift_once": 0,
-  "total_low": 519177,
-  "total_est": 519177,
-  "paying_members": 1665,
+  "monthly_low": 552542,
+  "monthly_est": 552542,
+  "gift_once": 15591,
+  "total_low": 568133,
+  "total_est": 568133,
+  "paying_members": 1772,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -156,6 +157,16 @@
    "member_chatters": 947,
    "new_members": 3,
    "gifted_total": 0
+  },
+  {
+   "video_id": "39mbepi-zeQ",
+   "start": "2026-10-07 22:00",
+   "title": "【 ベース 】弾きます【 伊波ライ / にじさんじ 】",
+   "kind": "配信",
+   "chatters": 1440,
+   "member_chatters": 962,
+   "new_members": 4,
+   "gifted_total": 50
   }
  ],
  "missed_streams": [],
@@ -232,61 +243,62 @@
     "from": "2026-10-01",
     "to": "2026-10-08"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 0,
-   "unique_chatters": 1331,
-   "members_confirmed": 947,
+   "unique_chatters": 2018,
+   "members_confirmed": 1292,
    "member_classes": {
-    "unknown": 853,
-    "known": 94
+    "unknown": 1128,
+    "known": 115,
+    "gift": 49
    },
-   "long_term_members": 539,
+   "long_term_members": 715,
    "badges": [
     {
      "months": 0,
-     "members": 21
+     "members": 85
     },
     {
      "months": 1,
-     "members": 32
+     "members": 38
     },
     {
      "months": 2,
-     "members": 157
+     "members": 205
     },
     {
      "months": 6,
-     "members": 198
+     "members": 249
     },
     {
      "months": 12,
-     "members": 346
+     "members": 467
     },
     {
      "months": 24,
-     "members": 193
+     "members": 248
     }
    ],
    "events": {
-    "new_members": 3,
-    "rejoins": 0,
-    "milestones": 21,
-    "gifted_total": 0
+    "new_members": 7,
+    "rejoins": 2,
+    "milestones": 30,
+    "gifted_total": 50
    },
    "tiers": [
     {
      "tier": "伊波すたじお",
      "price": 490,
-     "confirmed_members": 94,
-     "estimated_members": 947.0
+     "confirmed_members": 115,
+     "estimated_members": 1243.0
     }
    ],
    "revenue": {
-    "monthly_low": 295292,
-    "monthly_est": 295292,
-    "gift_once": 0
+    "monthly_low": 387590,
+    "monthly_est": 387590,
+    "gift_once": 15591
    },
-   "avg_member_chatters": 947,
+   "avg_member_chatters": 954.5,
    "partial": true,
    "finalized": false
   }

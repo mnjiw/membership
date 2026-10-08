@@ -3,19 +3,19 @@
  "channel_id": "UCKMYISTJAQ8xTplUPHiABlA",
  "handle": "@YashiroKizuku",
  "subscribers": 921000,
- "fetched_at": "2026-10-08 08:43",
- "generated_at": "2026-10-08 08:43",
+ "fetched_at": "2026-10-08 10:13",
+ "generated_at": "2026-10-08 10:14",
  "period": {
-  "from": "2026-09-08 08:43",
-  "to": "2026-10-08 08:43",
+  "from": "2026-09-08 10:13",
+  "to": "2026-10-08 10:13",
   "days": 30
  },
- "streams_analyzed": 16,
+ "streams_analyzed": 17,
  "streams_missed": 1,
- "unique_chatters": 13826,
- "members_confirmed": 905,
+ "unique_chatters": 14070,
+ "members_confirmed": 920,
  "member_classes": {
-  "unknown": 865,
+  "unknown": 880,
   "known": 35,
   "gift": 5
  },
@@ -23,17 +23,17 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 71
+   "members": 72
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 28
+   "members": 27
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 806
+   "members": 821
   }
  ],
  "events": {
@@ -52,19 +52,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 35,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 865.0,
-   "estimated_members": 900.0,
+   "allocated_unknown": 880.0,
+   "estimated_members": 915.0,
    "monthly_net_confirmed": 10914,
-   "monthly_net_estimated": 280636
+   "monthly_net_estimated": 285314
   }
  ],
  "revenue": {
-  "monthly_low": 280636,
-  "monthly_est": 280636,
+  "monthly_low": 285314,
+  "monthly_est": 285314,
   "gift_once": 1559,
-  "total_low": 282195,
-  "total_est": 282195,
-  "paying_members": 900,
+  "total_low": 286873,
+  "total_est": 286873,
+  "paying_members": 915,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -232,6 +232,16 @@
    "member_chatters": 289,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "oVd8OJGrLDs",
+   "start": "2026-10-07 21:02",
+   "title": "【めっちゃカメレオン】今頃！！やっと初プレイのめっちゃカメレオンwith謎いつメン【にじさんじ/社築】",
+   "kind": "配信",
+   "chatters": 1137,
+   "member_chatters": 273,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -321,19 +331,19 @@
     "from": "2026-10-01",
     "to": "2026-10-08"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 4,
    "streams_missed": 0,
-   "unique_chatters": 4073,
-   "members_confirmed": 464,
+   "unique_chatters": 4648,
+   "members_confirmed": 537,
    "member_classes": {
-    "unknown": 451,
-    "known": 13
+    "unknown": 521,
+    "known": 16
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 21
+     "members": 26
     },
     {
      "months": 1,
@@ -341,7 +351,7 @@
     },
     {
      "months": 2,
-     "members": 431
+     "members": 499
     }
    ],
    "events": {
@@ -354,16 +364,16 @@
     {
      "tier": "メンバー",
      "price": 490,
-     "confirmed_members": 13,
-     "estimated_members": 464.0
+     "confirmed_members": 16,
+     "estimated_members": 537.0
     }
    ],
    "revenue": {
-    "monthly_low": 144684,
-    "monthly_est": 144684,
+    "monthly_low": 167446,
+    "monthly_est": 167446,
     "gift_once": 0
    },
-   "avg_member_chatters": 247,
+   "avg_member_chatters": 253.5,
    "partial": true,
    "finalized": false
   }

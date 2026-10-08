@@ -3,27 +3,27 @@
  "channel_id": "UC6WFKwYptsxVue56Lx218vg",
  "handle": "@KoyanagiRou",
  "subscribers": 501000,
- "fetched_at": "2026-10-08 08:47",
- "generated_at": "2026-10-08 08:47",
+ "fetched_at": "2026-10-08 10:18",
+ "generated_at": "2026-10-08 10:20",
  "period": {
-  "from": "2026-09-08 08:47",
-  "to": "2026-10-08 08:47",
+  "from": "2026-09-08 10:18",
+  "to": "2026-10-08 10:18",
   "days": 30
  },
- "streams_analyzed": 35,
+ "streams_analyzed": 37,
  "streams_missed": 0,
- "unique_chatters": 5068,
- "members_confirmed": 2130,
+ "unique_chatters": 5224,
+ "members_confirmed": 2167,
  "member_classes": {
-  "unknown": 1784,
-  "known": 334,
+  "unknown": 1819,
+  "known": 336,
   "gift": 12
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 105
+   "members": 107
   },
   {
    "months": 1,
@@ -33,28 +33,28 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 173
+   "members": 176
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 450
+   "members": 456
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 667
+   "members": 676
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 689
+   "members": 706
   }
  ],
  "events": {
-  "new_members": 43,
+  "new_members": 44,
   "rejoins": 35,
-  "milestones": 279,
+  "milestones": 280,
   "gift_purchases": 4,
   "gifted_total": 12,
   "gift_redemptions": 12
@@ -65,21 +65,21 @@
    "tier": "ロウルフ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 334,
+   "confirmed_members": 336,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1784.0,
-   "estimated_members": 2118.0,
-   "monthly_net_confirmed": 104147,
-   "monthly_net_estimated": 660431
+   "allocated_unknown": 1819.0,
+   "estimated_members": 2155.0,
+   "monthly_net_confirmed": 104771,
+   "monthly_net_estimated": 671968
   }
  ],
  "revenue": {
-  "monthly_low": 660431,
-  "monthly_est": 660431,
+  "monthly_low": 671968,
+  "monthly_est": 671968,
   "gift_once": 3742,
-  "total_low": 664173,
-  "total_est": 664173,
-  "paying_members": 2118,
+  "total_low": 675710,
+  "total_est": 675710,
+  "paying_members": 2155,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -437,6 +437,26 @@
    "member_chatters": 332,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "-MZ-mM4XQhg",
+   "start": "2026-10-07 10:39",
+   "title": "【VALORANT】今日も飯まで【小柳ロウ/にじさんじ】",
+   "kind": "配信",
+   "chatters": 659,
+   "member_chatters": 445,
+   "new_members": 1,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "kJwx2kZL4A0",
+   "start": "2026-10-07 19:09",
+   "title": "【PUBG】ぶいすぽGG‐リサPUBG【小柳ロウ/にじさんじ】",
+   "kind": "配信",
+   "chatters": 1022,
+   "member_chatters": 716,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -514,19 +534,19 @@
     "from": "2026-10-01",
     "to": "2026-10-08"
    },
-   "streams_analyzed": 7,
+   "streams_analyzed": 9,
    "streams_missed": 0,
-   "unique_chatters": 2442,
-   "members_confirmed": 1302,
+   "unique_chatters": 2751,
+   "members_confirmed": 1407,
    "member_classes": {
-    "unknown": 1083,
-    "known": 219
+    "unknown": 1177,
+    "known": 230
    },
-   "long_term_members": 857,
+   "long_term_members": 932,
    "badges": [
     {
      "months": 0,
-     "members": 52
+     "members": 59
     },
     {
      "months": 1,
@@ -534,41 +554,41 @@
     },
     {
      "months": 2,
-     "members": 106
+     "members": 115
     },
     {
      "months": 6,
-     "members": 261
+     "members": 275
     },
     {
      "months": 12,
-     "members": 383
+     "members": 418
     },
     {
      "months": 24,
-     "members": 474
+     "members": 514
     }
    ],
    "events": {
-    "new_members": 5,
+    "new_members": 6,
     "rejoins": 3,
-    "milestones": 34,
+    "milestones": 35,
     "gifted_total": 0
    },
    "tiers": [
     {
      "tier": "ロウルフ",
      "price": 490,
-     "confirmed_members": 219,
-     "estimated_members": 1302.0
+     "confirmed_members": 230,
+     "estimated_members": 1407.0
     }
    ],
    "revenue": {
-    "monthly_low": 405987,
-    "monthly_est": 405987,
+    "monthly_low": 438728,
+    "monthly_est": 438728,
     "gift_once": 0
    },
-   "avg_member_chatters": 589.7,
+   "avg_member_chatters": 587.7,
    "partial": true,
    "finalized": false
   }

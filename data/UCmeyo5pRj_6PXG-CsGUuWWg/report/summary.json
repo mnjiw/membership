@@ -3,15 +3,15 @@
  "channel_id": "UCmeyo5pRj_6PXG-CsGUuWWg",
  "handle": "@KuroiShiba",
  "subscribers": 298000,
- "fetched_at": "2026-10-08 08:44",
- "generated_at": "2026-10-08 08:44",
+ "fetched_at": "2026-10-08 10:14",
+ "generated_at": "2026-10-08 10:14",
  "period": {
-  "from": "2026-09-08 08:44",
-  "to": "2026-10-08 08:44",
+  "from": "2026-09-08 10:14",
+  "to": "2026-10-08 10:14",
   "days": 30
  },
  "streams_analyzed": 6,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 916,
  "members_confirmed": 95,
  "member_classes": {
@@ -142,7 +142,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "Oto21fMWj70",
+   "start": "2026-10-07 21:02",
+   "title": "【めっちゃカメレオン】＃謎いつメン でめっちゃカメレオンやるのだ【黒井しば視点】",
+   "kind": "live",
+   "status": "processing",
+   "reason": "アーカイブ処理中（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 736,
+   "view_count": 12621
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -212,7 +225,7 @@
     "to": "2026-10-08"
    },
    "streams_analyzed": 2,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 273,
    "members_confirmed": 46,
    "member_classes": {

@@ -82,6 +82,9 @@ def process(ch: dict, args) -> dict:
 
     if not args.skip_fetch:
         code, out = run([sys.executable, "fetch_chats.py", cid, "--sleep", str(args.sleep)], args.timeout)
+        lm = re.search(r"⚠ (\d+) 枠で、YouTube から欠けた情報", out)
+        res["limited"] = int(lm.group(1)) if lm else 0
+        res["warned"] = "⚠ YouTube の制限に関する警告" in out
         m = re.search(r"完了: 新規 (\d+) / 確認済みで省略 (\d+) / 対象外 (\d+) / 次回再確認 (\d+)", out)
         if m:
             res["new"], res["retry"] = int(m.group(1)), int(m.group(4))
@@ -131,6 +134,10 @@ def write_report(results, started, finished, build_msg) -> str:
     L.append(f"- チャンネル: {len(results)} 件 / " + " / ".join(f"{STATUS_LABEL[k]} {v}" for k, v in counts.items() if v))
     L.append(f"- 新しく取得した配信: {sum(r['new'] for r in results)} 本")
     L.append(f"- 再挑戦中の配信 (取得エラー・7日間は自動で再挑戦): {sum(r.get('pending', 0) for r in results)} 本")
+    limited = sum(r.get("limited", 0) for r in results)
+    warned = sum(1 for r in results if r.get("warned"))
+    L.append(f"- YouTube から情報が欠けて返ってきた枠: {limited} 本 / 制限の警告が出たチャンネル: {warned} 件"
+             + ("（多い場合は、この実行環境が YouTube に制限されています）" if limited or warned else ""))
     L.append(f"- サイト: {build_msg}")
     L.append("")
     bad = [r for r in results if r["status"] not in ("ok", "no_streams")]

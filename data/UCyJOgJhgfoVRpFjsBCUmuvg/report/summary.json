@@ -3,19 +3,19 @@
  "channel_id": "UCyJOgJhgfoVRpFjsBCUmuvg",
  "handle": "@KozueMone",
  "subscribers": 158000,
- "fetched_at": "2026-10-08 08:47",
- "generated_at": "2026-10-08 08:47",
+ "fetched_at": "2026-10-08 10:19",
+ "generated_at": "2026-10-08 10:20",
  "period": {
-  "from": "2026-09-08 08:47",
-  "to": "2026-10-08 08:47",
+  "from": "2026-09-08 10:19",
+  "to": "2026-10-08 10:19",
   "days": 30
  },
- "streams_analyzed": 28,
+ "streams_analyzed": 29,
  "streams_missed": 5,
- "unique_chatters": 3617,
- "members_confirmed": 515,
+ "unique_chatters": 3665,
+ "members_confirmed": 516,
  "member_classes": {
-  "unknown": 400,
+  "unknown": 401,
   "known": 80,
   "gift": 35
  },
@@ -28,7 +28,7 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 10
+   "members": 11
   },
   {
    "months": 2,
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 80,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 400.0,
-   "estimated_members": 480.0,
+   "allocated_unknown": 401.0,
+   "estimated_members": 481.0,
    "monthly_net_confirmed": 24945,
-   "monthly_net_estimated": 149673
+   "monthly_net_estimated": 149985
   }
  ],
  "revenue": {
-  "monthly_low": 149673,
-  "monthly_est": 149673,
+  "monthly_low": 149985,
+  "monthly_est": 149985,
   "gift_once": 10914,
-  "total_low": 160586,
-  "total_est": 160586,
-  "paying_members": 480,
+  "total_low": 160898,
+  "total_est": 160898,
+  "paying_members": 481,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -367,6 +367,16 @@
    "member_chatters": 136,
    "new_members": 0,
    "gifted_total": 3
+  },
+  {
+   "video_id": "fSfK0SNUvVM",
+   "start": "2026-10-07 22:00",
+   "title": "【同時視聴】完全初見🔰Fate/stay night [Unlimited Blade Works]22話から最終話まで！【にじさんじ/梢桃音】",
+   "kind": "配信",
+   "chatters": 355,
+   "member_chatters": 114,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -556,40 +566,40 @@
     "from": "2026-10-01",
     "to": "2026-10-08"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 6,
    "streams_missed": 1,
-   "unique_chatters": 620,
-   "members_confirmed": 262,
+   "unique_chatters": 838,
+   "members_confirmed": 276,
    "member_classes": {
     "known": 55,
-    "unknown": 204,
+    "unknown": 218,
     "gift": 3
    },
-   "long_term_members": 186,
+   "long_term_members": 193,
    "badges": [
     {
      "months": 0,
-     "members": 10
+     "members": 11
     },
     {
      "months": 1,
-     "members": 4
+     "members": 5
     },
     {
      "months": 2,
-     "members": 16
+     "members": 17
     },
     {
      "months": 6,
-     "members": 46
+     "members": 50
     },
     {
      "months": 12,
-     "members": 113
+     "members": 115
     },
     {
      "months": 24,
-     "members": 73
+     "members": 78
     }
    ],
    "events": {
@@ -603,15 +613,15 @@
      "tier": "もねゴンの集い",
      "price": 490,
      "confirmed_members": 55,
-     "estimated_members": 259.0
+     "estimated_members": 273.0
     }
    ],
    "revenue": {
-    "monthly_low": 80761,
-    "monthly_est": 80761,
+    "monthly_low": 85126,
+    "monthly_est": 85126,
     "gift_once": 935
    },
-   "avg_member_chatters": 124.2,
+   "avg_member_chatters": 122.5,
    "partial": true,
    "finalized": false
   }
