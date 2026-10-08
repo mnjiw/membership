@@ -3,56 +3,56 @@
  "channel_id": "UCtC3B1n4XMiJmrDtu1Ni5qw",
  "handle": "@NanaseSuzuna",
  "subscribers": 313000,
- "fetched_at": "2026-10-08 10:19",
- "generated_at": "2026-10-08 10:20",
+ "fetched_at": "2026-10-09 05:28",
+ "generated_at": "2026-10-09 05:29",
  "period": {
-  "from": "2026-09-08 10:19",
-  "to": "2026-10-08 10:19",
+  "from": "2026-09-09 05:28",
+  "to": "2026-10-09 05:28",
   "days": 30
  },
  "streams_analyzed": 39,
- "streams_missed": 3,
- "unique_chatters": 10270,
- "members_confirmed": 1578,
+ "streams_missed": 1,
+ "unique_chatters": 10126,
+ "members_confirmed": 1530,
  "member_classes": {
-  "unknown": 1337,
-  "known": 99,
-  "gift": 142
+  "unknown": 1310,
+  "known": 103,
+  "gift": 117
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 394
+   "members": 369
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 276
+   "members": 270
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 163
+   "members": 161
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 504
+   "members": 485
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 241
+   "members": 245
   }
  ],
  "events": {
-  "new_members": 38,
+  "new_members": 41,
   "rejoins": 8,
-  "milestones": 62,
-  "gift_purchases": 20,
-  "gifted_total": 145,
-  "gift_redemptions": 142
+  "milestones": 57,
+  "gift_purchases": 18,
+  "gifted_total": 120,
+  "gift_redemptions": 117
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,21 +60,21 @@
    "tier": "すずふぁーむ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 99,
+   "confirmed_members": 103,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1337.0,
-   "estimated_members": 1436.0,
-   "monthly_net_confirmed": 30870,
-   "monthly_net_estimated": 447771
+   "allocated_unknown": 1310.0,
+   "estimated_members": 1413.0,
+   "monthly_net_confirmed": 32117,
+   "monthly_net_estimated": 440599
   }
  ],
  "revenue": {
-  "monthly_low": 447771,
-  "monthly_est": 447771,
-  "gift_once": 45214,
-  "total_low": 492985,
-  "total_est": 492985,
-  "paying_members": 1436,
+  "monthly_low": 440599,
+  "monthly_est": 440599,
+  "gift_once": 37418,
+  "total_low": 478017,
+  "total_est": 478017,
+  "paying_members": 1413,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "cfiUwDSVI10",
-   "start": "2026-09-08 18:59",
-   "title": "【30万人記念歌枠】感謝の気持ちを込めて！元気が出る曲歌枠🎶【七瀬すず菜/にじさんじ】",
-   "kind": "配信",
-   "chatters": 904,
-   "member_chatters": 473,
-   "new_members": 1,
-   "gifted_total": 25
-  },
   {
    "video_id": "Q7_2BXylGOo",
    "start": "2026-09-09 07:02",
@@ -454,6 +444,16 @@
    "gifted_total": 0
   },
   {
+   "video_id": "uPZ2nCHJQ0Y",
+   "start": "2026-10-07 00:00",
+   "title": "【 雑談 】スクイーズの中身初開封✨粉をまぶすとどんな手触り？？【七瀬すず菜/にじさんじ】",
+   "kind": "配信",
+   "chatters": 619,
+   "member_chatters": 337,
+   "new_members": 4,
+   "gifted_total": 0
+  },
+  {
    "video_id": "5tmQnPzykb8",
    "start": "2026-10-07 07:02",
    "title": "【朝活】おはすず10月7日（水）＃595【七瀬すず菜/にじさんじ】",
@@ -476,18 +476,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "2jqx9y1-Tx8",
-   "start": "2026-09-08 23:34",
-   "title": "【突発メン限】エビの消費期限が今日【七瀬すず菜/にじさんじ】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "すずふぁーむ",
-   "like_count": 328,
-   "view_count": null
-  },
-  {
    "video_id": "Rh4mCip3xtY",
    "start": "2026-10-06 22:02",
    "title": "【メン限】メンシスタンプ追加検討会議！どんなのが欲しい？？【七瀬すず菜/にじさんじ】",
@@ -496,41 +484,19 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "すずふぁーむ",
-   "like_count": 324,
+   "like_count": 326,
    "view_count": null
-  },
-  {
-   "video_id": "uPZ2nCHJQ0Y",
-   "start": "2026-10-07 22:30",
-   "title": "【 雑談 】スクイーズの中身初開封✨粉をまぶすとどんな手触り？？【七瀬すず菜/にじさんじ】",
-   "kind": "live",
-   "status": "processing",
-   "reason": "アーカイブ処理中（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 1533,
-   "view_count": 53140
   }
  ],
  "members_only_content": [
   {
-   "video_id": "2jqx9y1-Tx8",
-   "start": "2026-09-08 23:34",
-   "title": "【突発メン限】エビの消費期限が今日【七瀬すず菜/にじさんじ】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "すずふぁーむ",
-   "like_count": 328,
-   "view_count": null
-  },
-  {
    "video_id": "Rh4mCip3xtY",
    "start": "2026-10-06 22:02",
    "title": "【メン限】メンシスタンプ追加検討会議！どんなのが欲しい？？【七瀬すず菜/にじさんじ】",
    "kind": "live",
    "status": "members_only",
    "members_level": "すずふぁーむ",
-   "like_count": 324,
+   "like_count": 326,
    "view_count": null
   }
  ],
@@ -601,42 +567,42 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-08"
+    "to": "2026-10-09"
    },
-   "streams_analyzed": 8,
-   "streams_missed": 2,
-   "unique_chatters": 4273,
-   "members_confirmed": 1062,
+   "streams_analyzed": 9,
+   "streams_missed": 1,
+   "unique_chatters": 4382,
+   "members_confirmed": 1085,
    "member_classes": {
-    "unknown": 939,
-    "known": 83,
+    "unknown": 958,
+    "known": 87,
     "gift": 40
    },
-   "long_term_members": 550,
+   "long_term_members": 561,
    "badges": [
     {
      "months": 0,
-     "members": 190
+     "members": 196
     },
     {
      "months": 2,
-     "members": 202
+     "members": 207
     },
     {
      "months": 6,
-     "members": 120
+     "members": 121
     },
     {
      "months": 12,
-     "members": 359
+     "members": 364
     },
     {
      "months": 24,
-     "members": 191
+     "members": 197
     }
    ],
    "events": {
-    "new_members": 18,
+    "new_members": 22,
     "rejoins": 4,
     "milestones": 30,
     "gifted_total": 40
@@ -645,16 +611,16 @@
     {
      "tier": "すずふぁーむ",
      "price": 490,
-     "confirmed_members": 83,
-     "estimated_members": 1022.0
+     "confirmed_members": 87,
+     "estimated_members": 1045.0
     }
    ],
    "revenue": {
-    "monthly_low": 318678,
-    "monthly_est": 318678,
+    "monthly_low": 325850,
+    "monthly_est": 325850,
     "gift_once": 12473
    },
-   "avg_member_chatters": 426.1,
+   "avg_member_chatters": 416.2,
    "partial": true,
    "finalized": false
   }

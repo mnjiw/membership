@@ -3,19 +3,19 @@
  "channel_id": "UCtpB6Bvhs1Um93ziEDACQ8g",
  "handle": "@MorinakaKazaki",
  "subscribers": 336000,
- "fetched_at": "2026-10-08 10:12",
- "generated_at": "2026-10-08 10:12",
+ "fetched_at": "2026-10-09 05:18",
+ "generated_at": "2026-10-09 05:18",
  "period": {
-  "from": "2026-09-08 10:12",
-  "to": "2026-10-08 10:12",
+  "from": "2026-09-09 05:18",
+  "to": "2026-10-09 05:18",
   "days": 30
  },
- "streams_analyzed": 2,
+ "streams_analyzed": 3,
  "streams_missed": 0,
- "unique_chatters": 308,
- "members_confirmed": 97,
+ "unique_chatters": 313,
+ "members_confirmed": 98,
  "member_classes": {
-  "unknown": 83,
+  "unknown": 84,
   "known": 4,
   "gift": 10
  },
@@ -53,7 +53,7 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 71
+   "members": 72
   }
  ],
  "events": {
@@ -72,10 +72,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 4,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 83.0,
-   "estimated_members": 87.0,
+   "allocated_unknown": 84.0,
+   "estimated_members": 88.0,
    "monthly_net_confirmed": 1247,
-   "monthly_net_estimated": 27128
+   "monthly_net_estimated": 27440
   },
   {
    "tier": "お前の歌を愛してるぞプラン",
@@ -101,12 +101,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 27128,
-  "monthly_est": 27128,
+  "monthly_low": 27440,
+  "monthly_est": 27440,
   "gift_once": 3118,
-  "total_low": 30246,
-  "total_est": 30246,
-  "paying_members": 87,
+  "total_low": 30558,
+  "total_est": 30558,
+  "paying_members": 88,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -132,6 +132,16 @@
    "kind": "配信",
    "chatters": 183,
    "member_chatters": 67,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "4uvokJtoUVg",
+   "start": "2026-10-08 00:00",
+   "title": "【OW】新シーズン‼にじさんじOWカスタム🔫ｗにじさんじライバー9名【森中花咲/にじさんじ所属】",
+   "kind": "配信",
+   "chatters": 26,
+   "member_chatters": 15,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -221,17 +231,17 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-08"
+    "to": "2026-10-09"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 0,
-   "unique_chatters": 183,
-   "members_confirmed": 67,
+   "unique_chatters": 190,
+   "members_confirmed": 68,
    "member_classes": {
-    "unknown": 64,
+    "unknown": 65,
     "known": 3
    },
-   "long_term_members": 62,
+   "long_term_members": 63,
    "badges": [
     {
      "months": 1,
@@ -251,7 +261,7 @@
     },
     {
      "months": 36,
-     "members": 53
+     "members": 54
     }
    ],
    "events": {
@@ -265,7 +275,7 @@
      "tier": "くまさんず会社",
      "price": 490,
      "confirmed_members": 3,
-     "estimated_members": 67.0
+     "estimated_members": 68.0
     },
     {
      "tier": "お前の歌を愛してるぞプラン",
@@ -281,11 +291,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 20892,
-    "monthly_est": 20892,
+    "monthly_low": 21204,
+    "monthly_est": 21204,
     "gift_once": 0
    },
-   "avg_member_chatters": 67,
+   "avg_member_chatters": 41,
    "partial": true,
    "finalized": false
   }

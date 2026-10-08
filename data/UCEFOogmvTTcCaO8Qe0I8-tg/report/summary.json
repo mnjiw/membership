@@ -3,41 +3,41 @@
  "channel_id": "UCEFOogmvTTcCaO8Qe0I8-tg",
  "handle": "@KaelixDebonair",
  "subscribers": 239000,
- "fetched_at": "2026-10-08 10:23",
- "generated_at": "2026-10-08 10:23",
+ "fetched_at": "2026-10-09 05:34",
+ "generated_at": "2026-10-09 05:35",
  "period": {
-  "from": "2026-09-08 10:23",
-  "to": "2026-10-08 10:23",
+  "from": "2026-09-09 05:34",
+  "to": "2026-10-09 05:34",
   "days": 30
  },
  "streams_analyzed": 13,
  "streams_missed": 1,
- "unique_chatters": 5568,
- "members_confirmed": 1384,
+ "unique_chatters": 5677,
+ "members_confirmed": 1407,
  "member_classes": {
-  "unknown": 1250,
-  "known": 39,
-  "gift": 95
+  "unknown": 1244,
+  "known": 40,
+  "gift": 123
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 654
+   "members": 672
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 730
+   "members": 735
   }
  ],
  "events": {
-  "new_members": 35,
-  "rejoins": 13,
+  "new_members": 36,
+  "rejoins": 12,
   "milestones": 0,
-  "gift_purchases": 23,
-  "gifted_total": 121,
-  "gift_redemptions": 95
+  "gift_purchases": 31,
+  "gifted_total": 149,
+  "gift_redemptions": 123
  },
  "tiers_configured": true,
  "tiers": [
@@ -45,21 +45,21 @@
    "tier": "Debonheir Royale",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 39,
+   "confirmed_members": 40,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1250.0,
-   "estimated_members": 1289.0,
-   "monthly_net_confirmed": 17125,
-   "monthly_net_estimated": 565988
+   "allocated_unknown": 1244.0,
+   "estimated_members": 1284.0,
+   "monthly_net_confirmed": 17564,
+   "monthly_net_estimated": 563793
   }
  ],
  "revenue": {
-  "monthly_low": 565988,
-  "monthly_est": 565988,
-  "gift_once": 53130,
-  "total_low": 619118,
-  "total_est": 619118,
-  "paying_members": 1289,
+  "monthly_low": 563793,
+  "monthly_est": 563793,
+  "gift_once": 65425,
+  "total_low": 629217,
+  "total_est": 629217,
+  "paying_members": 1284,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -68,16 +68,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "0amwIMioKR8",
-   "start": "2026-09-08 22:55",
-   "title": "zelda direct!!!!!!!! 【NIJISANJI EN | Kaelix Debonair】",
-   "kind": "配信",
-   "chatters": 705,
-   "member_chatters": 372,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "bGWKDsKUwf4",
    "start": "2026-09-12 08:02",
@@ -197,6 +187,16 @@
    "member_chatters": 364,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "p5L0vgyv_4Y",
+   "start": "2026-10-08 00:00",
+   "title": "the guerilla where he was a computer virus",
+   "kind": "配信",
+   "chatters": 878,
+   "member_chatters": 365,
+   "new_members": 1,
+   "gifted_total": 28
   }
  ],
  "missed_streams": [
@@ -280,47 +280,48 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-08"
+    "to": "2026-10-09"
    },
-   "streams_analyzed": 2,
+   "streams_analyzed": 3,
    "streams_missed": 0,
-   "unique_chatters": 891,
-   "members_confirmed": 431,
+   "unique_chatters": 1442,
+   "members_confirmed": 593,
    "member_classes": {
-    "unknown": 421,
-    "known": 10
+    "unknown": 551,
+    "known": 14,
+    "gift": 28
    },
-   "long_term_members": 243,
+   "long_term_members": 324,
    "badges": [
     {
      "months": 0,
-     "members": 188
+     "members": 269
     },
     {
      "months": 12,
-     "members": 243
+     "members": 324
     }
    ],
    "events": {
-    "new_members": 0,
+    "new_members": 1,
     "rejoins": 0,
     "milestones": 0,
-    "gifted_total": 0
+    "gifted_total": 28
    },
    "tiers": [
     {
      "tier": "Debonheir Royale",
      "price": 690,
-     "confirmed_members": 10,
-     "estimated_members": 431.0
+     "confirmed_members": 14,
+     "estimated_members": 565.0
     }
    ],
    "revenue": {
-    "monthly_low": 189248,
-    "monthly_est": 189248,
-    "gift_once": 0
+    "monthly_low": 248086,
+    "monthly_est": 248086,
+    "gift_once": 12295
    },
-   "avg_member_chatters": 286.5,
+   "avg_member_chatters": 312.7,
    "partial": true,
    "finalized": false
   }

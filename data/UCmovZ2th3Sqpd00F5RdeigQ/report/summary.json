@@ -3,20 +3,20 @@
  "channel_id": "UCmovZ2th3Sqpd00F5RdeigQ",
  "handle": "@KagamiHayato",
  "subscribers": 962000,
- "fetched_at": "2026-10-08 10:15",
- "generated_at": "2026-10-08 10:16",
+ "fetched_at": "2026-10-09 05:21",
+ "generated_at": "2026-10-09 05:23",
  "period": {
-  "from": "2026-09-08 10:15",
-  "to": "2026-10-08 10:15",
+  "from": "2026-09-09 05:21",
+  "to": "2026-10-09 05:21",
   "days": 30
  },
  "streams_analyzed": 18,
  "streams_missed": 1,
- "unique_chatters": 9709,
- "members_confirmed": 2952,
+ "unique_chatters": 9414,
+ "members_confirmed": 2939,
  "member_classes": {
-  "unknown": 2779,
-  "known": 38,
+  "unknown": 2767,
+  "known": 37,
   "gift": 135
  },
  "badges": [
@@ -38,21 +38,21 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 424
+   "members": 420
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 659
+   "members": 664
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 1398
+   "members": 1384
   }
  ],
  "events": {
-  "new_members": 19,
+  "new_members": 18,
   "rejoins": 18,
   "milestones": 0,
   "gift_purchases": 31,
@@ -65,21 +65,21 @@
    "tier": "加賀美ハヤトのメンバーシップ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 38,
+   "confirmed_members": 37,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2779.0,
-   "estimated_members": 2817.0,
-   "monthly_net_confirmed": 11849,
-   "monthly_net_estimated": 878392
+   "allocated_unknown": 2767.0,
+   "estimated_members": 2804.0,
+   "monthly_net_confirmed": 11537,
+   "monthly_net_estimated": 874338
   }
  ],
  "revenue": {
-  "monthly_low": 878392,
-  "monthly_est": 878392,
+  "monthly_low": 874338,
+  "monthly_est": 874338,
   "gift_once": 42095,
-  "total_low": 920487,
-  "total_est": 920487,
-  "paying_members": 2817,
+  "total_low": 916434,
+  "total_est": 916434,
+  "paying_members": 2804,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "6R5bsCRzYVQ",
-   "start": "2026-09-08 22:31",
-   "title": "【#にじ遊戯王祭2026】M∀LICE＜K＞加賀美【にじさんじ/加賀美ハヤト】",
-   "kind": "配信",
-   "chatters": 2077,
-   "member_chatters": 803,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "YOpha1fZAmc",
    "start": "2026-09-10 22:00",
@@ -267,6 +257,16 @@
    "member_chatters": 943,
    "new_members": 1,
    "gifted_total": 10
+  },
+  {
+   "video_id": "IM7p2ygR9bU",
+   "start": "2026-10-08 00:00",
+   "title": "【Dinoblade】　帯刀したスピノサウルスで、頂点捕食者に挑む　【にじさんじ/加賀美ハヤト】",
+   "kind": "配信",
+   "chatters": 1365,
+   "member_chatters": 760,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -366,22 +366,22 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-08"
+    "to": "2026-10-09"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 6,
    "streams_missed": 0,
-   "unique_chatters": 4874,
-   "members_confirmed": 1948,
+   "unique_chatters": 5194,
+   "members_confirmed": 2016,
    "member_classes": {
-    "unknown": 1910,
+    "unknown": 1978,
     "gift": 26,
     "known": 12
    },
-   "long_term_members": 1403,
+   "long_term_members": 1457,
    "badges": [
     {
      "months": 0,
-     "members": 78
+     "members": 81
     },
     {
      "months": 1,
@@ -389,19 +389,19 @@
     },
     {
      "months": 2,
-     "members": 146
+     "members": 150
     },
     {
      "months": 6,
-     "members": 302
+     "members": 309
     },
     {
      "months": 12,
-     "members": 457
+     "members": 476
     },
     {
      "months": 24,
-     "members": 946
+     "members": 981
     }
    ],
    "events": {
@@ -415,15 +415,15 @@
      "tier": "加賀美ハヤトのメンバーシップ",
      "price": 490,
      "confirmed_members": 12,
-     "estimated_members": 1922.0
+     "estimated_members": 1990.0
     }
    ],
    "revenue": {
-    "monthly_low": 599315,
-    "monthly_est": 599315,
+    "monthly_low": 620518,
+    "monthly_est": 620518,
     "gift_once": 8107
    },
-   "avg_member_chatters": 905.4,
+   "avg_member_chatters": 881.2,
    "partial": true,
    "finalized": false
   }

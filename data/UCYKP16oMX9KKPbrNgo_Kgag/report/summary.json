@@ -3,19 +3,19 @@
  "channel_id": "UCYKP16oMX9KKPbrNgo_Kgag",
  "handle": "@Elu",
  "subscribers": 735000,
- "fetched_at": "2026-10-08 10:12",
- "generated_at": "2026-10-08 10:12",
+ "fetched_at": "2026-10-09 05:17",
+ "generated_at": "2026-10-09 05:18",
  "period": {
-  "from": "2026-09-08 10:12",
-  "to": "2026-10-08 10:12",
+  "from": "2026-09-09 05:17",
+  "to": "2026-10-09 05:17",
   "days": 30
  },
  "streams_analyzed": 25,
  "streams_missed": 1,
- "unique_chatters": 4923,
- "members_confirmed": 292,
+ "unique_chatters": 4932,
+ "members_confirmed": 291,
  "member_classes": {
-  "unknown": 267,
+  "unknown": 266,
   "known": 25
  },
  "badges": [
@@ -27,7 +27,7 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 9
+   "members": 8
   },
   {
    "months": 2,
@@ -37,12 +37,12 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 21
+   "members": 22
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 47
+   "members": 46
   },
   {
    "months": 24,
@@ -76,19 +76,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 25,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 267.0,
-   "estimated_members": 292.0,
+   "allocated_unknown": 266.0,
+   "estimated_members": 291.0,
    "monthly_net_confirmed": 7795,
-   "monthly_net_estimated": 91051
+   "monthly_net_estimated": 90739
   }
  ],
  "revenue": {
-  "monthly_low": 91051,
-  "monthly_est": 91051,
+  "monthly_low": 90739,
+  "monthly_est": 90739,
   "gift_once": 0,
-  "total_low": 91051,
-  "total_est": 91051,
-  "paying_members": 292,
+  "total_low": 90739,
+  "total_est": 90739,
+  "paying_members": 291,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -97,16 +97,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "kq0cbTrf-W8",
-   "start": "2026-09-08 18:59",
-   "title": "【 都市伝説解体センター 】完全初見！#4 あざみーのこともっと教えてよ。※ネタバレ注意【にじさんじ/える】",
-   "kind": "配信",
-   "chatters": 216,
-   "member_chatters": 61,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "Ue4xSXjWA2M",
    "start": "2026-09-09 19:01",
@@ -346,6 +336,16 @@
    "member_chatters": 125,
    "new_members": 2,
    "gifted_total": 0
+  },
+  {
+   "video_id": "qLItyxDDcJc",
+   "start": "2026-10-08 00:00",
+   "title": "【 SILENT HILL: Townfall 】サイレントヒル最新作！【にじさんじ/える】",
+   "kind": "配信",
+   "chatters": 193,
+   "member_chatters": 73,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -452,17 +452,17 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-08"
+    "to": "2026-10-09"
    },
-   "streams_analyzed": 7,
+   "streams_analyzed": 8,
    "streams_missed": 0,
-   "unique_chatters": 1945,
-   "members_confirmed": 201,
+   "unique_chatters": 1993,
+   "members_confirmed": 206,
    "member_classes": {
     "known": 20,
-    "unknown": 181
+    "unknown": 186
    },
-   "long_term_members": 171,
+   "long_term_members": 174,
    "badges": [
     {
      "months": 0,
@@ -474,15 +474,15 @@
     },
     {
      "months": 2,
-     "members": 3
+     "members": 4
     },
     {
      "months": 6,
-     "members": 16
+     "members": 17
     },
     {
      "months": 12,
-     "members": 27
+     "members": 28
     },
     {
      "months": 24,
@@ -494,7 +494,7 @@
     },
     {
      "months": 48,
-     "members": 66
+     "members": 68
     }
    ],
    "events": {
@@ -508,15 +508,15 @@
      "tier": "エルフの森",
      "price": 490,
      "confirmed_members": 20,
-     "estimated_members": 201.0
+     "estimated_members": 206.0
     }
    ],
    "revenue": {
-    "monthly_low": 62675,
-    "monthly_est": 62675,
+    "monthly_low": 64235,
+    "monthly_est": 64235,
     "gift_once": 0
    },
-   "avg_member_chatters": 80.1,
+   "avg_member_chatters": 79.2,
    "partial": true,
    "finalized": false
   }

@@ -3,15 +3,15 @@
  "channel_id": "UClS6k3w1sPwlVFqK3-yID5A",
  "handle": "@RyuHari",
  "subscribers": 44500,
- "fetched_at": "2026-10-08 10:17",
- "generated_at": "2026-10-08 10:18",
+ "fetched_at": "2026-10-09 05:25",
+ "generated_at": "2026-10-09 05:26",
  "period": {
-  "from": "2026-09-08 10:17",
-  "to": "2026-10-08 10:17",
+  "from": "2026-09-09 05:25",
+  "to": "2026-10-09 05:25",
   "days": 30
  },
  "streams_analyzed": 10,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 112,
  "members_confirmed": 41,
  "member_classes": {
@@ -164,7 +164,20 @@
    "gifted_total": 1
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "O2jjrj9Dr_8",
+   "start": "2026-10-08 00:00",
+   "title": "🎸🔰今日からまたギター練習頑張る",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 145,
+   "view_count": 1701
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -217,10 +230,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-08"
+    "to": "2026-10-09"
    },
    "streams_analyzed": 3,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 45,
    "members_confirmed": 28,
    "member_classes": {

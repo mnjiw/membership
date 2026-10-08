@@ -3,27 +3,27 @@
  "channel_id": "UCoztvTULBYd3WmStqYeoHcA",
  "handle": "@SasakiSaku",
  "subscribers": 1000000,
- "fetched_at": "2026-10-08 10:12",
- "generated_at": "2026-10-08 10:12",
+ "fetched_at": "2026-10-09 05:18",
+ "generated_at": "2026-10-09 05:19",
  "period": {
-  "from": "2026-09-08 10:12",
-  "to": "2026-10-08 10:12",
+  "from": "2026-09-09 05:18",
+  "to": "2026-10-09 05:18",
   "days": 30
  },
  "streams_analyzed": 18,
- "streams_missed": 2,
- "unique_chatters": 5925,
- "members_confirmed": 456,
+ "streams_missed": 1,
+ "unique_chatters": 5826,
+ "members_confirmed": 451,
  "member_classes": {
-  "unknown": 424,
+  "unknown": 420,
   "gift": 20,
-  "known": 12
+  "known": 11
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 42
+   "members": 41
   },
   {
    "months": 1,
@@ -33,17 +33,17 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 37
+   "members": 35
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 13
+   "members": 12
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 49
+   "members": 47
   },
   {
    "months": 24,
@@ -53,16 +53,16 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 55
+   "members": 53
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 213
+   "members": 216
   }
  ],
  "events": {
-  "new_members": 6,
+  "new_members": 5,
   "rejoins": 6,
   "milestones": 0,
   "gift_purchases": 18,
@@ -75,21 +75,21 @@
    "tier": "しゃしゃりめんばー",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 12,
+   "confirmed_members": 11,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 424.0,
-   "estimated_members": 436.0,
-   "monthly_net_confirmed": 3742,
-   "monthly_net_estimated": 135953
+   "allocated_unknown": 420.0,
+   "estimated_members": 431.0,
+   "monthly_net_confirmed": 3430,
+   "monthly_net_estimated": 134394
   }
  ],
  "revenue": {
-  "monthly_low": 135953,
-  "monthly_est": 135953,
+  "monthly_low": 134394,
+  "monthly_est": 134394,
   "gift_once": 6860,
-  "total_low": 142813,
-  "total_est": 142813,
-  "paying_members": 436,
+  "total_low": 141254,
+  "total_est": 141254,
+  "paying_members": 431,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "fVPb5EVWq8s",
-   "start": "2026-09-08 19:00",
-   "title": "やられたら即終了の『スーパーマリオサンシャイン』やよ〜。#02",
-   "kind": "配信",
-   "chatters": 515,
-   "member_chatters": 123,
-   "new_members": 1,
-   "gifted_total": 1
-  },
   {
    "video_id": "jz7J4qLBUow",
    "start": "2026-09-09 22:01",
@@ -277,21 +267,19 @@
    "member_chatters": 169,
    "new_members": 0,
    "gifted_total": 1
+  },
+  {
+   "video_id": "Rm4hTCGwEAA",
+   "start": "2026-10-08 00:00",
+   "title": "トルネコの大冒険 ちょっとステキなリマスター 完全初見でやるやよ！ #03",
+   "kind": "配信",
+   "chatters": 422,
+   "member_chatters": 118,
+   "new_members": 0,
+   "gifted_total": 1
   }
  ],
  "missed_streams": [
-  {
-   "video_id": "v0iXplLSeeM",
-   "start": "2026-09-08 22:37",
-   "title": "⋈ ᴍᴇᴍʙᴇʀ ᴏɴʟʏ ⋈　2026.0908 ゼルダ Directみたり雑談したり。",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 199,
-   "view_count": null
-  },
   {
    "video_id": "CWw0HzYSWNw",
    "start": "2026-09-30 21:31",
@@ -306,16 +294,6 @@
   }
  ],
  "members_only_content": [
-  {
-   "video_id": "v0iXplLSeeM",
-   "start": "2026-09-08 22:37",
-   "title": "⋈ ᴍᴇᴍʙᴇʀ ᴏɴʟʏ ⋈　2026.0908 ゼルダ Directみたり雑談したり。",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 199,
-   "view_count": null
-  },
   {
    "video_id": "CWw0HzYSWNw",
    "start": "2026-09-30 21:31",
@@ -406,30 +384,30 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-08"
+    "to": "2026-10-09"
    },
-   "streams_analyzed": 4,
+   "streams_analyzed": 5,
    "streams_missed": 0,
-   "unique_chatters": 1898,
-   "members_confirmed": 272,
+   "unique_chatters": 2079,
+   "members_confirmed": 287,
    "member_classes": {
-    "unknown": 261,
-    "gift": 8,
-    "known": 3
+    "unknown": 274,
+    "gift": 9,
+    "known": 4
    },
-   "long_term_members": 216,
+   "long_term_members": 228,
    "badges": [
     {
      "months": 0,
-     "members": 16
+     "members": 17
     },
     {
      "months": 1,
-     "members": 13
+     "members": 14
     },
     {
      "months": 2,
-     "members": 19
+     "members": 20
     },
     {
      "months": 6,
@@ -437,41 +415,41 @@
     },
     {
      "months": 12,
-     "members": 22
-    },
-    {
-     "months": 24,
      "members": 24
     },
     {
+     "months": 24,
+     "members": 25
+    },
+    {
      "months": 36,
-     "members": 28
+     "members": 29
     },
     {
      "months": 48,
-     "members": 142
+     "members": 150
     }
    ],
    "events": {
     "new_members": 1,
     "rejoins": 0,
     "milestones": 0,
-    "gifted_total": 8
+    "gifted_total": 9
    },
    "tiers": [
     {
      "tier": "しゃしゃりめんばー",
      "price": 490,
-     "confirmed_members": 3,
-     "estimated_members": 264.0
+     "confirmed_members": 4,
+     "estimated_members": 278.0
     }
    ],
    "revenue": {
-    "monthly_low": 82320,
-    "monthly_est": 82320,
-    "gift_once": 2495
+    "monthly_low": 86685,
+    "monthly_est": 86685,
+    "gift_once": 2806
    },
-   "avg_member_chatters": 129,
+   "avg_member_chatters": 126.8,
    "partial": true,
    "finalized": false
   }

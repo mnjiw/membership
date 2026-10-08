@@ -3,15 +3,15 @@
  "channel_id": "UCUc8GZfFxtmk7ZwSO7ccQ0g",
  "handle": "@NuiSociere",
  "subscribers": 708000,
- "fetched_at": "2026-10-08 10:14",
- "generated_at": "2026-10-08 10:15",
+ "fetched_at": "2026-10-09 05:21",
+ "generated_at": "2026-10-09 05:21",
  "period": {
-  "from": "2026-09-08 10:14",
-  "to": "2026-10-08 10:14",
+  "from": "2026-09-09 05:21",
+  "to": "2026-10-09 05:21",
   "days": 30
  },
  "streams_analyzed": 17,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 5094,
  "members_confirmed": 827,
  "member_classes": {
@@ -259,8 +259,32 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
- "members_only_content": [],
+ "missed_streams": [
+  {
+   "video_id": "4HtQLxCbIBo",
+   "start": "2026-10-08 21:00",
+   "title": "【メン限】ざつざつざつだんだんだん【ニュイ・ソシエール /にじさんじ】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 243,
+   "view_count": null
+  }
+ ],
+ "members_only_content": [
+  {
+   "video_id": "4HtQLxCbIBo",
+   "start": "2026-10-08 21:00",
+   "title": "【メン限】ざつざつざつだんだんだん【ニュイ・ソシエール /にじさんじ】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 243,
+   "view_count": null
+  }
+ ],
  "history": [
   {
    "month": "2026-09",
@@ -332,10 +356,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-08"
+    "to": "2026-10-09"
    },
    "streams_analyzed": 7,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 2884,
    "members_confirmed": 616,
    "member_classes": {

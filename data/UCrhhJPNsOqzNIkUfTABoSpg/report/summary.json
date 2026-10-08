@@ -3,20 +3,20 @@
  "channel_id": "UCrhhJPNsOqzNIkUfTABoSpg",
  "handle": "@HaYun",
  "subscribers": 132000,
- "fetched_at": "2026-10-08 10:18",
- "generated_at": "2026-10-08 10:18",
+ "fetched_at": "2026-10-09 05:26",
+ "generated_at": "2026-10-09 05:26",
  "period": {
-  "from": "2026-09-08 10:18",
-  "to": "2026-10-08 10:18",
+  "from": "2026-09-09 05:26",
+  "to": "2026-10-09 05:26",
   "days": 30
  },
- "streams_analyzed": 20,
+ "streams_analyzed": 21,
  "streams_missed": 0,
- "unique_chatters": 346,
+ "unique_chatters": 350,
  "members_confirmed": 151,
  "member_classes": {
-  "unknown": 82,
-  "known": 9,
+  "unknown": 78,
+  "known": 13,
   "gift": 60
  },
  "badges": [
@@ -28,12 +28,12 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 4
+   "members": 3
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 11
+   "members": 12
   },
   {
    "months": 6,
@@ -54,7 +54,7 @@
  "events": {
   "new_members": 1,
   "rejoins": 4,
-  "milestones": 6,
+  "milestones": 10,
   "gift_purchases": 9,
   "gifted_total": 60,
   "gift_redemptions": 60
@@ -65,11 +65,11 @@
    "tier": "HaYun Membership",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 9,
+   "confirmed_members": 13,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 82.0,
+   "allocated_unknown": 78.0,
    "estimated_members": 91.0,
-   "monthly_net_confirmed": 2806,
+   "monthly_net_confirmed": 4054,
    "monthly_net_estimated": 28375
   }
  ],
@@ -287,6 +287,16 @@
    "member_chatters": 19,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "7kwVLHe_0As",
+   "start": "2026-10-08 00:00",
+   "title": "深夜食堂 雑談 【ハユン/にじさんじ】",
+   "kind": "配信",
+   "chatters": 43,
+   "member_chatters": 33,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -362,59 +372,55 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-08"
+    "to": "2026-10-09"
    },
-   "streams_analyzed": 4,
+   "streams_analyzed": 5,
    "streams_missed": 0,
-   "unique_chatters": 53,
-   "members_confirmed": 32,
+   "unique_chatters": 74,
+   "members_confirmed": 46,
    "member_classes": {
-    "known": 2,
-    "unknown": 30
+    "known": 8,
+    "unknown": 38
    },
-   "long_term_members": 24,
+   "long_term_members": 34,
    "badges": [
     {
-     "months": 1,
-     "members": 1
-    },
-    {
      "months": 2,
-     "members": 4
+     "members": 7
     },
     {
      "months": 6,
-     "members": 3
+     "members": 5
     },
     {
      "months": 12,
-     "members": 3
+     "members": 4
     },
     {
      "months": 24,
-     "members": 21
+     "members": 30
     }
    ],
    "events": {
     "new_members": 0,
     "rejoins": 0,
-    "milestones": 0,
+    "milestones": 4,
     "gifted_total": 0
    },
    "tiers": [
     {
      "tier": "HaYun Membership",
      "price": 490,
-     "confirmed_members": 2,
-     "estimated_members": 32.0
+     "confirmed_members": 8,
+     "estimated_members": 46.0
     }
    ],
    "revenue": {
-    "monthly_low": 9978,
-    "monthly_est": 9978,
+    "monthly_low": 14344,
+    "monthly_est": 14344,
     "gift_once": 0
    },
-   "avg_member_chatters": 18.2,
+   "avg_member_chatters": 21.2,
    "partial": true,
    "finalized": false
   }

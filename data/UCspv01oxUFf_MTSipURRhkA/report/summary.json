@@ -3,42 +3,42 @@
  "channel_id": "UCspv01oxUFf_MTSipURRhkA",
  "handle": "@Kanae",
  "subscribers": 1640000,
- "fetched_at": "2026-10-08 10:12",
- "generated_at": "2026-10-08 10:12",
+ "fetched_at": "2026-10-09 05:18",
+ "generated_at": "2026-10-09 05:19",
  "period": {
-  "from": "2026-09-08 10:12",
-  "to": "2026-10-08 10:12",
+  "from": "2026-09-09 05:18",
+  "to": "2026-10-09 05:18",
   "days": 30
  },
  "streams_analyzed": 23,
  "streams_missed": 0,
- "unique_chatters": 12902,
+ "unique_chatters": 12826,
  "members_confirmed": 3650,
  "member_classes": {
-  "unknown": 3519,
-  "known": 84,
+  "unknown": 3516,
+  "known": 87,
   "gift": 47
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 212
+   "members": 208
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 239
+   "members": 231
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 394
+   "members": 403
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 325
+   "members": 324
   },
   {
    "months": 12,
@@ -48,12 +48,12 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 1884
+   "members": 1888
   }
  ],
  "events": {
   "new_members": 45,
-  "rejoins": 34,
+  "rejoins": 37,
   "milestones": 0,
   "gift_purchases": 10,
   "gifted_total": 52,
@@ -65,11 +65,11 @@
    "tier": "叶え隊",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 84,
+   "confirmed_members": 87,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 3519.0,
+   "allocated_unknown": 3516.0,
    "estimated_members": 3603.0,
-   "monthly_net_confirmed": 26193,
+   "monthly_net_confirmed": 27128,
    "monthly_net_estimated": 1123481
   }
  ],
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "Gpgi1vFgC7c",
-   "start": "2026-09-08 19:52",
-   "title": "#5  あなたのフレロールはどこから？  | #SURGETown【にじさんじ/叶】",
-   "kind": "配信",
-   "chatters": 2761,
-   "member_chatters": 1275,
-   "new_members": 2,
-   "gifted_total": 0
-  },
   {
    "video_id": "DhEVS-lEocc",
    "start": "2026-09-09 19:38",
@@ -317,6 +307,16 @@
    "member_chatters": 1034,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "jVv9uWpZSZ8",
+   "start": "2026-10-08 00:00",
+   "title": "21時からアーティファクトらしい　それまでゆったり  | AION2【にじさんじ/叶】",
+   "kind": "配信",
+   "chatters": 1456,
+   "member_chatters": 991,
+   "new_members": 2,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -392,47 +392,47 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-08"
+    "to": "2026-10-09"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 4,
    "streams_missed": 0,
-   "unique_chatters": 2656,
-   "members_confirmed": 1466,
+   "unique_chatters": 3159,
+   "members_confirmed": 1685,
    "member_classes": {
-    "unknown": 1431,
-    "known": 25,
+    "unknown": 1643,
+    "known": 32,
     "gift": 10
    },
-   "long_term_members": 1056,
+   "long_term_members": 1208,
    "badges": [
     {
      "months": 0,
-     "members": 46
+     "members": 53
     },
     {
      "months": 1,
-     "members": 49
+     "members": 60
     },
     {
      "months": 2,
-     "members": 167
+     "members": 195
     },
     {
      "months": 6,
-     "members": 148
+     "members": 169
     },
     {
      "months": 12,
-     "members": 273
+     "members": 314
     },
     {
      "months": 24,
-     "members": 783
+     "members": 894
     }
    ],
    "events": {
-    "new_members": 4,
-    "rejoins": 7,
+    "new_members": 6,
+    "rejoins": 11,
     "milestones": 0,
     "gifted_total": 10
    },
@@ -440,16 +440,16 @@
     {
      "tier": "叶え隊",
      "price": 490,
-     "confirmed_members": 25,
-     "estimated_members": 1456.0
+     "confirmed_members": 32,
+     "estimated_members": 1675.0
     }
    ],
    "revenue": {
-    "monthly_low": 454007,
-    "monthly_est": 454007,
+    "monthly_low": 522295,
+    "monthly_est": 522295,
     "gift_once": 3118
    },
-   "avg_member_chatters": 918.7,
+   "avg_member_chatters": 936.8,
    "partial": true,
    "finalized": false
   }

@@ -3,19 +3,19 @@
  "channel_id": "UCeK9HFcRZoTrvqcUCtccMoQ",
  "handle": "@ShibuyaHajime",
  "subscribers": 161000,
- "fetched_at": "2026-10-08 10:12",
- "generated_at": "2026-10-08 10:12",
+ "fetched_at": "2026-10-09 05:17",
+ "generated_at": "2026-10-09 05:18",
  "period": {
-  "from": "2026-09-08 10:12",
-  "to": "2026-10-08 10:12",
+  "from": "2026-09-09 05:17",
+  "to": "2026-10-09 05:17",
   "days": 30
  },
  "streams_analyzed": 24,
  "streams_missed": 0,
- "unique_chatters": 243,
- "members_confirmed": 59,
+ "unique_chatters": 257,
+ "members_confirmed": 60,
  "member_classes": {
-  "unknown": 59
+  "unknown": 60
  },
  "badges": [
   {
@@ -46,7 +46,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 38
+   "members": 39
   }
  ],
  "events": {
@@ -65,19 +65,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 0,
    "share_of_confirmed_pct": "",
-   "allocated_unknown": 59.0,
-   "estimated_members": 59.0,
+   "allocated_unknown": 60.0,
+   "estimated_members": 60.0,
    "monthly_net_confirmed": 0,
-   "monthly_net_estimated": 18397
+   "monthly_net_estimated": 18709
   }
  ],
  "revenue": {
-  "monthly_low": 18397,
-  "monthly_est": 18397,
+  "monthly_low": 18709,
+  "monthly_est": 18709,
   "gift_once": 0,
-  "total_low": 18397,
-  "total_est": 18397,
-  "paying_members": 59,
+  "total_low": 18709,
+  "total_est": 18709,
+  "paying_members": 60,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -86,16 +86,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "L8WDszwpY24",
-   "start": "2026-09-08 21:10",
-   "title": "【LoL】低気圧にやられ放題のハジメくん【にじさんじ/渋谷ハジメ】",
-   "kind": "配信",
-   "chatters": 24,
-   "member_chatters": 17,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "e9vikkbjDI8",
    "start": "2026-09-09 16:07",
@@ -325,6 +315,16 @@
    "member_chatters": 22,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "t4fSvqy3cE8",
+   "start": "2026-10-08 00:00",
+   "title": "【Everything is Crab 】カニさん【にじさんじ/渋谷ハジメ】",
+   "kind": "配信",
+   "chatters": 54,
+   "member_chatters": 26,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -398,20 +398,24 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-08"
+    "to": "2026-10-09"
    },
-   "streams_analyzed": 7,
+   "streams_analyzed": 8,
    "streams_missed": 0,
-   "unique_chatters": 122,
-   "members_confirmed": 41,
+   "unique_chatters": 140,
+   "members_confirmed": 45,
    "member_classes": {
-    "unknown": 41
+    "unknown": 45
    },
-   "long_term_members": 33,
+   "long_term_members": 35,
    "badges": [
     {
      "months": 0,
      "members": 2
+    },
+    {
+     "months": 1,
+     "members": 1
     },
     {
      "months": 2,
@@ -419,7 +423,7 @@
     },
     {
      "months": 6,
-     "members": 1
+     "members": 2
     },
     {
      "months": 12,
@@ -427,7 +431,7 @@
     },
     {
      "months": 24,
-     "members": 27
+     "members": 29
     }
    ],
    "events": {
@@ -441,15 +445,15 @@
      "tier": "メンバーシップ",
      "price": 490,
      "confirmed_members": 0,
-     "estimated_members": 41.0
+     "estimated_members": 45.0
     }
    ],
    "revenue": {
-    "monthly_low": 12785,
-    "monthly_est": 12785,
+    "monthly_low": 14032,
+    "monthly_est": 14032,
     "gift_once": 0
    },
-   "avg_member_chatters": 18.3,
+   "avg_member_chatters": 19.2,
    "partial": true,
    "finalized": false
   }

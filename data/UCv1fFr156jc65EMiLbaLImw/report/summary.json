@@ -3,50 +3,50 @@
  "channel_id": "UCv1fFr156jc65EMiLbaLImw",
  "handle": "@KenmochiToya",
  "subscribers": 1260000,
- "fetched_at": "2026-10-08 10:12",
- "generated_at": "2026-10-08 10:12",
+ "fetched_at": "2026-10-09 05:18",
+ "generated_at": "2026-10-09 05:20",
  "period": {
-  "from": "2026-09-08 10:12",
-  "to": "2026-10-08 10:12",
+  "from": "2026-09-09 05:18",
+  "to": "2026-10-09 05:18",
   "days": 30
  },
- "streams_analyzed": 5,
+ "streams_analyzed": 6,
  "streams_missed": 0,
- "unique_chatters": 9676,
- "members_confirmed": 3025,
+ "unique_chatters": 10805,
+ "members_confirmed": 3284,
  "member_classes": {
-  "unknown": 3012,
-  "known": 13
+  "unknown": 3267,
+  "known": 17
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 64
+   "members": 69
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 43
+   "members": 47
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 345
+   "members": 369
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 326
+   "members": 352
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 2247
+   "members": 2447
   }
  ],
  "events": {
-  "new_members": 7,
+  "new_members": 11,
   "rejoins": 6,
   "milestones": 0,
   "gift_purchases": 0,
@@ -59,21 +59,21 @@
    "tier": "虚空教",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 13,
+   "confirmed_members": 17,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 3012.0,
-   "estimated_members": 3025.0,
-   "monthly_net_confirmed": 4054,
-   "monthly_net_estimated": 943250
+   "allocated_unknown": 3267.0,
+   "estimated_members": 3284.0,
+   "monthly_net_confirmed": 5301,
+   "monthly_net_estimated": 1024011
   }
  ],
  "revenue": {
-  "monthly_low": 943250,
-  "monthly_est": 943250,
+  "monthly_low": 1024011,
+  "monthly_est": 1024011,
   "gift_once": 0,
-  "total_low": 943250,
-  "total_est": 943250,
-  "paying_members": 3025,
+  "total_low": 1024011,
+  "total_est": 1024011,
+  "paying_members": 3284,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -130,6 +130,16 @@
    "chatters": 1224,
    "member_chatters": 467,
    "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "aJ-3c8ZFn5s",
+   "start": "2026-10-08 00:00",
+   "title": "【めでたい】剣持刀也です【とうやの日】",
+   "kind": "配信",
+   "chatters": 3340,
+   "member_chatters": 1405,
+   "new_members": 4,
    "gifted_total": 0
   }
  ],
@@ -201,41 +211,41 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-08"
+    "to": "2026-10-09"
    },
-   "streams_analyzed": 2,
+   "streams_analyzed": 3,
    "streams_missed": 0,
-   "unique_chatters": 3988,
-   "members_confirmed": 1605,
+   "unique_chatters": 5868,
+   "members_confirmed": 2161,
    "member_classes": {
-    "unknown": 1600,
-    "known": 5
+    "unknown": 2151,
+    "known": 10
    },
-   "long_term_members": 1205,
+   "long_term_members": 1626,
    "badges": [
     {
      "months": 0,
-     "members": 18
+     "members": 31
     },
     {
      "months": 1,
-     "members": 28
+     "members": 34
     },
     {
      "months": 2,
-     "members": 171
+     "members": 224
     },
     {
      "months": 6,
-     "members": 183
+     "members": 246
     },
     {
      "months": 12,
-     "members": 1205
+     "members": 1626
     }
    ],
    "events": {
-    "new_members": 0,
+    "new_members": 4,
     "rejoins": 2,
     "milestones": 0,
     "gifted_total": 0
@@ -244,16 +254,16 @@
     {
      "tier": "虚空教",
      "price": 490,
-     "confirmed_members": 5,
-     "estimated_members": 1605.0
+     "confirmed_members": 10,
+     "estimated_members": 2161.0
     }
    ],
    "revenue": {
-    "monthly_low": 500468,
-    "monthly_est": 500468,
+    "monthly_low": 673839,
+    "monthly_est": 673839,
     "gift_once": 0
    },
-   "avg_member_chatters": 936,
+   "avg_member_chatters": 1092.3,
    "partial": true,
    "finalized": false
   }

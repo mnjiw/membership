@@ -3,16 +3,16 @@
  "channel_id": "UCcswLVd6KGBf5mIdzeO83bA",
  "handle": "@HanakagoTsubasa",
  "subscribers": 128000,
- "fetched_at": "2026-10-08 10:21",
- "generated_at": "2026-10-08 10:21",
+ "fetched_at": "2026-10-09 05:30",
+ "generated_at": "2026-10-09 05:30",
  "period": {
-  "from": "2026-09-08 10:21",
-  "to": "2026-10-08 10:21",
+  "from": "2026-09-09 05:30",
+  "to": "2026-10-09 05:30",
   "days": 30
  },
  "streams_analyzed": 24,
  "streams_missed": 2,
- "unique_chatters": 1340,
+ "unique_chatters": 1326,
  "members_confirmed": 333,
  "member_classes": {
   "unknown": 296,
@@ -23,12 +23,12 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 85
+   "members": 82
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 30
+   "members": 32
   },
   {
    "months": 2,
@@ -38,11 +38,11 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 156
+   "members": 157
   }
  ],
  "events": {
-  "new_members": 19,
+  "new_members": 18,
   "rejoins": 2,
   "milestones": 0,
   "gift_purchases": 4,
@@ -78,16 +78,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "ZeZJPg70QLY",
-   "start": "2026-09-08 21:00",
-   "title": "【雪葬】チラズアート最新作！雪山でのサバイバルホラゲー！【花籠つばさ / にじさんじ】",
-   "kind": "配信",
-   "chatters": 138,
-   "member_chatters": 70,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "vwVREAjATI4",
    "start": "2026-09-09 21:38",
@@ -317,6 +307,16 @@
    "member_chatters": 76,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "0UZtyvtNaM0",
+   "start": "2026-10-08 00:00",
+   "title": "【司書のお仕事：魔導図書館を片付けろ！】図書館に散らばった本を完璧に片付けるチルゲー。【花籠つばさ / にじさんじ】",
+   "kind": "配信",
+   "chatters": 116,
+   "member_chatters": 87,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -430,14 +430,14 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-08"
+    "to": "2026-10-09"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 6,
    "streams_missed": 0,
-   "unique_chatters": 302,
-   "members_confirmed": 147,
+   "unique_chatters": 335,
+   "members_confirmed": 160,
    "member_classes": {
-    "unknown": 139,
+    "unknown": 152,
     "known": 7,
     "gift": 1
    },
@@ -445,19 +445,19 @@
    "badges": [
     {
      "months": 0,
-     "members": 25
+     "members": 26
     },
     {
      "months": 1,
-     "members": 19
+     "members": 23
     },
     {
      "months": 2,
-     "members": 27
+     "members": 30
     },
     {
      "months": 6,
-     "members": 76
+     "members": 81
     }
    ],
    "events": {
@@ -471,15 +471,15 @@
      "tier": "翼推部 子つ葉班",
      "price": 490,
      "confirmed_members": 7,
-     "estimated_members": 146.0
+     "estimated_members": 159.0
     }
    ],
    "revenue": {
-    "monthly_low": 45525,
-    "monthly_est": 45525,
+    "monthly_low": 49579,
+    "monthly_est": 49579,
     "gift_once": 312
    },
-   "avg_member_chatters": 72.4,
+   "avg_member_chatters": 74.8,
    "partial": true,
    "finalized": false
   }

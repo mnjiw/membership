@@ -3,19 +3,19 @@
  "channel_id": "UCRcLAVTbmx2-iNcXSsupdNA",
  "handle": "@KurusuNatsume",
  "subscribers": 268000,
- "fetched_at": "2026-10-08 10:16",
- "generated_at": "2026-10-08 10:16",
+ "fetched_at": "2026-10-09 05:23",
+ "generated_at": "2026-10-09 05:23",
  "period": {
-  "from": "2026-09-08 10:16",
-  "to": "2026-10-08 10:16",
+  "from": "2026-09-09 05:23",
+  "to": "2026-10-09 05:23",
   "days": 30
  },
  "streams_analyzed": 16,
- "streams_missed": 1,
- "unique_chatters": 1474,
- "members_confirmed": 464,
+ "streams_missed": 0,
+ "unique_chatters": 1408,
+ "members_confirmed": 476,
  "member_classes": {
-  "unknown": 426,
+  "unknown": 438,
   "known": 13,
   "gift": 25
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 35
+   "members": 38
   },
   {
    "months": 1,
@@ -38,42 +38,42 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 15
+   "members": 18
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 60
+   "members": 65
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 59
+   "members": 60
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 76
+   "members": 77
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 91
+   "members": 93
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 88
+   "members": 86
   },
   {
    "months": 72,
    "label": "6年",
-   "members": 18
+   "members": 17
   }
  ],
  "events": {
-  "new_members": 5,
-  "rejoins": 9,
+  "new_members": 6,
+  "rejoins": 7,
   "milestones": 0,
   "gift_purchases": 5,
   "gifted_total": 25,
@@ -87,10 +87,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 8,
    "share_of_confirmed_pct": 61.5,
-   "allocated_unknown": 262.2,
-   "estimated_members": 270.2,
+   "allocated_unknown": 269.5,
+   "estimated_members": 277.5,
    "monthly_net_confirmed": 2495,
-   "monthly_net_estimated": 84239
+   "monthly_net_estimated": 86542
   },
   {
    "tier": "なつめいとクリエイティブ",
@@ -98,19 +98,19 @@
    "net_per_member": 757.3,
    "confirmed_members": 5,
    "share_of_confirmed_pct": 38.5,
-   "allocated_unknown": 163.8,
-   "estimated_members": 168.8,
+   "allocated_unknown": 168.5,
+   "estimated_members": 173.5,
    "monthly_net_confirmed": 3786,
-   "monthly_net_estimated": 127863
+   "monthly_net_estimated": 131358
   }
  ],
  "revenue": {
-  "monthly_low": 139115,
-  "monthly_est": 212101,
+  "monthly_low": 142857,
+  "monthly_est": 217899,
   "gift_once": 7795,
-  "total_low": 146911,
-  "total_est": 219897,
-  "paying_members": 439,
+  "total_low": 150653,
+  "total_est": 225695,
+  "paying_members": 451,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -119,16 +119,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "839kdk62kz0",
-   "start": "2026-09-08 22:00",
-   "title": "【#にじ遊戯王祭2026】パック開封！そして！絢嵐を作らせてください！【来栖夏芽/にじさんじ】",
-   "kind": "配信",
-   "chatters": 473,
-   "member_chatters": 197,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "F0dVUUSD50w",
    "start": "2026-09-10 20:01",
@@ -278,34 +268,20 @@
    "member_chatters": 188,
    "new_members": 1,
    "gifted_total": 10
-  }
- ],
- "missed_streams": [
+  },
   {
-   "video_id": "LHbopvuROEY",
-   "start": "2026-09-08 20:11",
-   "title": "突発！作業メン限！",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 184,
-   "view_count": null
+   "video_id": "N4aDxy4mWgk",
+   "start": "2026-10-08 00:00",
+   "title": "めっちゃ秋ですが皆様いかがおすごしですか～？【来栖夏芽/にじさんじ】",
+   "kind": "配信",
+   "chatters": 266,
+   "member_chatters": 186,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
- "members_only_content": [
-  {
-   "video_id": "LHbopvuROEY",
-   "start": "2026-09-08 20:11",
-   "title": "突発！作業メン限！",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 184,
-   "view_count": null
-  }
- ],
+ "missed_streams": [],
+ "members_only_content": [],
  "history": [
   {
    "month": "2026-09",
@@ -399,58 +375,62 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-08"
+    "to": "2026-10-09"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 0,
-   "unique_chatters": 179,
-   "members_confirmed": 188,
+   "unique_chatters": 353,
+   "members_confirmed": 282,
    "member_classes": {
-    "known": 6,
-    "unknown": 172,
+    "known": 9,
+    "unknown": 263,
     "gift": 10
    },
-   "long_term_members": 158,
+   "long_term_members": 238,
    "badges": [
     {
      "months": 0,
-     "members": 15
+     "members": 18
+    },
+    {
+     "months": 1,
+     "members": 1
     },
     {
      "months": 2,
-     "members": 7
+     "members": 12
     },
     {
      "months": 6,
-     "members": 8
+     "members": 13
     },
     {
      "months": 12,
-     "members": 27
+     "members": 40
     },
     {
      "months": 24,
-     "members": 28
+     "members": 41
     },
     {
      "months": 36,
-     "members": 30
+     "members": 41
     },
     {
      "months": 48,
-     "members": 36
+     "members": 55
     },
     {
      "months": 60,
-     "members": 31
+     "members": 51
     },
     {
      "months": 72,
-     "members": 6
+     "members": 10
     }
    ],
    "events": {
-    "new_members": 1,
+    "new_members": 2,
     "rejoins": 2,
     "milestones": 0,
     "gifted_total": 10
@@ -459,22 +439,22 @@
     {
      "tier": "なつめいとスタンダード",
      "price": 490,
-     "confirmed_members": 3,
-     "estimated_members": 89.0
+     "confirmed_members": 5,
+     "estimated_members": 151.1
     },
     {
      "tier": "なつめいとクリエイティブ",
      "price": 1190,
-     "confirmed_members": 3,
-     "estimated_members": 89.0
+     "confirmed_members": 4,
+     "estimated_members": 120.9
     }
    ],
    "revenue": {
-    "monthly_low": 56840,
-    "monthly_est": 95149,
+    "monthly_low": 86596,
+    "monthly_est": 138665,
     "gift_once": 3118
    },
-   "avg_member_chatters": 188,
+   "avg_member_chatters": 187,
    "partial": true,
    "finalized": false
   }

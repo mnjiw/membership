@@ -2,58 +2,62 @@
  "month": "2026-10",
  "coverage": {
   "from": "2026-10-01",
-  "to": "2026-10-08"
+  "to": "2026-10-09"
  },
- "streams_analyzed": 2,
+ "streams_analyzed": 3,
  "streams_missed": 1,
- "unique_chatters": 226,
- "members_confirmed": 123,
+ "unique_chatters": 325,
+ "members_confirmed": 152,
  "member_classes": {
-  "unknown": 106,
-  "gift": 13,
-  "known": 4
+  "unknown": 133,
+  "gift": 14,
+  "known": 5
  },
- "long_term_members": 96,
+ "long_term_members": 120,
  "badges": [
   {
    "months": 0,
-   "members": 12
+   "members": 13
+  },
+  {
+   "months": 1,
+   "members": 1
   },
   {
    "months": 2,
-   "members": 7
+   "members": 9
   },
   {
    "months": 6,
-   "members": 8
+   "members": 9
   },
   {
    "months": 12,
-   "members": 4
+   "members": 7
   },
   {
    "months": 24,
-   "members": 92
+   "members": 113
   }
  ],
  "events": {
   "new_members": 0,
   "rejoins": 4,
   "milestones": 0,
-  "gifted_total": 13
+  "gifted_total": 14
  },
  "tiers": [
   {
    "tier": "まひとも",
    "price": 490,
    "confirmed_members": 2,
-   "estimated_members": 55.0
+   "estimated_members": 55.2
   },
   {
    "tier": "ぬまひとも",
    "price": 1190,
-   "confirmed_members": 2,
-   "estimated_members": 55.0
+   "confirmed_members": 3,
+   "estimated_members": 82.8
   },
   {
    "tier": "まひろはうす",
@@ -63,11 +67,11 @@
   }
  ],
  "revenue": {
-  "monthly_low": 35191,
-  "monthly_est": 58800,
-  "gift_once": 4054
+  "monthly_low": 44367,
+  "monthly_est": 79915,
+  "gift_once": 4365
  },
- "avg_member_chatters": 71.5,
+ "avg_member_chatters": 74,
  "partial": true,
  "finalized": false
 }

@@ -2,47 +2,48 @@
  "month": "2026-10",
  "coverage": {
   "from": "2026-10-01",
-  "to": "2026-10-08"
+  "to": "2026-10-09"
  },
- "streams_analyzed": 2,
+ "streams_analyzed": 3,
  "streams_missed": 0,
- "unique_chatters": 891,
- "members_confirmed": 431,
+ "unique_chatters": 1442,
+ "members_confirmed": 593,
  "member_classes": {
-  "unknown": 421,
-  "known": 10
+  "unknown": 551,
+  "known": 14,
+  "gift": 28
  },
- "long_term_members": 243,
+ "long_term_members": 324,
  "badges": [
   {
    "months": 0,
-   "members": 188
+   "members": 269
   },
   {
    "months": 12,
-   "members": 243
+   "members": 324
   }
  ],
  "events": {
-  "new_members": 0,
+  "new_members": 1,
   "rejoins": 0,
   "milestones": 0,
-  "gifted_total": 0
+  "gifted_total": 28
  },
  "tiers": [
   {
    "tier": "Debonheir Royale",
    "price": 690,
-   "confirmed_members": 10,
-   "estimated_members": 431.0
+   "confirmed_members": 14,
+   "estimated_members": 565.0
   }
  ],
  "revenue": {
-  "monthly_low": 189248,
-  "monthly_est": 189248,
-  "gift_once": 0
+  "monthly_low": 248086,
+  "monthly_est": 248086,
+  "gift_once": 12295
  },
- "avg_member_chatters": 286.5,
+ "avg_member_chatters": 312.7,
  "partial": true,
  "finalized": false
 }

@@ -2,17 +2,17 @@
  "channel": "九里詠太 / Kuri Eita【にじさんじ】",
  "channel_id": "UCzcuYIyP-1YcXC96t9J5yWQ",
  "handle": "@KuriEita_Y4T4",
- "subscribers": 73100,
- "fetched_at": "2026-10-08 10:21",
- "generated_at": "2026-10-08 10:21",
+ "subscribers": 73500,
+ "fetched_at": "2026-10-09 05:30",
+ "generated_at": "2026-10-09 05:30",
  "period": {
-  "from": "2026-09-08 10:21",
-  "to": "2026-10-08 10:21",
+  "from": "2026-09-09 05:30",
+  "to": "2026-10-09 05:30",
   "days": 30
  },
  "streams_analyzed": 22,
  "streams_missed": 2,
- "unique_chatters": 1442,
+ "unique_chatters": 1445,
  "members_confirmed": 111,
  "member_classes": {
   "unknown": 107,
@@ -23,17 +23,17 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 20
+   "members": 17
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 13
+   "members": 14
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 78
+   "members": 80
   }
  ],
  "events": {
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "iQ2sqNGplxI",
-   "start": "2026-09-08 21:01",
-   "title": "【スト6】~Cジュリ~ ハイマスにいく【九里詠太 / にじさんじ】",
-   "kind": "配信",
-   "chatters": 50,
-   "member_chatters": 25,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "E5OTiSanvXQ",
    "start": "2026-09-09 21:00",
@@ -292,6 +282,16 @@
    "member_chatters": 23,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "MNcuv48l0fg",
+   "start": "2026-10-08 00:00",
+   "title": "【Apex Legends】ソロマスターへ挑戦させていただく！ダイヤⅡ~【九里詠太 / にじさんじ】",
+   "kind": "配信",
+   "chatters": 74,
+   "member_chatters": 30,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -391,14 +391,14 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-08"
+    "to": "2026-10-09"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 6,
    "streams_missed": 0,
-   "unique_chatters": 221,
-   "members_confirmed": 60,
+   "unique_chatters": 243,
+   "members_confirmed": 65,
    "member_classes": {
-    "unknown": 57,
+    "unknown": 62,
     "known": 2,
     "gift": 1
    },
@@ -410,11 +410,11 @@
     },
     {
      "months": 1,
-     "members": 8
+     "members": 10
     },
     {
      "months": 2,
-     "members": 47
+     "members": 50
     }
    ],
    "events": {
@@ -428,15 +428,15 @@
      "tier": "便利屋会員",
      "price": 490,
      "confirmed_members": 2,
-     "estimated_members": 59.0
+     "estimated_members": 64.0
     }
    ],
    "revenue": {
-    "monthly_low": 18397,
-    "monthly_est": 18397,
+    "monthly_low": 19956,
+    "monthly_est": 19956,
     "gift_once": 312
    },
-   "avg_member_chatters": 25.6,
+   "avg_member_chatters": 26.3,
    "partial": true,
    "finalized": false
   }

@@ -3,26 +3,26 @@
  "channel_id": "UCe22Bcwd_GCpTjLxn83zl7A",
  "handle": "@PontoNei",
  "subscribers": 319000,
- "fetched_at": "2026-10-08 10:17",
- "generated_at": "2026-10-08 10:17",
+ "fetched_at": "2026-10-09 05:24",
+ "generated_at": "2026-10-09 05:25",
  "period": {
-  "from": "2026-09-08 10:17",
-  "to": "2026-10-08 10:17",
+  "from": "2026-09-09 05:24",
+  "to": "2026-10-09 05:24",
   "days": 30
  },
- "streams_analyzed": 16,
+ "streams_analyzed": 17,
  "streams_missed": 3,
- "unique_chatters": 2392,
- "members_confirmed": 171,
+ "unique_chatters": 2438,
+ "members_confirmed": 174,
  "member_classes": {
-  "unknown": 161,
+  "unknown": 164,
   "known": 10
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 11
+   "members": 14
   },
   {
    "months": 1,
@@ -37,12 +37,12 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 16
+   "members": 15
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 118
+   "members": 119
   }
  ],
  "events": {
@@ -61,19 +61,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 10,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 161.0,
-   "estimated_members": 171.0,
+   "allocated_unknown": 164.0,
+   "estimated_members": 174.0,
    "monthly_net_confirmed": 3118,
-   "monthly_net_estimated": 53321
+   "monthly_net_estimated": 54256
   }
  ],
  "revenue": {
-  "monthly_low": 53321,
-  "monthly_est": 53321,
+  "monthly_low": 54256,
+  "monthly_est": 54256,
   "gift_once": 0,
-  "total_low": 53321,
-  "total_est": 53321,
-  "paying_members": 171,
+  "total_low": 54256,
+  "total_est": 54256,
+  "paying_members": 174,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -241,6 +241,16 @@
    "member_chatters": 59,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "7tdE0VDUZIU",
+   "start": "2026-10-08 00:00",
+   "title": "【FE 万紫千紅│08】除湿器も追いつかないこの湿気ですよ… ※ネタバレ注意【先斗寧/にじさんじ】",
+   "kind": "配信",
+   "chatters": 406,
+   "member_chatters": 67,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -277,7 +287,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "バックヤード",
-   "like_count": 74,
+   "like_count": 75,
    "view_count": null
   }
  ],
@@ -309,7 +319,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "バックヤード",
-   "like_count": 74,
+   "like_count": 75,
    "view_count": null
   }
  ],
@@ -379,21 +389,21 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-08"
+    "to": "2026-10-09"
    },
-   "streams_analyzed": 4,
+   "streams_analyzed": 5,
    "streams_missed": 1,
-   "unique_chatters": 720,
-   "members_confirmed": 109,
+   "unique_chatters": 816,
+   "members_confirmed": 118,
    "member_classes": {
-    "unknown": 104,
+    "unknown": 113,
     "known": 5
    },
-   "long_term_members": 80,
+   "long_term_members": 84,
    "badges": [
     {
      "months": 0,
-     "members": 3
+     "members": 6
     },
     {
      "months": 1,
@@ -405,11 +415,11 @@
     },
     {
      "months": 6,
-     "members": 7
+     "members": 9
     },
     {
      "months": 12,
-     "members": 80
+     "members": 84
     }
    ],
    "events": {
@@ -423,15 +433,15 @@
      "tier": "バックヤード",
      "price": 490,
      "confirmed_members": 5,
-     "estimated_members": 109.0
+     "estimated_members": 118.0
     }
    ],
    "revenue": {
-    "monthly_low": 33988,
-    "monthly_est": 33988,
+    "monthly_low": 36795,
+    "monthly_est": 36795,
     "gift_once": 0
    },
-   "avg_member_chatters": 62.5,
+   "avg_member_chatters": 63.4,
    "partial": true,
    "finalized": false
   }

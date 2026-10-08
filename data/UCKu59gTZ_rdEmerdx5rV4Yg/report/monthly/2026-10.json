@@ -2,21 +2,22 @@
  "month": "2026-10",
  "coverage": {
   "from": "2026-10-01",
-  "to": "2026-10-08"
+  "to": "2026-10-09"
  },
- "streams_analyzed": 2,
+ "streams_analyzed": 3,
  "streams_missed": 1,
- "unique_chatters": 247,
- "members_confirmed": 84,
+ "unique_chatters": 465,
+ "members_confirmed": 128,
  "member_classes": {
-  "unknown": 69,
-  "known": 15
+  "unknown": 98,
+  "known": 26,
+  "gift": 4
  },
- "long_term_members": 62,
+ "long_term_members": 90,
  "badges": [
   {
    "months": 0,
-   "members": 5
+   "members": 10
   },
   {
    "months": 1,
@@ -24,49 +25,49 @@
   },
   {
    "months": 2,
-   "members": 6
+   "members": 10
   },
   {
    "months": 6,
-   "members": 8
+   "members": 15
   },
   {
    "months": 12,
-   "members": 23
+   "members": 34
   },
   {
    "months": 24,
-   "members": 16
+   "members": 22
   },
   {
    "months": 36,
-   "members": 12
+   "members": 20
   },
   {
    "months": 48,
-   "members": 11
+   "members": 14
   }
  ],
  "events": {
-  "new_members": 1,
-  "rejoins": 0,
-  "milestones": 2,
-  "gifted_total": 0
+  "new_members": 2,
+  "rejoins": 1,
+  "milestones": 10,
+  "gifted_total": 5
  },
  "tiers": [
   {
    "tier": "ALIENATION",
    "price": 490,
-   "confirmed_members": 15,
-   "estimated_members": 84.0
+   "confirmed_members": 26,
+   "estimated_members": 124.0
   }
  ],
  "revenue": {
-  "monthly_low": 26193,
-  "monthly_est": 26193,
-  "gift_once": 0
+  "monthly_low": 38665,
+  "monthly_est": 38665,
+  "gift_once": 1559
  },
- "avg_member_chatters": 59.5,
+ "avg_member_chatters": 71.3,
  "partial": true,
  "finalized": false
 }

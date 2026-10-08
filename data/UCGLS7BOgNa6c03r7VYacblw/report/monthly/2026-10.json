@@ -2,29 +2,30 @@
  "month": "2026-10",
  "coverage": {
   "from": "2026-10-01",
-  "to": "2026-10-08"
+  "to": "2026-10-09"
  },
- "streams_analyzed": 6,
+ "streams_analyzed": 8,
  "streams_missed": 0,
- "unique_chatters": 705,
- "members_confirmed": 171,
+ "unique_chatters": 1674,
+ "members_confirmed": 259,
  "member_classes": {
-  "unknown": 164,
-  "known": 7
+  "unknown": 244,
+  "known": 7,
+  "gift": 8
  },
  "long_term_members": 0,
  "badges": [
   {
    "months": 0,
-   "members": 17
+   "members": 32
   },
   {
    "months": 2,
-   "members": 36
+   "members": 49
   },
   {
    "months": 6,
-   "members": 118
+   "members": 178
   }
  ],
  "events": {
@@ -38,15 +39,15 @@
    "tier": "水飲み隊",
    "price": 490,
    "confirmed_members": 7,
-   "estimated_members": 171.0
+   "estimated_members": 251.0
   }
  ],
  "revenue": {
-  "monthly_low": 53321,
-  "monthly_est": 53321,
+  "monthly_low": 78266,
+  "monthly_est": 78266,
   "gift_once": 0
  },
- "avg_member_chatters": 66.8,
+ "avg_member_chatters": 84.1,
  "partial": true,
  "finalized": false
 }

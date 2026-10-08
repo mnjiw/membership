@@ -3,37 +3,37 @@
  "channel_id": "UCGLS7BOgNa6c03r7VYacblw",
  "handle": "@MinamoMadoka",
  "subscribers": 144000,
- "fetched_at": "2026-10-08 10:21",
- "generated_at": "2026-10-08 10:21",
+ "fetched_at": "2026-10-09 05:30",
+ "generated_at": "2026-10-09 05:32",
  "period": {
-  "from": "2026-09-08 10:21",
-  "to": "2026-10-08 10:21",
+  "from": "2026-09-09 05:30",
+  "to": "2026-10-09 05:30",
   "days": 30
  },
- "streams_analyzed": 17,
+ "streams_analyzed": 19,
  "streams_missed": 2,
- "unique_chatters": 1980,
- "members_confirmed": 275,
+ "unique_chatters": 2775,
+ "members_confirmed": 330,
  "member_classes": {
-  "unknown": 247,
+  "unknown": 294,
   "known": 7,
-  "gift": 21
+  "gift": 29
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 56
+   "members": 68
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 54
+   "members": 59
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 165
+   "members": 203
   }
  ],
  "events": {
@@ -42,7 +42,7 @@
   "milestones": 0,
   "gift_purchases": 2,
   "gifted_total": 21,
-  "gift_redemptions": 21
+  "gift_redemptions": 29
  },
  "tiers_configured": true,
  "tiers": [
@@ -52,19 +52,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 7,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 247.0,
-   "estimated_members": 254.0,
+   "allocated_unknown": 294.0,
+   "estimated_members": 301.0,
    "monthly_net_confirmed": 2183,
-   "monthly_net_estimated": 79202
+   "monthly_net_estimated": 93857
   }
  ],
  "revenue": {
-  "monthly_low": 79202,
-  "monthly_est": 79202,
+  "monthly_low": 93857,
+  "monthly_est": 93857,
   "gift_once": 6548,
-  "total_low": 85750,
-  "total_est": 85750,
-  "paying_members": 254,
+  "total_low": 100405,
+  "total_est": 100405,
+  "paying_members": 301,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -242,6 +242,26 @@
    "member_chatters": 96,
    "new_members": 2,
    "gifted_total": 0
+  },
+  {
+   "video_id": "w5YR3jQo6xM",
+   "start": "2026-10-08 00:00",
+   "title": "【 #まどちゃバースデー2026 】告知あり⁉ゲストと歌って食べてお喋り🎂お誕生日パーティ！supported by DAM【 水面まどか / にじさんじ 】",
+   "kind": "配信",
+   "chatters": 1220,
+   "member_chatters": 200,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "6OVgEvRX2KU",
+   "start": "2026-10-08 00:00",
+   "title": "Algernon / Yorushika covered by Minamo Madoka",
+   "kind": "プレミア",
+   "chatters": 119,
+   "member_chatters": 72,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -351,29 +371,30 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-08"
+    "to": "2026-10-09"
    },
-   "streams_analyzed": 6,
+   "streams_analyzed": 8,
    "streams_missed": 0,
-   "unique_chatters": 705,
-   "members_confirmed": 171,
+   "unique_chatters": 1674,
+   "members_confirmed": 259,
    "member_classes": {
-    "unknown": 164,
-    "known": 7
+    "unknown": 244,
+    "known": 7,
+    "gift": 8
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 17
+     "members": 32
     },
     {
      "months": 2,
-     "members": 36
+     "members": 49
     },
     {
      "months": 6,
-     "members": 118
+     "members": 178
     }
    ],
    "events": {
@@ -387,15 +408,15 @@
      "tier": "水飲み隊",
      "price": 490,
      "confirmed_members": 7,
-     "estimated_members": 171.0
+     "estimated_members": 251.0
     }
    ],
    "revenue": {
-    "monthly_low": 53321,
-    "monthly_est": 53321,
+    "monthly_low": 78266,
+    "monthly_est": 78266,
     "gift_once": 0
    },
-   "avg_member_chatters": 66.8,
+   "avg_member_chatters": 84.1,
    "partial": true,
    "finalized": false
   }

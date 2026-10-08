@@ -2,21 +2,26 @@
  "month": "2026-10",
  "coverage": {
   "from": "2026-10-01",
-  "to": "2026-10-08"
+  "to": "2026-10-09"
  },
- "streams_analyzed": 1,
+ "streams_analyzed": 2,
  "streams_missed": 0,
- "unique_chatters": 173,
- "members_confirmed": 102,
+ "unique_chatters": 433,
+ "members_confirmed": 226,
  "member_classes": {
-  "unknown": 99,
-  "known": 3
+  "unknown": 218,
+  "known": 7,
+  "gift": 1
  },
- "long_term_members": 89,
+ "long_term_members": 198,
  "badges": [
   {
+   "months": 0,
+   "members": 3
+  },
+  {
    "months": 1,
-   "members": 2
+   "members": 4
   },
   {
    "months": 2,
@@ -24,43 +29,43 @@
   },
   {
    "months": 6,
-   "members": 7
+   "members": 17
   },
   {
    "months": 12,
-   "members": 12
+   "members": 40
   },
   {
    "months": 24,
-   "members": 77
+   "members": 158
   }
  ],
  "events": {
   "new_members": 0,
   "rejoins": 0,
-  "milestones": 1,
-  "gifted_total": 0
+  "milestones": 2,
+  "gifted_total": 1
  },
  "tiers": [
   {
    "tier": "崇拝",
    "price": 490,
-   "confirmed_members": 2,
-   "estimated_members": 68.0
+   "confirmed_members": 6,
+   "estimated_members": 192.9
   },
   {
    "tier": "アイスつき崇拝",
    "price": 990,
    "confirmed_members": 1,
-   "estimated_members": 34.0
+   "estimated_members": 32.1
   }
  ],
  "revenue": {
-  "monthly_low": 32124,
-  "monthly_est": 42624,
-  "gift_once": 0
+  "monthly_low": 70477,
+  "monthly_est": 80386,
+  "gift_once": 312
  },
- "avg_member_chatters": 102,
+ "avg_member_chatters": 148.5,
  "partial": true,
  "finalized": false
 }

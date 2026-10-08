@@ -3,32 +3,32 @@
  "channel_id": "UCjlmCrq4TP1I4xguOtJ-31w",
  "handle": "@DebidebiDebiru",
  "subscribers": 645000,
- "fetched_at": "2026-10-08 10:13",
- "generated_at": "2026-10-08 10:13",
+ "fetched_at": "2026-10-09 05:20",
+ "generated_at": "2026-10-09 05:20",
  "period": {
-  "from": "2026-09-08 10:13",
-  "to": "2026-10-08 10:13",
+  "from": "2026-09-09 05:20",
+  "to": "2026-10-09 05:20",
   "days": 30
  },
- "streams_analyzed": 10,
+ "streams_analyzed": 11,
  "streams_missed": 1,
- "unique_chatters": 1014,
- "members_confirmed": 469,
+ "unique_chatters": 1136,
+ "members_confirmed": 506,
  "member_classes": {
-  "known": 10,
-  "unknown": 446,
-  "gift": 13
+  "known": 11,
+  "unknown": 481,
+  "gift": 14
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 19
+   "members": 22
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 5
+   "members": 6
   },
   {
    "months": 2,
@@ -38,26 +38,26 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 28
+   "members": 32
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 74
+   "members": 83
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 335
+   "members": 355
   }
  ],
  "events": {
   "new_members": 1,
   "rejoins": 0,
-  "milestones": 9,
-  "gift_purchases": 4,
-  "gifted_total": 13,
-  "gift_redemptions": 13
+  "milestones": 10,
+  "gift_purchases": 5,
+  "gifted_total": 14,
+  "gift_redemptions": 14
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,32 +65,32 @@
    "tier": "崇拝",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 8,
-   "share_of_confirmed_pct": 80.0,
-   "allocated_unknown": 356.8,
-   "estimated_members": 364.8,
-   "monthly_net_confirmed": 2495,
-   "monthly_net_estimated": 113751
+   "confirmed_members": 9,
+   "share_of_confirmed_pct": 81.8,
+   "allocated_unknown": 393.5,
+   "estimated_members": 402.5,
+   "monthly_net_confirmed": 2806,
+   "monthly_net_estimated": 125521
   },
   {
    "tier": "アイスつき崇拝",
    "price": 990,
    "net_per_member": 630.0,
    "confirmed_members": 2,
-   "share_of_confirmed_pct": 20.0,
-   "allocated_unknown": 89.2,
-   "estimated_members": 91.2,
+   "share_of_confirmed_pct": 18.2,
+   "allocated_unknown": 87.5,
+   "estimated_members": 89.5,
    "monthly_net_confirmed": 1260,
-   "monthly_net_estimated": 57456
+   "monthly_net_estimated": 56356
   }
  ],
  "revenue": {
-  "monthly_low": 142825,
-  "monthly_est": 171207,
-  "gift_once": 4054,
-  "total_low": 146879,
-  "total_est": 175261,
-  "paying_members": 456,
+  "monthly_low": 154051,
+  "monthly_est": 181877,
+  "gift_once": 4365,
+  "total_low": 158416,
+  "total_est": 186243,
+  "paying_members": 492,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -198,6 +198,16 @@
    "member_chatters": 102,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "WVoRfpTEvuI",
+   "start": "2026-10-08 00:00",
+   "title": "雑談の悪魔再び現る【でびでび・でびる/にじさんじ】",
+   "kind": "配信",
+   "chatters": 353,
+   "member_chatters": 195,
+   "new_members": 0,
+   "gifted_total": 1
   }
  ],
  "missed_streams": [
@@ -303,21 +313,26 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-08"
+    "to": "2026-10-09"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 0,
-   "unique_chatters": 173,
-   "members_confirmed": 102,
+   "unique_chatters": 433,
+   "members_confirmed": 226,
    "member_classes": {
-    "unknown": 99,
-    "known": 3
+    "unknown": 218,
+    "known": 7,
+    "gift": 1
    },
-   "long_term_members": 89,
+   "long_term_members": 198,
    "badges": [
     {
+     "months": 0,
+     "members": 3
+    },
+    {
      "months": 1,
-     "members": 2
+     "members": 4
     },
     {
      "months": 2,
@@ -325,43 +340,43 @@
     },
     {
      "months": 6,
-     "members": 7
+     "members": 17
     },
     {
      "months": 12,
-     "members": 12
+     "members": 40
     },
     {
      "months": 24,
-     "members": 77
+     "members": 158
     }
    ],
    "events": {
     "new_members": 0,
     "rejoins": 0,
-    "milestones": 1,
-    "gifted_total": 0
+    "milestones": 2,
+    "gifted_total": 1
    },
    "tiers": [
     {
      "tier": "崇拝",
      "price": 490,
-     "confirmed_members": 2,
-     "estimated_members": 68.0
+     "confirmed_members": 6,
+     "estimated_members": 192.9
     },
     {
      "tier": "アイスつき崇拝",
      "price": 990,
      "confirmed_members": 1,
-     "estimated_members": 34.0
+     "estimated_members": 32.1
     }
    ],
    "revenue": {
-    "monthly_low": 32124,
-    "monthly_est": 42624,
-    "gift_once": 0
+    "monthly_low": 70477,
+    "monthly_est": 80386,
+    "gift_once": 312
    },
-   "avg_member_chatters": 102,
+   "avg_member_chatters": 148.5,
    "partial": true,
    "finalized": false
   }

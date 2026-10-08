@@ -3,21 +3,21 @@
  "channel_id": "UCKpKC3M5fkcEvtOr06dmYlA",
  "handle": "@YuQ.Wilson",
  "subscribers": 244000,
- "fetched_at": "2026-10-08 10:22",
- "generated_at": "2026-10-08 10:23",
+ "fetched_at": "2026-10-09 05:33",
+ "generated_at": "2026-10-09 05:34",
  "period": {
-  "from": "2026-09-08 10:22",
-  "to": "2026-10-08 10:22",
+  "from": "2026-09-09 05:33",
+  "to": "2026-10-09 05:33",
   "days": 30
  },
- "streams_analyzed": 19,
+ "streams_analyzed": 20,
  "streams_missed": 3,
- "unique_chatters": 2589,
- "members_confirmed": 696,
+ "unique_chatters": 2604,
+ "members_confirmed": 698,
  "member_classes": {
   "known": 144,
-  "unknown": 383,
-  "gift": 169
+  "unknown": 384,
+  "gift": 170
  },
  "badges": [
   {
@@ -28,7 +28,7 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 45
+   "members": 46
   },
   {
    "months": 2,
@@ -53,7 +53,7 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 48
+   "members": 49
   }
  ],
  "events": {
@@ -62,7 +62,7 @@
   "milestones": 134,
   "gift_purchases": 29,
   "gifted_total": 171,
-  "gift_redemptions": 169
+  "gift_redemptions": 170
  },
  "tiers_configured": true,
  "tiers": [
@@ -72,19 +72,19 @@
    "net_per_member": 439.1,
    "confirmed_members": 144,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 383.0,
-   "estimated_members": 527.0,
+   "allocated_unknown": 384.0,
+   "estimated_members": 528.0,
    "monthly_net_confirmed": 63229,
-   "monthly_net_estimated": 231401
+   "monthly_net_estimated": 231840
   }
  ],
  "revenue": {
-  "monthly_low": 231401,
-  "monthly_est": 231401,
+  "monthly_low": 231840,
+  "monthly_est": 231840,
   "gift_once": 75085,
-  "total_low": 306485,
-  "total_est": 306485,
-  "paying_members": 527,
+  "total_low": 306925,
+  "total_est": 306925,
+  "paying_members": 528,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -282,6 +282,16 @@
    "member_chatters": 220,
    "new_members": 0,
    "gifted_total": 21
+  },
+  {
+   "video_id": "W-xDrmTfvDY",
+   "start": "2026-10-08 00:00",
+   "title": "【BALDUR'S GATE 3】ARE WE THE GOOD GUYS OR NOT?【NIJISANJI EN | Yu Q. Wilson】",
+   "kind": "配信",
+   "chatters": 210,
+   "member_chatters": 104,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -419,18 +429,18 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-08"
+    "to": "2026-10-09"
    },
-   "streams_analyzed": 6,
+   "streams_analyzed": 7,
    "streams_missed": 0,
-   "unique_chatters": 1155,
-   "members_confirmed": 442,
+   "unique_chatters": 1187,
+   "members_confirmed": 450,
    "member_classes": {
-    "unknown": 220,
-    "known": 108,
-    "gift": 114
+    "unknown": 226,
+    "known": 109,
+    "gift": 115
    },
-   "long_term_members": 182,
+   "long_term_members": 187,
    "badges": [
     {
      "months": 0,
@@ -438,7 +448,7 @@
     },
     {
      "months": 1,
-     "members": 23
+     "members": 24
     },
     {
      "months": 2,
@@ -446,19 +456,19 @@
     },
     {
      "months": 6,
-     "members": 58
+     "members": 60
     },
     {
      "months": 12,
-     "members": 97
+     "members": 99
     },
     {
      "months": 24,
-     "members": 52
+     "members": 54
     },
     {
      "months": 36,
-     "members": 33
+     "members": 34
     }
    ],
    "events": {
@@ -471,16 +481,16 @@
     {
      "tier": "Wilsoneers",
      "price": 690,
-     "confirmed_members": 108,
-     "estimated_members": 328.0
+     "confirmed_members": 109,
+     "estimated_members": 335.0
     }
    ],
    "revenue": {
-    "monthly_low": 144022,
-    "monthly_est": 144022,
+    "monthly_low": 147095,
+    "monthly_est": 147095,
     "gift_once": 50495
    },
-   "avg_member_chatters": 163.8,
+   "avg_member_chatters": 155.3,
    "partial": true,
    "finalized": false
   }

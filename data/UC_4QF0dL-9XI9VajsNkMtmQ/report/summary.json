@@ -3,41 +3,41 @@
  "channel_id": "UC_4QF0dL-9XI9VajsNkMtmQ",
  "handle": "@Rei7_Y4T4",
  "subscribers": 173000,
- "fetched_at": "2026-10-08 10:21",
- "generated_at": "2026-10-08 10:21",
+ "fetched_at": "2026-10-09 05:31",
+ "generated_at": "2026-10-09 05:32",
  "period": {
-  "from": "2026-09-08 10:21",
-  "to": "2026-10-08 10:21",
+  "from": "2026-09-09 05:31",
+  "to": "2026-10-09 05:31",
   "days": 30
  },
- "streams_analyzed": 37,
+ "streams_analyzed": 38,
  "streams_missed": 2,
- "unique_chatters": 7136,
- "members_confirmed": 798,
+ "unique_chatters": 7521,
+ "members_confirmed": 816,
  "member_classes": {
-  "unknown": 742,
-  "known": 46,
+  "unknown": 759,
+  "known": 47,
   "gift": 10
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 147
+   "members": 146
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 106
+   "members": 109
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 545
+   "members": 561
   }
  ],
  "events": {
-  "new_members": 31,
+  "new_members": 32,
   "rejoins": 7,
   "milestones": 0,
   "gift_purchases": 2,
@@ -50,21 +50,21 @@
    "tier": "Ris7",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 46,
+   "confirmed_members": 47,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 742.0,
-   "estimated_members": 788.0,
-   "monthly_net_confirmed": 14344,
-   "monthly_net_estimated": 245713
+   "allocated_unknown": 759.0,
+   "estimated_members": 806.0,
+   "monthly_net_confirmed": 14655,
+   "monthly_net_estimated": 251325
   }
  ],
  "revenue": {
-  "monthly_low": 245713,
-  "monthly_est": 245713,
+  "monthly_low": 251325,
+  "monthly_est": 251325,
   "gift_once": 3430,
-  "total_low": 249143,
-  "total_est": 249143,
-  "paying_members": 788,
+  "total_low": 254755,
+  "total_est": 254755,
+  "paying_members": 806,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -434,6 +434,16 @@
    "gifted_total": 0
   },
   {
+   "video_id": "G8HIjXre6Uw",
+   "start": "2026-10-08 00:00",
+   "title": "【 ドラゴンクエストモンスターズ　テリーのワンダーランドRETRO 】人生初ドラクエやるななよ【 Rei7 / にじさんじ 】",
+   "kind": "配信",
+   "chatters": 910,
+   "member_chatters": 162,
+   "new_members": 1,
+   "gifted_total": 0
+  },
+  {
    "video_id": "X4yoO515FP8",
    "start": "2026-10-08 04:47",
    "title": "【 The Artisan of Glimmith 】鬼ちるぱずる【 Rei7 / にじさんじ 】",
@@ -466,7 +476,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "Ris7",
-   "like_count": 171,
+   "like_count": 172,
    "view_count": null
   }
  ],
@@ -488,7 +498,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "Ris7",
-   "like_count": 171,
+   "like_count": 172,
    "view_count": null
   }
  ],
@@ -551,33 +561,33 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-08"
+    "to": "2026-10-09"
    },
-   "streams_analyzed": 10,
+   "streams_analyzed": 11,
    "streams_missed": 1,
-   "unique_chatters": 2289,
-   "members_confirmed": 404,
+   "unique_chatters": 2905,
+   "members_confirmed": 439,
    "member_classes": {
-    "unknown": 380,
-    "known": 24
+    "unknown": 414,
+    "known": 25
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 41
-    },
-    {
-     "months": 1,
      "members": 42
     },
     {
+     "months": 1,
+     "members": 48
+    },
+    {
      "months": 2,
-     "members": 321
+     "members": 349
     }
    ],
    "events": {
-    "new_members": 8,
+    "new_members": 9,
     "rejoins": 1,
     "milestones": 0,
     "gifted_total": 0
@@ -586,16 +596,16 @@
     {
      "tier": "Ris7",
      "price": 490,
-     "confirmed_members": 24,
-     "estimated_members": 404.0
+     "confirmed_members": 25,
+     "estimated_members": 439.0
     }
    ],
    "revenue": {
-    "monthly_low": 125975,
-    "monthly_est": 125975,
+    "monthly_low": 136888,
+    "monthly_est": 136888,
     "gift_once": 0
    },
-   "avg_member_chatters": 119.2,
+   "avg_member_chatters": 123.1,
    "partial": true,
    "finalized": false
   }

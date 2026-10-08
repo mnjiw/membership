@@ -2,20 +2,20 @@
  "channel": "Freodore【NIJISANJI EN】",
  "channel_id": "UCr40BzcLiGruKe7M5gXR9zQ",
  "handle": "@Freodore_nijisanji",
- "subscribers": 200000,
- "fetched_at": "2026-10-08 10:22",
- "generated_at": "2026-10-08 10:23",
+ "subscribers": 201000,
+ "fetched_at": "2026-10-09 05:34",
+ "generated_at": "2026-10-09 05:34",
  "period": {
-  "from": "2026-09-08 10:22",
-  "to": "2026-10-08 10:22",
+  "from": "2026-09-09 05:34",
+  "to": "2026-10-09 05:34",
   "days": 30
  },
- "streams_analyzed": 5,
+ "streams_analyzed": 6,
  "streams_missed": 0,
- "unique_chatters": 1173,
- "members_confirmed": 513,
+ "unique_chatters": 1250,
+ "members_confirmed": 530,
  "member_classes": {
-  "unknown": 419,
+  "unknown": 436,
   "known": 17,
   "gift": 77
  },
@@ -33,17 +33,17 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 57
+   "members": 58
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 58
+   "members": 59
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 279
+   "members": 294
   }
  ],
  "events": {
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 17,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 419.0,
-   "estimated_members": 436.0,
+   "allocated_unknown": 436.0,
+   "estimated_members": 453.0,
    "monthly_net_confirmed": 5301,
-   "monthly_net_estimated": 135953
+   "monthly_net_estimated": 141254
   }
  ],
  "revenue": {
-  "monthly_low": 135953,
-  "monthly_est": 135953,
+  "monthly_low": 141254,
+  "monthly_est": 141254,
   "gift_once": 24010,
-  "total_low": 159963,
-  "total_est": 159963,
-  "paying_members": 436,
+  "total_low": 165264,
+  "total_est": 165264,
+  "paying_members": 453,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -132,6 +132,16 @@
    "member_chatters": 202,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "4eawcoYDzJY",
+   "start": "2026-10-08 00:00",
+   "title": "【SILENT HILL: Townfall】Zoe (2)【NIJISANJI EN | Freodore】※SPOILERS",
+   "kind": "配信",
+   "chatters": 320,
+   "member_chatters": 181,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -141,18 +151,18 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-02",
-    "to": "2026-10-08"
+    "to": "2026-10-09"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 6,
    "streams_missed": 0,
-   "unique_chatters": 1173,
-   "members_confirmed": 513,
+   "unique_chatters": 1250,
+   "members_confirmed": 530,
    "member_classes": {
-    "unknown": 419,
+    "unknown": 436,
     "known": 17,
     "gift": 77
    },
-   "long_term_members": 279,
+   "long_term_members": 294,
    "badges": [
     {
      "months": 0,
@@ -164,15 +174,15 @@
     },
     {
      "months": 2,
-     "members": 57
-    },
-    {
-     "months": 6,
      "members": 58
     },
     {
+     "months": 6,
+     "members": 59
+    },
+    {
      "months": 12,
-     "members": 279
+     "members": 294
     }
    ],
    "events": {
@@ -186,15 +196,15 @@
      "tier": "Doremin Café",
      "price": 490,
      "confirmed_members": 17,
-     "estimated_members": 436.0
+     "estimated_members": 453.0
     }
    ],
    "revenue": {
-    "monthly_low": 135953,
-    "monthly_est": 135953,
+    "monthly_low": 141254,
+    "monthly_est": 141254,
     "gift_once": 24010
    },
-   "avg_member_chatters": 224.4,
+   "avg_member_chatters": 217.2,
    "partial": true,
    "finalized": false
   }

@@ -3,27 +3,27 @@
  "channel_id": "UCtAvQ5U0aXyKwm2i4GqFgJg",
  "handle": "@HarusakiAir",
  "subscribers": 197000,
- "fetched_at": "2026-10-08 10:13",
- "generated_at": "2026-10-08 10:13",
+ "fetched_at": "2026-10-09 05:20",
+ "generated_at": "2026-10-09 05:20",
  "period": {
-  "from": "2026-09-08 10:13",
-  "to": "2026-10-08 10:13",
+  "from": "2026-09-09 05:20",
+  "to": "2026-10-09 05:20",
   "days": 30
  },
- "streams_analyzed": 11,
- "streams_missed": 0,
- "unique_chatters": 2282,
- "members_confirmed": 265,
+ "streams_analyzed": 10,
+ "streams_missed": 1,
+ "unique_chatters": 2014,
+ "members_confirmed": 255,
  "member_classes": {
-  "unknown": 251,
-  "known": 8,
-  "gift": 6
+  "unknown": 244,
+  "known": 6,
+  "gift": 5
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 18
+   "members": 15
   },
   {
    "months": 1,
@@ -38,26 +38,26 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 36
+   "members": 35
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 48
+   "members": 46
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 146
+   "members": 142
   }
  ],
  "events": {
-  "new_members": 4,
-  "rejoins": 2,
-  "milestones": 2,
-  "gift_purchases": 2,
-  "gifted_total": 6,
-  "gift_redemptions": 6
+  "new_members": 3,
+  "rejoins": 1,
+  "milestones": 1,
+  "gift_purchases": 1,
+  "gifted_total": 5,
+  "gift_redemptions": 5
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +65,21 @@
    "tier": "春の民",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 8,
+   "confirmed_members": 6,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 251.0,
-   "estimated_members": 259.0,
-   "monthly_net_confirmed": 2495,
-   "monthly_net_estimated": 80761
+   "allocated_unknown": 244.0,
+   "estimated_members": 250.0,
+   "monthly_net_confirmed": 1871,
+   "monthly_net_estimated": 77955
   }
  ],
  "revenue": {
-  "monthly_low": 80761,
-  "monthly_est": 80761,
-  "gift_once": 1871,
-  "total_low": 82632,
-  "total_est": 82632,
-  "paying_members": 259,
+  "monthly_low": 77955,
+  "monthly_est": 77955,
+  "gift_once": 1559,
+  "total_low": 79514,
+  "total_est": 79514,
+  "paying_members": 250,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "pnn_1gGM_eI",
-   "start": "2026-09-08 21:03",
-   "title": "【遊戯王マスターデュエル #にじ遊戯王祭2026】チーム1の顔合わせとデッキ方針を固めよう【春崎エアル/にじさんじ】",
-   "kind": "配信",
-   "chatters": 838,
-   "member_chatters": 101,
-   "new_members": 1,
-   "gifted_total": 1
-  },
   {
    "video_id": "e15z1_6tdpc",
    "start": "2026-09-11 23:03",
@@ -199,7 +189,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "BiFTTcUHXJ4",
+   "start": "2026-10-08 00:00",
+   "title": "【スプラトゥーン3】感覚忘れてるのでリハビリ回【春崎エアル/にじさんじ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 415,
+   "view_count": 17124
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -272,10 +275,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-08"
+    "to": "2026-10-09"
    },
    "streams_analyzed": 3,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 545,
    "members_confirmed": 184,
    "member_classes": {

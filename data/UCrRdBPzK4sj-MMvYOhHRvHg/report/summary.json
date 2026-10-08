@@ -3,27 +3,27 @@
  "channel_id": "UCrRdBPzK4sj-MMvYOhHRvHg",
  "handle": "@TogawaNonoha",
  "subscribers": 116000,
- "fetched_at": "2026-10-08 10:20",
- "generated_at": "2026-10-08 10:20",
+ "fetched_at": "2026-10-09 05:29",
+ "generated_at": "2026-10-09 05:29",
  "period": {
-  "from": "2026-09-08 10:20",
-  "to": "2026-10-08 10:20",
+  "from": "2026-09-09 05:29",
+  "to": "2026-10-09 05:29",
   "days": 30
  },
- "streams_analyzed": 16,
+ "streams_analyzed": 17,
  "streams_missed": 1,
- "unique_chatters": 3951,
- "members_confirmed": 314,
+ "unique_chatters": 3983,
+ "members_confirmed": 317,
  "member_classes": {
-  "unknown": 287,
-  "known": 12,
+  "unknown": 289,
+  "known": 13,
   "gift": 15
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 40
+   "members": 42
   },
   {
    "months": 1,
@@ -43,11 +43,11 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 127
+   "members": 128
   }
  ],
  "events": {
-  "new_members": 10,
+  "new_members": 11,
   "rejoins": 2,
   "milestones": 0,
   "gift_purchases": 3,
@@ -60,21 +60,21 @@
    "tier": "隠れ家",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 12,
+   "confirmed_members": 13,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 287.0,
-   "estimated_members": 299.0,
-   "monthly_net_confirmed": 3742,
-   "monthly_net_estimated": 93234
+   "allocated_unknown": 289.0,
+   "estimated_members": 302.0,
+   "monthly_net_confirmed": 4054,
+   "monthly_net_estimated": 94169
   }
  ],
  "revenue": {
-  "monthly_low": 93234,
-  "monthly_est": 93234,
+  "monthly_low": 94169,
+  "monthly_est": 94169,
   "gift_once": 4677,
-  "total_low": 97911,
-  "total_est": 97911,
-  "paying_members": 299,
+  "total_low": 98846,
+  "total_est": 98846,
+  "paying_members": 302,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -242,6 +242,16 @@
    "member_chatters": 80,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "a0KG1WYycrk",
+   "start": "2026-10-08 00:00",
+   "title": "〖 デス桃太郎 〗デス十河、出動〖 にじさんじ / 十河ののは 〗",
+   "kind": "配信",
+   "chatters": 227,
+   "member_chatters": 100,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -254,7 +264,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "隠れ家",
-   "like_count": 138,
+   "like_count": 139,
    "view_count": null
   }
  ],
@@ -266,7 +276,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "隠れ家",
-   "like_count": 138,
+   "like_count": 139,
    "view_count": null
   }
  ],
@@ -337,21 +347,21 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-08"
+    "to": "2026-10-09"
    },
-   "streams_analyzed": 4,
+   "streams_analyzed": 5,
    "streams_missed": 0,
-   "unique_chatters": 1000,
-   "members_confirmed": 152,
+   "unique_chatters": 1094,
+   "members_confirmed": 171,
    "member_classes": {
-    "unknown": 148,
-    "known": 4
+    "unknown": 166,
+    "known": 5
    },
-   "long_term_members": 67,
+   "long_term_members": 77,
    "badges": [
     {
      "months": 0,
-     "members": 10
+     "members": 15
     },
     {
      "months": 1,
@@ -359,19 +369,19 @@
     },
     {
      "months": 2,
-     "members": 27
+     "members": 29
     },
     {
      "months": 6,
-     "members": 38
+     "members": 40
     },
     {
      "months": 12,
-     "members": 67
+     "members": 77
     }
    ],
    "events": {
-    "new_members": 3,
+    "new_members": 4,
     "rejoins": 0,
     "milestones": 0,
     "gifted_total": 0
@@ -380,16 +390,16 @@
     {
      "tier": "隠れ家",
      "price": 490,
-     "confirmed_members": 4,
-     "estimated_members": 152.0
+     "confirmed_members": 5,
+     "estimated_members": 171.0
     }
    ],
    "revenue": {
-    "monthly_low": 47396,
-    "monthly_est": 47396,
+    "monthly_low": 53321,
+    "monthly_est": 53321,
     "gift_once": 0
    },
-   "avg_member_chatters": 83.5,
+   "avg_member_chatters": 86.8,
    "partial": true,
    "finalized": false
   }

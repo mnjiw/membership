@@ -3,21 +3,21 @@
  "channel_id": "UCdh-YF2gTzqDNu0VU9lwPPw",
  "handle": "@ClaudeClawmark",
  "subscribers": 159000,
- "fetched_at": "2026-10-08 10:22",
- "generated_at": "2026-10-08 10:22",
+ "fetched_at": "2026-10-09 05:33",
+ "generated_at": "2026-10-09 05:34",
  "period": {
-  "from": "2026-09-08 10:22",
-  "to": "2026-10-08 10:22",
+  "from": "2026-09-09 05:33",
+  "to": "2026-10-09 05:33",
   "days": 30
  },
- "streams_analyzed": 19,
+ "streams_analyzed": 20,
  "streams_missed": 2,
- "unique_chatters": 1528,
- "members_confirmed": 565,
+ "unique_chatters": 1565,
+ "members_confirmed": 570,
  "member_classes": {
-  "known": 169,
-  "unknown": 327,
-  "gift": 69
+  "known": 171,
+  "unknown": 329,
+  "gift": 70
  },
  "badges": [
   {
@@ -28,31 +28,31 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 79
+   "members": 80
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 95
+   "members": 94
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 140
+   "members": 144
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 162
+   "members": 163
   }
  ],
  "events": {
-  "new_members": 11,
+  "new_members": 12,
   "rejoins": 7,
-  "milestones": 159,
-  "gift_purchases": 14,
-  "gifted_total": 69,
-  "gift_redemptions": 69
+  "milestones": 160,
+  "gift_purchases": 15,
+  "gifted_total": 70,
+  "gift_redemptions": 70
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,21 +60,21 @@
    "tier": "Outclaws",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 169,
+   "confirmed_members": 171,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 327.0,
-   "estimated_members": 496.0,
-   "monthly_net_confirmed": 74206,
-   "monthly_net_estimated": 217789
+   "allocated_unknown": 329.0,
+   "estimated_members": 500.0,
+   "monthly_net_confirmed": 75085,
+   "monthly_net_estimated": 219545
   }
  ],
  "revenue": {
-  "monthly_low": 217789,
-  "monthly_est": 217789,
-  "gift_once": 30297,
-  "total_low": 248086,
-  "total_est": 248086,
-  "paying_members": 496,
+  "monthly_low": 219545,
+  "monthly_est": 219545,
+  "gift_once": 30736,
+  "total_low": 250282,
+  "total_est": 250282,
+  "paying_members": 500,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -272,6 +272,16 @@
    "member_chatters": 205,
    "new_members": 3,
    "gifted_total": 26
+  },
+  {
+   "video_id": "S6ND3psj9yQ",
+   "start": "2026-10-08 00:00",
+   "title": "Log of Limbs",
+   "kind": "配信",
+   "chatters": 163,
+   "member_chatters": 81,
+   "new_members": 1,
+   "gifted_total": 1
   }
  ],
  "missed_streams": [
@@ -389,26 +399,26 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-08"
+    "to": "2026-10-09"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 6,
    "streams_missed": 0,
-   "unique_chatters": 653,
-   "members_confirmed": 330,
+   "unique_chatters": 718,
+   "members_confirmed": 344,
    "member_classes": {
-    "unknown": 184,
-    "known": 115,
-    "gift": 31
+    "unknown": 193,
+    "known": 119,
+    "gift": 32
    },
-   "long_term_members": 183,
+   "long_term_members": 191,
    "badges": [
     {
      "months": 0,
-     "members": 41
+     "members": 43
     },
     {
      "months": 1,
-     "members": 47
+     "members": 51
     },
     {
      "months": 6,
@@ -416,33 +426,33 @@
     },
     {
      "months": 12,
-     "members": 85
+     "members": 90
     },
     {
      "months": 24,
-     "members": 98
+     "members": 101
     }
    ],
    "events": {
-    "new_members": 4,
+    "new_members": 5,
     "rejoins": 2,
-    "milestones": 40,
-    "gifted_total": 31
+    "milestones": 41,
+    "gifted_total": 32
    },
    "tiers": [
     {
      "tier": "Outclaws",
      "price": 690,
-     "confirmed_members": 115,
-     "estimated_members": 299.0
+     "confirmed_members": 119,
+     "estimated_members": 312.0
     }
    ],
    "revenue": {
-    "monthly_low": 131288,
-    "monthly_est": 131288,
-    "gift_once": 13612
+    "monthly_low": 136996,
+    "monthly_est": 136996,
+    "gift_once": 14051
    },
-   "avg_member_chatters": 130.2,
+   "avg_member_chatters": 122,
    "partial": true,
    "finalized": false
   }

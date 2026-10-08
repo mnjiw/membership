@@ -3,27 +3,27 @@
  "channel_id": "UCHX7YpFG8rVwhsHCx34xt7w",
  "handle": "@YukishiroMahiro",
  "subscribers": 213000,
- "fetched_at": "2026-10-08 10:14",
- "generated_at": "2026-10-08 10:14",
+ "fetched_at": "2026-10-09 05:21",
+ "generated_at": "2026-10-09 05:21",
  "period": {
-  "from": "2026-09-08 10:14",
-  "to": "2026-10-08 10:14",
+  "from": "2026-09-09 05:21",
+  "to": "2026-10-09 05:21",
   "days": 30
  },
  "streams_analyzed": 17,
  "streams_missed": 1,
- "unique_chatters": 1124,
- "members_confirmed": 275,
+ "unique_chatters": 1099,
+ "members_confirmed": 273,
  "member_classes": {
-  "unknown": 222,
+  "unknown": 219,
   "known": 7,
-  "gift": 46
+  "gift": 47
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 47
+   "members": 48
   },
   {
    "months": 1,
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 13
+   "members": 14
   },
   {
    "months": 6,
@@ -48,16 +48,16 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 187
+   "members": 183
   }
  ],
  "events": {
   "new_members": 1,
   "rejoins": 6,
   "milestones": 0,
-  "gift_purchases": 11,
-  "gifted_total": 46,
-  "gift_redemptions": 46
+  "gift_purchases": 12,
+  "gifted_total": 47,
+  "gift_redemptions": 47
  },
  "tiers_configured": true,
  "tiers": [
@@ -67,10 +67,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 3,
    "share_of_confirmed_pct": 42.9,
-   "allocated_unknown": 95.1,
-   "estimated_members": 98.1,
+   "allocated_unknown": 93.9,
+   "estimated_members": 96.9,
    "monthly_net_confirmed": 935,
-   "monthly_net_estimated": 30603
+   "monthly_net_estimated": 30202
   },
   {
    "tier": "ぬまひとも",
@@ -78,10 +78,10 @@
    "net_per_member": 757.3,
    "confirmed_members": 4,
    "share_of_confirmed_pct": 57.1,
-   "allocated_unknown": 126.9,
-   "estimated_members": 130.9,
+   "allocated_unknown": 125.1,
+   "estimated_members": 129.1,
    "monthly_net_confirmed": 3029,
-   "monthly_net_estimated": 99095
+   "monthly_net_estimated": 97796
   },
   {
    "tier": "まひろはうす",
@@ -96,12 +96,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 73188,
-  "monthly_est": 129697,
-  "gift_once": 14344,
-  "total_low": 87532,
-  "total_est": 144041,
-  "paying_members": 229,
+  "monthly_low": 72253,
+  "monthly_est": 127998,
+  "gift_once": 14655,
+  "total_low": 86908,
+  "total_est": 142654,
+  "paying_members": 226,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -110,16 +110,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "WcKB8kYgUB8",
-   "start": "2026-09-08 21:02",
-   "title": "【#にじ遊戯王祭2026】初回配信！タキオンをひたすら回す！【雪城眞尋/にじさんじ】",
-   "kind": "配信",
-   "chatters": 217,
-   "member_chatters": 66,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "aU4u-h88B6U",
    "start": "2026-09-11 20:02",
@@ -279,6 +269,16 @@
    "member_chatters": 115,
    "new_members": 0,
    "gifted_total": 13
+  },
+  {
+   "video_id": "3X0qwsMQRdI",
+   "start": "2026-10-08 00:00",
+   "title": "【雑談】今話題の\"浮気判定シート\"をやりながら…【雪城眞尋/にじさんじ】",
+   "kind": "配信",
+   "chatters": 183,
+   "member_chatters": 79,
+   "new_members": 0,
+   "gifted_total": 1
   }
  ],
  "missed_streams": [
@@ -390,58 +390,62 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-08"
+    "to": "2026-10-09"
    },
-   "streams_analyzed": 2,
+   "streams_analyzed": 3,
    "streams_missed": 1,
-   "unique_chatters": 226,
-   "members_confirmed": 123,
+   "unique_chatters": 325,
+   "members_confirmed": 152,
    "member_classes": {
-    "unknown": 106,
-    "gift": 13,
-    "known": 4
+    "unknown": 133,
+    "gift": 14,
+    "known": 5
    },
-   "long_term_members": 96,
+   "long_term_members": 120,
    "badges": [
     {
      "months": 0,
-     "members": 12
+     "members": 13
+    },
+    {
+     "months": 1,
+     "members": 1
     },
     {
      "months": 2,
-     "members": 7
+     "members": 9
     },
     {
      "months": 6,
-     "members": 8
+     "members": 9
     },
     {
      "months": 12,
-     "members": 4
+     "members": 7
     },
     {
      "months": 24,
-     "members": 92
+     "members": 113
     }
    ],
    "events": {
     "new_members": 0,
     "rejoins": 4,
     "milestones": 0,
-    "gifted_total": 13
+    "gifted_total": 14
    },
    "tiers": [
     {
      "tier": "まひとも",
      "price": 490,
      "confirmed_members": 2,
-     "estimated_members": 55.0
+     "estimated_members": 55.2
     },
     {
      "tier": "ぬまひとも",
      "price": 1190,
-     "confirmed_members": 2,
-     "estimated_members": 55.0
+     "confirmed_members": 3,
+     "estimated_members": 82.8
     },
     {
      "tier": "まひろはうす",
@@ -451,11 +455,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 35191,
-    "monthly_est": 58800,
-    "gift_once": 4054
+    "monthly_low": 44367,
+    "monthly_est": 79915,
+    "gift_once": 4365
    },
-   "avg_member_chatters": 71.5,
+   "avg_member_chatters": 74,
    "partial": true,
    "finalized": false
   }

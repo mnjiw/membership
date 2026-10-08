@@ -3,31 +3,31 @@
  "channel_id": "UCzHiiP2r1zyTr8A1-6HtQtw",
  "handle": "@YamadaRyuichiro",
  "subscribers": 163000,
- "fetched_at": "2026-10-08 10:23",
- "generated_at": "2026-10-08 10:23",
+ "fetched_at": "2026-10-09 05:34",
+ "generated_at": "2026-10-09 05:35",
  "period": {
-  "from": "2026-09-08 10:23",
-  "to": "2026-10-08 10:23",
+  "from": "2026-09-09 05:34",
+  "to": "2026-10-09 05:34",
   "days": 30
  },
  "streams_analyzed": 26,
  "streams_missed": 3,
- "unique_chatters": 5835,
- "members_confirmed": 1637,
+ "unique_chatters": 5742,
+ "members_confirmed": 1645,
  "member_classes": {
-  "unknown": 711,
-  "known": 819,
+  "unknown": 718,
+  "known": 820,
   "gift": 107
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 1637
+   "members": 1645
   }
  ],
  "events": {
-  "new_members": 819,
+  "new_members": 820,
   "rejoins": 0,
   "milestones": 0,
   "gift_purchases": 5,
@@ -40,21 +40,21 @@
    "tier": "山田のメンバー",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 819,
+   "confirmed_members": 820,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 711.0,
-   "estimated_members": 1530.0,
-   "monthly_net_confirmed": 255379,
-   "monthly_net_estimated": 477082
+   "allocated_unknown": 718.0,
+   "estimated_members": 1538.0,
+   "monthly_net_confirmed": 255691,
+   "monthly_net_estimated": 479576
   }
  ],
  "revenue": {
-  "monthly_low": 477082,
-  "monthly_est": 477082,
+  "monthly_low": 479576,
+  "monthly_est": 479576,
   "gift_once": 33365,
-  "total_low": 510446,
-  "total_est": 510446,
-  "paying_members": 1530,
+  "total_low": 512941,
+  "total_est": 512941,
+  "paying_members": 1538,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -63,16 +63,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "gs6kbVFf-1c",
-   "start": "2026-09-08 18:00",
-   "title": "【リズム天国ミラクルスターズ #2】完全初見でもトークと愛は止まらない【にじさんじ / 山田龍一郎】",
-   "kind": "配信",
-   "chatters": 855,
-   "member_chatters": 0,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "vkqU41G5Pqg",
    "start": "2026-09-09 18:00",
@@ -322,6 +312,16 @@
    "member_chatters": 313,
    "new_members": 3,
    "gifted_total": 0
+  },
+  {
+   "video_id": "9NtuIOC14Yg",
+   "start": "2026-10-08 00:00",
+   "title": "【あつまれどうぶつの森 #8】ドラドに代わるビジネスを探せ！【にじさんじ / 山田龍一郎】",
+   "kind": "配信",
+   "chatters": 564,
+   "member_chatters": 386,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -358,7 +358,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "山田のメンバー",
-   "like_count": 473,
+   "like_count": 474,
    "view_count": null
   }
  ],
@@ -380,7 +380,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "山田のメンバー",
-   "like_count": 473,
+   "like_count": 474,
    "view_count": null
   }
  ],
@@ -435,26 +435,26 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-08"
+    "to": "2026-10-09"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 6,
    "streams_missed": 2,
-   "unique_chatters": 1389,
-   "members_confirmed": 790,
+   "unique_chatters": 1500,
+   "members_confirmed": 820,
    "member_classes": {
-    "unknown": 481,
-    "known": 304,
+    "unknown": 498,
+    "known": 317,
     "gift": 5
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 790
+     "members": 820
     }
    ],
    "events": {
-    "new_members": 23,
+    "new_members": 24,
     "rejoins": 0,
     "milestones": 0,
     "gifted_total": 5
@@ -463,16 +463,16 @@
     {
      "tier": "山田のメンバー",
      "price": 490,
-     "confirmed_members": 304,
-     "estimated_members": 785.0
+     "confirmed_members": 317,
+     "estimated_members": 815.0
     }
    ],
    "revenue": {
-    "monthly_low": 244777,
-    "monthly_est": 244777,
+    "monthly_low": 254132,
+    "monthly_est": 254132,
     "gift_once": 1559
    },
-   "avg_member_chatters": 388.4,
+   "avg_member_chatters": 388,
    "partial": true,
    "finalized": false
   }

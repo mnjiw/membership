@@ -2,20 +2,20 @@
  "channel": "Enna Alouette【NIJISANJI EN】",
  "channel_id": "UCR6qhsLpn62WVxCBK1dkLow",
  "handle": "@EnnaAlouette",
- "subscribers": 644000,
- "fetched_at": "2026-10-08 10:21",
- "generated_at": "2026-10-08 10:21",
+ "subscribers": 645000,
+ "fetched_at": "2026-10-09 05:32",
+ "generated_at": "2026-10-09 05:32",
  "period": {
-  "from": "2026-09-08 10:21",
-  "to": "2026-10-08 10:21",
+  "from": "2026-09-09 05:32",
+  "to": "2026-10-09 05:32",
   "days": 30
  },
- "streams_analyzed": 15,
+ "streams_analyzed": 16,
  "streams_missed": 2,
- "unique_chatters": 2109,
- "members_confirmed": 538,
+ "unique_chatters": 2134,
+ "members_confirmed": 541,
  "member_classes": {
-  "unknown": 287,
+  "unknown": 290,
   "known": 78,
   "gift": 173
  },
@@ -23,12 +23,12 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 184
+   "members": 183
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 8
+   "members": 10
   },
   {
    "months": 2,
@@ -38,22 +38,22 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 26
+   "members": 27
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 56
+   "members": 55
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 65
+   "members": 66
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 91
+   "members": 92
   },
   {
    "months": 48,
@@ -77,19 +77,19 @@
    "net_per_member": 439.1,
    "confirmed_members": 78,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 287.0,
-   "estimated_members": 365.0,
+   "allocated_unknown": 290.0,
+   "estimated_members": 368.0,
    "monthly_net_confirmed": 34249,
-   "monthly_net_estimated": 160268
+   "monthly_net_estimated": 161585
   }
  ],
  "revenue": {
-  "monthly_low": 160268,
-  "monthly_est": 160268,
+  "monthly_low": 161585,
+  "monthly_est": 161585,
   "gift_once": 77280,
-  "total_low": 237548,
-  "total_est": 237548,
-  "paying_members": 365,
+  "total_low": 238865,
+  "total_est": 238865,
+  "paying_members": 368,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -247,6 +247,16 @@
    "member_chatters": 71,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "UoHKwVyfV6w",
+   "start": "2026-10-08 00:00",
+   "title": "【BALDUR'S GATE 3 (PART V)】w/ Wilson, Millie & Elira !!【NIJISANJI EN | Enna Alouette】",
+   "kind": "配信",
+   "chatters": 179,
+   "member_chatters": 77,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -366,17 +376,17 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-08"
+    "to": "2026-10-09"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 0,
-   "unique_chatters": 186,
-   "members_confirmed": 71,
+   "unique_chatters": 282,
+   "members_confirmed": 102,
    "member_classes": {
-    "unknown": 45,
-    "known": 26
+    "unknown": 72,
+    "known": 30
    },
-   "long_term_members": 61,
+   "long_term_members": 86,
    "badges": [
     {
      "months": 0,
@@ -384,31 +394,31 @@
     },
     {
      "months": 1,
-     "members": 2
+     "members": 4
     },
     {
      "months": 2,
-     "members": 3
+     "members": 4
     },
     {
      "months": 6,
-     "members": 3
-    },
-    {
-     "months": 12,
-     "members": 10
-    },
-    {
-     "months": 24,
      "members": 6
     },
     {
+     "months": 12,
+     "members": 12
+    },
+    {
+     "months": 24,
+     "members": 14
+    },
+    {
      "months": 36,
-     "members": 17
+     "members": 26
     },
     {
      "months": 48,
-     "members": 28
+     "members": 34
     }
    ],
    "events": {
@@ -421,16 +431,16 @@
     {
      "tier": "Aloupeeps ♡",
      "price": 690,
-     "confirmed_members": 26,
-     "estimated_members": 71.0
+     "confirmed_members": 30,
+     "estimated_members": 102.0
     }
    ],
    "revenue": {
-    "monthly_low": 31175,
-    "monthly_est": 31175,
+    "monthly_low": 44787,
+    "monthly_est": 44787,
     "gift_once": 0
    },
-   "avg_member_chatters": 71,
+   "avg_member_chatters": 74,
    "partial": true,
    "finalized": false
   }

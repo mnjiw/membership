@@ -3,56 +3,56 @@
  "channel_id": "UC5dJFf4m-mEcoyJRfhBljoA",
  "handle": "@SeraphDazzlegarden",
  "subscribers": 426000,
- "fetched_at": "2026-10-08 10:17",
- "generated_at": "2026-10-08 10:17",
+ "fetched_at": "2026-10-09 05:25",
+ "generated_at": "2026-10-09 05:25",
  "period": {
-  "from": "2026-09-08 10:17",
-  "to": "2026-10-08 10:17",
+  "from": "2026-09-09 05:25",
+  "to": "2026-10-09 05:25",
   "days": 30
  },
  "streams_analyzed": 13,
  "streams_missed": 0,
- "unique_chatters": 2786,
- "members_confirmed": 1294,
+ "unique_chatters": 2797,
+ "members_confirmed": 1335,
  "member_classes": {
-  "unknown": 1183,
-  "known": 71,
-  "gift": 40
+  "unknown": 1187,
+  "known": 88,
+  "gift": 60
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 106
+   "members": 128
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 48
+   "members": 50
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 180
+   "members": 177
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 196
+   "members": 202
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 764
+   "members": 778
   }
  ],
  "events": {
-  "new_members": 12,
-  "rejoins": 2,
-  "milestones": 58,
-  "gift_purchases": 2,
-  "gifted_total": 40,
-  "gift_redemptions": 40
+  "new_members": 16,
+  "rejoins": 3,
+  "milestones": 69,
+  "gift_purchases": 3,
+  "gifted_total": 60,
+  "gift_redemptions": 60
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,32 +60,32 @@
    "tier": "アシスタントエージェント",
    "price": 140,
    "net_per_member": 89.1,
-   "confirmed_members": 5,
-   "share_of_confirmed_pct": 7.0,
-   "allocated_unknown": 83.3,
-   "estimated_members": 88.3,
-   "monthly_net_confirmed": 445,
-   "monthly_net_estimated": 7868
+   "confirmed_members": 6,
+   "share_of_confirmed_pct": 6.8,
+   "allocated_unknown": 80.9,
+   "estimated_members": 86.9,
+   "monthly_net_confirmed": 535,
+   "monthly_net_estimated": 7745
   },
   {
    "tier": "バディエージェント",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 66,
-   "share_of_confirmed_pct": 93.0,
-   "allocated_unknown": 1099.7,
-   "estimated_members": 1165.7,
-   "monthly_net_confirmed": 20580,
-   "monthly_net_estimated": 363483
+   "confirmed_members": 82,
+   "share_of_confirmed_pct": 93.2,
+   "allocated_unknown": 1106.1,
+   "estimated_members": 1188.1,
+   "monthly_net_confirmed": 25569,
+   "monthly_net_estimated": 370461
   }
  ],
  "revenue": {
-  "monthly_low": 126420,
-  "monthly_est": 371351,
-  "gift_once": 3564,
-  "total_low": 129984,
-  "total_est": 374915,
-  "paying_members": 1254,
+  "monthly_low": 131855,
+  "monthly_est": 378206,
+  "gift_once": 5345,
+  "total_low": 137200,
+  "total_est": 383552,
+  "paying_members": 1275,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -94,16 +94,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "hvyh2IdxYnw",
-   "start": "2026-09-08 19:59",
-   "title": "【#にじドクナチュ】俺がプロテインマスターだ【セラフ・ダズルガーデン/にじさんじ】",
-   "kind": "配信",
-   "chatters": 504,
-   "member_chatters": 364,
-   "new_members": 2,
-   "gifted_total": 0
-  },
   {
    "video_id": "s8OSPMrGVxY",
    "start": "2026-09-09 23:01",
@@ -223,6 +213,16 @@
    "member_chatters": 365,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "FSMwcObc13Y",
+   "start": "2026-10-08 00:00",
+   "title": "【雑談】買ってよかったもの発表ザウルス【セラフ・ダズルガーデン/にじさんじ】",
+   "kind": "配信",
+   "chatters": 556,
+   "member_chatters": 452,
+   "new_members": 6,
+   "gifted_total": 20
   }
  ],
  "missed_streams": [],
@@ -295,6 +295,73 @@
    "partial": true,
    "finalized": true,
    "finalized_at": "2026-10-08 08:46"
+  },
+  {
+   "month": "2026-10",
+   "coverage": {
+    "from": "2026-10-01",
+    "to": "2026-10-09"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 556,
+   "members_confirmed": 452,
+   "member_classes": {
+    "unknown": 387,
+    "known": 45,
+    "gift": 20
+   },
+   "long_term_members": 259,
+   "badges": [
+    {
+     "months": 0,
+     "members": 39
+    },
+    {
+     "months": 1,
+     "members": 16
+    },
+    {
+     "months": 2,
+     "members": 66
+    },
+    {
+     "months": 6,
+     "members": 72
+    },
+    {
+     "months": 12,
+     "members": 259
+    }
+   ],
+   "events": {
+    "new_members": 6,
+    "rejoins": 1,
+    "milestones": 13,
+    "gifted_total": 20
+   },
+   "tiers": [
+    {
+     "tier": "アシスタントエージェント",
+     "price": 140,
+     "confirmed_members": 2,
+     "estimated_members": 19.2
+    },
+    {
+     "tier": "バディエージェント",
+     "price": 490,
+     "confirmed_members": 43,
+     "estimated_members": 412.8
+    }
+   ],
+   "revenue": {
+    "monthly_low": 48065,
+    "monthly_est": 130429,
+    "gift_once": 1782
+   },
+   "avg_member_chatters": 452,
+   "partial": true,
+   "finalized": false
   }
  ],
  "no_streams": false,

@@ -2,64 +2,60 @@
  "month": "2026-10",
  "coverage": {
   "from": "2026-10-01",
-  "to": "2026-10-08"
+  "to": "2026-10-09"
  },
- "streams_analyzed": 5,
+ "streams_analyzed": 6,
  "streams_missed": 1,
- "unique_chatters": 184,
- "members_confirmed": 71,
+ "unique_chatters": 223,
+ "members_confirmed": 81,
  "member_classes": {
-  "known": 9,
-  "unknown": 42,
-  "gift": 20
+  "known": 10,
+  "unknown": 48,
+  "gift": 23
  },
- "long_term_members": 45,
+ "long_term_members": 49,
  "badges": [
   {
    "months": 0,
-   "members": 20
-  },
-  {
-   "months": 1,
-   "members": 1
+   "members": 24
   },
   {
    "months": 2,
-   "members": 2
-  },
-  {
-   "months": 6,
    "members": 3
   },
   {
+   "months": 6,
+   "members": 5
+  },
+  {
    "months": 12,
-   "members": 10
+   "members": 11
   },
   {
    "months": 24,
-   "members": 35
+   "members": 38
   }
  ],
  "events": {
   "new_members": 0,
   "rejoins": 0,
   "milestones": 2,
-  "gifted_total": 20
+  "gifted_total": 23
  },
  "tiers": [
   {
    "tier": "Ryuguard",
    "price": 690,
-   "confirmed_members": 9,
-   "estimated_members": 51.0
+   "confirmed_members": 10,
+   "estimated_members": 58.0
   }
  ],
  "revenue": {
-  "monthly_low": 22394,
-  "monthly_est": 22394,
-  "gift_once": 8782
+  "monthly_low": 25467,
+  "monthly_est": 25467,
+  "gift_once": 10099
  },
- "avg_member_chatters": 30.6,
+ "avg_member_chatters": 31,
  "partial": true,
  "finalized": false
 }

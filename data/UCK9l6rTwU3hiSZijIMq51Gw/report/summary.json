@@ -3,27 +3,27 @@
  "channel_id": "UCK9l6rTwU3hiSZijIMq51Gw",
  "handle": "@VezaliusBandage",
  "subscribers": 236000,
- "fetched_at": "2026-10-08 10:22",
- "generated_at": "2026-10-08 10:23",
+ "fetched_at": "2026-10-09 05:33",
+ "generated_at": "2026-10-09 05:33",
  "period": {
-  "from": "2026-09-08 10:22",
-  "to": "2026-10-08 10:22",
+  "from": "2026-09-09 05:33",
+  "to": "2026-10-09 05:33",
   "days": 30
  },
  "streams_analyzed": 26,
  "streams_missed": 2,
- "unique_chatters": 1202,
- "members_confirmed": 522,
+ "unique_chatters": 1112,
+ "members_confirmed": 467,
  "member_classes": {
-  "unknown": 196,
-  "known": 50,
-  "gift": 276
+  "unknown": 197,
+  "known": 49,
+  "gift": 221
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 280
+   "members": 230
   },
   {
    "months": 1,
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 33
+   "members": 31
   },
   {
    "months": 6,
@@ -43,21 +43,21 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 74
+   "members": 73
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 96
+   "members": 94
   }
  ],
  "events": {
-  "new_members": 7,
+  "new_members": 6,
   "rejoins": 6,
-  "milestones": 45,
-  "gift_purchases": 45,
-  "gifted_total": 276,
-  "gift_redemptions": 276
+  "milestones": 30,
+  "gift_purchases": 34,
+  "gifted_total": 221,
+  "gift_redemptions": 221
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,20 +65,20 @@
    "tier": "VezShip",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 50,
+   "confirmed_members": 49,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 196.0,
+   "allocated_unknown": 197.0,
    "estimated_members": 246.0,
-   "monthly_net_confirmed": 15591,
+   "monthly_net_confirmed": 15279,
    "monthly_net_estimated": 76707
   }
  ],
  "revenue": {
   "monthly_low": 76707,
   "monthly_est": 76707,
-  "gift_once": 86062,
-  "total_low": 162769,
-  "total_est": 162769,
+  "gift_once": 68912,
+  "total_low": 145619,
+  "total_est": 145619,
   "paying_members": 246,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "S9x2VXATnd8",
-   "start": "2026-09-08 22:00",
-   "title": "【Cat Chess】I'm back!!【NIJISANJI EN | Vezalius Bandage】",
-   "kind": "配信",
-   "chatters": 257,
-   "member_chatters": 147,
-   "new_members": 1,
-   "gifted_total": 55
-  },
   {
    "video_id": "jgVff9d6h7g",
    "start": "2026-09-09 21:01",
@@ -347,6 +337,16 @@
    "member_chatters": 53,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "UFXjdVIPHaU",
+   "start": "2026-10-08 00:00",
+   "title": "【League of Legends】5 stack practice!【NIJISANJI EN | Vezalius Bandage】",
+   "kind": "配信",
+   "chatters": 78,
+   "member_chatters": 47,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -468,18 +468,18 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-08"
+    "to": "2026-10-09"
    },
-   "streams_analyzed": 6,
+   "streams_analyzed": 7,
    "streams_missed": 0,
-   "unique_chatters": 442,
-   "members_confirmed": 184,
+   "unique_chatters": 459,
+   "members_confirmed": 185,
    "member_classes": {
-    "unknown": 125,
+    "unknown": 126,
     "known": 34,
     "gift": 25
    },
-   "long_term_members": 109,
+   "long_term_members": 110,
    "badges": [
     {
      "months": 0,
@@ -499,7 +499,7 @@
     },
     {
      "months": 12,
-     "members": 43
+     "members": 44
     },
     {
      "months": 24,
@@ -517,15 +517,15 @@
      "tier": "VezShip",
      "price": 490,
      "confirmed_members": 34,
-     "estimated_members": 159.0
+     "estimated_members": 160.0
     }
    ],
    "revenue": {
-    "monthly_low": 49579,
-    "monthly_est": 49579,
+    "monthly_low": 49891,
+    "monthly_est": 49891,
     "gift_once": 7795
    },
-   "avg_member_chatters": 78.7,
+   "avg_member_chatters": 74.1,
    "partial": true,
    "finalized": false
   }

@@ -3,16 +3,16 @@
  "channel_id": "UCFimqykDM5g9a5KxlW_e7ZQ",
  "handle": "@Onotora_Y4T4",
  "subscribers": 120000,
- "fetched_at": "2026-10-08 10:21",
- "generated_at": "2026-10-08 10:21",
+ "fetched_at": "2026-10-09 05:30",
+ "generated_at": "2026-10-09 05:30",
  "period": {
-  "from": "2026-09-08 10:21",
-  "to": "2026-10-08 10:21",
+  "from": "2026-09-09 05:30",
+  "to": "2026-10-09 05:30",
   "days": 30
  },
  "streams_analyzed": 21,
  "streams_missed": 2,
- "unique_chatters": 3020,
+ "unique_chatters": 2979,
  "members_confirmed": 344,
  "member_classes": {
   "unknown": 319,
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 59
+   "members": 58
   },
   {
    "months": 1,
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 239
+   "members": 240
   }
  ],
  "events": {
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "hUGoW2g-mIY",
-   "start": "2026-09-09 01:30",
-   "title": "【スト6】レジェと出るかガチカスタムと出るか【にじさんじ】",
-   "kind": "配信",
-   "chatters": 203,
-   "member_chatters": 56,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "e0gG9nSwxMo",
    "start": "2026-09-09 17:59",
@@ -282,6 +272,16 @@
    "member_chatters": 99,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "pQU5OrD0o7g",
+   "start": "2026-10-08 00:00",
+   "title": "【 あつまれ どうぶつの森 】さらばヘルツ、全額カブ買取キャンペーンの日【にじさんじ / 男虎】",
+   "kind": "配信",
+   "chatters": 175,
+   "member_chatters": 81,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -294,7 +294,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "オノヘッズ",
-   "like_count": 94,
+   "like_count": 95,
    "view_count": null
   },
   {
@@ -318,7 +318,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "オノヘッズ",
-   "like_count": 94,
+   "like_count": 95,
    "view_count": null
   }
  ],
@@ -381,30 +381,30 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-08"
+    "to": "2026-10-09"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 6,
    "streams_missed": 1,
-   "unique_chatters": 1176,
-   "members_confirmed": 222,
+   "unique_chatters": 1216,
+   "members_confirmed": 228,
    "member_classes": {
-    "unknown": 207,
-    "known": 4,
+    "unknown": 212,
+    "known": 5,
     "gift": 11
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 36
+     "members": 37
     },
     {
      "months": 1,
-     "members": 30
+     "members": 31
     },
     {
      "months": 2,
-     "members": 156
+     "members": 160
     }
    ],
    "events": {
@@ -417,16 +417,16 @@
     {
      "tier": "オノヘッズ",
      "price": 490,
-     "confirmed_members": 4,
-     "estimated_members": 211.0
+     "confirmed_members": 5,
+     "estimated_members": 217.0
     }
    ],
    "revenue": {
-    "monthly_low": 65794,
-    "monthly_est": 65794,
+    "monthly_low": 67665,
+    "monthly_est": 67665,
     "gift_once": 3430
    },
-   "avg_member_chatters": 108.8,
+   "avg_member_chatters": 104.2,
    "partial": true,
    "finalized": false
   }

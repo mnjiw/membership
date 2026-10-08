@@ -3,19 +3,19 @@
  "channel_id": "UCsFn_ueskBkMCEyzCEqAOvg",
  "handle": "@HanabatakeChaika",
  "subscribers": 572000,
- "fetched_at": "2026-10-08 10:13",
- "generated_at": "2026-10-08 10:13",
+ "fetched_at": "2026-10-09 05:19",
+ "generated_at": "2026-10-09 05:20",
  "period": {
-  "from": "2026-09-08 10:13",
-  "to": "2026-10-08 10:13",
+  "from": "2026-09-09 05:19",
+  "to": "2026-10-09 05:19",
   "days": 30
  },
  "streams_analyzed": 19,
- "streams_missed": 2,
- "unique_chatters": 6449,
- "members_confirmed": 615,
+ "streams_missed": 1,
+ "unique_chatters": 6624,
+ "members_confirmed": 626,
  "member_classes": {
-  "unknown": 615
+  "unknown": 626
  },
  "badges": [
   {
@@ -26,18 +26,18 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 41
+   "members": 40
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 547
+   "members": 559
   }
  ],
  "events": {
   "new_members": 7,
-  "rejoins": 8,
-  "milestones": 92,
+  "rejoins": 10,
+  "milestones": 93,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -50,19 +50,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 0,
    "share_of_confirmed_pct": "",
-   "allocated_unknown": 615.0,
-   "estimated_members": 615.0,
+   "allocated_unknown": 626.0,
+   "estimated_members": 626.0,
    "monthly_net_confirmed": 0,
-   "monthly_net_estimated": 191768
+   "monthly_net_estimated": 195198
   }
  ],
  "revenue": {
-  "monthly_low": 191768,
-  "monthly_est": 191768,
+  "monthly_low": 195198,
+  "monthly_est": 195198,
   "gift_once": 0,
-  "total_low": 191768,
-  "total_est": 191768,
-  "paying_members": 615,
+  "total_low": 195198,
+  "total_est": 195198,
+  "paying_members": 626,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -71,16 +71,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "xZNzt-O69j8",
-   "start": "2026-09-08 22:57",
-   "title": "花畑チャイカとゼルダの伝説40周年 Direct 2026.9.8 いっしょにみようよ一番やったゼルダはタクト好きなのはふしぎのぼうし ティアキン 四つの剣 タクト",
-   "kind": "配信",
-   "chatters": 208,
-   "member_chatters": 112,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "A1fhqAXdrus",
    "start": "2026-09-09 22:57",
@@ -260,21 +250,19 @@
    "member_chatters": 150,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "QtL_gdv7i7w",
+   "start": "2026-10-08 00:00",
+   "title": "花畑チャイカと都市伝説解体センター 私に言わせればすべてのホラー現象はホラに過ぎない ネタバレ注意！！",
+   "kind": "配信",
+   "chatters": 702,
+   "member_chatters": 198,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
-  {
-   "video_id": "P5s6IkCDHkQ",
-   "start": "2026-09-08 13:43",
-   "title": "花畑チャイカとめんげんそういえばやっていなかったゼルダの伝説知恵のかりものやってみよ",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 189,
-   "view_count": null
-  },
   {
    "video_id": "9hE9vBwn68M",
    "start": "2026-10-02 22:02",
@@ -284,29 +272,19 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 143,
+   "like_count": 144,
    "view_count": null
   }
  ],
  "members_only_content": [
   {
-   "video_id": "P5s6IkCDHkQ",
-   "start": "2026-09-08 13:43",
-   "title": "花畑チャイカとめんげんそういえばやっていなかったゼルダの伝説知恵のかりものやってみよ",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 189,
-   "view_count": null
-  },
-  {
    "video_id": "9hE9vBwn68M",
    "start": "2026-10-02 22:02",
    "title": "花畑チャイカとめんげん眠いからちょっとだけ",
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 143,
+   "like_count": 144,
    "view_count": null
   }
  ],
@@ -367,14 +345,14 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-08"
+    "to": "2026-10-09"
    },
-   "streams_analyzed": 4,
+   "streams_analyzed": 5,
    "streams_missed": 1,
-   "unique_chatters": 1549,
-   "members_confirmed": 302,
+   "unique_chatters": 1915,
+   "members_confirmed": 352,
    "member_classes": {
-    "unknown": 302
+    "unknown": 352
    },
    "long_term_members": 0,
    "badges": [
@@ -388,13 +366,13 @@
     },
     {
      "months": 6,
-     "members": 274
+     "members": 324
     }
    ],
    "events": {
     "new_members": 1,
-    "rejoins": 1,
-    "milestones": 15,
+    "rejoins": 3,
+    "milestones": 18,
     "gifted_total": 0
    },
    "tiers": [
@@ -402,15 +380,15 @@
      "tier": "メンバーシップ",
      "price": 490,
      "confirmed_members": 0,
-     "estimated_members": 302.0
+     "estimated_members": 352.0
     }
    ],
    "revenue": {
-    "monthly_low": 94169,
-    "monthly_est": 94169,
+    "monthly_low": 109760,
+    "monthly_est": 109760,
     "gift_once": 0
    },
-   "avg_member_chatters": 163.5,
+   "avg_member_chatters": 170.4,
    "partial": true,
    "finalized": false
   }

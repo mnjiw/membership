@@ -3,19 +3,19 @@
  "channel_id": "UCuep1JCrMvSxOGgGhBfJuYw",
  "handle": "@FurenELustario",
  "subscribers": 839000,
- "fetched_at": "2026-10-08 10:16",
- "generated_at": "2026-10-08 10:16",
+ "fetched_at": "2026-10-09 05:23",
+ "generated_at": "2026-10-09 05:23",
  "period": {
-  "from": "2026-09-08 10:16",
-  "to": "2026-10-08 10:16",
+  "from": "2026-09-09 05:23",
+  "to": "2026-10-09 05:23",
   "days": 30
  },
- "streams_analyzed": 19,
- "streams_missed": 0,
- "unique_chatters": 10459,
- "members_confirmed": 1294,
+ "streams_analyzed": 18,
+ "streams_missed": 1,
+ "unique_chatters": 9711,
+ "members_confirmed": 1284,
  "member_classes": {
-  "unknown": 1252,
+  "unknown": 1242,
   "known": 30,
   "gift": 12
  },
@@ -33,12 +33,12 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 112
+   "members": 110
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 87
+   "members": 86
   },
   {
    "months": 12,
@@ -48,22 +48,22 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 213
+   "members": 208
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 147
+   "members": 146
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 449
+   "members": 448
   }
  ],
  "events": {
   "new_members": 14,
-  "rejoins": 15,
+  "rejoins": 14,
   "milestones": 0,
   "gift_purchases": 3,
   "gifted_total": 12,
@@ -77,19 +77,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 30,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1252.0,
-   "estimated_members": 1282.0,
+   "allocated_unknown": 1242.0,
+   "estimated_members": 1272.0,
    "monthly_net_confirmed": 9355,
-   "monthly_net_estimated": 399751
+   "monthly_net_estimated": 396633
   }
  ],
  "revenue": {
-  "monthly_low": 399751,
-  "monthly_est": 399751,
+  "monthly_low": 396633,
+  "monthly_est": 396633,
   "gift_once": 3742,
-  "total_low": 403493,
-  "total_est": 403493,
-  "paying_members": 1282,
+  "total_low": 400375,
+  "total_est": 400375,
+  "paying_members": 1272,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "foa43yvAI-4",
-   "start": "2026-09-08 21:01",
-   "title": "【#にじ遊戯王祭2026】顔合わせ！エアル先生に遊戯王を教えてもらおう！【にじさんじ】",
-   "kind": "配信",
-   "chatters": 2023,
-   "member_chatters": 371,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "MAbm3jzsC_s",
    "start": "2026-09-09 22:50",
@@ -289,8 +279,32 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
- "members_only_content": [],
+ "missed_streams": [
+  {
+   "video_id": "k4WSVDTCT0c",
+   "start": "2026-10-08 23:01",
+   "title": "もう秋だね・・・・(？)",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 374,
+   "view_count": null
+  }
+ ],
+ "members_only_content": [
+  {
+   "video_id": "k4WSVDTCT0c",
+   "start": "2026-10-08 23:01",
+   "title": "もう秋だね・・・・(？)",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 374,
+   "view_count": null
+  }
+ ],
  "history": [
   {
    "month": "2026-09",
@@ -370,10 +384,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-08"
+    "to": "2026-10-09"
    },
    "streams_analyzed": 6,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 4422,
    "members_confirmed": 893,
    "member_classes": {
