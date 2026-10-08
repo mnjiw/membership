@@ -214,9 +214,17 @@ NOTICE = ('<div class="notice">「確認メンバー」は期間中のチャッ�
           '発言しないメンバーは数えられないため、実際はこれより多くなります。 <a href="{root}about/">集計方法を見る</a></div>')
 
 
+def zero_rank(c, m):
+    """確認メンバーが0人のチャンネルどうしの並び順:
+    ① 配信あり・メンバーシップあり → ② 配信なし → ③ メンバーシップなし → ④ 配信なし・メンバーシップなし"""
+    if m.get("members"):
+        return 0
+    return (0 if m.get("streams") else 1) + (2 if c.get("no_membership") else 0)
+
+
 def ranking_main(rows, period, months, root):
     """rows: [(channel, metrics)] を確認メンバーの多い順に"""
-    rows = sorted(rows, key=lambda r: -r[1]["members"])
+    rows = sorted(rows, key=lambda r: (-r[1]["members"], zero_rank(r[0], r[1]), r[0].get("order", 10 ** 6)))
     title = "YouTube メンバーシップ人数ランキング" + ("（直近30日）" if period == "recent" else f"（{month_label(period)}）")
     body = [f"<h1>{esc(title)}</h1>",
             '<p class="lead">公開されているライブ配信・プレミア公開のチャットから、各チャンネルのメンバーシップの規模（確認できたメンバーの人数）を推定・比較しています。</p>',
@@ -425,7 +433,8 @@ def main():
                       "group": sj["group"], "tags": sj["tags"], "yomi": sj["yomi"], "subscribers": sj.get("subscribers"),
                       "period": sj["period"], "fetched_at": sj.get("fetched_at"),
                       "m": metrics_recent(sj), "months": [h["month"] for h in sj.get("history", [])],
-                      "no_membership": sj.get("membership") is False})
+                      "no_membership": sj.get("membership") is False,
+                      "order": cm.get("row", 10 ** 6)})
         for h in sj.get("history", []):
             months[h["month"]][cid] = metrics_month(h)
         write_js(out / "data" / "ch" / f"{cid}.js", f"window.MW_CH = window.MW_CH || {{}}; window.MW_CH[{json.dumps(cid)}]", sj)
@@ -433,6 +442,7 @@ def main():
         print(f"  {sj['display_name']}  メンバー {sj['members_confirmed']} 人  (月別 {len(sj.get('history', []))} か月)")
     if not index:
         sys.exit("summary.json が見つかりません。先に analyze_badges.py を実行してください。")
+    index.sort(key=lambda c: c["order"])
     month_keys = sorted(months, reverse=True)
     for mon, chs in months.items():
         write_js(out / "data" / "months" / f"{mon}.js",

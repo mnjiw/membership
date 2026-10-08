@@ -215,7 +215,7 @@ main ul.plain { padding-left: 20px; }
     </div>
     当サイトは非公式のファンメイド集計です。YouTube・各チャンネル・各事務所とは関係ありません。
     数値はすべて公開されているライブチャットからの推定で、実際のメンバー数・収益とは異なります。
-    <span id="built">データ更新: 2026-10-08 10:23</span>
+    <span id="built">データ更新: 2026-10-08 10:54</span>
   </div>
 </footer>
 <div id="tip" role="tooltip"></div>
@@ -334,12 +334,20 @@ main ul.plain { padding-left: 20px; }
       (!state.group || c.group === state.group) &&
       (!q || norm([c.name, c.handle, c.group, c.yomi, ...(c.tags || [])].join(" ")).includes(q)));
     const col = COLS.find(c => c.key === state.sort) || COLS[0];
+    // 確認メンバーが0人のチャンネルどうしの並び順:
+    // ① 配信あり・メンバーシップあり → ② 配信なし → ③ メンバーシップなし → ④ 配信なし・メンバーシップなし
+    const zeroRank = r => r.m.members ? 0 : (r.m.streams ? 0 : 1) + (r.c.no_membership ? 2 : 0);
+    const order = r => r.c.order ?? 1e9;   // 同率のときは channels.csv の上から順
     return list.sort((a, b) => {
       const va = colVal(col, a), vb = colVal(col, b);
-      if (va == null && vb == null) return 0;
-      if (va == null) return 1;
-      if (vb == null) return -1;
-      return (va - vb) * state.dir;
+      if (va == null && vb != null) return 1;
+      if (vb == null && va != null) return -1;
+      if (va != null && vb != null && va !== vb) return (va - vb) * state.dir;
+      if (col.key === "members") {
+        const za = zeroRank(a), zb = zeroRank(b);
+        if (za !== zb) return za - zb;
+      }
+      return order(a) - order(b);
     });
   }
 
