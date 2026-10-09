@@ -3,26 +3,26 @@
  "channel_id": "UCo7TRj3cS-f_1D9ZDmuTsjw",
  "handle": "@MachitaChima",
  "subscribers": 934000,
- "fetched_at": "2026-10-09 11:07",
- "generated_at": "2026-10-09 11:07",
+ "fetched_at": "2026-10-10 05:19",
+ "generated_at": "2026-10-10 05:20",
  "period": {
-  "from": "2026-09-09 11:07",
-  "to": "2026-10-09 11:07",
+  "from": "2026-09-10 05:19",
+  "to": "2026-10-10 05:19",
   "days": 30
  },
- "streams_analyzed": 12,
+ "streams_analyzed": 13,
  "streams_missed": 3,
- "unique_chatters": 2325,
- "members_confirmed": 482,
+ "unique_chatters": 2472,
+ "members_confirmed": 490,
  "member_classes": {
-  "unknown": 478,
+  "unknown": 486,
   "known": 4
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 11
+   "members": 10
   },
   {
    "months": 1,
@@ -32,12 +32,12 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 52
+   "members": 54
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 49
+   "members": 50
   },
   {
    "months": 12,
@@ -47,22 +47,22 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 60
+   "members": 62
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 52
+   "members": 51
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 49
+   "members": 50
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 104
+   "members": 108
   }
  ],
  "events": {
@@ -81,19 +81,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 4,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 478.0,
-   "estimated_members": 482.0,
+   "allocated_unknown": 486.0,
+   "estimated_members": 490.0,
    "monthly_net_confirmed": 1247,
-   "monthly_net_estimated": 150296
+   "monthly_net_estimated": 152791
   }
  ],
  "revenue": {
-  "monthly_low": 150296,
-  "monthly_est": 150296,
+  "monthly_low": 152791,
+  "monthly_est": 152791,
   "gift_once": 0,
-  "total_low": 150296,
-  "total_est": 150296,
-  "paying_members": 482,
+  "total_low": 152791,
+  "total_est": 152791,
+  "paying_members": 490,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -219,6 +219,16 @@
    "kind": "配信",
    "chatters": 661,
    "member_chatters": 237,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "fNFXNyT2Oxo",
+   "start": "2026-10-09 00:00",
+   "title": "【超土下座】謝 れ ば い い ん で す よ ね ？【にじさんじ/町田ちま】",
+   "kind": "配信",
+   "chatters": 395,
+   "member_chatters": 137,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -375,17 +385,17 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-09"
+    "to": "2026-10-10"
    },
-   "streams_analyzed": 4,
+   "streams_analyzed": 5,
    "streams_missed": 1,
-   "unique_chatters": 1243,
-   "members_confirmed": 341,
+   "unique_chatters": 1437,
+   "members_confirmed": 357,
    "member_classes": {
-    "unknown": 337,
+    "unknown": 353,
     "known": 4
    },
-   "long_term_members": 248,
+   "long_term_members": 260,
    "badges": [
     {
      "months": 0,
@@ -397,11 +407,11 @@
     },
     {
      "months": 2,
-     "members": 43
+     "members": 45
     },
     {
      "months": 6,
-     "members": 34
+     "members": 36
     },
     {
      "months": 12,
@@ -409,7 +419,7 @@
     },
     {
      "months": 24,
-     "members": 39
+     "members": 45
     },
     {
      "months": 36,
@@ -417,11 +427,11 @@
     },
     {
      "months": 48,
-     "members": 33
+     "members": 35
     },
     {
      "months": 60,
-     "members": 78
+     "members": 82
     }
    ],
    "events": {
@@ -435,15 +445,15 @@
      "tier": "ちまちゃんず🐹",
      "price": 490,
      "confirmed_members": 4,
-     "estimated_members": 341.0
+     "estimated_members": 357.0
     }
    ],
    "revenue": {
-    "monthly_low": 106330,
-    "monthly_est": 106330,
+    "monthly_low": 111319,
+    "monthly_est": 111319,
     "gift_once": 0
    },
-   "avg_member_chatters": 158.5,
+   "avg_member_chatters": 154.2,
    "partial": true,
    "finalized": false
   }

@@ -3,55 +3,55 @@
  "channel_id": "UCXRlIK3Cw_TJIQC5kSJJQMg",
  "handle": "@InuiToko",
  "subscribers": 1030000,
- "fetched_at": "2026-10-09 11:07",
- "generated_at": "2026-10-09 11:08",
+ "fetched_at": "2026-10-10 05:20",
+ "generated_at": "2026-10-10 05:20",
  "period": {
-  "from": "2026-09-09 11:07",
-  "to": "2026-10-09 11:07",
+  "from": "2026-09-10 05:20",
+  "to": "2026-10-10 05:20",
   "days": 30
  },
- "streams_analyzed": 16,
- "streams_missed": 3,
- "unique_chatters": 8225,
- "members_confirmed": 2031,
+ "streams_analyzed": 14,
+ "streams_missed": 5,
+ "unique_chatters": 7087,
+ "members_confirmed": 1895,
  "member_classes": {
-  "unknown": 2031
+  "unknown": 1895
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 109
+   "members": 100
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 55
+   "members": 52
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 157
+   "members": 149
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 204
+   "members": 196
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 305
+   "members": 283
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 1201
+   "members": 1115
   }
  ],
  "events": {
-  "new_members": 56,
-  "rejoins": 33,
+  "new_members": 53,
+  "rejoins": 32,
   "milestones": 0,
   "gift_purchases": 0,
   "gifted_total": 0,
@@ -65,19 +65,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 0,
    "share_of_confirmed_pct": "",
-   "allocated_unknown": 2031.0,
-   "estimated_members": 2031.0,
+   "allocated_unknown": 1895.0,
+   "estimated_members": 1895.0,
    "monthly_net_confirmed": 0,
-   "monthly_net_estimated": 633303
+   "monthly_net_estimated": 590895
   }
  ],
  "revenue": {
-  "monthly_low": 633303,
-  "monthly_est": 633303,
+  "monthly_low": 590895,
+  "monthly_est": 590895,
   "gift_once": 0,
-  "total_low": 633303,
-  "total_est": 633303,
-  "paying_members": 2031,
+  "total_low": 590895,
+  "total_est": 590895,
+  "paying_members": 1895,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -86,26 +86,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "MTrNCws9Ojk",
-   "start": "2026-09-09 18:59",
-   "title": "【#とこばくたん2026】告知あり！？ライバーさんに聞いてみた、戌亥の誕生日ケーキにのせたいもの！withゲストのみなさん【戌亥とこ/にじさんじ】",
-   "kind": "配信",
-   "chatters": 2114,
-   "member_chatters": 695,
-   "new_members": 2,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "qX9-vM-Vhmk",
-   "start": "2026-09-09 20:40",
-   "title": "【MV】Broken／戌亥とこ",
-   "kind": "プレミア",
-   "chatters": 590,
-   "member_chatters": 368,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "yHSQedpz7Ew",
    "start": "2026-09-11 22:00",
@@ -283,6 +263,30 @@
    "members_level": "",
    "like_count": 415,
    "view_count": null
+  },
+  {
+   "video_id": "0ncrIOHT-JU",
+   "start": "2026-10-09 00:00",
+   "title": "【Megastore: Tidy Up Together】わたしは片付けるから！みんなは寝て！！３【戌亥とこ/にじさんじ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 3027,
+   "view_count": 163463
+  },
+  {
+   "video_id": "oOZNcSRqlos",
+   "start": "2026-10-09 15:43",
+   "title": "【メン限】あせらずひとつずつ",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 333,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -314,6 +318,16 @@
    "status": "members_only",
    "members_level": "",
    "like_count": 415,
+   "view_count": null
+  },
+  {
+   "video_id": "oOZNcSRqlos",
+   "start": "2026-10-09 15:43",
+   "title": "【メン限】あせらずひとつずつ",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 333,
    "view_count": null
   }
  ],
@@ -386,10 +400,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-09"
+    "to": "2026-10-10"
    },
    "streams_analyzed": 7,
-   "streams_missed": 0,
+   "streams_missed": 2,
    "unique_chatters": 3813,
    "members_confirmed": 1396,
    "member_classes": {

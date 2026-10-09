@@ -2,67 +2,71 @@
  "month": "2026-10",
  "coverage": {
   "from": "2026-10-01",
-  "to": "2026-10-09"
+  "to": "2026-10-10"
  },
- "streams_analyzed": 2,
+ "streams_analyzed": 3,
  "streams_missed": 0,
- "unique_chatters": 708,
- "members_confirmed": 132,
+ "unique_chatters": 864,
+ "members_confirmed": 169,
  "member_classes": {
-  "unknown": 127,
-  "known": 5
+  "unknown": 160,
+  "known": 9
  },
- "long_term_members": 121,
+ "long_term_members": 151,
  "badges": [
   {
+   "months": 0,
+   "members": 1
+  },
+  {
    "months": 2,
-   "members": 4
+   "members": 9
   },
   {
    "months": 6,
-   "members": 7
+   "members": 8
   },
   {
    "months": 12,
-   "members": 11
+   "members": 18
   },
   {
    "months": 24,
-   "members": 11
+   "members": 18
   },
   {
    "months": 36,
-   "members": 15
+   "members": 16
   },
   {
    "months": 48,
-   "members": 14
+   "members": 20
   },
   {
    "months": 60,
-   "members": 70
+   "members": 79
   }
  ],
  "events": {
-  "new_members": 0,
-  "rejoins": 0,
-  "milestones": 2,
+  "new_members": 1,
+  "rejoins": 1,
+  "milestones": 4,
   "gifted_total": 0
  },
  "tiers": [
   {
    "tier": "夜見のひよこプラン",
    "price": 490,
-   "confirmed_members": 5,
-   "estimated_members": 132.0
+   "confirmed_members": 9,
+   "estimated_members": 169.0
   }
  ],
  "revenue": {
-  "monthly_low": 41160,
-  "monthly_est": 41160,
+  "monthly_low": 52697,
+  "monthly_est": 52697,
   "gift_once": 0
  },
- "avg_member_chatters": 100,
+ "avg_member_chatters": 105.7,
  "partial": true,
  "finalized": false
 }

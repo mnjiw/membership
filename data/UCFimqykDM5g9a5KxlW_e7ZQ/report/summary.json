@@ -3,37 +3,37 @@
  "channel_id": "UCFimqykDM5g9a5KxlW_e7ZQ",
  "handle": "@Onotora_Y4T4",
  "subscribers": 120000,
- "fetched_at": "2026-10-09 11:10",
- "generated_at": "2026-10-09 11:10",
+ "fetched_at": "2026-10-10 05:30",
+ "generated_at": "2026-10-10 05:30",
  "period": {
-  "from": "2026-09-09 11:10",
-  "to": "2026-10-09 11:10",
+  "from": "2026-09-10 05:30",
+  "to": "2026-10-10 05:30",
   "days": 30
  },
  "streams_analyzed": 21,
  "streams_missed": 2,
- "unique_chatters": 2979,
- "members_confirmed": 344,
+ "unique_chatters": 2917,
+ "members_confirmed": 337,
  "member_classes": {
-  "unknown": 319,
-  "gift": 13,
-  "known": 12
+  "unknown": 312,
+  "known": 12,
+  "gift": 13
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 58
+   "members": 57
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 46
+   "members": 45
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 240
+   "members": 235
   }
  ],
  "events": {
@@ -52,19 +52,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 12,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 319.0,
-   "estimated_members": 331.0,
+   "allocated_unknown": 312.0,
+   "estimated_members": 324.0,
    "monthly_net_confirmed": 3742,
-   "monthly_net_estimated": 103212
+   "monthly_net_estimated": 101029
   }
  ],
  "revenue": {
-  "monthly_low": 103212,
-  "monthly_est": 103212,
+  "monthly_low": 101029,
+  "monthly_est": 101029,
   "gift_once": 4054,
-  "total_low": 107265,
-  "total_est": 107265,
-  "paying_members": 331,
+  "total_low": 105083,
+  "total_est": 105083,
+  "paying_members": 324,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "e0gG9nSwxMo",
-   "start": "2026-09-09 17:59",
-   "title": "【スト6】レジェにいきます【にじさんじ】",
-   "kind": "配信",
-   "chatters": 444,
-   "member_chatters": 104,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "miSg4nw5T1c",
    "start": "2026-09-13 11:59",
@@ -282,6 +272,16 @@
    "member_chatters": 81,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "K_xfDj6Y2mE",
+   "start": "2026-10-09 00:00",
+   "title": "【スト6】初～中級者向け！スト6講座！生徒：Rei7くん【 男虎 / にじさんじ】",
+   "kind": "配信",
+   "chatters": 303,
+   "member_chatters": 63,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -381,14 +381,14 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-09"
+    "to": "2026-10-10"
    },
-   "streams_analyzed": 6,
+   "streams_analyzed": 7,
    "streams_missed": 1,
-   "unique_chatters": 1216,
-   "members_confirmed": 228,
+   "unique_chatters": 1380,
+   "members_confirmed": 230,
    "member_classes": {
-    "unknown": 212,
+    "unknown": 214,
     "known": 5,
     "gift": 11
    },
@@ -396,15 +396,15 @@
    "badges": [
     {
      "months": 0,
-     "members": 37
+     "members": 36
     },
     {
      "months": 1,
-     "members": 31
+     "members": 32
     },
     {
      "months": 2,
-     "members": 160
+     "members": 162
     }
    ],
    "events": {
@@ -418,15 +418,15 @@
      "tier": "オノヘッズ",
      "price": 490,
      "confirmed_members": 5,
-     "estimated_members": 217.0
+     "estimated_members": 219.0
     }
    ],
    "revenue": {
-    "monthly_low": 67665,
-    "monthly_est": 67665,
+    "monthly_low": 68288,
+    "monthly_est": 68288,
     "gift_once": 3430
    },
-   "avg_member_chatters": 104.2,
+   "avg_member_chatters": 98.3,
    "partial": true,
    "finalized": false
   }

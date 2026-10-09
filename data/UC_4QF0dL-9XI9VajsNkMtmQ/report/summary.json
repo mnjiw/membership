@@ -3,19 +3,19 @@
  "channel_id": "UC_4QF0dL-9XI9VajsNkMtmQ",
  "handle": "@Rei7_Y4T4",
  "subscribers": 173000,
- "fetched_at": "2026-10-09 11:10",
- "generated_at": "2026-10-09 11:10",
+ "fetched_at": "2026-10-10 05:30",
+ "generated_at": "2026-10-10 05:30",
  "period": {
-  "from": "2026-09-09 11:10",
-  "to": "2026-10-09 11:10",
+  "from": "2026-09-10 05:30",
+  "to": "2026-10-10 05:30",
   "days": 30
  },
- "streams_analyzed": 38,
+ "streams_analyzed": 37,
  "streams_missed": 2,
- "unique_chatters": 7521,
- "members_confirmed": 816,
+ "unique_chatters": 7400,
+ "members_confirmed": 796,
  "member_classes": {
-  "unknown": 759,
+  "unknown": 739,
   "known": 47,
   "gift": 10
  },
@@ -23,17 +23,17 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 146
+   "members": 136
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 109
+   "members": 105
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 561
+   "members": 555
   }
  ],
  "events": {
@@ -52,19 +52,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 47,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 759.0,
-   "estimated_members": 806.0,
+   "allocated_unknown": 739.0,
+   "estimated_members": 786.0,
    "monthly_net_confirmed": 14655,
-   "monthly_net_estimated": 251325
+   "monthly_net_estimated": 245089
   }
  ],
  "revenue": {
-  "monthly_low": 251325,
-  "monthly_est": 251325,
+  "monthly_low": 245089,
+  "monthly_est": 245089,
   "gift_once": 3430,
-  "total_low": 254755,
-  "total_est": 254755,
-  "paying_members": 806,
+  "total_low": 248519,
+  "total_est": 248519,
+  "paying_members": 786,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "ZklVICgL2-0",
-   "start": "2026-09-09 13:54",
-   "title": "【 GRWM 】スタジオ行くのでまたーり準備する 【 Rei7 / にじさんじ 】",
-   "kind": "配信",
-   "chatters": 445,
-   "member_chatters": 177,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "XbLT4PwIRkA",
    "start": "2026-09-10 21:01",
@@ -561,7 +551,7 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-09"
+    "to": "2026-10-10"
    },
    "streams_analyzed": 11,
    "streams_missed": 1,

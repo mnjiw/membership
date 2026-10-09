@@ -3,19 +3,19 @@
  "channel_id": "UCYKP16oMX9KKPbrNgo_Kgag",
  "handle": "@Elu",
  "subscribers": 735000,
- "fetched_at": "2026-10-09 11:06",
- "generated_at": "2026-10-09 11:07",
+ "fetched_at": "2026-10-10 05:17",
+ "generated_at": "2026-10-10 05:18",
  "period": {
-  "from": "2026-09-09 11:06",
-  "to": "2026-10-09 11:06",
+  "from": "2026-09-10 05:17",
+  "to": "2026-10-10 05:17",
   "days": 30
  },
  "streams_analyzed": 25,
  "streams_missed": 1,
- "unique_chatters": 4932,
- "members_confirmed": 291,
+ "unique_chatters": 4935,
+ "members_confirmed": 292,
  "member_classes": {
-  "unknown": 266,
+  "unknown": 267,
   "known": 25
  },
  "badges": [
@@ -32,17 +32,17 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 7
+   "members": 6
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 22
+   "members": 23
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 46
+   "members": 47
   },
   {
    "months": 24,
@@ -76,19 +76,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 25,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 266.0,
-   "estimated_members": 291.0,
+   "allocated_unknown": 267.0,
+   "estimated_members": 292.0,
    "monthly_net_confirmed": 7795,
-   "monthly_net_estimated": 90739
+   "monthly_net_estimated": 91051
   }
  ],
  "revenue": {
-  "monthly_low": 90739,
-  "monthly_est": 90739,
+  "monthly_low": 91051,
+  "monthly_est": 91051,
   "gift_once": 0,
-  "total_low": 90739,
-  "total_est": 90739,
-  "paying_members": 291,
+  "total_low": 91051,
+  "total_est": 91051,
+  "paying_members": 292,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -97,16 +97,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "Ue4xSXjWA2M",
-   "start": "2026-09-09 19:01",
-   "title": "【 都市伝説解体センター 】完全初見！#5 あざみー、楽しいインターネットもあるんだぞ。※ネタバレ注意【にじさんじ/える】",
-   "kind": "配信",
-   "chatters": 222,
-   "member_chatters": 64,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "ZTXb3zkkR5Q",
    "start": "2026-09-10 18:00",
@@ -346,6 +336,16 @@
    "member_chatters": 73,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "fyV57VLu-B8",
+   "start": "2026-10-09 00:00",
+   "title": "【 デス桃太郎 】むかしむかしあるところに・・・？【にじさんじ/える】",
+   "kind": "配信",
+   "chatters": 214,
+   "member_chatters": 72,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -452,21 +452,21 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-09"
+    "to": "2026-10-10"
    },
-   "streams_analyzed": 8,
+   "streams_analyzed": 9,
    "streams_missed": 0,
-   "unique_chatters": 1993,
-   "members_confirmed": 206,
+   "unique_chatters": 2051,
+   "members_confirmed": 209,
    "member_classes": {
     "known": 20,
-    "unknown": 186
+    "unknown": 189
    },
-   "long_term_members": 174,
+   "long_term_members": 176,
    "badges": [
     {
      "months": 0,
-     "members": 8
+     "members": 9
     },
     {
      "months": 1,
@@ -474,15 +474,15 @@
     },
     {
      "months": 2,
-     "members": 4
+     "members": 3
     },
     {
      "months": 6,
-     "members": 17
+     "members": 18
     },
     {
      "months": 12,
-     "members": 28
+     "members": 30
     },
     {
      "months": 24,
@@ -508,15 +508,15 @@
      "tier": "エルフの森",
      "price": 490,
      "confirmed_members": 20,
-     "estimated_members": 206.0
+     "estimated_members": 209.0
     }
    ],
    "revenue": {
-    "monthly_low": 64235,
-    "monthly_est": 64235,
+    "monthly_low": 65170,
+    "monthly_est": 65170,
     "gift_once": 0
    },
-   "avg_member_chatters": 79.2,
+   "avg_member_chatters": 78.4,
    "partial": true,
    "finalized": false
   }

@@ -3,15 +3,15 @@
  "channel_id": "UCKMYISTJAQ8xTplUPHiABlA",
  "handle": "@YashiroKizuku",
  "subscribers": 921000,
- "fetched_at": "2026-10-09 11:07",
- "generated_at": "2026-10-09 11:07",
+ "fetched_at": "2026-10-10 05:18",
+ "generated_at": "2026-10-10 05:18",
  "period": {
-  "from": "2026-09-09 11:07",
-  "to": "2026-10-09 11:07",
+  "from": "2026-09-10 05:18",
+  "to": "2026-10-10 05:18",
   "days": 30
  },
  "streams_analyzed": 15,
- "streams_missed": 1,
+ "streams_missed": 0,
  "unique_chatters": 13241,
  "members_confirmed": 888,
  "member_classes": {
@@ -224,32 +224,8 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [
-  {
-   "video_id": "HTvYAlG0gSQ",
-   "start": "2026-09-09 22:52",
-   "title": "【メンバー限定】ニンダイ同時視聴します。任天堂が好きだから【にじさんじ/社築】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 264,
-   "view_count": null
-  }
- ],
- "members_only_content": [
-  {
-   "video_id": "HTvYAlG0gSQ",
-   "start": "2026-09-09 22:52",
-   "title": "【メンバー限定】ニンダイ同時視聴します。任天堂が好きだから【にじさんじ/社築】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 264,
-   "view_count": null
-  }
- ],
+ "missed_streams": [],
+ "members_only_content": [],
  "history": [
   {
    "month": "2026-09",
@@ -309,7 +285,7 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-09"
+    "to": "2026-10-10"
    },
    "streams_analyzed": 4,
    "streams_missed": 0,

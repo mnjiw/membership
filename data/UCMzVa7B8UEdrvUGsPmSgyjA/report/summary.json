@@ -3,32 +3,32 @@
  "channel_id": "UCMzVa7B8UEdrvUGsPmSgyjA",
  "handle": "@DeremKado",
  "subscribers": 48300,
- "fetched_at": "2026-10-09 11:09",
- "generated_at": "2026-10-09 11:09",
+ "fetched_at": "2026-10-10 05:24",
+ "generated_at": "2026-10-10 05:25",
  "period": {
-  "from": "2026-09-09 11:09",
-  "to": "2026-10-09 11:09",
+  "from": "2026-09-10 05:24",
+  "to": "2026-10-10 05:24",
   "days": 30
  },
- "streams_analyzed": 18,
- "streams_missed": 1,
- "unique_chatters": 246,
- "members_confirmed": 85,
+ "streams_analyzed": 19,
+ "streams_missed": 0,
+ "unique_chatters": 255,
+ "members_confirmed": 83,
  "member_classes": {
   "known": 3,
-  "unknown": 31,
-  "gift": 51
+  "unknown": 33,
+  "gift": 47
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 52
+   "members": 46
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 2
+   "members": 4
   },
   {
    "months": 2,
@@ -48,12 +48,12 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 5
+   "members": 6
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 5
+   "members": 6
   },
   {
    "months": 48,
@@ -66,8 +66,8 @@
   "rejoins": 1,
   "milestones": 3,
   "gift_purchases": 10,
-  "gifted_total": 51,
-  "gift_redemptions": 51
+  "gifted_total": 47,
+  "gift_redemptions": 47
  },
  "tiers_configured": true,
  "tiers": [
@@ -77,19 +77,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 3,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 31.0,
-   "estimated_members": 34.0,
+   "allocated_unknown": 33.0,
+   "estimated_members": 36.0,
    "monthly_net_confirmed": 935,
-   "monthly_net_estimated": 10602
+   "monthly_net_estimated": 11225
   }
  ],
  "revenue": {
-  "monthly_low": 10602,
-  "monthly_est": 10602,
-  "gift_once": 15903,
-  "total_low": 26505,
-  "total_est": 26505,
-  "paying_members": 34,
+  "monthly_low": 11225,
+  "monthly_est": 11225,
+  "gift_once": 14655,
+  "total_low": 25881,
+  "total_est": 25881,
+  "paying_members": 36,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "bhC-mhLO52A",
-   "start": "2026-09-09 22:32",
-   "title": "【 FINAL FANTASY VII REMAKE INTERGRADE 】#10 Where's Aerith?【 NIJISANJI | Derem Kado 】#squareenix",
-   "kind": "配信",
-   "chatters": 23,
-   "member_chatters": 11,
-   "new_members": 0,
-   "gifted_total": 5
-  },
   {
    "video_id": "lPohD47yIdQ",
    "start": "2026-09-10 22:47",
@@ -277,22 +267,29 @@
    "member_chatters": 13,
    "new_members": 0,
    "gifted_total": 5
-  }
- ],
- "missed_streams": [
+  },
   {
    "video_id": "CNFb3kVHUd0",
    "start": "2026-10-08 00:00",
    "title": "【 Withering Rooms 】#3 PLEASE 【 NIJISANJI | Derem Kado 】 #spooktober #screamtober",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 99,
-   "view_count": 906
+   "kind": "配信",
+   "chatters": 25,
+   "member_chatters": 6,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "_ROIajGmHdo",
+   "start": "2026-10-09 00:00",
+   "title": "【 FFXIV 】Refreshing my mind【 NIJISANJI | Derem Kado 】",
+   "kind": "配信",
+   "chatters": 24,
+   "member_chatters": 6,
+   "new_members": 0,
+   "gifted_total": 1
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -373,22 +370,26 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-09"
+    "to": "2026-10-10"
    },
-   "streams_analyzed": 4,
-   "streams_missed": 1,
-   "unique_chatters": 72,
-   "members_confirmed": 37,
+   "streams_analyzed": 6,
+   "streams_missed": 0,
+   "unique_chatters": 91,
+   "members_confirmed": 40,
    "member_classes": {
-    "unknown": 14,
+    "unknown": 16,
     "known": 3,
-    "gift": 20
+    "gift": 21
    },
-   "long_term_members": 9,
+   "long_term_members": 11,
    "badges": [
     {
      "months": 0,
-     "members": 20
+     "members": 19
+    },
+    {
+     "months": 1,
+     "members": 2
     },
     {
      "months": 2,
@@ -404,11 +405,11 @@
     },
     {
      "months": 24,
-     "members": 1
+     "members": 2
     },
     {
      "months": 36,
-     "members": 4
+     "members": 5
     },
     {
      "months": 48,
@@ -419,22 +420,22 @@
     "new_members": 0,
     "rejoins": 1,
     "milestones": 2,
-    "gifted_total": 20
+    "gifted_total": 21
    },
    "tiers": [
     {
      "tier": "Magical Domikado",
      "price": 490,
      "confirmed_members": 3,
-     "estimated_members": 17.0
+     "estimated_members": 19.0
     }
    ],
    "revenue": {
-    "monthly_low": 5301,
-    "monthly_est": 5301,
-    "gift_once": 6236
+    "monthly_low": 5925,
+    "monthly_est": 5925,
+    "gift_once": 6548
    },
-   "avg_member_chatters": 13.8,
+   "avg_member_chatters": 11.2,
    "partial": true,
    "finalized": false
   }

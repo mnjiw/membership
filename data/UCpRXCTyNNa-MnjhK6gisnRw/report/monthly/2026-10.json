@@ -2,63 +2,76 @@
  "month": "2026-10",
  "coverage": {
   "from": "2026-10-01",
-  "to": "2026-10-09"
+  "to": "2026-10-10"
  },
- "streams_analyzed": 1,
- "streams_missed": 0,
- "unique_chatters": 28,
- "members_confirmed": 15,
+ "streams_analyzed": 2,
+ "streams_missed": 1,
+ "unique_chatters": 446,
+ "members_confirmed": 102,
  "member_classes": {
-  "unknown": 14,
-  "known": 1
+  "known": 21,
+  "unknown": 70,
+  "gift": 11
  },
- "long_term_members": 14,
+ "long_term_members": 71,
  "badges": [
   {
-   "months": 6,
-   "members": 1
+   "months": 0,
+   "members": 17
   },
   {
-   "months": 12,
+   "months": 1,
    "members": 3
   },
   {
+   "months": 2,
+   "members": 8
+  },
+  {
+   "months": 6,
+   "members": 3
+  },
+  {
+   "months": 12,
+   "members": 17
+  },
+  {
    "months": 24,
-   "members": 11
+   "members": 54
   }
  ],
  "events": {
-  "new_members": 0,
-  "rejoins": 0,
-  "milestones": 0,
-  "gifted_total": 0
+  "new_members": 5,
+  "rejoins": 2,
+  "milestones": 8,
+  "gifted_total": 11
  },
  "tiers": [
   {
    "tier": "안내소 案内所",
    "price": 290,
-   "confirmed_members": 0,
-   "estimated_members": 0.0
+   "confirmed_members": 4,
+   "estimated_members": 17.3
   },
   {
    "tier": "Gaide🚩취업센터 就業センター",
    "price": 490,
-   "confirmed_members": 1,
-   "estimated_members": 15.0
+   "confirmed_members": 15,
+   "estimated_members": 65.0
   },
   {
    "tier": "Gaide🚩인턴쉽 インターンシップ",
    "price": 1290,
-   "confirmed_members": 0,
-   "estimated_members": 0.0
+   "confirmed_members": 2,
+   "estimated_members": 8.7
   }
  ],
  "revenue": {
-  "monthly_low": 2895,
-  "monthly_est": 4677,
-  "gift_once": 0
+  "monthly_low": 19975,
+  "monthly_est": 30582,
+  "gift_once": 2030
  },
- "avg_member_chatters": 15,
+ "avg_member_chatters": 57.5,
  "partial": true,
  "finalized": false
 }

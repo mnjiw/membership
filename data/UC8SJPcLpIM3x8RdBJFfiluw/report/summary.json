@@ -3,56 +3,56 @@
  "channel_id": "UC8SJPcLpIM3x8RdBJFfiluw",
  "handle": "@Kaisei_nijisanji",
  "subscribers": 363000,
- "fetched_at": "2026-10-09 11:09",
- "generated_at": "2026-10-09 11:09",
+ "fetched_at": "2026-10-10 05:27",
+ "generated_at": "2026-10-10 05:28",
  "period": {
-  "from": "2026-09-09 11:09",
-  "to": "2026-10-09 11:09",
+  "from": "2026-09-10 05:27",
+  "to": "2026-10-10 05:27",
   "days": 30
  },
- "streams_analyzed": 20,
+ "streams_analyzed": 21,
  "streams_missed": 0,
- "unique_chatters": 4292,
- "members_confirmed": 1396,
+ "unique_chatters": 4357,
+ "members_confirmed": 1432,
  "member_classes": {
-  "unknown": 1334,
-  "known": 22,
-  "gift": 40
+  "unknown": 1348,
+  "known": 24,
+  "gift": 60
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 117
+   "members": 137
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 57
+   "members": 61
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 163
+   "members": 165
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 193
+   "members": 195
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 866
+   "members": 874
   }
  ],
  "events": {
-  "new_members": 15,
-  "rejoins": 7,
+  "new_members": 16,
+  "rejoins": 8,
   "milestones": 0,
-  "gift_purchases": 4,
-  "gifted_total": 40,
-  "gift_redemptions": 40
+  "gift_purchases": 5,
+  "gifted_total": 60,
+  "gift_redemptions": 60
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,21 +60,21 @@
    "tier": "ファンキーな錠連",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 22,
+   "confirmed_members": 24,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1334.0,
-   "estimated_members": 1356.0,
-   "monthly_net_confirmed": 6860,
-   "monthly_net_estimated": 422825
+   "allocated_unknown": 1348.0,
+   "estimated_members": 1372.0,
+   "monthly_net_confirmed": 7484,
+   "monthly_net_estimated": 427815
   }
  ],
  "revenue": {
-  "monthly_low": 422825,
-  "monthly_est": 422825,
-  "gift_once": 12473,
-  "total_low": 435298,
-  "total_est": 435298,
-  "paying_members": 1356,
+  "monthly_low": 427815,
+  "monthly_est": 427815,
+  "gift_once": 18709,
+  "total_low": 446524,
+  "total_est": 446524,
+  "paying_members": 1372,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -282,6 +282,16 @@
    "member_chatters": 277,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "GGYO9jES1fE",
+   "start": "2026-10-09 00:00",
+   "title": "【Dressmaker】僕の服、世界がまだ追い付いていない説【魁星/にじさんじ】",
+   "kind": "配信",
+   "chatters": 506,
+   "member_chatters": 365,
+   "new_members": 1,
+   "gifted_total": 20
   }
  ],
  "missed_streams": [],
@@ -353,59 +363,60 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-09"
+    "to": "2026-10-10"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 6,
    "streams_missed": 0,
-   "unique_chatters": 1592,
-   "members_confirmed": 769,
+   "unique_chatters": 1706,
+   "members_confirmed": 821,
    "member_classes": {
-    "unknown": 758,
-    "known": 11
+    "unknown": 787,
+    "known": 14,
+    "gift": 20
    },
-   "long_term_members": 497,
+   "long_term_members": 519,
    "badges": [
     {
      "months": 0,
-     "members": 30
+     "members": 51
     },
     {
      "months": 1,
-     "members": 38
+     "members": 42
     },
     {
      "months": 2,
-     "members": 100
+     "members": 103
     },
     {
      "months": 6,
-     "members": 104
+     "members": 106
     },
     {
      "months": 12,
-     "members": 497
+     "members": 519
     }
    ],
    "events": {
-    "new_members": 2,
-    "rejoins": 2,
+    "new_members": 3,
+    "rejoins": 3,
     "milestones": 0,
-    "gifted_total": 0
+    "gifted_total": 20
    },
    "tiers": [
     {
      "tier": "ファンキーな錠連",
      "price": 490,
-     "confirmed_members": 11,
-     "estimated_members": 769.0
+     "confirmed_members": 14,
+     "estimated_members": 801.0
     }
    ],
    "revenue": {
-    "monthly_low": 239788,
-    "monthly_est": 239788,
-    "gift_once": 0
+    "monthly_low": 249766,
+    "monthly_est": 249766,
+    "gift_once": 6236
    },
-   "avg_member_chatters": 361,
+   "avg_member_chatters": 361.7,
    "partial": true,
    "finalized": false
   }

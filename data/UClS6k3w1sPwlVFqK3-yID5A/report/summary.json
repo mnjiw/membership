@@ -2,17 +2,17 @@
  "channel": "ハリ / Ryu Hari 【にじさんじ】",
  "channel_id": "UClS6k3w1sPwlVFqK3-yID5A",
  "handle": "@RyuHari",
- "subscribers": 44500,
- "fetched_at": "2026-10-09 11:09",
- "generated_at": "2026-10-09 11:09",
+ "subscribers": 44600,
+ "fetched_at": "2026-10-10 05:25",
+ "generated_at": "2026-10-10 05:25",
  "period": {
-  "from": "2026-09-09 11:09",
-  "to": "2026-10-09 11:09",
+  "from": "2026-09-10 05:25",
+  "to": "2026-10-10 05:25",
   "days": 30
  },
- "streams_analyzed": 10,
- "streams_missed": 1,
- "unique_chatters": 112,
+ "streams_analyzed": 11,
+ "streams_missed": 0,
+ "unique_chatters": 120,
  "members_confirmed": 41,
  "member_classes": {
   "unknown": 30,
@@ -162,22 +162,19 @@
    "member_chatters": 15,
    "new_members": 0,
    "gifted_total": 1
-  }
- ],
- "missed_streams": [
+  },
   {
    "video_id": "O2jjrj9Dr_8",
    "start": "2026-10-08 00:00",
-   "title": "🎸🔰今日からまたギター練習頑張る",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 153,
-   "view_count": 1797
+   "title": "🎸🔰Back to practicing guitar starting today",
+   "kind": "配信",
+   "chatters": 39,
+   "member_chatters": 21,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -230,14 +227,14 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-09"
+    "to": "2026-10-10"
    },
-   "streams_analyzed": 3,
-   "streams_missed": 1,
-   "unique_chatters": 45,
-   "members_confirmed": 28,
+   "streams_analyzed": 4,
+   "streams_missed": 0,
+   "unique_chatters": 62,
+   "members_confirmed": 31,
    "member_classes": {
-    "unknown": 23,
+    "unknown": 26,
     "known": 3,
     "gift": 2
    },
@@ -245,7 +242,7 @@
    "badges": [
     {
      "months": 0,
-     "members": 28
+     "members": 31
     }
    ],
    "events": {
@@ -259,15 +256,15 @@
      "tier": "리몽",
      "price": 490,
      "confirmed_members": 3,
-     "estimated_members": 26.0
+     "estimated_members": 29.0
     }
    ],
    "revenue": {
-    "monthly_low": 8107,
-    "monthly_est": 8107,
+    "monthly_low": 9043,
+    "monthly_est": 9043,
     "gift_once": 624
    },
-   "avg_member_chatters": 18.3,
+   "avg_member_chatters": 19,
    "partial": true,
    "finalized": false
   }

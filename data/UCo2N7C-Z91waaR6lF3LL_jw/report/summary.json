@@ -3,66 +3,66 @@
  "channel_id": "UCo2N7C-Z91waaR6lF3LL_jw",
  "handle": "@KaidaHaru",
  "subscribers": 742000,
- "fetched_at": "2026-10-09 11:08",
- "generated_at": "2026-10-09 11:08",
+ "fetched_at": "2026-10-10 05:22",
+ "generated_at": "2026-10-10 05:23",
  "period": {
-  "from": "2026-09-09 11:08",
-  "to": "2026-10-09 11:08",
+  "from": "2026-09-10 05:22",
+  "to": "2026-10-10 05:22",
   "days": 30
  },
  "streams_analyzed": 16,
  "streams_missed": 1,
- "unique_chatters": 4062,
- "members_confirmed": 2329,
+ "unique_chatters": 3816,
+ "members_confirmed": 2214,
  "member_classes": {
-  "unknown": 2294,
-  "known": 35
+  "unknown": 2178,
+  "known": 36
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 61
+   "members": 57
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 67
+   "members": 60
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 230
+   "members": 221
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 275
+   "members": 265
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 555
+   "members": 518
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 343
+   "members": 327
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 286
+   "members": 273
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 512
+   "members": 493
   }
  ],
  "events": {
-  "new_members": 15,
-  "rejoins": 18,
+  "new_members": 16,
+  "rejoins": 17,
   "milestones": 0,
   "gift_purchases": 0,
   "gifted_total": 0,
@@ -74,32 +74,32 @@
    "tier": "研修助手コース",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 12,
-   "share_of_confirmed_pct": 34.3,
+   "confirmed_members": 13,
+   "share_of_confirmed_pct": 36.1,
    "allocated_unknown": 786.5,
-   "estimated_members": 798.5,
-   "monthly_net_confirmed": 3742,
-   "monthly_net_estimated": 248991
+   "estimated_members": 799.5,
+   "monthly_net_confirmed": 4054,
+   "monthly_net_estimated": 249299
   },
   {
    "tier": "見習い助手コース",
    "price": 1190,
    "net_per_member": 757.3,
    "confirmed_members": 23,
-   "share_of_confirmed_pct": 65.7,
-   "allocated_unknown": 1507.5,
-   "estimated_members": 1530.5,
+   "share_of_confirmed_pct": 63.9,
+   "allocated_unknown": 1391.5,
+   "estimated_members": 1414.5,
    "monthly_net_confirmed": 17417,
-   "monthly_net_estimated": 1158995
+   "monthly_net_estimated": 1071162
   }
  ],
  "revenue": {
-  "monthly_low": 736470,
-  "monthly_est": 1407986,
+  "monthly_low": 700611,
+  "monthly_est": 1320461,
   "gift_once": 0,
-  "total_low": 736470,
-  "total_est": 1407986,
-  "paying_members": 2329,
+  "total_low": 700611,
+  "total_est": 1320461,
+  "paying_members": 2214,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -108,16 +108,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "AJALuz1Yh50",
-   "start": "2026-09-09 21:00",
-   "title": "【絨毯を洗うゲーム】A型洗浄【甲斐田晴/にじさんじ】",
-   "kind": "配信",
-   "chatters": 1507,
-   "member_chatters": 1169,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "RKIWAv2lgaE",
    "start": "2026-09-12 20:00",
@@ -267,6 +257,16 @@
    "member_chatters": 629,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "E75VNWDGR3c",
+   "start": "2026-10-09 00:00",
+   "title": "【司書のお仕事：魔導図書館を片付けろ！】スキルには頼らねェ！ #3【甲斐田晴/にじさんじ】",
+   "kind": "配信",
+   "chatters": 624,
+   "member_chatters": 554,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -279,7 +279,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "研修助手コース",
-   "like_count": 796,
+   "like_count": 798,
    "view_count": null
   }
  ],
@@ -291,7 +291,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "研修助手コース",
-   "like_count": 796,
+   "like_count": 798,
    "view_count": null
   }
  ],
@@ -379,54 +379,54 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-09"
+    "to": "2026-10-10"
    },
-   "streams_analyzed": 4,
+   "streams_analyzed": 5,
    "streams_missed": 0,
-   "unique_chatters": 1503,
-   "members_confirmed": 1155,
+   "unique_chatters": 1565,
+   "members_confirmed": 1196,
    "member_classes": {
-    "unknown": 1141,
-    "known": 14
+    "unknown": 1179,
+    "known": 17
    },
-   "long_term_members": 873,
+   "long_term_members": 904,
    "badges": [
     {
      "months": 0,
-     "members": 16
+     "members": 18
     },
     {
      "months": 1,
-     "members": 22
+     "members": 23
     },
     {
      "months": 2,
-     "members": 104
+     "members": 109
     },
     {
      "months": 6,
-     "members": 140
+     "members": 142
     },
     {
      "months": 12,
-     "members": 270
+     "members": 282
     },
     {
      "months": 24,
-     "members": 187
+     "members": 195
     },
     {
      "months": 36,
-     "members": 151
+     "members": 153
     },
     {
      "months": 48,
-     "members": 265
+     "members": 274
     }
    ],
    "events": {
-    "new_members": 5,
-    "rejoins": 5,
+    "new_members": 6,
+    "rejoins": 6,
     "milestones": 0,
     "gifted_total": 0
    },
@@ -434,22 +434,22 @@
     {
      "tier": "研修助手コース",
      "price": 490,
-     "confirmed_members": 4,
-     "estimated_members": 330.0
+     "confirmed_members": 5,
+     "estimated_members": 351.8
     },
     {
      "tier": "見習い助手コース",
      "price": 1190,
-     "confirmed_members": 10,
-     "estimated_members": 825.0
+     "confirmed_members": 12,
+     "estimated_members": 844.2
     }
    ],
    "revenue": {
-    "monthly_low": 364605,
-    "monthly_est": 727650,
+    "monthly_low": 378280,
+    "monthly_est": 749003,
     "gift_once": 0
    },
-   "avg_member_chatters": 687.8,
+   "avg_member_chatters": 661,
    "partial": true,
    "finalized": false
   }

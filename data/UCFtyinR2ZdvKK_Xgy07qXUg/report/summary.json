@@ -3,56 +3,56 @@
  "channel_id": "UCFtyinR2ZdvKK_Xgy07qXUg",
  "handle": "@MilanKestrel",
  "subscribers": 312000,
- "fetched_at": "2026-10-09 11:09",
- "generated_at": "2026-10-09 11:09",
+ "fetched_at": "2026-10-10 05:26",
+ "generated_at": "2026-10-10 05:27",
  "period": {
-  "from": "2026-09-09 11:09",
-  "to": "2026-10-09 11:09",
+  "from": "2026-09-10 05:26",
+  "to": "2026-10-10 05:26",
   "days": 30
  },
  "streams_analyzed": 17,
  "streams_missed": 0,
- "unique_chatters": 3510,
- "members_confirmed": 1168,
+ "unique_chatters": 2370,
+ "members_confirmed": 909,
  "member_classes": {
-  "unknown": 1113,
+  "unknown": 864,
   "known": 40,
-  "gift": 15
+  "gift": 5
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 86
+   "members": 74
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 48
+   "members": 39
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 224
+   "members": 183
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 260
+   "members": 208
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 550
+   "members": 405
   }
  ],
  "events": {
-  "new_members": 31,
+  "new_members": 27,
   "rejoins": 8,
   "milestones": 0,
-  "gift_purchases": 2,
-  "gifted_total": 15,
-  "gift_redemptions": 15
+  "gift_purchases": 1,
+  "gifted_total": 5,
+  "gift_redemptions": 5
  },
  "tiers_configured": true,
  "tiers": [
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 40,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1113.0,
-   "estimated_members": 1153.0,
+   "allocated_unknown": 864.0,
+   "estimated_members": 904.0,
    "monthly_net_confirmed": 12473,
-   "monthly_net_estimated": 359526
+   "monthly_net_estimated": 281884
   }
  ],
  "revenue": {
-  "monthly_low": 359526,
-  "monthly_est": 359526,
-  "gift_once": 4677,
-  "total_low": 364204,
-  "total_est": 364204,
-  "paying_members": 1153,
+  "monthly_low": 281884,
+  "monthly_est": 281884,
+  "gift_once": 1559,
+  "total_low": 283443,
+  "total_est": 283443,
+  "paying_members": 904,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "bF2fvjnsVQE",
-   "start": "2026-09-09 21:02",
-   "title": "#ミラン新衣装 ｜ ２年ぶりの決して怪しくない新衣装お披露目 【にじさんじ / ミラン・ケストレル】",
-   "kind": "配信",
-   "chatters": 2118,
-   "member_chatters": 857,
-   "new_members": 4,
-   "gifted_total": 10
-  },
   {
    "video_id": "puCTAWxmVF4",
    "start": "2026-09-10 22:02",
@@ -252,6 +242,16 @@
    "member_chatters": 251,
    "new_members": 2,
    "gifted_total": 0
+  },
+  {
+   "video_id": "X1kME_tnvyI",
+   "start": "2026-10-09 00:00",
+   "title": "【浮気】手をつなぐのは？　二人でご飯は？　恋バナ。【にじさんじ/ミラン・ケストレル】",
+   "kind": "配信",
+   "chatters": 486,
+   "member_chatters": 308,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -323,43 +323,43 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-09"
+    "to": "2026-10-10"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 6,
    "streams_missed": 0,
-   "unique_chatters": 979,
-   "members_confirmed": 505,
+   "unique_chatters": 1153,
+   "members_confirmed": 575,
    "member_classes": {
-    "unknown": 480,
-    "known": 20,
+    "unknown": 549,
+    "known": 21,
     "gift": 5
    },
-   "long_term_members": 247,
+   "long_term_members": 275,
    "badges": [
     {
      "months": 0,
-     "members": 32
+     "members": 36
     },
     {
      "months": 1,
-     "members": 26
+     "members": 27
     },
     {
      "months": 2,
-     "members": 104
+     "members": 122
     },
     {
      "months": 6,
-     "members": 96
+     "members": 115
     },
     {
      "months": 12,
-     "members": 247
+     "members": 275
     }
    ],
    "events": {
     "new_members": 10,
-    "rejoins": 1,
+    "rejoins": 2,
     "milestones": 0,
     "gifted_total": 5
    },
@@ -367,16 +367,16 @@
     {
      "tier": "魔道の入門書",
      "price": 490,
-     "confirmed_members": 20,
-     "estimated_members": 500.0
+     "confirmed_members": 21,
+     "estimated_members": 570.0
     }
    ],
    "revenue": {
-    "monthly_low": 155909,
-    "monthly_est": 155909,
+    "monthly_low": 177736,
+    "monthly_est": 177736,
     "gift_once": 1559
    },
-   "avg_member_chatters": 237.2,
+   "avg_member_chatters": 249,
    "partial": true,
    "finalized": false
   }

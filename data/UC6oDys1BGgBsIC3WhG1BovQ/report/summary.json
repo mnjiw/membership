@@ -3,27 +3,27 @@
  "channel_id": "UC6oDys1BGgBsIC3WhG1BovQ",
  "handle": "@ShizukaRin",
  "subscribers": 397000,
- "fetched_at": "2026-10-09 11:06",
- "generated_at": "2026-10-09 11:07",
+ "fetched_at": "2026-10-10 05:17",
+ "generated_at": "2026-10-10 05:18",
  "period": {
-  "from": "2026-09-09 11:06",
-  "to": "2026-10-09 11:06",
+  "from": "2026-09-10 05:17",
+  "to": "2026-10-10 05:17",
   "days": 30
  },
  "streams_analyzed": 36,
- "streams_missed": 3,
- "unique_chatters": 946,
+ "streams_missed": 2,
+ "unique_chatters": 1001,
  "members_confirmed": 264,
  "member_classes": {
-  "unknown": 221,
-  "known": 27,
+  "unknown": 220,
+  "known": 28,
   "gift": 16
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 27
+   "members": 28
   },
   {
    "months": 1,
@@ -33,12 +33,12 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 12
+   "members": 11
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 20
+   "members": 21
   },
   {
    "months": 12,
@@ -58,11 +58,11 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 144
+   "members": 143
   }
  ],
  "events": {
-  "new_members": 7,
+  "new_members": 8,
   "rejoins": 6,
   "milestones": 15,
   "gift_purchases": 8,
@@ -75,11 +75,11 @@
    "tier": "しずりんのメンバーシップだよ！",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 27,
+   "confirmed_members": 28,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 221.0,
+   "allocated_unknown": 220.0,
    "estimated_members": 248.0,
-   "monthly_net_confirmed": 8419,
+   "monthly_net_confirmed": 8731,
    "monthly_net_estimated": 77331
   }
  ],
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "8ue_Pe93F2E",
-   "start": "2026-09-09 20:16",
-   "title": "2026 09 09",
-   "kind": "配信",
-   "chatters": 80,
-   "member_chatters": 62,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "wv-WutFOMNI",
    "start": "2026-09-10 14:06",
@@ -457,6 +447,16 @@
    "member_chatters": 100,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "z9S8tElDSs4",
+   "start": "2026-10-08 00:00",
+   "title": "🚀02 | 宇宙探検隊 | No Man's Sky【静凛/にじさんじ】",
+   "kind": "配信",
+   "chatters": 222,
+   "member_chatters": 84,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -483,18 +483,6 @@
    "members_level": "",
    "like_count": 133,
    "view_count": null
-  },
-  {
-   "video_id": "z9S8tElDSs4",
-   "start": "2026-10-08 00:00",
-   "title": "🚀02 | 宇宙探検隊 | No Man's Sky【静凛/にじさんじ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 1139,
-   "view_count": 61466
   }
  ],
  "members_only_content": [
@@ -588,22 +576,22 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-09"
+    "to": "2026-10-10"
    },
-   "streams_analyzed": 8,
-   "streams_missed": 1,
-   "unique_chatters": 454,
-   "members_confirmed": 163,
+   "streams_analyzed": 9,
+   "streams_missed": 0,
+   "unique_chatters": 524,
+   "members_confirmed": 168,
    "member_classes": {
-    "unknown": 148,
-    "known": 14,
+    "unknown": 152,
+    "known": 15,
     "gift": 1
    },
-   "long_term_members": 136,
+   "long_term_members": 139,
    "badges": [
     {
      "months": 0,
-     "members": 3
+     "members": 4
     },
     {
      "months": 1,
@@ -615,7 +603,7 @@
     },
     {
      "months": 6,
-     "members": 16
+     "members": 17
     },
     {
      "months": 12,
@@ -631,11 +619,11 @@
     },
     {
      "months": 48,
-     "members": 98
+     "members": 101
     }
    ],
    "events": {
-    "new_members": 0,
+    "new_members": 1,
     "rejoins": 2,
     "milestones": 4,
     "gifted_total": 1
@@ -644,16 +632,16 @@
     {
      "tier": "しずりんのメンバーシップだよ！",
      "price": 490,
-     "confirmed_members": 14,
-     "estimated_members": 162.0
+     "confirmed_members": 15,
+     "estimated_members": 167.0
     }
    ],
    "revenue": {
-    "monthly_low": 50515,
-    "monthly_est": 50515,
+    "monthly_low": 52074,
+    "monthly_est": 52074,
     "gift_once": 312
    },
-   "avg_member_chatters": 67,
+   "avg_member_chatters": 68.9,
    "partial": true,
    "finalized": false
   }

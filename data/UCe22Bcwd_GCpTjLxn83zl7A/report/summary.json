@@ -3,19 +3,19 @@
  "channel_id": "UCe22Bcwd_GCpTjLxn83zl7A",
  "handle": "@PontoNei",
  "subscribers": 319000,
- "fetched_at": "2026-10-09 11:09",
- "generated_at": "2026-10-09 11:09",
+ "fetched_at": "2026-10-10 05:23",
+ "generated_at": "2026-10-10 05:24",
  "period": {
-  "from": "2026-09-09 11:09",
-  "to": "2026-10-09 11:09",
+  "from": "2026-09-10 05:23",
+  "to": "2026-10-10 05:23",
   "days": 30
  },
- "streams_analyzed": 17,
- "streams_missed": 3,
- "unique_chatters": 2438,
- "members_confirmed": 174,
+ "streams_analyzed": 18,
+ "streams_missed": 2,
+ "unique_chatters": 2500,
+ "members_confirmed": 186,
  "member_classes": {
-  "unknown": 164,
+  "unknown": 176,
   "known": 10
  },
  "badges": [
@@ -32,7 +32,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 11
+   "members": 12
   },
   {
    "months": 6,
@@ -42,7 +42,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 119
+   "members": 130
   }
  ],
  "events": {
@@ -61,19 +61,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 10,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 164.0,
-   "estimated_members": 174.0,
+   "allocated_unknown": 176.0,
+   "estimated_members": 186.0,
    "monthly_net_confirmed": 3118,
-   "monthly_net_estimated": 54256
+   "monthly_net_estimated": 57998
   }
  ],
  "revenue": {
-  "monthly_low": 54256,
-  "monthly_est": 54256,
+  "monthly_low": 57998,
+  "monthly_est": 57998,
   "gift_once": 0,
-  "total_low": 54256,
-  "total_est": 54256,
-  "paying_members": 174,
+  "total_low": 57998,
+  "total_est": 57998,
+  "paying_members": 186,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -251,21 +251,19 @@
    "member_chatters": 67,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "IwLGzYoNd8w",
+   "start": "2026-10-09 00:00",
+   "title": "【Tidy Up Together】ぷぎゃりてで話題の片付け！秋の夜長のチル掃除！！寝落ちしない(決意)【先斗寧/にじさんじ】",
+   "kind": "配信",
+   "chatters": 154,
+   "member_chatters": 76,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
-  {
-   "video_id": "gpuUv7oQNNk",
-   "start": "2026-09-09 22:44",
-   "title": "【メン限】ニンダイ20260909を同時視聴しようSP【先斗寧/にじさんじ】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "バックヤード",
-   "like_count": 59,
-   "view_count": null
-  },
   {
    "video_id": "VhEvovpOteU",
    "start": "2026-09-23 21:59",
@@ -292,16 +290,6 @@
   }
  ],
  "members_only_content": [
-  {
-   "video_id": "gpuUv7oQNNk",
-   "start": "2026-09-09 22:44",
-   "title": "【メン限】ニンダイ20260909を同時視聴しようSP【先斗寧/にじさんじ】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "バックヤード",
-   "like_count": 59,
-   "view_count": null
-  },
   {
    "video_id": "VhEvovpOteU",
    "start": "2026-09-23 21:59",
@@ -389,17 +377,17 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-09"
+    "to": "2026-10-10"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 6,
    "streams_missed": 1,
-   "unique_chatters": 816,
-   "members_confirmed": 118,
+   "unique_chatters": 890,
+   "members_confirmed": 132,
    "member_classes": {
-    "unknown": 113,
+    "unknown": 127,
     "known": 5
    },
-   "long_term_members": 84,
+   "long_term_members": 96,
    "badges": [
     {
      "months": 0,
@@ -411,15 +399,15 @@
     },
     {
      "months": 2,
-     "members": 7
+     "members": 8
     },
     {
      "months": 6,
-     "members": 9
+     "members": 10
     },
     {
      "months": 12,
-     "members": 84
+     "members": 96
     }
    ],
    "events": {
@@ -433,15 +421,15 @@
      "tier": "バックヤード",
      "price": 490,
      "confirmed_members": 5,
-     "estimated_members": 118.0
+     "estimated_members": 132.0
     }
    ],
    "revenue": {
-    "monthly_low": 36795,
-    "monthly_est": 36795,
+    "monthly_low": 41160,
+    "monthly_est": 41160,
     "gift_once": 0
    },
-   "avg_member_chatters": 63.4,
+   "avg_member_chatters": 65.5,
    "partial": true,
    "finalized": false
   }

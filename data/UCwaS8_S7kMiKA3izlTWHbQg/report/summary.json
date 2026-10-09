@@ -3,20 +3,20 @@
  "channel_id": "UCwaS8_S7kMiKA3izlTWHbQg",
  "handle": "@MariaMarionette",
  "subscribers": 478000,
- "fetched_at": "2026-10-09 11:11",
- "generated_at": "2026-10-09 11:11",
+ "fetched_at": "2026-10-10 05:31",
+ "generated_at": "2026-10-10 05:31",
  "period": {
-  "from": "2026-09-09 11:11",
-  "to": "2026-10-09 11:11",
+  "from": "2026-09-10 05:31",
+  "to": "2026-10-10 05:31",
   "days": 30
  },
- "streams_analyzed": 23,
+ "streams_analyzed": 24,
  "streams_missed": 2,
- "unique_chatters": 1059,
- "members_confirmed": 137,
+ "unique_chatters": 1082,
+ "members_confirmed": 142,
  "member_classes": {
-  "known": 26,
-  "unknown": 86,
+  "known": 28,
+  "unknown": 89,
   "gift": 25
  },
  "badges": [
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 11
+   "members": 12
   },
   {
    "months": 6,
@@ -43,18 +43,18 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 25
+   "members": 27
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 55
+   "members": 57
   }
  ],
  "events": {
   "new_members": 4,
   "rejoins": 2,
-  "milestones": 21,
+  "milestones": 23,
   "gift_purchases": 9,
   "gifted_total": 25,
   "gift_redemptions": 25
@@ -65,21 +65,21 @@
    "tier": "The Dollhouse",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 26,
+   "confirmed_members": 28,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 86.0,
-   "estimated_members": 112.0,
-   "monthly_net_confirmed": 8107,
-   "monthly_net_estimated": 34924
+   "allocated_unknown": 89.0,
+   "estimated_members": 117.0,
+   "monthly_net_confirmed": 8731,
+   "monthly_net_estimated": 36483
   }
  ],
  "revenue": {
-  "monthly_low": 34924,
-  "monthly_est": 34924,
+  "monthly_low": 36483,
+  "monthly_est": 36483,
   "gift_once": 7795,
-  "total_low": 42719,
-  "total_est": 42719,
-  "paying_members": 112,
+  "total_low": 44278,
+  "total_est": 44278,
+  "paying_members": 117,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -317,6 +317,16 @@
    "member_chatters": 23,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "CLqPt48qX44",
+   "start": "2026-10-09 00:00",
+   "title": "It's Spooky Month Yap【Maria Marionette | NIJISANJI EN】",
+   "kind": "配信",
+   "chatters": 89,
+   "member_chatters": 28,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -438,18 +448,18 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-09"
+    "to": "2026-10-10"
    },
-   "streams_analyzed": 6,
+   "streams_analyzed": 7,
    "streams_missed": 1,
-   "unique_chatters": 275,
-   "members_confirmed": 67,
+   "unique_chatters": 322,
+   "members_confirmed": 77,
    "member_classes": {
-    "unknown": 46,
-    "known": 14,
+    "unknown": 53,
+    "known": 17,
     "gift": 7
    },
-   "long_term_members": 45,
+   "long_term_members": 54,
    "badges": [
     {
      "months": 0,
@@ -461,7 +471,7 @@
     },
     {
      "months": 2,
-     "members": 4
+     "members": 5
     },
     {
      "months": 6,
@@ -469,33 +479,33 @@
     },
     {
      "months": 12,
-     "members": 16
+     "members": 19
     },
     {
      "months": 24,
-     "members": 29
+     "members": 35
     }
    ],
    "events": {
     "new_members": 0,
     "rejoins": 2,
-    "milestones": 3,
+    "milestones": 5,
     "gifted_total": 7
    },
    "tiers": [
     {
      "tier": "The Dollhouse",
      "price": 490,
-     "confirmed_members": 14,
-     "estimated_members": 60.0
+     "confirmed_members": 17,
+     "estimated_members": 70.0
     }
    ],
    "revenue": {
-    "monthly_low": 18709,
-    "monthly_est": 18709,
+    "monthly_low": 21827,
+    "monthly_est": 21827,
     "gift_once": 2183
    },
-   "avg_member_chatters": 23,
+   "avg_member_chatters": 23.7,
    "partial": true,
    "finalized": false
   }

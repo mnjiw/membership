@@ -3,19 +3,19 @@
  "channel_id": "UCN68LoM3khS4gdBMiWJO8WA",
  "handle": "@AiaAmare",
  "subscribers": 283000,
- "fetched_at": "2026-10-09 11:11",
- "generated_at": "2026-10-09 11:11",
+ "fetched_at": "2026-10-10 05:31",
+ "generated_at": "2026-10-10 05:31",
  "period": {
-  "from": "2026-09-09 11:11",
-  "to": "2026-10-09 11:11",
+  "from": "2026-09-10 05:31",
+  "to": "2026-10-10 05:31",
   "days": 30
  },
- "streams_analyzed": 30,
+ "streams_analyzed": 31,
  "streams_missed": 2,
- "unique_chatters": 1126,
- "members_confirmed": 330,
+ "unique_chatters": 1171,
+ "members_confirmed": 332,
  "member_classes": {
-  "known": 127,
+  "known": 129,
   "unknown": 106,
   "gift": 97
  },
@@ -28,7 +28,7 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 7
+   "members": 8
   },
   {
    "months": 2,
@@ -58,13 +58,13 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 21
+   "members": 22
   }
  ],
  "events": {
   "new_members": 5,
   "rejoins": 5,
-  "milestones": 129,
+  "milestones": 131,
   "gift_purchases": 58,
   "gifted_total": 99,
   "gift_redemptions": 99
@@ -75,21 +75,21 @@
    "tier": "Maidenship",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 127,
+   "confirmed_members": 129,
    "share_of_confirmed_pct": 100.0,
    "allocated_unknown": 106.0,
-   "estimated_members": 233.0,
-   "monthly_net_confirmed": 55765,
-   "monthly_net_estimated": 102308
+   "estimated_members": 235.0,
+   "monthly_net_confirmed": 56643,
+   "monthly_net_estimated": 103186
   }
  ],
  "revenue": {
-  "monthly_low": 102308,
-  "monthly_est": 102308,
+  "monthly_low": 103186,
+  "monthly_est": 103186,
   "gift_once": 43470,
-  "total_low": 145778,
-  "total_est": 145778,
-  "paying_members": 233,
+  "total_low": 146656,
+  "total_est": 146656,
+  "paying_members": 235,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -397,6 +397,16 @@
    "member_chatters": 53,
    "new_members": 0,
    "gifted_total": 1
+  },
+  {
+   "video_id": "U3S7QabFceA",
+   "start": "2026-10-09 00:00",
+   "title": "【WOLFENSTEIN: THE NEW ORDER】 FIRST TIME PLAYING!",
+   "kind": "配信",
+   "chatters": 147,
+   "member_chatters": 50,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -526,18 +536,18 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-09"
+    "to": "2026-10-10"
    },
-   "streams_analyzed": 9,
+   "streams_analyzed": 10,
    "streams_missed": 0,
-   "unique_chatters": 460,
-   "members_confirmed": 185,
+   "unique_chatters": 521,
+   "members_confirmed": 187,
    "member_classes": {
-    "known": 95,
+    "known": 97,
     "unknown": 57,
     "gift": 33
    },
-   "long_term_members": 132,
+   "long_term_members": 133,
    "badges": [
     {
      "months": 0,
@@ -545,7 +555,7 @@
     },
     {
      "months": 1,
-     "members": 3
+     "members": 4
     },
     {
      "months": 2,
@@ -569,29 +579,29 @@
     },
     {
      "months": 48,
-     "members": 13
+     "members": 14
     }
    ],
    "events": {
     "new_members": 0,
     "rejoins": 1,
-    "milestones": 27,
+    "milestones": 29,
     "gifted_total": 34
    },
    "tiers": [
     {
      "tier": "Maidenship",
      "price": 690,
-     "confirmed_members": 95,
-     "estimated_members": 152.0
+     "confirmed_members": 97,
+     "estimated_members": 154.0
     }
    ],
    "revenue": {
-    "monthly_low": 66742,
-    "monthly_est": 66742,
+    "monthly_low": 67620,
+    "monthly_est": 67620,
     "gift_once": 14929
    },
-   "avg_member_chatters": 58.4,
+   "avg_member_chatters": 57.6,
    "partial": true,
    "finalized": false
   }

@@ -3,19 +3,19 @@
  "channel_id": "UCb6ObE-XGCctO3WrjRZC-cw",
  "handle": "@LuisCammy",
  "subscribers": 257000,
- "fetched_at": "2026-10-09 11:08",
- "generated_at": "2026-10-09 11:08",
+ "fetched_at": "2026-10-10 05:22",
+ "generated_at": "2026-10-10 05:22",
  "period": {
-  "from": "2026-09-09 11:08",
-  "to": "2026-10-09 11:08",
+  "from": "2026-09-10 05:22",
+  "to": "2026-10-10 05:22",
   "days": 30
  },
- "streams_analyzed": 14,
+ "streams_analyzed": 15,
  "streams_missed": 4,
- "unique_chatters": 773,
- "members_confirmed": 96,
+ "unique_chatters": 817,
+ "members_confirmed": 98,
  "member_classes": {
-  "unknown": 90,
+  "unknown": 92,
   "known": 6
  },
  "badges": [
@@ -47,7 +47,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 77
+   "members": 79
   }
  ],
  "events": {
@@ -66,10 +66,10 @@
    "net_per_member": 439.1,
    "confirmed_members": 4,
    "share_of_confirmed_pct": 66.7,
-   "allocated_unknown": 60.0,
-   "estimated_members": 64.0,
+   "allocated_unknown": 61.3,
+   "estimated_members": 65.3,
    "monthly_net_confirmed": 1756,
-   "monthly_net_estimated": 28102
+   "monthly_net_estimated": 28687
   },
   {
    "tier": "ルイスの相棒",
@@ -77,19 +77,19 @@
    "net_per_member": 1266.4,
    "confirmed_members": 2,
    "share_of_confirmed_pct": 33.3,
-   "allocated_unknown": 30.0,
-   "estimated_members": 32.0,
+   "allocated_unknown": 30.7,
+   "estimated_members": 32.7,
    "monthly_net_confirmed": 2533,
-   "monthly_net_estimated": 40524
+   "monthly_net_estimated": 41368
   }
  ],
  "revenue": {
-  "monthly_low": 43807,
-  "monthly_est": 68625,
+  "monthly_low": 44685,
+  "monthly_est": 70055,
   "gift_once": 0,
-  "total_low": 43807,
-  "total_est": 68625,
-  "paying_members": 96,
+  "total_low": 44685,
+  "total_est": 70055,
+  "paying_members": 98,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -235,6 +235,16 @@
    "kind": "配信",
    "chatters": 97,
    "member_chatters": 28,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "Uy7z-O0x7UA",
+   "start": "2026-10-09 00:00",
+   "title": "またゲリラしてごめん【麻雀/雀魂 /ルイス・キャミー/にじさんじ】",
+   "kind": "配信",
+   "chatters": 119,
+   "member_chatters": 27,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -407,17 +417,17 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-09"
+    "to": "2026-10-10"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 4,
    "streams_missed": 1,
-   "unique_chatters": 287,
-   "members_confirmed": 63,
+   "unique_chatters": 343,
+   "members_confirmed": 68,
    "member_classes": {
-    "unknown": 57,
+    "unknown": 62,
     "known": 6
    },
-   "long_term_members": 59,
+   "long_term_members": 63,
    "badges": [
     {
      "months": 2,
@@ -425,7 +435,7 @@
     },
     {
      "months": 6,
-     "members": 3
+     "members": 4
     },
     {
      "months": 12,
@@ -433,7 +443,7 @@
     },
     {
      "months": 24,
-     "members": 52
+     "members": 56
     }
    ],
    "events": {
@@ -447,21 +457,21 @@
      "tier": "怪盗団",
      "price": 690,
      "confirmed_members": 4,
-     "estimated_members": 42.0
+     "estimated_members": 45.3
     },
     {
      "tier": "ルイスの相棒",
      "price": 1990,
      "confirmed_members": 2,
-     "estimated_members": 21.0
+     "estimated_members": 22.7
     }
    ],
    "revenue": {
-    "monthly_low": 29317,
-    "monthly_est": 45035,
+    "monthly_low": 31513,
+    "monthly_est": 48610,
     "gift_once": 0
    },
-   "avg_member_chatters": 34,
+   "avg_member_chatters": 32.2,
    "partial": true,
    "finalized": false
   }

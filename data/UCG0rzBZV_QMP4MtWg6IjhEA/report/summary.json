@@ -3,19 +3,19 @@
  "channel_id": "UCG0rzBZV_QMP4MtWg6IjhEA",
  "handle": "@ShuYamino",
  "subscribers": 980000,
- "fetched_at": "2026-10-09 11:10",
- "generated_at": "2026-10-09 11:10",
+ "fetched_at": "2026-10-10 05:31",
+ "generated_at": "2026-10-10 05:31",
  "period": {
-  "from": "2026-09-09 11:10",
-  "to": "2026-10-09 11:10",
+  "from": "2026-09-10 05:31",
+  "to": "2026-10-10 05:31",
   "days": 30
  },
- "streams_analyzed": 7,
+ "streams_analyzed": 8,
  "streams_missed": 0,
- "unique_chatters": 2660,
- "members_confirmed": 1148,
+ "unique_chatters": 2912,
+ "members_confirmed": 1175,
  "member_classes": {
-  "unknown": 589,
+  "unknown": 616,
   "known": 179,
   "gift": 380
  },
@@ -28,43 +28,43 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 22
+   "members": 25
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 51
+   "members": 52
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 50
+   "members": 52
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 92
+   "members": 100
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 101
+   "members": 103
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 140
+   "members": 143
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 311
+   "members": 319
   }
  ],
  "events": {
   "new_members": 6,
   "rejoins": 1,
-  "milestones": 164,
+  "milestones": 165,
   "gift_purchases": 33,
   "gifted_total": 386,
   "gift_redemptions": 381
@@ -77,19 +77,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 179,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 589.0,
-   "estimated_members": 768.0,
+   "allocated_unknown": 616.0,
+   "estimated_members": 795.0,
    "monthly_net_confirmed": 55815,
-   "monthly_net_estimated": 239476
+   "monthly_net_estimated": 247895
   }
  ],
  "revenue": {
-  "monthly_low": 239476,
-  "monthly_est": 239476,
+  "monthly_low": 247895,
+  "monthly_est": 247895,
   "gift_once": 120362,
-  "total_low": 359838,
-  "total_est": 359838,
-  "paying_members": 768,
+  "total_low": 368257,
+  "total_est": 368257,
+  "paying_members": 795,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -165,6 +165,16 @@
    "kind": "配信",
    "chatters": 412,
    "member_chatters": 195,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "VZqEnCUuc98",
+   "start": "2026-10-09 00:00",
+   "title": "【第１２回】セイブル襲来！日本在住ライバーのあれやこれやも深堀り！？【にじENラジオ！ENのここきにならhEN？】",
+   "kind": "配信",
+   "chatters": 530,
+   "member_chatters": 181,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -245,6 +255,78 @@
    "partial": true,
    "finalized": true,
    "finalized_at": "2026-10-08 08:49"
+  },
+  {
+   "month": "2026-10",
+   "coverage": {
+    "from": "2026-10-01",
+    "to": "2026-10-10"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 530,
+   "members_confirmed": 181,
+   "member_classes": {
+    "unknown": 137,
+    "known": 44
+   },
+   "long_term_members": 146,
+   "badges": [
+    {
+     "months": 0,
+     "members": 9
+    },
+    {
+     "months": 1,
+     "members": 6
+    },
+    {
+     "months": 2,
+     "members": 8
+    },
+    {
+     "months": 6,
+     "members": 12
+    },
+    {
+     "months": 12,
+     "members": 27
+    },
+    {
+     "months": 24,
+     "members": 16
+    },
+    {
+     "months": 36,
+     "members": 32
+    },
+    {
+     "months": 48,
+     "members": 71
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 0,
+    "milestones": 1,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "Yaminions",
+     "price": 490,
+     "confirmed_members": 44,
+     "estimated_members": 181.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 56439,
+    "monthly_est": 56439,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 181,
+   "partial": true,
+   "finalized": false
   }
  ],
  "no_streams": false,

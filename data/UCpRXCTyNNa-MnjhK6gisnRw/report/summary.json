@@ -2,38 +2,38 @@
  "channel": "가온 ガオン GAON 【にじさんじ】",
  "channel_id": "UCpRXCTyNNa-MnjhK6gisnRw",
  "handle": "@Gaon",
- "subscribers": 59200,
- "fetched_at": "2026-10-09 11:09",
- "generated_at": "2026-10-09 11:09",
+ "subscribers": 59300,
+ "fetched_at": "2026-10-10 05:25",
+ "generated_at": "2026-10-10 05:25",
  "period": {
-  "from": "2026-09-09 11:09",
-  "to": "2026-10-09 11:09",
+  "from": "2026-09-10 05:25",
+  "to": "2026-10-10 05:25",
   "days": 30
  },
- "streams_analyzed": 12,
- "streams_missed": 0,
- "unique_chatters": 831,
- "members_confirmed": 112,
+ "streams_analyzed": 13,
+ "streams_missed": 1,
+ "unique_chatters": 1135,
+ "members_confirmed": 155,
  "member_classes": {
-  "unknown": 72,
-  "known": 8,
-  "gift": 32
+  "known": 22,
+  "unknown": 90,
+  "gift": 43
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 42
+   "members": 55
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 4
+   "members": 7
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 8
+   "members": 12
   },
   {
    "months": 6,
@@ -43,21 +43,21 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 12
+   "members": 17
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 42
+   "members": 60
   }
  ],
  "events": {
-  "new_members": 0,
-  "rejoins": 2,
-  "milestones": 7,
-  "gift_purchases": 6,
-  "gifted_total": 32,
-  "gift_redemptions": 32
+  "new_members": 5,
+  "rejoins": 4,
+  "milestones": 15,
+  "gift_purchases": 8,
+  "gifted_total": 43,
+  "gift_redemptions": 43
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,43 +65,43 @@
    "tier": "안내소 案内所",
    "price": 290,
    "net_per_member": 184.5,
-   "confirmed_members": 1,
-   "share_of_confirmed_pct": 12.5,
-   "allocated_unknown": 9.0,
-   "estimated_members": 10.0,
-   "monthly_net_confirmed": 185,
-   "monthly_net_estimated": 1845
+   "confirmed_members": 4,
+   "share_of_confirmed_pct": 18.2,
+   "allocated_unknown": 16.4,
+   "estimated_members": 20.4,
+   "monthly_net_confirmed": 738,
+   "monthly_net_estimated": 3758
   },
   {
    "tier": "Gaide🚩취업센터 就業センター",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 7,
-   "share_of_confirmed_pct": 87.5,
-   "allocated_unknown": 63.0,
-   "estimated_members": 70.0,
-   "monthly_net_confirmed": 2183,
-   "monthly_net_estimated": 21827
+   "confirmed_members": 16,
+   "share_of_confirmed_pct": 72.7,
+   "allocated_unknown": 65.5,
+   "estimated_members": 81.5,
+   "monthly_net_confirmed": 4989,
+   "monthly_net_estimated": 25399
   },
   {
    "tier": "Gaide🚩인턴쉽 インターンシップ",
    "price": 1290,
    "net_per_member": 820.9,
-   "confirmed_members": 0,
-   "share_of_confirmed_pct": 0.0,
-   "allocated_unknown": 0.0,
-   "estimated_members": 0.0,
-   "monthly_net_confirmed": 0,
-   "monthly_net_estimated": 0
+   "confirmed_members": 2,
+   "share_of_confirmed_pct": 9.1,
+   "allocated_unknown": 8.2,
+   "estimated_members": 10.2,
+   "monthly_net_confirmed": 1642,
+   "monthly_net_estimated": 8358
   }
  ],
  "revenue": {
-  "monthly_low": 15655,
-  "monthly_est": 23673,
-  "gift_once": 5905,
-  "total_low": 21560,
-  "total_est": 29578,
-  "paying_members": 80,
+  "monthly_low": 23978,
+  "monthly_est": 37515,
+  "gift_once": 7935,
+  "total_low": 31914,
+  "total_est": 45451,
+  "paying_members": 112,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -229,10 +229,44 @@
    "member_chatters": 15,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "plAfJgYtumI",
+   "start": "2026-10-09 00:00",
+   "title": "【#ガオン新衣装】人生！初！新衣装！お披露目！【にじさんじ | ガオン】",
+   "kind": "配信",
+   "chatters": 439,
+   "member_chatters": 100,
+   "new_members": 5,
+   "gifted_total": 11
   }
  ],
- "missed_streams": [],
- "members_only_content": [],
+ "missed_streams": [
+  {
+   "video_id": "hqriNOmk5EI",
+   "start": "2026-10-09 23:31",
+   "title": "【Member】 26.10.09",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "Gaide🚩취업센터 就業センター",
+   "like_count": 20,
+   "view_count": null
+  }
+ ],
+ "members_only_content": [
+  {
+   "video_id": "hqriNOmk5EI",
+   "start": "2026-10-09 23:31",
+   "title": "【Member】 26.10.09",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "Gaide🚩취업센터 就業センター",
+   "like_count": 20,
+   "view_count": null
+  }
+ ],
  "history": [
   {
    "month": "2026-09",
@@ -316,63 +350,76 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-09"
+    "to": "2026-10-10"
    },
-   "streams_analyzed": 1,
-   "streams_missed": 0,
-   "unique_chatters": 28,
-   "members_confirmed": 15,
+   "streams_analyzed": 2,
+   "streams_missed": 1,
+   "unique_chatters": 446,
+   "members_confirmed": 102,
    "member_classes": {
-    "unknown": 14,
-    "known": 1
+    "known": 21,
+    "unknown": 70,
+    "gift": 11
    },
-   "long_term_members": 14,
+   "long_term_members": 71,
    "badges": [
     {
-     "months": 6,
-     "members": 1
+     "months": 0,
+     "members": 17
     },
     {
-     "months": 12,
+     "months": 1,
      "members": 3
     },
     {
+     "months": 2,
+     "members": 8
+    },
+    {
+     "months": 6,
+     "members": 3
+    },
+    {
+     "months": 12,
+     "members": 17
+    },
+    {
      "months": 24,
-     "members": 11
+     "members": 54
     }
    ],
    "events": {
-    "new_members": 0,
-    "rejoins": 0,
-    "milestones": 0,
-    "gifted_total": 0
+    "new_members": 5,
+    "rejoins": 2,
+    "milestones": 8,
+    "gifted_total": 11
    },
    "tiers": [
     {
      "tier": "안내소 案内所",
      "price": 290,
-     "confirmed_members": 0,
-     "estimated_members": 0.0
+     "confirmed_members": 4,
+     "estimated_members": 17.3
     },
     {
      "tier": "Gaide🚩취업센터 就業センター",
      "price": 490,
-     "confirmed_members": 1,
-     "estimated_members": 15.0
+     "confirmed_members": 15,
+     "estimated_members": 65.0
     },
     {
      "tier": "Gaide🚩인턴쉽 インターンシップ",
      "price": 1290,
-     "confirmed_members": 0,
-     "estimated_members": 0.0
+     "confirmed_members": 2,
+     "estimated_members": 8.7
     }
    ],
    "revenue": {
-    "monthly_low": 2895,
-    "monthly_est": 4677,
-    "gift_once": 0
+    "monthly_low": 19975,
+    "monthly_est": 30582,
+    "gift_once": 2030
    },
-   "avg_member_chatters": 15,
+   "avg_member_chatters": 57.5,
    "partial": true,
    "finalized": false
   }

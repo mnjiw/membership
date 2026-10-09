@@ -3,25 +3,26 @@
  "channel_id": "UCtHY-tP0dyykhTRMmnfPs_g",
  "handle": "@UmiseYotsuha",
  "subscribers": 270000,
- "fetched_at": "2026-10-09 11:09",
- "generated_at": "2026-10-09 11:09",
+ "fetched_at": "2026-10-10 05:24",
+ "generated_at": "2026-10-10 05:24",
  "period": {
-  "from": "2026-09-09 11:09",
-  "to": "2026-10-09 11:09",
+  "from": "2026-09-10 05:24",
+  "to": "2026-10-10 05:24",
   "days": 30
  },
- "streams_analyzed": 2,
+ "streams_analyzed": 3,
  "streams_missed": 1,
- "unique_chatters": 317,
- "members_confirmed": 77,
+ "unique_chatters": 563,
+ "members_confirmed": 105,
  "member_classes": {
-  "unknown": 77
+  "unknown": 103,
+  "known": 2
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 5
+   "members": 7
   },
   {
    "months": 1,
@@ -31,33 +32,33 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 7
+   "members": 8
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 4
+   "members": 6
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 12
+   "members": 15
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 9
+   "members": 11
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 39
+   "members": 57
   }
  ],
  "events": {
-  "new_members": 0,
+  "new_members": 1,
   "rejoins": 0,
-  "milestones": 0,
+  "milestones": 1,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -68,19 +69,19 @@
    "tier": "コアツメイト",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 0,
-   "share_of_confirmed_pct": "",
-   "allocated_unknown": 77.0,
-   "estimated_members": 77.0,
-   "monthly_net_confirmed": 0,
-   "monthly_net_estimated": 24010
+   "confirmed_members": 2,
+   "share_of_confirmed_pct": 100.0,
+   "allocated_unknown": 103.0,
+   "estimated_members": 105.0,
+   "monthly_net_confirmed": 624,
+   "monthly_net_estimated": 32741
   },
   {
    "tier": "ほごしゃ会",
    "price": 1190,
    "net_per_member": 757.3,
    "confirmed_members": 0,
-   "share_of_confirmed_pct": "",
+   "share_of_confirmed_pct": 0.0,
    "allocated_unknown": 0.0,
    "estimated_members": 0.0,
    "monthly_net_confirmed": 0,
@@ -88,12 +89,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 24010,
-  "monthly_est": 24010,
+  "monthly_low": 32741,
+  "monthly_est": 32741,
   "gift_once": 0,
-  "total_low": 24010,
-  "total_est": 24010,
-  "paying_members": 77,
+  "total_low": 32741,
+  "total_est": 32741,
+  "paying_members": 105,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -120,6 +121,16 @@
    "chatters": 82,
    "member_chatters": 56,
    "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "OJAGuDifH54",
+   "start": "2026-10-09 00:00",
+   "title": "【昼雑談】おやつなしおやつ雑談【海妹四葉/にじさんじ】",
+   "kind": "配信",
+   "chatters": 313,
+   "member_chatters": 53,
+   "new_members": 1,
    "gifted_total": 0
   }
  ],
@@ -154,20 +165,21 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-05",
-    "to": "2026-10-09"
+    "to": "2026-10-10"
    },
-   "streams_analyzed": 2,
+   "streams_analyzed": 3,
    "streams_missed": 0,
-   "unique_chatters": 317,
-   "members_confirmed": 77,
+   "unique_chatters": 563,
+   "members_confirmed": 105,
    "member_classes": {
-    "unknown": 77
+    "unknown": 103,
+    "known": 2
    },
-   "long_term_members": 60,
+   "long_term_members": 83,
    "badges": [
     {
      "months": 0,
-     "members": 5
+     "members": 7
     },
     {
      "months": 1,
@@ -175,37 +187,37 @@
     },
     {
      "months": 2,
-     "members": 7
+     "members": 8
     },
     {
      "months": 6,
-     "members": 4
+     "members": 6
     },
     {
      "months": 12,
-     "members": 12
+     "members": 15
     },
     {
      "months": 24,
-     "members": 9
+     "members": 11
     },
     {
      "months": 36,
-     "members": 39
+     "members": 57
     }
    ],
    "events": {
-    "new_members": 0,
+    "new_members": 1,
     "rejoins": 0,
-    "milestones": 0,
+    "milestones": 1,
     "gifted_total": 0
    },
    "tiers": [
     {
      "tier": "コアツメイト",
      "price": 490,
-     "confirmed_members": 0,
-     "estimated_members": 77.0
+     "confirmed_members": 2,
+     "estimated_members": 105.0
     },
     {
      "tier": "ほごしゃ会",
@@ -215,11 +227,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 24010,
-    "monthly_est": 24010,
+    "monthly_low": 32741,
+    "monthly_est": 32741,
     "gift_once": 0
    },
-   "avg_member_chatters": 51,
+   "avg_member_chatters": 51.7,
    "partial": true,
    "finalized": false
   }

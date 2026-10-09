@@ -3,37 +3,37 @@
  "channel_id": "UCzNXpqpdvlibmNc1JpM1o4g",
  "handle": "@Lunlun_nijisanji",
  "subscribers": 924000,
- "fetched_at": "2026-10-09 11:09",
- "generated_at": "2026-10-09 11:10",
+ "fetched_at": "2026-10-10 05:28",
+ "generated_at": "2026-10-10 05:29",
  "period": {
-  "from": "2026-09-09 11:09",
-  "to": "2026-10-09 11:09",
+  "from": "2026-09-10 05:28",
+  "to": "2026-10-10 05:28",
   "days": 30
  },
  "streams_analyzed": 17,
  "streams_missed": 0,
- "unique_chatters": 7941,
- "members_confirmed": 2060,
+ "unique_chatters": 8099,
+ "members_confirmed": 2062,
  "member_classes": {
-  "known": 429,
-  "unknown": 1587,
+  "known": 428,
+  "unknown": 1590,
   "gift": 44
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 125
+   "members": 120
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 74
+   "members": 75
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 173
+   "members": 170
   },
   {
    "months": 6,
@@ -43,16 +43,16 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 1111
+   "members": 1101
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 315
+   "members": 334
   }
  ],
  "events": {
-  "new_members": 21,
+  "new_members": 20,
   "rejoins": 9,
   "milestones": 403,
   "gift_purchases": 8,
@@ -65,21 +65,21 @@
    "tier": "おちょまだち",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 429,
+   "confirmed_members": 428,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1587.0,
-   "estimated_members": 2016.0,
-   "monthly_net_confirmed": 133770,
-   "monthly_net_estimated": 628625
+   "allocated_unknown": 1590.0,
+   "estimated_members": 2018.0,
+   "monthly_net_confirmed": 133458,
+   "monthly_net_estimated": 629249
   }
  ],
  "revenue": {
-  "monthly_low": 628625,
-  "monthly_est": 628625,
+  "monthly_low": 629249,
+  "monthly_est": 629249,
   "gift_once": 13720,
-  "total_low": 642345,
-  "total_est": 642345,
-  "paying_members": 2016,
+  "total_low": 642969,
+  "total_est": 642969,
+  "paying_members": 2018,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "HNmwES0Utzo",
-   "start": "2026-09-09 13:01",
-   "title": "【 Shadowverse: Worlds Beyond 】海賊　それは夢【ルンルン/にじさんじ】",
-   "kind": "配信",
-   "chatters": 541,
-   "member_chatters": 262,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "WQcGQJzx8ps",
    "start": "2026-09-11 19:00",
@@ -257,6 +247,16 @@
    "member_chatters": 1045,
    "new_members": 4,
    "gifted_total": 10
+  },
+  {
+   "video_id": "CDUGR53mWsc",
+   "start": "2026-10-09 00:00",
+   "title": "あやかきコラボイベントの詳細を発表!!【にじさんじ×茨城県】 #にじいばらき",
+   "kind": "配信",
+   "chatters": 733,
+   "member_chatters": 285,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -328,18 +328,18 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-09"
+    "to": "2026-10-10"
    },
-   "streams_analyzed": 6,
+   "streams_analyzed": 7,
    "streams_missed": 0,
-   "unique_chatters": 5429,
-   "members_confirmed": 1749,
+   "unique_chatters": 5754,
+   "members_confirmed": 1775,
    "member_classes": {
-    "unknown": 1293,
+    "unknown": 1319,
     "known": 417,
     "gift": 39
    },
-   "long_term_members": 1245,
+   "long_term_members": 1265,
    "badges": [
     {
      "months": 0,
@@ -347,23 +347,23 @@
     },
     {
      "months": 1,
-     "members": 69
+     "members": 70
     },
     {
      "months": 2,
-     "members": 141
+     "members": 144
     },
     {
      "months": 6,
-     "members": 212
+     "members": 214
     },
     {
      "months": 12,
-     "members": 930
+     "members": 931
     },
     {
      "months": 24,
-     "members": 315
+     "members": 334
     }
    ],
    "events": {
@@ -377,15 +377,15 @@
      "tier": "おちょまだち",
      "price": 490,
      "confirmed_members": 417,
-     "estimated_members": 1710.0
+     "estimated_members": 1736.0
     }
    ],
    "revenue": {
-    "monthly_low": 533209,
-    "monthly_est": 533209,
+    "monthly_low": 541316,
+    "monthly_est": 541316,
     "gift_once": 12161
    },
-   "avg_member_chatters": 600.2,
+   "avg_member_chatters": 555.1,
    "partial": true,
    "finalized": false
   }

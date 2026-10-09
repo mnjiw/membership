@@ -3,61 +3,56 @@
  "channel_id": "UCL34fAoFim9oHLbVzMKFavQ",
  "handle": "@YorumiRena",
  "subscribers": 606000,
- "fetched_at": "2026-10-09 11:08",
- "generated_at": "2026-10-09 11:08",
+ "fetched_at": "2026-10-10 05:21",
+ "generated_at": "2026-10-10 05:21",
  "period": {
-  "from": "2026-09-09 11:08",
-  "to": "2026-10-09 11:08",
+  "from": "2026-09-10 05:21",
+  "to": "2026-10-10 05:21",
   "days": 30
  },
  "streams_analyzed": 13,
  "streams_missed": 2,
- "unique_chatters": 1860,
- "members_confirmed": 237,
+ "unique_chatters": 1849,
+ "members_confirmed": 250,
  "member_classes": {
-  "unknown": 229,
-  "known": 8
+  "unknown": 238,
+  "known": 12
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 2
-  },
-  {
-   "months": 1,
-   "label": "1ヶ月",
-   "members": 2
+   "members": 3
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 8
+   "members": 12
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 11
+   "members": 12
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 20
+   "members": 23
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 23
+   "members": 24
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 29
+   "members": 30
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 27
+   "members": 31
   },
   {
    "months": 60,
@@ -66,9 +61,9 @@
   }
  ],
  "events": {
-  "new_members": 0,
-  "rejoins": 1,
-  "milestones": 7,
+  "new_members": 1,
+  "rejoins": 2,
+  "milestones": 9,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -79,21 +74,21 @@
    "tier": "夜見のひよこプラン",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 8,
+   "confirmed_members": 12,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 229.0,
-   "estimated_members": 237.0,
-   "monthly_net_confirmed": 2495,
-   "monthly_net_estimated": 73901
+   "allocated_unknown": 238.0,
+   "estimated_members": 250.0,
+   "monthly_net_confirmed": 3742,
+   "monthly_net_estimated": 77955
   }
  ],
  "revenue": {
-  "monthly_low": 73901,
-  "monthly_est": 73901,
+  "monthly_low": 77955,
+  "monthly_est": 77955,
   "gift_once": 0,
-  "total_low": 73901,
-  "total_est": 73901,
-  "paying_members": 237,
+  "total_low": 77955,
+  "total_est": 77955,
+  "paying_members": 250,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -102,16 +97,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "gzDx9TydYUQ",
-   "start": "2026-09-10 00:00",
-   "title": "【 絨毯を洗うゲーム 】 お掃除といえば絨毯だよね～ 【 にじさんじ / 夜見れな 】",
-   "kind": "配信",
-   "chatters": 305,
-   "member_chatters": 97,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "lnHDxd66Ds4",
    "start": "2026-09-14 00:00",
@@ -231,6 +216,16 @@
    "member_chatters": 93,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "JCVMeeUavt0",
+   "start": "2026-10-09 00:00",
+   "title": "【 雑談 】10月号！ 信じられませんが10月なんですよ【 にじさんじ / 夜見れな 】",
+   "kind": "配信",
+   "chatters": 296,
+   "member_chatters": 117,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -342,67 +337,71 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-09"
+    "to": "2026-10-10"
    },
-   "streams_analyzed": 2,
+   "streams_analyzed": 3,
    "streams_missed": 0,
-   "unique_chatters": 708,
-   "members_confirmed": 132,
+   "unique_chatters": 864,
+   "members_confirmed": 169,
    "member_classes": {
-    "unknown": 127,
-    "known": 5
+    "unknown": 160,
+    "known": 9
    },
-   "long_term_members": 121,
+   "long_term_members": 151,
    "badges": [
     {
+     "months": 0,
+     "members": 1
+    },
+    {
      "months": 2,
-     "members": 4
+     "members": 9
     },
     {
      "months": 6,
-     "members": 7
+     "members": 8
     },
     {
      "months": 12,
-     "members": 11
+     "members": 18
     },
     {
      "months": 24,
-     "members": 11
+     "members": 18
     },
     {
      "months": 36,
-     "members": 15
+     "members": 16
     },
     {
      "months": 48,
-     "members": 14
+     "members": 20
     },
     {
      "months": 60,
-     "members": 70
+     "members": 79
     }
    ],
    "events": {
-    "new_members": 0,
-    "rejoins": 0,
-    "milestones": 2,
+    "new_members": 1,
+    "rejoins": 1,
+    "milestones": 4,
     "gifted_total": 0
    },
    "tiers": [
     {
      "tier": "夜見のひよこプラン",
      "price": 490,
-     "confirmed_members": 5,
-     "estimated_members": 132.0
+     "confirmed_members": 9,
+     "estimated_members": 169.0
     }
    ],
    "revenue": {
-    "monthly_low": 41160,
-    "monthly_est": 41160,
+    "monthly_low": 52697,
+    "monthly_est": 52697,
     "gift_once": 0
    },
-   "avg_member_chatters": 100,
+   "avg_member_chatters": 105.7,
    "partial": true,
    "finalized": false
   }

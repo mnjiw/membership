@@ -3,41 +3,41 @@
  "channel_id": "UCsFn_ueskBkMCEyzCEqAOvg",
  "handle": "@HanabatakeChaika",
  "subscribers": 572000,
- "fetched_at": "2026-10-09 11:07",
- "generated_at": "2026-10-09 11:07",
+ "fetched_at": "2026-10-10 05:18",
+ "generated_at": "2026-10-10 05:19",
  "period": {
-  "from": "2026-09-09 11:07",
-  "to": "2026-10-09 11:07",
+  "from": "2026-09-10 05:18",
+  "to": "2026-10-10 05:18",
   "days": 30
  },
- "streams_analyzed": 19,
- "streams_missed": 1,
- "unique_chatters": 6624,
- "members_confirmed": 626,
+ "streams_analyzed": 18,
+ "streams_missed": 2,
+ "unique_chatters": 6555,
+ "members_confirmed": 615,
  "member_classes": {
-  "unknown": 626
+  "unknown": 615
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 27
+   "members": 25
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 40
+   "members": 39
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 559
+   "members": 551
   }
  ],
  "events": {
-  "new_members": 7,
+  "new_members": 6,
   "rejoins": 10,
-  "milestones": 93,
+  "milestones": 84,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -50,19 +50,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 0,
    "share_of_confirmed_pct": "",
-   "allocated_unknown": 626.0,
-   "estimated_members": 626.0,
+   "allocated_unknown": 615.0,
+   "estimated_members": 615.0,
    "monthly_net_confirmed": 0,
-   "monthly_net_estimated": 195198
+   "monthly_net_estimated": 191768
   }
  ],
  "revenue": {
-  "monthly_low": 195198,
-  "monthly_est": 195198,
+  "monthly_low": 191768,
+  "monthly_est": 191768,
   "gift_once": 0,
-  "total_low": 195198,
-  "total_est": 195198,
-  "paying_members": 626,
+  "total_low": 191768,
+  "total_est": 191768,
+  "paying_members": 615,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -71,16 +71,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "A1fhqAXdrus",
-   "start": "2026-09-09 22:57",
-   "title": "花畑チャイカとNintendo Direct 2026.9.9 いっしょにみようよー",
-   "kind": "配信",
-   "chatters": 338,
-   "member_chatters": 137,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "VQmyVJXGZz4",
    "start": "2026-09-11 22:01",
@@ -274,6 +264,18 @@
    "members_level": "",
    "like_count": 144,
    "view_count": null
+  },
+  {
+   "video_id": "rHEFjddArzo",
+   "start": "2026-10-09 22:39",
+   "title": "花畑チャイカとめんげん雑",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 143,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -285,6 +287,16 @@
    "status": "members_only",
    "members_level": "",
    "like_count": 144,
+   "view_count": null
+  },
+  {
+   "video_id": "rHEFjddArzo",
+   "start": "2026-10-09 22:39",
+   "title": "花畑チャイカとめんげん雑",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 143,
    "view_count": null
   }
  ],
@@ -345,10 +357,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-09"
+    "to": "2026-10-10"
    },
    "streams_analyzed": 5,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 1915,
    "members_confirmed": 352,
    "member_classes": {

@@ -3,19 +3,19 @@
  "channel_id": "UCfQVs_KuXeNAlGa3fb8rlnQ",
  "handle": "@SakuraRitsuki",
  "subscribers": 282000,
- "fetched_at": "2026-10-09 11:07",
- "generated_at": "2026-10-09 11:07",
+ "fetched_at": "2026-10-10 05:19",
+ "generated_at": "2026-10-10 05:19",
  "period": {
-  "from": "2026-09-09 11:07",
-  "to": "2026-10-09 11:07",
+  "from": "2026-09-10 05:19",
+  "to": "2026-10-10 05:19",
   "days": 30
  },
  "streams_analyzed": 27,
  "streams_missed": 1,
- "unique_chatters": 703,
- "members_confirmed": 97,
+ "unique_chatters": 698,
+ "members_confirmed": 96,
  "member_classes": {
-  "unknown": 83,
+  "unknown": 82,
   "known": 13,
   "gift": 1
  },
@@ -38,7 +38,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 7
+   "members": 6
   },
   {
    "months": 12,
@@ -64,7 +64,7 @@
  "events": {
   "new_members": 0,
   "rejoins": 0,
-  "milestones": 14,
+  "milestones": 11,
   "gift_purchases": 1,
   "gifted_total": 1,
   "gift_redemptions": 1
@@ -77,10 +77,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 5,
    "share_of_confirmed_pct": 38.5,
-   "allocated_unknown": 31.9,
-   "estimated_members": 36.9,
+   "allocated_unknown": 31.5,
+   "estimated_members": 36.5,
    "monthly_net_confirmed": 1559,
-   "monthly_net_estimated": 11513
+   "monthly_net_estimated": 11393
   },
   {
    "tier": "桜SP",
@@ -88,19 +88,19 @@
    "net_per_member": 2220.9,
    "confirmed_members": 8,
    "share_of_confirmed_pct": 61.5,
-   "allocated_unknown": 51.1,
-   "estimated_members": 59.1,
+   "allocated_unknown": 50.5,
+   "estimated_members": 58.5,
    "monthly_net_confirmed": 17767,
-   "monthly_net_estimated": 131204
+   "monthly_net_estimated": 129838
   }
  ],
  "revenue": {
-  "monthly_low": 45207,
-  "monthly_est": 142718,
+  "monthly_low": 44895,
+  "monthly_est": 141231,
   "gift_once": 312,
-  "total_low": 45519,
-  "total_est": 143030,
-  "paying_members": 96,
+  "total_low": 45207,
+  "total_est": 141543,
+  "paying_members": 95,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -109,16 +109,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "Y7WTE-NyH3Q",
-   "start": "2026-09-09 12:05",
-   "title": "【スプラ３】健康スプラ  アサリとホコですって！！！ 【にじさんじ/桜凛月】",
-   "kind": "配信",
-   "chatters": 60,
-   "member_chatters": 19,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "Dpzuw1MY1-k",
    "start": "2026-09-10 12:00",
@@ -378,6 +368,16 @@
    "member_chatters": 18,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "0rhSf3mq9KM",
+   "start": "2026-10-09 00:00",
+   "title": "【健康スプラ】 負けたら筋トレ ルール関与の鬼になる！【にじさんじ/桜凛月】",
+   "kind": "配信",
+   "chatters": 60,
+   "member_chatters": 17,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -490,18 +490,18 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-09"
+    "to": "2026-10-10"
    },
-   "streams_analyzed": 8,
+   "streams_analyzed": 9,
    "streams_missed": 0,
-   "unique_chatters": 217,
-   "members_confirmed": 62,
+   "unique_chatters": 229,
+   "members_confirmed": 63,
    "member_classes": {
-    "unknown": 51,
+    "unknown": 52,
     "known": 10,
     "gift": 1
    },
-   "long_term_members": 53,
+   "long_term_members": 54,
    "badges": [
     {
      "months": 0,
@@ -533,7 +533,7 @@
     },
     {
      "months": 48,
-     "members": 40
+     "members": 41
     }
    ],
    "events": {
@@ -547,21 +547,21 @@
      "tier": "桜ンボの箱舟",
      "price": 490,
      "confirmed_members": 4,
-     "estimated_members": 24.4
+     "estimated_members": 24.8
     },
     {
      "tier": "桜SP",
      "price": 3490,
      "confirmed_members": 6,
-     "estimated_members": 36.6
+     "estimated_members": 37.2
     }
    ],
    "revenue": {
-    "monthly_low": 30475,
-    "monthly_est": 88894,
+    "monthly_low": 30787,
+    "monthly_est": 90351,
     "gift_once": 312
    },
-   "avg_member_chatters": 22,
+   "avg_member_chatters": 21.4,
    "partial": true,
    "finalized": false
   }

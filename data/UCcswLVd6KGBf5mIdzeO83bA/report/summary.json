@@ -3,27 +3,27 @@
  "channel_id": "UCcswLVd6KGBf5mIdzeO83bA",
  "handle": "@HanakagoTsubasa",
  "subscribers": 128000,
- "fetched_at": "2026-10-09 11:10",
- "generated_at": "2026-10-09 11:10",
+ "fetched_at": "2026-10-10 05:29",
+ "generated_at": "2026-10-10 05:30",
  "period": {
-  "from": "2026-09-09 11:10",
-  "to": "2026-10-09 11:10",
+  "from": "2026-09-10 05:29",
+  "to": "2026-10-10 05:29",
   "days": 30
  },
- "streams_analyzed": 24,
- "streams_missed": 2,
- "unique_chatters": 1326,
- "members_confirmed": 333,
+ "streams_analyzed": 23,
+ "streams_missed": 3,
+ "unique_chatters": 1296,
+ "members_confirmed": 329,
  "member_classes": {
-  "unknown": 296,
-  "known": 21,
+  "unknown": 293,
+  "known": 20,
   "gift": 16
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 82
+   "members": 81
   },
   {
    "months": 1,
@@ -38,11 +38,11 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 157
+   "members": 154
   }
  ],
  "events": {
-  "new_members": 18,
+  "new_members": 17,
   "rejoins": 2,
   "milestones": 0,
   "gift_purchases": 4,
@@ -55,21 +55,21 @@
    "tier": "翼推部 子つ葉班",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 21,
+   "confirmed_members": 20,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 296.0,
-   "estimated_members": 317.0,
-   "monthly_net_confirmed": 6548,
-   "monthly_net_estimated": 98846
+   "allocated_unknown": 293.0,
+   "estimated_members": 313.0,
+   "monthly_net_confirmed": 6236,
+   "monthly_net_estimated": 97599
   }
  ],
  "revenue": {
-  "monthly_low": 98846,
-  "monthly_est": 98846,
+  "monthly_low": 97599,
+  "monthly_est": 97599,
   "gift_once": 4989,
-  "total_low": 103835,
-  "total_est": 103835,
-  "paying_members": 317,
+  "total_low": 102588,
+  "total_est": 102588,
+  "paying_members": 313,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -78,16 +78,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "vwVREAjATI4",
-   "start": "2026-09-09 21:38",
-   "title": "【Minecraft】場所は決まった。ただ地面を平らにしていく。【花籠つばさ / にじさんじ】",
-   "kind": "配信",
-   "chatters": 139,
-   "member_chatters": 76,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "ZO-_awQA9OA",
    "start": "2026-09-11 21:00",
@@ -343,6 +333,18 @@
    "members_level": "",
    "like_count": 105,
    "view_count": null
+  },
+  {
+   "video_id": "y0f2aLh6VxE",
+   "start": "2026-10-09 00:00",
+   "title": "【Japanese Ramen Simulator】へい！らっしゃい！こちら麺無しタンタンメン。w/一橋綾人 五木左京 皇れお 篠宮ゆの 城瀬いすみ【花籠つばさ / にじさんじ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 326,
+   "view_count": 6772
   }
  ],
  "members_only_content": [
@@ -430,10 +432,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-09"
+    "to": "2026-10-10"
    },
    "streams_analyzed": 6,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 335,
    "members_confirmed": 160,
    "member_classes": {

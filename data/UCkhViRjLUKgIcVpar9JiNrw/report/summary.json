@@ -3,15 +3,15 @@
  "channel_id": "UCkhViRjLUKgIcVpar9JiNrw",
  "handle": "@TamanoiNana",
  "subscribers": 360000,
- "fetched_at": "2026-10-09 11:09",
- "generated_at": "2026-10-09 11:09",
+ "fetched_at": "2026-10-10 05:27",
+ "generated_at": "2026-10-10 05:27",
  "period": {
-  "from": "2026-09-09 11:09",
-  "to": "2026-10-09 11:09",
+  "from": "2026-09-10 05:27",
+  "to": "2026-10-10 05:27",
   "days": 30
  },
  "streams_analyzed": 18,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 3513,
  "members_confirmed": 744,
  "member_classes": {
@@ -269,8 +269,32 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
- "members_only_content": [],
+ "missed_streams": [
+  {
+   "video_id": "TKUpuhJhq2I",
+   "start": "2026-10-09 22:00",
+   "title": "【メンバーシップ限定配信】10月！秋の晩酌配信🎶【珠乃井ナナ/にじさんじ】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "ななかま",
+   "like_count": 259,
+   "view_count": null
+  }
+ ],
+ "members_only_content": [
+  {
+   "video_id": "TKUpuhJhq2I",
+   "start": "2026-10-09 22:00",
+   "title": "【メンバーシップ限定配信】10月！秋の晩酌配信🎶【珠乃井ナナ/にじさんじ】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "ななかま",
+   "like_count": 259,
+   "view_count": null
+  }
+ ],
  "history": [
   {
    "month": "2026-09",
@@ -342,10 +366,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-09"
+    "to": "2026-10-10"
    },
    "streams_analyzed": 3,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 1110,
    "members_confirmed": 249,
    "member_classes": {

@@ -2,64 +2,64 @@
  "month": "2026-10",
  "coverage": {
   "from": "2026-10-01",
-  "to": "2026-10-09"
+  "to": "2026-10-10"
  },
- "streams_analyzed": 9,
+ "streams_analyzed": 11,
  "streams_missed": 1,
- "unique_chatters": 1242,
- "members_confirmed": 256,
+ "unique_chatters": 4515,
+ "members_confirmed": 528,
  "member_classes": {
-  "unknown": 106,
-  "known": 75,
-  "gift": 75
+  "unknown": 158,
+  "known": 113,
+  "gift": 257
  },
- "long_term_members": 108,
+ "long_term_members": 127,
  "badges": [
   {
    "months": 0,
-   "members": 75
+   "members": 272
   },
   {
    "months": 1,
-   "members": 13
+   "members": 36
   },
   {
    "months": 2,
-   "members": 22
-  },
-  {
-   "months": 6,
-   "members": 38
-  },
-  {
-   "months": 12,
    "members": 51
   },
   {
+   "months": 6,
+   "members": 42
+  },
+  {
+   "months": 12,
+   "members": 58
+  },
+  {
    "months": 24,
-   "members": 57
+   "members": 69
   }
  ],
  "events": {
-  "new_members": 13,
-  "rejoins": 4,
-  "milestones": 36,
-  "gifted_total": 75
+  "new_members": 21,
+  "rejoins": 11,
+  "milestones": 73,
+  "gifted_total": 377
  },
  "tiers": [
   {
    "tier": "Cuppanions",
    "price": 490,
-   "confirmed_members": 75,
-   "estimated_members": 181.0
+   "confirmed_members": 113,
+   "estimated_members": 271.0
   }
  ],
  "revenue": {
-  "monthly_low": 56439,
-  "monthly_est": 56439,
-  "gift_once": 23386
+  "monthly_low": 84503,
+  "monthly_est": 84503,
+  "gift_once": 117555
  },
- "avg_member_chatters": 75.7,
+ "avg_member_chatters": 118,
  "partial": true,
  "finalized": false
 }

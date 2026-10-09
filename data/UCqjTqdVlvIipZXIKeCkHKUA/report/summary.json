@@ -3,36 +3,36 @@
  "channel_id": "UCqjTqdVlvIipZXIKeCkHKUA",
  "handle": "@OliverEvans",
  "subscribers": 358000,
- "fetched_at": "2026-10-09 11:08",
- "generated_at": "2026-10-09 11:09",
+ "fetched_at": "2026-10-10 05:23",
+ "generated_at": "2026-10-10 05:23",
  "period": {
-  "from": "2026-09-09 11:08",
-  "to": "2026-10-09 11:08",
+  "from": "2026-09-10 05:23",
+  "to": "2026-10-10 05:23",
   "days": 30
  },
- "streams_analyzed": 15,
+ "streams_analyzed": 13,
  "streams_missed": 2,
- "unique_chatters": 1714,
- "members_confirmed": 390,
+ "unique_chatters": 1497,
+ "members_confirmed": 369,
  "member_classes": {
-  "unknown": 378,
-  "known": 12
+  "unknown": 359,
+  "known": 10
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 10
+   "members": 7
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 6
+   "members": 5
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 14
+   "members": 10
   },
   {
    "months": 6,
@@ -42,17 +42,17 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 45
+   "members": 41
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 289
+   "members": 280
   }
  ],
  "events": {
-  "new_members": 2,
-  "rejoins": 2,
+  "new_members": 1,
+  "rejoins": 1,
   "milestones": 7,
   "gift_purchases": 0,
   "gifted_total": 0,
@@ -64,32 +64,32 @@
    "tier": "ゼミ打ち上げ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 7,
-   "share_of_confirmed_pct": 58.3,
-   "allocated_unknown": 220.5,
-   "estimated_members": 227.5,
-   "monthly_net_confirmed": 2183,
-   "monthly_net_estimated": 70939
+   "confirmed_members": 5,
+   "share_of_confirmed_pct": 50.0,
+   "allocated_unknown": 179.5,
+   "estimated_members": 184.5,
+   "monthly_net_confirmed": 1559,
+   "monthly_net_estimated": 57530
   },
   {
    "tier": "ゼミアルバム",
    "price": 1190,
    "net_per_member": 757.3,
    "confirmed_members": 5,
-   "share_of_confirmed_pct": 41.7,
-   "allocated_unknown": 157.5,
-   "estimated_members": 162.5,
+   "share_of_confirmed_pct": 50.0,
+   "allocated_unknown": 179.5,
+   "estimated_members": 184.5,
    "monthly_net_confirmed": 3786,
-   "monthly_net_estimated": 123057
+   "monthly_net_estimated": 139717
   }
  ],
  "revenue": {
-  "monthly_low": 123836,
-  "monthly_est": 193995,
+  "monthly_low": 117288,
+  "monthly_est": 197247,
   "gift_once": 0,
-  "total_low": 123836,
-  "total_est": 193995,
-  "paying_members": 390,
+  "total_low": 117288,
+  "total_est": 197247,
+  "paying_members": 369,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,26 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "swSjQaP32Ss",
-   "start": "2026-09-09 17:33",
-   "title": "【遊戯王マスターデュエル】Yum☆Yum☆ヤミーズ！！とりあえず回し練習！！ #にじ遊戯王祭2026 【オリバー・エバンス/にじさんじ】",
-   "kind": "配信",
-   "chatters": 382,
-   "member_chatters": 94,
-   "new_members": 1,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "d-FSxuS-sdo",
-   "start": "2026-09-09 22:34",
-   "title": "【氷点下30度の絶望】極寒の絶望で何を見出す【にじさんじ/オリバー・エバンス】",
-   "kind": "配信",
-   "chatters": 198,
-   "member_chatters": 138,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "0bUYHiwz2GA",
    "start": "2026-09-12 19:01",
@@ -271,7 +251,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "ゼミ打ち上げ",
-   "like_count": 152,
+   "like_count": 153,
    "view_count": null
   }
  ],
@@ -293,7 +273,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "ゼミ打ち上げ",
-   "like_count": 152,
+   "like_count": 153,
    "view_count": null
   }
  ],
@@ -373,7 +353,7 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-09"
+    "to": "2026-10-10"
    },
    "streams_analyzed": 1,
    "streams_missed": 1,
