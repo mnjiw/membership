@@ -115,8 +115,8 @@
 | 2026-09-20 20:03 | 配信 | [✯┊たみゃみー┊幽霊調査、をするみたいです/Phasmophobia〖 天宮ここ](https://www.youtube.com/watch?v=sh8UODrgQF8) | 204 | 96 | 47.1% | 0 | 0 |
 | 2026-09-22 14:01 | 配信 | [✯┊ #にじ遊戯王祭2026┊大会本番！いくぞ先鋒！コレモアイ島へ！〖 天宮ここ](https://www.youtube.com/watch?v=WLbTRFC4ucM) | 638 | 94 | 14.7% | 0 | 0 |
 | 2026-10-02 20:56 | 配信 | [✯┊壁┊すぺしゃーれライブ3D同時視聴させてください〖 天宮こころ / にじさん](https://www.youtube.com/watch?v=oVWsmJThBOk) | 899 | 117 | 13.0% | 0 | 0 |
-| 2026-10-08 00:00 | プレミア | [JUVENILE - 初音ミク feat. じん / 天宮こころ(cover)](https://www.youtube.com/watch?v=bA6nslptGq8) | 199 | 71 | 35.7% | 0 | 0 |
-| 2026-10-08 00:00 | 配信 | [✯┊朝ざつ┊おはみゃしよ～〖 天宮こころ / にじさんじ 〗](https://www.youtube.com/watch?v=_k43_Pk5mRw) | 514 | 133 | 25.9% | 0 | 0 |
+| 2026-10-08 20:02 | プレミア | [JUVENILE - 初音ミク feat. じん / 天宮こころ(cover)](https://www.youtube.com/watch?v=bA6nslptGq8) | 199 | 71 | 35.7% | 0 | 0 |
+| 2026-10-09 07:29 | 配信 | [✯┊朝ざつ┊おはみゃしよ～〖 天宮こころ / にじさんじ 〗](https://www.youtube.com/watch?v=_k43_Pk5mRw) | 514 | 133 | 25.9% | 0 | 0 |
 
 ## 出力ファイル
 

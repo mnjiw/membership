@@ -128,7 +128,7 @@
 | 2026-10-02 21:04 | 配信 | [【VALO】 大会の練習だ！2  【ハユン/にじさんじ】](https://www.youtube.com/watch?v=n2_Rh64Fvrw) | 24 | 17 | 70.8% | 0 | 0 |
 | 2026-10-03 20:02 | 配信 | [【#N40激動】 大会1日目  【ハユン/にじさんじ】](https://www.youtube.com/watch?v=n_RQ6rXKrrw) | 27 | 21 | 77.8% | 0 | 0 |
 | 2026-10-06 14:31 | 配信 | [【APEX】 💎 ランク 【ハユン/にじさんじ】](https://www.youtube.com/watch?v=-3gy3gbG_hg) | 30 | 19 | 63.3% | 0 | 0 |
-| 2026-10-08 00:00 | 配信 | [深夜食堂 雑談 【ハユン/にじさんじ】](https://www.youtube.com/watch?v=7kwVLHe_0As) | 43 | 33 | 76.7% | 0 | 0 |
+| 2026-10-08 23:53 | 配信 | [深夜食堂 雑談 【ハユン/にじさんじ】](https://www.youtube.com/watch?v=7kwVLHe_0As) | 43 | 33 | 76.7% | 0 | 0 |
 
 ## 出力ファイル
 

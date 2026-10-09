@@ -123,7 +123,7 @@
 | 2026-10-04 11:11 | 配信 | [【nopixel V】Are we actually doing crime??](https://www.youtube.com/watch?v=RMw0FyBYtSI) | 484 | 186 | 38.4% | 2 | 0 |
 | 2026-10-06 12:06 | 配信 | [Mafia Boss wants to spend time with you~](https://www.youtube.com/watch?v=WdDqFb5V0Zs) | 448 | 253 | 56.5% | 0 | 36 |
 | 2026-10-07 13:07 | 配信 | [Finding the Needle...](https://www.youtube.com/watch?v=9oh_aquDEoU) | 462 | 217 | 47.0% | 0 | 2 |
-| 2026-10-09 00:00 | 配信 | [Teaching My Little Sister How to Drive??](https://www.youtube.com/watch?v=gZWvT8jBaAw) | 498 | 221 | 44.4% | 0 | 23 |
+| 2026-10-09 12:11 | 配信 | [Teaching My Little Sister How to Drive??](https://www.youtube.com/watch?v=gZWvT8jBaAw) | 498 | 221 | 44.4% | 0 | 23 |
 
 ## 集計できなかった配信
 

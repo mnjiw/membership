@@ -130,7 +130,7 @@
 | 2026-10-04 17:50 | 配信 | [【APEX】CRカップ本番  底知れない床 【しゃかちゃ Rasっち】コーチ:Y](https://www.youtube.com/watch?v=yF-rViKpAoc) | 6,440 | 2,411 | 37.4% | 9 | 0 |
 | 2026-10-05 22:49 | 配信 | [【雑】普段何着んの？【皆の布】#葛葉ブラッディコーデ](https://www.youtube.com/watch?v=tRgCWLNh2LM) | 3,681 | 1,906 | 51.8% | 11 | 0 |
 | 2026-10-07 19:20 | 配信 | [【PUBG】誰も勝てると思ってないだろ【りりむ アルス イブラヒム】英リサさんの](https://www.youtube.com/watch?v=JECebCGt4S0) | 2,684 | 1,261 | 47.0% | 4 | 0 |
-| 2026-10-09 00:00 | 配信 | [【雑】コショウ少々【Zatsu】](https://www.youtube.com/watch?v=cDAR2vSBtCQ) | 3,278 | 1,862 | 56.8% | 9 | 0 |
+| 2026-10-09 22:16 | 配信 | [【雑】コショウ少々【Zatsu】](https://www.youtube.com/watch?v=cDAR2vSBtCQ) | 3,278 | 1,862 | 56.8% | 9 | 0 |
 
 ## 出力ファイル
 

@@ -110,7 +110,7 @@
 | 2026-09-28 21:04 | 配信 | [Scary viewer submitted stories.. 👻 【NIJI](https://www.youtube.com/watch?v=YXrJH4pIYdM) | 257 | 94 | 36.6% | 1 | 5 |
 | 2026-10-02 12:08 | 配信 | [【SPOOKER】 SPOOKY SNOOKER 🎱👻 【NIJISANJI E](https://www.youtube.com/watch?v=xAHcsuqujrs) | 183 | 57 | 31.1% | 0 | 0 |
 | 2026-10-03 12:00 | 配信 | [【STAR FOX ADVENTURES】 Hello Dinosaur Pla](https://www.youtube.com/watch?v=6dXLv4CyR9I) | 114 | 62 | 54.4% | 1 | 0 |
-| 2026-10-08 00:00 | 配信 | [playing piano for you](https://www.youtube.com/watch?v=cNQ0Mb6c5Jo) | 303 | 95 | 31.4% | 1 | 5 |
+| 2026-10-08 11:02 | 配信 | [playing piano for you](https://www.youtube.com/watch?v=cNQ0Mb6c5Jo) | 303 | 95 | 31.4% | 1 | 5 |
 
 ## 集計できなかった配信
 

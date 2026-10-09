@@ -134,8 +134,8 @@
 | 2026-10-04 10:36 | 配信 | [【BALDUR'S GATE 3】 Jirvana is gonna go on](https://www.youtube.com/watch?v=obP0gKIn_Jg) | 163 | 88 | 54.0% | 0 | 0 |
 | 2026-10-07 00:00 | 配信 | [【FINAL FANTASY XIV】 FALL GUYS EVENT WITH](https://www.youtube.com/watch?v=tMP6oH9BcvM) | 169 | 80 | 47.3% | 0 | 3 |
 | 2026-10-07 08:15 | 配信 | [【URBAN MYTH DISSOLUTION CENTER】 FABULOUS](https://www.youtube.com/watch?v=w6qEej46oZ8) | 128 | 76 | 59.4% | 0 | 2 |
-| 2026-10-08 00:00 | 配信 | [【BALDUR'S GATE 3】 is it time for us to m](https://www.youtube.com/watch?v=PLmjPv_xI8U) | 149 | 80 | 53.7% | 0 | 1 |
-| 2026-10-09 00:00 | 配信 | [【URBAN MYTH DISSOLUTION CENTER】 the twis](https://www.youtube.com/watch?v=FFsOeq-Cfak) | 152 | 115 | 75.7% | 0 | 26 |
+| 2026-10-08 10:16 | 配信 | [【BALDUR'S GATE 3】 is it time for us to m](https://www.youtube.com/watch?v=PLmjPv_xI8U) | 149 | 80 | 53.7% | 0 | 1 |
+| 2026-10-09 08:02 | 配信 | [【URBAN MYTH DISSOLUTION CENTER】 the twis](https://www.youtube.com/watch?v=FFsOeq-Cfak) | 152 | 115 | 75.7% | 0 | 26 |
 
 ## 集計できなかった配信
 

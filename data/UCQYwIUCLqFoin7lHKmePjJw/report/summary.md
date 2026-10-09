@@ -121,10 +121,10 @@
 | 2026-10-06 20:03 | 配信 | [【PEAK】にじSSS三人、仲間パワーで山登りリベンジ！！！【NIJISANJI](https://www.youtube.com/watch?v=EUZPAl46ACs) | 131 | 63 | 48.1% | 0 | 0 |
 | 2026-10-07 07:00 | 配信 | [【モーニングチャーム】今日も朝活がんばります！＃２【にじさんじEN ｜ クララ ](https://www.youtube.com/watch?v=nre8WsR4Pak) | 151 | 52 | 34.4% | 4 | 1 |
 | 2026-10-07 19:58 | 配信 | [【ReStory: Chill Electronics Repairs】Repa](https://www.youtube.com/watch?v=ZfCZ0IxCxyo) | 89 | 55 | 61.8% | 0 | 2 |
-| 2026-10-08 00:00 | 配信 | [【GHOST OF THE DICED STEAK】MAID FUELS UP ](https://www.youtube.com/watch?v=tMdr9Vz6iRg) | 111 | 57 | 51.4% | 1 | 1 |
-| 2026-10-08 00:00 | 配信 | [【モーニングチャーム】３Dお披露目前のおはよう！！＃3【にじさんじEN ｜ クラ](https://www.youtube.com/watch?v=QbWElgvhphA) | 173 | 67 | 38.7% | 0 | 11 |
-| 2026-10-09 00:00 | 配信 | [【3D Debut After Party! - #Klara3D】BIG LO](https://www.youtube.com/watch?v=26HBDOEvwmU) | 811 | 258 | 31.8% | 5 | 45 |
-| 2026-10-09 00:00 | 配信 | [【3D Reveal - #Klara3D】HERE TO SERVE... I](https://www.youtube.com/watch?v=2QH3Wgx8tXE) | 3,750 | 359 | 9.6% | 3 | 257 |
+| 2026-10-08 20:00 | 配信 | [【GHOST OF THE DICED STEAK】MAID FUELS UP ](https://www.youtube.com/watch?v=tMdr9Vz6iRg) | 111 | 57 | 51.4% | 1 | 1 |
+| 2026-10-09 06:59 | 配信 | [【モーニングチャーム】３Dお披露目前のおはよう！！＃3【にじさんじEN ｜ クラ](https://www.youtube.com/watch?v=QbWElgvhphA) | 173 | 67 | 38.7% | 0 | 11 |
+| 2026-10-09 20:59 | 配信 | [【3D Reveal - #Klara3D】HERE TO SERVE... I](https://www.youtube.com/watch?v=2QH3Wgx8tXE) | 3,750 | 359 | 9.6% | 3 | 257 |
+| 2026-10-09 22:00 | 配信 | [【3D Debut After Party! - #Klara3D】BIG LO](https://www.youtube.com/watch?v=26HBDOEvwmU) | 811 | 258 | 31.8% | 5 | 45 |
 
 ## 集計できなかった配信
 

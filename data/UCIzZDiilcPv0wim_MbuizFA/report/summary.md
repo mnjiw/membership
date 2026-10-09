@@ -126,7 +126,7 @@
 | 2026-09-30 13:40 | 配信 | [Masters Grind continued ｜ APEX Legends](https://www.youtube.com/watch?v=Nxs8w5PMuGM) | 103 | 22 | 21.4% | 0 | 0 |
 | 2026-10-02 11:11 | 配信 | [Masters Grind [ 日本語字幕 ] ｜ APEX Legends](https://www.youtube.com/watch?v=lEdHldr_05o) | 82 | 23 | 28.0% | 0 | 1 |
 | 2026-10-04 12:08 | 配信 | [DOMAIN EXPANSION. I am become John FPS V](https://www.youtube.com/watch?v=EtGFOAElyLA) | 98 | 39 | 39.8% | 0 | 10 |
-| 2026-10-08 00:00 | 配信 | [I'M SICK! *does a kickflip* *points fing](https://www.youtube.com/watch?v=rfOQyx21yMM) | 146 | 41 | 28.1% | 0 | 7 |
+| 2026-10-08 12:32 | 配信 | [I'M SICK! *does a kickflip* *points fing](https://www.youtube.com/watch?v=rfOQyx21yMM) | 146 | 41 | 28.1% | 0 | 7 |
 
 ## 集計できなかった配信
 

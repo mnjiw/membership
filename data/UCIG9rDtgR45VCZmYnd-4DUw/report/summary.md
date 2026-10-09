@@ -134,7 +134,7 @@
 | 2026-10-03 20:04 | 配信 | [【APEX】CRcupスクリム３日目！！今日からコーチ付きだ～！ w/4rmy・](https://www.youtube.com/watch?v=WC2YXDfVQqc) | 121 | 78 | 64.5% | 0 | 0 |
 | 2026-10-04 17:01 | 配信 | [【APEX】CRカップ本番！！#MP4WIN w/4rmy・小森めと・4rufa](https://www.youtube.com/watch?v=EDxXJerH16Q) | 213 | 107 | 50.2% | 0 | 0 |
 | 2026-10-07 19:20 | 配信 | [【OW】ランク！ソンブラサポート化まじ？ w/しすこ・くろむ【ラトナ・プティ/に](https://www.youtube.com/watch?v=M3jbJF8UTSU) | 112 | 57 | 50.9% | 0 | 0 |
-| 2026-10-08 00:00 | 配信 | [【OW】カスタム！にじさんじの皆さんと遊ぶ【ラトナ・プティ/にじさんじ】](https://www.youtube.com/watch?v=UO7aKgZeYgE) | 131 | 70 | 53.4% | 0 | 0 |
+| 2026-10-08 20:01 | 配信 | [【OW】カスタム！にじさんじの皆さんと遊ぶ【ラトナ・プティ/にじさんじ】](https://www.youtube.com/watch?v=UO7aKgZeYgE) | 131 | 70 | 53.4% | 0 | 0 |
 
 ## 集計できなかった配信
 

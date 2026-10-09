@@ -16,7 +16,7 @@
 
 チャットで見つかったレベル名: （見つかりませんでした）
 
-> 料金が未設定のため、収益は計算していません。`/home/runner/work/membership/membership/data/UC7_MFM9b8hp5kuTSpa8WyOQ/tiers.json` に各レベルの月額（税込）を書き込んで再実行してください。
+> 料金が未設定のため、収益は計算していません。`data\UC7_MFM9b8hp5kuTSpa8WyOQ\tiers.json` に各レベルの月額（税込）を書き込んで再実行してください。
 
 ## 月ごとの推移
 
@@ -73,7 +73,7 @@
 | 2026-10-03 19:00 | プレミア | [【パラノマサイト FILE38 伊勢人魚物語】#2  この島おもしれー奴しかいな](https://www.youtube.com/watch?v=11nrfGz7diI) | 174 | 0 | 0.0% | 0 | 0 |
 | 2026-10-04 20:01 | 配信 | [【ELDEN RING】雪山は嫌だ雪山は嫌だ雪山は嫌だ……  #12【栞葉るり ](https://www.youtube.com/watch?v=Ezc-gcHGSU4) | 1,063 | 0 | 0.0% | 0 | 0 |
 | 2026-10-05 19:00 | プレミア | [【パラノマサイト FILE38 伊勢人魚物語】#3  急に爽やかな青春物語が始ま](https://www.youtube.com/watch?v=TUovtskmSOo) | 147 | 0 | 0.0% | 0 | 0 |
-| 2026-10-09 00:00 | 配信 | [【ELDEN RING】ここ温泉ある？  #13【栞葉るり / にじさんじ】](https://www.youtube.com/watch?v=WsBpl5rka38) | 1,080 | 0 | 0.0% | 0 | 0 |
+| 2026-10-09 22:00 | 配信 | [【ELDEN RING】ここ温泉ある？  #13【栞葉るり / にじさんじ】](https://www.youtube.com/watch?v=WsBpl5rka38) | 1,080 | 0 | 0.0% | 0 | 0 |
 
 ## 出力ファイル
 

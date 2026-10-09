@@ -145,10 +145,10 @@
 | 2026-10-04 11:03 | 配信 | [I Made a Silicone Replica of My Right Ha](https://www.youtube.com/watch?v=reMDE-dQJoU) | 293 | 96 | 32.8% | 0 | 0 |
 | 2026-10-05 11:17 | 配信 | [Model Handcam: Code Geass #04 Vincent 1/](https://www.youtube.com/watch?v=hNuAxy6qADo) | 175 | 68 | 38.9% | 0 | 1 |
 | 2026-10-06 11:16 | 配信 | [The Boss Would Like To See You Now... :3](https://www.youtube.com/watch?v=Gb8p6hGwVHk) | 252 | 99 | 39.3% | 0 | 1 |
-| 2026-10-08 00:00 | 配信 | [Let's Play Pokémon Legends: Arceus!💙💚✨Pa](https://www.youtube.com/watch?v=MzKKpcsfsIE) | 182 | 74 | 40.7% | 0 | 0 |
 | 2026-10-08 01:59 | 配信 | [no one is here...i dont know what you ar](https://www.youtube.com/watch?v=vA-7Fsd__oc) | 221 | 85 | 38.5% | 0 | 6 |
-| 2026-10-09 00:00 | 配信 | [I'm Going Into My Childhood Attic! Let's](https://www.youtube.com/watch?v=ETmNERzU-ro) | 251 | 136 | 54.2% | 0 | 41 |
-| 2026-10-09 00:00 | 配信 | [Let's Play Pokémon Legends: Arceus!💙💚✨Pa](https://www.youtube.com/watch?v=b3BEOYB1iJA) | 98 | 41 | 41.8% | 0 | 5 |
+| 2026-10-08 11:03 | 配信 | [Let's Play Pokémon Legends: Arceus!💙💚✨Pa](https://www.youtube.com/watch?v=MzKKpcsfsIE) | 182 | 74 | 40.7% | 0 | 0 |
+| 2026-10-09 10:58 | 配信 | [I'm Going Into My Childhood Attic! Let's](https://www.youtube.com/watch?v=ETmNERzU-ro) | 251 | 136 | 54.2% | 0 | 41 |
+| 2026-10-09 16:08 | 配信 | [Let's Play Pokémon Legends: Arceus!💙💚✨Pa](https://www.youtube.com/watch?v=b3BEOYB1iJA) | 98 | 41 | 41.8% | 0 | 5 |
 
 ## 集計できなかった配信
 

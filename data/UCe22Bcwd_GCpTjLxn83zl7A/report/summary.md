@@ -123,8 +123,8 @@
 | 2026-10-03 21:59 | 配信 | [【FE 万紫千紅│06】ネイサン VS 寧サン ※ネタバレ注意【先斗寧/にじさん](https://www.youtube.com/watch?v=BECno3OWoiE) | 373 | 57 | 15.3% | 0 | 0 |
 | 2026-10-04 22:01 | 配信 | [【Dressmaker】話題のドレスを作るゲーム！とびっきり可愛いの作るぞ👗【先](https://www.youtube.com/watch?v=ZlgjlZKlSBQ) | 164 | 74 | 45.1% | 0 | 0 |
 | 2026-10-05 22:02 | 配信 | [【FE 万紫千紅│07】遂に海の逸楽とご対面！ディートリヒも思わずにっこり！？ ](https://www.youtube.com/watch?v=yCdHp2n7MSk) | 355 | 59 | 16.6% | 0 | 0 |
-| 2026-10-08 00:00 | 配信 | [【FE 万紫千紅│08】除湿器も追いつかないこの湿気ですよ… ※ネタバレ注意【先](https://www.youtube.com/watch?v=7tdE0VDUZIU) | 406 | 67 | 16.5% | 0 | 0 |
-| 2026-10-09 00:00 | 配信 | [【Tidy Up Together】ぷぎゃりてで話題の片付け！秋の夜長のチル掃除](https://www.youtube.com/watch?v=IwLGzYoNd8w) | 154 | 76 | 49.4% | 0 | 0 |
+| 2026-10-08 22:00 | 配信 | [【FE 万紫千紅│08】除湿器も追いつかないこの湿気ですよ… ※ネタバレ注意【先](https://www.youtube.com/watch?v=7tdE0VDUZIU) | 406 | 67 | 16.5% | 0 | 0 |
+| 2026-10-09 22:02 | 配信 | [【Tidy Up Together】ぷぎゃりてで話題の片付け！秋の夜長のチル掃除](https://www.youtube.com/watch?v=IwLGzYoNd8w) | 154 | 76 | 49.4% | 0 | 0 |
 
 ## 集計できなかった配信
 

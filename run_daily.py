@@ -137,7 +137,9 @@ def write_report(results, started, finished, build_msg) -> str:
     limited = sum(r.get("limited", 0) for r in results)
     warned = sum(1 for r in results if r.get("warned"))
     L.append(f"- YouTube から情報が欠けて返ってきた枠: {limited} 本 / 制限の警告が出たチャンネル: {warned} 件"
-             + ("（多い場合は、この実行環境が YouTube に制限されています）" if limited or warned else ""))
+             + ("（開始時刻と配信時間はチャットから計算して補っています。"
+                "「新しく取得した配信」が0本に近い日が続く場合だけ、取得自体が止められていないか確認してください）"
+                if limited or warned else ""))
     L.append(f"- サイト: {build_msg}")
     L.append("")
     bad = [r for r in results if r["status"] not in ("ok", "no_streams")]

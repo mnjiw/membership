@@ -124,7 +124,7 @@
 | 2026-10-06 00:08 | 配信 | [▶︎▷ Dressmaker ｜ あなたのドレス、未来人がお仕立てします ｜ 夕](https://www.youtube.com/watch?v=PVhmWX00nls) | 158 | 70 | 44.3% | 3 | 0 |
 | 2026-10-06 21:06 | 配信 | [▶︎▷ 日本事故物件監視協会 -Japan Stigmatized Proper](https://www.youtube.com/watch?v=uL1Uc-8zDeg) | 274 | 94 | 34.3% | 0 | 0 |
 | 2026-10-07 22:01 | 配信 | [▶︎▷ 絨毯を洗うゲーム - Carpet Cleaning Simulator](https://www.youtube.com/watch?v=ieU5VHP9xWk) | 264 | 102 | 38.6% | 0 | 5 |
-| 2026-10-08 00:00 | 配信 | [▶︎▷ OWにじさんじさんカスタム ｜ にじさんじの皆さんへ　こんにちは ｜ 夕](https://www.youtube.com/watch?v=SP1b79NCLY8) | 84 | 58 | 69.0% | 0 | 0 |
+| 2026-10-08 20:07 | 配信 | [▶︎▷ OWにじさんじさんカスタム ｜ にじさんじの皆さんへ　こんにちは ｜ 夕](https://www.youtube.com/watch?v=SP1b79NCLY8) | 84 | 58 | 69.0% | 0 | 0 |
 
 ## 集計できなかった配信
 

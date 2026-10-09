@@ -126,7 +126,7 @@
 | 2026-10-03 13:01 | 配信 | [#06 ꒰LOST JUDGMENT：裁かれざる記憶꒱　キムタクが如く！　イジメ](https://www.youtube.com/watch?v=GXwNAcH5uTc) | 350 | 70 | 20.0% | 0 | 0 |
 | 2026-10-04 12:54 | 配信 | [#06 ꒰LOST JUDGMENT：裁かれざる記憶꒱　キムタクが如く！みんなの](https://www.youtube.com/watch?v=yAndToyel1o) | 410 | 73 | 17.8% | 0 | 0 |
 | 2026-10-07 19:00 | 配信 | [꒰FF1꒱　人生初めてのFFやるぞっっ🔥　˹ 本間ひまわり にじさんじ ˼](https://www.youtube.com/watch?v=Mum0n1y4rGo) | 465 | 89 | 19.1% | 0 | 0 |
-| 2026-10-08 00:00 | 配信 | [꒰ OW2 ꒱　にじカスタム～～～～🌈TANK練習しよっ🦍　˹ 本間ひまわり に](https://www.youtube.com/watch?v=kNzp7Oy7I1g) | 137 | 84 | 61.3% | 0 | 0 |
+| 2026-10-08 20:01 | 配信 | [꒰ OW2 ꒱　にじカスタム～～～～🌈TANK練習しよっ🦍　˹ 本間ひまわり に](https://www.youtube.com/watch?v=kNzp7Oy7I1g) | 137 | 84 | 61.3% | 0 | 0 |
 
 ## 集計できなかった配信
 

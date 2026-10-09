@@ -16,7 +16,7 @@
 
 チャットで見つかったレベル名: （見つかりませんでした）
 
-> 料金が未設定のため、収益は計算していません。`/home/runner/work/membership/membership/data/UCgIfLpQvelloDi8I0Ycbwpg/tiers.json` に各レベルの月額（税込）を書き込んで再実行してください。
+> 料金が未設定のため、収益は計算していません。`data\UCgIfLpQvelloDi8I0Ycbwpg\tiers.json` に各レベルの月額（税込）を書き込んで再実行してください。
 
 ## 月ごとの推移
 
@@ -77,7 +77,7 @@
 | 2026-10-04 22:01 | 配信 | [おブラボ#2 ✦ ヤーナム式FX Bloodborne をお嬢様（一）がプレイ ](https://www.youtube.com/watch?v=WDq-hd0Pq5g) | 1,228 | 0 | 0.0% | 0 | 0 |
 | 2026-10-07 06:30 | 配信 | [朝の雑談あさろめ ～映画と浮気とヤンデレについて～どデカオムライスを添えて](https://www.youtube.com/watch?v=9JSh9w33zcQ) | 901 | 0 | 0.0% | 0 | 0 |
 | 2026-10-07 22:00 | 配信 | [おブラボ#3 ✦ ヤーナムマチアプはサ終 Bloodborne をお嬢様（一）が](https://www.youtube.com/watch?v=pcRioZYZja0) | 1,020 | 0 | 0.0% | 0 | 0 |
-| 2026-10-08 00:00 | 配信 | [初見！最終回ッSTEINS;GATE0 シュタゲゼロアニメ同時視聴✦ 壱百満天原](https://www.youtube.com/watch?v=-MBuOuPKkmc) | 356 | 0 | 0.0% | 0 | 0 |
+| 2026-10-08 22:00 | 配信 | [初見！最終回ッSTEINS;GATE0 シュタゲゼロアニメ同時視聴✦ 壱百満天原](https://www.youtube.com/watch?v=-MBuOuPKkmc) | 356 | 0 | 0.0% | 0 | 0 |
 
 ## 出力ファイル
 

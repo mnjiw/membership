@@ -133,8 +133,8 @@
 | 2026-10-03 12:01 | 配信 | [【APEX】第3回ソロカップ顔合わせ【にじさんじ/える】](https://www.youtube.com/watch?v=skzSFU37Jys) | 330 | 66 | 20.0% | 0 | 0 |
 | 2026-10-04 10:01 | 配信 | [【 朝マック 】グリドルが恋しい頃【にじさんじ/える】](https://www.youtube.com/watch?v=126x69lUm0c) | 454 | 97 | 21.4% | 0 | 0 |
 | 2026-10-07 22:02 | 配信 | [【 雑談 】これって浮気？個人的見解を本気で考えてみた【にじさんじ/える】](https://www.youtube.com/watch?v=LJSzdNUDR50) | 516 | 125 | 24.2% | 2 | 0 |
-| 2026-10-08 00:00 | 配信 | [【 SILENT HILL: Townfall 】サイレントヒル最新作！【にじさ](https://www.youtube.com/watch?v=qLItyxDDcJc) | 193 | 73 | 37.8% | 0 | 0 |
-| 2026-10-09 00:00 | 配信 | [【 デス桃太郎 】むかしむかしあるところに・・・？【にじさんじ/える】](https://www.youtube.com/watch?v=fyV57VLu-B8) | 214 | 72 | 33.6% | 0 | 0 |
+| 2026-10-08 21:59 | 配信 | [【 SILENT HILL: Townfall 】サイレントヒル最新作！【にじさ](https://www.youtube.com/watch?v=qLItyxDDcJc) | 193 | 73 | 37.8% | 0 | 0 |
+| 2026-10-09 22:01 | 配信 | [【 デス桃太郎 】むかしむかしあるところに・・・？【にじさんじ/える】](https://www.youtube.com/watch?v=fyV57VLu-B8) | 214 | 72 | 33.6% | 0 | 0 |
 
 ## 集計できなかった配信
 

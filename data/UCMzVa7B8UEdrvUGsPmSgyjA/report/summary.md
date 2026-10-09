@@ -124,9 +124,9 @@
 | 2026-10-02 16:36 | 配信 | [【 Valheim 】 It's a sudden round tofu【 NI](https://www.youtube.com/watch?v=3UGG4pUk4fc) | 25 | 14 | 56.0% | 0 | 5 |
 | 2026-10-04 22:59 | 配信 | [【 FFXIV 】Progggggggg!!!【 NIJISANJI ｜ Der](https://www.youtube.com/watch?v=mucP0rOBEoc) | 22 | 11 | 50.0% | 0 | 5 |
 | 2026-10-05 22:03 | 配信 | [【 Withering Rooms 】Get your earplugs rea](https://www.youtube.com/watch?v=JYm3_LL02Vg) | 41 | 17 | 41.5% | 0 | 5 |
-| 2026-10-07 00:00 | 配信 | [【 Withering Rooms 】#2 IDK BRO 【 NIJISANJ](https://www.youtube.com/watch?v=eMisWLt7v0I) | 23 | 13 | 56.5% | 0 | 5 |
-| 2026-10-08 00:00 | 配信 | [【 Withering Rooms 】#3 PLEASE 【 NIJISANJI](https://www.youtube.com/watch?v=CNFb3kVHUd0) | 25 | 6 | 24.0% | 0 | 0 |
-| 2026-10-09 00:00 | 配信 | [【 FFXIV 】Refreshing my mind【 NIJISANJI ｜](https://www.youtube.com/watch?v=_ROIajGmHdo) | 24 | 6 | 25.0% | 0 | 1 |
+| 2026-10-07 21:35 | 配信 | [【 Withering Rooms 】#2 IDK BRO 【 NIJISANJ](https://www.youtube.com/watch?v=eMisWLt7v0I) | 23 | 13 | 56.5% | 0 | 5 |
+| 2026-10-08 22:34 | 配信 | [【 Withering Rooms 】#3 PLEASE 【 NIJISANJI](https://www.youtube.com/watch?v=CNFb3kVHUd0) | 25 | 6 | 24.0% | 0 | 0 |
+| 2026-10-10 00:23 | 配信 | [【 FFXIV 】Refreshing my mind【 NIJISANJI ｜](https://www.youtube.com/watch?v=_ROIajGmHdo) | 24 | 6 | 25.0% | 0 | 1 |
 
 ## 出力ファイル
 

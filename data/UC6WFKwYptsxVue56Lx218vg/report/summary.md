@@ -144,7 +144,7 @@
 | 2026-10-06 10:09 | 配信 | [【VALORANT】飯まで【小柳ロウ/にじさんじ】](https://www.youtube.com/watch?v=6LjwnTy06xk) | 425 | 332 | 78.1% | 0 | 0 |
 | 2026-10-07 10:39 | 配信 | [【VALORANT】今日も飯まで【小柳ロウ/にじさんじ】](https://www.youtube.com/watch?v=-MZ-mM4XQhg) | 659 | 445 | 67.5% | 1 | 0 |
 | 2026-10-07 19:09 | 配信 | [【PUBG】ぶいすぽGG‐リサPUBG【小柳ロウ/にじさんじ】](https://www.youtube.com/watch?v=kJwx2kZL4A0) | 1,022 | 716 | 70.1% | 0 | 0 |
-| 2026-10-08 00:00 | 配信 | [【OW】にじカスタム【小柳ロウ/にじさんじ】](https://www.youtube.com/watch?v=JSEv4znMINM) | 652 | 506 | 77.6% | 0 | 0 |
+| 2026-10-08 20:05 | 配信 | [【OW】にじカスタム【小柳ロウ/にじさんじ】](https://www.youtube.com/watch?v=JSEv4znMINM) | 652 | 506 | 77.6% | 0 | 0 |
 
 ## 出力ファイル
 

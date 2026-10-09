@@ -116,9 +116,9 @@
 | 2026-10-03 00:34 | 配信 | [視聴者投稿の心霊写真・動画を見る](https://www.youtube.com/watch?v=XNFhQgbsCKk) | 649 | 141 | 21.7% | 0 | 0 |
 | 2026-10-04 00:05 | 配信 | [【閲覧注意】  あなたの推しライバーが残酷な〇に方をする恐れがあります 【Lob](https://www.youtube.com/watch?v=39XeIMsNybw) | 270 | 80 | 29.6% | 0 | 0 |
 | 2026-10-05 00:35 | 配信 | [視聴者から寄せられた怖い話を読むだけの配信](https://www.youtube.com/watch?v=WlKEqEGsYS8) | 368 | 136 | 37.0% | 2 | 0 |
-| 2026-10-08 00:00 | 配信 | [『スクジサマ』を巡る考察 - 中編](https://www.youtube.com/watch?v=k95IAROGUPs) | 235 | 103 | 43.8% | 0 | 0 |
 | 2026-10-08 00:04 | 配信 | [『スクジサマ』を巡る考察 - 前編](https://www.youtube.com/watch?v=keQlh7IEevs) | 299 | 142 | 47.5% | 1 | 0 |
-| 2026-10-09 00:00 | 配信 | [『スクジサマ』を巡る考察 - 後編](https://www.youtube.com/watch?v=PNMObVfByjM) | 288 | 120 | 41.7% | 1 | 0 |
+| 2026-10-09 00:05 | 配信 | [『スクジサマ』を巡る考察 - 中編](https://www.youtube.com/watch?v=k95IAROGUPs) | 235 | 103 | 43.8% | 0 | 0 |
+| 2026-10-10 00:05 | 配信 | [『スクジサマ』を巡る考察 - 後編](https://www.youtube.com/watch?v=PNMObVfByjM) | 288 | 120 | 41.7% | 1 | 0 |
 
 ## 集計できなかった配信
 

@@ -122,10 +122,10 @@
 | 2026-10-05 07:02 | 配信 | [【 朝雑談 / #おはようみゃみー 】おはようを最初に言わせてください。 202](https://www.youtube.com/watch?v=6tbfIF_Z57Q) | 142 | 62 | 43.7% | 2 | 0 |
 | 2026-10-05 17:02 | 配信 | [【 マインクラフト 】全ロス、戻し作業。もくもくマイクラ【 にじさんじ / 水面](https://www.youtube.com/watch?v=Lx5VR4ewryU) | 170 | 62 | 36.5% | 0 | 0 |
 | 2026-10-07 17:32 | 配信 | [【 料理配信 】お誕生日パーティに持っていくお菓子作り🍪マカロン＆クッキー【 に](https://www.youtube.com/watch?v=x0Swm8s4P3I) | 326 | 96 | 29.4% | 2 | 0 |
-| 2026-10-08 00:00 | 配信 | [【 #まどちゃバースデー2026 】告知あり⁉ゲストと歌って食べてお喋り🎂お誕生](https://www.youtube.com/watch?v=w5YR3jQo6xM) | 1,220 | 200 | 16.4% | 0 | 0 |
-| 2026-10-08 00:00 | プレミア | [Algernon / Yorushika covered by Minamo M](https://www.youtube.com/watch?v=6OVgEvRX2KU) | 119 | 72 | 60.5% | 0 | 0 |
-| 2026-10-09 00:00 | 配信 | [【 お誕生日🎂スパチャ読み雑談 】いただいたスーパーチャットを読む！みんな本当に](https://www.youtube.com/watch?v=ieAS6FWVgqY) | 98 | 73 | 74.5% | 1 | 0 |
-| 2026-10-09 00:00 | 配信 | [【 お誕生日🎂雑談 】10/9誕生日当日！誕生日っぽい会話しようぜ！！【 にじさ](https://www.youtube.com/watch?v=nd-vMNGL2Vk) | 238 | 120 | 50.4% | 2 | 10 |
+| 2026-10-08 17:59 | 配信 | [【 #まどちゃバースデー2026 】告知あり⁉ゲストと歌って食べてお喋り🎂お誕生](https://www.youtube.com/watch?v=w5YR3jQo6xM) | 1,220 | 200 | 16.4% | 0 | 0 |
+| 2026-10-09 00:02 | プレミア | [Algernon / Yorushika covered by Minamo M](https://www.youtube.com/watch?v=6OVgEvRX2KU) | 119 | 72 | 60.5% | 0 | 0 |
+| 2026-10-09 19:01 | 配信 | [【 お誕生日🎂雑談 】10/9誕生日当日！誕生日っぽい会話しようぜ！！【 にじさ](https://www.youtube.com/watch?v=nd-vMNGL2Vk) | 238 | 120 | 50.4% | 2 | 10 |
+| 2026-10-09 22:01 | 配信 | [【 お誕生日🎂スパチャ読み雑談 】いただいたスーパーチャットを読む！みんな本当に](https://www.youtube.com/watch?v=ieAS6FWVgqY) | 98 | 73 | 74.5% | 1 | 0 |
 
 ## 集計できなかった配信
 

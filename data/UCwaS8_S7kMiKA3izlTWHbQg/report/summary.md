@@ -132,8 +132,8 @@
 | 2026-10-03 16:00 | 配信 | [FIRST PLAYTHROUGH  Cute City Building - ](https://www.youtube.com/watch?v=oouHjVRT8Fw) | 91 | 38 | 41.8% | 0 | 5 |
 | 2026-10-04 16:01 | 配信 | [【Dressmaker】Time To Attempt Lacing!【Mari](https://www.youtube.com/watch?v=uoRVCfat3QI) | 126 | 32 | 25.4% | 0 | 1 |
 | 2026-10-07 16:00 | プレミア | [August Mariring Moments 2026](https://www.youtube.com/watch?v=lSqKdDGRxMI) | 19 | 10 | 52.6% | 0 | 0 |
-| 2026-10-08 00:00 | 配信 | [FULL RELEASE IS OUT! - Princess Maker: C](https://www.youtube.com/watch?v=3_tnOzc1hGo) | 62 | 23 | 37.1% | 0 | 0 |
-| 2026-10-09 00:00 | 配信 | [It's Spooky Month Yap【Maria Marionette ｜](https://www.youtube.com/watch?v=CLqPt48qX44) | 89 | 28 | 31.5% | 0 | 0 |
+| 2026-10-08 17:02 | 配信 | [FULL RELEASE IS OUT! - Princess Maker: C](https://www.youtube.com/watch?v=3_tnOzc1hGo) | 62 | 23 | 37.1% | 0 | 0 |
+| 2026-10-09 17:00 | 配信 | [It's Spooky Month Yap【Maria Marionette ｜](https://www.youtube.com/watch?v=CLqPt48qX44) | 89 | 28 | 31.5% | 0 | 0 |
 
 ## 集計できなかった配信
 

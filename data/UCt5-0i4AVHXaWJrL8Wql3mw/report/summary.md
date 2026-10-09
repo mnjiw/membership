@@ -120,7 +120,7 @@
 | 2026-09-27 20:08 | 配信 | [【嘘エピソード】夏の思い出が無いので、無理やり作ることにしました。【選手権】](https://www.youtube.com/watch?v=b6qsRrOVGps) | 418 | 56 | 13.4% | 0 | 0 |
 | 2026-09-28 19:00 | プレミア | [CROSS FIGHT! / 緑仙×社築 Cover](https://www.youtube.com/watch?v=oq-sW1xxVC8) | 60 | 20 | 33.3% | 0 | 0 |
 | 2026-09-30 20:04 | 配信 | [#テニプリ誰推し ｜ 令和にテニプリを読んだ人間はどのキャラを好きになるのか当て](https://www.youtube.com/watch?v=jl1qRphYgZE) | 1,845 | 53 | 2.9% | 0 | 0 |
-| 2026-10-09 00:00 | 配信 | [突然ですが](https://www.youtube.com/watch?v=YYF_zbixzoo) | 313 | 133 | 42.5% | 0 | 1 |
+| 2026-10-09 22:57 | 配信 | [突然ですが](https://www.youtube.com/watch?v=YYF_zbixzoo) | 313 | 133 | 42.5% | 0 | 1 |
 
 ## 集計できなかった配信
 

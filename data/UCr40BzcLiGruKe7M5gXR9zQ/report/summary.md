@@ -107,7 +107,7 @@
 | 2026-10-04 13:01 | 配信 | [【THE WELL IS NOT EMPTY】Spoon Digging Hor](https://www.youtube.com/watch?v=deyidfnjtx0) | 318 | 181 | 56.9% | 0 | 0 |
 | 2026-10-05 07:00 | 配信 | [【Coffee Zatsu】Back to Brewing【NIJISANJI ](https://www.youtube.com/watch?v=Mg5Z1KjlCeg) | 293 | 172 | 58.7% | 3 | 0 |
 | 2026-10-07 20:00 | 配信 | [【SILENT HILL: Townfall】The Fog is Back (](https://www.youtube.com/watch?v=zILjClgcNvE) | 419 | 202 | 48.2% | 1 | 0 |
-| 2026-10-08 00:00 | 配信 | [【SILENT HILL: Townfall】Zoe (2)【NIJISANJI](https://www.youtube.com/watch?v=4eawcoYDzJY) | 320 | 181 | 56.6% | 0 | 0 |
+| 2026-10-08 20:00 | 配信 | [【SILENT HILL: Townfall】Zoe (2)【NIJISANJI](https://www.youtube.com/watch?v=4eawcoYDzJY) | 320 | 181 | 56.6% | 0 | 0 |
 
 ## 出力ファイル
 

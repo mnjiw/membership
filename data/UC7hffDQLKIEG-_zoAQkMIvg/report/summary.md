@@ -104,8 +104,8 @@
 |---|---|---|---:|---:|---:|---:|---:|
 | 2026-09-10 18:45 | 配信 | [【雑談】広島弁が濃い（こいい）らしい【明楽レイ/にじさんじ】](https://www.youtube.com/watch?v=hb2-fbwwM_o) | 205 | 30 | 14.6% | 2 | 1 |
 | 2026-09-22 13:15 | 配信 | [【雑談】低彩度メイクでもしながら話しましょうかね♩【明楽レイ/にじさんじ】](https://www.youtube.com/watch?v=-yJk1I2E88w) | 69 | 21 | 30.4% | 0 | 1 |
-| 2026-10-09 00:00 | プレミア | [【이심전심】All For Now!! 불러보았다【NIJISANJI】](https://www.youtube.com/watch?v=hej7WJnemK0) | 112 | 6 | 5.4% | 0 | 0 |
-| 2026-10-09 00:00 | 配信 | [【雑談】アフタートーク　with セフィナ【明楽レイ/にじさんじ】](https://www.youtube.com/watch?v=dnbKfzGQoxI) | 68 | 17 | 25.0% | 1 | 1 |
+| 2026-10-09 19:01 | プレミア | [【이심전심】All For Now!! 불러보았다【NIJISANJI】](https://www.youtube.com/watch?v=hej7WJnemK0) | 112 | 6 | 5.4% | 0 | 0 |
+| 2026-10-09 20:01 | 配信 | [【雑談】アフタートーク　with セフィナ【明楽レイ/にじさんじ】](https://www.youtube.com/watch?v=dnbKfzGQoxI) | 68 | 17 | 25.0% | 1 | 1 |
 
 ## 出力ファイル
 

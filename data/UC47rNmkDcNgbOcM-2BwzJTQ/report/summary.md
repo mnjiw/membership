@@ -126,7 +126,7 @@
 | 2026-10-04 10:36 | 配信 | [【BALDUR'S GATE 3】JIRVANA CHRONICLE'S #4](https://www.youtube.com/watch?v=bs6xaKBLZ8o) | 131 | 82 | 62.6% | 0 | 16 |
 | 2026-10-04 21:26 | 配信 | [【FEARS TO FATHOM】COLLAB KASAMA NI @Jurar](https://www.youtube.com/watch?v=Es_wRhNCH-I) | 690 | 146 | 21.2% | 1 | 30 |
 | 2026-10-07 21:00 | 配信 | [【AMONG US】TAG COLLAB YEY](https://www.youtube.com/watch?v=T-ie3HbKgXo) | 383 | 101 | 26.4% | 0 | 6 |
-| 2026-10-08 00:00 | 配信 | [【BALDUR'S GATE 3】JIRVANA CHRONICLE'S #4](https://www.youtube.com/watch?v=LU2vTkn3Szg) | 127 | 66 | 52.0% | 0 | 0 |
+| 2026-10-08 10:15 | 配信 | [【BALDUR'S GATE 3】JIRVANA CHRONICLE'S #4](https://www.youtube.com/watch?v=LU2vTkn3Szg) | 127 | 66 | 52.0% | 0 | 0 |
 
 ## 集計できなかった配信
 

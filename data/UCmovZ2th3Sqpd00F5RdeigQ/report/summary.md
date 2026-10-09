@@ -126,7 +126,7 @@
 | 2026-10-04 22:30 | 配信 | [【 #デュエプレ 】第37弾「虹帝∞命動」を開封‼【にじさんじ/加賀美ハヤト】](https://www.youtube.com/watch?v=PiDiwaookgk) | 2,392 | 1,067 | 44.6% | 0 | 1 |
 | 2026-10-05 22:30 | 配信 | [【Everything is Crab: 生物進化ローグライト】　過酷な生態系を](https://www.youtube.com/watch?v=-hzorAYfyh4) | 1,557 | 873 | 56.1% | 0 | 0 |
 | 2026-10-07 22:30 | 配信 | [【Everything is Crab: 生物進化ローグライト】究極の生命体へと](https://www.youtube.com/watch?v=DvoO4QU0y7M) | 1,609 | 943 | 58.6% | 1 | 10 |
-| 2026-10-08 00:00 | 配信 | [【Dinoblade】　帯刀したスピノサウルスで、頂点捕食者に挑む　【にじさんじ](https://www.youtube.com/watch?v=IM7p2ygR9bU) | 1,365 | 760 | 55.7% | 0 | 0 |
+| 2026-10-08 22:00 | 配信 | [【Dinoblade】　帯刀したスピノサウルスで、頂点捕食者に挑む　【にじさんじ](https://www.youtube.com/watch?v=IM7p2ygR9bU) | 1,365 | 760 | 55.7% | 0 | 0 |
 
 ## 集計できなかった配信
 

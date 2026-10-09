@@ -133,8 +133,8 @@
 | 2026-10-04 22:01 | 配信 | [【 雑談 】 Steamのオータムセールみながらまったり。【 にじさんじ / 蝸](https://www.youtube.com/watch?v=vJr5fR13v7Y) | 708 | 286 | 40.4% | 1 | 20 |
 | 2026-10-05 12:00 | 配信 | [【昼活】# 10/5　初 → サブウェイ ( SUBWAY )：みかるとお昼ご飯](https://www.youtube.com/watch?v=7so9FfRFxYs) | 538 | 215 | 40.0% | 0 | 0 |
 | 2026-10-07 14:00 | 配信 | [【 Cities: Skylines II 】 市長になって街をつくってみる！ ](https://www.youtube.com/watch?v=AgqrVW6lwK8) | 416 | 138 | 33.2% | 1 | 0 |
-| 2026-10-08 00:00 | 配信 | [【  ELDEN RING DLC  】DLC # 6  串刺し公 メスメル　リ](https://www.youtube.com/watch?v=tYmzSx3dvfc) | 419 | 175 | 41.8% | 1 | 0 |
-| 2026-10-09 00:00 | 配信 | [【 Super Bunny Man 】 初コラボ！ツクリさんと遊ぶぞ～～！ 【 ](https://www.youtube.com/watch?v=lunYpkVdYEU) | 259 | 153 | 59.1% | 0 | 0 |
+| 2026-10-08 19:16 | 配信 | [【  ELDEN RING DLC  】DLC # 6  串刺し公 メスメル　リ](https://www.youtube.com/watch?v=tYmzSx3dvfc) | 419 | 175 | 41.8% | 1 | 0 |
+| 2026-10-09 20:00 | 配信 | [【 Super Bunny Man 】 初コラボ！ツクリさんと遊ぶぞ～～！ 【 ](https://www.youtube.com/watch?v=lunYpkVdYEU) | 259 | 153 | 59.1% | 0 | 0 |
 
 ## 集計できなかった配信
 

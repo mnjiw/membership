@@ -118,8 +118,8 @@
 | 2026-10-03 13:31 | 配信 | [【 APEX 】ランク解放手伝い屋さん。w / ばっさー、みゃんだい【 城瀬いす](https://www.youtube.com/watch?v=5XCAz3h8lDo) | 56 | 28 | 50.0% | 0 | 0 |
 | 2026-10-04 23:00 | 配信 | [【Dressmaker】さ～て激ｶﾜドレスつくっちゃいますかね～【 城瀬いすみ ](https://www.youtube.com/watch?v=KYFiLl1c0ro) | 167 | 54 | 32.3% | 2 | 0 |
 | 2026-10-05 23:31 | 配信 | [【 スプラトゥーン3 】ほのぬりみゃすか～ 　w / 篠宮ゆの【 城瀬いすみ /](https://www.youtube.com/watch?v=oGNObz9B4fk) | 65 | 29 | 44.6% | 1 | 0 |
-| 2026-10-08 00:00 | 配信 | [【 朝活 / 縦型 】金曜日！！！！！！！！！！！！！！！！！！！！！！！！！！](https://www.youtube.com/watch?v=D0kPiBNeWC0) | 202 | 52 | 25.7% | 1 | 0 |
-| 2026-10-09 00:00 | 配信 | [【 Japanese Ramen Simulator 】とんこつらーめんがすきや](https://www.youtube.com/watch?v=7IXEUREOmM8) | 62 | 33 | 53.2% | 0 | 0 |
+| 2026-10-09 07:04 | 配信 | [【 朝活 / 縦型 】金曜日！！！！！！！！！！！！！！！！！！！！！！！！！！](https://www.youtube.com/watch?v=D0kPiBNeWC0) | 202 | 52 | 25.7% | 1 | 0 |
+| 2026-10-09 22:02 | 配信 | [【 Japanese Ramen Simulator 】とんこつらーめんがすきや](https://www.youtube.com/watch?v=7IXEUREOmM8) | 62 | 33 | 53.2% | 0 | 0 |
 
 ## 集計できなかった配信
 

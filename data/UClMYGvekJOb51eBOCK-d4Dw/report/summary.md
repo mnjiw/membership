@@ -130,7 +130,7 @@
 | 2026-10-03 14:11 | 配信 | [【Guilty as Sock】 Seible Birthday Yay 【NI](https://www.youtube.com/watch?v=SGcTB6Ai9HQ) | 249 | 183 | 73.5% | 0 | 0 |
 | 2026-10-06 09:00 | 配信 | [【Fortnite】 YAYYY YIPPPEEEE 【NIJISANJI EN](https://www.youtube.com/watch?v=goS4KOVuMNI) | 307 | 208 | 67.8% | 0 | 6 |
 | 2026-10-07 18:00 | 配信 | [【FNaF: Into The Pit】 The Last Night 【NIJ](https://www.youtube.com/watch?v=-O6QMYs7l-g) | 328 | 215 | 65.5% | 0 | 10 |
-| 2026-10-08 00:00 | 配信 | [【Persona 5】 Painting (6)  【NIJISANJI EN ](https://www.youtube.com/watch?v=ORSswjmVtSQ) | 357 | 246 | 68.9% | 3 | 5 |
+| 2026-10-08 08:57 | 配信 | [【Persona 5】 Painting (6)  【NIJISANJI EN ](https://www.youtube.com/watch?v=ORSswjmVtSQ) | 357 | 246 | 68.9% | 3 | 5 |
 
 ## 集計できなかった配信
 

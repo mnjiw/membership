@@ -318,7 +318,47 @@ def fetch_one(args, video_id: str, chats_dir: Path, cutoff_ts: float, prev: dict
     chat_file = chats_dir / f"{video_id}.live_chat.json"
     if not chat_file.exists() or chat_file.stat().st_size == 0:
         return meta, "chat_failed"
+    if limited:
+        # 開始時刻が日付だけ・配信時間がない → チャットから正確な値を求める
+        start, dur = chat_timing(chat_file)
+        if start:
+            meta["start_ts"], meta["start_jst"] = start, fmt_ts(start)
+            meta["start_from_chat"] = True
+        if dur and not meta.get("duration_sec"):
+            meta["duration_sec"] = dur
     return meta, "ok"
+
+
+def chat_timing(chat_file: Path):
+    """チャットリプレイから、配信の開始時刻 (UNIX秒) と長さ (秒) を求める。
+    各メッセージには「投稿された時刻 (timestampUsec)」と「配信の何ミリ秒目か (videoOffsetTimeMsec)」が
+    両方入っているので、その差が配信の開始時刻になる。YouTube から欠けた情報が返ってきたときに使う。
+    求められなければ (None, None)"""
+    starts, max_off = [], 0
+    try:
+        with chat_file.open(encoding="utf-8") as f:
+            for line in f:
+                try:
+                    obj = json.loads(line)
+                except ValueError:
+                    continue
+                rep = obj.get("replayChatItemAction", {})
+                off = int(rep.get("videoOffsetTimeMsec") or obj.get("videoOffsetTimeMsec") or 0)
+                max_off = max(max_off, off)
+                if off <= 0 or len(starts) >= 200:
+                    continue   # 配信前の待機中のメッセージ (0) は開始時刻の計算に使わない
+                for act in rep.get("actions", []):
+                    item = (act.get("addChatItemAction") or {}).get("item") or {}
+                    for r in item.values():
+                        ts = r.get("timestampUsec")
+                        if ts:
+                            starts.append(int(ts) / 1e6 - off / 1000)
+    except OSError:
+        return None, None
+    if not starts:
+        return None, None
+    starts.sort()
+    return starts[len(starts) // 2], round(max_off / 1000) or None   # 中央値 (ずれた値に引っぱられないように)
 
 
 def recorded_ids(out_dir: Path) -> set:

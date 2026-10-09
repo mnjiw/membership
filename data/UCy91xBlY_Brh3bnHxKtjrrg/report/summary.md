@@ -134,7 +134,7 @@
 | 2026-10-03 22:07 | 配信 | [ZATSU & SIGNATURE COMMISSIONS 7【NIJISANJ](https://www.youtube.com/watch?v=lTXAwcGThYI) | 144 | 117 | 81.2% | 0 | 21 |
 | 2026-10-04 11:01 | 配信 | [MOAR JEANS [DRESS MAKER]【NIJISANJI  EN ｜](https://www.youtube.com/watch?v=7Yq_F2vtCoI) | 136 | 93 | 68.4% | 0 | 11 |
 | 2026-10-04 22:02 | 配信 | [ZATSU & SIGNATURE COMMISSIONS 8【NIJISANJ](https://www.youtube.com/watch?v=mJRUKHCOdUE) | 177 | 143 | 80.8% | 0 | 31 |
-| 2026-10-08 00:00 | 配信 | [Evil League Practice 2【NIJISANJI  EN ｜ D](https://www.youtube.com/watch?v=vu1MULpfvBI) | 103 | 71 | 68.9% | 0 | 0 |
+| 2026-10-08 21:09 | 配信 | [Evil League Practice 2【NIJISANJI  EN ｜ D](https://www.youtube.com/watch?v=vu1MULpfvBI) | 103 | 71 | 68.9% | 0 | 0 |
 
 ## 集計できなかった配信
 

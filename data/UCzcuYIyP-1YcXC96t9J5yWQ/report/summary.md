@@ -126,7 +126,7 @@
 | 2026-10-04 08:57 | 配信 | [【Apex Legends】健康なので朝活はソロランク【九里詠太 / にじさんじ](https://www.youtube.com/watch?v=69t_RBoZQC4) | 84 | 23 | 27.4% | 0 | 1 |
 | 2026-10-06 10:03 | 配信 | [【Apex Legends】本日盛りぺくすソロランクです【九里詠太 / にじさん](https://www.youtube.com/watch?v=CVYgMd1jqGw) | 53 | 21 | 39.6% | 0 | 0 |
 | 2026-10-06 22:04 | 配信 | [【Apex Legends】便利屋が魁星先輩をランクへ導く会【九里詠太 / にじ](https://www.youtube.com/watch?v=pYTbZVKqd68) | 44 | 23 | 52.3% | 0 | 0 |
-| 2026-10-08 00:00 | 配信 | [【Apex Legends】ソロマスターへ挑戦させていただく！ダイヤⅡ~【九里詠](https://www.youtube.com/watch?v=MNcuv48l0fg) | 74 | 30 | 40.5% | 0 | 0 |
+| 2026-10-08 20:00 | 配信 | [【Apex Legends】ソロマスターへ挑戦させていただく！ダイヤⅡ~【九里詠](https://www.youtube.com/watch?v=MNcuv48l0fg) | 74 | 30 | 40.5% | 0 | 0 |
 
 ## 集計できなかった配信
 

@@ -121,8 +121,8 @@
 | 2026-09-29 19:01 | 配信 | [#1【空の軌跡 the 2nd 】ふたりはいつかまた逢える🧭この時をずっとまって](https://www.youtube.com/watch?v=fCF0oeuzOPA) | 651 | 91 | 14.0% | 0 | 0 |
 | 2026-10-01 20:03 | 配信 | [#2【空の軌跡 the 2nd 】ふたりはいつかまた逢える🧭エステル…最強になれ](https://www.youtube.com/watch?v=IJu1wfw9wsU) | 474 | 82 | 17.3% | 0 | 0 |
 | 2026-10-04 19:05 | 配信 | [#3【空の軌跡 the 2nd 】ふたりはいつかまた逢える🧭大丈夫エステル✨怖く](https://www.youtube.com/watch?v=wUcUlEVXHSY) | 442 | 88 | 19.9% | 1 | 0 |
-| 2026-10-08 00:00 | 配信 | [#4【空の軌跡 the 2nd 】ふたりはいつかまた逢える🧭裏校舎にカチコミです](https://www.youtube.com/watch?v=xitLE7kh9is) | 470 | 73 | 15.5% | 1 | 0 |
-| 2026-10-09 00:00 | 配信 | [【Tidy Up Together 】ぷぎゃりてでお掃除大会🧹【立伝都々視点/先](https://www.youtube.com/watch?v=41rSaezN2Bk) | 224 | 114 | 50.9% | 0 | 0 |
+| 2026-10-08 19:04 | 配信 | [#4【空の軌跡 the 2nd 】ふたりはいつかまた逢える🧭裏校舎にカチコミです](https://www.youtube.com/watch?v=xitLE7kh9is) | 470 | 73 | 15.5% | 1 | 0 |
+| 2026-10-09 22:03 | 配信 | [【Tidy Up Together 】ぷぎゃりてでお掃除大会🧹【立伝都々視点/先](https://www.youtube.com/watch?v=41rSaezN2Bk) | 224 | 114 | 50.9% | 0 | 0 |
 
 ## 集計できなかった配信
 

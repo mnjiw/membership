@@ -129,7 +129,7 @@
 | 2026-10-03 12:45 | 配信 | [【 Deadlock 】　新キャラRatKingきた！！！タンクっぽい【にじさん](https://www.youtube.com/watch?v=pKXWc95zKf4) | 454 | 376 | 82.8% | 4 | 5 |
 | 2026-10-05 20:00 | 配信 | [【 タンポポは耐える。 】じゃあ、これも耐えれる？【にじさんじ/風楽奏斗】](https://www.youtube.com/watch?v=FAstME8aknc) | 655 | 522 | 79.7% | 0 | 0 |
 | 2026-10-07 17:00 | 配信 | [【 Deadlock 】　もう新キャラがきたよぉ、お茶でも飲むかい？【にじさんじ](https://www.youtube.com/watch?v=PagYMzlTeYo) | 389 | 314 | 80.7% | 1 | 0 |
-| 2026-10-09 00:00 | 配信 | [【雑談】 ﾈﾐ男の稀の雑【にじさんじ/風楽奏斗】](https://www.youtube.com/watch?v=tLn-n05tVJc) | 863 | 664 | 76.9% | 3 | 0 |
+| 2026-10-09 22:00 | 配信 | [【雑談】 ﾈﾐ男の稀の雑【にじさんじ/風楽奏斗】](https://www.youtube.com/watch?v=tLn-n05tVJc) | 863 | 664 | 76.9% | 3 | 0 |
 
 ## 集計できなかった配信
 

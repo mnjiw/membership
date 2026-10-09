@@ -134,8 +134,8 @@
 | 2026-10-06 21:03 | 配信 | [【Zatsu】Talking to you at Home in 3D!【NIJ](https://www.youtube.com/watch?v=kub1-Z9x--o) | 178 | 94 | 52.8% | 0 | 0 |
 | 2026-10-07 13:02 | 配信 | [【BOMBANANA!】Diffusing the Bomb sense dep](https://www.youtube.com/watch?v=-HjarDXinJo) | 220 | 94 | 42.7% | 1 | 5 |
 | 2026-10-07 21:00 | 配信 | [【SUSHI BEN VR】Sashimi is good too part 2](https://www.youtube.com/watch?v=YfioJ9KfNOE) | 76 | 53 | 69.7% | 0 | 0 |
-| 2026-10-08 00:00 | 配信 | [【League of Legends】5 stack practice!【NIJ](https://www.youtube.com/watch?v=UFXjdVIPHaU) | 78 | 47 | 60.3% | 0 | 0 |
-| 2026-10-09 00:00 | 配信 | [【The Mound: Omen of Cthulhu】Spooky game ](https://www.youtube.com/watch?v=NRmYj3vkuVQ) | 79 | 42 | 53.2% | 0 | 0 |
+| 2026-10-08 21:31 | 配信 | [【League of Legends】5 stack practice!【NIJ](https://www.youtube.com/watch?v=UFXjdVIPHaU) | 78 | 47 | 60.3% | 0 | 0 |
+| 2026-10-09 10:01 | 配信 | [【The Mound: Omen of Cthulhu】Spooky game ](https://www.youtube.com/watch?v=NRmYj3vkuVQ) | 79 | 42 | 53.2% | 0 | 0 |
 
 ## 集計できなかった配信
 

@@ -128,7 +128,7 @@
 | 2026-10-01 20:01 | 配信 | [【 UNSEASONABLE FLOWERING 狂い咲き  】 WE HAVE](https://www.youtube.com/watch?v=JU-9BWzeBns) | 303 | 179 | 59.1% | 0 | 26 |
 | 2026-10-03 20:00 | 配信 | [【 SILENT HILL: TOWNFALL #1 】 SOMETHING'S](https://www.youtube.com/watch?v=YIUwr8oZlXs) | 214 | 148 | 69.2% | 1 | 35 |
 | 2026-10-06 21:01 | 配信 | [【 SILENT HILL: TOWNFALL #2 】 IT'S TIME T](https://www.youtube.com/watch?v=tL_jK6Jyq-Y) | 297 | 146 | 49.2% | 0 | 17 |
-| 2026-10-08 00:00 | 配信 | [【 DRINKING... BUT DIFFERENT?  】 making s](https://www.youtube.com/watch?v=hdpigBkTnOA) | 307 | 196 | 63.8% | 1 | 35 |
+| 2026-10-08 20:02 | 配信 | [【 DRINKING... BUT DIFFERENT?  】 making s](https://www.youtube.com/watch?v=hdpigBkTnOA) | 307 | 196 | 63.8% | 1 | 35 |
 
 ## 集計できなかった配信
 

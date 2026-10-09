@@ -16,7 +16,7 @@
 
 チャットで見つかったレベル名: （見つかりませんでした）
 
-> 料金が未設定のため、収益は計算していません。`/home/runner/work/membership/membership/data/UCijNnZ-6m8g85UGaRAWuw7g/tiers.json` に各レベルの月額（税込）を書き込んで再実行してください。
+> 料金が未設定のため、収益は計算していません。`data\UCijNnZ-6m8g85UGaRAWuw7g\tiers.json` に各レベルの月額（税込）を書き込んで再実行してください。
 
 ## バッジ（継続期間）の分布
 

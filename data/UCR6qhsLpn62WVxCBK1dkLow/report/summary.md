@@ -127,7 +127,7 @@
 | 2026-09-28 11:01 | 配信 | [【Dressmaker PT1】Balencienna 🪡✨【NIJISANJI](https://www.youtube.com/watch?v=rnmASYLuWgA) | 334 | 91 | 27.2% | 1 | 11 |
 | 2026-09-28 22:05 | 配信 | [SEKIRO: SHADOWS DIE TWICE ｜ 隻狼 (ᴘᴀʀᴛ ᴠ)【](https://www.youtube.com/watch?v=S5wWpRMzUTY) | 291 | 88 | 30.2% | 0 | 7 |
 | 2026-10-04 10:36 | 配信 | [【BALDUR'S GATE 3 (PART IV)】w/ Wilson, Mi](https://www.youtube.com/watch?v=xYWMmfZ_mc4) | 186 | 71 | 38.2% | 0 | 0 |
-| 2026-10-08 00:00 | 配信 | [【BALDUR'S GATE 3 (PART V)】w/ Wilson, Mil](https://www.youtube.com/watch?v=UoHKwVyfV6w) | 179 | 77 | 43.0% | 0 | 0 |
+| 2026-10-08 10:15 | 配信 | [【BALDUR'S GATE 3 (PART V)】w/ Wilson, Mil](https://www.youtube.com/watch?v=UoHKwVyfV6w) | 179 | 77 | 43.0% | 0 | 0 |
 
 ## 集計できなかった配信
 

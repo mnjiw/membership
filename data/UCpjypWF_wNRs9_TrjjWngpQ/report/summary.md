@@ -121,7 +121,7 @@
 | 2026-10-05 18:59 | 配信 | [【歌枠】肌寒くなってきたから不穏が似合う【渚トラウト/にじさんじ】](https://www.youtube.com/watch?v=lVmbvMIw6kg) | 1,163 | 435 | 37.4% | 2 | 2 |
 | 2026-10-05 20:00 | プレミア | [分かっちゃいないね/monet　Covered by 渚トラウト](https://www.youtube.com/watch?v=W4DdmMu9GBQ) | 332 | 143 | 43.1% | 1 | 1 |
 | 2026-10-06 19:00 | 配信 | [【タンポポは耐える】雨ト気圧ニ負ケル【渚トラウト/にじさんじ】](https://www.youtube.com/watch?v=XqtKJ5GrBKw) | 460 | 224 | 48.7% | 1 | 1 |
-| 2026-10-09 00:00 | 配信 | [【Minecraft】振り返りつつゆるマイクラしよう【渚トラウト/にじさんじ】](https://www.youtube.com/watch?v=_V15Nb0MhJk) | 398 | 225 | 56.5% | 2 | 0 |
+| 2026-10-09 22:31 | 配信 | [【Minecraft】振り返りつつゆるマイクラしよう【渚トラウト/にじさんじ】](https://www.youtube.com/watch?v=_V15Nb0MhJk) | 398 | 225 | 56.5% | 2 | 0 |
 
 ## 出力ファイル
 

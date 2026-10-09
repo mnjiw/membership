@@ -122,7 +122,7 @@
 | 2026-09-30 00:06 | 配信 | [【 Alchemy Factory 】錬金術で億万長者に⁉ 天職かぁ? 【 にじ](https://www.youtube.com/watch?v=KaEbpn0SA-o) | 232 | 80 | 34.5% | 0 | 0 |
 | 2026-10-03 00:03 | 配信 | [【 Steamセール 】オータムセールで爆買いします！【 にじさんじ / 夜見れ](https://www.youtube.com/watch?v=QWgbJ7iRGSs) | 514 | 107 | 20.8% | 0 | 0 |
 | 2026-10-07 00:01 | 配信 | [【 Superliminal 】遠近法を理解して天才になる！【 にじさんじ / ](https://www.youtube.com/watch?v=wJFjQLWoG80) | 305 | 93 | 30.5% | 0 | 0 |
-| 2026-10-09 00:00 | 配信 | [【 雑談 】10月号！ 信じられませんが10月なんですよ【 にじさんじ / 夜見](https://www.youtube.com/watch?v=JCVMeeUavt0) | 296 | 117 | 39.5% | 1 | 0 |
+| 2026-10-10 00:04 | 配信 | [【 雑談 】10月号！ 信じられませんが10月なんですよ【 にじさんじ / 夜見](https://www.youtube.com/watch?v=JCVMeeUavt0) | 296 | 117 | 39.5% | 1 | 0 |
 
 ## 集計できなかった配信
 

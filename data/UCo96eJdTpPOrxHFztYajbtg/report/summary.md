@@ -118,7 +118,7 @@
 | 2026-10-04 21:31 | 配信 | [【 雑談 】ダイナミック体調不良からの復活ですよ～！【 篠宮ゆの / すぷれあ ](https://www.youtube.com/watch?v=aQmp_QeclDI) | 249 | 159 | 63.9% | 3 | 0 |
 | 2026-10-05 23:32 | 配信 | [【 スプラトゥーン3 】みゃみゃずでスプラしていきみゃっす【 篠宮ゆの / すぷ](https://www.youtube.com/watch?v=qoU0SKsbDOk) | 97 | 69 | 71.1% | 0 | 0 |
 | 2026-10-06 23:36 | 配信 | [【 スプラトゥーン3 】やっぱり、相棒(わかばシューター)がいいな【 篠宮ゆの ](https://www.youtube.com/watch?v=7Wy8m9paZj0) | 133 | 84 | 63.2% | 0 | 0 |
-| 2026-10-09 00:00 | 配信 | [【 Japanese Ramen Simulator 】あ、すみません、替え玉く](https://www.youtube.com/watch?v=Hfoev7W1RU4) | 84 | 68 | 81.0% | 1 | 0 |
+| 2026-10-09 22:02 | 配信 | [【 Japanese Ramen Simulator 】あ、すみません、替え玉く](https://www.youtube.com/watch?v=Hfoev7W1RU4) | 84 | 68 | 81.0% | 1 | 0 |
 
 ## 集計できなかった配信
 

@@ -106,7 +106,7 @@
 | 2026-09-27 20:05 | 配信 | [【BOMBANANA!】絶対に生き残りたいトリガーくん【剣持視点】](https://www.youtube.com/watch?v=cTVK52uAuQM) | 2,463 | 1,049 | 42.6% | 1 | 0 |
 | 2026-10-03 00:03 | 配信 | [剣持刀也ですよ](https://www.youtube.com/watch?v=wdmnx35sD7A) | 3,220 | 1,405 | 43.6% | 0 | 0 |
 | 2026-10-03 21:00 | プレミア | [砂の惑星／covered by 剣持刀也](https://www.youtube.com/watch?v=7WS6VioF78w) | 1,224 | 467 | 38.2% | 0 | 0 |
-| 2026-10-08 00:00 | 配信 | [【めでたい】剣持刀也です【とうやの日】](https://www.youtube.com/watch?v=aJ-3c8ZFn5s) | 3,340 | 1,405 | 42.1% | 4 | 0 |
+| 2026-10-09 00:03 | 配信 | [【めでたい】剣持刀也です【とうやの日】](https://www.youtube.com/watch?v=aJ-3c8ZFn5s) | 3,340 | 1,405 | 42.1% | 4 | 0 |
 
 ## 出力ファイル
 

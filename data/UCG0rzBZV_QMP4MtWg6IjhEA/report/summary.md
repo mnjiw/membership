@@ -115,7 +115,7 @@
 | 2026-09-25 12:05 | 配信 | [Valorant 5 stacks (shu yamino nijisanji ](https://www.youtube.com/watch?v=7tyuoe-00VY) | 388 | 172 | 44.3% | 0 | 0 |
 | 2026-09-30 00:08 | 配信 | [League of Legends (shu yamino njisanji e](https://www.youtube.com/watch?v=LTOmuig-sEg) | 353 | 177 | 50.1% | 1 | 10 |
 | 2026-09-30 10:06 | 配信 | [BOMBANANA! - hello wilsoneer oomfs, this](https://www.youtube.com/watch?v=kZYs-AGcEqE) | 412 | 195 | 47.3% | 0 | 0 |
-| 2026-10-09 00:00 | 配信 | [【第１２回】セイブル襲来！日本在住ライバーのあれやこれやも深堀り！？【にじENラ](https://www.youtube.com/watch?v=VZqEnCUuc98) | 530 | 181 | 34.2% | 0 | 0 |
+| 2026-10-09 19:00 | 配信 | [【第１２回】セイブル襲来！日本在住ライバーのあれやこれやも深堀り！？【にじENラ](https://www.youtube.com/watch?v=VZqEnCUuc98) | 530 | 181 | 34.2% | 0 | 0 |
 
 ## 出力ファイル
 

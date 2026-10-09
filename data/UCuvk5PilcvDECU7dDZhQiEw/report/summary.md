@@ -123,7 +123,7 @@
 | 2026-10-02 13:00 | 配信 | [#2 Part3から【SILENT HILL: Townfall】不条理を赦して](https://www.youtube.com/watch?v=tt4Kiotm7q0) | 73 | 36 | 49.3% | 1 | 0 |
 | 2026-10-06 22:02 | 配信 | [夏の終わり。みんないつもありがとう＿＿＿💜【白雪巴/にじさんじ】](https://www.youtube.com/watch?v=w3CKl6iEV38) | 198 | 111 | 56.1% | 0 | 0 |
 | 2026-10-08 00:02 | 配信 | [#3 Part4から【SILENT HILL: Townfall】ステルスが下手](https://www.youtube.com/watch?v=t64Vh53Ql2o) | 64 | 42 | 65.6% | 0 | 0 |
-| 2026-10-09 00:00 | 配信 | [#4 最終回【SILENT HILL: Townfall】ステルスが下手すぎるお](https://www.youtube.com/watch?v=vrs2Zoz0PIc) | 75 | 36 | 48.0% | 0 | 0 |
+| 2026-10-09 14:01 | 配信 | [#4 最終回【SILENT HILL: Townfall】ステルスが下手すぎるお](https://www.youtube.com/watch?v=vrs2Zoz0PIc) | 75 | 36 | 48.0% | 0 | 0 |
 
 ## 集計できなかった配信
 

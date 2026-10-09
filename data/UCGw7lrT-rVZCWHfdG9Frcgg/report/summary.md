@@ -133,7 +133,7 @@
 | 2026-09-28 09:35 | 配信 | [⋙ Geoguessr ⋮❙⋮ ひさびさに街ぶら雑談 ⋮❙⋮ 弦月藤士郎 / に](https://www.youtube.com/watch?v=qVwDfmGkS7g) | 132 | 83 | 62.9% | 0 | 0 |
 | 2026-10-01 19:02 | 配信 | [⋙ カラオケ ⋮❙⋮ #ボカれる夜 #1 ⋮❙⋮ 弦月藤士郎 / 健屋花那 / ](https://www.youtube.com/watch?v=vUBKhzZWXx0) | 385 | 160 | 41.6% | 0 | 10 |
 | 2026-10-03 21:57 | 配信 | [⋙#マイクラ肝試し2026 ⋮❙⋮  VΔLZで探検するぞ！ ⋮❙⋮ 弦月藤士郎](https://www.youtube.com/watch?v=iXu1QXwHdfg) | 224 | 164 | 73.2% | 1 | 0 |
-| 2026-10-08 00:00 | 配信 | [⋙ Overwatch ⋮❙⋮ 最高なカスタムは新シーズンです ⋮❙⋮ 弦月藤士](https://www.youtube.com/watch?v=et72yzUO9mY) | 110 | 87 | 79.1% | 0 | 0 |
+| 2026-10-08 20:05 | 配信 | [⋙ Overwatch ⋮❙⋮ 最高なカスタムは新シーズンです ⋮❙⋮ 弦月藤士](https://www.youtube.com/watch?v=et72yzUO9mY) | 110 | 87 | 79.1% | 0 | 0 |
 
 ## 集計できなかった配信
 

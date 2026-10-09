@@ -121,8 +121,8 @@
 | 2026-10-01 20:31 | 配信 | [【パラノマサイト FILE23 本所七不思議】#5 運命が交わったり交わらなかっ](https://www.youtube.com/watch?v=DcrXh0sO7Dw) | 234 | 104 | 44.4% | 0 | 0 |
 | 2026-10-02 22:02 | 配信 | [【#マイクラ肝試し2026】ここが……マイクラ肝試し！？【一橋綾人/にじさんじ】](https://www.youtube.com/watch?v=Ag96qrtDYs0) | 152 | 88 | 57.9% | 0 | 0 |
 | 2026-10-04 19:01 | 配信 | [【The Elder Scrolls V: Skyrim】#11 ありがとう、闇](https://www.youtube.com/watch?v=P6Shuk1Aiv8) | 155 | 69 | 44.5% | 0 | 0 |
-| 2026-10-08 00:00 | 配信 | [【パラノマサイト FILE23 本所七不思議】#7 次なる運命の流れは……？　※](https://www.youtube.com/watch?v=TzCIWFw8NnI) | 262 | 106 | 40.5% | 0 | 0 |
-| 2026-10-09 00:00 | 配信 | [【 Japanese Ramen Simulator 】颯爽開店 すぷれあ＆えり](https://www.youtube.com/watch?v=xiw5j7ZfFX4) | 275 | 105 | 38.2% | 0 | 0 |
+| 2026-10-08 20:01 | 配信 | [【パラノマサイト FILE23 本所七不思議】#7 次なる運命の流れは……？　※](https://www.youtube.com/watch?v=TzCIWFw8NnI) | 262 | 106 | 40.5% | 0 | 0 |
+| 2026-10-09 22:02 | 配信 | [【 Japanese Ramen Simulator 】颯爽開店 すぷれあ＆えり](https://www.youtube.com/watch?v=xiw5j7ZfFX4) | 275 | 105 | 38.2% | 0 | 0 |
 
 ## 出力ファイル
 

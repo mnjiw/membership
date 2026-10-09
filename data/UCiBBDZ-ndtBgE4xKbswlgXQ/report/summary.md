@@ -127,7 +127,7 @@
 | 2026-10-04 20:12 | 配信 | [#マイクラ肝試し2026 最終日！戦艦島謎解きなど遊び尽くす！【にじさんじ / ](https://www.youtube.com/watch?v=1ND8c1rMwyI) | 198 | 118 | 59.6% | 1 | 0 |
 | 2026-10-06 21:01 | 配信 | [私服に5,000円以上かけないエリートでも麗しきドレスはお仕立てできる！『Dre](https://www.youtube.com/watch?v=oMq-zotGRN0) | 329 | 170 | 51.7% | 1 | 1 |
 | 2026-10-07 19:00 | 配信 | [【雑談】浮気のラインを考えだしたら浮気なのでは…？他｜早帰り水曜日261007【](https://www.youtube.com/watch?v=9_S9Z6ZMrSo) | 383 | 191 | 49.9% | 0 | 6 |
-| 2026-10-09 00:00 | 配信 | [【Japanese Ramen Simulator】スープが温まった日 w/すぷ](https://www.youtube.com/watch?v=P171UojtPsI) | 153 | 119 | 77.8% | 0 | 0 |
+| 2026-10-09 22:04 | 配信 | [【Japanese Ramen Simulator】スープが温まった日 w/すぷ](https://www.youtube.com/watch?v=P171UojtPsI) | 153 | 119 | 77.8% | 0 | 0 |
 
 ## 集計できなかった配信
 

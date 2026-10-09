@@ -130,7 +130,7 @@
 | 2026-10-05 23:00 | 配信 | [【ドンキーコングGB版！３】SFCより難しい？！ゲームボーイ版！あそぼおおおおお](https://www.youtube.com/watch?v=kxz13EAONyc) | 468 | 218 | 46.6% | 0 | 0 |
 | 2026-10-07 00:00 | 配信 | [【ドンキーコングGB版！３】クリアまで！！SFCより難しい？！ゲームボーイ版！あ](https://www.youtube.com/watch?v=Dh3YDLDbMTk) | 306 | 170 | 55.6% | 0 | 2 |
 | 2026-10-07 23:32 | 配信 | [【デュエプレ】新弾ッ！！！！パック剥き＆デッキ作ってみよおおお！！やるる・・・ッ](https://www.youtube.com/watch?v=t0VWMtHl908) | 686 | 200 | 29.2% | 0 | 1 |
-| 2026-10-09 00:00 | 配信 | [【Japanese Ramen Simulator】祝！開店！深夜にらああめんは](https://www.youtube.com/watch?v=yrG1gYtE4bo) | 896 | 279 | 31.1% | 0 | 1 |
+| 2026-10-09 23:32 | 配信 | [【Japanese Ramen Simulator】祝！開店！深夜にらああめんは](https://www.youtube.com/watch?v=yrG1gYtE4bo) | 896 | 279 | 31.1% | 0 | 1 |
 
 ## 集計できなかった配信
 

@@ -145,8 +145,8 @@
 | 2026-10-05 02:42 | 配信 | [⚗️05 ｜ 錬金術で儲けてみましょう ｜ AlchemyFactory【静凛/](https://www.youtube.com/watch?v=vNY5NjMSFV4) | 103 | 45 | 43.7% | 0 | 0 |
 | 2026-10-05 20:59 | 配信 | [🎣 ｜ みんなでお金を稼がないといけないらしい❗️ ｜ わちゃサバ【静凛/にじさ](https://www.youtube.com/watch?v=I7sHC7rN9v0) | 114 | 75 | 65.8% | 0 | 0 |
 | 2026-10-06 20:06 | 配信 | [🎣02 ｜ みんなでお金を稼がないといけないらしい❗️ ｜ わちゃサバ【静凛/に](https://www.youtube.com/watch?v=UTHwjjcHoKM) | 127 | 69 | 54.3% | 0 | 0 |
-| 2026-10-07 00:00 | 配信 | [🚀 ｜ 宇宙探検隊 ｜ No Man's Sky【静凛/にじさんじ】](https://www.youtube.com/watch?v=C9HmvFjdt0U) | 267 | 100 | 37.5% | 0 | 0 |
-| 2026-10-08 00:00 | 配信 | [🚀02 ｜ 宇宙探検隊 ｜ No Man's Sky【静凛/にじさんじ】](https://www.youtube.com/watch?v=z9S8tElDSs4) | 222 | 84 | 37.8% | 1 | 0 |
+| 2026-10-07 22:30 | 配信 | [🚀 ｜ 宇宙探検隊 ｜ No Man's Sky【静凛/にじさんじ】](https://www.youtube.com/watch?v=C9HmvFjdt0U) | 267 | 100 | 37.5% | 0 | 0 |
+| 2026-10-08 23:05 | 配信 | [🚀02 ｜ 宇宙探検隊 ｜ No Man's Sky【静凛/にじさんじ】](https://www.youtube.com/watch?v=z9S8tElDSs4) | 222 | 84 | 37.8% | 1 | 0 |
 
 ## 集計できなかった配信
 

@@ -140,9 +140,9 @@
 | 2026-10-05 08:36 | 配信 | [【WH40K MINI】 HALFWAY DONE! Which variant](https://www.youtube.com/watch?v=_ZuOrvW8mnE) | 93 | 66 | 71.0% | 0 | 16 |
 | 2026-10-06 08:44 | 配信 | [【STEAM AUTUMN SALE】 TIME TO ADD TO THE B](https://www.youtube.com/watch?v=a2ufbHu2KDA) | 200 | 79 | 39.5% | 0 | 2 |
 | 2026-10-07 08:34 | 配信 | [【ESOTERIC EBB】 LEAKING GOVERNMENT SECRET](https://www.youtube.com/watch?v=qfnGxPk31-E) | 58 | 39 | 67.2% | 0 | 2 |
-| 2026-10-08 00:00 | 配信 | [AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://www.youtube.com/watch?v=cMsRXDs4Lsw) | 119 | 58 | 48.7% | 0 | 0 |
-| 2026-10-08 00:00 | 配信 | [【ASMR】 sit on my lap and get pampered~! ](https://www.youtube.com/watch?v=RJAH6MAaOGU) | 112 | 53 | 47.3% | 0 | 1 |
-| 2026-10-09 00:00 | 配信 | [【WOLFENSTEIN: THE NEW ORDER】 FIRST TIME ](https://www.youtube.com/watch?v=U3S7QabFceA) | 147 | 50 | 34.0% | 0 | 0 |
+| 2026-10-08 08:37 | 配信 | [【ASMR】 sit on my lap and get pampered~! ](https://www.youtube.com/watch?v=RJAH6MAaOGU) | 112 | 53 | 47.3% | 0 | 1 |
+| 2026-10-08 11:24 | 配信 | [AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://www.youtube.com/watch?v=cMsRXDs4Lsw) | 119 | 58 | 48.7% | 0 | 0 |
+| 2026-10-09 10:32 | 配信 | [【WOLFENSTEIN: THE NEW ORDER】 FIRST TIME ](https://www.youtube.com/watch?v=U3S7QabFceA) | 147 | 50 | 34.0% | 0 | 0 |
 
 ## 集計できなかった配信
 

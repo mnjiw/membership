@@ -130,7 +130,7 @@
 | 2026-10-02 18:03 | 配信 | [【WUWA&Work】25-15 Wuwa & Work Pomodoro! S](https://www.youtube.com/watch?v=IjqpM0YSDnk) | 118 | 81 | 68.6% | 0 | 0 |
 | 2026-10-03 14:09 | 配信 | [[#SEIDAY2026] Loudly Judging my Friends!](https://www.youtube.com/watch?v=fsKGI5yBYtY) | 849 | 228 | 26.9% | 0 | 101 |
 | 2026-10-03 20:44 | 配信 | [【#SEIDAY2026】The little things that matt](https://www.youtube.com/watch?v=RrjPtmb4qXk) | 1,408 | 234 | 16.6% | 2 | 0 |
-| 2026-10-08 00:00 | 配信 | [【Dressmaker】Boo! Back from Receptions! -](https://www.youtube.com/watch?v=_-NZEfV5y48) | 261 | 134 | 51.3% | 0 | 5 |
+| 2026-10-08 12:15 | 配信 | [【Dressmaker】Boo! Back from Receptions! -](https://www.youtube.com/watch?v=_-NZEfV5y48) | 261 | 134 | 51.3% | 0 | 5 |
 
 ## 集計できなかった配信
 

@@ -125,7 +125,7 @@
 | 2026-10-05 22:30 | 配信 | [【雑談】定期的にやってくる奴【にじさんじ/渋谷ハジメ】](https://www.youtube.com/watch?v=2yn9eruznHk) | 56 | 28 | 50.0% | 0 | 0 |
 | 2026-10-06 22:22 | 配信 | [【LoL】ひっそりこっそりろる【にじさんじ/渋谷ハジメ】](https://www.youtube.com/watch?v=wfIB0G7Z-qU) | 26 | 15 | 57.7% | 0 | 0 |
 | 2026-10-07 20:02 | 配信 | [【トルネコの大冒険リマスター】ちょっとステキな冒険の巻物　その４【にじさんじ/渋](https://www.youtube.com/watch?v=kHqBGHAYVtA) | 45 | 22 | 48.9% | 0 | 0 |
-| 2026-10-08 00:00 | 配信 | [【Everything is Crab 】カニさん【にじさんじ/渋谷ハジメ】](https://www.youtube.com/watch?v=t4fSvqy3cE8) | 54 | 26 | 48.1% | 0 | 0 |
+| 2026-10-08 18:15 | 配信 | [【Everything is Crab 】カニさん【にじさんじ/渋谷ハジメ】](https://www.youtube.com/watch?v=t4fSvqy3cE8) | 54 | 26 | 48.1% | 0 | 0 |
 
 ## 出力ファイル
 

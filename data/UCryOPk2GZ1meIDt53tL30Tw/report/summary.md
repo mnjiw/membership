@@ -104,7 +104,7 @@
 | 2026-09-23 00:04 | 配信 | [【Binaural/黒3Dio】本気で眠りたい人のためのじっくりアロマオイルマッ](https://www.youtube.com/watch?v=Hdjl9DQGqIs) | 187 | 75 | 40.1% | 1 | 0 |
 | 2026-09-30 00:05 | 配信 | [🛑【Binaural】ひそひそお喋り＆文玩胡桃 2026.9.30【にじさんじ/](https://www.youtube.com/watch?v=D3cMXNoKNDo) | 140 | 72 | 51.4% | 0 | 0 |
 | 2026-10-07 00:04 | 配信 | [🛑【Binaural/黒3Dio】本気で眠りたい人のためのじっくりアロマオイルマ](https://www.youtube.com/watch?v=WyJLKoed0Xs) | 181 | 69 | 38.1% | 0 | 0 |
-| 2026-10-08 00:00 | 配信 | [【妹に運転を教える】勝お兄ちゃんに任せなさい【鈴木勝/にじさんじ】](https://www.youtube.com/watch?v=-iDSlPJ0_qM) | 132 | 91 | 68.9% | 0 | 0 |
+| 2026-10-08 22:00 | 配信 | [【妹に運転を教える】勝お兄ちゃんに任せなさい【鈴木勝/にじさんじ】](https://www.youtube.com/watch?v=-iDSlPJ0_qM) | 132 | 91 | 68.9% | 0 | 0 |
 
 ## 集計できなかった配信
 

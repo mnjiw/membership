@@ -118,7 +118,7 @@
 | 2026-09-30 10:03 | 配信 | [【BOMBANANA】 wilsoneer moment 🙈🙉🙊 【NIJISA](https://www.youtube.com/watch?v=LLKlPxMCH3o) | 708 | 347 | 49.0% | 1 | 0 |
 | 2026-10-01 10:04 | 配信 | [【NO MORE ROOM IN HELL 2】 at the end of t](https://www.youtube.com/watch?v=KrLnGLS-o5w) | 372 | 209 | 56.2% | 0 | 0 |
 | 2026-10-02 21:58 | 配信 | ["final day" BTS with @Miyolophone 【NIJIS](https://www.youtube.com/watch?v=I-vn-tFsxHo) | 719 | 364 | 50.6% | 0 | 0 |
-| 2026-10-08 00:00 | 配信 | [the guerilla where he was a computer vir](https://www.youtube.com/watch?v=p5L0vgyv_4Y) | 878 | 365 | 41.6% | 1 | 28 |
+| 2026-10-08 19:59 | 配信 | [the guerilla where he was a computer vir](https://www.youtube.com/watch?v=p5L0vgyv_4Y) | 878 | 365 | 41.6% | 1 | 28 |
 
 ## 集計できなかった配信
 

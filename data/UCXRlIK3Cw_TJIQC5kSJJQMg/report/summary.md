@@ -120,7 +120,7 @@
 | 2026-10-05 07:00 | 配信 | [【朝雑談】お仕事いくまえにちょっくらみんなと話すわ【戌亥とこ/にじさんじ】](https://www.youtube.com/watch?v=_MijMtT8yIw) | 1,474 | 583 | 39.6% | 7 | 0 |
 | 2026-10-06 23:36 | 配信 | [【#戌亥とこ_Oneday 】10/7発売！の瞬間までみんなと喋ってようね～【戌](https://www.youtube.com/watch?v=6uVQdB0qCRA) | 781 | 517 | 66.2% | 3 | 0 |
 | 2026-10-07 18:59 | 配信 | [【歌枠】2nd Mini Album発売記念歌枠！！【戌亥とこ/にじさんじ】](https://www.youtube.com/watch?v=lnGKYBESlog) | 1,106 | 660 | 59.7% | 9 | 0 |
-| 2026-10-08 00:00 | 配信 | [【Megastore: Tidy Up Together】わたしは片付けるから！](https://www.youtube.com/watch?v=6ak2FL1APCE) | 979 | 397 | 40.6% | 4 | 0 |
+| 2026-10-08 23:00 | 配信 | [【Megastore: Tidy Up Together】わたしは片付けるから！](https://www.youtube.com/watch?v=6ak2FL1APCE) | 979 | 397 | 40.6% | 4 | 0 |
 
 ## 集計できなかった配信
 

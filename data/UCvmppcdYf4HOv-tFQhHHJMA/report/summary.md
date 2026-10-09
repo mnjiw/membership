@@ -16,7 +16,7 @@
 
 チャットで見つかったレベル名: （見つかりませんでした）
 
-> 料金が未設定のため、収益は計算していません。`/home/runner/work/membership/membership/data/UCvmppcdYf4HOv-tFQhHHJMA/tiers.json` に各レベルの月額（税込）を書き込んで再実行してください。
+> 料金が未設定のため、収益は計算していません。`data\UCvmppcdYf4HOv-tFQhHHJMA\tiers.json` に各レベルの月額（税込）を書き込んで再実行してください。
 
 ## 月ごとの推移
 

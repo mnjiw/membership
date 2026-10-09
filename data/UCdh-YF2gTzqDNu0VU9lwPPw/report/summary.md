@@ -128,9 +128,9 @@
 | 2026-10-03 00:05 | 配信 | [Loincloth Of Lateness](https://www.youtube.com/watch?v=oRRpPuDPRQo) | 143 | 90 | 62.9% | 0 | 5 |
 | 2026-10-03 12:54 | 配信 | [【VALORANT】水縹祭 TEAM 2 (here4fun)](https://www.youtube.com/watch?v=fq1W6elZehw) | 221 | 130 | 58.8% | 0 | 0 |
 | 2026-10-05 11:59 | 配信 | [【雑談】slowly being so back](https://www.youtube.com/watch?v=GfW6PRj8ae0) | 332 | 205 | 61.7% | 3 | 26 |
-| 2026-10-08 00:00 | 配信 | [Log of Limbs](https://www.youtube.com/watch?v=S6ND3psj9yQ) | 163 | 81 | 49.7% | 1 | 1 |
-| 2026-10-09 00:00 | 配信 | [beauty and swag will save the world](https://www.youtube.com/watch?v=NVyX6OknQRc) | 131 | 83 | 63.4% | 0 | 0 |
-| 2026-10-09 00:00 | 配信 | [【THE MOUND】KRISISIS V. CTHULHU](https://www.youtube.com/watch?v=J7xkWV947lE) | 182 | 112 | 61.5% | 0 | 1 |
+| 2026-10-08 21:08 | 配信 | [Log of Limbs](https://www.youtube.com/watch?v=S6ND3psj9yQ) | 163 | 81 | 49.7% | 1 | 1 |
+| 2026-10-09 10:09 | 配信 | [【THE MOUND】KRISISIS V. CTHULHU](https://www.youtube.com/watch?v=J7xkWV947lE) | 182 | 112 | 61.5% | 0 | 1 |
+| 2026-10-09 12:27 | 配信 | [beauty and swag will save the world](https://www.youtube.com/watch?v=NVyX6OknQRc) | 131 | 83 | 63.4% | 0 | 0 |
 
 ## 集計できなかった配信
 

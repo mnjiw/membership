@@ -135,9 +135,9 @@
 | 2026-10-05 00:15 | 配信 | [#01【 ACE COMBAT ZERO: THE BELKAN WAR┊︎移植](https://www.youtube.com/watch?v=GqZ6wY6MWag) | 366 | 75 | 20.5% | 0 | 10 |
 | 2026-10-06 00:17 | 配信 | [#02【 ACE COMBAT ZERO: THE BELKAN WAR┊︎移植](https://www.youtube.com/watch?v=aUyUWZn9JSo) | 272 | 72 | 26.5% | 0 | 10 |
 | 2026-10-07 00:16 | 配信 | [【 ACE COMBAT ZERO: THE BELKAN WAR┊︎移植版 】](https://www.youtube.com/watch?v=URmVRN5nk4I) | 179 | 69 | 38.5% | 1 | 10 |
-| 2026-10-08 00:00 | 配信 | [#08【 KINGDOM HEARTS II FINAL MIX 】最強の裏ボス](https://www.youtube.com/watch?v=tYP02X56Vwo) | 405 | 88 | 21.7% | 0 | 10 |
 | 2026-10-08 00:14 | 配信 | [#04【 ACE COMBAT ZERO: THE BELKAN WAR┊︎移植](https://www.youtube.com/watch?v=SXu7Bj667cY) | 166 | 65 | 39.2% | 0 | 10 |
-| 2026-10-09 00:00 | 配信 | [#8.5（END）【 KINGDOM HEARTS II FINAL MIX 】](https://www.youtube.com/watch?v=AlfL7zEy6Dk) | 272 | 77 | 28.3% | 0 | 0 |
+| 2026-10-09 00:09 | 配信 | [#08【 KINGDOM HEARTS II FINAL MIX 】最強の裏ボス](https://www.youtube.com/watch?v=tYP02X56Vwo) | 405 | 88 | 21.7% | 0 | 10 |
+| 2026-10-09 12:08 | 配信 | [#8.5（END）【 KINGDOM HEARTS II FINAL MIX 】](https://www.youtube.com/watch?v=AlfL7zEy6Dk) | 272 | 77 | 28.3% | 0 | 0 |
 
 ## 集計できなかった配信
 

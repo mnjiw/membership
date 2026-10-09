@@ -129,8 +129,8 @@
 | 2026-10-04 10:36 | 配信 | [【BALDUR'S GATE 3】IT'S TAKING OVER ME...【](https://www.youtube.com/watch?v=Birto7zl3dQ) | 168 | 91 | 54.2% | 0 | 0 |
 | 2026-10-05 10:05 | 配信 | [【SILENT HILL: Townfall】LOOKING FOR ANSWE](https://www.youtube.com/watch?v=H6ueg8JWK0U) | 354 | 153 | 43.2% | 1 | 0 |
 | 2026-10-07 13:06 | 配信 | [WE CAN'T SEE, SPEAK, OR HEAR AND HAVE TO](https://www.youtube.com/watch?v=rFAFc76bJRw) | 607 | 220 | 36.2% | 0 | 21 |
-| 2026-10-08 00:00 | 配信 | [【BALDUR'S GATE 3】ARE WE THE GOOD GUYS OR](https://www.youtube.com/watch?v=W-xDrmTfvDY) | 210 | 104 | 49.5% | 0 | 0 |
-| 2026-10-09 00:00 | 配信 | [CAN WE SURVIVE TOGETHER...?【NIJISANJI EN](https://www.youtube.com/watch?v=7wKMtTHe-qM) | 236 | 123 | 52.1% | 0 | 0 |
+| 2026-10-08 10:17 | 配信 | [【BALDUR'S GATE 3】ARE WE THE GOOD GUYS OR](https://www.youtube.com/watch?v=W-xDrmTfvDY) | 210 | 104 | 49.5% | 0 | 0 |
+| 2026-10-09 10:06 | 配信 | [CAN WE SURVIVE TOGETHER...?【NIJISANJI EN](https://www.youtube.com/watch?v=7wKMtTHe-qM) | 236 | 123 | 52.1% | 0 | 0 |
 
 ## 集計できなかった配信
 

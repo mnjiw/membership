@@ -128,8 +128,8 @@
 | 2026-10-03 20:42 | 配信 | [【Apex】CRCUPスクリム day３ w/イブラヒムさん AlphaAzur](https://www.youtube.com/watch?v=HdqUG2srK68) | 712 | 621 | 87.2% | 1 | 0 |
 | 2026-10-04 17:33 | 配信 | [【Apex】CRCUP本番 w/イブラヒムさん AlphaAzurさん コーチ ](https://www.youtube.com/watch?v=wOviTCK9tEc) | 1,118 | 923 | 82.6% | 1 | 0 |
 | 2026-10-07 22:02 | 配信 | [【スプラトゥーン3】伝説の神ゲー【叢雲カゲツ/にじさんじ】](https://www.youtube.com/watch?v=CYfuLVRusKc) | 525 | 435 | 82.9% | 2 | 0 |
-| 2026-10-08 00:00 | 配信 | [【タンポポは耐える】叢雲タンポポ【叢雲カゲツ/にじさんじ】](https://www.youtube.com/watch?v=IhOdELWAu9I) | 618 | 545 | 88.2% | 1 | 0 |
-| 2026-10-09 00:00 | 配信 | [【雑談】いよいよ明日Kアリーナでライブ【叢雲カゲツ/にじさんじ】](https://www.youtube.com/watch?v=0f6yTm-aU0Y) | 1,205 | 939 | 77.9% | 4 | 0 |
+| 2026-10-08 22:05 | 配信 | [【タンポポは耐える】叢雲タンポポ【叢雲カゲツ/にじさんじ】](https://www.youtube.com/watch?v=IhOdELWAu9I) | 618 | 545 | 88.2% | 1 | 0 |
+| 2026-10-09 22:01 | 配信 | [【雑談】いよいよ明日Kアリーナでライブ【叢雲カゲツ/にじさんじ】](https://www.youtube.com/watch?v=0f6yTm-aU0Y) | 1,205 | 939 | 77.9% | 4 | 0 |
 
 ## 集計できなかった配信
 

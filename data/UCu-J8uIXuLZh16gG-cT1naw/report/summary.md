@@ -127,9 +127,9 @@
 | 2026-10-02 10:14 | 配信 | [【Backrooms: Escape Together】 crunchy scr](https://www.youtube.com/watch?v=k9_sI26Ty8M) | 95 | 34 | 35.8% | 0 | 3 |
 | 2026-10-03 10:11 | 配信 | [【REPO】 Experiencing the new game updates](https://www.youtube.com/watch?v=r8p7ygFxjwc) | 72 | 30 | 41.7% | 0 | 4 |
 | 2026-10-06 05:00 | 配信 | [【Urban Myth Dissolution Center】 CEO SHAD](https://www.youtube.com/watch?v=HFdqzr1ZCOY) | 51 | 26 | 51.0% | 0 | 1 |
-| 2026-10-07 00:00 | 配信 | [【FINAL FANTASY XIV】 Fall Guys Event [Col](https://www.youtube.com/watch?v=bSCpfb0JM-0) | 90 | 33 | 36.7% | 0 | 3 |
 | 2026-10-07 05:11 | 配信 | [FOCUS TIME ! 📖 (にじさんじ勉強クラブ NIJI Study Cl](https://www.youtube.com/watch?v=Uar1MYrASCg) | 50 | 27 | 54.0% | 0 | 6 |
-| 2026-10-08 00:00 | 配信 | [【Urban Myth Dissolution Center】 DISSOLUT](https://www.youtube.com/watch?v=uU8nkruxGaw) | 66 | 23 | 34.8% | 0 | 1 |
+| 2026-10-08 05:06 | 配信 | [【FINAL FANTASY XIV】 Fall Guys Event [Col](https://www.youtube.com/watch?v=bSCpfb0JM-0) | 90 | 33 | 36.7% | 0 | 3 |
+| 2026-10-09 05:00 | 配信 | [【Urban Myth Dissolution Center】 DISSOLUT](https://www.youtube.com/watch?v=uU8nkruxGaw) | 66 | 23 | 34.8% | 0 | 1 |
 
 ## 集計できなかった配信
 

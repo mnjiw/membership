@@ -132,8 +132,8 @@
 | 2026-10-03 10:11 | 配信 | [【R.E.P.O.】no ramen for us 😔](https://www.youtube.com/watch?v=ox52wjpRajM) | 155 | 79 | 51.0% | 0 | 1 |
 | 2026-10-03 14:11 | 配信 | [【GUILTY AS SOCK!】sockjection on your bda](https://www.youtube.com/watch?v=o-1QySq4g-4) | 142 | 78 | 54.9% | 0 | 0 |
 | 2026-10-06 13:01 | 配信 | [【PHOTOMALY】smile for the camera 📸🙂](https://www.youtube.com/watch?v=ET_i6Fk3QIQ) | 231 | 83 | 35.9% | 0 | 2 |
-| 2026-10-08 00:00 | 配信 | [【LEAGUE OF LEGENDS】before-midnight clash](https://www.youtube.com/watch?v=MIRthbZK1mQ) | 105 | 54 | 51.4% | 0 | 0 |
-| 2026-10-08 00:00 | 配信 | [【​​DRESSMAKER】so you think this has noth](https://www.youtube.com/watch?v=T3mmiH68_m0) | 220 | 81 | 36.8% | 0 | 7 |
+| 2026-10-08 14:30 | 配信 | [【​​DRESSMAKER】so you think this has noth](https://www.youtube.com/watch?v=T3mmiH68_m0) | 220 | 81 | 36.8% | 0 | 7 |
+| 2026-10-08 21:09 | 配信 | [【LEAGUE OF LEGENDS】before-midnight clash](https://www.youtube.com/watch?v=MIRthbZK1mQ) | 105 | 54 | 51.4% | 0 | 0 |
 
 ## 出力ファイル
 

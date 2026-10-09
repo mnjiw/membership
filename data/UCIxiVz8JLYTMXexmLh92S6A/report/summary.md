@@ -124,8 +124,8 @@
 | 2026-10-04 19:00 | 配信 | [【Kawaii女子会】初のゲスト回❣ベリー先輩をお呼びしてのどきどきkawaii](https://www.youtube.com/watch?v=VT7WumAbImA) | 207 | 49 | 23.7% | 2 | 0 |
 | 2026-10-06 19:00 | 配信 | [【Trees Hate You】木に嫌われてる鬼畜ゲー？ぷりんが木になにしたって](https://www.youtube.com/watch?v=b3Fp55ezwN0) | 89 | 36 | 40.4% | 0 | 0 |
 | 2026-10-07 08:01 | 配信 | [【朝活】おでかけまえのもぐもぐたいむ🎀🍮💌【ぷりん・らら・もーど / にじさんじ](https://www.youtube.com/watch?v=UvFdPxpJOVE) | 108 | 45 | 41.7% | 0 | 0 |
-| 2026-10-08 00:00 | 配信 | [【Overwatch】タンク🛡くんと仲良くなる日🍮💌【ぷりん・らら・もーど / ](https://www.youtube.com/watch?v=7ZHHn24KZ8Q) | 73 | 24 | 32.9% | 0 | 0 |
-| 2026-10-09 00:00 | 配信 | [【Kawaii女子会】緊急kawaii女子会🧸あなたの浮気はどこから？ぷりんはこ](https://www.youtube.com/watch?v=6te6pDWuP0w) | 103 | 36 | 35.0% | 0 | 0 |
+| 2026-10-08 23:05 | 配信 | [【Overwatch】タンク🛡くんと仲良くなる日🍮💌【ぷりん・らら・もーど / ](https://www.youtube.com/watch?v=7ZHHn24KZ8Q) | 73 | 24 | 32.9% | 0 | 0 |
+| 2026-10-09 20:01 | 配信 | [【Kawaii女子会】緊急kawaii女子会🧸あなたの浮気はどこから？ぷりんはこ](https://www.youtube.com/watch?v=6te6pDWuP0w) | 103 | 36 | 35.0% | 0 | 0 |
 
 ## 集計できなかった配信
 

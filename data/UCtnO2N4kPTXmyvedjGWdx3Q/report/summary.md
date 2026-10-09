@@ -127,8 +127,8 @@
 | 2026-10-03 21:11 | 配信 | [#10【大逆転裁判】いよいよ第5話‼「語られない物語の冒險」【にじさんじ/レヴィ](https://www.youtube.com/watch?v=P4aRh1UjyJU) | 66 | 24 | 36.4% | 0 | 0 |
 | 2026-10-06 13:18 | 配信 | [#9【JUDGE EYES：死神の遺言 Remastered】ストーリーすすめま](https://www.youtube.com/watch?v=FSDWuiySKRc) | 79 | 22 | 27.8% | 0 | 0 |
 | 2026-10-07 12:04 | 配信 | [#10【JUDGE EYES：死神の遺言 Remastered】ストーリーも終盤](https://www.youtube.com/watch?v=lLvjqYhLy5M) | 75 | 22 | 29.3% | 0 | 0 |
-| 2026-10-08 00:00 | 配信 | [#11【大逆転裁判】第5話‼「語られない物語の冒險」まだまだ情報がほしイ・・・【](https://www.youtube.com/watch?v=QFZWONHDPDc) | 54 | 21 | 38.9% | 0 | 0 |
-| 2026-10-09 00:00 | 配信 | [#11【JUDGE EYES：死神の遺言 Remastered】ストーリーも終盤](https://www.youtube.com/watch?v=2bT7xM9ppi0) | 40 | 11 | 27.5% | 0 | 0 |
+| 2026-10-08 22:03 | 配信 | [#11【大逆転裁判】第5話‼「語られない物語の冒險」まだまだ情報がほしイ・・・【](https://www.youtube.com/watch?v=QFZWONHDPDc) | 54 | 21 | 38.9% | 0 | 0 |
+| 2026-10-09 13:03 | 配信 | [#11【JUDGE EYES：死神の遺言 Remastered】ストーリーも終盤](https://www.youtube.com/watch?v=2bT7xM9ppi0) | 40 | 11 | 27.5% | 0 | 0 |
 
 ## 集計できなかった配信
 

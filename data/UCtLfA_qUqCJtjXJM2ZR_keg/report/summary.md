@@ -114,7 +114,7 @@
 | 2026-10-04 20:06 | 配信 | [【 BOMBANANA 】焼肉ガールズ（そうなんだ）で協力!!🐵【 にじさんじ所](https://www.youtube.com/watch?v=bp0wW-XW9-g) | 1,046 | 498 | 47.6% | 0 | 0 |
 | 2026-10-06 22:34 | 配信 | [【 60 Seconds! Reatomized 】終末世界を今度こそ生き抜いて](https://www.youtube.com/watch?v=TZqcnN5hvLo) | 879 | 403 | 45.8% | 1 | 0 |
 | 2026-10-07 20:47 | 配信 | [【 #にじきみ 】同時視聴!!👀ついに情報公開…!?【 にじさんじ所属 】](https://www.youtube.com/watch?v=2KLPFUI6et8) | 1,168 | 501 | 42.9% | 2 | 0 |
-| 2026-10-08 00:00 | 配信 | [【 60 Seconds! Reatomized 】今度こそ生き延びます【 にじ](https://www.youtube.com/watch?v=19RVv2S0PYg) | 880 | 414 | 47.0% | 0 | 0 |
+| 2026-10-08 22:05 | 配信 | [【 60 Seconds! Reatomized 】今度こそ生き延びます【 にじ](https://www.youtube.com/watch?v=19RVv2S0PYg) | 880 | 414 | 47.0% | 0 | 0 |
 
 ## 集計できなかった配信
 

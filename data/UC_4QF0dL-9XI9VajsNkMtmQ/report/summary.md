@@ -141,8 +141,8 @@
 | 2026-10-05 18:00 | 配信 | [【 スト6 】 MASTER耐久【 Rei7 / にじさんじ 】](https://www.youtube.com/watch?v=3IayGz8SUUk) | 903 | 157 | 17.4% | 0 | 0 |
 | 2026-10-06 22:00 | 配信 | [【 スト6 】マスターの景色こんばんは【 Rei7 / にじさんじ 】](https://www.youtube.com/watch?v=UntNOUShC3M) | 571 | 129 | 22.6% | 3 | 0 |
 | 2026-10-07 23:15 | 配信 | [【 スト6 】起床。【 Rei7 / にじさんじ 】](https://www.youtube.com/watch?v=3H_hiZZ5Png) | 397 | 102 | 25.7% | 0 | 0 |
-| 2026-10-08 00:00 | 配信 | [【 ドラゴンクエストモンスターズ　テリーのワンダーランドRETRO 】人生初ドラ](https://www.youtube.com/watch?v=G8HIjXre6Uw) | 910 | 162 | 17.8% | 1 | 0 |
 | 2026-10-08 04:47 | 配信 | [【 The Artisan of Glimmith 】鬼ちるぱずる【 Rei7 ](https://www.youtube.com/watch?v=X4yoO515FP8) | 239 | 73 | 30.5% | 0 | 0 |
+| 2026-10-08 20:00 | 配信 | [【 ドラゴンクエストモンスターズ　テリーのワンダーランドRETRO 】人生初ドラ](https://www.youtube.com/watch?v=G8HIjXre6Uw) | 910 | 162 | 17.8% | 1 | 0 |
 
 ## 集計できなかった配信
 

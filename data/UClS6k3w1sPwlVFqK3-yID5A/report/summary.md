@@ -114,7 +114,7 @@
 | 2026-10-03 22:31 | 配信 | [[Dressmaker] 闇のドレスを作る](https://www.youtube.com/watch?v=5Ye08ywxhXo) | 34 | 22 | 64.7% | 0 | 1 |
 | 2026-10-06 22:06 | 配信 | [[SILENT HILL: Townfall] #5 武器ほしいです　※ネタバレ](https://www.youtube.com/watch?v=tbV3KT8-l_g) | 26 | 18 | 69.2% | 0 | 0 |
 | 2026-10-07 22:00 | 配信 | [[SILENT HILL: Townfall] #6 怖いところ　※ネタバレ注意](https://www.youtube.com/watch?v=q5Yt5_qbFTY) | 21 | 15 | 71.4% | 0 | 1 |
-| 2026-10-08 00:00 | 配信 | [🎸🔰Back to practicing guitar starting tod](https://www.youtube.com/watch?v=O2jjrj9Dr_8) | 39 | 21 | 53.8% | 0 | 0 |
+| 2026-10-08 22:06 | 配信 | [🎸🔰Back to practicing guitar starting tod](https://www.youtube.com/watch?v=O2jjrj9Dr_8) | 39 | 21 | 53.8% | 0 | 0 |
 
 ## 出力ファイル
 

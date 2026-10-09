@@ -158,8 +158,8 @@
 | 2026-10-06 18:39 | 配信 | [【steamセール】おい、また積みゲー増やすｾﾞ【にじさんじ/鷹宮リオン】](https://www.youtube.com/watch?v=qWIK_JfoGTY) | 370 | 73 | 19.7% | 0 | 5 |
 | 2026-10-06 23:03 | 配信 | [【DARK SOULS III】死んだら即終了～32デス目～ #たかみや即終了ダ](https://www.youtube.com/watch?v=TMLFlrWz-bI) | 264 | 57 | 21.6% | 0 | 0 |
 | 2026-10-07 23:00 | 配信 | [【DARK SOULS III】死んだら即終了～33デス目～ #たかみや即終了ダ](https://www.youtube.com/watch?v=V3Ok2de9x0A) | 563 | 86 | 15.3% | 0 | 5 |
-| 2026-10-08 00:00 | 配信 | [[DARK SOULS III] Die and the Stream Ends](https://www.youtube.com/watch?v=dLn8YesMwcU) | 268 | 45 | 16.8% | 0 | 0 |
-| 2026-10-09 00:00 | 配信 | [【DARK SOULS III】死んだら即終了～35デス目～ #たかみや即終了ダ](https://www.youtube.com/watch?v=VKvdc2_YSJ8) | 514 | 77 | 15.0% | 0 | 0 |
+| 2026-10-08 23:00 | 配信 | [[DARK SOULS III] Die and the Stream Ends](https://www.youtube.com/watch?v=dLn8YesMwcU) | 268 | 45 | 16.8% | 0 | 0 |
+| 2026-10-09 23:02 | 配信 | [【DARK SOULS III】死んだら即終了～35デス目～ #たかみや即終了ダ](https://www.youtube.com/watch?v=VKvdc2_YSJ8) | 514 | 77 | 15.0% | 0 | 0 |
 
 ## 出力ファイル
 
