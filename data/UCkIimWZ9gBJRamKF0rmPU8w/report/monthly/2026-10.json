@@ -4,48 +4,52 @@
   "from": "2026-10-01",
   "to": "2026-10-09"
  },
- "streams_analyzed": 2,
+ "streams_analyzed": 3,
  "streams_missed": 0,
- "unique_chatters": 1032,
- "members_confirmed": 141,
+ "unique_chatters": 1419,
+ "members_confirmed": 205,
  "member_classes": {
-  "unknown": 140,
-  "known": 1
+  "unknown": 203,
+  "known": 2
  },
- "long_term_members": 115,
+ "long_term_members": 164,
  "badges": [
+  {
+   "months": 0,
+   "members": 2
+  },
   {
    "months": 1,
    "members": 1
   },
   {
    "months": 2,
-   "members": 9
+   "members": 17
   },
   {
    "months": 6,
-   "members": 16
+   "members": 21
   },
   {
    "months": 12,
-   "members": 16
+   "members": 28
   },
   {
    "months": 24,
-   "members": 15
+   "members": 21
   },
   {
    "months": 36,
-   "members": 15
+   "members": 24
   },
   {
    "months": 48,
-   "members": 69
+   "members": 91
   }
  ],
  "events": {
   "new_members": 0,
-  "rejoins": 0,
+  "rejoins": 1,
   "milestones": 0,
   "gifted_total": 0
  },
@@ -54,21 +58,21 @@
    "tier": "天宮こころ/みゃんばーしっぷ",
    "price": 490,
    "confirmed_members": 1,
-   "estimated_members": 141.0
+   "estimated_members": 102.5
   },
   {
    "tier": "みゃんばーしっぷ★",
    "price": 1190,
-   "confirmed_members": 0,
-   "estimated_members": 0.0
+   "confirmed_members": 1,
+   "estimated_members": 102.5
   }
  ],
  "revenue": {
-  "monthly_low": 43966,
-  "monthly_est": 43966,
+  "monthly_low": 64368,
+  "monthly_est": 109582,
   "gift_once": 0
  },
- "avg_member_chatters": 94,
+ "avg_member_chatters": 107,
  "partial": true,
  "finalized": false
 }
