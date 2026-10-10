@@ -858,9 +858,8 @@ def write_markdown(R, meta, cfg_all, ch, tiers_path, history, report_dir):
         L.append("|---|---|---|---|---:|")
         for v in R["missed"]:
             likes = f"{v['like_count']:,}" if isinstance(v.get("like_count"), int) else "-"
-            lv = (v.get("members_level") or "メンバー全員") + " 以上" if v.get("members_only") else "–"
-            if v.get("members_only") and not v.get("members_level"):
-                lv = "不明（レベル表記なし）"
+            # YouTube はメンバー全員が見られるコンテンツにはレベル名を出さない
+            lv = (f"{v['members_level']} 以上" if v.get("members_level") else "メンバー全員") if v.get("members_only") else "–"
             L.append(f"| {v.get('start_jst', '?')} | [{md_cell((v.get('title') or v['id'])[:40])}]"
                      f"(https://www.youtube.com/watch?v={v['id']}) | {MISSED_REASON.get(v.get('status'), v.get('status'))} | {lv} | {likes} |")
         L.append("")
@@ -876,7 +875,7 @@ def write_markdown(R, meta, cfg_all, ch, tiers_path, history, report_dir):
         for v in mo_videos:
             likes = f"{v['like_count']:,}" if isinstance(v.get("like_count"), int) else "-"
             L.append(f"| {v.get('start_jst', '?')[:10]} | [{md_cell((v.get('title') or v['id'])[:40])}](https://www.youtube.com/watch?v={v['id']}) "
-                     f"| {(v.get('members_level') or '不明') + ' 以上'} | {likes} |")
+                     f"| {(v['members_level'] + ' 以上') if v.get('members_level') else 'メンバー全員'} | {likes} |")
         L.append("")
 
     L.append("## 出力ファイル")

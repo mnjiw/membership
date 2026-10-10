@@ -3,20 +3,20 @@
  "channel_id": "UCClwIqTUn5LDpFucHyaAhHg",
  "handle": "@LeeRoha",
  "subscribers": 110000,
- "fetched_at": "2026-10-10 10:47",
- "generated_at": "2026-10-10 10:47",
+ "fetched_at": "2026-10-10 18:21",
+ "generated_at": "2026-10-10 18:21",
  "period": {
-  "from": "2026-09-10 10:47",
-  "to": "2026-10-10 10:47",
+  "from": "2026-09-10 18:21",
+  "to": "2026-10-10 18:21",
   "days": 30
  },
- "streams_analyzed": 17,
+ "streams_analyzed": 18,
  "streams_missed": 2,
- "unique_chatters": 259,
+ "unique_chatters": 267,
  "members_confirmed": 66,
  "member_classes": {
-  "unknown": 39,
-  "known": 5,
+  "unknown": 38,
+  "known": 6,
   "gift": 22
  },
  "badges": [
@@ -54,7 +54,7 @@
  "events": {
   "new_members": 0,
   "rejoins": 0,
-  "milestones": 7,
+  "milestones": 9,
   "gift_purchases": 11,
   "gifted_total": 27,
   "gift_redemptions": 22
@@ -66,30 +66,30 @@
    "price": 490,
    "net_per_member": 311.8,
    "confirmed_members": 3,
-   "share_of_confirmed_pct": 60.0,
-   "allocated_unknown": 23.4,
-   "estimated_members": 26.4,
+   "share_of_confirmed_pct": 50.0,
+   "allocated_unknown": 19.0,
+   "estimated_members": 22.0,
    "monthly_net_confirmed": 935,
-   "monthly_net_estimated": 8232
+   "monthly_net_estimated": 6860
   },
   {
    "tier": "🅑🅘🅖宇宙アイドル応援パック",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 2,
-   "share_of_confirmed_pct": 40.0,
-   "allocated_unknown": 15.6,
-   "estimated_members": 17.6,
-   "monthly_net_confirmed": 878,
-   "monthly_net_estimated": 7728
+   "confirmed_members": 3,
+   "share_of_confirmed_pct": 50.0,
+   "allocated_unknown": 19.0,
+   "estimated_members": 22.0,
+   "monthly_net_confirmed": 1317,
+   "monthly_net_estimated": 9660
   }
  ],
  "revenue": {
-  "monthly_low": 13975,
-  "monthly_est": 15960,
+  "monthly_low": 14102,
+  "monthly_est": 16520,
   "gift_once": 8419,
-  "total_low": 22394,
-  "total_est": 24379,
+  "total_low": 22521,
+  "total_est": 24939,
   "paying_members": 44,
   "single_tier": false,
   "tax_rate": 0.1,
@@ -268,6 +268,16 @@
    "member_chatters": 9,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "ycl35whWSDU",
+   "start": "2026-10-09 23:02",
+   "title": ",,,・3 ; ,,,,,　[にじさんじ/イロハ]",
+   "kind": "配信",
+   "chatters": 39,
+   "member_chatters": 15,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -284,16 +294,16 @@
    "view_count": null
   },
   {
-   "video_id": "ycl35whWSDU",
-   "start": "2026-10-09 00:00",
-   "title": ",,,・3 ; ,,,,,　[にじさんじ/イロハ]",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
+   "video_id": "0_wFQM4rUmM",
+   "start": "2026-10-10 16:37",
+   "title": "自称元ダイア イロハ様のブロンズ脱出記　[にじさんじ/イロハ]",
+   "kind": "live",
+   "status": "processing",
+   "reason": "アーカイブ処理中（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 190,
-   "view_count": 2945
+   "like_count": 147,
+   "view_count": 626
   }
  ],
  "members_only_content": [
@@ -387,20 +397,20 @@
     "from": "2026-10-01",
     "to": "2026-10-10"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 6,
    "streams_missed": 1,
-   "unique_chatters": 108,
-   "members_confirmed": 40,
+   "unique_chatters": 124,
+   "members_confirmed": 43,
    "member_classes": {
-    "unknown": 24,
-    "known": 3,
+    "unknown": 26,
+    "known": 4,
     "gift": 13
    },
-   "long_term_members": 24,
+   "long_term_members": 26,
    "badges": [
     {
      "months": 0,
-     "members": 13
+     "members": 14
     },
     {
      "months": 1,
@@ -412,7 +422,7 @@
     },
     {
      "months": 12,
-     "members": 15
+     "members": 17
     },
     {
      "months": 36,
@@ -426,7 +436,7 @@
    "events": {
     "new_members": 0,
     "rejoins": 0,
-    "milestones": 2,
+    "milestones": 4,
     "gifted_total": 13
    },
    "tiers": [
@@ -434,21 +444,21 @@
      "tier": "宇宙アイドル応援パック",
      "price": 490,
      "confirmed_members": 2,
-     "estimated_members": 18.0
+     "estimated_members": 15.0
     },
     {
      "tier": "🅑🅘🅖宇宙アイドル応援パック",
      "price": 690,
-     "confirmed_members": 1,
-     "estimated_members": 9.0
+     "confirmed_members": 2,
+     "estimated_members": 15.0
     }
    ],
    "revenue": {
-    "monthly_low": 8546,
-    "monthly_est": 9565,
+    "monthly_low": 9609,
+    "monthly_est": 11264,
     "gift_once": 4054
    },
-   "avg_member_chatters": 14.6,
+   "avg_member_chatters": 14.7,
    "partial": true,
    "finalized": false
   }

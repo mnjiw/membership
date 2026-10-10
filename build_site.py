@@ -289,7 +289,7 @@ def detail_main(sj, root):
     if mo:
         B.append("<h2>メンバー限定コンテンツ</h2><ul class=\"plain\">")
         for v in mo:
-            lv = f"{v['members_level']} 以上" if v.get("members_level") else "レベル不明"
+            lv = f"{v['members_level']} 以上" if v.get("members_level") else "メンバー全員"
             B.append(f'<li>{esc(v.get("start") or "")} <a href="https://www.youtube.com/watch?v={esc(v["video_id"])}" '
                      f'rel="noopener" target="_blank">{esc(v.get("title") or v["video_id"])}</a>（{esc(lv)}・高評価 {num(v.get("like_count"))}）</li>')
         B.append("</ul>")

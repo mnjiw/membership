@@ -22,6 +22,7 @@ import json
 import re
 import sys
 import time
+import traceback
 import urllib.request
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -41,6 +42,8 @@ DAILY_DAYS = 7    # 2回目以降は直近7日を確認する (1日止まって�
 # 一度この結論になった枠は次回から確認しない
 FINAL_STATUSES = {"ok", "skip_old", "skip_not_stream", "no_chat", "members_only",
                   "became_members_only", "members_only_video"}
+# 取得に失敗した枠。確認範囲 (直近7日) から外れても、直近30日の集計に入る間は確認し直す
+RETRY_STATUSES = {"error", "chat_failed"}
 
 STATUS_LABEL = {
     "ok": "保存",
@@ -464,6 +467,20 @@ def main():
         span = (DAILY_DAYS if store.get("initial_fetch_done") else FIRST_DAYS) * 86400
     cutoff_ts = now - span
     candidates = [c for c in candidates if c["approx_ts"] is None or c["approx_ts"] >= cutoff_ts - rough_margin(cutoff_ts)]
+    # 確認範囲より前の枠で、取得に失敗したままのもの (初回の30日分の取得中に失敗した枠など) は一覧から外れていて、
+    # このままでは二度と確認されない。直近30日の集計に入る間は、ここで候補に加えて確認し直す
+    # (配信日が分からない枠は、最初に失敗してから30日間)
+    retry_cutoff = now - FIRST_DAYS * 86400
+    listed = {c["id"] for c in candidates} | {c["id"] for c in live_now}
+    for vid, v in store["videos"].items():
+        if vid in listed or v.get("status") not in RETRY_STATUSES:
+            continue
+        since = v.get("start_ts") or v.get("failed_since_ts")
+        if since and since < retry_cutoff:
+            continue
+        candidates.append({"id": vid, "title": v.get("title"), "approx_ts": v.get("start_ts"),
+                           "tab": "video" if v.get("kind") == "premiere" else "live",
+                           "members_only": bool(v.get("members_only")), "cutoff_ts": retry_cutoff})
     chats_dir = out_dir / "chats"
     chats_dir.mkdir(parents=True, exist_ok=True)
 
@@ -502,7 +519,7 @@ def main():
                 # その場合はこの枠を「次回また確認」にして先へ進む (次回は別のプロセスなので消せる)
                 if not remove_parts(chats_dir, vid):
                     raise PartFileLocked()
-                meta, status = fetch_one(args, vid, chats_dir, cutoff_ts, prev, c["tab"])
+                meta, status = fetch_one(args, vid, chats_dir, c.get("cutoff_ts", cutoff_ts), prev, c["tab"])
                 if status != "chat_failed":
                     break
                 if attempt < 2:
@@ -511,15 +528,19 @@ def main():
         except PartFileLocked:
             print(f"{head}  … 途中ファイルが使用中のため、次回また取得します")
             store["videos"][vid] = {**prev, "id": vid, "title": c["title"], "status": "chat_failed",
-                                    "error": "途中ファイルが使用中で削除できなかった"}
+                                    "error": "途中ファイルが使用中で削除できなかった",
+                                    "failed_since_ts": prev.get("failed_since_ts") or now}
             counts["retry"] += 1
             save()
             continue
         except Exception as e:   # 1枠の想定外のエラーで、チャンネル全体を止めない
             if not isinstance(e, yt_dlp.utils.DownloadError):
-                msg = f"{type(e).__name__}: {e}"
+                # どこで起きたか (yt-dlp の中かどうか) が後から分かるよう、最後の場所を添える
+                tb = traceback.extract_tb(e.__traceback__)[-1]
+                msg = f"{type(e).__name__}: {e} (場所: {Path(tb.filename).name}:{tb.lineno})"
                 print(f"{head}  … 想定外のエラー (次回また確認): {msg[:150]}")
-                store["videos"][vid] = {**prev, "id": vid, "title": c["title"], "status": "error", "error": msg[:300]}
+                store["videos"][vid] = {**prev, "id": vid, "title": c["title"], "status": "error", "error": msg[:300],
+                                        "failed_since_ts": prev.get("failed_since_ts") or now}
                 counts["retry"] += 1
                 save()
                 continue
@@ -532,12 +553,15 @@ def main():
                         "start_jst": fmt_ts(c["approx_ts"]), "checked_at": fmt_ts(time.time())}
             else:
                 print(f"{head}  … 失敗: {msg[:120]}")
-                store["videos"][vid] = {**prev, "id": vid, "title": c["title"], "status": "error", "error": msg[:300]}
+                store["videos"][vid] = {**prev, "id": vid, "title": c["title"], "status": "error", "error": msg[:300],
+                                        "failed_since_ts": prev.get("failed_since_ts") or now}
                 counts["retry"] += 1
                 save()
                 continue
 
         meta["status"] = status
+        if status in RETRY_STATUSES:
+            meta["failed_since_ts"] = prev.get("failed_since_ts") or now
         store["videos"][vid] = meta
         label = STATUS_LABEL[status]
         if status in ("members_only", "became_members_only", "members_only_video") and meta.get("members_level"):

@@ -120,7 +120,7 @@
 | 2026-10-05 10:59 | 配信 | [【VALORANT】新しいマウスを頂いたので早速使ってみた](https://www.youtube.com/watch?v=39fAQaKhFqE) | 106 | 41 | 38.7% | 1 | 0 |
 | 2026-10-06 09:01 | 配信 | [【VALORANT】新しいマウスに慣れるためにランクですな](https://www.youtube.com/watch?v=k1-r6-p2btk) | 68 | 30 | 44.1% | 1 | 0 |
 | 2026-10-07 14:29 | 配信 | [【VALORANT】今日は歌みたがあがるらしいですな](https://www.youtube.com/watch?v=Idu7jhwQytI) | 86 | 35 | 40.7% | 0 | 0 |
-| 2026-10-08 00:00 | 配信 | [【VALORANT】俺はソロだ。](https://www.youtube.com/watch?v=R6HNd0-9Yh0) | 112 | 36 | 32.1% | 0 | 0 |
+| 2026-10-08 14:00 | 配信 | [【VALORANT】俺はソロだ。](https://www.youtube.com/watch?v=R6HNd0-9Yh0) | 112 | 36 | 32.1% | 0 | 0 |
 
 ## 出力ファイル
 

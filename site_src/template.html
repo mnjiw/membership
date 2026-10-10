@@ -499,7 +499,8 @@ main ul.plain { padding-left: 20px; }
   // ---------- チャンネル詳細 ----------
   const badgeLabel = m => m == null || m === "" ? "不明" : m === 0 ? "新規" : m % 12 === 0 ? `${m / 12}年` : m > 12 ? `${Math.floor(m / 12)}年${m % 12}ヶ月` : `${m}ヶ月`;
   const ytLink = (id, text) => h("a", { href: `https://www.youtube.com/watch?v=${id}`, target: "_blank", rel: "noopener" }, text);
-  const levelText = v => v.members_level ? `${v.members_level} 以上` : "不明";
+  // YouTube はメンバー全員が見られるコンテンツにはレベル名を出さない (上のレベル限定のときだけ「レベル ○○ 以上」と出る)
+  const levelText = v => v.members_level ? `${v.members_level} 以上` : "メンバー全員";
 
   async function renderDetail(id) {
     const c = await ensureChannel(id).catch(() => null);

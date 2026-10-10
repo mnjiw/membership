@@ -19,7 +19,7 @@ GitHub Actions からも、手元のPCからも同じように動く。
 
 エラーの扱い:
     ブロック   … チャンネルの一覧すら取れない (fetch_chats.py が終了コード 2)。YouTube にアクセスを止められた可能性
-    取得エラー … 一部の配信でチャットを取れなかった (次回以降も7日間は自動で再挑戦する)
+    取得エラー … 一部の配信でチャットを取れなかった (直近30日の集計に入る間は、次回以降も自動で再挑戦する)
     異常終了   … プログラム自体のエラー
 """
 
@@ -114,11 +114,13 @@ def process(ch: dict, args) -> dict:
             tail = out.strip().splitlines()[-1][:200] if out.strip() else ""
             res["errors"].append(f"analyze_badges.py が異常終了しました (終了コード {code}): {tail}")
 
-    # 7日のあいだ再挑戦中の枠 (取得エラー) を数えておく
+    # 再挑戦中の枠 (取得エラー) を数えておく。再挑戦するのは直近30日の集計に入る間だけ (fetch_chats.py と同じ判定)
     vp = data_dir / "videos.json"
     if vp.exists():
         vids = json.loads(vp.read_text(encoding="utf-8")).get("videos", {})
-        res["pending"] = sum(1 for v in vids.values() if v.get("status") in RETRY_STATUSES)
+        retry_cutoff = time.time() - 30 * 86400
+        res["pending"] = sum(1 for v in vids.values() if v.get("status") in RETRY_STATUSES
+                             and (v.get("start_ts") or v.get("failed_since_ts") or retry_cutoff) >= retry_cutoff)
     res["seconds"] = round(time.time() - t0)
     return res
 
@@ -133,7 +135,7 @@ def write_report(results, started, finished, build_msg) -> str:
     L.append(f"- 所要時間: {round((finished - started).total_seconds() / 60)} 分")
     L.append(f"- チャンネル: {len(results)} 件 / " + " / ".join(f"{STATUS_LABEL[k]} {v}" for k, v in counts.items() if v))
     L.append(f"- 新しく取得した配信: {sum(r['new'] for r in results)} 本")
-    L.append(f"- 再挑戦中の配信 (取得エラー・7日間は自動で再挑戦): {sum(r.get('pending', 0) for r in results)} 本")
+    L.append(f"- 再挑戦中の配信 (取得エラー・直近30日の分は自動で再挑戦): {sum(r.get('pending', 0) for r in results)} 本")
     limited = sum(r.get("limited", 0) for r in results)
     warned = sum(1 for r in results if r.get("warned"))
     L.append(f"- YouTube から情報が欠けて返ってきた枠: {limited} 本 / 制限の警告が出たチャンネル: {warned} 件"

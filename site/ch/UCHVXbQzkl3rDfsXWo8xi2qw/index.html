@@ -208,7 +208,7 @@ main ul.plain { padding-left: 20px; }
 <h2>月ごとの確認メンバー数</h2>
 <div class="table-wrap"><table><thead><tr><th>月</th><th>集計した日</th><th class="num">配信</th><th class="num">確認メンバー</th><th class="num">新規加入</th></tr></thead><tbody><tr><td><a href="../../ranking/2026-09/">2026年9月</a></td><td>09-07〜09-30</td><td class="num">13</td><td class="num">1,352 人</td><td class="num">15</td></tr><tr><td><a href="../../ranking/2026-10/">2026年10月</a></td><td>10-01〜10-10</td><td class="num">2</td><td class="num">377 人</td><td class="num">1</td></tr></tbody></table></div>
 <h2>メンバー限定コンテンツ</h2><ul class="plain">
-<li>2026-09-19 00:01 <a href="https://www.youtube.com/watch?v=Rua03Hu7luM" rel="noopener" target="_blank">【100億年ぶり】チルっとメン限</a>（レベル不明・高評価 407）</li>
+<li>2026-09-19 00:01 <a href="https://www.youtube.com/watch?v=Rua03Hu7luM" rel="noopener" target="_blank">【100億年ぶり】チルっとメン限</a>（メンバー全員・高評価 407）</li>
 </ul>
 <p class="small muted">数値はすべて公開されているチャットからの推定です。<a href="../../about/">集計方法</a></p>
 </main>
@@ -219,7 +219,7 @@ main ul.plain { padding-left: 20px; }
     </div>
     当サイトは非公式のファンメイド集計です。YouTube・各チャンネル・各事務所とは関係ありません。
     数値はすべて公開されているライブチャットからの推定で、実際のメンバー数・収益とは異なります。
-    <span id="built">データ更新: 2026-10-10 10:50</span>
+    <span id="built">データ更新: 2026-10-10 18:30</span>
   </div>
 </footer>
 <div id="tip" role="tooltip"></div>
@@ -511,7 +511,8 @@ main ul.plain { padding-left: 20px; }
   // ---------- チャンネル詳細 ----------
   const badgeLabel = m => m == null || m === "" ? "不明" : m === 0 ? "新規" : m % 12 === 0 ? `${m / 12}年` : m > 12 ? `${Math.floor(m / 12)}年${m % 12}ヶ月` : `${m}ヶ月`;
   const ytLink = (id, text) => h("a", { href: `https://www.youtube.com/watch?v=${id}`, target: "_blank", rel: "noopener" }, text);
-  const levelText = v => v.members_level ? `${v.members_level} 以上` : "不明";
+  // YouTube はメンバー全員が見られるコンテンツにはレベル名を出さない (上のレベル限定のときだけ「レベル ○○ 以上」と出る)
+  const levelText = v => v.members_level ? `${v.members_level} 以上` : "メンバー全員";
 
   async function renderDetail(id) {
     const c = await ensureChannel(id).catch(() => null);

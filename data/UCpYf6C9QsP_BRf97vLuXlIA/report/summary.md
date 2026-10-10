@@ -135,14 +135,14 @@
 | 2026-10-01 12:17 | 配信 | [I'M GETTING MARRIED【FIELDS OF MISTRIA #1](https://www.youtube.com/watch?v=xNfvhNGWuIY) | 268 | 109 | 40.7% | 0 | 11 |
 | 2026-10-05 12:06 | 配信 | [【ARCHIVED KARAOKE】Just Singin'](https://www.youtube.com/watch?v=p_9iGnxkKVE) | 476 | 241 | 50.6% | 3 | 50 |
 | 2026-10-07 13:06 | 配信 | [【BOMBANANA!】KRISIS PLAYS BOMBANANA!](https://www.youtube.com/watch?v=5aHCzjMhOTE) | 450 | 202 | 44.9% | 4 | 15 |
-| 2026-10-08 00:00 | 配信 | [THIS TOWN IS SILENT. I AM NOT.【SILENT HI](https://www.youtube.com/watch?v=6os-fGbMjAk) | 113 | 62 | 54.9% | 0 | 0 |
+| 2026-10-08 13:41 | 配信 | [THIS TOWN IS SILENT. I AM NOT.【SILENT HI](https://www.youtube.com/watch?v=6os-fGbMjAk) | 113 | 62 | 54.9% | 0 | 0 |
 
 ## 集計できなかった配信
 
 | 日時 | タイトル | 理由 | 視聴できるレベル | 高評価数 |
 |---|---|---|---|---:|
 | 2026-09-28 12:09 | [SPICY Tyrant Tales Audio Live Reading St](https://www.youtube.com/watch?v=KuGsMFJPSXg) | メンバー限定配信 | Vantacrew Archives 以上 | 79 |
-| 2026-10-01 10:59 | [Well hello there【Members ZATSU】](https://www.youtube.com/watch?v=0MQtRoRfciw) | メンバー限定配信 | 不明（レベル表記なし） | 92 |
+| 2026-10-01 10:59 | [Well hello there【Members ZATSU】](https://www.youtube.com/watch?v=0MQtRoRfciw) | メンバー限定配信 | メンバー全員 | 92 |
 
 > メンバー限定配信の高評価数は「その配信を見られるメンバーが少なくともこれだけいる」という目安になります。
 
@@ -150,8 +150,8 @@
 
 | 公開日 | タイトル | 視聴できるレベル | 高評価数 |
 |---|---|---|---:|
-| 2026-09-29 | [Late Night Whispers - *Spicy Audio RP](https://www.youtube.com/watch?v=cSf4Ee-ppyQ) | 不明 以上 | 220 |
-| 2026-10-01 | [【ASMR RP】At Your Side](https://www.youtube.com/watch?v=neb_YCXWSxA) | 不明 以上 | 153 |
+| 2026-09-29 | [Late Night Whispers - *Spicy Audio RP](https://www.youtube.com/watch?v=cSf4Ee-ppyQ) | メンバー全員 | 220 |
+| 2026-10-01 | [【ASMR RP】At Your Side](https://www.youtube.com/watch?v=neb_YCXWSxA) | メンバー全員 | 153 |
 
 ## 出力ファイル
 
