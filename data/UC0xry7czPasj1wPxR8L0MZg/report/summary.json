@@ -3,19 +3,19 @@
  "channel_id": "UC0xry7czPasj1wPxR8L0MZg",
  "handle": "@Saotomeberry",
  "subscribers": 312000,
- "fetched_at": "2026-10-10 05:28",
- "generated_at": "2026-10-10 07:42",
+ "fetched_at": "2026-10-10 10:47",
+ "generated_at": "2026-10-10 10:48",
  "period": {
-  "from": "2026-09-10 05:28",
-  "to": "2026-10-10 05:28",
+  "from": "2026-09-10 10:47",
+  "to": "2026-10-10 10:47",
   "days": 30
  },
- "streams_analyzed": 26,
+ "streams_analyzed": 27,
  "streams_missed": 2,
- "unique_chatters": 4400,
- "members_confirmed": 608,
+ "unique_chatters": 4670,
+ "members_confirmed": 616,
  "member_classes": {
-  "unknown": 557,
+  "unknown": 565,
   "known": 25,
   "gift": 26
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 78
+   "members": 79
   },
   {
    "months": 1,
@@ -33,22 +33,22 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 146
+   "members": 147
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 92
+   "members": 93
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 182
+   "members": 184
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 74
+   "members": 77
   }
  ],
  "events": {
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 25,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 557.0,
-   "estimated_members": 582.0,
+   "allocated_unknown": 565.0,
+   "estimated_members": 590.0,
    "monthly_net_confirmed": 7795,
-   "monthly_net_estimated": 181478
+   "monthly_net_estimated": 183973
   }
  ],
  "revenue": {
-  "monthly_low": 181478,
-  "monthly_est": 181478,
+  "monthly_low": 183973,
+  "monthly_est": 183973,
   "gift_once": 8107,
-  "total_low": 189585,
-  "total_est": 189585,
-  "paying_members": 582,
+  "total_low": 192080,
+  "total_est": 192080,
+  "paying_members": 590,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -347,6 +347,16 @@
    "member_chatters": 57,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "jK5koff1X1A",
+   "start": "2026-10-10 08:04",
+   "title": "【朝活雑談】メイクしながら雑談！GRWM的な🩷【早乙女ベリー/にじさんじ】",
+   "kind": "配信",
+   "chatters": 486,
+   "member_chatters": 105,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -470,39 +480,39 @@
     "from": "2026-10-01",
     "to": "2026-10-10"
    },
-   "streams_analyzed": 10,
+   "streams_analyzed": 11,
    "streams_missed": 0,
-   "unique_chatters": 2484,
-   "members_confirmed": 367,
+   "unique_chatters": 2795,
+   "members_confirmed": 383,
    "member_classes": {
-    "unknown": 356,
-    "known": 11
+    "unknown": 371,
+    "known": 12
    },
-   "long_term_members": 184,
+   "long_term_members": 190,
    "badges": [
     {
      "months": 0,
-     "members": 27
+     "members": 29
     },
     {
      "months": 1,
-     "members": 17
+     "members": 18
     },
     {
      "months": 2,
-     "members": 77
+     "members": 80
     },
     {
      "months": 6,
-     "members": 62
+     "members": 66
     },
     {
      "months": 12,
-     "members": 123
+     "members": 126
     },
     {
      "months": 24,
-     "members": 61
+     "members": 64
     }
    ],
    "events": {
@@ -515,16 +525,16 @@
     {
      "tier": "べりーばたけ",
      "price": 490,
-     "confirmed_members": 11,
-     "estimated_members": 367.0
+     "confirmed_members": 12,
+     "estimated_members": 383.0
     }
    ],
    "revenue": {
-    "monthly_low": 114437,
-    "monthly_est": 114437,
+    "monthly_low": 119426,
+    "monthly_est": 119426,
     "gift_once": 0
    },
-   "avg_member_chatters": 107.1,
+   "avg_member_chatters": 106.9,
    "partial": true,
    "finalized": false
   }
