@@ -3,26 +3,26 @@
  "channel_id": "UCerkculBD7YLc_vOGrF7tKg",
  "handle": "@MatsukaiMao",
  "subscribers": 314000,
- "fetched_at": "2026-10-10 10:46",
- "generated_at": "2026-10-10 10:46",
+ "fetched_at": "2026-10-11 05:24",
+ "generated_at": "2026-10-11 05:24",
  "period": {
-  "from": "2026-09-10 10:46",
-  "to": "2026-10-10 10:46",
+  "from": "2026-09-11 05:24",
+  "to": "2026-10-11 05:24",
   "days": 30
  },
- "streams_analyzed": 12,
+ "streams_analyzed": 13,
  "streams_missed": 1,
- "unique_chatters": 1250,
- "members_confirmed": 169,
+ "unique_chatters": 1322,
+ "members_confirmed": 175,
  "member_classes": {
-  "unknown": 159,
+  "unknown": 165,
   "known": 10
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 3
+   "members": 4
   },
   {
    "months": 1,
@@ -32,7 +32,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 165
+   "members": 170
   }
  ],
  "events": {
@@ -51,19 +51,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 10,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 159.0,
-   "estimated_members": 169.0,
+   "allocated_unknown": 165.0,
+   "estimated_members": 175.0,
    "monthly_net_confirmed": 3118,
-   "monthly_net_estimated": 52697
+   "monthly_net_estimated": 54568
   }
  ],
  "revenue": {
-  "monthly_low": 52697,
-  "monthly_est": 52697,
+  "monthly_low": 54568,
+  "monthly_est": 54568,
   "gift_once": 0,
-  "total_low": 52697,
-  "total_est": 52697,
-  "paying_members": 169,
+  "total_low": 54568,
+  "total_est": 54568,
+  "paying_members": 175,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -191,6 +191,16 @@
    "member_chatters": 80,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "RLaF-yRPZI0",
+   "start": "2026-10-11 00:01",
+   "title": "【Trees Hate You】木に煽られる💢💢💢【魔使マオ/にじさんじ】",
+   "kind": "配信",
+   "chatters": 213,
+   "member_chatters": 74,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -277,21 +287,25 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-10"
+    "to": "2026-10-11"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 0,
-   "unique_chatters": 210,
-   "members_confirmed": 80,
+   "unique_chatters": 338,
+   "members_confirmed": 102,
    "member_classes": {
-    "unknown": 75,
-    "known": 5
+    "unknown": 95,
+    "known": 7
    },
    "long_term_members": 0,
    "badges": [
     {
+     "months": 0,
+     "members": 1
+    },
+    {
      "months": 2,
-     "members": 80
+     "members": 101
     }
    ],
    "events": {
@@ -304,16 +318,16 @@
     {
      "tier": "マオのゆかいな仲間たち",
      "price": 490,
-     "confirmed_members": 5,
-     "estimated_members": 80.0
+     "confirmed_members": 7,
+     "estimated_members": 102.0
     }
    ],
    "revenue": {
-    "monthly_low": 24945,
-    "monthly_est": 24945,
+    "monthly_low": 31805,
+    "monthly_est": 31805,
     "gift_once": 0
    },
-   "avg_member_chatters": 80,
+   "avg_member_chatters": 77,
    "partial": true,
    "finalized": false
   }

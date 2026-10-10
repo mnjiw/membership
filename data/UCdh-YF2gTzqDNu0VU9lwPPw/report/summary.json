@@ -3,42 +3,42 @@
  "channel_id": "UCdh-YF2gTzqDNu0VU9lwPPw",
  "handle": "@ClaudeClawmark",
  "subscribers": 159000,
- "fetched_at": "2026-10-10 10:49",
- "generated_at": "2026-10-10 10:49",
+ "fetched_at": "2026-10-11 05:38",
+ "generated_at": "2026-10-11 05:38",
  "period": {
-  "from": "2026-09-10 10:49",
-  "to": "2026-10-10 10:49",
+  "from": "2026-09-11 05:38",
+  "to": "2026-10-11 05:38",
   "days": 30
  },
- "streams_analyzed": 21,
+ "streams_analyzed": 20,
  "streams_missed": 2,
- "unique_chatters": 1523,
- "members_confirmed": 556,
+ "unique_chatters": 1460,
+ "members_confirmed": 541,
  "member_classes": {
-  "known": 170,
-  "unknown": 315,
-  "gift": 71
+  "known": 166,
+  "unknown": 310,
+  "gift": 65
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 87
+   "members": 80
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 81
+   "members": 77
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 90
+   "members": 89
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 140
+   "members": 137
   },
   {
    "months": 24,
@@ -47,12 +47,12 @@
   }
  ],
  "events": {
-  "new_members": 12,
+  "new_members": 9,
   "rejoins": 7,
-  "milestones": 132,
-  "gift_purchases": 16,
-  "gifted_total": 71,
-  "gift_redemptions": 71
+  "milestones": 123,
+  "gift_purchases": 14,
+  "gifted_total": 65,
+  "gift_redemptions": 65
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,21 +60,21 @@
    "tier": "Outclaws",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 170,
+   "confirmed_members": 166,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 315.0,
-   "estimated_members": 485.0,
-   "monthly_net_confirmed": 74645,
-   "monthly_net_estimated": 212959
+   "allocated_unknown": 310.0,
+   "estimated_members": 476.0,
+   "monthly_net_confirmed": 72889,
+   "monthly_net_estimated": 209007
   }
  ],
  "revenue": {
-  "monthly_low": 212959,
-  "monthly_est": 212959,
-  "gift_once": 31175,
-  "total_low": 244135,
-  "total_est": 244135,
-  "paying_members": 485,
+  "monthly_low": 209007,
+  "monthly_est": 209007,
+  "gift_once": 28541,
+  "total_low": 237548,
+  "total_est": 237548,
+  "paying_members": 476,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "9-nlCggjv_Q",
-   "start": "2026-09-10 23:32",
-   "title": "gaming.",
-   "kind": "配信",
-   "chatters": 285,
-   "member_chatters": 155,
-   "new_members": 3,
-   "gifted_total": 6
-  },
   {
    "video_id": "nZZye_54mVc",
    "start": "2026-09-11 23:30",
@@ -409,7 +399,7 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-10"
+    "to": "2026-10-11"
    },
    "streams_analyzed": 8,
    "streams_missed": 0,

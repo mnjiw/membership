@@ -3,19 +3,19 @@
  "channel_id": "UCrRdBPzK4sj-MMvYOhHRvHg",
  "handle": "@TogawaNonoha",
  "subscribers": 116000,
- "fetched_at": "2026-10-10 10:47",
- "generated_at": "2026-10-10 10:47",
+ "fetched_at": "2026-10-11 05:34",
+ "generated_at": "2026-10-11 05:34",
  "period": {
-  "from": "2026-09-10 10:47",
-  "to": "2026-10-10 10:47",
+  "from": "2026-09-11 05:34",
+  "to": "2026-10-11 05:34",
   "days": 30
  },
- "streams_analyzed": 17,
- "streams_missed": 1,
- "unique_chatters": 3983,
- "members_confirmed": 317,
+ "streams_analyzed": 16,
+ "streams_missed": 2,
+ "unique_chatters": 3950,
+ "members_confirmed": 315,
  "member_classes": {
-  "unknown": 289,
+  "unknown": 287,
   "known": 13,
   "gift": 15
  },
@@ -38,12 +38,12 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 68
+   "members": 67
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 128
+   "members": 127
   }
  ],
  "events": {
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 13,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 289.0,
-   "estimated_members": 302.0,
+   "allocated_unknown": 287.0,
+   "estimated_members": 300.0,
    "monthly_net_confirmed": 4054,
-   "monthly_net_estimated": 94169
+   "monthly_net_estimated": 93545
   }
  ],
  "revenue": {
-  "monthly_low": 94169,
-  "monthly_est": 94169,
+  "monthly_low": 93545,
+  "monthly_est": 93545,
   "gift_once": 4677,
-  "total_low": 98846,
-  "total_est": 98846,
-  "paying_members": 302,
+  "total_low": 98223,
+  "total_est": 98223,
+  "paying_members": 300,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "zJndd0xVOsE",
-   "start": "2026-09-10 17:59",
-   "title": "〖 地味練 〗ベースとドラムだけ練習！第10回！たのしすぎて滅！〖 夜牛詩乃と十河ののは / にじさんじ 〗",
-   "kind": "配信",
-   "chatters": 156,
-   "member_chatters": 69,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "C-Q1BXa34FY",
    "start": "2026-09-11 21:01",
@@ -266,6 +256,18 @@
    "members_level": "隠れ家",
    "like_count": 139,
    "view_count": null
+  },
+  {
+   "video_id": "ezA_X1ocGgk",
+   "start": "2026-10-10 23:00",
+   "title": "‹‹ メンバーシップ限定配信 ›› 他言無用トーク〚 十河ののは / にじさんじ 〛",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "隠れ家",
+   "like_count": 102,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -277,6 +279,16 @@
    "status": "members_only",
    "members_level": "隠れ家",
    "like_count": 139,
+   "view_count": null
+  },
+  {
+   "video_id": "ezA_X1ocGgk",
+   "start": "2026-10-10 23:00",
+   "title": "‹‹ メンバーシップ限定配信 ›› 他言無用トーク〚 十河ののは / にじさんじ 〛",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "隠れ家",
+   "like_count": 102,
    "view_count": null
   }
  ],
@@ -347,10 +359,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-10"
+    "to": "2026-10-11"
    },
    "streams_analyzed": 5,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 1094,
    "members_confirmed": 171,
    "member_classes": {

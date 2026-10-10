@@ -3,20 +3,20 @@
  "channel_id": "UCMzVa7B8UEdrvUGsPmSgyjA",
  "handle": "@DeremKado",
  "subscribers": 48300,
- "fetched_at": "2026-10-10 10:47",
- "generated_at": "2026-10-10 10:47",
+ "fetched_at": "2026-10-11 05:29",
+ "generated_at": "2026-10-11 05:29",
  "period": {
-  "from": "2026-09-10 10:47",
-  "to": "2026-10-10 10:47",
+  "from": "2026-09-11 05:29",
+  "to": "2026-10-11 05:29",
   "days": 30
  },
- "streams_analyzed": 19,
+ "streams_analyzed": 18,
  "streams_missed": 0,
- "unique_chatters": 255,
- "members_confirmed": 83,
+ "unique_chatters": 240,
+ "members_confirmed": 80,
  "member_classes": {
   "known": 3,
-  "unknown": 33,
+  "unknown": 30,
   "gift": 47
  },
  "badges": [
@@ -38,7 +38,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 7
+   "members": 6
   },
   {
    "months": 12,
@@ -48,12 +48,12 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 6
+   "members": 5
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 6
+   "members": 5
   },
   {
    "months": 48,
@@ -77,19 +77,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 3,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 33.0,
-   "estimated_members": 36.0,
+   "allocated_unknown": 30.0,
+   "estimated_members": 33.0,
    "monthly_net_confirmed": 935,
-   "monthly_net_estimated": 11225
+   "monthly_net_estimated": 10290
   }
  ],
  "revenue": {
-  "monthly_low": 11225,
-  "monthly_est": 11225,
+  "monthly_low": 10290,
+  "monthly_est": 10290,
   "gift_once": 14655,
-  "total_low": 25881,
-  "total_est": 25881,
-  "paying_members": 36,
+  "total_low": 24945,
+  "total_est": 24945,
+  "paying_members": 33,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,26 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "lPohD47yIdQ",
-   "start": "2026-09-10 22:47",
-   "title": "【 FINAL FANTASY VII REMAKE INTERGRADE 】#11 Let's Get Outta Here【 NIJISANJI | Derem Kado 】#squareenix",
-   "kind": "配信",
-   "chatters": 30,
-   "member_chatters": 6,
-   "new_members": 0,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "R9tQ776QFf8",
-   "start": "2026-09-11 01:04",
-   "title": "【 Freetalk 】Dream【 NIJISANJI | Derem Kado 】",
-   "kind": "配信",
-   "chatters": 42,
-   "member_chatters": 11,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "-KGBkji2Kxs",
    "start": "2026-09-11 16:09",
@@ -287,6 +267,16 @@
    "member_chatters": 6,
    "new_members": 0,
    "gifted_total": 1
+  },
+  {
+   "video_id": "TVE_Lr94kWg",
+   "start": "2026-10-10 10:46",
+   "title": "【 SILENT HILL: Townfall 】Dug My Own Grave【 NIJISANJI | Derem Kado 】",
+   "kind": "配信",
+   "chatters": 36,
+   "member_chatters": 8,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -370,18 +360,18 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-10"
+    "to": "2026-10-11"
    },
-   "streams_analyzed": 6,
+   "streams_analyzed": 7,
    "streams_missed": 0,
-   "unique_chatters": 91,
-   "members_confirmed": 40,
+   "unique_chatters": 105,
+   "members_confirmed": 41,
    "member_classes": {
-    "unknown": 16,
+    "unknown": 17,
     "known": 3,
     "gift": 21
    },
-   "long_term_members": 11,
+   "long_term_members": 12,
    "badges": [
     {
      "months": 0,
@@ -405,7 +395,7 @@
     },
     {
      "months": 24,
-     "members": 2
+     "members": 3
     },
     {
      "months": 36,
@@ -427,15 +417,15 @@
      "tier": "Magical Domikado",
      "price": 490,
      "confirmed_members": 3,
-     "estimated_members": 19.0
+     "estimated_members": 20.0
     }
    ],
    "revenue": {
-    "monthly_low": 5925,
-    "monthly_est": 5925,
+    "monthly_low": 6236,
+    "monthly_est": 6236,
     "gift_once": 6548
    },
-   "avg_member_chatters": 11.2,
+   "avg_member_chatters": 10.7,
    "partial": true,
    "finalized": false
   }

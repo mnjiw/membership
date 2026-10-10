@@ -2,28 +2,28 @@
  "channel": "Rai Galilei【NIJISANJI / にじさんじ】",
  "channel_id": "UC8Snw5i4eOJXEQqURAK17hQ",
  "handle": "@RaiGalilei",
- "subscribers": 57700,
- "fetched_at": "2026-10-10 10:47",
- "generated_at": "2026-10-10 10:47",
+ "subscribers": 57800,
+ "fetched_at": "2026-10-11 05:29",
+ "generated_at": "2026-10-11 05:29",
  "period": {
-  "from": "2026-09-10 10:47",
-  "to": "2026-10-10 10:47",
+  "from": "2026-09-11 05:29",
+  "to": "2026-10-11 05:29",
   "days": 30
  },
- "streams_analyzed": 14,
+ "streams_analyzed": 13,
  "streams_missed": 0,
- "unique_chatters": 364,
- "members_confirmed": 147,
+ "unique_chatters": 356,
+ "members_confirmed": 105,
  "member_classes": {
-  "unknown": 22,
-  "gift": 115,
-  "known": 10
+  "unknown": 21,
+  "known": 11,
+  "gift": 73
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 113
+   "members": 71
   },
   {
    "months": 1,
@@ -54,10 +54,10 @@
  "events": {
   "new_members": 5,
   "rejoins": 0,
-  "milestones": 5,
-  "gift_purchases": 19,
-  "gifted_total": 115,
-  "gift_redemptions": 115
+  "milestones": 6,
+  "gift_purchases": 14,
+  "gifted_total": 74,
+  "gift_redemptions": 74
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,20 +65,20 @@
    "tier": "A.I.D Program",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 10,
+   "confirmed_members": 11,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 22.0,
+   "allocated_unknown": 21.0,
    "estimated_members": 32.0,
-   "monthly_net_confirmed": 3118,
+   "monthly_net_confirmed": 3430,
    "monthly_net_estimated": 9978
   }
  ],
  "revenue": {
   "monthly_low": 9978,
   "monthly_est": 9978,
-  "gift_once": 35859,
-  "total_low": 45837,
-  "total_est": 45837,
+  "gift_once": 23075,
+  "total_low": 33053,
+  "total_est": 33053,
   "paying_members": 32,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -88,26 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "M53X8Sl8Ucc",
-   "start": "2026-09-10 15:33",
-   "title": "【Valheim】 Rai Galilei's: \"Stranded, alone, and confused\"【NIJISANJI】",
-   "kind": "配信",
-   "chatters": 37,
-   "member_chatters": 11,
-   "new_members": 0,
-   "gifted_total": 5
-  },
-  {
-   "video_id": "JtBYTmEB1-k",
-   "start": "2026-09-11 04:33",
-   "title": "【Valheim】 Rai Galilei's: \"If we eat raw salmon, do we get chickenela\" #2【NIJISANJI】",
-   "kind": "配信",
-   "chatters": 32,
-   "member_chatters": 40,
-   "new_members": 0,
-   "gifted_total": 36
-  },
   {
    "video_id": "gGuzvx8xN6w",
    "start": "2026-09-11 22:36",
@@ -227,6 +207,16 @@
    "member_chatters": 3,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "Hle5WNlhtWY",
+   "start": "2026-10-10 21:04",
+   "title": "【League of Legends】 Collabo stream: \"AHA NOW WITH 5 PEOPLE!!\"【NIJISANJI】",
+   "kind": "配信",
+   "chatters": 65,
+   "member_chatters": 9,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -302,46 +292,55 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-10"
+    "to": "2026-10-11"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 0,
-   "unique_chatters": 27,
-   "members_confirmed": 3,
+   "unique_chatters": 78,
+   "members_confirmed": 9,
    "member_classes": {
-    "unknown": 3
+    "unknown": 8,
+    "known": 1
    },
-   "long_term_members": 2,
+   "long_term_members": 5,
    "badges": [
     {
+     "months": 1,
+     "members": 2
+    },
+    {
      "months": 2,
-     "members": 1
+     "members": 2
+    },
+    {
+     "months": 12,
+     "members": 2
     },
     {
      "months": 24,
-     "members": 2
+     "members": 3
     }
    ],
    "events": {
     "new_members": 0,
     "rejoins": 0,
-    "milestones": 0,
+    "milestones": 1,
     "gifted_total": 0
    },
    "tiers": [
     {
      "tier": "A.I.D Program",
      "price": 490,
-     "confirmed_members": 0,
-     "estimated_members": 3.0
+     "confirmed_members": 1,
+     "estimated_members": 9.0
     }
    ],
    "revenue": {
-    "monthly_low": 935,
-    "monthly_est": 935,
+    "monthly_low": 2806,
+    "monthly_est": 2806,
     "gift_once": 0
    },
-   "avg_member_chatters": 3,
+   "avg_member_chatters": 6,
    "partial": true,
    "finalized": false
   }

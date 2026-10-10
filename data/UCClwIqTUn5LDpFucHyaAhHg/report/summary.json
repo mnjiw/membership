@@ -3,19 +3,19 @@
  "channel_id": "UCClwIqTUn5LDpFucHyaAhHg",
  "handle": "@LeeRoha",
  "subscribers": 110000,
- "fetched_at": "2026-10-10 18:21",
- "generated_at": "2026-10-10 18:21",
+ "fetched_at": "2026-10-11 05:29",
+ "generated_at": "2026-10-11 05:29",
  "period": {
-  "from": "2026-09-10 18:21",
-  "to": "2026-10-10 18:21",
+  "from": "2026-09-11 05:29",
+  "to": "2026-10-11 05:29",
   "days": 30
  },
- "streams_analyzed": 18,
+ "streams_analyzed": 19,
  "streams_missed": 2,
- "unique_chatters": 267,
- "members_confirmed": 66,
+ "unique_chatters": 278,
+ "members_confirmed": 67,
  "member_classes": {
-  "unknown": 38,
+  "unknown": 39,
   "known": 6,
   "gift": 22
  },
@@ -48,7 +48,7 @@
   {
    "months": 60,
    "label": "5年",
-   "members": 5
+   "members": 6
   }
  ],
  "events": {
@@ -67,10 +67,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 3,
    "share_of_confirmed_pct": 50.0,
-   "allocated_unknown": 19.0,
-   "estimated_members": 22.0,
+   "allocated_unknown": 19.5,
+   "estimated_members": 22.5,
    "monthly_net_confirmed": 935,
-   "monthly_net_estimated": 6860
+   "monthly_net_estimated": 7016
   },
   {
    "tier": "🅑🅘🅖宇宙アイドル応援パック",
@@ -78,19 +78,19 @@
    "net_per_member": 439.1,
    "confirmed_members": 3,
    "share_of_confirmed_pct": 50.0,
-   "allocated_unknown": 19.0,
-   "estimated_members": 22.0,
+   "allocated_unknown": 19.5,
+   "estimated_members": 22.5,
    "monthly_net_confirmed": 1317,
-   "monthly_net_estimated": 9660
+   "monthly_net_estimated": 9880
   }
  ],
  "revenue": {
-  "monthly_low": 14102,
-  "monthly_est": 16520,
+  "monthly_low": 14414,
+  "monthly_est": 16895,
   "gift_once": 8419,
-  "total_low": 22521,
-  "total_est": 24939,
-  "paying_members": 44,
+  "total_low": 22833,
+  "total_est": 25315,
+  "paying_members": 45,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -278,6 +278,16 @@
    "member_chatters": 15,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "mWcHqhbpraw",
+   "start": "2026-10-10 22:08",
+   "title": "にじさんじのみんなと仲良くなりたいのです。 [にじさんじ/イロハ]",
+   "kind": "配信",
+   "chatters": 35,
+   "member_chatters": 9,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -295,15 +305,15 @@
   },
   {
    "video_id": "0_wFQM4rUmM",
-   "start": "2026-10-10 16:37",
+   "start": "2026-10-10 00:00",
    "title": "自称元ダイア イロハ様のブロンズ脱出記　[にじさんじ/イロハ]",
-   "kind": "live",
-   "status": "processing",
-   "reason": "アーカイブ処理中（次回再確認）",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 147,
-   "view_count": 626
+   "like_count": 163,
+   "view_count": 5532
   }
  ],
  "members_only_content": [
@@ -395,18 +405,18 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-10"
+    "to": "2026-10-11"
    },
-   "streams_analyzed": 6,
+   "streams_analyzed": 7,
    "streams_missed": 1,
-   "unique_chatters": 124,
-   "members_confirmed": 43,
+   "unique_chatters": 138,
+   "members_confirmed": 44,
    "member_classes": {
-    "unknown": 26,
+    "unknown": 27,
     "known": 4,
     "gift": 13
    },
-   "long_term_members": 26,
+   "long_term_members": 27,
    "badges": [
     {
      "months": 0,
@@ -430,7 +440,7 @@
     },
     {
      "months": 60,
-     "members": 3
+     "members": 4
     }
    ],
    "events": {
@@ -444,21 +454,21 @@
      "tier": "宇宙アイドル応援パック",
      "price": 490,
      "confirmed_members": 2,
-     "estimated_members": 15.0
+     "estimated_members": 15.5
     },
     {
      "tier": "🅑🅘🅖宇宙アイドル応援パック",
      "price": 690,
      "confirmed_members": 2,
-     "estimated_members": 15.0
+     "estimated_members": 15.5
     }
    ],
    "revenue": {
-    "monthly_low": 9609,
-    "monthly_est": 11264,
+    "monthly_low": 9921,
+    "monthly_est": 11639,
     "gift_once": 4054
    },
-   "avg_member_chatters": 14.7,
+   "avg_member_chatters": 13.9,
    "partial": true,
    "finalized": false
   }

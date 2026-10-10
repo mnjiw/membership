@@ -3,15 +3,15 @@
  "channel_id": "UCEFOogmvTTcCaO8Qe0I8-tg",
  "handle": "@KaelixDebonair",
  "subscribers": 239000,
- "fetched_at": "2026-10-10 10:49",
- "generated_at": "2026-10-10 10:49",
+ "fetched_at": "2026-10-11 05:39",
+ "generated_at": "2026-10-11 05:39",
  "period": {
-  "from": "2026-09-10 10:49",
-  "to": "2026-10-10 10:49",
+  "from": "2026-09-11 05:39",
+  "to": "2026-10-11 05:39",
   "days": 30
  },
  "streams_analyzed": 13,
- "streams_missed": 1,
+ "streams_missed": 0,
  "unique_chatters": 5677,
  "members_confirmed": 1407,
  "member_classes": {
@@ -199,32 +199,8 @@
    "gifted_total": 28
   }
  ],
- "missed_streams": [
-  {
-   "video_id": "pdLYXWT-Nf8",
-   "start": "2026-09-10 21:21",
-   "title": "designing something else ✏️",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 398,
-   "view_count": null
-  }
- ],
- "members_only_content": [
-  {
-   "video_id": "pdLYXWT-Nf8",
-   "start": "2026-09-10 21:21",
-   "title": "designing something else ✏️",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 398,
-   "view_count": null
-  }
- ],
+ "missed_streams": [],
+ "members_only_content": [],
  "history": [
   {
    "month": "2026-09",
@@ -280,7 +256,7 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-10"
+    "to": "2026-10-11"
    },
    "streams_analyzed": 3,
    "streams_missed": 0,

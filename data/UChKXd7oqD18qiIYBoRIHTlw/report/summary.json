@@ -3,42 +3,42 @@
  "channel_id": "UChKXd7oqD18qiIYBoRIHTlw",
  "handle": "@MelocoKyoran",
  "subscribers": 728000,
- "fetched_at": "2026-10-10 10:48",
- "generated_at": "2026-10-10 10:49",
+ "fetched_at": "2026-10-11 05:37",
+ "generated_at": "2026-10-11 05:38",
  "period": {
-  "from": "2026-09-10 10:48",
-  "to": "2026-10-10 10:48",
+  "from": "2026-09-11 05:37",
+  "to": "2026-10-11 05:37",
   "days": 30
  },
  "streams_analyzed": 15,
  "streams_missed": 3,
- "unique_chatters": 4264,
- "members_confirmed": 516,
+ "unique_chatters": 4207,
+ "members_confirmed": 510,
  "member_classes": {
-  "unknown": 399,
-  "known": 43,
+  "known": 41,
+  "unknown": 395,
   "gift": 74
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 110
+   "members": 112
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 14
+   "members": 13
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 55
+   "members": 52
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 166
+   "members": 162
   },
   {
    "months": 12,
@@ -54,7 +54,7 @@
  "events": {
   "new_members": 14,
   "rejoins": 4,
-  "milestones": 9,
+  "milestones": 8,
   "gift_purchases": 8,
   "gifted_total": 73,
   "gift_redemptions": 74
@@ -65,21 +65,21 @@
    "tier": "Meloveship",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 43,
+   "confirmed_members": 41,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 399.0,
-   "estimated_members": 442.0,
-   "monthly_net_confirmed": 13408,
-   "monthly_net_estimated": 137824
+   "allocated_unknown": 395.0,
+   "estimated_members": 436.0,
+   "monthly_net_confirmed": 12785,
+   "monthly_net_estimated": 135953
   }
  ],
  "revenue": {
-  "monthly_low": 137824,
-  "monthly_est": 137824,
+  "monthly_low": 135953,
+  "monthly_est": 135953,
   "gift_once": 22763,
-  "total_low": 160586,
-  "total_est": 160586,
-  "paying_members": 442,
+  "total_low": 158715,
+  "total_est": 158715,
+  "paying_members": 436,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "xyMwIRf4aa4",
-   "start": "2026-09-10 20:00",
-   "title": "【BOMBANANA!】力を封じられた三人で協力して爆弾解除【リモーネ先生/ 如月れん/ 狂蘭メロコ】",
-   "kind": "配信",
-   "chatters": 333,
-   "member_chatters": 118,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "oaQGnjk6F84",
    "start": "2026-09-11 23:36",
@@ -237,6 +227,16 @@
    "member_chatters": 83,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "zizlkOXgAek",
+   "start": "2026-10-10 23:50",
+   "title": "【龍が如く0 誓いの場所】ZERO 第4章極道の証明 真島吾朗視点～【NIJISANJI EN￤Meloco Kyoran】",
+   "kind": "配信",
+   "chatters": 523,
+   "member_chatters": 73,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -261,7 +261,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 195,
+   "like_count": 196,
    "view_count": null
   },
   {
@@ -273,7 +273,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 151,
+   "like_count": 152,
    "view_count": null
   }
  ],
@@ -295,7 +295,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 195,
+   "like_count": 196,
    "view_count": null
   },
   {
@@ -305,7 +305,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 151,
+   "like_count": 152,
    "view_count": null
   }
  ],
@@ -380,22 +380,22 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-10"
+    "to": "2026-10-11"
    },
-   "streams_analyzed": 6,
+   "streams_analyzed": 7,
    "streams_missed": 1,
-   "unique_chatters": 1922,
-   "members_confirmed": 300,
+   "unique_chatters": 2049,
+   "members_confirmed": 307,
    "member_classes": {
-    "unknown": 255,
+    "unknown": 262,
     "known": 32,
     "gift": 13
    },
-   "long_term_members": 104,
+   "long_term_members": 106,
    "badges": [
     {
      "months": 0,
-     "members": 39
+     "members": 41
     },
     {
      "months": 1,
@@ -403,7 +403,7 @@
     },
     {
      "months": 2,
-     "members": 31
+     "members": 34
     },
     {
      "months": 6,
@@ -415,7 +415,7 @@
     },
     {
      "months": 24,
-     "members": 44
+     "members": 46
     }
    ],
    "events": {
@@ -429,15 +429,15 @@
      "tier": "Meloveship",
      "price": 490,
      "confirmed_members": 32,
-     "estimated_members": 287.0
+     "estimated_members": 294.0
     }
    ],
    "revenue": {
-    "monthly_low": 89492,
-    "monthly_est": 89492,
+    "monthly_low": 91675,
+    "monthly_est": 91675,
     "gift_once": 4054
    },
-   "avg_member_chatters": 109.2,
+   "avg_member_chatters": 104,
    "partial": true,
    "finalized": false
   }

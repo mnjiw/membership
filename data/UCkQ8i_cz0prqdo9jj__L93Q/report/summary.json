@@ -3,19 +3,19 @@
  "channel_id": "UCkQ8i_cz0prqdo9jj__L93Q",
  "handle": "@SakayoriSoma",
  "subscribers": 280000,
- "fetched_at": "2026-10-10 10:47",
- "generated_at": "2026-10-10 10:47",
+ "fetched_at": "2026-10-11 05:33",
+ "generated_at": "2026-10-11 05:34",
  "period": {
-  "from": "2026-09-10 10:47",
-  "to": "2026-10-10 10:47",
+  "from": "2026-09-11 05:33",
+  "to": "2026-10-11 05:33",
   "days": 30
  },
- "streams_analyzed": 15,
+ "streams_analyzed": 14,
  "streams_missed": 2,
- "unique_chatters": 2839,
- "members_confirmed": 654,
+ "unique_chatters": 2731,
+ "members_confirmed": 621,
  "member_classes": {
-  "unknown": 604,
+  "unknown": 571,
   "known": 10,
   "gift": 40
  },
@@ -23,27 +23,27 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 89
+   "members": 86
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 43
+   "members": 42
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 109
+   "members": 103
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 110
+   "members": 103
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 303
+   "members": 287
   }
  ],
  "events": {
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 10,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 604.0,
-   "estimated_members": 614.0,
+   "allocated_unknown": 571.0,
+   "estimated_members": 581.0,
    "monthly_net_confirmed": 3118,
-   "monthly_net_estimated": 191456
+   "monthly_net_estimated": 181166
   }
  ],
  "revenue": {
-  "monthly_low": 191456,
-  "monthly_est": 191456,
+  "monthly_low": 181166,
+  "monthly_est": 181166,
   "gift_once": 12473,
-  "total_low": 203929,
-  "total_est": 203929,
-  "paying_members": 614,
+  "total_low": 193639,
+  "total_est": 193639,
+  "paying_members": 581,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "sbQ0Y3i5fps",
-   "start": "2026-09-10 21:00",
-   "title": "【Don't Drop The Cake】飲食店勤務なので余裕【酒寄颯馬/にじさんじ】",
-   "kind": "配信",
-   "chatters": 402,
-   "member_chatters": 225,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "tExORX9nkcY",
    "start": "2026-09-12 21:35",
@@ -256,7 +246,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 223,
+   "like_count": 224,
    "view_count": null
   }
  ],
@@ -278,7 +268,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 223,
+   "like_count": 224,
    "view_count": null
   }
  ],
@@ -349,7 +339,7 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-10"
+    "to": "2026-10-11"
    },
    "streams_analyzed": 4,
    "streams_missed": 0,

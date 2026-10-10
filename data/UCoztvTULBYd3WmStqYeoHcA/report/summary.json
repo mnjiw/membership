@@ -3,37 +3,37 @@
  "channel_id": "UCoztvTULBYd3WmStqYeoHcA",
  "handle": "@SasakiSaku",
  "subscribers": 1000000,
- "fetched_at": "2026-10-10 10:45",
- "generated_at": "2026-10-10 10:45",
+ "fetched_at": "2026-10-11 05:18",
+ "generated_at": "2026-10-11 05:18",
  "period": {
-  "from": "2026-09-10 10:45",
-  "to": "2026-10-10 10:45",
+  "from": "2026-09-11 05:18",
+  "to": "2026-10-11 05:18",
   "days": 30
  },
- "streams_analyzed": 18,
+ "streams_analyzed": 14,
  "streams_missed": 1,
- "unique_chatters": 5300,
- "members_confirmed": 414,
+ "unique_chatters": 5037,
+ "members_confirmed": 398,
  "member_classes": {
-  "unknown": 383,
-  "gift": 20,
-  "known": 11
+  "unknown": 371,
+  "known": 11,
+  "gift": 16
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 35
+   "members": 31
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 16
+   "members": 15
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 31
+   "members": 29
   },
   {
    "months": 6,
@@ -48,26 +48,26 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 33
+   "members": 31
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 49
+   "members": 48
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 199
+   "members": 193
   }
  ],
  "events": {
   "new_members": 4,
   "rejoins": 6,
   "milestones": 0,
-  "gift_purchases": 18,
-  "gifted_total": 22,
-  "gift_redemptions": 20
+  "gift_purchases": 14,
+  "gifted_total": 18,
+  "gift_redemptions": 16
  },
  "tiers_configured": true,
  "tiers": [
@@ -77,19 +77,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 11,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 383.0,
-   "estimated_members": 394.0,
+   "allocated_unknown": 371.0,
+   "estimated_members": 382.0,
    "monthly_net_confirmed": 3430,
-   "monthly_net_estimated": 122856
+   "monthly_net_estimated": 119115
   }
  ],
  "revenue": {
-  "monthly_low": 122856,
-  "monthly_est": 122856,
-  "gift_once": 6860,
-  "total_low": 129716,
-  "total_est": 129716,
-  "paying_members": 394,
+  "monthly_low": 119115,
+  "monthly_est": 119115,
+  "gift_once": 5613,
+  "total_low": 124727,
+  "total_est": 124727,
+  "paying_members": 382,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,46 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "A2OrVugisC4",
-   "start": "2026-09-10 18:01",
-   "title": "やられたら即終了の『スーパーマリオサンシャイン』やよ〜。#03",
-   "kind": "配信",
-   "chatters": 167,
-   "member_chatters": 68,
-   "new_members": 0,
-   "gifted_total": 1
-  },
-  {
-   "video_id": "_9oJdg2vr7I",
-   "start": "2026-09-10 18:22",
-   "title": "やられたら即終了の『スーパーマリオサンシャイン』やよ〜。#04",
-   "kind": "配信",
-   "chatters": 216,
-   "member_chatters": 81,
-   "new_members": 0,
-   "gifted_total": 1
-  },
-  {
-   "video_id": "QN7i1QjNizc",
-   "start": "2026-09-10 18:33",
-   "title": "やられたら即終了の『スーパーマリオサンシャイン』やよ〜。#05",
-   "kind": "配信",
-   "chatters": 221,
-   "member_chatters": 78,
-   "new_members": 0,
-   "gifted_total": 1
-  },
-  {
-   "video_id": "3xszes6fLhQ",
-   "start": "2026-09-10 18:45",
-   "title": "やられたら即終了の『スーパーマリオサンシャイン』やよ〜。#06",
-   "kind": "配信",
-   "chatters": 433,
-   "member_chatters": 104,
-   "new_members": 0,
-   "gifted_total": 1
-  },
   {
    "video_id": "1c7pYubbW7M",
    "start": "2026-09-12 13:00",
@@ -289,7 +249,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 195,
+   "like_count": 196,
    "view_count": null
   }
  ],
@@ -301,7 +261,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 195,
+   "like_count": 196,
    "view_count": null
   }
  ],
@@ -384,7 +344,7 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-10"
+    "to": "2026-10-11"
    },
    "streams_analyzed": 6,
    "streams_missed": 0,

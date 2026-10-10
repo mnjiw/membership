@@ -3,27 +3,27 @@
  "channel_id": "UCy91xBlY_Brh3bnHxKtjrrg",
  "handle": "@DoppioDropscythe",
  "subscribers": 264000,
- "fetched_at": "2026-10-10 10:48",
- "generated_at": "2026-10-10 10:48",
+ "fetched_at": "2026-10-11 05:37",
+ "generated_at": "2026-10-11 05:38",
  "period": {
-  "from": "2026-09-10 10:48",
-  "to": "2026-10-10 10:48",
+  "from": "2026-09-11 05:37",
+  "to": "2026-10-11 05:37",
   "days": 30
  },
- "streams_analyzed": 24,
- "streams_missed": 5,
- "unique_chatters": 1251,
- "members_confirmed": 599,
+ "streams_analyzed": 25,
+ "streams_missed": 6,
+ "unique_chatters": 1254,
+ "members_confirmed": 604,
  "member_classes": {
   "known": 132,
   "unknown": 198,
-  "gift": 269
+  "gift": 274
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 263
+   "members": 268
   },
   {
    "months": 1,
@@ -60,9 +60,9 @@
   "new_members": 2,
   "rejoins": 13,
   "milestones": 148,
-  "gift_purchases": 60,
-  "gifted_total": 275,
-  "gift_redemptions": 273
+  "gift_purchases": 61,
+  "gifted_total": 280,
+  "gift_redemptions": 278
  },
  "tiers_configured": true,
  "tiers": [
@@ -81,9 +81,9 @@
  "revenue": {
   "monthly_low": 144900,
   "monthly_est": 144900,
-  "gift_once": 120750,
-  "total_low": 265650,
-  "total_est": 265650,
+  "gift_once": 122945,
+  "total_low": 267845,
+  "total_est": 267845,
   "paying_members": 330,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -332,6 +332,16 @@
    "member_chatters": 71,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "LZXrJuFzS-E",
+   "start": "2026-10-10 11:01",
+   "title": "tWo. [Urban Myth Dissolution Center / 都市伝説解体センター] 【NIJISANJI  EN | Doppio Dropscythe】",
+   "kind": "配信",
+   "chatters": 82,
+   "member_chatters": 61,
+   "new_members": 0,
+   "gifted_total": 5
   }
  ],
  "missed_streams": [
@@ -384,6 +394,18 @@
    "view_count": null
   },
   {
+   "video_id": "G5RaPw_UnCY",
+   "start": "2026-10-10 00:00",
+   "title": "tWo. SoLuTIon.  [Urban Myth Dissolution Center / 都市伝説解体センター] 【NIJISANJI  EN | Doppio Dropscythe】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 191,
+   "view_count": 3177
+  },
+  {
    "video_id": "M5w4nU5s724",
    "start": "2026-10-10 00:25",
    "title": "late night seeeecret workkk ooo~~【NIJISANJI  EN | Doppio Dropscythe】",
@@ -392,7 +414,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 55,
+   "like_count": 60,
    "view_count": null
   }
  ],
@@ -444,7 +466,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 55,
+   "like_count": 60,
    "view_count": null
   }
  ],
@@ -523,22 +545,22 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-10"
+    "to": "2026-10-11"
    },
-   "streams_analyzed": 6,
-   "streams_missed": 2,
-   "unique_chatters": 419,
-   "members_confirmed": 260,
+   "streams_analyzed": 7,
+   "streams_missed": 3,
+   "unique_chatters": 429,
+   "members_confirmed": 268,
    "member_classes": {
     "known": 92,
-    "unknown": 105,
-    "gift": 63
+    "unknown": 108,
+    "gift": 68
    },
-   "long_term_members": 141,
+   "long_term_members": 144,
    "badges": [
     {
      "months": 0,
-     "members": 69
+     "members": 74
     },
     {
      "months": 1,
@@ -554,11 +576,11 @@
     },
     {
      "months": 12,
-     "members": 35
+     "members": 36
     },
     {
      "months": 24,
-     "members": 30
+     "members": 32
     },
     {
      "months": 36,
@@ -569,22 +591,22 @@
     "new_members": 1,
     "rejoins": 2,
     "milestones": 25,
-    "gifted_total": 63
+    "gifted_total": 68
    },
    "tiers": [
     {
      "tier": "The Arcade, Dropplets!!",
      "price": 690,
      "confirmed_members": 92,
-     "estimated_members": 197.0
+     "estimated_members": 200.0
     }
    ],
    "revenue": {
-    "monthly_low": 86501,
-    "monthly_est": 86501,
-    "gift_once": 27663
+    "monthly_low": 87818,
+    "monthly_est": 87818,
+    "gift_once": 29858
    },
-   "avg_member_chatters": 95.5,
+   "avg_member_chatters": 90.6,
    "partial": true,
    "finalized": false
   }

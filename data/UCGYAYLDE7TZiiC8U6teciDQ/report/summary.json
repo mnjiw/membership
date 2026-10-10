@@ -3,26 +3,26 @@
  "channel_id": "UCGYAYLDE7TZiiC8U6teciDQ",
  "handle": "@HakaseFuyuki",
  "subscribers": 478000,
- "fetched_at": "2026-10-10 10:46",
- "generated_at": "2026-10-10 10:46",
+ "fetched_at": "2026-10-11 05:22",
+ "generated_at": "2026-10-11 05:22",
  "period": {
-  "from": "2026-09-10 10:46",
-  "to": "2026-10-10 10:46",
+  "from": "2026-09-11 05:22",
+  "to": "2026-10-11 05:22",
   "days": 30
  },
  "streams_analyzed": 13,
  "streams_missed": 2,
- "unique_chatters": 1255,
- "members_confirmed": 340,
+ "unique_chatters": 1256,
+ "members_confirmed": 341,
  "member_classes": {
-  "unknown": 300,
-  "known": 40
+  "unknown": 299,
+  "known": 42
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 19
+   "members": 20
   },
   {
    "months": 1,
@@ -51,8 +51,8 @@
   }
  ],
  "events": {
-  "new_members": 19,
-  "rejoins": 15,
+  "new_members": 20,
+  "rejoins": 16,
   "milestones": 6,
   "gift_purchases": 0,
   "gifted_total": 0,
@@ -64,21 +64,21 @@
    "tier": "葉加瀬のラボメン",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 40,
+   "confirmed_members": 42,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 300.0,
-   "estimated_members": 340.0,
-   "monthly_net_confirmed": 12473,
-   "monthly_net_estimated": 106018
+   "allocated_unknown": 299.0,
+   "estimated_members": 341.0,
+   "monthly_net_confirmed": 13096,
+   "monthly_net_estimated": 106330
   }
  ],
  "revenue": {
-  "monthly_low": 106018,
-  "monthly_est": 106018,
+  "monthly_low": 106330,
+  "monthly_est": 106330,
   "gift_once": 0,
-  "total_low": 106018,
-  "total_est": 106018,
-  "paying_members": 340,
+  "total_low": 106330,
+  "total_est": 106330,
+  "paying_members": 341,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -87,16 +87,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "p8LSFLNqtP8",
-   "start": "2026-09-11 00:01",
-   "title": "【デイヴ・ザ・ダイバー】サメとマグロで社運かける寿司屋【にじさんじ / 葉加瀬冬雪】",
-   "kind": "配信",
-   "chatters": 195,
-   "member_chatters": 94,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "J0J5xyv-Tj0",
    "start": "2026-09-13 00:04",
@@ -216,6 +206,16 @@
    "member_chatters": 84,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "ZEkmmRA000Q",
+   "start": "2026-10-11 00:02",
+   "title": "【デイヴ・ザ・ダイバー】新エリアへ【にじさんじ / 葉加瀬冬雪】",
+   "kind": "配信",
+   "chatters": 176,
+   "member_chatters": 96,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -228,7 +228,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "葉加瀬のラボメン",
-   "like_count": 108,
+   "like_count": 109,
    "view_count": null
   },
   {
@@ -240,7 +240,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "葉加瀬のラボメン",
-   "like_count": 245,
+   "like_count": 246,
    "view_count": null
   }
  ],
@@ -252,7 +252,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "葉加瀬のラボメン",
-   "like_count": 108,
+   "like_count": 109,
    "view_count": null
   },
   {
@@ -262,7 +262,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "葉加瀬のラボメン",
-   "like_count": 245,
+   "like_count": 246,
    "view_count": null
   }
  ],
@@ -336,21 +336,21 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-10"
+    "to": "2026-10-11"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 6,
    "streams_missed": 0,
-   "unique_chatters": 759,
-   "members_confirmed": 214,
+   "unique_chatters": 798,
+   "members_confirmed": 221,
    "member_classes": {
-    "unknown": 195,
-    "known": 19
+    "unknown": 199,
+    "known": 22
    },
-   "long_term_members": 180,
+   "long_term_members": 183,
    "badges": [
     {
      "months": 0,
-     "members": 10
+     "members": 11
     },
     {
      "months": 1,
@@ -358,7 +358,7 @@
     },
     {
      "months": 2,
-     "members": 11
+     "members": 14
     },
     {
      "months": 6,
@@ -370,12 +370,12 @@
     },
     {
      "months": 24,
-     "members": 162
+     "members": 165
     }
    ],
    "events": {
-    "new_members": 10,
-    "rejoins": 7,
+    "new_members": 11,
+    "rejoins": 9,
     "milestones": 1,
     "gifted_total": 0
    },
@@ -383,16 +383,16 @@
     {
      "tier": "葉加瀬のラボメン",
      "price": 490,
-     "confirmed_members": 19,
-     "estimated_members": 214.0
+     "confirmed_members": 22,
+     "estimated_members": 221.0
     }
    ],
    "revenue": {
-    "monthly_low": 66729,
-    "monthly_est": 66729,
+    "monthly_low": 68912,
+    "monthly_est": 68912,
     "gift_once": 0
    },
-   "avg_member_chatters": 95.4,
+   "avg_member_chatters": 95.5,
    "partial": true,
    "finalized": false
   }

@@ -3,31 +3,31 @@
  "channel_id": "UCSFCh5NL4qXrAy9u-u2lX3g",
  "handle": "@Kuzuha",
  "subscribers": 2220000,
- "fetched_at": "2026-10-10 10:45",
- "generated_at": "2026-10-10 10:45",
+ "fetched_at": "2026-10-11 05:18",
+ "generated_at": "2026-10-11 05:19",
  "period": {
-  "from": "2026-09-10 10:45",
-  "to": "2026-10-10 10:45",
+  "from": "2026-09-11 05:18",
+  "to": "2026-10-11 05:18",
   "days": 30
  },
- "streams_analyzed": 22,
+ "streams_analyzed": 23,
  "streams_missed": 0,
- "unique_chatters": 20812,
- "members_confirmed": 5920,
+ "unique_chatters": 21278,
+ "members_confirmed": 5970,
  "member_classes": {
-  "unknown": 5723,
+  "unknown": 5773,
   "known": 197
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 232
+   "members": 233
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 128
+   "members": 130
   },
   {
    "months": 2,
@@ -37,12 +37,12 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 390
+   "members": 392
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 973
+   "members": 984
   },
   {
    "months": 24,
@@ -52,12 +52,12 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 662
+   "members": 668
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 2220
+   "members": 2248
   }
  ],
  "events": {
@@ -76,19 +76,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 197,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 5723.0,
-   "estimated_members": 5920.0,
+   "allocated_unknown": 5773.0,
+   "estimated_members": 5970.0,
    "monthly_net_confirmed": 61428,
-   "monthly_net_estimated": 1845964
+   "monthly_net_estimated": 1861555
   }
  ],
  "revenue": {
-  "monthly_low": 1845964,
-  "monthly_est": 1845964,
+  "monthly_low": 1861555,
+  "monthly_est": 1861555,
   "gift_once": 0,
-  "total_low": 1845964,
-  "total_est": 1845964,
-  "paying_members": 5920,
+  "total_low": 1861555,
+  "total_est": 1861555,
+  "paying_members": 5970,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -316,6 +316,16 @@
    "member_chatters": 1862,
    "new_members": 9,
    "gifted_total": 0
+  },
+  {
+   "video_id": "KyRE0qhFtb4",
+   "start": "2026-10-10 12:04",
+   "title": "【LOL】顔合わせ【LTK CCCCCCCCC】",
+   "kind": "配信",
+   "chatters": 2406,
+   "member_chatters": 1084,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -398,49 +408,49 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-10"
+    "to": "2026-10-11"
    },
-   "streams_analyzed": 7,
+   "streams_analyzed": 8,
    "streams_missed": 0,
-   "unique_chatters": 12072,
-   "members_confirmed": 4180,
+   "unique_chatters": 12817,
+   "members_confirmed": 4292,
    "member_classes": {
-    "unknown": 4056,
+    "unknown": 4168,
     "known": 124
    },
-   "long_term_members": 3299,
+   "long_term_members": 3393,
    "badges": [
     {
      "months": 0,
-     "members": 140
+     "members": 142
     },
     {
      "months": 1,
-     "members": 91
+     "members": 94
     },
     {
      "months": 2,
-     "members": 363
+     "members": 368
     },
     {
      "months": 6,
-     "members": 287
+     "members": 295
     },
     {
      "months": 12,
-     "members": 673
+     "members": 695
     },
     {
      "months": 24,
-     "members": 559
+     "members": 566
     },
     {
      "months": 36,
-     "members": 481
+     "members": 496
     },
     {
      "months": 48,
-     "members": 1586
+     "members": 1636
     }
    ],
    "events": {
@@ -454,15 +464,15 @@
      "tier": "チャンネル メンバーシップ",
      "price": 490,
      "confirmed_members": 124,
-     "estimated_members": 4180.0
+     "estimated_members": 4292.0
     }
    ],
    "revenue": {
-    "monthly_low": 1303400,
-    "monthly_est": 1303400,
+    "monthly_low": 1338324,
+    "monthly_est": 1338324,
     "gift_once": 0
    },
-   "avg_member_chatters": 1636.1,
+   "avg_member_chatters": 1567.1,
    "partial": true,
    "finalized": false
   }

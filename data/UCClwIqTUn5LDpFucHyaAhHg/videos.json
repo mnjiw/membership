@@ -180,8 +180,8 @@
    "checked_at": "2026-10-07 10:24",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1791577520.5316281,
-   "likes_checked_at": "2026-10-10 05:25"
+   "likes_checked_ts": 1791664174.7679045,
+   "likes_checked_at": "2026-10-11 05:29"
   },
   "P5EjlBNAWVA": {
    "id": "P5EjlBNAWVA",
@@ -546,25 +546,45 @@
   "0_wFQM4rUmM": {
    "id": "0_wFQM4rUmM",
    "title": "自称元ダイア イロハ様のブロンズ脱出記　[にじさんじ/イロハ]",
-   "kind": "live",
-   "start_ts": 1791617852,
-   "start_jst": "2026-10-10 16:37",
-   "duration_sec": 5736,
-   "view_count": 626,
-   "like_count": 147,
-   "live_status": "post_live",
+   "kind": "video",
+   "start_ts": 1791558000.0,
+   "start_jst": "2026-10-10 00:00",
+   "duration_sec": null,
+   "view_count": 5532,
+   "like_count": 163,
+   "live_status": null,
    "members_only": false,
    "has_chat": false,
-   "checked_at": "2026-10-10 18:21",
-   "status": "processing"
+   "checked_at": "2026-10-11 05:29",
+   "info_limited": true,
+   "error": "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)",
+   "status": "error",
+   "failed_since_ts": 1791664174.7679045
+  },
+  "mWcHqhbpraw": {
+   "id": "mWcHqhbpraw",
+   "title": "にじさんじのみんなと仲良くなりたいのです。 [にじさんじ/イロハ]",
+   "kind": "live",
+   "start_ts": 1791637712.177919,
+   "start_jst": "2026-10-10 22:08",
+   "duration_sec": 12010,
+   "view_count": 4546,
+   "like_count": 270,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-10-11 05:29",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "イ・ロハ / LeeRoha【にじさんじ】",
  "channel_id": "UCClwIqTUn5LDpFucHyaAhHg",
  "handle": "@LeeRoha",
  "subscribers": 110000,
- "fetched_at": "2026-10-10 18:21",
- "fetched_at_ts": 1791624070.669587,
- "checked_from": "2026-10-03 18:21",
+ "fetched_at": "2026-10-11 05:29",
+ "fetched_at_ts": 1791664174.7679045,
+ "checked_from": "2026-10-04 05:29",
  "initial_fetch_done": true
 }

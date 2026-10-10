@@ -3,20 +3,20 @@
  "channel_id": "UCpRXCTyNNa-MnjhK6gisnRw",
  "handle": "@Gaon",
  "subscribers": 59400,
- "fetched_at": "2026-10-10 10:47",
- "generated_at": "2026-10-10 10:47",
+ "fetched_at": "2026-10-11 05:29",
+ "generated_at": "2026-10-11 05:29",
  "period": {
-  "from": "2026-09-10 10:47",
-  "to": "2026-10-10 10:47",
+  "from": "2026-09-11 05:29",
+  "to": "2026-10-11 05:29",
   "days": 30
  },
- "streams_analyzed": 13,
+ "streams_analyzed": 14,
  "streams_missed": 1,
- "unique_chatters": 1135,
- "members_confirmed": 155,
+ "unique_chatters": 1142,
+ "members_confirmed": 156,
  "member_classes": {
   "known": 22,
-  "unknown": 90,
+  "unknown": 91,
   "gift": 43
  },
  "badges": [
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 17
+   "members": 18
   },
   {
    "months": 24,
@@ -67,10 +67,10 @@
    "net_per_member": 184.5,
    "confirmed_members": 4,
    "share_of_confirmed_pct": 18.2,
-   "allocated_unknown": 16.4,
-   "estimated_members": 20.4,
+   "allocated_unknown": 16.5,
+   "estimated_members": 20.5,
    "monthly_net_confirmed": 738,
-   "monthly_net_estimated": 3758
+   "monthly_net_estimated": 3792
   },
   {
    "tier": "Gaide🚩취업센터 就業センター",
@@ -78,10 +78,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 16,
    "share_of_confirmed_pct": 72.7,
-   "allocated_unknown": 65.5,
-   "estimated_members": 81.5,
+   "allocated_unknown": 66.2,
+   "estimated_members": 82.2,
    "monthly_net_confirmed": 4989,
-   "monthly_net_estimated": 25399
+   "monthly_net_estimated": 25626
   },
   {
    "tier": "Gaide🚩인턴쉽 インターンシップ",
@@ -89,19 +89,19 @@
    "net_per_member": 820.9,
    "confirmed_members": 2,
    "share_of_confirmed_pct": 9.1,
-   "allocated_unknown": 8.2,
-   "estimated_members": 10.2,
+   "allocated_unknown": 8.3,
+   "estimated_members": 10.3,
    "monthly_net_confirmed": 1642,
-   "monthly_net_estimated": 8358
+   "monthly_net_estimated": 8433
   }
  ],
  "revenue": {
-  "monthly_low": 23978,
-  "monthly_est": 37515,
+  "monthly_low": 24163,
+  "monthly_est": 37850,
   "gift_once": 7935,
-  "total_low": 31914,
-  "total_est": 45451,
-  "paying_members": 112,
+  "total_low": 32098,
+  "total_est": 45786,
+  "paying_members": 113,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -239,6 +239,16 @@
    "member_chatters": 100,
    "new_members": 5,
    "gifted_total": 11
+  },
+  {
+   "video_id": "dh-gZCJqsKk",
+   "start": "2026-10-10 22:31",
+   "title": "【和階堂真の事件簿 #1】事件があるから探偵もいる！【にじさんじ | ガオン】",
+   "kind": "配信",
+   "chatters": 39,
+   "member_chatters": 23,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -251,7 +261,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "Gaide🚩취업센터 就業センター",
-   "like_count": 20,
+   "like_count": 23,
    "view_count": null
   }
  ],
@@ -263,7 +273,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "Gaide🚩취업센터 就業センター",
-   "like_count": 20,
+   "like_count": 23,
    "view_count": null
   }
  ],
@@ -350,18 +360,18 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-10"
+    "to": "2026-10-11"
    },
-   "streams_analyzed": 2,
+   "streams_analyzed": 3,
    "streams_missed": 1,
-   "unique_chatters": 446,
-   "members_confirmed": 102,
+   "unique_chatters": 453,
+   "members_confirmed": 103,
    "member_classes": {
     "known": 21,
-    "unknown": 70,
+    "unknown": 71,
     "gift": 11
    },
-   "long_term_members": 71,
+   "long_term_members": 72,
    "badges": [
     {
      "months": 0,
@@ -381,7 +391,7 @@
     },
     {
      "months": 12,
-     "members": 17
+     "members": 18
     },
     {
      "months": 24,
@@ -399,27 +409,27 @@
      "tier": "안내소 案内所",
      "price": 290,
      "confirmed_members": 4,
-     "estimated_members": 17.3
+     "estimated_members": 17.5
     },
     {
      "tier": "Gaide🚩취업센터 就業センター",
      "price": 490,
      "confirmed_members": 15,
-     "estimated_members": 65.0
+     "estimated_members": 65.7
     },
     {
      "tier": "Gaide🚩인턴쉽 インターンシップ",
      "price": 1290,
      "confirmed_members": 2,
-     "estimated_members": 8.7
+     "estimated_members": 8.8
     }
    ],
    "revenue": {
-    "monthly_low": 19975,
-    "monthly_est": 30582,
+    "monthly_low": 20160,
+    "monthly_est": 30918,
     "gift_once": 2030
    },
-   "avg_member_chatters": 57.5,
+   "avg_member_chatters": 46,
    "partial": true,
    "finalized": false
   }

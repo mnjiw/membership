@@ -3,27 +3,32 @@
  "channel_id": "UCu-J8uIXuLZh16gG-cT1naw",
  "handle": "@FinanaRyugu",
  "subscribers": 475000,
- "fetched_at": "2026-10-10 10:48",
- "generated_at": "2026-10-10 10:48",
+ "fetched_at": "2026-10-11 05:36",
+ "generated_at": "2026-10-11 05:36",
  "period": {
-  "from": "2026-09-10 10:48",
-  "to": "2026-10-10 10:48",
+  "from": "2026-09-11 05:36",
+  "to": "2026-10-11 05:36",
   "days": 30
  },
- "streams_analyzed": 21,
+ "streams_analyzed": 22,
  "streams_missed": 4,
- "unique_chatters": 619,
- "members_confirmed": 148,
+ "unique_chatters": 638,
+ "members_confirmed": 154,
  "member_classes": {
   "unknown": 73,
-  "known": 16,
-  "gift": 59
+  "known": 17,
+  "gift": 64
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 64
+   "members": 69
+  },
+  {
+   "months": 1,
+   "label": "1ヶ月",
+   "members": 1
   },
   {
    "months": 2,
@@ -47,12 +52,12 @@
   }
  ],
  "events": {
-  "new_members": 0,
+  "new_members": 1,
   "rejoins": 1,
   "milestones": 13,
-  "gift_purchases": 39,
-  "gifted_total": 59,
-  "gift_redemptions": 59
+  "gift_purchases": 40,
+  "gifted_total": 64,
+  "gift_redemptions": 64
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,21 +65,21 @@
    "tier": "Ryuguard",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 16,
+   "confirmed_members": 17,
    "share_of_confirmed_pct": 100.0,
    "allocated_unknown": 73.0,
-   "estimated_members": 89.0,
-   "monthly_net_confirmed": 7025,
-   "monthly_net_estimated": 39079
+   "estimated_members": 90.0,
+   "monthly_net_confirmed": 7465,
+   "monthly_net_estimated": 39518
   }
  ],
  "revenue": {
-  "monthly_low": 39079,
-  "monthly_est": 39079,
-  "gift_once": 25906,
-  "total_low": 64985,
-  "total_est": 64985,
-  "paying_members": 89,
+  "monthly_low": 39518,
+  "monthly_est": 39518,
+  "gift_once": 28102,
+  "total_low": 67620,
+  "total_est": 67620,
+  "paying_members": 90,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -292,6 +297,16 @@
    "member_chatters": 23,
    "new_members": 0,
    "gifted_total": 1
+  },
+  {
+   "video_id": "VVfJTPoZyf8",
+   "start": "2026-10-10 07:05",
+   "title": "【DEAD BY DAYLIGHT】NIER AUTOMATA COLLAB",
+   "kind": "配信",
+   "chatters": 100,
+   "member_chatters": 39,
+   "new_members": 1,
+   "gifted_total": 5
   }
  ],
  "missed_streams": [
@@ -457,22 +472,26 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-10"
+    "to": "2026-10-11"
    },
-   "streams_analyzed": 7,
+   "streams_analyzed": 8,
    "streams_missed": 1,
-   "unique_chatters": 243,
-   "members_confirmed": 84,
+   "unique_chatters": 284,
+   "members_confirmed": 92,
    "member_classes": {
-    "known": 11,
-    "unknown": 49,
-    "gift": 24
+    "known": 12,
+    "unknown": 51,
+    "gift": 29
    },
-   "long_term_members": 51,
+   "long_term_members": 52,
    "badges": [
     {
      "months": 0,
-     "members": 25
+     "members": 31
+    },
+    {
+     "months": 1,
+     "members": 1
     },
     {
      "months": 2,
@@ -488,29 +507,29 @@
     },
     {
      "months": 24,
-     "members": 39
+     "members": 40
     }
    ],
    "events": {
-    "new_members": 0,
+    "new_members": 1,
     "rejoins": 0,
     "milestones": 3,
-    "gifted_total": 24
+    "gifted_total": 29
    },
    "tiers": [
     {
      "tier": "Ryuguard",
      "price": 690,
-     "confirmed_members": 11,
-     "estimated_members": 60.0
+     "confirmed_members": 12,
+     "estimated_members": 63.0
     }
    ],
    "revenue": {
-    "monthly_low": 26345,
-    "monthly_est": 26345,
-    "gift_once": 10538
+    "monthly_low": 27663,
+    "monthly_est": 27663,
+    "gift_once": 12734
    },
-   "avg_member_chatters": 29.9,
+   "avg_member_chatters": 31,
    "partial": true,
    "finalized": false
   }

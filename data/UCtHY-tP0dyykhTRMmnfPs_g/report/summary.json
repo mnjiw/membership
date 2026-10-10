@@ -3,26 +3,26 @@
  "channel_id": "UCtHY-tP0dyykhTRMmnfPs_g",
  "handle": "@UmiseYotsuha",
  "subscribers": 270000,
- "fetched_at": "2026-10-10 10:46",
- "generated_at": "2026-10-10 10:46",
+ "fetched_at": "2026-10-11 05:27",
+ "generated_at": "2026-10-11 05:28",
  "period": {
-  "from": "2026-09-10 10:46",
-  "to": "2026-10-10 10:46",
+  "from": "2026-09-11 05:27",
+  "to": "2026-10-11 05:27",
   "days": 30
  },
- "streams_analyzed": 3,
+ "streams_analyzed": 4,
  "streams_missed": 1,
- "unique_chatters": 563,
- "members_confirmed": 105,
+ "unique_chatters": 720,
+ "members_confirmed": 110,
  "member_classes": {
-  "unknown": 103,
+  "unknown": 108,
   "known": 2
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 7
+   "members": 8
   },
   {
    "months": 1,
@@ -32,7 +32,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 8
+   "members": 9
   },
   {
    "months": 6,
@@ -42,7 +42,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 15
+   "members": 16
   },
   {
    "months": 24,
@@ -52,7 +52,7 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 57
+   "members": 59
   }
  ],
  "events": {
@@ -71,10 +71,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 2,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 103.0,
-   "estimated_members": 105.0,
+   "allocated_unknown": 108.0,
+   "estimated_members": 110.0,
    "monthly_net_confirmed": 624,
-   "monthly_net_estimated": 32741
+   "monthly_net_estimated": 34300
   },
   {
    "tier": "ほごしゃ会",
@@ -89,12 +89,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 32741,
-  "monthly_est": 32741,
+  "monthly_low": 34300,
+  "monthly_est": 34300,
   "gift_once": 0,
-  "total_low": 32741,
-  "total_est": 32741,
-  "paying_members": 105,
+  "total_low": 34300,
+  "total_est": 34300,
+  "paying_members": 110,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -132,6 +132,16 @@
    "member_chatters": 53,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "KVcdvmiIbt0",
+   "start": "2026-10-10 14:00",
+   "title": "【ELDEN RING】#23  完全初見！ミケラの聖樹 続編 【海妹四葉/にじさんじ】",
+   "kind": "配信",
+   "chatters": 240,
+   "member_chatters": 44,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -165,21 +175,21 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-05",
-    "to": "2026-10-10"
+    "to": "2026-10-11"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 4,
    "streams_missed": 0,
-   "unique_chatters": 563,
-   "members_confirmed": 105,
+   "unique_chatters": 720,
+   "members_confirmed": 110,
    "member_classes": {
-    "unknown": 103,
+    "unknown": 108,
     "known": 2
    },
-   "long_term_members": 83,
+   "long_term_members": 86,
    "badges": [
     {
      "months": 0,
-     "members": 7
+     "members": 8
     },
     {
      "months": 1,
@@ -187,7 +197,7 @@
     },
     {
      "months": 2,
-     "members": 8
+     "members": 9
     },
     {
      "months": 6,
@@ -195,7 +205,7 @@
     },
     {
      "months": 12,
-     "members": 15
+     "members": 16
     },
     {
      "months": 24,
@@ -203,7 +213,7 @@
     },
     {
      "months": 36,
-     "members": 57
+     "members": 59
     }
    ],
    "events": {
@@ -217,7 +227,7 @@
      "tier": "コアツメイト",
      "price": 490,
      "confirmed_members": 2,
-     "estimated_members": 105.0
+     "estimated_members": 110.0
     },
     {
      "tier": "ほごしゃ会",
@@ -227,11 +237,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 32741,
-    "monthly_est": 32741,
+    "monthly_low": 34300,
+    "monthly_est": 34300,
     "gift_once": 0
    },
-   "avg_member_chatters": 51.7,
+   "avg_member_chatters": 49.8,
    "partial": true,
    "finalized": false
   }

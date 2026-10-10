@@ -3,19 +3,19 @@
  "channel_id": "UC0g1AE0DOjBYnLhkgoRWN1w",
  "handle": "@HonmaHimawari",
  "subscribers": 786000,
- "fetched_at": "2026-10-10 10:45",
- "generated_at": "2026-10-10 10:45",
+ "fetched_at": "2026-10-11 05:18",
+ "generated_at": "2026-10-11 05:19",
  "period": {
-  "from": "2026-09-10 10:45",
-  "to": "2026-10-10 10:45",
+  "from": "2026-09-11 05:18",
+  "to": "2026-10-11 05:18",
   "days": 30
  },
  "streams_analyzed": 17,
  "streams_missed": 1,
- "unique_chatters": 2729,
- "members_confirmed": 245,
+ "unique_chatters": 2763,
+ "members_confirmed": 240,
  "member_classes": {
-  "unknown": 236,
+  "unknown": 231,
   "known": 9
  },
  "badges": [
@@ -27,12 +27,12 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 3
+   "members": 2
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 8
+   "members": 9
   },
   {
    "months": 6,
@@ -52,12 +52,12 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 18
+   "members": 17
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 172
+   "members": 168
   }
  ],
  "events": {
@@ -76,19 +76,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 9,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 236.0,
-   "estimated_members": 245.0,
+   "allocated_unknown": 231.0,
+   "estimated_members": 240.0,
    "monthly_net_confirmed": 2806,
-   "monthly_net_estimated": 76395
+   "monthly_net_estimated": 74836
   }
  ],
  "revenue": {
-  "monthly_low": 76395,
-  "monthly_est": 76395,
+  "monthly_low": 74836,
+  "monthly_est": 74836,
   "gift_once": 0,
-  "total_low": 76395,
-  "total_est": 76395,
-  "paying_members": 245,
+  "total_low": 74836,
+  "total_est": 74836,
+  "paying_members": 240,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -97,16 +97,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "S-DZGHSkuXc",
-   "start": "2026-09-10 20:01",
-   "title": "꒰ Don't Drop The Cake 🍰꒱　ケーキを落とすな？EZ～～～👋　˹ 本間ひまわり にじさんじ ˼",
-   "kind": "配信",
-   "chatters": 210,
-   "member_chatters": 100,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "DDMFTYJYTDw",
    "start": "2026-09-12 19:57",
@@ -266,6 +256,16 @@
    "member_chatters": 84,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "SynjF8WumHY",
+   "start": "2026-10-10 12:23",
+   "title": "#2 ꒰FF1꒱　人生初FF🔥光の４人の戦士たち！　˹ 本間ひまわり にじさんじ ˼",
+   "kind": "配信",
+   "chatters": 266,
+   "member_chatters": 65,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -372,29 +372,25 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-10"
+    "to": "2026-10-11"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 6,
    "streams_missed": 0,
-   "unique_chatters": 1015,
-   "members_confirmed": 164,
+   "unique_chatters": 1103,
+   "members_confirmed": 170,
    "member_classes": {
-    "unknown": 159,
-    "known": 5
+    "unknown": 164,
+    "known": 6
    },
-   "long_term_members": 157,
+   "long_term_members": 163,
    "badges": [
     {
      "months": 0,
      "members": 2
     },
     {
-     "months": 1,
-     "members": 1
-    },
-    {
      "months": 2,
-     "members": 2
+     "members": 3
     },
     {
      "months": 6,
@@ -410,11 +406,11 @@
     },
     {
      "months": 36,
-     "members": 12
+     "members": 13
     },
     {
      "months": 48,
-     "members": 118
+     "members": 123
     }
    ],
    "events": {
@@ -427,16 +423,16 @@
     {
      "tier": "ひまぐま",
      "price": 490,
-     "confirmed_members": 5,
-     "estimated_members": 164.0
+     "confirmed_members": 6,
+     "estimated_members": 170.0
     }
    ],
    "revenue": {
-    "monthly_low": 51138,
-    "monthly_est": 51138,
+    "monthly_low": 53009,
+    "monthly_est": 53009,
     "gift_once": 0
    },
-   "avg_member_chatters": 81.6,
+   "avg_member_chatters": 78.8,
    "partial": true,
    "finalized": false
   }

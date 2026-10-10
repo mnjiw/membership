@@ -2,47 +2,47 @@
  "channel": "御子神琴音 / Mikogami Kotone【にじさんじ】",
  "channel_id": "UCwjlRIySBvZ-kLV5bfjya4A",
  "handle": "@MikogamiKotone_Y4T4",
- "subscribers": 216000,
- "fetched_at": "2026-10-10 10:48",
- "generated_at": "2026-10-10 10:50",
+ "subscribers": 218000,
+ "fetched_at": "2026-10-11 05:35",
+ "generated_at": "2026-10-11 05:40",
  "period": {
-  "from": "2026-09-10 10:48",
-  "to": "2026-10-10 10:48",
+  "from": "2026-09-11 05:35",
+  "to": "2026-10-11 05:35",
   "days": 30
  },
- "streams_analyzed": 10,
- "streams_missed": 1,
- "unique_chatters": 6098,
- "members_confirmed": 948,
+ "streams_analyzed": 12,
+ "streams_missed": 0,
+ "unique_chatters": 8168,
+ "members_confirmed": 1157,
  "member_classes": {
-  "unknown": 899,
-  "known": 34,
-  "gift": 15
+  "unknown": 950,
+  "known": 137,
+  "gift": 70
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 99
+   "members": 187
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 48
+   "members": 70
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 801
+   "members": 900
   }
  ],
  "events": {
-  "new_members": 15,
-  "rejoins": 2,
-  "milestones": 18,
-  "gift_purchases": 2,
-  "gifted_total": 15,
-  "gift_redemptions": 15
+  "new_members": 43,
+  "rejoins": 8,
+  "milestones": 92,
+  "gift_purchases": 8,
+  "gifted_total": 70,
+  "gift_redemptions": 70
  },
  "tiers_configured": true,
  "tiers": [
@@ -50,21 +50,21 @@
    "tier": "御子神家使用人",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 34,
+   "confirmed_members": 137,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 899.0,
-   "estimated_members": 933.0,
-   "monthly_net_confirmed": 10602,
-   "monthly_net_estimated": 290926
+   "allocated_unknown": 950.0,
+   "estimated_members": 1087.0,
+   "monthly_net_confirmed": 42719,
+   "monthly_net_estimated": 338946
   }
  ],
  "revenue": {
-  "monthly_low": 290926,
-  "monthly_est": 290926,
-  "gift_once": 4677,
-  "total_low": 295604,
-  "total_est": 295604,
-  "paying_members": 933,
+  "monthly_low": 338946,
+  "monthly_est": 338946,
+  "gift_once": 21827,
+  "total_low": 360774,
+  "total_est": 360774,
+  "paying_members": 1087,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -172,34 +172,30 @@
    "member_chatters": 491,
    "new_members": 2,
    "gifted_total": 0
-  }
- ],
- "missed_streams": [
+  },
   {
-   "video_id": "DGlCRZF-6BE",
-   "start": "2026-09-10 22:06",
-   "title": "御子神琴音がパソコン組むだけ",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 511,
-   "view_count": null
-  }
- ],
- "members_only_content": [
+   "video_id": "vL1aruIiuaI",
+   "start": "2026-10-10 08:07",
+   "title": "【Jump King】登録者20万人を記念して、Jump Kingクリア耐久とさせていただきます。その2。【御子神琴音 / にじさんじ】",
+   "kind": "配信",
+   "chatters": 2504,
+   "member_chatters": 473,
+   "new_members": 2,
+   "gifted_total": 30
+  },
   {
-   "video_id": "DGlCRZF-6BE",
-   "start": "2026-09-10 22:06",
-   "title": "御子神琴音がパソコン組むだけ",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 511,
-   "view_count": null
+   "video_id": "bd89hnXhCR4",
+   "start": "2026-10-10 20:18",
+   "title": "【Jump King】登録者20万人を記念して、Jump Kingクリア耐久とさせていただきます。その3。【御子神琴音 / にじさんじ】",
+   "kind": "配信",
+   "chatters": 2881,
+   "member_chatters": 604,
+   "new_members": 26,
+   "gifted_total": 25
   }
  ],
+ "missed_streams": [],
+ "members_only_content": [],
  "history": [
   {
    "month": "2026-09",
@@ -259,51 +255,52 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-10"
+    "to": "2026-10-11"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 5,
    "streams_missed": 0,
-   "unique_chatters": 3455,
-   "members_confirmed": 638,
+   "unique_chatters": 5953,
+   "members_confirmed": 920,
    "member_classes": {
-    "unknown": 617,
-    "known": 21
+    "unknown": 740,
+    "known": 125,
+    "gift": 55
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 44
+     "members": 143
     },
     {
      "months": 1,
-     "members": 32
+     "members": 59
     },
     {
      "months": 2,
-     "members": 562
+     "members": 718
     }
    ],
    "events": {
-    "new_members": 4,
-    "rejoins": 1,
-    "milestones": 2,
-    "gifted_total": 0
+    "new_members": 32,
+    "rejoins": 7,
+    "milestones": 76,
+    "gifted_total": 55
    },
    "tiers": [
     {
      "tier": "御子神家使用人",
      "price": 490,
-     "confirmed_members": 21,
-     "estimated_members": 638.0
+     "confirmed_members": 125,
+     "estimated_members": 865.0
     }
    ],
    "revenue": {
-    "monthly_low": 198940,
-    "monthly_est": 198940,
-    "gift_once": 0
+    "monthly_low": 269723,
+    "monthly_est": 269723,
+    "gift_once": 17150
    },
-   "avg_member_chatters": 367,
+   "avg_member_chatters": 435.6,
    "partial": true,
    "finalized": false
   }

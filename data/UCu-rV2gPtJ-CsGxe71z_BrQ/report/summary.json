@@ -3,50 +3,50 @@
  "channel_id": "UCu-rV2gPtJ-CsGxe71z_BrQ",
  "handle": "@IgarashiRika",
  "subscribers": 358000,
- "fetched_at": "2026-10-10 10:47",
- "generated_at": "2026-10-10 10:47",
+ "fetched_at": "2026-10-11 05:30",
+ "generated_at": "2026-10-11 05:31",
  "period": {
-  "from": "2026-09-10 10:47",
-  "to": "2026-10-10 10:47",
+  "from": "2026-09-11 05:30",
+  "to": "2026-10-11 05:30",
   "days": 30
  },
  "streams_analyzed": 24,
  "streams_missed": 2,
- "unique_chatters": 4089,
- "members_confirmed": 583,
+ "unique_chatters": 3810,
+ "members_confirmed": 544,
  "member_classes": {
-  "unknown": 564,
+  "unknown": 525,
   "known": 19
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 33
+   "members": 29
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 15
+   "members": 13
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 42
+   "members": 40
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 94
+   "members": 88
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 399
+   "members": 374
   }
  ],
  "events": {
-  "new_members": 10,
+  "new_members": 11,
   "rejoins": 7,
   "milestones": 0,
   "gift_purchases": 0,
@@ -61,19 +61,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 19,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 564.0,
-   "estimated_members": 583.0,
+   "allocated_unknown": 525.0,
+   "estimated_members": 544.0,
    "monthly_net_confirmed": 5925,
-   "monthly_net_estimated": 181790
+   "monthly_net_estimated": 169629
   }
  ],
  "revenue": {
-  "monthly_low": 181790,
-  "monthly_est": 181790,
+  "monthly_low": 169629,
+  "monthly_est": 169629,
   "gift_once": 0,
-  "total_low": 181790,
-  "total_est": 181790,
-  "paying_members": 583,
+  "total_low": 169629,
+  "total_est": 169629,
+  "paying_members": 544,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -82,16 +82,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "QBD2JPh8ncw",
-   "start": "2026-09-10 20:05",
-   "title": "お絵描き心理テスト┊︎オタクギャルの心の中覗いてく？？【 にじさんじ / 五十嵐梨花 】",
-   "kind": "配信",
-   "chatters": 971,
-   "member_chatters": 302,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "KWTdUq_qvIM",
    "start": "2026-09-11 21:09",
@@ -321,6 +311,16 @@
    "member_chatters": 189,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "op-AmVSrzto",
+   "start": "2026-10-10 21:03",
+   "title": "魔法少女ノ魔女裁判┊︎#7 第6話~ どういうことだァ？【 にじさんじ / 五十嵐梨花 】",
+   "kind": "配信",
+   "chatters": 837,
+   "member_chatters": 183,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -437,21 +437,21 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-10"
+    "to": "2026-10-11"
    },
-   "streams_analyzed": 8,
+   "streams_analyzed": 9,
    "streams_missed": 1,
-   "unique_chatters": 1947,
-   "members_confirmed": 411,
+   "unique_chatters": 2057,
+   "members_confirmed": 417,
    "member_classes": {
-    "unknown": 402,
-    "known": 9
+    "unknown": 407,
+    "known": 10
    },
-   "long_term_members": 292,
+   "long_term_members": 296,
    "badges": [
     {
      "months": 0,
-     "members": 19
+     "members": 20
     },
     {
      "months": 1,
@@ -463,15 +463,15 @@
     },
     {
      "months": 6,
-     "members": 62
+     "members": 63
     },
     {
      "months": 12,
-     "members": 292
+     "members": 296
     }
    ],
    "events": {
-    "new_members": 4,
+    "new_members": 5,
     "rejoins": 2,
     "milestones": 0,
     "gifted_total": 0
@@ -480,16 +480,16 @@
     {
      "tier": "五十嵐の監督さんたち",
      "price": 490,
-     "confirmed_members": 9,
-     "estimated_members": 411.0
+     "confirmed_members": 10,
+     "estimated_members": 417.0
     }
    ],
    "revenue": {
-    "monthly_low": 128157,
-    "monthly_est": 128157,
+    "monthly_low": 130028,
+    "monthly_est": 130028,
     "gift_once": 0
    },
-   "avg_member_chatters": 193.2,
+   "avg_member_chatters": 192.1,
    "partial": true,
    "finalized": false
   }
