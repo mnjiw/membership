@@ -306,8 +306,9 @@ def fetch_one(args, video_id: str, chats_dir: Path, cutoff_ts: float, prev: dict
             if prev.get("was_public_when_live"):
                 return meta, "became_members_only"
             return meta, "members_only"
-        if kind == "video" and limited and tab == "live":
-            # ライブタブにある枠なのに配信かどうか分からない = 情報が欠けている。決めつけずに次回また確認する
+        if kind == "video" and limited:
+            # 配信・プレミア公開かどうか分からない = 情報が欠けている。決めつけずに次回また確認する
+            # (動画タブの枠も、情報が欠けているとプレミア公開のチャットを見落とすので同じ扱いにする)
             meta["error"] = "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)"
             return meta, "error"
         if kind == "video":
