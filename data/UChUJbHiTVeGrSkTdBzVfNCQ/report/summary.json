@@ -3,15 +3,15 @@
  "channel_id": "UChUJbHiTVeGrSkTdBzVfNCQ",
  "handle": "@JoeRikiichi",
  "subscribers": 665000,
- "fetched_at": "2026-10-11 09:59",
- "generated_at": "2026-10-11 09:59",
+ "fetched_at": "2026-10-12 05:21",
+ "generated_at": "2026-10-12 05:21",
  "period": {
-  "from": "2026-09-11 09:59",
-  "to": "2026-10-11 09:59",
+  "from": "2026-09-12 05:21",
+  "to": "2026-10-12 05:21",
   "days": 30
  },
  "streams_analyzed": 10,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 4941,
  "members_confirmed": 980,
  "member_classes": {
@@ -189,7 +189,20 @@
    "gifted_total": 20
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "_BJ-QfDQMtM",
+   "start": "2026-10-11 00:00",
+   "title": "【発破！！！！】リスナーから寄せられたバカ過ぎる大掃除のやり方でとっ散らかるジョー・力一【にじさんじ切り抜き/空昼ブランコ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 2287,
+   "view_count": 92748
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -262,10 +275,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-11"
+    "to": "2026-10-12"
    },
    "streams_analyzed": 3,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 1708,
    "members_confirmed": 513,
    "member_classes": {

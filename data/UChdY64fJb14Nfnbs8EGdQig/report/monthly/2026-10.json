@@ -2,67 +2,68 @@
  "month": "2026-10",
  "coverage": {
   "from": "2026-10-01",
-  "to": "2026-10-11"
+  "to": "2026-10-12"
  },
- "streams_analyzed": 7,
+ "streams_analyzed": 8,
  "streams_missed": 0,
- "unique_chatters": 2224,
- "members_confirmed": 1652,
+ "unique_chatters": 3219,
+ "members_confirmed": 2180,
  "member_classes": {
-  "unknown": 1518,
-  "known": 134
+  "unknown": 1893,
+  "known": 282,
+  "gift": 5
  },
- "long_term_members": 1221,
+ "long_term_members": 1587,
  "badges": [
   {
    "months": 0,
-   "members": 60
+   "members": 99
   },
   {
    "months": 1,
-   "members": 50
+   "members": 74
   },
   {
    "months": 2,
-   "members": 143
+   "members": 202
   },
   {
    "months": 6,
-   "members": 178
+   "members": 218
   },
   {
    "months": 12,
-   "members": 616
+   "members": 818
   },
   {
    "months": 24,
-   "members": 446
+   "members": 567
   },
   {
    "months": 36,
-   "members": 159
+   "members": 202
   }
  ],
  "events": {
-  "new_members": 11,
-  "rejoins": 14,
-  "milestones": 85,
-  "gifted_total": 0
+  "new_members": 23,
+  "rejoins": 18,
+  "milestones": 223,
+  "gifted_total": 5
  },
  "tiers": [
   {
    "tier": "叢雲観察所",
    "price": 490,
-   "confirmed_members": 134,
-   "estimated_members": 1652.0
+   "confirmed_members": 282,
+   "estimated_members": 2175.0
   }
  ],
  "revenue": {
-  "monthly_low": 515124,
-  "monthly_est": 515124,
-  "gift_once": 0
+  "monthly_low": 678205,
+  "monthly_est": 678205,
+  "gift_once": 1559
  },
- "avg_member_chatters": 653.7,
+ "avg_member_chatters": 763.1,
  "partial": true,
  "finalized": false
 }

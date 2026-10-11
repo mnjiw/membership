@@ -3,27 +3,27 @@
  "channel_id": "UCK9l6rTwU3hiSZijIMq51Gw",
  "handle": "@VezaliusBandage",
  "subscribers": 236000,
- "fetched_at": "2026-10-11 10:02",
- "generated_at": "2026-10-11 10:02",
+ "fetched_at": "2026-10-12 05:39",
+ "generated_at": "2026-10-12 05:39",
  "period": {
-  "from": "2026-09-11 10:02",
-  "to": "2026-10-11 10:02",
+  "from": "2026-09-12 05:39",
+  "to": "2026-10-12 05:39",
   "days": 30
  },
- "streams_analyzed": 25,
+ "streams_analyzed": 24,
  "streams_missed": 3,
- "unique_chatters": 1075,
- "members_confirmed": 452,
+ "unique_chatters": 1006,
+ "members_confirmed": 433,
  "member_classes": {
-  "unknown": 191,
+  "unknown": 182,
   "known": 50,
-  "gift": 211
+  "gift": 201
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 221
+   "members": 211
   },
   {
    "months": 1,
@@ -33,31 +33,31 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 28
+   "members": 27
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 30
+   "members": 27
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 71
+   "members": 67
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 93
+   "members": 92
   }
  ],
  "events": {
   "new_members": 5,
   "rejoins": 6,
-  "milestones": 28,
-  "gift_purchases": 32,
-  "gifted_total": 211,
-  "gift_redemptions": 211
+  "milestones": 24,
+  "gift_purchases": 30,
+  "gifted_total": 201,
+  "gift_redemptions": 201
  },
  "tiers_configured": true,
  "tiers": [
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 50,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 191.0,
-   "estimated_members": 241.0,
+   "allocated_unknown": 182.0,
+   "estimated_members": 232.0,
    "monthly_net_confirmed": 15591,
-   "monthly_net_estimated": 75148
+   "monthly_net_estimated": 72342
   }
  ],
  "revenue": {
-  "monthly_low": 75148,
-  "monthly_est": 75148,
-  "gift_once": 65794,
-  "total_low": 140942,
-  "total_est": 140942,
-  "paying_members": 241,
+  "monthly_low": 72342,
+  "monthly_est": 72342,
+  "gift_once": 62675,
+  "total_low": 135017,
+  "total_est": 135017,
+  "paying_members": 232,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "InTXvTiQF4k",
-   "start": "2026-09-11 21:01",
-   "title": "【A Dance of Fire and Ice】Defeating the Rat King【NIJISANJI EN | Vezalius Bandage】",
-   "kind": "配信",
-   "chatters": 217,
-   "member_chatters": 108,
-   "new_members": 0,
-   "gifted_total": 10
-  },
   {
    "video_id": "XR696PqO3KE",
    "start": "2026-09-13 21:02",
@@ -373,7 +363,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 40,
+   "like_count": 41,
    "view_count": null
   }
  ],
@@ -405,7 +395,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 40,
+   "like_count": 41,
    "view_count": null
   }
  ],
@@ -480,7 +470,7 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-11"
+    "to": "2026-10-12"
    },
    "streams_analyzed": 8,
    "streams_missed": 1,

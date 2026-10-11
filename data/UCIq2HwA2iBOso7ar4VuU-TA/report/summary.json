@@ -3,37 +3,37 @@
  "channel_id": "UCIq2HwA2iBOso7ar4VuU-TA",
  "handle": "@KadouMikaru",
  "subscribers": 131000,
- "fetched_at": "2026-10-11 10:01",
- "generated_at": "2026-10-11 10:01",
+ "fetched_at": "2026-10-12 05:35",
+ "generated_at": "2026-10-12 05:36",
  "period": {
-  "from": "2026-09-11 10:01",
-  "to": "2026-10-11 10:01",
+  "from": "2026-09-12 05:35",
+  "to": "2026-10-12 05:35",
   "days": 30
  },
  "streams_analyzed": 27,
  "streams_missed": 4,
- "unique_chatters": 4375,
+ "unique_chatters": 4832,
  "members_confirmed": 804,
  "member_classes": {
-  "unknown": 707,
-  "known": 33,
+  "unknown": 705,
+  "known": 35,
   "gift": 64
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 143
+   "members": 142
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 59
+   "members": 60
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 152
+   "members": 150
   },
   {
    "months": 6,
@@ -43,11 +43,11 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 294
+   "members": 296
   }
  ],
  "events": {
-  "new_members": 23,
+  "new_members": 24,
   "rejoins": 8,
   "milestones": 0,
   "gift_purchases": 6,
@@ -60,11 +60,11 @@
    "tier": "かたつむり組",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 33,
+   "confirmed_members": 35,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 707.0,
+   "allocated_unknown": 705.0,
    "estimated_members": 740.0,
-   "monthly_net_confirmed": 10290,
+   "monthly_net_confirmed": 10914,
    "monthly_net_estimated": 230745
   }
  ],
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "nk0ublfdPiI",
-   "start": "2026-09-11 22:00",
-   "title": "【 Snowed Under | 雪葬 】 話題の最新作！雪を掘り進めた先には…… 【 にじさんじ / 蝸堂みかる 】",
-   "kind": "配信",
-   "chatters": 383,
-   "member_chatters": 205,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "RofmcuWNB2w",
    "start": "2026-09-13 15:30",
@@ -352,6 +342,16 @@
    "member_chatters": 200,
    "new_members": 2,
    "gifted_total": 0
+  },
+  {
+   "video_id": "DHuEEGGR3Yc",
+   "start": "2026-10-11 20:03",
+   "title": "【 Log Riders 】 協 力 して丸太を転がし、ゴールを目指すゲームですよ。w/ 叶 先輩 【 にじさんじ / 蝸堂みかる 】",
+   "kind": "配信",
+   "chatters": 850,
+   "member_chatters": 196,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -388,7 +388,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "かたつむり組",
-   "like_count": 177,
+   "like_count": 178,
    "view_count": null
   },
   {
@@ -400,7 +400,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "かたつむり組",
-   "like_count": 189,
+   "like_count": 191,
    "view_count": null
   }
  ],
@@ -432,7 +432,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "かたつむり組",
-   "like_count": 177,
+   "like_count": 178,
    "view_count": null
   },
   {
@@ -442,7 +442,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "かたつむり組",
-   "like_count": 189,
+   "like_count": 191,
    "view_count": null
   }
  ],
@@ -513,18 +513,18 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-11"
+    "to": "2026-10-12"
    },
-   "streams_analyzed": 9,
+   "streams_analyzed": 10,
    "streams_missed": 2,
-   "unique_chatters": 1921,
-   "members_confirmed": 503,
+   "unique_chatters": 2484,
+   "members_confirmed": 523,
    "member_classes": {
-    "unknown": 466,
-    "known": 17,
+    "unknown": 484,
+    "known": 19,
     "gift": 20
    },
-   "long_term_members": 213,
+   "long_term_members": 221,
    "badges": [
     {
      "months": 0,
@@ -532,24 +532,24 @@
     },
     {
      "months": 1,
-     "members": 31
+     "members": 32
     },
     {
      "months": 2,
-     "members": 93
+     "members": 98
     },
     {
      "months": 6,
-     "members": 97
+     "members": 103
     },
     {
      "months": 12,
-     "members": 213
+     "members": 221
     }
    ],
    "events": {
-    "new_members": 9,
-    "rejoins": 1,
+    "new_members": 10,
+    "rejoins": 2,
     "milestones": 0,
     "gifted_total": 20
    },
@@ -557,16 +557,16 @@
     {
      "tier": "かたつむり組",
      "price": 490,
-     "confirmed_members": 17,
-     "estimated_members": 483.0
+     "confirmed_members": 19,
+     "estimated_members": 503.0
     }
    ],
    "revenue": {
-    "monthly_low": 150608,
-    "monthly_est": 150608,
+    "monthly_low": 156845,
+    "monthly_est": 156845,
     "gift_once": 6236
    },
-   "avg_member_chatters": 189.8,
+   "avg_member_chatters": 190.4,
    "partial": true,
    "finalized": false
   }

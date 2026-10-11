@@ -3,27 +3,27 @@
  "channel_id": "UCQ1zGxHrfEmmW4CPpBx9-qw",
  "handle": "@AlbanKnox",
  "subscribers": 746000,
- "fetched_at": "2026-10-11 10:02",
- "generated_at": "2026-10-11 10:02",
+ "fetched_at": "2026-10-12 05:38",
+ "generated_at": "2026-10-12 05:38",
  "period": {
-  "from": "2026-09-11 10:02",
-  "to": "2026-10-11 10:02",
+  "from": "2026-09-12 05:38",
+  "to": "2026-10-12 05:38",
   "days": 30
  },
- "streams_analyzed": 14,
+ "streams_analyzed": 13,
  "streams_missed": 2,
- "unique_chatters": 1581,
- "members_confirmed": 572,
+ "unique_chatters": 1418,
+ "members_confirmed": 551,
  "member_classes": {
-  "known": 56,
-  "unknown": 293,
-  "gift": 223
+  "unknown": 284,
+  "known": 54,
+  "gift": 213
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 234
+   "members": 224
   },
   {
    "months": 1,
@@ -33,41 +33,41 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 38
+   "members": 37
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 36
+   "members": 34
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 63
+   "members": 62
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 57
+   "members": 54
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 65
+   "members": 64
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 72
+   "members": 69
   }
  ],
  "events": {
-  "new_members": 4,
+  "new_members": 3,
   "rejoins": 5,
-  "milestones": 51,
-  "gift_purchases": 54,
-  "gifted_total": 223,
-  "gift_redemptions": 223
+  "milestones": 48,
+  "gift_purchases": 53,
+  "gifted_total": 213,
+  "gift_redemptions": 213
  },
  "tiers_configured": true,
  "tiers": [
@@ -75,32 +75,32 @@
    "tier": "Konbini Crew",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 16,
-   "share_of_confirmed_pct": 28.6,
-   "allocated_unknown": 83.7,
-   "estimated_members": 99.7,
-   "monthly_net_confirmed": 4989,
-   "monthly_net_estimated": 31093
+   "confirmed_members": 14,
+   "share_of_confirmed_pct": 25.9,
+   "allocated_unknown": 73.6,
+   "estimated_members": 87.6,
+   "monthly_net_confirmed": 4365,
+   "monthly_net_estimated": 27325
   },
   {
    "tier": "MEGA Konbini Crew",
    "price": 790,
    "net_per_member": 502.7,
    "confirmed_members": 40,
-   "share_of_confirmed_pct": 71.4,
-   "allocated_unknown": 209.3,
-   "estimated_members": 249.3,
+   "share_of_confirmed_pct": 74.1,
+   "allocated_unknown": 210.4,
+   "estimated_members": 250.4,
    "monthly_net_confirmed": 20109,
-   "monthly_net_estimated": 125323
+   "monthly_net_estimated": 125868
   }
  ],
  "revenue": {
-  "monthly_low": 116461,
-  "monthly_est": 156415,
-  "gift_once": 69535,
-  "total_low": 185996,
-  "total_est": 225951,
-  "paying_members": 349,
+  "monthly_low": 113031,
+  "monthly_est": 153193,
+  "gift_once": 66417,
+  "total_low": 179448,
+  "total_est": 219610,
+  "paying_members": 338,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -109,16 +109,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "sTR83-Ac7no",
-   "start": "2026-09-11 20:06",
-   "title": "【 JSP3 日本事故物件監視協会3 #2 】 ?GNIHTYREVE HSINIF EW NAC 【 NIJISANJI EN | Alban Knox 】",
-   "kind": "配信",
-   "chatters": 402,
-   "member_chatters": 147,
-   "new_members": 1,
-   "gifted_total": 10
-  },
   {
    "video_id": "aGHw7QVxPZc",
    "start": "2026-09-12 20:02",
@@ -272,7 +262,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "MEGA Konbini Crew",
-   "like_count": 98,
+   "like_count": 99,
    "view_count": null
   }
  ],
@@ -294,7 +284,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "MEGA Konbini Crew",
-   "like_count": 98,
+   "like_count": 99,
    "view_count": null
   }
  ],
@@ -383,7 +373,7 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-11"
+    "to": "2026-10-12"
    },
    "streams_analyzed": 6,
    "streams_missed": 0,

@@ -3,42 +3,42 @@
  "channel_id": "UCpjypWF_wNRs9_TrjjWngpQ",
  "handle": "@NagisaTrout",
  "subscribers": 313000,
- "fetched_at": "2026-10-11 10:01",
- "generated_at": "2026-10-11 10:01",
+ "fetched_at": "2026-10-12 05:34",
+ "generated_at": "2026-10-12 05:35",
  "period": {
-  "from": "2026-09-11 10:01",
-  "to": "2026-10-11 10:01",
+  "from": "2026-09-12 05:34",
+  "to": "2026-10-12 05:34",
   "days": 30
  },
- "streams_analyzed": 16,
+ "streams_analyzed": 18,
  "streams_missed": 0,
- "unique_chatters": 3409,
- "members_confirmed": 802,
+ "unique_chatters": 3519,
+ "members_confirmed": 817,
  "member_classes": {
-  "unknown": 780,
-  "known": 18,
+  "unknown": 794,
+  "known": 19,
   "gift": 4
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 63
+   "members": 66
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 248
+   "members": 250
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 141
+   "members": 142
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 349
+   "members": 358
   },
   {
    "months": 24,
@@ -48,7 +48,7 @@
  ],
  "events": {
   "new_members": 18,
-  "rejoins": 0,
+  "rejoins": 1,
   "milestones": 0,
   "gift_purchases": 4,
   "gifted_total": 4,
@@ -60,21 +60,21 @@
    "tier": "とれたていくラ～",
    "price": 390,
    "net_per_member": 248.2,
-   "confirmed_members": 18,
+   "confirmed_members": 19,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 780.0,
-   "estimated_members": 798.0,
-   "monthly_net_confirmed": 4467,
-   "monthly_net_estimated": 198049
+   "allocated_unknown": 794.0,
+   "estimated_members": 813.0,
+   "monthly_net_confirmed": 4715,
+   "monthly_net_estimated": 201772
   }
  ],
  "revenue": {
-  "monthly_low": 198049,
-  "monthly_est": 198049,
+  "monthly_low": 201772,
+  "monthly_est": 201772,
   "gift_once": 993,
-  "total_low": 199042,
-  "total_est": 199042,
-  "paying_members": 798,
+  "total_low": 202765,
+  "total_est": 202765,
+  "paying_members": 813,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -242,6 +242,26 @@
    "member_chatters": 169,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "53_grTFMxFU",
+   "start": "2026-10-11 09:37",
+   "title": "【APEX】多分昨日ぶりとかじゃないか【渚トラウト/にじさんじ】",
+   "kind": "配信",
+   "chatters": 281,
+   "member_chatters": 159,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "TESAfXdEMCU",
+   "start": "2026-10-11 19:00",
+   "title": "【Minecraft】息抜きになんか建てたりしたい気がする【渚トラウト/にじさんじ】",
+   "kind": "配信",
+   "chatters": 377,
+   "member_chatters": 183,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -308,34 +328,34 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-11"
+    "to": "2026-10-12"
    },
-   "streams_analyzed": 7,
+   "streams_analyzed": 9,
    "streams_missed": 0,
-   "unique_chatters": 1990,
-   "members_confirmed": 622,
+   "unique_chatters": 2159,
+   "members_confirmed": 651,
    "member_classes": {
-    "unknown": 606,
-    "known": 12,
+    "unknown": 634,
+    "known": 13,
     "gift": 4
    },
-   "long_term_members": 290,
+   "long_term_members": 304,
    "badges": [
     {
      "months": 0,
-     "members": 37
+     "members": 41
     },
     {
      "months": 1,
-     "members": 194
+     "members": 200
     },
     {
      "months": 6,
-     "members": 101
+     "members": 106
     },
     {
      "months": 12,
-     "members": 289
+     "members": 303
     },
     {
      "months": 24,
@@ -344,7 +364,7 @@
    ],
    "events": {
     "new_members": 7,
-    "rejoins": 0,
+    "rejoins": 1,
     "milestones": 0,
     "gifted_total": 4
    },
@@ -352,16 +372,16 @@
     {
      "tier": "とれたていくラ～",
      "price": 390,
-     "confirmed_members": 12,
-     "estimated_members": 618.0
+     "confirmed_members": 13,
+     "estimated_members": 647.0
     }
    ],
    "revenue": {
-    "monthly_low": 153376,
-    "monthly_est": 153376,
+    "monthly_low": 160574,
+    "monthly_est": 160574,
     "gift_once": 993
    },
-   "avg_member_chatters": 229.6,
+   "avg_member_chatters": 216.6,
    "partial": true,
    "finalized": false
   }

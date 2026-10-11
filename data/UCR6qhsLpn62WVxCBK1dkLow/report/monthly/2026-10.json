@@ -2,21 +2,22 @@
  "month": "2026-10",
  "coverage": {
   "from": "2026-10-01",
-  "to": "2026-10-11"
+  "to": "2026-10-12"
  },
- "streams_analyzed": 2,
+ "streams_analyzed": 3,
  "streams_missed": 0,
- "unique_chatters": 282,
- "members_confirmed": 102,
+ "unique_chatters": 433,
+ "members_confirmed": 150,
  "member_classes": {
-  "unknown": 72,
-  "known": 30
+  "unknown": 95,
+  "known": 35,
+  "gift": 20
  },
- "long_term_members": 86,
+ "long_term_members": 113,
  "badges": [
   {
    "months": 0,
-   "members": 2
+   "members": 22
   },
   {
    "months": 1,
@@ -28,45 +29,45 @@
   },
   {
    "months": 6,
-   "members": 6
+   "members": 7
   },
   {
    "months": 12,
-   "members": 12
+   "members": 15
   },
   {
    "months": 24,
-   "members": 14
+   "members": 19
   },
   {
    "months": 36,
-   "members": 26
+   "members": 34
   },
   {
    "months": 48,
-   "members": 34
+   "members": 45
   }
  ],
  "events": {
   "new_members": 0,
   "rejoins": 0,
-  "milestones": 3,
-  "gifted_total": 0
+  "milestones": 7,
+  "gifted_total": 20
  },
  "tiers": [
   {
    "tier": "Aloupeeps ♡",
    "price": 690,
-   "confirmed_members": 30,
-   "estimated_members": 102.0
+   "confirmed_members": 35,
+   "estimated_members": 130.0
   }
  ],
  "revenue": {
-  "monthly_low": 44787,
-  "monthly_est": 44787,
-  "gift_once": 0
+  "monthly_low": 57082,
+  "monthly_est": 57082,
+  "gift_once": 8782
  },
- "avg_member_chatters": 74,
+ "avg_member_chatters": 80,
  "partial": true,
  "finalized": false
 }

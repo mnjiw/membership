@@ -3,66 +3,66 @@
  "channel_id": "UCSFCh5NL4qXrAy9u-u2lX3g",
  "handle": "@Kuzuha",
  "subscribers": 2230000,
- "fetched_at": "2026-10-11 09:59",
- "generated_at": "2026-10-11 09:59",
+ "fetched_at": "2026-10-12 05:18",
+ "generated_at": "2026-10-12 05:18",
  "period": {
-  "from": "2026-09-11 09:59",
-  "to": "2026-10-11 09:59",
+  "from": "2026-09-12 05:18",
+  "to": "2026-10-12 05:18",
   "days": 30
  },
- "streams_analyzed": 23,
- "streams_missed": 0,
- "unique_chatters": 21278,
- "members_confirmed": 5970,
+ "streams_analyzed": 22,
+ "streams_missed": 1,
+ "unique_chatters": 20869,
+ "members_confirmed": 5907,
  "member_classes": {
-  "unknown": 5773,
-  "known": 197
+  "unknown": 5711,
+  "known": 196
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 233
+   "members": 228
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 130
+   "members": 128
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 510
+   "members": 503
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 392
+   "members": 389
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 984
+   "members": 979
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 805
+   "members": 798
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 668
+   "members": 661
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 2248
+   "members": 2221
   }
  ],
  "events": {
-  "new_members": 142,
-  "rejoins": 58,
+  "new_members": 140,
+  "rejoins": 57,
   "milestones": 0,
   "gift_purchases": 0,
   "gifted_total": 0,
@@ -74,21 +74,21 @@
    "tier": "チャンネル メンバーシップ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 197,
+   "confirmed_members": 196,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 5773.0,
-   "estimated_members": 5970.0,
-   "monthly_net_confirmed": 61428,
-   "monthly_net_estimated": 1861555
+   "allocated_unknown": 5711.0,
+   "estimated_members": 5907.0,
+   "monthly_net_confirmed": 61116,
+   "monthly_net_estimated": 1841910
   }
  ],
  "revenue": {
-  "monthly_low": 1861555,
-  "monthly_est": 1861555,
+  "monthly_low": 1841910,
+  "monthly_est": 1841910,
   "gift_once": 0,
-  "total_low": 1861555,
-  "total_est": 1861555,
-  "paying_members": 5970,
+  "total_low": 1841910,
+  "total_est": 1841910,
+  "paying_members": 5907,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -97,16 +97,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "Hn5j8n8h6DY",
-   "start": "2026-09-11 16:08",
-   "title": "LOL かなえと",
-   "kind": "配信",
-   "chatters": 2238,
-   "member_chatters": 1118,
-   "new_members": 2,
-   "gifted_total": 0
-  },
   {
    "video_id": "4Z3qYJSVENc",
    "start": "2026-09-14 23:05",
@@ -328,7 +318,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "YCmTzceAMSE",
+   "start": "2026-10-11 00:00",
+   "title": "【LTK】笑いが飛び交う顔合わせ！癖強メンバーたちと優勝を目指す葛葉 【葛葉/にじさんじ/切り抜き】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 666,
+   "view_count": 86292
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -408,10 +411,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-11"
+    "to": "2026-10-12"
    },
    "streams_analyzed": 8,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 12817,
    "members_confirmed": 4292,
    "member_classes": {

@@ -3,32 +3,32 @@
  "channel_id": "UCfQVs_KuXeNAlGa3fb8rlnQ",
  "handle": "@SakuraRitsuki",
  "subscribers": 281000,
- "fetched_at": "2026-10-11 09:59",
- "generated_at": "2026-10-11 09:59",
+ "fetched_at": "2026-10-12 05:20",
+ "generated_at": "2026-10-12 05:21",
  "period": {
-  "from": "2026-09-11 09:59",
-  "to": "2026-10-11 09:59",
+  "from": "2026-09-12 05:20",
+  "to": "2026-10-12 05:20",
   "days": 30
  },
- "streams_analyzed": 28,
+ "streams_analyzed": 29,
  "streams_missed": 1,
- "unique_chatters": 544,
+ "unique_chatters": 560,
  "members_confirmed": 96,
  "member_classes": {
-  "unknown": 82,
   "known": 13,
+  "unknown": 82,
   "gift": 1
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 4
+   "members": 3
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 1
+   "members": 2
   },
   {
    "months": 2,
@@ -38,7 +38,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 6
+   "members": 5
   },
   {
    "months": 12,
@@ -58,7 +58,7 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 55
+   "members": 56
   }
  ],
  "events": {
@@ -109,16 +109,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "CocBAEM4_Ng",
-   "start": "2026-09-11 19:00",
-   "title": "【？？？】なんも決まってないけど配信付けてみた【にじさんじ/桜凛月】",
-   "kind": "配信",
-   "chatters": 130,
-   "member_chatters": 53,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "TKUj57zr4Uk",
    "start": "2026-09-12 19:00",
@@ -388,6 +378,26 @@
    "member_chatters": 23,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "BxRBHp9iJUU",
+   "start": "2026-10-11 12:01",
+   "title": "【健康スプラ】 負けたら筋トレ 俺たちは血液だ【にじさんじ/桜凛月】",
+   "kind": "配信",
+   "chatters": 70,
+   "member_chatters": 22,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "LjLZa1cPysg",
+   "start": "2026-10-11 19:01",
+   "title": "【AION2】ネタバレあり 完全初見！キャラクリから！【にじさんじ/桜凛月】",
+   "kind": "配信",
+   "chatters": 80,
+   "member_chatters": 36,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -500,18 +510,18 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-11"
+    "to": "2026-10-12"
    },
-   "streams_analyzed": 11,
+   "streams_analyzed": 13,
    "streams_missed": 0,
-   "unique_chatters": 238,
-   "members_confirmed": 63,
+   "unique_chatters": 297,
+   "members_confirmed": 69,
    "member_classes": {
-    "unknown": 52,
+    "unknown": 58,
     "known": 10,
     "gift": 1
    },
-   "long_term_members": 54,
+   "long_term_members": 59,
    "badges": [
     {
      "months": 0,
@@ -519,7 +529,7 @@
     },
     {
      "months": 1,
-     "members": 1
+     "members": 2
     },
     {
      "months": 2,
@@ -531,7 +541,7 @@
     },
     {
      "months": 12,
-     "members": 6
+     "members": 7
     },
     {
      "months": 24,
@@ -543,7 +553,7 @@
     },
     {
      "months": 48,
-     "members": 41
+     "members": 45
     }
    ],
    "events": {
@@ -557,21 +567,21 @@
      "tier": "桜ンボの箱舟",
      "price": 490,
      "confirmed_members": 4,
-     "estimated_members": 24.8
+     "estimated_members": 27.2
     },
     {
      "tier": "桜SP",
      "price": 3490,
      "confirmed_members": 6,
-     "estimated_members": 37.2
+     "estimated_members": 40.8
     }
    ],
    "revenue": {
-    "monthly_low": 30787,
-    "monthly_est": 90351,
+    "monthly_low": 32658,
+    "monthly_est": 99095,
     "gift_once": 312
    },
-   "avg_member_chatters": 21.4,
+   "avg_member_chatters": 22.5,
    "partial": true,
    "finalized": false
   }

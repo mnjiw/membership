@@ -3,16 +3,16 @@
  "channel_id": "UCeK9HFcRZoTrvqcUCtccMoQ",
  "handle": "@ShibuyaHajime",
  "subscribers": 161000,
- "fetched_at": "2026-10-11 09:59",
- "generated_at": "2026-10-11 09:59",
+ "fetched_at": "2026-10-12 05:17",
+ "generated_at": "2026-10-12 05:17",
  "period": {
-  "from": "2026-09-11 09:59",
-  "to": "2026-10-11 09:59",
+  "from": "2026-09-12 05:17",
+  "to": "2026-10-12 05:17",
   "days": 30
  },
  "streams_analyzed": 23,
  "streams_missed": 0,
- "unique_chatters": 233,
+ "unique_chatters": 244,
  "members_confirmed": 60,
  "member_classes": {
   "unknown": 60
@@ -86,16 +86,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "mDCmsNhkCWQ",
-   "start": "2026-09-11 15:28",
-   "title": "【WARDOGS】ログイン戦争に敗れ続け８時間やっとプレイできそうです。【にじさんじ/渋谷ハジメ】",
-   "kind": "配信",
-   "chatters": 28,
-   "member_chatters": 16,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "ujriEnCBlsc",
    "start": "2026-09-12 17:04",
@@ -315,6 +305,16 @@
    "member_chatters": 21,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "XPJsmfGyf9g",
+   "start": "2026-10-11 17:04",
+   "title": "【雑談】浮気判定シート【にじさんじ/渋谷ハジメ】",
+   "kind": "配信",
+   "chatters": 62,
+   "member_chatters": 29,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -388,16 +388,16 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-11"
+    "to": "2026-10-12"
    },
-   "streams_analyzed": 9,
+   "streams_analyzed": 10,
    "streams_missed": 0,
-   "unique_chatters": 147,
-   "members_confirmed": 47,
+   "unique_chatters": 168,
+   "members_confirmed": 50,
    "member_classes": {
-    "unknown": 47
+    "unknown": 50
    },
-   "long_term_members": 37,
+   "long_term_members": 40,
    "badges": [
     {
      "months": 0,
@@ -421,7 +421,7 @@
     },
     {
      "months": 24,
-     "members": 31
+     "members": 34
     }
    ],
    "events": {
@@ -435,15 +435,15 @@
      "tier": "メンバーシップ",
      "price": 490,
      "confirmed_members": 0,
-     "estimated_members": 47.0
+     "estimated_members": 50.0
     }
    ],
    "revenue": {
-    "monthly_low": 14655,
-    "monthly_est": 14655,
+    "monthly_low": 15591,
+    "monthly_est": 15591,
     "gift_once": 0
    },
-   "avg_member_chatters": 19.4,
+   "avg_member_chatters": 20.4,
    "partial": true,
    "finalized": false
   }
