@@ -3,16 +3,16 @@
  "channel_id": "UCClwIqTUn5LDpFucHyaAhHg",
  "handle": "@LeeRoha",
  "subscribers": 110000,
- "fetched_at": "2026-10-11 05:29",
- "generated_at": "2026-10-11 05:29",
+ "fetched_at": "2026-10-11 10:01",
+ "generated_at": "2026-10-11 10:01",
  "period": {
-  "from": "2026-09-11 05:29",
-  "to": "2026-10-11 05:29",
+  "from": "2026-09-11 10:01",
+  "to": "2026-10-11 10:01",
   "days": 30
  },
- "streams_analyzed": 19,
- "streams_missed": 2,
- "unique_chatters": 278,
+ "streams_analyzed": 20,
+ "streams_missed": 1,
+ "unique_chatters": 290,
  "members_confirmed": 67,
  "member_classes": {
   "unknown": 39,
@@ -280,6 +280,16 @@
    "gifted_total": 0
   },
   {
+   "video_id": "0_wFQM4rUmM",
+   "start": "2026-10-10 16:37",
+   "title": "Self-Proclaimed Former Diamond Iroha-sama's Journey Out of Bronze [NIJISANJI/Iroha]",
+   "kind": "配信",
+   "chatters": 40,
+   "member_chatters": 12,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
    "video_id": "mWcHqhbpraw",
    "start": "2026-10-10 22:08",
    "title": "にじさんじのみんなと仲良くなりたいのです。 [にじさんじ/イロハ]",
@@ -302,18 +312,6 @@
    "members_level": "",
    "like_count": 26,
    "view_count": null
-  },
-  {
-   "video_id": "0_wFQM4rUmM",
-   "start": "2026-10-10 00:00",
-   "title": "自称元ダイア イロハ様のブロンズ脱出記　[にじさんじ/イロハ]",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 163,
-   "view_count": 5532
   }
  ],
  "members_only_content": [
@@ -407,16 +405,16 @@
     "from": "2026-10-01",
     "to": "2026-10-11"
    },
-   "streams_analyzed": 7,
-   "streams_missed": 1,
-   "unique_chatters": 138,
-   "members_confirmed": 44,
+   "streams_analyzed": 8,
+   "streams_missed": 0,
+   "unique_chatters": 158,
+   "members_confirmed": 46,
    "member_classes": {
-    "unknown": 27,
-    "known": 4,
+    "unknown": 28,
+    "known": 5,
     "gift": 13
    },
-   "long_term_members": 27,
+   "long_term_members": 29,
    "badges": [
     {
      "months": 0,
@@ -432,11 +430,11 @@
     },
     {
      "months": 12,
-     "members": 17
+     "members": 18
     },
     {
      "months": 36,
-     "members": 6
+     "members": 7
     },
     {
      "months": 60,
@@ -453,22 +451,22 @@
     {
      "tier": "宇宙アイドル応援パック",
      "price": 490,
-     "confirmed_members": 2,
-     "estimated_members": 15.5
+     "confirmed_members": 3,
+     "estimated_members": 19.8
     },
     {
      "tier": "🅑🅘🅖宇宙アイドル応援パック",
      "price": 690,
      "confirmed_members": 2,
-     "estimated_members": 15.5
+     "estimated_members": 13.2
     }
    ],
    "revenue": {
-    "monthly_low": 9921,
-    "monthly_est": 11639,
+    "monthly_low": 10545,
+    "monthly_est": 11970,
     "gift_once": 4054
    },
-   "avg_member_chatters": 13.9,
+   "avg_member_chatters": 13.6,
    "partial": true,
    "finalized": false
   }

@@ -1,7 +1,7 @@
 # メンバーシップ集計レポート: Doppio Dropscythe【NIJISANJI EN】
 
-- 対象期間: 2026-09-11 05:37 〜 2026-10-11 05:37（チャットを集計できた配信・プレミア 25 本）
-- データ取得日時: 2026-10-11 05:37
+- 対象期間: 2026-09-11 10:02 〜 2026-10-11 10:02（チャットを集計できた配信・プレミア 25 本）
+- データ取得日時: 2026-10-11 10:02
 - チャットを集計できなかった枠: 6 本（下の「集計できなかった配信」を参照）
 
 ## 概要
@@ -145,7 +145,7 @@
 | 2026-09-24 21:01 | [DANGANRONPA 3 EP. 5-9 WATCHALONG 【NIJISA](https://www.youtube.com/watch?v=hQdKA0kS_44) | メンバー限定配信 | メンバー全員 | 38 |
 | 2026-09-30 20:05 | [DANGANRONPA 3 EP. 9-12 WATCHALONG 【NIJIS](https://www.youtube.com/watch?v=5NpuiFUX3dk) | メンバー限定配信 | メンバー全員 | 35 |
 | 2026-10-01 21:11 | [DANGANRONPA 3 EP. 13-16 WATCHALONG 【NIJI](https://www.youtube.com/watch?v=6PYHUjj__rM) | メンバー限定配信 | メンバー全員 | 28 |
-| 2026-10-10 00:00 | [tWo. SoLuTIon.  [Urban Myth Dissolution ](https://www.youtube.com/watch?v=G5RaPw_UnCY) | 取得エラー（次回再確認） | – | 191 |
+| 2026-10-10 00:00 | [tWo. SoLuTIon.  [Urban Myth Dissolution ](https://www.youtube.com/watch?v=G5RaPw_UnCY) | 取得エラー（次回再確認） | – | 203 |
 | 2026-10-10 00:25 | [late night seeeecret workkk ooo~~【NIJISA](https://www.youtube.com/watch?v=M5w4nU5s724) | メンバー限定配信 | メンバー全員 | 60 |
 
 > メンバー限定配信の高評価数は「その配信を見られるメンバーが少なくともこれだけいる」という目安になります。

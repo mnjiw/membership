@@ -3,15 +3,15 @@
  "channel_id": "UCtAvQ5U0aXyKwm2i4GqFgJg",
  "handle": "@HarusakiAir",
  "subscribers": 197000,
- "fetched_at": "2026-10-11 05:19",
- "generated_at": "2026-10-11 05:19",
+ "fetched_at": "2026-10-11 09:59",
+ "generated_at": "2026-10-11 09:59",
  "period": {
-  "from": "2026-09-11 05:19",
-  "to": "2026-10-11 05:19",
+  "from": "2026-09-11 09:59",
+  "to": "2026-10-11 09:59",
   "days": 30
  },
  "streams_analyzed": 12,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 2199,
  "members_confirmed": 265,
  "member_classes": {
@@ -209,8 +209,32 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
- "members_only_content": [],
+ "missed_streams": [
+  {
+   "video_id": "_v1lNUv5EZQ",
+   "start": "2026-10-11 01:44",
+   "title": "あまりの起床時間に驚いているメン限",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 79,
+   "view_count": null
+  }
+ ],
+ "members_only_content": [
+  {
+   "video_id": "_v1lNUv5EZQ",
+   "start": "2026-10-11 01:44",
+   "title": "あまりの起床時間に驚いているメン限",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 79,
+   "view_count": null
+  }
+ ],
  "history": [
   {
    "month": "2026-09",
@@ -285,7 +309,7 @@
     "to": "2026-10-11"
    },
    "streams_analyzed": 5,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 926,
    "members_confirmed": 202,
    "member_classes": {
