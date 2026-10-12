@@ -3,27 +3,27 @@
  "channel_id": "UCr40BzcLiGruKe7M5gXR9zQ",
  "handle": "@Freodore_nijisanji",
  "subscribers": 201000,
- "fetched_at": "2026-10-12 05:39",
- "generated_at": "2026-10-12 05:39",
+ "fetched_at": "2026-10-12 10:22",
+ "generated_at": "2026-10-12 10:22",
  "period": {
-  "from": "2026-09-12 05:39",
-  "to": "2026-10-12 05:39",
+  "from": "2026-09-12 10:22",
+  "to": "2026-10-12 10:22",
   "days": 30
  },
- "streams_analyzed": 7,
+ "streams_analyzed": 8,
  "streams_missed": 0,
- "unique_chatters": 1313,
- "members_confirmed": 534,
+ "unique_chatters": 1361,
+ "members_confirmed": 543,
  "member_classes": {
-  "unknown": 438,
-  "known": 19,
-  "gift": 77
+  "unknown": 445,
+  "known": 20,
+  "gift": 78
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 98
+   "members": 99
   },
   {
    "months": 1,
@@ -33,26 +33,26 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 61
+   "members": 63
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 60
+   "members": 61
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 295
+   "members": 300
   }
  ],
  "events": {
-  "new_members": 11,
+  "new_members": 12,
   "rejoins": 8,
   "milestones": 0,
-  "gift_purchases": 12,
-  "gifted_total": 77,
-  "gift_redemptions": 77
+  "gift_purchases": 13,
+  "gifted_total": 78,
+  "gift_redemptions": 78
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,21 +60,21 @@
    "tier": "Doremin Café",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 19,
+   "confirmed_members": 20,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 438.0,
-   "estimated_members": 457.0,
-   "monthly_net_confirmed": 5925,
-   "monthly_net_estimated": 142501
+   "allocated_unknown": 445.0,
+   "estimated_members": 465.0,
+   "monthly_net_confirmed": 6236,
+   "monthly_net_estimated": 144995
   }
  ],
  "revenue": {
-  "monthly_low": 142501,
-  "monthly_est": 142501,
-  "gift_once": 24010,
-  "total_low": 166511,
-  "total_est": 166511,
-  "paying_members": 457,
+  "monthly_low": 144995,
+  "monthly_est": 144995,
+  "gift_once": 24322,
+  "total_low": 169317,
+  "total_est": 169317,
+  "paying_members": 465,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -152,6 +152,16 @@
    "member_chatters": 156,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "bV2goqE9wVw",
+   "start": "2026-10-12 07:01",
+   "title": "【Coffee Zatsu】Double Anaerobic Lychee【NIJISANJI EN | Freodore】",
+   "kind": "配信",
+   "chatters": 262,
+   "member_chatters": 153,
+   "new_members": 1,
+   "gifted_total": 1
   }
  ],
  "missed_streams": [],
@@ -163,20 +173,20 @@
     "from": "2026-10-02",
     "to": "2026-10-12"
    },
-   "streams_analyzed": 7,
+   "streams_analyzed": 8,
    "streams_missed": 0,
-   "unique_chatters": 1313,
-   "members_confirmed": 534,
+   "unique_chatters": 1361,
+   "members_confirmed": 543,
    "member_classes": {
-    "unknown": 438,
-    "known": 19,
-    "gift": 77
+    "unknown": 445,
+    "known": 20,
+    "gift": 78
    },
-   "long_term_members": 295,
+   "long_term_members": 300,
    "badges": [
     {
      "months": 0,
-     "members": 98
+     "members": 99
     },
     {
      "months": 1,
@@ -184,37 +194,37 @@
     },
     {
      "months": 2,
-     "members": 61
+     "members": 63
     },
     {
      "months": 6,
-     "members": 60
+     "members": 61
     },
     {
      "months": 12,
-     "members": 295
+     "members": 300
     }
    ],
    "events": {
-    "new_members": 11,
+    "new_members": 12,
     "rejoins": 8,
     "milestones": 0,
-    "gifted_total": 77
+    "gifted_total": 78
    },
    "tiers": [
     {
      "tier": "Doremin Café",
      "price": 490,
-     "confirmed_members": 19,
-     "estimated_members": 457.0
+     "confirmed_members": 20,
+     "estimated_members": 465.0
     }
    ],
    "revenue": {
-    "monthly_low": 142501,
-    "monthly_est": 142501,
-    "gift_once": 24010
+    "monthly_low": 144995,
+    "monthly_est": 144995,
+    "gift_once": 24322
    },
-   "avg_member_chatters": 208.4,
+   "avg_member_chatters": 201.5,
    "partial": true,
    "finalized": false
   }
