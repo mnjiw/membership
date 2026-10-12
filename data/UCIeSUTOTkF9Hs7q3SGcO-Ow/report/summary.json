@@ -3,32 +3,32 @@
  "channel_id": "UCIeSUTOTkF9Hs7q3SGcO-Ow",
  "handle": "@EliraPendora",
  "subscribers": 514000,
- "fetched_at": "2026-10-12 10:21",
- "generated_at": "2026-10-12 10:22",
+ "fetched_at": "2026-10-13 05:37",
+ "generated_at": "2026-10-13 05:38",
  "period": {
-  "from": "2026-09-12 10:21",
-  "to": "2026-10-12 10:21",
+  "from": "2026-09-13 05:37",
+  "to": "2026-10-13 05:37",
   "days": 30
  },
- "streams_analyzed": 22,
- "streams_missed": 3,
- "unique_chatters": 1511,
- "members_confirmed": 514,
+ "streams_analyzed": 21,
+ "streams_missed": 4,
+ "unique_chatters": 1427,
+ "members_confirmed": 494,
  "member_classes": {
-  "unknown": 251,
-  "known": 95,
-  "gift": 168
+  "unknown": 241,
+  "known": 93,
+  "gift": 160
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 179
+   "members": 170
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 6
+   "members": 5
   },
   {
    "months": 2,
@@ -43,36 +43,36 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 57
+   "members": 54
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 67
+   "members": 65
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 56
+   "members": 53
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 57
+   "members": 56
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 57
+   "members": 56
   }
  ],
  "events": {
   "new_members": 4,
-  "rejoins": 13,
-  "milestones": 74,
-  "gift_purchases": 53,
-  "gifted_total": 168,
-  "gift_redemptions": 168
+  "rejoins": 12,
+  "milestones": 67,
+  "gift_purchases": 49,
+  "gifted_total": 160,
+  "gift_redemptions": 160
  },
  "tiers_configured": true,
  "tiers": [
@@ -80,21 +80,21 @@
    "tier": "Membersheesh",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 95,
+   "confirmed_members": 93,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 251.0,
-   "estimated_members": 346.0,
-   "monthly_net_confirmed": 41714,
-   "monthly_net_estimated": 151925
+   "allocated_unknown": 241.0,
+   "estimated_members": 334.0,
+   "monthly_net_confirmed": 40835,
+   "monthly_net_estimated": 146656
   }
  ],
  "revenue": {
-  "monthly_low": 151925,
-  "monthly_est": 151925,
-  "gift_once": 73767,
-  "total_low": 225693,
-  "total_est": 225693,
-  "paying_members": 346,
+  "monthly_low": 146656,
+  "monthly_est": 146656,
+  "gift_once": 70255,
+  "total_low": 216911,
+  "total_est": 216911,
+  "paying_members": 334,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -103,16 +103,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "jHh2UqxcFpQ",
-   "start": "2026-09-13 03:02",
-   "title": "【LUNCH TOGETHER!】 chat command waveturine pulls!!!!!!!! 【NIJISANJI EN | Elira Pendora】",
-   "kind": "配信",
-   "chatters": 289,
-   "member_chatters": 137,
-   "new_members": 0,
-   "gifted_total": 8
-  },
   {
    "video_id": "oLsjN3MsoQ0",
    "start": "2026-09-15 08:01",
@@ -360,6 +350,18 @@
    "members_level": "",
    "like_count": 46,
    "view_count": null
+  },
+  {
+   "video_id": "_KX7dkztQU8",
+   "start": "2026-10-12 09:00",
+   "title": "WHO FRAMED ROGER RABBIT watchalong!!!! and maybe also Chip 'n Dale: Rescue Rangers (2022 film yaaas)",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 42,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -391,6 +393,16 @@
    "status": "members_only",
    "members_level": "",
    "like_count": 46,
+   "view_count": null
+  },
+  {
+   "video_id": "_KX7dkztQU8",
+   "start": "2026-10-12 09:00",
+   "title": "WHO FRAMED ROGER RABBIT watchalong!!!! and maybe also Chip 'n Dale: Rescue Rangers (2022 film yaaas)",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 42,
    "view_count": null
   }
  ],
@@ -477,10 +489,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-12"
+    "to": "2026-10-13"
    },
    "streams_analyzed": 10,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 725,
    "members_confirmed": 321,
    "member_classes": {

@@ -3,20 +3,20 @@
  "channel_id": "UCfQVs_KuXeNAlGa3fb8rlnQ",
  "handle": "@SakuraRitsuki",
  "subscribers": 281000,
- "fetched_at": "2026-10-12 10:19",
- "generated_at": "2026-10-12 10:19",
+ "fetched_at": "2026-10-13 05:20",
+ "generated_at": "2026-10-13 05:20",
  "period": {
-  "from": "2026-09-12 10:19",
-  "to": "2026-10-12 10:19",
+  "from": "2026-09-13 05:20",
+  "to": "2026-10-13 05:20",
   "days": 30
  },
  "streams_analyzed": 29,
  "streams_missed": 1,
- "unique_chatters": 560,
+ "unique_chatters": 545,
  "members_confirmed": 96,
  "member_classes": {
-  "known": 13,
   "unknown": 82,
+  "known": 13,
   "gift": 1
  },
  "badges": [
@@ -64,7 +64,7 @@
  "events": {
   "new_members": 0,
   "rejoins": 0,
-  "milestones": 11,
+  "milestones": 9,
   "gift_purchases": 1,
   "gifted_total": 1,
   "gift_redemptions": 1
@@ -109,16 +109,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "TKUj57zr4Uk",
-   "start": "2026-09-12 19:00",
-   "title": "【晩酌の会】お疲れ様♡一杯やっていかない？【にじさんじ/桜凛月】",
-   "kind": "配信",
-   "chatters": 113,
-   "member_chatters": 48,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "DNAzJUZlnqg",
    "start": "2026-09-13 12:02",
@@ -398,6 +388,16 @@
    "member_chatters": 36,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "S2SPjdE1_sg",
+   "start": "2026-10-12 12:04",
+   "title": "【健康スプラ】 負けたら筋トレ 丁寧にクールにやりましょうね【にじさんじ/桜凛月】",
+   "kind": "配信",
+   "chatters": 63,
+   "member_chatters": 21,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -510,18 +510,18 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-12"
+    "to": "2026-10-13"
    },
-   "streams_analyzed": 13,
+   "streams_analyzed": 14,
    "streams_missed": 0,
-   "unique_chatters": 297,
-   "members_confirmed": 69,
+   "unique_chatters": 310,
+   "members_confirmed": 70,
    "member_classes": {
-    "unknown": 58,
+    "unknown": 59,
     "known": 10,
     "gift": 1
    },
-   "long_term_members": 59,
+   "long_term_members": 60,
    "badges": [
     {
      "months": 0,
@@ -541,7 +541,7 @@
     },
     {
      "months": 12,
-     "members": 7
+     "members": 8
     },
     {
      "months": 24,
@@ -567,21 +567,21 @@
      "tier": "桜ンボの箱舟",
      "price": 490,
      "confirmed_members": 4,
-     "estimated_members": 27.2
+     "estimated_members": 27.6
     },
     {
      "tier": "桜SP",
      "price": 3490,
      "confirmed_members": 6,
-     "estimated_members": 40.8
+     "estimated_members": 41.4
     }
    ],
    "revenue": {
-    "monthly_low": 32658,
-    "monthly_est": 99095,
+    "monthly_low": 32970,
+    "monthly_est": 100552,
     "gift_once": 312
    },
-   "avg_member_chatters": 22.5,
+   "avg_member_chatters": 22.4,
    "partial": true,
    "finalized": false
   }

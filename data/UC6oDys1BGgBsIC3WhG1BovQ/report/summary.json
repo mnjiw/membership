@@ -3,32 +3,32 @@
  "channel_id": "UC6oDys1BGgBsIC3WhG1BovQ",
  "handle": "@ShizukaRin",
  "subscribers": 398000,
- "fetched_at": "2026-10-12 10:18",
- "generated_at": "2026-10-12 10:18",
+ "fetched_at": "2026-10-13 05:17",
+ "generated_at": "2026-10-13 05:17",
  "period": {
-  "from": "2026-09-12 10:18",
-  "to": "2026-10-12 10:18",
+  "from": "2026-09-13 05:17",
+  "to": "2026-10-13 05:17",
   "days": 30
  },
- "streams_analyzed": 35,
- "streams_missed": 2,
- "unique_chatters": 1084,
- "members_confirmed": 291,
+ "streams_analyzed": 34,
+ "streams_missed": 3,
+ "unique_chatters": 1081,
+ "members_confirmed": 289,
  "member_classes": {
-  "unknown": 224,
-  "known": 28,
+  "unknown": 223,
+  "known": 27,
   "gift": 39
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 50
+   "members": 49
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 5
+   "members": 4
   },
   {
    "months": 2,
@@ -62,7 +62,7 @@
   }
  ],
  "events": {
-  "new_members": 8,
+  "new_members": 7,
   "rejoins": 5,
   "milestones": 14,
   "gift_purchases": 14,
@@ -75,21 +75,21 @@
    "tier": "しずりんのメンバーシップだよ！",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 28,
+   "confirmed_members": 27,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 224.0,
-   "estimated_members": 252.0,
-   "monthly_net_confirmed": 8731,
-   "monthly_net_estimated": 78578
+   "allocated_unknown": 223.0,
+   "estimated_members": 250.0,
+   "monthly_net_confirmed": 8419,
+   "monthly_net_estimated": 77955
   }
  ],
  "revenue": {
-  "monthly_low": 78578,
-  "monthly_est": 78578,
+  "monthly_low": 77955,
+  "monthly_est": 77955,
   "gift_once": 12161,
-  "total_low": 90739,
-  "total_est": 90739,
-  "paying_members": 252,
+  "total_low": 90115,
+  "total_est": 90115,
+  "paying_members": 250,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "UU5BX4PITMA",
-   "start": "2026-09-12 22:05",
-   "title": "⛏️ 12 | マイクラでRPG❗️ | #えみクラ【静凛/にじさんじ】",
-   "kind": "配信",
-   "chatters": 81,
-   "member_chatters": 60,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "eTSYUHwzgCc",
    "start": "2026-09-13 16:11",
@@ -473,6 +463,18 @@
    "members_level": "",
    "like_count": 133,
    "view_count": null
+  },
+  {
+   "video_id": "t0x5lw3UHGI",
+   "start": "2026-10-11 23:11",
+   "title": "🚀04.5 | 宇宙探検隊 | No Man's Sky【静凛/にじさんじ】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 101,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -484,6 +486,16 @@
    "status": "members_only",
    "members_level": "",
    "like_count": 133,
+   "view_count": null
+  },
+  {
+   "video_id": "t0x5lw3UHGI",
+   "start": "2026-10-11 23:11",
+   "title": "🚀04.5 | 宇宙探検隊 | No Man's Sky【静凛/にじさんじ】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 101,
    "view_count": null
   }
  ],
@@ -566,10 +578,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-12"
+    "to": "2026-10-13"
    },
    "streams_analyzed": 12,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 673,
    "members_confirmed": 212,
    "member_classes": {

@@ -3,16 +3,16 @@
  "channel_id": "UCGLS7BOgNa6c03r7VYacblw",
  "handle": "@MinamoMadoka",
  "subscribers": 145000,
- "fetched_at": "2026-10-12 10:21",
- "generated_at": "2026-10-12 10:21",
+ "fetched_at": "2026-10-13 05:36",
+ "generated_at": "2026-10-13 05:36",
  "period": {
-  "from": "2026-09-12 10:21",
-  "to": "2026-10-12 10:21",
+  "from": "2026-09-13 05:36",
+  "to": "2026-10-13 05:36",
   "days": 30
  },
  "streams_analyzed": 19,
  "streams_missed": 2,
- "unique_chatters": 2742,
+ "unique_chatters": 2706,
  "members_confirmed": 348,
  "member_classes": {
   "unknown": 299,
@@ -23,17 +23,17 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 81
+   "members": 78
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 59
+   "members": 63
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 208
+   "members": 207
   }
  ],
  "events": {
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "SDtFweewBoQ",
-   "start": "2026-09-12 13:04",
-   "title": "【 料理 】ふわしゅわのスフレパンケーキが食べたい！🥞作るぞー！【水面まどか / にじさんじ】",
-   "kind": "配信",
-   "chatters": 167,
-   "member_chatters": 60,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "T43DDuwdJs8",
    "start": "2026-09-15 18:00",
@@ -262,6 +252,16 @@
    "member_chatters": 73,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "FVXk3YPgDpI",
+   "start": "2026-10-12 22:03",
+   "title": "【 マインクラフト 】２回目⁉全ロス、戻し作業。もくもくマイクラ【 にじさんじ / 水面まどか 】",
+   "kind": "配信",
+   "chatters": 86,
+   "member_chatters": 51,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -371,14 +371,14 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-12"
+    "to": "2026-10-13"
    },
-   "streams_analyzed": 10,
+   "streams_analyzed": 11,
    "streams_missed": 0,
-   "unique_chatters": 1742,
-   "members_confirmed": 282,
+   "unique_chatters": 1758,
+   "members_confirmed": 286,
    "member_classes": {
-    "unknown": 254,
+    "unknown": 258,
     "known": 10,
     "gift": 18
    },
@@ -386,15 +386,15 @@
    "badges": [
     {
      "months": 0,
-     "members": 47
+     "members": 46
     },
     {
      "months": 2,
-     "members": 50
+     "members": 54
     },
     {
      "months": 6,
-     "members": 185
+     "members": 186
     }
    ],
    "events": {
@@ -408,15 +408,15 @@
      "tier": "水飲み隊",
      "price": 490,
      "confirmed_members": 10,
-     "estimated_members": 264.0
+     "estimated_members": 268.0
     }
    ],
    "revenue": {
-    "monthly_low": 82320,
-    "monthly_est": 82320,
+    "monthly_low": 83567,
+    "monthly_est": 83567,
     "gift_once": 3118
    },
-   "avg_member_chatters": 86.6,
+   "avg_member_chatters": 83.4,
    "partial": true,
    "finalized": false
   }

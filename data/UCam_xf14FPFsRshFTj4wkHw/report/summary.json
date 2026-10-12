@@ -3,19 +3,19 @@
  "channel_id": "UCam_xf14FPFsRshFTj4wkHw",
  "handle": "@ShirasaAyane",
  "subscribers": 140000,
- "fetched_at": "2026-10-12 10:21",
- "generated_at": "2026-10-12 10:21",
+ "fetched_at": "2026-10-13 05:36",
+ "generated_at": "2026-10-13 05:37",
  "period": {
-  "from": "2026-09-12 10:21",
-  "to": "2026-10-12 10:21",
+  "from": "2026-09-13 05:36",
+  "to": "2026-10-13 05:36",
   "days": 30
  },
  "streams_analyzed": 15,
  "streams_missed": 3,
- "unique_chatters": 2804,
- "members_confirmed": 385,
+ "unique_chatters": 2705,
+ "members_confirmed": 377,
  "member_classes": {
-  "unknown": 347,
+  "unknown": 339,
   "known": 22,
   "gift": 16
  },
@@ -23,26 +23,26 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 67
+   "members": 66
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 42
+   "members": 40
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 67
+   "members": 66
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 209
+   "members": 205
   }
  ],
  "events": {
-  "new_members": 20,
+  "new_members": 19,
   "rejoins": 1,
   "milestones": 0,
   "gift_purchases": 3,
@@ -57,19 +57,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 22,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 347.0,
-   "estimated_members": 369.0,
+   "allocated_unknown": 339.0,
+   "estimated_members": 361.0,
    "monthly_net_confirmed": 6860,
-   "monthly_net_estimated": 115061
+   "monthly_net_estimated": 112566
   }
  ],
  "revenue": {
-  "monthly_low": 115061,
-  "monthly_est": 115061,
+  "monthly_low": 112566,
+  "monthly_est": 112566,
   "gift_once": 4989,
-  "total_low": 120050,
-  "total_est": 120050,
-  "paying_members": 369,
+  "total_low": 117555,
+  "total_est": 117555,
+  "paying_members": 361,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -78,16 +78,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "sXBSzcm2o-A",
-   "start": "2026-09-12 16:01",
-   "title": "【ポケットモンスター リーフグリーン】#15  初代ポケモンのリメイク作品プレイさせていただきます🤍【 白砂あやね / にじさんじ 】",
-   "kind": "配信",
-   "chatters": 371,
-   "member_chatters": 117,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "slkp9PPIfeE",
    "start": "2026-09-13 23:00",
@@ -227,6 +217,16 @@
    "member_chatters": 86,
    "new_members": 2,
    "gifted_total": 0
+  },
+  {
+   "video_id": "MWDnPafJjbc",
+   "start": "2026-10-12 18:00",
+   "title": "【魔法少女ノ魔女裁判】#6 そしてどうなってしまうのでしょう…【 白砂あやね / にじさんじ 】",
+   "kind": "配信",
+   "chatters": 437,
+   "member_chatters": 86,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -352,14 +352,14 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-12"
+    "to": "2026-10-13"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 6,
    "streams_missed": 1,
-   "unique_chatters": 1322,
-   "members_confirmed": 176,
+   "unique_chatters": 1369,
+   "members_confirmed": 179,
    "member_classes": {
-    "unknown": 164,
+    "unknown": 167,
     "known": 12
    },
    "long_term_members": 0,
@@ -374,11 +374,11 @@
     },
     {
      "months": 2,
-     "members": 36
+     "members": 38
     },
     {
      "months": 6,
-     "members": 111
+     "members": 112
     }
    ],
    "events": {
@@ -392,15 +392,15 @@
      "tier": "海月花学院美術部",
      "price": 490,
      "confirmed_members": 12,
-     "estimated_members": 176.0
+     "estimated_members": 179.0
     }
    ],
    "revenue": {
-    "monthly_low": 54880,
-    "monthly_est": 54880,
+    "monthly_low": 55815,
+    "monthly_est": 55815,
     "gift_once": 0
    },
-   "avg_member_chatters": 97.6,
+   "avg_member_chatters": 95.7,
    "partial": true,
    "finalized": false
   }

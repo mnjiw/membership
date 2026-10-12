@@ -2,67 +2,68 @@
  "month": "2026-10",
  "coverage": {
   "from": "2026-10-01",
-  "to": "2026-10-12"
+  "to": "2026-10-13"
  },
- "streams_analyzed": 4,
+ "streams_analyzed": 5,
  "streams_missed": 1,
- "unique_chatters": 2060,
- "members_confirmed": 1394,
+ "unique_chatters": 4460,
+ "members_confirmed": 2528,
  "member_classes": {
-  "unknown": 1031,
-  "known": 363
+  "unknown": 1798,
+  "known": 709,
+  "gift": 21
  },
- "long_term_members": 863,
+ "long_term_members": 1583,
  "badges": [
   {
    "months": 0,
-   "members": 121
+   "members": 176
   },
   {
    "months": 1,
-   "members": 50
+   "members": 114
   },
   {
    "months": 2,
-   "members": 175
+   "members": 333
   },
   {
    "months": 6,
-   "members": 185
+   "members": 322
   },
   {
    "months": 12,
-   "members": 409
+   "members": 783
   },
   {
    "months": 24,
-   "members": 297
+   "members": 507
   },
   {
    "months": 36,
-   "members": 157
+   "members": 293
   }
  ],
  "events": {
-  "new_members": 9,
-  "rejoins": 3,
-  "milestones": 13,
-  "gifted_total": 0
+  "new_members": 27,
+  "rejoins": 10,
+  "milestones": 297,
+  "gifted_total": 21
  },
  "tiers": [
   {
    "tier": "インショウ派",
    "price": 490,
-   "confirmed_members": 363,
-   "estimated_members": 1394.0
+   "confirmed_members": 709,
+   "estimated_members": 2507.0
   }
  ],
  "revenue": {
-  "monthly_low": 434675,
-  "monthly_est": 434675,
-  "gift_once": 0
+  "monthly_low": 781728,
+  "monthly_est": 781728,
+  "gift_once": 6548
  },
- "avg_member_chatters": 721,
+ "avg_member_chatters": 995.2,
  "partial": true,
  "finalized": false
 }

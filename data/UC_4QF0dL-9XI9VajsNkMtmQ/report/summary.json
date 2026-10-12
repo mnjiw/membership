@@ -3,32 +3,32 @@
  "channel_id": "UC_4QF0dL-9XI9VajsNkMtmQ",
  "handle": "@Rei7_Y4T4",
  "subscribers": 173000,
- "fetched_at": "2026-10-12 10:21",
- "generated_at": "2026-10-12 10:22",
+ "fetched_at": "2026-10-13 05:37",
+ "generated_at": "2026-10-13 05:37",
  "period": {
-  "from": "2026-09-12 10:21",
-  "to": "2026-10-12 10:21",
+  "from": "2026-09-13 05:37",
+  "to": "2026-10-13 05:37",
   "days": 30
  },
- "streams_analyzed": 36,
+ "streams_analyzed": 35,
  "streams_missed": 3,
- "unique_chatters": 7485,
+ "unique_chatters": 7500,
  "members_confirmed": 758,
  "member_classes": {
-  "unknown": 701,
-  "known": 47,
+  "unknown": 700,
+  "known": 48,
   "gift": 10
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 123
+   "members": 119
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 101
+   "members": 105
   },
   {
    "months": 2,
@@ -38,7 +38,7 @@
  ],
  "events": {
   "new_members": 30,
-  "rejoins": 9,
+  "rejoins": 10,
   "milestones": 0,
   "gift_purchases": 2,
   "gifted_total": 11,
@@ -50,11 +50,11 @@
    "tier": "Ris7",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 47,
+   "confirmed_members": 48,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 701.0,
+   "allocated_unknown": 700.0,
    "estimated_members": 748.0,
-   "monthly_net_confirmed": 14655,
+   "monthly_net_confirmed": 14967,
    "monthly_net_estimated": 233240
   }
  ],
@@ -73,26 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "D8czwy2xj7Q",
-   "start": "2026-09-12 15:33",
-   "title": "【 スト6 】Mジュリ/D3~ / rank【 Rei7 / にじさんじ 】",
-   "kind": "配信",
-   "chatters": 176,
-   "member_chatters": 82,
-   "new_members": 1,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "EwZ_0xLsP0k",
-   "start": "2026-09-13 01:26",
-   "title": "【 スト6 】Mジュリ/D3~ / 寝れない【 Rei7 / にじさんじ 】",
-   "kind": "配信",
-   "chatters": 278,
-   "member_chatters": 93,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "K_q1kkEFtW0",
    "start": "2026-09-13 15:00",
@@ -432,6 +412,16 @@
    "member_chatters": 106,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "6EGiL9_kCjI",
+   "start": "2026-10-12 15:54",
+   "title": "【 スト6 】目覚め【 Rei7 / にじさんじ 】",
+   "kind": "配信",
+   "chatters": 451,
+   "member_chatters": 120,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -456,7 +446,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "Ris7",
-   "like_count": 175,
+   "like_count": 177,
    "view_count": null
   },
   {
@@ -468,8 +458,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 199,
-   "view_count": 6744
+   "like_count": 221,
+   "view_count": 8056
   }
  ],
  "members_only_content": [
@@ -490,7 +480,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "Ris7",
-   "like_count": 175,
+   "like_count": 177,
    "view_count": null
   }
  ],
@@ -553,15 +543,15 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-12"
+    "to": "2026-10-13"
    },
-   "streams_analyzed": 13,
+   "streams_analyzed": 14,
    "streams_missed": 2,
-   "unique_chatters": 3238,
-   "members_confirmed": 457,
+   "unique_chatters": 3350,
+   "members_confirmed": 465,
    "member_classes": {
-    "unknown": 429,
-    "known": 28
+    "unknown": 435,
+    "known": 30
    },
    "long_term_members": 0,
    "badges": [
@@ -571,16 +561,16 @@
     },
     {
      "months": 1,
-     "members": 52
+     "members": 56
     },
     {
      "months": 2,
-     "members": 363
+     "members": 367
     }
    ],
    "events": {
-    "new_members": 10,
-    "rejoins": 3,
+    "new_members": 11,
+    "rejoins": 4,
     "milestones": 0,
     "gifted_total": 0
    },
@@ -588,16 +578,16 @@
     {
      "tier": "Ris7",
      "price": 490,
-     "confirmed_members": 28,
-     "estimated_members": 457.0
+     "confirmed_members": 30,
+     "estimated_members": 465.0
     }
    ],
    "revenue": {
-    "monthly_low": 142501,
-    "monthly_est": 142501,
+    "monthly_low": 144995,
+    "monthly_est": 144995,
     "gift_once": 0
    },
-   "avg_member_chatters": 121.5,
+   "avg_member_chatters": 121.4,
    "partial": true,
    "finalized": false
   }

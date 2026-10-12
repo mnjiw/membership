@@ -2,41 +2,41 @@
  "month": "2026-10",
  "coverage": {
   "from": "2026-10-01",
-  "to": "2026-10-12"
+  "to": "2026-10-13"
  },
- "streams_analyzed": 5,
+ "streams_analyzed": 6,
  "streams_missed": 0,
- "unique_chatters": 302,
- "members_confirmed": 131,
+ "unique_chatters": 375,
+ "members_confirmed": 143,
  "member_classes": {
-  "unknown": 116,
+  "unknown": 128,
   "known": 15
  },
- "long_term_members": 114,
+ "long_term_members": 122,
  "badges": [
   {
    "months": 0,
-   "members": 5
-  },
-  {
-   "months": 1,
-   "members": 1
-  },
-  {
-   "months": 2,
-   "members": 7
-  },
-  {
-   "months": 6,
    "members": 4
   },
   {
-   "months": 12,
+   "months": 1,
+   "members": 2
+  },
+  {
+   "months": 2,
    "members": 9
   },
   {
+   "months": 6,
+   "members": 6
+  },
+  {
+   "months": 12,
+   "members": 10
+  },
+  {
    "months": 24,
-   "members": 105
+   "members": 112
   }
  ],
  "events": {
@@ -50,21 +50,21 @@
    "tier": "女王のお膝元",
    "price": 490,
    "confirmed_members": 3,
-   "estimated_members": 26.2
+   "estimated_members": 28.6
   },
   {
    "tier": "女王のお膝上",
    "price": 1190,
    "confirmed_members": 12,
-   "estimated_members": 104.8
+   "estimated_members": 114.4
   }
  ],
  "revenue": {
-  "monthly_low": 46194,
-  "monthly_est": 87532,
+  "monthly_low": 49935,
+  "monthly_est": 95550,
   "gift_once": 0
  },
- "avg_member_chatters": 54,
+ "avg_member_chatters": 61.2,
  "partial": true,
  "finalized": false
 }

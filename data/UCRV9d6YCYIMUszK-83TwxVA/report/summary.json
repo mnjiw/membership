@@ -3,20 +3,20 @@
  "channel_id": "UCRV9d6YCYIMUszK-83TwxVA",
  "handle": "@TodorokiKyoko",
  "subscribers": 148000,
- "fetched_at": "2026-10-12 10:19",
- "generated_at": "2026-10-12 10:19",
+ "fetched_at": "2026-10-13 05:18",
+ "generated_at": "2026-10-13 05:19",
  "period": {
-  "from": "2026-09-12 10:19",
-  "to": "2026-10-12 10:19",
+  "from": "2026-09-13 05:18",
+  "to": "2026-10-13 05:18",
   "days": 30
  },
- "streams_analyzed": 12,
+ "streams_analyzed": 13,
  "streams_missed": 0,
- "unique_chatters": 324,
- "members_confirmed": 29,
+ "unique_chatters": 364,
+ "members_confirmed": 32,
  "member_classes": {
-  "unknown": 27,
-  "known": 2
+  "unknown": 29,
+  "known": 3
  },
  "badges": [
   {
@@ -32,17 +32,17 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 1
+   "members": 2
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 25
+   "members": 27
   }
  ],
  "events": {
   "new_members": 2,
-  "rejoins": 0,
+  "rejoins": 1,
   "milestones": 0,
   "gift_purchases": 0,
   "gifted_total": 0,
@@ -54,21 +54,21 @@
    "tier": "ろきぺ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 2,
+   "confirmed_members": 3,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 27.0,
-   "estimated_members": 29.0,
-   "monthly_net_confirmed": 624,
-   "monthly_net_estimated": 9043
+   "allocated_unknown": 29.0,
+   "estimated_members": 32.0,
+   "monthly_net_confirmed": 935,
+   "monthly_net_estimated": 9978
   }
  ],
  "revenue": {
-  "monthly_low": 9043,
-  "monthly_est": 9043,
+  "monthly_low": 9978,
+  "monthly_est": 9978,
   "gift_once": 0,
-  "total_low": 9043,
-  "total_est": 9043,
-  "paying_members": 29,
+  "total_low": 9978,
+  "total_est": 9978,
+  "paying_members": 32,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -196,6 +196,16 @@
    "member_chatters": 10,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "P9SzOew5Nm8",
+   "start": "2026-10-12 22:00",
+   "title": "【 🗣️雑談 】秋になってきたので雑談TIME【にじさんじ/轟京子】",
+   "kind": "配信",
+   "chatters": 84,
+   "member_chatters": 23,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -262,30 +272,34 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-12"
+    "to": "2026-10-13"
    },
-   "streams_analyzed": 4,
+   "streams_analyzed": 5,
    "streams_missed": 0,
-   "unique_chatters": 79,
-   "members_confirmed": 17,
+   "unique_chatters": 134,
+   "members_confirmed": 26,
    "member_classes": {
-    "unknown": 16,
-    "known": 1
+    "unknown": 24,
+    "known": 2
    },
-   "long_term_members": 16,
+   "long_term_members": 24,
    "badges": [
     {
      "months": 0,
      "members": 1
     },
     {
+     "months": 6,
+     "members": 1
+    },
+    {
      "months": 12,
-     "members": 16
+     "members": 24
     }
    ],
    "events": {
     "new_members": 1,
-    "rejoins": 0,
+    "rejoins": 1,
     "milestones": 0,
     "gifted_total": 0
    },
@@ -293,16 +307,16 @@
     {
      "tier": "ろきぺ",
      "price": 490,
-     "confirmed_members": 1,
-     "estimated_members": 17.0
+     "confirmed_members": 2,
+     "estimated_members": 26.0
     }
    ],
    "revenue": {
-    "monthly_low": 5301,
-    "monthly_est": 5301,
+    "monthly_low": 8107,
+    "monthly_est": 8107,
     "gift_once": 0
    },
-   "avg_member_chatters": 10.2,
+   "avg_member_chatters": 12.8,
    "partial": true,
    "finalized": false
   }

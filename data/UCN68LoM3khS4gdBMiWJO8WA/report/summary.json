@@ -3,27 +3,27 @@
  "channel_id": "UCN68LoM3khS4gdBMiWJO8WA",
  "handle": "@AiaAmare",
  "subscribers": 283000,
- "fetched_at": "2026-10-12 10:22",
- "generated_at": "2026-10-12 10:22",
+ "fetched_at": "2026-10-13 05:38",
+ "generated_at": "2026-10-13 05:38",
  "period": {
-  "from": "2026-09-12 10:22",
-  "to": "2026-10-12 10:22",
+  "from": "2026-09-13 05:38",
+  "to": "2026-10-13 05:38",
   "days": 30
  },
- "streams_analyzed": 30,
+ "streams_analyzed": 31,
  "streams_missed": 2,
- "unique_chatters": 1163,
- "members_confirmed": 329,
+ "unique_chatters": 1175,
+ "members_confirmed": 332,
  "member_classes": {
-  "known": 132,
-  "unknown": 100,
+  "known": 138,
+  "unknown": 97,
   "gift": 97
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 98
+   "members": 99
   },
   {
    "months": 1,
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 45
+   "members": 46
   },
   {
    "months": 24,
@@ -53,7 +53,7 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 66
+   "members": 67
   },
   {
    "months": 48,
@@ -62,9 +62,9 @@
   }
  ],
  "events": {
-  "new_members": 5,
+  "new_members": 6,
   "rejoins": 6,
-  "milestones": 132,
+  "milestones": 139,
   "gift_purchases": 57,
   "gifted_total": 98,
   "gift_redemptions": 98
@@ -75,21 +75,21 @@
    "tier": "Maidenship",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 132,
+   "confirmed_members": 138,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 100.0,
-   "estimated_members": 232.0,
-   "monthly_net_confirmed": 57960,
-   "monthly_net_estimated": 101869
+   "allocated_unknown": 97.0,
+   "estimated_members": 235.0,
+   "monthly_net_confirmed": 60595,
+   "monthly_net_estimated": 103186
   }
  ],
  "revenue": {
-  "monthly_low": 101869,
-  "monthly_est": 101869,
+  "monthly_low": 103186,
+  "monthly_est": 103186,
   "gift_once": 43031,
-  "total_low": 144900,
-  "total_est": 144900,
-  "paying_members": 232,
+  "total_low": 146217,
+  "total_est": 146217,
+  "paying_members": 235,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -397,6 +397,16 @@
    "member_chatters": 63,
    "new_members": 0,
    "gifted_total": 2
+  },
+  {
+   "video_id": "AIauP_6tpkc",
+   "start": "2026-10-12 09:06",
+   "title": "【WH40K MINI】 FNISHING THE BANEBLADE",
+   "kind": "配信",
+   "chatters": 94,
+   "member_chatters": 54,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -526,22 +536,22 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-12"
+    "to": "2026-10-13"
    },
-   "streams_analyzed": 12,
+   "streams_analyzed": 13,
    "streams_missed": 0,
-   "unique_chatters": 580,
-   "members_confirmed": 193,
+   "unique_chatters": 597,
+   "members_confirmed": 196,
    "member_classes": {
-    "known": 102,
-    "unknown": 55,
+    "known": 108,
+    "unknown": 52,
     "gift": 36
    },
-   "long_term_members": 135,
+   "long_term_members": 137,
    "badges": [
     {
      "months": 0,
-     "members": 34
+     "members": 35
     },
     {
      "months": 1,
@@ -557,7 +567,7 @@
     },
     {
      "months": 12,
-     "members": 29
+     "members": 30
     },
     {
      "months": 24,
@@ -565,7 +575,7 @@
     },
     {
      "months": 36,
-     "members": 49
+     "members": 50
     },
     {
      "months": 48,
@@ -573,25 +583,25 @@
     }
    ],
    "events": {
-    "new_members": 0,
+    "new_members": 1,
     "rejoins": 2,
-    "milestones": 35,
+    "milestones": 42,
     "gifted_total": 37
    },
    "tiers": [
     {
      "tier": "Maidenship",
      "price": 690,
-     "confirmed_members": 102,
-     "estimated_members": 157.0
+     "confirmed_members": 108,
+     "estimated_members": 160.0
     }
    ],
    "revenue": {
-    "monthly_low": 68937,
-    "monthly_est": 68937,
+    "monthly_low": 70255,
+    "monthly_est": 70255,
     "gift_once": 16246
    },
-   "avg_member_chatters": 57.4,
+   "avg_member_chatters": 57.2,
    "partial": true,
    "finalized": false
   }
