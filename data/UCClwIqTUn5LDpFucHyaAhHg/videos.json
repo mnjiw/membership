@@ -180,8 +180,8 @@
    "checked_at": "2026-10-07 10:24",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1791836791.6538877,
-   "likes_checked_at": "2026-10-13 05:26"
+   "likes_checked_ts": 1791923360.0203376,
+   "likes_checked_at": "2026-10-14 05:29"
   },
   "P5EjlBNAWVA": {
    "id": "P5EjlBNAWVA",
@@ -579,21 +579,20 @@
   },
   "JkItDwrA_Ec": {
    "id": "JkItDwrA_Ec",
-   "title": "にじさんじのみんなと仲良くなりたいのですか？ [にじさんじ/イロハ]",
-   "kind": "video",
-   "start_ts": 1791730800.0,
-   "start_jst": "2026-10-12 00:00",
-   "duration_sec": null,
-   "view_count": 3187,
-   "like_count": 210,
+   "title": "Do you want to get along with everyone in NIJISANJI? [NIJISANJI/IROHA]",
+   "kind": "live",
+   "start_ts": 1791816597.264503,
+   "start_jst": "2026-10-12 23:49",
+   "duration_sec": 6998,
+   "view_count": 4243,
+   "like_count": 219,
    "live_status": null,
    "members_only": false,
-   "has_chat": false,
-   "checked_at": "2026-10-13 12:04",
+   "has_chat": true,
+   "checked_at": "2026-10-14 05:29",
    "info_limited": true,
-   "error": "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)",
-   "status": "error",
-   "failed_since_ts": 1791836791.6538877
+   "start_from_chat": true,
+   "status": "ok"
   },
   "TVdQWLPkNns": {
    "id": "TVdQWLPkNns",
@@ -611,14 +610,31 @@
    "info_limited": true,
    "start_from_chat": true,
    "status": "ok"
+  },
+  "_tTSp4WTqoc": {
+   "id": "_tTSp4WTqoc",
+   "title": "にじさんじのみんなを知りたいです！[にじさんじ/イロハ]",
+   "kind": "live",
+   "start_ts": 1791899394.08002,
+   "start_jst": "2026-10-13 22:49",
+   "duration_sec": 8496,
+   "view_count": 3564,
+   "like_count": 226,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-10-14 05:29",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "イ・ロハ / LeeRoha【にじさんじ】",
  "channel_id": "UCClwIqTUn5LDpFucHyaAhHg",
  "handle": "@LeeRoha",
  "subscribers": 110000,
- "fetched_at": "2026-10-13 12:04",
- "fetched_at_ts": 1791860686.888099,
- "checked_from": "2026-10-06 12:04",
+ "fetched_at": "2026-10-14 05:29",
+ "fetched_at_ts": 1791923360.0203376,
+ "checked_from": "2026-10-07 05:29",
  "initial_fetch_done": true
 }

@@ -2,57 +2,57 @@
  "channel": "小柳ロウ / Koyanagi Rou【にじさんじ】",
  "channel_id": "UC6WFKwYptsxVue56Lx218vg",
  "handle": "@KoyanagiRou",
- "subscribers": 502000,
- "fetched_at": "2026-10-13 12:05",
- "generated_at": "2026-10-13 12:05",
+ "subscribers": 503000,
+ "fetched_at": "2026-10-14 05:32",
+ "generated_at": "2026-10-14 05:34",
  "period": {
-  "from": "2026-09-13 12:05",
-  "to": "2026-10-13 12:05",
+  "from": "2026-09-14 05:32",
+  "to": "2026-10-14 05:32",
   "days": 30
  },
- "streams_analyzed": 35,
- "streams_missed": 0,
- "unique_chatters": 5451,
+ "streams_analyzed": 36,
+ "streams_missed": 1,
+ "unique_chatters": 5466,
  "members_confirmed": 2252,
  "member_classes": {
-  "unknown": 1862,
-  "known": 374,
+  "unknown": 1863,
+  "known": 373,
   "gift": 16
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 122
+   "members": 119
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 42
+   "members": 43
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 178
+   "members": 180
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 474
+   "members": 470
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 686
+   "members": 685
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 750
+   "members": 755
   }
  ],
  "events": {
-  "new_members": 44,
+  "new_members": 43,
   "rejoins": 33,
   "milestones": 313,
   "gift_purchases": 4,
@@ -65,11 +65,11 @@
    "tier": "ロウルフ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 374,
+   "confirmed_members": 373,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1862.0,
+   "allocated_unknown": 1863.0,
    "estimated_members": 2236.0,
-   "monthly_net_confirmed": 116620,
+   "monthly_net_confirmed": 116308,
    "monthly_net_estimated": 697225
   }
  ],
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "1ddtf7isVl8",
-   "start": "2026-09-13 15:10",
-   "title": "【VALORANT】汗３から【小柳ロウ/にじさんじ】",
-   "kind": "配信",
-   "chatters": 850,
-   "member_chatters": 579,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "MxxWTpqxAMk",
    "start": "2026-09-14 19:41",
@@ -437,9 +427,42 @@
    "member_chatters": 699,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "lsMerbJLB04",
+   "start": "2026-10-13 10:41",
+   "title": "【OW】エメラルド５から【小柳ロウ/にじさんじ】",
+   "kind": "配信",
+   "chatters": 575,
+   "member_chatters": 397,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "nhae1_pJjrE",
+   "start": "2026-10-13 18:02",
+   "title": "【APEX】プレマスランク【小柳ロウ/にじさんじ】",
+   "kind": "配信",
+   "chatters": 599,
+   "member_chatters": 464,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "B6bPPbXGaYc",
+   "start": "2026-10-13 00:00",
+   "title": "【APEX】ベリーさんゴールド企画【小柳ロウ/にじさんじ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 5181,
+   "view_count": 188143
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -512,64 +535,64 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-13"
+    "to": "2026-10-14"
    },
-   "streams_analyzed": 12,
-   "streams_missed": 0,
-   "unique_chatters": 3468,
-   "members_confirmed": 1698,
+   "streams_analyzed": 14,
+   "streams_missed": 1,
+   "unique_chatters": 3582,
+   "members_confirmed": 1731,
    "member_classes": {
-    "unknown": 1395,
-    "known": 293,
+    "unknown": 1424,
+    "known": 297,
     "gift": 10
    },
-   "long_term_members": 1114,
+   "long_term_members": 1135,
    "badges": [
     {
      "months": 0,
-     "members": 89
+     "members": 88
     },
     {
      "months": 1,
-     "members": 25
+     "members": 27
     },
     {
      "months": 2,
-     "members": 135
+     "members": 141
     },
     {
      "months": 6,
-     "members": 335
+     "members": 340
     },
     {
      "months": 12,
-     "members": 500
+     "members": 509
     },
     {
      "months": 24,
-     "members": 614
+     "members": 626
     }
    ],
    "events": {
     "new_members": 13,
-    "rejoins": 7,
-    "milestones": 85,
+    "rejoins": 8,
+    "milestones": 90,
     "gifted_total": 10
    },
    "tiers": [
     {
      "tier": "ロウルフ",
      "price": 490,
-     "confirmed_members": 293,
-     "estimated_members": 1688.0
+     "confirmed_members": 297,
+     "estimated_members": 1721.0
     }
    ],
    "revenue": {
-    "monthly_low": 526349,
-    "monthly_est": 526349,
+    "monthly_low": 536639,
+    "monthly_est": 536639,
     "gift_once": 3118
    },
-   "avg_member_chatters": 614.8,
+   "avg_member_chatters": 588.4,
    "partial": true,
    "finalized": false
   }

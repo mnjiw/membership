@@ -3,48 +3,48 @@
  "channel_id": "UCcYrL_GQe8X8K2ARhw_Syww",
  "handle": "@SumeragiReo",
  "subscribers": 139000,
- "fetched_at": "2026-10-13 12:05",
- "generated_at": "2026-10-13 12:06",
+ "fetched_at": "2026-10-14 05:37",
+ "generated_at": "2026-10-14 05:37",
  "period": {
-  "from": "2026-09-13 12:05",
-  "to": "2026-10-13 12:05",
+  "from": "2026-09-14 05:37",
+  "to": "2026-10-14 05:37",
   "days": 30
  },
- "streams_analyzed": 37,
+ "streams_analyzed": 36,
  "streams_missed": 2,
- "unique_chatters": 2431,
- "members_confirmed": 718,
+ "unique_chatters": 2397,
+ "members_confirmed": 714,
  "member_classes": {
-  "unknown": 590,
-  "known": 83,
+  "known": 84,
+  "unknown": 585,
   "gift": 45
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 165
+   "members": 162
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 91
+   "members": 94
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 159
+   "members": 152
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 303
+   "members": 306
   }
  ],
  "events": {
   "new_members": 44,
   "rejoins": 10,
-  "milestones": 27,
+  "milestones": 26,
   "gift_purchases": 8,
   "gifted_total": 45,
   "gift_redemptions": 45
@@ -55,21 +55,21 @@
    "tier": "れおとらいぶ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 83,
+   "confirmed_members": 84,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 590.0,
-   "estimated_members": 673.0,
-   "monthly_net_confirmed": 25881,
-   "monthly_net_estimated": 209854
+   "allocated_unknown": 585.0,
+   "estimated_members": 669.0,
+   "monthly_net_confirmed": 26193,
+   "monthly_net_estimated": 208606
   }
  ],
  "revenue": {
-  "monthly_low": 209854,
-  "monthly_est": 209854,
+  "monthly_low": 208606,
+  "monthly_est": 208606,
   "gift_once": 14032,
-  "total_low": 223885,
-  "total_est": 223885,
-  "paying_members": 673,
+  "total_low": 222638,
+  "total_est": 222638,
+  "paying_members": 669,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -78,26 +78,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "lpDlqEIuWI4",
-   "start": "2026-09-13 21:01",
-   "title": "【 雑談 】おすすめグルメを実際に取り寄せてみる！【 皇れお  / にじさんじ 】",
-   "kind": "配信",
-   "chatters": 237,
-   "member_chatters": 150,
-   "new_members": 1,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "KkJAWIX3qG8",
-   "start": "2026-09-13 22:47",
-   "title": "【 にじ鯖マイクラ 】今日も行こうよ『 すぷれあアイランド 』へ【 皇れお  / にじさんじ 】",
-   "kind": "配信",
-   "chatters": 160,
-   "member_chatters": 106,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "1pBRXIaFxkQ",
    "start": "2026-09-14 06:32",
@@ -447,6 +427,16 @@
    "member_chatters": 178,
    "new_members": 2,
    "gifted_total": 0
+  },
+  {
+   "video_id": "Qrnj0_l4YIc",
+   "start": "2026-10-13 22:02",
+   "title": "【 スプラトゥーン3 】S+目指して全力ガチマッチれちご！！！！【 皇れお  / にじさんじ 】",
+   "kind": "配信",
+   "chatters": 162,
+   "member_chatters": 115,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -471,7 +461,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "れおとらいぶ",
-   "like_count": 99,
+   "like_count": 107,
    "view_count": null
   }
  ],
@@ -493,7 +483,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "れおとらいぶ",
-   "like_count": 99,
+   "like_count": 107,
    "view_count": null
   }
  ],
@@ -560,26 +550,26 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-13"
+    "to": "2026-10-14"
    },
-   "streams_analyzed": 14,
+   "streams_analyzed": 15,
    "streams_missed": 1,
-   "unique_chatters": 1235,
-   "members_confirmed": 478,
+   "unique_chatters": 1266,
+   "members_confirmed": 485,
    "member_classes": {
-    "unknown": 396,
-    "known": 62,
+    "unknown": 402,
+    "known": 63,
     "gift": 20
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 89
+     "members": 90
     },
     {
      "months": 1,
-     "members": 76
+     "members": 79
     },
     {
      "months": 2,
@@ -587,11 +577,11 @@
     },
     {
      "months": 6,
-     "members": 208
+     "members": 211
     }
    ],
    "events": {
-    "new_members": 15,
+    "new_members": 16,
     "rejoins": 4,
     "milestones": 11,
     "gifted_total": 20
@@ -600,16 +590,16 @@
     {
      "tier": "れおとらいぶ",
      "price": 490,
-     "confirmed_members": 62,
-     "estimated_members": 458.0
+     "confirmed_members": 63,
+     "estimated_members": 465.0
     }
    ],
    "revenue": {
-    "monthly_low": 142813,
-    "monthly_est": 142813,
+    "monthly_low": 144995,
+    "monthly_est": 144995,
     "gift_once": 6236
    },
-   "avg_member_chatters": 137.9,
+   "avg_member_chatters": 136.3,
    "partial": true,
    "finalized": false
   }

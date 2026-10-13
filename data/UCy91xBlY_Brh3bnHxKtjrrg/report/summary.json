@@ -3,66 +3,66 @@
  "channel_id": "UCy91xBlY_Brh3bnHxKtjrrg",
  "handle": "@DoppioDropscythe",
  "subscribers": 264000,
- "fetched_at": "2026-10-13 12:06",
- "generated_at": "2026-10-13 12:07",
+ "fetched_at": "2026-10-14 05:40",
+ "generated_at": "2026-10-14 05:40",
  "period": {
-  "from": "2026-09-13 12:06",
-  "to": "2026-10-13 12:06",
+  "from": "2026-09-14 05:40",
+  "to": "2026-10-14 05:40",
   "days": 30
  },
- "streams_analyzed": 28,
- "streams_missed": 6,
- "unique_chatters": 1391,
- "members_confirmed": 733,
+ "streams_analyzed": 27,
+ "streams_missed": 7,
+ "unique_chatters": 1229,
+ "members_confirmed": 629,
  "member_classes": {
-  "known": 140,
-  "unknown": 196,
-  "gift": 397
+  "known": 132,
+  "unknown": 186,
+  "gift": 311
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 391
+   "members": 314
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 6
+   "members": 5
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 50
+   "members": 48
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 38
+   "members": 33
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 68
+   "members": 60
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 51
+   "members": 49
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 129
+   "members": 120
   }
  ],
  "events": {
-  "new_members": 2,
-  "rejoins": 13,
-  "milestones": 172,
-  "gift_purchases": 92,
-  "gifted_total": 405,
-  "gift_redemptions": 403
+  "new_members": 1,
+  "rejoins": 7,
+  "milestones": 99,
+  "gift_purchases": 72,
+  "gifted_total": 317,
+  "gift_redemptions": 315
  },
  "tiers_configured": true,
  "tiers": [
@@ -70,21 +70,21 @@
    "tier": "The Arcade, Dropplets!!",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 140,
+   "confirmed_members": 132,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 196.0,
-   "estimated_members": 336.0,
-   "monthly_net_confirmed": 61473,
-   "monthly_net_estimated": 147535
+   "allocated_unknown": 186.0,
+   "estimated_members": 318.0,
+   "monthly_net_confirmed": 57960,
+   "monthly_net_estimated": 139631
   }
  ],
  "revenue": {
-  "monthly_low": 147535,
-  "monthly_est": 147535,
-  "gift_once": 177832,
-  "total_low": 325366,
-  "total_est": 325366,
-  "paying_members": 336,
+  "monthly_low": 139631,
+  "monthly_est": 139631,
+  "gift_once": 139192,
+  "total_low": 278823,
+  "total_est": 278823,
+  "paying_members": 318,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "-SrXV4zldNo",
-   "start": "2026-09-13 22:03",
-   "title": "WELCOME HOME DOPPIO!【NIJISANJI  EN | Doppio Dropscythe】",
-   "kind": "配信",
-   "chatters": 468,
-   "member_chatters": 281,
-   "new_members": 1,
-   "gifted_total": 88
-  },
   {
    "video_id": "yOOl3Y3suIo",
    "start": "2026-09-14 21:02",
@@ -444,7 +434,19 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 32,
+   "like_count": 34,
+   "view_count": null
+  },
+  {
+   "video_id": "cG3VFIeNEBU",
+   "start": "2026-10-13 21:04",
+   "title": "DANGANRONPA 3 EP. 21-24 FINALE WATCHALONG 【NIJISANJI  EN | Doppio Dropscythe】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 31,
    "view_count": null
   }
  ],
@@ -506,7 +508,17 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 32,
+   "like_count": 34,
+   "view_count": null
+  },
+  {
+   "video_id": "cG3VFIeNEBU",
+   "start": "2026-10-13 21:04",
+   "title": "DANGANRONPA 3 EP. 21-24 FINALE WATCHALONG 【NIJISANJI  EN | Doppio Dropscythe】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 31,
    "view_count": null
   }
  ],
@@ -585,10 +597,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-13"
+    "to": "2026-10-14"
    },
    "streams_analyzed": 10,
-   "streams_missed": 3,
+   "streams_missed": 4,
    "unique_chatters": 634,
    "members_confirmed": 425,
    "member_classes": {

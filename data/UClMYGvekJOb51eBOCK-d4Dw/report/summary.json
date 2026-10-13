@@ -3,27 +3,27 @@
  "channel_id": "UClMYGvekJOb51eBOCK-d4Dw",
  "handle": "@ZealGinjoka",
  "subscribers": 189000,
- "fetched_at": "2026-10-13 12:06",
- "generated_at": "2026-10-13 12:07",
+ "fetched_at": "2026-10-14 05:40",
+ "generated_at": "2026-10-14 05:41",
  "period": {
-  "from": "2026-09-13 12:06",
-  "to": "2026-10-13 12:06",
+  "from": "2026-09-14 05:40",
+  "to": "2026-10-14 05:40",
   "days": 30
  },
- "streams_analyzed": 21,
- "streams_missed": 1,
- "unique_chatters": 2239,
- "members_confirmed": 988,
+ "streams_analyzed": 22,
+ "streams_missed": 0,
+ "unique_chatters": 2261,
+ "members_confirmed": 991,
  "member_classes": {
-  "known": 280,
-  "unknown": 418,
+  "known": 284,
+  "unknown": 417,
   "gift": 290
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 331
+   "members": 330
   },
   {
    "months": 1,
@@ -33,23 +33,23 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 74
+   "members": 75
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 100
+   "members": 99
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 442
+   "members": 446
   }
  ],
  "events": {
   "new_members": 13,
   "rejoins": 24,
-  "milestones": 206,
+  "milestones": 214,
   "gift_purchases": 56,
   "gifted_total": 292,
   "gift_redemptions": 291
@@ -60,21 +60,21 @@
    "tier": "Zuper Epic Awesome Legend",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 280,
+   "confirmed_members": 284,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 418.0,
-   "estimated_members": 698.0,
-   "monthly_net_confirmed": 122945,
-   "monthly_net_estimated": 306485
+   "allocated_unknown": 417.0,
+   "estimated_members": 701.0,
+   "monthly_net_confirmed": 124702,
+   "monthly_net_estimated": 307803
   }
  ],
  "revenue": {
-  "monthly_low": 306485,
-  "monthly_est": 306485,
+  "monthly_low": 307803,
+  "monthly_est": 307803,
   "gift_once": 128215,
-  "total_low": 434700,
-  "total_est": 434700,
-  "paying_members": 698,
+  "total_low": 436017,
+  "total_est": 436017,
+  "paying_members": 701,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -292,22 +292,19 @@
    "member_chatters": 242,
    "new_members": 0,
    "gifted_total": 30
-  }
- ],
- "missed_streams": [
+  },
   {
    "video_id": "dhy3jYFXzAQ",
-   "start": "2026-10-13 00:00",
+   "start": "2026-10-13 08:57",
    "title": "【Vampire Survivors】 Here It Comes 【NIJISANJI EN | Zeal Ginjoka】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 405,
-   "view_count": 4472
+   "kind": "配信",
+   "chatters": 227,
+   "member_chatters": 158,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -376,18 +373,18 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-13"
+    "to": "2026-10-14"
    },
-   "streams_analyzed": 9,
-   "streams_missed": 1,
-   "unique_chatters": 1131,
-   "members_confirmed": 553,
+   "streams_analyzed": 10,
+   "streams_missed": 0,
+   "unique_chatters": 1166,
+   "members_confirmed": 565,
    "member_classes": {
-    "known": 229,
-    "unknown": 259,
+    "known": 233,
+    "unknown": 267,
     "gift": 65
    },
-   "long_term_members": 318,
+   "long_term_members": 328,
    "badges": [
     {
      "months": 0,
@@ -395,11 +392,11 @@
     },
     {
      "months": 1,
-     "members": 27
+     "members": 28
     },
     {
      "months": 2,
-     "members": 43
+     "members": 44
     },
     {
      "months": 6,
@@ -407,29 +404,29 @@
     },
     {
      "months": 12,
-     "members": 318
+     "members": 328
     }
    ],
    "events": {
     "new_members": 4,
     "rejoins": 13,
-    "milestones": 112,
+    "milestones": 120,
     "gifted_total": 65
    },
    "tiers": [
     {
      "tier": "Zuper Epic Awesome Legend",
      "price": 690,
-     "confirmed_members": 229,
-     "estimated_members": 488.0
+     "confirmed_members": 233,
+     "estimated_members": 500.0
     }
    ],
    "revenue": {
-    "monthly_low": 214276,
-    "monthly_est": 214276,
+    "monthly_low": 219545,
+    "monthly_est": 219545,
     "gift_once": 28541
    },
-   "avg_member_chatters": 210.2,
+   "avg_member_chatters": 205,
    "partial": true,
    "finalized": false
   }

@@ -3,46 +3,46 @@
  "channel_id": "UCcswLVd6KGBf5mIdzeO83bA",
  "handle": "@HanakagoTsubasa",
  "subscribers": 128000,
- "fetched_at": "2026-10-13 12:06",
- "generated_at": "2026-10-13 12:06",
+ "fetched_at": "2026-10-14 05:37",
+ "generated_at": "2026-10-14 05:37",
  "period": {
-  "from": "2026-09-13 12:06",
-  "to": "2026-10-13 12:06",
+  "from": "2026-09-14 05:37",
+  "to": "2026-10-14 05:37",
   "days": 30
  },
  "streams_analyzed": 26,
  "streams_missed": 1,
- "unique_chatters": 1254,
- "members_confirmed": 326,
+ "unique_chatters": 1195,
+ "members_confirmed": 320,
  "member_classes": {
-  "unknown": 289,
-  "known": 21,
+  "unknown": 284,
+  "known": 20,
   "gift": 16
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 81
+   "members": 79
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 36
+   "members": 35
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 59
+   "members": 57
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 150
+   "members": 149
   }
  ],
  "events": {
-  "new_members": 17,
+  "new_members": 15,
   "rejoins": 2,
   "milestones": 0,
   "gift_purchases": 4,
@@ -55,21 +55,21 @@
    "tier": "翼推部 子つ葉班",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 21,
+   "confirmed_members": 20,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 289.0,
-   "estimated_members": 310.0,
-   "monthly_net_confirmed": 6548,
-   "monthly_net_estimated": 96664
+   "allocated_unknown": 284.0,
+   "estimated_members": 304.0,
+   "monthly_net_confirmed": 6236,
+   "monthly_net_estimated": 94793
   }
  ],
  "revenue": {
-  "monthly_low": 96664,
-  "monthly_est": 96664,
+  "monthly_low": 94793,
+  "monthly_est": 94793,
   "gift_once": 4989,
-  "total_low": 101653,
-  "total_est": 101653,
-  "paying_members": 310,
+  "total_low": 99782,
+  "total_est": 99782,
+  "paying_members": 304,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -78,16 +78,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "Xt_a_4o_Bv0",
-   "start": "2026-09-13 20:33",
-   "title": "【影廊｜ShadowCorridor】初見クリアからの大勾玉集めに2周目？耐久…？【花籠つばさ / にじさんじ】",
-   "kind": "配信",
-   "chatters": 241,
-   "member_chatters": 79,
-   "new_members": 2,
-   "gifted_total": 0
-  },
   {
    "video_id": "lxC7l-0FBZs",
    "start": "2026-09-14 08:35",
@@ -337,6 +327,16 @@
    "member_chatters": 73,
    "new_members": 2,
    "gifted_total": 0
+  },
+  {
+   "video_id": "CMgv1fUalYU",
+   "start": "2026-10-13 20:34",
+   "title": "【Japanese Ramen Simulator】ミスなし、無駄なし、笑いなし。真顔ラーメン屋が開店【花籠つばさ / にじさんじ】",
+   "kind": "配信",
+   "chatters": 132,
+   "member_chatters": 86,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -428,14 +428,14 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-13"
+    "to": "2026-10-14"
    },
-   "streams_analyzed": 11,
+   "streams_analyzed": 12,
    "streams_missed": 0,
-   "unique_chatters": 402,
-   "members_confirmed": 181,
+   "unique_chatters": 439,
+   "members_confirmed": 189,
    "member_classes": {
-    "unknown": 170,
+    "unknown": 178,
     "known": 10,
     "gift": 1
    },
@@ -443,7 +443,7 @@
    "badges": [
     {
      "months": 0,
-     "members": 31
+     "members": 30
     },
     {
      "months": 1,
@@ -451,11 +451,11 @@
     },
     {
      "months": 2,
-     "members": 31
+     "members": 34
     },
     {
      "months": 6,
-     "members": 91
+     "members": 97
     }
    ],
    "events": {
@@ -469,15 +469,15 @@
      "tier": "翼推部 子つ葉班",
      "price": 490,
      "confirmed_members": 10,
-     "estimated_members": 180.0
+     "estimated_members": 188.0
     }
    ],
    "revenue": {
-    "monthly_low": 56127,
-    "monthly_est": 56127,
+    "monthly_low": 58622,
+    "monthly_est": 58622,
     "gift_once": 312
    },
-   "avg_member_chatters": 66.1,
+   "avg_member_chatters": 67.8,
    "partial": true,
    "finalized": false
   }

@@ -3,27 +3,27 @@
  "channel_id": "UC7Gb7Uawe20QyFibhLl1lzA",
  "handle": "@LucaKaneshiro",
  "subscribers": 1040000,
- "fetched_at": "2026-10-13 12:06",
- "generated_at": "2026-10-13 12:06",
+ "fetched_at": "2026-10-14 05:39",
+ "generated_at": "2026-10-14 05:40",
  "period": {
-  "from": "2026-09-13 12:06",
-  "to": "2026-10-13 12:06",
+  "from": "2026-09-14 05:39",
+  "to": "2026-10-14 05:39",
   "days": 30
  },
  "streams_analyzed": 12,
  "streams_missed": 4,
- "unique_chatters": 2271,
- "members_confirmed": 713,
+ "unique_chatters": 2200,
+ "members_confirmed": 739,
  "member_classes": {
-  "known": 202,
-  "unknown": 340,
-  "gift": 171
+  "known": 215,
+  "unknown": 324,
+  "gift": 200
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 192
+   "members": 220
   },
   {
    "months": 1,
@@ -33,17 +33,17 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 64
+   "members": 62
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 72
+   "members": 70
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 90
+   "members": 91
   },
   {
    "months": 24,
@@ -53,21 +53,21 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 80
+   "members": 83
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 126
+   "members": 124
   }
  ],
  "events": {
-  "new_members": 7,
+  "new_members": 6,
   "rejoins": 17,
-  "milestones": 175,
-  "gift_purchases": 44,
-  "gifted_total": 180,
-  "gift_redemptions": 171
+  "milestones": 176,
+  "gift_purchases": 46,
+  "gifted_total": 209,
+  "gift_redemptions": 200
  },
  "tiers_configured": true,
  "tiers": [
@@ -75,21 +75,21 @@
    "tier": "The Mafia",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 202,
+   "confirmed_members": 215,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 340.0,
-   "estimated_members": 542.0,
-   "monthly_net_confirmed": 88696,
-   "monthly_net_estimated": 237987
+   "allocated_unknown": 324.0,
+   "estimated_members": 539.0,
+   "monthly_net_confirmed": 94405,
+   "monthly_net_estimated": 236670
   }
  ],
  "revenue": {
-  "monthly_low": 237987,
-  "monthly_est": 237987,
-  "gift_once": 79036,
-  "total_low": 317024,
-  "total_est": 317024,
-  "paying_members": 542,
+  "monthly_low": 236670,
+  "monthly_est": 236670,
+  "gift_once": 91770,
+  "total_low": 328440,
+  "total_est": 328440,
+  "paying_members": 539,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "F_oihOT_Ocs",
-   "start": "2026-09-13 19:02",
-   "title": "【nopixel V】BECOMING A REAL CRIMINAL IN GTA RP【NIJISANJI EN | Luca Kaneshiro】",
-   "kind": "配信",
-   "chatters": 693,
-   "member_chatters": 226,
-   "new_members": 1,
-   "gifted_total": 12
-  },
   {
    "video_id": "5yhnXIIbUPM",
    "start": "2026-09-20 13:33",
@@ -217,6 +207,16 @@
    "member_chatters": 221,
    "new_members": 0,
    "gifted_total": 23
+  },
+  {
+   "video_id": "7_fQpeJLlN0",
+   "start": "2026-10-13 12:18",
+   "title": "【The Baby In Yellow】Am I the HORROR?【NIJISANJI EN | Luca Kaneshiro】",
+   "kind": "配信",
+   "chatters": 456,
+   "member_chatters": 244,
+   "new_members": 0,
+   "gifted_total": 41
   }
  ],
  "missed_streams": [
@@ -265,7 +265,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 159,
+   "like_count": 161,
    "view_count": null
   }
  ],
@@ -297,7 +297,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 159,
+   "like_count": 161,
    "view_count": null
   }
  ],
@@ -380,72 +380,72 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-13"
+    "to": "2026-10-14"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 6,
    "streams_missed": 2,
-   "unique_chatters": 1292,
-   "members_confirmed": 457,
+   "unique_chatters": 1452,
+   "members_confirmed": 530,
    "member_classes": {
-    "known": 162,
-    "unknown": 243,
-    "gift": 52
+    "known": 182,
+    "unknown": 255,
+    "gift": 93
    },
-   "long_term_members": 266,
+   "long_term_members": 292,
    "badges": [
     {
      "months": 0,
-     "members": 71
+     "members": 111
     },
     {
      "months": 1,
-     "members": 14
+     "members": 16
     },
     {
      "months": 2,
-     "members": 48
+     "members": 50
     },
     {
      "months": 6,
-     "members": 58
+     "members": 61
     },
     {
      "months": 12,
-     "members": 63
+     "members": 71
     },
     {
      "months": 24,
-     "members": 52
+     "members": 55
     },
     {
      "months": 36,
-     "members": 60
+     "members": 67
     },
     {
      "months": 48,
-     "members": 91
+     "members": 99
     }
    ],
    "events": {
     "new_members": 2,
-    "rejoins": 8,
-    "milestones": 68,
-    "gifted_total": 61
+    "rejoins": 10,
+    "milestones": 93,
+    "gifted_total": 102
    },
    "tiers": [
     {
      "tier": "The Mafia",
      "price": 690,
-     "confirmed_members": 162,
-     "estimated_members": 405.0
+     "confirmed_members": 182,
+     "estimated_members": 437.0
     }
    ],
    "revenue": {
-    "monthly_low": 177832,
-    "monthly_est": 177832,
-    "gift_once": 26785
+    "monthly_low": 191883,
+    "monthly_est": 191883,
+    "gift_once": 44787
    },
-   "avg_member_chatters": 209.2,
+   "avg_member_chatters": 215,
    "partial": true,
    "finalized": false
   }

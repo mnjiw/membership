@@ -3,16 +3,16 @@
  "channel_id": "UCK9l6rTwU3hiSZijIMq51Gw",
  "handle": "@VezaliusBandage",
  "subscribers": 236000,
- "fetched_at": "2026-10-13 12:06",
- "generated_at": "2026-10-13 12:06",
+ "fetched_at": "2026-10-14 05:40",
+ "generated_at": "2026-10-14 05:40",
  "period": {
-  "from": "2026-09-13 12:06",
-  "to": "2026-10-13 12:06",
+  "from": "2026-09-14 05:40",
+  "to": "2026-10-14 05:40",
   "days": 30
  },
  "streams_analyzed": 24,
  "streams_missed": 2,
- "unique_chatters": 1006,
+ "unique_chatters": 1018,
  "members_confirmed": 433,
  "member_classes": {
   "unknown": 182,
@@ -43,18 +43,18 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 67
+   "members": 66
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 92
+   "members": 93
   }
  ],
  "events": {
   "new_members": 5,
-  "rejoins": 6,
-  "milestones": 24,
+  "rejoins": 5,
+  "milestones": 23,
   "gift_purchases": 30,
   "gifted_total": 201,
   "gift_redemptions": 201
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "XR696PqO3KE",
-   "start": "2026-09-13 21:02",
-   "title": "【Denshattack!】Train attack back!! #SillyZaliSunday【NIJISANJI EN | Vezalius Bandage】",
-   "kind": "配信",
-   "chatters": 80,
-   "member_chatters": 57,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "ok2CO-L5ji0",
    "start": "2026-09-14 10:20",
@@ -327,6 +317,16 @@
    "member_chatters": 42,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "WNbJBoIA9uQ",
+   "start": "2026-10-13 10:00",
+   "title": "【Sons of the Forest】Krisisis in an abandoned forest... or is it?【NIJISANJI EN | Vezalius Bandage】",
+   "kind": "配信",
+   "chatters": 94,
+   "member_chatters": 49,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -448,18 +448,18 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-13"
+    "to": "2026-10-14"
    },
-   "streams_analyzed": 8,
+   "streams_analyzed": 9,
    "streams_missed": 1,
-   "unique_chatters": 475,
-   "members_confirmed": 187,
+   "unique_chatters": 501,
+   "members_confirmed": 190,
    "member_classes": {
-    "unknown": 127,
-    "known": 35,
+    "unknown": 129,
+    "known": 36,
     "gift": 25
    },
-   "long_term_members": 112,
+   "long_term_members": 115,
    "badges": [
     {
      "months": 0,
@@ -479,11 +479,11 @@
     },
     {
      "months": 12,
-     "members": 44
+     "members": 45
     },
     {
      "months": 24,
-     "members": 68
+     "members": 70
     }
    ],
    "events": {
@@ -496,16 +496,16 @@
     {
      "tier": "VezShip",
      "price": 490,
-     "confirmed_members": 35,
-     "estimated_members": 162.0
+     "confirmed_members": 36,
+     "estimated_members": 165.0
     }
    ],
    "revenue": {
-    "monthly_low": 50515,
-    "monthly_est": 50515,
+    "monthly_low": 51450,
+    "monthly_est": 51450,
     "gift_once": 7795
    },
-   "avg_member_chatters": 70.1,
+   "avg_member_chatters": 67.8,
    "partial": true,
    "finalized": false
   }

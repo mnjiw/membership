@@ -3,27 +3,27 @@
  "channel_id": "UCgA2jKRkqpY_8eysPUs8sjw",
  "handle": "@petragurin",
  "subscribers": 503000,
- "fetched_at": "2026-10-13 12:06",
- "generated_at": "2026-10-13 12:06",
+ "fetched_at": "2026-10-14 05:39",
+ "generated_at": "2026-10-14 05:39",
  "period": {
-  "from": "2026-09-13 12:06",
-  "to": "2026-10-13 12:06",
+  "from": "2026-09-14 05:39",
+  "to": "2026-10-14 05:39",
   "days": 30
  },
  "streams_analyzed": 3,
  "streams_missed": 1,
- "unique_chatters": 939,
- "members_confirmed": 191,
+ "unique_chatters": 518,
+ "members_confirmed": 153,
  "member_classes": {
-  "unknown": 127,
-  "known": 26,
-  "gift": 38
+  "known": 27,
+  "unknown": 105,
+  "gift": 21
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 42
+   "members": 27
   },
   {
    "months": 1,
@@ -33,46 +33,46 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 17
+   "members": 14
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 17
+   "members": 14
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 20
+   "members": 17
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 20
+   "members": 16
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 20
+   "members": 15
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 38
+   "members": 27
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 13
+   "members": 19
   }
  ],
  "events": {
   "new_members": 3,
   "rejoins": 1,
-  "milestones": 23,
-  "gift_purchases": 11,
-  "gifted_total": 38,
-  "gift_redemptions": 38
+  "milestones": 26,
+  "gift_purchases": 13,
+  "gifted_total": 21,
+  "gift_redemptions": 21
  },
  "tiers_configured": true,
  "tiers": [
@@ -80,21 +80,21 @@
    "tier": "Pentomo Family",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 26,
+   "confirmed_members": 27,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 127.0,
-   "estimated_members": 153.0,
-   "monthly_net_confirmed": 8107,
-   "monthly_net_estimated": 47708
+   "allocated_unknown": 105.0,
+   "estimated_members": 132.0,
+   "monthly_net_confirmed": 8419,
+   "monthly_net_estimated": 41160
   }
  ],
  "revenue": {
-  "monthly_low": 47708,
-  "monthly_est": 47708,
-  "gift_once": 11849,
-  "total_low": 59557,
-  "total_est": 59557,
-  "paying_members": 153,
+  "monthly_low": 41160,
+  "monthly_est": 41160,
+  "gift_once": 6548,
+  "total_low": 47708,
+  "total_est": 47708,
+  "paying_members": 132,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -103,16 +103,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "A73lD4LEteE",
-   "start": "2026-09-13 14:58",
-   "title": "【 #NIJIRhythmParade 】にじさんじ🌈🕒オリ曲オンリー！歌って繋いでいく 🐧🎶 only singing NIJI original songs!!!",
-   "kind": "配信",
-   "chatters": 569,
-   "member_chatters": 100,
-   "new_members": 0,
-   "gifted_total": 20
-  },
   {
    "video_id": "KNxnpARnyBM",
    "start": "2026-09-25 22:09",
@@ -132,6 +122,16 @@
    "member_chatters": 97,
    "new_members": 1,
    "gifted_total": 1
+  },
+  {
+   "video_id": "_NDOa7ej2zY",
+   "start": "2026-10-13 22:11",
+   "title": "BOMBANANA 🍌💥 ┆pt.2! zutt finishes the game in record speed!!!!!!!!! 🤯🤯🤯",
+   "kind": "配信",
+   "chatters": 160,
+   "member_chatters": 68,
+   "new_members": 0,
+   "gifted_total": 3
   }
  ],
  "missed_streams": [
@@ -239,22 +239,22 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-13"
+    "to": "2026-10-14"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 1,
-   "unique_chatters": 300,
-   "members_confirmed": 97,
+   "unique_chatters": 387,
+   "members_confirmed": 119,
    "member_classes": {
-    "unknown": 76,
-    "known": 20,
-    "gift": 1
+    "unknown": 93,
+    "known": 22,
+    "gift": 4
    },
-   "long_term_members": 67,
+   "long_term_members": 83,
    "badges": [
     {
      "months": 0,
-     "members": 5
+     "members": 9
     },
     {
      "months": 1,
@@ -262,53 +262,53 @@
     },
     {
      "months": 2,
-     "members": 11
-    },
-    {
-     "months": 6,
      "members": 12
     },
     {
+     "months": 6,
+     "members": 13
+    },
+    {
      "months": 12,
-     "members": 14
+     "members": 16
     },
     {
      "months": 24,
-     "members": 10
+     "members": 12
     },
     {
      "months": 36,
-     "members": 11
+     "members": 13
     },
     {
      "months": 48,
-     "members": 19
+     "members": 23
     },
     {
      "months": 60,
-     "members": 13
+     "members": 19
     }
    ],
    "events": {
     "new_members": 1,
     "rejoins": 1,
-    "milestones": 5,
-    "gifted_total": 1
+    "milestones": 8,
+    "gifted_total": 4
    },
    "tiers": [
     {
      "tier": "Pentomo Family",
      "price": 490,
-     "confirmed_members": 20,
-     "estimated_members": 96.0
+     "confirmed_members": 22,
+     "estimated_members": 115.0
     }
    ],
    "revenue": {
-    "monthly_low": 29935,
-    "monthly_est": 29935,
-    "gift_once": 312
+    "monthly_low": 35859,
+    "monthly_est": 35859,
+    "gift_once": 1247
    },
-   "avg_member_chatters": 97,
+   "avg_member_chatters": 82.5,
    "partial": true,
    "finalized": false
   }

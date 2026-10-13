@@ -3,46 +3,46 @@
  "channel_id": "UCivwPlOp0ojnMPZj5pNOPPA",
  "handle": "@Sophia_Valentine",
  "subscribers": 406000,
- "fetched_at": "2026-10-13 12:05",
- "generated_at": "2026-10-13 12:05",
+ "fetched_at": "2026-10-14 05:30",
+ "generated_at": "2026-10-14 05:30",
  "period": {
-  "from": "2026-09-13 12:05",
-  "to": "2026-10-13 12:05",
+  "from": "2026-09-14 05:30",
+  "to": "2026-10-14 05:30",
   "days": 30
  },
  "streams_analyzed": 19,
  "streams_missed": 3,
- "unique_chatters": 2098,
- "members_confirmed": 450,
+ "unique_chatters": 2114,
+ "members_confirmed": 447,
  "member_classes": {
-  "unknown": 416,
-  "known": 34
+  "unknown": 415,
+  "known": 32
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 46
+   "members": 44
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 17
+   "members": 16
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 38
+   "members": 39
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 63
+   "members": 64
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 80
+   "members": 79
   },
   {
    "months": 24,
@@ -52,12 +52,12 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 140
+   "members": 139
   }
  ],
  "events": {
-  "new_members": 25,
-  "rejoins": 8,
+  "new_members": 23,
+  "rejoins": 9,
   "milestones": 0,
   "gift_purchases": 0,
   "gifted_total": 0,
@@ -69,21 +69,21 @@
    "tier": "SOPHIAGENT",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 34,
+   "confirmed_members": 32,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 416.0,
-   "estimated_members": 450.0,
-   "monthly_net_confirmed": 10602,
-   "monthly_net_estimated": 140318
+   "allocated_unknown": 415.0,
+   "estimated_members": 447.0,
+   "monthly_net_confirmed": 9978,
+   "monthly_net_estimated": 139383
   }
  ],
  "revenue": {
-  "monthly_low": 140318,
-  "monthly_est": 140318,
+  "monthly_low": 139383,
+  "monthly_est": 139383,
   "gift_once": 0,
-  "total_low": 140318,
-  "total_est": 140318,
-  "paying_members": 450,
+  "total_low": 139383,
+  "total_est": 139383,
+  "paying_members": 447,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -92,16 +92,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "7bKbvBd4YY4",
-   "start": "2026-09-13 23:00",
-   "title": "【おは雑談】歌みたでたよ！涼しくなってきた！【 ソフィア・ヴァレンタイン/にじさんじ 】",
-   "kind": "配信",
-   "chatters": 189,
-   "member_chatters": 114,
-   "new_members": 4,
-   "gifted_total": 0
-  },
   {
    "video_id": "5ePjsUbO3Ic",
    "start": "2026-09-15 19:59",
@@ -281,6 +271,16 @@
    "member_chatters": 94,
    "new_members": 3,
    "gifted_total": 0
+  },
+  {
+   "video_id": "0XmqQvyR-Bc",
+   "start": "2026-10-13 22:01",
+   "title": "【 タンポポは耐える。 】アイアムタンポポ🌻【 ソフィア・ヴァレンタイン / にじさんじ】",
+   "kind": "配信",
+   "chatters": 220,
+   "member_chatters": 105,
+   "new_members": 2,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -293,7 +293,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 183,
+   "like_count": 184,
    "view_count": null
   },
   {
@@ -317,7 +317,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 114,
+   "like_count": 115,
    "view_count": null
   }
  ],
@@ -329,7 +329,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 183,
+   "like_count": 184,
    "view_count": null
   },
   {
@@ -349,7 +349,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 114,
+   "like_count": 115,
    "view_count": null
   }
  ],
@@ -427,21 +427,21 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-13"
+    "to": "2026-10-14"
    },
-   "streams_analyzed": 9,
+   "streams_analyzed": 10,
    "streams_missed": 1,
-   "unique_chatters": 1241,
-   "members_confirmed": 359,
+   "unique_chatters": 1305,
+   "members_confirmed": 366,
    "member_classes": {
-    "unknown": 342,
-    "known": 17
+    "unknown": 346,
+    "known": 20
    },
-   "long_term_members": 240,
+   "long_term_members": 241,
    "badges": [
     {
      "months": 0,
-     "members": 29
+     "members": 31
     },
     {
      "months": 1,
@@ -449,11 +449,11 @@
     },
     {
      "months": 2,
-     "members": 29
+     "members": 31
     },
     {
      "months": 6,
-     "members": 50
+     "members": 52
     },
     {
      "months": 12,
@@ -465,12 +465,12 @@
     },
     {
      "months": 36,
-     "members": 124
+     "members": 125
     }
    ],
    "events": {
-    "new_members": 10,
-    "rejoins": 3,
+    "new_members": 12,
+    "rejoins": 4,
     "milestones": 0,
     "gifted_total": 0
    },
@@ -478,16 +478,16 @@
     {
      "tier": "SOPHIAGENT",
      "price": 490,
-     "confirmed_members": 17,
-     "estimated_members": 359.0
+     "confirmed_members": 20,
+     "estimated_members": 366.0
     }
    ],
    "revenue": {
-    "monthly_low": 111943,
-    "monthly_est": 111943,
+    "monthly_low": 114125,
+    "monthly_est": 114125,
     "gift_once": 0
    },
-   "avg_member_chatters": 116.2,
+   "avg_member_chatters": 115.1,
    "partial": true,
    "finalized": false
   }

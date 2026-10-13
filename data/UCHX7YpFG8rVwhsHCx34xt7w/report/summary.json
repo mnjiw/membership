@@ -3,16 +3,16 @@
  "channel_id": "UCHX7YpFG8rVwhsHCx34xt7w",
  "handle": "@YukishiroMahiro",
  "subscribers": 213000,
- "fetched_at": "2026-10-13 12:03",
- "generated_at": "2026-10-13 12:03",
+ "fetched_at": "2026-10-14 05:24",
+ "generated_at": "2026-10-14 05:24",
  "period": {
-  "from": "2026-09-13 12:03",
-  "to": "2026-10-13 12:03",
+  "from": "2026-09-14 05:24",
+  "to": "2026-10-14 05:24",
   "days": 30
  },
  "streams_analyzed": 17,
  "streams_missed": 1,
- "unique_chatters": 1087,
+ "unique_chatters": 1064,
  "members_confirmed": 270,
  "member_classes": {
   "unknown": 216,
@@ -110,16 +110,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "dYma8qulmr0",
-   "start": "2026-09-13 22:03",
-   "title": "【#にじ遊戯王祭2026】チーム顔合わせ！オリバーさんとぱたちといっしょ！【雪城眞尋/にじさんじ】",
-   "kind": "配信",
-   "chatters": 130,
-   "member_chatters": 45,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "DF2fA2m_djs",
    "start": "2026-09-14 23:01",
@@ -279,6 +269,16 @@
    "member_chatters": 48,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "DkSKvYQrNd0",
+   "start": "2026-10-13 21:10",
+   "title": "【Minecraft】#にじクラおにごっこ 👹まぁ逃げ足でも捕獲でもまかせろり！【雪城眞尋/にじさんじ】",
+   "kind": "配信",
+   "chatters": 87,
+   "member_chatters": 58,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -390,18 +390,18 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-13"
+    "to": "2026-10-14"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 6,
    "streams_missed": 1,
-   "unique_chatters": 520,
-   "members_confirmed": 162,
+   "unique_chatters": 531,
+   "members_confirmed": 169,
    "member_classes": {
-    "unknown": 143,
+    "unknown": 150,
     "gift": 14,
     "known": 5
    },
-   "long_term_members": 129,
+   "long_term_members": 136,
    "badges": [
     {
      "months": 0,
@@ -425,7 +425,7 @@
     },
     {
      "months": 24,
-     "members": 122
+     "members": 129
     }
    ],
    "events": {
@@ -439,13 +439,13 @@
      "tier": "まひとも",
      "price": 490,
      "confirmed_members": 2,
-     "estimated_members": 59.2
+     "estimated_members": 62.0
     },
     {
      "tier": "ぬまひとも",
      "price": 1190,
      "confirmed_members": 3,
-     "estimated_members": 88.8
+     "estimated_members": 93.0
     },
     {
      "tier": "まひろはうす",
@@ -455,11 +455,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 47485,
-    "monthly_est": 85705,
+    "monthly_low": 49668,
+    "monthly_est": 89759,
     "gift_once": 4365
    },
-   "avg_member_chatters": 62.8,
+   "avg_member_chatters": 62,
    "partial": true,
    "finalized": false
   }

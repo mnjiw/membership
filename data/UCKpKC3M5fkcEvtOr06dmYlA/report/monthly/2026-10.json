@@ -2,22 +2,22 @@
  "month": "2026-10",
  "coverage": {
   "from": "2026-10-01",
-  "to": "2026-10-13"
+  "to": "2026-10-14"
  },
- "streams_analyzed": 9,
+ "streams_analyzed": 10,
  "streams_missed": 0,
- "unique_chatters": 1272,
- "members_confirmed": 459,
+ "unique_chatters": 1388,
+ "members_confirmed": 509,
  "member_classes": {
-  "unknown": 232,
-  "known": 112,
-  "gift": 115
+  "known": 136,
+  "unknown": 233,
+  "gift": 140
  },
- "long_term_members": 196,
+ "long_term_members": 210,
  "badges": [
   {
    "months": 0,
-   "members": 128
+   "members": 155
   },
   {
    "months": 1,
@@ -25,45 +25,45 @@
   },
   {
    "months": 2,
-   "members": 51
-  },
-  {
-   "months": 6,
-   "members": 60
-  },
-  {
-   "months": 12,
-   "members": 104
-  },
-  {
-   "months": 24,
    "members": 57
   },
   {
+   "months": 6,
+   "members": 63
+  },
+  {
+   "months": 12,
+   "members": 110
+  },
+  {
+   "months": 24,
+   "members": 62
+  },
+  {
    "months": 36,
-   "members": 35
+   "members": 38
   }
  ],
  "events": {
   "new_members": 3,
-  "rejoins": 6,
-  "milestones": 47,
-  "gifted_total": 115
+  "rejoins": 8,
+  "milestones": 69,
+  "gifted_total": 140
  },
  "tiers": [
   {
    "tier": "Wilsoneers",
    "price": 690,
-   "confirmed_members": 112,
-   "estimated_members": 344.0
+   "confirmed_members": 136,
+   "estimated_members": 369.0
   }
  ],
  "revenue": {
-  "monthly_low": 151047,
-  "monthly_est": 151047,
-  "gift_once": 50495
+  "monthly_low": 162025,
+  "monthly_est": 162025,
+  "gift_once": 61473
  },
- "avg_member_chatters": 147.7,
+ "avg_member_chatters": 153.2,
  "partial": true,
  "finalized": false
 }

@@ -3,26 +3,26 @@
  "channel_id": "UCHBhnG2G-qN0JrrWmMO2FTA",
  "handle": "@ShellinBurgundy",
  "subscribers": 408000,
- "fetched_at": "2026-10-13 12:03",
- "generated_at": "2026-10-13 12:03",
+ "fetched_at": "2026-10-14 05:25",
+ "generated_at": "2026-10-14 05:25",
  "period": {
-  "from": "2026-09-13 12:03",
-  "to": "2026-10-13 12:03",
+  "from": "2026-09-14 05:25",
+  "to": "2026-10-14 05:25",
   "days": 30
  },
- "streams_analyzed": 5,
+ "streams_analyzed": 6,
  "streams_missed": 0,
- "unique_chatters": 777,
- "members_confirmed": 319,
+ "unique_chatters": 846,
+ "members_confirmed": 330,
  "member_classes": {
-  "unknown": 318,
-  "known": 1
+  "unknown": 328,
+  "known": 2
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 4
+   "members": 5
   },
   {
    "months": 1,
@@ -37,22 +37,22 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 44
+   "members": 42
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 47
+   "members": 53
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 211
+   "members": 217
   }
  ],
  "events": {
   "new_members": 0,
-  "rejoins": 0,
+  "rejoins": 1,
   "milestones": 0,
   "gift_purchases": 0,
   "gifted_total": 0,
@@ -64,21 +64,21 @@
    "tier": "調査員",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 1,
+   "confirmed_members": 2,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 318.0,
-   "estimated_members": 319.0,
-   "monthly_net_confirmed": 312,
-   "monthly_net_estimated": 99470
+   "allocated_unknown": 328.0,
+   "estimated_members": 330.0,
+   "monthly_net_confirmed": 624,
+   "monthly_net_estimated": 102900
   }
  ],
  "revenue": {
-  "monthly_low": 99470,
-  "monthly_est": 99470,
+  "monthly_low": 102900,
+  "monthly_est": 102900,
   "gift_once": 0,
-  "total_low": 99470,
-  "total_est": 99470,
-  "paying_members": 319,
+  "total_low": 102900,
+  "total_est": 102900,
+  "paying_members": 330,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -134,6 +134,16 @@
    "kind": "配信",
    "chatters": 223,
    "member_chatters": 121,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "2JPTgIJMt3g",
+   "start": "2026-10-13 16:59",
+   "title": "【マリオカートワールド】朗読新刊出ました【シェリン/にじさんじ】",
+   "kind": "配信",
+   "chatters": 268,
+   "member_chatters": 136,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -205,6 +215,70 @@
    "partial": true,
    "finalized": true,
    "finalized_at": "2026-10-08 08:45"
+  },
+  {
+   "month": "2026-10",
+   "coverage": {
+    "from": "2026-10-01",
+    "to": "2026-10-14"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 268,
+   "members_confirmed": 136,
+   "member_classes": {
+    "unknown": 134,
+    "known": 2
+   },
+   "long_term_members": 109,
+   "badges": [
+    {
+     "months": 0,
+     "members": 2
+    },
+    {
+     "months": 1,
+     "members": 3
+    },
+    {
+     "months": 2,
+     "members": 3
+    },
+    {
+     "months": 6,
+     "members": 19
+    },
+    {
+     "months": 12,
+     "members": 22
+    },
+    {
+     "months": 24,
+     "members": 87
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 1,
+    "milestones": 0,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "調査員",
+     "price": 490,
+     "confirmed_members": 2,
+     "estimated_members": 136.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 42407,
+    "monthly_est": 42407,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 136,
+   "partial": true,
+   "finalized": false
   }
  ],
  "no_streams": false,

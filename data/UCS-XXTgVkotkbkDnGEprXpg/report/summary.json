@@ -3,46 +3,46 @@
  "channel_id": "UCS-XXTgVkotkbkDnGEprXpg",
  "handle": "@MashiroMeme",
  "subscribers": 626000,
- "fetched_at": "2026-10-13 12:04",
- "generated_at": "2026-10-13 12:04",
+ "fetched_at": "2026-10-14 05:25",
+ "generated_at": "2026-10-14 05:25",
  "period": {
-  "from": "2026-09-13 12:04",
-  "to": "2026-10-13 12:04",
+  "from": "2026-09-14 05:25",
+  "to": "2026-10-14 05:25",
   "days": 30
  },
- "streams_analyzed": 10,
- "streams_missed": 2,
- "unique_chatters": 2011,
- "members_confirmed": 362,
+ "streams_analyzed": 9,
+ "streams_missed": 3,
+ "unique_chatters": 1837,
+ "members_confirmed": 342,
  "member_classes": {
-  "unknown": 353,
+  "unknown": 333,
   "known": 9
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 35
+   "members": 32
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 17
+   "members": 14
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 43
+   "members": 42
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 58
+   "members": 55
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 209
+   "members": 199
   }
  ],
  "events": {
@@ -61,10 +61,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 8,
    "share_of_confirmed_pct": 88.9,
-   "allocated_unknown": 313.8,
-   "estimated_members": 321.8,
+   "allocated_unknown": 296.0,
+   "estimated_members": 304.0,
    "monthly_net_confirmed": 2495,
-   "monthly_net_estimated": 100336
+   "monthly_net_estimated": 94793
   },
   {
    "tier": "××",
@@ -72,19 +72,19 @@
    "net_per_member": 757.3,
    "confirmed_members": 1,
    "share_of_confirmed_pct": 11.1,
-   "allocated_unknown": 39.2,
-   "estimated_members": 40.2,
+   "allocated_unknown": 37.0,
+   "estimated_members": 38.0,
    "monthly_net_confirmed": 757,
-   "monthly_net_estimated": 30459
+   "monthly_net_estimated": 28776
   }
  ],
  "revenue": {
-  "monthly_low": 113324,
-  "monthly_est": 130795,
+  "monthly_low": 107087,
+  "monthly_est": 123569,
   "gift_once": 0,
-  "total_low": 113324,
-  "total_est": 130795,
-  "paying_members": 362,
+  "total_low": 107087,
+  "total_est": 123569,
+  "paying_members": 342,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "AqHR3kv1-aA",
-   "start": "2026-09-14 00:36",
-   "title": "視聴者から寄せられた怖い話を読むだけの配信",
-   "kind": "配信",
-   "chatters": 455,
-   "member_chatters": 147,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "PX1005qEwR4",
    "start": "2026-10-01 00:35",
@@ -218,6 +208,18 @@
    "members_level": "",
    "like_count": null,
    "view_count": null
+  },
+  {
+   "video_id": "nugnt6LJQMQ",
+   "start": "2026-10-14 00:35",
+   "title": "め - 老人の“不要な手足”を切り落とす介護映画「廃用身」 同時視聴",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": null,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -235,6 +237,16 @@
    "video_id": "NP7gB_I404Y",
    "start": "2026-10-07 00:36",
    "title": "め - 珍しき雑談配信",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": null,
+   "view_count": null
+  },
+  {
+   "video_id": "nugnt6LJQMQ",
+   "start": "2026-10-14 00:35",
+   "title": "め - 老人の“不要な手足”を切り落とす介護映画「廃用身」 同時視聴",
    "kind": "live",
    "status": "members_only",
    "members_level": "",
@@ -314,10 +326,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-13"
+    "to": "2026-10-14"
    },
    "streams_analyzed": 9,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 1837,
    "members_confirmed": 342,
    "member_classes": {

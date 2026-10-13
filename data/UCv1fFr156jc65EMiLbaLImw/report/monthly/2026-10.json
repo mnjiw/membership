@@ -2,59 +2,60 @@
  "month": "2026-10",
  "coverage": {
   "from": "2026-10-01",
-  "to": "2026-10-13"
+  "to": "2026-10-14"
  },
- "streams_analyzed": 3,
+ "streams_analyzed": 4,
  "streams_missed": 0,
- "unique_chatters": 5868,
- "members_confirmed": 2161,
+ "unique_chatters": 7554,
+ "members_confirmed": 2937,
  "member_classes": {
-  "unknown": 2151,
-  "known": 10
+  "unknown": 2900,
+  "known": 36,
+  "gift": 1
  },
- "long_term_members": 1626,
+ "long_term_members": 2203,
  "badges": [
   {
    "months": 0,
-   "members": 31
+   "members": 61
   },
   {
    "months": 1,
-   "members": 34
+   "members": 41
   },
   {
    "months": 2,
-   "members": 224
+   "members": 301
   },
   {
    "months": 6,
-   "members": 246
+   "members": 331
   },
   {
    "months": 12,
-   "members": 1626
+   "members": 2203
   }
  ],
  "events": {
-  "new_members": 4,
-  "rejoins": 2,
+  "new_members": 14,
+  "rejoins": 17,
   "milestones": 0,
-  "gifted_total": 0
+  "gifted_total": 1
  },
  "tiers": [
   {
    "tier": "虚空教",
    "price": 490,
-   "confirmed_members": 10,
-   "estimated_members": 2161.0
+   "confirmed_members": 36,
+   "estimated_members": 2936.0
   }
  ],
  "revenue": {
-  "monthly_low": 673839,
-  "monthly_est": 673839,
-  "gift_once": 0
+  "monthly_low": 915498,
+  "monthly_est": 915498,
+  "gift_once": 312
  },
- "avg_member_chatters": 1092.3,
+ "avg_member_chatters": 1308.5,
  "partial": true,
  "finalized": false
 }

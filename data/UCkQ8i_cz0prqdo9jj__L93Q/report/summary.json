@@ -3,42 +3,42 @@
  "channel_id": "UCkQ8i_cz0prqdo9jj__L93Q",
  "handle": "@SakayoriSoma",
  "subscribers": 281000,
- "fetched_at": "2026-10-13 12:05",
- "generated_at": "2026-10-13 12:05",
+ "fetched_at": "2026-10-14 05:36",
+ "generated_at": "2026-10-14 05:36",
  "period": {
-  "from": "2026-09-13 12:05",
-  "to": "2026-10-13 12:05",
+  "from": "2026-09-14 05:36",
+  "to": "2026-10-14 05:36",
   "days": 30
  },
  "streams_analyzed": 15,
  "streams_missed": 2,
- "unique_chatters": 2746,
- "members_confirmed": 596,
+ "unique_chatters": 2421,
+ "members_confirmed": 586,
  "member_classes": {
-  "unknown": 561,
-  "known": 15,
+  "unknown": 550,
+  "known": 16,
   "gift": 20
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 71
+   "members": 68
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 38
+   "members": 40
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 107
+   "members": 102
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 98
+   "members": 94
   },
   {
    "months": 12,
@@ -47,7 +47,7 @@
   }
  ],
  "events": {
-  "new_members": 9,
+  "new_members": 10,
   "rejoins": 6,
   "milestones": 0,
   "gift_purchases": 4,
@@ -60,21 +60,21 @@
    "tier": "酒寄颯馬のメンバーシップ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 15,
+   "confirmed_members": 16,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 561.0,
-   "estimated_members": 576.0,
-   "monthly_net_confirmed": 4677,
-   "monthly_net_estimated": 179607
+   "allocated_unknown": 550.0,
+   "estimated_members": 566.0,
+   "monthly_net_confirmed": 4989,
+   "monthly_net_estimated": 176489
   }
  ],
  "revenue": {
-  "monthly_low": 179607,
-  "monthly_est": 179607,
+  "monthly_low": 176489,
+  "monthly_est": 176489,
   "gift_once": 6236,
-  "total_low": 185844,
-  "total_est": 185844,
-  "paying_members": 576,
+  "total_low": 182725,
+  "total_est": 182725,
+  "paying_members": 566,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "eK-1tOk8lqs",
-   "start": "2026-09-13 20:01",
-   "title": "そまたまで質問答えたりトークしたりする回【酒寄颯馬/雲母たまこ/にじさんじ】",
-   "kind": "配信",
-   "chatters": 683,
-   "member_chatters": 183,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "oOS7xauESMA",
    "start": "2026-09-16 21:01",
@@ -232,6 +222,16 @@
    "member_chatters": 157,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "vtYXiz2KgSk",
+   "start": "2026-10-13 21:00",
+   "title": "【LTK】本日もチーム練習いきますよ【酒寄颯馬/にじさんじ】",
+   "kind": "配信",
+   "chatters": 422,
+   "member_chatters": 166,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -256,7 +256,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 225,
+   "like_count": 226,
    "view_count": null
   }
  ],
@@ -278,7 +278,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 225,
+   "like_count": 226,
    "view_count": null
   }
  ],
@@ -349,29 +349,29 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-13"
+    "to": "2026-10-14"
    },
-   "streams_analyzed": 6,
+   "streams_analyzed": 7,
    "streams_missed": 0,
-   "unique_chatters": 1429,
-   "members_confirmed": 358,
+   "unique_chatters": 1492,
+   "members_confirmed": 369,
    "member_classes": {
-    "unknown": 345,
-    "known": 13
+    "unknown": 354,
+    "known": 15
    },
-   "long_term_members": 176,
+   "long_term_members": 180,
    "badges": [
     {
      "months": 0,
-     "members": 24
-    },
-    {
-     "months": 1,
      "members": 28
     },
     {
+     "months": 1,
+     "members": 30
+    },
+    {
      "months": 2,
-     "members": 72
+     "members": 73
     },
     {
      "months": 6,
@@ -379,11 +379,11 @@
     },
     {
      "months": 12,
-     "members": 176
+     "members": 180
     }
    ],
    "events": {
-    "new_members": 7,
+    "new_members": 8,
     "rejoins": 5,
     "milestones": 0,
     "gifted_total": 0
@@ -392,16 +392,16 @@
     {
      "tier": "酒寄颯馬のメンバーシップ",
      "price": 490,
-     "confirmed_members": 13,
-     "estimated_members": 358.0
+     "confirmed_members": 15,
+     "estimated_members": 369.0
     }
    ],
    "revenue": {
-    "monthly_low": 111631,
-    "monthly_est": 111631,
+    "monthly_low": 115061,
+    "monthly_est": 115061,
     "gift_once": 0
    },
-   "avg_member_chatters": 169.5,
+   "avg_member_chatters": 169,
    "partial": true,
    "finalized": false
   }
