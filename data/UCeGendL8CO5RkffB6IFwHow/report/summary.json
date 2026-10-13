@@ -3,25 +3,25 @@
  "channel_id": "UCeGendL8CO5RkffB6IFwHow",
  "handle": "@Seffyna",
  "subscribers": 238000,
- "fetched_at": "2026-10-13 05:26",
- "generated_at": "2026-10-13 05:26",
+ "fetched_at": "2026-10-13 12:04",
+ "generated_at": "2026-10-13 12:05",
  "period": {
-  "from": "2026-09-13 05:26",
-  "to": "2026-10-13 05:26",
+  "from": "2026-09-13 12:04",
+  "to": "2026-10-13 12:04",
   "days": 30
  },
- "streams_analyzed": 13,
- "streams_missed": 2,
- "unique_chatters": 250,
- "members_confirmed": 51,
+ "streams_analyzed": 14,
+ "streams_missed": 1,
+ "unique_chatters": 275,
+ "members_confirmed": 54,
  "member_classes": {
-  "unknown": 46,
+  "unknown": 49,
   "known": 5
  },
  "badges": [
   {
-   "months": 0,
-   "label": "新規(1ヶ月未満)",
+   "months": 1,
+   "label": "1ヶ月",
    "members": 1
   },
   {
@@ -47,12 +47,12 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 10
+   "members": 12
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 16
+   "members": 17
   }
  ],
  "events": {
@@ -71,19 +71,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 5,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 46.0,
-   "estimated_members": 51.0,
+   "allocated_unknown": 49.0,
+   "estimated_members": 54.0,
    "monthly_net_confirmed": 1559,
-   "monthly_net_estimated": 15903
+   "monthly_net_estimated": 16838
   }
  ],
  "revenue": {
-  "monthly_low": 15903,
-  "monthly_est": 15903,
+  "monthly_low": 16838,
+  "monthly_est": 16838,
   "gift_once": 0,
-  "total_low": 15903,
-  "total_est": 15903,
-  "paying_members": 51,
+  "total_low": 16838,
+  "total_est": 16838,
+  "paying_members": 54,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -221,6 +221,16 @@
    "member_chatters": 19,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "_ZPae33-p-k",
+   "start": "2026-10-12 20:01",
+   "title": "【雑談】ただキーキャップ入れ替え(コーヒーも飲みながら)【にじさんじ | セフィナ】",
+   "kind": "配信",
+   "chatters": 55,
+   "member_chatters": 22,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -235,18 +245,6 @@
    "members_level": "セフィナイトの温室",
    "like_count": 21,
    "view_count": null
-  },
-  {
-   "video_id": "_ZPae33-p-k",
-   "start": "2026-10-12 00:00",
-   "title": "【雑談】ただキーキャップ入れ替え(コーヒーも飲みながら)【にじさんじ | セフィナ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 223,
-   "view_count": 5110
   }
  ],
  "members_only_content": [
@@ -337,18 +335,18 @@
     "from": "2026-10-01",
     "to": "2026-10-13"
    },
-   "streams_analyzed": 6,
-   "streams_missed": 1,
-   "unique_chatters": 151,
-   "members_confirmed": 41,
+   "streams_analyzed": 7,
+   "streams_missed": 0,
+   "unique_chatters": 181,
+   "members_confirmed": 46,
    "member_classes": {
     "known": 5,
-    "unknown": 36
+    "unknown": 41
    },
-   "long_term_members": 30,
+   "long_term_members": 35,
    "badges": [
     {
-     "months": 0,
+     "months": 1,
      "members": 1
     },
     {
@@ -364,12 +362,16 @@
      "members": 9
     },
     {
+     "months": 24,
+     "members": 1
+    },
+    {
      "months": 36,
-     "members": 8
+     "members": 10
     },
     {
      "months": 48,
-     "members": 13
+     "members": 15
     }
    ],
    "events": {
@@ -383,15 +385,15 @@
      "tier": "セフィナイトの温室",
      "price": 490,
      "confirmed_members": 5,
-     "estimated_members": 41.0
+     "estimated_members": 46.0
     }
    ],
    "revenue": {
-    "monthly_low": 12785,
-    "monthly_est": 12785,
+    "monthly_low": 14344,
+    "monthly_est": 14344,
     "gift_once": 0
    },
-   "avg_member_chatters": 16.3,
+   "avg_member_chatters": 17.1,
    "partial": true,
    "finalized": false
   }

@@ -1,8 +1,8 @@
 # メンバーシップ集計レポート: Scarle Yonaguni 【NIJISANJI EN】
 
-- 対象期間: 2026-09-13 05:38 〜 2026-10-13 05:38（チャットを集計できた配信・プレミア 37 本）
-- データ取得日時: 2026-10-13 05:38
-- チャットを集計できなかった枠: 4 本（下の「集計できなかった配信」を参照）
+- 対象期間: 2026-09-13 12:06 〜 2026-10-13 12:06（チャットを集計できた配信・プレミア 37 本）
+- データ取得日時: 2026-10-13 12:06
+- チャットを集計できなかった枠: 3 本（下の「集計できなかった配信」を参照）
 
 ## 概要
 
@@ -154,7 +154,6 @@
 
 | 日時 | タイトル | 理由 | 視聴できるレベル | 高評価数 |
 |---|---|---|---|---:|
-| 2026-09-13 10:45 | [Baking Handcam Before the Movie!😍🕷️🕸️❤️💙](https://www.youtube.com/watch?v=xdo0bn6Cd8o) | チャットリプレイなし（アーカイブ編集・チャット無効の可能性） | – | 399 |
 | 2026-09-20 04:17 | [MEMBIES: Let's eat donuts together!🍩🥰❤️✨](https://www.youtube.com/watch?v=ao1SG0RGxiU) | メンバー限定配信 | メンバー全員 | 42 |
 | 2026-09-24 12:10 | [MEMBIES: SHARE ME YOUR FAVORITE AMV!🥰🎵❤️](https://www.youtube.com/watch?v=vZfAQGtNRN4) | メンバー限定配信 | メンバー全員 | 37 |
 | 2026-10-05 04:02 | [MEMBIES: SHARE ME YOUR FAVORITE AMV!🥰🎵❤️](https://www.youtube.com/watch?v=OQWxd57-rTk) | メンバー限定配信 | メンバー全員 | 39 |

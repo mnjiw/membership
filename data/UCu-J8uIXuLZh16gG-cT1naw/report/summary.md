@@ -1,8 +1,8 @@
 # メンバーシップ集計レポート: Finana Ryugu 【NIJISANJI EN】
 
-- 対象期間: 2026-09-13 05:37 〜 2026-10-13 05:37（チャットを集計できた配信・プレミア 20 本）
-- データ取得日時: 2026-10-13 05:37
-- チャットを集計できなかった枠: 4 本（下の「集計できなかった配信」を参照）
+- 対象期間: 2026-09-13 12:06 〜 2026-10-13 12:06（チャットを集計できた配信・プレミア 20 本）
+- データ取得日時: 2026-10-13 12:06
+- チャットを集計できなかった枠: 5 本（下の「集計できなかった配信」を参照）
 
 ## 概要
 
@@ -139,6 +139,7 @@
 | 2026-09-27 07:01 | [【Monsters University Watchalong】 MONSTER](https://www.youtube.com/watch?v=UOZXFmyHURQ) | メンバー限定配信 | メンバー全員 | 19 |
 | 2026-10-04 07:02 | [【DOA: Dead or Alive Movie Watchalong】 fu](https://www.youtube.com/watch?v=kDaN7fE1iuY) | メンバー限定配信 | メンバー全員 | 24 |
 | 2026-10-11 07:01 | [【Fear & Hunger Watchalong】 how dark is t](https://www.youtube.com/watch?v=WiyAPxUpevo) | メンバー限定配信 | メンバー全員 | 26 |
+| 2026-10-12 00:00 | [【Staffer Case】A Supernatural Mystery Adv](https://www.youtube.com/watch?v=r8udUpA8t_w) | 取得エラー（次回再確認） | – | 381 |
 
 > メンバー限定配信の高評価数は「その配信を見られるメンバーが少なくともこれだけいる」という目安になります。
 

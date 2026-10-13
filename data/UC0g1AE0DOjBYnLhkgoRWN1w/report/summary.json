@@ -3,19 +3,19 @@
  "channel_id": "UC0g1AE0DOjBYnLhkgoRWN1w",
  "handle": "@HonmaHimawari",
  "subscribers": 786000,
- "fetched_at": "2026-10-13 05:18",
- "generated_at": "2026-10-13 05:18",
+ "fetched_at": "2026-10-13 12:02",
+ "generated_at": "2026-10-13 12:02",
  "period": {
-  "from": "2026-09-13 05:18",
-  "to": "2026-10-13 05:18",
+  "from": "2026-09-13 12:02",
+  "to": "2026-10-13 12:02",
   "days": 30
  },
- "streams_analyzed": 19,
+ "streams_analyzed": 20,
  "streams_missed": 1,
- "unique_chatters": 2923,
- "members_confirmed": 246,
+ "unique_chatters": 3054,
+ "members_confirmed": 264,
  "member_classes": {
-  "unknown": 236,
+  "unknown": 254,
   "known": 10
  },
  "badges": [
@@ -42,7 +42,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 18
+   "members": 23
   },
   {
    "months": 24,
@@ -52,12 +52,12 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 17
+   "members": 18
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 173
+   "members": 185
   }
  ],
  "events": {
@@ -76,19 +76,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 10,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 236.0,
-   "estimated_members": 246.0,
+   "allocated_unknown": 254.0,
+   "estimated_members": 264.0,
    "monthly_net_confirmed": 3118,
-   "monthly_net_estimated": 76707
+   "monthly_net_estimated": 82320
   }
  ],
  "revenue": {
-  "monthly_low": 76707,
-  "monthly_est": 76707,
+  "monthly_low": 82320,
+  "monthly_est": 82320,
   "gift_once": 0,
-  "total_low": 76707,
-  "total_est": 76707,
-  "paying_members": 246,
+  "total_low": 82320,
+  "total_est": 82320,
+  "paying_members": 264,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -286,6 +286,16 @@
    "member_chatters": 64,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "FXA9gqQWBM0",
+   "start": "2026-10-13 07:01",
+   "title": "おはござ～～～～～～～～～～～～～！",
+   "kind": "配信",
+   "chatters": 251,
+   "member_chatters": 76,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -394,15 +404,15 @@
     "from": "2026-10-01",
     "to": "2026-10-13"
    },
-   "streams_analyzed": 9,
+   "streams_analyzed": 10,
    "streams_missed": 0,
-   "unique_chatters": 1356,
-   "members_confirmed": 190,
+   "unique_chatters": 1513,
+   "members_confirmed": 212,
    "member_classes": {
-    "unknown": 183,
+    "unknown": 205,
     "known": 7
    },
-   "long_term_members": 182,
+   "long_term_members": 204,
    "badges": [
     {
      "months": 0,
@@ -418,7 +428,7 @@
     },
     {
      "months": 12,
-     "members": 14
+     "members": 19
     },
     {
      "months": 24,
@@ -426,11 +436,11 @@
     },
     {
      "months": 36,
-     "members": 14
+     "members": 15
     },
     {
      "months": 48,
-     "members": 137
+     "members": 153
     }
    ],
    "events": {
@@ -444,15 +454,15 @@
      "tier": "ひまぐま",
      "price": 490,
      "confirmed_members": 7,
-     "estimated_members": 190.0
+     "estimated_members": 212.0
     }
    ],
    "revenue": {
-    "monthly_low": 59245,
-    "monthly_est": 59245,
+    "monthly_low": 66105,
+    "monthly_est": 66105,
     "gift_once": 0
    },
-   "avg_member_chatters": 75.2,
+   "avg_member_chatters": 75.3,
    "partial": true,
    "finalized": false
   }

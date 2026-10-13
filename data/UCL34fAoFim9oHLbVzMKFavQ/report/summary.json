@@ -3,19 +3,19 @@
  "channel_id": "UCL34fAoFim9oHLbVzMKFavQ",
  "handle": "@YorumiRena",
  "subscribers": 606000,
- "fetched_at": "2026-10-13 05:21",
- "generated_at": "2026-10-13 05:21",
+ "fetched_at": "2026-10-13 12:03",
+ "generated_at": "2026-10-13 12:03",
  "period": {
-  "from": "2026-09-13 05:21",
-  "to": "2026-10-13 05:21",
+  "from": "2026-09-13 12:03",
+  "to": "2026-10-13 12:03",
   "days": 30
  },
- "streams_analyzed": 14,
+ "streams_analyzed": 15,
  "streams_missed": 1,
- "unique_chatters": 1887,
- "members_confirmed": 252,
+ "unique_chatters": 1951,
+ "members_confirmed": 258,
  "member_classes": {
-  "unknown": 240,
+  "unknown": 246,
   "known": 12
  },
  "badges": [
@@ -23,6 +23,11 @@
    "months": 0,
    "label": "新規(1ヶ月未満)",
    "members": 3
+  },
+  {
+   "months": 1,
+   "label": "1ヶ月",
+   "members": 1
   },
   {
    "months": 2,
@@ -37,7 +42,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 23
+   "members": 25
   },
   {
    "months": 24,
@@ -47,7 +52,7 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 31
+   "members": 32
   },
   {
    "months": 48,
@@ -57,7 +62,7 @@
   {
    "months": 60,
    "label": "5年",
-   "members": 115
+   "members": 117
   }
  ],
  "events": {
@@ -76,19 +81,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 12,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 240.0,
-   "estimated_members": 252.0,
+   "allocated_unknown": 246.0,
+   "estimated_members": 258.0,
    "monthly_net_confirmed": 3742,
-   "monthly_net_estimated": 78578
+   "monthly_net_estimated": 80449
   }
  ],
  "revenue": {
-  "monthly_low": 78578,
-  "monthly_est": 78578,
+  "monthly_low": 80449,
+  "monthly_est": 80449,
   "gift_once": 0,
-  "total_low": 78578,
-  "total_est": 78578,
-  "paying_members": 252,
+  "total_low": 80449,
+  "total_est": 80449,
+  "paying_members": 258,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -236,6 +241,16 @@
    "member_chatters": 89,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "Fg9RfGJFp_c",
+   "start": "2026-10-13 00:04",
+   "title": "【 Big Walk 】#2 広大な世界へ！深夜ふれんずのチームワークみてみな！➡二次会R.E.P.O.【 にじさんじ / 夜見れな 】",
+   "kind": "配信",
+   "chatters": 239,
+   "member_chatters": 83,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -337,18 +352,22 @@
     "from": "2026-10-01",
     "to": "2026-10-13"
    },
-   "streams_analyzed": 4,
+   "streams_analyzed": 5,
    "streams_missed": 0,
-   "unique_chatters": 931,
-   "members_confirmed": 179,
+   "unique_chatters": 1027,
+   "members_confirmed": 189,
    "member_classes": {
-    "unknown": 170,
+    "unknown": 180,
     "known": 9
    },
-   "long_term_members": 160,
+   "long_term_members": 169,
    "badges": [
     {
      "months": 0,
+     "members": 1
+    },
+    {
+     "months": 1,
      "members": 1
     },
     {
@@ -361,15 +380,15 @@
     },
     {
      "months": 12,
-     "members": 20
+     "members": 23
     },
     {
      "months": 24,
-     "members": 18
+     "members": 19
     },
     {
      "months": 36,
-     "members": 19
+     "members": 21
     },
     {
      "months": 48,
@@ -377,7 +396,7 @@
     },
     {
      "months": 60,
-     "members": 81
+     "members": 84
     }
    ],
    "events": {
@@ -391,15 +410,15 @@
      "tier": "夜見のひよこプラン",
      "price": 490,
      "confirmed_members": 9,
-     "estimated_members": 179.0
+     "estimated_members": 189.0
     }
    ],
    "revenue": {
-    "monthly_low": 55815,
-    "monthly_est": 55815,
+    "monthly_low": 58934,
+    "monthly_est": 58934,
     "gift_once": 0
    },
-   "avg_member_chatters": 101.5,
+   "avg_member_chatters": 97.8,
    "partial": true,
    "finalized": false
   }

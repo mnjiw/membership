@@ -3,27 +3,27 @@
  "channel_id": "UClMYGvekJOb51eBOCK-d4Dw",
  "handle": "@ZealGinjoka",
  "subscribers": 189000,
- "fetched_at": "2026-10-13 05:39",
- "generated_at": "2026-10-13 05:39",
+ "fetched_at": "2026-10-13 12:06",
+ "generated_at": "2026-10-13 12:07",
  "period": {
-  "from": "2026-09-13 05:39",
-  "to": "2026-10-13 05:39",
+  "from": "2026-09-13 12:06",
+  "to": "2026-10-13 12:06",
   "days": 30
  },
- "streams_analyzed": 22,
- "streams_missed": 0,
- "unique_chatters": 2253,
- "members_confirmed": 997,
+ "streams_analyzed": 21,
+ "streams_missed": 1,
+ "unique_chatters": 2239,
+ "members_confirmed": 988,
  "member_classes": {
-  "unknown": 422,
   "known": 280,
-  "gift": 295
+  "unknown": 418,
+  "gift": 290
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 338
+   "members": 331
   },
   {
    "months": 1,
@@ -43,16 +43,16 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 444
+   "members": 442
   }
  ],
  "events": {
   "new_members": 13,
-  "rejoins": 25,
-  "milestones": 211,
-  "gift_purchases": 57,
-  "gifted_total": 297,
-  "gift_redemptions": 296
+  "rejoins": 24,
+  "milestones": 206,
+  "gift_purchases": 56,
+  "gifted_total": 292,
+  "gift_redemptions": 291
  },
  "tiers_configured": true,
  "tiers": [
@@ -62,19 +62,19 @@
    "net_per_member": 439.1,
    "confirmed_members": 280,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 422.0,
-   "estimated_members": 702.0,
+   "allocated_unknown": 418.0,
+   "estimated_members": 698.0,
    "monthly_net_confirmed": 122945,
-   "monthly_net_estimated": 308242
+   "monthly_net_estimated": 306485
   }
  ],
  "revenue": {
-  "monthly_low": 308242,
-  "monthly_est": 308242,
-  "gift_once": 130410,
-  "total_low": 438652,
-  "total_est": 438652,
-  "paying_members": 702,
+  "monthly_low": 306485,
+  "monthly_est": 306485,
+  "gift_once": 128215,
+  "total_low": 434700,
+  "total_est": 434700,
+  "paying_members": 698,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "C7vmglY0ric",
-   "start": "2026-09-13 11:04",
-   "title": "【Fields of Mistria】 Back in the fields 【NIJISANJI EN | Zeal Ginjoka】",
-   "kind": "配信",
-   "chatters": 217,
-   "member_chatters": 172,
-   "new_members": 0,
-   "gifted_total": 5
-  },
   {
    "video_id": "JAMTTywffjs",
    "start": "2026-09-15 10:16",
@@ -304,7 +294,20 @@
    "gifted_total": 30
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "dhy3jYFXzAQ",
+   "start": "2026-10-13 00:00",
+   "title": "【Vampire Survivors】 Here It Comes 【NIJISANJI EN | Zeal Ginjoka】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 405,
+   "view_count": 4472
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -376,7 +379,7 @@
     "to": "2026-10-13"
    },
    "streams_analyzed": 9,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 1131,
    "members_confirmed": 553,
    "member_classes": {

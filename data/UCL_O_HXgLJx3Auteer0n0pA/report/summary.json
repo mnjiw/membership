@@ -3,19 +3,19 @@
  "channel_id": "UCL_O_HXgLJx3Auteer0n0pA",
  "handle": "@SuoSango",
  "subscribers": 679000,
- "fetched_at": "2026-10-13 05:23",
- "generated_at": "2026-10-13 05:24",
+ "fetched_at": "2026-10-13 12:04",
+ "generated_at": "2026-10-13 12:04",
  "period": {
-  "from": "2026-09-13 05:23",
-  "to": "2026-10-13 05:23",
+  "from": "2026-09-13 12:04",
+  "to": "2026-10-13 12:04",
   "days": 30
  },
- "streams_analyzed": 10,
+ "streams_analyzed": 11,
  "streams_missed": 2,
- "unique_chatters": 1663,
- "members_confirmed": 281,
+ "unique_chatters": 1836,
+ "members_confirmed": 300,
  "member_classes": {
-  "unknown": 271,
+  "unknown": 290,
   "known": 10
  },
  "badges": [
@@ -32,22 +32,22 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 23
+   "members": 26
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 28
+   "members": 30
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 60
+   "members": 66
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 155
+   "members": 163
   }
  ],
  "events": {
@@ -66,10 +66,10 @@
    "net_per_member": 248.2,
    "confirmed_members": 2,
    "share_of_confirmed_pct": 20.0,
-   "allocated_unknown": 54.2,
-   "estimated_members": 56.2,
+   "allocated_unknown": 58.0,
+   "estimated_members": 60.0,
    "monthly_net_confirmed": 496,
-   "monthly_net_estimated": 13948
+   "monthly_net_estimated": 14891
   },
   {
    "tier": "どすふぁんご",
@@ -77,10 +77,10 @@
    "net_per_member": 439.1,
    "confirmed_members": 6,
    "share_of_confirmed_pct": 60.0,
-   "allocated_unknown": 162.6,
-   "estimated_members": 168.6,
+   "allocated_unknown": 174.0,
+   "estimated_members": 180.0,
    "monthly_net_confirmed": 2635,
-   "monthly_net_estimated": 74031
+   "monthly_net_estimated": 79036
   },
   {
    "tier": "ファ～♪ンゴ",
@@ -88,19 +88,19 @@
    "net_per_member": 2602.7,
    "confirmed_members": 2,
    "share_of_confirmed_pct": 20.0,
-   "allocated_unknown": 54.2,
-   "estimated_members": 56.2,
+   "allocated_unknown": 58.0,
+   "estimated_members": 60.0,
    "monthly_net_confirmed": 5205,
-   "monthly_net_estimated": 146273
+   "monthly_net_estimated": 156164
   }
  ],
  "revenue": {
-  "monthly_low": 75594,
-  "monthly_est": 234252,
+  "monthly_low": 80309,
+  "monthly_est": 250091,
   "gift_once": 0,
-  "total_low": 75594,
-  "total_est": 234252,
-  "paying_members": 281,
+  "total_low": 80309,
+  "total_est": 250091,
+  "paying_members": 300,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -206,6 +206,16 @@
    "kind": "配信",
    "chatters": 214,
    "member_chatters": 89,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "zhtK15hAZhI",
+   "start": "2026-10-13 07:11",
+   "title": "連休明けは朝もはよからータイル",
+   "kind": "配信",
+   "chatters": 283,
+   "member_chatters": 77,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -342,15 +352,15 @@
     "from": "2026-10-01",
     "to": "2026-10-13"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 4,
    "streams_missed": 2,
-   "unique_chatters": 352,
-   "members_confirmed": 125,
+   "unique_chatters": 571,
+   "members_confirmed": 160,
    "member_classes": {
-    "unknown": 119,
+    "unknown": 154,
     "known": 6
    },
-   "long_term_members": 102,
+   "long_term_members": 130,
    "badges": [
     {
      "months": 0,
@@ -362,19 +372,19 @@
     },
     {
      "months": 2,
-     "members": 9
+     "members": 13
     },
     {
      "months": 6,
-     "members": 7
+     "members": 10
     },
     {
      "months": 12,
-     "members": 24
+     "members": 34
     },
     {
      "months": 24,
-     "members": 78
+     "members": 96
     }
    ],
    "events": {
@@ -388,27 +398,27 @@
      "tier": "ふぁんご",
      "price": 390,
      "confirmed_members": 1,
-     "estimated_members": 20.8
+     "estimated_members": 26.7
     },
     {
      "tier": "どすふぁんご",
      "price": 690,
      "confirmed_members": 3,
-     "estimated_members": 62.5
+     "estimated_members": 80.0
     },
     {
      "tier": "ファ～♪ンゴ",
      "price": 4090,
      "confirmed_members": 2,
-     "estimated_members": 41.7
+     "estimated_members": 53.3
     }
    ],
    "revenue": {
-    "monthly_low": 36305,
-    "monthly_est": 141061,
+    "monthly_low": 44991,
+    "monthly_est": 180558,
     "gift_once": 0
    },
-   "avg_member_chatters": 61.7,
+   "avg_member_chatters": 65.5,
    "partial": true,
    "finalized": false
   }
