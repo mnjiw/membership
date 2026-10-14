@@ -44,6 +44,19 @@ FINAL_STATUSES = {"ok", "skip_old", "skip_not_stream", "no_chat", "members_only"
                   "became_members_only", "members_only_video"}
 # 取得に失敗した枠。確認範囲 (直近7日) から外れても、直近30日の集計に入る間は確認し直す
 RETRY_STATUSES = {"error", "chat_failed"}
+# GitHub Actions からは、ほぼすべての枠で情報が欠けて返ってくる (配信かどうか・開始時刻がない)。
+# チャットがあれば配信と分かるが、チャットがない枠は普通の動画か、チャットリプレイのない配信か決められない。
+# 配信直後はアーカイブの処理中でチャットがまだ出ないことがあるので、この日数だけ確認し直してから結論を出す
+LIMITED_GIVEUP_DAYS = 3
+# 動画タブの枠で上のように決められないときは、配信・プレミア公開の記録サイトのチャンネルページを補助に使う
+# (普通の動画は載らない)。判定できない枠があるチャンネルだけ、1回の実行で1回だけ読む。
+# 読めない・載っている範囲外のときは、これまでどおり LIMITED_GIVEUP_DAYS 待つ
+# チャンネルによってページの場所と形が2種類ある。上から順に試し、読めた方を使う
+#   /channel/         … 今月の配信が「2026年10月」のような見出しの下に載る
+#   /general/channel/ … 最近の配信が「2026.10.13 23:53」(日本時間) の形の日時つきで、新しい順に一定数だけ載る
+STREAM_LOG_URLS = ("https://vrabi.net/channel/{}", "https://vrabi.net/general/channel/{}")
+_stream_log_cache: dict = {}
+CHANNEL_ID = None   # main() で設定する
 
 STATUS_LABEL = {
     "ok": "保存",
@@ -309,7 +322,34 @@ def fetch_one(args, video_id: str, chats_dir: Path, cutoff_ts: float, prev: dict
         if kind == "video" and limited:
             # 配信・プレミア公開かどうか分からない = 情報が欠けている。決めつけずに次回また確認する
             # (動画タブの枠も、情報が欠けているとプレミア公開のチャットを見落とすので同じ扱いにする)
+            listed = prev.get("stream_log_listed")
+            if tab == "video" and listed is None and CHANNEL_ID:
+                log = stream_log_ids(CHANNEL_ID)
+                # 載っている範囲 (今月) の枠だけ判定に使う。日付は投稿日 (世界標準時の日付) なので、範囲の始まりより後に限る
+                if log and start_ts and start_ts >= log["from_ts"]:
+                    listed = video_id in log["ids"]
+            if listed is not None:
+                meta["stream_log_listed"] = listed
+            if tab == "video" and listed is False:
+                # 記録サイトに載っていない = 普通の動画
+                meta["settled_while_limited"] = True
+                meta["judged_by"] = "stream_log"
+                return meta, "skip_not_stream"
+            since = prev.get("failed_since_ts")
+            if since and time.time() - since >= LIMITED_GIVEUP_DAYS * 86400:
+                # 何日たってもチャットが出てこない → ライブタブの枠は「チャットリプレイなし」の配信、
+                # 動画タブの枠は、記録サイトに載っていればチャットのないプレミア公開、それ以外は普通の動画と判断する
+                # (情報が欠けたまま決めたことを残しておく)
+                meta["settled_while_limited"] = True
+                if tab == "live":
+                    meta["kind"] = "live"
+                    return meta, "no_chat"
+                if listed:
+                    meta["kind"] = "premiere"
+                    return meta, "no_chat"
+                return meta, "skip_not_stream"
             meta["error"] = "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)"
+            meta["tab"] = tab   # 確認範囲から外れて一覧に出なくなっても、どちらのタブの枠か分かるように
             return meta, "error"
         if kind == "video":
             return meta, "skip_not_stream"
@@ -331,6 +371,39 @@ def fetch_one(args, video_id: str, chats_dir: Path, cutoff_ts: float, prev: dict
         if dur and not meta.get("duration_sec"):
             meta["duration_sec"] = dur
     return meta, "ok"
+
+
+def stream_log_ids(channel_id: str):
+    """記録サイトのチャンネルページに載っている動画IDと、載っている範囲の始まりを返す。
+    読めない・形がおかしいときは None (その場合は使わない)"""
+    if channel_id in _stream_log_cache:
+        return _stream_log_cache[channel_id]
+    result = None
+    for url in STREAM_LOG_URLS:
+        try:
+            req = urllib.request.Request(url.format(channel_id), headers={"User-Agent": "Mozilla/5.0"})
+            with urllib.request.urlopen(req, timeout=20) as r:
+                html = r.read().decode("utf-8", "replace")
+        except Exception:
+            continue   # もう一方の形のページは 404 になる
+        ids = set(re.findall(r"youtube\.com/watch\?v=([\w-]{11})", html))
+        # チャンネルIDが書かれていて、配信が1件以上載っているときだけ信用する
+        if channel_id not in html or not ids:
+            continue
+        now = datetime.now(JST)
+        if f"{now.year}年{now.month}月" in html:
+            # 今月の配信が載っている → 範囲の始まりは今月1日
+            result = {"ids": ids, "from_ts": now.replace(day=1, hour=0, minute=0, second=0, microsecond=0).timestamp()}
+            break
+        dates = re.findall(r">(\d{4})\.(\d{2})\.(\d{2}) (\d{2}):(\d{2})<", html)
+        if dates:
+            # 最近の配信が一定数だけ載っている → 範囲の始まりは載っている中で一番古い配信の日時。
+            # 判定に使う枠の日付は投稿日 (世界標準時の0時) で実際の時刻より前なので、これより後なら確実に範囲内
+            result = {"ids": ids,
+                      "from_ts": min(datetime(*map(int, d), tzinfo=JST) for d in dates).timestamp()}
+            break
+    _stream_log_cache[channel_id] = result
+    return result
 
 
 def chat_timing(chat_file: Path):
@@ -457,6 +530,8 @@ def main():
         print(f"一覧を取得できませんでした: {str(e).splitlines()[0][:200]}")
         print("※「Sign in to confirm you're not a bot」などなら、YouTube にアクセスを制限されています。時間をおいて再実行してください。")
         sys.exit(2)
+    global CHANNEL_ID
+    CHANNEL_ID = channel["channel_id"]
     out_dir = Path(args.out) if args.out else Path("data") / safe_dirname(channel["channel_id"])
     meta_path = out_dir / "videos.json"
     store = {"videos": {}}
@@ -480,7 +555,7 @@ def main():
         if since and since < retry_cutoff:
             continue
         candidates.append({"id": vid, "title": v.get("title"), "approx_ts": v.get("start_ts"),
-                           "tab": "video" if v.get("kind") == "premiere" else "live",
+                           "tab": v.get("tab") or ("video" if v.get("kind") == "premiere" else "live"),
                            "members_only": bool(v.get("members_only")), "cutoff_ts": retry_cutoff})
     chats_dir = out_dir / "chats"
     chats_dir.mkdir(parents=True, exist_ok=True)
