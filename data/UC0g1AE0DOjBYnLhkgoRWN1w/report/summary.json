@@ -3,19 +3,19 @@
  "channel_id": "UC0g1AE0DOjBYnLhkgoRWN1w",
  "handle": "@HonmaHimawari",
  "subscribers": 786000,
- "fetched_at": "2026-10-14 10:12",
- "generated_at": "2026-10-14 10:12",
+ "fetched_at": "2026-10-15 05:18",
+ "generated_at": "2026-10-15 05:18",
  "period": {
-  "from": "2026-09-14 10:12",
-  "to": "2026-10-14 10:12",
+  "from": "2026-09-15 05:18",
+  "to": "2026-10-15 05:18",
   "days": 30
  },
- "streams_analyzed": 19,
- "streams_missed": 1,
- "unique_chatters": 2979,
- "members_confirmed": 262,
+ "streams_analyzed": 18,
+ "streams_missed": 2,
+ "unique_chatters": 2931,
+ "members_confirmed": 253,
  "member_classes": {
-  "unknown": 252,
+  "unknown": 243,
   "known": 10
  },
  "badges": [
@@ -32,7 +32,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 9
+   "members": 8
   },
   {
    "months": 6,
@@ -42,12 +42,12 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 23
+   "members": 21
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 18
+   "members": 17
   },
   {
    "months": 36,
@@ -57,7 +57,7 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 184
+   "members": 179
   }
  ],
  "events": {
@@ -76,19 +76,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 10,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 252.0,
-   "estimated_members": 262.0,
+   "allocated_unknown": 243.0,
+   "estimated_members": 253.0,
    "monthly_net_confirmed": 3118,
-   "monthly_net_estimated": 81696
+   "monthly_net_estimated": 78890
   }
  ],
  "revenue": {
-  "monthly_low": 81696,
-  "monthly_est": 81696,
+  "monthly_low": 78890,
+  "monthly_est": 78890,
   "gift_once": 0,
-  "total_low": 81696,
-  "total_est": 81696,
-  "paying_members": 262,
+  "total_low": 78890,
+  "total_est": 78890,
+  "paying_members": 253,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -97,16 +97,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "Tpaqkww8A9c",
-   "start": "2026-09-14 18:00",
-   "title": "꒰🍬ASMR🍰KU100꒱　お菓子いっぱいもぐもぐ～～～🍭🍰💛　咀嚼音/ Mukbang/ Eating Sounds",
-   "kind": "配信",
-   "chatters": 137,
-   "member_chatters": 56,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "AprDUtMWPKE",
    "start": "2026-09-16 20:02",
@@ -300,6 +290,18 @@
    "members_level": "",
    "like_count": 108,
    "view_count": null
+  },
+  {
+   "video_id": "7L2Xsn7EnTY",
+   "start": "2026-10-14 19:27",
+   "title": "꒰メン限꒱　もっちゃりまっちゃり　˹ 本間ひまわり にじさんじ ˼",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 126,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -311,6 +313,16 @@
    "status": "members_only",
    "members_level": "",
    "like_count": 108,
+   "view_count": null
+  },
+  {
+   "video_id": "7L2Xsn7EnTY",
+   "start": "2026-10-14 19:27",
+   "title": "꒰メン限꒱　もっちゃりまっちゃり　˹ 本間ひまわり にじさんじ ˼",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 126,
    "view_count": null
   }
  ],
@@ -392,10 +404,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-14"
+    "to": "2026-10-15"
    },
    "streams_analyzed": 10,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 1513,
    "members_confirmed": 212,
    "member_classes": {

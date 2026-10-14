@@ -2,12 +2,12 @@
  "channel": "石神のぞみ / Ishigami Nozomi【にじさんじ】",
  "channel_id": "UCtLfA_qUqCJtjXJM2ZR_keg",
  "handle": "@IshigamiNozomi",
- "subscribers": 436000,
- "fetched_at": "2026-10-14 10:14",
- "generated_at": "2026-10-14 10:14",
+ "subscribers": 437000,
+ "fetched_at": "2026-10-15 05:25",
+ "generated_at": "2026-10-15 05:25",
  "period": {
-  "from": "2026-09-14 10:14",
-  "to": "2026-10-14 10:14",
+  "from": "2026-09-15 05:25",
+  "to": "2026-10-15 05:25",
   "days": 30
  },
  "streams_analyzed": 11,
@@ -200,18 +200,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "tY0Ysu-uMAw",
-   "start": "2026-09-15 00:03",
-   "title": "【 メン限 】病み上がり復活雑談",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 738,
-   "view_count": null
-  },
-  {
    "video_id": "7nPvtY8ZaUM",
    "start": "2026-09-30 00:33",
    "title": "【 メン限 】秋だァ…？",
@@ -232,21 +220,23 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 1865,
-   "view_count": 124369
+   "like_count": 2119,
+   "view_count": 146113
+  },
+  {
+   "video_id": "ZAEKSFQWio0",
+   "start": "2026-10-14 00:00",
+   "title": "『ゆっくりのぞみ』になってノーマルノーコンに挑戦する石神【 東方紅魔郷NC / 石神のぞみ #石神のぞみ切り抜き 】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 1379,
+   "view_count": 101728
   }
  ],
  "members_only_content": [
-  {
-   "video_id": "tY0Ysu-uMAw",
-   "start": "2026-09-15 00:03",
-   "title": "【 メン限 】病み上がり復活雑談",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 738,
-   "view_count": null
-  },
   {
    "video_id": "7nPvtY8ZaUM",
    "start": "2026-09-30 00:33",
@@ -328,10 +318,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-14"
+    "to": "2026-10-15"
    },
    "streams_analyzed": 7,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 4894,
    "members_confirmed": 1240,
    "member_classes": {

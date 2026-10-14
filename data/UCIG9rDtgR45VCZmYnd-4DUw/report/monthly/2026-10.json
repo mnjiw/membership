@@ -2,21 +2,21 @@
  "month": "2026-10",
  "coverage": {
   "from": "2026-10-01",
-  "to": "2026-10-14"
+  "to": "2026-10-15"
  },
- "streams_analyzed": 9,
+ "streams_analyzed": 10,
  "streams_missed": 0,
- "unique_chatters": 800,
- "members_confirmed": 228,
+ "unique_chatters": 1694,
+ "members_confirmed": 311,
  "member_classes": {
-  "unknown": 212,
-  "known": 16
+  "unknown": 269,
+  "known": 42
  },
- "long_term_members": 212,
+ "long_term_members": 285,
  "badges": [
   {
    "months": 0,
-   "members": 4
+   "members": 7
   },
   {
    "months": 1,
@@ -24,63 +24,63 @@
   },
   {
    "months": 2,
-   "members": 6
+   "members": 11
   },
   {
    "months": 6,
-   "members": 3
+   "members": 5
   },
   {
    "months": 12,
-   "members": 24
-  },
-  {
-   "months": 24,
    "members": 29
   },
   {
+   "months": 24,
+   "members": 45
+  },
+  {
    "months": 36,
-   "members": 32
+   "members": 41
   },
   {
    "months": 48,
-   "members": 40
+   "members": 62
   },
   {
    "months": 60,
-   "members": 43
+   "members": 55
   },
   {
    "months": 72,
-   "members": 44
+   "members": 53
   }
  ],
  "events": {
-  "new_members": 2,
-  "rejoins": 3,
-  "milestones": 6,
+  "new_members": 4,
+  "rejoins": 5,
+  "milestones": 29,
   "gifted_total": 0
  },
  "tiers": [
   {
    "tier": "ぷてぃしっぷ",
    "price": 490,
-   "confirmed_members": 14,
-   "estimated_members": 199.5
+   "confirmed_members": 37,
+   "estimated_members": 274.0
   },
   {
    "tier": "G級ぷてちぷれみあむ",
    "price": 4690,
-   "confirmed_members": 2,
-   "estimated_members": 28.5
+   "confirmed_members": 5,
+   "estimated_members": 37.0
   }
  ],
  "revenue": {
-  "monthly_low": 76440,
-  "monthly_est": 147267,
+  "monthly_low": 110339,
+  "monthly_est": 195930,
   "gift_once": 0
  },
- "avg_member_chatters": 79.6,
+ "avg_member_chatters": 94.3,
  "partial": true,
  "finalized": false
 }

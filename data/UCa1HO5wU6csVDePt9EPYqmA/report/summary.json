@@ -3,36 +3,36 @@
  "channel_id": "UCa1HO5wU6csVDePt9EPYqmA",
  "handle": "@PomeloPunch",
  "subscribers": 80800,
- "fetched_at": "2026-10-14 10:15",
- "generated_at": "2026-10-14 10:15",
+ "fetched_at": "2026-10-15 05:30",
+ "generated_at": "2026-10-15 05:30",
  "period": {
-  "from": "2026-09-14 10:15",
-  "to": "2026-10-14 10:15",
+  "from": "2026-09-15 05:30",
+  "to": "2026-10-15 05:30",
   "days": 30
  },
  "streams_analyzed": 16,
  "streams_missed": 1,
- "unique_chatters": 1490,
- "members_confirmed": 212,
+ "unique_chatters": 1460,
+ "members_confirmed": 211,
  "member_classes": {
-  "unknown": 151,
   "known": 54,
+  "unknown": 150,
   "gift": 7
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 75
+   "members": 69
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 137
+   "members": 142
   }
  ],
  "events": {
-  "new_members": 21,
+  "new_members": 20,
   "rejoins": 0,
   "milestones": 29,
   "gift_purchases": 3,
@@ -47,19 +47,19 @@
    "net_per_member": 439.1,
    "confirmed_members": 54,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 151.0,
-   "estimated_members": 205.0,
+   "allocated_unknown": 150.0,
+   "estimated_members": 204.0,
    "monthly_net_confirmed": 23711,
-   "monthly_net_estimated": 90014
+   "monthly_net_estimated": 89575
   }
  ],
  "revenue": {
-  "monthly_low": 90014,
-  "monthly_est": 90014,
+  "monthly_low": 89575,
+  "monthly_est": 89575,
   "gift_once": 3074,
-  "total_low": 93087,
-  "total_est": 93087,
-  "paying_members": 205,
+  "total_low": 92648,
+  "total_est": 92648,
+  "paying_members": 204,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -68,16 +68,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "xhwHppj-9tM",
-   "start": "2026-09-14 17:02",
-   "title": "【ネタバレ注意】山吹鬼目指してガシャコイン回収の旅　【妖怪ウォッチ1 for nintendo switch】【ぽめろ・ぱんち / にじさんじ】",
-   "kind": "配信",
-   "chatters": 211,
-   "member_chatters": 43,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "qRrzhAFBI-c",
    "start": "2026-09-15 17:01",
@@ -227,6 +217,16 @@
    "member_chatters": 70,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "dHcZHMm3Byg",
+   "start": "2026-10-14 19:01",
+   "title": "【 タンポポは耐える。 】タンポポだって必死に生きてる【ぽめろ・ぱんち / にじさんじ】",
+   "kind": "配信",
+   "chatters": 199,
+   "member_chatters": 71,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -310,25 +310,25 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-14"
+    "to": "2026-10-15"
    },
-   "streams_analyzed": 4,
+   "streams_analyzed": 5,
    "streams_missed": 0,
-   "unique_chatters": 460,
-   "members_confirmed": 133,
+   "unique_chatters": 538,
+   "members_confirmed": 142,
    "member_classes": {
-    "unknown": 89,
+    "unknown": 98,
     "known": 44
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 28
+     "members": 29
     },
     {
      "months": 1,
-     "members": 105
+     "members": 113
     }
    ],
    "events": {
@@ -342,12 +342,12 @@
      "tier": "元市民の集い",
      "price": 690,
      "confirmed_members": 44,
-     "estimated_members": 133.0
+     "estimated_members": 142.0
     }
    ],
    "revenue": {
-    "monthly_low": 58399,
-    "monthly_est": 58399,
+    "monthly_low": 62351,
+    "monthly_est": 62351,
     "gift_once": 0
    },
    "avg_member_chatters": 71,

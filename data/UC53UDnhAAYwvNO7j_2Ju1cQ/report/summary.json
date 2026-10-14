@@ -3,19 +3,19 @@
  "channel_id": "UC53UDnhAAYwvNO7j_2Ju1cQ",
  "handle": "@Dola",
  "subscribers": 362000,
- "fetched_at": "2026-10-14 10:12",
- "generated_at": "2026-10-14 10:12",
+ "fetched_at": "2026-10-15 05:18",
+ "generated_at": "2026-10-15 05:19",
  "period": {
-  "from": "2026-09-14 10:12",
-  "to": "2026-10-14 10:12",
+  "from": "2026-09-15 05:18",
+  "to": "2026-10-15 05:18",
   "days": 30
  },
- "streams_analyzed": 1,
+ "streams_analyzed": 2,
  "streams_missed": 1,
- "unique_chatters": 452,
- "members_confirmed": 181,
+ "unique_chatters": 541,
+ "members_confirmed": 189,
  "member_classes": {
-  "unknown": 179,
+  "unknown": 187,
   "known": 2
  },
  "badges": [
@@ -47,22 +47,22 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 13
+   "members": 14
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 9
+   "members": 10
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 14
+   "members": 16
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 106
+   "members": 110
   }
  ],
  "events": {
@@ -81,10 +81,10 @@
    "net_per_member": 184.5,
    "confirmed_members": 2,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 179.0,
-   "estimated_members": 181.0,
+   "allocated_unknown": 187.0,
+   "estimated_members": 189.0,
    "monthly_net_confirmed": 369,
-   "monthly_net_estimated": 33403
+   "monthly_net_estimated": 34879
   },
   {
    "tier": "どらとも🔥中火",
@@ -110,12 +110,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 33403,
-  "monthly_est": 33403,
+  "monthly_low": 34879,
+  "monthly_est": 34879,
   "gift_once": 0,
-  "total_low": 33403,
-  "total_est": 33403,
-  "paying_members": 181,
+  "total_low": 34879,
+  "total_est": 34879,
+  "paying_members": 189,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -131,6 +131,16 @@
    "kind": "配信",
    "chatters": 452,
    "member_chatters": 181,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "UJtZRkDxNNQ",
+   "start": "2026-10-15 00:17",
+   "title": "【アークナイツ：エンドフィールド】時代に置いていかれている工場長、追いつきたい #15【にじさんじ/ドーラ】",
+   "kind": "配信",
+   "chatters": 154,
+   "member_chatters": 45,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -255,17 +265,17 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-14"
+    "to": "2026-10-15"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 0,
-   "unique_chatters": 452,
-   "members_confirmed": 181,
+   "unique_chatters": 541,
+   "members_confirmed": 189,
    "member_classes": {
-    "unknown": 179,
+    "unknown": 187,
     "known": 2
    },
-   "long_term_members": 166,
+   "long_term_members": 174,
    "badges": [
     {
      "months": 0,
@@ -289,19 +299,19 @@
     },
     {
      "months": 24,
-     "members": 13
-    },
-    {
-     "months": 36,
-     "members": 9
-    },
-    {
-     "months": 48,
      "members": 14
     },
     {
+     "months": 36,
+     "members": 10
+    },
+    {
+     "months": 48,
+     "members": 16
+    },
+    {
      "months": 60,
-     "members": 106
+     "members": 110
     }
    ],
    "events": {
@@ -315,7 +325,7 @@
      "tier": "どらとも🔥弱火",
      "price": 290,
      "confirmed_members": 2,
-     "estimated_members": 181.0
+     "estimated_members": 189.0
     },
     {
      "tier": "どらとも🔥中火",
@@ -331,11 +341,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 33403,
-    "monthly_est": 33403,
+    "monthly_low": 34879,
+    "monthly_est": 34879,
     "gift_once": 0
    },
-   "avg_member_chatters": 181,
+   "avg_member_chatters": 113,
    "partial": true,
    "finalized": false
   }

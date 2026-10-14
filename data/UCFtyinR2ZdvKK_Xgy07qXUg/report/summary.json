@@ -3,20 +3,20 @@
  "channel_id": "UCFtyinR2ZdvKK_Xgy07qXUg",
  "handle": "@MilanKestrel",
  "subscribers": 312000,
- "fetched_at": "2026-10-14 10:14",
- "generated_at": "2026-10-14 10:14",
+ "fetched_at": "2026-10-15 05:27",
+ "generated_at": "2026-10-15 05:27",
  "period": {
-  "from": "2026-09-14 10:14",
-  "to": "2026-10-14 10:14",
+  "from": "2026-09-15 05:27",
+  "to": "2026-10-15 05:27",
   "days": 30
  },
  "streams_analyzed": 17,
  "streams_missed": 0,
- "unique_chatters": 2249,
- "members_confirmed": 905,
+ "unique_chatters": 2238,
+ "members_confirmed": 908,
  "member_classes": {
-  "unknown": 840,
-  "known": 44,
+  "unknown": 845,
+  "known": 42,
   "gift": 21
  },
  "badges": [
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 178
+   "members": 182
   },
   {
    "months": 6,
@@ -43,11 +43,11 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 402
+   "members": 401
   }
  ],
  "events": {
-  "new_members": 31,
+  "new_members": 27,
   "rejoins": 7,
   "milestones": 0,
   "gift_purchases": 4,
@@ -60,21 +60,21 @@
    "tier": "魔道の入門書",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 44,
+   "confirmed_members": 42,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 840.0,
-   "estimated_members": 884.0,
-   "monthly_net_confirmed": 13720,
-   "monthly_net_estimated": 275647
+   "allocated_unknown": 845.0,
+   "estimated_members": 887.0,
+   "monthly_net_confirmed": 13096,
+   "monthly_net_estimated": 276583
   }
  ],
  "revenue": {
-  "monthly_low": 275647,
-  "monthly_est": 275647,
+  "monthly_low": 276583,
+  "monthly_est": 276583,
   "gift_once": 6548,
-  "total_low": 282195,
-  "total_est": 282195,
-  "paying_members": 884,
+  "total_low": 283131,
+  "total_est": 283131,
+  "paying_members": 887,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "qmVmPFQE5jE",
-   "start": "2026-09-14 23:34",
-   "title": "【雑談】お話しましょー♪ 【にじさんじ / ミラン・ケストレル】",
-   "kind": "配信",
-   "chatters": 473,
-   "member_chatters": 302,
-   "new_members": 4,
-   "gifted_total": 0
-  },
   {
    "video_id": "XTNg7Hsl2yg",
    "start": "2026-09-15 22:00",
@@ -252,6 +242,16 @@
    "member_chatters": 313,
    "new_members": 5,
    "gifted_total": 16
+  },
+  {
+   "video_id": "RBjy7NfNSQo",
+   "start": "2026-10-14 22:07",
+   "title": "【雑談】壁にミミリー、障子にメアリー。【にじさんじ/ミラン・ケストレル】",
+   "kind": "配信",
+   "chatters": 476,
+   "member_chatters": 319,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -323,38 +323,38 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-14"
+    "to": "2026-10-15"
    },
-   "streams_analyzed": 8,
+   "streams_analyzed": 9,
    "streams_missed": 0,
-   "unique_chatters": 1434,
-   "members_confirmed": 683,
+   "unique_chatters": 1540,
+   "members_confirmed": 719,
    "member_classes": {
-    "unknown": 632,
-    "known": 30,
+    "unknown": 667,
+    "known": 31,
     "gift": 21
    },
-   "long_term_members": 310,
+   "long_term_members": 319,
    "badges": [
     {
      "months": 0,
-     "members": 67
+     "members": 71
     },
     {
      "months": 1,
-     "members": 27
+     "members": 30
     },
     {
      "months": 2,
-     "members": 142
+     "members": 152
     },
     {
      "months": 6,
-     "members": 137
+     "members": 147
     },
     {
      "months": 12,
-     "members": 310
+     "members": 319
     }
    ],
    "events": {
@@ -367,16 +367,16 @@
     {
      "tier": "魔道の入門書",
      "price": 490,
-     "confirmed_members": 30,
-     "estimated_members": 662.0
+     "confirmed_members": 31,
+     "estimated_members": 698.0
     }
    ],
    "revenue": {
-    "monthly_low": 206424,
-    "monthly_est": 206424,
+    "monthly_low": 217649,
+    "monthly_est": 217649,
     "gift_once": 6548
    },
-   "avg_member_chatters": 246.2,
+   "avg_member_chatters": 254.3,
    "partial": true,
    "finalized": false
   }

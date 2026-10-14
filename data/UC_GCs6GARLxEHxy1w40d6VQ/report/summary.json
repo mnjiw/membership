@@ -3,37 +3,37 @@
  "channel_id": "UC_GCs6GARLxEHxy1w40d6VQ",
  "handle": "@IenagaMugi",
  "subscribers": 307000,
- "fetched_at": "2026-10-14 10:12",
- "generated_at": "2026-10-14 10:12",
+ "fetched_at": "2026-10-15 05:18",
+ "generated_at": "2026-10-15 05:18",
  "period": {
-  "from": "2026-09-14 10:12",
-  "to": "2026-10-14 10:12",
+  "from": "2026-09-15 05:18",
+  "to": "2026-10-15 05:18",
   "days": 30
  },
- "streams_analyzed": 11,
- "streams_missed": 6,
- "unique_chatters": 2243,
- "members_confirmed": 246,
+ "streams_analyzed": 12,
+ "streams_missed": 5,
+ "unique_chatters": 2472,
+ "members_confirmed": 251,
  "member_classes": {
-  "unknown": 231,
+  "unknown": 235,
   "known": 8,
-  "gift": 7
+  "gift": 8
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 28
+   "members": 30
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 11
+   "members": 9
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 33
+   "members": 36
   },
   {
    "months": 6,
@@ -43,12 +43,12 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 39
+   "members": 40
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 32
+   "members": 33
   },
   {
    "months": 36,
@@ -65,9 +65,9 @@
   "new_members": 1,
   "rejoins": 3,
   "milestones": 3,
-  "gift_purchases": 7,
-  "gifted_total": 7,
-  "gift_redemptions": 7
+  "gift_purchases": 8,
+  "gifted_total": 8,
+  "gift_redemptions": 8
  },
  "tiers_configured": true,
  "tiers": [
@@ -77,19 +77,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 8,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 231.0,
-   "estimated_members": 239.0,
+   "allocated_unknown": 235.0,
+   "estimated_members": 243.0,
    "monthly_net_confirmed": 2495,
-   "monthly_net_estimated": 74525
+   "monthly_net_estimated": 75772
   }
  ],
  "revenue": {
-  "monthly_low": 74525,
-  "monthly_est": 74525,
-  "gift_once": 2183,
-  "total_low": 76707,
-  "total_est": 76707,
-  "paying_members": 239,
+  "monthly_low": 75772,
+  "monthly_est": 75772,
+  "gift_once": 2495,
+  "total_low": 78266,
+  "total_est": 78266,
+  "paying_members": 243,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -207,21 +207,19 @@
    "member_chatters": 88,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "ZV0sYgEEb2U",
+   "start": "2026-10-14 20:00",
+   "title": "【 Study with me 】3h🌜いっしょに勉強&作業 / 30min+5min【 にじさんじ / 家長むぎ 】",
+   "kind": "配信",
+   "chatters": 473,
+   "member_chatters": 42,
+   "new_members": 0,
+   "gifted_total": 1
   }
  ],
  "missed_streams": [
-  {
-   "video_id": "AX7ejpH5yC4",
-   "start": "2026-09-14 21:01",
-   "title": "《 メンバー限定 》コミュニケーションの会《 雑談 》",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 66,
-   "view_count": null
-  },
   {
    "video_id": "aZPpe1d7KIw",
    "start": "2026-09-25 21:00",
@@ -279,22 +277,12 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 50,
+   "like_count": 52,
    "view_count": null
   }
  ],
  "members_only_content": [
   {
-   "video_id": "AX7ejpH5yC4",
-   "start": "2026-09-14 21:01",
-   "title": "《 メンバー限定 》コミュニケーションの会《 雑談 》",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 66,
-   "view_count": null
-  },
-  {
    "video_id": "aZPpe1d7KIw",
    "start": "2026-09-25 21:00",
    "title": "《 メンバー限定 》みんなハラペーニョって食べたことあるか《 雑談 》",
@@ -341,7 +329,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 50,
+   "like_count": 52,
    "view_count": null
   }
  ],
@@ -424,42 +412,42 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-14"
+    "to": "2026-10-15"
    },
-   "streams_analyzed": 4,
+   "streams_analyzed": 5,
    "streams_missed": 3,
-   "unique_chatters": 1049,
-   "members_confirmed": 138,
+   "unique_chatters": 1332,
+   "members_confirmed": 146,
    "member_classes": {
-    "unknown": 134,
+    "unknown": 141,
     "known": 3,
-    "gift": 1
+    "gift": 2
    },
-   "long_term_members": 80,
+   "long_term_members": 83,
    "badges": [
     {
      "months": 0,
-     "members": 12
+     "members": 14
     },
     {
      "months": 1,
-     "members": 8
+     "members": 6
     },
     {
      "months": 2,
-     "members": 22
+     "members": 26
     },
     {
      "months": 6,
-     "members": 16
+     "members": 17
     },
     {
      "months": 12,
-     "members": 25
+     "members": 26
     },
     {
      "months": 24,
-     "members": 13
+     "members": 15
     },
     {
      "months": 36,
@@ -474,22 +462,22 @@
     "new_members": 0,
     "rejoins": 0,
     "milestones": 1,
-    "gifted_total": 1
+    "gifted_total": 2
    },
    "tiers": [
     {
      "tier": "もっといっぱい家長むぎ",
      "price": 490,
      "confirmed_members": 3,
-     "estimated_members": 137.0
+     "estimated_members": 144.0
     }
    ],
    "revenue": {
-    "monthly_low": 42719,
-    "monthly_est": 42719,
-    "gift_once": 312
+    "monthly_low": 44902,
+    "monthly_est": 44902,
+    "gift_once": 624
    },
-   "avg_member_chatters": 51.5,
+   "avg_member_chatters": 49.6,
    "partial": true,
    "finalized": false
   }

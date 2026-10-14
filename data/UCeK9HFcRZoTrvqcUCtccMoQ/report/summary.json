@@ -3,16 +3,16 @@
  "channel_id": "UCeK9HFcRZoTrvqcUCtccMoQ",
  "handle": "@ShibuyaHajime",
  "subscribers": 161000,
- "fetched_at": "2026-10-14 10:12",
- "generated_at": "2026-10-14 10:12",
+ "fetched_at": "2026-10-15 05:18",
+ "generated_at": "2026-10-15 05:18",
  "period": {
-  "from": "2026-09-14 10:12",
-  "to": "2026-10-14 10:12",
+  "from": "2026-09-15 05:18",
+  "to": "2026-10-15 05:18",
   "days": 30
  },
  "streams_analyzed": 23,
  "streams_missed": 0,
- "unique_chatters": 244,
+ "unique_chatters": 269,
  "members_confirmed": 61,
  "member_classes": {
   "unknown": 61
@@ -52,7 +52,7 @@
  "events": {
   "new_members": 2,
   "rejoins": 2,
-  "milestones": 7,
+  "milestones": 9,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -86,16 +86,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "NMDr9bXsaBQ",
-   "start": "2026-09-14 20:48",
-   "title": "【LoL】_(:3 」∠)_【にじさんじ/渋谷ハジメ】",
-   "kind": "配信",
-   "chatters": 32,
-   "member_chatters": 23,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "lTyZDixRNUM",
    "start": "2026-09-15 23:50",
@@ -315,6 +305,16 @@
    "member_chatters": 22,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "nH65TKt9mpw",
+   "start": "2026-10-14 23:01",
+   "title": "【雑談】話題を下さい。【にじさんじ/渋谷ハジメ】",
+   "kind": "配信",
+   "chatters": 62,
+   "member_chatters": 20,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -388,11 +388,11 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-14"
+    "to": "2026-10-15"
    },
-   "streams_analyzed": 11,
+   "streams_analyzed": 12,
    "streams_missed": 0,
-   "unique_chatters": 172,
+   "unique_chatters": 203,
    "members_confirmed": 53,
    "member_classes": {
     "unknown": 53
@@ -427,7 +427,7 @@
    "events": {
     "new_members": 1,
     "rejoins": 0,
-    "milestones": 1,
+    "milestones": 4,
     "gifted_total": 0
    },
    "tiers": [

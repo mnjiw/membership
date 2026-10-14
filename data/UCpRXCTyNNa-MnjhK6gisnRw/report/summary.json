@@ -3,16 +3,16 @@
  "channel_id": "UCpRXCTyNNa-MnjhK6gisnRw",
  "handle": "@Gaon",
  "subscribers": 59500,
- "fetched_at": "2026-10-14 10:14",
- "generated_at": "2026-10-14 10:14",
+ "fetched_at": "2026-10-15 05:25",
+ "generated_at": "2026-10-15 05:25",
  "period": {
-  "from": "2026-09-14 10:14",
-  "to": "2026-10-14 10:14",
+  "from": "2026-09-15 05:25",
+  "to": "2026-10-15 05:25",
   "days": 30
  },
- "streams_analyzed": 12,
- "streams_missed": 2,
- "unique_chatters": 566,
+ "streams_analyzed": 13,
+ "streams_missed": 1,
+ "unique_chatters": 568,
  "members_confirmed": 120,
  "member_classes": {
   "known": 24,
@@ -53,7 +53,7 @@
  ],
  "events": {
   "new_members": 5,
-  "rejoins": 4,
+  "rejoins": 5,
   "milestones": 12,
   "gift_purchases": 4,
   "gifted_total": 17,
@@ -229,6 +229,16 @@
    "member_chatters": 35,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "14n0ztyzVpQ",
+   "start": "2026-10-13 22:16",
+   "title": "【Escape Simulator 2】WanOz Detective Agency Goes Out【Nijisanji | Gaon】",
+   "kind": "配信",
+   "chatters": 30,
+   "member_chatters": 25,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -243,18 +253,6 @@
    "members_level": "Gaide🚩취업센터 就業センター",
    "like_count": 24,
    "view_count": null
-  },
-  {
-   "video_id": "14n0ztyzVpQ",
-   "start": "2026-10-13 00:00",
-   "title": "【Escape Simulator 2】완오즈탐정단나가신다【니지산지 | 가온】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 97,
-   "view_count": 1644
   }
  ],
  "members_only_content": [
@@ -352,18 +350,18 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-14"
+    "to": "2026-10-15"
    },
-   "streams_analyzed": 4,
-   "streams_missed": 2,
-   "unique_chatters": 529,
-   "members_confirmed": 109,
+   "streams_analyzed": 5,
+   "streams_missed": 1,
+   "unique_chatters": 532,
+   "members_confirmed": 110,
    "member_classes": {
     "known": 23,
-    "unknown": 75,
+    "unknown": 76,
     "gift": 11
    },
-   "long_term_members": 75,
+   "long_term_members": 76,
    "badges": [
     {
      "months": 0,
@@ -387,12 +385,12 @@
     },
     {
      "months": 24,
-     "members": 56
+     "members": 57
     }
    ],
    "events": {
     "new_members": 5,
-    "rejoins": 3,
+    "rejoins": 4,
     "milestones": 9,
     "gifted_total": 11
    },
@@ -401,27 +399,27 @@
      "tier": "안내소 案内所",
      "price": 290,
      "confirmed_members": 4,
-     "estimated_members": 17.0
+     "estimated_members": 17.2
     },
     {
      "tier": "Gaide🚩취업센터 就業センター",
      "price": 490,
      "confirmed_members": 17,
-     "estimated_members": 72.4
+     "estimated_members": 73.2
     },
     {
      "tier": "Gaide🚩인턴쉽 インターンシップ",
      "price": 1290,
      "confirmed_members": 2,
-     "estimated_members": 8.5
+     "estimated_members": 8.6
     }
    ],
    "revenue": {
-    "monthly_low": 21522,
-    "monthly_est": 32727,
+    "monthly_low": 21706,
+    "monthly_est": 33061,
     "gift_once": 2030
    },
-   "avg_member_chatters": 43.2,
+   "avg_member_chatters": 39.6,
    "partial": true,
    "finalized": false
   }

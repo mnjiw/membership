@@ -2,12 +2,12 @@
  "channel": "宇佐美リト / Usami Rito【にじさんじ】",
  "channel_id": "UCambvP8yxNDot4FzQc9cgiw",
  "handle": "@UsamiRito",
- "subscribers": 389000,
- "fetched_at": "2026-10-14 10:14",
- "generated_at": "2026-10-14 10:14",
+ "subscribers": 390000,
+ "fetched_at": "2026-10-15 05:26",
+ "generated_at": "2026-10-15 05:26",
  "period": {
-  "from": "2026-09-14 10:14",
-  "to": "2026-10-14 10:14",
+  "from": "2026-09-15 05:26",
+  "to": "2026-10-15 05:26",
   "days": 30
  },
  "streams_analyzed": 14,
@@ -226,30 +226,19 @@
  ],
  "missed_streams": [
   {
-   "video_id": "CfZC715NSgM",
-   "start": "2026-09-14 21:31",
-   "title": "【メン限】もう9月中旬ということでゲリラ【宇佐美リト/にじさんじ】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "うさみのメンバーシップ",
-   "like_count": 889,
-   "view_count": null
+   "video_id": "2jTZ59FUakw",
+   "start": "2026-10-14 00:00",
+   "title": "【スト6】どっちか言ってみろおおおおおおおおおおお【宇佐美リト/にじさんじ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 1475,
+   "view_count": 58411
   }
  ],
- "members_only_content": [
-  {
-   "video_id": "CfZC715NSgM",
-   "start": "2026-09-14 21:31",
-   "title": "【メン限】もう9月中旬ということでゲリラ【宇佐美リト/にじさんじ】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "うさみのメンバーシップ",
-   "like_count": 889,
-   "view_count": null
-  }
- ],
+ "members_only_content": [],
  "history": [
   {
    "month": "2026-09",
@@ -317,10 +306,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-14"
+    "to": "2026-10-15"
    },
    "streams_analyzed": 3,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 2533,
    "members_confirmed": 1505,
    "member_classes": {

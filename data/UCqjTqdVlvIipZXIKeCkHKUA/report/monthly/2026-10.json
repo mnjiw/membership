@@ -2,69 +2,70 @@
  "month": "2026-10",
  "coverage": {
   "from": "2026-10-01",
-  "to": "2026-10-14"
+  "to": "2026-10-15"
  },
- "streams_analyzed": 3,
+ "streams_analyzed": 4,
  "streams_missed": 1,
- "unique_chatters": 502,
- "members_confirmed": 266,
+ "unique_chatters": 595,
+ "members_confirmed": 308,
  "member_classes": {
-  "unknown": 257,
-  "known": 9
+  "unknown": 293,
+  "known": 10,
+  "gift": 5
  },
- "long_term_members": 234,
+ "long_term_members": 265,
  "badges": [
   {
    "months": 0,
-   "members": 4
+   "members": 10
   },
   {
    "months": 1,
-   "members": 3
+   "members": 4
   },
   {
    "months": 2,
-   "members": 8
+   "members": 11
   },
   {
    "months": 6,
-   "members": 17
+   "members": 18
   },
   {
    "months": 12,
-   "members": 28
+   "members": 33
   },
   {
    "months": 24,
-   "members": 206
+   "members": 232
   }
  ],
  "events": {
   "new_members": 0,
-  "rejoins": 0,
+  "rejoins": 1,
   "milestones": 2,
-  "gifted_total": 0
+  "gifted_total": 5
  },
  "tiers": [
   {
    "tier": "ゼミ打ち上げ",
    "price": 490,
-   "confirmed_members": 5,
-   "estimated_members": 147.8
+   "confirmed_members": 6,
+   "estimated_members": 181.8
   },
   {
    "tier": "ゼミアルバム",
    "price": 1190,
    "confirmed_members": 4,
-   "estimated_members": 118.2
+   "estimated_members": 121.2
   }
  ],
  "revenue": {
-  "monthly_low": 84725,
-  "monthly_est": 135606,
-  "gift_once": 0
+  "monthly_low": 96263,
+  "monthly_est": 148470,
+  "gift_once": 1559
  },
- "avg_member_chatters": 153.3,
+ "avg_member_chatters": 161.8,
  "partial": true,
  "finalized": false
 }

@@ -3,27 +3,27 @@
  "channel_id": "UCsg-YqdqQ-KFF0LNk23BY4A",
  "handle": "@HiguchiKaede",
  "subscribers": 1030000,
- "fetched_at": "2026-10-14 10:12",
- "generated_at": "2026-10-14 10:12",
+ "fetched_at": "2026-10-15 05:17",
+ "generated_at": "2026-10-15 05:18",
  "period": {
-  "from": "2026-09-14 10:12",
-  "to": "2026-10-14 10:12",
+  "from": "2026-09-15 05:17",
+  "to": "2026-10-15 05:17",
   "days": 30
  },
- "streams_analyzed": 19,
- "streams_missed": 0,
- "unique_chatters": 2937,
- "members_confirmed": 315,
+ "streams_analyzed": 18,
+ "streams_missed": 1,
+ "unique_chatters": 2463,
+ "members_confirmed": 309,
  "member_classes": {
-  "known": 10,
-  "unknown": 300,
+  "unknown": 295,
+  "known": 9,
   "gift": 5
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 10
+   "members": 9
   },
   {
    "months": 1,
@@ -33,12 +33,12 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 12
+   "members": 11
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 30
+   "members": 28
   },
   {
    "months": 12,
@@ -58,16 +58,16 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 17
+   "members": 16
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 129
+   "members": 128
   }
  ],
  "events": {
-  "new_members": 3,
+  "new_members": 2,
   "rejoins": 6,
   "milestones": 1,
   "gift_purchases": 1,
@@ -80,21 +80,21 @@
    "tier": "楓組メンバーシップ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 10,
+   "confirmed_members": 9,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 300.0,
-   "estimated_members": 310.0,
-   "monthly_net_confirmed": 3118,
-   "monthly_net_estimated": 96664
+   "allocated_unknown": 295.0,
+   "estimated_members": 304.0,
+   "monthly_net_confirmed": 2806,
+   "monthly_net_estimated": 94793
   }
  ],
  "revenue": {
-  "monthly_low": 96664,
-  "monthly_est": 96664,
+  "monthly_low": 94793,
+  "monthly_est": 94793,
   "gift_once": 1559,
-  "total_low": 98223,
-  "total_est": 98223,
-  "paying_members": 310,
+  "total_low": 96352,
+  "total_est": 96352,
+  "paying_members": 304,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -103,16 +103,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "ijrYY5NHm6w",
-   "start": "2026-09-14 19:00",
-   "title": "【龍が如く6】第１２章~END👶黒幕多すぎ‼ラスボスわからん😥‼【にじさんじ / 樋口楓】※ネタバレあり",
-   "kind": "配信",
-   "chatters": 694,
-   "member_chatters": 101,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "0oRNzDRxif0",
    "start": "2026-09-19 13:00",
@@ -294,7 +284,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "TuuWbJXbfuc",
+   "start": "2026-10-14 00:00",
+   "title": "【マビノギモバイル】アプデきた！Lv64から間に合わせるぞ😂💪【にじさんじ / 樋口楓】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 1206,
+   "view_count": 93350
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -379,10 +382,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-14"
+    "to": "2026-10-15"
    },
    "streams_analyzed": 8,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 1307,
    "members_confirmed": 214,
    "member_classes": {

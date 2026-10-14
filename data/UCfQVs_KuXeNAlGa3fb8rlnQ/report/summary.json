@@ -3,16 +3,16 @@
  "channel_id": "UCfQVs_KuXeNAlGa3fb8rlnQ",
  "handle": "@SakuraRitsuki",
  "subscribers": 281000,
- "fetched_at": "2026-10-14 10:12",
- "generated_at": "2026-10-14 10:12",
+ "fetched_at": "2026-10-15 05:20",
+ "generated_at": "2026-10-15 05:20",
  "period": {
-  "from": "2026-09-14 10:12",
-  "to": "2026-10-14 10:12",
+  "from": "2026-09-15 05:20",
+  "to": "2026-10-15 05:20",
   "days": 30
  },
  "streams_analyzed": 30,
- "streams_missed": 1,
- "unique_chatters": 556,
+ "streams_missed": 2,
+ "unique_chatters": 548,
  "members_confirmed": 97,
  "member_classes": {
   "unknown": 83,
@@ -109,16 +109,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "_ppknErHvuk",
-   "start": "2026-09-14 19:01",
-   "title": "【ほの暮しの庭】#6  ネタバレあり 秋は食欲！美味しい屋台がてんこもり～【にじさんじ/桜凛月】",
-   "kind": "配信",
-   "chatters": 67,
-   "member_chatters": 29,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "9TXOKP-Sztw",
    "start": "2026-09-15 19:00",
@@ -408,6 +398,16 @@
    "member_chatters": 40,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "dxoeyvriFqE",
+   "start": "2026-10-14 12:06",
+   "title": "【健康スプラ】 負けたら筋トレ おしとやかで穏やかな配信です【にじさんじ/桜凛月】",
+   "kind": "配信",
+   "chatters": 64,
+   "member_chatters": 16,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -422,6 +422,18 @@
    "members_level": "桜ンボの箱舟",
    "like_count": 49,
    "view_count": null
+  },
+  {
+   "video_id": "ItPI4CXL4hU",
+   "start": "2026-10-14 19:05",
+   "title": "【メンバー限定】スプラ力高めです！対面力をあげたいなと思っています【にじさんじ/桜凛月】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "桜ンボの箱舟",
+   "like_count": 39,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -433,6 +445,16 @@
    "status": "members_only",
    "members_level": "桜ンボの箱舟",
    "like_count": 49,
+   "view_count": null
+  },
+  {
+   "video_id": "ItPI4CXL4hU",
+   "start": "2026-10-14 19:05",
+   "title": "【メンバー限定】スプラ力高めです！対面力をあげたいなと思っています【にじさんじ/桜凛月】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "桜ンボの箱舟",
+   "like_count": 39,
    "view_count": null
   }
  ],
@@ -520,11 +542,11 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-14"
+    "to": "2026-10-15"
    },
-   "streams_analyzed": 16,
-   "streams_missed": 0,
-   "unique_chatters": 341,
+   "streams_analyzed": 17,
+   "streams_missed": 1,
+   "unique_chatters": 358,
    "members_confirmed": 75,
    "member_classes": {
     "unknown": 64,
@@ -591,7 +613,7 @@
     "monthly_est": 107838,
     "gift_once": 312
    },
-   "avg_member_chatters": 22.9,
+   "avg_member_chatters": 22.5,
    "partial": true,
    "finalized": false
   }

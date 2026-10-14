@@ -3,19 +3,19 @@
  "channel_id": "UCZ1xuCK1kNmn5RzPYIZop3w",
  "handle": "@LizeHelesta",
  "subscribers": 1030000,
- "fetched_at": "2026-10-14 10:12",
- "generated_at": "2026-10-14 10:13",
+ "fetched_at": "2026-10-15 05:21",
+ "generated_at": "2026-10-15 05:23",
  "period": {
-  "from": "2026-09-14 10:12",
-  "to": "2026-10-14 10:12",
+  "from": "2026-09-15 05:21",
+  "to": "2026-10-15 05:21",
   "days": 30
  },
- "streams_analyzed": 8,
+ "streams_analyzed": 9,
  "streams_missed": 0,
- "unique_chatters": 4143,
- "members_confirmed": 829,
+ "unique_chatters": 4374,
+ "members_confirmed": 852,
  "member_classes": {
-  "unknown": 822,
+  "unknown": 845,
   "known": 7
  },
  "badges": [
@@ -27,37 +27,37 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 9
+   "members": 10
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 22
+   "members": 23
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 44
+   "members": 45
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 67
+   "members": 70
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 68
+   "members": 69
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 87
+   "members": 92
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 521
+   "members": 532
   }
  ],
  "events": {
@@ -76,19 +76,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 7,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 822.0,
-   "estimated_members": 829.0,
+   "allocated_unknown": 845.0,
+   "estimated_members": 852.0,
    "monthly_net_confirmed": 2183,
-   "monthly_net_estimated": 258497
+   "monthly_net_estimated": 265669
   }
  ],
  "revenue": {
-  "monthly_low": 258497,
-  "monthly_est": 258497,
+  "monthly_low": 265669,
+  "monthly_est": 265669,
   "gift_once": 0,
-  "total_low": 258497,
-  "total_est": 258497,
-  "paying_members": 829,
+  "total_low": 265669,
+  "total_est": 265669,
+  "paying_members": 852,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -176,6 +176,16 @@
    "member_chatters": 401,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "e71VF3yVRLc",
+   "start": "2026-10-14 20:00",
+   "title": "【P5R/ペルソナ5 ザ・ロイヤル】奪え、その意志で。【にじさんじ/リゼ・ヘルエスタ】※ネタバレ注意",
+   "kind": "配信",
+   "chatters": 1463,
+   "member_chatters": 428,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -259,49 +269,49 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-14"
+    "to": "2026-10-15"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 4,
    "streams_missed": 0,
-   "unique_chatters": 2093,
-   "members_confirmed": 550,
+   "unique_chatters": 2532,
+   "members_confirmed": 606,
    "member_classes": {
-    "unknown": 546,
-    "known": 4
+    "unknown": 601,
+    "known": 5
    },
-   "long_term_members": 498,
+   "long_term_members": 544,
    "badges": [
     {
      "months": 0,
-     "members": 6
+     "members": 7
     },
     {
      "months": 1,
-     "members": 4
+     "members": 6
     },
     {
      "months": 2,
-     "members": 16
+     "members": 18
     },
     {
      "months": 6,
-     "members": 26
+     "members": 31
     },
     {
      "months": 12,
-     "members": 39
+     "members": 44
     },
     {
      "months": 24,
-     "members": 47
-    },
-    {
-     "months": 36,
      "members": 50
     },
     {
+     "months": 36,
+     "members": 58
+    },
+    {
      "months": 48,
-     "members": 362
+     "members": 392
     }
    ],
    "events": {
@@ -314,16 +324,16 @@
     {
      "tier": "ヘルエスタ王国民シップ",
      "price": 490,
-     "confirmed_members": 4,
-     "estimated_members": 550.0
+     "confirmed_members": 5,
+     "estimated_members": 606.0
     }
    ],
    "revenue": {
-    "monthly_low": 171500,
-    "monthly_est": 171500,
+    "monthly_low": 188962,
+    "monthly_est": 188962,
     "gift_once": 0
    },
-   "avg_member_chatters": 340.3,
+   "avg_member_chatters": 362.2,
    "partial": true,
    "finalized": false
   }
