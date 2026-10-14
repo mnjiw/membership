@@ -1,8 +1,8 @@
 # メンバーシップ集計レポート: Elira Pendora 【NIJISANJI EN】
 
-- 対象期間: 2026-09-14 05:38 〜 2026-10-14 05:38（チャットを集計できた配信・プレミア 21 本）
-- データ取得日時: 2026-10-14 05:38
-- チャットを集計できなかった枠: 4 本（下の「集計できなかった配信」を参照）
+- 対象期間: 2026-09-14 10:15 〜 2026-10-14 10:15（チャットを集計できた配信・プレミア 21 本）
+- データ取得日時: 2026-10-14 10:15
+- チャットを集計できなかった枠: 3 本（下の「集計できなかった配信」を参照）
 
 ## 概要
 
@@ -139,7 +139,6 @@
 
 | 日時 | タイトル | 理由 | 視聴できるレベル | 高評価数 |
 |---|---|---|---|---:|
-| 2026-09-14 08:02 | [MY HERO ACADEMIA SEASON 3 WATCHALONG im ](https://www.youtube.com/watch?v=ypS2ezyB5_g) | メンバー限定配信 | メンバー全員 | 34 |
 | 2026-09-28 09:02 | [GNOMEO & JULIET watchalong!!! ive never ](https://www.youtube.com/watch?v=XGVkSBXrqlI) | メンバー限定配信 | メンバー全員 | 46 |
 | 2026-10-05 09:01 | [CORALINE watchalong!!! & Looney Tunes: B](https://www.youtube.com/watch?v=FroCwIQaeXY) | メンバー限定配信 | メンバー全員 | 46 |
 | 2026-10-12 09:00 | [WHO FRAMED ROGER RABBIT watchalong!!!! a](https://www.youtube.com/watch?v=_KX7dkztQU8) | メンバー限定配信 | メンバー全員 | 43 |

@@ -3,20 +3,20 @@
  "channel_id": "UCu-J8uIXuLZh16gG-cT1naw",
  "handle": "@FinanaRyugu",
  "subscribers": 475000,
- "fetched_at": "2026-10-14 05:38",
- "generated_at": "2026-10-14 05:39",
+ "fetched_at": "2026-10-14 10:15",
+ "generated_at": "2026-10-14 10:15",
  "period": {
-  "from": "2026-09-14 05:38",
-  "to": "2026-10-14 05:38",
+  "from": "2026-09-14 10:15",
+  "to": "2026-10-14 10:15",
   "days": 30
  },
- "streams_analyzed": 21,
+ "streams_analyzed": 22,
  "streams_missed": 4,
- "unique_chatters": 607,
- "members_confirmed": 153,
+ "unique_chatters": 613,
+ "members_confirmed": 155,
  "member_classes": {
-  "unknown": 72,
-  "known": 17,
+  "unknown": 73,
+  "known": 18,
   "gift": 64
  },
  "badges": [
@@ -28,7 +28,7 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 1
+   "members": 2
   },
   {
    "months": 2,
@@ -38,7 +38,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 9
+   "members": 10
   },
   {
    "months": 12,
@@ -52,7 +52,7 @@
   }
  ],
  "events": {
-  "new_members": 1,
+  "new_members": 2,
   "rejoins": 1,
   "milestones": 13,
   "gift_purchases": 40,
@@ -65,21 +65,21 @@
    "tier": "Ryuguard",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 17,
+   "confirmed_members": 18,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 72.0,
-   "estimated_members": 89.0,
-   "monthly_net_confirmed": 7465,
-   "monthly_net_estimated": 39079
+   "allocated_unknown": 73.0,
+   "estimated_members": 91.0,
+   "monthly_net_confirmed": 7904,
+   "monthly_net_estimated": 39957
   }
  ],
  "revenue": {
-  "monthly_low": 39079,
-  "monthly_est": 39079,
+  "monthly_low": 39957,
+  "monthly_est": 39957,
   "gift_once": 28102,
-  "total_low": 67181,
-  "total_est": 67181,
-  "paying_members": 89,
+  "total_low": 68059,
+  "total_est": 68059,
+  "paying_members": 91,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -297,6 +297,16 @@
    "member_chatters": 29,
    "new_members": 0,
    "gifted_total": 3
+  },
+  {
+   "video_id": "eTPiBvwBWEY",
+   "start": "2026-10-14 05:03",
+   "title": "GETTING A HEAD START ! 📖 (にじさんじ勉強クラブ NIJI Study Club ASMR)",
+   "kind": "配信",
+   "chatters": 48,
+   "member_chatters": 20,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -464,16 +474,16 @@
     "from": "2026-10-01",
     "to": "2026-10-14"
    },
-   "streams_analyzed": 9,
+   "streams_analyzed": 10,
    "streams_missed": 2,
-   "unique_chatters": 325,
-   "members_confirmed": 97,
+   "unique_chatters": 333,
+   "members_confirmed": 100,
    "member_classes": {
-    "known": 12,
-    "unknown": 53,
+    "known": 13,
+    "unknown": 55,
     "gift": 32
    },
-   "long_term_members": 55,
+   "long_term_members": 56,
    "badges": [
     {
      "months": 0,
@@ -481,7 +491,7 @@
     },
     {
      "months": 1,
-     "members": 1
+     "members": 2
     },
     {
      "months": 2,
@@ -489,7 +499,7 @@
     },
     {
      "months": 6,
-     "members": 5
+     "members": 6
     },
     {
      "months": 12,
@@ -497,11 +507,11 @@
     },
     {
      "months": 24,
-     "members": 42
+     "members": 43
     }
    ],
    "events": {
-    "new_members": 1,
+    "new_members": 2,
     "rejoins": 0,
     "milestones": 3,
     "gifted_total": 32
@@ -510,16 +520,16 @@
     {
      "tier": "Ryuguard",
      "price": 690,
-     "confirmed_members": 12,
-     "estimated_members": 65.0
+     "confirmed_members": 13,
+     "estimated_members": 68.0
     }
    ],
    "revenue": {
-    "monthly_low": 28541,
-    "monthly_est": 28541,
+    "monthly_low": 29858,
+    "monthly_est": 29858,
     "gift_once": 14051
    },
-   "avg_member_chatters": 30.8,
+   "avg_member_chatters": 29.7,
    "partial": true,
    "finalized": false
   }

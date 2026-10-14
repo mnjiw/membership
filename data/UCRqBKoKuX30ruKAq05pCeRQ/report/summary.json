@@ -3,26 +3,27 @@
  "channel_id": "UCRqBKoKuX30ruKAq05pCeRQ",
  "handle": "@KitakojiHisui",
  "subscribers": 332000,
- "fetched_at": "2026-10-14 05:27",
- "generated_at": "2026-10-14 05:27",
+ "fetched_at": "2026-10-14 10:13",
+ "generated_at": "2026-10-14 10:13",
  "period": {
-  "from": "2026-09-14 05:27",
-  "to": "2026-10-14 05:27",
+  "from": "2026-09-14 10:13",
+  "to": "2026-10-14 10:13",
   "days": 30
  },
- "streams_analyzed": 10,
- "streams_missed": 2,
- "unique_chatters": 467,
- "members_confirmed": 122,
+ "streams_analyzed": 11,
+ "streams_missed": 1,
+ "unique_chatters": 504,
+ "members_confirmed": 148,
  "member_classes": {
-  "unknown": 114,
-  "known": 8
+  "unknown": 130,
+  "known": 8,
+  "gift": 10
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 4
+   "members": 15
   },
   {
    "months": 1,
@@ -37,16 +38,16 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 91
+   "members": 106
   }
  ],
  "events": {
   "new_members": 3,
   "rejoins": 0,
   "milestones": 5,
-  "gift_purchases": 0,
-  "gifted_total": 0,
-  "gift_redemptions": 0
+  "gift_purchases": 6,
+  "gifted_total": 10,
+  "gift_redemptions": 10
  },
  "tiers_configured": true,
  "tiers": [
@@ -56,10 +57,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 6,
    "share_of_confirmed_pct": 75.0,
-   "allocated_unknown": 85.5,
-   "estimated_members": 91.5,
+   "allocated_unknown": 97.5,
+   "estimated_members": 103.5,
    "monthly_net_confirmed": 1871,
-   "monthly_net_estimated": 28531
+   "monthly_net_estimated": 32273
   },
   {
    "tier": "ひみつの部屋のクローゼット🦈",
@@ -67,10 +68,10 @@
    "net_per_member": 2220.9,
    "confirmed_members": 1,
    "share_of_confirmed_pct": 12.5,
-   "allocated_unknown": 14.2,
-   "estimated_members": 15.2,
+   "allocated_unknown": 16.2,
+   "estimated_members": 17.2,
    "monthly_net_confirmed": 2221,
-   "monthly_net_estimated": 33869
+   "monthly_net_estimated": 38311
   },
   {
    "tier": "わたしの部屋❇",
@@ -78,19 +79,19 @@
    "net_per_member": 8909.1,
    "confirmed_members": 1,
    "share_of_confirmed_pct": 12.5,
-   "allocated_unknown": 14.2,
-   "estimated_members": 15.2,
+   "allocated_unknown": 16.2,
+   "estimated_members": 17.2,
    "monthly_net_confirmed": 8909,
-   "monthly_net_estimated": 135864
+   "monthly_net_estimated": 153682
   }
  ],
  "revenue": {
-  "monthly_low": 48548,
-  "monthly_est": 198264,
-  "gift_once": 0,
-  "total_low": 48548,
-  "total_est": 198264,
-  "paying_members": 122,
+  "monthly_low": 53537,
+  "monthly_est": 224266,
+  "gift_once": 3118,
+  "total_low": 56655,
+  "total_est": 227384,
+  "paying_members": 138,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -198,6 +199,16 @@
    "member_chatters": 19,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "E2Y6hhu99yM",
+   "start": "2026-10-13 21:09",
+   "title": "【#にじクラおにごっこ】にじ鯖から逃げる【北小路ヒスイ/にじさんじ】",
+   "kind": "配信",
+   "chatters": 91,
+   "member_chatters": 72,
+   "new_members": 0,
+   "gifted_total": 10
   }
  ],
  "missed_streams": [
@@ -212,18 +223,6 @@
    "members_level": "",
    "like_count": 71,
    "view_count": null
-  },
-  {
-   "video_id": "E2Y6hhu99yM",
-   "start": "2026-10-13 00:00",
-   "title": "【#にじクラおにごっこ】にじ鯖から逃げる【北小路ヒスイ/にじさんじ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 363,
-   "view_count": 9721
   }
  ],
  "members_only_content": [
@@ -314,19 +313,20 @@
     "from": "2026-10-01",
     "to": "2026-10-14"
    },
-   "streams_analyzed": 1,
-   "streams_missed": 2,
-   "unique_chatters": 54,
-   "members_confirmed": 19,
+   "streams_analyzed": 2,
+   "streams_missed": 1,
+   "unique_chatters": 125,
+   "members_confirmed": 77,
    "member_classes": {
-    "unknown": 18,
-    "known": 1
+    "unknown": 65,
+    "known": 2,
+    "gift": 10
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 1
+     "members": 12
     },
     {
      "months": 1,
@@ -334,31 +334,31 @@
     },
     {
      "months": 2,
-     "members": 3
+     "members": 5
     },
     {
      "months": 6,
-     "members": 14
+     "members": 59
     }
    ],
    "events": {
     "new_members": 0,
     "rejoins": 0,
     "milestones": 0,
-    "gifted_total": 0
+    "gifted_total": 10
    },
    "tiers": [
     {
      "tier": "ひみつの部屋🦈",
      "price": 490,
      "confirmed_members": 1,
-     "estimated_members": 19.0
+     "estimated_members": 33.5
     },
     {
      "tier": "ひみつの部屋のクローゼット🦈",
      "price": 3490,
-     "confirmed_members": 0,
-     "estimated_members": 0.0
+     "confirmed_members": 1,
+     "estimated_members": 33.5
     },
     {
      "tier": "わたしの部屋❇",
@@ -368,11 +368,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 5925,
-    "monthly_est": 5925,
-    "gift_once": 0
+    "monthly_low": 22801,
+    "monthly_est": 84846,
+    "gift_once": 3118
    },
-   "avg_member_chatters": 19,
+   "avg_member_chatters": 45.5,
    "partial": true,
    "finalized": false
   }
