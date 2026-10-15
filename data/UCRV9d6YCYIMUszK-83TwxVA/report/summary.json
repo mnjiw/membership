@@ -3,16 +3,16 @@
  "channel_id": "UCRV9d6YCYIMUszK-83TwxVA",
  "handle": "@TodorokiKyoko",
  "subscribers": 148000,
- "fetched_at": "2026-10-15 09:31",
- "generated_at": "2026-10-15 09:31",
+ "fetched_at": "2026-10-16 05:19",
+ "generated_at": "2026-10-16 05:19",
  "period": {
-  "from": "2026-09-15 09:31",
-  "to": "2026-10-15 09:31",
+  "from": "2026-09-16 05:19",
+  "to": "2026-10-16 05:19",
   "days": 30
  },
- "streams_analyzed": 13,
- "streams_missed": 0,
- "unique_chatters": 359,
+ "streams_analyzed": 12,
+ "streams_missed": 1,
+ "unique_chatters": 350,
  "members_confirmed": 32,
  "member_classes": {
   "unknown": 29,
@@ -77,16 +77,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "gU58n6lDilQ",
-   "start": "2026-09-15 22:00",
-   "title": "【 🎮パラノマサイト FILE23 本所七不思議 / #2 】呪え！蘇りの秘術を巡るホラーミステリー※ネタバレあり 【にじさんじ/轟京子】",
-   "kind": "配信",
-   "chatters": 47,
-   "member_chatters": 8,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "Av7tWZ9iAB4",
    "start": "2026-09-17 22:00",
@@ -208,7 +198,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "NKddDSdOk5U",
+   "start": "2026-10-15 00:00",
+   "title": "【 🎮パラノマサイト FILE38 伊勢人魚物語 / #6 】みんな！なんとかするぞ！※ネタバレあり 【にじさんじ/轟京子】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 239,
+   "view_count": 5376
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -272,10 +275,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-15"
+    "to": "2026-10-16"
    },
    "streams_analyzed": 6,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 143,
    "members_confirmed": 27,
    "member_classes": {

@@ -3,19 +3,19 @@
  "channel_id": "UC53UDnhAAYwvNO7j_2Ju1cQ",
  "handle": "@Dola",
  "subscribers": 362000,
- "fetched_at": "2026-10-15 09:31",
- "generated_at": "2026-10-15 09:31",
+ "fetched_at": "2026-10-16 05:19",
+ "generated_at": "2026-10-16 05:19",
  "period": {
-  "from": "2026-09-15 09:31",
-  "to": "2026-10-15 09:31",
+  "from": "2026-09-16 05:19",
+  "to": "2026-10-16 05:19",
   "days": 30
  },
- "streams_analyzed": 2,
+ "streams_analyzed": 3,
  "streams_missed": 1,
- "unique_chatters": 541,
- "members_confirmed": 189,
+ "unique_chatters": 608,
+ "members_confirmed": 198,
  "member_classes": {
-  "unknown": 187,
+  "unknown": 196,
   "known": 2
  },
  "badges": [
@@ -37,7 +37,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 8
+   "members": 9
   },
   {
    "months": 12,
@@ -47,22 +47,22 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 14
+   "members": 15
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 10
+   "members": 11
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 16
+   "members": 19
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 110
+   "members": 113
   }
  ],
  "events": {
@@ -81,10 +81,10 @@
    "net_per_member": 184.5,
    "confirmed_members": 2,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 187.0,
-   "estimated_members": 189.0,
+   "allocated_unknown": 196.0,
+   "estimated_members": 198.0,
    "monthly_net_confirmed": 369,
-   "monthly_net_estimated": 34879
+   "monthly_net_estimated": 36540
   },
   {
    "tier": "どらとも🔥中火",
@@ -110,12 +110,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 34879,
-  "monthly_est": 34879,
+  "monthly_low": 36540,
+  "monthly_est": 36540,
   "gift_once": 0,
-  "total_low": 34879,
-  "total_est": 34879,
-  "paying_members": 189,
+  "total_low": 36540,
+  "total_est": 36540,
+  "paying_members": 198,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -141,6 +141,16 @@
    "kind": "配信",
    "chatters": 154,
    "member_chatters": 45,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "JdM3lxDAayw",
+   "start": "2026-10-15 21:00",
+   "title": "【アークナイツ：エンドフィールド】ver.1.6「丹青渡」　スーをお迎えしたい工場長 #16【にじさんじ/ドーラ】",
+   "kind": "配信",
+   "chatters": 158,
+   "member_chatters": 55,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -265,17 +275,17 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-15"
+    "to": "2026-10-16"
    },
-   "streams_analyzed": 2,
+   "streams_analyzed": 3,
    "streams_missed": 0,
-   "unique_chatters": 541,
-   "members_confirmed": 189,
+   "unique_chatters": 608,
+   "members_confirmed": 198,
    "member_classes": {
-    "unknown": 187,
+    "unknown": 196,
     "known": 2
    },
-   "long_term_members": 174,
+   "long_term_members": 182,
    "badges": [
     {
      "months": 0,
@@ -291,7 +301,7 @@
     },
     {
      "months": 6,
-     "members": 8
+     "members": 9
     },
     {
      "months": 12,
@@ -299,19 +309,19 @@
     },
     {
      "months": 24,
-     "members": 14
+     "members": 15
     },
     {
      "months": 36,
-     "members": 10
+     "members": 11
     },
     {
      "months": 48,
-     "members": 16
+     "members": 19
     },
     {
      "months": 60,
-     "members": 110
+     "members": 113
     }
    ],
    "events": {
@@ -325,7 +335,7 @@
      "tier": "どらとも🔥弱火",
      "price": 290,
      "confirmed_members": 2,
-     "estimated_members": 189.0
+     "estimated_members": 198.0
     },
     {
      "tier": "どらとも🔥中火",
@@ -341,11 +351,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 34879,
-    "monthly_est": 34879,
+    "monthly_low": 36540,
+    "monthly_est": 36540,
     "gift_once": 0
    },
-   "avg_member_chatters": 113,
+   "avg_member_chatters": 93.7,
    "partial": true,
    "finalized": false
   }

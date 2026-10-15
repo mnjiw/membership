@@ -3,27 +3,27 @@
  "channel_id": "UCnbJ8LTbHrsRgqkxwJXCU8w",
  "handle": "@TachitsuteToto",
  "subscribers": 181000,
- "fetched_at": "2026-10-15 09:33",
- "generated_at": "2026-10-15 09:33",
+ "fetched_at": "2026-10-16 05:29",
+ "generated_at": "2026-10-16 05:30",
  "period": {
-  "from": "2026-09-15 09:33",
-  "to": "2026-10-15 09:33",
+  "from": "2026-09-16 05:29",
+  "to": "2026-10-16 05:29",
   "days": 30
  },
  "streams_analyzed": 16,
  "streams_missed": 2,
- "unique_chatters": 2437,
- "members_confirmed": 385,
+ "unique_chatters": 2430,
+ "members_confirmed": 384,
  "member_classes": {
   "unknown": 301,
-  "known": 14,
+  "known": 13,
   "gift": 70
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 93
+   "members": 92
   },
   {
    "months": 1,
@@ -52,7 +52,7 @@
   }
  ],
  "events": {
-  "new_members": 10,
+  "new_members": 9,
   "rejoins": 4,
   "milestones": 0,
   "gift_purchases": 3,
@@ -65,21 +65,21 @@
    "tier": "お助け部の倉庫",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 14,
+   "confirmed_members": 13,
    "share_of_confirmed_pct": 100.0,
    "allocated_unknown": 301.0,
-   "estimated_members": 315.0,
-   "monthly_net_confirmed": 4365,
-   "monthly_net_estimated": 98223
+   "estimated_members": 314.0,
+   "monthly_net_confirmed": 4054,
+   "monthly_net_estimated": 97911
   }
  ],
  "revenue": {
-  "monthly_low": 98223,
-  "monthly_est": 98223,
+  "monthly_low": 97911,
+  "monthly_est": 97911,
   "gift_once": 21827,
-  "total_low": 120050,
-  "total_est": 120050,
-  "paying_members": 315,
+  "total_low": 119738,
+  "total_est": 119738,
+  "paying_members": 314,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "SkESIkKuLS4",
-   "start": "2026-09-15 19:03",
-   "title": "#10【テイルズ オブ ベルセリア】君が君らしく生きるためのRPG～平穏をください～【立伝都々/にじさんじ】",
-   "kind": "配信",
-   "chatters": 355,
-   "member_chatters": 74,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "6C377KsilDM",
    "start": "2026-09-17 19:04",
@@ -247,6 +237,16 @@
    "member_chatters": 82,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "r-LG0meviuw",
+   "start": "2026-10-15 19:05",
+   "title": "#7【空の軌跡 the 2nd 】ふたりはいつかまた逢える🧭迷子の子の親に話は聞きたいし、陛下を困らせるな！【立伝都々/にじさんじ】",
+   "kind": "配信",
+   "chatters": 524,
+   "member_chatters": 84,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -358,11 +358,11 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-15"
+    "to": "2026-10-16"
    },
-   "streams_analyzed": 7,
+   "streams_analyzed": 8,
    "streams_missed": 0,
-   "unique_chatters": 1514,
+   "unique_chatters": 1598,
    "members_confirmed": 318,
    "member_classes": {
     "unknown": 239,
@@ -415,7 +415,7 @@
     "monthly_est": 77331,
     "gift_once": 21827
    },
-   "avg_member_chatters": 113,
+   "avg_member_chatters": 109.4,
    "partial": true,
    "finalized": false
   }

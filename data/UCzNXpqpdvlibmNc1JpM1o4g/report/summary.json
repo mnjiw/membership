@@ -3,58 +3,58 @@
  "channel_id": "UCzNXpqpdvlibmNc1JpM1o4g",
  "handle": "@Lunlun_nijisanji",
  "subscribers": 925000,
- "fetched_at": "2026-10-15 09:33",
- "generated_at": "2026-10-15 09:33",
+ "fetched_at": "2026-10-16 05:30",
+ "generated_at": "2026-10-16 05:30",
  "period": {
-  "from": "2026-09-15 09:33",
-  "to": "2026-10-15 09:33",
+  "from": "2026-09-16 05:30",
+  "to": "2026-10-16 05:30",
   "days": 30
  },
  "streams_analyzed": 16,
  "streams_missed": 0,
- "unique_chatters": 7660,
+ "unique_chatters": 7611,
  "members_confirmed": 2030,
  "member_classes": {
-  "unknown": 1558,
   "known": 433,
+  "unknown": 1558,
   "gift": 39
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 112
+   "members": 110
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 77
+   "members": 79
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 161
+   "members": 162
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 260
+   "members": 259
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 1018
+   "members": 1010
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 402
+   "members": 410
   }
  ],
  "events": {
   "new_members": 19,
   "rejoins": 8,
-  "milestones": 388,
+  "milestones": 387,
   "gift_purchases": 7,
   "gifted_total": 39,
   "gift_redemptions": 39
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "3-S-a38r5qQ",
-   "start": "2026-09-15 21:35",
-   "title": "【 アークナイツ：エンドフィールド 】初見プレイします！！！【ルンルン/にじさんじ】",
-   "kind": "配信",
-   "chatters": 418,
-   "member_chatters": 246,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "sHSu1i7iRmI",
    "start": "2026-09-21 20:02",
@@ -247,6 +237,16 @@
    "member_chatters": 560,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "cnHa4Cl3KJY",
+   "start": "2026-10-15 19:02",
+   "title": "ときめきエモーション / 初星学園 【司賀りこ ルンルン cover】",
+   "kind": "プレミア",
+   "chatters": 177,
+   "member_chatters": 117,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -318,30 +318,30 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-15"
+    "to": "2026-10-16"
    },
-   "streams_analyzed": 8,
+   "streams_analyzed": 9,
    "streams_missed": 0,
-   "unique_chatters": 6112,
-   "members_confirmed": 1845,
+   "unique_chatters": 6138,
+   "members_confirmed": 1854,
    "member_classes": {
-    "unknown": 1380,
+    "unknown": 1389,
     "known": 426,
     "gift": 39
    },
-   "long_term_members": 1317,
+   "long_term_members": 1321,
    "badges": [
     {
      "months": 0,
-     "members": 85
+     "members": 86
     },
     {
      "months": 1,
-     "members": 74
+     "members": 76
     },
     {
      "months": 2,
-     "members": 145
+     "members": 147
     },
     {
      "months": 6,
@@ -349,11 +349,11 @@
     },
     {
      "months": 12,
-     "members": 915
+     "members": 911
     },
     {
      "months": 24,
-     "members": 402
+     "members": 410
     }
    ],
    "events": {
@@ -367,15 +367,15 @@
      "tier": "おちょまだち",
      "price": 490,
      "confirmed_members": 426,
-     "estimated_members": 1806.0
+     "estimated_members": 1815.0
     }
    ],
    "revenue": {
-    "monthly_low": 563144,
-    "monthly_est": 563144,
+    "monthly_low": 565950,
+    "monthly_est": 565950,
     "gift_once": 12161
    },
-   "avg_member_chatters": 555.8,
+   "avg_member_chatters": 507,
    "partial": true,
    "finalized": false
   }

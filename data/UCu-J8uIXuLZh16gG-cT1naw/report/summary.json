@@ -3,27 +3,27 @@
  "channel_id": "UCu-J8uIXuLZh16gG-cT1naw",
  "handle": "@FinanaRyugu",
  "subscribers": 475000,
- "fetched_at": "2026-10-15 09:34",
- "generated_at": "2026-10-15 09:34",
+ "fetched_at": "2026-10-16 05:32",
+ "generated_at": "2026-10-16 05:33",
  "period": {
-  "from": "2026-09-15 09:34",
-  "to": "2026-10-15 09:34",
+  "from": "2026-09-16 05:32",
+  "to": "2026-10-16 05:32",
   "days": 30
  },
- "streams_analyzed": 21,
+ "streams_analyzed": 22,
  "streams_missed": 4,
- "unique_chatters": 565,
- "members_confirmed": 150,
+ "unique_chatters": 569,
+ "members_confirmed": 158,
  "member_classes": {
   "unknown": 70,
   "known": 18,
-  "gift": 62
+  "gift": 70
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 65
+   "members": 73
   },
   {
    "months": 1,
@@ -55,9 +55,9 @@
   "new_members": 2,
   "rejoins": 1,
   "milestones": 12,
-  "gift_purchases": 38,
-  "gifted_total": 62,
-  "gift_redemptions": 62
+  "gift_purchases": 42,
+  "gifted_total": 70,
+  "gift_redemptions": 70
  },
  "tiers_configured": true,
  "tiers": [
@@ -76,9 +76,9 @@
  "revenue": {
   "monthly_low": 38640,
   "monthly_est": 38640,
-  "gift_once": 27224,
-  "total_low": 65864,
-  "total_est": 65864,
+  "gift_once": 30736,
+  "total_low": 69376,
+  "total_est": 69376,
   "paying_members": 88,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -297,6 +297,16 @@
    "member_chatters": 20,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "u2edAAk-xhI",
+   "start": "2026-10-15 05:00",
+   "title": "【Staffer Case】PET SHOP CASE [2]",
+   "kind": "配信",
+   "chatters": 52,
+   "member_chatters": 32,
+   "new_members": 0,
+   "gifted_total": 8
   }
  ],
  "missed_streams": [
@@ -462,22 +472,22 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-15"
+    "to": "2026-10-16"
    },
-   "streams_analyzed": 10,
+   "streams_analyzed": 11,
    "streams_missed": 2,
-   "unique_chatters": 333,
-   "members_confirmed": 100,
+   "unique_chatters": 340,
+   "members_confirmed": 109,
    "member_classes": {
     "known": 13,
-    "unknown": 55,
-    "gift": 32
+    "unknown": 56,
+    "gift": 40
    },
-   "long_term_members": 56,
+   "long_term_members": 57,
    "badges": [
     {
      "months": 0,
-     "members": 33
+     "members": 41
     },
     {
      "months": 1,
@@ -497,29 +507,29 @@
     },
     {
      "months": 24,
-     "members": 43
+     "members": 44
     }
    ],
    "events": {
     "new_members": 2,
     "rejoins": 0,
     "milestones": 3,
-    "gifted_total": 32
+    "gifted_total": 40
    },
    "tiers": [
     {
      "tier": "Ryuguard",
      "price": 690,
      "confirmed_members": 13,
-     "estimated_members": 68.0
+     "estimated_members": 69.0
     }
    ],
    "revenue": {
-    "monthly_low": 29858,
-    "monthly_est": 29858,
-    "gift_once": 14051
+    "monthly_low": 30297,
+    "monthly_est": 30297,
+    "gift_once": 17564
    },
-   "avg_member_chatters": 29.7,
+   "avg_member_chatters": 29.9,
    "partial": true,
    "finalized": false
   }

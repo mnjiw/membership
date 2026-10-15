@@ -3,27 +3,27 @@
  "channel_id": "UCGLS7BOgNa6c03r7VYacblw",
  "handle": "@MinamoMadoka",
  "subscribers": 145000,
- "fetched_at": "2026-10-15 09:34",
- "generated_at": "2026-10-15 09:34",
+ "fetched_at": "2026-10-16 05:31",
+ "generated_at": "2026-10-16 05:32",
  "period": {
-  "from": "2026-09-15 09:34",
-  "to": "2026-10-15 09:34",
+  "from": "2026-09-16 05:31",
+  "to": "2026-10-16 05:31",
   "days": 30
  },
  "streams_analyzed": 20,
  "streams_missed": 2,
- "unique_chatters": 2931,
- "members_confirmed": 353,
+ "unique_chatters": 2899,
+ "members_confirmed": 333,
  "member_classes": {
   "unknown": 303,
-  "gift": 39,
+  "gift": 19,
   "known": 11
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 79
+   "members": 57
   },
   {
    "months": 2,
@@ -33,16 +33,16 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 209
+   "members": 211
   }
  ],
  "events": {
   "new_members": 10,
   "rejoins": 1,
   "milestones": 0,
-  "gift_purchases": 3,
-  "gifted_total": 31,
-  "gift_redemptions": 39
+  "gift_purchases": 2,
+  "gifted_total": 11,
+  "gift_redemptions": 19
  },
  "tiers_configured": true,
  "tiers": [
@@ -61,9 +61,9 @@
  "revenue": {
   "monthly_low": 97911,
   "monthly_est": 97911,
-  "gift_once": 9666,
-  "total_low": 107577,
-  "total_est": 107577,
+  "gift_once": 3430,
+  "total_low": 101341,
+  "total_est": 101341,
   "paying_members": 314,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "T43DDuwdJs8",
-   "start": "2026-09-15 18:00",
-   "title": "【 マインクラフト 】森の洋館に行ってみたい！冒険しよー！【 にじさんじ / 水面まどか 】",
-   "kind": "配信",
-   "chatters": 235,
-   "member_chatters": 95,
-   "new_members": 0,
-   "gifted_total": 20
-  },
   {
    "video_id": "Zj0I7_I2hds",
    "start": "2026-09-18 20:00",
@@ -272,6 +262,16 @@
    "member_chatters": 97,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "4JKu0DO9uKI",
+   "start": "2026-10-15 22:00",
+   "title": "【 タンポポは耐える。 】水面まどかも日々耐えてるよ。【 水面まどか / にじさんじ 】",
+   "kind": "配信",
+   "chatters": 162,
+   "member_chatters": 57,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -381,14 +381,14 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-15"
+    "to": "2026-10-16"
    },
-   "streams_analyzed": 12,
+   "streams_analyzed": 13,
    "streams_missed": 0,
-   "unique_chatters": 2006,
-   "members_confirmed": 295,
+   "unique_chatters": 2065,
+   "members_confirmed": 298,
    "member_classes": {
-    "unknown": 266,
+    "unknown": 269,
     "known": 11,
     "gift": 18
    },
@@ -396,15 +396,15 @@
    "badges": [
     {
      "months": 0,
-     "members": 49
+     "members": 48
     },
     {
      "months": 2,
-     "members": 57
+     "members": 59
     },
     {
      "months": 6,
-     "members": 189
+     "members": 191
     }
    ],
    "events": {
@@ -418,15 +418,15 @@
      "tier": "水飲み隊",
      "price": 490,
      "confirmed_members": 11,
-     "estimated_members": 277.0
+     "estimated_members": 280.0
     }
    ],
    "revenue": {
-    "monthly_low": 86374,
-    "monthly_est": 86374,
+    "monthly_low": 87309,
+    "monthly_est": 87309,
     "gift_once": 3118
    },
-   "avg_member_chatters": 84.5,
+   "avg_member_chatters": 82.4,
    "partial": true,
    "finalized": false
   }

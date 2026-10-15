@@ -3,40 +3,40 @@
  "channel_id": "UC9HYkiQZ1_b3J_F8gc12eaA",
  "handle": "@TsukaharaDaichi_Y4T4",
  "subscribers": 117000,
- "fetched_at": "2026-10-15 09:34",
- "generated_at": "2026-10-15 09:34",
+ "fetched_at": "2026-10-16 05:32",
+ "generated_at": "2026-10-16 05:32",
  "period": {
-  "from": "2026-09-15 09:34",
-  "to": "2026-10-15 09:34",
+  "from": "2026-09-16 05:32",
+  "to": "2026-10-16 05:32",
   "days": 30
  },
- "streams_analyzed": 30,
+ "streams_analyzed": 31,
  "streams_missed": 1,
- "unique_chatters": 1722,
- "members_confirmed": 254,
+ "unique_chatters": 1741,
+ "members_confirmed": 256,
  "member_classes": {
-  "unknown": 240,
-  "known": 14
+  "unknown": 241,
+  "known": 15
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 35
+   "members": 36
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 23
+   "members": 22
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 196
+   "members": 198
   }
  ],
  "events": {
-  "new_members": 14,
+  "new_members": 15,
   "rejoins": 1,
   "milestones": 0,
   "gift_purchases": 0,
@@ -49,21 +49,21 @@
    "tier": "つかズ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 14,
+   "confirmed_members": 15,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 240.0,
-   "estimated_members": 254.0,
-   "monthly_net_confirmed": 4365,
-   "monthly_net_estimated": 79202
+   "allocated_unknown": 241.0,
+   "estimated_members": 256.0,
+   "monthly_net_confirmed": 4677,
+   "monthly_net_estimated": 79825
   }
  ],
  "revenue": {
-  "monthly_low": 79202,
-  "monthly_est": 79202,
+  "monthly_low": 79825,
+  "monthly_est": 79825,
   "gift_once": 0,
-  "total_low": 79202,
-  "total_est": 79202,
-  "paying_members": 254,
+  "total_low": 79825,
+  "total_est": 79825,
+  "paying_members": 256,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -371,6 +371,16 @@
    "member_chatters": 72,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "4OjzAEJwv7g",
+   "start": "2026-10-15 17:24",
+   "title": "【OW】帰宅OWっしょ。目座せプラチナ。【塚原大地 / にじさんじ】",
+   "kind": "配信",
+   "chatters": 121,
+   "member_chatters": 64,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -383,7 +393,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 109,
+   "like_count": 110,
    "view_count": null
   }
  ],
@@ -395,7 +405,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 109,
+   "like_count": 110,
    "view_count": null
   }
  ],
@@ -457,33 +467,33 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-15"
+    "to": "2026-10-16"
    },
-   "streams_analyzed": 14,
+   "streams_analyzed": 15,
    "streams_missed": 0,
-   "unique_chatters": 1134,
-   "members_confirmed": 201,
+   "unique_chatters": 1161,
+   "members_confirmed": 203,
    "member_classes": {
-    "unknown": 193,
-    "known": 8
+    "unknown": 194,
+    "known": 9
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 22
+     "members": 23
     },
     {
      "months": 1,
-     "members": 21
+     "members": 20
     },
     {
      "months": 2,
-     "members": 158
+     "members": 160
     }
    ],
    "events": {
-    "new_members": 5,
+    "new_members": 6,
     "rejoins": 1,
     "milestones": 0,
     "gifted_total": 0
@@ -492,16 +502,16 @@
     {
      "tier": "つかズ",
      "price": 490,
-     "confirmed_members": 8,
-     "estimated_members": 201.0
+     "confirmed_members": 9,
+     "estimated_members": 203.0
     }
    ],
    "revenue": {
-    "monthly_low": 62675,
-    "monthly_est": 62675,
+    "monthly_low": 63299,
+    "monthly_est": 63299,
     "gift_once": 0
    },
-   "avg_member_chatters": 66.9,
+   "avg_member_chatters": 66.7,
    "partial": true,
    "finalized": false
   }

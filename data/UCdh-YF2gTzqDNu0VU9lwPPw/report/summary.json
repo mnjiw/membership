@@ -3,56 +3,56 @@
  "channel_id": "UCdh-YF2gTzqDNu0VU9lwPPw",
  "handle": "@ClaudeClawmark",
  "subscribers": 160000,
- "fetched_at": "2026-10-15 09:34",
- "generated_at": "2026-10-15 09:34",
+ "fetched_at": "2026-10-16 05:34",
+ "generated_at": "2026-10-16 05:34",
  "period": {
-  "from": "2026-09-15 09:34",
-  "to": "2026-10-15 09:34",
+  "from": "2026-09-16 05:34",
+  "to": "2026-10-16 05:34",
   "days": 30
  },
- "streams_analyzed": 21,
+ "streams_analyzed": 22,
  "streams_missed": 1,
- "unique_chatters": 1405,
- "members_confirmed": 524,
+ "unique_chatters": 1467,
+ "members_confirmed": 550,
  "member_classes": {
-  "unknown": 301,
-  "known": 168,
-  "gift": 55
+  "unknown": 289,
+  "known": 200,
+  "gift": 61
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 67
+   "members": 74
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 75
+   "members": 79
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 85
+   "members": 88
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 137
+   "members": 146
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 160
+   "members": 163
   }
  ],
  "events": {
-  "new_members": 9,
-  "rejoins": 8,
-  "milestones": 115,
-  "gift_purchases": 13,
-  "gifted_total": 55,
-  "gift_redemptions": 55
+  "new_members": 11,
+  "rejoins": 10,
+  "milestones": 156,
+  "gift_purchases": 15,
+  "gifted_total": 61,
+  "gift_redemptions": 61
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,21 +60,21 @@
    "tier": "Outclaws",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 168,
+   "confirmed_members": 200,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 301.0,
-   "estimated_members": 469.0,
-   "monthly_net_confirmed": 73767,
-   "monthly_net_estimated": 205934
+   "allocated_unknown": 289.0,
+   "estimated_members": 489.0,
+   "monthly_net_confirmed": 87818,
+   "monthly_net_estimated": 214715
   }
  ],
  "revenue": {
-  "monthly_low": 205934,
-  "monthly_est": 205934,
-  "gift_once": 24150,
-  "total_low": 230084,
-  "total_est": 230084,
-  "paying_members": 469,
+  "monthly_low": 214715,
+  "monthly_est": 214715,
+  "gift_once": 26785,
+  "total_low": 241500,
+  "total_est": 241500,
+  "paying_members": 489,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -292,6 +292,16 @@
    "member_chatters": 141,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "Nltz17DHcXc",
+   "start": "2026-10-15 19:58",
+   "title": "【雑談】THURSDAY* my dudes",
+   "kind": "配信",
+   "chatters": 275,
+   "member_chatters": 164,
+   "new_members": 2,
+   "gifted_total": 6
   }
  ],
  "missed_streams": [
@@ -387,60 +397,60 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-15"
+    "to": "2026-10-16"
    },
-   "streams_analyzed": 11,
+   "streams_analyzed": 12,
    "streams_missed": 0,
-   "unique_chatters": 948,
-   "members_confirmed": 411,
+   "unique_chatters": 1030,
+   "members_confirmed": 447,
    "member_classes": {
-    "unknown": 230,
-    "known": 143,
-    "gift": 38
+    "unknown": 225,
+    "known": 178,
+    "gift": 44
    },
-   "long_term_members": 237,
+   "long_term_members": 257,
    "badges": [
     {
      "months": 0,
-     "members": 47
+     "members": 54
     },
     {
      "months": 1,
-     "members": 61
+     "members": 67
     },
     {
      "months": 6,
-     "members": 66
+     "members": 69
     },
     {
      "months": 12,
-     "members": 110
+     "members": 125
     },
     {
      "months": 24,
-     "members": 127
+     "members": 132
     }
    ],
    "events": {
-    "new_members": 6,
-    "rejoins": 3,
-    "milestones": 53,
-    "gifted_total": 38
+    "new_members": 8,
+    "rejoins": 5,
+    "milestones": 94,
+    "gifted_total": 44
    },
    "tiers": [
     {
      "tier": "Outclaws",
      "price": 690,
-     "confirmed_members": 143,
-     "estimated_members": 373.0
+     "confirmed_members": 178,
+     "estimated_members": 403.0
     }
    ],
    "revenue": {
-    "monthly_low": 163781,
-    "monthly_est": 163781,
-    "gift_once": 16685
+    "monthly_low": 176954,
+    "monthly_est": 176954,
+    "gift_once": 19320
    },
-   "avg_member_chatters": 113.4,
+   "avg_member_chatters": 117.6,
    "partial": true,
    "finalized": false
   }

@@ -3,31 +3,31 @@
  "channel_id": "UCYKP16oMX9KKPbrNgo_Kgag",
  "handle": "@Elu",
  "subscribers": 736000,
- "fetched_at": "2026-10-15 09:30",
- "generated_at": "2026-10-15 09:30",
+ "fetched_at": "2026-10-16 05:17",
+ "generated_at": "2026-10-16 05:18",
  "period": {
-  "from": "2026-09-15 09:30",
-  "to": "2026-10-15 09:30",
+  "from": "2026-09-16 05:17",
+  "to": "2026-10-16 05:17",
   "days": 30
  },
- "streams_analyzed": 27,
+ "streams_analyzed": 28,
  "streams_missed": 1,
- "unique_chatters": 4975,
- "members_confirmed": 305,
+ "unique_chatters": 5146,
+ "members_confirmed": 311,
  "member_classes": {
-  "unknown": 273,
-  "known": 32
+  "unknown": 277,
+  "known": 34
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 15
+   "members": 16
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 9
+   "members": 10
   },
   {
    "months": 2,
@@ -42,7 +42,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 50
+   "members": 53
   },
   {
    "months": 24,
@@ -57,13 +57,13 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 102
+   "members": 103
   }
  ],
  "events": {
-  "new_members": 5,
+  "new_members": 6,
   "rejoins": 3,
-  "milestones": 20,
+  "milestones": 21,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -74,21 +74,21 @@
    "tier": "エルフの森",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 32,
+   "confirmed_members": 34,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 273.0,
-   "estimated_members": 305.0,
-   "monthly_net_confirmed": 9978,
-   "monthly_net_estimated": 95105
+   "allocated_unknown": 277.0,
+   "estimated_members": 311.0,
+   "monthly_net_confirmed": 10602,
+   "monthly_net_estimated": 96975
   }
  ],
  "revenue": {
-  "monthly_low": 95105,
-  "monthly_est": 95105,
+  "monthly_low": 96975,
+  "monthly_est": 96975,
   "gift_once": 0,
-  "total_low": 95105,
-  "total_est": 95105,
-  "paying_members": 305,
+  "total_low": 96975,
+  "total_est": 96975,
+  "paying_members": 311,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -366,6 +366,16 @@
    "member_chatters": 99,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "mPbYBkeVnhU",
+   "start": "2026-10-15 12:03",
+   "title": "【 Japanese Ramen Simulator 】フクオカの森出身Vtuber、本気のラーメン屋経営【にじさんじ/える】",
+   "kind": "配信",
+   "chatters": 512,
+   "member_chatters": 97,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -472,25 +482,25 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-15"
+    "to": "2026-10-16"
    },
-   "streams_analyzed": 13,
+   "streams_analyzed": 14,
    "streams_missed": 0,
-   "unique_chatters": 2609,
-   "members_confirmed": 247,
+   "unique_chatters": 2830,
+   "members_confirmed": 257,
    "member_classes": {
-    "known": 28,
-    "unknown": 219
+    "known": 30,
+    "unknown": 227
    },
-   "long_term_members": 203,
+   "long_term_members": 211,
    "badges": [
     {
      "months": 0,
-     "members": 12
+     "members": 13
     },
     {
      "months": 1,
-     "members": 5
+     "members": 6
     },
     {
      "months": 2,
@@ -502,7 +512,7 @@
     },
     {
      "months": 12,
-     "members": 37
+     "members": 41
     },
     {
      "months": 24,
@@ -510,33 +520,33 @@
     },
     {
      "months": 36,
-     "members": 48
+     "members": 49
     },
     {
      "months": 48,
-     "members": 78
+     "members": 81
     }
    ],
    "events": {
-    "new_members": 4,
+    "new_members": 5,
     "rejoins": 1,
-    "milestones": 12,
+    "milestones": 13,
     "gifted_total": 0
    },
    "tiers": [
     {
      "tier": "エルフの森",
      "price": 490,
-     "confirmed_members": 28,
-     "estimated_members": 247.0
+     "confirmed_members": 30,
+     "estimated_members": 257.0
     }
    ],
    "revenue": {
-    "monthly_low": 77019,
-    "monthly_est": 77019,
+    "monthly_low": 80137,
+    "monthly_est": 80137,
     "gift_once": 0
    },
-   "avg_member_chatters": 78.5,
+   "avg_member_chatters": 79.9,
    "partial": true,
    "finalized": false
   }

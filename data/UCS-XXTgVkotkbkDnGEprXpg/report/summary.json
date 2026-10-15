@@ -3,26 +3,26 @@
  "channel_id": "UCS-XXTgVkotkbkDnGEprXpg",
  "handle": "@MashiroMeme",
  "subscribers": 626000,
- "fetched_at": "2026-10-15 09:32",
- "generated_at": "2026-10-15 09:32",
+ "fetched_at": "2026-10-16 05:23",
+ "generated_at": "2026-10-16 05:23",
  "period": {
-  "from": "2026-09-15 09:32",
-  "to": "2026-10-15 09:32",
+  "from": "2026-09-16 05:23",
+  "to": "2026-10-16 05:23",
   "days": 30
  },
- "streams_analyzed": 10,
+ "streams_analyzed": 11,
  "streams_missed": 3,
- "unique_chatters": 1980,
- "members_confirmed": 360,
+ "unique_chatters": 2062,
+ "members_confirmed": 367,
  "member_classes": {
-  "unknown": 350,
+  "unknown": 357,
   "known": 10
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 36
+   "members": 37
   },
   {
    "months": 1,
@@ -37,12 +37,12 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 59
+   "members": 62
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 208
+   "members": 211
   }
  ],
  "events": {
@@ -61,10 +61,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 9,
    "share_of_confirmed_pct": 90.0,
-   "allocated_unknown": 315.0,
-   "estimated_members": 324.0,
+   "allocated_unknown": 321.3,
+   "estimated_members": 330.3,
    "monthly_net_confirmed": 2806,
-   "monthly_net_estimated": 101029
+   "monthly_net_estimated": 102994
   },
   {
    "tier": "××",
@@ -72,19 +72,19 @@
    "net_per_member": 757.3,
    "confirmed_members": 1,
    "share_of_confirmed_pct": 10.0,
-   "allocated_unknown": 35.0,
-   "estimated_members": 36.0,
+   "allocated_unknown": 35.7,
+   "estimated_members": 36.7,
    "monthly_net_confirmed": 757,
-   "monthly_net_estimated": 27262
+   "monthly_net_estimated": 27792
   }
  ],
  "revenue": {
-  "monthly_low": 112700,
-  "monthly_est": 128291,
+  "monthly_low": 114883,
+  "monthly_est": 130785,
   "gift_once": 0,
-  "total_low": 112700,
-  "total_est": 128291,
-  "paying_members": 360,
+  "total_low": 114883,
+  "total_est": 130785,
+  "paying_members": 367,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -190,6 +190,16 @@
    "kind": "配信",
    "chatters": 413,
    "member_chatters": 140,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "qFUWpJ9HvMI",
+   "start": "2026-10-16 00:34",
+   "title": "SCP - 胸糞悪いSCPをみる配信",
+   "kind": "配信",
+   "chatters": 289,
+   "member_chatters": 105,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -336,21 +346,21 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-15"
+    "to": "2026-10-16"
    },
-   "streams_analyzed": 10,
+   "streams_analyzed": 11,
    "streams_missed": 2,
-   "unique_chatters": 1980,
-   "members_confirmed": 360,
+   "unique_chatters": 2062,
+   "members_confirmed": 367,
    "member_classes": {
-    "unknown": 350,
+    "unknown": 357,
     "known": 10
    },
-   "long_term_members": 208,
+   "long_term_members": 211,
    "badges": [
     {
      "months": 0,
-     "members": 36
+     "members": 37
     },
     {
      "months": 1,
@@ -362,11 +372,11 @@
     },
     {
      "months": 6,
-     "members": 59
+     "members": 62
     },
     {
      "months": 12,
-     "members": 208
+     "members": 211
     }
    ],
    "events": {
@@ -380,21 +390,21 @@
      "tier": "×",
      "price": 490,
      "confirmed_members": 9,
-     "estimated_members": 324.0
+     "estimated_members": 330.3
     },
     {
      "tier": "××",
      "price": 1190,
      "confirmed_members": 1,
-     "estimated_members": 36.0
+     "estimated_members": 36.7
     }
    ],
    "revenue": {
-    "monthly_low": 112700,
-    "monthly_est": 128291,
+    "monthly_low": 114883,
+    "monthly_est": 130785,
     "gift_once": 0
    },
-   "avg_member_chatters": 125.8,
+   "avg_member_chatters": 123.9,
    "partial": true,
    "finalized": false
   }

@@ -3,19 +3,19 @@
  "channel_id": "UCdpUojq0KWZCN9bxXnZwz5w",
  "handle": "@ArsAlmal",
  "subscribers": 871000,
- "fetched_at": "2026-10-15 09:32",
- "generated_at": "2026-10-15 09:32",
+ "fetched_at": "2026-10-16 05:21",
+ "generated_at": "2026-10-16 05:22",
  "period": {
-  "from": "2026-09-15 09:32",
-  "to": "2026-10-15 09:32",
+  "from": "2026-09-16 05:21",
+  "to": "2026-10-16 05:21",
   "days": 30
  },
- "streams_analyzed": 21,
- "streams_missed": 6,
- "unique_chatters": 2354,
- "members_confirmed": 291,
+ "streams_analyzed": 22,
+ "streams_missed": 4,
+ "unique_chatters": 2411,
+ "members_confirmed": 293,
  "member_classes": {
-  "unknown": 276,
+  "unknown": 278,
   "known": 14,
   "gift": 1
  },
@@ -38,7 +38,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 15
+   "members": 16
   },
   {
    "months": 12,
@@ -48,7 +48,7 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 127
+   "members": 128
   }
  ],
  "events": {
@@ -67,10 +67,10 @@
    "net_per_member": 184.5,
    "confirmed_members": 2,
    "share_of_confirmed_pct": 14.3,
-   "allocated_unknown": 39.4,
-   "estimated_members": 41.4,
+   "allocated_unknown": 39.7,
+   "estimated_members": 41.7,
    "monthly_net_confirmed": 369,
-   "monthly_net_estimated": 7645
+   "monthly_net_estimated": 7698
   },
   {
    "tier": "トゲ丸",
@@ -78,19 +78,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 12,
    "share_of_confirmed_pct": 85.7,
-   "allocated_unknown": 236.6,
-   "estimated_members": 248.6,
+   "allocated_unknown": 238.3,
+   "estimated_members": 250.3,
    "monthly_net_confirmed": 3742,
-   "monthly_net_estimated": 77509
+   "monthly_net_estimated": 78044
   }
  ],
  "revenue": {
-  "monthly_low": 55045,
-  "monthly_est": 85155,
+  "monthly_low": 55415,
+  "monthly_est": 85742,
   "gift_once": 185,
-  "total_low": 55230,
-  "total_est": 85339,
-  "paying_members": 290,
+  "total_low": 55599,
+  "total_est": 85926,
+  "paying_members": 292,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -308,21 +308,19 @@
    "member_chatters": 67,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "M1dnflBkPBA",
+   "start": "2026-10-15 00:21",
+   "title": "＃04【ゼルダの伝説 風のタクト HD】魔獣の島～大地の神殿【アルス・アルマル/にじさんじ】",
+   "kind": "配信",
+   "chatters": 348,
+   "member_chatters": 66,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
-  {
-   "video_id": "8MufE1gY3wE",
-   "start": "2026-09-16 00:04",
-   "title": "【スプラトゥーン3 】ぼくのなかでさいきんあついゲーム【アルス・アルマル/にじさんじ】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "トゲ丸",
-   "like_count": 1538,
-   "view_count": null
-  },
   {
    "video_id": "Rt_4gJQCzmw",
    "start": "2026-09-24 03:37",
@@ -370,31 +368,9 @@
    "members_level": "トゲ丸",
    "like_count": 1084,
    "view_count": null
-  },
-  {
-   "video_id": "M1dnflBkPBA",
-   "start": "2026-10-14 00:00",
-   "title": "＃04【ゼルダの伝説 風のタクト HD】魔獣の島【アルス・アルマル/にじさんじ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 1528,
-   "view_count": 101928
   }
  ],
  "members_only_content": [
-  {
-   "video_id": "8MufE1gY3wE",
-   "start": "2026-09-16 00:04",
-   "title": "【スプラトゥーン3 】ぼくのなかでさいきんあついゲーム【アルス・アルマル/にじさんじ】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "トゲ丸",
-   "like_count": 1538,
-   "view_count": null
-  },
   {
    "video_id": "Rt_4gJQCzmw",
    "start": "2026-09-24 03:37",
@@ -508,18 +484,18 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-15"
+    "to": "2026-10-16"
    },
-   "streams_analyzed": 10,
-   "streams_missed": 3,
-   "unique_chatters": 1343,
-   "members_confirmed": 231,
+   "streams_analyzed": 11,
+   "streams_missed": 2,
+   "unique_chatters": 1419,
+   "members_confirmed": 236,
    "member_classes": {
-    "unknown": 221,
+    "unknown": 226,
     "known": 9,
     "gift": 1
    },
-   "long_term_members": 202,
+   "long_term_members": 206,
    "badges": [
     {
      "months": 0,
@@ -535,15 +511,15 @@
     },
     {
      "months": 6,
-     "members": 13
+     "members": 14
     },
     {
      "months": 12,
-     "members": 106
+     "members": 109
     },
     {
      "months": 48,
-     "members": 96
+     "members": 97
     }
    ],
    "events": {
@@ -557,21 +533,21 @@
      "tier": "だちょう",
      "price": 290,
      "confirmed_members": 1,
-     "estimated_members": 25.6
+     "estimated_members": 26.1
     },
     {
      "tier": "トゲ丸",
      "price": 490,
      "confirmed_members": 8,
-     "estimated_members": 204.4
+     "estimated_members": 208.9
     }
    ],
    "revenue": {
-    "monthly_low": 43464,
-    "monthly_est": 68466,
+    "monthly_low": 44386,
+    "monthly_est": 69954,
     "gift_once": 185
    },
-   "avg_member_chatters": 76.8,
+   "avg_member_chatters": 75.8,
    "partial": true,
    "finalized": false
   }

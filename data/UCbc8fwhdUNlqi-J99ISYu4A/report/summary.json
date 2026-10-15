@@ -3,19 +3,19 @@
  "channel_id": "UCbc8fwhdUNlqi-J99ISYu4A",
  "handle": "@BelmondBanderas",
  "subscribers": 493000,
- "fetched_at": "2026-10-15 09:31",
- "generated_at": "2026-10-15 09:31",
+ "fetched_at": "2026-10-16 05:20",
+ "generated_at": "2026-10-16 05:21",
  "period": {
-  "from": "2026-09-15 09:31",
-  "to": "2026-10-15 09:31",
+  "from": "2026-09-16 05:20",
+  "to": "2026-10-16 05:20",
   "days": 30
  },
- "streams_analyzed": 14,
+ "streams_analyzed": 15,
  "streams_missed": 3,
- "unique_chatters": 1271,
- "members_confirmed": 228,
+ "unique_chatters": 1324,
+ "members_confirmed": 230,
  "member_classes": {
-  "unknown": 187,
+  "unknown": 189,
   "known": 16,
   "gift": 25
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 32
+   "members": 33
   },
   {
    "months": 1,
@@ -48,7 +48,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 118
+   "members": 119
   }
  ],
  "events": {
@@ -67,10 +67,10 @@
    "net_per_member": 89.1,
    "confirmed_members": 1,
    "share_of_confirmed_pct": 6.2,
-   "allocated_unknown": 11.7,
-   "estimated_members": 12.7,
+   "allocated_unknown": 11.8,
+   "estimated_members": 12.8,
    "monthly_net_confirmed": 89,
-   "monthly_net_estimated": 1130
+   "monthly_net_estimated": 1141
   },
   {
    "tier": "常連さんプラン",
@@ -78,10 +78,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 6,
    "share_of_confirmed_pct": 37.5,
-   "allocated_unknown": 70.1,
-   "estimated_members": 76.1,
+   "allocated_unknown": 70.9,
+   "estimated_members": 76.9,
    "monthly_net_confirmed": 1871,
-   "monthly_net_estimated": 23737
+   "monthly_net_estimated": 23971
   },
   {
    "tier": "お得意さんプラン",
@@ -89,10 +89,10 @@
    "net_per_member": 630.0,
    "confirmed_members": 8,
    "share_of_confirmed_pct": 50.0,
-   "allocated_unknown": 93.5,
-   "estimated_members": 101.5,
+   "allocated_unknown": 94.5,
+   "estimated_members": 102.5,
    "monthly_net_confirmed": 5040,
-   "monthly_net_estimated": 63945
+   "monthly_net_estimated": 64575
   },
   {
    "tier": "VIPプラン",
@@ -100,19 +100,19 @@
    "net_per_member": 2220.9,
    "confirmed_members": 1,
    "share_of_confirmed_pct": 6.2,
-   "allocated_unknown": 11.7,
-   "estimated_members": 12.7,
+   "allocated_unknown": 11.8,
+   "estimated_members": 12.8,
    "monthly_net_confirmed": 2221,
-   "monthly_net_estimated": 28178
+   "monthly_net_estimated": 28455
   }
  ],
  "revenue": {
-  "monthly_low": 25881,
-  "monthly_est": 116990,
+  "monthly_low": 26059,
+  "monthly_est": 118143,
   "gift_once": 2227,
-  "total_low": 28108,
-  "total_est": 119218,
-  "paying_members": 203,
+  "total_low": 28286,
+  "total_est": 120370,
+  "paying_members": 205,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -258,6 +258,16 @@
    "kind": "配信",
    "chatters": 248,
    "member_chatters": 72,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "DOtw7e9PmB0",
+   "start": "2026-10-15 23:01",
+   "title": "【逆転裁判２】 #5 第3話 逆転サーカス！新たな容疑者！結末はどうなるんだ・・・！？ ※ネタバレ注意！【ベルモンド・バンデラス/にじさんじ】",
+   "kind": "配信",
+   "chatters": 358,
+   "member_chatters": 82,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -421,21 +431,21 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-15"
+    "to": "2026-10-16"
    },
-   "streams_analyzed": 7,
+   "streams_analyzed": 8,
    "streams_missed": 0,
-   "unique_chatters": 841,
-   "members_confirmed": 158,
+   "unique_chatters": 914,
+   "members_confirmed": 161,
    "member_classes": {
-    "unknown": 143,
+    "unknown": 146,
     "known": 15
    },
-   "long_term_members": 126,
+   "long_term_members": 127,
    "badges": [
     {
      "months": 0,
-     "members": 4
+     "members": 5
     },
     {
      "months": 1,
@@ -447,7 +457,7 @@
     },
     {
      "months": 6,
-     "members": 13
+     "members": 14
     },
     {
      "months": 12,
@@ -455,7 +465,7 @@
     },
     {
      "months": 24,
-     "members": 97
+     "members": 98
     }
    ],
    "events": {
@@ -469,33 +479,33 @@
      "tier": "ノンアルプラン",
      "price": 140,
      "confirmed_members": 1,
-     "estimated_members": 10.5
+     "estimated_members": 10.7
     },
     {
      "tier": "常連さんプラン",
      "price": 490,
      "confirmed_members": 6,
-     "estimated_members": 63.2
+     "estimated_members": 64.4
     },
     {
      "tier": "お得意さんプラン",
      "price": 990,
      "confirmed_members": 7,
-     "estimated_members": 73.7
+     "estimated_members": 75.1
     },
     {
      "tier": "VIPプラン",
      "price": 3490,
      "confirmed_members": 1,
-     "estimated_members": 10.5
+     "estimated_members": 10.7
     }
    ],
    "revenue": {
-    "monthly_low": 21331,
-    "monthly_est": 90491,
+    "monthly_low": 21598,
+    "monthly_est": 92209,
     "gift_once": 0
    },
-   "avg_member_chatters": 79.3,
+   "avg_member_chatters": 79.6,
    "partial": true,
    "finalized": false
   }

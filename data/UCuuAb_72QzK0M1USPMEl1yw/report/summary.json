@@ -3,20 +3,20 @@
  "channel_id": "UCuuAb_72QzK0M1USPMEl1yw",
  "handle": "@SonnyBrisko",
  "subscribers": 544000,
- "fetched_at": "2026-10-15 09:34",
- "generated_at": "2026-10-15 09:34",
+ "fetched_at": "2026-10-16 05:33",
+ "generated_at": "2026-10-16 05:33",
  "period": {
-  "from": "2026-09-15 09:34",
-  "to": "2026-10-15 09:34",
+  "from": "2026-09-16 05:33",
+  "to": "2026-10-16 05:33",
   "days": 30
  },
  "streams_analyzed": 19,
  "streams_missed": 0,
- "unique_chatters": 1283,
+ "unique_chatters": 1297,
  "members_confirmed": 518,
  "member_classes": {
-  "unknown": 351,
-  "known": 100,
+  "known": 101,
+  "unknown": 350,
   "gift": 67
  },
  "badges": [
@@ -38,12 +38,12 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 40
+   "members": 39
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 61
+   "members": 62
   },
   {
    "months": 24,
@@ -53,8 +53,8 @@
  ],
  "events": {
   "new_members": 14,
-  "rejoins": 12,
-  "milestones": 74,
+  "rejoins": 10,
+  "milestones": 75,
   "gift_purchases": 11,
   "gifted_total": 67,
   "gift_redemptions": 67
@@ -65,11 +65,11 @@
    "tier": "Brisquad",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 100,
+   "confirmed_members": 101,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 351.0,
+   "allocated_unknown": 350.0,
    "estimated_members": 451.0,
-   "monthly_net_confirmed": 31182,
+   "monthly_net_confirmed": 31494,
    "monthly_net_estimated": 140630
   }
  ],
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "xGnbWk3a1q0",
-   "start": "2026-09-15 18:11",
-   "title": "【VSF RENOVATION】building a dungeon under my house【NIJISANJI EN | Sonny Brisko】",
-   "kind": "配信",
-   "chatters": 141,
-   "member_chatters": 105,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "Jo6HKQzhrDA",
    "start": "2026-09-16 13:05",
@@ -277,6 +267,16 @@
    "member_chatters": 160,
    "new_members": 2,
    "gifted_total": 5
+  },
+  {
+   "video_id": "VzI6TtUUi1E",
+   "start": "2026-10-15 20:01",
+   "title": "【VSF BACKROOMS】waffle zoning【NIJISANJI EN | Sonny Brisko】",
+   "kind": "配信",
+   "chatters": 189,
+   "member_chatters": 127,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -352,22 +352,22 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-15"
+    "to": "2026-10-16"
    },
-   "streams_analyzed": 6,
+   "streams_analyzed": 7,
    "streams_missed": 0,
-   "unique_chatters": 589,
-   "members_confirmed": 318,
+   "unique_chatters": 633,
+   "members_confirmed": 330,
    "member_classes": {
-    "unknown": 223,
-    "known": 74,
+    "unknown": 233,
+    "known": 76,
     "gift": 21
    },
-   "long_term_members": 215,
+   "long_term_members": 225,
    "badges": [
     {
      "months": 0,
-     "members": 33
+     "members": 35
     },
     {
      "months": 1,
@@ -383,33 +383,33 @@
     },
     {
      "months": 12,
-     "members": 36
+     "members": 39
     },
     {
      "months": 24,
-     "members": 179
+     "members": 186
     }
    ],
    "events": {
     "new_members": 8,
     "rejoins": 4,
-    "milestones": 42,
+    "milestones": 45,
     "gifted_total": 21
    },
    "tiers": [
     {
      "tier": "Brisquad",
      "price": 490,
-     "confirmed_members": 74,
-     "estimated_members": 297.0
+     "confirmed_members": 76,
+     "estimated_members": 309.0
     }
    ],
    "revenue": {
-    "monthly_low": 92610,
-    "monthly_est": 92610,
+    "monthly_low": 96352,
+    "monthly_est": 96352,
     "gift_once": 6548
    },
-   "avg_member_chatters": 126.5,
+   "avg_member_chatters": 126.6,
    "partial": true,
    "finalized": false
   }

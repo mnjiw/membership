@@ -3,42 +3,42 @@
  "channel_id": "UC_4QF0dL-9XI9VajsNkMtmQ",
  "handle": "@Rei7_Y4T4",
  "subscribers": 174000,
- "fetched_at": "2026-10-15 09:34",
- "generated_at": "2026-10-15 09:34",
+ "fetched_at": "2026-10-16 05:32",
+ "generated_at": "2026-10-16 05:32",
  "period": {
-  "from": "2026-09-15 09:34",
-  "to": "2026-10-15 09:34",
+  "from": "2026-09-16 05:32",
+  "to": "2026-10-16 05:32",
   "days": 30
  },
- "streams_analyzed": 33,
+ "streams_analyzed": 32,
  "streams_missed": 2,
- "unique_chatters": 6808,
- "members_confirmed": 720,
+ "unique_chatters": 6466,
+ "members_confirmed": 704,
  "member_classes": {
-  "unknown": 664,
   "known": 46,
+  "unknown": 648,
   "gift": 10
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 109
+   "members": 106
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 95
+   "members": 93
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 516
+   "members": 505
   }
  ],
  "events": {
   "new_members": 28,
-  "rejoins": 9,
+  "rejoins": 8,
   "milestones": 0,
   "gift_purchases": 2,
   "gifted_total": 11,
@@ -52,19 +52,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 46,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 664.0,
-   "estimated_members": 710.0,
+   "allocated_unknown": 648.0,
+   "estimated_members": 694.0,
    "monthly_net_confirmed": 14344,
-   "monthly_net_estimated": 221391
+   "monthly_net_estimated": 216402
   }
  ],
  "revenue": {
-  "monthly_low": 221391,
-  "monthly_est": 221391,
+  "monthly_low": 216402,
+  "monthly_est": 216402,
   "gift_once": 3430,
-  "total_low": 224821,
-  "total_est": 224821,
-  "paying_members": 710,
+  "total_low": 219832,
+  "total_est": 219832,
+  "paying_members": 694,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "juo0caXUTXc",
-   "start": "2026-09-15 18:17",
-   "title": "【 日本ゲーム大賞2026 】虎さんとウォッチパーティーさせていただきます。 【 Rei7 / にじさんじ 】",
-   "kind": "配信",
-   "chatters": 888,
-   "member_chatters": 164,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "WnGeInxxYoA",
    "start": "2026-09-17 16:24",
@@ -414,7 +404,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "Ris7",
-   "like_count": 303,
+   "like_count": 304,
    "view_count": null
   },
   {
@@ -426,7 +416,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "Ris7",
-   "like_count": 178,
+   "like_count": 180,
    "view_count": null
   }
  ],
@@ -438,7 +428,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "Ris7",
-   "like_count": 303,
+   "like_count": 304,
    "view_count": null
   },
   {
@@ -448,7 +438,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "Ris7",
-   "like_count": 178,
+   "like_count": 180,
    "view_count": null
   }
  ],
@@ -511,7 +501,7 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-15"
+    "to": "2026-10-16"
    },
    "streams_analyzed": 16,
    "streams_missed": 1,
