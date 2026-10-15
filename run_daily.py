@@ -85,6 +85,8 @@ def process(ch: dict, args) -> dict:
         lm = re.search(r"⚠ (\d+) 枠で、YouTube から欠けた情報", out)
         res["limited"] = int(lm.group(1)) if lm else 0
         res["warned"] = "⚠ YouTube の制限に関する警告" in out
+        sl = re.search(r"⚠ 配信記録サイトを読めませんでした \((.*)\)", out)
+        res["stream_log_error"] = sl.group(1) if sl else None
         m = re.search(r"完了: 新規 (\d+) / 確認済みで省略 (\d+) / 対象外 (\d+) / 次回再確認 (\d+)", out)
         if m:
             res["new"], res["retry"] = int(m.group(1)), int(m.group(4))
@@ -142,6 +144,10 @@ def write_report(results, started, finished, build_msg) -> str:
              + ("（開始時刻と配信時間はチャットから計算して補っています。"
                 "「新しく取得した配信」が0本に近い日が続く場合だけ、取得自体が止められていないか確認してください）"
                 if limited or warned else ""))
+    sl_errors = [r["stream_log_error"] for r in results if r.get("stream_log_error")]
+    if sl_errors:
+        L.append(f"- 配信記録サイトを読めなかったチャンネル: {len(sl_errors)} 件 (例: {sl_errors[0]})"
+                 "（動画タブの判定できない枠は、これまでどおり3日待って判断します）")
     L.append(f"- サイト: {build_msg}")
     L.append("")
     bad = [r for r in results if r["status"] not in ("ok", "no_streams")]

@@ -56,6 +56,7 @@ LIMITED_GIVEUP_DAYS = 3
 #   /general/channel/ … 最近の配信が「2026.10.13 23:53」(日本時間) の形の日時つきで、新しい順に一定数だけ載る
 STREAM_LOG_URLS = ("https://vrabi.net/channel/{}", "https://vrabi.net/general/channel/{}")
 _stream_log_cache: dict = {}
+_stream_log_errors: list = []   # 読めなかった理由 (最後に表示して、日次のレポートに載せる)
 CHANNEL_ID = None   # main() で設定する
 
 STATUS_LABEL = {
@@ -384,8 +385,11 @@ def stream_log_ids(channel_id: str):
             req = urllib.request.Request(url.format(channel_id), headers={"User-Agent": "Mozilla/5.0"})
             with urllib.request.urlopen(req, timeout=20) as r:
                 html = r.read().decode("utf-8", "replace")
-        except Exception:
-            continue   # もう一方の形のページは 404 になる
+        except Exception as e:
+            # もう一方の形のページは 404 になる。それ以外 (403 など) はアクセスを止められている可能性
+            if getattr(e, "code", None) != 404:
+                _stream_log_errors.append(f"{type(e).__name__}: {e}"[:120])
+            continue
         ids = set(re.findall(r"youtube\.com/watch\?v=([\w-]{11})", html))
         # チャンネルIDが書かれていて、配信が1件以上載っているときだけ信用する
         if channel_id not in html or not ids:
@@ -542,11 +546,19 @@ def main():
         # 初回の30日分の取得を最後までやり終えていなければ (途中で止まった場合も) 30日分、終えていれば7日分
         span = (DAILY_DAYS if store.get("initial_fetch_done") else FIRST_DAYS) * 86400
     cutoff_ts = now - span
-    candidates = [c for c in candidates if c["approx_ts"] is None or c["approx_ts"] >= cutoff_ts - rough_margin(cutoff_ts)]
+    retry_cutoff = now - FIRST_DAYS * 86400
+    # 一覧は直近30日分を取っている。確認範囲 (直近7日) より前でも、一度も記録していない枠は調べる
+    # (あとから一覧に加わった枠。例: 限定公開だったメンバー限定配信のアーカイブが公開された)
+    kept = []
+    for c in candidates:
+        if c["approx_ts"] is None or c["approx_ts"] >= cutoff_ts - rough_margin(cutoff_ts):
+            kept.append(c)
+        elif c["id"] not in store["videos"] and c["approx_ts"] >= retry_cutoff - rough_margin(retry_cutoff):
+            kept.append({**c, "cutoff_ts": retry_cutoff})
+    candidates = kept
     # 確認範囲より前の枠で、取得に失敗したままのもの (初回の30日分の取得中に失敗した枠など) は一覧から外れていて、
     # このままでは二度と確認されない。直近30日の集計に入る間は、ここで候補に加えて確認し直す
     # (配信日が分からない枠は、最初に失敗してから30日間)
-    retry_cutoff = now - FIRST_DAYS * 86400
     listed = {c["id"] for c in candidates} | {c["id"] for c in live_now}
     for vid, v in store["videos"].items():
         if vid in listed or v.get("status") not in RETRY_STATUSES:
@@ -656,6 +668,8 @@ def main():
         save()
         time.sleep(args.sleep)
 
+    if _stream_log_errors:
+        print(f"⚠ 配信記録サイトを読めませんでした ({_stream_log_errors[0]})")
     if YTLOG.notable:
         print(f"⚠ YouTube の制限に関する警告が {len(YTLOG.notable)} 件ありました (例: {YTLOG.notable[0][:160]})")
     limited_n = sum(1 for v in store["videos"].values() if v.get("info_limited") and v.get("checked_at", "") >= fmt_ts(now))
