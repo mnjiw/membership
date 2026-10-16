@@ -3,19 +3,19 @@
  "channel_id": "UCUP8TmlO7NNra88AMqGU_vQ",
  "handle": "@KoshimizuToru",
  "subscribers": 394000,
- "fetched_at": "2026-10-16 09:25",
- "generated_at": "2026-10-16 09:25",
+ "fetched_at": "2026-10-17 05:28",
+ "generated_at": "2026-10-17 05:28",
  "period": {
-  "from": "2026-09-16 09:25",
-  "to": "2026-10-16 09:25",
+  "from": "2026-09-17 05:28",
+  "to": "2026-10-17 05:28",
   "days": 30
  },
- "streams_analyzed": 16,
- "streams_missed": 1,
- "unique_chatters": 3177,
- "members_confirmed": 499,
+ "streams_analyzed": 15,
+ "streams_missed": 2,
+ "unique_chatters": 3086,
+ "members_confirmed": 494,
  "member_classes": {
-  "unknown": 469,
+  "unknown": 464,
   "known": 25,
   "gift": 5
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 27
+   "members": 26
   },
   {
    "months": 1,
@@ -33,12 +33,12 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 53
+   "members": 52
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 55
+   "members": 54
   },
   {
    "months": 12,
@@ -53,7 +53,7 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 161
+   "members": 159
   }
  ],
  "events": {
@@ -72,19 +72,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 25,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 469.0,
-   "estimated_members": 494.0,
+   "allocated_unknown": 464.0,
+   "estimated_members": 489.0,
    "monthly_net_confirmed": 7795,
-   "monthly_net_estimated": 154038
+   "monthly_net_estimated": 152479
   }
  ],
  "revenue": {
-  "monthly_low": 154038,
-  "monthly_est": 154038,
+  "monthly_low": 152479,
+  "monthly_est": 152479,
   "gift_once": 1559,
-  "total_low": 155597,
-  "total_est": 155597,
-  "paying_members": 494,
+  "total_low": 154038,
+  "total_est": 154038,
+  "paying_members": 489,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "Z3phNBiFVlE",
-   "start": "2026-09-16 20:31",
-   "title": "【#にじ遊戯王祭2026 】展開練習！！アドリブの練習🔥【小清水 透 / にじさんじ】",
-   "kind": "配信",
-   "chatters": 492,
-   "member_chatters": 155,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "u42pxkYpgMw",
    "start": "2026-09-19 10:03",
@@ -264,8 +254,20 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 322,
-   "view_count": 13346
+   "like_count": 341,
+   "view_count": 14319
+  },
+  {
+   "video_id": "GQtIPdGPAKg",
+   "start": "2026-10-16 00:00",
+   "title": "怪異より人が怖い…残酷な2択を迫られ絶望する透【ほの暮しの庭 #4】【小清水透/にじさんじ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 226,
+   "view_count": 9142
   }
  ],
  "members_only_content": [],
@@ -344,10 +346,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-16"
+    "to": "2026-10-17"
    },
    "streams_analyzed": 10,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 1291,
    "members_confirmed": 353,
    "member_classes": {

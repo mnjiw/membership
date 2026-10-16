@@ -3,56 +3,56 @@
  "channel_id": "UCIq2HwA2iBOso7ar4VuU-TA",
  "handle": "@KadouMikaru",
  "subscribers": 132000,
- "fetched_at": "2026-10-16 09:25",
- "generated_at": "2026-10-16 09:25",
+ "fetched_at": "2026-10-17 05:32",
+ "generated_at": "2026-10-17 05:33",
  "period": {
-  "from": "2026-09-16 09:25",
-  "to": "2026-10-16 09:25",
+  "from": "2026-09-17 05:32",
+  "to": "2026-10-17 05:32",
   "days": 30
  },
- "streams_analyzed": 28,
+ "streams_analyzed": 27,
  "streams_missed": 4,
- "unique_chatters": 5104,
- "members_confirmed": 806,
+ "unique_chatters": 4918,
+ "members_confirmed": 761,
  "member_classes": {
-  "unknown": 711,
+  "unknown": 696,
   "known": 36,
-  "gift": 59
+  "gift": 29
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 132
+   "members": 105
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 65
+   "members": 61
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 153
+   "members": 148
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 150
+   "members": 145
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 306
+   "members": 302
   }
  ],
  "events": {
-  "new_members": 25,
+  "new_members": 24,
   "rejoins": 8,
   "milestones": 0,
-  "gift_purchases": 5,
-  "gifted_total": 60,
-  "gift_redemptions": 59
+  "gift_purchases": 2,
+  "gifted_total": 30,
+  "gift_redemptions": 29
  },
  "tiers_configured": true,
  "tiers": [
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 36,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 711.0,
-   "estimated_members": 747.0,
+   "allocated_unknown": 696.0,
+   "estimated_members": 732.0,
    "monthly_net_confirmed": 11225,
-   "monthly_net_estimated": 232928
+   "monthly_net_estimated": 228251
   }
  ],
  "revenue": {
-  "monthly_low": 232928,
-  "monthly_est": 232928,
-  "gift_once": 18709,
-  "total_low": 251637,
-  "total_est": 251637,
-  "paying_members": 747,
+  "monthly_low": 228251,
+  "monthly_est": 228251,
+  "gift_once": 9355,
+  "total_low": 237605,
+  "total_est": 237605,
+  "paying_members": 732,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "O70StXUdtHk",
-   "start": "2026-09-16 20:14",
-   "title": "【 雑談 】 お酒を飲みながらワインオセロの必勝法について考えたり考えなかったりするか。【 にじさんじ / 蝸堂みかる 】",
-   "kind": "配信",
-   "chatters": 834,
-   "member_chatters": 359,
-   "new_members": 1,
-   "gifted_total": 30
-  },
   {
    "video_id": "tPJhfx6oSO8",
    "start": "2026-09-18 11:30",
@@ -410,7 +400,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "かたつむり組",
-   "like_count": 204,
+   "like_count": 205,
    "view_count": null
   }
  ],
@@ -452,7 +442,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "かたつむり組",
-   "like_count": 204,
+   "like_count": 205,
    "view_count": null
   }
  ],
@@ -523,7 +513,7 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-16"
+    "to": "2026-10-17"
    },
    "streams_analyzed": 14,
    "streams_missed": 3,

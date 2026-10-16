@@ -2,60 +2,64 @@
  "month": "2026-10",
  "coverage": {
   "from": "2026-10-01",
-  "to": "2026-10-16"
+  "to": "2026-10-17"
  },
- "streams_analyzed": 1,
- "streams_missed": 1,
- "unique_chatters": 18,
- "members_confirmed": 10,
+ "streams_analyzed": 3,
+ "streams_missed": 0,
+ "unique_chatters": 77,
+ "members_confirmed": 75,
  "member_classes": {
-  "known": 2,
-  "unknown": 7,
-  "gift": 1
+  "known": 6,
+  "unknown": 18,
+  "gift": 51
  },
- "long_term_members": 5,
+ "long_term_members": 14,
  "badges": [
   {
    "months": 0,
-   "members": 2
+   "members": 52
   },
   {
-   "months": 2,
+   "months": 1,
    "members": 1
   },
   {
+   "months": 2,
+   "members": 3
+  },
+  {
    "months": 6,
-   "members": 2
+   "members": 5
   },
   {
    "months": 12,
-   "members": 2
+   "members": 6
   },
   {
    "months": 24,
-   "members": 3
+   "members": 8
   }
  ],
  "events": {
   "new_members": 0,
   "rejoins": 0,
-  "milestones": 2,
-  "gifted_total": 1
+  "milestones": 5,
+  "gifted_total": 51
  },
  "tiers": [
   {
    "tier": "방안의 아기새냥이/部屋の中の子猫鳥",
    "price": 490,
-   "confirmed_members": 2,
-   "estimated_members": 9.0
+   "confirmed_members": 6,
+   "estimated_members": 24.0
   }
  ],
  "revenue": {
-  "monthly_low": 2806,
-  "monthly_est": 2806,
-  "gift_once": 312
+  "monthly_low": 7484,
+  "monthly_est": 7484,
+  "gift_once": 15903
  },
- "avg_member_chatters": 10,
+ "avg_member_chatters": 27.7,
  "partial": true,
  "finalized": false
 }

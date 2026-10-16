@@ -3,19 +3,19 @@
  "channel_id": "UCwrjITPwG4q71HzihV2C7Nw",
  "handle": "@Fumi",
  "subscribers": 277000,
- "fetched_at": "2026-10-16 09:24",
- "generated_at": "2026-10-16 09:24",
+ "fetched_at": "2026-10-17 05:23",
+ "generated_at": "2026-10-17 05:24",
  "period": {
-  "from": "2026-09-16 09:24",
-  "to": "2026-10-16 09:24",
+  "from": "2026-09-17 05:23",
+  "to": "2026-10-17 05:23",
   "days": 30
  },
  "streams_analyzed": 22,
  "streams_missed": 3,
- "unique_chatters": 3208,
- "members_confirmed": 182,
+ "unique_chatters": 3257,
+ "members_confirmed": 183,
  "member_classes": {
-  "unknown": 157,
+  "unknown": 158,
   "known": 5,
   "gift": 20
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 28
+   "members": 29
   },
   {
    "months": 1,
@@ -38,12 +38,12 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 15
+   "members": 14
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 23
+   "members": 24
   },
   {
    "months": 24,
@@ -67,10 +67,10 @@
    "net_per_member": 184.5,
    "confirmed_members": 3,
    "share_of_confirmed_pct": 60.0,
-   "allocated_unknown": 94.2,
-   "estimated_members": 97.2,
+   "allocated_unknown": 94.8,
+   "estimated_members": 97.8,
    "monthly_net_confirmed": 554,
-   "monthly_net_estimated": 17938
+   "monthly_net_estimated": 18049
   },
   {
    "tier": "ツクヨミ",
@@ -78,10 +78,10 @@
    "net_per_member": 248.2,
    "confirmed_members": 1,
    "share_of_confirmed_pct": 20.0,
-   "allocated_unknown": 31.4,
-   "estimated_members": 32.4,
+   "allocated_unknown": 31.6,
+   "estimated_members": 32.6,
    "monthly_net_confirmed": 248,
-   "monthly_net_estimated": 8041
+   "monthly_net_estimated": 8091
   },
   {
    "tier": "ワダツミ",
@@ -89,10 +89,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 1,
    "share_of_confirmed_pct": 20.0,
-   "allocated_unknown": 31.4,
-   "estimated_members": 32.4,
+   "allocated_unknown": 31.6,
+   "estimated_members": 32.6,
    "monthly_net_confirmed": 312,
-   "monthly_net_estimated": 10103
+   "monthly_net_estimated": 10165
   },
   {
    "tier": "アマテラス",
@@ -107,12 +107,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 30087,
-  "monthly_est": 36082,
+  "monthly_low": 30272,
+  "monthly_est": 36305,
   "gift_once": 3691,
-  "total_low": 33778,
-  "total_est": 39773,
-  "paying_members": 162,
+  "total_low": 33963,
+  "total_est": 39995,
+  "paying_members": 163,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -121,16 +121,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "WO4lk0giMVU",
-   "start": "2026-09-16 21:03",
-   "title": "【#にじ遊戯王祭2026】白き森白き森白き森白き森【にじさんじフミ 】",
-   "kind": "配信",
-   "chatters": 172,
-   "member_chatters": 35,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "qSiCLYJ9YmE",
    "start": "2026-09-18 21:00",
@@ -340,6 +330,16 @@
    "member_chatters": 55,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "DVZKc-IhJUk",
+   "start": "2026-10-16 21:52",
+   "title": "【#遊戯王マスターデュエル】デュエリストカップいくぞ⚔️🔥１st突破目指す【にじさんじフミ】",
+   "kind": "配信",
+   "chatters": 404,
+   "member_chatters": 61,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -491,21 +491,21 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-16"
+    "to": "2026-10-17"
    },
-   "streams_analyzed": 9,
+   "streams_analyzed": 10,
    "streams_missed": 2,
-   "unique_chatters": 1631,
-   "members_confirmed": 141,
+   "unique_chatters": 1745,
+   "members_confirmed": 143,
    "member_classes": {
-    "unknown": 138,
+    "unknown": 140,
     "known": 3
    },
-   "long_term_members": 107,
+   "long_term_members": 109,
    "badges": [
     {
      "months": 0,
-     "members": 12
+     "members": 13
     },
     {
      "months": 1,
@@ -517,15 +517,15 @@
     },
     {
      "months": 6,
-     "members": 12
+     "members": 11
     },
     {
      "months": 12,
-     "members": 19
+     "members": 20
     },
     {
      "months": 24,
-     "members": 88
+     "members": 89
     }
    ],
    "events": {
@@ -539,13 +539,13 @@
      "tier": "スサノオ",
      "price": 290,
      "confirmed_members": 2,
-     "estimated_members": 94.0
+     "estimated_members": 95.3
     },
     {
      "tier": "ツクヨミ",
      "price": 390,
      "confirmed_members": 1,
-     "estimated_members": 47.0
+     "estimated_members": 47.7
     },
     {
      "tier": "ワダツミ",
@@ -561,11 +561,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 26085,
-    "monthly_est": 29012,
+    "monthly_low": 26454,
+    "monthly_est": 29423,
     "gift_once": 0
    },
-   "avg_member_chatters": 56.7,
+   "avg_member_chatters": 57.1,
    "partial": true,
    "finalized": false
   }

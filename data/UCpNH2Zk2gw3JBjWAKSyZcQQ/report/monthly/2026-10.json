@@ -2,22 +2,22 @@
  "month": "2026-10",
  "coverage": {
   "from": "2026-10-01",
-  "to": "2026-10-16"
+  "to": "2026-10-17"
  },
- "streams_analyzed": 3,
+ "streams_analyzed": 4,
  "streams_missed": 1,
- "unique_chatters": 233,
- "members_confirmed": 50,
+ "unique_chatters": 240,
+ "members_confirmed": 62,
  "member_classes": {
-  "unknown": 33,
+  "unknown": 35,
   "known": 16,
-  "gift": 1
+  "gift": 11
  },
- "long_term_members": 41,
+ "long_term_members": 43,
  "badges": [
   {
    "months": 0,
-   "members": 3
+   "members": 13
   },
   {
    "months": 1,
@@ -33,47 +33,47 @@
   },
   {
    "months": 12,
-   "members": 41
+   "members": 43
   }
  ],
  "events": {
   "new_members": 0,
   "rejoins": 0,
   "milestones": 3,
-  "gifted_total": 1
+  "gifted_total": 11
  },
  "tiers": [
   {
    "tier": "エリ草",
    "price": 490,
    "confirmed_members": 11,
-   "estimated_members": 33.7
+   "estimated_members": 35.1
   },
   {
    "tier": "ハイエリ草",
    "price": 1190,
    "confirmed_members": 1,
-   "estimated_members": 3.1
+   "estimated_members": 3.2
   },
   {
    "tier": "ラストエリ草",
    "price": 3490,
    "confirmed_members": 2,
-   "estimated_members": 6.1
+   "estimated_members": 6.4
   },
   {
    "tier": "この木なんの木エリーの木🎄",
    "price": 6300,
    "confirmed_members": 2,
-   "estimated_members": 6.1
+   "estimated_members": 6.4
   }
  ],
  "revenue": {
-  "monthly_low": 26937,
-  "monthly_est": 50982,
-  "gift_once": 312
+  "monthly_low": 27561,
+  "monthly_est": 53063,
+  "gift_once": 3430
  },
- "avg_member_chatters": 27.3,
+ "avg_member_chatters": 26.5,
  "partial": true,
  "finalized": false
 }

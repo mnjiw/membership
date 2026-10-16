@@ -3,15 +3,15 @@
  "channel_id": "UCjFu-9GHnabzSFRAYm1B9Dw",
  "handle": "@EtnaCrimson",
  "subscribers": 60300,
- "fetched_at": "2026-10-16 09:24",
- "generated_at": "2026-10-16 09:24",
+ "fetched_at": "2026-10-17 05:27",
+ "generated_at": "2026-10-17 05:28",
  "period": {
-  "from": "2026-09-16 09:24",
-  "to": "2026-10-16 09:24",
+  "from": "2026-09-17 05:27",
+  "to": "2026-10-17 05:27",
   "days": 30
  },
  "streams_analyzed": 2,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 131,
  "members_confirmed": 7,
  "member_classes": {
@@ -98,17 +98,30 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "zoyoGOEDO5Y",
+   "start": "2026-10-16 00:00",
+   "title": "CHILL NIGHT SHIFT 🙏【KuloNiku: Bowl Up!】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 179,
+   "view_count": 1572
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-13",
-    "to": "2026-10-16"
+    "to": "2026-10-17"
    },
    "streams_analyzed": 2,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 131,
    "members_confirmed": 7,
    "member_classes": {
