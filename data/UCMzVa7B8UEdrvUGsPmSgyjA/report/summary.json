@@ -3,27 +3,27 @@
  "channel_id": "UCMzVa7B8UEdrvUGsPmSgyjA",
  "handle": "@DeremKado",
  "subscribers": 48300,
- "fetched_at": "2026-10-17 05:28",
- "generated_at": "2026-10-17 05:28",
+ "fetched_at": "2026-10-17 09:29",
+ "generated_at": "2026-10-17 09:29",
  "period": {
-  "from": "2026-09-17 05:28",
-  "to": "2026-10-17 05:28",
+  "from": "2026-09-17 09:29",
+  "to": "2026-10-17 09:29",
   "days": 30
  },
- "streams_analyzed": 13,
+ "streams_analyzed": 14,
  "streams_missed": 0,
- "unique_chatters": 189,
- "members_confirmed": 67,
+ "unique_chatters": 197,
+ "members_confirmed": 73,
  "member_classes": {
-  "unknown": 27,
-  "gift": 37,
+  "unknown": 28,
+  "gift": 42,
   "known": 3
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 35
+   "members": 40
   },
   {
    "months": 1,
@@ -58,16 +58,16 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 2
+   "members": 3
   }
  ],
  "events": {
   "new_members": 0,
   "rejoins": 1,
   "milestones": 3,
-  "gift_purchases": 8,
-  "gifted_total": 37,
-  "gift_redemptions": 37
+  "gift_purchases": 9,
+  "gifted_total": 42,
+  "gift_redemptions": 42
  },
  "tiers_configured": true,
  "tiers": [
@@ -77,19 +77,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 3,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 27.0,
-   "estimated_members": 30.0,
+   "allocated_unknown": 28.0,
+   "estimated_members": 31.0,
    "monthly_net_confirmed": 935,
-   "monthly_net_estimated": 9355
+   "monthly_net_estimated": 9666
   }
  ],
  "revenue": {
-  "monthly_low": 9355,
-  "monthly_est": 9355,
-  "gift_once": 11537,
-  "total_low": 20892,
-  "total_est": 20892,
-  "paying_members": 30,
+  "monthly_low": 9666,
+  "monthly_est": 9666,
+  "gift_once": 13096,
+  "total_low": 22763,
+  "total_est": 22763,
+  "paying_members": 31,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -227,6 +227,16 @@
    "member_chatters": 8,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "dnd4coZorLg",
+   "start": "2026-10-17 00:26",
+   "title": "【 Valheim 】 New Island New Adventure【 NIJISANJI | Derem Kado 】",
+   "kind": "配信",
+   "chatters": 24,
+   "member_chatters": 12,
+   "new_members": 0,
+   "gifted_total": 5
   }
  ],
  "missed_streams": [],
@@ -312,20 +322,20 @@
     "from": "2026-10-01",
     "to": "2026-10-17"
    },
-   "streams_analyzed": 7,
+   "streams_analyzed": 8,
    "streams_missed": 0,
-   "unique_chatters": 105,
-   "members_confirmed": 41,
+   "unique_chatters": 116,
+   "members_confirmed": 48,
    "member_classes": {
-    "unknown": 17,
+    "unknown": 19,
     "known": 3,
-    "gift": 21
+    "gift": 26
    },
-   "long_term_members": 12,
+   "long_term_members": 14,
    "badges": [
     {
      "months": 0,
-     "members": 19
+     "members": 24
     },
     {
      "months": 1,
@@ -345,7 +355,7 @@
     },
     {
      "months": 24,
-     "members": 3
+     "members": 4
     },
     {
      "months": 36,
@@ -353,29 +363,29 @@
     },
     {
      "months": 48,
-     "members": 2
+     "members": 3
     }
    ],
    "events": {
     "new_members": 0,
     "rejoins": 1,
     "milestones": 2,
-    "gifted_total": 21
+    "gifted_total": 26
    },
    "tiers": [
     {
      "tier": "Magical Domikado",
      "price": 490,
      "confirmed_members": 3,
-     "estimated_members": 20.0
+     "estimated_members": 22.0
     }
    ],
    "revenue": {
-    "monthly_low": 6236,
-    "monthly_est": 6236,
-    "gift_once": 6548
+    "monthly_low": 6860,
+    "monthly_est": 6860,
+    "gift_once": 8107
    },
-   "avg_member_chatters": 10.7,
+   "avg_member_chatters": 10.9,
    "partial": true,
    "finalized": false
   }

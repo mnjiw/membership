@@ -3,20 +3,20 @@
  "channel_id": "UC6WFKwYptsxVue56Lx218vg",
  "handle": "@KoyanagiRou",
  "subscribers": 503000,
- "fetched_at": "2026-10-17 05:29",
- "generated_at": "2026-10-17 05:31",
+ "fetched_at": "2026-10-17 09:29",
+ "generated_at": "2026-10-17 09:29",
  "period": {
-  "from": "2026-09-17 05:29",
-  "to": "2026-10-17 05:29",
+  "from": "2026-09-17 09:29",
+  "to": "2026-10-17 09:29",
   "days": 30
  },
- "streams_analyzed": 36,
+ "streams_analyzed": 35,
  "streams_missed": 1,
- "unique_chatters": 5604,
- "members_confirmed": 2285,
+ "unique_chatters": 5437,
+ "members_confirmed": 2259,
  "member_classes": {
-  "unknown": 1886,
-  "known": 383,
+  "unknown": 1861,
+  "known": 382,
   "gift": 16
  },
  "badges": [
@@ -38,23 +38,23 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 474
+   "members": 465
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 694
+   "members": 679
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 771
+   "members": 769
   }
  ],
  "events": {
   "new_members": 42,
-  "rejoins": 35,
-  "milestones": 292,
+  "rejoins": 34,
+  "milestones": 291,
   "gift_purchases": 4,
   "gifted_total": 16,
   "gift_redemptions": 16
@@ -65,21 +65,21 @@
    "tier": "ロウルフ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 383,
+   "confirmed_members": 382,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1886.0,
-   "estimated_members": 2269.0,
-   "monthly_net_confirmed": 119426,
-   "monthly_net_estimated": 707515
+   "allocated_unknown": 1861.0,
+   "estimated_members": 2243.0,
+   "monthly_net_confirmed": 119115,
+   "monthly_net_estimated": 699408
   }
  ],
  "revenue": {
-  "monthly_low": 707515,
-  "monthly_est": 707515,
+  "monthly_low": 699408,
+  "monthly_est": 699408,
   "gift_once": 4989,
-  "total_low": 712505,
-  "total_est": 712505,
-  "paying_members": 2269,
+  "total_low": 704397,
+  "total_est": 704397,
+  "paying_members": 2243,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "stRYPu2u6kE",
-   "start": "2026-09-17 07:11",
-   "title": "【VALORANT】デュエ【小柳ロウ/にじさんじ】",
-   "kind": "配信",
-   "chatters": 1149,
-   "member_chatters": 710,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "LPEBkZX0a18",
    "start": "2026-09-18 07:04",
@@ -454,13 +444,13 @@
    "video_id": "B6bPPbXGaYc",
    "start": "2026-10-13 00:00",
    "title": "【APEX】ベリーさんゴールド企画【小柳ロウ/にじさんじ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
+   "kind": "live",
+   "status": "no_chat",
+   "reason": "チャットリプレイなし（アーカイブ編集・チャット無効の可能性）",
    "members_only": false,
    "members_level": "",
-   "like_count": 5632,
-   "view_count": 214720
+   "like_count": 5636,
+   "view_count": 214914
   }
  ],
  "members_only_content": [],

@@ -3,26 +3,26 @@
  "channel_id": "UCL34fAoFim9oHLbVzMKFavQ",
  "handle": "@YorumiRena",
  "subscribers": 606000,
- "fetched_at": "2026-10-17 05:22",
- "generated_at": "2026-10-17 05:22",
+ "fetched_at": "2026-10-17 09:27",
+ "generated_at": "2026-10-17 09:28",
  "period": {
-  "from": "2026-09-17 05:22",
-  "to": "2026-10-17 05:22",
+  "from": "2026-09-17 09:27",
+  "to": "2026-10-17 09:27",
   "days": 30
  },
- "streams_analyzed": 15,
+ "streams_analyzed": 16,
  "streams_missed": 1,
- "unique_chatters": 2042,
- "members_confirmed": 264,
+ "unique_chatters": 2115,
+ "members_confirmed": 271,
  "member_classes": {
-  "unknown": 251,
-  "known": 13
+  "unknown": 256,
+  "known": 15
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 3
+   "members": 5
   },
   {
    "months": 1,
@@ -37,22 +37,22 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 12
+   "members": 13
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 25
+   "members": 26
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 24
+   "members": 25
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 34
+   "members": 35
   },
   {
    "months": 48,
@@ -62,11 +62,11 @@
   {
    "months": 60,
    "label": "5年",
-   "members": 118
+   "members": 119
   }
  ],
  "events": {
-  "new_members": 1,
+  "new_members": 3,
   "rejoins": 3,
   "milestones": 9,
   "gift_purchases": 0,
@@ -79,21 +79,21 @@
    "tier": "夜見のひよこプラン",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 13,
+   "confirmed_members": 15,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 251.0,
-   "estimated_members": 264.0,
-   "monthly_net_confirmed": 4054,
-   "monthly_net_estimated": 82320
+   "allocated_unknown": 256.0,
+   "estimated_members": 271.0,
+   "monthly_net_confirmed": 4677,
+   "monthly_net_estimated": 84503
   }
  ],
  "revenue": {
-  "monthly_low": 82320,
-  "monthly_est": 82320,
+  "monthly_low": 84503,
+  "monthly_est": 84503,
   "gift_once": 0,
-  "total_low": 82320,
-  "total_est": 82320,
-  "paying_members": 264,
+  "total_low": 84503,
+  "total_est": 84503,
+  "paying_members": 271,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -251,6 +251,16 @@
    "member_chatters": 112,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "HmTqsVRVMKY",
+   "start": "2026-10-17 01:00",
+   "title": "【 DinoBones: Tidy Up the Museum 】長年お片付けしてきてるので恐竜の骨も…骨⁉【 にじさんじ / 夜見れな 】",
+   "kind": "配信",
+   "chatters": 268,
+   "member_chatters": 85,
+   "new_members": 2,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -352,19 +362,19 @@
     "from": "2026-10-01",
     "to": "2026-10-17"
    },
-   "streams_analyzed": 7,
+   "streams_analyzed": 8,
    "streams_missed": 0,
-   "unique_chatters": 1279,
-   "members_confirmed": 211,
+   "unique_chatters": 1365,
+   "members_confirmed": 220,
    "member_classes": {
-    "unknown": 200,
-    "known": 11
+    "unknown": 207,
+    "known": 13
    },
-   "long_term_members": 187,
+   "long_term_members": 192,
    "badges": [
     {
      "months": 0,
-     "members": 1
+     "members": 3
     },
     {
      "months": 1,
@@ -376,19 +386,19 @@
     },
     {
      "months": 6,
-     "members": 9
+     "members": 11
     },
     {
      "months": 12,
-     "members": 23
+     "members": 24
     },
     {
      "months": 24,
-     "members": 20
+     "members": 21
     },
     {
      "months": 36,
-     "members": 25
+     "members": 27
     },
     {
      "months": 48,
@@ -396,11 +406,11 @@
     },
     {
      "months": 60,
-     "members": 96
+     "members": 97
     }
    ],
    "events": {
-    "new_members": 1,
+    "new_members": 3,
     "rejoins": 2,
     "milestones": 5,
     "gifted_total": 0
@@ -409,16 +419,16 @@
     {
      "tier": "夜見のひよこプラン",
      "price": 490,
-     "confirmed_members": 11,
-     "estimated_members": 211.0
+     "confirmed_members": 13,
+     "estimated_members": 220.0
     }
    ],
    "revenue": {
-    "monthly_low": 65794,
-    "monthly_est": 65794,
+    "monthly_low": 68600,
+    "monthly_est": 68600,
     "gift_once": 0
    },
-   "avg_member_chatters": 99,
+   "avg_member_chatters": 97.2,
    "partial": true,
    "finalized": false
   }

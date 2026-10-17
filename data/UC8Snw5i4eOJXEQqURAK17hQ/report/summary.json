@@ -3,27 +3,27 @@
  "channel_id": "UC8Snw5i4eOJXEQqURAK17hQ",
  "handle": "@RaiGalilei",
  "subscribers": 57800,
- "fetched_at": "2026-10-17 05:27",
- "generated_at": "2026-10-17 05:27",
+ "fetched_at": "2026-10-17 09:29",
+ "generated_at": "2026-10-17 09:29",
  "period": {
-  "from": "2026-09-17 05:27",
-  "to": "2026-10-17 05:27",
+  "from": "2026-09-17 09:29",
+  "to": "2026-10-17 09:29",
   "days": 30
  },
- "streams_analyzed": 11,
+ "streams_analyzed": 12,
  "streams_missed": 0,
- "unique_chatters": 332,
- "members_confirmed": 94,
+ "unique_chatters": 344,
+ "members_confirmed": 99,
  "member_classes": {
   "unknown": 20,
   "known": 11,
-  "gift": 63
+  "gift": 68
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 61
+   "members": 66
   },
   {
    "months": 1,
@@ -55,9 +55,9 @@
   "new_members": 5,
   "rejoins": 0,
   "milestones": 5,
-  "gift_purchases": 12,
-  "gifted_total": 64,
-  "gift_redemptions": 64
+  "gift_purchases": 13,
+  "gifted_total": 69,
+  "gift_redemptions": 69
  },
  "tiers_configured": true,
  "tiers": [
@@ -76,9 +76,9 @@
  "revenue": {
   "monthly_low": 9666,
   "monthly_est": 9666,
-  "gift_once": 19956,
-  "total_low": 29623,
-  "total_est": 29623,
+  "gift_once": 21515,
+  "total_low": 31182,
+  "total_est": 31182,
   "paying_members": 31,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -197,6 +197,16 @@
    "member_chatters": 9,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "a7UdHovyId4",
+   "start": "2026-10-17 00:32",
+   "title": "【Valheim】 Rai Galilei's: \"Spookidooki zombie skeletons\"【NIJISANJI】",
+   "kind": "配信",
+   "chatters": 44,
+   "member_chatters": 10,
+   "new_members": 0,
+   "gifted_total": 5
   }
  ],
  "missed_streams": [],
@@ -274,23 +284,32 @@
     "from": "2026-10-01",
     "to": "2026-10-17"
    },
-   "streams_analyzed": 2,
+   "streams_analyzed": 3,
    "streams_missed": 0,
-   "unique_chatters": 78,
-   "members_confirmed": 9,
+   "unique_chatters": 104,
+   "members_confirmed": 16,
    "member_classes": {
-    "unknown": 8,
-    "known": 1
+    "unknown": 9,
+    "known": 2,
+    "gift": 5
    },
    "long_term_members": 5,
    "badges": [
+    {
+     "months": 0,
+     "members": 5
+    },
     {
      "months": 1,
      "members": 2
     },
     {
      "months": 2,
-     "members": 2
+     "members": 3
+    },
+    {
+     "months": 6,
+     "members": 1
     },
     {
      "months": 12,
@@ -305,22 +324,22 @@
     "new_members": 0,
     "rejoins": 0,
     "milestones": 1,
-    "gifted_total": 0
+    "gifted_total": 5
    },
    "tiers": [
     {
      "tier": "A.I.D Program",
      "price": 490,
-     "confirmed_members": 1,
-     "estimated_members": 9.0
+     "confirmed_members": 2,
+     "estimated_members": 11.0
     }
    ],
    "revenue": {
-    "monthly_low": 2806,
-    "monthly_est": 2806,
-    "gift_once": 0
+    "monthly_low": 3430,
+    "monthly_est": 3430,
+    "gift_once": 1559
    },
-   "avg_member_chatters": 6,
+   "avg_member_chatters": 7.3,
    "partial": true,
    "finalized": false
   }

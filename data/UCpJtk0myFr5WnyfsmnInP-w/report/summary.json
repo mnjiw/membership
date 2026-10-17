@@ -3,26 +3,27 @@
  "channel_id": "UCpJtk0myFr5WnyfsmnInP-w",
  "handle": "@HanaMacchia",
  "subscribers": 280000,
- "fetched_at": "2026-10-17 05:27",
- "generated_at": "2026-10-17 05:28",
+ "fetched_at": "2026-10-17 09:29",
+ "generated_at": "2026-10-17 09:29",
  "period": {
-  "from": "2026-09-17 05:27",
-  "to": "2026-10-17 05:27",
+  "from": "2026-09-17 09:29",
+  "to": "2026-10-17 09:29",
   "days": 30
  },
- "streams_analyzed": 4,
+ "streams_analyzed": 5,
  "streams_missed": 2,
- "unique_chatters": 109,
- "members_confirmed": 31,
+ "unique_chatters": 126,
+ "members_confirmed": 36,
  "member_classes": {
   "unknown": 29,
-  "known": 2
+  "known": 2,
+  "gift": 5
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 1
+   "members": 6
   },
   {
    "months": 2,
@@ -44,9 +45,9 @@
   "new_members": 1,
   "rejoins": 1,
   "milestones": 0,
-  "gift_purchases": 0,
-  "gifted_total": 0,
-  "gift_redemptions": 0
+  "gift_purchases": 1,
+  "gifted_total": 5,
+  "gift_redemptions": 5
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,9 +66,9 @@
  "revenue": {
   "monthly_low": 13612,
   "monthly_est": 13612,
-  "gift_once": 0,
-  "total_low": 13612,
-  "total_est": 13612,
+  "gift_once": 2195,
+  "total_low": 15807,
+  "total_est": 15807,
   "paying_members": 31,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -116,6 +117,16 @@
    "member_chatters": 14,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "g_x3gNuk6Yw",
+   "start": "2026-10-17 00:31",
+   "title": "(Valheim Collab) rai galilei derem kado obligatory sudden valheim again【NIJISANJI | Hana Macchia】",
+   "kind": "配信",
+   "chatters": 44,
+   "member_chatters": 19,
+   "new_members": 0,
+   "gifted_total": 5
   }
  ],
  "missed_streams": [
@@ -226,16 +237,21 @@
     "from": "2026-10-01",
     "to": "2026-10-17"
    },
-   "streams_analyzed": 2,
+   "streams_analyzed": 3,
    "streams_missed": 1,
-   "unique_chatters": 61,
-   "members_confirmed": 18,
+   "unique_chatters": 82,
+   "members_confirmed": 26,
    "member_classes": {
-    "unknown": 17,
-    "known": 1
+    "unknown": 20,
+    "known": 1,
+    "gift": 5
    },
-   "long_term_members": 17,
+   "long_term_members": 20,
    "badges": [
+    {
+     "months": 0,
+     "members": 5
+    },
     {
      "months": 2,
      "members": 1
@@ -246,29 +262,29 @@
     },
     {
      "months": 24,
-     "members": 16
+     "members": 19
     }
    ],
    "events": {
     "new_members": 0,
     "rejoins": 1,
     "milestones": 0,
-    "gifted_total": 0
+    "gifted_total": 5
    },
    "tiers": [
     {
      "tier": "Nijisenja",
      "price": 690,
      "confirmed_members": 1,
-     "estimated_members": 18.0
+     "estimated_members": 21.0
     }
    ],
    "revenue": {
-    "monthly_low": 7904,
-    "monthly_est": 7904,
-    "gift_once": 0
+    "monthly_low": 9221,
+    "monthly_est": 9221,
+    "gift_once": 2195
    },
-   "avg_member_chatters": 12,
+   "avg_member_chatters": 14.3,
    "partial": true,
    "finalized": false
   }
