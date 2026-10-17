@@ -3,20 +3,20 @@
  "channel_id": "UCqjTqdVlvIipZXIKeCkHKUA",
  "handle": "@OliverEvans",
  "subscribers": 358000,
- "fetched_at": "2026-10-17 09:28",
- "generated_at": "2026-10-17 09:28",
+ "fetched_at": "2026-10-18 05:26",
+ "generated_at": "2026-10-18 05:26",
  "period": {
-  "from": "2026-09-17 09:28",
-  "to": "2026-10-17 09:28",
+  "from": "2026-09-18 05:26",
+  "to": "2026-10-18 05:26",
   "days": 30
  },
- "streams_analyzed": 12,
+ "streams_analyzed": 13,
  "streams_missed": 2,
- "unique_chatters": 1459,
- "members_confirmed": 406,
+ "unique_chatters": 1585,
+ "members_confirmed": 422,
  "member_classes": {
-  "unknown": 389,
-  "known": 12,
+  "unknown": 403,
+  "known": 14,
   "gift": 5
  },
  "badges": [
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 14
+   "members": 16
   },
   {
    "months": 6,
@@ -43,18 +43,18 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 44
+   "members": 45
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 301
+   "members": 314
   }
  ],
  "events": {
   "new_members": 1,
   "rejoins": 1,
-  "milestones": 7,
+  "milestones": 10,
   "gift_purchases": 1,
   "gifted_total": 5,
   "gift_redemptions": 5
@@ -65,32 +65,32 @@
    "tier": "ゼミ打ち上げ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 7,
-   "share_of_confirmed_pct": 58.3,
-   "allocated_unknown": 226.9,
-   "estimated_members": 233.9,
-   "monthly_net_confirmed": 2183,
-   "monthly_net_estimated": 72939
+   "confirmed_members": 8,
+   "share_of_confirmed_pct": 57.1,
+   "allocated_unknown": 230.3,
+   "estimated_members": 238.3,
+   "monthly_net_confirmed": 2495,
+   "monthly_net_estimated": 74302
   },
   {
    "tier": "ゼミアルバム",
    "price": 1190,
    "net_per_member": 757.3,
-   "confirmed_members": 5,
-   "share_of_confirmed_pct": 41.7,
-   "allocated_unknown": 162.1,
-   "estimated_members": 167.1,
-   "monthly_net_confirmed": 3786,
-   "monthly_net_estimated": 126528
+   "confirmed_members": 6,
+   "share_of_confirmed_pct": 42.9,
+   "allocated_unknown": 172.7,
+   "estimated_members": 178.7,
+   "monthly_net_confirmed": 4544,
+   "monthly_net_estimated": 135335
   }
  ],
  "revenue": {
-  "monthly_low": 127266,
-  "monthly_est": 199467,
+  "monthly_low": 132701,
+  "monthly_est": 209637,
   "gift_once": 1559,
-  "total_low": 128825,
-  "total_est": 201026,
-  "paying_members": 401,
+  "total_low": 134260,
+  "total_est": 211196,
+  "paying_members": 417,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -218,6 +218,16 @@
    "member_chatters": 187,
    "new_members": 0,
    "gifted_total": 5
+  },
+  {
+   "video_id": "1WQHvV8hZ8o",
+   "start": "2026-10-17 22:01",
+   "title": "【Dressmaker】素敵なドレスを仕立てたい【にじさんじ/オリバー・エバンス】",
+   "kind": "配信",
+   "chatters": 348,
+   "member_chatters": 185,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -344,18 +354,18 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-17"
+    "to": "2026-10-18"
    },
-   "streams_analyzed": 4,
+   "streams_analyzed": 5,
    "streams_missed": 1,
-   "unique_chatters": 595,
-   "members_confirmed": 308,
+   "unique_chatters": 753,
+   "members_confirmed": 343,
    "member_classes": {
-    "unknown": 293,
-    "known": 10,
+    "unknown": 326,
+    "known": 12,
     "gift": 5
    },
-   "long_term_members": 265,
+   "long_term_members": 296,
    "badges": [
     {
      "months": 0,
@@ -367,47 +377,47 @@
     },
     {
      "months": 2,
-     "members": 11
+     "members": 13
     },
     {
      "months": 6,
-     "members": 18
+     "members": 20
     },
     {
      "months": 12,
-     "members": 33
+     "members": 37
     },
     {
      "months": 24,
-     "members": 232
+     "members": 259
     }
    ],
    "events": {
     "new_members": 0,
     "rejoins": 1,
-    "milestones": 2,
+    "milestones": 5,
     "gifted_total": 5
    },
    "tiers": [
     {
      "tier": "ゼミ打ち上げ",
      "price": 490,
-     "confirmed_members": 6,
-     "estimated_members": 181.8
+     "confirmed_members": 7,
+     "estimated_members": 197.2
     },
     {
      "tier": "ゼミアルバム",
      "price": 1190,
-     "confirmed_members": 4,
-     "estimated_members": 121.2
+     "confirmed_members": 5,
+     "estimated_members": 140.8
     }
    ],
    "revenue": {
-    "monthly_low": 96263,
-    "monthly_est": 148470,
+    "monthly_low": 107622,
+    "monthly_est": 168129,
     "gift_once": 1559
    },
-   "avg_member_chatters": 161.8,
+   "avg_member_chatters": 166.4,
    "partial": true,
    "finalized": false
   }

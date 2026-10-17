@@ -2,21 +2,22 @@
  "month": "2026-10",
  "coverage": {
   "from": "2026-10-01",
-  "to": "2026-10-17"
+  "to": "2026-10-18"
  },
- "streams_analyzed": 11,
+ "streams_analyzed": 12,
  "streams_missed": 0,
- "unique_chatters": 1131,
- "members_confirmed": 182,
+ "unique_chatters": 1173,
+ "members_confirmed": 190,
  "member_classes": {
-  "unknown": 170,
-  "known": 12
+  "unknown": 173,
+  "known": 12,
+  "gift": 5
  },
- "long_term_members": 112,
+ "long_term_members": 114,
  "badges": [
   {
    "months": 0,
-   "members": 7
+   "members": 13
   },
   {
    "months": 1,
@@ -32,33 +33,33 @@
   },
   {
    "months": 12,
-   "members": 58
+   "members": 59
   },
   {
    "months": 24,
-   "members": 54
+   "members": 55
   }
  ],
  "events": {
   "new_members": 5,
   "rejoins": 1,
   "milestones": 2,
-  "gifted_total": 0
+  "gifted_total": 5
  },
  "tiers": [
   {
    "tier": "雲母たまこのメンバーシップ",
    "price": 490,
    "confirmed_members": 12,
-   "estimated_members": 182.0
+   "estimated_members": 185.0
   }
  ],
  "revenue": {
-  "monthly_low": 56751,
-  "monthly_est": 56751,
-  "gift_once": 0
+  "monthly_low": 57686,
+  "monthly_est": 57686,
+  "gift_once": 1559
  },
- "avg_member_chatters": 67.1,
+ "avg_member_chatters": 66.5,
  "partial": true,
  "finalized": false
 }

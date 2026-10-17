@@ -3,19 +3,19 @@
  "channel_id": "UC9HYkiQZ1_b3J_F8gc12eaA",
  "handle": "@TsukaharaDaichi_Y4T4",
  "subscribers": 117000,
- "fetched_at": "2026-10-17 09:30",
- "generated_at": "2026-10-17 09:30",
+ "fetched_at": "2026-10-18 05:34",
+ "generated_at": "2026-10-18 05:34",
  "period": {
-  "from": "2026-09-17 09:30",
-  "to": "2026-10-17 09:30",
+  "from": "2026-09-18 05:34",
+  "to": "2026-10-18 05:34",
   "days": 30
  },
- "streams_analyzed": 31,
- "streams_missed": 1,
- "unique_chatters": 1741,
- "members_confirmed": 256,
+ "streams_analyzed": 30,
+ "streams_missed": 2,
+ "unique_chatters": 1730,
+ "members_confirmed": 254,
  "member_classes": {
-  "unknown": 241,
+  "unknown": 239,
   "known": 15
  },
  "badges": [
@@ -27,12 +27,12 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 22
+   "members": 21
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 198
+   "members": 197
   }
  ],
  "events": {
@@ -51,19 +51,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 15,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 241.0,
-   "estimated_members": 256.0,
+   "allocated_unknown": 239.0,
+   "estimated_members": 254.0,
    "monthly_net_confirmed": 4677,
-   "monthly_net_estimated": 79825
+   "monthly_net_estimated": 79202
   }
  ],
  "revenue": {
-  "monthly_low": 79825,
-  "monthly_est": 79825,
+  "monthly_low": 79202,
+  "monthly_est": 79202,
   "gift_once": 0,
-  "total_low": 79825,
-  "total_est": 79825,
-  "paying_members": 256,
+  "total_low": 79202,
+  "total_est": 79202,
+  "paying_members": 254,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -72,16 +72,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "R1sUSnpuZIs",
-   "start": "2026-09-17 20:01",
-   "title": "【How to Fish】カオス釣りゲー！？ with 北見先輩、夜見先輩、魔使先輩【塚原大地 / にじさんじ】",
-   "kind": "配信",
-   "chatters": 94,
-   "member_chatters": 66,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "x3vi4fTOP4A",
    "start": "2026-09-18 18:03",
@@ -393,8 +383,20 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 110,
+   "like_count": 111,
    "view_count": null
+  },
+  {
+   "video_id": "Ilzfpoj4mFU",
+   "start": "2026-10-17 00:00",
+   "title": "【OW】大会に向けて自主練するぜ。W / Rei7【塚原大地 / にじさんじ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 474,
+   "view_count": 26480
   }
  ],
  "members_only_content": [
@@ -405,7 +407,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 110,
+   "like_count": 111,
    "view_count": null
   }
  ],
@@ -467,10 +469,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-17"
+    "to": "2026-10-18"
    },
    "streams_analyzed": 15,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 1161,
    "members_confirmed": 203,
    "member_classes": {

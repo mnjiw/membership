@@ -2,18 +2,23 @@
  "month": "2026-10",
  "coverage": {
   "from": "2026-10-13",
-  "to": "2026-10-17"
+  "to": "2026-10-18"
  },
- "streams_analyzed": 2,
- "streams_missed": 1,
- "unique_chatters": 131,
- "members_confirmed": 7,
+ "streams_analyzed": 3,
+ "streams_missed": 0,
+ "unique_chatters": 160,
+ "members_confirmed": 9,
  "member_classes": {
   "known": 2,
-  "unknown": 5
+  "unknown": 6,
+  "gift": 1
  },
- "long_term_members": 5,
+ "long_term_members": 6,
  "badges": [
+  {
+   "months": 0,
+   "members": 1
+  },
   {
    "months": 1,
    "members": 1
@@ -28,29 +33,29 @@
   },
   {
    "months": 24,
-   "members": 3
+   "members": 4
   }
  ],
  "events": {
   "new_members": 1,
   "rejoins": 0,
   "milestones": 1,
-  "gifted_total": 0
+  "gifted_total": 1
  },
  "tiers": [
   {
    "tier": "HENSIMP",
    "price": 490,
    "confirmed_members": 2,
-   "estimated_members": 7.0
+   "estimated_members": 8.0
   }
  ],
  "revenue": {
-  "monthly_low": 2183,
-  "monthly_est": 2183,
-  "gift_once": 0
+  "monthly_low": 2495,
+  "monthly_est": 2495,
+  "gift_once": 312
  },
- "avg_member_chatters": 3.5,
+ "avg_member_chatters": 4,
  "partial": true,
  "finalized": false
 }

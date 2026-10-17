@@ -3,71 +3,71 @@
  "channel_id": "UCQ1zGxHrfEmmW4CPpBx9-qw",
  "handle": "@AlbanKnox",
  "subscribers": 746000,
- "fetched_at": "2026-10-17 09:30",
- "generated_at": "2026-10-17 09:30",
+ "fetched_at": "2026-10-18 05:36",
+ "generated_at": "2026-10-18 05:36",
  "period": {
-  "from": "2026-09-17 09:30",
-  "to": "2026-10-17 09:30",
+  "from": "2026-09-18 05:36",
+  "to": "2026-10-18 05:36",
   "days": 30
  },
  "streams_analyzed": 15,
  "streams_missed": 2,
- "unique_chatters": 1500,
- "members_confirmed": 567,
+ "unique_chatters": 1450,
+ "members_confirmed": 551,
  "member_classes": {
-  "unknown": 291,
-  "known": 55,
-  "gift": 221
+  "known": 57,
+  "unknown": 279,
+  "gift": 215
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 234
+   "members": 226
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 7
+   "members": 8
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 39
+   "members": 38
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 32
+   "members": 31
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 65
+   "members": 64
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 56
+   "members": 54
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 63
+   "members": 60
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 71
+   "members": 70
   }
  ],
  "events": {
-  "new_members": 4,
-  "rejoins": 5,
-  "milestones": 48,
-  "gift_purchases": 56,
-  "gifted_total": 224,
-  "gift_redemptions": 221
+  "new_members": 3,
+  "rejoins": 4,
+  "milestones": 46,
+  "gift_purchases": 54,
+  "gifted_total": 218,
+  "gift_redemptions": 215
  },
  "tiers_configured": true,
  "tiers": [
@@ -75,32 +75,32 @@
    "tier": "Konbini Crew",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 14,
-   "share_of_confirmed_pct": 25.5,
-   "allocated_unknown": 74.1,
-   "estimated_members": 88.1,
-   "monthly_net_confirmed": 4365,
-   "monthly_net_estimated": 27463
+   "confirmed_members": 16,
+   "share_of_confirmed_pct": 28.1,
+   "allocated_unknown": 78.3,
+   "estimated_members": 94.3,
+   "monthly_net_confirmed": 4989,
+   "monthly_net_estimated": 29409
   },
   {
    "tier": "MEGA Konbini Crew",
    "price": 790,
    "net_per_member": 502.7,
    "confirmed_members": 41,
-   "share_of_confirmed_pct": 74.5,
-   "allocated_unknown": 216.9,
-   "estimated_members": 257.9,
+   "share_of_confirmed_pct": 71.9,
+   "allocated_unknown": 200.7,
+   "estimated_members": 241.7,
    "monthly_net_confirmed": 20612,
-   "monthly_net_estimated": 129667
+   "monthly_net_estimated": 121501
   }
  ],
  "revenue": {
-  "monthly_low": 115716,
-  "monthly_est": 157130,
-  "gift_once": 69847,
-  "total_low": 185564,
-  "total_est": 226977,
-  "paying_members": 346,
+  "monthly_low": 112598,
+  "monthly_est": 150911,
+  "gift_once": 67976,
+  "total_low": 180575,
+  "total_est": 218887,
+  "paying_members": 336,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -109,16 +109,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "OY5rwPxwAgQ",
-   "start": "2026-09-17 20:02",
-   "title": "【 Touhou Koumakyou: 東方紅魔郷 New Classic 】BEGINNER AT TOUHOU! 【 NIJISANJI EN | Alban Knox 】",
-   "kind": "配信",
-   "chatters": 287,
-   "member_chatters": 148,
-   "new_members": 1,
-   "gifted_total": 12
-  },
   {
    "video_id": "JTXj-zR4iUE",
    "start": "2026-09-18 20:00",
@@ -258,6 +248,16 @@
    "member_chatters": 125,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "RAaJg1gIFpI",
+   "start": "2026-10-17 20:01",
+   "title": "【 TENEBRIS SOMNIA 】 RETRO 2D HORROR MEETS REAL LIFE????? 【 NIJISANJI EN | Alban Knox 】",
+   "kind": "配信",
+   "chatters": 197,
+   "member_chatters": 105,
+   "new_members": 0,
+   "gifted_total": 6
   }
  ],
  "missed_streams": [
@@ -282,7 +282,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "MEGA Konbini Crew",
-   "like_count": 81,
+   "like_count": 84,
    "view_count": null
   }
  ],
@@ -304,7 +304,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "MEGA Konbini Crew",
-   "like_count": 81,
+   "like_count": 84,
    "view_count": null
   }
  ],
@@ -393,26 +393,26 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-17"
+    "to": "2026-10-18"
    },
-   "streams_analyzed": 9,
+   "streams_analyzed": 10,
    "streams_missed": 1,
-   "unique_chatters": 986,
-   "members_confirmed": 426,
+   "unique_chatters": 1037,
+   "members_confirmed": 436,
    "member_classes": {
-    "known": 51,
-    "unknown": 232,
-    "gift": 143
+    "known": 54,
+    "unknown": 233,
+    "gift": 149
    },
-   "long_term_members": 213,
+   "long_term_members": 217,
    "badges": [
     {
      "months": 0,
-     "members": 155
+     "members": 160
     },
     {
      "months": 1,
-     "members": 6
+     "members": 7
     },
     {
      "months": 2,
@@ -428,7 +428,7 @@
     },
     {
      "months": 24,
-     "members": 43
+     "members": 46
     },
     {
      "months": 36,
@@ -436,35 +436,35 @@
     },
     {
      "months": 48,
-     "members": 59
+     "members": 60
     }
    ],
    "events": {
     "new_members": 3,
     "rejoins": 3,
-    "milestones": 29,
-    "gifted_total": 146
+    "milestones": 31,
+    "gifted_total": 152
    },
    "tiers": [
     {
      "tier": "Konbini Crew",
      "price": 490,
-     "confirmed_members": 12,
-     "estimated_members": 66.6
+     "confirmed_members": 15,
+     "estimated_members": 79.7
     },
     {
      "tier": "MEGA Konbini Crew",
      "price": 790,
      "confirmed_members": 39,
-     "estimated_members": 216.4
+     "estimated_members": 207.3
     }
    ],
    "revenue": {
-    "monthly_low": 95690,
-    "monthly_est": 129560,
-    "gift_once": 45525
+    "monthly_low": 96937,
+    "monthly_est": 129063,
+    "gift_once": 47396
    },
-   "avg_member_chatters": 135.2,
+   "avg_member_chatters": 132.2,
    "partial": true,
    "finalized": false
   }

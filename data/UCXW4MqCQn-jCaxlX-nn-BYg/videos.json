@@ -90,8 +90,8 @@
    "checked_at": "2026-10-07 09:22",
    "members_level": "ゆうしきしゃ16GB",
    "status": "members_only",
-   "likes_checked_ts": 1792182284.5461092,
-   "likes_checked_at": "2026-10-17 05:24"
+   "likes_checked_ts": 1792268668.396825,
+   "likes_checked_at": "2026-10-18 05:24"
   },
   "HxMd0fi965Q": {
    "id": "HxMd0fi965Q",
@@ -168,8 +168,8 @@
    "checked_at": "2026-10-07 09:25",
    "members_level": "ゆうしきしゃ32GB",
    "status": "members_only",
-   "likes_checked_ts": 1792182284.5461092,
-   "likes_checked_at": "2026-10-17 05:24"
+   "likes_checked_ts": 1792268668.396825,
+   "likes_checked_at": "2026-10-18 05:24"
   },
   "9OB97v3D3I8": {
    "id": "9OB97v3D3I8",
@@ -1164,25 +1164,57 @@
    "start_ts": 1791903600.0,
    "start_jst": "2026-10-14 00:00",
    "duration_sec": null,
-   "view_count": 63841,
-   "like_count": 2272,
+   "view_count": 68513,
+   "like_count": 2367,
    "live_status": null,
    "members_only": false,
    "has_chat": false,
-   "checked_at": "2026-10-17 09:28",
+   "checked_at": "2026-10-18 05:25",
    "info_limited": true,
-   "error": "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)",
-   "tab": "video",
-   "status": "error",
-   "failed_since_ts": 1792009433.584619
+   "settled_while_limited": true,
+   "status": "skip_not_stream"
+  },
+  "LDJM8kPCMR4": {
+   "id": "LDJM8kPCMR4",
+   "title": "【BOMBANANA!】爆弾解除？専門分野です【長尾景/ミラン・ケストレル/春雨麗女/にじさんじ】",
+   "kind": "live",
+   "start_ts": 1792238385.126285,
+   "start_jst": "2026-10-17 20:59",
+   "duration_sec": 6944,
+   "view_count": 30967,
+   "like_count": 1126,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-10-18 05:24",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
+  },
+  "I6r_qYAZB0c": {
+   "id": "I6r_qYAZB0c",
+   "title": "【スプラトゥーン3】だんだんスピードに慣れてきた...か？？【長尾景/にじさんじ】",
+   "kind": "live",
+   "start_ts": 1792227885.403132,
+   "start_jst": "2026-10-17 18:04",
+   "duration_sec": 7047,
+   "view_count": 32085,
+   "like_count": 1164,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-10-18 05:25",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "長尾 景 / Nagao Kei【にじさんじ】",
  "channel_id": "UCXW4MqCQn-jCaxlX-nn-BYg",
  "handle": "@NagaoKei",
  "subscribers": 562000,
- "fetched_at": "2026-10-17 09:28",
- "fetched_at_ts": 1792196911.9328396,
- "checked_from": "2026-10-10 09:28",
+ "fetched_at": "2026-10-18 05:24",
+ "fetched_at_ts": 1792268668.396825,
+ "checked_from": "2026-10-11 05:24",
  "initial_fetch_done": true
 }

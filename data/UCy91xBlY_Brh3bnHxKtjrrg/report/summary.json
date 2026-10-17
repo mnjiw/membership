@@ -3,19 +3,19 @@
  "channel_id": "UCy91xBlY_Brh3bnHxKtjrrg",
  "handle": "@DoppioDropscythe",
  "subscribers": 264000,
- "fetched_at": "2026-10-17 09:30",
- "generated_at": "2026-10-17 09:30",
+ "fetched_at": "2026-10-18 05:37",
+ "generated_at": "2026-10-18 05:37",
  "period": {
-  "from": "2026-09-17 09:30",
-  "to": "2026-10-17 09:30",
+  "from": "2026-09-18 05:37",
+  "to": "2026-10-18 05:37",
   "days": 30
  },
- "streams_analyzed": 24,
- "streams_missed": 7,
- "unique_chatters": 1132,
- "members_confirmed": 608,
+ "streams_analyzed": 23,
+ "streams_missed": 8,
+ "unique_chatters": 1099,
+ "members_confirmed": 605,
  "member_classes": {
-  "unknown": 166,
+  "unknown": 163,
   "known": 131,
   "gift": 311
  },
@@ -28,7 +28,7 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 5
+   "members": 4
   },
   {
    "months": 2,
@@ -53,13 +53,13 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 115
+   "members": 113
   }
  ],
  "events": {
   "new_members": 1,
   "rejoins": 5,
-  "milestones": 92,
+  "milestones": 90,
   "gift_purchases": 72,
   "gifted_total": 317,
   "gift_redemptions": 315
@@ -72,19 +72,19 @@
    "net_per_member": 439.1,
    "confirmed_members": 131,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 166.0,
-   "estimated_members": 297.0,
+   "allocated_unknown": 163.0,
+   "estimated_members": 294.0,
    "monthly_net_confirmed": 57521,
-   "monthly_net_estimated": 130410
+   "monthly_net_estimated": 129093
   }
  ],
  "revenue": {
-  "monthly_low": 130410,
-  "monthly_est": 130410,
+  "monthly_low": 129093,
+  "monthly_est": 129093,
   "gift_once": 139192,
-  "total_low": 269602,
-  "total_est": 269602,
-  "paying_members": 297,
+  "total_low": 268285,
+  "total_est": 268285,
+  "paying_members": 294,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "6cgHDPYE7_Q",
-   "start": "2026-09-17 22:06",
-   "title": "[FIRE EMBLEM FORTUNE'S WEAVE / 万紫千紅] PART 1【NIJISANJI EN | Doppio Dropscythe】",
-   "kind": "配信",
-   "chatters": 142,
-   "member_chatters": 70,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "xxhjXlO61nw",
    "start": "2026-09-18 21:02",
@@ -418,6 +408,18 @@
    "members_level": "",
    "like_count": 32,
    "view_count": null
+  },
+  {
+   "video_id": "CaJPT7_rUgk",
+   "start": "2026-10-17 00:00",
+   "title": "important work! (spoilers for tomorrow's event!)【NIJISANJI  EN | Doppio Dropscythe】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 395,
+   "view_count": 5525
   }
  ],
  "members_only_content": [
@@ -567,10 +569,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-17"
+    "to": "2026-10-18"
    },
    "streams_analyzed": 10,
-   "streams_missed": 4,
+   "streams_missed": 5,
    "unique_chatters": 634,
    "members_confirmed": 425,
    "member_classes": {

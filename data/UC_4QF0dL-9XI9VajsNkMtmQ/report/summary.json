@@ -3,27 +3,27 @@
  "channel_id": "UC_4QF0dL-9XI9VajsNkMtmQ",
  "handle": "@Rei7_Y4T4",
  "subscribers": 174000,
- "fetched_at": "2026-10-17 09:30",
- "generated_at": "2026-10-17 09:30",
+ "fetched_at": "2026-10-18 05:34",
+ "generated_at": "2026-10-18 05:35",
  "period": {
-  "from": "2026-09-17 09:30",
-  "to": "2026-10-17 09:30",
+  "from": "2026-09-18 05:34",
+  "to": "2026-10-18 05:34",
   "days": 30
  },
  "streams_analyzed": 33,
  "streams_missed": 1,
- "unique_chatters": 6592,
- "members_confirmed": 730,
+ "unique_chatters": 6669,
+ "members_confirmed": 729,
  "member_classes": {
+  "unknown": 668,
   "known": 51,
-  "unknown": 669,
   "gift": 10
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 111
+   "members": 109
   },
   {
    "months": 1,
@@ -33,12 +33,12 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 525
+   "members": 526
   }
  ],
  "events": {
-  "new_members": 33,
-  "rejoins": 8,
+  "new_members": 32,
+  "rejoins": 9,
   "milestones": 0,
   "gift_purchases": 2,
   "gifted_total": 11,
@@ -52,19 +52,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 51,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 669.0,
-   "estimated_members": 720.0,
+   "allocated_unknown": 668.0,
+   "estimated_members": 719.0,
    "monthly_net_confirmed": 15903,
-   "monthly_net_estimated": 224509
+   "monthly_net_estimated": 224197
   }
  ],
  "revenue": {
-  "monthly_low": 224509,
-  "monthly_est": 224509,
+  "monthly_low": 224197,
+  "monthly_est": 224197,
   "gift_once": 3430,
-  "total_low": 227939,
-  "total_est": 227939,
-  "paying_members": 720,
+  "total_low": 227627,
+  "total_est": 227627,
+  "paying_members": 719,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "WnGeInxxYoA",
-   "start": "2026-09-17 16:24",
-   "title": "【 スト6 】Mジュリ/D4~ / あ【 Rei7 / にじさんじ 】",
-   "kind": "配信",
-   "chatters": 336,
-   "member_chatters": 131,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "DRlo57K4YhY",
    "start": "2026-09-18 21:59",
@@ -402,6 +392,16 @@
    "member_chatters": 238,
    "new_members": 5,
    "gifted_total": 0
+  },
+  {
+   "video_id": "LuwqVcPE6rQ",
+   "start": "2026-10-17 17:00",
+   "title": "#4【 ドラゴンクエストモンスターズ　テリーのワンダーランドRETRO 】Aクラス目指すななよ【 Rei7 / にじさんじ 】",
+   "kind": "配信",
+   "chatters": 624,
+   "member_chatters": 122,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -414,7 +414,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "Ris7",
-   "like_count": 181,
+   "like_count": 180,
    "view_count": null
   }
  ],
@@ -426,7 +426,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "Ris7",
-   "like_count": 181,
+   "like_count": 180,
    "view_count": null
   }
  ],
@@ -489,15 +489,15 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-17"
+    "to": "2026-10-18"
    },
-   "streams_analyzed": 17,
+   "streams_analyzed": 18,
    "streams_missed": 1,
-   "unique_chatters": 3789,
-   "members_confirmed": 528,
+   "unique_chatters": 3928,
+   "members_confirmed": 532,
    "member_classes": {
-    "unknown": 489,
-    "known": 39
+    "unknown": 492,
+    "known": 40
    },
    "long_term_members": 0,
    "badges": [
@@ -511,12 +511,12 @@
     },
     {
      "months": 2,
-     "members": 415
+     "members": 419
     }
    ],
    "events": {
     "new_members": 17,
-    "rejoins": 5,
+    "rejoins": 6,
     "milestones": 0,
     "gifted_total": 0
    },
@@ -524,16 +524,16 @@
     {
      "tier": "Ris7",
      "price": 490,
-     "confirmed_members": 39,
-     "estimated_members": 528.0
+     "confirmed_members": 40,
+     "estimated_members": 532.0
     }
    ],
    "revenue": {
-    "monthly_low": 164640,
-    "monthly_est": 164640,
+    "monthly_low": 165887,
+    "monthly_est": 165887,
     "gift_once": 0
    },
-   "avg_member_chatters": 127.3,
+   "avg_member_chatters": 127,
    "partial": true,
    "finalized": false
   }

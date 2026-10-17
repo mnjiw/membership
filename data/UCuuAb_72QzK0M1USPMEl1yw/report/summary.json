@@ -3,32 +3,32 @@
  "channel_id": "UCuuAb_72QzK0M1USPMEl1yw",
  "handle": "@SonnyBrisko",
  "subscribers": 544000,
- "fetched_at": "2026-10-17 09:30",
- "generated_at": "2026-10-17 09:30",
+ "fetched_at": "2026-10-18 05:36",
+ "generated_at": "2026-10-18 05:36",
  "period": {
-  "from": "2026-09-17 09:30",
-  "to": "2026-10-17 09:30",
+  "from": "2026-09-18 05:36",
+  "to": "2026-10-18 05:36",
   "days": 30
  },
  "streams_analyzed": 18,
  "streams_missed": 0,
- "unique_chatters": 1262,
- "members_confirmed": 515,
+ "unique_chatters": 1249,
+ "members_confirmed": 484,
  "member_classes": {
-  "known": 101,
-  "unknown": 347,
-  "gift": 67
+  "unknown": 346,
+  "known": 107,
+  "gift": 31
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 87
+   "members": 51
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 13
+   "members": 11
   },
   {
    "months": 2,
@@ -38,26 +38,26 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 39
+   "members": 38
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 62
+   "members": 61
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 263
+   "members": 272
   }
  ],
  "events": {
-  "new_members": 14,
-  "rejoins": 10,
-  "milestones": 75,
-  "gift_purchases": 11,
-  "gifted_total": 67,
-  "gift_redemptions": 67
+  "new_members": 13,
+  "rejoins": 11,
+  "milestones": 79,
+  "gift_purchases": 7,
+  "gifted_total": 31,
+  "gift_redemptions": 31
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +65,21 @@
    "tier": "Brisquad",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 101,
+   "confirmed_members": 107,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 347.0,
-   "estimated_members": 448.0,
-   "monthly_net_confirmed": 31494,
-   "monthly_net_estimated": 139695
+   "allocated_unknown": 346.0,
+   "estimated_members": 453.0,
+   "monthly_net_confirmed": 33365,
+   "monthly_net_estimated": 141254
   }
  ],
  "revenue": {
-  "monthly_low": 139695,
-  "monthly_est": 139695,
-  "gift_once": 20892,
-  "total_low": 160586,
-  "total_est": 160586,
-  "paying_members": 448,
+  "monthly_low": 141254,
+  "monthly_est": 141254,
+  "gift_once": 9666,
+  "total_low": 150920,
+  "total_est": 150920,
+  "paying_members": 453,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "nRzW4Z-inTo",
-   "start": "2026-09-17 12:29",
-   "title": "vtubing on the internet",
-   "kind": "配信",
-   "chatters": 306,
-   "member_chatters": 198,
-   "new_members": 1,
-   "gifted_total": 36
-  },
   {
    "video_id": "DJzkYwwsfR4",
    "start": "2026-09-18 13:16",
@@ -267,6 +257,16 @@
    "member_chatters": 127,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "qywVWnI2xmE",
+   "start": "2026-10-17 19:31",
+   "title": "【The Exit 8】Hmm, nothing to report here【NIJISANJI EN | Sonny Brisko】",
+   "kind": "配信",
+   "chatters": 300,
+   "member_chatters": 181,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -342,64 +342,64 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-17"
+    "to": "2026-10-18"
    },
-   "streams_analyzed": 7,
+   "streams_analyzed": 8,
    "streams_missed": 0,
-   "unique_chatters": 633,
-   "members_confirmed": 330,
+   "unique_chatters": 754,
+   "members_confirmed": 369,
    "member_classes": {
-    "unknown": 233,
-    "known": 76,
+    "unknown": 263,
+    "known": 85,
     "gift": 21
    },
-   "long_term_members": 225,
+   "long_term_members": 259,
    "badges": [
     {
      "months": 0,
-     "members": 35
-    },
-    {
-     "months": 1,
-     "members": 6
-    },
-    {
-     "months": 2,
      "members": 36
     },
     {
-     "months": 6,
-     "members": 28
+     "months": 1,
+     "members": 5
     },
     {
-     "months": 12,
+     "months": 2,
      "members": 39
     },
     {
+     "months": 6,
+     "members": 30
+    },
+    {
+     "months": 12,
+     "members": 44
+    },
+    {
      "months": 24,
-     "members": 186
+     "members": 215
     }
    ],
    "events": {
     "new_members": 8,
-    "rejoins": 4,
-    "milestones": 45,
+    "rejoins": 5,
+    "milestones": 54,
     "gifted_total": 21
    },
    "tiers": [
     {
      "tier": "Brisquad",
      "price": 490,
-     "confirmed_members": 76,
-     "estimated_members": 309.0
+     "confirmed_members": 85,
+     "estimated_members": 348.0
     }
    ],
    "revenue": {
-    "monthly_low": 96352,
-    "monthly_est": 96352,
+    "monthly_low": 108513,
+    "monthly_est": 108513,
     "gift_once": 6548
    },
-   "avg_member_chatters": 126.6,
+   "avg_member_chatters": 133.4,
    "partial": true,
    "finalized": false
   }

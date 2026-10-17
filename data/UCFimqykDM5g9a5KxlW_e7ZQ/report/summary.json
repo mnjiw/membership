@@ -3,19 +3,19 @@
  "channel_id": "UCFimqykDM5g9a5KxlW_e7ZQ",
  "handle": "@Onotora_Y4T4",
  "subscribers": 121000,
- "fetched_at": "2026-10-17 09:30",
- "generated_at": "2026-10-17 09:30",
+ "fetched_at": "2026-10-18 05:33",
+ "generated_at": "2026-10-18 05:34",
  "period": {
-  "from": "2026-09-17 09:30",
-  "to": "2026-10-17 09:30",
+  "from": "2026-09-18 05:33",
+  "to": "2026-10-18 05:33",
   "days": 30
  },
- "streams_analyzed": 22,
+ "streams_analyzed": 23,
  "streams_missed": 3,
- "unique_chatters": 2972,
- "members_confirmed": 328,
+ "unique_chatters": 3052,
+ "members_confirmed": 339,
  "member_classes": {
-  "unknown": 304,
+  "unknown": 315,
   "known": 11,
   "gift": 13
  },
@@ -23,17 +23,17 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 48
+   "members": 54
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 48
+   "members": 45
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 232
+   "members": 240
   }
  ],
  "events": {
@@ -52,19 +52,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 11,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 304.0,
-   "estimated_members": 315.0,
+   "allocated_unknown": 315.0,
+   "estimated_members": 326.0,
    "monthly_net_confirmed": 3430,
-   "monthly_net_estimated": 98223
+   "monthly_net_estimated": 101653
   }
  ],
  "revenue": {
-  "monthly_low": 98223,
-  "monthly_est": 98223,
+  "monthly_low": 101653,
+  "monthly_est": 101653,
   "gift_once": 4054,
-  "total_low": 102276,
-  "total_est": 102276,
-  "paying_members": 315,
+  "total_low": 105706,
+  "total_est": 105706,
+  "paying_members": 326,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -292,6 +292,16 @@
    "member_chatters": 71,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "jP4axsKLGbg",
+   "start": "2026-10-18 01:02",
+   "title": "【雑談】深夜の魂の雑談、大会に出ることになりました【にじさんじ】",
+   "kind": "配信",
+   "chatters": 248,
+   "member_chatters": 104,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -328,7 +338,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "オノヘッズ",
-   "like_count": 117,
+   "like_count": 120,
    "view_count": null
   }
  ],
@@ -350,7 +360,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "オノヘッズ",
-   "like_count": 117,
+   "like_count": 120,
    "view_count": null
   }
  ],
@@ -413,14 +423,14 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-17"
+    "to": "2026-10-18"
    },
-   "streams_analyzed": 10,
+   "streams_analyzed": 11,
    "streams_missed": 2,
-   "unique_chatters": 1715,
-   "members_confirmed": 245,
+   "unique_chatters": 1819,
+   "members_confirmed": 263,
    "member_classes": {
-    "unknown": 227,
+    "unknown": 245,
     "known": 7,
     "gift": 11
    },
@@ -428,15 +438,15 @@
    "badges": [
     {
      "months": 0,
-     "members": 33
+     "members": 40
     },
     {
      "months": 1,
-     "members": 37
+     "members": 35
     },
     {
      "months": 2,
-     "members": 175
+     "members": 188
     }
    ],
    "events": {
@@ -450,15 +460,15 @@
      "tier": "オノヘッズ",
      "price": 490,
      "confirmed_members": 7,
-     "estimated_members": 234.0
+     "estimated_members": 252.0
     }
    ],
    "revenue": {
-    "monthly_low": 72965,
-    "monthly_est": 72965,
+    "monthly_low": 78578,
+    "monthly_est": 78578,
     "gift_once": 3430
    },
-   "avg_member_chatters": 90.7,
+   "avg_member_chatters": 91.9,
    "partial": true,
    "finalized": false
   }
