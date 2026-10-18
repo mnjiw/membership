@@ -3,41 +3,41 @@
  "channel_id": "UC9HYkiQZ1_b3J_F8gc12eaA",
  "handle": "@TsukaharaDaichi_Y4T4",
  "subscribers": 117000,
- "fetched_at": "2026-10-18 05:34",
- "generated_at": "2026-10-18 05:34",
+ "fetched_at": "2026-10-18 09:03",
+ "generated_at": "2026-10-18 09:03",
  "period": {
-  "from": "2026-09-18 05:34",
-  "to": "2026-10-18 05:34",
+  "from": "2026-09-18 09:03",
+  "to": "2026-10-18 09:03",
   "days": 30
  },
- "streams_analyzed": 30,
- "streams_missed": 2,
- "unique_chatters": 1730,
- "members_confirmed": 254,
+ "streams_analyzed": 31,
+ "streams_missed": 1,
+ "unique_chatters": 1749,
+ "members_confirmed": 257,
  "member_classes": {
-  "unknown": 239,
-  "known": 15
+  "unknown": 241,
+  "known": 16
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 36
+   "members": 35
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 21
+   "members": 22
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 197
+   "members": 200
   }
  ],
  "events": {
   "new_members": 15,
-  "rejoins": 1,
+  "rejoins": 2,
   "milestones": 0,
   "gift_purchases": 0,
   "gifted_total": 0,
@@ -49,21 +49,21 @@
    "tier": "つかズ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 15,
+   "confirmed_members": 16,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 239.0,
-   "estimated_members": 254.0,
-   "monthly_net_confirmed": 4677,
-   "monthly_net_estimated": 79202
+   "allocated_unknown": 241.0,
+   "estimated_members": 257.0,
+   "monthly_net_confirmed": 4989,
+   "monthly_net_estimated": 80137
   }
  ],
  "revenue": {
-  "monthly_low": 79202,
-  "monthly_est": 79202,
+  "monthly_low": 80137,
+  "monthly_est": 80137,
   "gift_once": 0,
-  "total_low": 79202,
-  "total_est": 79202,
-  "paying_members": 254,
+  "total_low": 80137,
+  "total_est": 80137,
+  "paying_members": 257,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -371,6 +371,16 @@
    "member_chatters": 64,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "Ilzfpoj4mFU",
+   "start": "2026-10-17 23:02",
+   "title": "【OW】大会に向けて自主練するぜ。W / Rei7【塚原大地 / にじさんじ】",
+   "kind": "配信",
+   "chatters": 106,
+   "member_chatters": 70,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -385,18 +395,6 @@
    "members_level": "",
    "like_count": 111,
    "view_count": null
-  },
-  {
-   "video_id": "Ilzfpoj4mFU",
-   "start": "2026-10-17 00:00",
-   "title": "【OW】大会に向けて自主練するぜ。W / Rei7【塚原大地 / にじさんじ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 474,
-   "view_count": 26480
   }
  ],
  "members_only_content": [
@@ -471,32 +469,32 @@
     "from": "2026-10-01",
     "to": "2026-10-18"
    },
-   "streams_analyzed": 15,
-   "streams_missed": 1,
-   "unique_chatters": 1161,
-   "members_confirmed": 203,
+   "streams_analyzed": 16,
+   "streams_missed": 0,
+   "unique_chatters": 1185,
+   "members_confirmed": 209,
    "member_classes": {
-    "unknown": 194,
-    "known": 9
+    "unknown": 199,
+    "known": 10
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 23
+     "members": 22
     },
     {
      "months": 1,
-     "members": 20
+     "members": 21
     },
     {
      "months": 2,
-     "members": 160
+     "members": 166
     }
    ],
    "events": {
     "new_members": 6,
-    "rejoins": 1,
+    "rejoins": 2,
     "milestones": 0,
     "gifted_total": 0
    },
@@ -504,16 +502,16 @@
     {
      "tier": "つかズ",
      "price": 490,
-     "confirmed_members": 9,
-     "estimated_members": 203.0
+     "confirmed_members": 10,
+     "estimated_members": 209.0
     }
    ],
    "revenue": {
-    "monthly_low": 63299,
-    "monthly_est": 63299,
+    "monthly_low": 65170,
+    "monthly_est": 65170,
     "gift_once": 0
    },
-   "avg_member_chatters": 66.7,
+   "avg_member_chatters": 66.9,
    "partial": true,
    "finalized": false
   }

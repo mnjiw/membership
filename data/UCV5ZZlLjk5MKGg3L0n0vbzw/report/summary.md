@@ -1,7 +1,7 @@
 # メンバーシップ集計レポート: 鷹宮リオン / Rion Takamiya
 
-- 対象期間: 2026-09-18 05:20 〜 2026-10-18 05:20（チャットを集計できた配信・プレミア 43 本）
-- データ取得日時: 2026-10-18 05:20
+- 対象期間: 2026-09-18 09:01 〜 2026-10-18 09:01（チャットを集計できた配信・プレミア 43 本）
+- データ取得日時: 2026-10-18 09:01
 - チャットを集計できなかった枠: 2 本（下の「集計できなかった配信」を参照）
 
 ## 概要
@@ -166,8 +166,8 @@
 
 | 日時 | タイトル | 理由 | 視聴できるレベル | 高評価数 |
 |---|---|---|---|---:|
-| 2026-10-16 00:00 | [【LTK4】CC next has finally begun【NIJISANJ](https://www.youtube.com/watch?v=V8Ad9qYoDu0) | 取得エラー（次回再確認） | – | 261 |
-| 2026-10-17 00:00 | [[Dark Souls] Takamiya-kun Discards Honor](https://www.youtube.com/watch?v=B7FV8uU5oLk) | 取得エラー（次回再確認） | – | 290 |
+| 2026-10-16 00:00 | [【LTK4】CC next has finally begun【NIJISANJ](https://www.youtube.com/watch?v=V8Ad9qYoDu0) | 取得エラー（次回再確認） | – | 265 |
+| 2026-10-17 00:00 | [[Dark Souls] Takamiya-kun Discards Honor](https://www.youtube.com/watch?v=B7FV8uU5oLk) | 取得エラー（次回再確認） | – | 333 |
 
 > メンバー限定配信の高評価数は「その配信を見られるメンバーが少なくともこれだけいる」という目安になります。
 

@@ -3,19 +3,19 @@
  "channel_id": "UCeGendL8CO5RkffB6IFwHow",
  "handle": "@Seffyna",
  "subscribers": 238000,
- "fetched_at": "2026-10-18 05:28",
- "generated_at": "2026-10-18 05:28",
+ "fetched_at": "2026-10-18 09:02",
+ "generated_at": "2026-10-18 09:02",
  "period": {
-  "from": "2026-09-18 05:28",
-  "to": "2026-10-18 05:28",
+  "from": "2026-09-18 09:02",
+  "to": "2026-10-18 09:02",
   "days": 30
  },
- "streams_analyzed": 14,
- "streams_missed": 2,
- "unique_chatters": 280,
- "members_confirmed": 52,
+ "streams_analyzed": 15,
+ "streams_missed": 1,
+ "unique_chatters": 290,
+ "members_confirmed": 53,
  "member_classes": {
-  "unknown": 47,
+  "unknown": 48,
   "known": 5
  },
  "badges": [
@@ -37,12 +37,12 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 10
+   "members": 9
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 2
+   "members": 4
   },
   {
    "months": 36,
@@ -71,19 +71,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 5,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 47.0,
-   "estimated_members": 52.0,
+   "allocated_unknown": 48.0,
+   "estimated_members": 53.0,
    "monthly_net_confirmed": 1559,
-   "monthly_net_estimated": 16215
+   "monthly_net_estimated": 16526
   }
  ],
  "revenue": {
-  "monthly_low": 16215,
-  "monthly_est": 16215,
+  "monthly_low": 16526,
+  "monthly_est": 16526,
   "gift_once": 0,
-  "total_low": 16215,
-  "total_est": 16215,
-  "paying_members": 52,
+  "total_low": 16526,
+  "total_est": 16526,
+  "paying_members": 53,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -231,6 +231,16 @@
    "member_chatters": 14,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "NU10enUjuhI",
+   "start": "2026-10-17 15:59",
+   "title": "【 ぽこ あ ポケモン 】ポケモン達もハロウィンを楽しんでいるみたい【にじさんじ | セフィナ】",
+   "kind": "配信",
+   "chatters": 31,
+   "member_chatters": 14,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -245,18 +255,6 @@
    "members_level": "セフィナイトの温室",
    "like_count": 21,
    "view_count": null
-  },
-  {
-   "video_id": "NU10enUjuhI",
-   "start": "2026-10-17 00:00",
-   "title": "【 ぽこ あ ポケモン 】ポケモン達もハロウィンを楽しんでいるみたい【にじさんじ | セフィナ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 184,
-   "view_count": 5014
   }
  ],
  "members_only_content": [
@@ -347,15 +345,15 @@
     "from": "2026-10-01",
     "to": "2026-10-18"
    },
-   "streams_analyzed": 9,
-   "streams_missed": 1,
-   "unique_chatters": 213,
-   "members_confirmed": 46,
+   "streams_analyzed": 10,
+   "streams_missed": 0,
+   "unique_chatters": 224,
+   "members_confirmed": 47,
    "member_classes": {
     "known": 5,
-    "unknown": 41
+    "unknown": 42
    },
-   "long_term_members": 35,
+   "long_term_members": 36,
    "badges": [
     {
      "months": 1,
@@ -371,11 +369,11 @@
     },
     {
      "months": 12,
-     "members": 9
+     "members": 8
     },
     {
      "months": 24,
-     "members": 1
+     "members": 3
     },
     {
      "months": 36,
@@ -397,15 +395,15 @@
      "tier": "セフィナイトの温室",
      "price": 490,
      "confirmed_members": 5,
-     "estimated_members": 46.0
+     "estimated_members": 47.0
     }
    ],
    "revenue": {
-    "monthly_low": 14344,
-    "monthly_est": 14344,
+    "monthly_low": 14655,
+    "monthly_est": 14655,
     "gift_once": 0
    },
-   "avg_member_chatters": 16.4,
+   "avg_member_chatters": 16.2,
    "partial": true,
    "finalized": false
   }
