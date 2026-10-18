@@ -3,66 +3,66 @@
  "channel_id": "UCy91xBlY_Brh3bnHxKtjrrg",
  "handle": "@DoppioDropscythe",
  "subscribers": 264000,
- "fetched_at": "2026-10-18 09:03",
- "generated_at": "2026-10-18 09:04",
+ "fetched_at": "2026-10-19 05:34",
+ "generated_at": "2026-10-19 05:36",
  "period": {
-  "from": "2026-09-18 09:03",
-  "to": "2026-10-18 09:03",
+  "from": "2026-09-19 05:34",
+  "to": "2026-10-19 05:34",
   "days": 30
  },
  "streams_analyzed": 24,
  "streams_missed": 7,
- "unique_chatters": 1146,
- "members_confirmed": 618,
+ "unique_chatters": 2066,
+ "members_confirmed": 684,
  "member_classes": {
-  "unknown": 166,
-  "known": 131,
-  "gift": 321
+  "known": 133,
+  "unknown": 187,
+  "gift": 364
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 322
+   "members": 354
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 2
+   "members": 7
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 48
+   "members": 51
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 30
+   "members": 35
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 55
+   "members": 69
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 47
+   "members": 50
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 114
+   "members": 118
   }
  ],
  "events": {
   "new_members": 1,
-  "rejoins": 5,
-  "milestones": 91,
-  "gift_purchases": 74,
-  "gifted_total": 327,
-  "gift_redemptions": 325
+  "rejoins": 6,
+  "milestones": 90,
+  "gift_purchases": 83,
+  "gifted_total": 380,
+  "gift_redemptions": 368
  },
  "tiers_configured": true,
  "tiers": [
@@ -70,21 +70,21 @@
    "tier": "The Arcade, Dropplets!!",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 131,
+   "confirmed_members": 133,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 166.0,
-   "estimated_members": 297.0,
-   "monthly_net_confirmed": 57521,
-   "monthly_net_estimated": 130410
+   "allocated_unknown": 187.0,
+   "estimated_members": 320.0,
+   "monthly_net_confirmed": 58399,
+   "monthly_net_estimated": 140509
   }
  ],
  "revenue": {
-  "monthly_low": 130410,
-  "monthly_est": 130410,
-  "gift_once": 143583,
-  "total_low": 273993,
-  "total_est": 273993,
-  "paying_members": 297,
+  "monthly_low": 140509,
+  "monthly_est": 140509,
+  "gift_once": 166855,
+  "total_low": 307364,
+  "total_est": 307364,
+  "paying_members": 320,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "xxhjXlO61nw",
-   "start": "2026-09-18 21:02",
-   "title": "Dietrich's Story [FIRE EMBLEM FORTUNE'S WEAVE / 万紫千紅]【NIJISANJI EN | Doppio Dropscythe】",
-   "kind": "配信",
-   "chatters": 99,
-   "member_chatters": 66,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "SvfNqkmIOI0",
    "start": "2026-09-19 07:47",
@@ -332,6 +322,16 @@
    "member_chatters": 109,
    "new_members": 0,
    "gifted_total": 10
+  },
+  {
+   "video_id": "6nty0Q9rd8k",
+   "start": "2026-10-18 21:10",
+   "title": "[🐝The Great NIJISANJI EN Spelling Bee 🐝] & BIG HUGE EPIC ANNOUNCEMENT",
+   "kind": "配信",
+   "chatters": 1229,
+   "member_chatters": 198,
+   "new_members": 0,
+   "gifted_total": 53
   }
  ],
  "missed_streams": [
@@ -344,7 +344,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 58,
+   "like_count": 59,
    "view_count": null
   },
   {
@@ -356,7 +356,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 38,
+   "like_count": 39,
    "view_count": null
   },
   {
@@ -368,7 +368,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 35,
+   "like_count": 36,
    "view_count": null
   },
   {
@@ -380,7 +380,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 28,
+   "like_count": 29,
    "view_count": null
   },
   {
@@ -392,7 +392,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 61,
+   "like_count": 62,
    "view_count": null
   },
   {
@@ -404,7 +404,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 34,
+   "like_count": 35,
    "view_count": null
   },
   {
@@ -416,7 +416,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 32,
+   "like_count": 33,
    "view_count": null
   }
  ],
@@ -428,7 +428,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 58,
+   "like_count": 59,
    "view_count": null
   },
   {
@@ -438,7 +438,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 38,
+   "like_count": 39,
    "view_count": null
   },
   {
@@ -448,7 +448,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 35,
+   "like_count": 36,
    "view_count": null
   },
   {
@@ -458,7 +458,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 28,
+   "like_count": 29,
    "view_count": null
   },
   {
@@ -468,7 +468,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 61,
+   "like_count": 62,
    "view_count": null
   },
   {
@@ -478,7 +478,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 34,
+   "like_count": 35,
    "view_count": null
   },
   {
@@ -488,7 +488,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 32,
+   "like_count": 33,
    "view_count": null
   }
  ],
@@ -567,68 +567,68 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-18"
+    "to": "2026-10-19"
    },
-   "streams_analyzed": 11,
+   "streams_analyzed": 12,
    "streams_missed": 4,
-   "unique_chatters": 695,
-   "members_confirmed": 442,
+   "unique_chatters": 1691,
+   "members_confirmed": 520,
    "member_classes": {
-    "known": 109,
-    "unknown": 132,
-    "gift": 201
+    "known": 115,
+    "unknown": 161,
+    "gift": 244
    },
-   "long_term_members": 175,
+   "long_term_members": 203,
    "badges": [
     {
      "months": 0,
-     "members": 207
+     "members": 240
     },
     {
      "months": 1,
-     "members": 1
+     "members": 6
     },
     {
      "months": 2,
-     "members": 37
+     "members": 43
     },
     {
      "months": 6,
-     "members": 22
+     "members": 28
     },
     {
      "months": 12,
-     "members": 44
+     "members": 62
     },
     {
      "months": 24,
-     "members": 38
+     "members": 42
     },
     {
      "months": 36,
-     "members": 93
+     "members": 99
     }
    ],
    "events": {
     "new_members": 1,
-    "rejoins": 2,
+    "rejoins": 3,
     "milestones": 50,
-    "gifted_total": 203
+    "gifted_total": 256
    },
    "tiers": [
     {
      "tier": "The Arcade, Dropplets!!",
      "price": 690,
-     "confirmed_members": 109,
-     "estimated_members": 241.0
+     "confirmed_members": 115,
+     "estimated_members": 276.0
     }
    ],
    "revenue": {
-    "monthly_low": 105821,
-    "monthly_est": 105821,
-    "gift_once": 89135
+    "monthly_low": 121189,
+    "monthly_est": 121189,
+    "gift_once": 112407
    },
-   "avg_member_chatters": 104.9,
+   "avg_member_chatters": 112.7,
    "partial": true,
    "finalized": false
   }

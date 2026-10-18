@@ -3,20 +3,20 @@
  "channel_id": "UCIzZDiilcPv0wim_MbuizFA",
  "handle": "@RyomaBarrenwort",
  "subscribers": 80800,
- "fetched_at": "2026-10-18 09:04",
- "generated_at": "2026-10-18 09:04",
+ "fetched_at": "2026-10-19 05:35",
+ "generated_at": "2026-10-19 05:35",
  "period": {
-  "from": "2026-09-18 09:04",
-  "to": "2026-10-18 09:04",
+  "from": "2026-09-19 05:35",
+  "to": "2026-10-19 05:35",
   "days": 30
  },
  "streams_analyzed": 15,
  "streams_missed": 1,
- "unique_chatters": 518,
- "members_confirmed": 119,
+ "unique_chatters": 529,
+ "members_confirmed": 120,
  "member_classes": {
-  "unknown": 57,
   "known": 30,
+  "unknown": 58,
   "gift": 32
  },
  "badges": [
@@ -48,13 +48,13 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 20
+   "members": 21
   }
  ],
  "events": {
   "new_members": 2,
   "rejoins": 0,
-  "milestones": 19,
+  "milestones": 20,
   "gift_purchases": 12,
   "gifted_total": 32,
   "gift_redemptions": 32
@@ -67,19 +67,19 @@
    "net_per_member": 439.1,
    "confirmed_members": 30,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 57.0,
-   "estimated_members": 87.0,
+   "allocated_unknown": 58.0,
+   "estimated_members": 88.0,
    "monthly_net_confirmed": 13173,
-   "monthly_net_estimated": 38201
+   "monthly_net_estimated": 38640
   }
  ],
  "revenue": {
-  "monthly_low": 38201,
-  "monthly_est": 38201,
+  "monthly_low": 38640,
+  "monthly_est": 38640,
   "gift_once": 14051,
-  "total_low": 52252,
-  "total_est": 52252,
-  "paying_members": 87,
+  "total_low": 52691,
+  "total_est": 52691,
+  "paying_members": 88,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "YqXMdLAhzFc",
-   "start": "2026-09-18 09:34",
-   "title": "Hands off... that's a presy for Fusey | APEX Legends",
-   "kind": "配信",
-   "chatters": 21,
-   "member_chatters": 9,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "w0lMjn_MBRk",
    "start": "2026-09-20 11:57",
@@ -237,6 +227,16 @@
    "member_chatters": 27,
    "new_members": 0,
    "gifted_total": 5
+  },
+  {
+   "video_id": "yHdc6oCqkRU",
+   "start": "2026-10-18 06:03",
+   "title": "SHHHH no noise 🤫 (PANICORE)",
+   "kind": "配信",
+   "chatters": 32,
+   "member_chatters": 11,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -336,22 +336,22 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-18"
+    "to": "2026-10-19"
    },
-   "streams_analyzed": 7,
+   "streams_analyzed": 8,
    "streams_missed": 0,
-   "unique_chatters": 361,
-   "members_confirmed": 92,
+   "unique_chatters": 376,
+   "members_confirmed": 95,
    "member_classes": {
-    "known": 24,
-    "unknown": 45,
+    "known": 25,
+    "unknown": 47,
     "gift": 23
    },
-   "long_term_members": 43,
+   "long_term_members": 44,
    "badges": [
     {
      "months": 0,
-     "members": 28
+     "members": 29
     },
     {
      "months": 1,
@@ -359,7 +359,7 @@
     },
     {
      "months": 2,
-     "members": 6
+     "members": 7
     },
     {
      "months": 6,
@@ -371,29 +371,29 @@
     },
     {
      "months": 24,
-     "members": 18
+     "members": 19
     }
    ],
    "events": {
     "new_members": 1,
     "rejoins": 0,
-    "milestones": 9,
+    "milestones": 10,
     "gifted_total": 23
    },
    "tiers": [
     {
      "tier": "Ryonins",
      "price": 690,
-     "confirmed_members": 24,
-     "estimated_members": 69.0
+     "confirmed_members": 25,
+     "estimated_members": 72.0
     }
    ],
    "revenue": {
-    "monthly_low": 30297,
-    "monthly_est": 30297,
+    "monthly_low": 31615,
+    "monthly_est": 31615,
     "gift_once": 10099
    },
-   "avg_member_chatters": 24.9,
+   "avg_member_chatters": 23.1,
    "partial": true,
    "finalized": false
   }

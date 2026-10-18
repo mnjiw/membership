@@ -3,19 +3,19 @@
  "channel_id": "UCnbJ8LTbHrsRgqkxwJXCU8w",
  "handle": "@TachitsuteToto",
  "subscribers": 181000,
- "fetched_at": "2026-10-18 09:03",
- "generated_at": "2026-10-18 09:03",
+ "fetched_at": "2026-10-19 05:29",
+ "generated_at": "2026-10-19 05:29",
  "period": {
-  "from": "2026-09-18 09:03",
-  "to": "2026-10-18 09:03",
+  "from": "2026-09-19 05:29",
+  "to": "2026-10-19 05:29",
   "days": 30
  },
- "streams_analyzed": 16,
- "streams_missed": 3,
- "unique_chatters": 2461,
- "members_confirmed": 391,
+ "streams_analyzed": 17,
+ "streams_missed": 2,
+ "unique_chatters": 2510,
+ "members_confirmed": 392,
  "member_classes": {
-  "unknown": 308,
+  "unknown": 309,
   "known": 13,
   "gift": 70
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 92
+   "members": 93
   },
   {
    "months": 1,
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 13,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 308.0,
-   "estimated_members": 321.0,
+   "allocated_unknown": 309.0,
+   "estimated_members": 322.0,
    "monthly_net_confirmed": 4054,
-   "monthly_net_estimated": 100094
+   "monthly_net_estimated": 100405
   }
  ],
  "revenue": {
-  "monthly_low": 100094,
-  "monthly_est": 100094,
+  "monthly_low": 100405,
+  "monthly_est": 100405,
   "gift_once": 21827,
-  "total_low": 121921,
-  "total_est": 121921,
-  "paying_members": 321,
+  "total_low": 122233,
+  "total_est": 122233,
+  "paying_members": 322,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -247,21 +247,19 @@
    "member_chatters": 116,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "OSkeeYQBZO8",
+   "start": "2026-10-18 20:05",
+   "title": "#8【空の軌跡 the 2nd 】ふたりはいつかまた逢える🧭ボース地方にいこうボースねぇ【立伝都々/にじさんじ】",
+   "kind": "配信",
+   "chatters": 470,
+   "member_chatters": 80,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
-  {
-   "video_id": "NNOUjH1vQiI",
-   "start": "2026-09-18 21:01",
-   "title": "【メン限】めちゃカメとごっふぃーをまずはやろう",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 130,
-   "view_count": null
-  },
   {
    "video_id": "YlbqX83_rJk",
    "start": "2026-09-21 19:03",
@@ -283,21 +281,11 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 125,
+   "like_count": 126,
    "view_count": null
   }
  ],
  "members_only_content": [
-  {
-   "video_id": "NNOUjH1vQiI",
-   "start": "2026-09-18 21:01",
-   "title": "【メン限】めちゃカメとごっふぃーをまずはやろう",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 130,
-   "view_count": null
-  },
   {
    "video_id": "Y8pdLbTjvWY",
    "start": "2026-10-16 21:03",
@@ -305,7 +293,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 125,
+   "like_count": 126,
    "view_count": null
   }
  ],
@@ -380,14 +368,14 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-18"
+    "to": "2026-10-19"
    },
-   "streams_analyzed": 9,
+   "streams_analyzed": 10,
    "streams_missed": 1,
-   "unique_chatters": 1715,
-   "members_confirmed": 333,
+   "unique_chatters": 1781,
+   "members_confirmed": 335,
    "member_classes": {
-    "unknown": 254,
+    "unknown": 256,
     "known": 9,
     "gift": 70
    },
@@ -395,7 +383,7 @@
    "badges": [
     {
      "months": 0,
-     "members": 82
+     "members": 83
     },
     {
      "months": 1,
@@ -407,7 +395,7 @@
     },
     {
      "months": 6,
-     "members": 30
+     "members": 31
     },
     {
      "months": 12,
@@ -429,15 +417,15 @@
      "tier": "お助け部の倉庫",
      "price": 490,
      "confirmed_members": 9,
-     "estimated_members": 263.0
+     "estimated_members": 265.0
     }
    ],
    "revenue": {
-    "monthly_low": 82008,
-    "monthly_est": 82008,
+    "monthly_low": 82632,
+    "monthly_est": 82632,
     "gift_once": 21827
    },
-   "avg_member_chatters": 110.1,
+   "avg_member_chatters": 107.1,
    "partial": true,
    "finalized": false
   }

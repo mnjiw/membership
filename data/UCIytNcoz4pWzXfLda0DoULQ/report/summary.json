@@ -3,19 +3,19 @@
  "channel_id": "UCIytNcoz4pWzXfLda0DoULQ",
  "handle": "@ExAlbio",
  "subscribers": 591000,
- "fetched_at": "2026-10-18 09:01",
- "generated_at": "2026-10-18 09:01",
+ "fetched_at": "2026-10-19 05:21",
+ "generated_at": "2026-10-19 05:21",
  "period": {
-  "from": "2026-09-18 09:01",
-  "to": "2026-10-18 09:01",
+  "from": "2026-09-19 05:21",
+  "to": "2026-10-19 05:21",
   "days": 30
  },
- "streams_analyzed": 29,
- "streams_missed": 1,
- "unique_chatters": 9325,
- "members_confirmed": 2968,
+ "streams_analyzed": 28,
+ "streams_missed": 2,
+ "unique_chatters": 9209,
+ "members_confirmed": 2958,
  "member_classes": {
-  "unknown": 1961,
+  "unknown": 1951,
   "known": 185,
   "gift": 822
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 1011
+   "members": 1007
   },
   {
    "months": 1,
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 315
+   "members": 312
   },
   {
    "months": 6,
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 549
+   "members": 546
   },
   {
    "months": 24,
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 185,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1961.0,
-   "estimated_members": 2146.0,
+   "allocated_unknown": 1951.0,
+   "estimated_members": 2136.0,
    "monthly_net_confirmed": 57686,
-   "monthly_net_estimated": 669162
+   "monthly_net_estimated": 666044
   }
  ],
  "revenue": {
-  "monthly_low": 669162,
-  "monthly_est": 669162,
+  "monthly_low": 666044,
+  "monthly_est": 666044,
   "gift_once": 257250,
-  "total_low": 926412,
-  "total_est": 926412,
-  "paying_members": 2146,
+  "total_low": 923294,
+  "total_est": 923294,
+  "paying_members": 2136,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "ToGEf4hylHk",
-   "start": "2026-09-18 22:53",
-   "title": "ゾンビの溢れる世界で人間か感染者かを検問して見つけ出すゲーム『 Quarantine Zone: The Last Check 』【 エビオ/にじさんじ 】",
-   "kind": "配信",
-   "chatters": 728,
-   "member_chatters": 420,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "8USWKUAvszM",
    "start": "2026-09-19 18:53",
@@ -389,8 +379,20 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 842,
+   "like_count": 846,
    "view_count": null
+  },
+  {
+   "video_id": "BpyItkZoMUc",
+   "start": "2026-10-18 00:00",
+   "title": "18490個のレンガをいろんな能力を駆使して1から家にするゲーム『 Brick by Brick: Tidy Up the Small Town! 』【 エビオ/にじさんじ 】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 1840,
+   "view_count": 157230
   }
  ],
  "members_only_content": [
@@ -401,7 +403,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 842,
+   "like_count": 846,
    "view_count": null
   }
  ],
@@ -476,10 +478,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-18"
+    "to": "2026-10-19"
    },
    "streams_analyzed": 16,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 7170,
    "members_confirmed": 2292,
    "member_classes": {

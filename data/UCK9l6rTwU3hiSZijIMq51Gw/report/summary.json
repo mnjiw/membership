@@ -3,27 +3,27 @@
  "channel_id": "UCK9l6rTwU3hiSZijIMq51Gw",
  "handle": "@VezaliusBandage",
  "subscribers": 236000,
- "fetched_at": "2026-10-18 09:04",
- "generated_at": "2026-10-18 09:04",
+ "fetched_at": "2026-10-19 05:34",
+ "generated_at": "2026-10-19 05:35",
  "period": {
-  "from": "2026-09-18 09:04",
-  "to": "2026-10-18 09:04",
+  "from": "2026-09-19 05:34",
+  "to": "2026-10-19 05:34",
   "days": 30
  },
  "streams_analyzed": 20,
  "streams_missed": 2,
- "unique_chatters": 906,
- "members_confirmed": 419,
+ "unique_chatters": 926,
+ "members_confirmed": 424,
  "member_classes": {
   "unknown": 175,
   "known": 48,
-  "gift": 196
+  "gift": 201
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 205
+   "members": 211
   },
   {
    "months": 1,
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 25
+   "members": 24
   },
   {
    "months": 6,
@@ -55,9 +55,9 @@
   "new_members": 4,
   "rejoins": 5,
   "milestones": 20,
-  "gift_purchases": 29,
-  "gifted_total": 196,
-  "gift_redemptions": 196
+  "gift_purchases": 30,
+  "gifted_total": 201,
+  "gift_redemptions": 201
  },
  "tiers_configured": true,
  "tiers": [
@@ -76,9 +76,9 @@
  "revenue": {
   "monthly_low": 69535,
   "monthly_est": 69535,
-  "gift_once": 61116,
-  "total_low": 130652,
-  "total_est": 130652,
+  "gift_once": 62675,
+  "total_low": 132211,
+  "total_est": 132211,
   "paying_members": 223,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "Im2m4kZ_ZYI",
-   "start": "2026-09-18 21:27",
-   "title": "【Satisfactory】Bringing my factory to the next level!【NIJISANJI EN | Vezalius Bandage】",
-   "kind": "配信",
-   "chatters": 84,
-   "member_chatters": 50,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "hFKE_hy0Efo",
    "start": "2026-09-20 21:00",
@@ -287,6 +277,16 @@
    "member_chatters": 49,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "qZ0OZarRH6w",
+   "start": "2026-10-18 18:06",
+   "title": "【League of Legends】Road to Diamond!【NIJISANJI EN | Vezalius Bandage】",
+   "kind": "配信",
+   "chatters": 124,
+   "member_chatters": 58,
+   "new_members": 0,
+   "gifted_total": 5
   }
  ],
  "missed_streams": [
@@ -311,7 +311,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 43,
+   "like_count": 44,
    "view_count": null
   }
  ],
@@ -333,7 +333,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 43,
+   "like_count": 44,
    "view_count": null
   }
  ],
@@ -408,22 +408,22 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-18"
+    "to": "2026-10-19"
    },
-   "streams_analyzed": 9,
+   "streams_analyzed": 10,
    "streams_missed": 1,
-   "unique_chatters": 501,
-   "members_confirmed": 190,
+   "unique_chatters": 550,
+   "members_confirmed": 198,
    "member_classes": {
-    "unknown": 129,
+    "unknown": 132,
     "known": 36,
-    "gift": 25
+    "gift": 30
    },
-   "long_term_members": 115,
+   "long_term_members": 116,
    "badges": [
     {
      "months": 0,
-     "members": 40
+     "members": 47
     },
     {
      "months": 1,
@@ -443,29 +443,29 @@
     },
     {
      "months": 24,
-     "members": 70
+     "members": 71
     }
    ],
    "events": {
     "new_members": 2,
     "rejoins": 1,
     "milestones": 5,
-    "gifted_total": 25
+    "gifted_total": 30
    },
    "tiers": [
     {
      "tier": "VezShip",
      "price": 490,
      "confirmed_members": 36,
-     "estimated_members": 165.0
+     "estimated_members": 168.0
     }
    ],
    "revenue": {
-    "monthly_low": 51450,
-    "monthly_est": 51450,
-    "gift_once": 7795
+    "monthly_low": 52385,
+    "monthly_est": 52385,
+    "gift_once": 9355
    },
-   "avg_member_chatters": 67.8,
+   "avg_member_chatters": 66.8,
    "partial": true,
    "finalized": false
   }

@@ -3,27 +3,27 @@
  "channel_id": "UCRcLAVTbmx2-iNcXSsupdNA",
  "handle": "@KurusuNatsume",
  "subscribers": 268000,
- "fetched_at": "2026-10-18 09:02",
- "generated_at": "2026-10-18 09:02",
+ "fetched_at": "2026-10-19 05:23",
+ "generated_at": "2026-10-19 05:24",
  "period": {
-  "from": "2026-09-18 09:02",
-  "to": "2026-10-18 09:02",
+  "from": "2026-09-19 05:23",
+  "to": "2026-10-19 05:23",
   "days": 30
  },
  "streams_analyzed": 9,
- "streams_missed": 2,
- "unique_chatters": 1026,
- "members_confirmed": 417,
+ "streams_missed": 1,
+ "unique_chatters": 1082,
+ "members_confirmed": 441,
  "member_classes": {
-  "unknown": 386,
-  "known": 11,
-  "gift": 20
+  "unknown": 411,
+  "known": 15,
+  "gift": 15
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 30
+   "members": 28
   },
   {
    "months": 1,
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 16
+   "members": 19
   },
   {
    "months": 6,
@@ -43,41 +43,41 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 58
+   "members": 65
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 55
+   "members": 60
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 62
+   "members": 66
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 83
+   "members": 87
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 79
+   "members": 80
   },
   {
    "months": 72,
    "label": "6年",
-   "members": 17
+   "members": 19
   }
  ],
  "events": {
-  "new_members": 4,
-  "rejoins": 3,
+  "new_members": 5,
+  "rejoins": 6,
   "milestones": 0,
-  "gift_purchases": 4,
-  "gifted_total": 20,
-  "gift_redemptions": 20
+  "gift_purchases": 3,
+  "gifted_total": 15,
+  "gift_redemptions": 15
  },
  "tiers_configured": true,
  "tiers": [
@@ -85,32 +85,32 @@
    "tier": "なつめいとスタンダード",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 6,
-   "share_of_confirmed_pct": 54.5,
-   "allocated_unknown": 210.5,
-   "estimated_members": 216.5,
-   "monthly_net_confirmed": 1871,
-   "monthly_net_estimated": 67523
+   "confirmed_members": 9,
+   "share_of_confirmed_pct": 60.0,
+   "allocated_unknown": 246.6,
+   "estimated_members": 255.6,
+   "monthly_net_confirmed": 2806,
+   "monthly_net_estimated": 79701
   },
   {
    "tier": "なつめいとクリエイティブ",
    "price": 1190,
    "net_per_member": 757.3,
-   "confirmed_members": 5,
-   "share_of_confirmed_pct": 45.5,
-   "allocated_unknown": 175.5,
-   "estimated_members": 180.5,
-   "monthly_net_confirmed": 3786,
-   "monthly_net_estimated": 136653
+   "confirmed_members": 6,
+   "share_of_confirmed_pct": 40.0,
+   "allocated_unknown": 164.4,
+   "estimated_members": 170.4,
+   "monthly_net_confirmed": 4544,
+   "monthly_net_estimated": 129039
   }
  ],
  "revenue": {
-  "monthly_low": 126019,
-  "monthly_est": 204176,
-  "gift_once": 6236,
-  "total_low": 132255,
-  "total_est": 210412,
-  "paying_members": 397,
+  "monthly_low": 135507,
+  "monthly_est": 208740,
+  "gift_once": 4677,
+  "total_low": 140185,
+  "total_est": 213417,
+  "paying_members": 426,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -119,16 +119,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "JJP89LsYj9s",
-   "start": "2026-09-18 22:00",
-   "title": "【#にじ遊戯王祭2026】そしてまた！絢嵐を覚えさせてください！【来栖夏芽/にじさんじ】",
-   "kind": "配信",
-   "chatters": 148,
-   "member_chatters": 94,
-   "new_members": 0,
-   "gifted_total": 5
-  },
   {
    "video_id": "suI4SaveQ-I",
    "start": "2026-09-19 20:00",
@@ -208,6 +198,16 @@
    "member_chatters": 186,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "jmTARSIlFWU",
+   "start": "2026-10-16 22:03",
+   "title": "ゆるピアノ【来栖夏芽/にじさんじ】",
+   "kind": "配信",
+   "chatters": 247,
+   "member_chatters": 164,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -220,20 +220,8 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "なつめいとスタンダード",
-   "like_count": 211,
+   "like_count": 213,
    "view_count": null
-  },
-  {
-   "video_id": "jmTARSIlFWU",
-   "start": "2026-10-16 00:00",
-   "title": "ゆるピアノ【来栖夏芽/にじさんじ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 1071,
-   "view_count": 23327
   }
  ],
  "members_only_content": [
@@ -244,7 +232,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "なつめいとスタンダード",
-   "like_count": 211,
+   "like_count": 213,
    "view_count": null
   }
  ],
@@ -341,22 +329,22 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-18"
+    "to": "2026-10-19"
    },
-   "streams_analyzed": 2,
-   "streams_missed": 2,
-   "unique_chatters": 353,
-   "members_confirmed": 282,
+   "streams_analyzed": 3,
+   "streams_missed": 1,
+   "unique_chatters": 458,
+   "members_confirmed": 325,
    "member_classes": {
-    "known": 9,
-    "unknown": 263,
+    "known": 13,
+    "unknown": 302,
     "gift": 10
    },
-   "long_term_members": 238,
+   "long_term_members": 275,
    "badges": [
     {
      "months": 0,
-     "members": 18
+     "members": 21
     },
     {
      "months": 1,
@@ -364,7 +352,7 @@
     },
     {
      "months": 2,
-     "members": 12
+     "members": 15
     },
     {
      "months": 6,
@@ -372,32 +360,32 @@
     },
     {
      "months": 12,
-     "members": 40
-    },
-    {
-     "months": 24,
-     "members": 41
-    },
-    {
-     "months": 36,
-     "members": 41
-    },
-    {
-     "months": 48,
-     "members": 55
-    },
-    {
-     "months": 60,
      "members": 51
     },
     {
+     "months": 24,
+     "members": 47
+    },
+    {
+     "months": 36,
+     "members": 49
+    },
+    {
+     "months": 48,
+     "members": 62
+    },
+    {
+     "months": 60,
+     "members": 54
+    },
+    {
      "months": 72,
-     "members": 10
+     "members": 12
     }
    ],
    "events": {
-    "new_members": 2,
-    "rejoins": 2,
+    "new_members": 3,
+    "rejoins": 5,
     "milestones": 0,
     "gifted_total": 10
    },
@@ -405,22 +393,22 @@
     {
      "tier": "なつめいとスタンダード",
      "price": 490,
-     "confirmed_members": 5,
-     "estimated_members": 151.1
+     "confirmed_members": 8,
+     "estimated_members": 193.8
     },
     {
      "tier": "なつめいとクリエイティブ",
      "price": 1190,
-     "confirmed_members": 4,
-     "estimated_members": 120.9
+     "confirmed_members": 5,
+     "estimated_members": 121.2
     }
    ],
    "revenue": {
-    "monthly_low": 86596,
-    "monthly_est": 138665,
+    "monthly_low": 100450,
+    "monthly_est": 152191,
     "gift_once": 3118
    },
-   "avg_member_chatters": 187,
+   "avg_member_chatters": 179.3,
    "partial": true,
    "finalized": false
   }

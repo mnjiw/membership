@@ -3,19 +3,19 @@
  "channel_id": "UC8SJPcLpIM3x8RdBJFfiluw",
  "handle": "@Kaisei_nijisanji",
  "subscribers": 363000,
- "fetched_at": "2026-10-18 09:03",
- "generated_at": "2026-10-18 09:03",
+ "fetched_at": "2026-10-19 05:29",
+ "generated_at": "2026-10-19 05:30",
  "period": {
-  "from": "2026-09-18 09:03",
-  "to": "2026-10-18 09:03",
+  "from": "2026-09-19 05:29",
+  "to": "2026-10-19 05:29",
   "days": 30
  },
- "streams_analyzed": 20,
+ "streams_analyzed": 21,
  "streams_missed": 1,
- "unique_chatters": 4295,
- "members_confirmed": 1430,
+ "unique_chatters": 4327,
+ "members_confirmed": 1437,
  "member_classes": {
-  "unknown": 1298,
+  "unknown": 1305,
   "known": 32,
   "gift": 100
  },
@@ -23,17 +23,17 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 171
+   "members": 172
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 68
+   "members": 71
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 159
+   "members": 158
   },
   {
    "months": 6,
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 844
+   "members": 848
   }
  ],
  "events": {
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 32,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1298.0,
-   "estimated_members": 1330.0,
+   "allocated_unknown": 1305.0,
+   "estimated_members": 1337.0,
    "monthly_net_confirmed": 9978,
-   "monthly_net_estimated": 414718
+   "monthly_net_estimated": 416901
   }
  ],
  "revenue": {
-  "monthly_low": 414718,
-  "monthly_est": 414718,
+  "monthly_low": 416901,
+  "monthly_est": 416901,
   "gift_once": 31182,
-  "total_low": 445900,
-  "total_est": 445900,
-  "paying_members": 1330,
+  "total_low": 448083,
+  "total_est": 448083,
+  "paying_members": 1337,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -282,6 +282,16 @@
    "member_chatters": 344,
    "new_members": 2,
    "gifted_total": 0
+  },
+  {
+   "video_id": "WeW3dgFexQM",
+   "start": "2026-10-18 22:00",
+   "title": "【 カブトムシの森 】この夏、最後の虫取り。【魁星/にじさんじ】",
+   "kind": "配信",
+   "chatters": 432,
+   "member_chatters": 318,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -294,7 +304,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 565,
+   "like_count": 566,
    "view_count": null
   }
  ],
@@ -306,7 +316,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 565,
+   "like_count": 566,
    "view_count": null
   }
  ],
@@ -377,26 +387,26 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-18"
+    "to": "2026-10-19"
    },
-   "streams_analyzed": 11,
+   "streams_analyzed": 12,
    "streams_missed": 1,
-   "unique_chatters": 2485,
-   "members_confirmed": 1056,
+   "unique_chatters": 2532,
+   "members_confirmed": 1074,
    "member_classes": {
-    "unknown": 969,
-    "known": 27,
+    "unknown": 986,
+    "known": 28,
     "gift": 60
    },
-   "long_term_members": 624,
+   "long_term_members": 634,
    "badges": [
     {
      "months": 0,
-     "members": 105
+     "members": 109
     },
     {
      "months": 1,
-     "members": 57
+     "members": 60
     },
     {
      "months": 2,
@@ -404,11 +414,11 @@
     },
     {
      "months": 6,
-     "members": 143
+     "members": 144
     },
     {
      "months": 12,
-     "members": 624
+     "members": 634
     }
    ],
    "events": {
@@ -421,16 +431,16 @@
     {
      "tier": "ファンキーな錠連",
      "price": 490,
-     "confirmed_members": 27,
-     "estimated_members": 996.0
+     "confirmed_members": 28,
+     "estimated_members": 1014.0
     }
    ],
    "revenue": {
-    "monthly_low": 310571,
-    "monthly_est": 310571,
+    "monthly_low": 316184,
+    "monthly_est": 316184,
     "gift_once": 18709
    },
-   "avg_member_chatters": 354.5,
+   "avg_member_chatters": 351.4,
    "partial": true,
    "finalized": false
   }

@@ -2,71 +2,72 @@
  "month": "2026-10",
  "coverage": {
   "from": "2026-10-01",
-  "to": "2026-10-18"
+  "to": "2026-10-19"
  },
- "streams_analyzed": 4,
+ "streams_analyzed": 5,
  "streams_missed": 0,
- "unique_chatters": 2532,
- "members_confirmed": 606,
+ "unique_chatters": 2781,
+ "members_confirmed": 648,
  "member_classes": {
-  "unknown": 601,
-  "known": 5
+  "unknown": 632,
+  "known": 6,
+  "gift": 10
  },
- "long_term_members": 544,
+ "long_term_members": 570,
  "badges": [
   {
    "months": 0,
-   "members": 7
+   "members": 19
   },
   {
    "months": 1,
-   "members": 6
+   "members": 7
   },
   {
    "months": 2,
-   "members": 18
+   "members": 20
   },
   {
    "months": 6,
-   "members": 31
+   "members": 32
   },
   {
    "months": 12,
-   "members": 44
+   "members": 46
   },
   {
    "months": 24,
-   "members": 50
+   "members": 54
   },
   {
    "months": 36,
-   "members": 58
+   "members": 60
   },
   {
    "months": 48,
-   "members": 392
+   "members": 410
   }
  ],
  "events": {
-  "new_members": 1,
+  "new_members": 2,
   "rejoins": 2,
   "milestones": 0,
-  "gifted_total": 0
+  "gifted_total": 10
  },
  "tiers": [
   {
    "tier": "ヘルエスタ王国民シップ",
    "price": 490,
-   "confirmed_members": 5,
-   "estimated_members": 606.0
+   "confirmed_members": 6,
+   "estimated_members": 638.0
   }
  ],
  "revenue": {
-  "monthly_low": 188962,
-  "monthly_est": 188962,
-  "gift_once": 0
+  "monthly_low": 198940,
+  "monthly_est": 198940,
+  "gift_once": 3118
  },
- "avg_member_chatters": 362.2,
+ "avg_member_chatters": 375,
  "partial": true,
  "finalized": false
 }
