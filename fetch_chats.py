@@ -114,6 +114,7 @@ class YtLog:
 
     def __init__(self):
         self.notable = []
+        self.recent = []   # 直近の警告 (fetch_one が1枠ごとに空にして、見られない理由を拾うのに使う)
 
     def debug(self, msg):
         pass
@@ -122,6 +123,8 @@ class YtLog:
         pass
 
     def warning(self, msg):
+        if len(self.recent) < 50:
+            self.recent.append(msg.strip())
         if any(h in msg for h in self.HINTS) and len(self.notable) < 20:
             self.notable.append(msg.strip())
 
@@ -277,7 +280,14 @@ def fetch_one(args, video_id: str, chats_dir: Path, cutoff_ts: float, prev: dict
     })
     url = f"https://www.youtube.com/watch?v={video_id}"
     with yt_dlp.YoutubeDL(opts) as ydl:
+        YTLOG.recent.clear()
         info = ydl.extract_info(url, download=False)
+        if not info.get("channel_id") and not info.get("formats") and info.get("title") == f"youtube video #{video_id}":
+            # 非公開・削除などで見られない枠は、ignore_no_formats_error のせいでエラーにならず、理由 (例: Private video) は
+            # 警告に出るだけで、中身が空の情報 (タイトルが「youtube video #ID」) が返ってくる。
+            # そのままだと「情報が欠けた枠」と区別できないので、理由つきのエラーにして main() の判定に回す
+            reason = next((w for w in YTLOG.recent if w.startswith("[youtube]")), None)
+            raise yt_dlp.utils.DownloadError(f"ERROR: {reason or 'Video unavailable (中身が空の情報が返ってきた)'}")
         start_ts = info.get("release_timestamp") or info.get("timestamp")
         if not start_ts and info.get("upload_date"):
             start_ts = datetime.strptime(info["upload_date"], "%Y%m%d").replace(tzinfo=JST).timestamp()
