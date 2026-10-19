@@ -2,14 +2,15 @@
  "month": "2026-10",
  "coverage": {
   "from": "2026-10-01",
-  "to": "2026-10-19"
+  "to": "2026-10-20"
  },
- "streams_analyzed": 11,
+ "streams_analyzed": 12,
  "streams_missed": 0,
- "unique_chatters": 654,
- "members_confirmed": 57,
+ "unique_chatters": 943,
+ "members_confirmed": 61,
  "member_classes": {
-  "unknown": 57
+  "unknown": 60,
+  "known": 1
  },
  "long_term_members": 0,
  "badges": [
@@ -27,29 +28,29 @@
   },
   {
    "months": 6,
-   "members": 49
+   "members": 53
   }
  ],
  "events": {
   "new_members": 0,
   "rejoins": 0,
-  "milestones": 0,
+  "milestones": 1,
   "gifted_total": 0
  },
  "tiers": [
   {
    "tier": "奇特なトマト",
    "price": 490,
-   "confirmed_members": 0,
-   "estimated_members": 57.0
+   "confirmed_members": 1,
+   "estimated_members": 61.0
   }
  ],
  "revenue": {
-  "monthly_low": 17774,
-  "monthly_est": 17774,
+  "monthly_low": 19021,
+  "monthly_est": 19021,
   "gift_once": 0
  },
- "avg_member_chatters": 14.9,
+ "avg_member_chatters": 15.4,
  "partial": true,
  "finalized": false
 }

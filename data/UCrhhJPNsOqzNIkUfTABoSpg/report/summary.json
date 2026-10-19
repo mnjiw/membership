@@ -3,20 +3,20 @@
  "channel_id": "UCrhhJPNsOqzNIkUfTABoSpg",
  "handle": "@HaYun",
  "subscribers": 133000,
- "fetched_at": "2026-10-19 09:15",
- "generated_at": "2026-10-19 15:39",
+ "fetched_at": "2026-10-20 05:27",
+ "generated_at": "2026-10-20 05:27",
  "period": {
-  "from": "2026-09-19 09:15",
-  "to": "2026-10-19 09:15",
+  "from": "2026-09-20 05:27",
+  "to": "2026-10-20 05:27",
   "days": 30
  },
  "streams_analyzed": 20,
  "streams_missed": 0,
- "unique_chatters": 155,
- "members_confirmed": 95,
+ "unique_chatters": 158,
+ "members_confirmed": 90,
  "member_classes": {
-  "known": 12,
-  "unknown": 63,
+  "unknown": 59,
+  "known": 11,
   "gift": 20
  },
  "badges": [
@@ -38,7 +38,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 9
+   "members": 6
   },
   {
    "months": 12,
@@ -48,13 +48,13 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 43
+   "members": 41
   }
  ],
  "events": {
   "new_members": 0,
   "rejoins": 4,
-  "milestones": 6,
+  "milestones": 5,
   "gift_purchases": 4,
   "gifted_total": 20,
   "gift_redemptions": 20
@@ -65,21 +65,21 @@
    "tier": "HaYun Membership",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 12,
+   "confirmed_members": 11,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 63.0,
-   "estimated_members": 75.0,
-   "monthly_net_confirmed": 3742,
-   "monthly_net_estimated": 23386
+   "allocated_unknown": 59.0,
+   "estimated_members": 70.0,
+   "monthly_net_confirmed": 3430,
+   "monthly_net_estimated": 21827
   }
  ],
  "revenue": {
-  "monthly_low": 23386,
-  "monthly_est": 23386,
+  "monthly_low": 21827,
+  "monthly_est": 21827,
   "gift_once": 6236,
-  "total_low": 29623,
-  "total_est": 29623,
-  "paying_members": 75,
+  "total_low": 28064,
+  "total_est": 28064,
+  "paying_members": 70,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "GxKP3_56oCE",
-   "start": "2026-09-19 14:01",
-   "title": "【APEX】お久しぶりAPEX！  【ハユン/にじさんじ】",
-   "kind": "配信",
-   "chatters": 43,
-   "member_chatters": 30,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "4crB87Tarag",
    "start": "2026-09-22 19:01",
@@ -287,6 +277,16 @@
    "member_chatters": 23,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "UgC_Dj-U_U0",
+   "start": "2026-10-19 19:08",
+   "title": "【スプラ3】  教えてください 桜凛月先生【ハユン/にじさんじ】",
+   "kind": "配信",
+   "chatters": 45,
+   "member_chatters": 23,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -362,17 +362,17 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-19"
+    "to": "2026-10-20"
    },
-   "streams_analyzed": 6,
+   "streams_analyzed": 7,
    "streams_missed": 0,
-   "unique_chatters": 82,
-   "members_confirmed": 50,
+   "unique_chatters": 98,
+   "members_confirmed": 51,
    "member_classes": {
     "known": 9,
-    "unknown": 41
+    "unknown": 42
    },
-   "long_term_members": 38,
+   "long_term_members": 39,
    "badges": [
     {
      "months": 2,
@@ -384,7 +384,7 @@
     },
     {
      "months": 12,
-     "members": 5
+     "members": 6
     },
     {
      "months": 24,
@@ -402,15 +402,15 @@
      "tier": "HaYun Membership",
      "price": 490,
      "confirmed_members": 9,
-     "estimated_members": 50.0
+     "estimated_members": 51.0
     }
    ],
    "revenue": {
-    "monthly_low": 15591,
-    "monthly_est": 15591,
+    "monthly_low": 15903,
+    "monthly_est": 15903,
     "gift_once": 0
    },
-   "avg_member_chatters": 21.5,
+   "avg_member_chatters": 21.7,
    "partial": true,
    "finalized": false
   }

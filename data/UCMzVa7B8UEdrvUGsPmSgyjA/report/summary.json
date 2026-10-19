@@ -3,21 +3,21 @@
  "channel_id": "UCMzVa7B8UEdrvUGsPmSgyjA",
  "handle": "@DeremKado",
  "subscribers": 48300,
- "fetched_at": "2026-10-19 09:14",
- "generated_at": "2026-10-19 15:39",
+ "fetched_at": "2026-10-20 05:26",
+ "generated_at": "2026-10-20 05:27",
  "period": {
-  "from": "2026-09-19 09:14",
-  "to": "2026-10-19 09:14",
+  "from": "2026-09-20 05:26",
+  "to": "2026-10-20 05:26",
   "days": 30
  },
- "streams_analyzed": 14,
- "streams_missed": 0,
- "unique_chatters": 197,
+ "streams_analyzed": 15,
+ "streams_missed": 1,
+ "unique_chatters": 199,
  "members_confirmed": 73,
  "member_classes": {
-  "unknown": 28,
+  "unknown": 27,
   "gift": 42,
-  "known": 3
+  "known": 4
  },
  "badges": [
   {
@@ -64,7 +64,7 @@
  "events": {
   "new_members": 0,
   "rejoins": 1,
-  "milestones": 3,
+  "milestones": 4,
   "gift_purchases": 9,
   "gifted_total": 42,
   "gift_redemptions": 42
@@ -75,11 +75,11 @@
    "tier": "Magical Domikado",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 3,
+   "confirmed_members": 4,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 28.0,
+   "allocated_unknown": 27.0,
    "estimated_members": 31.0,
-   "monthly_net_confirmed": 935,
+   "monthly_net_confirmed": 1247,
    "monthly_net_estimated": 9666
   }
  ],
@@ -237,9 +237,32 @@
    "member_chatters": 12,
    "new_members": 0,
    "gifted_total": 5
+  },
+  {
+   "video_id": "2Cck_854noU",
+   "start": "2026-10-19 22:15",
+   "title": "【 Valheim 】 I must see my carrots 【 NIJISANJI | Derem Kado 】",
+   "kind": "配信",
+   "chatters": 16,
+   "member_chatters": 5,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "qMm6uggJAao",
+   "start": "2026-10-19 00:00",
+   "title": "【 Valheim 】 Where's the Turnip【 NIJISANJI | Derem Kado 】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 121,
+   "view_count": 820
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -320,18 +343,18 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-19"
+    "to": "2026-10-20"
    },
-   "streams_analyzed": 8,
-   "streams_missed": 0,
-   "unique_chatters": 116,
-   "members_confirmed": 48,
+   "streams_analyzed": 9,
+   "streams_missed": 1,
+   "unique_chatters": 119,
+   "members_confirmed": 49,
    "member_classes": {
     "unknown": 19,
-    "known": 3,
+    "known": 4,
     "gift": 26
    },
-   "long_term_members": 14,
+   "long_term_members": 15,
    "badges": [
     {
      "months": 0,
@@ -351,7 +374,7 @@
     },
     {
      "months": 12,
-     "members": 2
+     "members": 3
     },
     {
      "months": 24,
@@ -369,23 +392,23 @@
    "events": {
     "new_members": 0,
     "rejoins": 1,
-    "milestones": 2,
+    "milestones": 3,
     "gifted_total": 26
    },
    "tiers": [
     {
      "tier": "Magical Domikado",
      "price": 490,
-     "confirmed_members": 3,
-     "estimated_members": 22.0
+     "confirmed_members": 4,
+     "estimated_members": 23.0
     }
    ],
    "revenue": {
-    "monthly_low": 6860,
-    "monthly_est": 6860,
+    "monthly_low": 7172,
+    "monthly_est": 7172,
     "gift_once": 8107
    },
-   "avg_member_chatters": 10.9,
+   "avg_member_chatters": 10.2,
    "partial": true,
    "finalized": false
   }

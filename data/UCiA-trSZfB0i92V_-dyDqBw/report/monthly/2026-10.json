@@ -2,67 +2,68 @@
  "month": "2026-10",
  "coverage": {
   "from": "2026-10-01",
-  "to": "2026-10-19"
+  "to": "2026-10-20"
  },
- "streams_analyzed": 11,
- "streams_missed": 0,
- "unique_chatters": 5231,
- "members_confirmed": 716,
+ "streams_analyzed": 12,
+ "streams_missed": 1,
+ "unique_chatters": 5855,
+ "members_confirmed": 753,
  "member_classes": {
-  "unknown": 686,
-  "known": 30
+  "unknown": 713,
+  "known": 35,
+  "gift": 5
  },
- "long_term_members": 494,
+ "long_term_members": 509,
  "badges": [
   {
    "months": 0,
-   "members": 53
+   "members": 65
   },
   {
    "months": 1,
-   "members": 19
+   "members": 20
   },
   {
    "months": 2,
-   "members": 63
+   "members": 68
   },
   {
    "months": 6,
-   "members": 87
+   "members": 91
   },
   {
    "months": 12,
-   "members": 185
+   "members": 192
   },
   {
    "months": 24,
-   "members": 158
+   "members": 162
   },
   {
    "months": 36,
-   "members": 151
+   "members": 155
   }
  ],
  "events": {
-  "new_members": 10,
-  "rejoins": 2,
+  "new_members": 14,
+  "rejoins": 3,
   "milestones": 0,
-  "gifted_total": 0
+  "gifted_total": 5
  },
  "tiers": [
   {
    "tier": "めるねいとの拳たち",
    "price": 490,
-   "confirmed_members": 30,
-   "estimated_members": 716.0
+   "confirmed_members": 35,
+   "estimated_members": 748.0
   }
  ],
  "revenue": {
-  "monthly_low": 223262,
-  "monthly_est": 223262,
-  "gift_once": 0
+  "monthly_low": 233240,
+  "monthly_est": 233240,
+  "gift_once": 1559
  },
- "avg_member_chatters": 289.1,
+ "avg_member_chatters": 295.5,
  "partial": true,
  "finalized": false
 }

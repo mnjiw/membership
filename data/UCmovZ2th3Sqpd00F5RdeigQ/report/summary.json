@@ -2,62 +2,62 @@
  "channel": "加賀美 ハヤト/Hayato Kagami",
  "channel_id": "UCmovZ2th3Sqpd00F5RdeigQ",
  "handle": "@KagamiHayato",
- "subscribers": 962000,
- "fetched_at": "2026-10-19 09:13",
- "generated_at": "2026-10-19 15:39",
+ "subscribers": 963000,
+ "fetched_at": "2026-10-20 05:22",
+ "generated_at": "2026-10-20 05:25",
  "period": {
-  "from": "2026-09-19 09:13",
-  "to": "2026-10-19 09:13",
+  "from": "2026-09-20 05:22",
+  "to": "2026-10-20 05:22",
   "days": 30
  },
- "streams_analyzed": 15,
- "streams_missed": 1,
- "unique_chatters": 9200,
- "members_confirmed": 2724,
+ "streams_analyzed": 17,
+ "streams_missed": 0,
+ "unique_chatters": 11328,
+ "members_confirmed": 3582,
  "member_classes": {
-  "unknown": 2668,
-  "known": 29,
-  "gift": 27
+  "unknown": 3407,
+  "known": 43,
+  "gift": 132
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 101
+   "members": 225
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 39
+   "members": 55
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 203
+   "members": 269
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 400
+   "members": 517
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 641
+   "members": 813
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 1340
+   "members": 1703
   }
  ],
  "events": {
-  "new_members": 7,
-  "rejoins": 14,
+  "new_members": 17,
+  "rejoins": 16,
   "milestones": 0,
-  "gift_purchases": 5,
-  "gifted_total": 27,
-  "gift_redemptions": 27
+  "gift_purchases": 15,
+  "gifted_total": 137,
+  "gift_redemptions": 132
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +65,21 @@
    "tier": "加賀美ハヤトのメンバーシップ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 29,
+   "confirmed_members": 43,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2668.0,
-   "estimated_members": 2697.0,
-   "monthly_net_confirmed": 9043,
-   "monthly_net_estimated": 840974
+   "allocated_unknown": 3407.0,
+   "estimated_members": 3450.0,
+   "monthly_net_confirmed": 13408,
+   "monthly_net_estimated": 1075773
   }
  ],
  "revenue": {
-  "monthly_low": 840974,
-  "monthly_est": 840974,
-  "gift_once": 8419,
-  "total_low": 849393,
-  "total_est": 849393,
-  "paying_members": 2697,
+  "monthly_low": 1075773,
+  "monthly_est": 1075773,
+  "gift_once": 42719,
+  "total_low": 1118492,
+  "total_est": 1118492,
+  "paying_members": 3450,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -237,34 +237,30 @@
    "member_chatters": 1043,
    "new_members": 0,
    "gifted_total": 0
-  }
- ],
- "missed_streams": [
+  },
   {
-   "video_id": "8qZ9mV5LIcc",
-   "start": "2026-09-20 00:00",
-   "title": "【メンバーシップ配信】2026年9月のメンバーシップ配信【にじさんじ/加賀美ハヤト】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 1189,
-   "view_count": null
-  }
- ],
- "members_only_content": [
+   "video_id": "a469El-vmFg",
+   "start": "2026-10-19 21:00",
+   "title": "【 #加賀美ハヤトの新衣装 】お久しぶりです！秋の新衣装お披露目配信。【にじさんじ/加賀美ハヤト】",
+   "kind": "配信",
+   "chatters": 4213,
+   "member_chatters": 2461,
+   "new_members": 10,
+   "gifted_total": 100
+  },
   {
-   "video_id": "8qZ9mV5LIcc",
-   "start": "2026-09-20 00:00",
-   "title": "【メンバーシップ配信】2026年9月のメンバーシップ配信【にじさんじ/加賀美ハヤト】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 1189,
-   "view_count": null
+   "video_id": "fLTyqkS9khU",
+   "start": "2026-10-19 22:03",
+   "title": "シャンティ/wotaku【加賀美ハヤト Cover】",
+   "kind": "プレミア",
+   "chatters": 1175,
+   "member_chatters": 657,
+   "new_members": 0,
+   "gifted_total": 10
   }
  ],
+ "missed_streams": [],
+ "members_only_content": [],
  "history": [
   {
    "month": "2026-09",
@@ -336,64 +332,64 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-19"
+    "to": "2026-10-20"
    },
-   "streams_analyzed": 10,
+   "streams_analyzed": 12,
    "streams_missed": 0,
-   "unique_chatters": 6692,
-   "members_confirmed": 2371,
+   "unique_chatters": 9099,
+   "members_confirmed": 3370,
    "member_classes": {
-    "unknown": 2323,
-    "known": 22,
-    "gift": 26
+    "unknown": 3202,
+    "known": 37,
+    "gift": 131
    },
-   "long_term_members": 1719,
+   "long_term_members": 2355,
    "badges": [
     {
      "months": 0,
-     "members": 86
+     "members": 215
     },
     {
      "months": 1,
-     "members": 34
+     "members": 52
     },
     {
      "months": 2,
-     "members": 175
+     "members": 252
     },
     {
      "months": 6,
-     "members": 357
+     "members": 496
     },
     {
      "months": 12,
-     "members": 568
+     "members": 775
     },
     {
      "months": 24,
-     "members": 1151
+     "members": 1580
     }
    ],
    "events": {
-    "new_members": 5,
-    "rejoins": 11,
+    "new_members": 15,
+    "rejoins": 13,
     "milestones": 0,
-    "gifted_total": 26
+    "gifted_total": 136
    },
    "tiers": [
     {
      "tier": "加賀美ハヤトのメンバーシップ",
      "price": 490,
-     "confirmed_members": 22,
-     "estimated_members": 2345.0
+     "confirmed_members": 37,
+     "estimated_members": 3239.0
     }
    ],
    "revenue": {
-    "monthly_low": 731214,
-    "monthly_est": 731214,
-    "gift_once": 8107
+    "monthly_low": 1009979,
+    "monthly_est": 1009979,
+    "gift_once": 42407
    },
-   "avg_member_chatters": 896,
+   "avg_member_chatters": 1006.5,
    "partial": true,
    "finalized": false
   }

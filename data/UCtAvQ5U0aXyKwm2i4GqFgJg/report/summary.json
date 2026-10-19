@@ -3,16 +3,16 @@
  "channel_id": "UCtAvQ5U0aXyKwm2i4GqFgJg",
  "handle": "@HarusakiAir",
  "subscribers": 197000,
- "fetched_at": "2026-10-19 09:12",
- "generated_at": "2026-10-19 15:39",
+ "fetched_at": "2026-10-20 05:19",
+ "generated_at": "2026-10-20 05:19",
  "period": {
-  "from": "2026-09-19 09:12",
-  "to": "2026-10-19 09:12",
+  "from": "2026-09-20 05:19",
+  "to": "2026-10-20 05:19",
   "days": 30
  },
  "streams_analyzed": 12,
  "streams_missed": 1,
- "unique_chatters": 2088,
+ "unique_chatters": 1916,
  "members_confirmed": 270,
  "member_classes": {
   "unknown": 257,
@@ -43,12 +43,12 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 46
+   "members": 45
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 146
+   "members": 147
   }
  ],
  "events": {
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "dAgmgWbbxjo",
-   "start": "2026-09-19 23:05",
-   "title": "【遊戯王マスターデュエル #にじ遊戯王祭2026】練習試合で実戦経験を積んでしまえ【春崎エアル/にじさんじ】",
-   "kind": "配信",
-   "chatters": 543,
-   "member_chatters": 57,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "Hg-RyPy-aFI",
    "start": "2026-09-21 14:03",
@@ -207,6 +197,16 @@
    "member_chatters": 53,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "jQurz4AE9cI",
+   "start": "2026-10-19 22:33",
+   "title": "【バイオハザードリベレーションズ】最強のB.O.Wは画面酔い【春崎エアル/にじさんじ】",
+   "kind": "配信",
+   "chatters": 99,
+   "member_chatters": 67,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -306,18 +306,18 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-19"
+    "to": "2026-10-20"
    },
-   "streams_analyzed": 8,
+   "streams_analyzed": 9,
    "streams_missed": 1,
-   "unique_chatters": 1129,
-   "members_confirmed": 217,
+   "unique_chatters": 1141,
+   "members_confirmed": 219,
    "member_classes": {
-    "unknown": 206,
+    "unknown": 208,
     "known": 6,
     "gift": 5
    },
-   "long_term_members": 149,
+   "long_term_members": 151,
    "badges": [
     {
      "months": 0,
@@ -337,11 +337,11 @@
     },
     {
      "months": 12,
-     "members": 36
+     "members": 37
     },
     {
      "months": 24,
-     "members": 113
+     "members": 114
     }
    ],
    "events": {
@@ -355,15 +355,15 @@
      "tier": "春の民",
      "price": 490,
      "confirmed_members": 6,
-     "estimated_members": 212.0
+     "estimated_members": 214.0
     }
    ],
    "revenue": {
-    "monthly_low": 66105,
-    "monthly_est": 66105,
+    "monthly_low": 66729,
+    "monthly_est": 66729,
     "gift_once": 1559
    },
-   "avg_member_chatters": 84.6,
+   "avg_member_chatters": 82.7,
    "partial": true,
    "finalized": false
   }

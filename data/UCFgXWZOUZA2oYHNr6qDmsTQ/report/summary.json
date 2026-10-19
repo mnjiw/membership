@@ -3,37 +3,37 @@
  "channel_id": "UCFgXWZOUZA2oYHNr6qDmsTQ",
  "handle": "@ScarleYonaguni",
  "subscribers": 355000,
- "fetched_at": "2026-10-19 09:16",
- "generated_at": "2026-10-19 15:39",
+ "fetched_at": "2026-10-20 05:35",
+ "generated_at": "2026-10-20 05:36",
  "period": {
-  "from": "2026-09-19 09:16",
-  "to": "2026-10-19 09:16",
+  "from": "2026-09-20 05:35",
+  "to": "2026-10-20 05:35",
   "days": 30
  },
- "streams_analyzed": 37,
- "streams_missed": 4,
- "unique_chatters": 2018,
+ "streams_analyzed": 38,
+ "streams_missed": 3,
+ "unique_chatters": 2038,
  "members_confirmed": 655,
  "member_classes": {
-  "known": 200,
-  "unknown": 124,
-  "gift": 331
+  "known": 202,
+  "unknown": 120,
+  "gift": 333
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 330
+   "members": 333
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 8
+   "members": 7
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 22
+   "members": 20
   },
   {
    "months": 6,
@@ -43,31 +43,31 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 54
+   "members": 56
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 66
+   "members": 64
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 107
+   "members": 106
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 39
+   "members": 40
   }
  ],
  "events": {
   "new_members": 3,
   "rejoins": 14,
-  "milestones": 184,
-  "gift_purchases": 51,
-  "gifted_total": 331,
-  "gift_redemptions": 331
+  "milestones": 172,
+  "gift_purchases": 53,
+  "gifted_total": 333,
+  "gift_redemptions": 333
  },
  "tiers_configured": true,
  "tiers": [
@@ -75,21 +75,21 @@
    "tier": "✨Apprenticeship✨",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 200,
+   "confirmed_members": 202,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 124.0,
-   "estimated_members": 324.0,
-   "monthly_net_confirmed": 87818,
-   "monthly_net_estimated": 142265
+   "allocated_unknown": 120.0,
+   "estimated_members": 322.0,
+   "monthly_net_confirmed": 88696,
+   "monthly_net_estimated": 141387
   }
  ],
  "revenue": {
-  "monthly_low": 142265,
-  "monthly_est": 142265,
-  "gift_once": 145339,
+  "monthly_low": 141387,
+  "monthly_est": 141387,
+  "gift_once": 146217,
   "total_low": 287605,
   "total_est": 287605,
-  "paying_members": 324,
+  "paying_members": 322,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "VhCSjD5U3tY",
-   "start": "2026-09-19 11:05",
-   "title": "Steaming my ✨EXECUTIVE HEADQUARTERS✨",
-   "kind": "配信",
-   "chatters": 437,
-   "member_chatters": 133,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "XajF3sGc1lY",
    "start": "2026-09-20 11:11",
@@ -467,21 +457,29 @@
    "member_chatters": 79,
    "new_members": 0,
    "gifted_total": 21
+  },
+  {
+   "video_id": "9g8ydm7wJVA",
+   "start": "2026-10-19 11:01",
+   "title": "✨❤️🎵3D KARAOKE SPECIAL + SURPRISE!🎤❤️✨",
+   "kind": "配信",
+   "chatters": 282,
+   "member_chatters": 110,
+   "new_members": 0,
+   "gifted_total": 1
+  },
+  {
+   "video_id": "oxANDCYIWPA",
+   "start": "2026-10-19 14:50",
+   "title": "Let's Play Persona 5 Royal❤️✨ Part 27",
+   "kind": "配信",
+   "chatters": 172,
+   "member_chatters": 42,
+   "new_members": 0,
+   "gifted_total": 1
   }
  ],
  "missed_streams": [
-  {
-   "video_id": "ao1SG0RGxiU",
-   "start": "2026-09-20 04:17",
-   "title": "MEMBIES: Let's eat donuts together!🍩🥰❤️✨",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 43,
-   "view_count": null
-  },
   {
    "video_id": "vZfAQGtNRN4",
    "start": "2026-09-24 12:10",
@@ -520,16 +518,6 @@
   }
  ],
  "members_only_content": [
-  {
-   "video_id": "ao1SG0RGxiU",
-   "start": "2026-09-20 04:17",
-   "title": "MEMBIES: Let's eat donuts together!🍩🥰❤️✨",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 43,
-   "view_count": null
-  },
   {
    "video_id": "vZfAQGtNRN4",
    "start": "2026-09-24 12:10",
@@ -640,22 +628,22 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-19"
+    "to": "2026-10-20"
    },
-   "streams_analyzed": 23,
+   "streams_analyzed": 25,
    "streams_missed": 2,
-   "unique_chatters": 1538,
-   "members_confirmed": 584,
+   "unique_chatters": 1674,
+   "members_confirmed": 594,
    "member_classes": {
-    "known": 184,
-    "unknown": 93,
-    "gift": 307
+    "known": 189,
+    "unknown": 96,
+    "gift": 309
    },
-   "long_term_members": 230,
+   "long_term_members": 237,
    "badges": [
     {
      "months": 0,
-     "members": 306
+     "members": 309
     },
     {
      "months": 1,
@@ -671,7 +659,7 @@
     },
     {
      "months": 12,
-     "members": 47
+     "members": 49
     },
     {
      "months": 24,
@@ -679,33 +667,33 @@
     },
     {
      "months": 36,
-     "members": 91
+     "members": 93
     },
     {
      "months": 48,
-     "members": 31
+     "members": 34
     }
    ],
    "events": {
     "new_members": 1,
     "rejoins": 10,
-    "milestones": 110,
-    "gifted_total": 307
+    "milestones": 113,
+    "gifted_total": 309
    },
    "tiers": [
     {
      "tier": "✨Apprenticeship✨",
      "price": 690,
-     "confirmed_members": 184,
-     "estimated_members": 277.0
+     "confirmed_members": 189,
+     "estimated_members": 285.0
     }
    ],
    "revenue": {
-    "monthly_low": 121628,
-    "monthly_est": 121628,
-    "gift_once": 134801
+    "monthly_low": 125141,
+    "monthly_est": 125141,
+    "gift_once": 135679
    },
-   "avg_member_chatters": 92.9,
+   "avg_member_chatters": 91.6,
    "partial": true,
    "finalized": false
   }

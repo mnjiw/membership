@@ -3,19 +3,19 @@
  "channel_id": "UCb6ObE-XGCctO3WrjRZC-cw",
  "handle": "@LuisCammy",
  "subscribers": 257000,
- "fetched_at": "2026-10-19 09:14",
- "generated_at": "2026-10-19 15:39",
+ "fetched_at": "2026-10-20 05:23",
+ "generated_at": "2026-10-20 05:23",
  "period": {
-  "from": "2026-09-19 09:14",
-  "to": "2026-10-19 09:14",
+  "from": "2026-09-20 05:23",
+  "to": "2026-10-20 05:23",
   "days": 30
  },
  "streams_analyzed": 14,
  "streams_missed": 4,
- "unique_chatters": 806,
- "members_confirmed": 99,
+ "unique_chatters": 757,
+ "members_confirmed": 96,
  "member_classes": {
-  "unknown": 92,
+  "unknown": 89,
   "known": 7
  },
  "badges": [
@@ -23,11 +23,6 @@
    "months": 0,
    "label": "新規(1ヶ月未満)",
    "members": 2
-  },
-  {
-   "months": 1,
-   "label": "1ヶ月",
-   "members": 1
   },
   {
    "months": 2,
@@ -47,7 +42,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 80
+   "members": 78
   }
  ],
  "events": {
@@ -66,10 +61,10 @@
    "net_per_member": 439.1,
    "confirmed_members": 5,
    "share_of_confirmed_pct": 71.4,
-   "allocated_unknown": 65.7,
-   "estimated_members": 70.7,
+   "allocated_unknown": 63.6,
+   "estimated_members": 68.6,
    "monthly_net_confirmed": 2195,
-   "monthly_net_estimated": 31050
+   "monthly_net_estimated": 30109
   },
   {
    "tier": "ルイスの相棒",
@@ -77,19 +72,19 @@
    "net_per_member": 1266.4,
    "confirmed_members": 2,
    "share_of_confirmed_pct": 28.6,
-   "allocated_unknown": 26.3,
-   "estimated_members": 28.3,
+   "allocated_unknown": 25.4,
+   "estimated_members": 27.4,
    "monthly_net_confirmed": 2533,
-   "monthly_net_estimated": 35820
+   "monthly_net_estimated": 34735
   }
  ],
  "revenue": {
-  "monthly_low": 45125,
-  "monthly_est": 66870,
+  "monthly_low": 43807,
+  "monthly_est": 64844,
   "gift_once": 0,
-  "total_low": 45125,
-  "total_est": 66870,
-  "paying_members": 99,
+  "total_low": 43807,
+  "total_est": 64844,
+  "paying_members": 96,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "OGY4uJ3gXTc",
-   "start": "2026-09-19 11:00",
-   "title": "運転が下手すぎる【妹に運転を教える/ルイス・キャミー/にじさんじ】",
-   "kind": "配信",
-   "chatters": 157,
-   "member_chatters": 29,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "aGg7KpOHsIs",
    "start": "2026-09-20 11:01",
@@ -235,6 +220,16 @@
    "kind": "配信",
    "chatters": 134,
    "member_chatters": 26,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "hYM83C568EI",
+   "start": "2026-10-19 11:02",
+   "title": "剣を置いてティーカップを【Wanderstop/ルイス・キャミー/にじさんじ】",
+   "kind": "配信",
+   "chatters": 89,
+   "member_chatters": 27,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -407,11 +402,11 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-19"
+    "to": "2026-10-20"
    },
-   "streams_analyzed": 7,
+   "streams_analyzed": 8,
    "streams_missed": 2,
-   "unique_chatters": 508,
+   "unique_chatters": 533,
    "members_confirmed": 83,
    "member_classes": {
     "unknown": 76,
@@ -465,7 +460,7 @@
     "monthly_est": 56063,
     "gift_once": 0
    },
-   "avg_member_chatters": 32.7,
+   "avg_member_chatters": 32,
    "partial": true,
    "finalized": false
   }

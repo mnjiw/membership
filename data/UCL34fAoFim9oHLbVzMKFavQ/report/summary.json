@@ -3,11 +3,11 @@
  "channel_id": "UCL34fAoFim9oHLbVzMKFavQ",
  "handle": "@YorumiRena",
  "subscribers": 606000,
- "fetched_at": "2026-10-19 09:13",
- "generated_at": "2026-10-19 15:39",
+ "fetched_at": "2026-10-20 05:22",
+ "generated_at": "2026-10-20 05:22",
  "period": {
-  "from": "2026-09-19 09:13",
-  "to": "2026-10-19 09:13",
+  "from": "2026-09-20 05:22",
+  "to": "2026-10-20 05:22",
   "days": 30
  },
  "streams_analyzed": 14,
@@ -245,16 +245,16 @@
  ],
  "missed_streams": [
   {
-   "video_id": "MboOQF-EXD0",
-   "start": "2026-09-20 00:00",
-   "title": "【 Don't Drop The Cake 】今日の主役に会いに行く。 【 にじさんじ / 夜見れな 】",
-   "kind": "live",
-   "status": "no_chat",
-   "reason": "チャットリプレイなし（アーカイブ編集・チャット無効の可能性）",
+   "video_id": "d_QFaGTnZ6A",
+   "start": "2026-10-19 00:00",
+   "title": "【 Japanese Ramen Simulator 】深夜ラーメンの罪の味♡【 にじさんじ / 夜見れな 】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 1486,
-   "view_count": 68688
+   "like_count": 1644,
+   "view_count": 54026
   }
  ],
  "members_only_content": [],
@@ -340,10 +340,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-19"
+    "to": "2026-10-20"
    },
    "streams_analyzed": 8,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 1365,
    "members_confirmed": 220,
    "member_classes": {

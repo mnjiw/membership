@@ -3,20 +3,20 @@
  "channel_id": "UC_GCs6GARLxEHxy1w40d6VQ",
  "handle": "@IenagaMugi",
  "subscribers": 308000,
- "fetched_at": "2026-10-19 09:12",
- "generated_at": "2026-10-19 15:39",
+ "fetched_at": "2026-10-20 05:17",
+ "generated_at": "2026-10-20 05:18",
  "period": {
-  "from": "2026-09-19 09:12",
-  "to": "2026-10-19 09:12",
+  "from": "2026-09-20 05:17",
+  "to": "2026-10-20 05:17",
   "days": 30
  },
- "streams_analyzed": 11,
- "streams_missed": 5,
- "unique_chatters": 2485,
- "members_confirmed": 248,
+ "streams_analyzed": 10,
+ "streams_missed": 6,
+ "unique_chatters": 2348,
+ "members_confirmed": 228,
  "member_classes": {
-  "unknown": 223,
-  "known": 7,
+  "unknown": 205,
+  "known": 5,
   "gift": 18
  },
  "badges": [
@@ -33,37 +33,37 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 37
+   "members": 35
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 29
+   "members": 27
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 38
+   "members": 32
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 30
+   "members": 28
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 21
+   "members": 17
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 48
+   "members": 44
   }
  ],
  "events": {
-  "new_members": 1,
-  "rejoins": 2,
+  "new_members": 0,
+  "rejoins": 0,
   "milestones": 3,
   "gift_purchases": 9,
   "gifted_total": 18,
@@ -75,21 +75,21 @@
    "tier": "もっといっぱい家長むぎ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 7,
+   "confirmed_members": 5,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 223.0,
-   "estimated_members": 230.0,
-   "monthly_net_confirmed": 2183,
-   "monthly_net_estimated": 71718
+   "allocated_unknown": 205.0,
+   "estimated_members": 210.0,
+   "monthly_net_confirmed": 1559,
+   "monthly_net_estimated": 65482
   }
  ],
  "revenue": {
-  "monthly_low": 71718,
-  "monthly_est": 71718,
+  "monthly_low": 65482,
+  "monthly_est": 65482,
   "gift_once": 5613,
-  "total_low": 77331,
-  "total_est": 77331,
-  "paying_members": 230,
+  "total_low": 71095,
+  "total_est": 71095,
+  "paying_members": 210,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "ZRVtd_ukh5Q",
-   "start": "2026-09-19 21:01",
-   "title": "【雑談】へんな１年なんだよな、他【 にじさんじ / 家長むぎ 】",
-   "kind": "配信",
-   "chatters": 323,
-   "member_chatters": 103,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "7bpeQstAXi8",
    "start": "2026-09-20 09:00",
@@ -255,7 +245,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 52,
+   "like_count": 53,
    "view_count": null
   },
   {
@@ -267,7 +257,19 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 56,
+   "like_count": 58,
+   "view_count": null
+  },
+  {
+   "video_id": "HAO1fCAn0Ac",
+   "start": "2026-10-19 21:00",
+   "title": "《 メンバー限定 》ひさしぶりに銭湯にいってきた《 雑談 》",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 52,
    "view_count": null
   }
  ],
@@ -309,7 +311,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 52,
+   "like_count": 53,
    "view_count": null
   },
   {
@@ -319,7 +321,17 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 56,
+   "like_count": 58,
+   "view_count": null
+  },
+  {
+   "video_id": "HAO1fCAn0Ac",
+   "start": "2026-10-19 21:00",
+   "title": "《 メンバー限定 》ひさしぶりに銭湯にいってきた《 雑談 》",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 52,
    "view_count": null
   }
  ],
@@ -402,10 +414,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-19"
+    "to": "2026-10-20"
    },
    "streams_analyzed": 6,
-   "streams_missed": 3,
+   "streams_missed": 4,
    "unique_chatters": 1576,
    "members_confirmed": 167,
    "member_classes": {

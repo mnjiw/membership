@@ -3,20 +3,20 @@
  "channel_id": "UC_82HBGtvwN1hcGeOGHzUBQ",
  "handle": "@SorahoshiKirame",
  "subscribers": 208000,
- "fetched_at": "2026-10-19 09:14",
- "generated_at": "2026-10-19 15:39",
+ "fetched_at": "2026-10-20 05:25",
+ "generated_at": "2026-10-20 05:25",
  "period": {
-  "from": "2026-09-19 09:14",
-  "to": "2026-10-19 09:14",
+  "from": "2026-09-20 05:25",
+  "to": "2026-10-20 05:25",
   "days": 30
  },
- "streams_analyzed": 18,
+ "streams_analyzed": 17,
  "streams_missed": 2,
- "unique_chatters": 704,
- "members_confirmed": 172,
+ "unique_chatters": 675,
+ "members_confirmed": 171,
  "member_classes": {
+  "unknown": 126,
   "known": 25,
-  "unknown": 127,
   "gift": 20
  },
  "badges": [
@@ -48,13 +48,13 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 116
+   "members": 115
   }
  ],
  "events": {
   "new_members": 0,
   "rejoins": 2,
-  "milestones": 24,
+  "milestones": 20,
   "gift_purchases": 5,
   "gifted_total": 21,
   "gift_redemptions": 21
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 25,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 127.0,
-   "estimated_members": 152.0,
+   "allocated_unknown": 126.0,
+   "estimated_members": 151.0,
    "monthly_net_confirmed": 7795,
-   "monthly_net_estimated": 47396
+   "monthly_net_estimated": 47085
   }
  ],
  "revenue": {
-  "monthly_low": 47396,
-  "monthly_est": 47396,
+  "monthly_low": 47085,
+  "monthly_est": 47085,
   "gift_once": 6548,
-  "total_low": 53945,
-  "total_est": 53945,
-  "paying_members": 152,
+  "total_low": 53633,
+  "total_est": 53633,
+  "paying_members": 151,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "2-SAnEDst1w",
-   "start": "2026-09-19 22:03",
-   "title": "【雑談】パンケーキ食べたい🥞【にじさんじ／空星きらめ】",
-   "kind": "配信",
-   "chatters": 174,
-   "member_chatters": 76,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "n3aPutiu3fo",
    "start": "2026-09-20 14:32",
@@ -279,7 +269,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 64,
+   "like_count": 65,
    "view_count": null
   },
   {
@@ -291,7 +281,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 46,
+   "like_count": 48,
    "view_count": null
   }
  ],
@@ -303,7 +293,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 64,
+   "like_count": 65,
    "view_count": null
   },
   {
@@ -313,7 +303,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 46,
+   "like_count": 48,
    "view_count": null
   }
  ],
@@ -388,7 +378,7 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-19"
+    "to": "2026-10-20"
    },
    "streams_analyzed": 9,
    "streams_missed": 2,

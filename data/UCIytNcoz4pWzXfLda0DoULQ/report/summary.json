@@ -3,42 +3,42 @@
  "channel_id": "UCIytNcoz4pWzXfLda0DoULQ",
  "handle": "@ExAlbio",
  "subscribers": 591000,
- "fetched_at": "2026-10-19 09:13",
- "generated_at": "2026-10-19 15:39",
+ "fetched_at": "2026-10-20 05:21",
+ "generated_at": "2026-10-20 05:23",
  "period": {
-  "from": "2026-09-19 09:13",
-  "to": "2026-10-19 09:13",
+  "from": "2026-09-20 05:21",
+  "to": "2026-10-20 05:21",
   "days": 30
  },
  "streams_analyzed": 29,
  "streams_missed": 1,
- "unique_chatters": 9551,
- "members_confirmed": 3119,
+ "unique_chatters": 9475,
+ "members_confirmed": 3075,
  "member_classes": {
-  "unknown": 1975,
-  "known": 192,
-  "gift": 952
+  "unknown": 1997,
+  "known": 191,
+  "gift": 887
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 1143
+   "members": 1080
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 79
+   "members": 83
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 313
+   "members": 317
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 446
+   "members": 456
   },
   {
    "months": 12,
@@ -48,16 +48,16 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 580
+   "members": 581
   }
  ],
  "events": {
   "new_members": 118,
   "rejoins": 38,
-  "milestones": 23,
-  "gift_purchases": 59,
-  "gifted_total": 955,
-  "gift_redemptions": 952
+  "milestones": 22,
+  "gift_purchases": 55,
+  "gifted_total": 890,
+  "gift_redemptions": 887
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +65,21 @@
    "tier": "英友",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 192,
+   "confirmed_members": 191,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1975.0,
-   "estimated_members": 2167.0,
-   "monthly_net_confirmed": 59869,
-   "monthly_net_estimated": 675710
+   "allocated_unknown": 1997.0,
+   "estimated_members": 2188.0,
+   "monthly_net_confirmed": 59557,
+   "monthly_net_estimated": 682258
   }
  ],
  "revenue": {
-  "monthly_low": 675710,
-  "monthly_est": 675710,
-  "gift_once": 297786,
-  "total_low": 973496,
-  "total_est": 973496,
-  "paying_members": 2167,
+  "monthly_low": 682258,
+  "monthly_est": 682258,
+  "gift_once": 277518,
+  "total_low": 959776,
+  "total_est": 959776,
+  "paying_members": 2188,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "8USWKUAvszM",
-   "start": "2026-09-19 18:53",
-   "title": "新しく来たARK鯖で超久しぶりの新ラグナロク完全攻略目指すぞ！！『 ARK: Survival Ascended 』【 エビオ/にじさんじ 】",
-   "kind": "配信",
-   "chatters": 1977,
-   "member_chatters": 757,
-   "new_members": 2,
-   "gifted_total": 65
-  },
   {
    "video_id": "YFqd9_fvUq8",
    "start": "2026-09-20 19:02",
@@ -377,6 +367,16 @@
    "member_chatters": 814,
    "new_members": 4,
    "gifted_total": 130
+  },
+  {
+   "video_id": "bAQsgMUZbts",
+   "start": "2026-10-19 22:21",
+   "title": "2000本に散らばった恐竜の骨を1から組み立てて完璧に復元するゲーム『 DinoBones: Tidy Up the Museum 』＃2【 エビオ/にじさんじ 】",
+   "kind": "配信",
+   "chatters": 1481,
+   "member_chatters": 742,
+   "new_members": 2,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -389,7 +389,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 846,
+   "like_count": 852,
    "view_count": null
   }
  ],
@@ -401,7 +401,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 846,
+   "like_count": 852,
    "view_count": null
   }
  ],
@@ -476,64 +476,64 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-19"
+    "to": "2026-10-20"
    },
-   "streams_analyzed": 17,
+   "streams_analyzed": 18,
    "streams_missed": 1,
-   "unique_chatters": 7545,
-   "members_confirmed": 2461,
+   "unique_chatters": 7862,
+   "members_confirmed": 2515,
    "member_classes": {
-    "unknown": 1813,
+    "unknown": 1864,
     "gift": 472,
-    "known": 176
+    "known": 179
    },
-   "long_term_members": 1035,
+   "long_term_members": 1057,
    "badges": [
     {
      "months": 0,
-     "members": 673
+     "members": 678
     },
     {
      "months": 1,
-     "members": 69
+     "members": 75
     },
     {
      "months": 2,
-     "members": 274
+     "members": 282
     },
     {
      "months": 6,
-     "members": 410
+     "members": 423
     },
     {
      "months": 12,
-     "members": 517
+     "members": 526
     },
     {
      "months": 24,
-     "members": 518
+     "members": 531
     }
    ],
    "events": {
-    "new_members": 106,
+    "new_members": 108,
     "rejoins": 29,
-    "milestones": 14,
+    "milestones": 15,
     "gifted_total": 475
    },
    "tiers": [
     {
      "tier": "英友",
      "price": 490,
-     "confirmed_members": 176,
-     "estimated_members": 1989.0
+     "confirmed_members": 179,
+     "estimated_members": 2043.0
     }
    ],
    "revenue": {
-    "monthly_low": 620206,
-    "monthly_est": 620206,
+    "monthly_low": 637045,
+    "monthly_est": 637045,
     "gift_once": 148114
    },
-   "avg_member_chatters": 616.4,
+   "avg_member_chatters": 623.4,
    "partial": true,
    "finalized": false
   }

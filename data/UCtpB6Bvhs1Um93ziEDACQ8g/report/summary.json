@@ -3,19 +3,19 @@
  "channel_id": "UCtpB6Bvhs1Um93ziEDACQ8g",
  "handle": "@MorinakaKazaki",
  "subscribers": 335000,
- "fetched_at": "2026-10-19 09:12",
- "generated_at": "2026-10-19 15:39",
+ "fetched_at": "2026-10-20 05:17",
+ "generated_at": "2026-10-20 05:17",
  "period": {
-  "from": "2026-09-19 09:12",
-  "to": "2026-10-19 09:12",
+  "from": "2026-09-20 05:17",
+  "to": "2026-10-20 05:17",
   "days": 30
  },
- "streams_analyzed": 7,
+ "streams_analyzed": 8,
  "streams_missed": 0,
- "unique_chatters": 390,
- "members_confirmed": 105,
+ "unique_chatters": 395,
+ "members_confirmed": 106,
  "member_classes": {
-  "unknown": 91,
+  "unknown": 92,
   "known": 4,
   "gift": 10
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 10
+   "members": 11
   },
   {
    "months": 1,
@@ -72,10 +72,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 4,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 91.0,
-   "estimated_members": 95.0,
+   "allocated_unknown": 92.0,
+   "estimated_members": 96.0,
    "monthly_net_confirmed": 1247,
-   "monthly_net_estimated": 29623
+   "monthly_net_estimated": 29935
   },
   {
    "tier": "お前の歌を愛してるぞプラン",
@@ -101,12 +101,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 29623,
-  "monthly_est": 29623,
+  "monthly_low": 29935,
+  "monthly_est": 29935,
   "gift_once": 3118,
-  "total_low": 32741,
-  "total_est": 32741,
-  "paying_members": 95,
+  "total_low": 33053,
+  "total_est": 33053,
+  "paying_members": 96,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -182,6 +182,16 @@
    "kind": "配信",
    "chatters": 35,
    "member_chatters": 20,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "1YbLzKEsgH4",
+   "start": "2026-10-19 20:05",
+   "title": "【OW】毎日コツコツ強くなる！チーム練習 ｗチーム4【森中花咲/にじさんじ所属】",
+   "kind": "配信",
+   "chatters": 32,
+   "member_chatters": 17,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -271,18 +281,22 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-19"
+    "to": "2026-10-20"
    },
-   "streams_analyzed": 6,
+   "streams_analyzed": 7,
    "streams_missed": 0,
-   "unique_chatters": 281,
-   "members_confirmed": 80,
+   "unique_chatters": 286,
+   "members_confirmed": 81,
    "member_classes": {
-    "unknown": 77,
+    "unknown": 78,
     "known": 3
    },
    "long_term_members": 74,
    "badges": [
+    {
+     "months": 0,
+     "members": 1
+    },
     {
      "months": 1,
      "members": 1
@@ -319,7 +333,7 @@
      "tier": "くまさんず会社",
      "price": 490,
      "confirmed_members": 3,
-     "estimated_members": 80.0
+     "estimated_members": 81.0
     },
     {
      "tier": "お前の歌を愛してるぞプラン",
@@ -335,11 +349,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 24945,
-    "monthly_est": 24945,
+    "monthly_low": 25257,
+    "monthly_est": 25257,
     "gift_once": 0
    },
-   "avg_member_chatters": 31.7,
+   "avg_member_chatters": 29.6,
    "partial": true,
    "finalized": false
   }

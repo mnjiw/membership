@@ -3,31 +3,31 @@
  "channel_id": "UCe22Bcwd_GCpTjLxn83zl7A",
  "handle": "@PontoNei",
  "subscribers": 320000,
- "fetched_at": "2026-10-19 09:14",
- "generated_at": "2026-10-19 15:39",
+ "fetched_at": "2026-10-20 05:26",
+ "generated_at": "2026-10-20 05:26",
  "period": {
-  "from": "2026-09-19 09:14",
-  "to": "2026-10-19 09:14",
+  "from": "2026-09-20 05:26",
+  "to": "2026-10-20 05:26",
   "days": 30
  },
  "streams_analyzed": 16,
  "streams_missed": 2,
- "unique_chatters": 2264,
- "members_confirmed": 178,
+ "unique_chatters": 2209,
+ "members_confirmed": 177,
  "member_classes": {
   "unknown": 167,
-  "known": 11
+  "known": 10
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 12
+   "members": 13
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 11
+   "members": 9
   },
   {
    "months": 2,
@@ -46,7 +46,7 @@
   }
  ],
  "events": {
-  "new_members": 7,
+  "new_members": 6,
   "rejoins": 1,
   "milestones": 2,
   "gift_purchases": 0,
@@ -59,21 +59,21 @@
    "tier": "バックヤード",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 11,
+   "confirmed_members": 10,
    "share_of_confirmed_pct": 100.0,
    "allocated_unknown": 167.0,
-   "estimated_members": 178.0,
-   "monthly_net_confirmed": 3430,
-   "monthly_net_estimated": 55504
+   "estimated_members": 177.0,
+   "monthly_net_confirmed": 3118,
+   "monthly_net_estimated": 55192
   }
  ],
  "revenue": {
-  "monthly_low": 55504,
-  "monthly_est": 55504,
+  "monthly_low": 55192,
+  "monthly_est": 55192,
   "gift_once": 0,
-  "total_low": 55504,
-  "total_est": 55504,
-  "paying_members": 178,
+  "total_low": 55192,
+  "total_est": 55192,
+  "paying_members": 177,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -82,16 +82,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "7hBbTl20bSA",
-   "start": "2026-09-19 22:00",
-   "title": "【魔法少女ノ魔女裁判│12】この悪夢はいつ終わるのか… ※ネタバレ注意【先斗寧/にじさんじ】",
-   "kind": "配信",
-   "chatters": 555,
-   "member_chatters": 73,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "JWtb_hNCFlQ",
    "start": "2026-09-20 22:00",
@@ -241,6 +231,16 @@
    "member_chatters": 61,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "jTHyAAsOX60",
+   "start": "2026-10-19 22:01",
+   "title": "【FE 万紫千紅│12】第二部始動！誰ですかあんなやつを起こしたのは ※ネタバレ注意【先斗寧/にじさんじ】",
+   "kind": "配信",
+   "chatters": 446,
+   "member_chatters": 64,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -357,29 +357,29 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-19"
+    "to": "2026-10-20"
    },
-   "streams_analyzed": 9,
+   "streams_analyzed": 10,
    "streams_missed": 1,
-   "unique_chatters": 1072,
-   "members_confirmed": 141,
+   "unique_chatters": 1141,
+   "members_confirmed": 143,
    "member_classes": {
-    "unknown": 133,
+    "unknown": 135,
     "known": 8
    },
    "long_term_members": 100,
    "badges": [
     {
      "months": 0,
-     "members": 9
+     "members": 10
     },
     {
      "months": 1,
-     "members": 8
+     "members": 7
     },
     {
      "months": 2,
-     "members": 13
+     "members": 15
     },
     {
      "months": 6,
@@ -401,15 +401,15 @@
      "tier": "バックヤード",
      "price": 490,
      "confirmed_members": 8,
-     "estimated_members": 141.0
+     "estimated_members": 143.0
     }
    ],
    "revenue": {
-    "monthly_low": 43966,
-    "monthly_est": 43966,
+    "monthly_low": 44590,
+    "monthly_est": 44590,
     "gift_once": 0
    },
-   "avg_member_chatters": 62.1,
+   "avg_member_chatters": 62.3,
    "partial": true,
    "finalized": false
   }

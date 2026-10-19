@@ -3,16 +3,16 @@
  "channel_id": "UCIzZDiilcPv0wim_MbuizFA",
  "handle": "@RyomaBarrenwort",
  "subscribers": 80800,
- "fetched_at": "2026-10-19 09:16",
- "generated_at": "2026-10-19 15:39",
+ "fetched_at": "2026-10-20 05:36",
+ "generated_at": "2026-10-20 05:37",
  "period": {
-  "from": "2026-09-19 09:16",
-  "to": "2026-10-19 09:16",
+  "from": "2026-09-20 05:36",
+  "to": "2026-10-20 05:36",
   "days": 30
  },
- "streams_analyzed": 15,
- "streams_missed": 1,
- "unique_chatters": 529,
+ "streams_analyzed": 16,
+ "streams_missed": 0,
+ "unique_chatters": 555,
  "members_confirmed": 120,
  "member_classes": {
   "known": 30,
@@ -237,34 +237,20 @@
    "member_chatters": 11,
    "new_members": 0,
    "gifted_total": 0
-  }
- ],
- "missed_streams": [
+  },
   {
-   "video_id": "5vfu8BEMZe4",
-   "start": "2026-09-19 12:11",
-   "title": "【Members Stream】Meccha Chameleon!",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 29,
-   "view_count": null
+   "video_id": "hJ7YuZCzWtg",
+   "start": "2026-10-19 12:01",
+   "title": "Chopcon takes on PUBG. WINNER WINNER CHICKEN DINNER TIME |  [PUBG: BATTLEGROUNDS]",
+   "kind": "配信",
+   "chatters": 68,
+   "member_chatters": 19,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
- "members_only_content": [
-  {
-   "video_id": "5vfu8BEMZe4",
-   "start": "2026-09-19 12:11",
-   "title": "【Members Stream】Meccha Chameleon!",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 29,
-   "view_count": null
-  }
- ],
+ "missed_streams": [],
+ "members_only_content": [],
  "history": [
   {
    "month": "2026-09",
@@ -336,18 +322,18 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-19"
+    "to": "2026-10-20"
    },
-   "streams_analyzed": 8,
+   "streams_analyzed": 9,
    "streams_missed": 0,
-   "unique_chatters": 376,
-   "members_confirmed": 95,
+   "unique_chatters": 405,
+   "members_confirmed": 97,
    "member_classes": {
-    "known": 25,
-    "unknown": 47,
+    "known": 26,
+    "unknown": 48,
     "gift": 23
    },
-   "long_term_members": 44,
+   "long_term_members": 46,
    "badges": [
     {
      "months": 0,
@@ -367,7 +353,7 @@
     },
     {
      "months": 12,
-     "members": 25
+     "members": 27
     },
     {
      "months": 24,
@@ -384,16 +370,16 @@
     {
      "tier": "Ryonins",
      "price": 690,
-     "confirmed_members": 25,
-     "estimated_members": 72.0
+     "confirmed_members": 26,
+     "estimated_members": 74.0
     }
    ],
    "revenue": {
-    "monthly_low": 31615,
-    "monthly_est": 31615,
+    "monthly_low": 32493,
+    "monthly_est": 32493,
     "gift_once": 10099
    },
-   "avg_member_chatters": 23.1,
+   "avg_member_chatters": 22.7,
    "partial": true,
    "finalized": false
   }
