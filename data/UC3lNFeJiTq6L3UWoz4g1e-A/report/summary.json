@@ -3,19 +3,19 @@
  "channel_id": "UC3lNFeJiTq6L3UWoz4g1e-A",
  "handle": "@UzukiKou",
  "subscribers": 461000,
- "fetched_at": "2026-10-19 05:19",
- "generated_at": "2026-10-19 05:20",
+ "fetched_at": "2026-10-19 09:12",
+ "generated_at": "2026-10-19 09:14",
  "period": {
-  "from": "2026-09-19 05:19",
-  "to": "2026-10-19 05:19",
+  "from": "2026-09-19 09:12",
+  "to": "2026-10-19 09:12",
   "days": 30
  },
- "streams_analyzed": 12,
- "streams_missed": 2,
- "unique_chatters": 6745,
- "members_confirmed": 953,
+ "streams_analyzed": 13,
+ "streams_missed": 1,
+ "unique_chatters": 6895,
+ "members_confirmed": 960,
  "member_classes": {
-  "unknown": 870,
+  "unknown": 877,
   "known": 73,
   "gift": 10
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 32
+   "members": 33
   },
   {
    "months": 1,
@@ -38,7 +38,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 68
+   "members": 69
   },
   {
    "months": 12,
@@ -48,7 +48,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 112
+   "members": 113
   },
   {
    "months": 36,
@@ -58,7 +58,7 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 339
+   "members": 343
   }
  ],
  "events": {
@@ -77,19 +77,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 73,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 870.0,
-   "estimated_members": 943.0,
+   "allocated_unknown": 877.0,
+   "estimated_members": 950.0,
    "monthly_net_confirmed": 22763,
-   "monthly_net_estimated": 294045
+   "monthly_net_estimated": 296227
   }
  ],
  "revenue": {
-  "monthly_low": 294045,
-  "monthly_est": 294045,
+  "monthly_low": 296227,
+  "monthly_est": 296227,
   "gift_once": 3118,
-  "total_low": 297163,
-  "total_est": 297163,
-  "paying_members": 943,
+  "total_low": 299345,
+  "total_est": 299345,
+  "paying_members": 950,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -217,6 +217,16 @@
    "member_chatters": 219,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "kPRq0aJiQy8",
+   "start": "2026-10-18 15:11",
+   "title": "【ELDEN RING/エルデンリング】竜の力で王になる  #5【にじさんじ/卯月コウ】",
+   "kind": "配信",
+   "chatters": 1075,
+   "member_chatters": 233,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -231,18 +241,6 @@
    "members_level": "",
    "like_count": 150,
    "view_count": null
-  },
-  {
-   "video_id": "kPRq0aJiQy8",
-   "start": "2026-10-18 00:00",
-   "title": "【ELDEN RING/エルデンリング】竜の力で王になる  #5【にじさんじ/卯月コウ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 1061,
-   "view_count": 147645
   }
  ],
  "members_only_content": [
@@ -338,19 +336,19 @@
     "from": "2026-10-01",
     "to": "2026-10-19"
    },
-   "streams_analyzed": 7,
-   "streams_missed": 2,
-   "unique_chatters": 3731,
-   "members_confirmed": 690,
+   "streams_analyzed": 8,
+   "streams_missed": 1,
+   "unique_chatters": 3904,
+   "members_confirmed": 704,
    "member_classes": {
-    "unknown": 624,
+    "unknown": 638,
     "known": 66
    },
-   "long_term_members": 580,
+   "long_term_members": 591,
    "badges": [
     {
      "months": 0,
-     "members": 11
+     "members": 12
     },
     {
      "months": 1,
@@ -358,19 +356,19 @@
     },
     {
      "months": 2,
-     "members": 36
+     "members": 37
     },
     {
      "months": 6,
-     "members": 51
+     "members": 52
     },
     {
      "months": 12,
-     "members": 109
+     "members": 110
     },
     {
      "months": 24,
-     "members": 83
+     "members": 85
     },
     {
      "months": 36,
@@ -378,7 +376,7 @@
     },
     {
      "months": 48,
-     "members": 271
+     "members": 279
     }
    ],
    "events": {
@@ -392,15 +390,15 @@
      "tier": "卯月コウのメンバーシップ",
      "price": 490,
      "confirmed_members": 66,
-     "estimated_members": 690.0
+     "estimated_members": 704.0
     }
    ],
    "revenue": {
-    "monthly_low": 215155,
-    "monthly_est": 215155,
+    "monthly_low": 219520,
+    "monthly_est": 219520,
     "gift_once": 0
    },
-   "avg_member_chatters": 264.7,
+   "avg_member_chatters": 260.8,
    "partial": true,
    "finalized": false
   }
