@@ -7,6 +7,8 @@ fetch_chats.py で保存したチャットリプレイから、メンバーバ�
     python analyze_badges.py data/<チャンネルID>                  # 直近30日 + 月ごとの集計
     python analyze_badges.py data/<チャンネルID> --end 2026-09-30     # 指定日までの30日
     python analyze_badges.py data/<チャンネルID> --keep-raw           # 元のチャットファイルを消さない
+    python analyze_badges.py data/<チャンネルID> --export             # 手元用の集計表を local_reports/ に書き出す
+    python analyze_badges.py --export-all                             # 全チャンネル分を書き出す
 
 処理の流れ:
     1. chats/<動画ID>.live_chat.json (数MB〜数十MB) を1本ずつ読み、必要な情報だけを
@@ -21,14 +23,18 @@ fetch_chats.py で保存したチャットリプレイから、メンバーバ�
     data/<チャンネル名>/tiers.json にメンバーシップの種類と月額、料金の変更履歴を書く。
     ファイルがなければ、チャットで見つかったレベル名を入れたひな形を作る。
 
-出力 (data/<チャンネル名>/report/):
-    summary.md / summary.json   … 直近30日のまとめ (人が読む用 / Webサイト用)
-    members.csv                 … 確認できたメンバー1人1行 (名前を含むので非公開)
+出力 (data/<チャンネル名>/report/。Webサイトを作るのに使うものだけ):
+    summary.json                … 直近30日のまとめ
+    monthly/<YYYY-MM>.json      … 月ごとの集計 (Webサイトの過去データ用。"finalized": true なら確定)
+
+手元用の書き出し (--export / --export-all。local_reports/<channels.csv の名前>/ に書く。GitHub には上げない):
+    summary.md                  … 直近30日のまとめ (人が読む用)
+    members.csv                 … 確認できたメンバー1人1行 (名前を含む)
     tiers.csv                   … レベルごとの人数と推定収益
     badge_distribution.csv      … バッジ(継続月数)ごとの人数
     streams.csv                 … 配信ごとの集計
-    events.csv                  … 加入・レベル変更・マイルストーン・ギフトの一覧 (名前を含むので非公開)
-    monthly/<YYYY-MM>.json      … 月ごとの集計 (Webサイトの過去データ用。"finalized": true なら確定)
+    events.csv                  … 加入・レベル変更・マイルストーン・ギフトの一覧 (名前を含む)
+    書き出しは読むだけで、data/ の中身 (records・report・元のチャットファイル・tiers.json) は一切変えない。
 """
 
 import argparse
@@ -52,6 +58,10 @@ RECORD_VERSION = 1
 FINALIZE_DAYS = 7     # 月が明けて何日たったら、その月の集計を確定するか
 COMPACT_DAYS = 31     # 月末から何日たったら、その月の records を1ファイルにまとめて非メンバーIDを捨てるか
 RECORD_KEYS = ("v", "video_id", "chatters", "chatter_count", "messages", "superchats", "members", "events")
+# 手元用の書き出しにしか使わない集計表。以前は report/ に作っていたので、残っていれば消す
+EXPORT_ONLY_FILES = ("summary.md", "members.csv", "tiers.csv", "badge_distribution.csv", "streams.csv", "events.csv",
+                     "summary.txt")
+EXPORT_DIR = Path("local_reports")   # この下に channels.csv の name (なければチャンネル名・ID) のフォルダを作る
 
 DEFAULT_TAX_RATE = 0.10       # 日本の消費税。表示価格は税込
 DEFAULT_CREATOR_SHARE = 0.70  # YouTube がクリエイターに渡す割合 (税抜き売上の70%)
@@ -267,12 +277,15 @@ def parse_chat(path: Path, video_id: str) -> dict:
             "messages": messages, "superchats": superchats, "members": members, "events": events}
 
 
-def load_records(data_dir: Path, videos: dict, raw_keep_hours):
+def load_records(data_dir: Path, videos: dict, raw_keep_hours, read_only=False):
     """chats/ を records/ に変換しつつ、全 records (1本1ファイルのものと、月ごとにまとめたもの) を読み込む。
-    raw_keep_hours 時間より前に取得した元のチャットファイルは、records に変換済みなら消す (None なら消さない)"""
+    raw_keep_hours 時間より前に取得した元のチャットファイルは、records に変換済みなら消す (None なら消さない)。
+    read_only なら何も書かず、まだ records にしていないチャットはその場で読むだけにする"""
     chats_dir, rec_dir = data_dir / "chats", data_dir / "records"
-    rec_dir.mkdir(exist_ok=True)
+    if not read_only:
+        rec_dir.mkdir(exist_ok=True)
     now, removed = time.time(), 0
+    unsaved = []   # read_only のときに、その場で読んだ records
     packed = set()   # 月ごとにまとめ済みの動画 (元ファイルが残っていても変換し直さない)
     for pp in rec_dir.glob("*.jsonl"):
         with pp.open(encoding="utf-8") as f:
@@ -283,7 +296,12 @@ def load_records(data_dir: Path, videos: dict, raw_keep_hours):
         if vid not in packed and (not rp.exists() or json.loads(rp.read_text(encoding="utf-8")).get("v") != RECORD_VERSION):
             print(f"  変換中: {vid} {((videos.get(vid) or {}).get('title') or '')[:40]}")
             rec = parse_chat(fp, vid)
+            if read_only:
+                unsaved.append((rec, fp))
+                continue
             rp.write_text(json.dumps(rec, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+        if read_only:
+            continue
         if raw_keep_hours is not None and now - fp.stat().st_mtime >= raw_keep_hours * 3600:
             fp.unlink()
             removed += 1
@@ -300,7 +318,7 @@ def load_records(data_dir: Path, videos: dict, raw_keep_hours):
         rec["_file"] = src
         return rec
 
-    records = []
+    records = [attach(rec, fp) for rec, fp in unsaved]
     for rp in rec_dir.glob("*.json"):
         records.append(attach(json.loads(rp.read_text(encoding="utf-8")), rp))
     for pp in rec_dir.glob("*.jsonl"):
@@ -353,10 +371,12 @@ def compact_records(data_dir: Path, records, now: float):
 # ---------------------------------------------------------------------------
 # 2. 料金の設定 (tiers.json)
 # ---------------------------------------------------------------------------
-def load_tier_config(path: Path, found_tiers):
-    """tiers.json を読む。なければ見つかったレベル名でひな形を書き出す。
+def load_tier_config(path: Path, found_tiers, read_only=False):
+    """tiers.json を読む。なければ見つかったレベル名でひな形を書き出す (read_only なら書かない)。
     料金の変更履歴に対応した形式に正規化して返す (料金が未設定なら None)"""
     if not path.exists():
+        if read_only:
+            return None
         template = {
             "tiers": [{"name": t, "prices": [{"from": None, "price": None}]} for t in sorted(found_tiers, key=tier_key)]
                      or [{"name": "（レベル名）", "prices": [{"from": None, "price": None}]}],
@@ -687,7 +707,7 @@ def monthly_summary(R, month, coverage_from, coverage_to):
     }
 
 
-def write_markdown(R, meta, cfg_all, ch, tiers_path, history, report_dir):
+def write_markdown(R, meta, cfg_all, ch, tiers_path, history):
     L = []
     rows, rev, cls = R["stream_rows"], R["rev"], R["cls"]
     total = R["total_members"]
@@ -882,45 +902,25 @@ def write_markdown(R, meta, cfg_all, ch, tiers_path, history, report_dir):
     L.append("")
     L.append("| ファイル | 内容 |")
     L.append("|---|---|")
-    L.append("| members.csv | メンバー1人1行（名前を含むため非公開用） |")
+    L.append("| members.csv | メンバー1人1行（名前を含む） |")
     if R["tiers_now"]:
         L.append("| tiers.csv | レベルごとの人数と推定月収 |")
     L.append("| badge_distribution.csv | バッジ（継続月数）ごとの人数 |")
     L.append("| streams.csv | 配信ごとの発言者数・メンバー数・加入・ギフト |")
-    L.append("| events.csv | 加入・レベル変更・マイルストーン・ギフトの一覧（名前を含むため非公開用） |")
-    L.append("| summary.json / monthly/*.json | Webサイト用（名前・IDは含まない） |")
-    summary = "\n".join(L) + "\n"
-    (report_dir / "summary.md").write_text(summary, encoding="utf-8")
-    return summary
+    L.append("| events.csv | 加入・レベル変更・マイルストーン・ギフトの一覧（名前を含む） |")
+    return "\n".join(L) + "\n"
 
 
 LOOKBACK_DAYS = 180
 
 
-def main():
-    global LOOKBACK_DAYS
-    p = argparse.ArgumentParser(description="チャットリプレイからメンバーバッジ・レベルを集計し、推定収益を計算")
-    p.add_argument("data_dir", help="fetch_chats.py の保存先 (例: data/チャンネル名)")
-    p.add_argument("--report", default=None, help="出力先 (既定: <data_dir>/report)")
-    p.add_argument("--tiers", default=None, help="料金設定ファイル (既定: <data_dir>/tiers.json)")
-    p.add_argument("--days", type=int, default=30, help="集計する日数 (既定: 30)")
-    p.add_argument("--end", default=None, help="集計の最終日 YYYY-MM-DD (既定: 最後にデータを取得した日時)")
-    p.add_argument("--tier-lookback-days", type=int, default=LOOKBACK_DAYS,
-                   help=f"レベルの手がかりに使うイベントを何日前までさかのぼるか (既定: {LOOKBACK_DAYS})")
-    p.add_argument("--no-monthly", action="store_true", help="月ごとの集計を作らない")
-    p.add_argument("--raw-keep-hours", type=float, default=24,
-                   help="取得から何時間たった元のチャットファイルを消すか (既定: 24。0 ならすぐ消す)")
-    p.add_argument("--keep-raw", action="store_true", help="元のチャットファイルを消さない")
-    p.add_argument("--channels", default="channels.csv",
-                   help="チャンネル一覧 (既定: channels.csv)。country が JP 以外なら海外チャンネルとして注記する")
-    args = p.parse_args()
-    LOOKBACK_DAYS = args.tier_lookback_days
-
-    data_dir = Path(args.data_dir)
-    if not (data_dir / "chats").exists() and not (data_dir / "records").exists():
-        sys.exit(f"{data_dir} にデータがありません。先に fetch_chats.py を実行してください。")
+def analyze(data_dir: Path, args, export_dir=None):
+    """1チャンネル分を集計する。export_dir を指定すると、data/ には何も書かず、
+    手元用の集計表をそこに書き出す"""
+    read_only = export_dir is not None
     report_dir = Path(args.report) if args.report else data_dir / "report"
-    report_dir.mkdir(parents=True, exist_ok=True)
+    if not read_only:
+        report_dir.mkdir(parents=True, exist_ok=True)
     tiers_path = Path(args.tiers) if args.tiers else data_dir / "tiers.json"
 
     meta = {"videos": {}}
@@ -929,10 +929,10 @@ def main():
     videos = meta.get("videos", {})
     ch = meta.get("channel", data_dir.name)
 
-    records = load_records(data_dir, videos, None if args.keep_raw else args.raw_keep_hours)
+    records = load_records(data_dir, videos, None if args.keep_raw else args.raw_keep_hours, read_only)
 
     found_all = {e["tier"] for r in records for e in r["events"] if e.get("tier")}
-    cfg_all = load_tier_config(tiers_path, found_all)
+    cfg_all = load_tier_config(tiers_path, found_all, read_only)
     if cfg_all:
         # 海外チャンネルかどうかは channels.csv の country で決める (tiers.json の overseas でも指定可)
         info = channel_map(args.channels).get(meta.get("channel_id") or data_dir.name, {})
@@ -953,7 +953,8 @@ def main():
     history = []
     if not args.no_monthly and records:
         mdir = report_dir / "monthly"
-        mdir.mkdir(exist_ok=True)
+        if not read_only:
+            mdir.mkdir(exist_ok=True)
         first_ts = min(r["start_ts"] for r in records)
         months = sorted({datetime.fromtimestamp(r["start_ts"], JST).strftime("%Y-%m") for r in records})
         now = time.time()
@@ -973,13 +974,39 @@ def main():
             ms["finalized"] = now >= m_to + FINALIZE_DAYS * 86400
             if ms["finalized"]:
                 ms["finalized_at"] = fmt_ts(now)
-            mp.write_text(json.dumps(ms, ensure_ascii=False, indent=1), encoding="utf-8")
+            if not read_only:
+                mp.write_text(json.dumps(ms, ensure_ascii=False, indent=1), encoding="utf-8")
             history.append(ms)
+
+    if read_only:
+        export_tables(R, meta, cfg_all, ch, tiers_path, history, export_dir)
+        return
 
     # ---- 古い月の records をまとめて、非メンバーのIDを捨てる
     compact_records(data_dir, records, time.time())
 
-    # ---- CSV
+    # ---- summary.json (Webサイト用)
+    sj = public_summary(R, meta, cfg_all, ch)
+    sj["history"] = history
+    sj["no_streams"] = not R["records"]
+    # メンバーシップの有無 (price_check.py が tiers.json に記録。false = メンバーシップなし、null = 未確認)
+    raw_tiers = json.loads(tiers_path.read_text(encoding="utf-8")) if tiers_path.exists() else {}
+    sj["membership"] = raw_tiers.get("membership")
+    sj["price_history"] = price_history(cfg_all) if cfg_all else []
+    sj["price_notes"] = (cfg_all or {}).get("changes", [])
+    (report_dir / "summary.json").write_text(json.dumps(sj, ensure_ascii=False, indent=1), encoding="utf-8")
+    for name in EXPORT_ONLY_FILES:
+        (report_dir / name).unlink(missing_ok=True)   # 以前 report/ に作っていた集計表は残さない
+
+    if not cfg_all:
+        print(f"\n※ 料金が未設定です。{tiers_path} に月額を書き込んで再実行すると収益も計算します。")
+    print(f"\n{ch}: 確認できたメンバー {R['total_members']:,} 人 (配信・プレミア {len(R['stream_rows'])} 本)")
+    print(f"出力先: {report_dir}")
+
+
+def export_tables(R, meta, cfg_all, ch, tiers_path, history, out_dir: Path):
+    """手元用の集計表 (人が読むまとめと CSV) を書き出す"""
+    out_dir.mkdir(parents=True, exist_ok=True)
     class_label = {"known": "", "unknown": "", "gift": "ギフトで加入"}
     member_rows = []
     for m in sorted(R["members"].values(), key=lambda x: (-(x["max_months"] or -1), -len(x["streams"]))):
@@ -995,34 +1022,65 @@ def main():
             "gift_received": "○" if m["gift_received"] else "",
             "url": f"https://www.youtube.com/channel/{m['channel_id']}",
         })
-    write_csv(report_dir / "members.csv", member_rows, list(member_rows[0].keys()) if member_rows else ["channel_id"])
-    write_csv(report_dir / "badge_distribution.csv", R["dist_rows"], ["badge_months", "badge", "members", "percent"])
-    write_csv(report_dir / "streams.csv", R["stream_rows"],
+    write_csv(out_dir / "members.csv", member_rows, list(member_rows[0].keys()) if member_rows else ["channel_id"])
+    write_csv(out_dir / "badge_distribution.csv", R["dist_rows"], ["badge_months", "badge", "members", "percent"])
+    write_csv(out_dir / "streams.csv", R["stream_rows"],
               list(R["stream_rows"][0].keys()) if R["stream_rows"] else ["video_id", "start_jst", "title"])
-    write_csv(report_dir / "events.csv", R["events"],
+    write_csv(out_dir / "events.csv", R["events"],
               ["stream_jst", "video_id", "offset_ms", "type", "tier", "name", "channel_id", "value", "text"])
     if R["tier_rows"]:
-        write_csv(report_dir / "tiers.csv", R["tier_rows"], list(R["tier_rows"][0].keys()))
+        write_csv(out_dir / "tiers.csv", R["tier_rows"], list(R["tier_rows"][0].keys()))
+    summary = write_markdown(R, meta, cfg_all, ch, tiers_path, history)
+    (out_dir / "summary.md").write_text(summary, encoding="utf-8")
+    print(f"{ch}: 書き出しました → {out_dir}")
 
-    # ---- summary.json / summary.md
-    sj = public_summary(R, meta, cfg_all, ch)
-    sj["history"] = history
-    sj["no_streams"] = not R["records"]
-    # メンバーシップの有無 (price_check.py が tiers.json に記録。false = メンバーシップなし、null = 未確認)
-    raw_tiers = json.loads(tiers_path.read_text(encoding="utf-8")) if tiers_path.exists() else {}
-    sj["membership"] = raw_tiers.get("membership")
-    sj["price_history"] = price_history(cfg_all) if cfg_all else []
-    sj["price_notes"] = (cfg_all or {}).get("changes", [])
-    (report_dir / "summary.json").write_text(json.dumps(sj, ensure_ascii=False, indent=1), encoding="utf-8")
-    summary = write_markdown(R, meta, cfg_all, ch, tiers_path, history, report_dir)
-    old = report_dir / "summary.txt"
-    if old.exists():
-        old.unlink()   # 旧形式のまとめは残すと紛らわしいので消す
 
-    if not cfg_all:
-        print(f"\n※ 料金が未設定です。{tiers_path} に月額を書き込んで再実行すると収益も計算します。")
-    print("\n" + summary)
-    print(f"出力先: {report_dir}")
+def export_dir_for(data_dir: Path, channels: dict) -> Path:
+    """手元用の書き出し先。フォルダ名は channels.csv の name (空ならチャンネル名、それもなければチャンネルID)"""
+    cid = data_dir.name
+    info = channels.get(cid, {})
+    name = info.get("name") or info.get("channel_title") or cid
+    name = re.sub(r'[\\/:*?"<>|]+', "_", name).strip(" .") or cid   # Windows でフォルダ名に使えない文字を置き換える
+    return EXPORT_DIR / name
+
+
+def main():
+    global LOOKBACK_DAYS
+    p = argparse.ArgumentParser(description="チャットリプレイからメンバーバッジ・レベルを集計し、推定収益を計算")
+    p.add_argument("data_dir", nargs="?", help="fetch_chats.py の保存先 (例: data/<チャンネルID>)")
+    p.add_argument("--report", default=None, help="出力先 (既定: <data_dir>/report)")
+    p.add_argument("--tiers", default=None, help="料金設定ファイル (既定: <data_dir>/tiers.json)")
+    p.add_argument("--days", type=int, default=30, help="集計する日数 (既定: 30)")
+    p.add_argument("--end", default=None, help="集計の最終日 YYYY-MM-DD (既定: 最後にデータを取得した日時)")
+    p.add_argument("--tier-lookback-days", type=int, default=LOOKBACK_DAYS,
+                   help=f"レベルの手がかりに使うイベントを何日前までさかのぼるか (既定: {LOOKBACK_DAYS})")
+    p.add_argument("--no-monthly", action="store_true", help="月ごとの集計を作らない")
+    p.add_argument("--raw-keep-hours", type=float, default=24,
+                   help="取得から何時間たった元のチャットファイルを消すか (既定: 24。0 ならすぐ消す)")
+    p.add_argument("--keep-raw", action="store_true", help="元のチャットファイルを消さない")
+    p.add_argument("--channels", default="channels.csv",
+                   help="チャンネル一覧 (既定: channels.csv)。country が JP 以外なら海外チャンネルとして注記する")
+    p.add_argument("--export", action="store_true",
+                   help=f"手元用の集計表を {EXPORT_DIR}/<channels.csv の名前>/ に書き出す (data/ は変えない)")
+    p.add_argument("--export-all", action="store_true", help="data/ の全チャンネル分を書き出す (--export と同じ)")
+    args = p.parse_args()
+    LOOKBACK_DAYS = args.tier_lookback_days
+
+    if args.export_all:
+        dirs = sorted(d for d in Path("data").iterdir() if (d / "videos.json").exists())
+        if not dirs:
+            sys.exit("data/ にチャンネルのデータがありません。")
+        channels = channel_map(args.channels)
+        for d in dirs:
+            analyze(d, args, export_dir_for(d, channels))
+        print(f"\n{len(dirs)} チャンネル分を {EXPORT_DIR}/ に書き出しました")
+        return
+    if not args.data_dir:
+        p.error("data_dir を指定してください (全チャンネル分を書き出すときは --export-all)")
+    data_dir = Path(args.data_dir)
+    if not (data_dir / "chats").exists() and not (data_dir / "records").exists():
+        sys.exit(f"{data_dir} にデータがありません。先に fetch_chats.py を実行してください。")
+    analyze(data_dir, args, export_dir_for(data_dir, channel_map(args.channels)) if args.export else None)
 
 
 if __name__ == "__main__":

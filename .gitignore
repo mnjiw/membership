@@ -16,3 +16,6 @@ cron/.dev.vars
 .dev.vars
 .wrangler/
 node_modules/
+
+# 手元用の集計表 (analyze_badges.py --export。名前を含むので GitHub には入れない)
+local_reports/

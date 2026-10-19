@@ -21,6 +21,13 @@ GitHub Actions からも、手元のPCからも同じように動く。
     ブロック   … チャンネルの一覧すら取れない (fetch_chats.py が終了コード 2)。YouTube にアクセスを止められた可能性
     取得エラー … 一部の配信でチャットを取れなかった (直近30日の集計に入る間は、次回以降も自動で再挑戦する)
     異常終了   … プログラム自体のエラー
+
+毎回の点検 (異常があれば終了コード 1 → GitHub Actions の実行が「失敗」になり、メールで通知される):
+    取りこぼし   … チャンネルの一覧 (直近30日) に出ているのに、記録されていない枠がある
+    記録の矛盾   … 「保存」なのにチャットの記録がない、開始時刻がない・日付だけ、記録があるのに「保存」以外
+    再確認待ち   … 取得エラー・配信中・アーカイブ処理中のまま7日を超えた枠 (直近30日の分)
+    取得数       … その日最初の全チャンネルの実行で、新しく取得した配信が10本未満
+    手動で動かすとき、--test-alert をつけると点検の異常を1件わざと出す (メールが届くかの確認用)
 """
 
 import argparse
@@ -45,6 +52,9 @@ IN_ACTIONS = os.environ.get("GITHUB_ACTIONS") == "true"
 BLOCK_HINTS = ("Sign in to confirm", "not a bot", "HTTP Error 429", "Too Many Requests")
 NOT_FOUND_HINTS = ("does not exist", "HTTP Error 404", "This channel is not available", "has been terminated")
 RETRY_STATUSES = {"error", "chat_failed"}
+PENDING_ALERT_DAYS = 7    # 再確認待ちがこの日数を超えたら異常とする
+MIN_NEW_FIRST_RUN = 10    # その日最初の全チャンネルの実行で、新しく取得した配信がこれ未満なら異常とする
+PARTIAL_MARK = "- 対象: 一部のチャンネル"   # 一部のチャンネルだけの実行 (テスト・手動) のレポートにつける
 
 
 def run(cmd, timeout):
@@ -85,8 +95,8 @@ def process(ch: dict, args) -> dict:
         lm = re.search(r"⚠ (\d+) 枠で、YouTube から欠けた情報", out)
         res["limited"] = int(lm.group(1)) if lm else 0
         res["warned"] = "⚠ YouTube の制限に関する警告" in out
-        sl = re.search(r"⚠ 配信記録サイトを読めませんでした \((.*)\)", out)
-        res["stream_log_error"] = sl.group(1) if sl else None
+        gm = re.search(r"⚠ 取りこぼし: .*?(\d+) 件 \((.*)\)", out)
+        res["gaps"] = (int(gm.group(1)), gm.group(2)) if gm else None
         m = re.search(r"完了: 新規 (\d+) / 確認済みで省略 (\d+) / 対象外 (\d+) / 次回再確認 (\d+)", out)
         if m:
             res["new"], res["retry"] = int(m.group(1)), int(m.group(4))
@@ -127,11 +137,73 @@ def process(ch: dict, args) -> dict:
     return res
 
 
+def recorded_ids(data_dir: Path) -> set:
+    """records に変換済みの動画ID (fetch_chats.py の recorded_ids と同じ)"""
+    rec_dir = data_dir / "records"
+    if not rec_dir.exists():
+        return set()
+    ids = {p.stem for p in rec_dir.glob("*.json")}
+    for pp in rec_dir.glob("*.jsonl"):
+        with pp.open(encoding="utf-8") as f:
+            ids.update(json.loads(line)["video_id"] for line in f if line.strip())
+    return ids
+
+
+def parse_jst(s):
+    try:
+        return datetime.strptime(s, "%Y-%m-%d %H:%M").replace(tzinfo=JST).timestamp()
+    except (TypeError, ValueError):
+        return None
+
+
+def check_channel(r: dict) -> list:
+    """1チャンネル分の点検。異常の説明の一覧を返す"""
+    out = []
+    name = r["name"]
+    if r.get("gaps"):
+        n, ids = r["gaps"]
+        out.append(f"{name}: 取りこぼし {n} 件 — 一覧にあるのに記録されていない枠 ({ids})")
+    data_dir = HERE / "data" / r["id"]
+    vp = data_dir / "videos.json"
+    if not vp.exists():
+        return out
+    vids = json.loads(vp.read_text(encoding="utf-8")).get("videos", {})
+    rec = recorded_ids(data_dir)
+    now = time.time()
+    retry_cutoff = now - 30 * 86400
+    url = "https://www.youtube.com/watch?v="
+    for vid, v in vids.items():
+        st = v.get("status")
+        if st == "ok" and vid not in rec and not (data_dir / "chats" / f"{vid}.live_chat.json").exists():
+            out.append(f"{name}: 「保存」なのにチャットの記録がない枠 {url}{vid}")
+        if vid in rec and st != "ok":
+            out.append(f"{name}: チャットの記録があるのに「{st}」になっている枠 {url}{vid}")
+        if st in ("ok", "no_chat") and not v.get("start_ts"):
+            out.append(f"{name}: 開始時刻がない枠 ({st}) {url}{vid}")
+        if st == "ok" and v.get("info_limited") and not v.get("start_from_chat"):
+            out.append(f"{name}: 開始時刻が日付だけの枠 {url}{vid}")
+        if st in RETRY_STATUSES | {"processing", "live_now"}:
+            since = v.get("failed_since_ts") or parse_jst(v.get("seen_live_at")) or v.get("start_ts")
+            start = v.get("start_ts") or since
+            if since and now - since > PENDING_ALERT_DAYS * 86400 and (start or now) >= retry_cutoff:
+                days = int((now - since) // 86400)
+                out.append(f"{name}: {days} 日たっても再確認待ちの枠 ({st}: {(v.get('error') or '')[:60]}) {url}{vid}")
+    return out
+
+
+def earlier_full_run_today(logs: Path, started: datetime) -> bool:
+    """今日 (日本時間) すでに全チャンネルの実行をしたか (logs/ のレポートで判断する)"""
+    for lp in logs.glob(f"run_{started:%Y%m%d}_*.md"):
+        if PARTIAL_MARK not in lp.read_text(encoding="utf-8"):
+            return True
+    return False
+
+
 STATUS_LABEL = {"ok": "成功", "no_streams": "配信なし", "fetch_error": "取得エラー", "blocked": "ブロック", "not_found": "チャンネルなし",
                 "crashed": "異常終了", "skipped": "未取得"}
 
 
-def write_report(results, started, finished, build_msg) -> str:
+def write_report(results, started, finished, build_msg, alerts, partial) -> str:
     counts = {k: sum(1 for r in results if r["status"] == k) for k in STATUS_LABEL}
     L = [f"# 毎日の更新 {started:%Y-%m-%d %H:%M} (JST)", ""]
     L.append(f"- 所要時間: {round((finished - started).total_seconds() / 60)} 分")
@@ -144,12 +216,16 @@ def write_report(results, started, finished, build_msg) -> str:
              + ("（開始時刻と配信時間はチャットから計算して補っています。"
                 "「新しく取得した配信」が0本に近い日が続く場合だけ、取得自体が止められていないか確認してください）"
                 if limited or warned else ""))
-    sl_errors = [r["stream_log_error"] for r in results if r.get("stream_log_error")]
-    if sl_errors:
-        L.append(f"- 配信記録サイトを読めなかったチャンネル: {len(sl_errors)} 件 (例: {sl_errors[0]})"
-                 "（動画タブの判定できない枠は、これまでどおり3日待って判断します）")
     L.append(f"- サイト: {build_msg}")
+    L.append(f"- 点検: " + (f"異常 {len(alerts)} 件 (下の「点検で見つかった異常」を確認してください)" if alerts else "異常なし"))
+    if partial:
+        L.append(PARTIAL_MARK + " (テスト・手動の実行。取得数の点検はしていません)")
     L.append("")
+    if alerts:
+        L.append("## 点検で見つかった異常")
+        L.append("")
+        L += [f"- {a}" for a in alerts]
+        L.append("")
     bad = [r for r in results if r["status"] not in ("ok", "no_streams")]
     if bad:
         L.append("## 確認が必要なチャンネル")
@@ -185,6 +261,7 @@ def main():
     p.add_argument("--skip-fetch", action="store_true", help="取得はせず、集計とサイト作成だけ行う")
     p.add_argument("--no-build", action="store_true", help="サイトを作らない")
     p.add_argument("--sleep", type=float, default=2.0, help="配信ごとの待ち時間 (秒)")
+    p.add_argument("--test-alert", action="store_true", help="点検の異常を1件わざと出す (メール通知の確認用)")
     p.add_argument("--timeout", type=int, default=None,
                    help="1チャンネルの処理の制限時間 (秒。既定: 毎日の更新 3600、初回取得 10800)")
     args = p.parse_args()
@@ -231,10 +308,23 @@ def main():
             results.append({"id": "-", "name": "サイト作成 (build_site.py)", "status": "crashed", "new": 0,
                             "retry": 0, "errors": [build_msg], "seconds": 0})
 
-    finished = datetime.now(JST)
-    report = write_report(results, started, finished, build_msg)
+    # ---- 点検
     logs = HERE / "logs"
     logs.mkdir(exist_ok=True)
+    partial = bool(args.only or args.limit or args.new_only or args.skip_fetch)
+    alerts = []
+    for r in sorted(results, key=lambda r: r["name"]):
+        if r["id"] != "-":
+            alerts += check_channel(r)
+    total_new = sum(r["new"] for r in results)
+    if not partial and not earlier_full_run_today(logs, started) and total_new < MIN_NEW_FIRST_RUN:
+        alerts.append(f"今日最初の実行なのに、新しく取得した配信が {total_new} 本しかありません "
+                      f"({MIN_NEW_FIRST_RUN} 本未満)。YouTube に取得を止められていないか確認してください")
+    if args.test_alert:
+        alerts.append("テスト用の異常です (--test-alert)。メール通知の確認のために、わざと出しています")
+
+    finished = datetime.now(JST)
+    report = write_report(results, started, finished, build_msg, alerts, partial)
     (logs / f"run_{started:%Y%m%d_%H%M}.md").write_text(report, encoding="utf-8")
     print("\n" + report)
 
@@ -249,7 +339,9 @@ def main():
         for r in results:
             if r["status"] == "skipped":
                 print(f"::warning title=未取得: {r['name']}::{r['errors'][0]}")
-    sys.exit(1 if errors else 0)
+        for a in alerts[:20]:
+            print(f"::error title=点検で見つかった異常::{a}")
+    sys.exit(1 if errors or alerts else 0)
 
 
 if __name__ == "__main__":

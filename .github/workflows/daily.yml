@@ -9,6 +9,7 @@
 #   - 失敗しても、取得できた分のデータは commit する (翌日以降の再挑戦のため)
 #
 # 手動で動かすときは、GitHub の Actions タブ → daily-update → Run workflow。
+# 失敗のメールが届くか確かめるときは、Run workflow で test_alert にチェックを入れる (点検の異常を1件わざと出す)。
 
 name: daily-update
 
@@ -24,6 +25,11 @@ on:
         description: "先頭から何チャンネルだけ処理するか (0 = 全部)"
         required: false
         default: "0"
+      test_alert:
+        description: "点検の異常を1件わざと出して、失敗のメールが届くか確かめる"
+        type: boolean
+        required: false
+        default: false
 
 permissions:
   contents: write
@@ -56,7 +62,7 @@ jobs:
         continue-on-error: true   # 失敗しても、下の artifact 保存と commit は行う
         env:
           TZ: Asia/Tokyo
-        run: python run_daily.py --workers 4 --limit "${{ github.event.inputs.limit || '0' }}"
+        run: python run_daily.py --workers 4 --limit "${{ github.event.inputs.limit || '0' }}" ${{ github.event.inputs.test_alert == 'true' && '--test-alert' || '' }}
 
       # 元のチャットデータは GitHub に入れず、圧縮して artifact として24時間だけ残す
       # (集計プログラムの不具合や取得の失敗に気づいたとき、その日のうちなら作り直せるように)

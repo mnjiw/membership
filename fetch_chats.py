@@ -48,16 +48,13 @@ RETRY_STATUSES = {"error", "chat_failed"}
 # チャットがあれば配信と分かるが、チャットがない枠は普通の動画か、チャットリプレイのない配信か決められない。
 # 配信直後はアーカイブの処理中でチャットがまだ出ないことがあるので、この日数だけ確認し直してから結論を出す
 LIMITED_GIVEUP_DAYS = 3
-# 動画タブの枠で上のように決められないときは、配信・プレミア公開の記録サイトのチャンネルページを補助に使う
-# (普通の動画は載らない)。判定できない枠があるチャンネルだけ、1回の実行で1回だけ読む。
-# 読めない・載っている範囲外のときは、これまでどおり LIMITED_GIVEUP_DAYS 待つ
-# チャンネルによってページの場所と形が2種類ある。上から順に試し、読めた方を使う
-#   /channel/         … 今月の配信が「2026年10月」のような見出しの下に載る
-#   /general/channel/ … 最近の配信が「2026.10.13 23:53」(日本時間) の形の日時つきで、新しい順に一定数だけ載る
-STREAM_LOG_URLS = ("https://vrabi.net/channel/{}", "https://vrabi.net/general/channel/{}")
-_stream_log_cache: dict = {}
-_stream_log_errors: list = []   # 読めなかった理由 (最後に表示して、日次のレポートに載せる)
-CHANNEL_ID = None   # main() で設定する
+# 上のように情報が欠けたまま「チャットリプレイなし」と決めたライブタブの枠は、アーカイブの処理が長引いて
+# チャットが後から出てくることがあるので、配信から30日の間は週1回 (この曜日。0 = 月曜) だけ確認し直す
+RECHECK_WEEKDAY = 0
+# 非公開・削除された枠は、この日数だけ確認し直しても戻らなければ「配信・プレミアではない」扱いで確定する
+# (中身が分からず集計にも使えないので、再確認待ちのまま残さない)
+UNAVAILABLE_HINTS = ("Private video", "Video unavailable", "This video is unavailable", "video has been removed",
+                     "This video is no longer available")
 
 STATUS_LABEL = {
     "ok": "保存",
@@ -91,6 +88,8 @@ def parse_args():
                    help="ブラウザのログイン情報を使う (firefox / chrome / edge など)。メンバー限定配信の取得に必要")
     p.add_argument("--cookies", default=None, metavar="FILE", help="cookies.txt を使う場合のパス")
     p.add_argument("--sleep", type=float, default=2.0, help="配信ごとの待ち時間(秒) (既定: 2)")
+    p.add_argument("--recheck-settled", action="store_true",
+                   help="情報が欠けたまま「チャットリプレイなし」と決めた枠を、曜日に関係なく今回確認し直す")
     return p.parse_args()
 
 
@@ -156,6 +155,14 @@ def fmt_ts(ts) -> str:
     if not ts:
         return "?"
     return datetime.fromtimestamp(ts, JST).strftime("%Y-%m-%d %H:%M")
+
+
+def parse_jst(s):
+    """fmt_ts の形 (2026-10-18 09:03) を UNIX秒に戻す。読めなければ None"""
+    try:
+        return datetime.strptime(s, "%Y-%m-%d %H:%M").replace(tzinfo=JST).timestamp()
+    except (TypeError, ValueError):
+        return None
 
 
 # ---------------------------------------------------------------------------
@@ -323,30 +330,13 @@ def fetch_one(args, video_id: str, chats_dir: Path, cutoff_ts: float, prev: dict
         if kind == "video" and limited:
             # 配信・プレミア公開かどうか分からない = 情報が欠けている。決めつけずに次回また確認する
             # (動画タブの枠も、情報が欠けているとプレミア公開のチャットを見落とすので同じ扱いにする)
-            listed = prev.get("stream_log_listed")
-            if tab == "video" and listed is None and CHANNEL_ID:
-                log = stream_log_ids(CHANNEL_ID)
-                # 載っている範囲 (今月) の枠だけ判定に使う。日付は投稿日 (世界標準時の日付) なので、範囲の始まりより後に限る
-                if log and start_ts and start_ts >= log["from_ts"]:
-                    listed = video_id in log["ids"]
-            if listed is not None:
-                meta["stream_log_listed"] = listed
-            if tab == "video" and listed is False:
-                # 記録サイトに載っていない = 普通の動画
-                meta["settled_while_limited"] = True
-                meta["judged_by"] = "stream_log"
-                return meta, "skip_not_stream"
             since = prev.get("failed_since_ts")
             if since and time.time() - since >= LIMITED_GIVEUP_DAYS * 86400:
                 # 何日たってもチャットが出てこない → ライブタブの枠は「チャットリプレイなし」の配信、
-                # 動画タブの枠は、記録サイトに載っていればチャットのないプレミア公開、それ以外は普通の動画と判断する
-                # (情報が欠けたまま決めたことを残しておく)
+                # 動画タブの枠は普通の動画と判断する (情報が欠けたまま決めたことを残しておく)
                 meta["settled_while_limited"] = True
                 if tab == "live":
                     meta["kind"] = "live"
-                    return meta, "no_chat"
-                if listed:
-                    meta["kind"] = "premiere"
                     return meta, "no_chat"
                 return meta, "skip_not_stream"
             meta["error"] = "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)"
@@ -372,42 +362,6 @@ def fetch_one(args, video_id: str, chats_dir: Path, cutoff_ts: float, prev: dict
         if dur and not meta.get("duration_sec"):
             meta["duration_sec"] = dur
     return meta, "ok"
-
-
-def stream_log_ids(channel_id: str):
-    """記録サイトのチャンネルページに載っている動画IDと、載っている範囲の始まりを返す。
-    読めない・形がおかしいときは None (その場合は使わない)"""
-    if channel_id in _stream_log_cache:
-        return _stream_log_cache[channel_id]
-    result = None
-    for url in STREAM_LOG_URLS:
-        try:
-            req = urllib.request.Request(url.format(channel_id), headers={"User-Agent": "Mozilla/5.0"})
-            with urllib.request.urlopen(req, timeout=20) as r:
-                html = r.read().decode("utf-8", "replace")
-        except Exception as e:
-            # もう一方の形のページは 404 になる。それ以外 (403 など) はアクセスを止められている可能性
-            if getattr(e, "code", None) != 404:
-                _stream_log_errors.append(f"{type(e).__name__}: {e}"[:120])
-            continue
-        ids = set(re.findall(r"youtube\.com/watch\?v=([\w-]{11})", html))
-        # チャンネルIDが書かれていて、配信が1件以上載っているときだけ信用する
-        if channel_id not in html or not ids:
-            continue
-        now = datetime.now(JST)
-        if f"{now.year}年{now.month}月" in html:
-            # 今月の配信が載っている → 範囲の始まりは今月1日
-            result = {"ids": ids, "from_ts": now.replace(day=1, hour=0, minute=0, second=0, microsecond=0).timestamp()}
-            break
-        dates = re.findall(r">(\d{4})\.(\d{2})\.(\d{2}) (\d{2}):(\d{2})<", html)
-        if dates:
-            # 最近の配信が一定数だけ載っている → 範囲の始まりは載っている中で一番古い配信の日時。
-            # 判定に使う枠の日付は投稿日 (世界標準時の0時) で実際の時刻より前なので、これより後なら確実に範囲内
-            result = {"ids": ids,
-                      "from_ts": min(datetime(*map(int, d), tzinfo=JST) for d in dates).timestamp()}
-            break
-    _stream_log_cache[channel_id] = result
-    return result
 
 
 def chat_timing(chat_file: Path):
@@ -534,8 +488,6 @@ def main():
         print(f"一覧を取得できませんでした: {str(e).splitlines()[0][:200]}")
         print("※「Sign in to confirm you're not a bot」などなら、YouTube にアクセスを制限されています。時間をおいて再実行してください。")
         sys.exit(2)
-    global CHANNEL_ID
-    CHANNEL_ID = channel["channel_id"]
     out_dir = Path(args.out) if args.out else Path("data") / safe_dirname(channel["channel_id"])
     meta_path = out_dir / "videos.json"
     store = {"videos": {}}
@@ -547,6 +499,9 @@ def main():
         span = (DAILY_DAYS if store.get("initial_fetch_done") else FIRST_DAYS) * 86400
     cutoff_ts = now - span
     retry_cutoff = now - FIRST_DAYS * 86400
+    # 取りこぼしの確認用: 一覧に出ている直近30日の枠 (終わったもの)。最後に、すべて記録されたかを確かめる
+    listed_recent = [c for c in candidates
+                     if c["approx_ts"] is None or c["approx_ts"] >= retry_cutoff - rough_margin(retry_cutoff)]
     # 一覧は直近30日分を取っている。確認範囲 (直近7日) より前でも、一度も記録していない枠は調べる
     # (あとから一覧に加わった枠。例: 限定公開だったメンバー限定配信のアーカイブが公開された)
     kept = []
@@ -559,16 +514,32 @@ def main():
     # 確認範囲より前の枠で、取得に失敗したままのもの (初回の30日分の取得中に失敗した枠など) は一覧から外れていて、
     # このままでは二度と確認されない。直近30日の集計に入る間は、ここで候補に加えて確認し直す
     # (配信日が分からない枠は、最初に失敗してから30日間)
+    # 「配信中」「アーカイブ処理中」のまま一覧から消えた枠 (配信後に非公開にされたなど) も同じように確認し直す
     listed = {c["id"] for c in candidates} | {c["id"] for c in live_now}
     for vid, v in store["videos"].items():
-        if vid in listed or v.get("status") not in RETRY_STATUSES:
+        if vid in listed or v.get("status") not in RETRY_STATUSES | {"processing", "live_now"}:
             continue
-        since = v.get("start_ts") or v.get("failed_since_ts")
+        since = v.get("start_ts") or v.get("failed_since_ts") or parse_jst(v.get("seen_live_at"))
         if since and since < retry_cutoff:
             continue
         candidates.append({"id": vid, "title": v.get("title"), "approx_ts": v.get("start_ts"),
                            "tab": v.get("tab") or ("video" if v.get("kind") == "premiere" else "live"),
                            "members_only": bool(v.get("members_only")), "cutoff_ts": retry_cutoff})
+    # 情報が欠けたまま「チャットリプレイなし」と決めたライブタブの枠を、週1回だけ確認し直す
+    if args.recheck_settled or datetime.now(JST).weekday() == RECHECK_WEEKDAY:
+        by_id = {c["id"]: c for c in candidates}
+        for vid, v in store["videos"].items():
+            if (v.get("status") != "no_chat" or not v.get("settled_while_limited")
+                    or v.get("kind") != "live" or not v.get("start_ts") or v["start_ts"] < retry_cutoff):
+                continue
+            if not args.recheck_settled and now - (v.get("rechecked_ts") or 0) < 20 * 3600:
+                continue   # 同じ日の2回目の実行 (予備の実行) では確認しない
+            if vid in by_id:
+                by_id[vid].update({"recheck": True, "tab": "live", "cutoff_ts": retry_cutoff})
+            else:
+                candidates.append({"id": vid, "title": v.get("title"), "approx_ts": v["start_ts"], "tab": "live",
+                                   "members_only": bool(v.get("members_only")), "cutoff_ts": retry_cutoff,
+                                   "recheck": True})
     chats_dir = out_dir / "chats"
     chats_dir.mkdir(parents=True, exist_ok=True)
 
@@ -597,9 +568,18 @@ def main():
         head = f"  ({i}/{len(candidates)}) {vid} {(c['title'] or '')[:40]}"
         prev = store["videos"].get(vid) or {}
         chat_file = chats_dir / f"{vid}.live_chat.json"
-        if is_settled(vid, prev, chat_file, cutoff_ts, recorded):
+        recheck = c.get("recheck") and vid not in recorded
+        if not recheck and is_settled(vid, prev, chat_file, cutoff_ts, recorded):
             counts["cached"] += 1
             continue   # 結論が出ている枠は確認しない (ログも出さない)
+
+        def keep_settled(note):
+            # 確認し直しても結論が変わらない (まだチャットがない・見られない) → 前回の結論のまま、確認した日時だけ残す
+            store["videos"][vid] = {**prev, "rechecked_ts": now, "rechecked_at": fmt_ts(now)}
+            print(f"{head}  … 確認し直しました ({note}。チャットリプレイなしのまま)")
+            counts["cached"] += 1
+            save()
+
         try:
             for attempt in range(3):
                 # 前回の中断で残った途中ファイルがあると壊れたまま再開されることがあるので消す。
@@ -622,6 +602,9 @@ def main():
             save()
             continue
         except Exception as e:   # 1枠の想定外のエラーで、チャンネル全体を止めない
+            if recheck:
+                keep_settled(f"見られません: {str(e).splitlines()[0][:80]}")
+                continue
             if not isinstance(e, yt_dlp.utils.DownloadError):
                 # どこで起きたか (yt-dlp の中かどうか) が後から分かるよう、最後の場所を添える
                 tb = traceback.extract_tb(e.__traceback__)[-1]
@@ -639,6 +622,22 @@ def main():
                 meta = {"id": vid, "title": c["title"], "kind": c["tab"], "members_only": True,
                         "members_level": level or members_only_level(vid), "start_ts": c["approx_ts"],
                         "start_jst": fmt_ts(c["approx_ts"]), "checked_at": fmt_ts(time.time())}
+            elif any(h in msg for h in UNAVAILABLE_HINTS):
+                # 非公開・削除。しばらく戻らなければ確定する (取得の失敗ではないので「失敗」としては数えない)
+                since = prev.get("failed_since_ts") or now
+                if now - since >= LIMITED_GIVEUP_DAYS * 86400:
+                    status = "skip_not_stream"
+                    meta = {**prev, "id": vid, "title": c["title"], "unavailable": True,
+                            "note": f"非公開・削除 ({datetime.now(JST):%Y-%m-%d} に確認)", "checked_at": fmt_ts(now)}
+                    meta.pop("error", None)
+                    meta.pop("failed_since_ts", None)
+                else:
+                    print(f"{head}  … 非公開・削除のため見られません (次回また確認): {msg[:80]}")
+                    store["videos"][vid] = {**prev, "id": vid, "title": c["title"], "status": "error",
+                                            "error": msg[:300], "unavailable": True, "failed_since_ts": since}
+                    counts["retry"] += 1
+                    save()
+                    continue
             else:
                 print(f"{head}  … 失敗: {msg[:120]}")
                 store["videos"][vid] = {**prev, "id": vid, "title": c["title"], "status": "error", "error": msg[:300],
@@ -647,9 +646,14 @@ def main():
                 save()
                 continue
 
+        if recheck and status in RETRY_STATUSES:
+            keep_settled("情報が欠けていて、まだチャットが見つかりません")
+            continue
         meta["status"] = status
         if status in RETRY_STATUSES:
             meta["failed_since_ts"] = prev.get("failed_since_ts") or now
+        if recheck:
+            meta["rechecked_ts"], meta["rechecked_at"] = now, fmt_ts(now)
         store["videos"][vid] = meta
         label = STATUS_LABEL[status]
         if status in ("members_only", "became_members_only", "members_only_video") and meta.get("members_level"):
@@ -658,7 +662,7 @@ def main():
             counts["skip"] += 1   # 動画タブの普通の動画はログを出さない
         else:
             kind = {"premiere": "プレミア", "live": "配信"}.get(meta.get("kind"), "")
-            print(f"{head}  [{meta['start_jst']}] {kind} … {label}")
+            print(f"{head}  [{meta.get('start_jst', '?')}] {kind} … {label}")
             if status == "ok":
                 counts["ok"] += 1
             elif status in FINAL_STATUSES:
@@ -668,8 +672,11 @@ def main():
         save()
         time.sleep(args.sleep)
 
-    if _stream_log_errors:
-        print(f"⚠ 配信記録サイトを読めませんでした ({_stream_log_errors[0]})")
+    # 取りこぼしの確認: 一覧に出ている直近30日の枠は、上の処理ですべて記録されているはず
+    missing = [c for c in listed_recent if c["id"] not in store["videos"]]
+    if missing:
+        print(f"⚠ 取りこぼし: 一覧にあるのに記録されていない枠が {len(missing)} 件 ("
+              + ", ".join(c["id"] for c in missing[:5]) + ")")
     if YTLOG.notable:
         print(f"⚠ YouTube の制限に関する警告が {len(YTLOG.notable)} 件ありました (例: {YTLOG.notable[0][:160]})")
     limited_n = sum(1 for v in store["videos"].values() if v.get("info_limited") and v.get("checked_at", "") >= fmt_ts(now))
