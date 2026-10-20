@@ -2,22 +2,22 @@
  "month": "2026-10",
  "coverage": {
   "from": "2026-10-01",
-  "to": "2026-10-20"
+  "to": "2026-10-21"
  },
- "streams_analyzed": 2,
+ "streams_analyzed": 3,
  "streams_missed": 1,
- "unique_chatters": 125,
- "members_confirmed": 77,
+ "unique_chatters": 238,
+ "members_confirmed": 106,
  "member_classes": {
-  "unknown": 65,
-  "known": 2,
+  "unknown": 88,
+  "known": 8,
   "gift": 10
  },
  "long_term_members": 0,
  "badges": [
   {
    "months": 0,
-   "members": 12
+   "members": 14
   },
   {
    "months": 1,
@@ -25,45 +25,45 @@
   },
   {
    "months": 2,
-   "members": 5
+   "members": 12
   },
   {
    "months": 6,
-   "members": 59
+   "members": 79
   }
  ],
  "events": {
   "new_members": 0,
-  "rejoins": 0,
-  "milestones": 0,
+  "rejoins": 1,
+  "milestones": 1,
   "gifted_total": 10
  },
  "tiers": [
   {
    "tier": "ひみつの部屋🦈",
    "price": 490,
-   "confirmed_members": 1,
-   "estimated_members": 33.5
+   "confirmed_members": 6,
+   "estimated_members": 72.0
   },
   {
    "tier": "ひみつの部屋のクローゼット🦈",
    "price": 3490,
    "confirmed_members": 1,
-   "estimated_members": 33.5
+   "estimated_members": 12.0
   },
   {
    "tier": "わたしの部屋❇",
    "price": 14000,
-   "confirmed_members": 0,
-   "estimated_members": 0.0
+   "confirmed_members": 1,
+   "estimated_members": 12.0
   }
  ],
  "revenue": {
-  "monthly_low": 22801,
-  "monthly_est": 84846,
+  "monthly_low": 40441,
+  "monthly_est": 156011,
   "gift_once": 3118
  },
- "avg_member_chatters": 45.5,
+ "avg_member_chatters": 50.3,
  "partial": true,
  "finalized": false
 }

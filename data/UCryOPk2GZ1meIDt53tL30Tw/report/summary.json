@@ -3,11 +3,11 @@
  "channel_id": "UCryOPk2GZ1meIDt53tL30Tw",
  "handle": "@SuzukiMasaru",
  "subscribers": 332000,
- "fetched_at": "2026-10-20 10:05",
- "generated_at": "2026-10-20 10:05",
+ "fetched_at": "2026-10-21 05:18",
+ "generated_at": "2026-10-21 05:18",
  "period": {
-  "from": "2026-09-20 10:05",
-  "to": "2026-10-20 10:05",
+  "from": "2026-09-21 05:18",
+  "to": "2026-10-21 05:18",
   "days": 30
  },
  "streams_analyzed": 8,
@@ -160,18 +160,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "vdJFZYyP8Ag",
-   "start": "2026-09-20 21:02",
-   "title": "【メン限】『テルマエ・ロマエ』 同時視聴する 2026.9.20",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 34,
-   "view_count": null
-  },
-  {
    "video_id": "9xkMH5gcAoI",
    "start": "2026-09-27 20:32",
    "title": "【メン限】『ウィキッド ふたりの魔女』 同時視聴する 2026.9.27",
@@ -218,19 +206,21 @@
    "members_level": "",
    "like_count": 30,
    "view_count": null
+  },
+  {
+   "video_id": "ewMw8cgDnLg",
+   "start": "2026-10-20 00:00",
+   "title": "🛑【Binaural/黒3Dio】本気で眠りたい人のためのじっくり奥まで耳かき 2026.10.21【にじさんじ/鈴木勝】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 472,
+   "view_count": 13437
   }
  ],
  "members_only_content": [
-  {
-   "video_id": "vdJFZYyP8Ag",
-   "start": "2026-09-20 21:02",
-   "title": "【メン限】『テルマエ・ロマエ』 同時視聴する 2026.9.20",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 34,
-   "view_count": null
-  },
   {
    "video_id": "9xkMH5gcAoI",
    "start": "2026-09-27 20:32",
@@ -334,10 +324,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-20"
+    "to": "2026-10-21"
    },
    "streams_analyzed": 6,
-   "streams_missed": 3,
+   "streams_missed": 4,
    "unique_chatters": 408,
    "members_confirmed": 154,
    "member_classes": {

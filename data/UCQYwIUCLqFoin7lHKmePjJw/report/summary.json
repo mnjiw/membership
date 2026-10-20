@@ -3,27 +3,27 @@
  "channel_id": "UCQYwIUCLqFoin7lHKmePjJw",
  "handle": "@KlaraCharmwood",
  "subscribers": 110000,
- "fetched_at": "2026-10-20 10:09",
- "generated_at": "2026-10-20 10:09",
+ "fetched_at": "2026-10-21 05:33",
+ "generated_at": "2026-10-21 05:34",
  "period": {
-  "from": "2026-09-20 10:09",
-  "to": "2026-10-20 10:09",
+  "from": "2026-09-21 05:33",
+  "to": "2026-10-21 05:33",
   "days": 30
  },
- "streams_analyzed": 25,
- "streams_missed": 2,
- "unique_chatters": 4797,
- "members_confirmed": 570,
+ "streams_analyzed": 27,
+ "streams_missed": 1,
+ "unique_chatters": 4811,
+ "members_confirmed": 574,
  "member_classes": {
-  "unknown": 162,
+  "unknown": 163,
   "known": 117,
-  "gift": 291
+  "gift": 294
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 305
+   "members": 309
   },
   {
    "months": 1,
@@ -54,10 +54,10 @@
  "events": {
   "new_members": 23,
   "rejoins": 14,
-  "milestones": 102,
-  "gift_purchases": 71,
-  "gifted_total": 412,
-  "gift_redemptions": 297
+  "milestones": 104,
+  "gift_purchases": 74,
+  "gifted_total": 415,
+  "gift_redemptions": 300
  },
  "tiers_configured": true,
  "tiers": [
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 117,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 162.0,
-   "estimated_members": 279.0,
+   "allocated_unknown": 163.0,
+   "estimated_members": 280.0,
    "monthly_net_confirmed": 36483,
-   "monthly_net_estimated": 86997
+   "monthly_net_estimated": 87309
   }
  ],
  "revenue": {
-  "monthly_low": 86997,
-  "monthly_est": 86997,
-  "gift_once": 128469,
-  "total_low": 215466,
-  "total_est": 215466,
-  "paying_members": 279,
+  "monthly_low": 87309,
+  "monthly_est": 87309,
+  "gift_once": 129405,
+  "total_low": 216714,
+  "total_est": 216714,
+  "paying_members": 280,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -337,6 +337,26 @@
    "member_chatters": 46,
    "new_members": 0,
    "gifted_total": 1
+  },
+  {
+   "video_id": "rsfQy2P_mpw",
+   "start": "2026-10-19 21:00",
+   "title": "【DinoBones: Tidy Up the Museum】Maid Organises Bones, You Sleep! #2【NIJISANJI EN | Klara Charmwood】",
+   "kind": "配信",
+   "chatters": 74,
+   "member_chatters": 45,
+   "new_members": 0,
+   "gifted_total": 2
+  },
+  {
+   "video_id": "a64sdJEyt3g",
+   "start": "2026-10-20 19:58",
+   "title": "【御祝呪 -oshukuju-】A Tale Of Curses and Blessings【NIJISANJI EN | Klara Charmwood】",
+   "kind": "配信",
+   "chatters": 92,
+   "member_chatters": 59,
+   "new_members": 0,
+   "gifted_total": 1
   }
  ],
  "missed_streams": [
@@ -351,18 +371,6 @@
    "members_level": "Cuppanions",
    "like_count": 79,
    "view_count": null
-  },
-  {
-   "video_id": "rsfQy2P_mpw",
-   "start": "2026-10-19 00:00",
-   "title": "【DinoBones: Tidy Up the Museum】Maid Organises Bones, You Sleep! #2【NIJISANJI EN | Klara Charmwood】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 332,
-   "view_count": 3853
   }
  ],
  "members_only_content": [
@@ -448,22 +456,22 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-20"
+    "to": "2026-10-21"
    },
-   "streams_analyzed": 21,
-   "streams_missed": 2,
-   "unique_chatters": 4731,
-   "members_confirmed": 549,
+   "streams_analyzed": 23,
+   "streams_missed": 1,
+   "unique_chatters": 4745,
+   "members_confirmed": 553,
    "member_classes": {
-    "unknown": 162,
+    "unknown": 163,
     "known": 117,
-    "gift": 270
+    "gift": 273
    },
    "long_term_members": 128,
    "badges": [
     {
      "months": 0,
-     "members": 286
+     "members": 290
     },
     {
      "months": 1,
@@ -489,23 +497,23 @@
    "events": {
     "new_members": 23,
     "rejoins": 13,
-    "milestones": 76,
-    "gifted_total": 390
+    "milestones": 78,
+    "gifted_total": 393
    },
    "tiers": [
     {
      "tier": "Cuppanions",
      "price": 490,
      "confirmed_members": 117,
-     "estimated_members": 279.0
+     "estimated_members": 280.0
     }
    ],
    "revenue": {
-    "monthly_low": 86997,
-    "monthly_est": 86997,
-    "gift_once": 121609
+    "monthly_low": 87309,
+    "monthly_est": 87309,
+    "gift_once": 122545
    },
-   "avg_member_chatters": 88.1,
+   "avg_member_chatters": 85,
    "partial": true,
    "finalized": false
   }

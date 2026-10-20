@@ -3,61 +3,61 @@
  "channel_id": "UCgmFrRcyH7d1zR9sIVQhFow",
  "handle": "@LaurenIroas",
  "subscribers": 1060000,
- "fetched_at": "2026-10-20 10:07",
- "generated_at": "2026-10-20 10:07",
+ "fetched_at": "2026-10-21 05:23",
+ "generated_at": "2026-10-21 05:24",
  "period": {
-  "from": "2026-09-20 10:07",
-  "to": "2026-10-20 10:07",
+  "from": "2026-09-21 05:23",
+  "to": "2026-10-21 05:23",
   "days": 30
  },
  "streams_analyzed": 20,
  "streams_missed": 0,
- "unique_chatters": 11879,
- "members_confirmed": 4820,
+ "unique_chatters": 11704,
+ "members_confirmed": 4769,
  "member_classes": {
-  "unknown": 3568,
-  "known": 382,
-  "gift": 870
+  "unknown": 3543,
+  "known": 388,
+  "gift": 838
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 1020
+   "members": 987
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 120
+   "members": 117
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 357
+   "members": 349
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 524
+   "members": 516
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 887
+   "members": 877
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 1912
+   "members": 1923
   }
  ],
  "events": {
-  "new_members": 52,
-  "rejoins": 37,
-  "milestones": 259,
-  "gift_purchases": 216,
-  "gifted_total": 890,
-  "gift_redemptions": 870
+  "new_members": 50,
+  "rejoins": 38,
+  "milestones": 260,
+  "gift_purchases": 208,
+  "gifted_total": 858,
+  "gift_redemptions": 838
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +65,21 @@
    "tier": "PrisonLv1",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 382,
+   "confirmed_members": 388,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 3568.0,
-   "estimated_members": 3950.0,
-   "monthly_net_confirmed": 119115,
-   "monthly_net_estimated": 1231682
+   "allocated_unknown": 3543.0,
+   "estimated_members": 3931.0,
+   "monthly_net_confirmed": 120985,
+   "monthly_net_estimated": 1225757
   }
  ],
  "revenue": {
-  "monthly_low": 1231682,
-  "monthly_est": 1231682,
-  "gift_once": 277518,
-  "total_low": 1509200,
-  "total_est": 1509200,
-  "paying_members": 3950,
+  "monthly_low": 1225757,
+  "monthly_est": 1225757,
+  "gift_once": 267540,
+  "total_low": 1493297,
+  "total_est": 1493297,
+  "paying_members": 3931,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "nKxfpX-GfyA",
-   "start": "2026-09-20 21:09",
-   "title": "【八尺様がいた夏休み】４１２３９０８３８４１９２尺様がいた夏休み【ローレン・イロアス/にじさんじ】",
-   "kind": "配信",
-   "chatters": 1740,
-   "member_chatters": 1141,
-   "new_members": 4,
-   "gifted_total": 91
-  },
   {
    "video_id": "tUMDbg3l1MQ",
    "start": "2026-09-21 20:44",
@@ -287,6 +277,16 @@
    "member_chatters": 1208,
    "new_members": 3,
    "gifted_total": 65
+  },
+  {
+   "video_id": "6GP8xjzmR20",
+   "start": "2026-10-20 20:44",
+   "title": "【Overwatch】イブラヒム灼熱コーチング【ローレン・イロアス/にじさんじ】",
+   "kind": "配信",
+   "chatters": 1420,
+   "member_chatters": 1076,
+   "new_members": 2,
+   "gifted_total": 59
   }
  ],
  "missed_streams": [],
@@ -362,26 +362,26 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-20"
+    "to": "2026-10-21"
    },
-   "streams_analyzed": 12,
+   "streams_analyzed": 13,
    "streams_missed": 0,
-   "unique_chatters": 8673,
-   "members_confirmed": 3837,
+   "unique_chatters": 8823,
+   "members_confirmed": 3947,
    "member_classes": {
-    "unknown": 3071,
-    "known": 327,
-    "gift": 439
+    "unknown": 3113,
+    "known": 336,
+    "gift": 498
    },
-   "long_term_members": 2449,
+   "long_term_members": 2491,
    "badges": [
     {
      "months": 0,
-     "members": 553
+     "members": 615
     },
     {
      "months": 1,
-     "members": 98
+     "members": 99
     },
     {
      "months": 2,
@@ -389,37 +389,37 @@
     },
     {
      "months": 6,
-     "members": 439
+     "members": 444
     },
     {
      "months": 12,
-     "members": 758
+     "members": 769
     },
     {
      "months": 24,
-     "members": 1691
+     "members": 1722
     }
    ],
    "events": {
-    "new_members": 34,
-    "rejoins": 24,
-    "milestones": 169,
-    "gifted_total": 458
+    "new_members": 36,
+    "rejoins": 25,
+    "milestones": 180,
+    "gifted_total": 517
    },
    "tiers": [
     {
      "tier": "PrisonLv1",
      "price": 490,
-     "confirmed_members": 327,
-     "estimated_members": 3398.0
+     "confirmed_members": 336,
+     "estimated_members": 3449.0
     }
    ],
    "revenue": {
-    "monthly_low": 1059558,
-    "monthly_est": 1059558,
-    "gift_once": 142813
+    "monthly_low": 1075461,
+    "monthly_est": 1075461,
+    "gift_once": 161210
    },
-   "avg_member_chatters": 1238.8,
+   "avg_member_chatters": 1226.3,
    "partial": true,
    "finalized": false
   }

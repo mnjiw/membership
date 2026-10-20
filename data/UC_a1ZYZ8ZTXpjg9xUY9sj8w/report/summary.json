@@ -3,61 +3,61 @@
  "channel_id": "UC_a1ZYZ8ZTXpjg9xUY9sj8w",
  "handle": "@LuluSuzuhara",
  "subscribers": 776000,
- "fetched_at": "2026-10-20 10:06",
- "generated_at": "2026-10-20 10:07",
+ "fetched_at": "2026-10-21 05:20",
+ "generated_at": "2026-10-21 05:20",
  "period": {
-  "from": "2026-09-20 10:06",
-  "to": "2026-10-20 10:06",
+  "from": "2026-09-21 05:20",
+  "to": "2026-10-21 05:20",
   "days": 30
  },
- "streams_analyzed": 21,
- "streams_missed": 2,
- "unique_chatters": 6566,
- "members_confirmed": 849,
+ "streams_analyzed": 20,
+ "streams_missed": 3,
+ "unique_chatters": 6278,
+ "members_confirmed": 818,
  "member_classes": {
-  "unknown": 812,
+  "unknown": 792,
   "known": 13,
-  "gift": 24
+  "gift": 13
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 48
+   "members": 35
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 8
+   "members": 7
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 77
+   "members": 75
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 457
+   "members": 449
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 124
+   "members": 120
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 135
+   "members": 132
   }
  ],
  "events": {
-  "new_members": 4,
+  "new_members": 3,
   "rejoins": 8,
   "milestones": 0,
-  "gift_purchases": 16,
-  "gifted_total": 25,
-  "gift_redemptions": 24
+  "gift_purchases": 14,
+  "gifted_total": 14,
+  "gift_redemptions": 13
  },
  "tiers_configured": true,
  "tiers": [
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 13,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 812.0,
-   "estimated_members": 825.0,
+   "allocated_unknown": 792.0,
+   "estimated_members": 805.0,
    "monthly_net_confirmed": 4054,
-   "monthly_net_estimated": 257250
+   "monthly_net_estimated": 251014
   }
  ],
  "revenue": {
-  "monthly_low": 257250,
-  "monthly_est": 257250,
-  "gift_once": 7795,
-  "total_low": 265045,
-  "total_est": 265045,
-  "paying_members": 825,
+  "monthly_low": 251014,
+  "monthly_est": 251014,
+  "gift_once": 4365,
+  "total_low": 255379,
+  "total_est": 255379,
+  "paying_members": 805,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "f6lPrl-z1N8",
-   "start": "2026-09-20 23:00",
-   "title": "【SEKIRO】クリアまで挑戦！シルバーウィークフロム3枠目！！やるよおおおおおおおッ！！！！！！　【にじさんじ/鈴原るる】",
-   "kind": "配信",
-   "chatters": 1029,
-   "member_chatters": 344,
-   "new_members": 1,
-   "gifted_total": 11
-  },
   {
    "video_id": "xk3YTvP7LO0",
    "start": "2026-09-21 21:00",
@@ -321,8 +311,20 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 608,
-   "view_count": 30193
+   "like_count": 716,
+   "view_count": 42887
+  },
+  {
+   "video_id": "k5tI1_Wrb0U",
+   "start": "2026-10-20 00:00",
+   "title": "【JUDGE EYES：死神の遺言 Remastered】#07　初見プレイ！正義というなの凶器！？狂気！　【にじさんじ/鈴原るる】※ネタバレあり",
+   "kind": "live",
+   "status": "processing",
+   "reason": "アーカイブ処理中（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 1829,
+   "view_count": 79209
   }
  ],
  "members_only_content": [
@@ -408,10 +410,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-20"
+    "to": "2026-10-21"
    },
    "streams_analyzed": 14,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 4194,
    "members_confirmed": 674,
    "member_classes": {

@@ -3,19 +3,19 @@
  "channel_id": "UClrQ7xhRBxS_v_-WuudGKmA",
  "handle": "@KaburakiRoco",
  "subscribers": 258000,
- "fetched_at": "2026-10-20 10:08",
- "generated_at": "2026-10-20 10:08",
+ "fetched_at": "2026-10-21 05:25",
+ "generated_at": "2026-10-21 05:25",
  "period": {
-  "from": "2026-09-20 10:08",
-  "to": "2026-10-20 10:08",
+  "from": "2026-09-21 05:25",
+  "to": "2026-10-21 05:25",
   "days": 30
  },
- "streams_analyzed": 21,
- "streams_missed": 7,
- "unique_chatters": 4293,
- "members_confirmed": 637,
+ "streams_analyzed": 20,
+ "streams_missed": 6,
+ "unique_chatters": 4219,
+ "members_confirmed": 635,
  "member_classes": {
-  "unknown": 600,
+  "unknown": 598,
   "known": 19,
   "gift": 18
  },
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 67
+   "members": 66
   },
   {
    "months": 6,
@@ -53,7 +53,7 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 157
+   "members": 156
   }
  ],
  "events": {
@@ -72,19 +72,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 19,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 600.0,
-   "estimated_members": 619.0,
+   "allocated_unknown": 598.0,
+   "estimated_members": 617.0,
    "monthly_net_confirmed": 5925,
-   "monthly_net_estimated": 193015
+   "monthly_net_estimated": 192392
   }
  ],
  "revenue": {
-  "monthly_low": 193015,
-  "monthly_est": 193015,
+  "monthly_low": 192392,
+  "monthly_est": 192392,
   "gift_once": 7172,
-  "total_low": 200187,
-  "total_est": 200187,
-  "paying_members": 619,
+  "total_low": 199564,
+  "total_est": 199564,
+  "paying_members": 617,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "1Ix-ERtuHs0",
-   "start": "2026-09-20 19:05",
-   "title": "【  #にじ遊戯王祭2026 】 視聴者参加型練習会！！！【 鏑木ろこ￤にじさんじ 】",
-   "kind": "配信",
-   "chatters": 302,
-   "member_chatters": 115,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "32cEvz79jL4",
    "start": "2026-09-21 21:00",
@@ -306,18 +296,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "C5vPWx7LURE",
-   "start": "2026-09-20 23:02",
-   "title": "【 メン限同時視聴 】アナスタシア",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 85,
-   "view_count": null
-  },
-  {
    "video_id": "n1fxZSHctoo",
    "start": "2026-09-27 23:03",
    "title": "【 メン限同時視聴 】あの夏のルカ",
@@ -362,7 +340,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 64,
+   "like_count": 65,
    "view_count": null
   },
   {
@@ -392,16 +370,6 @@
  ],
  "members_only_content": [
   {
-   "video_id": "C5vPWx7LURE",
-   "start": "2026-09-20 23:02",
-   "title": "【 メン限同時視聴 】アナスタシア",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 85,
-   "view_count": null
-  },
-  {
    "video_id": "n1fxZSHctoo",
    "start": "2026-09-27 23:03",
    "title": "【 メン限同時視聴 】あの夏のルカ",
@@ -438,7 +406,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 64,
+   "like_count": 65,
    "view_count": null
   },
   {
@@ -537,7 +505,7 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-20"
+    "to": "2026-10-21"
    },
    "streams_analyzed": 13,
    "streams_missed": 4,

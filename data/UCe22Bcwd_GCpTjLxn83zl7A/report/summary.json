@@ -3,26 +3,26 @@
  "channel_id": "UCe22Bcwd_GCpTjLxn83zl7A",
  "handle": "@PontoNei",
  "subscribers": 320000,
- "fetched_at": "2026-10-20 10:07",
- "generated_at": "2026-10-20 10:07",
+ "fetched_at": "2026-10-21 05:24",
+ "generated_at": "2026-10-21 05:24",
  "period": {
-  "from": "2026-09-20 10:07",
-  "to": "2026-10-20 10:07",
+  "from": "2026-09-21 05:24",
+  "to": "2026-10-21 05:24",
   "days": 30
  },
- "streams_analyzed": 16,
- "streams_missed": 2,
- "unique_chatters": 2209,
- "members_confirmed": 177,
+ "streams_analyzed": 15,
+ "streams_missed": 3,
+ "unique_chatters": 2060,
+ "members_confirmed": 175,
  "member_classes": {
-  "unknown": 167,
+  "unknown": 165,
   "known": 10
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 13
+   "members": 12
   },
   {
    "months": 1,
@@ -42,7 +42,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 122
+   "members": 121
   }
  ],
  "events": {
@@ -61,19 +61,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 10,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 167.0,
-   "estimated_members": 177.0,
+   "allocated_unknown": 165.0,
+   "estimated_members": 175.0,
    "monthly_net_confirmed": 3118,
-   "monthly_net_estimated": 55192
+   "monthly_net_estimated": 54568
   }
  ],
  "revenue": {
-  "monthly_low": 55192,
-  "monthly_est": 55192,
+  "monthly_low": 54568,
+  "monthly_est": 54568,
   "gift_once": 0,
-  "total_low": 55192,
-  "total_est": 55192,
-  "paying_members": 177,
+  "total_low": 54568,
+  "total_est": 54568,
+  "paying_members": 175,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -82,16 +82,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "JWtb_hNCFlQ",
-   "start": "2026-09-20 22:00",
-   "title": "【魔法少女ノ魔女裁判│13】見守らせてくれ、ありったけを；； ※ネタバレ注意【先斗寧/にじさんじ】",
-   "kind": "配信",
-   "chatters": 601,
-   "member_chatters": 76,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "CJo58rHypZE",
    "start": "2026-09-22 22:00",
@@ -265,7 +255,19 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "バックヤード",
-   "like_count": 80,
+   "like_count": 81,
+   "view_count": null
+  },
+  {
+   "video_id": "uossOwbQLI8",
+   "start": "2026-10-20 22:01",
+   "title": "【メン限】どう見たって儚いだろSP【先斗寧/にじさんじ】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "バックヤード",
+   "like_count": 84,
    "view_count": null
   }
  ],
@@ -287,7 +289,17 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "バックヤード",
-   "like_count": 80,
+   "like_count": 81,
+   "view_count": null
+  },
+  {
+   "video_id": "uossOwbQLI8",
+   "start": "2026-10-20 22:01",
+   "title": "【メン限】どう見たって儚いだろSP【先斗寧/にじさんじ】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "バックヤード",
+   "like_count": 84,
    "view_count": null
   }
  ],
@@ -357,10 +369,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-20"
+    "to": "2026-10-21"
    },
    "streams_analyzed": 10,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 1141,
    "members_confirmed": 143,
    "member_classes": {

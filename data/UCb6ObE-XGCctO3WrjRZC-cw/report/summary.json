@@ -3,26 +3,26 @@
  "channel_id": "UCb6ObE-XGCctO3WrjRZC-cw",
  "handle": "@LuisCammy",
  "subscribers": 257000,
- "fetched_at": "2026-10-20 10:06",
- "generated_at": "2026-10-20 10:06",
+ "fetched_at": "2026-10-21 05:21",
+ "generated_at": "2026-10-21 05:21",
  "period": {
-  "from": "2026-09-20 10:06",
-  "to": "2026-10-20 10:06",
+  "from": "2026-09-21 05:21",
+  "to": "2026-10-21 05:21",
   "days": 30
  },
  "streams_analyzed": 14,
  "streams_missed": 4,
- "unique_chatters": 757,
- "members_confirmed": 96,
+ "unique_chatters": 710,
+ "members_confirmed": 93,
  "member_classes": {
-  "unknown": 89,
+  "unknown": 86,
   "known": 7
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 2
+   "members": 1
   },
   {
    "months": 2,
@@ -37,12 +37,12 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 9
+   "members": 8
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 78
+   "members": 77
   }
  ],
  "events": {
@@ -61,10 +61,10 @@
    "net_per_member": 439.1,
    "confirmed_members": 5,
    "share_of_confirmed_pct": 71.4,
-   "allocated_unknown": 63.6,
-   "estimated_members": 68.6,
+   "allocated_unknown": 61.4,
+   "estimated_members": 66.4,
    "monthly_net_confirmed": 2195,
-   "monthly_net_estimated": 30109
+   "monthly_net_estimated": 29168
   },
   {
    "tier": "ルイスの相棒",
@@ -72,19 +72,19 @@
    "net_per_member": 1266.4,
    "confirmed_members": 2,
    "share_of_confirmed_pct": 28.6,
-   "allocated_unknown": 25.4,
-   "estimated_members": 27.4,
+   "allocated_unknown": 24.6,
+   "estimated_members": 26.6,
    "monthly_net_confirmed": 2533,
-   "monthly_net_estimated": 34735
+   "monthly_net_estimated": 33649
   }
  ],
  "revenue": {
-  "monthly_low": 43807,
-  "monthly_est": 64844,
+  "monthly_low": 42490,
+  "monthly_est": 62817,
   "gift_once": 0,
-  "total_low": 43807,
-  "total_est": 64844,
-  "paying_members": 96,
+  "total_low": 42490,
+  "total_est": 62817,
+  "paying_members": 93,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "aGg7KpOHsIs",
-   "start": "2026-09-20 11:01",
-   "title": "生き延びろ【タンポポは耐える。/ルイス・キャミー/にじさんじ】",
-   "kind": "配信",
-   "chatters": 143,
-   "member_chatters": 32,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "h9H_Y6F_zrc",
    "start": "2026-09-22 11:02",
@@ -230,6 +220,16 @@
    "kind": "配信",
    "chatters": 89,
    "member_chatters": 27,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "GQPJlKDs-Gk",
+   "start": "2026-10-20 11:00",
+   "title": "元最強戦士！お茶をいれる！【Wanderstop/ルイス・キャミー/にじさんじ】",
+   "kind": "配信",
+   "chatters": 71,
+   "member_chatters": 24,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -402,17 +402,17 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-20"
+    "to": "2026-10-21"
    },
-   "streams_analyzed": 8,
+   "streams_analyzed": 9,
    "streams_missed": 2,
-   "unique_chatters": 533,
-   "members_confirmed": 83,
+   "unique_chatters": 551,
+   "members_confirmed": 85,
    "member_classes": {
-    "unknown": 76,
+    "unknown": 78,
     "known": 7
    },
-   "long_term_members": 76,
+   "long_term_members": 78,
    "badges": [
     {
      "months": 0,
@@ -432,7 +432,7 @@
     },
     {
      "months": 24,
-     "members": 69
+     "members": 71
     }
    ],
    "events": {
@@ -446,21 +446,21 @@
      "tier": "怪盗団",
      "price": 690,
      "confirmed_members": 5,
-     "estimated_members": 59.3
+     "estimated_members": 60.7
     },
     {
      "tier": "ルイスの相棒",
      "price": 1990,
      "confirmed_members": 2,
-     "estimated_members": 23.7
+     "estimated_members": 24.3
     }
    ],
    "revenue": {
-    "monthly_low": 38099,
-    "monthly_est": 56063,
+    "monthly_low": 38977,
+    "monthly_est": 57414,
     "gift_once": 0
    },
-   "avg_member_chatters": 32,
+   "avg_member_chatters": 31.1,
    "partial": true,
    "finalized": false
   }

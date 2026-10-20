@@ -3,27 +3,27 @@
  "channel_id": "UCHX7YpFG8rVwhsHCx34xt7w",
  "handle": "@YukishiroMahiro",
  "subscribers": 213000,
- "fetched_at": "2026-10-20 10:06",
- "generated_at": "2026-10-20 10:06",
+ "fetched_at": "2026-10-21 05:20",
+ "generated_at": "2026-10-21 05:20",
  "period": {
-  "from": "2026-09-20 10:06",
-  "to": "2026-10-20 10:06",
+  "from": "2026-09-21 05:20",
+  "to": "2026-10-21 05:20",
   "days": 30
  },
  "streams_analyzed": 15,
  "streams_missed": 1,
- "unique_chatters": 1042,
+ "unique_chatters": 1034,
  "members_confirmed": 233,
  "member_classes": {
-  "unknown": 199,
-  "known": 7,
+  "unknown": 200,
+  "known": 6,
   "gift": 27
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 27
+   "members": 26
   },
   {
    "months": 1,
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 11
+   "members": 12
   },
   {
    "months": 24,
@@ -52,7 +52,7 @@
   }
  ],
  "events": {
-  "new_members": 1,
+  "new_members": 0,
   "rejoins": 5,
   "milestones": 0,
   "gift_purchases": 10,
@@ -66,22 +66,22 @@
    "price": 490,
    "net_per_member": 311.8,
    "confirmed_members": 3,
-   "share_of_confirmed_pct": 42.9,
-   "allocated_unknown": 85.3,
-   "estimated_members": 88.3,
+   "share_of_confirmed_pct": 50.0,
+   "allocated_unknown": 100.0,
+   "estimated_members": 103.0,
    "monthly_net_confirmed": 935,
-   "monthly_net_estimated": 27529
+   "monthly_net_estimated": 32117
   },
   {
    "tier": "ぬまひとも",
    "price": 1190,
    "net_per_member": 757.3,
-   "confirmed_members": 4,
-   "share_of_confirmed_pct": 57.1,
-   "allocated_unknown": 113.7,
-   "estimated_members": 117.7,
-   "monthly_net_confirmed": 3029,
-   "monthly_net_estimated": 89142
+   "confirmed_members": 3,
+   "share_of_confirmed_pct": 50.0,
+   "allocated_unknown": 100.0,
+   "estimated_members": 103.0,
+   "monthly_net_confirmed": 2272,
+   "monthly_net_estimated": 77999
   },
   {
    "tier": "まひろはうす",
@@ -96,11 +96,11 @@
   }
  ],
  "revenue": {
-  "monthly_low": 66016,
-  "monthly_est": 116671,
+  "monthly_low": 65571,
+  "monthly_est": 110116,
   "gift_once": 8419,
-  "total_low": 74435,
-  "total_est": 125090,
+  "total_low": 73990,
+  "total_est": 118535,
   "paying_members": 206,
   "single_tier": false,
   "tax_rate": 0.1,
@@ -110,16 +110,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "r-yraP34y24",
-   "start": "2026-09-20 18:30",
-   "title": "【#にじ遊戯王祭2026】視聴者参加！ひたすら練習あるのみ！【雪城眞尋/にじさんじ】",
-   "kind": "配信",
-   "chatters": 82,
-   "member_chatters": 41,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "UTPO_QQ_r48",
    "start": "2026-09-21 23:31",
@@ -259,6 +249,16 @@
    "member_chatters": 45,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "U8C-skj6P5Y",
+   "start": "2026-10-20 17:01",
+   "title": "【BOMBANANA!】完璧な解除だ！！！w/レイン・パターソン、オリバー・エバンス【雪城眞尋/にじさんじ】",
+   "kind": "配信",
+   "chatters": 68,
+   "member_chatters": 37,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -370,18 +370,18 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-20"
+    "to": "2026-10-21"
    },
-   "streams_analyzed": 8,
+   "streams_analyzed": 9,
    "streams_missed": 1,
-   "unique_chatters": 725,
-   "members_confirmed": 172,
+   "unique_chatters": 737,
+   "members_confirmed": 174,
    "member_classes": {
-    "unknown": 153,
+    "unknown": 155,
     "gift": 14,
     "known": 5
    },
-   "long_term_members": 138,
+   "long_term_members": 140,
    "badges": [
     {
      "months": 0,
@@ -401,11 +401,11 @@
     },
     {
      "months": 12,
-     "members": 6
+     "members": 7
     },
     {
      "months": 24,
-     "members": 132
+     "members": 133
     }
    ],
    "events": {
@@ -419,13 +419,13 @@
      "tier": "まひとも",
      "price": 490,
      "confirmed_members": 2,
-     "estimated_members": 63.2
+     "estimated_members": 64.0
     },
     {
      "tier": "ぬまひとも",
      "price": 1190,
      "confirmed_members": 3,
-     "estimated_members": 94.8
+     "estimated_members": 96.0
     },
     {
      "tier": "まひろはうす",
@@ -435,11 +435,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 50604,
-    "monthly_est": 91496,
+    "monthly_low": 51227,
+    "monthly_est": 92655,
     "gift_once": 4365
    },
-   "avg_member_chatters": 59.5,
+   "avg_member_chatters": 57,
    "partial": true,
    "finalized": false
   }

@@ -3,26 +3,26 @@
  "channel_id": "UCHBhnG2G-qN0JrrWmMO2FTA",
  "handle": "@ShellinBurgundy",
  "subscribers": 408000,
- "fetched_at": "2026-10-20 10:06",
- "generated_at": "2026-10-20 10:06",
+ "fetched_at": "2026-10-21 05:21",
+ "generated_at": "2026-10-21 05:21",
  "period": {
-  "from": "2026-09-20 10:06",
-  "to": "2026-10-20 10:06",
+  "from": "2026-09-21 05:21",
+  "to": "2026-10-21 05:21",
   "days": 30
  },
- "streams_analyzed": 4,
+ "streams_analyzed": 5,
  "streams_missed": 0,
- "unique_chatters": 579,
- "members_confirmed": 236,
+ "unique_chatters": 673,
+ "members_confirmed": 262,
  "member_classes": {
-  "unknown": 234,
+  "unknown": 260,
   "known": 2
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 2
+   "members": 1
   },
   {
    "months": 1,
@@ -32,22 +32,22 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 5
+   "members": 9
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 32
+   "members": 34
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 42
+   "members": 49
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 152
+   "members": 166
   }
  ],
  "events": {
@@ -66,19 +66,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 2,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 234.0,
-   "estimated_members": 236.0,
+   "allocated_unknown": 260.0,
+   "estimated_members": 262.0,
    "monthly_net_confirmed": 624,
-   "monthly_net_estimated": 73589
+   "monthly_net_estimated": 81696
   }
  ],
  "revenue": {
-  "monthly_low": 73589,
-  "monthly_est": 73589,
+  "monthly_low": 81696,
+  "monthly_est": 81696,
   "gift_once": 0,
-  "total_low": 73589,
-  "total_est": 73589,
-  "paying_members": 236,
+  "total_low": 81696,
+  "total_est": 81696,
+  "paying_members": 262,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -124,6 +124,16 @@
    "kind": "配信",
    "chatters": 268,
    "member_chatters": 136,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "ZpEbXYl0h5o",
+   "start": "2026-10-20 17:00",
+   "title": "【グランツーリスモ7】ルマンを攻めるぜ【シェリン/にじさんじ】",
+   "kind": "配信",
+   "chatters": 299,
+   "member_chatters": 144,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -200,21 +210,21 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-20"
+    "to": "2026-10-21"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 0,
-   "unique_chatters": 268,
-   "members_confirmed": 136,
+   "unique_chatters": 413,
+   "members_confirmed": 183,
    "member_classes": {
-    "unknown": 134,
+    "unknown": 181,
     "known": 2
    },
-   "long_term_members": 109,
+   "long_term_members": 148,
    "badges": [
     {
      "months": 0,
-     "members": 2
+     "members": 1
     },
     {
      "months": 1,
@@ -222,19 +232,19 @@
     },
     {
      "months": 2,
-     "members": 3
+     "members": 7
     },
     {
      "months": 6,
-     "members": 19
+     "members": 24
     },
     {
      "months": 12,
-     "members": 22
+     "members": 33
     },
     {
      "months": 24,
-     "members": 87
+     "members": 115
     }
    ],
    "events": {
@@ -248,15 +258,15 @@
      "tier": "調査員",
      "price": 490,
      "confirmed_members": 2,
-     "estimated_members": 136.0
+     "estimated_members": 183.0
     }
    ],
    "revenue": {
-    "monthly_low": 42407,
-    "monthly_est": 42407,
+    "monthly_low": 57063,
+    "monthly_est": 57063,
     "gift_once": 0
    },
-   "avg_member_chatters": 136,
+   "avg_member_chatters": 140,
    "partial": true,
    "finalized": false
   }
