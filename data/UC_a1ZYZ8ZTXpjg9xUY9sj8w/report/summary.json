@@ -3,27 +3,27 @@
  "channel_id": "UC_a1ZYZ8ZTXpjg9xUY9sj8w",
  "handle": "@LuluSuzuhara",
  "subscribers": 776000,
- "fetched_at": "2026-10-20 05:21",
- "generated_at": "2026-10-20 05:21",
+ "fetched_at": "2026-10-20 10:06",
+ "generated_at": "2026-10-20 10:07",
  "period": {
-  "from": "2026-09-20 05:21",
-  "to": "2026-10-20 05:21",
+  "from": "2026-09-20 10:06",
+  "to": "2026-10-20 10:06",
   "days": 30
  },
  "streams_analyzed": 21,
- "streams_missed": 4,
- "unique_chatters": 6721,
- "members_confirmed": 853,
+ "streams_missed": 2,
+ "unique_chatters": 6566,
+ "members_confirmed": 849,
  "member_classes": {
-  "unknown": 816,
-  "known": 14,
-  "gift": 23
+  "unknown": 812,
+  "known": 13,
+  "gift": 24
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 46
+   "members": 48
   },
   {
    "months": 1,
@@ -33,31 +33,31 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 78
+   "members": 77
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 460
+   "members": 457
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 125
+   "members": 124
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 136
+   "members": 135
   }
  ],
  "events": {
   "new_members": 4,
-  "rejoins": 9,
+  "rejoins": 8,
   "milestones": 0,
-  "gift_purchases": 15,
-  "gifted_total": 24,
-  "gift_redemptions": 23
+  "gift_purchases": 16,
+  "gifted_total": 25,
+  "gift_redemptions": 24
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +65,21 @@
    "tier": "魔界レベル1",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 14,
+   "confirmed_members": 13,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 816.0,
-   "estimated_members": 830.0,
-   "monthly_net_confirmed": 4365,
-   "monthly_net_estimated": 258809
+   "allocated_unknown": 812.0,
+   "estimated_members": 825.0,
+   "monthly_net_confirmed": 4054,
+   "monthly_net_estimated": 257250
   }
  ],
  "revenue": {
-  "monthly_low": 258809,
-  "monthly_est": 258809,
-  "gift_once": 7484,
-  "total_low": 266293,
-  "total_est": 266293,
-  "paying_members": 830,
+  "monthly_low": 257250,
+  "monthly_est": 257250,
+  "gift_once": 7795,
+  "total_low": 265045,
+  "total_est": 265045,
+  "paying_members": 825,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "UotZ8cf_t6Q",
-   "start": "2026-09-20 09:25",
-   "title": "【SEKIRO】クリアまで挑戦！シルバーウィークフロム2枠目！！やるよおおおおおおおッ！！！！！！　【にじさんじ/鈴原るる】",
-   "kind": "配信",
-   "chatters": 998,
-   "member_chatters": 272,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "f6lPrl-z1N8",
    "start": "2026-09-20 23:00",
@@ -297,6 +287,16 @@
    "member_chatters": 231,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "neEkTH6SvRI",
+   "start": "2026-10-19 23:31",
+   "title": "【JUDGE EYES：死神の遺言 Remastered】#06　初見プレイ！正義というなの凶器！？狂気！　【にじさんじ/鈴原るる】※ネタバレあり",
+   "kind": "配信",
+   "chatters": 825,
+   "member_chatters": 233,
+   "new_members": 0,
+   "gifted_total": 1
   }
  ],
  "missed_streams": [
@@ -313,30 +313,6 @@
    "view_count": null
   },
   {
-   "video_id": "fYx_tHIt_OM",
-   "start": "2026-10-16 00:00",
-   "title": "【JUDGE EYES #3】1億円強盗の真相を追う!!謎は解けるのに、ギャンブルだけは向いてない名探偵鈴原るる【鈴原るる/にじさんじ切り抜き】※ネタバレあり",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 406,
-   "view_count": 19385
-  },
-  {
-   "video_id": "neEkTH6SvRI",
-   "start": "2026-10-19 00:00",
-   "title": "【JUDGE EYES：死神の遺言 Remastered】#06　初見プレイ！正義というなの凶器！？狂気！　【にじさんじ/鈴原るる】※ネタバレあり",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 1807,
-   "view_count": 63698
-  },
-  {
    "video_id": "SMTaCOgYMp4",
    "start": "2026-10-19 00:00",
    "title": "ギャンブルで無一文になったラーメン屋を、今度こそ真面目に立て直す鈴原るる【Japanese Ramen Simulator/にじさんじ切り抜き】",
@@ -345,8 +321,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 569,
-   "view_count": 27416
+   "like_count": 608,
+   "view_count": 30193
   }
  ],
  "members_only_content": [
@@ -434,20 +410,20 @@
     "from": "2026-10-01",
     "to": "2026-10-20"
    },
-   "streams_analyzed": 13,
-   "streams_missed": 3,
-   "unique_chatters": 4052,
-   "members_confirmed": 662,
+   "streams_analyzed": 14,
+   "streams_missed": 1,
+   "unique_chatters": 4194,
+   "members_confirmed": 674,
    "member_classes": {
-    "unknown": 642,
+    "unknown": 653,
     "known": 10,
-    "gift": 10
+    "gift": 11
    },
-   "long_term_members": 213,
+   "long_term_members": 215,
    "badges": [
     {
      "months": 0,
-     "members": 21
+     "members": 23
     },
     {
      "months": 1,
@@ -455,41 +431,41 @@
     },
     {
      "months": 2,
-     "members": 58
+     "members": 60
     },
     {
      "months": 6,
-     "members": 365
+     "members": 371
     },
     {
      "months": 12,
-     "members": 100
+     "members": 101
     },
     {
      "months": 24,
-     "members": 113
+     "members": 114
     }
    ],
    "events": {
     "new_members": 2,
     "rejoins": 5,
     "milestones": 0,
-    "gifted_total": 11
+    "gifted_total": 12
    },
    "tiers": [
     {
      "tier": "魔界レベル1",
      "price": 490,
      "confirmed_members": 10,
-     "estimated_members": 652.0
+     "estimated_members": 663.0
     }
    ],
    "revenue": {
-    "monthly_low": 203305,
-    "monthly_est": 203305,
-    "gift_once": 3430
+    "monthly_low": 206735,
+    "monthly_est": 206735,
+    "gift_once": 3742
    },
-   "avg_member_chatters": 241.8,
+   "avg_member_chatters": 241.1,
    "partial": true,
    "finalized": false
   }

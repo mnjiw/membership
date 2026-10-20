@@ -3,16 +3,16 @@
  "channel_id": "UCeK9HFcRZoTrvqcUCtccMoQ",
  "handle": "@ShibuyaHajime",
  "subscribers": 161000,
- "fetched_at": "2026-10-20 05:17",
- "generated_at": "2026-10-20 05:17",
+ "fetched_at": "2026-10-20 10:05",
+ "generated_at": "2026-10-20 10:05",
  "period": {
-  "from": "2026-09-20 05:17",
-  "to": "2026-10-20 05:17",
+  "from": "2026-09-20 10:05",
+  "to": "2026-10-20 10:05",
   "days": 30
  },
- "streams_analyzed": 22,
- "streams_missed": 1,
- "unique_chatters": 266,
+ "streams_analyzed": 23,
+ "streams_missed": 0,
+ "unique_chatters": 272,
  "members_confirmed": 59,
  "member_classes": {
   "unknown": 59
@@ -52,7 +52,7 @@
  "events": {
   "new_members": 4,
   "rejoins": 2,
-  "milestones": 9,
+  "milestones": 10,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -305,22 +305,19 @@
    "member_chatters": 20,
    "new_members": 0,
    "gifted_total": 0
-  }
- ],
- "missed_streams": [
+  },
   {
    "video_id": "byZEtRb7qPE",
-   "start": "2026-10-19 00:00",
+   "start": "2026-10-19 19:54",
    "title": "【WARDOGS】世界発のストリーマーカスタムうぉーーーどっくす【にじさんじ/渋谷ハジメ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 130,
-   "view_count": 5472
+   "kind": "配信",
+   "chatters": 37,
+   "member_chatters": 19,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -393,14 +390,14 @@
     "from": "2026-10-01",
     "to": "2026-10-20"
    },
-   "streams_analyzed": 15,
-   "streams_missed": 1,
-   "unique_chatters": 232,
-   "members_confirmed": 55,
+   "streams_analyzed": 16,
+   "streams_missed": 0,
+   "unique_chatters": 240,
+   "members_confirmed": 56,
    "member_classes": {
-    "unknown": 55
+    "unknown": 56
    },
-   "long_term_members": 42,
+   "long_term_members": 43,
    "badges": [
     {
      "months": 0,
@@ -424,13 +421,13 @@
     },
     {
      "months": 24,
-     "members": 36
+     "members": 37
     }
    ],
    "events": {
     "new_members": 3,
     "rejoins": 0,
-    "milestones": 4,
+    "milestones": 5,
     "gifted_total": 0
    },
    "tiers": [
@@ -438,12 +435,12 @@
      "tier": "メンバーシップ",
      "price": 490,
      "confirmed_members": 0,
-     "estimated_members": 55.0
+     "estimated_members": 56.0
     }
    ],
    "revenue": {
-    "monthly_low": 17150,
-    "monthly_est": 17150,
+    "monthly_low": 17462,
+    "monthly_est": 17462,
     "gift_once": 0
    },
    "avg_member_chatters": 19.9,

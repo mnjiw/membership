@@ -3,19 +3,19 @@
  "channel_id": "UCL34fAoFim9oHLbVzMKFavQ",
  "handle": "@YorumiRena",
  "subscribers": 606000,
- "fetched_at": "2026-10-20 05:22",
- "generated_at": "2026-10-20 05:22",
+ "fetched_at": "2026-10-20 10:06",
+ "generated_at": "2026-10-20 10:06",
  "period": {
-  "from": "2026-09-20 05:22",
-  "to": "2026-10-20 05:22",
+  "from": "2026-09-20 10:06",
+  "to": "2026-10-20 10:06",
   "days": 30
  },
- "streams_analyzed": 14,
- "streams_missed": 1,
- "unique_chatters": 1985,
- "members_confirmed": 264,
+ "streams_analyzed": 15,
+ "streams_missed": 0,
+ "unique_chatters": 2084,
+ "members_confirmed": 268,
  "member_classes": {
-  "unknown": 250,
+  "unknown": 254,
   "known": 14
  },
  "badges": [
@@ -32,17 +32,17 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 15
+   "members": 14
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 13
+   "members": 15
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 26
+   "members": 28
   },
   {
    "months": 24,
@@ -52,7 +52,7 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 34
+   "members": 35
   },
   {
    "months": 48,
@@ -81,19 +81,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 14,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 250.0,
-   "estimated_members": 264.0,
+   "allocated_unknown": 254.0,
+   "estimated_members": 268.0,
    "monthly_net_confirmed": 4365,
-   "monthly_net_estimated": 82320
+   "monthly_net_estimated": 83567
   }
  ],
  "revenue": {
-  "monthly_low": 82320,
-  "monthly_est": 82320,
+  "monthly_low": 83567,
+  "monthly_est": 83567,
   "gift_once": 0,
-  "total_low": 82320,
-  "total_est": 82320,
-  "paying_members": 264,
+  "total_low": 83567,
+  "total_est": 83567,
+  "paying_members": 268,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -241,22 +241,19 @@
    "member_chatters": 85,
    "new_members": 2,
    "gifted_total": 0
-  }
- ],
- "missed_streams": [
+  },
   {
    "video_id": "d_QFaGTnZ6A",
-   "start": "2026-10-19 00:00",
+   "start": "2026-10-20 00:00",
    "title": "【 Japanese Ramen Simulator 】深夜ラーメンの罪の味♡【 にじさんじ / 夜見れな 】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 1644,
-   "view_count": 54026
+   "kind": "配信",
+   "chatters": 318,
+   "member_chatters": 92,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -342,15 +339,15 @@
     "from": "2026-10-01",
     "to": "2026-10-20"
    },
-   "streams_analyzed": 8,
-   "streams_missed": 1,
-   "unique_chatters": 1365,
-   "members_confirmed": 220,
+   "streams_analyzed": 9,
+   "streams_missed": 0,
+   "unique_chatters": 1478,
+   "members_confirmed": 227,
    "member_classes": {
-    "unknown": 207,
+    "unknown": 214,
     "known": 13
    },
-   "long_term_members": 192,
+   "long_term_members": 198,
    "badges": [
     {
      "months": 0,
@@ -362,15 +359,15 @@
     },
     {
      "months": 2,
-     "members": 13
+     "members": 12
     },
     {
      "months": 6,
-     "members": 11
+     "members": 13
     },
     {
      "months": 12,
-     "members": 24
+     "members": 26
     },
     {
      "months": 24,
@@ -378,15 +375,15 @@
     },
     {
      "months": 36,
-     "members": 27
+     "members": 29
     },
     {
      "months": 48,
-     "members": 23
+     "members": 24
     },
     {
      "months": 60,
-     "members": 97
+     "members": 98
     }
    ],
    "events": {
@@ -400,15 +397,15 @@
      "tier": "夜見のひよこプラン",
      "price": 490,
      "confirmed_members": 13,
-     "estimated_members": 220.0
+     "estimated_members": 227.0
     }
    ],
    "revenue": {
-    "monthly_low": 68600,
-    "monthly_est": 68600,
+    "monthly_low": 70783,
+    "monthly_est": 70783,
     "gift_once": 0
    },
-   "avg_member_chatters": 97.2,
+   "avg_member_chatters": 96.7,
    "partial": true,
    "finalized": false
   }
