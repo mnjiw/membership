@@ -3,43 +3,43 @@
  "channel_id": "UCKMYISTJAQ8xTplUPHiABlA",
  "handle": "@YashiroKizuku",
  "subscribers": 922000,
- "fetched_at": "2026-10-21 09:37",
- "generated_at": "2026-10-21 09:37",
+ "fetched_at": "2026-10-22 05:18",
+ "generated_at": "2026-10-22 05:19",
  "period": {
-  "from": "2026-09-21 09:37",
-  "to": "2026-10-21 09:37",
+  "from": "2026-09-22 05:18",
+  "to": "2026-10-22 05:18",
   "days": 30
  },
  "streams_analyzed": 14,
  "streams_missed": 0,
- "unique_chatters": 11341,
- "members_confirmed": 857,
+ "unique_chatters": 10607,
+ "members_confirmed": 822,
  "member_classes": {
-  "unknown": 829,
-  "known": 23,
+  "unknown": 796,
+  "known": 21,
   "gift": 5
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 41
+   "members": 39
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 28
+   "members": 26
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 788
+   "members": 757
   }
  ],
  "events": {
-  "new_members": 8,
+  "new_members": 6,
   "rejoins": 2,
-  "milestones": 7,
+  "milestones": 3,
   "gift_purchases": 1,
   "gifted_total": 5,
   "gift_redemptions": 5
@@ -50,21 +50,21 @@
    "tier": "メンバー",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 23,
+   "confirmed_members": 21,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 829.0,
-   "estimated_members": 852.0,
-   "monthly_net_confirmed": 7172,
-   "monthly_net_estimated": 265669
+   "allocated_unknown": 796.0,
+   "estimated_members": 817.0,
+   "monthly_net_confirmed": 6548,
+   "monthly_net_estimated": 254755
   }
  ],
  "revenue": {
-  "monthly_low": 265669,
-  "monthly_est": 265669,
+  "monthly_low": 254755,
+  "monthly_est": 254755,
   "gift_once": 1559,
-  "total_low": 267228,
-  "total_est": 267228,
-  "paying_members": 852,
+  "total_low": 256315,
+  "total_est": 256315,
+  "paying_members": 817,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "heoYTNO39tI",
-   "start": "2026-09-21 14:03",
-   "title": "【遊戯王マスターデュエル　#にじ遊戯王祭2026】僕が言いたいのは「粛清」　予選Aリーグ【にじさんじ/社築】",
-   "kind": "配信",
-   "chatters": 2460,
-   "member_chatters": 341,
-   "new_members": 2,
-   "gifted_total": 0
-  },
   {
    "video_id": "8F5wNk477qQ",
    "start": "2026-09-23 22:00",
@@ -212,6 +202,16 @@
    "member_chatters": 220,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "nD8Vdd7umSg",
+   "start": "2026-10-21 20:59",
+   "title": "【#にじオンキヨー】コラボイヤホン紹介タイムだ！！【にじさんじ/社築/卯月コウ/ミラン・ケストレル】",
+   "kind": "配信",
+   "chatters": 733,
+   "member_chatters": 158,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -275,14 +275,14 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-21"
+    "to": "2026-10-22"
    },
-   "streams_analyzed": 9,
+   "streams_analyzed": 10,
    "streams_missed": 0,
-   "unique_chatters": 7080,
-   "members_confirmed": 685,
+   "unique_chatters": 7516,
+   "members_confirmed": 696,
    "member_classes": {
-    "unknown": 666,
+    "unknown": 677,
     "known": 19
    },
    "long_term_members": 0,
@@ -293,11 +293,11 @@
     },
     {
      "months": 1,
-     "members": 23
+     "members": 22
     },
     {
      "months": 2,
-     "members": 641
+     "members": 653
     }
    ],
    "events": {
@@ -311,15 +311,15 @@
      "tier": "メンバー",
      "price": 490,
      "confirmed_members": 19,
-     "estimated_members": 685.0
+     "estimated_members": 696.0
     }
    ],
    "revenue": {
-    "monthly_low": 213595,
-    "monthly_est": 213595,
+    "monthly_low": 217025,
+    "monthly_est": 217025,
     "gift_once": 0
    },
-   "avg_member_chatters": 235.8,
+   "avg_member_chatters": 228,
    "partial": true,
    "finalized": false
   }

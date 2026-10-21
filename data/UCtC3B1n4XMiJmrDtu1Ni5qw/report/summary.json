@@ -3,37 +3,37 @@
  "channel_id": "UCtC3B1n4XMiJmrDtu1Ni5qw",
  "handle": "@NanaseSuzuna",
  "subscribers": 317000,
- "fetched_at": "2026-10-21 09:40",
- "generated_at": "2026-10-21 09:40",
+ "fetched_at": "2026-10-22 05:30",
+ "generated_at": "2026-10-22 05:31",
  "period": {
-  "from": "2026-09-21 09:40",
-  "to": "2026-10-21 09:40",
+  "from": "2026-09-22 05:30",
+  "to": "2026-10-22 05:30",
   "days": 30
  },
- "streams_analyzed": 35,
- "streams_missed": 3,
- "unique_chatters": 10482,
- "members_confirmed": 1619,
+ "streams_analyzed": 34,
+ "streams_missed": 2,
+ "unique_chatters": 10320,
+ "members_confirmed": 1608,
  "member_classes": {
+  "unknown": 1289,
   "known": 141,
-  "unknown": 1295,
-  "gift": 183
+  "gift": 178
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 404
+   "members": 399
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 311
+   "members": 309
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 156
+   "members": 153
   },
   {
    "months": 12,
@@ -43,16 +43,16 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 279
+   "members": 278
   }
  ],
  "events": {
-  "new_members": 57,
+  "new_members": 56,
   "rejoins": 9,
   "milestones": 76,
-  "gift_purchases": 29,
-  "gifted_total": 191,
-  "gift_redemptions": 183
+  "gift_purchases": 28,
+  "gifted_total": 186,
+  "gift_redemptions": 178
  },
  "tiers_configured": true,
  "tiers": [
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 141,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1295.0,
-   "estimated_members": 1436.0,
+   "allocated_unknown": 1289.0,
+   "estimated_members": 1430.0,
    "monthly_net_confirmed": 43966,
-   "monthly_net_estimated": 447771
+   "monthly_net_estimated": 445900
   }
  ],
  "revenue": {
-  "monthly_low": 447771,
-  "monthly_est": 447771,
-  "gift_once": 59557,
-  "total_low": 507328,
-  "total_est": 507328,
-  "paying_members": 1436,
+  "monthly_low": 445900,
+  "monthly_est": 445900,
+  "gift_once": 57998,
+  "total_low": 503898,
+  "total_est": 503898,
+  "paying_members": 1430,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,26 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "1dUtnSZQcU8",
-   "start": "2026-09-21 10:16",
-   "title": "【 #にじ遊戯王祭2026 】視聴者参加型✨本番直前練習！！【七瀬すず菜/にじさんじ】",
-   "kind": "配信",
-   "chatters": 388,
-   "member_chatters": 136,
-   "new_members": 0,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "rR0Tiu5lumM",
-   "start": "2026-09-21 14:02",
-   "title": "【 #にじ遊戯王祭2026 】予選Aリーグ✨強靭！無敵！最強！【七瀬すず菜/にじさんじ】",
-   "kind": "配信",
-   "chatters": 793,
-   "member_chatters": 257,
-   "new_members": 1,
-   "gifted_total": 5
-  },
   {
    "video_id": "zVjiar8uFXU",
    "start": "2026-09-22 22:00",
@@ -432,6 +412,16 @@
    "member_chatters": 310,
    "new_members": 9,
    "gifted_total": 0
+  },
+  {
+   "video_id": "rB9EcP5XluU",
+   "start": "2026-10-21 07:01",
+   "title": "【朝活】おはすず10月21日（水）＃601【七瀬すず菜/にじさんじ】",
+   "kind": "配信",
+   "chatters": 1204,
+   "member_chatters": 394,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -458,18 +448,6 @@
    "members_level": "すずふぁーむ",
    "like_count": 302,
    "view_count": null
-  },
-  {
-   "video_id": "rB9EcP5XluU",
-   "start": "2026-10-20 00:00",
-   "title": "【朝活】おはすず10月21日（水）＃601【七瀬すず菜/にじさんじ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 1940,
-   "view_count": 28382
   }
  ],
  "members_only_content": [
@@ -561,26 +539,26 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-21"
+    "to": "2026-10-22"
    },
-   "streams_analyzed": 21,
-   "streams_missed": 3,
-   "unique_chatters": 8543,
-   "members_confirmed": 1448,
+   "streams_analyzed": 22,
+   "streams_missed": 2,
+   "unique_chatters": 8726,
+   "members_confirmed": 1456,
    "member_classes": {
-    "unknown": 1196,
-    "known": 131,
+    "unknown": 1203,
+    "known": 132,
     "gift": 121
    },
-   "long_term_members": 690,
+   "long_term_members": 694,
    "badges": [
     {
      "months": 0,
-     "members": 325
+     "members": 326
     },
     {
      "months": 2,
-     "members": 292
+     "members": 295
     },
     {
      "months": 6,
@@ -588,7 +566,7 @@
     },
     {
      "months": 12,
-     "members": 430
+     "members": 434
     },
     {
      "months": 24,
@@ -598,23 +576,23 @@
    "events": {
     "new_members": 44,
     "rejoins": 7,
-    "milestones": 57,
+    "milestones": 58,
     "gifted_total": 126
    },
    "tiers": [
     {
      "tier": "すずふぁーむ",
      "price": 490,
-     "confirmed_members": 131,
-     "estimated_members": 1327.0
+     "confirmed_members": 132,
+     "estimated_members": 1335.0
     }
    ],
    "revenue": {
-    "monthly_low": 413783,
-    "monthly_est": 413783,
+    "monthly_low": 416277,
+    "monthly_est": 416277,
     "gift_once": 39289
    },
-   "avg_member_chatters": 396,
+   "avg_member_chatters": 395.9,
    "partial": true,
    "finalized": false
   }

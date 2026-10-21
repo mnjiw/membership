@@ -3,20 +3,20 @@
  "channel_id": "UCFimqykDM5g9a5KxlW_e7ZQ",
  "handle": "@Onotora_Y4T4",
  "subscribers": 122000,
- "fetched_at": "2026-10-21 09:40",
- "generated_at": "2026-10-21 09:40",
+ "fetched_at": "2026-10-22 05:32",
+ "generated_at": "2026-10-22 05:32",
  "period": {
-  "from": "2026-09-21 09:40",
-  "to": "2026-10-21 09:40",
+  "from": "2026-09-22 05:32",
+  "to": "2026-10-22 05:32",
   "days": 30
  },
- "streams_analyzed": 24,
- "streams_missed": 3,
- "unique_chatters": 3048,
- "members_confirmed": 346,
+ "streams_analyzed": 23,
+ "streams_missed": 4,
+ "unique_chatters": 2706,
+ "members_confirmed": 343,
  "member_classes": {
+  "unknown": 313,
   "known": 17,
-  "unknown": 316,
   "gift": 13
  },
  "badges": [
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 243
+   "members": 240
   }
  ],
  "events": {
@@ -52,19 +52,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 17,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 316.0,
-   "estimated_members": 333.0,
+   "allocated_unknown": 313.0,
+   "estimated_members": 330.0,
    "monthly_net_confirmed": 5301,
-   "monthly_net_estimated": 103835
+   "monthly_net_estimated": 102900
   }
  ],
  "revenue": {
-  "monthly_low": 103835,
-  "monthly_est": 103835,
+  "monthly_low": 102900,
+  "monthly_est": 102900,
   "gift_once": 4054,
-  "total_low": 107889,
-  "total_est": 107889,
-  "paying_members": 333,
+  "total_low": 106954,
+  "total_est": 106954,
+  "paying_members": 330,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "11WmI3Iwy7I",
-   "start": "2026-09-21 10:29",
-   "title": "【 TGS2026 】『ストリートファイター6』Red Bull Revengeをウォチパさせていただきます with Rei7 【 男虎 / にじさんじ 】",
-   "kind": "配信",
-   "chatters": 662,
-   "member_chatters": 80,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "3AWehr7-rac",
    "start": "2026-09-22 15:30",
@@ -348,8 +338,20 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "オノヘッズ",
-   "like_count": 122,
+   "like_count": 123,
    "view_count": null
+  },
+  {
+   "video_id": "ZzuDNs04BHo",
+   "start": "2026-10-21 00:00",
+   "title": "【オーバーウォッチ】大会練習4日目！チーム練は最終日！爆進の男虎。【 にじさんじ / 男虎】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 449,
+   "view_count": 24227
   }
  ],
  "members_only_content": [
@@ -370,7 +372,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "オノヘッズ",
-   "like_count": 122,
+   "like_count": 123,
    "view_count": null
   }
  ],
@@ -433,10 +435,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-21"
+    "to": "2026-10-22"
    },
    "streams_analyzed": 14,
-   "streams_missed": 2,
+   "streams_missed": 3,
    "unique_chatters": 1979,
    "members_confirmed": 279,
    "member_classes": {

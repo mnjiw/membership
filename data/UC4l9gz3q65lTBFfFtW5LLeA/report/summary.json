@@ -3,19 +3,19 @@
  "channel_id": "UC4l9gz3q65lTBFfFtW5LLeA",
  "handle": "@WataraiHibari",
  "subscribers": 665000,
- "fetched_at": "2026-10-21 09:39",
- "generated_at": "2026-10-21 09:39",
+ "fetched_at": "2026-10-22 05:26",
+ "generated_at": "2026-10-22 05:26",
  "period": {
-  "from": "2026-09-21 09:39",
-  "to": "2026-10-21 09:39",
+  "from": "2026-09-22 05:26",
+  "to": "2026-10-22 05:26",
   "days": 30
  },
- "streams_analyzed": 10,
+ "streams_analyzed": 11,
  "streams_missed": 0,
- "unique_chatters": 5412,
- "members_confirmed": 2925,
+ "unique_chatters": 5591,
+ "members_confirmed": 2970,
  "member_classes": {
-  "unknown": 2153,
+  "unknown": 2198,
   "known": 663,
   "gift": 109
  },
@@ -23,38 +23,38 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 303
+   "members": 307
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 101
+   "members": 99
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 260
+   "members": 266
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 375
+   "members": 382
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 754
+   "members": 765
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 1132
+   "members": 1151
   }
  ],
  "events": {
   "new_members": 66,
   "rejoins": 16,
-  "milestones": 572,
+  "milestones": 573,
   "gift_purchases": 17,
   "gifted_total": 109,
   "gift_redemptions": 109
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 663,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2153.0,
-   "estimated_members": 2816.0,
+   "allocated_unknown": 2198.0,
+   "estimated_members": 2861.0,
    "monthly_net_confirmed": 206735,
-   "monthly_net_estimated": 878080
+   "monthly_net_estimated": 892112
   }
  ],
  "revenue": {
-  "monthly_low": 878080,
-  "monthly_est": 878080,
+  "monthly_low": 892112,
+  "monthly_est": 892112,
   "gift_once": 33988,
-  "total_low": 912068,
-  "total_est": 912068,
-  "paying_members": 2816,
+  "total_low": 926100,
+  "total_est": 926100,
+  "paying_members": 2861,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -187,6 +187,16 @@
    "member_chatters": 503,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "vPEtj0eB4Ek",
+   "start": "2026-10-21 19:59",
+   "title": "【#にじイルミオ】何やら美味しいコーヒーがあると聞いて…ｗ/KNT【渡会雲雀/にじさんじ】",
+   "kind": "配信",
+   "chatters": 725,
+   "member_chatters": 480,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -262,64 +272,64 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-21"
+    "to": "2026-10-22"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 6,
    "streams_missed": 0,
-   "unique_chatters": 2273,
-   "members_confirmed": 1463,
+   "unique_chatters": 2541,
+   "members_confirmed": 1556,
    "member_classes": {
-    "unknown": 1119,
-    "known": 334,
+    "unknown": 1199,
+    "known": 347,
     "gift": 10
    },
-   "long_term_members": 985,
+   "long_term_members": 1042,
    "badges": [
     {
      "months": 0,
-     "members": 109
+     "members": 116
     },
     {
      "months": 1,
-     "members": 59
+     "members": 61
     },
     {
      "months": 2,
-     "members": 131
+     "members": 140
     },
     {
      "months": 6,
-     "members": 179
+     "members": 197
     },
     {
      "months": 12,
-     "members": 374
+     "members": 396
     },
     {
      "months": 24,
-     "members": 611
+     "members": 646
     }
    ],
    "events": {
     "new_members": 8,
     "rejoins": 4,
-    "milestones": 40,
+    "milestones": 41,
     "gifted_total": 10
    },
    "tiers": [
     {
      "tier": "ひばりすた",
      "price": 490,
-     "confirmed_members": 334,
-     "estimated_members": 1453.0
+     "confirmed_members": 347,
+     "estimated_members": 1546.0
     }
    ],
    "revenue": {
-    "monthly_low": 453072,
-    "monthly_est": 453072,
+    "monthly_low": 482071,
+    "monthly_est": 482071,
     "gift_once": 3118
    },
-   "avg_member_chatters": 621.6,
+   "avg_member_chatters": 598,
    "partial": true,
    "finalized": false
   }

@@ -3,27 +3,27 @@
  "channel_id": "UCu-J8uIXuLZh16gG-cT1naw",
  "handle": "@FinanaRyugu",
  "subscribers": 474000,
- "fetched_at": "2026-10-21 09:41",
- "generated_at": "2026-10-21 09:41",
+ "fetched_at": "2026-10-22 05:33",
+ "generated_at": "2026-10-22 05:33",
  "period": {
-  "from": "2026-09-21 09:41",
-  "to": "2026-10-21 09:41",
+  "from": "2026-09-22 05:33",
+  "to": "2026-10-22 05:33",
   "days": 30
  },
  "streams_analyzed": 19,
  "streams_missed": 4,
- "unique_chatters": 461,
+ "unique_chatters": 452,
  "members_confirmed": 152,
  "member_classes": {
-  "unknown": 69,
-  "known": 16,
-  "gift": 67
+  "unknown": 66,
+  "known": 15,
+  "gift": 71
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 70
+   "members": 74
   },
   {
    "months": 1,
@@ -38,7 +38,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 8
+   "members": 7
   },
   {
    "months": 12,
@@ -48,16 +48,16 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 54
+   "members": 51
   }
  ],
  "events": {
   "new_members": 2,
   "rejoins": 1,
-  "milestones": 12,
+  "milestones": 10,
   "gift_purchases": 39,
-  "gifted_total": 67,
-  "gift_redemptions": 67
+  "gifted_total": 71,
+  "gift_redemptions": 71
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +65,21 @@
    "tier": "Ryuguard",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 16,
+   "confirmed_members": 15,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 69.0,
-   "estimated_members": 85.0,
-   "monthly_net_confirmed": 7025,
-   "monthly_net_estimated": 37323
+   "allocated_unknown": 66.0,
+   "estimated_members": 81.0,
+   "monthly_net_confirmed": 6586,
+   "monthly_net_estimated": 35566
   }
  ],
  "revenue": {
-  "monthly_low": 37323,
-  "monthly_est": 37323,
-  "gift_once": 29419,
+  "monthly_low": 35566,
+  "monthly_est": 35566,
+  "gift_once": 31175,
   "total_low": 66742,
   "total_est": 66742,
-  "paying_members": 85,
+  "paying_members": 81,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "JxDuzrVGpPg",
-   "start": "2026-09-22 05:03",
-   "title": "【Urban Myth Dissolution Center】 PSYCHIC FEESH ! [1]",
-   "kind": "配信",
-   "chatters": 86,
-   "member_chatters": 34,
-   "new_members": 0,
-   "gifted_total": 1
-  },
   {
    "video_id": "He3lJFvxyj4",
    "start": "2026-09-23 10:03",
@@ -277,6 +267,16 @@
    "member_chatters": 21,
    "new_members": 0,
    "gifted_total": 1
+  },
+  {
+   "video_id": "qy3EYQz0msg",
+   "start": "2026-10-21 05:00",
+   "title": "EXAMS SOON eugh 📖 (にじさんじ勉強クラブ NIJI Study Club ASMR)",
+   "kind": "配信",
+   "chatters": 49,
+   "member_chatters": 23,
+   "new_members": 0,
+   "gifted_total": 5
   }
  ],
  "missed_streams": [
@@ -325,7 +325,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 17,
+   "like_count": 18,
    "view_count": null
   }
  ],
@@ -367,7 +367,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 17,
+   "like_count": 18,
    "view_count": null
   }
  ],
@@ -442,22 +442,22 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-21"
+    "to": "2026-10-22"
    },
-   "streams_analyzed": 12,
+   "streams_analyzed": 13,
    "streams_missed": 3,
-   "unique_chatters": 343,
-   "members_confirmed": 110,
+   "unique_chatters": 355,
+   "members_confirmed": 115,
    "member_classes": {
     "known": 13,
     "unknown": 56,
-    "gift": 41
+    "gift": 46
    },
    "long_term_members": 57,
    "badges": [
     {
      "months": 0,
-     "members": 42
+     "members": 47
     },
     {
      "months": 1,
@@ -484,7 +484,7 @@
     "new_members": 2,
     "rejoins": 0,
     "milestones": 3,
-    "gifted_total": 41
+    "gifted_total": 46
    },
    "tiers": [
     {
@@ -497,9 +497,9 @@
    "revenue": {
     "monthly_low": 30297,
     "monthly_est": 30297,
-    "gift_once": 18003
+    "gift_once": 20198
    },
-   "avg_member_chatters": 29.2,
+   "avg_member_chatters": 28.7,
    "partial": true,
    "finalized": false
   }

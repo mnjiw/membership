@@ -3,27 +3,27 @@
  "channel_id": "UCkhViRjLUKgIcVpar9JiNrw",
  "handle": "@TamanoiNana",
  "subscribers": 362000,
- "fetched_at": "2026-10-21 09:39",
- "generated_at": "2026-10-21 09:40",
+ "fetched_at": "2026-10-22 05:29",
+ "generated_at": "2026-10-22 05:30",
  "period": {
-  "from": "2026-09-21 09:39",
-  "to": "2026-10-21 09:39",
+  "from": "2026-09-22 05:29",
+  "to": "2026-10-22 05:29",
   "days": 30
  },
- "streams_analyzed": 13,
+ "streams_analyzed": 12,
  "streams_missed": 2,
- "unique_chatters": 2976,
- "members_confirmed": 579,
+ "unique_chatters": 2915,
+ "members_confirmed": 564,
  "member_classes": {
-  "unknown": 492,
-  "known": 37,
-  "gift": 50
+  "unknown": 485,
+  "known": 34,
+  "gift": 45
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 92
+   "members": 82
   },
   {
    "months": 1,
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 45
+   "members": 44
   },
   {
    "months": 6,
@@ -43,21 +43,21 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 175
+   "members": 173
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 177
+   "members": 175
   }
  ],
  "events": {
-  "new_members": 18,
+  "new_members": 15,
   "rejoins": 3,
   "milestones": 10,
-  "gift_purchases": 7,
-  "gifted_total": 50,
-  "gift_redemptions": 50
+  "gift_purchases": 6,
+  "gifted_total": 45,
+  "gift_redemptions": 45
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +65,21 @@
    "tier": "ななかま",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 37,
+   "confirmed_members": 34,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 492.0,
-   "estimated_members": 529.0,
-   "monthly_net_confirmed": 11537,
-   "monthly_net_estimated": 164952
+   "allocated_unknown": 485.0,
+   "estimated_members": 519.0,
+   "monthly_net_confirmed": 10602,
+   "monthly_net_estimated": 161834
   }
  ],
  "revenue": {
-  "monthly_low": 164952,
-  "monthly_est": 164952,
-  "gift_once": 15591,
-  "total_low": 180543,
-  "total_est": 180543,
-  "paying_members": 529,
+  "monthly_low": 161834,
+  "monthly_est": 161834,
+  "gift_once": 14032,
+  "total_low": 175865,
+  "total_est": 175865,
+  "paying_members": 519,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "rKsEYjIuEqU",
-   "start": "2026-09-21 21:00",
-   "title": "【 魔法少女ノ魔女裁判 】#8 光が見えたと思ったのに...【にじさんじ / 珠乃井ナナ】",
-   "kind": "配信",
-   "chatters": 644,
-   "member_chatters": 181,
-   "new_members": 3,
-   "gifted_total": 5
-  },
   {
    "video_id": "HphkI9OJpK0",
    "start": "2026-09-23 21:00",
@@ -241,7 +231,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "ななかま",
-   "like_count": 319,
+   "like_count": 324,
    "view_count": null
   }
  ],
@@ -263,7 +253,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "ななかま",
-   "like_count": 319,
+   "like_count": 324,
    "view_count": null
   }
  ],
@@ -338,7 +328,7 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-21"
+    "to": "2026-10-22"
    },
    "streams_analyzed": 7,
    "streams_missed": 2,

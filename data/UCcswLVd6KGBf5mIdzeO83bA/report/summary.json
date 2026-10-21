@@ -3,27 +3,27 @@
  "channel_id": "UCcswLVd6KGBf5mIdzeO83bA",
  "handle": "@HanakagoTsubasa",
  "subscribers": 128000,
- "fetched_at": "2026-10-21 09:40",
- "generated_at": "2026-10-21 09:40",
+ "fetched_at": "2026-10-22 05:31",
+ "generated_at": "2026-10-22 05:31",
  "period": {
-  "from": "2026-09-21 09:40",
-  "to": "2026-10-21 09:40",
+  "from": "2026-09-22 05:31",
+  "to": "2026-10-22 05:31",
   "days": 30
  },
- "streams_analyzed": 26,
+ "streams_analyzed": 25,
  "streams_missed": 1,
- "unique_chatters": 1010,
- "members_confirmed": 345,
+ "unique_chatters": 951,
+ "members_confirmed": 337,
  "member_classes": {
-  "unknown": 256,
+  "unknown": 253,
   "known": 23,
-  "gift": 66
+  "gift": 61
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 113
+   "members": 107
   },
   {
    "months": 1,
@@ -38,7 +38,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 93
+   "members": 91
   },
   {
    "months": 12,
@@ -48,11 +48,11 @@
  ],
  "events": {
   "new_members": 17,
-  "rejoins": 2,
+  "rejoins": 1,
   "milestones": 0,
-  "gift_purchases": 5,
-  "gifted_total": 66,
-  "gift_redemptions": 66
+  "gift_purchases": 4,
+  "gifted_total": 61,
+  "gift_redemptions": 61
  },
  "tiers_configured": true,
  "tiers": [
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 23,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 256.0,
-   "estimated_members": 279.0,
+   "allocated_unknown": 253.0,
+   "estimated_members": 276.0,
    "monthly_net_confirmed": 7172,
-   "monthly_net_estimated": 86997
+   "monthly_net_estimated": 86062
   }
  ],
  "revenue": {
-  "monthly_low": 86997,
-  "monthly_est": 86997,
-  "gift_once": 20580,
-  "total_low": 107577,
-  "total_est": 107577,
-  "paying_members": 279,
+  "monthly_low": 86062,
+  "monthly_est": 86062,
+  "gift_once": 19021,
+  "total_low": 105083,
+  "total_est": 105083,
+  "paying_members": 276,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "jkCBMLMnoig",
-   "start": "2026-09-21 20:05",
-   "title": "【妹に運転を教える】AI妹は関西弁を理解することができるのか。【花籠つばさ / にじさんじ】",
-   "kind": "配信",
-   "chatters": 206,
-   "member_chatters": 114,
-   "new_members": 0,
-   "gifted_total": 5
-  },
   {
    "video_id": "n5T_0tALJKc",
    "start": "2026-09-22 13:01",
@@ -354,7 +344,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 108,
+   "like_count": 107,
    "view_count": null
   }
  ],
@@ -366,7 +356,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 108,
+   "like_count": 107,
    "view_count": null
   }
  ],
@@ -433,7 +423,7 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-21"
+    "to": "2026-10-22"
    },
    "streams_analyzed": 18,
    "streams_missed": 0,

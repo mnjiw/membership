@@ -3,71 +3,26 @@
  "channel_id": "UCBiqkFJljoxAj10SoP2w2Cg",
  "handle": "@FuminoTamaki",
  "subscribers": 438000,
- "fetched_at": "2026-10-21 09:36",
- "generated_at": "2026-10-21 09:36",
+ "fetched_at": "2026-10-22 05:17",
+ "generated_at": "2026-10-22 05:18",
  "period": {
-  "from": "2026-09-21 09:36",
-  "to": "2026-10-21 09:36",
+  "from": "2026-09-22 05:17",
+  "to": "2026-10-22 05:17",
   "days": 30
  },
- "streams_analyzed": 1,
+ "streams_analyzed": 0,
  "streams_missed": 3,
- "unique_chatters": 276,
- "members_confirmed": 122,
- "member_classes": {
-  "unknown": 93,
-  "known": 4,
-  "gift": 25
- },
- "badges": [
-  {
-   "months": 0,
-   "label": "新規(1ヶ月未満)",
-   "members": 27
-  },
-  {
-   "months": 1,
-   "label": "1ヶ月",
-   "members": 2
-  },
-  {
-   "months": 2,
-   "label": "2ヶ月",
-   "members": 8
-  },
-  {
-   "months": 6,
-   "label": "6ヶ月",
-   "members": 7
-  },
-  {
-   "months": 12,
-   "label": "1年",
-   "members": 18
-  },
-  {
-   "months": 24,
-   "label": "2年",
-   "members": 9
-  },
-  {
-   "months": 36,
-   "label": "3年",
-   "members": 9
-  },
-  {
-   "months": 48,
-   "label": "4年",
-   "members": 42
-  }
- ],
+ "unique_chatters": 0,
+ "members_confirmed": 0,
+ "member_classes": {},
+ "badges": [],
  "events": {
   "new_members": 0,
   "rejoins": 0,
-  "milestones": 2,
-  "gift_purchases": 2,
-  "gifted_total": 25,
-  "gift_redemptions": 25
+  "milestones": 0,
+  "gift_purchases": 0,
+  "gifted_total": 0,
+  "gift_redemptions": 0
  },
  "tiers_configured": true,
  "tiers": [
@@ -75,21 +30,21 @@
    "tier": "乗客員",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 4,
-   "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 93.0,
-   "estimated_members": 97.0,
-   "monthly_net_confirmed": 1247,
-   "monthly_net_estimated": 30246
+   "confirmed_members": 0,
+   "share_of_confirmed_pct": "",
+   "allocated_unknown": 0.0,
+   "estimated_members": 0.0,
+   "monthly_net_confirmed": 0,
+   "monthly_net_estimated": 0
   }
  ],
  "revenue": {
-  "monthly_low": 30246,
-  "monthly_est": 30246,
-  "gift_once": 7795,
-  "total_low": 38042,
-  "total_est": 38042,
-  "paying_members": 97,
+  "monthly_low": 0,
+  "monthly_est": 0,
+  "gift_once": 0,
+  "total_low": 0,
+  "total_est": 0,
+  "paying_members": 0,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -97,18 +52,7 @@
   "currency": "JPY",
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
- "streams": [
-  {
-   "video_id": "GMBnFdJAGUc",
-   "start": "2026-09-21 21:20",
-   "title": "たべっ子どうぶつ THE MOVIE　同時視聴　ギルザレンⅢ世×文野環【にじさんじ】",
-   "kind": "配信",
-   "chatters": 276,
-   "member_chatters": 122,
-   "new_members": 0,
-   "gifted_total": 25
-  }
- ],
+ "streams": [],
  "missed_streams": [
   {
    "video_id": "9SIwHK0GoBo",
@@ -143,7 +87,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 90,
+   "like_count": 92,
    "view_count": null
   }
  ],
@@ -175,7 +119,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 90,
+   "like_count": 92,
    "view_count": null
   }
  ],
@@ -255,7 +199,7 @@
    "finalized_at": "2026-10-08 08:43"
   }
  ],
- "no_streams": false,
+ "no_streams": true,
  "membership": true,
  "price_history": [
   {

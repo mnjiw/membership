@@ -3,42 +3,42 @@
  "channel_id": "UCpjypWF_wNRs9_TrjjWngpQ",
  "handle": "@NagisaTrout",
  "subscribers": 318000,
- "fetched_at": "2026-10-21 09:40",
- "generated_at": "2026-10-21 09:40",
+ "fetched_at": "2026-10-22 05:30",
+ "generated_at": "2026-10-22 05:31",
  "period": {
-  "from": "2026-09-21 09:40",
-  "to": "2026-10-21 09:40",
+  "from": "2026-09-22 05:30",
+  "to": "2026-10-22 05:30",
   "days": 30
  },
- "streams_analyzed": 18,
+ "streams_analyzed": 19,
  "streams_missed": 0,
- "unique_chatters": 3840,
- "members_confirmed": 819,
+ "unique_chatters": 3913,
+ "members_confirmed": 830,
  "member_classes": {
-  "unknown": 790,
-  "known": 24,
+  "unknown": 800,
+  "known": 25,
   "gift": 5
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 57
+   "members": 56
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 241
+   "members": 247
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 154
+   "members": 158
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 366
+   "members": 368
   },
   {
    "months": 24,
@@ -47,7 +47,7 @@
   }
  ],
  "events": {
-  "new_members": 17,
+  "new_members": 18,
   "rejoins": 2,
   "milestones": 0,
   "gift_purchases": 5,
@@ -60,21 +60,21 @@
    "tier": "とれたていくラ～",
    "price": 390,
    "net_per_member": 248.2,
-   "confirmed_members": 24,
+   "confirmed_members": 25,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 790.0,
-   "estimated_members": 814.0,
-   "monthly_net_confirmed": 5956,
-   "monthly_net_estimated": 202020
+   "allocated_unknown": 800.0,
+   "estimated_members": 825.0,
+   "monthly_net_confirmed": 6205,
+   "monthly_net_estimated": 204750
   }
  ],
  "revenue": {
-  "monthly_low": 202020,
-  "monthly_est": 202020,
+  "monthly_low": 204750,
+  "monthly_est": 204750,
   "gift_once": 1241,
-  "total_low": 203261,
-  "total_est": 203261,
-  "paying_members": 814,
+  "total_low": 205991,
+  "total_est": 205991,
+  "paying_members": 825,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -262,6 +262,16 @@
    "member_chatters": 343,
    "new_members": 3,
    "gifted_total": 1
+  },
+  {
+   "video_id": "gCVGhLqHKn8",
+   "start": "2026-10-21 19:01",
+   "title": "【デス桃太郎】お爺さんは山へシバきに【渚トラウト/にじさんじ】",
+   "kind": "配信",
+   "chatters": 421,
+   "member_chatters": 222,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -328,34 +338,34 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-21"
+    "to": "2026-10-22"
    },
-   "streams_analyzed": 14,
+   "streams_analyzed": 15,
    "streams_missed": 0,
-   "unique_chatters": 3346,
-   "members_confirmed": 772,
+   "unique_chatters": 3431,
+   "members_confirmed": 786,
    "member_classes": {
-    "unknown": 746,
-    "known": 21,
+    "unknown": 759,
+    "known": 22,
     "gift": 5
    },
-   "long_term_members": 356,
+   "long_term_members": 358,
    "badges": [
     {
      "months": 0,
-     "members": 50
+     "members": 49
     },
     {
      "months": 1,
-     "members": 225
+     "members": 231
     },
     {
      "months": 6,
-     "members": 141
+     "members": 148
     },
     {
      "months": 12,
-     "members": 355
+     "members": 357
     },
     {
      "months": 24,
@@ -363,7 +373,7 @@
     }
    ],
    "events": {
-    "new_members": 13,
+    "new_members": 14,
     "rejoins": 2,
     "milestones": 0,
     "gifted_total": 5
@@ -372,16 +382,16 @@
     {
      "tier": "とれたていくラ～",
      "price": 390,
-     "confirmed_members": 21,
-     "estimated_members": 767.0
+     "confirmed_members": 22,
+     "estimated_members": 781.0
     }
    ],
    "revenue": {
-    "monthly_low": 190355,
-    "monthly_est": 190355,
+    "monthly_low": 193830,
+    "monthly_est": 193830,
     "gift_once": 1241
    },
-   "avg_member_chatters": 207.1,
+   "avg_member_chatters": 208.1,
    "partial": true,
    "finalized": false
   }

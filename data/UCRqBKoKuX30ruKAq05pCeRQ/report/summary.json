@@ -3,19 +3,19 @@
  "channel_id": "UCRqBKoKuX30ruKAq05pCeRQ",
  "handle": "@KitakojiHisui",
  "subscribers": 332000,
- "fetched_at": "2026-10-21 09:38",
- "generated_at": "2026-10-21 09:38",
+ "fetched_at": "2026-10-22 05:24",
+ "generated_at": "2026-10-22 05:24",
  "period": {
-  "from": "2026-09-21 09:38",
-  "to": "2026-10-21 09:38",
+  "from": "2026-09-22 05:24",
+  "to": "2026-10-22 05:24",
   "days": 30
  },
- "streams_analyzed": 6,
+ "streams_analyzed": 7,
  "streams_missed": 1,
- "unique_chatters": 457,
- "members_confirmed": 147,
+ "unique_chatters": 476,
+ "members_confirmed": 154,
  "member_classes": {
-  "unknown": 127,
+  "unknown": 134,
   "known": 10,
   "gift": 10
  },
@@ -33,12 +33,12 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 22
+   "members": 23
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 106
+   "members": 112
   }
  ],
  "events": {
@@ -57,10 +57,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 8,
    "share_of_confirmed_pct": 80.0,
-   "allocated_unknown": 101.6,
-   "estimated_members": 109.6,
+   "allocated_unknown": 107.2,
+   "estimated_members": 115.2,
    "monthly_net_confirmed": 2495,
-   "monthly_net_estimated": 34175
+   "monthly_net_estimated": 35921
   },
   {
    "tier": "ひみつの部屋のクローゼット🦈",
@@ -68,10 +68,10 @@
    "net_per_member": 2220.9,
    "confirmed_members": 1,
    "share_of_confirmed_pct": 10.0,
-   "allocated_unknown": 12.7,
-   "estimated_members": 13.7,
+   "allocated_unknown": 13.4,
+   "estimated_members": 14.4,
    "monthly_net_confirmed": 2221,
-   "monthly_net_estimated": 30426
+   "monthly_net_estimated": 31981
   },
   {
    "tier": "わたしの部屋❇",
@@ -79,19 +79,19 @@
    "net_per_member": 8909.1,
    "confirmed_members": 1,
    "share_of_confirmed_pct": 10.0,
-   "allocated_unknown": 12.7,
-   "estimated_members": 13.7,
+   "allocated_unknown": 13.4,
+   "estimated_members": 14.4,
    "monthly_net_confirmed": 8909,
-   "monthly_net_estimated": 122055
+   "monthly_net_estimated": 128291
   }
  ],
  "revenue": {
-  "monthly_low": 53225,
-  "monthly_est": 186656,
+  "monthly_low": 55408,
+  "monthly_est": 196193,
   "gift_once": 3118,
-  "total_low": 56344,
-  "total_est": 189774,
-  "paying_members": 137,
+  "total_low": 58526,
+  "total_est": 199312,
+  "paying_members": 144,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -157,6 +157,16 @@
    "kind": "配信",
    "chatters": 148,
    "member_chatters": 60,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "AYoxhUSEDmM",
+   "start": "2026-10-21 13:07",
+   "title": "【APEX】えるちゃんと昼えぺ【北小路ヒスイ/にじさんじ】",
+   "kind": "配信",
+   "chatters": 54,
+   "member_chatters": 35,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -261,14 +271,14 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-21"
+    "to": "2026-10-22"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 4,
    "streams_missed": 1,
-   "unique_chatters": 238,
-   "members_confirmed": 106,
+   "unique_chatters": 264,
+   "members_confirmed": 116,
    "member_classes": {
-    "unknown": 88,
+    "unknown": 98,
     "known": 8,
     "gift": 10
    },
@@ -284,11 +294,11 @@
     },
     {
      "months": 2,
-     "members": 12
+     "members": 14
     },
     {
      "months": 6,
-     "members": 79
+     "members": 87
     }
    ],
    "events": {
@@ -302,27 +312,27 @@
      "tier": "ひみつの部屋🦈",
      "price": 490,
      "confirmed_members": 6,
-     "estimated_members": 72.0
+     "estimated_members": 79.5
     },
     {
      "tier": "ひみつの部屋のクローゼット🦈",
      "price": 3490,
      "confirmed_members": 1,
-     "estimated_members": 12.0
+     "estimated_members": 13.2
     },
     {
      "tier": "わたしの部屋❇",
      "price": 14000,
      "confirmed_members": 1,
-     "estimated_members": 12.0
+     "estimated_members": 13.2
     }
    ],
    "revenue": {
-    "monthly_low": 40441,
-    "monthly_est": 156011,
+    "monthly_low": 43559,
+    "monthly_est": 172262,
     "gift_once": 3118
    },
-   "avg_member_chatters": 50.3,
+   "avg_member_chatters": 46.5,
    "partial": true,
    "finalized": false
   }

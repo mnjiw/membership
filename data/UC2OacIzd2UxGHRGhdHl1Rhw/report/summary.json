@@ -3,26 +3,26 @@
  "channel_id": "UC2OacIzd2UxGHRGhdHl1Rhw",
  "handle": "@HayaseSou",
  "subscribers": 294000,
- "fetched_at": "2026-10-21 09:38",
- "generated_at": "2026-10-21 09:38",
+ "fetched_at": "2026-10-22 05:21",
+ "generated_at": "2026-10-22 05:22",
  "period": {
-  "from": "2026-09-21 09:38",
-  "to": "2026-10-21 09:38",
+  "from": "2026-09-22 05:21",
+  "to": "2026-10-22 05:21",
   "days": 30
  },
- "streams_analyzed": 6,
+ "streams_analyzed": 7,
  "streams_missed": 1,
- "unique_chatters": 1339,
- "members_confirmed": 38,
+ "unique_chatters": 1378,
+ "members_confirmed": 40,
  "member_classes": {
-  "unknown": 33,
+  "unknown": 35,
   "gift": 5
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 7
+   "members": 8
   },
   {
    "months": 1,
@@ -47,7 +47,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 24
+   "members": 25
   }
  ],
  "events": {
@@ -66,10 +66,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 0,
    "share_of_confirmed_pct": "",
-   "allocated_unknown": 33.0,
-   "estimated_members": 33.0,
+   "allocated_unknown": 35.0,
+   "estimated_members": 35.0,
    "monthly_net_confirmed": 0,
-   "monthly_net_estimated": 10290
+   "monthly_net_estimated": 10914
   },
   {
    "tier": "早瀬ハイツ",
@@ -95,12 +95,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 10290,
-  "monthly_est": 10290,
+  "monthly_low": 10914,
+  "monthly_est": 10914,
   "gift_once": 1559,
-  "total_low": 11849,
-  "total_est": 11849,
-  "paying_members": 33,
+  "total_low": 12473,
+  "total_est": 12473,
+  "paying_members": 35,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -166,6 +166,16 @@
    "kind": "配信",
    "chatters": 152,
    "member_chatters": 10,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "Gf0TKh7ZqHI",
+   "start": "2026-10-21 10:00",
+   "title": "【MOTHER3】#2 奇妙で、おもしろい。そして、せつない。",
+   "kind": "配信",
+   "chatters": 110,
+   "member_chatters": 12,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -275,21 +285,21 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-21"
+    "to": "2026-10-22"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 6,
    "streams_missed": 0,
-   "unique_chatters": 1269,
-   "members_confirmed": 34,
+   "unique_chatters": 1308,
+   "members_confirmed": 36,
    "member_classes": {
-    "unknown": 29,
+    "unknown": 31,
     "gift": 5
    },
-   "long_term_members": 24,
+   "long_term_members": 25,
    "badges": [
     {
      "months": 0,
-     "members": 6
+     "members": 7
     },
     {
      "months": 1,
@@ -309,7 +319,7 @@
     },
     {
      "months": 24,
-     "members": 23
+     "members": 24
     }
    ],
    "events": {
@@ -323,7 +333,7 @@
      "tier": "早瀬荘",
      "price": 490,
      "confirmed_members": 0,
-     "estimated_members": 29.0
+     "estimated_members": 31.0
     },
     {
      "tier": "早瀬ハイツ",
@@ -339,11 +349,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 9043,
-    "monthly_est": 9043,
+    "monthly_low": 9666,
+    "monthly_est": 9666,
     "gift_once": 1559
    },
-   "avg_member_chatters": 14.8,
+   "avg_member_chatters": 14.3,
    "partial": true,
    "finalized": false
   }
