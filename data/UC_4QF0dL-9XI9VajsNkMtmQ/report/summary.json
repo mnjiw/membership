@@ -3,19 +3,19 @@
  "channel_id": "UC_4QF0dL-9XI9VajsNkMtmQ",
  "handle": "@Rei7_Y4T4",
  "subscribers": 175000,
- "fetched_at": "2026-10-21 05:31",
- "generated_at": "2026-10-21 05:31",
+ "fetched_at": "2026-10-21 09:40",
+ "generated_at": "2026-10-21 09:41",
  "period": {
-  "from": "2026-09-21 05:31",
-  "to": "2026-10-21 05:31",
+  "from": "2026-09-21 09:40",
+  "to": "2026-10-21 09:40",
   "days": 30
  },
- "streams_analyzed": 31,
+ "streams_analyzed": 32,
  "streams_missed": 1,
- "unique_chatters": 6267,
- "members_confirmed": 710,
+ "unique_chatters": 6298,
+ "members_confirmed": 711,
  "member_classes": {
-  "unknown": 650,
+  "unknown": 651,
   "known": 50,
   "gift": 10
  },
@@ -23,17 +23,17 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 104
+   "members": 103
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 87
+   "members": 86
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 519
+   "members": 522
   }
  ],
  "events": {
@@ -52,19 +52,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 50,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 650.0,
-   "estimated_members": 700.0,
+   "allocated_unknown": 651.0,
+   "estimated_members": 701.0,
    "monthly_net_confirmed": 15591,
-   "monthly_net_estimated": 218273
+   "monthly_net_estimated": 218585
   }
  ],
  "revenue": {
-  "monthly_low": 218273,
-  "monthly_est": 218273,
+  "monthly_low": 218585,
+  "monthly_est": 218585,
   "gift_once": 3430,
-  "total_low": 221703,
-  "total_est": 221703,
-  "paying_members": 700,
+  "total_low": 222015,
+  "total_est": 222015,
+  "paying_members": 701,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -382,6 +382,16 @@
    "member_chatters": 98,
    "new_members": 3,
    "gifted_total": 0
+  },
+  {
+   "video_id": "BBeOkELTTN0",
+   "start": "2026-10-20 20:59",
+   "title": "【 Overwatch 】#にじEX_OW 23時～顔合わせ／それまで自主練【 Rei7 / にじさんじ 】",
+   "kind": "配信",
+   "chatters": 213,
+   "member_chatters": 113,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -471,27 +481,27 @@
     "from": "2026-10-01",
     "to": "2026-10-21"
    },
-   "streams_analyzed": 20,
+   "streams_analyzed": 21,
    "streams_missed": 1,
-   "unique_chatters": 4056,
-   "members_confirmed": 545,
+   "unique_chatters": 4097,
+   "members_confirmed": 552,
    "member_classes": {
-    "unknown": 502,
+    "unknown": 509,
     "known": 43
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 55
+     "members": 56
     },
     {
      "months": 1,
-     "members": 62
+     "members": 63
     },
     {
      "months": 2,
-     "members": 428
+     "members": 433
     }
    ],
    "events": {
@@ -505,15 +515,15 @@
      "tier": "Ris7",
      "price": 490,
      "confirmed_members": 43,
-     "estimated_members": 545.0
+     "estimated_members": 552.0
     }
    ],
    "revenue": {
-    "monthly_low": 169941,
-    "monthly_est": 169941,
+    "monthly_low": 172124,
+    "monthly_est": 172124,
     "gift_once": 0
    },
-   "avg_member_chatters": 124.3,
+   "avg_member_chatters": 123.8,
    "partial": true,
    "finalized": false
   }

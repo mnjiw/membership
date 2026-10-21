@@ -3,20 +3,20 @@
  "channel_id": "UCyJOgJhgfoVRpFjsBCUmuvg",
  "handle": "@KozueMone",
  "subscribers": 159000,
- "fetched_at": "2026-10-21 05:29",
- "generated_at": "2026-10-21 05:29",
+ "fetched_at": "2026-10-21 09:40",
+ "generated_at": "2026-10-21 09:40",
  "period": {
-  "from": "2026-09-21 05:29",
-  "to": "2026-10-21 05:29",
+  "from": "2026-09-21 09:40",
+  "to": "2026-10-21 09:40",
   "days": 30
  },
- "streams_analyzed": 25,
- "streams_missed": 5,
- "unique_chatters": 3582,
- "members_confirmed": 523,
+ "streams_analyzed": 26,
+ "streams_missed": 4,
+ "unique_chatters": 3687,
+ "members_confirmed": 529,
  "member_classes": {
   "known": 91,
-  "unknown": 402,
+  "unknown": 408,
   "gift": 30
  },
  "badges": [
@@ -38,12 +38,12 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 92
+   "members": 97
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 188
+   "members": 189
   },
   {
    "months": 24,
@@ -54,7 +54,7 @@
  "events": {
   "new_members": 17,
   "rejoins": 3,
-  "milestones": 58,
+  "milestones": 60,
   "gift_purchases": 13,
   "gifted_total": 31,
   "gift_redemptions": 31
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 91,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 402.0,
-   "estimated_members": 493.0,
+   "allocated_unknown": 408.0,
+   "estimated_members": 499.0,
    "monthly_net_confirmed": 28375,
-   "monthly_net_estimated": 153726
+   "monthly_net_estimated": 155597
   }
  ],
  "revenue": {
-  "monthly_low": 153726,
-  "monthly_est": 153726,
+  "monthly_low": 155597,
+  "monthly_est": 155597,
   "gift_once": 9666,
-  "total_low": 163393,
-  "total_est": 163393,
-  "paying_members": 493,
+  "total_low": 165264,
+  "total_est": 165264,
+  "paying_members": 499,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -337,6 +337,16 @@
    "member_chatters": 142,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "oh6iJ7mP0DM",
+   "start": "2026-10-20 22:14",
+   "title": "【縦】やけ酒だよ【にじさんじ/梢桃音】",
+   "kind": "配信",
+   "chatters": 490,
+   "member_chatters": 200,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -387,18 +397,6 @@
    "members_level": "",
    "like_count": 68,
    "view_count": null
-  },
-  {
-   "video_id": "oh6iJ7mP0DM",
-   "start": "2026-10-20 00:00",
-   "title": "【縦】やけ酒だよ【にじさんじ/梢桃音】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 1016,
-   "view_count": 25071
   }
  ],
  "members_only_content": [
@@ -516,16 +514,16 @@
     "from": "2026-10-01",
     "to": "2026-10-21"
    },
-   "streams_analyzed": 17,
-   "streams_missed": 3,
-   "unique_chatters": 2532,
-   "members_confirmed": 438,
+   "streams_analyzed": 18,
+   "streams_missed": 2,
+   "unique_chatters": 2671,
+   "members_confirmed": 447,
    "member_classes": {
     "known": 84,
-    "unknown": 333,
+    "unknown": 342,
     "gift": 21
    },
-   "long_term_members": 278,
+   "long_term_members": 280,
    "badges": [
     {
      "months": 0,
@@ -537,15 +535,15 @@
     },
     {
      "months": 2,
-     "members": 34
+     "members": 35
     },
     {
      "months": 6,
-     "members": 78
+     "members": 84
     },
     {
      "months": 12,
-     "members": 160
+     "members": 162
     },
     {
      "months": 24,
@@ -555,7 +553,7 @@
    "events": {
     "new_members": 8,
     "rejoins": 3,
-    "milestones": 43,
+    "milestones": 45,
     "gifted_total": 21
    },
    "tiers": [
@@ -563,15 +561,15 @@
      "tier": "もねゴンの集い",
      "price": 490,
      "confirmed_members": 84,
-     "estimated_members": 417.0
+     "estimated_members": 426.0
     }
    ],
    "revenue": {
-    "monthly_low": 130028,
-    "monthly_est": 130028,
+    "monthly_low": 132835,
+    "monthly_est": 132835,
     "gift_once": 6548
    },
-   "avg_member_chatters": 148.1,
+   "avg_member_chatters": 150.9,
    "partial": true,
    "finalized": false
   }

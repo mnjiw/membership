@@ -854,17 +854,31 @@
   "AepxC3QN_qE": {
    "id": "AepxC3QN_qE",
    "title": "【DEADLOCK】im the sheriff yo",
-   "status": "live_now",
+   "kind": "video",
+   "start_ts": 1792422000.0,
+   "start_jst": "2026-10-20 00:00",
+   "duration_sec": null,
+   "view_count": 7531,
+   "like_count": 414,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": false,
+   "checked_at": "2026-10-21 09:41",
+   "info_limited": true,
    "seen_live_at": "2026-10-21 05:33",
-   "was_public_when_live": true
+   "was_public_when_live": true,
+   "error": "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)",
+   "tab": "live",
+   "status": "error",
+   "failed_since_ts": 1792543289.0444403
   }
  },
  "channel": "Claude Clawmark 【NIJISANJI EN】",
  "channel_id": "UCdh-YF2gTzqDNu0VU9lwPPw",
  "handle": "@ClaudeClawmark",
  "subscribers": 160000,
- "fetched_at": "2026-10-21 05:33",
- "fetched_at_ts": 1792528413.7679443,
- "checked_from": "2026-10-14 05:33",
+ "fetched_at": "2026-10-21 09:41",
+ "fetched_at_ts": 1792543289.0444403,
+ "checked_from": "2026-10-14 09:41",
  "initial_fetch_done": true
 }
