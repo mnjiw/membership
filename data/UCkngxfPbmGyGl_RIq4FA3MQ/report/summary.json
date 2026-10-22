@@ -3,16 +3,16 @@
  "channel_id": "UCkngxfPbmGyGl_RIq4FA3MQ",
  "handle": "@NishizonoChigusa",
  "subscribers": 709000,
- "fetched_at": "2026-10-22 09:42",
- "generated_at": "2026-10-22 09:42",
+ "fetched_at": "2026-10-23 05:27",
+ "generated_at": "2026-10-23 05:28",
  "period": {
-  "from": "2026-09-22 09:42",
-  "to": "2026-10-22 09:42",
+  "from": "2026-09-23 05:27",
+  "to": "2026-10-23 05:27",
   "days": 30
  },
  "streams_analyzed": 19,
  "streams_missed": 4,
- "unique_chatters": 3617,
+ "unique_chatters": 3785,
  "members_confirmed": 234,
  "member_classes": {
   "known": 21,
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 24
+   "members": 25
   },
   {
    "months": 1,
@@ -33,17 +33,17 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 33
+   "members": 32
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 20
+   "members": 19
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 43
+   "members": 44
   },
   {
    "months": 24,
@@ -109,16 +109,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "PZLUCaP8i1A",
-   "start": "2026-09-22 18:00",
-   "title": "【 崩壊：スターレイル 】Ver.4.6「 月立つ前に獣と踊れ 」アッハ★アハハハハ★【 にじさんじ / 西園チグサ 】",
-   "kind": "配信",
-   "chatters": 181,
-   "member_chatters": 35,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "N09pozK1hsY",
    "start": "2026-09-23 17:03",
@@ -298,6 +288,16 @@
    "member_chatters": 45,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "C_oxgalHZAc",
+   "start": "2026-10-22 18:07",
+   "title": "【 原神 】魔神任務 第七章 第四幕「冥府へのレクイエム」ロノヴァーーーー！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！【 にじさんじ / 西園チグサ 】",
+   "kind": "配信",
+   "chatters": 631,
+   "member_chatters": 52,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -346,7 +346,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "ちぐにゃーの巣",
-   "like_count": 882,
+   "like_count": 879,
    "view_count": null
   }
  ],
@@ -388,7 +388,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "ちぐにゃーの巣",
-   "like_count": 882,
+   "like_count": 879,
    "view_count": null
   }
  ],
@@ -477,22 +477,22 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-22"
+    "to": "2026-10-23"
    },
-   "streams_analyzed": 13,
+   "streams_analyzed": 14,
    "streams_missed": 3,
-   "unique_chatters": 2415,
-   "members_confirmed": 188,
+   "unique_chatters": 2637,
+   "members_confirmed": 189,
    "member_classes": {
     "known": 18,
-    "unknown": 169,
+    "unknown": 170,
     "gift": 1
    },
-   "long_term_members": 127,
+   "long_term_members": 128,
    "badges": [
     {
      "months": 0,
-     "members": 14
+     "members": 15
     },
     {
      "months": 1,
@@ -504,11 +504,11 @@
     },
     {
      "months": 6,
-     "members": 18
+     "members": 17
     },
     {
      "months": 12,
-     "members": 37
+     "members": 38
     },
     {
      "months": 24,
@@ -534,21 +534,21 @@
      "tier": "ちぐにゃーの巣",
      "price": 490,
      "confirmed_members": 13,
-     "estimated_members": 135.1
+     "estimated_members": 135.8
     },
     {
      "tier": "ちぐにゃーの裏庭",
      "price": 1190,
      "confirmed_members": 5,
-     "estimated_members": 51.9
+     "estimated_members": 52.2
     }
    ],
    "revenue": {
-    "monthly_low": 60537,
-    "monthly_est": 81449,
+    "monthly_low": 60849,
+    "monthly_est": 81884,
     "gift_once": 312
    },
-   "avg_member_chatters": 41.8,
+   "avg_member_chatters": 42.5,
    "partial": true,
    "finalized": false
   }

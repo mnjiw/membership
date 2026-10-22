@@ -2,20 +2,20 @@
  "channel": "男虎 / Ono Tora【にじさんじ】",
  "channel_id": "UCFimqykDM5g9a5KxlW_e7ZQ",
  "handle": "@Onotora_Y4T4",
- "subscribers": 122000,
- "fetched_at": "2026-10-22 09:44",
- "generated_at": "2026-10-22 09:44",
+ "subscribers": 123000,
+ "fetched_at": "2026-10-23 05:34",
+ "generated_at": "2026-10-23 05:35",
  "period": {
-  "from": "2026-09-22 09:44",
-  "to": "2026-10-22 09:44",
+  "from": "2026-09-23 05:34",
+  "to": "2026-10-23 05:34",
   "days": 30
  },
- "streams_analyzed": 24,
- "streams_missed": 3,
- "unique_chatters": 2726,
- "members_confirmed": 344,
+ "streams_analyzed": 23,
+ "streams_missed": 4,
+ "unique_chatters": 2649,
+ "members_confirmed": 341,
  "member_classes": {
-  "unknown": 312,
+  "unknown": 309,
   "known": 19,
   "gift": 13
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 59
+   "members": 57
   },
   {
    "months": 1,
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 240
+   "members": 239
   }
  ],
  "events": {
@@ -52,19 +52,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 19,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 312.0,
-   "estimated_members": 331.0,
+   "allocated_unknown": 309.0,
+   "estimated_members": 328.0,
    "monthly_net_confirmed": 5925,
-   "monthly_net_estimated": 103212
+   "monthly_net_estimated": 102276
   }
  ],
  "revenue": {
-  "monthly_low": 103212,
-  "monthly_est": 103212,
+  "monthly_low": 102276,
+  "monthly_est": 102276,
   "gift_once": 4054,
-  "total_low": 107265,
-  "total_est": 107265,
-  "paying_members": 331,
+  "total_low": 106330,
+  "total_est": 106330,
+  "paying_members": 328,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "3AWehr7-rac",
-   "start": "2026-09-22 15:30",
-   "title": "【スト6】ガイルよ...おおガイル...わたしのかわいいガイル...【にじさんじ】",
-   "kind": "配信",
-   "chatters": 267,
-   "member_chatters": 73,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "AhyWeclwIbw",
    "start": "2026-09-23 18:49",
@@ -350,6 +340,18 @@
    "members_level": "オノヘッズ",
    "like_count": 123,
    "view_count": null
+  },
+  {
+   "video_id": "UNjZyztLYYk",
+   "start": "2026-10-22 00:00",
+   "title": "【オーバーウォッチ】大会練習5日目！わんおぺ所属、男虎ロボット発進します。【 にじさんじ / 男虎】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 376,
+   "view_count": 17510
   }
  ],
  "members_only_content": [
@@ -433,10 +435,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-22"
+    "to": "2026-10-23"
    },
    "streams_analyzed": 15,
-   "streams_missed": 2,
+   "streams_missed": 3,
    "unique_chatters": 2001,
    "members_confirmed": 281,
    "member_classes": {

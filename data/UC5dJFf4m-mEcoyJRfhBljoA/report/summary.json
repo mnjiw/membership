@@ -3,51 +3,51 @@
  "channel_id": "UC5dJFf4m-mEcoyJRfhBljoA",
  "handle": "@SeraphDazzlegarden",
  "subscribers": 427000,
- "fetched_at": "2026-10-22 09:42",
- "generated_at": "2026-10-22 09:42",
+ "fetched_at": "2026-10-23 05:28",
+ "generated_at": "2026-10-23 05:29",
  "period": {
-  "from": "2026-09-22 09:42",
-  "to": "2026-10-22 09:42",
+  "from": "2026-09-23 05:28",
+  "to": "2026-10-23 05:28",
   "days": 30
  },
- "streams_analyzed": 13,
- "streams_missed": 1,
- "unique_chatters": 2074,
- "members_confirmed": 1158,
+ "streams_analyzed": 14,
+ "streams_missed": 2,
+ "unique_chatters": 2124,
+ "members_confirmed": 1180,
  "member_classes": {
-  "unknown": 1002,
-  "known": 116,
+  "unknown": 1022,
+  "known": 118,
   "gift": 40
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 101
+   "members": 105
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 53
+   "members": 54
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 162
+   "members": 167
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 172
+   "members": 171
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 670
+   "members": 683
   }
  ],
  "events": {
-  "new_members": 13,
+  "new_members": 15,
   "rejoins": 10,
   "milestones": 77,
   "gift_purchases": 3,
@@ -61,31 +61,31 @@
    "price": 140,
    "net_per_member": 89.1,
    "confirmed_members": 8,
-   "share_of_confirmed_pct": 6.9,
-   "allocated_unknown": 69.1,
-   "estimated_members": 77.1,
+   "share_of_confirmed_pct": 6.8,
+   "allocated_unknown": 69.3,
+   "estimated_members": 77.3,
    "monthly_net_confirmed": 713,
-   "monthly_net_estimated": 6869
+   "monthly_net_estimated": 6886
   },
   {
    "tier": "バディエージェント",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 108,
-   "share_of_confirmed_pct": 93.1,
-   "allocated_unknown": 932.9,
-   "estimated_members": 1040.9,
-   "monthly_net_confirmed": 33676,
-   "monthly_net_estimated": 324570
+   "confirmed_members": 110,
+   "share_of_confirmed_pct": 93.2,
+   "allocated_unknown": 952.7,
+   "estimated_members": 1062.7,
+   "monthly_net_confirmed": 34300,
+   "monthly_net_estimated": 331373
   }
  ],
  "revenue": {
-  "monthly_low": 123658,
-  "monthly_est": 331440,
+  "monthly_low": 126064,
+  "monthly_est": 338259,
   "gift_once": 3653,
-  "total_low": 127311,
-  "total_est": 335092,
-  "paying_members": 1118,
+  "total_low": 129716,
+  "total_est": 341911,
+  "paying_members": 1140,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -223,6 +223,16 @@
    "member_chatters": 377,
    "new_members": 3,
    "gifted_total": 0
+  },
+  {
+   "video_id": "WJNoL7FyhoE",
+   "start": "2026-10-22 20:01",
+   "title": "【白栄大学 0号館】心霊サークル員として地図から消された０号館の謎を追う【セラフ・ダズルガーデン/にじさんじ】",
+   "kind": "配信",
+   "chatters": 454,
+   "member_chatters": 348,
+   "new_members": 2,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -235,7 +245,19 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "バディエージェント",
-   "like_count": 342,
+   "like_count": 353,
+   "view_count": null
+  },
+  {
+   "video_id": "eTvFzho49Ks",
+   "start": "2026-10-22 18:17",
+   "title": "【メン限】おやつ【セラフ・ダズルガーデン/にじさんじ】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "バディエージェント",
+   "like_count": 340,
    "view_count": null
   }
  ],
@@ -247,7 +269,17 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "バディエージェント",
-   "like_count": 342,
+   "like_count": 353,
+   "view_count": null
+  },
+  {
+   "video_id": "eTvFzho49Ks",
+   "start": "2026-10-22 18:17",
+   "title": "【メン限】おやつ【セラフ・ダズルガーデン/にじさんじ】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "バディエージェント",
+   "like_count": 340,
    "view_count": null
   }
  ],
@@ -324,30 +356,30 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-22"
+    "to": "2026-10-23"
    },
-   "streams_analyzed": 8,
-   "streams_missed": 1,
-   "unique_chatters": 1656,
-   "members_confirmed": 1004,
+   "streams_analyzed": 9,
+   "streams_missed": 2,
+   "unique_chatters": 1716,
+   "members_confirmed": 1033,
    "member_classes": {
-    "unknown": 855,
-    "known": 109,
+    "unknown": 882,
+    "known": 111,
     "gift": 40
    },
-   "long_term_members": 571,
+   "long_term_members": 589,
    "badges": [
     {
      "months": 0,
-     "members": 91
+     "members": 95
     },
     {
      "months": 1,
-     "members": 47
+     "members": 48
     },
     {
      "months": 2,
-     "members": 149
+     "members": 155
     },
     {
      "months": 6,
@@ -355,11 +387,11 @@
     },
     {
      "months": 12,
-     "members": 571
+     "members": 589
     }
    ],
    "events": {
-    "new_members": 12,
+    "new_members": 14,
     "rejoins": 8,
     "milestones": 60,
     "gifted_total": 41
@@ -369,21 +401,21 @@
      "tier": "アシスタントエージェント",
      "price": 140,
      "confirmed_members": 6,
-     "estimated_members": 53.1
+     "estimated_members": 53.7
     },
     {
      "tier": "バディエージェント",
      "price": 490,
-     "confirmed_members": 103,
-     "estimated_members": 910.9
+     "confirmed_members": 105,
+     "estimated_members": 939.3
     }
    ],
    "revenue": {
-    "monthly_low": 108825,
-    "monthly_est": 288774,
+    "monthly_low": 111854,
+    "monthly_est": 297680,
     "gift_once": 3653
    },
-   "avg_member_chatters": 359.8,
+   "avg_member_chatters": 358.4,
    "partial": true,
    "finalized": false
   }

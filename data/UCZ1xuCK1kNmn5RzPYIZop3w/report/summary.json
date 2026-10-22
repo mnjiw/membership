@@ -3,32 +3,32 @@
  "channel_id": "UCZ1xuCK1kNmn5RzPYIZop3w",
  "handle": "@LizeHelesta",
  "subscribers": 1030000,
- "fetched_at": "2026-10-22 09:41",
- "generated_at": "2026-10-22 09:41",
+ "fetched_at": "2026-10-23 05:23",
+ "generated_at": "2026-10-23 05:26",
  "period": {
-  "from": "2026-09-22 09:41",
-  "to": "2026-10-22 09:41",
+  "from": "2026-09-23 05:23",
+  "to": "2026-10-23 05:23",
   "days": 30
  },
- "streams_analyzed": 9,
+ "streams_analyzed": 10,
  "streams_missed": 0,
- "unique_chatters": 4631,
- "members_confirmed": 887,
+ "unique_chatters": 4864,
+ "members_confirmed": 929,
  "member_classes": {
-  "unknown": 870,
-  "known": 7,
-  "gift": 10
+  "unknown": 880,
+  "known": 9,
+  "gift": 40
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 21
+   "members": 51
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 9
+   "members": 13
   },
   {
    "months": 2,
@@ -38,7 +38,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 46
+   "members": 47
   },
   {
    "months": 12,
@@ -53,21 +53,21 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 100
+   "members": 102
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 550
+   "members": 555
   }
  ],
  "events": {
-  "new_members": 3,
+  "new_members": 5,
   "rejoins": 2,
   "milestones": 0,
-  "gift_purchases": 1,
-  "gifted_total": 10,
-  "gift_redemptions": 10
+  "gift_purchases": 3,
+  "gifted_total": 40,
+  "gift_redemptions": 40
  },
  "tiers_configured": true,
  "tiers": [
@@ -75,21 +75,21 @@
    "tier": "ヘルエスタ王国民シップ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 7,
+   "confirmed_members": 9,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 870.0,
-   "estimated_members": 877.0,
-   "monthly_net_confirmed": 2183,
-   "monthly_net_estimated": 273465
+   "allocated_unknown": 880.0,
+   "estimated_members": 889.0,
+   "monthly_net_confirmed": 2806,
+   "monthly_net_estimated": 277206
   }
  ],
  "revenue": {
-  "monthly_low": 273465,
-  "monthly_est": 273465,
-  "gift_once": 3118,
-  "total_low": 276583,
-  "total_est": 276583,
-  "paying_members": 877,
+  "monthly_low": 277206,
+  "monthly_est": 277206,
+  "gift_once": 12473,
+  "total_low": 289679,
+  "total_est": 289679,
+  "paying_members": 889,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -187,6 +187,16 @@
    "member_chatters": 310,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "1fi_E-Lfqmo",
+   "start": "2026-10-22 20:00",
+   "title": "【P5R/ペルソナ5 ザ・ロイヤル】奪え、その意志で。 【にじさんじ/リゼ・ヘルエスタ】※ネタバレ注意",
+   "kind": "配信",
+   "chatters": 1422,
+   "member_chatters": 440,
+   "new_members": 2,
+   "gifted_total": 30
   }
  ],
  "missed_streams": [],
@@ -270,26 +280,26 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-22"
+    "to": "2026-10-23"
    },
-   "streams_analyzed": 6,
+   "streams_analyzed": 7,
    "streams_missed": 0,
-   "unique_chatters": 3531,
-   "members_confirmed": 716,
+   "unique_chatters": 3794,
+   "members_confirmed": 762,
    "member_classes": {
-    "unknown": 700,
-    "known": 6,
-    "gift": 10
+    "unknown": 714,
+    "known": 8,
+    "gift": 40
    },
-   "long_term_members": 633,
+   "long_term_members": 644,
    "badges": [
     {
      "months": 0,
-     "members": 19
+     "members": 49
     },
     {
      "months": 1,
-     "members": 7
+     "members": 11
     },
     {
      "months": 2,
@@ -297,7 +307,7 @@
     },
     {
      "months": 6,
-     "members": 36
+     "members": 37
     },
     {
      "months": 12,
@@ -309,33 +319,33 @@
     },
     {
      "months": 36,
-     "members": 71
+     "members": 73
     },
     {
      "months": 48,
-     "members": 452
+     "members": 461
     }
    ],
    "events": {
-    "new_members": 2,
+    "new_members": 4,
     "rejoins": 2,
     "milestones": 0,
-    "gifted_total": 10
+    "gifted_total": 40
    },
    "tiers": [
     {
      "tier": "ヘルエスタ王国民シップ",
      "price": 490,
-     "confirmed_members": 6,
-     "estimated_members": 706.0
+     "confirmed_members": 8,
+     "estimated_members": 722.0
     }
    ],
    "revenue": {
-    "monthly_low": 220144,
-    "monthly_est": 220144,
-    "gift_once": 3118
+    "monthly_low": 225133,
+    "monthly_est": 225133,
+    "gift_once": 12473
    },
-   "avg_member_chatters": 364.2,
+   "avg_member_chatters": 375,
    "partial": true,
    "finalized": false
   }

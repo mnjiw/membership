@@ -3,52 +3,52 @@
  "channel_id": "UC1vawzfbCnRpHT9SJ5pHlHw",
  "handle": "@AkagiWen",
  "subscribers": 363000,
- "fetched_at": "2026-10-22 09:43",
- "generated_at": "2026-10-22 09:43",
+ "fetched_at": "2026-10-23 05:30",
+ "generated_at": "2026-10-23 05:30",
  "period": {
-  "from": "2026-09-22 09:43",
-  "to": "2026-10-22 09:43",
+  "from": "2026-09-23 05:30",
+  "to": "2026-10-23 05:30",
   "days": 30
  },
  "streams_analyzed": 23,
  "streams_missed": 1,
- "unique_chatters": 4730,
- "members_confirmed": 2492,
+ "unique_chatters": 4719,
+ "members_confirmed": 2497,
  "member_classes": {
-  "known": 382,
-  "unknown": 1855,
-  "gift": 255
+  "known": 391,
+  "unknown": 1846,
+  "gift": 260
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 333
+   "members": 343
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 63
+   "members": 64
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 258
+   "members": 257
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 346
+   "members": 345
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 987
+   "members": 980
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 410
+   "members": 413
   },
   {
    "months": 36,
@@ -57,12 +57,12 @@
   }
  ],
  "events": {
-  "new_members": 41,
-  "rejoins": 20,
-  "milestones": 296,
-  "gift_purchases": 43,
-  "gifted_total": 272,
-  "gift_redemptions": 256
+  "new_members": 48,
+  "rejoins": 22,
+  "milestones": 300,
+  "gift_purchases": 44,
+  "gifted_total": 277,
+  "gift_redemptions": 261
  },
  "tiers_configured": true,
  "tiers": [
@@ -70,20 +70,20 @@
    "tier": "うちら永遠のダイエッター",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 382,
+   "confirmed_members": 391,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1855.0,
+   "allocated_unknown": 1846.0,
    "estimated_members": 2237.0,
-   "monthly_net_confirmed": 119115,
+   "monthly_net_confirmed": 121921,
    "monthly_net_estimated": 697537
   }
  ],
  "revenue": {
   "monthly_low": 697537,
   "monthly_est": 697537,
-  "gift_once": 84815,
-  "total_low": 782352,
-  "total_est": 782352,
+  "gift_once": 86374,
+  "total_low": 783911,
+  "total_est": 783911,
   "paying_members": 2237,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "2sU5RDgzqPk",
-   "start": "2026-09-22 21:45",
-   "title": "【スプラ3】寝る前トゥーンやろう！夜も色塗る！【にじさんじ / 赤城ウェン】",
-   "kind": "配信",
-   "chatters": 514,
-   "member_chatters": 383,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "M9Ezv1nVDSo",
    "start": "2026-09-23 20:45",
@@ -322,6 +312,16 @@
    "member_chatters": 563,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "Hl5kdTrGf2s",
+   "start": "2026-10-22 22:40",
+   "title": "【スプラ3】よい子は寝る時間だいなも！【にじさんじ / 赤城ウェン】",
+   "kind": "配信",
+   "chatters": 496,
+   "member_chatters": 412,
+   "new_members": 7,
+   "gifted_total": 5
   }
  ],
  "missed_streams": [
@@ -334,7 +334,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "うちら永遠のダイエッター",
-   "like_count": 675,
+   "like_count": 676,
    "view_count": null
   }
  ],
@@ -346,7 +346,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "うちら永遠のダイエッター",
-   "like_count": 675,
+   "like_count": 676,
    "view_count": null
   }
  ],
@@ -425,30 +425,30 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-22"
+    "to": "2026-10-23"
    },
-   "streams_analyzed": 15,
+   "streams_analyzed": 16,
    "streams_missed": 0,
-   "unique_chatters": 4109,
-   "members_confirmed": 2303,
+   "unique_chatters": 4140,
+   "members_confirmed": 2324,
    "member_classes": {
-    "unknown": 1736,
-    "known": 369,
-    "gift": 198
+    "unknown": 1740,
+    "known": 381,
+    "gift": 203
    },
-   "long_term_members": 1395,
+   "long_term_members": 1401,
    "badges": [
     {
      "months": 0,
-     "members": 272
+     "members": 283
     },
     {
      "months": 1,
-     "members": 60
+     "members": 62
     },
     {
      "months": 2,
-     "members": 245
+     "members": 247
     },
     {
      "months": 6,
@@ -456,11 +456,11 @@
     },
     {
      "months": 12,
-     "members": 927
+     "members": 930
     },
     {
      "months": 24,
-     "members": 380
+     "members": 383
     },
     {
      "months": 36,
@@ -468,25 +468,25 @@
     }
    ],
    "events": {
-    "new_members": 36,
-    "rejoins": 15,
-    "milestones": 252,
-    "gifted_total": 215
+    "new_members": 43,
+    "rejoins": 18,
+    "milestones": 257,
+    "gifted_total": 220
    },
    "tiers": [
     {
      "tier": "うちら永遠のダイエッター",
      "price": 490,
-     "confirmed_members": 369,
-     "estimated_members": 2105.0
+     "confirmed_members": 381,
+     "estimated_members": 2121.0
     }
    ],
    "revenue": {
-    "monthly_low": 656377,
-    "monthly_est": 656377,
-    "gift_once": 67041
+    "monthly_low": 661366,
+    "monthly_est": 661366,
+    "gift_once": 68600
    },
-   "avg_member_chatters": 596.8,
+   "avg_member_chatters": 585.2,
    "partial": true,
    "finalized": false
   }

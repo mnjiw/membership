@@ -3,11 +3,11 @@
  "channel_id": "UCw-kTlPnZYSHhlGMFJ17Znw",
  "handle": "@KiraraTamako",
  "subscribers": 218000,
- "fetched_at": "2026-10-22 09:44",
- "generated_at": "2026-10-22 09:44",
+ "fetched_at": "2026-10-23 05:33",
+ "generated_at": "2026-10-23 05:33",
  "period": {
-  "from": "2026-09-22 09:44",
-  "to": "2026-10-22 09:44",
+  "from": "2026-09-23 05:33",
+  "to": "2026-10-23 05:33",
   "days": 30
  },
  "streams_analyzed": 17,
@@ -261,18 +261,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "nRaEa4zb3rc",
-   "start": "2026-09-22 21:03",
-   "title": "𓊆 メン限 𓊇 同時視聴「ミュウツーの逆襲 EVOLUTION」",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 57,
-   "view_count": null
-  },
-  {
    "video_id": "TCdsOXDMtVw",
    "start": "2026-09-30 22:33",
    "title": "𓊆 メン限 𓊇 9月おわりそうなすずしい気配",
@@ -282,21 +270,23 @@
    "members_only": true,
    "members_level": "",
    "like_count": 79,
+   "view_count": null
+  },
+  {
+   "video_id": "1_3sMZQ2m5k",
+   "start": "2026-10-22 23:03",
+   "title": "𓊆 メン限 𓊇 10がつも後半戦らしいよ",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 73,
    "view_count": null
   }
  ],
  "members_only_content": [
   {
-   "video_id": "nRaEa4zb3rc",
-   "start": "2026-09-22 21:03",
-   "title": "𓊆 メン限 𓊇 同時視聴「ミュウツーの逆襲 EVOLUTION」",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 57,
-   "view_count": null
-  },
-  {
    "video_id": "TCdsOXDMtVw",
    "start": "2026-09-30 22:33",
    "title": "𓊆 メン限 𓊇 9月おわりそうなすずしい気配",
@@ -304,6 +294,16 @@
    "status": "members_only",
    "members_level": "",
    "like_count": 79,
+   "view_count": null
+  },
+  {
+   "video_id": "1_3sMZQ2m5k",
+   "start": "2026-10-22 23:03",
+   "title": "𓊆 メン限 𓊇 10がつも後半戦らしいよ",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 73,
    "view_count": null
   }
  ],
@@ -377,10 +377,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-22"
+    "to": "2026-10-23"
    },
    "streams_analyzed": 14,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 1241,
    "members_confirmed": 193,
    "member_classes": {

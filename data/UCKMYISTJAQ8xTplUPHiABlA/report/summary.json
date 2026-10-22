@@ -3,27 +3,27 @@
  "channel_id": "UCKMYISTJAQ8xTplUPHiABlA",
  "handle": "@YashiroKizuku",
  "subscribers": 922000,
- "fetched_at": "2026-10-22 09:40",
- "generated_at": "2026-10-22 09:40",
+ "fetched_at": "2026-10-23 05:20",
+ "generated_at": "2026-10-23 05:23",
  "period": {
-  "from": "2026-09-22 09:40",
-  "to": "2026-10-22 09:40",
+  "from": "2026-09-23 05:20",
+  "to": "2026-10-23 05:20",
   "days": 30
  },
- "streams_analyzed": 14,
+ "streams_analyzed": 15,
  "streams_missed": 0,
- "unique_chatters": 10607,
- "members_confirmed": 822,
+ "unique_chatters": 11682,
+ "members_confirmed": 868,
  "member_classes": {
-  "unknown": 796,
-  "known": 21,
+  "unknown": 838,
+  "known": 25,
   "gift": 5
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 39
+   "members": 42
   },
   {
    "months": 1,
@@ -33,11 +33,11 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 757
+   "members": 800
   }
  ],
  "events": {
-  "new_members": 6,
+  "new_members": 10,
   "rejoins": 2,
   "milestones": 3,
   "gift_purchases": 1,
@@ -50,21 +50,21 @@
    "tier": "メンバー",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 21,
+   "confirmed_members": 25,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 796.0,
-   "estimated_members": 817.0,
-   "monthly_net_confirmed": 6548,
-   "monthly_net_estimated": 254755
+   "allocated_unknown": 838.0,
+   "estimated_members": 863.0,
+   "monthly_net_confirmed": 7795,
+   "monthly_net_estimated": 269099
   }
  ],
  "revenue": {
-  "monthly_low": 254755,
-  "monthly_est": 254755,
+  "monthly_low": 269099,
+  "monthly_est": 269099,
   "gift_once": 1559,
-  "total_low": 256315,
-  "total_est": 256315,
-  "paying_members": 817,
+  "total_low": 270658,
+  "total_est": 270658,
+  "paying_members": 863,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -212,6 +212,16 @@
    "member_chatters": 158,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "vOMLkhZLWvI",
+   "start": "2026-10-22 22:03",
+   "title": "【Japanese Ramen Simulator #1】「うまいラーメン」ではなく「うまい店」を目指す男【にじさんじ/社築】",
+   "kind": "配信",
+   "chatters": 2773,
+   "member_chatters": 403,
+   "new_members": 4,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -275,33 +285,33 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-22"
+    "to": "2026-10-23"
    },
-   "streams_analyzed": 10,
+   "streams_analyzed": 11,
    "streams_missed": 0,
-   "unique_chatters": 7516,
-   "members_confirmed": 696,
+   "unique_chatters": 8844,
+   "members_confirmed": 764,
    "member_classes": {
-    "unknown": 677,
-    "known": 19
+    "unknown": 741,
+    "known": 23
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 21
+     "members": 25
     },
     {
      "months": 1,
-     "members": 22
+     "members": 24
     },
     {
      "months": 2,
-     "members": 653
+     "members": 715
     }
    ],
    "events": {
-    "new_members": 3,
+    "new_members": 7,
     "rejoins": 1,
     "milestones": 1,
     "gifted_total": 0
@@ -310,16 +320,16 @@
     {
      "tier": "メンバー",
      "price": 490,
-     "confirmed_members": 19,
-     "estimated_members": 696.0
+     "confirmed_members": 23,
+     "estimated_members": 764.0
     }
    ],
    "revenue": {
-    "monthly_low": 217025,
-    "monthly_est": 217025,
+    "monthly_low": 238229,
+    "monthly_est": 238229,
     "gift_once": 0
    },
-   "avg_member_chatters": 228,
+   "avg_member_chatters": 243.9,
    "partial": true,
    "finalized": false
   }

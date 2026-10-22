@@ -3,27 +3,27 @@
  "channel_id": "UCiBBDZ-ndtBgE4xKbswlgXQ",
  "handle": "@ItsukiSakyo",
  "subscribers": 164000,
- "fetched_at": "2026-10-22 09:44",
- "generated_at": "2026-10-22 09:44",
+ "fetched_at": "2026-10-23 05:33",
+ "generated_at": "2026-10-23 05:34",
  "period": {
-  "from": "2026-09-22 09:44",
-  "to": "2026-10-22 09:44",
+  "from": "2026-09-23 05:33",
+  "to": "2026-10-23 05:33",
   "days": 30
  },
  "streams_analyzed": 20,
  "streams_missed": 1,
- "unique_chatters": 2268,
- "members_confirmed": 412,
+ "unique_chatters": 2177,
+ "members_confirmed": 411,
  "member_classes": {
-  "unknown": 347,
-  "known": 42,
+  "unknown": 345,
+  "known": 43,
   "gift": 23
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 40
+   "members": 39
   },
   {
    "months": 1,
@@ -49,7 +49,7 @@
  "events": {
   "new_members": 3,
   "rejoins": 2,
-  "milestones": 30,
+  "milestones": 31,
   "gift_purchases": 7,
   "gifted_total": 23,
   "gift_redemptions": 23
@@ -60,21 +60,21 @@
    "tier": "うさ部員総会",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 42,
+   "confirmed_members": 43,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 347.0,
-   "estimated_members": 389.0,
-   "monthly_net_confirmed": 13096,
-   "monthly_net_estimated": 121297
+   "allocated_unknown": 345.0,
+   "estimated_members": 388.0,
+   "monthly_net_confirmed": 13408,
+   "monthly_net_estimated": 120985
   }
  ],
  "revenue": {
-  "monthly_low": 121297,
-  "monthly_est": 121297,
+  "monthly_low": 120985,
+  "monthly_est": 120985,
   "gift_once": 7172,
-  "total_low": 128469,
-  "total_est": 128469,
-  "paying_members": 389,
+  "total_low": 128157,
+  "total_est": 128157,
+  "paying_members": 388,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "Irvg5MA7Szs",
-   "start": "2026-09-22 20:00",
-   "title": "首都高トラック運転経験有りのエリートが、妹（架空）の運転を声で指示厨するゲーム『妹に運転を教える』【にじさんじ / 五木左京】",
-   "kind": "配信",
-   "chatters": 350,
-   "member_chatters": 159,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "APc0p-zF5rc",
    "start": "2026-09-23 19:01",
@@ -282,6 +272,16 @@
    "member_chatters": 114,
    "new_members": 0,
    "gifted_total": 1
+  },
+  {
+   "video_id": "gLbX_VStbYs",
+   "start": "2026-10-22 20:04",
+   "title": "【OW】#にじEX_OW チーム4｜まだはじまったばかりのにょきにょき🌱【にじさんじ / 五木左京】",
+   "kind": "配信",
+   "chatters": 139,
+   "member_chatters": 109,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -377,22 +377,22 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-22"
+    "to": "2026-10-23"
    },
-   "streams_analyzed": 13,
+   "streams_analyzed": 14,
    "streams_missed": 0,
-   "unique_chatters": 990,
-   "members_confirmed": 321,
+   "unique_chatters": 997,
+   "members_confirmed": 324,
    "member_classes": {
-    "unknown": 275,
-    "known": 38,
+    "unknown": 277,
+    "known": 39,
     "gift": 8
    },
-   "long_term_members": 190,
+   "long_term_members": 193,
    "badges": [
     {
      "months": 0,
-     "members": 20
+     "members": 19
     },
     {
      "months": 1,
@@ -400,7 +400,7 @@
     },
     {
      "months": 2,
-     "members": 36
+     "members": 37
     },
     {
      "months": 6,
@@ -408,29 +408,29 @@
     },
     {
      "months": 12,
-     "members": 190
+     "members": 193
     }
    ],
    "events": {
     "new_members": 2,
     "rejoins": 1,
-    "milestones": 20,
+    "milestones": 21,
     "gifted_total": 8
    },
    "tiers": [
     {
      "tier": "うさ部員総会",
      "price": 490,
-     "confirmed_members": 38,
-     "estimated_members": 313.0
+     "confirmed_members": 39,
+     "estimated_members": 316.0
     }
    ],
    "revenue": {
-    "monthly_low": 97599,
-    "monthly_est": 97599,
+    "monthly_low": 98535,
+    "monthly_est": 98535,
     "gift_once": 2495
    },
-   "avg_member_chatters": 130.7,
+   "avg_member_chatters": 129.1,
    "partial": true,
    "finalized": false
   }

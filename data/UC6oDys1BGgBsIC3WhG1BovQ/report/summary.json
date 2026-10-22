@@ -3,27 +3,27 @@
  "channel_id": "UC6oDys1BGgBsIC3WhG1BovQ",
  "handle": "@ShizukaRin",
  "subscribers": 398000,
- "fetched_at": "2026-10-22 09:40",
- "generated_at": "2026-10-22 09:40",
+ "fetched_at": "2026-10-23 05:18",
+ "generated_at": "2026-10-23 05:18",
  "period": {
-  "from": "2026-09-22 09:40",
-  "to": "2026-10-22 09:40",
+  "from": "2026-09-23 05:18",
+  "to": "2026-10-23 05:18",
   "days": 30
  },
  "streams_analyzed": 33,
- "streams_missed": 5,
- "unique_chatters": 1133,
- "members_confirmed": 308,
+ "streams_missed": 4,
+ "unique_chatters": 1136,
+ "members_confirmed": 307,
  "member_classes": {
-  "unknown": 228,
   "known": 28,
-  "gift": 52
+  "unknown": 228,
+  "gift": 51
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 67
+   "members": 66
   },
   {
    "months": 1,
@@ -65,9 +65,9 @@
   "new_members": 7,
   "rejoins": 4,
   "milestones": 13,
-  "gift_purchases": 15,
-  "gifted_total": 52,
-  "gift_redemptions": 52
+  "gift_purchases": 14,
+  "gifted_total": 51,
+  "gift_redemptions": 51
  },
  "tiers_configured": true,
  "tiers": [
@@ -86,9 +86,9 @@
  "revenue": {
   "monthly_low": 79825,
   "monthly_est": 79825,
-  "gift_once": 16215,
-  "total_low": 96040,
-  "total_est": 96040,
+  "gift_once": 15903,
+  "total_low": 95728,
+  "total_est": 95728,
   "paying_members": 256,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "BglsCF8Yop0",
-   "start": "2026-09-22 20:17",
-   "title": "⛏️ 22 | マイクラでRPG❗️ | #えみクラ【静凛/にじさんじ】",
-   "kind": "配信",
-   "chatters": 82,
-   "member_chatters": 54,
-   "new_members": 0,
-   "gifted_total": 1
-  },
   {
    "video_id": "mkrwZoY7rLk",
    "start": "2026-09-23 09:14",
@@ -427,6 +417,16 @@
    "member_chatters": 40,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "ah706yKX4jA",
+   "start": "2026-10-21 21:55",
+   "title": "🚀共同探検23 03 | No Man's Sky【静凛/にじさんじ】",
+   "kind": "配信",
+   "chatters": 129,
+   "member_chatters": 68,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -477,18 +477,6 @@
    "members_level": "",
    "like_count": 91,
    "view_count": null
-  },
-  {
-   "video_id": "ah706yKX4jA",
-   "start": "2026-10-21 00:00",
-   "title": "🚀共同探検23 03 | No Man's Sky【静凛/にじさんじ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 928,
-   "view_count": 83772
   }
  ],
  "members_only_content": [
@@ -612,11 +600,11 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-22"
+    "to": "2026-10-23"
    },
-   "streams_analyzed": 20,
-   "streams_missed": 4,
-   "unique_chatters": 829,
+   "streams_analyzed": 21,
+   "streams_missed": 3,
+   "unique_chatters": 839,
    "members_confirmed": 253,
    "member_classes": {
     "unknown": 192,
@@ -677,7 +665,7 @@
     "monthly_est": 66417,
     "gift_once": 12473
    },
-   "avg_member_chatters": 72.8,
+   "avg_member_chatters": 72.6,
    "partial": true,
    "finalized": false
   }

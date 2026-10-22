@@ -3,15 +3,15 @@
  "channel_id": "UCXW4MqCQn-jCaxlX-nn-BYg",
  "handle": "@NagaoKei",
  "subscribers": 562000,
- "fetched_at": "2026-10-22 09:42",
- "generated_at": "2026-10-22 09:42",
+ "fetched_at": "2026-10-23 05:27",
+ "generated_at": "2026-10-23 05:27",
  "period": {
-  "from": "2026-09-22 09:42",
-  "to": "2026-10-22 09:42",
+  "from": "2026-09-23 05:27",
+  "to": "2026-10-23 05:27",
   "days": 30
  },
  "streams_analyzed": 22,
- "streams_missed": 4,
+ "streams_missed": 5,
  "unique_chatters": 3287,
  "members_confirmed": 1266,
  "member_classes": {
@@ -365,7 +365,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "ゆうしきしゃ16GB",
-   "like_count": 369,
+   "like_count": 371,
    "view_count": null
   },
   {
@@ -377,8 +377,20 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "ゆうしきしゃ32GB",
-   "like_count": 190,
+   "like_count": 203,
    "view_count": null
+  },
+  {
+   "video_id": "xzW708K13Y8",
+   "start": "2026-10-22 00:00",
+   "title": "【妹に運転教わる！？】教えるゲームのはずが立場が逆転している全肯定長尾景【長尾景/にじさんじ】【公式切り抜き】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 641,
+   "view_count": 8194
   }
  ],
  "members_only_content": [
@@ -409,7 +421,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "ゆうしきしゃ16GB",
-   "like_count": 369,
+   "like_count": 371,
    "view_count": null
   },
   {
@@ -419,7 +431,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "ゆうしきしゃ32GB",
-   "like_count": 190,
+   "like_count": 203,
    "view_count": null
   }
  ],
@@ -505,10 +517,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-22"
+    "to": "2026-10-23"
    },
    "streams_analyzed": 15,
-   "streams_missed": 2,
+   "streams_missed": 3,
    "unique_chatters": 2386,
    "members_confirmed": 1094,
    "member_classes": {

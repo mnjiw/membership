@@ -3,20 +3,20 @@
  "channel_id": "UCwaS8_S7kMiKA3izlTWHbQg",
  "handle": "@MariaMarionette",
  "subscribers": 478000,
- "fetched_at": "2026-10-22 09:44",
- "generated_at": "2026-10-22 09:44",
+ "fetched_at": "2026-10-23 05:36",
+ "generated_at": "2026-10-23 05:36",
  "period": {
-  "from": "2026-09-22 09:44",
-  "to": "2026-10-22 09:44",
+  "from": "2026-09-23 05:36",
+  "to": "2026-10-23 05:36",
   "days": 30
  },
- "streams_analyzed": 22,
- "streams_missed": 2,
- "unique_chatters": 1121,
+ "streams_analyzed": 21,
+ "streams_missed": 3,
+ "unique_chatters": 1106,
  "members_confirmed": 170,
  "member_classes": {
-  "unknown": 97,
   "known": 35,
+  "unknown": 97,
   "gift": 38
  },
  "badges": [
@@ -54,7 +54,7 @@
  "events": {
   "new_members": 2,
   "rejoins": 5,
-  "milestones": 28,
+  "milestones": 27,
   "gift_purchases": 11,
   "gifted_total": 38,
   "gift_redemptions": 38
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "-w-56Hb-kyo",
-   "start": "2026-09-22 16:01",
-   "title": "Kon Kon Kitsune! -  Tales of Seikyu #4【Maria Marionette | NIJISANJI EN】",
-   "kind": "配信",
-   "chatters": 74,
-   "member_chatters": 19,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "FpmN4bNdxcg",
    "start": "2026-09-23 18:00",
@@ -333,6 +323,18 @@
    "members_level": "",
    "like_count": 25,
    "view_count": null
+  },
+  {
+   "video_id": "V-6Iwkqno5I",
+   "start": "2026-10-22 23:00",
+   "title": "Membaship strim!! OCTOBER NEARING END【Maria Marionette | NIJISANJI EN】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 29,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -354,6 +356,16 @@
    "status": "members_only",
    "members_level": "",
    "like_count": 25,
+   "view_count": null
+  },
+  {
+   "video_id": "V-6Iwkqno5I",
+   "start": "2026-10-22 23:00",
+   "title": "Membaship strim!! OCTOBER NEARING END【Maria Marionette | NIJISANJI EN】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 29,
    "view_count": null
   }
  ],
@@ -428,10 +440,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-22"
+    "to": "2026-10-23"
    },
    "streams_analyzed": 16,
-   "streams_missed": 2,
+   "streams_missed": 3,
    "unique_chatters": 933,
    "members_confirmed": 163,
    "member_classes": {

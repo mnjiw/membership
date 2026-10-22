@@ -3,20 +3,20 @@
  "channel_id": "UCdh-YF2gTzqDNu0VU9lwPPw",
  "handle": "@ClaudeClawmark",
  "subscribers": 160000,
- "fetched_at": "2026-10-22 09:45",
- "generated_at": "2026-10-22 09:45",
+ "fetched_at": "2026-10-23 05:37",
+ "generated_at": "2026-10-23 05:37",
  "period": {
-  "from": "2026-09-22 09:45",
-  "to": "2026-10-22 09:45",
+  "from": "2026-09-23 05:37",
+  "to": "2026-10-23 05:37",
   "days": 30
  },
- "streams_analyzed": 24,
- "streams_missed": 1,
- "unique_chatters": 1883,
+ "streams_analyzed": 23,
+ "streams_missed": 2,
+ "unique_chatters": 1858,
  "members_confirmed": 715,
  "member_classes": {
-  "known": 205,
   "unknown": 303,
+  "known": 205,
   "gift": 207
  },
  "badges": [
@@ -49,7 +49,7 @@
  "events": {
   "new_members": 12,
   "rejoins": 10,
-  "milestones": 141,
+  "milestones": 139,
   "gift_purchases": 28,
   "gifted_total": 207,
   "gift_redemptions": 207
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "aynDmbhruS0",
-   "start": "2026-09-23 00:50",
-   "title": "LARP Of Lattice",
-   "kind": "配信",
-   "chatters": 127,
-   "member_chatters": 75,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "6EqmI1rvjjo",
    "start": "2026-09-23 13:06",
@@ -336,6 +326,18 @@
    "members_level": "",
    "like_count": 136,
    "view_count": null
+  },
+  {
+   "video_id": "cbT1wSPtw38",
+   "start": "2026-10-22 00:00",
+   "title": "Lake of Lassi",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 477,
+   "view_count": 10420
   }
  ],
  "members_only_content": [
@@ -417,10 +419,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-22"
+    "to": "2026-10-23"
    },
    "streams_analyzed": 16,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 1593,
    "members_confirmed": 656,
    "member_classes": {

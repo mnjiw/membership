@@ -3,31 +3,31 @@
  "channel_id": "UC-6rZgmxZSIbq786j3RD5ow",
  "handle": "@LeosVincent",
  "subscribers": 514000,
- "fetched_at": "2026-10-22 09:42",
- "generated_at": "2026-10-22 09:42",
+ "fetched_at": "2026-10-23 05:27",
+ "generated_at": "2026-10-23 05:27",
  "period": {
-  "from": "2026-09-22 09:42",
-  "to": "2026-10-22 09:42",
+  "from": "2026-09-23 05:27",
+  "to": "2026-10-23 05:27",
   "days": 30
  },
- "streams_analyzed": 11,
+ "streams_analyzed": 10,
  "streams_missed": 2,
- "unique_chatters": 2759,
- "members_confirmed": 896,
+ "unique_chatters": 2544,
+ "members_confirmed": 882,
  "member_classes": {
-  "unknown": 886,
-  "known": 10
+  "unknown": 873,
+  "known": 9
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 11
+   "members": 10
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 12
+   "members": 11
   },
   {
    "months": 2,
@@ -37,17 +37,17 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 46
+   "members": 45
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 112
+   "members": 111
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 685
+   "members": 675
   }
  ],
  "events": {
@@ -64,21 +64,21 @@
    "tier": "まめねこと実験済み被験者たち",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 10,
+   "confirmed_members": 9,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 886.0,
-   "estimated_members": 896.0,
-   "monthly_net_confirmed": 3118,
-   "monthly_net_estimated": 279389
+   "allocated_unknown": 873.0,
+   "estimated_members": 882.0,
+   "monthly_net_confirmed": 2806,
+   "monthly_net_estimated": 275024
   }
  ],
  "revenue": {
-  "monthly_low": 279389,
-  "monthly_est": 279389,
+  "monthly_low": 275024,
+  "monthly_est": 275024,
   "gift_once": 0,
-  "total_low": 279389,
-  "total_est": 279389,
-  "paying_members": 896,
+  "total_low": 275024,
+  "total_est": 275024,
+  "paying_members": 882,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -87,16 +87,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "Ctz0kkihynk",
-   "start": "2026-09-22 14:00",
-   "title": "【#にじ遊戯王祭2026】予選Bリーグ！月光で照らせ！HALO-別々の路で出会った僕らは共に歩み、そして一人の道を征く- MADmaidLAND/花畑チャイカ.鏑木ろこ.レオス・ヴィンセント",
-   "kind": "配信",
-   "chatters": 804,
-   "member_chatters": 375,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "gKlRomD0i5E",
    "start": "2026-09-23 11:01",
@@ -208,7 +198,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "まめねこと実験済み被験者たち",
-   "like_count": 383,
+   "like_count": 384,
    "view_count": null
   },
   {
@@ -220,8 +210,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 374,
-   "view_count": 14104
+   "like_count": 421,
+   "view_count": 19503
   }
  ],
  "members_only_content": [
@@ -232,7 +222,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "まめねこと実験済み被験者たち",
-   "like_count": 383,
+   "like_count": 384,
    "view_count": null
   }
  ],
@@ -306,7 +296,7 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-22"
+    "to": "2026-10-23"
    },
    "streams_analyzed": 5,
    "streams_missed": 2,
