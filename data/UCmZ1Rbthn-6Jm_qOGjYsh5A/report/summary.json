@@ -3,20 +3,20 @@
  "channel_id": "UCmZ1Rbthn-6Jm_qOGjYsh5A",
  "handle": "@Ibrahim",
  "subscribers": 926000,
- "fetched_at": "2026-10-22 05:22",
- "generated_at": "2026-10-22 05:23",
+ "fetched_at": "2026-10-22 09:42",
+ "generated_at": "2026-10-22 09:42",
  "period": {
-  "from": "2026-09-22 05:22",
-  "to": "2026-10-22 05:22",
+  "from": "2026-09-22 09:42",
+  "to": "2026-10-22 09:42",
   "days": 30
  },
- "streams_analyzed": 24,
- "streams_missed": 1,
- "unique_chatters": 8857,
- "members_confirmed": 1527,
+ "streams_analyzed": 25,
+ "streams_missed": 0,
+ "unique_chatters": 8907,
+ "members_confirmed": 1530,
  "member_classes": {
-  "unknown": 1273,
-  "known": 103,
+  "unknown": 1275,
+  "known": 104,
   "gift": 151
  },
  "badges": [
@@ -43,18 +43,18 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 172
+   "members": 173
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 989
+   "members": 991
   }
  ],
  "events": {
   "new_members": 15,
   "rejoins": 11,
-  "milestones": 76,
+  "milestones": 77,
   "gift_purchases": 15,
   "gifted_total": 151,
   "gift_redemptions": 151
@@ -65,21 +65,21 @@
    "tier": "イブラヒムのメンバーシップ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 103,
+   "confirmed_members": 104,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1273.0,
-   "estimated_members": 1376.0,
-   "monthly_net_confirmed": 32117,
-   "monthly_net_estimated": 429062
+   "allocated_unknown": 1275.0,
+   "estimated_members": 1379.0,
+   "monthly_net_confirmed": 32429,
+   "monthly_net_estimated": 429997
   }
  ],
  "revenue": {
-  "monthly_low": 429062,
-  "monthly_est": 429062,
+  "monthly_low": 429997,
+  "monthly_est": 429997,
   "gift_once": 47085,
-  "total_low": 476146,
-  "total_est": 476146,
-  "paying_members": 1376,
+  "total_low": 477082,
+  "total_est": 477082,
+  "paying_members": 1379,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -327,22 +327,19 @@
    "member_chatters": 367,
    "new_members": 2,
    "gifted_total": 0
-  }
- ],
- "missed_streams": [
+  },
   {
    "video_id": "u5OmA1K80VU",
-   "start": "2026-10-21 00:00",
+   "start": "2026-10-21 22:02",
    "title": "【OVERWATCH】お兄ちゃんちょっと待ってよ【にじさんじ/イブラヒム】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 1203,
-   "view_count": 125573
+   "kind": "配信",
+   "chatters": 513,
+   "member_chatters": 297,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -417,16 +414,16 @@
     "from": "2026-10-01",
     "to": "2026-10-22"
    },
-   "streams_analyzed": 15,
-   "streams_missed": 1,
-   "unique_chatters": 5723,
-   "members_confirmed": 1273,
+   "streams_analyzed": 16,
+   "streams_missed": 0,
+   "unique_chatters": 5777,
+   "members_confirmed": 1278,
    "member_classes": {
-    "unknown": 1121,
-    "known": 81,
+    "unknown": 1125,
+    "known": 82,
     "gift": 71
    },
-   "long_term_members": 1014,
+   "long_term_members": 1019,
    "badges": [
     {
      "months": 0,
@@ -446,33 +443,33 @@
     },
     {
      "months": 12,
-     "members": 154
+     "members": 156
     },
     {
      "months": 24,
-     "members": 860
+     "members": 863
     }
    ],
    "events": {
     "new_members": 12,
     "rejoins": 5,
-    "milestones": 11,
+    "milestones": 12,
     "gifted_total": 71
    },
    "tiers": [
     {
      "tier": "イブラヒムのメンバーシップ",
      "price": 490,
-     "confirmed_members": 81,
-     "estimated_members": 1202.0
+     "confirmed_members": 82,
+     "estimated_members": 1207.0
     }
    ],
    "revenue": {
-    "monthly_low": 374805,
-    "monthly_est": 374805,
+    "monthly_low": 376365,
+    "monthly_est": 376365,
     "gift_once": 22139
    },
-   "avg_member_chatters": 432.5,
+   "avg_member_chatters": 424.1,
    "partial": true,
    "finalized": false
   }
