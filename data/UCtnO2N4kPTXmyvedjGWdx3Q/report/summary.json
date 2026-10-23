@@ -3,32 +3,31 @@
  "channel_id": "UCtnO2N4kPTXmyvedjGWdx3Q",
  "handle": "@LeviElipha",
  "subscribers": 375000,
- "fetched_at": "2026-10-23 09:39",
- "generated_at": "2026-10-23 09:39",
+ "fetched_at": "2026-10-24 05:21",
+ "generated_at": "2026-10-24 05:22",
  "period": {
-  "from": "2026-09-23 09:39",
-  "to": "2026-10-23 09:39",
+  "from": "2026-09-24 05:21",
+  "to": "2026-10-24 05:21",
   "days": 30
  },
- "streams_analyzed": 12,
- "streams_missed": 3,
- "unique_chatters": 458,
- "members_confirmed": 63,
+ "streams_analyzed": 13,
+ "streams_missed": 2,
+ "unique_chatters": 476,
+ "members_confirmed": 58,
  "member_classes": {
   "unknown": 53,
-  "known": 5,
-  "gift": 5
+  "known": 5
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 11
+   "members": 5
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 3
+   "members": 4
   },
   {
    "months": 2,
@@ -47,12 +46,12 @@
   }
  ],
  "events": {
-  "new_members": 3,
+  "new_members": 2,
   "rejoins": 0,
   "milestones": 1,
-  "gift_purchases": 1,
-  "gifted_total": 5,
-  "gift_redemptions": 5
+  "gift_purchases": 0,
+  "gifted_total": 0,
+  "gift_redemptions": 0
  },
  "tiers_configured": true,
  "tiers": [
@@ -93,9 +92,9 @@
  "revenue": {
   "monthly_low": 18085,
   "monthly_est": 18085,
-  "gift_once": 1559,
-  "total_low": 19645,
-  "total_est": 19645,
+  "gift_once": 0,
+  "total_low": 18085,
+  "total_est": 18085,
   "paying_members": 58,
   "single_tier": false,
   "tax_rate": 0.1,
@@ -105,16 +104,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "XNa2YqZPkbE",
-   "start": "2026-09-23 19:04",
-   "title": "#16【ほの暮しの庭】いよいよ最終回‼この村の結末ハ・・・【にじさんじ/レヴィ・エリファ】※ネタバレあり",
-   "kind": "配信",
-   "chatters": 75,
-   "member_chatters": 34,
-   "new_members": 1,
-   "gifted_total": 5
-  },
   {
    "video_id": "u8twxeNzKs4",
    "start": "2026-09-29 12:10",
@@ -224,21 +213,29 @@
    "member_chatters": 18,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "faipL5L_3M0",
+   "start": "2026-10-23 12:05",
+   "title": "#02【FINAL FANTASY X | X-2 HD Remaster】キーリカ島を抜けルカまでいくゾウ♪【にじさんじ/レヴィ・エリファ】",
+   "kind": "配信",
+   "chatters": 90,
+   "member_chatters": 23,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "oT8VN-6jHdc",
+   "start": "2026-10-23 22:05",
+   "title": "#14【大逆転裁判】第5話‼いよいよ法廷に挑みまくるゾウ🐘【にじさんじ/レヴィ・エリファ】",
+   "kind": "配信",
+   "chatters": 59,
+   "member_chatters": 20,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
-  {
-   "video_id": "VsbSVPa9X18",
-   "start": "2026-09-23 23:33",
-   "title": "#16【ほの暮しの庭】クリア後も楽しみまショ♡【にじさんじ/レヴィ・エリファ】※ネタバレあり",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 34,
-   "view_count": null
-  },
   {
    "video_id": "wFmGHkZltqA",
    "start": "2026-10-03 00:37",
@@ -265,16 +262,6 @@
   }
  ],
  "members_only_content": [
-  {
-   "video_id": "VsbSVPa9X18",
-   "start": "2026-09-23 23:33",
-   "title": "#16【ほの暮しの庭】クリア後も楽しみまショ♡【にじさんじ/レヴィ・エリファ】※ネタバレあり",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 34,
-   "view_count": null
-  },
   {
    "video_id": "wFmGHkZltqA",
    "start": "2026-10-03 00:37",
@@ -375,25 +362,25 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-23"
+    "to": "2026-10-24"
    },
-   "streams_analyzed": 10,
+   "streams_analyzed": 12,
    "streams_missed": 2,
-   "unique_chatters": 388,
-   "members_confirmed": 54,
+   "unique_chatters": 435,
+   "members_confirmed": 55,
    "member_classes": {
-    "unknown": 51,
+    "unknown": 52,
     "known": 3
    },
-   "long_term_members": 42,
+   "long_term_members": 43,
    "badges": [
     {
      "months": 0,
-     "members": 4
+     "members": 3
     },
     {
      "months": 1,
-     "members": 2
+     "members": 3
     },
     {
      "months": 2,
@@ -405,7 +392,7 @@
     },
     {
      "months": 12,
-     "members": 42
+     "members": 43
     }
    ],
    "events": {
@@ -419,7 +406,7 @@
      "tier": "バイ",
      "price": 490,
      "confirmed_members": 3,
-     "estimated_members": 54.0
+     "estimated_members": 55.0
     },
     {
      "tier": "チク",
@@ -435,8 +422,8 @@
     }
    ],
    "revenue": {
-    "monthly_low": 16838,
-    "monthly_est": 16838,
+    "monthly_low": 17150,
+    "monthly_est": 17150,
     "gift_once": 0
    },
    "avg_member_chatters": 21.8,

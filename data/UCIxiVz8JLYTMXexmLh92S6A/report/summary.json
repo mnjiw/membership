@@ -3,19 +3,19 @@
  "channel_id": "UCIxiVz8JLYTMXexmLh92S6A",
  "handle": "@PurinLalaMode",
  "subscribers": 87100,
- "fetched_at": "2026-10-23 09:42",
- "generated_at": "2026-10-23 09:42",
+ "fetched_at": "2026-10-24 05:32",
+ "generated_at": "2026-10-24 05:32",
  "period": {
-  "from": "2026-09-23 09:42",
-  "to": "2026-10-23 09:42",
+  "from": "2026-09-24 05:32",
+  "to": "2026-10-24 05:32",
   "days": 30
  },
- "streams_analyzed": 23,
- "streams_missed": 1,
- "unique_chatters": 1124,
- "members_confirmed": 174,
+ "streams_analyzed": 22,
+ "streams_missed": 2,
+ "unique_chatters": 1094,
+ "members_confirmed": 173,
  "member_classes": {
-  "unknown": 149,
+  "unknown": 148,
   "known": 19,
   "gift": 6
  },
@@ -28,7 +28,7 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 94
+   "members": 93
   },
   {
    "months": 2,
@@ -52,19 +52,19 @@
    "net_per_member": 439.1,
    "confirmed_members": 19,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 149.0,
-   "estimated_members": 168.0,
+   "allocated_unknown": 148.0,
+   "estimated_members": 167.0,
    "monthly_net_confirmed": 8343,
-   "monthly_net_estimated": 73767
+   "monthly_net_estimated": 73328
   }
  ],
  "revenue": {
-  "monthly_low": 73767,
-  "monthly_est": 73767,
+  "monthly_low": 73328,
+  "monthly_est": 73328,
   "gift_once": 2635,
-  "total_low": 76402,
-  "total_est": 76402,
-  "paying_members": 168,
+  "total_low": 75963,
+  "total_est": 75963,
+  "paying_members": 167,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "ao1dzoKgUWE",
-   "start": "2026-09-23 18:00",
-   "title": "【妹に運転を教える】妹だから妹の気持ちわかるよ‼とりあえずアクセル全開で行こう🍮💌【ぷりん・らら・もーど / にじさんじ】",
-   "kind": "配信",
-   "chatters": 115,
-   "member_chatters": 36,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "5Mco-Z7-zww",
    "start": "2026-09-24 07:01",
@@ -316,6 +306,18 @@
    "members_level": "",
    "like_count": 51,
    "view_count": null
+  },
+  {
+   "video_id": "iPKioE7Jm1A",
+   "start": "2026-10-23 00:00",
+   "title": "[First One-on-One Collaboration with a Senior🎀] I was super nervous collaborating with Berry-senp...",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 166,
+   "view_count": 2778
   }
  ],
  "members_only_content": [
@@ -385,10 +387,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-23"
+    "to": "2026-10-24"
    },
    "streams_analyzed": 18,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 869,
    "members_confirmed": 146,
    "member_classes": {

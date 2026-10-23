@@ -3,16 +3,16 @@
  "channel_id": "UCFimqykDM5g9a5KxlW_e7ZQ",
  "handle": "@Onotora_Y4T4",
  "subscribers": 123000,
- "fetched_at": "2026-10-23 09:42",
- "generated_at": "2026-10-23 09:42",
+ "fetched_at": "2026-10-24 05:31",
+ "generated_at": "2026-10-24 05:32",
  "period": {
-  "from": "2026-09-23 09:42",
-  "to": "2026-10-23 09:42",
+  "from": "2026-09-24 05:31",
+  "to": "2026-10-24 05:31",
   "days": 30
  },
- "streams_analyzed": 24,
- "streams_missed": 3,
- "unique_chatters": 2662,
+ "streams_analyzed": 23,
+ "streams_missed": 4,
+ "unique_chatters": 2632,
  "members_confirmed": 342,
  "member_classes": {
   "unknown": 310,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "AhyWeclwIbw",
-   "start": "2026-09-23 18:49",
-   "title": "【スト6】まぁどんとこいや【にじさんじ】",
-   "kind": "配信",
-   "chatters": 198,
-   "member_chatters": 71,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "LALeMjz7PLY",
    "start": "2026-09-24 20:00",
@@ -350,6 +340,18 @@
    "members_level": "オノヘッズ",
    "like_count": 123,
    "view_count": null
+  },
+  {
+   "video_id": "vMRvHtcg63U",
+   "start": "2026-10-23 00:00",
+   "title": "【オーバーウォッチ】大会スクリム！男虎ロボット初陣。　#わんおぺWIN  【 にじさんじ / 男虎】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 460,
+   "view_count": 19312
   }
  ],
  "members_only_content": [
@@ -433,10 +435,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-23"
+    "to": "2026-10-24"
    },
    "streams_analyzed": 16,
-   "streams_missed": 2,
+   "streams_missed": 3,
    "unique_chatters": 2015,
    "members_confirmed": 283,
    "member_classes": {

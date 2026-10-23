@@ -3,56 +3,56 @@
  "channel_id": "UCdh-YF2gTzqDNu0VU9lwPPw",
  "handle": "@ClaudeClawmark",
  "subscribers": 160000,
- "fetched_at": "2026-10-23 09:42",
- "generated_at": "2026-10-23 09:43",
+ "fetched_at": "2026-10-24 05:34",
+ "generated_at": "2026-10-24 05:34",
  "period": {
-  "from": "2026-09-23 09:42",
-  "to": "2026-10-23 09:42",
+  "from": "2026-09-24 05:34",
+  "to": "2026-10-24 05:34",
   "days": 30
  },
- "streams_analyzed": 23,
+ "streams_analyzed": 21,
  "streams_missed": 2,
- "unique_chatters": 1858,
- "members_confirmed": 715,
+ "unique_chatters": 1838,
+ "members_confirmed": 727,
  "member_classes": {
   "unknown": 303,
-  "known": 205,
-  "gift": 207
+  "known": 218,
+  "gift": 206
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 212
+   "members": 213
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 83
+   "members": 88
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 93
+   "members": 92
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 161
+   "members": 162
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 166
+   "members": 172
   }
  ],
  "events": {
-  "new_members": 12,
-  "rejoins": 10,
-  "milestones": 139,
-  "gift_purchases": 28,
-  "gifted_total": 207,
-  "gift_redemptions": 207
+  "new_members": 13,
+  "rejoins": 9,
+  "milestones": 155,
+  "gift_purchases": 27,
+  "gifted_total": 206,
+  "gift_redemptions": 206
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,21 +60,21 @@
    "tier": "Outclaws",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 205,
+   "confirmed_members": 218,
    "share_of_confirmed_pct": 100.0,
    "allocated_unknown": 303.0,
-   "estimated_members": 508.0,
-   "monthly_net_confirmed": 90014,
-   "monthly_net_estimated": 223058
+   "estimated_members": 521.0,
+   "monthly_net_confirmed": 95722,
+   "monthly_net_estimated": 228766
   }
  ],
  "revenue": {
-  "monthly_low": 223058,
-  "monthly_est": 223058,
-  "gift_once": 90892,
-  "total_low": 313950,
-  "total_est": 313950,
-  "paying_members": 508,
+  "monthly_low": 228766,
+  "monthly_est": 228766,
+  "gift_once": 90453,
+  "total_low": 319219,
+  "total_est": 319219,
+  "paying_members": 521,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,36 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "6EqmI1rvjjo",
-   "start": "2026-09-23 13:06",
-   "title": "【APEX LEGENDS】chopcon masters run?",
-   "kind": "配信",
-   "chatters": 104,
-   "member_chatters": 82,
-   "new_members": 0,
-   "gifted_total": 7
-  },
-  {
-   "video_id": "jp8wgytHnQU",
-   "start": "2026-09-23 18:21",
-   "title": "【VALORANT】da duo returns",
-   "kind": "配信",
-   "chatters": 249,
-   "member_chatters": 133,
-   "new_members": 2,
-   "gifted_total": 5
-  },
-  {
-   "video_id": "CIRnnQKs0_U",
-   "start": "2026-09-24 00:23",
-   "title": "Locomotive of Locusts",
-   "kind": "配信",
-   "chatters": 104,
-   "member_chatters": 68,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "CVv7vXccQ1s",
    "start": "2026-09-25 12:07",
@@ -312,6 +282,16 @@
    "member_chatters": 65,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "G7WtF-At5mU",
+   "start": "2026-10-23 09:59",
+   "title": "【雑談】good friday my fellow gamers",
+   "kind": "配信",
+   "chatters": 241,
+   "member_chatters": 171,
+   "new_members": 3,
+   "gifted_total": 11
   }
  ],
  "missed_streams": [
@@ -324,7 +304,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 136,
+   "like_count": 137,
    "view_count": null
   },
   {
@@ -336,8 +316,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 487,
-   "view_count": 11256
+   "like_count": 496,
+   "view_count": 11937
   }
  ],
  "members_only_content": [
@@ -348,7 +328,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 136,
+   "like_count": 137,
    "view_count": null
   }
  ],
@@ -419,60 +399,60 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-23"
+    "to": "2026-10-24"
    },
-   "streams_analyzed": 16,
+   "streams_analyzed": 17,
    "streams_missed": 1,
-   "unique_chatters": 1593,
-   "members_confirmed": 656,
+   "unique_chatters": 1654,
+   "members_confirmed": 694,
    "member_classes": {
-    "unknown": 269,
-    "known": 192,
-    "gift": 195
+    "unknown": 278,
+    "known": 210,
+    "gift": 206
    },
-   "long_term_members": 295,
+   "long_term_members": 313,
    "badges": [
     {
      "months": 0,
-     "members": 198
+     "members": 212
     },
     {
      "months": 1,
-     "members": 77
+     "members": 82
     },
     {
      "months": 6,
-     "members": 86
+     "members": 87
     },
     {
      "months": 12,
-     "members": 149
+     "members": 152
     },
     {
      "months": 24,
-     "members": 146
+     "members": 161
     }
    ],
    "events": {
-    "new_members": 10,
-    "rejoins": 6,
-    "milestones": 107,
-    "gifted_total": 195
+    "new_members": 13,
+    "rejoins": 7,
+    "milestones": 128,
+    "gifted_total": 206
    },
    "tiers": [
     {
      "tier": "Outclaws",
      "price": 690,
-     "confirmed_members": 192,
-     "estimated_members": 461.0
+     "confirmed_members": 210,
+     "estimated_members": 488.0
     }
    ],
    "revenue": {
-    "monthly_low": 202421,
-    "monthly_est": 202421,
-    "gift_once": 85623
+    "monthly_low": 214276,
+    "monthly_est": 214276,
+    "gift_once": 90453
    },
-   "avg_member_chatters": 125.6,
+   "avg_member_chatters": 128.3,
    "partial": true,
    "finalized": false
   }

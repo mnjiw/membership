@@ -3,27 +3,27 @@
  "channel_id": "UCQYwIUCLqFoin7lHKmePjJw",
  "handle": "@KlaraCharmwood",
  "subscribers": 110000,
- "fetched_at": "2026-10-23 09:43",
- "generated_at": "2026-10-23 09:43",
+ "fetched_at": "2026-10-24 05:34",
+ "generated_at": "2026-10-24 05:34",
  "period": {
-  "from": "2026-09-23 09:43",
-  "to": "2026-10-23 09:43",
+  "from": "2026-09-24 05:34",
+  "to": "2026-10-24 05:34",
   "days": 30
  },
- "streams_analyzed": 31,
- "streams_missed": 1,
- "unique_chatters": 4866,
- "members_confirmed": 583,
+ "streams_analyzed": 30,
+ "streams_missed": 2,
+ "unique_chatters": 4859,
+ "members_confirmed": 580,
  "member_classes": {
   "unknown": 166,
   "known": 118,
-  "gift": 299
+  "gift": 296
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 316
+   "members": 314
   },
   {
    "months": 1,
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 61
+   "members": 60
   },
   {
    "months": 24,
@@ -54,10 +54,10 @@
  "events": {
   "new_members": 24,
   "rejoins": 14,
-  "milestones": 104,
-  "gift_purchases": 79,
-  "gifted_total": 420,
-  "gift_redemptions": 305
+  "milestones": 88,
+  "gift_purchases": 76,
+  "gifted_total": 417,
+  "gift_redemptions": 302
  },
  "tiers_configured": true,
  "tiers": [
@@ -76,9 +76,9 @@
  "revenue": {
   "monthly_low": 88556,
   "monthly_est": 88556,
-  "gift_once": 130964,
-  "total_low": 219520,
-  "total_est": 219520,
+  "gift_once": 130028,
+  "total_low": 218585,
+  "total_est": 218585,
   "paying_members": 284,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "9U34sj6MTk4",
-   "start": "2026-09-23 20:00",
-   "title": "【ReStory: Chill Electronics Repairs】Maid Repairs Precious Memories【NIJISANJI EN | Klara Charmwood】",
-   "kind": "配信",
-   "chatters": 110,
-   "member_chatters": 72,
-   "new_members": 0,
-   "gifted_total": 3
-  },
   {
    "video_id": "n96pU1G4LAA",
    "start": "2026-09-24 19:59",
@@ -411,6 +401,18 @@
    "members_level": "Cuppanions",
    "like_count": 79,
    "view_count": null
+  },
+  {
+   "video_id": "tdjJKMel97g",
+   "start": "2026-10-23 00:00",
+   "title": "【Wand & Order】Maid Organises Magic Shop, You Sleep!【NIJISANJI EN | Klara Charmwood】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 448,
+   "view_count": 5585
   }
  ],
  "members_only_content": [
@@ -496,10 +498,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-23"
+    "to": "2026-10-24"
    },
    "streams_analyzed": 27,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 4802,
    "members_confirmed": 562,
    "member_classes": {

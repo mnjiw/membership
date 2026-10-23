@@ -3,15 +3,15 @@
  "channel_id": "UCtpB6Bvhs1Um93ziEDACQ8g",
  "handle": "@MorinakaKazaki",
  "subscribers": 335000,
- "fetched_at": "2026-10-23 09:38",
- "generated_at": "2026-10-23 09:38",
+ "fetched_at": "2026-10-24 05:18",
+ "generated_at": "2026-10-24 05:18",
  "period": {
-  "from": "2026-09-23 09:38",
-  "to": "2026-10-23 09:38",
+  "from": "2026-09-24 05:18",
+  "to": "2026-10-24 05:18",
   "days": 30
  },
  "streams_analyzed": 12,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 429,
  "members_confirmed": 108,
  "member_classes": {
@@ -236,7 +236,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "jOZQVHCgT6k",
+   "start": "2026-10-23 00:00",
+   "title": "【OW】いくぞ！ちる☆ぼた！スクリム１日目 #ちるぼたWIN 【森中花咲/にじさんじ所属】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 262,
+   "view_count": 7356
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -321,10 +334,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-23"
+    "to": "2026-10-24"
    },
    "streams_analyzed": 11,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 320,
    "members_confirmed": 83,
    "member_classes": {

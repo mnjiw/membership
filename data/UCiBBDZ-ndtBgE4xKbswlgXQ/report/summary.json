@@ -3,20 +3,20 @@
  "channel_id": "UCiBBDZ-ndtBgE4xKbswlgXQ",
  "handle": "@ItsukiSakyo",
  "subscribers": 164000,
- "fetched_at": "2026-10-23 09:41",
- "generated_at": "2026-10-23 09:42",
+ "fetched_at": "2026-10-24 05:31",
+ "generated_at": "2026-10-24 05:31",
  "period": {
-  "from": "2026-09-23 09:41",
-  "to": "2026-10-23 09:41",
+  "from": "2026-09-24 05:31",
+  "to": "2026-10-24 05:31",
   "days": 30
  },
- "streams_analyzed": 20,
- "streams_missed": 1,
- "unique_chatters": 2177,
- "members_confirmed": 411,
+ "streams_analyzed": 19,
+ "streams_missed": 2,
+ "unique_chatters": 2086,
+ "members_confirmed": 409,
  "member_classes": {
-  "unknown": 345,
   "known": 43,
+  "unknown": 343,
   "gift": 23
  },
  "badges": [
@@ -38,12 +38,12 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 69
+   "members": 68
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 236
+   "members": 235
   }
  ],
  "events": {
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 43,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 345.0,
-   "estimated_members": 388.0,
+   "allocated_unknown": 343.0,
+   "estimated_members": 386.0,
    "monthly_net_confirmed": 13408,
-   "monthly_net_estimated": 120985
+   "monthly_net_estimated": 120362
   }
  ],
  "revenue": {
-  "monthly_low": 120985,
-  "monthly_est": 120985,
+  "monthly_low": 120362,
+  "monthly_est": 120362,
   "gift_once": 7172,
-  "total_low": 128157,
-  "total_est": 128157,
-  "paying_members": 388,
+  "total_low": 127534,
+  "total_est": 127534,
+  "paying_members": 386,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "APc0p-zF5rc",
-   "start": "2026-09-23 19:01",
-   "title": "#マイクラ肝試し2026 年に一度のお祭り肝試しに初参戦！観光しまくります！！【にじさんじ / 五木左京】",
-   "kind": "配信",
-   "chatters": 310,
-   "member_chatters": 129,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "JoPMVP9AblA",
    "start": "2026-09-24 21:00",
@@ -294,8 +284,20 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 171,
+   "like_count": 172,
    "view_count": null
+  },
+  {
+   "video_id": "jIj8QDCa6EY",
+   "start": "2026-10-23 00:00",
+   "title": "【OW】#にじEX_OW #ちるぼたWIN｜チームスクリムDAY1！最適化最適化最適化【にじさんじ / 五木左京】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 357,
+   "view_count": 11597
   }
  ],
  "members_only_content": [
@@ -306,7 +308,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 171,
+   "like_count": 172,
    "view_count": null
   }
  ],
@@ -377,10 +379,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-23"
+    "to": "2026-10-24"
    },
    "streams_analyzed": 14,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 997,
    "members_confirmed": 324,
    "member_classes": {

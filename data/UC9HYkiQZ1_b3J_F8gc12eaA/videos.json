@@ -165,8 +165,8 @@
    "checked_at": "2026-10-07 12:46",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1792701314.886126,
-   "likes_checked_at": "2026-10-23 05:35"
+   "likes_checked_ts": 1792787526.6633265,
+   "likes_checked_at": "2026-10-24 05:32"
   },
   "qoG0uQPUaKA": {
    "id": "qoG0uQPUaKA",
@@ -960,11 +960,22 @@
   "cP520G-Iur0": {
    "id": "cP520G-Iur0",
    "title": "【OW】#にじEX_OW  課題がたくさんあります。 W / Rei7【塚原大地 / にじさんじ】",
-   "status": "error",
+   "kind": "video",
+   "start_ts": 1792508400.0,
+   "start_jst": "2026-10-21 00:00",
+   "duration_sec": null,
+   "view_count": 29753,
+   "like_count": 480,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": false,
+   "checked_at": "2026-10-24 05:32",
+   "info_limited": true,
    "seen_live_at": "2026-10-22 05:32",
    "was_public_when_live": true,
-   "error": "ERROR: [youtube] Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://githu",
-   "unavailable": true,
+   "error": "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)",
+   "tab": "live",
+   "status": "error",
    "failed_since_ts": 1792629867.9946458
   },
   "ECQ502JLLCA": {
@@ -985,14 +996,21 @@
    "was_public_when_live": true,
    "start_from_chat": true,
    "status": "ok"
+  },
+  "Do_o01SsqY0": {
+   "id": "Do_o01SsqY0",
+   "title": "【OW】 #にじEX_OW スクリムいくぜ。初陣じゃァ！！ W / D4P4【塚原大地 / にじさんじ】",
+   "status": "live_now",
+   "seen_live_at": "2026-10-24 05:32",
+   "was_public_when_live": true
   }
  },
  "channel": "塚原大地 / Tsukahara Daichi【にじさんじ】",
  "channel_id": "UC9HYkiQZ1_b3J_F8gc12eaA",
  "handle": "@TsukaharaDaichi_Y4T4",
- "subscribers": 118000,
- "fetched_at": "2026-10-23 09:42",
- "fetched_at_ts": 1792716147.6382368,
- "checked_from": "2026-10-16 09:42",
+ "subscribers": 119000,
+ "fetched_at": "2026-10-24 05:32",
+ "fetched_at_ts": 1792787526.6633265,
+ "checked_from": "2026-10-17 05:32",
  "initial_fetch_done": true
 }

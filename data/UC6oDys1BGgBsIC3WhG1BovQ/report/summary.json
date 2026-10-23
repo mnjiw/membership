@@ -3,37 +3,37 @@
  "channel_id": "UC6oDys1BGgBsIC3WhG1BovQ",
  "handle": "@ShizukaRin",
  "subscribers": 398000,
- "fetched_at": "2026-10-23 09:38",
- "generated_at": "2026-10-23 09:38",
+ "fetched_at": "2026-10-24 05:18",
+ "generated_at": "2026-10-24 05:18",
  "period": {
-  "from": "2026-09-23 09:38",
-  "to": "2026-10-23 09:38",
+  "from": "2026-09-24 05:18",
+  "to": "2026-10-24 05:18",
   "days": 30
  },
  "streams_analyzed": 32,
- "streams_missed": 5,
- "unique_chatters": 1131,
- "members_confirmed": 307,
+ "streams_missed": 4,
+ "unique_chatters": 1138,
+ "members_confirmed": 310,
  "member_classes": {
-  "known": 28,
-  "unknown": 228,
+  "unknown": 232,
+  "known": 27,
   "gift": 51
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 66
+   "members": 65
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 4
+   "members": 5
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 9
+   "members": 11
   },
   {
    "months": 6,
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 28
+   "members": 30
   },
   {
    "months": 24,
@@ -58,13 +58,13 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 146
+   "members": 145
   }
  ],
  "events": {
   "new_members": 7,
-  "rejoins": 4,
-  "milestones": 13,
+  "rejoins": 3,
+  "milestones": 14,
   "gift_purchases": 14,
   "gifted_total": 51,
   "gift_redemptions": 51
@@ -75,21 +75,21 @@
    "tier": "しずりんのメンバーシップだよ！",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 28,
+   "confirmed_members": 27,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 228.0,
-   "estimated_members": 256.0,
-   "monthly_net_confirmed": 8731,
-   "monthly_net_estimated": 79825
+   "allocated_unknown": 232.0,
+   "estimated_members": 259.0,
+   "monthly_net_confirmed": 8419,
+   "monthly_net_estimated": 80761
   }
  ],
  "revenue": {
-  "monthly_low": 79825,
-  "monthly_est": 79825,
+  "monthly_low": 80761,
+  "monthly_est": 80761,
   "gift_once": 15903,
-  "total_low": 95728,
-  "total_est": 95728,
-  "paying_members": 256,
+  "total_low": 96664,
+  "total_est": 96664,
+  "paying_members": 259,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "k8Yw70gFIj8",
-   "start": "2026-09-23 19:29",
-   "title": "⛏️ 24 | マイクラでRPG❗️ | #えみクラ【静凛/にじさんじ】",
-   "kind": "配信",
-   "chatters": 101,
-   "member_chatters": 68,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "WfskK58uyDg",
    "start": "2026-09-24 21:48",
@@ -417,6 +407,16 @@
    "member_chatters": 68,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "an2sytp87NQ",
+   "start": "2026-10-22 22:21",
+   "title": "2026 10 22",
+   "kind": "配信",
+   "chatters": 115,
+   "member_chatters": 84,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -467,18 +467,6 @@
    "members_level": "",
    "like_count": 91,
    "view_count": null
-  },
-  {
-   "video_id": "an2sytp87NQ",
-   "start": "2026-10-22 00:00",
-   "title": "2026 10 22",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 1172,
-   "view_count": 75585
   }
  ],
  "members_only_content": [
@@ -602,18 +590,18 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-23"
+    "to": "2026-10-24"
    },
-   "streams_analyzed": 21,
-   "streams_missed": 4,
-   "unique_chatters": 839,
-   "members_confirmed": 253,
+   "streams_analyzed": 22,
+   "streams_missed": 3,
+   "unique_chatters": 857,
+   "members_confirmed": 260,
    "member_classes": {
-    "unknown": 192,
+    "unknown": 199,
     "known": 21,
     "gift": 40
    },
-   "long_term_members": 171,
+   "long_term_members": 175,
    "badges": [
     {
      "months": 0,
@@ -621,11 +609,11 @@
     },
     {
      "months": 1,
-     "members": 4
+     "members": 5
     },
     {
      "months": 2,
-     "members": 8
+     "members": 10
     },
     {
      "months": 6,
@@ -633,7 +621,7 @@
     },
     {
      "months": 12,
-     "members": 26
+     "members": 28
     },
     {
      "months": 24,
@@ -645,13 +633,13 @@
     },
     {
      "months": 48,
-     "members": 119
+     "members": 121
     }
    ],
    "events": {
     "new_members": 5,
     "rejoins": 2,
-    "milestones": 5,
+    "milestones": 6,
     "gifted_total": 40
    },
    "tiers": [
@@ -659,15 +647,15 @@
      "tier": "しずりんのメンバーシップだよ！",
      "price": 490,
      "confirmed_members": 21,
-     "estimated_members": 213.0
+     "estimated_members": 220.0
     }
    ],
    "revenue": {
-    "monthly_low": 66417,
-    "monthly_est": 66417,
+    "monthly_low": 68600,
+    "monthly_est": 68600,
     "gift_once": 12473
    },
-   "avg_member_chatters": 72.6,
+   "avg_member_chatters": 73.1,
    "partial": true,
    "finalized": false
   }

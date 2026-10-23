@@ -3,20 +3,20 @@
  "channel_id": "UCkngxfPbmGyGl_RIq4FA3MQ",
  "handle": "@NishizonoChigusa",
  "subscribers": 709000,
- "fetched_at": "2026-10-23 09:40",
- "generated_at": "2026-10-23 09:40",
+ "fetched_at": "2026-10-24 05:25",
+ "generated_at": "2026-10-24 05:25",
  "period": {
-  "from": "2026-09-23 09:40",
-  "to": "2026-10-23 09:40",
+  "from": "2026-09-24 05:25",
+  "to": "2026-10-24 05:25",
   "days": 30
  },
  "streams_analyzed": 19,
  "streams_missed": 4,
- "unique_chatters": 3785,
+ "unique_chatters": 3697,
  "members_confirmed": 234,
  "member_classes": {
-  "known": 21,
-  "unknown": 206,
+  "unknown": 205,
+  "known": 22,
   "gift": 7
  },
  "badges": [
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 44
+   "members": 43
   },
   {
    "months": 24,
@@ -58,13 +58,13 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 61
+   "members": 62
   }
  ],
  "events": {
   "new_members": 5,
   "rejoins": 2,
-  "milestones": 9,
+  "milestones": 10,
   "gift_purchases": 3,
   "gifted_total": 7,
   "gift_redemptions": 7
@@ -75,31 +75,31 @@
    "tier": "ちぐにゃーの巣",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 16,
-   "share_of_confirmed_pct": 76.2,
-   "allocated_unknown": 157.0,
-   "estimated_members": 173.0,
-   "monthly_net_confirmed": 4989,
-   "monthly_net_estimated": 53930
+   "confirmed_members": 17,
+   "share_of_confirmed_pct": 77.3,
+   "allocated_unknown": 158.4,
+   "estimated_members": 175.4,
+   "monthly_net_confirmed": 5301,
+   "monthly_net_estimated": 54696
   },
   {
    "tier": "ちぐにゃーの裏庭",
    "price": 1190,
    "net_per_member": 757.3,
    "confirmed_members": 5,
-   "share_of_confirmed_pct": 23.8,
-   "allocated_unknown": 49.0,
-   "estimated_members": 54.0,
+   "share_of_confirmed_pct": 22.7,
+   "allocated_unknown": 46.6,
+   "estimated_members": 51.6,
    "monthly_net_confirmed": 3786,
-   "monthly_net_estimated": 40929
+   "monthly_net_estimated": 39068
   }
  ],
  "revenue": {
   "monthly_low": 73010,
-  "monthly_est": 94858,
+  "monthly_est": 93764,
   "gift_once": 2183,
   "total_low": 75193,
-  "total_est": 97041,
+  "total_est": 95947,
   "paying_members": 227,
   "single_tier": false,
   "tax_rate": 0.1,
@@ -109,16 +109,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "N09pozK1hsY",
-   "start": "2026-09-23 17:03",
-   "title": "【 ゼンゼロ 】シーズン３第３章「秘密と、過去と、彼女たちと」その間に入り込む私【 にじさんじ / 西園チグサ 】",
-   "kind": "配信",
-   "chatters": 343,
-   "member_chatters": 33,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "IPH1M_rX_2A",
    "start": "2026-09-26 08:02",
@@ -298,6 +288,16 @@
    "member_chatters": 52,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "mNStzxaHv6E",
+   "start": "2026-10-23 20:38",
+   "title": "【 原神 】予告番組 Ver.7.2「終焉へ墜ちる時」終始音量注意とさせていただく【 にじさんじ / 西園チグサ 】",
+   "kind": "配信",
+   "chatters": 279,
+   "member_chatters": 44,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -346,7 +346,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "ちぐにゃーの巣",
-   "like_count": 879,
+   "like_count": 880,
    "view_count": null
   }
  ],
@@ -388,7 +388,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "ちぐにゃーの巣",
-   "like_count": 879,
+   "like_count": 880,
    "view_count": null
   }
  ],
@@ -477,18 +477,18 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-23"
+    "to": "2026-10-24"
    },
-   "streams_analyzed": 14,
+   "streams_analyzed": 15,
    "streams_missed": 3,
-   "unique_chatters": 2637,
-   "members_confirmed": 189,
+   "unique_chatters": 2706,
+   "members_confirmed": 190,
    "member_classes": {
-    "known": 18,
+    "known": 19,
     "unknown": 170,
     "gift": 1
    },
-   "long_term_members": 128,
+   "long_term_members": 129,
    "badges": [
     {
      "months": 0,
@@ -520,35 +520,35 @@
     },
     {
      "months": 48,
-     "members": 55
+     "members": 56
     }
    ],
    "events": {
     "new_members": 5,
     "rejoins": 0,
-    "milestones": 8,
+    "milestones": 9,
     "gifted_total": 1
    },
    "tiers": [
     {
      "tier": "ちぐにゃーの巣",
      "price": 490,
-     "confirmed_members": 13,
-     "estimated_members": 135.8
+     "confirmed_members": 14,
+     "estimated_members": 139.3
     },
     {
      "tier": "ちぐにゃーの裏庭",
      "price": 1190,
      "confirmed_members": 5,
-     "estimated_members": 52.2
+     "estimated_members": 49.7
     }
    ],
    "revenue": {
-    "monthly_low": 60849,
-    "monthly_est": 81884,
+    "monthly_low": 61161,
+    "monthly_est": 81089,
     "gift_once": 312
    },
-   "avg_member_chatters": 42.5,
+   "avg_member_chatters": 42.6,
    "partial": true,
    "finalized": false
   }

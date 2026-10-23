@@ -3,27 +3,27 @@
  "channel_id": "UC_4QF0dL-9XI9VajsNkMtmQ",
  "handle": "@Rei7_Y4T4",
  "subscribers": 176000,
- "fetched_at": "2026-10-23 09:42",
- "generated_at": "2026-10-23 09:42",
+ "fetched_at": "2026-10-24 05:32",
+ "generated_at": "2026-10-24 05:32",
  "period": {
-  "from": "2026-09-23 09:42",
-  "to": "2026-10-23 09:42",
+  "from": "2026-09-24 05:32",
+  "to": "2026-10-24 05:32",
   "days": 30
  },
- "streams_analyzed": 32,
- "streams_missed": 2,
- "unique_chatters": 6131,
- "members_confirmed": 740,
+ "streams_analyzed": 31,
+ "streams_missed": 3,
+ "unique_chatters": 6047,
+ "members_confirmed": 733,
  "member_classes": {
-  "unknown": 667,
-  "known": 57,
+  "unknown": 662,
+  "known": 55,
   "gift": 16
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 113
+   "members": 108
   },
   {
    "months": 1,
@@ -33,11 +33,11 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 544
+   "members": 542
   }
  ],
  "events": {
-  "new_members": 35,
+  "new_members": 33,
   "rejoins": 7,
   "milestones": 0,
   "gift_purchases": 4,
@@ -50,21 +50,21 @@
    "tier": "Ris7",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 57,
+   "confirmed_members": 55,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 667.0,
-   "estimated_members": 724.0,
-   "monthly_net_confirmed": 17774,
-   "monthly_net_estimated": 225756
+   "allocated_unknown": 662.0,
+   "estimated_members": 717.0,
+   "monthly_net_confirmed": 17150,
+   "monthly_net_estimated": 223574
   }
  ],
  "revenue": {
-  "monthly_low": 225756,
-  "monthly_est": 225756,
+  "monthly_low": 223574,
+  "monthly_est": 223574,
   "gift_once": 5301,
-  "total_low": 231057,
-  "total_est": 231057,
-  "paying_members": 724,
+  "total_low": 228875,
+  "total_est": 228875,
+  "paying_members": 717,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "94J-ocqyiis",
-   "start": "2026-09-23 18:00",
-   "title": "【 スト6 】Mジュリ/D4~ / 日々鍛錬【 Rei7 / にじさんじ 】",
-   "kind": "配信",
-   "chatters": 423,
-   "member_chatters": 122,
-   "new_members": 2,
-   "gifted_total": 0
-  },
   {
    "video_id": "ZAgcP3Ir6k8",
    "start": "2026-09-24 06:59",
@@ -416,8 +406,20 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 1222,
-   "view_count": 76943
+   "like_count": 1261,
+   "view_count": 81201
+  },
+  {
+   "video_id": "VKwE0uB-yOY",
+   "start": "2026-10-23 00:00",
+   "title": "【 Overwatch 】#にじEX_OW スクリム初日。ﾀﾞﾊﾟｰｰｰｰｰ 【 Rei7 / にじさんじ 】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 554,
+   "view_count": 30425
   }
  ],
  "members_only_content": [
@@ -491,10 +493,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-23"
+    "to": "2026-10-24"
    },
    "streams_analyzed": 24,
-   "streams_missed": 2,
+   "streams_missed": 3,
    "unique_chatters": 4513,
    "members_confirmed": 614,
    "member_classes": {

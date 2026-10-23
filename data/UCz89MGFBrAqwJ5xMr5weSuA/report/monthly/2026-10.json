@@ -2,64 +2,68 @@
  "month": "2026-10",
  "coverage": {
   "from": "2026-10-01",
-  "to": "2026-10-23"
+  "to": "2026-10-24"
  },
- "streams_analyzed": 16,
+ "streams_analyzed": 17,
  "streams_missed": 0,
- "unique_chatters": 7000,
- "members_confirmed": 2609,
+ "unique_chatters": 7706,
+ "members_confirmed": 2875,
  "member_classes": {
-  "unknown": 2027,
-  "known": 476,
-  "gift": 106
+  "unknown": 2104,
+  "known": 640,
+  "gift": 131
  },
- "long_term_members": 1450,
+ "long_term_members": 1611,
  "badges": [
   {
    "months": 0,
-   "members": 240
+   "members": 311
   },
   {
    "months": 1,
-   "members": 84
+   "members": 89
   },
   {
    "months": 2,
-   "members": 406
+   "members": 437
   },
   {
    "months": 6,
-   "members": 429
+   "members": 427
   },
   {
    "months": 12,
-   "members": 929
+   "members": 1042
   },
   {
    "months": 24,
-   "members": 521
+   "members": 461
+  },
+  {
+   "months": 36,
+   "members": 108
   }
  ],
  "events": {
-  "new_members": 71,
-  "rejoins": 26,
-  "milestones": 334,
-  "gifted_total": 108
+  "new_members": 114,
+  "rejoins": 33,
+  "milestones": 485,
+  "gifted_total": 134
  },
  "tiers": [
   {
    "tier": "伊波すたじお",
    "price": 490,
-   "confirmed_members": 476,
-   "estimated_members": 2503.0
+   "confirmed_members": 640,
+   "estimated_members": 2744.0
   }
  ],
  "revenue": {
-  "monthly_low": 780481,
-  "monthly_est": 780481,
-  "gift_once": 33676
+  "monthly_low": 855629,
+  "monthly_est": 855629,
+  "gift_once": 41784
  },
- "avg_member_chatters": 762,
+ "avg_member_chatters": 813.2,
  "partial": true,
  "finalized": false
 }
