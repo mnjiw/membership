@@ -3,16 +3,16 @@
  "channel_id": "UCWRPqA0ehhWV4Hnp27PJCkQ",
  "handle": "@ShishidoAkari",
  "subscribers": 351000,
- "fetched_at": "2026-10-23 05:29",
- "generated_at": "2026-10-23 05:29",
+ "fetched_at": "2026-10-23 09:41",
+ "generated_at": "2026-10-23 09:41",
  "period": {
-  "from": "2026-09-23 05:29",
-  "to": "2026-10-23 05:29",
+  "from": "2026-09-23 09:41",
+  "to": "2026-10-23 09:41",
   "days": 30
  },
- "streams_analyzed": 14,
- "streams_missed": 3,
- "unique_chatters": 1451,
+ "streams_analyzed": 15,
+ "streams_missed": 2,
+ "unique_chatters": 1467,
  "members_confirmed": 289,
  "member_classes": {
   "unknown": 265,
@@ -22,12 +22,12 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 18
+   "members": 17
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 7
+   "members": 8
   },
   {
    "months": 2,
@@ -47,12 +47,12 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 71
+   "members": 70
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 50
+   "members": 51
   }
  ],
  "events": {
@@ -231,6 +231,16 @@
    "member_chatters": 111,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "t9B6FKjWTXI",
+   "start": "2026-10-22 18:31",
+   "title": "【 #LTK 】CCnextスクリム！久しぶりにスクリムだぁ！！【にじさんじ/獅子堂あかり】",
+   "kind": "配信",
+   "chatters": 173,
+   "member_chatters": 72,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -257,18 +267,6 @@
    "members_level": "",
    "like_count": 148,
    "view_count": null
-  },
-  {
-   "video_id": "t9B6FKjWTXI",
-   "start": "2026-10-22 00:00",
-   "title": "【 #LTK 】CCnextスクリム！久しぶりにスクリムだぁ！！【にじさんじ/獅子堂あかり】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 623,
-   "view_count": 51245
   }
  ],
  "members_only_content": [
@@ -370,23 +368,23 @@
     "from": "2026-10-01",
     "to": "2026-10-23"
    },
-   "streams_analyzed": 13,
-   "streams_missed": 2,
-   "unique_chatters": 1290,
-   "members_confirmed": 266,
+   "streams_analyzed": 14,
+   "streams_missed": 1,
+   "unique_chatters": 1307,
+   "members_confirmed": 267,
    "member_classes": {
-    "unknown": 243,
+    "unknown": 244,
     "known": 23
    },
-   "long_term_members": 187,
+   "long_term_members": 188,
    "badges": [
     {
      "months": 0,
-     "members": 16
+     "members": 15
     },
     {
      "months": 1,
-     "members": 6
+     "members": 7
     },
     {
      "months": 2,
@@ -398,15 +396,15 @@
     },
     {
      "months": 12,
-     "members": 78
+     "members": 79
     },
     {
      "months": 24,
-     "members": 64
+     "members": 63
     },
     {
      "months": 36,
-     "members": 45
+     "members": 46
     }
    ],
    "events": {
@@ -420,15 +418,15 @@
      "tier": "ブリーダー(仮)",
      "price": 490,
      "confirmed_members": 23,
-     "estimated_members": 266.0
+     "estimated_members": 267.0
     }
    ],
    "revenue": {
-    "monthly_low": 82944,
-    "monthly_est": 82944,
+    "monthly_low": 83255,
+    "monthly_est": 83255,
     "gift_once": 0
    },
-   "avg_member_chatters": 93.8,
+   "avg_member_chatters": 92.2,
    "partial": true,
    "finalized": false
   }

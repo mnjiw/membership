@@ -3,19 +3,19 @@
  "channel_id": "UCFimqykDM5g9a5KxlW_e7ZQ",
  "handle": "@Onotora_Y4T4",
  "subscribers": 123000,
- "fetched_at": "2026-10-23 05:34",
- "generated_at": "2026-10-23 05:35",
+ "fetched_at": "2026-10-23 09:42",
+ "generated_at": "2026-10-23 09:42",
  "period": {
-  "from": "2026-09-23 05:34",
-  "to": "2026-10-23 05:34",
+  "from": "2026-09-23 09:42",
+  "to": "2026-10-23 09:42",
   "days": 30
  },
- "streams_analyzed": 23,
- "streams_missed": 4,
- "unique_chatters": 2649,
- "members_confirmed": 341,
+ "streams_analyzed": 24,
+ "streams_missed": 3,
+ "unique_chatters": 2662,
+ "members_confirmed": 342,
  "member_classes": {
-  "unknown": 309,
+  "unknown": 310,
   "known": 19,
   "gift": 13
  },
@@ -23,17 +23,17 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 57
+   "members": 58
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 45
+   "members": 44
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 239
+   "members": 240
   }
  ],
  "events": {
@@ -52,19 +52,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 19,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 309.0,
-   "estimated_members": 328.0,
+   "allocated_unknown": 310.0,
+   "estimated_members": 329.0,
    "monthly_net_confirmed": 5925,
-   "monthly_net_estimated": 102276
+   "monthly_net_estimated": 102588
   }
  ],
  "revenue": {
-  "monthly_low": 102276,
-  "monthly_est": 102276,
+  "monthly_low": 102588,
+  "monthly_est": 102588,
   "gift_once": 4054,
-  "total_low": 106330,
-  "total_est": 106330,
-  "paying_members": 328,
+  "total_low": 106642,
+  "total_est": 106642,
+  "paying_members": 329,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -302,6 +302,16 @@
    "member_chatters": 84,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "UNjZyztLYYk",
+   "start": "2026-10-22 22:00",
+   "title": "【オーバーウォッチ】大会練習5日目！わんおぺ所属、男虎ロボット発進します。【 にじさんじ / 男虎】",
+   "kind": "配信",
+   "chatters": 130,
+   "member_chatters": 78,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -340,18 +350,6 @@
    "members_level": "オノヘッズ",
    "like_count": 123,
    "view_count": null
-  },
-  {
-   "video_id": "UNjZyztLYYk",
-   "start": "2026-10-22 00:00",
-   "title": "【オーバーウォッチ】大会練習5日目！わんおぺ所属、男虎ロボット発進します。【 にじさんじ / 男虎】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 376,
-   "view_count": 17510
   }
  ],
  "members_only_content": [
@@ -437,12 +435,12 @@
     "from": "2026-10-01",
     "to": "2026-10-23"
    },
-   "streams_analyzed": 15,
-   "streams_missed": 3,
-   "unique_chatters": 2001,
-   "members_confirmed": 281,
+   "streams_analyzed": 16,
+   "streams_missed": 2,
+   "unique_chatters": 2015,
+   "members_confirmed": 283,
    "member_classes": {
-    "unknown": 255,
+    "unknown": 257,
     "known": 15,
     "gift": 11
    },
@@ -450,15 +448,15 @@
    "badges": [
     {
      "months": 0,
-     "members": 46
+     "members": 47
     },
     {
      "months": 1,
-     "members": 35
+     "members": 34
     },
     {
      "months": 2,
-     "members": 200
+     "members": 202
     }
    ],
    "events": {
@@ -472,15 +470,15 @@
      "tier": "オノヘッズ",
      "price": 490,
      "confirmed_members": 15,
-     "estimated_members": 270.0
+     "estimated_members": 272.0
     }
    ],
    "revenue": {
-    "monthly_low": 84191,
-    "monthly_est": 84191,
+    "monthly_low": 84815,
+    "monthly_est": 84815,
     "gift_once": 3430
    },
-   "avg_member_chatters": 91.6,
+   "avg_member_chatters": 90.8,
    "partial": true,
    "finalized": false
   }
