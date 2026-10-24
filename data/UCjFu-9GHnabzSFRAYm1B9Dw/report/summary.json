@@ -2,16 +2,16 @@
  "channel": "Etna Crimson【NIJISANJI / にじさんじ】",
  "channel_id": "UCjFu-9GHnabzSFRAYm1B9Dw",
  "handle": "@EtnaCrimson",
- "subscribers": 60300,
- "fetched_at": "2026-10-24 09:40",
- "generated_at": "2026-10-24 09:40",
+ "subscribers": 60400,
+ "fetched_at": "2026-10-25 05:29",
+ "generated_at": "2026-10-25 05:29",
  "period": {
-  "from": "2026-09-24 09:40",
-  "to": "2026-10-24 09:40",
+  "from": "2026-09-25 05:29",
+  "to": "2026-10-25 05:29",
   "days": 30
  },
  "streams_analyzed": 4,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 209,
  "members_confirmed": 12,
  "member_classes": {
@@ -124,17 +124,30 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "OIp1N3nc4Tg",
+   "start": "2026-10-24 00:00",
+   "title": "LANJUT MAIN ROBOT-ROBOTAN【Armored Core VI: Fires of Rubicon // PART 2】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 223,
+   "view_count": 2331
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-13",
-    "to": "2026-10-24"
+    "to": "2026-10-25"
    },
    "streams_analyzed": 4,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 209,
    "members_confirmed": 12,
    "member_classes": {

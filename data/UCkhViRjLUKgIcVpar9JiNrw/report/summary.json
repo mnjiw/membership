@@ -3,27 +3,27 @@
  "channel_id": "UCkhViRjLUKgIcVpar9JiNrw",
  "handle": "@TamanoiNana",
  "subscribers": 363000,
- "fetched_at": "2026-10-24 09:41",
- "generated_at": "2026-10-24 09:41",
+ "fetched_at": "2026-10-25 05:33",
+ "generated_at": "2026-10-25 05:35",
  "period": {
-  "from": "2026-09-24 09:41",
-  "to": "2026-10-24 09:41",
+  "from": "2026-09-25 05:33",
+  "to": "2026-10-25 05:33",
   "days": 30
  },
- "streams_analyzed": 12,
+ "streams_analyzed": 13,
  "streams_missed": 2,
- "unique_chatters": 2866,
- "members_confirmed": 614,
+ "unique_chatters": 3003,
+ "members_confirmed": 625,
  "member_classes": {
-  "unknown": 529,
-  "known": 40,
-  "gift": 45
+  "unknown": 532,
+  "known": 43,
+  "gift": 50
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 79
+   "members": 85
   },
   {
    "months": 1,
@@ -38,26 +38,26 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 80
+   "members": 82
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 188
+   "members": 189
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 192
+   "members": 194
   }
  ],
  "events": {
   "new_members": 17,
   "rejoins": 3,
-  "milestones": 14,
-  "gift_purchases": 6,
-  "gifted_total": 45,
-  "gift_redemptions": 45
+  "milestones": 16,
+  "gift_purchases": 7,
+  "gifted_total": 50,
+  "gift_redemptions": 50
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +65,21 @@
    "tier": "ななかま",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 40,
+   "confirmed_members": 43,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 529.0,
-   "estimated_members": 569.0,
-   "monthly_net_confirmed": 12473,
-   "monthly_net_estimated": 177425
+   "allocated_unknown": 532.0,
+   "estimated_members": 575.0,
+   "monthly_net_confirmed": 13408,
+   "monthly_net_estimated": 179295
   }
  ],
  "revenue": {
-  "monthly_low": 177425,
-  "monthly_est": 177425,
-  "gift_once": 14032,
-  "total_low": 191456,
-  "total_est": 191456,
-  "paying_members": 569,
+  "monthly_low": 179295,
+  "monthly_est": 179295,
+  "gift_once": 15591,
+  "total_low": 194886,
+  "total_est": 194886,
+  "paying_members": 575,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -207,6 +207,16 @@
    "member_chatters": 278,
    "new_members": 3,
    "gifted_total": 0
+  },
+  {
+   "video_id": "Y9k3uyqqZvk",
+   "start": "2026-10-24 21:02",
+   "title": "【 魔法少女ノ魔女裁判 】#17 どうしてえええええええ【にじさんじ / 珠乃井ナナ】",
+   "kind": "配信",
+   "chatters": 788,
+   "member_chatters": 178,
+   "new_members": 0,
+   "gifted_total": 5
   }
  ],
  "missed_streams": [
@@ -328,22 +338,22 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-24"
+    "to": "2026-10-25"
    },
-   "streams_analyzed": 8,
+   "streams_analyzed": 9,
    "streams_missed": 2,
-   "unique_chatters": 2053,
-   "members_confirmed": 450,
+   "unique_chatters": 2231,
+   "members_confirmed": 467,
    "member_classes": {
-    "unknown": 412,
-    "known": 28,
-    "gift": 10
+    "unknown": 421,
+    "known": 31,
+    "gift": 15
    },
-   "long_term_members": 299,
+   "long_term_members": 307,
    "badges": [
     {
      "months": 0,
-     "members": 37
+     "members": 43
     },
     {
      "months": 1,
@@ -355,35 +365,35 @@
     },
     {
      "months": 6,
-     "members": 56
+     "members": 59
     },
     {
      "months": 12,
-     "members": 149
+     "members": 152
     },
     {
      "months": 24,
-     "members": 150
+     "members": 155
     }
    ],
    "events": {
     "new_members": 8,
     "rejoins": 1,
-    "milestones": 6,
-    "gifted_total": 10
+    "milestones": 8,
+    "gifted_total": 15
    },
    "tiers": [
     {
      "tier": "ななかま",
      "price": 490,
-     "confirmed_members": 28,
-     "estimated_members": 440.0
+     "confirmed_members": 31,
+     "estimated_members": 452.0
     }
    ],
    "revenue": {
-    "monthly_low": 137200,
-    "monthly_est": 137200,
-    "gift_once": 3118
+    "monthly_low": 140942,
+    "monthly_est": 140942,
+    "gift_once": 4677
    },
    "avg_member_chatters": 178.6,
    "partial": true,

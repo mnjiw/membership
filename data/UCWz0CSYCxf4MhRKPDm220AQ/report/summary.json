@@ -3,15 +3,15 @@
  "channel_id": "UCWz0CSYCxf4MhRKPDm220AQ",
  "handle": "@KandaShoichi",
  "subscribers": 268000,
- "fetched_at": "2026-10-24 09:39",
- "generated_at": "2026-10-24 09:39",
+ "fetched_at": "2026-10-25 05:21",
+ "generated_at": "2026-10-25 05:21",
  "period": {
-  "from": "2026-09-24 09:39",
-  "to": "2026-10-24 09:39",
+  "from": "2026-09-25 05:21",
+  "to": "2026-10-25 05:21",
   "days": 30
  },
  "streams_analyzed": 19,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 1014,
  "members_confirmed": 75,
  "member_classes": {
@@ -268,7 +268,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "hSeOQaQb6hg",
+   "start": "2026-10-24 00:00",
+   "title": "【 #10 FE万紫千紅 】 ディートリヒ編 第1部12章！ディーさん編もそろそろ佳境か…！ 【 ファイアーエムブレム万紫千紅 / 神田笑一 / にじさんじ 】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 189,
+   "view_count": 12302
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -332,10 +345,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-24"
+    "to": "2026-10-25"
    },
    "streams_analyzed": 13,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 946,
    "members_confirmed": 63,
    "member_classes": {

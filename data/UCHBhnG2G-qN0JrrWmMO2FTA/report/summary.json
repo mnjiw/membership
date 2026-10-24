@@ -3,26 +3,26 @@
  "channel_id": "UCHBhnG2G-qN0JrrWmMO2FTA",
  "handle": "@ShellinBurgundy",
  "subscribers": 408000,
- "fetched_at": "2026-10-24 09:39",
- "generated_at": "2026-10-24 09:39",
+ "fetched_at": "2026-10-25 05:25",
+ "generated_at": "2026-10-25 05:26",
  "period": {
-  "from": "2026-09-24 09:39",
-  "to": "2026-10-24 09:39",
+  "from": "2026-09-25 05:25",
+  "to": "2026-10-25 05:25",
   "days": 30
  },
  "streams_analyzed": 5,
  "streams_missed": 0,
- "unique_chatters": 612,
- "members_confirmed": 250,
+ "unique_chatters": 656,
+ "members_confirmed": 252,
  "member_classes": {
-  "unknown": 248,
-  "known": 2
+  "unknown": 249,
+  "known": 3
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 1
+   "members": 2
   },
   {
    "months": 1,
@@ -32,26 +32,26 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 9
+   "members": 10
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 35
+   "members": 34
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 46
+   "members": 44
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 156
+   "members": 159
   }
  ],
  "events": {
-  "new_members": 0,
+  "new_members": 1,
   "rejoins": 1,
   "milestones": 0,
   "gift_purchases": 0,
@@ -64,21 +64,21 @@
    "tier": "調査員",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 2,
+   "confirmed_members": 3,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 248.0,
-   "estimated_members": 250.0,
-   "monthly_net_confirmed": 624,
-   "monthly_net_estimated": 77955
+   "allocated_unknown": 249.0,
+   "estimated_members": 252.0,
+   "monthly_net_confirmed": 935,
+   "monthly_net_estimated": 78578
   }
  ],
  "revenue": {
-  "monthly_low": 77955,
-  "monthly_est": 77955,
+  "monthly_low": 78578,
+  "monthly_est": 78578,
   "gift_once": 0,
-  "total_low": 77955,
-  "total_est": 77955,
-  "paying_members": 250,
+  "total_low": 78578,
+  "total_est": 78578,
+  "paying_members": 252,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -87,16 +87,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "cp-3kDcc6NE",
-   "start": "2026-09-24 17:01",
-   "title": "【グランツーリスモ7】サン=クロワを攻めるぜ【シェリン/にじさんじ】",
-   "kind": "配信",
-   "chatters": 240,
-   "member_chatters": 122,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "4TUEWk3s0Wk",
    "start": "2026-09-27 16:58",
@@ -135,6 +125,16 @@
    "chatters": 252,
    "member_chatters": 135,
    "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "fpZ82ae-Iyg",
+   "start": "2026-10-24 16:59",
+   "title": "【マリオカートワールド】新コース参加型 or 野良【シェリン/にじさんじ】",
+   "kind": "配信",
+   "chatters": 289,
+   "member_chatters": 124,
+   "new_members": 1,
    "gifted_total": 0
   }
  ],
@@ -210,21 +210,21 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-24"
+    "to": "2026-10-25"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 4,
    "streams_missed": 0,
-   "unique_chatters": 485,
-   "members_confirmed": 207,
+   "unique_chatters": 603,
+   "members_confirmed": 233,
    "member_classes": {
-    "unknown": 205,
-    "known": 2
+    "unknown": 230,
+    "known": 3
    },
-   "long_term_members": 167,
+   "long_term_members": 189,
    "badges": [
     {
      "months": 0,
-     "members": 1
+     "members": 2
     },
     {
      "months": 1,
@@ -232,23 +232,23 @@
     },
     {
      "months": 2,
-     "members": 8
+     "members": 9
     },
     {
      "months": 6,
-     "members": 28
+     "members": 30
     },
     {
      "months": 12,
-     "members": 37
+     "members": 41
     },
     {
      "months": 24,
-     "members": 130
+     "members": 148
     }
    ],
    "events": {
-    "new_members": 0,
+    "new_members": 1,
     "rejoins": 1,
     "milestones": 0,
     "gifted_total": 0
@@ -257,16 +257,16 @@
     {
      "tier": "調査員",
      "price": 490,
-     "confirmed_members": 2,
-     "estimated_members": 207.0
+     "confirmed_members": 3,
+     "estimated_members": 233.0
     }
    ],
    "revenue": {
-    "monthly_low": 64546,
-    "monthly_est": 64546,
+    "monthly_low": 72654,
+    "monthly_est": 72654,
     "gift_once": 0
    },
-   "avg_member_chatters": 138.3,
+   "avg_member_chatters": 134.8,
    "partial": true,
    "finalized": false
   }

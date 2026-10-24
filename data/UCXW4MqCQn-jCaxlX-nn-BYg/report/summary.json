@@ -3,27 +3,27 @@
  "channel_id": "UCXW4MqCQn-jCaxlX-nn-BYg",
  "handle": "@NagaoKei",
  "subscribers": 562000,
- "fetched_at": "2026-10-24 09:39",
- "generated_at": "2026-10-24 09:40",
+ "fetched_at": "2026-10-25 05:26",
+ "generated_at": "2026-10-25 05:27",
  "period": {
-  "from": "2026-09-24 09:39",
-  "to": "2026-10-24 09:39",
+  "from": "2026-09-25 05:26",
+  "to": "2026-10-25 05:26",
   "days": 30
  },
- "streams_analyzed": 22,
- "streams_missed": 5,
- "unique_chatters": 3519,
- "members_confirmed": 1218,
+ "streams_analyzed": 23,
+ "streams_missed": 6,
+ "unique_chatters": 3858,
+ "members_confirmed": 1221,
  "member_classes": {
-  "unknown": 1039,
-  "known": 168,
+  "unknown": 1041,
+  "known": 169,
   "gift": 11
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 45
+   "members": 46
   },
   {
    "months": 1,
@@ -48,12 +48,12 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 750
+   "members": 752
   }
  ],
  "events": {
   "new_members": 5,
-  "rejoins": 5,
+  "rejoins": 6,
   "milestones": 69,
   "gift_purchases": 2,
   "gifted_total": 11,
@@ -67,41 +67,41 @@
    "net_per_member": 89.1,
    "confirmed_members": 6,
    "share_of_confirmed_pct": 3.6,
-   "allocated_unknown": 37.1,
-   "estimated_members": 43.1,
+   "allocated_unknown": 37.0,
+   "estimated_members": 43.0,
    "monthly_net_confirmed": 535,
-   "monthly_net_estimated": 3840
+   "monthly_net_estimated": 3827
   },
   {
    "tier": "ゆうしきしゃ16GB",
    "price": 490,
    "net_per_member": 311.8,
    "confirmed_members": 58,
-   "share_of_confirmed_pct": 34.5,
-   "allocated_unknown": 358.7,
-   "estimated_members": 416.7,
+   "share_of_confirmed_pct": 34.3,
+   "allocated_unknown": 357.3,
+   "estimated_members": 415.3,
    "monthly_net_confirmed": 18085,
-   "monthly_net_estimated": 129935
+   "monthly_net_estimated": 129488
   },
   {
    "tier": "ゆうしきしゃ32GB",
    "price": 1990,
    "net_per_member": 1266.4,
-   "confirmed_members": 104,
-   "share_of_confirmed_pct": 61.9,
-   "allocated_unknown": 643.2,
-   "estimated_members": 747.2,
-   "monthly_net_confirmed": 131702,
-   "monthly_net_estimated": 946215
+   "confirmed_members": 105,
+   "share_of_confirmed_pct": 62.1,
+   "allocated_unknown": 646.8,
+   "estimated_members": 751.8,
+   "monthly_net_confirmed": 132968,
+   "monthly_net_estimated": 952021
   }
  ],
  "revenue": {
-  "monthly_low": 242887,
-  "monthly_est": 1079991,
+  "monthly_low": 244332,
+  "monthly_est": 1085336,
   "gift_once": 980,
-  "total_low": 243867,
-  "total_est": 1080971,
-  "paying_members": 1207,
+  "total_low": 245312,
+  "total_est": 1086316,
+  "paying_members": 1210,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -329,6 +329,16 @@
    "member_chatters": 251,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "FPll9W04__I",
+   "start": "2026-10-24 20:03",
+   "title": "【遊戯王】劇場版クシャトリラサイボーグ　復活の「K」【長尾景/春崎エアル/にじさんじ】",
+   "kind": "配信",
+   "chatters": 704,
+   "member_chatters": 267,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -365,7 +375,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "ゆうしきしゃ16GB",
-   "like_count": 372,
+   "like_count": 374,
    "view_count": null
   },
   {
@@ -377,7 +387,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "ゆうしきしゃ32GB",
-   "like_count": 204,
+   "like_count": 205,
    "view_count": null
   },
   {
@@ -389,8 +399,20 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 842,
-   "view_count": 13107
+   "like_count": 878,
+   "view_count": 14424
+  },
+  {
+   "video_id": "5SMXC9A3_Fo",
+   "start": "2026-10-24 23:30",
+   "title": "定期32メン限",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "ゆうしきしゃ32GB",
+   "like_count": 175,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -421,7 +443,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "ゆうしきしゃ16GB",
-   "like_count": 372,
+   "like_count": 374,
    "view_count": null
   },
   {
@@ -431,7 +453,17 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "ゆうしきしゃ32GB",
-   "like_count": 204,
+   "like_count": 205,
+   "view_count": null
+  },
+  {
+   "video_id": "5SMXC9A3_Fo",
+   "start": "2026-10-24 23:30",
+   "title": "定期32メン限",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "ゆうしきしゃ32GB",
+   "like_count": 175,
    "view_count": null
   }
  ],
@@ -517,22 +549,22 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-24"
+    "to": "2026-10-25"
    },
-   "streams_analyzed": 16,
-   "streams_missed": 3,
-   "unique_chatters": 2807,
-   "members_confirmed": 1097,
+   "streams_analyzed": 17,
+   "streams_missed": 4,
+   "unique_chatters": 3194,
+   "members_confirmed": 1104,
    "member_classes": {
-    "unknown": 929,
-    "known": 157,
+    "unknown": 935,
+    "known": 158,
     "gift": 11
    },
-   "long_term_members": 869,
+   "long_term_members": 874,
    "badges": [
     {
      "months": 0,
-     "members": 39
+     "members": 40
     },
     {
      "months": 1,
@@ -544,7 +576,7 @@
     },
     {
      "months": 6,
-     "members": 83
+     "members": 84
     },
     {
      "months": 12,
@@ -552,12 +584,12 @@
     },
     {
      "months": 24,
-     "members": 682
+     "members": 687
     }
    ],
    "events": {
     "new_members": 4,
-    "rejoins": 2,
+    "rejoins": 3,
     "milestones": 61,
     "gifted_total": 11
    },
@@ -577,16 +609,16 @@
     {
      "tier": "ゆうしきしゃ32GB",
      "price": 1990,
-     "confirmed_members": 100,
-     "estimated_members": 691.7
+     "confirmed_members": 101,
+     "estimated_members": 698.7
     }
    ],
    "revenue": {
-    "monthly_low": 225839,
-    "monthly_est": 989669,
+    "monthly_low": 227640,
+    "monthly_est": 998504,
     "gift_once": 980
    },
-   "avg_member_chatters": 360.8,
+   "avg_member_chatters": 355.3,
    "partial": true,
    "finalized": false
   }

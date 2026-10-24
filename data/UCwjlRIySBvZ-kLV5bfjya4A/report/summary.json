@@ -3,27 +3,27 @@
  "channel_id": "UCwjlRIySBvZ-kLV5bfjya4A",
  "handle": "@MikogamiKotone_Y4T4",
  "subscribers": 225000,
- "fetched_at": "2026-10-24 09:42",
- "generated_at": "2026-10-24 09:42",
+ "fetched_at": "2026-10-25 05:37",
+ "generated_at": "2026-10-25 05:37",
  "period": {
-  "from": "2026-09-24 09:42",
-  "to": "2026-10-24 09:42",
+  "from": "2026-09-25 05:37",
+  "to": "2026-10-25 05:37",
   "days": 30
  },
  "streams_analyzed": 16,
  "streams_missed": 1,
- "unique_chatters": 8165,
- "members_confirmed": 1162,
+ "unique_chatters": 8180,
+ "members_confirmed": 1159,
  "member_classes": {
-  "unknown": 954,
-  "known": 148,
+  "known": 149,
+  "unknown": 950,
   "gift": 60
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 184
+   "members": 183
   },
   {
    "months": 1,
@@ -33,13 +33,13 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 912
+   "members": 910
   }
  ],
  "events": {
   "new_members": 45,
-  "rejoins": 10,
-  "milestones": 95,
+  "rejoins": 11,
+  "milestones": 94,
   "gift_purchases": 7,
   "gifted_total": 60,
   "gift_redemptions": 60
@@ -50,21 +50,21 @@
    "tier": "御子神家使用人",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 148,
+   "confirmed_members": 149,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 954.0,
-   "estimated_members": 1102.0,
-   "monthly_net_confirmed": 46149,
-   "monthly_net_estimated": 343624
+   "allocated_unknown": 950.0,
+   "estimated_members": 1099.0,
+   "monthly_net_confirmed": 46461,
+   "monthly_net_estimated": 342688
   }
  ],
  "revenue": {
-  "monthly_low": 343624,
-  "monthly_est": 343624,
+  "monthly_low": 342688,
+  "monthly_est": 342688,
   "gift_once": 18709,
-  "total_low": 362333,
-  "total_est": 362333,
-  "paying_members": 1102,
+  "total_low": 361397,
+  "total_est": 361397,
+  "paying_members": 1099,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "oB-Y_JYsaCc",
-   "start": "2026-09-24 23:17",
-   "title": "【オーバーウォッチ】突発やたOW部いきますわよ【御子神琴音 / にじさんじ】",
-   "kind": "配信",
-   "chatters": 245,
-   "member_chatters": 150,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "VKm1RG_DOsw",
    "start": "2026-09-25 21:03",
@@ -232,6 +222,16 @@
    "member_chatters": 193,
    "new_members": 4,
    "gifted_total": 0
+  },
+  {
+   "video_id": "q8AflIQeWu4",
+   "start": "2026-10-24 20:02",
+   "title": "【Overwatch】#にじEX_OW チームわんおぺ、スクリムDAY2！伸びしろを伸ばしきるとき。【御子神琴音 / にじさんじ】",
+   "kind": "配信",
+   "chatters": 378,
+   "member_chatters": 190,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -319,22 +319,22 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-24"
+    "to": "2026-10-25"
    },
-   "streams_analyzed": 12,
+   "streams_analyzed": 13,
    "streams_missed": 1,
-   "unique_chatters": 6779,
-   "members_confirmed": 1056,
+   "unique_chatters": 6825,
+   "members_confirmed": 1062,
    "member_classes": {
-    "unknown": 851,
-    "known": 145,
+    "unknown": 855,
+    "known": 147,
     "gift": 60
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 168
+     "members": 169
     },
     {
      "months": 1,
@@ -342,12 +342,12 @@
     },
     {
      "months": 2,
-     "members": 826
+     "members": 831
     }
    ],
    "events": {
-    "new_members": 41,
-    "rejoins": 10,
+    "new_members": 42,
+    "rejoins": 11,
     "milestones": 87,
     "gifted_total": 60
    },
@@ -355,16 +355,16 @@
     {
      "tier": "御子神家使用人",
      "price": 490,
-     "confirmed_members": 145,
-     "estimated_members": 996.0
+     "confirmed_members": 147,
+     "estimated_members": 1002.0
     }
    ],
    "revenue": {
-    "monthly_low": 310571,
-    "monthly_est": 310571,
+    "monthly_low": 312442,
+    "monthly_est": 312442,
     "gift_once": 18709
    },
-   "avg_member_chatters": 296.8,
+   "avg_member_chatters": 288.5,
    "partial": true,
    "finalized": false
   }

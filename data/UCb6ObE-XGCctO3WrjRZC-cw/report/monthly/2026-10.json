@@ -2,25 +2,29 @@
  "month": "2026-10",
  "coverage": {
   "from": "2026-10-01",
-  "to": "2026-10-24"
+  "to": "2026-10-25"
  },
- "streams_analyzed": 10,
- "streams_missed": 4,
- "unique_chatters": 562,
- "members_confirmed": 86,
+ "streams_analyzed": 11,
+ "streams_missed": 3,
+ "unique_chatters": 592,
+ "members_confirmed": 90,
  "member_classes": {
-  "unknown": 79,
-  "known": 7
+  "unknown": 82,
+  "known": 8
  },
- "long_term_members": 79,
+ "long_term_members": 80,
  "badges": [
   {
    "months": 0,
+   "members": 2
+  },
+  {
+   "months": 1,
    "members": 1
   },
   {
    "months": 2,
-   "members": 1
+   "members": 2
   },
   {
    "months": 6,
@@ -28,7 +32,7 @@
   },
   {
    "months": 12,
-   "members": 7
+   "members": 8
   },
   {
    "months": 24,
@@ -37,7 +41,7 @@
  ],
  "events": {
   "new_members": 1,
-  "rejoins": 1,
+  "rejoins": 2,
   "milestones": 2,
   "gifted_total": 0
  },
@@ -45,22 +49,22 @@
   {
    "tier": "怪盗団",
    "price": 690,
-   "confirmed_members": 5,
-   "estimated_members": 61.4
+   "confirmed_members": 6,
+   "estimated_members": 67.5
   },
   {
    "tier": "ルイスの相棒",
    "price": 1990,
    "confirmed_members": 2,
-   "estimated_members": 24.6
+   "estimated_members": 22.5
   }
  ],
  "revenue": {
-  "monthly_low": 39416,
-  "monthly_est": 58089,
+  "monthly_low": 41173,
+  "monthly_est": 58132,
   "gift_once": 0
  },
- "avg_member_chatters": 29.9,
+ "avg_member_chatters": 29.8,
  "partial": true,
  "finalized": false
 }

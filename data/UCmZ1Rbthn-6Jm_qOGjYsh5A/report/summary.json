@@ -3,27 +3,27 @@
  "channel_id": "UCmZ1Rbthn-6Jm_qOGjYsh5A",
  "handle": "@Ibrahim",
  "subscribers": 926000,
- "fetched_at": "2026-10-24 09:39",
- "generated_at": "2026-10-24 09:40",
+ "fetched_at": "2026-10-25 05:26",
+ "generated_at": "2026-10-25 05:26",
  "period": {
-  "from": "2026-09-24 09:39",
-  "to": "2026-10-24 09:39",
+  "from": "2026-09-25 05:26",
+  "to": "2026-10-25 05:26",
   "days": 30
  },
- "streams_analyzed": 25,
- "streams_missed": 0,
- "unique_chatters": 8372,
- "members_confirmed": 1463,
+ "streams_analyzed": 24,
+ "streams_missed": 1,
+ "unique_chatters": 8332,
+ "members_confirmed": 1454,
  "member_classes": {
-  "unknown": 1265,
-  "known": 107,
+  "unknown": 1258,
+  "known": 105,
   "gift": 91
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 114
+   "members": 113
   },
   {
    "months": 1,
@@ -38,23 +38,23 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 82
+   "members": 81
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 170
+   "members": 168
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 985
+   "members": 980
   }
  ],
  "events": {
-  "new_members": 15,
+  "new_members": 14,
   "rejoins": 12,
-  "milestones": 78,
+  "milestones": 73,
   "gift_purchases": 14,
   "gifted_total": 91,
   "gift_redemptions": 91
@@ -65,21 +65,21 @@
    "tier": "イブラヒムのメンバーシップ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 107,
+   "confirmed_members": 105,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1265.0,
-   "estimated_members": 1372.0,
-   "monthly_net_confirmed": 33365,
-   "monthly_net_estimated": 427815
+   "allocated_unknown": 1258.0,
+   "estimated_members": 1363.0,
+   "monthly_net_confirmed": 32741,
+   "monthly_net_estimated": 425008
   }
  ],
  "revenue": {
-  "monthly_low": 427815,
-  "monthly_est": 427815,
+  "monthly_low": 425008,
+  "monthly_est": 425008,
   "gift_once": 28375,
-  "total_low": 456190,
-  "total_est": 456190,
-  "paying_members": 1372,
+  "total_low": 453384,
+  "total_est": 453384,
+  "paying_members": 1363,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "a-yJcuErY2Q",
-   "start": "2026-09-24 22:03",
-   "title": "【APEX】助けてくれヒーローたち編 with★導,カゲツ　【にじさんじ/イブラヒム】",
-   "kind": "配信",
-   "chatters": 474,
-   "member_chatters": 316,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "msEO8KdqOWo",
    "start": "2026-09-25 20:03",
@@ -339,7 +329,20 @@
    "gifted_total": 10
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "fPNKQYUQvro",
+   "start": "2026-10-24 00:00",
+   "title": "【OW│Nijisanji Extreme Match】スクリム2日目『Hacks Eye 1/4』【にじさんじ/イブラヒム】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 1369,
+   "view_count": 146281
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -412,10 +415,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-24"
+    "to": "2026-10-25"
    },
    "streams_analyzed": 18,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 5915,
    "members_confirmed": 1310,
    "member_classes": {

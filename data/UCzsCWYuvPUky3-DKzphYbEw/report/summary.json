@@ -3,31 +3,32 @@
  "channel_id": "UCzsCWYuvPUky3-DKzphYbEw",
  "handle": "@ShigaRiko",
  "subscribers": 255000,
- "fetched_at": "2026-10-24 09:41",
- "generated_at": "2026-10-24 09:41",
+ "fetched_at": "2026-10-25 05:33",
+ "generated_at": "2026-10-25 05:33",
  "period": {
-  "from": "2026-09-24 09:41",
-  "to": "2026-10-24 09:41",
+  "from": "2026-09-25 05:33",
+  "to": "2026-10-25 05:33",
   "days": 30
  },
  "streams_analyzed": 15,
  "streams_missed": 2,
- "unique_chatters": 1525,
- "members_confirmed": 243,
+ "unique_chatters": 1650,
+ "members_confirmed": 267,
  "member_classes": {
-  "unknown": 228,
-  "known": 15
+  "unknown": 250,
+  "known": 16,
+  "gift": 1
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 13
+   "members": 16
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 9
+   "members": 10
   },
   {
    "months": 2,
@@ -37,26 +38,26 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 58
+   "members": 63
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 79
+   "members": 88
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 55
+   "members": 61
   }
  ],
  "events": {
-  "new_members": 7,
+  "new_members": 8,
   "rejoins": 2,
   "milestones": 4,
-  "gift_purchases": 1,
-  "gifted_total": 5,
-  "gift_redemptions": 0
+  "gift_purchases": 2,
+  "gifted_total": 6,
+  "gift_redemptions": 1
  },
  "tiers_configured": true,
  "tiers": [
@@ -64,21 +65,21 @@
    "tier": "りこりすとさん",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 15,
+   "confirmed_members": 16,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 228.0,
-   "estimated_members": 243.0,
-   "monthly_net_confirmed": 4677,
-   "monthly_net_estimated": 75772
+   "allocated_unknown": 250.0,
+   "estimated_members": 266.0,
+   "monthly_net_confirmed": 4989,
+   "monthly_net_estimated": 82944
   }
  ],
  "revenue": {
-  "monthly_low": 75772,
-  "monthly_est": 75772,
-  "gift_once": 1559,
-  "total_low": 77331,
-  "total_est": 77331,
-  "paying_members": 243,
+  "monthly_low": 82944,
+  "monthly_est": 82944,
+  "gift_once": 1871,
+  "total_low": 84815,
+  "total_est": 84815,
+  "paying_members": 266,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -87,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "-pIg_gYKzXk",
-   "start": "2026-09-24 19:05",
-   "title": "【逆転裁判 蘇る逆転/#7】シリーズ完全初見✨️しがりこが裁判に挑むよ。※ネタバレあり【司賀りこ/にじさんじ】",
-   "kind": "配信",
-   "chatters": 219,
-   "member_chatters": 46,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "cQnp1x31ubs",
    "start": "2026-09-25 19:00",
@@ -236,6 +227,16 @@
    "member_chatters": 46,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "r89b1ghyLpU",
+   "start": "2026-10-24 11:59",
+   "title": "【Niji 3D Chat】What delicious food have you all been eating lately?【Shiga Riko/NIJISANJI】",
+   "kind": "配信",
+   "chatters": 359,
+   "member_chatters": 99,
+   "new_members": 1,
+   "gifted_total": 1
   }
  ],
  "missed_streams": [
@@ -260,7 +261,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "りこりすとさん",
-   "like_count": 131,
+   "like_count": 143,
    "view_count": null
   }
  ],
@@ -282,7 +283,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "りこりすとさん",
-   "like_count": 131,
+   "like_count": 143,
    "view_count": null
   }
  ],
@@ -357,63 +358,64 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-24"
+    "to": "2026-10-25"
    },
-   "streams_analyzed": 10,
+   "streams_analyzed": 11,
    "streams_missed": 2,
-   "unique_chatters": 1019,
-   "members_confirmed": 193,
+   "unique_chatters": 1258,
+   "members_confirmed": 225,
    "member_classes": {
-    "unknown": 180,
-    "known": 13
+    "unknown": 210,
+    "known": 14,
+    "gift": 1
    },
-   "long_term_members": 108,
+   "long_term_members": 127,
    "badges": [
     {
      "months": 0,
-     "members": 9
+     "members": 12
     },
     {
      "months": 1,
-     "members": 8
+     "members": 9
     },
     {
      "months": 2,
-     "members": 22
+     "members": 24
     },
     {
      "months": 6,
-     "members": 46
+     "members": 53
     },
     {
      "months": 12,
-     "members": 63
+     "members": 75
     },
     {
      "months": 24,
-     "members": 45
+     "members": 52
     }
    ],
    "events": {
-    "new_members": 4,
+    "new_members": 5,
     "rejoins": 2,
     "milestones": 3,
-    "gifted_total": 5
+    "gifted_total": 6
    },
    "tiers": [
     {
      "tier": "りこりすとさん",
      "price": 490,
-     "confirmed_members": 13,
-     "estimated_members": 193.0
+     "confirmed_members": 14,
+     "estimated_members": 224.0
     }
    ],
    "revenue": {
-    "monthly_low": 60181,
-    "monthly_est": 60181,
-    "gift_once": 1559
+    "monthly_low": 69847,
+    "monthly_est": 69847,
+    "gift_once": 1871
    },
-   "avg_member_chatters": 52.5,
+   "avg_member_chatters": 56.7,
    "partial": true,
    "finalized": false
   }

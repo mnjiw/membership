@@ -3,19 +3,19 @@
  "channel_id": "UCfQVs_KuXeNAlGa3fb8rlnQ",
  "handle": "@SakuraRitsuki",
  "subscribers": 282000,
- "fetched_at": "2026-10-24 09:39",
- "generated_at": "2026-10-24 09:39",
+ "fetched_at": "2026-10-25 05:22",
+ "generated_at": "2026-10-25 05:22",
  "period": {
-  "from": "2026-09-24 09:39",
-  "to": "2026-10-24 09:39",
+  "from": "2026-09-25 05:22",
+  "to": "2026-10-25 05:22",
   "days": 30
  },
- "streams_analyzed": 33,
+ "streams_analyzed": 34,
  "streams_missed": 2,
- "unique_chatters": 1264,
- "members_confirmed": 94,
+ "unique_chatters": 1252,
+ "members_confirmed": 92,
  "member_classes": {
-  "unknown": 81,
+  "unknown": 79,
   "known": 12,
   "gift": 1
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 2
+   "members": 1
   },
   {
    "months": 1,
@@ -38,7 +38,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 6
+   "members": 5
   },
   {
    "months": 12,
@@ -64,7 +64,7 @@
  "events": {
   "new_members": 0,
   "rejoins": 0,
-  "milestones": 8,
+  "milestones": 9,
   "gift_purchases": 1,
   "gifted_total": 1,
   "gift_redemptions": 1
@@ -77,10 +77,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 6,
    "share_of_confirmed_pct": 50.0,
-   "allocated_unknown": 40.5,
-   "estimated_members": 46.5,
+   "allocated_unknown": 39.5,
+   "estimated_members": 45.5,
    "monthly_net_confirmed": 1871,
-   "monthly_net_estimated": 14500
+   "monthly_net_estimated": 14188
   },
   {
    "tier": "桜SP",
@@ -88,19 +88,19 @@
    "net_per_member": 2220.9,
    "confirmed_members": 6,
    "share_of_confirmed_pct": 50.0,
-   "allocated_unknown": 40.5,
-   "estimated_members": 46.5,
+   "allocated_unknown": 39.5,
+   "estimated_members": 45.5,
    "monthly_net_confirmed": 13325,
-   "monthly_net_estimated": 103272
+   "monthly_net_estimated": 101051
   }
  ],
  "revenue": {
-  "monthly_low": 40454,
-  "monthly_est": 117772,
+  "monthly_low": 39830,
+  "monthly_est": 115239,
   "gift_once": 312,
-  "total_low": 40765,
-  "total_est": 118084,
-  "paying_members": 93,
+  "total_low": 40142,
+  "total_est": 115551,
+  "paying_members": 91,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -109,16 +109,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "tYXl6bYY2W4",
-   "start": "2026-09-24 18:37",
-   "title": "【WARDOGS】新作！今話題のゲームやっていく！【にじさんじ/桜凛月】",
-   "kind": "配信",
-   "chatters": 80,
-   "member_chatters": 37,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "M7sDuxa5SpE",
    "start": "2026-09-30 19:00",
@@ -438,6 +428,26 @@
    "member_chatters": 26,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "kx3hgW2s5og",
+   "start": "2026-10-24 11:01",
+   "title": "【健康スプラ】 負けたら筋トレ ガチホコ XP2000へあげる配信です（）【にじさんじ/桜凛月】",
+   "kind": "配信",
+   "chatters": 60,
+   "member_chatters": 20,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "pmEdQzQogd4",
+   "start": "2026-10-24 20:02",
+   "title": "【minecraft】にじ鯖 ハロウィンのいたずら準備 完成まであと900歩？【にじさんじ/桜凛月】",
+   "kind": "配信",
+   "chatters": 44,
+   "member_chatters": 29,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -572,15 +582,15 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-24"
+    "to": "2026-10-25"
    },
-   "streams_analyzed": 31,
+   "streams_analyzed": 33,
    "streams_missed": 1,
-   "unique_chatters": 1236,
+   "unique_chatters": 1246,
    "members_confirmed": 91,
    "member_classes": {
-    "unknown": 79,
-    "known": 11,
+    "unknown": 78,
+    "known": 12,
     "gift": 1
    },
    "long_term_members": 78,
@@ -621,29 +631,29 @@
    "events": {
     "new_members": 0,
     "rejoins": 0,
-    "milestones": 4,
+    "milestones": 5,
     "gifted_total": 1
    },
    "tiers": [
     {
      "tier": "桜ンボの箱舟",
      "price": 490,
-     "confirmed_members": 5,
-     "estimated_members": 40.9
+     "confirmed_members": 6,
+     "estimated_members": 45.0
     },
     {
      "tier": "桜SP",
      "price": 3490,
      "confirmed_members": 6,
-     "estimated_members": 49.1
+     "estimated_members": 45.0
     }
    ],
    "revenue": {
     "monthly_low": 39518,
-    "monthly_est": 121783,
+    "monthly_est": 113973,
     "gift_once": 312
    },
-   "avg_member_chatters": 22.5,
+   "avg_member_chatters": 22.6,
    "partial": true,
    "finalized": false
   }

@@ -3,19 +3,19 @@
  "channel_id": "UChUJbHiTVeGrSkTdBzVfNCQ",
  "handle": "@JoeRikiichi",
  "subscribers": 666000,
- "fetched_at": "2026-10-24 09:39",
- "generated_at": "2026-10-24 09:39",
+ "fetched_at": "2026-10-25 05:23",
+ "generated_at": "2026-10-25 05:23",
  "period": {
-  "from": "2026-09-24 09:39",
-  "to": "2026-10-24 09:39",
+  "from": "2026-09-25 05:23",
+  "to": "2026-10-25 05:23",
   "days": 30
  },
- "streams_analyzed": 10,
- "streams_missed": 0,
- "unique_chatters": 4597,
- "members_confirmed": 805,
+ "streams_analyzed": 9,
+ "streams_missed": 1,
+ "unique_chatters": 4306,
+ "members_confirmed": 785,
  "member_classes": {
-  "unknown": 714,
+  "unknown": 694,
   "known": 41,
   "gift": 50
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 84
+   "members": 82
   },
   {
    "months": 1,
@@ -33,22 +33,22 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 68
+   "members": 65
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 60
+   "members": 58
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 104
+   "members": 102
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 470
+   "members": 459
   }
  ],
  "events": {
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 41,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 714.0,
-   "estimated_members": 755.0,
+   "allocated_unknown": 694.0,
+   "estimated_members": 735.0,
    "monthly_net_confirmed": 12785,
-   "monthly_net_estimated": 235423
+   "monthly_net_estimated": 229186
   }
  ],
  "revenue": {
-  "monthly_low": 235423,
-  "monthly_est": 235423,
+  "monthly_low": 229186,
+  "monthly_est": 229186,
   "gift_once": 15591,
-  "total_low": 251014,
-  "total_est": 251014,
-  "paying_members": 755,
+  "total_low": 244777,
+  "total_est": 244777,
+  "paying_members": 735,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "x1QJ8GrowBQ",
-   "start": "2026-09-24 21:05",
-   "title": "【🌻視聴者参加型】暑中見舞い大喜利2026夏 後編【にじさんじ/ジョー・力一】",
-   "kind": "配信",
-   "chatters": 898,
-   "member_chatters": 247,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "tnRQ3xusZqA",
    "start": "2026-09-27 14:05",
@@ -189,7 +179,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "pPk-6-FLr5U",
+   "start": "2026-10-24 00:00",
+   "title": "【ヒマですっっ！！！！】相棒の右京さんの知られざる名シーンをリスナーと想像するジョー・力一【にじさんじ切り抜き/空昼ブランコ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 1805,
+   "view_count": 67528
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -262,10 +265,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-24"
+    "to": "2026-10-25"
    },
    "streams_analyzed": 7,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 3466,
    "members_confirmed": 632,
    "member_classes": {

@@ -3,71 +3,71 @@
  "channel_id": "UCFgXWZOUZA2oYHNr6qDmsTQ",
  "handle": "@ScarleYonaguni",
  "subscribers": 355000,
- "fetched_at": "2026-10-24 09:42",
- "generated_at": "2026-10-24 09:42",
+ "fetched_at": "2026-10-25 05:39",
+ "generated_at": "2026-10-25 05:40",
  "period": {
-  "from": "2026-09-24 09:42",
-  "to": "2026-10-24 09:42",
+  "from": "2026-09-25 05:39",
+  "to": "2026-10-25 05:39",
   "days": 30
  },
- "streams_analyzed": 37,
- "streams_missed": 3,
- "unique_chatters": 2031,
- "members_confirmed": 714,
+ "streams_analyzed": 40,
+ "streams_missed": 2,
+ "unique_chatters": 2248,
+ "members_confirmed": 735,
  "member_classes": {
-  "known": 214,
-  "unknown": 109,
-  "gift": 391
+  "known": 236,
+  "unknown": 103,
+  "gift": 396
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 389
+   "members": 393
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 6
+   "members": 7
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 23
+   "members": 21
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 28
+   "members": 29
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 60
+   "members": 61
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 64
+   "members": 69
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 104
+   "members": 110
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 40
+   "members": 45
   }
  ],
  "events": {
   "new_members": 2,
   "rejoins": 15,
-  "milestones": 187,
-  "gift_purchases": 53,
-  "gifted_total": 391,
-  "gift_redemptions": 391
+  "milestones": 220,
+  "gift_purchases": 54,
+  "gifted_total": 396,
+  "gift_redemptions": 396
  },
  "tiers_configured": true,
  "tiers": [
@@ -75,21 +75,21 @@
    "tier": "✨Apprenticeship✨",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 214,
+   "confirmed_members": 236,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 109.0,
-   "estimated_members": 323.0,
-   "monthly_net_confirmed": 93965,
-   "monthly_net_estimated": 141826
+   "allocated_unknown": 103.0,
+   "estimated_members": 339.0,
+   "monthly_net_confirmed": 103625,
+   "monthly_net_estimated": 148852
   }
  ],
  "revenue": {
-  "monthly_low": 141826,
-  "monthly_est": 141826,
-  "gift_once": 171685,
-  "total_low": 313511,
-  "total_est": 313511,
-  "paying_members": 323,
+  "monthly_low": 148852,
+  "monthly_est": 148852,
+  "gift_once": 173880,
+  "total_low": 322732,
+  "total_est": 322732,
+  "paying_members": 339,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "ifUJQekDlGU",
-   "start": "2026-09-24 10:31",
-   "title": "Chat is wrong, I'm right and my tibbies bounce when I walk~ :3",
-   "kind": "配信",
-   "chatters": 218,
-   "member_chatters": 77,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "QqV9CY7E3T0",
    "start": "2026-09-25 11:16",
@@ -467,21 +457,49 @@
    "member_chatters": 119,
    "new_members": 0,
    "gifted_total": 15
+  },
+  {
+   "video_id": "_AacxYHLC1Q",
+   "start": "2026-10-24 11:00",
+   "title": "Last Looks+ Predictions \"WRONG ANSWERS ONLY Before New Outfit Reveal!",
+   "kind": "配信",
+   "chatters": 145,
+   "member_chatters": 68,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "F6CRs3TW0L0",
+   "start": "2026-10-24 12:10",
+   "title": "🔥Enchantress Enferno🔥Scarle Yonaguni New Outfit Reveal【NIJISANJI EN | Scarle Yonaguni】",
+   "kind": "配信",
+   "chatters": 370,
+   "member_chatters": 135,
+   "new_members": 1,
+   "gifted_total": 5
+  },
+  {
+   "video_id": "8zXutImb2Po",
+   "start": "2026-10-24 13:14",
+   "title": "NEW OUTFIT AFTER PARTY!",
+   "kind": "配信",
+   "chatters": 436,
+   "member_chatters": 138,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "iijn_UPQd24",
+   "start": "2026-10-25 01:01",
+   "title": "Good morning! New Outfit Who Dis?~🥰❤️🔥COME SAY IT BACK! :3🔥🔥🔥",
+   "kind": "配信",
+   "chatters": 235,
+   "member_chatters": 80,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
-  {
-   "video_id": "vZfAQGtNRN4",
-   "start": "2026-09-24 12:10",
-   "title": "MEMBIES: SHARE ME YOUR FAVORITE AMV!🥰🎵❤️",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 38,
-   "view_count": null
-  },
   {
    "video_id": "OQWxd57-rTk",
    "start": "2026-10-05 04:02",
@@ -503,22 +521,12 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 42,
+   "like_count": 43,
    "view_count": null
   }
  ],
  "members_only_content": [
   {
-   "video_id": "vZfAQGtNRN4",
-   "start": "2026-09-24 12:10",
-   "title": "MEMBIES: SHARE ME YOUR FAVORITE AMV!🥰🎵❤️",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 38,
-   "view_count": null
-  },
-  {
    "video_id": "OQWxd57-rTk",
    "start": "2026-10-05 04:02",
    "title": "MEMBIES: SHARE ME YOUR FAVORITE AMV!🥰🎵❤️ p.2",
@@ -535,7 +543,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 42,
+   "like_count": 43,
    "view_count": null
   }
  ],
@@ -618,72 +626,72 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-24"
+    "to": "2026-10-25"
    },
-   "streams_analyzed": 30,
+   "streams_analyzed": 34,
    "streams_missed": 2,
-   "unique_chatters": 1834,
-   "members_confirmed": 685,
+   "unique_chatters": 2095,
+   "members_confirmed": 712,
    "member_classes": {
-    "known": 210,
-    "unknown": 99,
-    "gift": 376
+    "known": 234,
+    "unknown": 97,
+    "gift": 381
    },
-   "long_term_members": 256,
+   "long_term_members": 277,
    "badges": [
     {
      "months": 0,
-     "members": 374
+     "members": 378
     },
     {
      "months": 1,
-     "members": 6
+     "members": 7
     },
     {
      "months": 2,
-     "members": 22
+     "members": 21
     },
     {
      "months": 6,
-     "members": 27
+     "members": 29
     },
     {
      "months": 12,
-     "members": 56
+     "members": 57
     },
     {
      "months": 24,
-     "members": 63
+     "members": 68
     },
     {
      "months": 36,
-     "members": 98
+     "members": 107
     },
     {
      "months": 48,
-     "members": 39
+     "members": 45
     }
    ],
    "events": {
-    "new_members": 1,
+    "new_members": 2,
     "rejoins": 13,
-    "milestones": 148,
-    "gifted_total": 376
+    "milestones": 185,
+    "gifted_total": 381
    },
    "tiers": [
     {
      "tier": "✨Apprenticeship✨",
      "price": 690,
-     "confirmed_members": 210,
-     "estimated_members": 309.0
+     "confirmed_members": 234,
+     "estimated_members": 331.0
     }
    ],
    "revenue": {
-    "monthly_low": 135679,
-    "monthly_est": 135679,
-    "gift_once": 165098
+    "monthly_low": 145339,
+    "monthly_est": 145339,
+    "gift_once": 167294
    },
-   "avg_member_chatters": 92.3,
+   "avg_member_chatters": 93.9,
    "partial": true,
    "finalized": false
   }

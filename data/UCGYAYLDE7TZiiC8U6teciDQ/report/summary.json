@@ -3,26 +3,26 @@
  "channel_id": "UCGYAYLDE7TZiiC8U6teciDQ",
  "handle": "@HakaseFuyuki",
  "subscribers": 479000,
- "fetched_at": "2026-10-24 09:39",
- "generated_at": "2026-10-24 09:39",
+ "fetched_at": "2026-10-25 05:24",
+ "generated_at": "2026-10-25 05:25",
  "period": {
-  "from": "2026-09-24 09:39",
-  "to": "2026-10-24 09:39",
+  "from": "2026-09-25 05:24",
+  "to": "2026-10-25 05:24",
   "days": 30
  },
- "streams_analyzed": 15,
- "streams_missed": 2,
- "unique_chatters": 1741,
- "members_confirmed": 482,
+ "streams_analyzed": 14,
+ "streams_missed": 3,
+ "unique_chatters": 1705,
+ "members_confirmed": 479,
  "member_classes": {
-  "unknown": 436,
-  "known": 46
+  "unknown": 434,
+  "known": 45
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 23
+   "members": 22
   },
   {
    "months": 1,
@@ -47,11 +47,11 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 340
+   "members": 338
   }
  ],
  "events": {
-  "new_members": 21,
+  "new_members": 20,
   "rejoins": 17,
   "milestones": 9,
   "gift_purchases": 0,
@@ -64,21 +64,21 @@
    "tier": "葉加瀬のラボメン",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 46,
+   "confirmed_members": 45,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 436.0,
-   "estimated_members": 482.0,
-   "monthly_net_confirmed": 14344,
-   "monthly_net_estimated": 150296
+   "allocated_unknown": 434.0,
+   "estimated_members": 479.0,
+   "monthly_net_confirmed": 14032,
+   "monthly_net_estimated": 149361
   }
  ],
  "revenue": {
-  "monthly_low": 150296,
-  "monthly_est": 150296,
+  "monthly_low": 149361,
+  "monthly_est": 149361,
   "gift_once": 0,
-  "total_low": 150296,
-  "total_est": 150296,
-  "paying_members": 482,
+  "total_low": 149361,
+  "total_est": 149361,
+  "paying_members": 479,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -87,16 +87,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "p-_6xrDLP_s",
-   "start": "2026-09-25 00:00",
-   "title": "【デイヴ・ザ・ダイバー】そろそろ最終回近い気がする寿司屋【にじさんじ / 葉加瀬冬雪】",
-   "kind": "配信",
-   "chatters": 207,
-   "member_chatters": 87,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "0vjaZ1hA6vs",
    "start": "2026-09-28 00:02",
@@ -260,8 +250,20 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "葉加瀬のラボメン",
-   "like_count": 254,
+   "like_count": 255,
    "view_count": null
+  },
+  {
+   "video_id": "DoTY-A9EcmA",
+   "start": "2026-10-24 00:00",
+   "title": "【ONEPIECE海のごちそうレストラン】#2 二つめのエリア！ミホークが心残り・・・【にじさんじ / 葉加瀬冬雪】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 636,
+   "view_count": 35785
   }
  ],
  "members_only_content": [
@@ -282,7 +284,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "葉加瀬のラボメン",
-   "like_count": 254,
+   "like_count": 255,
    "view_count": null
   }
  ],
@@ -356,10 +358,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-24"
+    "to": "2026-10-25"
    },
    "streams_analyzed": 13,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 1605,
    "members_confirmed": 457,
    "member_classes": {

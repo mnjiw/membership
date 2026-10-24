@@ -3,19 +3,19 @@
  "channel_id": "UCtHY-tP0dyykhTRMmnfPs_g",
  "handle": "@UmiseYotsuha",
  "subscribers": 271000,
- "fetched_at": "2026-10-24 09:40",
- "generated_at": "2026-10-24 09:40",
+ "fetched_at": "2026-10-25 05:28",
+ "generated_at": "2026-10-25 05:29",
  "period": {
-  "from": "2026-09-24 09:40",
-  "to": "2026-10-24 09:40",
+  "from": "2026-09-25 05:28",
+  "to": "2026-10-25 05:28",
   "days": 30
  },
- "streams_analyzed": 13,
+ "streams_analyzed": 14,
  "streams_missed": 1,
- "unique_chatters": 1340,
- "members_confirmed": 166,
+ "unique_chatters": 1414,
+ "members_confirmed": 169,
  "member_classes": {
-  "unknown": 156,
+  "unknown": 159,
   "known": 10
  },
  "badges": [
@@ -37,12 +37,12 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 7
+   "members": 8
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 25
+   "members": 26
   },
   {
    "months": 24,
@@ -52,7 +52,7 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 91
+   "members": 92
   }
  ],
  "events": {
@@ -71,10 +71,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 8,
    "share_of_confirmed_pct": 80.0,
-   "allocated_unknown": 124.8,
-   "estimated_members": 132.8,
+   "allocated_unknown": 127.2,
+   "estimated_members": 135.2,
    "monthly_net_confirmed": 2495,
-   "monthly_net_estimated": 41409
+   "monthly_net_estimated": 42158
   },
   {
    "tier": "ほごしゃ会",
@@ -82,19 +82,19 @@
    "net_per_member": 757.3,
    "confirmed_members": 2,
    "share_of_confirmed_pct": 20.0,
-   "allocated_unknown": 31.2,
-   "estimated_members": 33.2,
+   "allocated_unknown": 31.8,
+   "estimated_members": 33.8,
    "monthly_net_confirmed": 1515,
-   "monthly_net_estimated": 25141
+   "monthly_net_estimated": 25596
   }
  ],
  "revenue": {
-  "monthly_low": 52653,
-  "monthly_est": 66551,
+  "monthly_low": 53588,
+  "monthly_est": 67754,
   "gift_once": 0,
-  "total_low": 52653,
-  "total_est": 66551,
-  "paying_members": 166,
+  "total_low": 53588,
+  "total_est": 67754,
+  "paying_members": 169,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -232,6 +232,16 @@
    "member_chatters": 52,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "rv47d9_pRH0",
+   "start": "2026-10-24 17:01",
+   "title": "【 #にじEX_OW 】スクリムDAY2 睡眠学習の果て！ #はくさいWIN【海妹四葉/にじさんじ】",
+   "kind": "配信",
+   "chatters": 184,
+   "member_chatters": 57,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -265,17 +275,17 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-05",
-    "to": "2026-10-24"
+    "to": "2026-10-25"
    },
-   "streams_analyzed": 13,
+   "streams_analyzed": 14,
    "streams_missed": 0,
-   "unique_chatters": 1340,
-   "members_confirmed": 166,
+   "unique_chatters": 1414,
+   "members_confirmed": 169,
    "member_classes": {
-    "unknown": 156,
+    "unknown": 159,
     "known": 10
    },
-   "long_term_members": 133,
+   "long_term_members": 135,
    "badges": [
     {
      "months": 0,
@@ -291,11 +301,11 @@
     },
     {
      "months": 6,
-     "members": 7
+     "members": 8
     },
     {
      "months": 12,
-     "members": 25
+     "members": 26
     },
     {
      "months": 24,
@@ -303,7 +313,7 @@
     },
     {
      "months": 36,
-     "members": 91
+     "members": 92
     }
    ],
    "events": {
@@ -317,21 +327,21 @@
      "tier": "コアツメイト",
      "price": 490,
      "confirmed_members": 8,
-     "estimated_members": 132.8
+     "estimated_members": 135.2
     },
     {
      "tier": "ほごしゃ会",
      "price": 1190,
      "confirmed_members": 2,
-     "estimated_members": 33.2
+     "estimated_members": 33.8
     }
    ],
    "revenue": {
-    "monthly_low": 52653,
-    "monthly_est": 66551,
+    "monthly_low": 53588,
+    "monthly_est": 67754,
     "gift_once": 0
    },
-   "avg_member_chatters": 52.7,
+   "avg_member_chatters": 53,
    "partial": true,
    "finalized": false
   }

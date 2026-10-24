@@ -3,15 +3,15 @@
  "channel_id": "UC8Snw5i4eOJXEQqURAK17hQ",
  "handle": "@RaiGalilei",
  "subscribers": 57800,
- "fetched_at": "2026-10-24 09:40",
- "generated_at": "2026-10-24 09:40",
+ "fetched_at": "2026-10-25 05:29",
+ "generated_at": "2026-10-25 05:29",
  "period": {
-  "from": "2026-09-24 09:40",
-  "to": "2026-10-24 09:40",
+  "from": "2026-09-25 05:29",
+  "to": "2026-10-25 05:29",
   "days": 30
  },
  "streams_analyzed": 12,
- "streams_missed": 0,
+ "streams_missed": 2,
  "unique_chatters": 239,
  "members_confirmed": 32,
  "member_classes": {
@@ -209,7 +209,32 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "C6xlb9h-iV0",
+   "start": "2026-10-24 00:00",
+   "title": "【Umigari】 Rai Galilei's: \"What a funny looking fish haha\"【NIJISANJI】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 152,
+   "view_count": 1148
+  },
+  {
+   "video_id": "UzC6lfgg_BU",
+   "start": "2026-10-24 00:00",
+   "title": "【Freetalk】 Rai Galilei's: \"Confusilei\"【NIJISANJI】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 93,
+   "view_count": 880
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -282,10 +307,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-24"
+    "to": "2026-10-25"
    },
    "streams_analyzed": 5,
-   "streams_missed": 0,
+   "streams_missed": 2,
    "unique_chatters": 118,
    "members_confirmed": 17,
    "member_classes": {
