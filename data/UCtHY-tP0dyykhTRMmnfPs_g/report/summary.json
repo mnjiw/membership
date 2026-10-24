@@ -3,20 +3,20 @@
  "channel_id": "UCtHY-tP0dyykhTRMmnfPs_g",
  "handle": "@UmiseYotsuha",
  "subscribers": 271000,
- "fetched_at": "2026-10-24 05:26",
- "generated_at": "2026-10-24 05:26",
+ "fetched_at": "2026-10-24 09:40",
+ "generated_at": "2026-10-24 09:40",
  "period": {
-  "from": "2026-09-24 05:26",
-  "to": "2026-10-24 05:26",
+  "from": "2026-09-24 09:40",
+  "to": "2026-10-24 09:40",
   "days": 30
  },
- "streams_analyzed": 12,
+ "streams_analyzed": 13,
  "streams_missed": 1,
- "unique_chatters": 1319,
- "members_confirmed": 163,
+ "unique_chatters": 1340,
+ "members_confirmed": 166,
  "member_classes": {
-  "unknown": 155,
-  "known": 8
+  "unknown": 156,
+  "known": 10
  },
  "badges": [
   {
@@ -42,7 +42,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 24
+   "members": 25
   },
   {
    "months": 24,
@@ -52,13 +52,13 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 89
+   "members": 91
   }
  ],
  "events": {
   "new_members": 3,
   "rejoins": 1,
-  "milestones": 5,
+  "milestones": 7,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -69,32 +69,32 @@
    "tier": "コアツメイト",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 7,
-   "share_of_confirmed_pct": 87.5,
-   "allocated_unknown": 135.6,
-   "estimated_members": 142.6,
-   "monthly_net_confirmed": 2183,
-   "monthly_net_estimated": 44473
+   "confirmed_members": 8,
+   "share_of_confirmed_pct": 80.0,
+   "allocated_unknown": 124.8,
+   "estimated_members": 132.8,
+   "monthly_net_confirmed": 2495,
+   "monthly_net_estimated": 41409
   },
   {
    "tier": "ほごしゃ会",
    "price": 1190,
    "net_per_member": 757.3,
-   "confirmed_members": 1,
-   "share_of_confirmed_pct": 12.5,
-   "allocated_unknown": 19.4,
-   "estimated_members": 20.4,
-   "monthly_net_confirmed": 757,
-   "monthly_net_estimated": 15429
+   "confirmed_members": 2,
+   "share_of_confirmed_pct": 20.0,
+   "allocated_unknown": 31.2,
+   "estimated_members": 33.2,
+   "monthly_net_confirmed": 1515,
+   "monthly_net_estimated": 25141
   }
  ],
  "revenue": {
-  "monthly_low": 51272,
-  "monthly_est": 59902,
+  "monthly_low": 52653,
+  "monthly_est": 66551,
   "gift_once": 0,
-  "total_low": 51272,
-  "total_est": 59902,
-  "paying_members": 163,
+  "total_low": 52653,
+  "total_est": 66551,
+  "paying_members": 166,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -222,6 +222,16 @@
    "member_chatters": 58,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "J-odUivXbow",
+   "start": "2026-10-23 20:00",
+   "title": "【 #にじEX_OW 】スクリムDAY1いくぞい！ #はくさいWIN【海妹四葉/にじさんじ】",
+   "kind": "配信",
+   "chatters": 100,
+   "member_chatters": 52,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -257,15 +267,15 @@
     "from": "2026-10-05",
     "to": "2026-10-24"
    },
-   "streams_analyzed": 12,
+   "streams_analyzed": 13,
    "streams_missed": 0,
-   "unique_chatters": 1319,
-   "members_confirmed": 163,
+   "unique_chatters": 1340,
+   "members_confirmed": 166,
    "member_classes": {
-    "unknown": 155,
-    "known": 8
+    "unknown": 156,
+    "known": 10
    },
-   "long_term_members": 130,
+   "long_term_members": 133,
    "badges": [
     {
      "months": 0,
@@ -285,7 +295,7 @@
     },
     {
      "months": 12,
-     "members": 24
+     "members": 25
     },
     {
      "months": 24,
@@ -293,35 +303,35 @@
     },
     {
      "months": 36,
-     "members": 89
+     "members": 91
     }
    ],
    "events": {
     "new_members": 3,
     "rejoins": 1,
-    "milestones": 5,
+    "milestones": 7,
     "gifted_total": 0
    },
    "tiers": [
     {
      "tier": "コアツメイト",
      "price": 490,
-     "confirmed_members": 7,
-     "estimated_members": 142.6
+     "confirmed_members": 8,
+     "estimated_members": 132.8
     },
     {
      "tier": "ほごしゃ会",
      "price": 1190,
-     "confirmed_members": 1,
-     "estimated_members": 20.4
+     "confirmed_members": 2,
+     "estimated_members": 33.2
     }
    ],
    "revenue": {
-    "monthly_low": 51272,
-    "monthly_est": 59902,
+    "monthly_low": 52653,
+    "monthly_est": 66551,
     "gift_once": 0
    },
-   "avg_member_chatters": 52.8,
+   "avg_member_chatters": 52.7,
    "partial": true,
    "finalized": false
   }

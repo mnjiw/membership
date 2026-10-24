@@ -3,41 +3,41 @@
  "channel_id": "UCwjlRIySBvZ-kLV5bfjya4A",
  "handle": "@MikogamiKotone_Y4T4",
  "subscribers": 225000,
- "fetched_at": "2026-10-24 05:32",
- "generated_at": "2026-10-24 05:32",
+ "fetched_at": "2026-10-24 09:42",
+ "generated_at": "2026-10-24 09:42",
  "period": {
-  "from": "2026-09-24 05:32",
-  "to": "2026-10-24 05:32",
+  "from": "2026-09-24 09:42",
+  "to": "2026-10-24 09:42",
   "days": 30
  },
- "streams_analyzed": 15,
- "streams_missed": 2,
- "unique_chatters": 8130,
- "members_confirmed": 1153,
+ "streams_analyzed": 16,
+ "streams_missed": 1,
+ "unique_chatters": 8165,
+ "members_confirmed": 1162,
  "member_classes": {
-  "unknown": 949,
-  "known": 144,
+  "unknown": 954,
+  "known": 148,
   "gift": 60
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 181
+   "members": 184
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 65
+   "members": 66
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 907
+   "members": 912
   }
  ],
  "events": {
-  "new_members": 41,
+  "new_members": 45,
   "rejoins": 10,
   "milestones": 95,
   "gift_purchases": 7,
@@ -50,21 +50,21 @@
    "tier": "御子神家使用人",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 144,
+   "confirmed_members": 148,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 949.0,
-   "estimated_members": 1093.0,
-   "monthly_net_confirmed": 44902,
-   "monthly_net_estimated": 340817
+   "allocated_unknown": 954.0,
+   "estimated_members": 1102.0,
+   "monthly_net_confirmed": 46149,
+   "monthly_net_estimated": 343624
   }
  ],
  "revenue": {
-  "monthly_low": 340817,
-  "monthly_est": 340817,
+  "monthly_low": 343624,
+  "monthly_est": 343624,
   "gift_once": 18709,
-  "total_low": 359526,
-  "total_est": 359526,
-  "paying_members": 1093,
+  "total_low": 362333,
+  "total_est": 362333,
+  "paying_members": 1102,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -222,6 +222,16 @@
    "member_chatters": 142,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "6dDK2YN4AM4",
+   "start": "2026-10-23 21:26",
+   "title": "【Overwatch】#にじEX_OW チームわんおぺ、スクリムDAY1！すべてを学びに。【御子神琴音 / にじさんじ】",
+   "kind": "配信",
+   "chatters": 353,
+   "member_chatters": 193,
+   "new_members": 4,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -236,18 +246,6 @@
    "members_level": "",
    "like_count": 471,
    "view_count": null
-  },
-  {
-   "video_id": "6dDK2YN4AM4",
-   "start": "2026-10-23 00:00",
-   "title": "【Overwatch】#にじEX_OW チームわんおぺ、スクリムDAY1！すべてを学びに。【御子神琴音 / にじさんじ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 962,
-   "view_count": 62597
   }
  ],
  "members_only_content": [
@@ -323,32 +321,32 @@
     "from": "2026-10-01",
     "to": "2026-10-24"
    },
-   "streams_analyzed": 11,
-   "streams_missed": 2,
-   "unique_chatters": 6738,
-   "members_confirmed": 1046,
+   "streams_analyzed": 12,
+   "streams_missed": 1,
+   "unique_chatters": 6779,
+   "members_confirmed": 1056,
    "member_classes": {
-    "unknown": 846,
-    "known": 140,
+    "unknown": 851,
+    "known": 145,
     "gift": 60
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 164
+     "members": 168
     },
     {
      "months": 1,
-     "members": 61
+     "members": 62
     },
     {
      "months": 2,
-     "members": 821
+     "members": 826
     }
    ],
    "events": {
-    "new_members": 37,
+    "new_members": 41,
     "rejoins": 10,
     "milestones": 87,
     "gifted_total": 60
@@ -357,16 +355,16 @@
     {
      "tier": "御子神家使用人",
      "price": 490,
-     "confirmed_members": 140,
-     "estimated_members": 986.0
+     "confirmed_members": 145,
+     "estimated_members": 996.0
     }
    ],
    "revenue": {
-    "monthly_low": 307453,
-    "monthly_est": 307453,
+    "monthly_low": 310571,
+    "monthly_est": 310571,
     "gift_once": 18709
    },
-   "avg_member_chatters": 306.2,
+   "avg_member_chatters": 296.8,
    "partial": true,
    "finalized": false
   }

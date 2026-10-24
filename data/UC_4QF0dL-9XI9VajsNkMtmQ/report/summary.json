@@ -3,45 +3,45 @@
  "channel_id": "UC_4QF0dL-9XI9VajsNkMtmQ",
  "handle": "@Rei7_Y4T4",
  "subscribers": 176000,
- "fetched_at": "2026-10-24 05:32",
- "generated_at": "2026-10-24 05:32",
+ "fetched_at": "2026-10-24 09:42",
+ "generated_at": "2026-10-24 09:42",
  "period": {
-  "from": "2026-09-24 05:32",
-  "to": "2026-10-24 05:32",
+  "from": "2026-09-24 09:42",
+  "to": "2026-10-24 09:42",
   "days": 30
  },
  "streams_analyzed": 31,
- "streams_missed": 3,
- "unique_chatters": 6047,
- "members_confirmed": 733,
+ "streams_missed": 2,
+ "unique_chatters": 5740,
+ "members_confirmed": 706,
  "member_classes": {
-  "unknown": 662,
-  "known": 55,
+  "unknown": 632,
+  "known": 58,
   "gift": 16
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 108
+   "members": 102
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 83
+   "members": 80
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 542
+   "members": 524
   }
  ],
  "events": {
-  "new_members": 33,
+  "new_members": 35,
   "rejoins": 7,
   "milestones": 0,
-  "gift_purchases": 4,
-  "gifted_total": 17,
+  "gift_purchases": 3,
+  "gifted_total": 16,
   "gift_redemptions": 16
  },
  "tiers_configured": true,
@@ -50,21 +50,21 @@
    "tier": "Ris7",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 55,
+   "confirmed_members": 58,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 662.0,
-   "estimated_members": 717.0,
-   "monthly_net_confirmed": 17150,
-   "monthly_net_estimated": 223574
+   "allocated_unknown": 632.0,
+   "estimated_members": 690.0,
+   "monthly_net_confirmed": 18085,
+   "monthly_net_estimated": 215155
   }
  ],
  "revenue": {
-  "monthly_low": 223574,
-  "monthly_est": 223574,
-  "gift_once": 5301,
-  "total_low": 228875,
-  "total_est": 228875,
-  "paying_members": 717,
+  "monthly_low": 215155,
+  "monthly_est": 215155,
+  "gift_once": 4989,
+  "total_low": 220144,
+  "total_est": 220144,
+  "paying_members": 690,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "ZAgcP3Ir6k8",
-   "start": "2026-09-24 06:59",
-   "title": "早朝【 Rei7 / にじさんじ 】",
-   "kind": "配信",
-   "chatters": 888,
-   "member_chatters": 244,
-   "new_members": 1,
-   "gifted_total": 1
-  },
   {
    "video_id": "3b2zjvkkZRQ",
    "start": "2026-09-26 06:20",
@@ -382,6 +372,16 @@
    "member_chatters": 83,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "VKwE0uB-yOY",
+   "start": "2026-10-23 21:33",
+   "title": "【 Overwatch 】#にじEX_OW スクリム初日。ﾀﾞﾊﾟｰｰｰｰｰ 【 Rei7 / にじさんじ 】",
+   "kind": "配信",
+   "chatters": 118,
+   "member_chatters": 74,
+   "new_members": 3,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -406,20 +406,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 1261,
-   "view_count": 81201
-  },
-  {
-   "video_id": "VKwE0uB-yOY",
-   "start": "2026-10-23 00:00",
-   "title": "【 Overwatch 】#にじEX_OW スクリム初日。ﾀﾞﾊﾟｰｰｰｰｰ 【 Rei7 / にじさんじ 】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 554,
-   "view_count": 30425
+   "like_count": 1267,
+   "view_count": 81474
   }
  ],
  "members_only_content": [
@@ -495,32 +483,32 @@
     "from": "2026-10-01",
     "to": "2026-10-24"
    },
-   "streams_analyzed": 24,
-   "streams_missed": 3,
-   "unique_chatters": 4513,
-   "members_confirmed": 614,
+   "streams_analyzed": 25,
+   "streams_missed": 2,
+   "unique_chatters": 4528,
+   "members_confirmed": 621,
    "member_classes": {
-    "unknown": 557,
-    "known": 51,
+    "unknown": 561,
+    "known": 54,
     "gift": 6
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 70
+     "members": 73
     },
     {
      "months": 1,
-     "members": 66
+     "members": 67
     },
     {
      "months": 2,
-     "members": 478
+     "members": 481
     }
    ],
    "events": {
-    "new_members": 27,
+    "new_members": 30,
     "rejoins": 6,
     "milestones": 0,
     "gifted_total": 6
@@ -529,16 +517,16 @@
     {
      "tier": "Ris7",
      "price": 490,
-     "confirmed_members": 51,
-     "estimated_members": 608.0
+     "confirmed_members": 54,
+     "estimated_members": 615.0
     }
    ],
    "revenue": {
-    "monthly_low": 189585,
-    "monthly_est": 189585,
+    "monthly_low": 191768,
+    "monthly_est": 191768,
     "gift_once": 1871
    },
-   "avg_member_chatters": 125.8,
+   "avg_member_chatters": 123.8,
    "partial": true,
    "finalized": false
   }
