@@ -3,27 +3,27 @@
  "channel_id": "UCmZ1Rbthn-6Jm_qOGjYsh5A",
  "handle": "@Ibrahim",
  "subscribers": 926000,
- "fetched_at": "2026-10-25 05:26",
- "generated_at": "2026-10-25 05:26",
+ "fetched_at": "2026-10-25 09:20",
+ "generated_at": "2026-10-25 09:21",
  "period": {
-  "from": "2026-09-25 05:26",
-  "to": "2026-10-25 05:26",
+  "from": "2026-09-25 09:20",
+  "to": "2026-10-25 09:20",
   "days": 30
  },
- "streams_analyzed": 24,
- "streams_missed": 1,
- "unique_chatters": 8332,
- "members_confirmed": 1454,
+ "streams_analyzed": 25,
+ "streams_missed": 0,
+ "unique_chatters": 8396,
+ "members_confirmed": 1463,
  "member_classes": {
-  "unknown": 1258,
+  "unknown": 1262,
   "known": 105,
-  "gift": 91
+  "gift": 96
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 113
+   "members": 118
   },
   {
    "months": 1,
@@ -43,21 +43,21 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 168
+   "members": 169
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 980
+   "members": 983
   }
  ],
  "events": {
   "new_members": 14,
   "rejoins": 12,
   "milestones": 73,
-  "gift_purchases": 14,
-  "gifted_total": 91,
-  "gift_redemptions": 91
+  "gift_purchases": 15,
+  "gifted_total": 96,
+  "gift_redemptions": 96
  },
  "tiers_configured": true,
  "tiers": [
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 105,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1258.0,
-   "estimated_members": 1363.0,
+   "allocated_unknown": 1262.0,
+   "estimated_members": 1367.0,
    "monthly_net_confirmed": 32741,
-   "monthly_net_estimated": 425008
+   "monthly_net_estimated": 426255
   }
  ],
  "revenue": {
-  "monthly_low": 425008,
-  "monthly_est": 425008,
-  "gift_once": 28375,
-  "total_low": 453384,
-  "total_est": 453384,
-  "paying_members": 1363,
+  "monthly_low": 426255,
+  "monthly_est": 426255,
+  "gift_once": 29935,
+  "total_low": 456190,
+  "total_est": 456190,
+  "paying_members": 1367,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -327,22 +327,19 @@
    "member_chatters": 377,
    "new_members": 0,
    "gifted_total": 10
-  }
- ],
- "missed_streams": [
+  },
   {
    "video_id": "fPNKQYUQvro",
-   "start": "2026-10-24 00:00",
+   "start": "2026-10-24 19:04",
    "title": "【OW│Nijisanji Extreme Match】スクリム2日目『Hacks Eye 1/4』【にじさんじ/イブラヒム】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 1369,
-   "view_count": 146281
+   "kind": "配信",
+   "chatters": 694,
+   "member_chatters": 376,
+   "new_members": 0,
+   "gifted_total": 5
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -417,20 +414,20 @@
     "from": "2026-10-01",
     "to": "2026-10-25"
    },
-   "streams_analyzed": 18,
-   "streams_missed": 1,
-   "unique_chatters": 5915,
-   "members_confirmed": 1310,
+   "streams_analyzed": 19,
+   "streams_missed": 0,
+   "unique_chatters": 5986,
+   "members_confirmed": 1320,
    "member_classes": {
-    "unknown": 1143,
+    "unknown": 1148,
     "known": 86,
-    "gift": 81
+    "gift": 86
    },
-   "long_term_members": 1036,
+   "long_term_members": 1041,
    "badges": [
     {
      "months": 0,
-     "members": 100
+     "members": 105
     },
     {
      "months": 1,
@@ -446,33 +443,33 @@
     },
     {
      "months": 12,
-     "members": 158
+     "members": 159
     },
     {
      "months": 24,
-     "members": 878
+     "members": 882
     }
    ],
    "events": {
     "new_members": 12,
     "rejoins": 7,
     "milestones": 14,
-    "gifted_total": 81
+    "gifted_total": 86
    },
    "tiers": [
     {
      "tier": "イブラヒムのメンバーシップ",
      "price": 490,
      "confirmed_members": 86,
-     "estimated_members": 1229.0
+     "estimated_members": 1234.0
     }
    ],
    "revenue": {
-    "monthly_low": 383225,
-    "monthly_est": 383225,
-    "gift_once": 25257
+    "monthly_low": 384784,
+    "monthly_est": 384784,
+    "gift_once": 26816
    },
-   "avg_member_chatters": 417.8,
+   "avg_member_chatters": 415.6,
    "partial": true,
    "finalized": false
   }

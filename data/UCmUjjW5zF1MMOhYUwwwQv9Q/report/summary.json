@@ -3,19 +3,19 @@
  "channel_id": "UCmUjjW5zF1MMOhYUwwwQv9Q",
  "handle": "@UshimiIchigo",
  "subscribers": 190000,
- "fetched_at": "2026-10-25 05:18",
- "generated_at": "2026-10-25 05:18",
+ "fetched_at": "2026-10-25 09:19",
+ "generated_at": "2026-10-25 09:19",
  "period": {
-  "from": "2026-09-25 05:18",
-  "to": "2026-10-25 05:18",
+  "from": "2026-09-25 09:19",
+  "to": "2026-10-25 09:19",
   "days": 30
  },
- "streams_analyzed": 8,
- "streams_missed": 1,
- "unique_chatters": 491,
- "members_confirmed": 85,
+ "streams_analyzed": 9,
+ "streams_missed": 0,
+ "unique_chatters": 562,
+ "members_confirmed": 90,
  "member_classes": {
-  "unknown": 85
+  "unknown": 90
  },
  "badges": [
   {
@@ -36,12 +36,12 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 78
+   "members": 83
   }
  ],
  "events": {
   "new_members": 1,
-  "rejoins": 1,
+  "rejoins": 2,
   "milestones": 5,
   "gift_purchases": 0,
   "gifted_total": 0,
@@ -55,19 +55,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 0,
    "share_of_confirmed_pct": "",
-   "allocated_unknown": 85.0,
-   "estimated_members": 85.0,
+   "allocated_unknown": 90.0,
+   "estimated_members": 90.0,
    "monthly_net_confirmed": 0,
-   "monthly_net_estimated": 26505
+   "monthly_net_estimated": 28064
   }
  ],
  "revenue": {
-  "monthly_low": 26505,
-  "monthly_est": 26505,
+  "monthly_low": 28064,
+  "monthly_est": 28064,
   "gift_once": 0,
-  "total_low": 26505,
-  "total_est": 26505,
-  "paying_members": 85,
+  "total_low": 28064,
+  "total_est": 28064,
+  "paying_members": 90,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -155,22 +155,19 @@
    "member_chatters": 26,
    "new_members": 0,
    "gifted_total": 0
-  }
- ],
- "missed_streams": [
+  },
   {
    "video_id": "CEnwNRr46bc",
-   "start": "2026-10-24 00:00",
+   "start": "2026-10-24 18:13",
    "title": "【OW】🍓スクリム２日目！まなびをいかして成長するはくさい　OVERWATCH🍓",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 679,
-   "view_count": 43099
+   "kind": "配信",
+   "chatters": 185,
+   "member_chatters": 51,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -179,12 +176,12 @@
     "from": "2026-10-19",
     "to": "2026-10-25"
    },
-   "streams_analyzed": 8,
-   "streams_missed": 1,
-   "unique_chatters": 491,
-   "members_confirmed": 85,
+   "streams_analyzed": 9,
+   "streams_missed": 0,
+   "unique_chatters": 562,
+   "members_confirmed": 90,
    "member_classes": {
-    "unknown": 85
+    "unknown": 90
    },
    "long_term_members": 0,
    "badges": [
@@ -202,12 +199,12 @@
     },
     {
      "months": 6,
-     "members": 78
+     "members": 83
     }
    ],
    "events": {
     "new_members": 1,
-    "rejoins": 1,
+    "rejoins": 2,
     "milestones": 5,
     "gifted_total": 0
    },
@@ -216,15 +213,15 @@
      "tier": "メンバーシップ",
      "price": 490,
      "confirmed_members": 0,
-     "estimated_members": 85.0
+     "estimated_members": 90.0
     }
    ],
    "revenue": {
-    "monthly_low": 26505,
-    "monthly_est": 26505,
+    "monthly_low": 28064,
+    "monthly_est": 28064,
     "gift_once": 0
    },
-   "avg_member_chatters": 37.8,
+   "avg_member_chatters": 39.2,
    "partial": true,
    "finalized": false
   }

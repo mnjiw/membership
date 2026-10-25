@@ -3,27 +3,27 @@
  "channel_id": "UC_4QF0dL-9XI9VajsNkMtmQ",
  "handle": "@Rei7_Y4T4",
  "subscribers": 176000,
- "fetched_at": "2026-10-25 05:37",
- "generated_at": "2026-10-25 05:38",
+ "fetched_at": "2026-10-25 09:22",
+ "generated_at": "2026-10-25 09:22",
  "period": {
-  "from": "2026-09-25 05:37",
-  "to": "2026-10-25 05:37",
+  "from": "2026-09-25 09:22",
+  "to": "2026-10-25 09:22",
   "days": 30
  },
- "streams_analyzed": 32,
- "streams_missed": 2,
- "unique_chatters": 5968,
- "members_confirmed": 737,
+ "streams_analyzed": 33,
+ "streams_missed": 1,
+ "unique_chatters": 5986,
+ "members_confirmed": 740,
  "member_classes": {
-  "unknown": 655,
-  "known": 61,
+  "unknown": 656,
+  "known": 63,
   "gift": 21
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 108
+   "members": 110
   },
   {
    "months": 1,
@@ -33,11 +33,11 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 544
+   "members": 545
   }
  ],
  "events": {
-  "new_members": 38,
+  "new_members": 40,
   "rejoins": 7,
   "milestones": 0,
   "gift_purchases": 4,
@@ -50,21 +50,21 @@
    "tier": "Ris7",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 61,
+   "confirmed_members": 63,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 655.0,
-   "estimated_members": 716.0,
-   "monthly_net_confirmed": 19021,
-   "monthly_net_estimated": 223262
+   "allocated_unknown": 656.0,
+   "estimated_members": 719.0,
+   "monthly_net_confirmed": 19645,
+   "monthly_net_estimated": 224197
   }
  ],
  "revenue": {
-  "monthly_low": 223262,
-  "monthly_est": 223262,
+  "monthly_low": 224197,
+  "monthly_est": 224197,
   "gift_once": 6548,
-  "total_low": 229810,
-  "total_est": 229810,
-  "paying_members": 716,
+  "total_low": 230745,
+  "total_est": 230745,
+  "paying_members": 719,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -384,6 +384,16 @@
    "gifted_total": 0
   },
   {
+   "video_id": "StQ0W3GtywQ",
+   "start": "2026-10-24 19:02",
+   "title": "【 Overwatch 】自主練→D4P4スクリム2日目。GOGO 【 Rei7 / にじさんじ 】#にじEX_OW",
+   "kind": "配信",
+   "chatters": 158,
+   "member_chatters": 89,
+   "new_members": 2,
+   "gifted_total": 0
+  },
+  {
    "video_id": "ExFbF0R3TKU",
    "start": "2026-10-25 01:33",
    "title": "少しだけ【 Rei7 / にじさんじ 】",
@@ -406,18 +416,6 @@
    "members_level": "Ris7",
    "like_count": 184,
    "view_count": null
-  },
-  {
-   "video_id": "StQ0W3GtywQ",
-   "start": "2026-10-24 00:00",
-   "title": "【 Overwatch 】自主練→D4P4スクリム2日目。GOGO 【 Rei7 / にじさんじ 】#にじEX_OW",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 667,
-   "view_count": 40981
   }
  ],
  "members_only_content": [
@@ -493,20 +491,20 @@
     "from": "2026-10-01",
     "to": "2026-10-25"
    },
-   "streams_analyzed": 26,
-   "streams_missed": 2,
-   "unique_chatters": 4792,
-   "members_confirmed": 656,
+   "streams_analyzed": 27,
+   "streams_missed": 1,
+   "unique_chatters": 4811,
+   "members_confirmed": 659,
    "member_classes": {
-    "unknown": 588,
-    "known": 57,
+    "unknown": 589,
+    "known": 59,
     "gift": 11
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 80
+     "members": 82
     },
     {
      "months": 1,
@@ -514,11 +512,11 @@
     },
     {
      "months": 2,
-     "members": 504
+     "members": 505
     }
    ],
    "events": {
-    "new_members": 33,
+    "new_members": 35,
     "rejoins": 6,
     "milestones": 0,
     "gifted_total": 11
@@ -527,16 +525,16 @@
     {
      "tier": "Ris7",
      "price": 490,
-     "confirmed_members": 57,
-     "estimated_members": 645.0
+     "confirmed_members": 59,
+     "estimated_members": 648.0
     }
    ],
    "revenue": {
-    "monthly_low": 201123,
-    "monthly_est": 201123,
+    "monthly_low": 202058,
+    "monthly_est": 202058,
     "gift_once": 3430
    },
-   "avg_member_chatters": 126.7,
+   "avg_member_chatters": 125.3,
    "partial": true,
    "finalized": false
   }
