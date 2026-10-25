@@ -3,19 +3,19 @@
  "channel_id": "UChUJbHiTVeGrSkTdBzVfNCQ",
  "handle": "@JoeRikiichi",
  "subscribers": 666000,
- "fetched_at": "2026-10-25 09:19",
- "generated_at": "2026-10-25 09:20",
+ "fetched_at": "2026-10-26 05:22",
+ "generated_at": "2026-10-26 05:23",
  "period": {
-  "from": "2026-09-25 09:19",
-  "to": "2026-10-25 09:19",
+  "from": "2026-09-26 05:22",
+  "to": "2026-10-26 05:22",
   "days": 30
  },
- "streams_analyzed": 9,
+ "streams_analyzed": 10,
  "streams_missed": 1,
- "unique_chatters": 4306,
- "members_confirmed": 785,
+ "unique_chatters": 4685,
+ "members_confirmed": 795,
  "member_classes": {
-  "unknown": 694,
+  "unknown": 704,
   "known": 41,
   "gift": 50
  },
@@ -28,33 +28,33 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 19
+   "members": 20
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 65
+   "members": 64
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 58
+   "members": 61
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 102
+   "members": 104
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 459
+   "members": 464
   }
  ],
  "events": {
   "new_members": 11,
   "rejoins": 3,
-  "milestones": 17,
+  "milestones": 18,
   "gift_purchases": 3,
   "gifted_total": 50,
   "gift_redemptions": 50
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 41,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 694.0,
-   "estimated_members": 735.0,
+   "allocated_unknown": 704.0,
+   "estimated_members": 745.0,
    "monthly_net_confirmed": 12785,
-   "monthly_net_estimated": 229186
+   "monthly_net_estimated": 232305
   }
  ],
  "revenue": {
-  "monthly_low": 229186,
-  "monthly_est": 229186,
+  "monthly_low": 232305,
+  "monthly_est": 232305,
   "gift_once": 15591,
-  "total_low": 244777,
-  "total_est": 244777,
-  "paying_members": 735,
+  "total_low": 247895,
+  "total_est": 247895,
+  "paying_members": 745,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -177,6 +177,16 @@
    "member_chatters": 224,
    "new_members": 2,
    "gifted_total": 0
+  },
+  {
+   "video_id": "-nepuweF_xQ",
+   "start": "2026-10-25 14:05",
+   "title": "【ラジオ】ジョー・力一の空昼ブランコ #110【にじさんじ】",
+   "kind": "配信",
+   "chatters": 1071,
+   "member_chatters": 188,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -189,8 +199,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 2144,
-   "view_count": 80083
+   "like_count": 3283,
+   "view_count": 141501
   }
  ],
  "members_only_content": [],
@@ -265,26 +275,26 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-25"
+    "to": "2026-10-26"
    },
-   "streams_analyzed": 7,
+   "streams_analyzed": 8,
    "streams_missed": 1,
-   "unique_chatters": 3466,
-   "members_confirmed": 632,
+   "unique_chatters": 3897,
+   "members_confirmed": 647,
    "member_classes": {
-    "unknown": 577,
-    "known": 35,
+    "unknown": 591,
+    "known": 36,
     "gift": 20
    },
-   "long_term_members": 469,
+   "long_term_members": 479,
    "badges": [
     {
      "months": 0,
-     "members": 43
+     "members": 44
     },
     {
      "months": 1,
-     "members": 17
+     "members": 18
     },
     {
      "months": 2,
@@ -292,37 +302,37 @@
     },
     {
      "months": 6,
-     "members": 49
+     "members": 52
     },
     {
      "months": 12,
-     "members": 86
+     "members": 89
     },
     {
      "months": 24,
-     "members": 383
+     "members": 390
     }
    ],
    "events": {
     "new_members": 5,
     "rejoins": 2,
-    "milestones": 8,
+    "milestones": 9,
     "gifted_total": 20
    },
    "tiers": [
     {
      "tier": "ジョー・力一のメン・バー",
      "price": 490,
-     "confirmed_members": 35,
-     "estimated_members": 612.0
+     "confirmed_members": 36,
+     "estimated_members": 627.0
     }
    ],
    "revenue": {
-    "monthly_low": 190833,
-    "monthly_est": 190833,
+    "monthly_low": 195510,
+    "monthly_est": 195510,
     "gift_once": 6236
    },
-   "avg_member_chatters": 237.9,
+   "avg_member_chatters": 231.6,
    "partial": true,
    "finalized": false
   }

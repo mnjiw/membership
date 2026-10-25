@@ -3,15 +3,15 @@
  "channel_id": "UCeK9HFcRZoTrvqcUCtccMoQ",
  "handle": "@ShibuyaHajime",
  "subscribers": 161000,
- "fetched_at": "2026-10-25 09:19",
- "generated_at": "2026-10-25 09:19",
+ "fetched_at": "2026-10-26 05:18",
+ "generated_at": "2026-10-26 05:18",
  "period": {
-  "from": "2026-09-25 09:19",
-  "to": "2026-10-25 09:19",
+  "from": "2026-09-26 05:18",
+  "to": "2026-10-26 05:18",
   "days": 30
  },
  "streams_analyzed": 22,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 290,
  "members_confirmed": 60,
  "member_classes": {
@@ -307,7 +307,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "ud0ZrCZKhWs",
+   "start": "2026-10-25 00:00",
+   "title": "【遊戯王マスターデュエル】DCLv17幻影騎士団で回す！！【にじさんじ/渋谷ハジメ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 133,
+   "view_count": 5287
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -378,10 +391,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-25"
+    "to": "2026-10-26"
    },
    "streams_analyzed": 19,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 281,
    "members_confirmed": 57,
    "member_classes": {

@@ -30,8 +30,8 @@
    "checked_at": "2026-10-07 07:37",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1792873222.1877036,
-   "likes_checked_at": "2026-10-25 05:20"
+   "likes_checked_ts": 1792959624.4738405,
+   "likes_checked_at": "2026-10-26 05:20"
   },
   "D3cMXNoKNDo": {
    "id": "D3cMXNoKNDo",
@@ -63,8 +63,8 @@
    "checked_at": "2026-10-07 07:37",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1792873222.1877036,
-   "likes_checked_at": "2026-10-25 05:20"
+   "likes_checked_ts": 1792959624.4738405,
+   "likes_checked_at": "2026-10-26 05:20"
   },
   "Hdjl9DQGqIs": {
    "id": "Hdjl9DQGqIs",
@@ -494,8 +494,8 @@
    "checked_at": "2026-10-12 05:19",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1792873222.1877036,
-   "likes_checked_at": "2026-10-25 05:20"
+   "likes_checked_ts": 1792959624.4738405,
+   "likes_checked_at": "2026-10-26 05:20"
   },
   "njIDLuRVTqo": {
    "id": "njIDLuRVTqo",
@@ -580,8 +580,8 @@
    "checked_at": "2026-10-19 05:18",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1792873222.1877036,
-   "likes_checked_at": "2026-10-25 05:20"
+   "likes_checked_ts": 1792959624.4738405,
+   "likes_checked_at": "2026-10-26 05:20"
   },
   "ewMw8cgDnLg": {
    "id": "ewMw8cgDnLg",
@@ -598,7 +598,9 @@
    "checked_at": "2026-10-24 05:20",
    "info_limited": true,
    "settled_while_limited": true,
-   "status": "no_chat"
+   "status": "no_chat",
+   "rechecked_ts": 1792959624.4738405,
+   "rechecked_at": "2026-10-26 05:20"
   },
   "r5CTbTvhLiE": {
    "id": "r5CTbTvhLiE",
@@ -616,14 +618,70 @@
    "info_limited": true,
    "start_from_chat": true,
    "status": "ok"
+  },
+  "8VRd4t9N0Gk": {
+   "id": "8VRd4t9N0Gk",
+   "title": "【メン限】『チェンソーマン総集編 前編』 同時視聴する 2026.10.25",
+   "kind": "live",
+   "start_ts": 1792929844,
+   "start_jst": "2026-10-25 21:04",
+   "duration_sec": 8325,
+   "view_count": null,
+   "like_count": 39,
+   "live_status": "was_live",
+   "members_only": true,
+   "has_chat": false,
+   "checked_at": "2026-10-26 05:20",
+   "members_level": "",
+   "status": "members_only",
+   "likes_checked_ts": 1792959624.4738405,
+   "likes_checked_at": "2026-10-26 05:20"
+  },
+  "L5d-dktqwGg": {
+   "id": "L5d-dktqwGg",
+   "title": "【ボイス試聴】にじさんじ妖怪パロディボイス - 鈴木勝 - 【10/31まで】",
+   "kind": "video",
+   "start_ts": 1792854000.0,
+   "start_jst": "2026-10-25 00:00",
+   "duration_sec": null,
+   "view_count": 2107,
+   "like_count": 83,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": false,
+   "checked_at": "2026-10-26 05:20",
+   "info_limited": true,
+   "error": "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)",
+   "tab": "video",
+   "status": "error",
+   "failed_since_ts": 1792959624.4738405
+  },
+  "k_eOmvyWaV0": {
+   "id": "k_eOmvyWaV0",
+   "title": "【ボイス試聴】にじさんじナイショのお願いボイス - 鈴木勝 - 【10/31まで】",
+   "kind": "video",
+   "start_ts": 1792854000.0,
+   "start_jst": "2026-10-25 00:00",
+   "duration_sec": null,
+   "view_count": 1426,
+   "like_count": 73,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": false,
+   "checked_at": "2026-10-26 05:20",
+   "info_limited": true,
+   "error": "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)",
+   "tab": "video",
+   "status": "error",
+   "failed_since_ts": 1792959624.4738405
   }
  },
  "channel": "鈴木勝 / Suzuki Masaru【Nijisanji】",
  "channel_id": "UCryOPk2GZ1meIDt53tL30Tw",
  "handle": "@SuzukiMasaru",
  "subscribers": 332000,
- "fetched_at": "2026-10-25 09:19",
- "fetched_at_ts": 1792887582.4869304,
- "checked_from": "2026-10-18 09:19",
+ "fetched_at": "2026-10-26 05:20",
+ "fetched_at_ts": 1792959624.4738405,
+ "checked_from": "2026-10-19 05:20",
  "initial_fetch_done": true
 }

@@ -3,32 +3,32 @@
  "channel_id": "UCkhViRjLUKgIcVpar9JiNrw",
  "handle": "@TamanoiNana",
  "subscribers": 363000,
- "fetched_at": "2026-10-25 09:21",
- "generated_at": "2026-10-25 09:21",
+ "fetched_at": "2026-10-26 05:39",
+ "generated_at": "2026-10-26 05:39",
  "period": {
-  "from": "2026-09-25 09:21",
-  "to": "2026-10-25 09:21",
+  "from": "2026-09-26 05:39",
+  "to": "2026-10-26 05:39",
   "days": 30
  },
  "streams_analyzed": 13,
  "streams_missed": 2,
- "unique_chatters": 3003,
- "members_confirmed": 625,
+ "unique_chatters": 2963,
+ "members_confirmed": 631,
  "member_classes": {
-  "unknown": 532,
-  "known": 43,
-  "gift": 50
+  "known": 42,
+  "unknown": 544,
+  "gift": 45
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 85
+   "members": 81
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 23
+   "members": 22
   },
   {
    "months": 2,
@@ -38,26 +38,26 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 82
+   "members": 83
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 189
+   "members": 196
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 194
+   "members": 197
   }
  ],
  "events": {
-  "new_members": 17,
+  "new_members": 16,
   "rejoins": 3,
   "milestones": 16,
-  "gift_purchases": 7,
-  "gifted_total": 50,
-  "gift_redemptions": 50
+  "gift_purchases": 6,
+  "gifted_total": 45,
+  "gift_redemptions": 45
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +65,21 @@
    "tier": "ななかま",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 43,
+   "confirmed_members": 42,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 532.0,
-   "estimated_members": 575.0,
-   "monthly_net_confirmed": 13408,
-   "monthly_net_estimated": 179295
+   "allocated_unknown": 544.0,
+   "estimated_members": 586.0,
+   "monthly_net_confirmed": 13096,
+   "monthly_net_estimated": 182725
   }
  ],
  "revenue": {
-  "monthly_low": 179295,
-  "monthly_est": 179295,
-  "gift_once": 15591,
-  "total_low": 194886,
-  "total_est": 194886,
-  "paying_members": 575,
+  "monthly_low": 182725,
+  "monthly_est": 182725,
+  "gift_once": 14032,
+  "total_low": 196757,
+  "total_est": 196757,
+  "paying_members": 586,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "0atB6-jGCqY",
-   "start": "2026-09-25 21:00",
-   "title": "【 魔法少女ノ魔女裁判 】#10 これはどういうコト...？【にじさんじ / 珠乃井ナナ】",
-   "kind": "配信",
-   "chatters": 849,
-   "member_chatters": 182,
-   "new_members": 1,
-   "gifted_total": 5
-  },
   {
    "video_id": "H8_3AIQ2VtM",
    "start": "2026-09-27 18:59",
@@ -217,6 +207,16 @@
    "member_chatters": 178,
    "new_members": 0,
    "gifted_total": 5
+  },
+  {
+   "video_id": "AcxRaS3p9bE",
+   "start": "2026-10-25 20:16",
+   "title": "【 インボキア-呪いのダイスゲーム- 】懸けるのは命！？呪いのボードゲーム開幕！！！！！！！【にじさんじ/珠乃井ナナ】",
+   "kind": "配信",
+   "chatters": 289,
+   "member_chatters": 157,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -229,7 +229,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "ななかま",
-   "like_count": 273,
+   "like_count": 274,
    "view_count": null
   },
   {
@@ -241,7 +241,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "ななかま",
-   "like_count": 327,
+   "like_count": 328,
    "view_count": null
   }
  ],
@@ -253,7 +253,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "ななかま",
-   "like_count": 273,
+   "like_count": 274,
    "view_count": null
   },
   {
@@ -263,7 +263,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "ななかま",
-   "like_count": 327,
+   "like_count": 328,
    "view_count": null
   }
  ],
@@ -338,18 +338,18 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-25"
+    "to": "2026-10-26"
    },
-   "streams_analyzed": 9,
+   "streams_analyzed": 10,
    "streams_missed": 2,
-   "unique_chatters": 2231,
-   "members_confirmed": 467,
+   "unique_chatters": 2327,
+   "members_confirmed": 487,
    "member_classes": {
-    "unknown": 421,
+    "unknown": 441,
     "known": 31,
     "gift": 15
    },
-   "long_term_members": 307,
+   "long_term_members": 324,
    "badges": [
     {
      "months": 0,
@@ -361,19 +361,19 @@
     },
     {
      "months": 2,
-     "members": 40
+     "members": 41
     },
     {
      "months": 6,
-     "members": 59
+     "members": 61
     },
     {
      "months": 12,
-     "members": 152
+     "members": 161
     },
     {
      "months": 24,
-     "members": 155
+     "members": 163
     }
    ],
    "events": {
@@ -387,15 +387,15 @@
      "tier": "ななかま",
      "price": 490,
      "confirmed_members": 31,
-     "estimated_members": 452.0
+     "estimated_members": 472.0
     }
    ],
    "revenue": {
-    "monthly_low": 140942,
-    "monthly_est": 140942,
+    "monthly_low": 147178,
+    "monthly_est": 147178,
     "gift_once": 4677
    },
-   "avg_member_chatters": 178.6,
+   "avg_member_chatters": 176.4,
    "partial": true,
    "finalized": false
   }

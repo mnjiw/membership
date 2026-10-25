@@ -3,20 +3,20 @@
  "channel_id": "UCdh-YF2gTzqDNu0VU9lwPPw",
  "handle": "@ClaudeClawmark",
  "subscribers": 160000,
- "fetched_at": "2026-10-25 09:22",
- "generated_at": "2026-10-25 09:22",
+ "fetched_at": "2026-10-26 05:45",
+ "generated_at": "2026-10-26 05:45",
  "period": {
-  "from": "2026-09-25 09:22",
-  "to": "2026-10-25 09:22",
+  "from": "2026-09-26 05:45",
+  "to": "2026-10-26 05:45",
   "days": 30
  },
- "streams_analyzed": 22,
+ "streams_analyzed": 21,
  "streams_missed": 3,
- "unique_chatters": 1859,
- "members_confirmed": 730,
+ "unique_chatters": 1768,
+ "members_confirmed": 724,
  "member_classes": {
-  "unknown": 304,
-  "known": 220,
+  "unknown": 299,
+  "known": 219,
   "gift": 206
  },
  "badges": [
@@ -28,7 +28,7 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 88
+   "members": 87
   },
   {
    "months": 6,
@@ -38,18 +38,18 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 162
+   "members": 160
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 174
+   "members": 171
   }
  ],
  "events": {
   "new_members": 13,
   "rejoins": 10,
-  "milestones": 158,
+  "milestones": 157,
   "gift_purchases": 27,
   "gifted_total": 206,
   "gift_redemptions": 206
@@ -60,21 +60,21 @@
    "tier": "Outclaws",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 220,
+   "confirmed_members": 219,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 304.0,
-   "estimated_members": 524.0,
-   "monthly_net_confirmed": 96600,
-   "monthly_net_estimated": 230084
+   "allocated_unknown": 299.0,
+   "estimated_members": 518.0,
+   "monthly_net_confirmed": 96161,
+   "monthly_net_estimated": 227449
   }
  ],
  "revenue": {
-  "monthly_low": 230084,
-  "monthly_est": 230084,
+  "monthly_low": 227449,
+  "monthly_est": 227449,
   "gift_once": 90453,
-  "total_low": 320536,
-  "total_est": 320536,
-  "paying_members": 524,
+  "total_low": 317902,
+  "total_est": 317902,
+  "paying_members": 518,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "CVv7vXccQ1s",
-   "start": "2026-09-25 12:07",
-   "title": "【VALORANT】i have assembled a team (again)",
-   "kind": "配信",
-   "chatters": 280,
-   "member_chatters": 119,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "lbAm6FhQfYQ",
    "start": "2026-09-28 23:04",
@@ -321,13 +311,13 @@
    "video_id": "cbT1wSPtw38",
    "start": "2026-10-22 00:00",
    "title": "Lake of Lassi",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
+   "kind": "live",
+   "status": "no_chat",
+   "reason": "チャットリプレイなし（アーカイブ編集・チャット無効の可能性）",
    "members_only": false,
    "members_level": "",
-   "like_count": 499,
-   "view_count": 12033
+   "like_count": 500,
+   "view_count": 12159
   },
   {
    "video_id": "cM_Gkd84vbE",
@@ -338,7 +328,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 131,
+   "like_count": 136,
    "view_count": null
   }
  ],
@@ -360,7 +350,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 131,
+   "like_count": 136,
    "view_count": null
   }
  ],
@@ -431,7 +421,7 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-25"
+    "to": "2026-10-26"
    },
    "streams_analyzed": 18,
    "streams_missed": 2,

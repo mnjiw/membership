@@ -3,15 +3,15 @@
  "channel_id": "UC_a1ZYZ8ZTXpjg9xUY9sj8w",
  "handle": "@LuluSuzuhara",
  "subscribers": 776000,
- "fetched_at": "2026-10-25 09:20",
- "generated_at": "2026-10-25 09:20",
+ "fetched_at": "2026-10-26 05:23",
+ "generated_at": "2026-10-26 05:23",
  "period": {
-  "from": "2026-09-25 09:20",
-  "to": "2026-10-25 09:20",
+  "from": "2026-09-26 05:23",
+  "to": "2026-10-26 05:23",
   "days": 30
  },
  "streams_analyzed": 20,
- "streams_missed": 3,
+ "streams_missed": 4,
  "unique_chatters": 5468,
  "members_confirmed": 765,
  "member_classes": {
@@ -299,7 +299,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "魔界レベル1",
-   "like_count": 385,
+   "like_count": 384,
    "view_count": null
   },
   {
@@ -311,8 +311,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 405,
-   "view_count": 24119
+   "like_count": 411,
+   "view_count": 25450
   },
   {
    "video_id": "45CL_70oDPY",
@@ -323,8 +323,20 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 360,
-   "view_count": 17439
+   "like_count": 398,
+   "view_count": 22296
+  },
+  {
+   "video_id": "lvPyDzvzRa0",
+   "start": "2026-10-25 22:00",
+   "title": "【メン幻！同時視聴枠わくわく！！！！】#メン限 　【にじさんじ/鈴原るる】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 270,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -335,7 +347,17 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "魔界レベル1",
-   "like_count": 385,
+   "like_count": 384,
+   "view_count": null
+  },
+  {
+   "video_id": "lvPyDzvzRa0",
+   "start": "2026-10-25 22:00",
+   "title": "【メン幻！同時視聴枠わくわく！！！！】#メン限 　【にじさんじ/鈴原るる】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 270,
    "view_count": null
   }
  ],
@@ -410,10 +432,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-25"
+    "to": "2026-10-26"
    },
    "streams_analyzed": 17,
-   "streams_missed": 2,
+   "streams_missed": 3,
    "unique_chatters": 4722,
    "members_confirmed": 715,
    "member_classes": {

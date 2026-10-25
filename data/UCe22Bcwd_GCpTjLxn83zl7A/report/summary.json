@@ -3,36 +3,36 @@
  "channel_id": "UCe22Bcwd_GCpTjLxn83zl7A",
  "handle": "@PontoNei",
  "subscribers": 320000,
- "fetched_at": "2026-10-25 09:20",
- "generated_at": "2026-10-25 09:20",
+ "fetched_at": "2026-10-26 05:28",
+ "generated_at": "2026-10-26 05:29",
  "period": {
-  "from": "2026-09-25 09:20",
-  "to": "2026-10-25 09:20",
+  "from": "2026-09-26 05:28",
+  "to": "2026-10-26 05:28",
   "days": 30
  },
  "streams_analyzed": 16,
  "streams_missed": 2,
- "unique_chatters": 1564,
- "members_confirmed": 154,
+ "unique_chatters": 1400,
+ "members_confirmed": 149,
  "member_classes": {
-  "unknown": 145,
-  "known": 9
+  "unknown": 141,
+  "known": 8
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 11
+   "members": 10
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 7
+   "members": 5
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 16
+   "members": 18
   },
   {
    "months": 6,
@@ -42,11 +42,11 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 108
+   "members": 104
   }
  ],
  "events": {
-  "new_members": 6,
+  "new_members": 5,
   "rejoins": 1,
   "milestones": 0,
   "gift_purchases": 0,
@@ -59,21 +59,21 @@
    "tier": "バックヤード",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 9,
+   "confirmed_members": 8,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 145.0,
-   "estimated_members": 154.0,
-   "monthly_net_confirmed": 2806,
-   "monthly_net_estimated": 48020
+   "allocated_unknown": 141.0,
+   "estimated_members": 149.0,
+   "monthly_net_confirmed": 2495,
+   "monthly_net_estimated": 46461
   }
  ],
  "revenue": {
-  "monthly_low": 48020,
-  "monthly_est": 48020,
+  "monthly_low": 46461,
+  "monthly_est": 46461,
   "gift_once": 0,
-  "total_low": 48020,
-  "total_est": 48020,
-  "paying_members": 154,
+  "total_low": 46461,
+  "total_est": 46461,
+  "paying_members": 149,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -82,16 +82,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "3HLbPtQPWgM",
-   "start": "2026-09-25 22:00",
-   "title": "【FE 万紫千紅│01】ファイアーエムブレム万紫千紅の世界にぽぽんと登場！ ※ネタバレ注意【先斗寧/にじさんじ】",
-   "kind": "配信",
-   "chatters": 694,
-   "member_chatters": 82,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "p83T3Gy6BOc",
    "start": "2026-09-26 21:59",
@@ -241,6 +231,16 @@
    "member_chatters": 55,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "Qc9K6eM0kYk",
+   "start": "2026-10-25 22:00",
+   "title": "【FE 万紫千紅│15】勢いのままに！いざダグシオンへ！ ※ネタバレ注意【先斗寧/にじさんじ】",
+   "kind": "配信",
+   "chatters": 329,
+   "member_chatters": 52,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -357,11 +357,11 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-25"
+    "to": "2026-10-26"
    },
-   "streams_analyzed": 12,
+   "streams_analyzed": 13,
    "streams_missed": 2,
-   "unique_chatters": 1204,
+   "unique_chatters": 1228,
    "members_confirmed": 146,
    "member_classes": {
     "unknown": 138,
@@ -375,11 +375,11 @@
     },
     {
      "months": 1,
-     "members": 7
+     "members": 5
     },
     {
      "months": 2,
-     "members": 16
+     "members": 18
     },
     {
      "months": 6,
@@ -409,7 +409,7 @@
     "monthly_est": 45525,
     "gift_once": 0
    },
-   "avg_member_chatters": 61.1,
+   "avg_member_chatters": 60.4,
    "partial": true,
    "finalized": false
   }

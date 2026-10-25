@@ -3,11 +3,11 @@
  "channel_id": "UCGYAYLDE7TZiiC8U6teciDQ",
  "handle": "@HakaseFuyuki",
  "subscribers": 479000,
- "fetched_at": "2026-10-25 09:20",
- "generated_at": "2026-10-25 09:20",
+ "fetched_at": "2026-10-26 05:23",
+ "generated_at": "2026-10-26 05:23",
  "period": {
-  "from": "2026-09-25 09:20",
-  "to": "2026-10-25 09:20",
+  "from": "2026-09-26 05:23",
+  "to": "2026-10-26 05:23",
   "days": 30
  },
  "streams_analyzed": 15,
@@ -240,18 +240,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "cbQnlvRIuKk",
-   "start": "2026-09-26 00:04",
-   "title": "【メン限/雀魂】視聴者参加型まーじゃん【にじさんじ / 葉加瀬冬雪】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "葉加瀬のラボメン",
-   "like_count": 109,
-   "view_count": null
-  },
-  {
    "video_id": "OOTNSN6tjeg",
    "start": "2026-09-30 00:10",
    "title": "【メン限】asmr【にじさんじ / 葉加瀬冬雪】",
@@ -261,21 +249,23 @@
    "members_only": true,
    "members_level": "葉加瀬のラボメン",
    "like_count": 255,
+   "view_count": null
+  },
+  {
+   "video_id": "p0EAxEc6OJc",
+   "start": "2026-10-26 00:04",
+   "title": "【メン限】参加型じおげっさーしましょう【にじさんじ / 葉加瀬冬雪】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "葉加瀬のラボメン",
+   "like_count": 111,
    "view_count": null
   }
  ],
  "members_only_content": [
   {
-   "video_id": "cbQnlvRIuKk",
-   "start": "2026-09-26 00:04",
-   "title": "【メン限/雀魂】視聴者参加型まーじゃん【にじさんじ / 葉加瀬冬雪】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "葉加瀬のラボメン",
-   "like_count": 109,
-   "view_count": null
-  },
-  {
    "video_id": "OOTNSN6tjeg",
    "start": "2026-09-30 00:10",
    "title": "【メン限】asmr【にじさんじ / 葉加瀬冬雪】",
@@ -283,6 +273,16 @@
    "status": "members_only",
    "members_level": "葉加瀬のラボメン",
    "like_count": 255,
+   "view_count": null
+  },
+  {
+   "video_id": "p0EAxEc6OJc",
+   "start": "2026-10-26 00:04",
+   "title": "【メン限】参加型じおげっさーしましょう【にじさんじ / 葉加瀬冬雪】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "葉加瀬のラボメン",
+   "like_count": 111,
    "view_count": null
   }
  ],
@@ -356,10 +356,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-25"
+    "to": "2026-10-26"
    },
    "streams_analyzed": 14,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 1645,
    "members_confirmed": 460,
    "member_classes": {

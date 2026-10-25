@@ -2,20 +2,20 @@
  "channel": "蝸堂みかる / Kadou Mikaru【にじさんじ】",
  "channel_id": "UCIq2HwA2iBOso7ar4VuU-TA",
  "handle": "@KadouMikaru",
- "subscribers": 133000,
- "fetched_at": "2026-10-25 09:21",
- "generated_at": "2026-10-25 09:21",
+ "subscribers": 134000,
+ "fetched_at": "2026-10-26 05:41",
+ "generated_at": "2026-10-26 05:41",
  "period": {
-  "from": "2026-09-25 09:21",
-  "to": "2026-10-25 09:21",
+  "from": "2026-09-26 05:41",
+  "to": "2026-10-26 05:41",
   "days": 30
  },
- "streams_analyzed": 27,
- "streams_missed": 4,
- "unique_chatters": 5320,
- "members_confirmed": 731,
+ "streams_analyzed": 26,
+ "streams_missed": 5,
+ "unique_chatters": 5280,
+ "members_confirmed": 727,
  "member_classes": {
-  "unknown": 678,
+  "unknown": 674,
   "known": 33,
   "gift": 20
  },
@@ -33,21 +33,21 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 145
+   "members": 143
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 147
+   "members": 146
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 299
+   "members": 298
   }
  ],
  "events": {
-  "new_members": 19,
+  "new_members": 18,
   "rejoins": 4,
   "milestones": 0,
   "gift_purchases": 1,
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 33,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 678.0,
-   "estimated_members": 711.0,
+   "allocated_unknown": 674.0,
+   "estimated_members": 707.0,
    "monthly_net_confirmed": 10290,
-   "monthly_net_estimated": 221703
+   "monthly_net_estimated": 220455
   }
  ],
  "revenue": {
-  "monthly_low": 221703,
-  "monthly_est": 221703,
+  "monthly_low": 220455,
+  "monthly_est": 220455,
   "gift_once": 6236,
-  "total_low": 227939,
-  "total_est": 227939,
-  "paying_members": 711,
+  "total_low": 226692,
+  "total_est": 226692,
+  "paying_members": 707,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "ExVsAoQFs4c",
-   "start": "2026-09-25 22:00",
-   "title": "【 Minecraft 】 にじ鯖　羊毛回収機作り！ふわふわの島にするぞ～～！ 【 にじさんじ / 蝸堂みかる 】",
-   "kind": "配信",
-   "chatters": 362,
-   "member_chatters": 196,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "PcP7GxsLM9A",
    "start": "2026-09-26 19:59",
@@ -376,7 +366,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "かたつむり組",
-   "like_count": 179,
+   "like_count": 180,
    "view_count": null
   },
   {
@@ -388,7 +378,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "かたつむり組",
-   "like_count": 193,
+   "like_count": 195,
    "view_count": null
   },
   {
@@ -402,6 +392,18 @@
    "members_level": "かたつむり組",
    "like_count": 207,
    "view_count": null
+  },
+  {
+   "video_id": "qk-Yx-VYIfU",
+   "start": "2026-10-25 00:00",
+   "title": "【 Cities: Skylines II 】 みんな幸せ都市計画！ 【 にじさんじ / 蝸堂みかる 】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 1325,
+   "view_count": 68998
   }
  ],
  "members_only_content": [
@@ -422,7 +424,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "かたつむり組",
-   "like_count": 179,
+   "like_count": 180,
    "view_count": null
   },
   {
@@ -432,7 +434,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "かたつむり組",
-   "like_count": 193,
+   "like_count": 195,
    "view_count": null
   },
   {
@@ -513,10 +515,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-25"
+    "to": "2026-10-26"
    },
    "streams_analyzed": 20,
-   "streams_missed": 3,
+   "streams_missed": 4,
    "unique_chatters": 4648,
    "members_confirmed": 680,
    "member_classes": {

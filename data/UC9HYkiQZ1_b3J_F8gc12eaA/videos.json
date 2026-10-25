@@ -165,8 +165,8 @@
    "checked_at": "2026-10-07 12:46",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1792874228.171932,
-   "likes_checked_at": "2026-10-25 05:37"
+   "likes_checked_ts": 1792960954.9155416,
+   "likes_checked_at": "2026-10-26 05:42"
   },
   "qoG0uQPUaKA": {
    "id": "qoG0uQPUaKA",
@@ -960,23 +960,21 @@
   "cP520G-Iur0": {
    "id": "cP520G-Iur0",
    "title": "【OW】#にじEX_OW  課題がたくさんあります。 W / Rei7【塚原大地 / にじさんじ】",
-   "kind": "video",
+   "kind": "live",
    "start_ts": 1792508400.0,
    "start_jst": "2026-10-21 00:00",
    "duration_sec": null,
-   "view_count": 30206,
-   "like_count": 483,
+   "view_count": 30442,
+   "like_count": 484,
    "live_status": null,
    "members_only": false,
    "has_chat": false,
-   "checked_at": "2026-10-25 09:22",
+   "checked_at": "2026-10-26 05:43",
    "info_limited": true,
    "seen_live_at": "2026-10-22 05:32",
    "was_public_when_live": true,
-   "error": "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)",
-   "tab": "live",
-   "status": "error",
-   "failed_since_ts": 1792629867.9946458
+   "settled_while_limited": true,
+   "status": "no_chat"
   },
   "ECQ502JLLCA": {
    "id": "ECQ502JLLCA",
@@ -1032,14 +1030,31 @@
    "info_limited": true,
    "start_from_chat": true,
    "status": "ok"
+  },
+  "5hggbX7eyCI": {
+   "id": "5hggbX7eyCI",
+   "title": "【 #にじEX_OW 】 本番当日、ダパるぜ！！！ #D4P4WIN  W / D4P4【塚原大地 / にじさんじ】",
+   "kind": "live",
+   "start_ts": 1792908719.020288,
+   "start_jst": "2026-10-25 15:11",
+   "duration_sec": 28943,
+   "view_count": 40367,
+   "like_count": 901,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-10-26 05:42",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "塚原大地 / Tsukahara Daichi【にじさんじ】",
  "channel_id": "UC9HYkiQZ1_b3J_F8gc12eaA",
  "handle": "@TsukaharaDaichi_Y4T4",
  "subscribers": 119000,
- "fetched_at": "2026-10-25 09:22",
- "fetched_at_ts": 1792887721.9974976,
- "checked_from": "2026-10-18 09:22",
+ "fetched_at": "2026-10-26 05:42",
+ "fetched_at_ts": 1792960954.9155416,
+ "checked_from": "2026-10-19 05:42",
  "initial_fetch_done": true
 }

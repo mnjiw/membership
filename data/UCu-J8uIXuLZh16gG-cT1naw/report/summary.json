@@ -3,27 +3,27 @@
  "channel_id": "UCu-J8uIXuLZh16gG-cT1naw",
  "handle": "@FinanaRyugu",
  "subscribers": 474000,
- "fetched_at": "2026-10-25 09:22",
- "generated_at": "2026-10-25 09:22",
+ "fetched_at": "2026-10-26 05:43",
+ "generated_at": "2026-10-26 05:44",
  "period": {
-  "from": "2026-09-25 09:22",
-  "to": "2026-10-25 09:22",
+  "from": "2026-09-26 05:43",
+  "to": "2026-10-26 05:43",
   "days": 30
  },
- "streams_analyzed": 21,
- "streams_missed": 4,
- "unique_chatters": 485,
- "members_confirmed": 139,
+ "streams_analyzed": 20,
+ "streams_missed": 5,
+ "unique_chatters": 470,
+ "members_confirmed": 136,
  "member_classes": {
-  "unknown": 63,
+  "unknown": 61,
   "known": 18,
-  "gift": 58
+  "gift": 57
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 58
+   "members": 57
   },
   {
    "months": 1,
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 4
+   "members": 3
   },
   {
    "months": 6,
@@ -48,16 +48,16 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 53
+   "members": 52
   }
  ],
  "events": {
   "new_members": 2,
   "rejoins": 0,
-  "milestones": 13,
-  "gift_purchases": 34,
-  "gifted_total": 58,
-  "gift_redemptions": 58
+  "milestones": 12,
+  "gift_purchases": 33,
+  "gifted_total": 57,
+  "gift_redemptions": 57
  },
  "tiers_configured": true,
  "tiers": [
@@ -67,19 +67,19 @@
    "net_per_member": 439.1,
    "confirmed_members": 18,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 63.0,
-   "estimated_members": 81.0,
+   "allocated_unknown": 61.0,
+   "estimated_members": 79.0,
    "monthly_net_confirmed": 7904,
-   "monthly_net_estimated": 35566
+   "monthly_net_estimated": 34688
   }
  ],
  "revenue": {
-  "monthly_low": 35566,
-  "monthly_est": 35566,
-  "gift_once": 25467,
-  "total_low": 61034,
-  "total_est": 61034,
-  "paying_members": 81,
+  "monthly_low": 34688,
+  "monthly_est": 34688,
+  "gift_once": 25028,
+  "total_low": 59716,
+  "total_est": 59716,
+  "paying_members": 79,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "tXD-25YrLKY",
-   "start": "2026-09-26 05:02",
-   "title": "【FINAL FANTASY XIV】 Unlocking Beastmaster ~!",
-   "kind": "配信",
-   "chatters": 57,
-   "member_chatters": 25,
-   "new_members": 0,
-   "gifted_total": 1
-  },
   {
    "video_id": "4XYwKwS1JVY",
    "start": "2026-09-29 07:00",
@@ -347,6 +337,18 @@
    "members_level": "",
    "like_count": 18,
    "view_count": null
+  },
+  {
+   "video_id": "9tCMS3ulDO4",
+   "start": "2026-10-25 07:04",
+   "title": "【Friday the 13th Movie Watchalong】 THE ORIGINAL !",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 18,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -384,6 +386,16 @@
    "video_id": "LfV-TGxHRyU",
    "start": "2026-10-18 07:02",
    "title": "【Children of the Corn Watchalong】 ok what is this movie about",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 18,
+   "view_count": null
+  },
+  {
+   "video_id": "9tCMS3ulDO4",
+   "start": "2026-10-25 07:04",
+   "title": "【Friday the 13th Movie Watchalong】 THE ORIGINAL !",
    "kind": "live",
    "status": "members_only",
    "members_level": "",
@@ -462,10 +474,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-25"
+    "to": "2026-10-26"
    },
    "streams_analyzed": 18,
-   "streams_missed": 3,
+   "streams_missed": 4,
    "unique_chatters": 434,
    "members_confirmed": 125,
    "member_classes": {

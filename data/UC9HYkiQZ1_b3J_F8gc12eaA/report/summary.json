@@ -3,20 +3,20 @@
  "channel_id": "UC9HYkiQZ1_b3J_F8gc12eaA",
  "handle": "@TsukaharaDaichi_Y4T4",
  "subscribers": 119000,
- "fetched_at": "2026-10-25 09:22",
- "generated_at": "2026-10-25 09:22",
+ "fetched_at": "2026-10-26 05:42",
+ "generated_at": "2026-10-26 05:43",
  "period": {
-  "from": "2026-09-25 09:22",
-  "to": "2026-10-25 09:22",
+  "from": "2026-09-26 05:42",
+  "to": "2026-10-26 05:42",
   "days": 30
  },
- "streams_analyzed": 26,
- "streams_missed": 2,
- "unique_chatters": 1568,
- "members_confirmed": 252,
+ "streams_analyzed": 27,
+ "streams_missed": 1,
+ "unique_chatters": 1679,
+ "members_confirmed": 268,
  "member_classes": {
-  "unknown": 230,
-  "known": 22
+  "unknown": 242,
+  "known": 26
  },
  "badges": [
   {
@@ -27,17 +27,17 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 22
+   "members": 28
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 194
+   "members": 204
   }
  ],
  "events": {
-  "new_members": 13,
-  "rejoins": 6,
+  "new_members": 15,
+  "rejoins": 8,
   "milestones": 0,
   "gift_purchases": 0,
   "gifted_total": 0,
@@ -49,21 +49,21 @@
    "tier": "つかズ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 22,
+   "confirmed_members": 26,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 230.0,
-   "estimated_members": 252.0,
-   "monthly_net_confirmed": 6860,
-   "monthly_net_estimated": 78578
+   "allocated_unknown": 242.0,
+   "estimated_members": 268.0,
+   "monthly_net_confirmed": 8107,
+   "monthly_net_estimated": 83567
   }
  ],
  "revenue": {
-  "monthly_low": 78578,
-  "monthly_est": 78578,
+  "monthly_low": 83567,
+  "monthly_est": 83567,
   "gift_once": 0,
-  "total_low": 78578,
-  "total_est": 78578,
-  "paying_members": 252,
+  "total_low": 83567,
+  "total_est": 83567,
+  "paying_members": 268,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -331,46 +331,33 @@
    "member_chatters": 78,
    "new_members": 2,
    "gifted_total": 0
+  },
+  {
+   "video_id": "5hggbX7eyCI",
+   "start": "2026-10-25 15:11",
+   "title": "【 #にじEX_OW 】 本番当日、ダパるぜ！！！ #D4P4WIN  W / D4P4【塚原大地 / にじさんじ】",
+   "kind": "配信",
+   "chatters": 280,
+   "member_chatters": 126,
+   "new_members": 2,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
   {
-   "video_id": "apTnp4J4BZM",
-   "start": "2026-09-25 21:22",
-   "title": "【メン限】9月メン限　色々はなすぞ。【塚原大地 / にじさんじ】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 112,
-   "view_count": null
-  },
-  {
    "video_id": "cP520G-Iur0",
    "start": "2026-10-21 00:00",
    "title": "【OW】#にじEX_OW  課題がたくさんあります。 W / Rei7【塚原大地 / にじさんじ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
+   "kind": "live",
+   "status": "no_chat",
+   "reason": "チャットリプレイなし（アーカイブ編集・チャット無効の可能性）",
    "members_only": false,
    "members_level": "",
-   "like_count": 483,
-   "view_count": 30206
+   "like_count": 484,
+   "view_count": 30442
   }
  ],
- "members_only_content": [
-  {
-   "video_id": "apTnp4J4BZM",
-   "start": "2026-09-25 21:22",
-   "title": "【メン限】9月メン限　色々はなすぞ。【塚原大地 / にじさんじ】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 112,
-   "view_count": null
-  }
- ],
+ "members_only_content": [],
  "history": [
   {
    "month": "2026-09",
@@ -429,15 +416,15 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-25"
+    "to": "2026-10-26"
    },
-   "streams_analyzed": 21,
+   "streams_analyzed": 22,
    "streams_missed": 1,
-   "unique_chatters": 1317,
-   "members_confirmed": 237,
+   "unique_chatters": 1435,
+   "members_confirmed": 256,
    "member_classes": {
-    "unknown": 218,
-    "known": 19
+    "unknown": 233,
+    "known": 23
    },
    "long_term_members": 0,
    "badges": [
@@ -447,16 +434,16 @@
     },
     {
      "months": 1,
-     "members": 22
+     "members": 28
     },
     {
      "months": 2,
-     "members": 184
+     "members": 197
     }
    ],
    "events": {
-    "new_members": 11,
-    "rejoins": 6,
+    "new_members": 13,
+    "rejoins": 8,
     "milestones": 0,
     "gifted_total": 0
    },
@@ -464,16 +451,16 @@
     {
      "tier": "つかズ",
      "price": 490,
-     "confirmed_members": 19,
-     "estimated_members": 237.0
+     "confirmed_members": 23,
+     "estimated_members": 256.0
     }
    ],
    "revenue": {
-    "monthly_low": 73901,
-    "monthly_est": 73901,
+    "monthly_low": 79825,
+    "monthly_est": 79825,
     "gift_once": 0
    },
-   "avg_member_chatters": 69.3,
+   "avg_member_chatters": 71.9,
    "partial": true,
    "finalized": false
   }

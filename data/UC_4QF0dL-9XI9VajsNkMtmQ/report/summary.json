@@ -3,20 +3,20 @@
  "channel_id": "UC_4QF0dL-9XI9VajsNkMtmQ",
  "handle": "@Rei7_Y4T4",
  "subscribers": 176000,
- "fetched_at": "2026-10-25 09:22",
- "generated_at": "2026-10-25 09:22",
+ "fetched_at": "2026-10-26 05:43",
+ "generated_at": "2026-10-26 05:43",
  "period": {
-  "from": "2026-09-25 09:22",
-  "to": "2026-10-25 09:22",
+  "from": "2026-09-26 05:43",
+  "to": "2026-10-26 05:43",
   "days": 30
  },
- "streams_analyzed": 33,
- "streams_missed": 1,
- "unique_chatters": 5986,
- "members_confirmed": 740,
+ "streams_analyzed": 34,
+ "streams_missed": 2,
+ "unique_chatters": 6042,
+ "members_confirmed": 750,
  "member_classes": {
-  "unknown": 656,
-  "known": 63,
+  "unknown": 664,
+  "known": 65,
   "gift": 21
  },
  "badges": [
@@ -33,12 +33,12 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 545
+   "members": 555
   }
  ],
  "events": {
-  "new_members": 40,
-  "rejoins": 7,
+  "new_members": 41,
+  "rejoins": 8,
   "milestones": 0,
   "gift_purchases": 4,
   "gifted_total": 21,
@@ -50,21 +50,21 @@
    "tier": "Ris7",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 63,
+   "confirmed_members": 65,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 656.0,
-   "estimated_members": 719.0,
-   "monthly_net_confirmed": 19645,
-   "monthly_net_estimated": 224197
+   "allocated_unknown": 664.0,
+   "estimated_members": 729.0,
+   "monthly_net_confirmed": 20268,
+   "monthly_net_estimated": 227315
   }
  ],
  "revenue": {
-  "monthly_low": 224197,
-  "monthly_est": 224197,
+  "monthly_low": 227315,
+  "monthly_est": 227315,
   "gift_once": 6548,
-  "total_low": 230745,
-  "total_est": 230745,
-  "paying_members": 719,
+  "total_low": 233864,
+  "total_est": 233864,
+  "paying_members": 729,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -402,6 +402,16 @@
    "member_chatters": 201,
    "new_members": 3,
    "gifted_total": 5
+  },
+  {
+   "video_id": "2_NKgEldGVk",
+   "start": "2026-10-25 15:13",
+   "title": "【 Overwatch 】本番当日。勝つ勝つ勝つ勝つ #D4P4WIN  【 Rei7 / にじさんじ 】#にじEX_OW",
+   "kind": "配信",
+   "chatters": 305,
+   "member_chatters": 161,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -416,6 +426,18 @@
    "members_level": "Ris7",
    "like_count": 184,
    "view_count": null
+  },
+  {
+   "video_id": "Xa0mGtp153I",
+   "start": "2026-10-25 00:00",
+   "title": "階段に囚われてる【 Rei7 / にじさんじ 】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 1159,
+   "view_count": 85282
   }
  ],
  "members_only_content": [
@@ -489,15 +511,15 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-25"
+    "to": "2026-10-26"
    },
-   "streams_analyzed": 27,
-   "streams_missed": 1,
-   "unique_chatters": 4811,
-   "members_confirmed": 659,
+   "streams_analyzed": 28,
+   "streams_missed": 2,
+   "unique_chatters": 4867,
+   "members_confirmed": 669,
    "member_classes": {
-    "unknown": 589,
-    "known": 59,
+    "unknown": 597,
+    "known": 61,
     "gift": 11
    },
    "long_term_members": 0,
@@ -512,12 +534,12 @@
     },
     {
      "months": 2,
-     "members": 505
+     "members": 515
     }
    ],
    "events": {
-    "new_members": 35,
-    "rejoins": 6,
+    "new_members": 36,
+    "rejoins": 7,
     "milestones": 0,
     "gifted_total": 11
    },
@@ -525,16 +547,16 @@
     {
      "tier": "Ris7",
      "price": 490,
-     "confirmed_members": 59,
-     "estimated_members": 648.0
+     "confirmed_members": 61,
+     "estimated_members": 658.0
     }
    ],
    "revenue": {
-    "monthly_low": 202058,
-    "monthly_est": 202058,
+    "monthly_low": 205176,
+    "monthly_est": 205176,
     "gift_once": 3430
    },
-   "avg_member_chatters": 125.3,
+   "avg_member_chatters": 126.6,
    "partial": true,
    "finalized": false
   }

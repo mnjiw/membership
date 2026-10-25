@@ -3,15 +3,15 @@
  "channel_id": "UCrhhJPNsOqzNIkUfTABoSpg",
  "handle": "@HaYun",
  "subscribers": 133000,
- "fetched_at": "2026-10-25 09:21",
- "generated_at": "2026-10-25 09:21",
+ "fetched_at": "2026-10-26 05:31",
+ "generated_at": "2026-10-26 05:31",
  "period": {
-  "from": "2026-09-25 09:21",
-  "to": "2026-10-25 09:21",
+  "from": "2026-09-26 05:31",
+  "to": "2026-10-26 05:31",
   "days": 30
  },
  "streams_analyzed": 16,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 131,
  "members_confirmed": 68,
  "member_classes": {
@@ -249,7 +249,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "aJHb_FUzhoM",
+   "start": "2026-10-25 00:00",
+   "title": "【APEX】💎ランク  【ハユン/にじさんじ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 118,
+   "view_count": 2842
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -322,10 +335,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-25"
+    "to": "2026-10-26"
    },
    "streams_analyzed": 8,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 100,
    "members_confirmed": 51,
    "member_classes": {

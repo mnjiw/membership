@@ -3,16 +3,16 @@
  "channel_id": "UCsFn_ueskBkMCEyzCEqAOvg",
  "handle": "@HanabatakeChaika",
  "subscribers": 572000,
- "fetched_at": "2026-10-25 09:19",
- "generated_at": "2026-10-25 09:19",
+ "fetched_at": "2026-10-26 05:20",
+ "generated_at": "2026-10-26 05:20",
  "period": {
-  "from": "2026-09-25 09:19",
-  "to": "2026-10-25 09:19",
+  "from": "2026-09-26 05:20",
+  "to": "2026-10-26 05:20",
   "days": 30
  },
  "streams_analyzed": 18,
- "streams_missed": 2,
- "unique_chatters": 4254,
+ "streams_missed": 3,
+ "unique_chatters": 4011,
  "members_confirmed": 542,
  "member_classes": {
   "unknown": 542
@@ -21,7 +21,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 21
+   "members": 20
   },
   {
    "months": 2,
@@ -31,12 +31,12 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 484
+   "members": 485
   }
  ],
  "events": {
   "new_members": 4,
-  "rejoins": 8,
+  "rejoins": 9,
   "milestones": 48,
   "gift_purchases": 0,
   "gifted_total": 0,
@@ -71,16 +71,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "YOOtowWR2wU",
-   "start": "2026-09-25 22:00",
-   "title": "花畑チャイカと加賀美ハヤトのオービタルズ Orbitals 1980～90年代SFアニメ風絵柄のなんかすげえゲーム 2人は一心同体！",
-   "kind": "配信",
-   "chatters": 1051,
-   "member_chatters": 167,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "CjRLqcr28dE",
    "start": "2026-09-26 18:01",
@@ -250,6 +240,16 @@
    "member_chatters": 149,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "OsJOLnpDaTU",
+   "start": "2026-10-25 20:18",
+   "title": "花畑チャイカと石神のぞみと珠乃井ナナと十河ののはのインボキア ジュマンジみたいなやつですか？",
+   "kind": "配信",
+   "chatters": 432,
+   "member_chatters": 145,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -262,7 +262,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 147,
+   "like_count": 149,
    "view_count": null
   },
   {
@@ -274,7 +274,19 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 171,
+   "like_count": 172,
+   "view_count": null
+  },
+  {
+   "video_id": "aCyC3hgGME4",
+   "start": "2026-10-25 23:15",
+   "title": "花畑チャイカとめんげん雑 浮気判定シート",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 177,
    "view_count": null
   }
  ],
@@ -286,7 +298,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 147,
+   "like_count": 149,
    "view_count": null
   },
   {
@@ -296,7 +308,17 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 171,
+   "like_count": 172,
+   "view_count": null
+  },
+  {
+   "video_id": "aCyC3hgGME4",
+   "start": "2026-10-25 23:15",
+   "title": "花畑チャイカとめんげん雑 浮気判定シート",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 177,
    "view_count": null
   }
  ],
@@ -357,14 +379,14 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-25"
+    "to": "2026-10-26"
    },
-   "streams_analyzed": 14,
-   "streams_missed": 2,
-   "unique_chatters": 2782,
-   "members_confirmed": 470,
+   "streams_analyzed": 15,
+   "streams_missed": 3,
+   "unique_chatters": 2900,
+   "members_confirmed": 476,
    "member_classes": {
-    "unknown": 470
+    "unknown": 476
    },
    "long_term_members": 0,
    "badges": [
@@ -378,12 +400,12 @@
     },
     {
      "months": 6,
-     "members": 422
+     "members": 428
     }
    ],
    "events": {
     "new_members": 3,
-    "rejoins": 6,
+    "rejoins": 7,
     "milestones": 34,
     "gifted_total": 0
    },
@@ -392,15 +414,15 @@
      "tier": "メンバーシップ",
      "price": 490,
      "confirmed_members": 0,
-     "estimated_members": 470.0
+     "estimated_members": 476.0
     }
    ],
    "revenue": {
-    "monthly_low": 146555,
-    "monthly_est": 146555,
+    "monthly_low": 148425,
+    "monthly_est": 148425,
     "gift_once": 0
    },
-   "avg_member_chatters": 161.7,
+   "avg_member_chatters": 160.6,
    "partial": true,
    "finalized": false
   }

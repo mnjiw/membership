@@ -3,36 +3,36 @@
  "channel_id": "UClS6k3w1sPwlVFqK3-yID5A",
  "handle": "@RyuHari",
  "subscribers": 44800,
- "fetched_at": "2026-10-25 09:21",
- "generated_at": "2026-10-25 09:21",
+ "fetched_at": "2026-10-26 05:31",
+ "generated_at": "2026-10-26 05:31",
  "period": {
-  "from": "2026-09-25 09:21",
-  "to": "2026-10-25 09:21",
+  "from": "2026-09-26 05:31",
+  "to": "2026-10-26 05:31",
   "days": 30
  },
- "streams_analyzed": 15,
- "streams_missed": 1,
- "unique_chatters": 185,
- "members_confirmed": 109,
+ "streams_analyzed": 14,
+ "streams_missed": 2,
+ "unique_chatters": 181,
+ "members_confirmed": 108,
  "member_classes": {
-  "unknown": 33,
   "known": 14,
-  "gift": 62
+  "unknown": 33,
+  "gift": 61
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 109
+   "members": 108
   }
  ],
  "events": {
   "new_members": 3,
   "rejoins": 0,
   "milestones": 12,
-  "gift_purchases": 12,
-  "gifted_total": 63,
-  "gift_redemptions": 63
+  "gift_purchases": 11,
+  "gifted_total": 62,
+  "gift_redemptions": 62
  },
  "tiers_configured": true,
  "tiers": [
@@ -51,9 +51,9 @@
  "revenue": {
   "monthly_low": 14655,
   "monthly_est": 14655,
-  "gift_once": 19645,
-  "total_low": 34300,
-  "total_est": 34300,
+  "gift_once": 19333,
+  "total_low": 33988,
+  "total_est": 33988,
   "paying_members": 47,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -63,16 +63,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "grhsG1CVyFI",
-   "start": "2026-09-25 22:04",
-   "title": "[SILENT HILL: Townfall] #1 サイレントヒルシリーズのの新作！　※ネタバレ注意　【にじさんじ／リュハリ】",
-   "kind": "配信",
-   "chatters": 36,
-   "member_chatters": 22,
-   "new_members": 0,
-   "gifted_total": 1
-  },
   {
    "video_id": "TKFx1AQnkkw",
    "start": "2026-09-26 22:31",
@@ -224,8 +214,20 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 17,
+   "like_count": 18,
    "view_count": null
+  },
+  {
+   "video_id": "Fk7EJ4v4wKI",
+   "start": "2026-10-25 00:00",
+   "title": "r",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 192,
+   "view_count": 2695
   }
  ],
  "members_only_content": [
@@ -236,7 +238,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 17,
+   "like_count": 18,
    "view_count": null
   }
  ],
@@ -291,10 +293,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-25"
+    "to": "2026-10-26"
    },
    "streams_analyzed": 10,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 170,
    "members_confirmed": 106,
    "member_classes": {

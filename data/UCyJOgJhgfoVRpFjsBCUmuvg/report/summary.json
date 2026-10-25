@@ -3,27 +3,27 @@
  "channel_id": "UCyJOgJhgfoVRpFjsBCUmuvg",
  "handle": "@KozueMone",
  "subscribers": 159000,
- "fetched_at": "2026-10-25 09:21",
- "generated_at": "2026-10-25 09:21",
+ "fetched_at": "2026-10-26 05:39",
+ "generated_at": "2026-10-26 05:40",
  "period": {
-  "from": "2026-09-25 09:21",
-  "to": "2026-10-25 09:21",
+  "from": "2026-09-26 05:39",
+  "to": "2026-10-26 05:39",
   "days": 30
  },
- "streams_analyzed": 28,
- "streams_missed": 4,
- "unique_chatters": 3462,
- "members_confirmed": 511,
+ "streams_analyzed": 27,
+ "streams_missed": 5,
+ "unique_chatters": 3181,
+ "members_confirmed": 492,
  "member_classes": {
-  "unknown": 389,
   "known": 92,
-  "gift": 30
+  "unknown": 379,
+  "gift": 21
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 56
+   "members": 48
   },
   {
    "months": 1,
@@ -33,31 +33,31 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 43
+   "members": 40
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 91
+   "members": 88
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 180
+   "members": 176
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 129
+   "members": 128
   }
  ],
  "events": {
-  "new_members": 17,
+  "new_members": 16,
   "rejoins": 3,
-  "milestones": 58,
-  "gift_purchases": 13,
-  "gifted_total": 31,
-  "gift_redemptions": 31
+  "milestones": 57,
+  "gift_purchases": 12,
+  "gifted_total": 21,
+  "gift_redemptions": 21
  },
  "tiers_configured": true,
  "tiers": [
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 92,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 389.0,
-   "estimated_members": 481.0,
+   "allocated_unknown": 379.0,
+   "estimated_members": 471.0,
    "monthly_net_confirmed": 28687,
-   "monthly_net_estimated": 149985
+   "monthly_net_estimated": 146866
   }
  ],
  "revenue": {
-  "monthly_low": 149985,
-  "monthly_est": 149985,
-  "gift_once": 9666,
-  "total_low": 159651,
-  "total_est": 159651,
-  "paying_members": 481,
+  "monthly_low": 146866,
+  "monthly_est": 146866,
+  "gift_once": 6548,
+  "total_low": 153415,
+  "total_est": 153415,
+  "paying_members": 471,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "Q29c2-UjU1M",
-   "start": "2026-09-25 23:03",
-   "title": "#にじ遊戯王2026  の雪辱を果たし配信🔥長尾先輩と決闘するよ✊🏻【梢桃音/にじさんじ】",
-   "kind": "配信",
-   "chatters": 726,
-   "member_chatters": 200,
-   "new_members": 1,
-   "gifted_total": 10
-  },
   {
    "video_id": "vhb058idjbA",
    "start": "2026-09-26 12:00",
@@ -415,8 +405,20 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 111,
+   "like_count": 116,
    "view_count": null
+  },
+  {
+   "video_id": "jGQqkOJddcg",
+   "start": "2026-10-25 00:00",
+   "title": "【同時視聴】完全初見🔰Fate/Zero 10話から14話まで👀【にじさんじ/梢桃音】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 468,
+   "view_count": 14986
   }
  ],
  "members_only_content": [
@@ -457,7 +459,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 111,
+   "like_count": 116,
    "view_count": null
   }
  ],
@@ -532,10 +534,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-25"
+    "to": "2026-10-26"
    },
    "streams_analyzed": 22,
-   "streams_missed": 3,
+   "streams_missed": 4,
    "unique_chatters": 2807,
    "members_confirmed": 456,
    "member_classes": {

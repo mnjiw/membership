@@ -2,20 +2,20 @@
  "channel": "九里詠太 / Kuri Eita【にじさんじ】",
  "channel_id": "UCzcuYIyP-1YcXC96t9J5yWQ",
  "handle": "@KuriEita_Y4T4",
- "subscribers": 74800,
- "fetched_at": "2026-10-25 09:22",
- "generated_at": "2026-10-25 09:22",
+ "subscribers": 74900,
+ "fetched_at": "2026-10-26 05:42",
+ "generated_at": "2026-10-26 05:42",
  "period": {
-  "from": "2026-09-25 09:22",
-  "to": "2026-10-25 09:22",
+  "from": "2026-09-26 05:42",
+  "to": "2026-10-26 05:42",
   "days": 30
  },
  "streams_analyzed": 26,
  "streams_missed": 2,
- "unique_chatters": 1006,
- "members_confirmed": 110,
+ "unique_chatters": 659,
+ "members_confirmed": 107,
  "member_classes": {
-  "unknown": 99,
+  "unknown": 96,
   "known": 6,
   "gift": 5
  },
@@ -23,17 +23,17 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 15
+   "members": 16
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 16
+   "members": 15
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 79
+   "members": 76
   }
  ],
  "events": {
@@ -52,19 +52,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 6,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 99.0,
-   "estimated_members": 105.0,
+   "allocated_unknown": 96.0,
+   "estimated_members": 102.0,
    "monthly_net_confirmed": 1871,
-   "monthly_net_estimated": 32741
+   "monthly_net_estimated": 31805
   }
  ],
  "revenue": {
-  "monthly_low": 32741,
-  "monthly_est": 32741,
+  "monthly_low": 31805,
+  "monthly_est": 31805,
   "gift_once": 1559,
-  "total_low": 34300,
-  "total_est": 34300,
-  "paying_members": 105,
+  "total_low": 33365,
+  "total_est": 33365,
+  "paying_members": 102,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "GmE5DcSzeYk",
-   "start": "2026-09-25 20:00",
-   "title": "【飲酒】酔っぱらい雑談会 w / 渚トラウト【九里詠太 / にじさんじ】",
-   "kind": "配信",
-   "chatters": 422,
-   "member_chatters": 35,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "P7vzUbNE9l4",
    "start": "2026-09-27 06:00",
@@ -332,6 +322,16 @@
    "member_chatters": 36,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "SOuloFbmeR8",
+   "start": "2026-10-25 09:01",
+   "title": "【Apex】ソロマスチャレンジ16日目！！！【九里詠太 / にじさんじ】",
+   "kind": "配信",
+   "chatters": 96,
+   "member_chatters": 37,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -441,14 +441,14 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-25"
+    "to": "2026-10-26"
    },
-   "streams_analyzed": 20,
+   "streams_analyzed": 21,
    "streams_missed": 1,
-   "unique_chatters": 533,
-   "members_confirmed": 98,
+   "unique_chatters": 549,
+   "members_confirmed": 99,
    "member_classes": {
-    "unknown": 88,
+    "unknown": 89,
     "known": 6,
     "gift": 4
    },
@@ -456,7 +456,7 @@
    "badges": [
     {
      "months": 0,
-     "members": 14
+     "members": 15
     },
     {
      "months": 1,
@@ -478,15 +478,15 @@
      "tier": "便利屋会員",
      "price": 490,
      "confirmed_members": 6,
-     "estimated_members": 94.0
+     "estimated_members": 95.0
     }
    ],
    "revenue": {
-    "monthly_low": 29311,
-    "monthly_est": 29311,
+    "monthly_low": 29623,
+    "monthly_est": 29623,
     "gift_once": 1247
    },
-   "avg_member_chatters": 28.4,
+   "avg_member_chatters": 28.9,
    "partial": true,
    "finalized": false
   }
