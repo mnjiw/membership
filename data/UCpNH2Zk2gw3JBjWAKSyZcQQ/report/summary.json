@@ -3,27 +3,27 @@
  "channel_id": "UCpNH2Zk2gw3JBjWAKSyZcQQ",
  "handle": "@EliConifer",
  "subscribers": 248000,
- "fetched_at": "2026-10-26 09:20",
- "generated_at": "2026-10-26 09:20",
+ "fetched_at": "2026-10-27 05:21",
+ "generated_at": "2026-10-27 05:22",
  "period": {
-  "from": "2026-09-26 09:20",
-  "to": "2026-10-26 09:20",
+  "from": "2026-09-27 05:21",
+  "to": "2026-10-27 05:21",
   "days": 30
  },
- "streams_analyzed": 6,
+ "streams_analyzed": 5,
  "streams_missed": 1,
- "unique_chatters": 541,
- "members_confirmed": 116,
+ "unique_chatters": 361,
+ "members_confirmed": 87,
  "member_classes": {
-  "unknown": 79,
-  "known": 25,
-  "gift": 12
+  "unknown": 54,
+  "known": 22,
+  "gift": 11
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 17
+   "members": 14
   },
   {
    "months": 1,
@@ -38,21 +38,21 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 3
+   "members": 2
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 90
+   "members": 65
   }
  ],
  "events": {
-  "new_members": 2,
+  "new_members": 1,
   "rejoins": 1,
-  "milestones": 20,
-  "gift_purchases": 3,
-  "gifted_total": 12,
-  "gift_redemptions": 12
+  "milestones": 5,
+  "gift_purchases": 2,
+  "gifted_total": 11,
+  "gift_redemptions": 11
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,54 +60,54 @@
    "tier": "エリ草",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 20,
-   "share_of_confirmed_pct": 80.0,
-   "allocated_unknown": 63.2,
-   "estimated_members": 83.2,
-   "monthly_net_confirmed": 6236,
-   "monthly_net_estimated": 25943
+   "confirmed_members": 17,
+   "share_of_confirmed_pct": 77.3,
+   "allocated_unknown": 41.7,
+   "estimated_members": 58.7,
+   "monthly_net_confirmed": 5301,
+   "monthly_net_estimated": 18312
   },
   {
    "tier": "ハイエリ草",
    "price": 1190,
    "net_per_member": 757.3,
    "confirmed_members": 1,
-   "share_of_confirmed_pct": 4.0,
-   "allocated_unknown": 3.2,
-   "estimated_members": 4.2,
+   "share_of_confirmed_pct": 4.5,
+   "allocated_unknown": 2.5,
+   "estimated_members": 3.5,
    "monthly_net_confirmed": 757,
-   "monthly_net_estimated": 3150
+   "monthly_net_estimated": 2616
   },
   {
    "tier": "ラストエリ草",
    "price": 3490,
    "net_per_member": 2220.9,
    "confirmed_members": 2,
-   "share_of_confirmed_pct": 8.0,
-   "allocated_unknown": 6.3,
-   "estimated_members": 8.3,
+   "share_of_confirmed_pct": 9.1,
+   "allocated_unknown": 4.9,
+   "estimated_members": 6.9,
    "monthly_net_confirmed": 4442,
-   "monthly_net_estimated": 18478
+   "monthly_net_estimated": 15344
   },
   {
    "tier": "この木なんの木エリーの木🎄",
    "price": 6300,
    "net_per_member": 4009.1,
    "confirmed_members": 2,
-   "share_of_confirmed_pct": 8.0,
-   "allocated_unknown": 6.3,
-   "estimated_members": 8.3,
+   "share_of_confirmed_pct": 9.1,
+   "allocated_unknown": 4.9,
+   "estimated_members": 6.9,
    "monthly_net_confirmed": 8018,
-   "monthly_net_estimated": 33356
+   "monthly_net_estimated": 27699
   }
  ],
  "revenue": {
-  "monthly_low": 44087,
-  "monthly_est": 80927,
-  "gift_once": 3742,
-  "total_low": 47829,
-  "total_est": 84669,
-  "paying_members": 104,
+  "monthly_low": 35356,
+  "monthly_est": 63972,
+  "gift_once": 3430,
+  "total_low": 38786,
+  "total_est": 67402,
+  "paying_members": 76,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -116,16 +116,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "QBb4BAj5K7A",
-   "start": "2026-09-26 23:57",
-   "title": "【#エリコニHBD2026】皆さまと誕生日カウントダウン、ぜひご一緒させてください～！！🌲🎂【#エリーコニファー/#にじさんじ】",
-   "kind": "配信",
-   "chatters": 278,
-   "member_chatters": 84,
-   "new_members": 1,
-   "gifted_total": 1
-  },
   {
    "video_id": "r9cspXyiKAA",
    "start": "2026-09-27 21:30",
@@ -288,7 +278,7 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-26"
+    "to": "2026-10-27"
    },
    "streams_analyzed": 4,
    "streams_missed": 1,

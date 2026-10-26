@@ -3,27 +3,26 @@
  "channel_id": "UCKMYISTJAQ8xTplUPHiABlA",
  "handle": "@YashiroKizuku",
  "subscribers": 924000,
- "fetched_at": "2026-10-26 09:19",
- "generated_at": "2026-10-26 09:19",
+ "fetched_at": "2026-10-27 05:18",
+ "generated_at": "2026-10-27 05:19",
  "period": {
-  "from": "2026-09-26 09:19",
-  "to": "2026-10-26 09:19",
+  "from": "2026-09-27 05:18",
+  "to": "2026-10-27 05:18",
   "days": 30
  },
  "streams_analyzed": 13,
  "streams_missed": 0,
- "unique_chatters": 13811,
- "members_confirmed": 956,
+ "unique_chatters": 13080,
+ "members_confirmed": 940,
  "member_classes": {
-  "unknown": 880,
-  "known": 71,
-  "gift": 5
+  "unknown": 868,
+  "known": 72
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 33
+   "members": 27
   },
   {
    "months": 1,
@@ -33,16 +32,16 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 894
+   "members": 884
   }
  ],
  "events": {
   "new_members": 11,
   "rejoins": 6,
-  "milestones": 44,
-  "gift_purchases": 1,
-  "gifted_total": 5,
-  "gift_redemptions": 5
+  "milestones": 43,
+  "gift_purchases": 0,
+  "gifted_total": 0,
+  "gift_redemptions": 0
  },
  "tiers_configured": true,
  "tiers": [
@@ -50,21 +49,21 @@
    "tier": "メンバー",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 71,
+   "confirmed_members": 72,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 880.0,
-   "estimated_members": 951.0,
-   "monthly_net_confirmed": 22139,
-   "monthly_net_estimated": 296539
+   "allocated_unknown": 868.0,
+   "estimated_members": 940.0,
+   "monthly_net_confirmed": 22451,
+   "monthly_net_estimated": 293109
   }
  ],
  "revenue": {
-  "monthly_low": 296539,
-  "monthly_est": 296539,
-  "gift_once": 1559,
-  "total_low": 298098,
-  "total_est": 298098,
-  "paying_members": 951,
+  "monthly_low": 293109,
+  "monthly_est": 293109,
+  "gift_once": 0,
+  "total_low": 293109,
+  "total_est": 293109,
+  "paying_members": 940,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,16 +72,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "P68BSNROdKs",
-   "start": "2026-09-26 21:33",
-   "title": "【遊戯王マスターデュエル】町内対抗☆ゲートボール大会☆【にじさんじ/社築】",
-   "kind": "配信",
-   "chatters": 1840,
-   "member_chatters": 257,
-   "new_members": 1,
-   "gifted_total": 5
-  },
   {
    "video_id": "mVIHsw4Ji-g",
    "start": "2026-10-01 22:15",
@@ -202,6 +191,16 @@
    "member_chatters": 577,
    "new_members": 3,
    "gifted_total": 0
+  },
+  {
+   "video_id": "g1WufVo_16k",
+   "start": "2026-10-26 22:06",
+   "title": "【キャプテン翼２ WORLD FIGHTERS #8】「空気」から「王者」に…カール社の強敵オランダとの知られざる戦いが始まる！！【にじさんじ/社築】",
+   "kind": "配信",
+   "chatters": 998,
+   "member_chatters": 198,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -265,15 +264,15 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-26"
+    "to": "2026-10-27"
    },
-   "streams_analyzed": 12,
+   "streams_analyzed": 13,
    "streams_missed": 0,
-   "unique_chatters": 12960,
-   "members_confirmed": 938,
+   "unique_chatters": 13080,
+   "members_confirmed": 940,
    "member_classes": {
-    "unknown": 867,
-    "known": 71
+    "unknown": 868,
+    "known": 72
    },
    "long_term_members": 0,
    "badges": [
@@ -283,15 +282,15 @@
     },
     {
      "months": 1,
-     "members": 28
+     "members": 29
     },
     {
      "months": 2,
-     "members": 883
+     "members": 884
     }
    ],
    "events": {
-    "new_members": 10,
+    "new_members": 11,
     "rejoins": 6,
     "milestones": 43,
     "gifted_total": 0
@@ -300,16 +299,16 @@
     {
      "tier": "メンバー",
      "price": 490,
-     "confirmed_members": 71,
-     "estimated_members": 938.0
+     "confirmed_members": 72,
+     "estimated_members": 940.0
     }
    ],
    "revenue": {
-    "monthly_low": 292485,
-    "monthly_est": 292485,
+    "monthly_low": 293109,
+    "monthly_est": 293109,
     "gift_once": 0
    },
-   "avg_member_chatters": 271.7,
+   "avg_member_chatters": 266,
    "partial": true,
    "finalized": false
   }

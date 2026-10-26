@@ -3,15 +3,15 @@
  "channel_id": "UCRV9d6YCYIMUszK-83TwxVA",
  "handle": "@TodorokiKyoko",
  "subscribers": 148000,
- "fetched_at": "2026-10-26 09:19",
- "generated_at": "2026-10-26 09:19",
+ "fetched_at": "2026-10-27 05:18",
+ "generated_at": "2026-10-27 05:18",
  "period": {
-  "from": "2026-09-26 09:19",
-  "to": "2026-10-26 09:19",
+  "from": "2026-09-27 05:18",
+  "to": "2026-10-27 05:18",
   "days": 30
  },
  "streams_analyzed": 10,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 240,
  "members_confirmed": 30,
  "member_classes": {
@@ -173,7 +173,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "OjVx9jZKi1c",
+   "start": "2026-10-26 00:00",
+   "title": "【 🎮Dress maker】お客様ひとりひとりをド大切にするド仕立て屋さん【にじさんじ/轟京子】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 536,
+   "view_count": 13012
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -237,10 +250,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-26"
+    "to": "2026-10-27"
    },
    "streams_analyzed": 10,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 240,
    "members_confirmed": 30,
    "member_classes": {

@@ -3,20 +3,20 @@
  "channel_id": "UCtnO2N4kPTXmyvedjGWdx3Q",
  "handle": "@LeviElipha",
  "subscribers": 375000,
- "fetched_at": "2026-10-26 09:20",
- "generated_at": "2026-10-26 09:20",
+ "fetched_at": "2026-10-27 05:20",
+ "generated_at": "2026-10-27 05:21",
  "period": {
-  "from": "2026-09-26 09:20",
-  "to": "2026-10-26 09:20",
+  "from": "2026-09-27 05:20",
+  "to": "2026-10-27 05:20",
   "days": 30
  },
- "streams_analyzed": 15,
+ "streams_analyzed": 16,
  "streams_missed": 2,
- "unique_chatters": 584,
- "members_confirmed": 100,
+ "unique_chatters": 604,
+ "members_confirmed": 101,
  "member_classes": {
   "known": 16,
-  "unknown": 63,
+  "unknown": 64,
   "gift": 21
  },
  "badges": [
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 61
+   "members": 62
   }
  ],
  "events": {
@@ -62,10 +62,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 12,
    "share_of_confirmed_pct": 75.0,
-   "allocated_unknown": 47.2,
-   "estimated_members": 59.2,
+   "allocated_unknown": 48.0,
+   "estimated_members": 60.0,
    "monthly_net_confirmed": 3742,
-   "monthly_net_estimated": 18475
+   "monthly_net_estimated": 18709
   },
   {
    "tier": "チク",
@@ -73,10 +73,10 @@
    "net_per_member": 757.3,
    "confirmed_members": 2,
    "share_of_confirmed_pct": 12.5,
-   "allocated_unknown": 7.9,
-   "estimated_members": 9.9,
+   "allocated_unknown": 8.0,
+   "estimated_members": 10.0,
    "monthly_net_confirmed": 1515,
-   "monthly_net_estimated": 7478
+   "monthly_net_estimated": 7573
   },
   {
    "tier": "ショー",
@@ -84,19 +84,19 @@
    "net_per_member": 2220.9,
    "confirmed_members": 2,
    "share_of_confirmed_pct": 12.5,
-   "allocated_unknown": 7.9,
-   "estimated_members": 9.9,
+   "allocated_unknown": 8.0,
+   "estimated_members": 10.0,
    "monthly_net_confirmed": 4442,
-   "monthly_net_estimated": 21931
+   "monthly_net_estimated": 22209
   }
  ],
  "revenue": {
-  "monthly_low": 29343,
-  "monthly_est": 47885,
+  "monthly_low": 29655,
+  "monthly_est": 48491,
   "gift_once": 6548,
-  "total_low": 35891,
-  "total_est": 54433,
-  "paying_members": 79,
+  "total_low": 36203,
+  "total_est": 55039,
+  "paying_members": 80,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -254,6 +254,16 @@
    "member_chatters": 15,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "WIX-f7SeRw0",
+   "start": "2026-10-26 13:36",
+   "title": "#04【FINAL FANTASY X | X-2 HD Remaster】エ‼‼‼ゾウじゃないんダ⁉【にじさんじ/レヴィ・エリファ】",
+   "kind": "配信",
+   "chatters": 61,
+   "member_chatters": 12,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -383,18 +393,18 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-26"
+    "to": "2026-10-27"
    },
-   "streams_analyzed": 14,
+   "streams_analyzed": 15,
    "streams_missed": 2,
-   "unique_chatters": 544,
-   "members_confirmed": 97,
+   "unique_chatters": 566,
+   "members_confirmed": 98,
    "member_classes": {
-    "unknown": 62,
+    "unknown": 63,
     "known": 14,
     "gift": 21
    },
-   "long_term_members": 61,
+   "long_term_members": 62,
    "badges": [
     {
      "months": 0,
@@ -414,7 +424,7 @@
     },
     {
      "months": 12,
-     "members": 61
+     "members": 62
     }
    ],
    "events": {
@@ -428,27 +438,27 @@
      "tier": "バイ",
      "price": 490,
      "confirmed_members": 10,
-     "estimated_members": 54.3
+     "estimated_members": 55.0
     },
     {
      "tier": "チク",
      "price": 1190,
      "confirmed_members": 2,
-     "estimated_members": 10.9
+     "estimated_members": 11.0
     },
     {
      "tier": "ショー",
      "price": 3490,
      "confirmed_members": 2,
-     "estimated_members": 10.9
+     "estimated_members": 11.0
     }
    ],
    "revenue": {
-    "monthly_low": 28407,
-    "monthly_est": 49262,
+    "monthly_low": 28719,
+    "monthly_est": 49910,
     "gift_once": 6548
    },
-   "avg_member_chatters": 25.6,
+   "avg_member_chatters": 24.7,
    "partial": true,
    "finalized": false
   }

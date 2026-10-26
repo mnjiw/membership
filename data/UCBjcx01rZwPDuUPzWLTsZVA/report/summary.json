@@ -3,27 +3,27 @@
  "channel_id": "UCBjcx01rZwPDuUPzWLTsZVA",
  "handle": "@YagyuShino",
  "subscribers": 93500,
- "fetched_at": "2026-10-26 09:22",
- "generated_at": "2026-10-26 09:22",
+ "fetched_at": "2026-10-27 05:30",
+ "generated_at": "2026-10-27 05:31",
  "period": {
-  "from": "2026-09-26 09:22",
-  "to": "2026-10-26 09:22",
+  "from": "2026-09-27 05:30",
+  "to": "2026-10-27 05:30",
   "days": 30
  },
  "streams_analyzed": 16,
  "streams_missed": 4,
- "unique_chatters": 3843,
- "members_confirmed": 224,
+ "unique_chatters": 3715,
+ "members_confirmed": 216,
  "member_classes": {
-  "unknown": 193,
+  "unknown": 190,
   "known": 10,
-  "gift": 21
+  "gift": 16
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 35
+   "members": 31
   },
   {
    "months": 1,
@@ -33,12 +33,12 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 67
+   "members": 68
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 36
+   "members": 31
   },
   {
    "months": 12,
@@ -47,12 +47,12 @@
   }
  ],
  "events": {
-  "new_members": 8,
+  "new_members": 7,
   "rejoins": 0,
   "milestones": 0,
-  "gift_purchases": 6,
-  "gifted_total": 26,
-  "gift_redemptions": 21
+  "gift_purchases": 5,
+  "gifted_total": 21,
+  "gift_redemptions": 16
  },
  "tiers_configured": true,
  "tiers": [
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 10,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 193.0,
-   "estimated_members": 203.0,
+   "allocated_unknown": 190.0,
+   "estimated_members": 200.0,
    "monthly_net_confirmed": 3118,
-   "monthly_net_estimated": 63299
+   "monthly_net_estimated": 62364
   }
  ],
  "revenue": {
-  "monthly_low": 63299,
-  "monthly_est": 63299,
-  "gift_once": 8107,
-  "total_low": 71406,
-  "total_est": 71406,
-  "paying_members": 203,
+  "monthly_low": 62364,
+  "monthly_est": 62364,
+  "gift_once": 6548,
+  "total_low": 68912,
+  "total_est": 68912,
+  "paying_members": 200,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "rgeEgQdAvlM",
-   "start": "2026-09-26 15:01",
-   "title": "〖 スーパードンキーコング 〗#14🔥脱法クリア耐久🔥6-3～クリアまでやるぞ！！！〖 にじさんじ / 夜牛詩乃 〗",
-   "kind": "配信",
-   "chatters": 561,
-   "member_chatters": 110,
-   "new_members": 1,
-   "gifted_total": 5
-  },
   {
    "video_id": "CU1yxc5K2nY",
    "start": "2026-09-29 21:04",
@@ -241,6 +231,16 @@
    "chatters": 720,
    "member_chatters": 93,
    "new_members": 2,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "TQN6YeHcgsE",
+   "start": "2026-10-26 11:46",
+   "title": "〖 雑談 〗お昼ドライブ☀️宝くじの当選が近づいてくる〖 にじさんじ / 夜牛詩乃 〗",
+   "kind": "配信",
+   "chatters": 296,
+   "member_chatters": 62,
+   "new_members": 0,
    "gifted_total": 0
   }
  ],
@@ -393,18 +393,18 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-26"
+    "to": "2026-10-27"
    },
-   "streams_analyzed": 13,
+   "streams_analyzed": 14,
    "streams_missed": 3,
-   "unique_chatters": 2578,
-   "members_confirmed": 193,
+   "unique_chatters": 2642,
+   "members_confirmed": 198,
    "member_classes": {
-    "unknown": 177,
+    "unknown": 182,
     "known": 10,
     "gift": 6
    },
-   "long_term_members": 66,
+   "long_term_members": 68,
    "badges": [
     {
      "months": 0,
@@ -412,11 +412,11 @@
     },
     {
      "months": 1,
-     "members": 14
+     "members": 15
     },
     {
      "months": 2,
-     "members": 61
+     "members": 63
     },
     {
      "months": 6,
@@ -424,7 +424,7 @@
     },
     {
      "months": 12,
-     "members": 66
+     "members": 68
     }
    ],
    "events": {
@@ -438,15 +438,15 @@
      "tier": "詩乃餌付け隊",
      "price": 490,
      "confirmed_members": 10,
-     "estimated_members": 187.0
+     "estimated_members": 192.0
     }
    ],
    "revenue": {
-    "monthly_low": 58310,
-    "monthly_est": 58310,
+    "monthly_low": 59869,
+    "monthly_est": 59869,
     "gift_once": 1871
    },
-   "avg_member_chatters": 70.3,
+   "avg_member_chatters": 69.7,
    "partial": true,
    "finalized": false
   }

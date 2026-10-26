@@ -2,38 +2,38 @@
  "channel": "Alban Knox 【NIJISANJI EN】",
  "channel_id": "UCQ1zGxHrfEmmW4CPpBx9-qw",
  "handle": "@AlbanKnox",
- "subscribers": 745000,
- "fetched_at": "2026-10-26 09:23",
- "generated_at": "2026-10-26 09:23",
+ "subscribers": 746000,
+ "fetched_at": "2026-10-27 05:32",
+ "generated_at": "2026-10-27 05:33",
  "period": {
-  "from": "2026-09-26 09:23",
-  "to": "2026-10-26 09:23",
+  "from": "2026-09-27 05:32",
+  "to": "2026-10-27 05:32",
   "days": 30
  },
- "streams_analyzed": 14,
+ "streams_analyzed": 13,
  "streams_missed": 3,
- "unique_chatters": 1347,
- "members_confirmed": 516,
+ "unique_chatters": 1270,
+ "members_confirmed": 494,
  "member_classes": {
-  "unknown": 271,
-  "known": 61,
-  "gift": 184
+  "known": 60,
+  "unknown": 263,
+  "gift": 171
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 197
+   "members": 184
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 10
+   "members": 9
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 31
+   "members": 28
   },
   {
    "months": 6,
@@ -48,26 +48,26 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 53
+   "members": 52
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 62
+   "members": 60
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 68
+   "members": 66
   }
  ],
  "events": {
   "new_members": 6,
   "rejoins": 4,
-  "milestones": 36,
-  "gift_purchases": 46,
-  "gifted_total": 187,
-  "gift_redemptions": 184
+  "milestones": 35,
+  "gift_purchases": 41,
+  "gifted_total": 174,
+  "gift_redemptions": 171
  },
  "tiers_configured": true,
  "tiers": [
@@ -76,31 +76,31 @@
    "price": 490,
    "net_per_member": 311.8,
    "confirmed_members": 19,
-   "share_of_confirmed_pct": 31.1,
-   "allocated_unknown": 84.4,
-   "estimated_members": 103.4,
+   "share_of_confirmed_pct": 31.7,
+   "allocated_unknown": 83.3,
+   "estimated_members": 102.3,
    "monthly_net_confirmed": 5925,
-   "monthly_net_estimated": 32245
+   "monthly_net_estimated": 31894
   },
   {
    "tier": "MEGA Konbini Crew",
    "price": 790,
    "net_per_member": 502.7,
-   "confirmed_members": 42,
-   "share_of_confirmed_pct": 68.9,
-   "allocated_unknown": 186.6,
-   "estimated_members": 228.6,
-   "monthly_net_confirmed": 21115,
-   "monthly_net_estimated": 114919
+   "confirmed_members": 41,
+   "share_of_confirmed_pct": 68.3,
+   "allocated_unknown": 179.7,
+   "estimated_members": 220.7,
+   "monthly_net_confirmed": 20612,
+   "monthly_net_estimated": 110960
   }
  ],
  "revenue": {
-  "monthly_low": 111542,
-  "monthly_est": 147164,
-  "gift_once": 58310,
-  "total_low": 169852,
-  "total_est": 205474,
-  "paying_members": 332,
+  "monthly_low": 108545,
+  "monthly_est": 142854,
+  "gift_once": 54256,
+  "total_low": 162801,
+  "total_est": 197110,
+  "paying_members": 323,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -109,16 +109,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "lyGQ4hMFg7c",
-   "start": "2026-09-26 20:02",
-   "title": "【 RESTORE YOUR ISLAND 】IT'S CLEANING DAY!!!! 【 NIJISANJI EN | Alban Knox 】",
-   "kind": "配信",
-   "chatters": 246,
-   "member_chatters": 137,
-   "new_members": 0,
-   "gifted_total": 13
-  },
   {
    "video_id": "0UZR8dRVA-o",
    "start": "2026-10-01 10:06",
@@ -284,7 +274,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "MEGA Konbini Crew",
-   "like_count": 101,
+   "like_count": 102,
    "view_count": null
   }
  ],
@@ -316,7 +306,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "MEGA Konbini Crew",
-   "like_count": 101,
+   "like_count": 102,
    "view_count": null
   }
  ],
@@ -405,7 +395,7 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-26"
+    "to": "2026-10-27"
    },
    "streams_analyzed": 13,
    "streams_missed": 2,

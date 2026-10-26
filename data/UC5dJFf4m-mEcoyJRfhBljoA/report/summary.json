@@ -3,56 +3,56 @@
  "channel_id": "UC5dJFf4m-mEcoyJRfhBljoA",
  "handle": "@SeraphDazzlegarden",
  "subscribers": 427000,
- "fetched_at": "2026-10-26 09:21",
- "generated_at": "2026-10-26 09:21",
+ "fetched_at": "2026-10-27 05:25",
+ "generated_at": "2026-10-27 05:26",
  "period": {
-  "from": "2026-09-26 09:21",
-  "to": "2026-10-26 09:21",
+  "from": "2026-09-27 05:25",
+  "to": "2026-10-27 05:25",
   "days": 30
  },
  "streams_analyzed": 15,
  "streams_missed": 2,
- "unique_chatters": 2184,
- "members_confirmed": 1195,
+ "unique_chatters": 2236,
+ "members_confirmed": 1234,
  "member_classes": {
-  "unknown": 1032,
-  "known": 123,
-  "gift": 40
+  "unknown": 1044,
+  "known": 129,
+  "gift": 61
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 107
+   "members": 132
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 54
+   "members": 56
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 171
+   "members": 175
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 168
+   "members": 171
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 695
+   "members": 700
   }
  ],
  "events": {
-  "new_members": 17,
-  "rejoins": 10,
-  "milestones": 81,
-  "gift_purchases": 3,
-  "gifted_total": 41,
-  "gift_redemptions": 41
+  "new_members": 23,
+  "rejoins": 11,
+  "milestones": 83,
+  "gift_purchases": 5,
+  "gifted_total": 62,
+  "gift_redemptions": 62
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,32 +60,32 @@
    "tier": "アシスタントエージェント",
    "price": 140,
    "net_per_member": 89.1,
-   "confirmed_members": 8,
-   "share_of_confirmed_pct": 6.5,
-   "allocated_unknown": 67.1,
-   "estimated_members": 75.1,
-   "monthly_net_confirmed": 713,
-   "monthly_net_estimated": 6693
+   "confirmed_members": 9,
+   "share_of_confirmed_pct": 7.0,
+   "allocated_unknown": 72.8,
+   "estimated_members": 81.8,
+   "monthly_net_confirmed": 802,
+   "monthly_net_estimated": 7291
   },
   {
    "tier": "バディエージェント",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 115,
-   "share_of_confirmed_pct": 93.5,
-   "allocated_unknown": 964.9,
-   "estimated_members": 1079.9,
-   "monthly_net_confirmed": 35859,
-   "monthly_net_estimated": 336726
+   "confirmed_members": 120,
+   "share_of_confirmed_pct": 93.0,
+   "allocated_unknown": 971.2,
+   "estimated_members": 1091.2,
+   "monthly_net_confirmed": 37418,
+   "monthly_net_estimated": 340244
   }
  ],
  "revenue": {
-  "monthly_low": 128514,
-  "monthly_est": 343418,
-  "gift_once": 3653,
-  "total_low": 132166,
-  "total_est": 347071,
-  "paying_members": 1155,
+  "monthly_low": 131231,
+  "monthly_est": 347535,
+  "gift_once": 5524,
+  "total_low": 136755,
+  "total_est": 353059,
+  "paying_members": 1173,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -94,16 +94,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "CvHJkKNUTh8",
-   "start": "2026-09-26 21:00",
-   "title": "【オンライン謎解き】にじさんじ謎解き大好きっ子クラブ結成！#VRINQトラブル配信脱出【セラフ・ダズルガーデン/健屋花那/鏑木ろこ/にじさんじ】",
-   "kind": "配信",
-   "chatters": 402,
-   "member_chatters": 290,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "SfGANF8Cm3U",
    "start": "2026-09-27 18:02",
@@ -243,6 +233,16 @@
    "member_chatters": 315,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "PL526C5eiIA",
+   "start": "2026-10-26 22:32",
+   "title": "【雑談】Steamが起動しなくなった夜、夜専用炭酸水と共に駄弁る【セラフ・ダズルガーデン/にじさんじ】",
+   "kind": "配信",
+   "chatters": 636,
+   "member_chatters": 465,
+   "new_members": 6,
+   "gifted_total": 21
   }
  ],
  "missed_streams": [
@@ -255,7 +255,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "バディエージェント",
-   "like_count": 363,
+   "like_count": 365,
    "view_count": null
   },
   {
@@ -267,7 +267,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "バディエージェント",
-   "like_count": 366,
+   "like_count": 370,
    "view_count": null
   }
  ],
@@ -279,7 +279,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "バディエージェント",
-   "like_count": 363,
+   "like_count": 365,
    "view_count": null
   },
   {
@@ -289,7 +289,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "バディエージェント",
-   "like_count": 366,
+   "like_count": 370,
    "view_count": null
   }
  ],
@@ -366,66 +366,66 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-26"
+    "to": "2026-10-27"
    },
-   "streams_analyzed": 12,
+   "streams_analyzed": 13,
    "streams_missed": 2,
-   "unique_chatters": 1940,
-   "members_confirmed": 1093,
+   "unique_chatters": 2080,
+   "members_confirmed": 1168,
    "member_classes": {
-    "unknown": 936,
-    "known": 117,
-    "gift": 40
+    "unknown": 982,
+    "known": 125,
+    "gift": 61
    },
-   "long_term_members": 631,
+   "long_term_members": 665,
    "badges": [
     {
      "months": 0,
-     "members": 98
+     "members": 125
     },
     {
      "months": 1,
-     "members": 49
+     "members": 52
     },
     {
      "months": 2,
-     "members": 163
+     "members": 169
     },
     {
      "months": 6,
-     "members": 152
+     "members": 157
     },
     {
      "months": 12,
-     "members": 631
+     "members": 665
     }
    ],
    "events": {
-    "new_members": 16,
-    "rejoins": 9,
-    "milestones": 66,
-    "gifted_total": 41
+    "new_members": 22,
+    "rejoins": 10,
+    "milestones": 70,
+    "gifted_total": 62
    },
    "tiers": [
     {
      "tier": "アシスタントエージェント",
      "price": 140,
-     "confirmed_members": 6,
-     "estimated_members": 54.0
+     "confirmed_members": 7,
+     "estimated_members": 62.0
     },
     {
      "tier": "バディエージェント",
      "price": 490,
-     "confirmed_members": 111,
-     "estimated_members": 999.0
+     "confirmed_members": 118,
+     "estimated_members": 1045.0
     }
    ],
    "revenue": {
-    "monthly_low": 118535,
-    "monthly_est": 316317,
-    "gift_once": 3653
+    "monthly_low": 124905,
+    "monthly_est": 331375,
+    "gift_once": 5524
    },
-   "avg_member_chatters": 343.3,
+   "avg_member_chatters": 352.7,
    "partial": true,
    "finalized": false
   }

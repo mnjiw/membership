@@ -2,17 +2,17 @@
  "month": "2026-10",
  "coverage": {
   "from": "2026-10-01",
-  "to": "2026-10-26"
+  "to": "2026-10-27"
  },
- "streams_analyzed": 5,
+ "streams_analyzed": 6,
  "streams_missed": 1,
- "unique_chatters": 180,
- "members_confirmed": 99,
+ "unique_chatters": 224,
+ "members_confirmed": 118,
  "member_classes": {
-  "unknown": 86,
-  "known": 13
+  "unknown": 98,
+  "known": 20
  },
- "long_term_members": 85,
+ "long_term_members": 101,
  "badges": [
   {
    "months": 0,
@@ -20,23 +20,23 @@
   },
   {
    "months": 1,
-   "members": 3
-  },
-  {
-   "months": 2,
-   "members": 6
-  },
-  {
-   "months": 6,
    "members": 4
   },
   {
+   "months": 2,
+   "members": 7
+  },
+  {
+   "months": 6,
+   "members": 5
+  },
+  {
    "months": 12,
-   "members": 9
+   "members": 12
   },
   {
    "months": 24,
-   "members": 18
+   "members": 23
   },
   {
    "months": 36,
@@ -44,7 +44,7 @@
   },
   {
    "months": 48,
-   "members": 25
+   "members": 33
   },
   {
    "months": 60,
@@ -54,23 +54,23 @@
  "events": {
   "new_members": 0,
   "rejoins": 1,
-  "milestones": 6,
+  "milestones": 17,
   "gifted_total": 0
  },
  "tiers": [
   {
    "tier": "수하쿠아(Suhaqua)",
    "price": 490,
-   "confirmed_members": 13,
-   "estimated_members": 99.0
+   "confirmed_members": 20,
+   "estimated_members": 118.0
   }
  ],
  "revenue": {
-  "monthly_low": 30870,
-  "monthly_est": 30870,
+  "monthly_low": 36795,
+  "monthly_est": 36795,
   "gift_once": 0
  },
- "avg_member_chatters": 47.2,
+ "avg_member_chatters": 51.3,
  "partial": true,
  "finalized": false
 }

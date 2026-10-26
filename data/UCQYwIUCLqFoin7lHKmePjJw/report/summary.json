@@ -3,19 +3,19 @@
  "channel_id": "UCQYwIUCLqFoin7lHKmePjJw",
  "handle": "@KlaraCharmwood",
  "subscribers": 110000,
- "fetched_at": "2026-10-26 09:23",
- "generated_at": "2026-10-26 09:23",
+ "fetched_at": "2026-10-27 05:33",
+ "generated_at": "2026-10-27 05:34",
  "period": {
-  "from": "2026-09-26 09:23",
-  "to": "2026-10-26 09:23",
+  "from": "2026-09-27 05:33",
+  "to": "2026-10-27 05:33",
   "days": 30
  },
  "streams_analyzed": 30,
- "streams_missed": 2,
- "unique_chatters": 4851,
- "members_confirmed": 567,
+ "streams_missed": 1,
+ "unique_chatters": 4838,
+ "members_confirmed": 566,
  "member_classes": {
-  "unknown": 168,
+  "unknown": 167,
   "known": 118,
   "gift": 281
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 301
+   "members": 300
   },
   {
    "months": 1,
@@ -43,18 +43,18 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 60
+   "members": 61
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 71
+   "members": 70
   }
  ],
  "events": {
   "new_members": 24,
   "rejoins": 13,
-  "milestones": 81,
+  "milestones": 78,
   "gift_purchases": 73,
   "gifted_total": 401,
   "gift_redemptions": 287
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 118,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 168.0,
-   "estimated_members": 286.0,
+   "allocated_unknown": 167.0,
+   "estimated_members": 285.0,
    "monthly_net_confirmed": 36795,
-   "monthly_net_estimated": 89180
+   "monthly_net_estimated": 88868
   }
  ],
  "revenue": {
-  "monthly_low": 89180,
-  "monthly_est": 89180,
+  "monthly_low": 88868,
+  "monthly_est": 88868,
   "gift_once": 125039,
-  "total_low": 214219,
-  "total_est": 214219,
-  "paying_members": 286,
+  "total_low": 213907,
+  "total_est": 213907,
+  "paying_members": 285,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "6--pYDvypkA",
-   "start": "2026-09-26 19:59",
-   "title": "【日本語雑談】日本語上手くなりたいメイドである【NIJISANJI EN | Klara Charmwood】",
-   "kind": "配信",
-   "chatters": 148,
-   "member_chatters": 53,
-   "new_members": 0,
-   "gifted_total": 1
-  },
   {
    "video_id": "TfvLrfNzkj0",
    "start": "2026-10-01 20:00",
@@ -387,6 +377,16 @@
    "member_chatters": 43,
    "new_members": 0,
    "gifted_total": 1
+  },
+  {
+   "video_id": "aFoeuHASQ6Q",
+   "start": "2026-10-26 06:58",
+   "title": "【モーニングチャーム】ハロウィンに合うゲームのお話し！【にじさんじEN | クララ チャームウッド】",
+   "kind": "配信",
+   "chatters": 103,
+   "member_chatters": 40,
+   "new_members": 0,
+   "gifted_total": 1
   }
  ],
  "missed_streams": [
@@ -401,18 +401,6 @@
    "members_level": "Cuppanions",
    "like_count": 80,
    "view_count": null
-  },
-  {
-   "video_id": "aFoeuHASQ6Q",
-   "start": "2026-10-25 00:00",
-   "title": "【モーニングチャーム】ハロウィンに合うゲームのお話し！【にじさんじEN | クララ チャームウッド】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 418,
-   "view_count": 2582
   }
  ],
  "members_only_content": [
@@ -498,22 +486,22 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-26"
+    "to": "2026-10-27"
    },
-   "streams_analyzed": 29,
-   "streams_missed": 2,
-   "unique_chatters": 4818,
-   "members_confirmed": 564,
+   "streams_analyzed": 30,
+   "streams_missed": 1,
+   "unique_chatters": 4838,
+   "members_confirmed": 566,
    "member_classes": {
-    "unknown": 166,
+    "unknown": 167,
     "known": 118,
-    "gift": 280
+    "gift": 281
    },
-   "long_term_members": 130,
+   "long_term_members": 131,
    "badges": [
     {
      "months": 0,
-     "members": 299
+     "members": 300
     },
     {
      "months": 1,
@@ -529,7 +517,7 @@
     },
     {
      "months": 12,
-     "members": 60
+     "members": 61
     },
     {
      "months": 24,
@@ -540,22 +528,22 @@
     "new_members": 24,
     "rejoins": 13,
     "milestones": 78,
-    "gifted_total": 400
+    "gifted_total": 401
    },
    "tiers": [
     {
      "tier": "Cuppanions",
      "price": 490,
      "confirmed_members": 118,
-     "estimated_members": 284.0
+     "estimated_members": 285.0
     }
    ],
    "revenue": {
-    "monthly_low": 88556,
-    "monthly_est": 88556,
-    "gift_once": 124727
+    "monthly_low": 88868,
+    "monthly_est": 88868,
+    "gift_once": 125039
    },
-   "avg_member_chatters": 77.7,
+   "avg_member_chatters": 76.5,
    "partial": true,
    "finalized": false
   }

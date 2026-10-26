@@ -3,61 +3,61 @@
  "channel_id": "UCgmFrRcyH7d1zR9sIVQhFow",
  "handle": "@LaurenIroas",
  "subscribers": 1060000,
- "fetched_at": "2026-10-26 09:20",
- "generated_at": "2026-10-26 09:20",
+ "fetched_at": "2026-10-27 05:24",
+ "generated_at": "2026-10-27 05:24",
  "period": {
-  "from": "2026-09-26 09:20",
-  "to": "2026-10-26 09:20",
+  "from": "2026-09-27 05:24",
+  "to": "2026-10-27 05:24",
   "days": 30
  },
- "streams_analyzed": 20,
- "streams_missed": 0,
- "unique_chatters": 10618,
- "members_confirmed": 4443,
+ "streams_analyzed": 19,
+ "streams_missed": 1,
+ "unique_chatters": 10282,
+ "members_confirmed": 4390,
  "member_classes": {
-  "known": 369,
-  "unknown": 3394,
-  "gift": 680
+  "unknown": 3357,
+  "known": 366,
+  "gift": 667
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 810
+   "members": 796
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 111
+   "members": 106
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 322
+   "members": 319
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 483
+   "members": 476
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 820
+   "members": 814
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 1897
+   "members": 1879
   }
  ],
  "events": {
-  "new_members": 45,
-  "rejoins": 35,
-  "milestones": 218,
-  "gift_purchases": 175,
-  "gifted_total": 705,
-  "gift_redemptions": 680
+  "new_members": 44,
+  "rejoins": 31,
+  "milestones": 208,
+  "gift_purchases": 170,
+  "gifted_total": 692,
+  "gift_redemptions": 667
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +65,21 @@
    "tier": "PrisonLv1",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 369,
+   "confirmed_members": 366,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 3394.0,
-   "estimated_members": 3763.0,
-   "monthly_net_confirmed": 115061,
-   "monthly_net_estimated": 1173372
+   "allocated_unknown": 3357.0,
+   "estimated_members": 3723.0,
+   "monthly_net_confirmed": 114125,
+   "monthly_net_estimated": 1160899
   }
  ],
  "revenue": {
-  "monthly_low": 1173372,
-  "monthly_est": 1173372,
-  "gift_once": 219832,
-  "total_low": 1393204,
-  "total_est": 1393204,
-  "paying_members": 3763,
+  "monthly_low": 1160899,
+  "monthly_est": 1160899,
+  "gift_once": 215778,
+  "total_low": 1376677,
+  "total_est": 1376677,
+  "paying_members": 3723,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "wnW2cErkzBM",
-   "start": "2026-09-26 18:28",
-   "title": "【APEX】じゃすぱーさんRASさんよろしくお願いします【ローレン・イロアス/にじさんじ】",
-   "kind": "配信",
-   "chatters": 1975,
-   "member_chatters": 1123,
-   "new_members": 1,
-   "gifted_total": 13
-  },
   {
    "video_id": "IE9O6Cp_g70",
    "start": "2026-09-29 20:18",
@@ -289,8 +279,32 @@
    "gifted_total": 2
   }
  ],
- "missed_streams": [],
- "members_only_content": [],
+ "missed_streams": [
+  {
+   "video_id": "tdZRmBb3WgA",
+   "start": "2026-10-26 23:36",
+   "title": "お久しぶりですお元気ですか",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "PrisonLv1",
+   "like_count": 1575,
+   "view_count": null
+  }
+ ],
+ "members_only_content": [
+  {
+   "video_id": "tdZRmBb3WgA",
+   "start": "2026-10-26 23:36",
+   "title": "お久しぶりですお元気ですか",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "PrisonLv1",
+   "like_count": 1575,
+   "view_count": null
+  }
+ ],
  "history": [
   {
    "month": "2026-09",
@@ -362,10 +376,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-26"
+    "to": "2026-10-27"
    },
    "streams_analyzed": 17,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 9673,
    "members_confirmed": 4225,
    "member_classes": {
