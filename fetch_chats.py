@@ -347,6 +347,8 @@ def fetch_one(args, video_id: str, chats_dir: Path, cutoff_ts: float, prev: dict
                 meta["settled_while_limited"] = True
                 if tab == "live":
                     meta["kind"] = "live"
+                    # 決めた日の予備の実行 (月曜) で、すぐに確認し直さないようにする
+                    meta["rechecked_ts"] = time.time()
                     return meta, "no_chat"
                 return meta, "skip_not_stream"
             meta["error"] = "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)"
