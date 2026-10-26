@@ -3,27 +3,27 @@
  "channel_id": "UCyJOgJhgfoVRpFjsBCUmuvg",
  "handle": "@KozueMone",
  "subscribers": 159000,
- "fetched_at": "2026-10-26 05:39",
- "generated_at": "2026-10-26 05:40",
+ "fetched_at": "2026-10-26 09:21",
+ "generated_at": "2026-10-26 09:23",
  "period": {
-  "from": "2026-09-26 05:39",
-  "to": "2026-10-26 05:39",
+  "from": "2026-09-26 09:21",
+  "to": "2026-10-26 09:21",
   "days": 30
  },
- "streams_analyzed": 27,
- "streams_missed": 5,
- "unique_chatters": 3181,
- "members_confirmed": 492,
+ "streams_analyzed": 28,
+ "streams_missed": 4,
+ "unique_chatters": 3230,
+ "members_confirmed": 495,
  "member_classes": {
   "known": 92,
-  "unknown": 379,
+  "unknown": 382,
   "gift": 21
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 48
+   "members": 49
   },
   {
    "months": 1,
@@ -33,17 +33,17 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 40
+   "members": 39
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 88
+   "members": 89
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 176
+   "members": 178
   },
   {
    "months": 24,
@@ -54,7 +54,7 @@
  "events": {
   "new_members": 16,
   "rejoins": 3,
-  "milestones": 57,
+  "milestones": 58,
   "gift_purchases": 12,
   "gifted_total": 21,
   "gift_redemptions": 21
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 92,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 379.0,
-   "estimated_members": 471.0,
+   "allocated_unknown": 382.0,
+   "estimated_members": 474.0,
    "monthly_net_confirmed": 28687,
-   "monthly_net_estimated": 146866
+   "monthly_net_estimated": 147802
   }
  ],
  "revenue": {
-  "monthly_low": 146866,
-  "monthly_est": 146866,
+  "monthly_low": 147802,
+  "monthly_est": 147802,
   "gift_once": 6548,
-  "total_low": 153415,
-  "total_est": 153415,
-  "paying_members": 471,
+  "total_low": 154350,
+  "total_est": 154350,
+  "paying_members": 474,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -357,6 +357,16 @@
    "member_chatters": 167,
    "new_members": 3,
    "gifted_total": 0
+  },
+  {
+   "video_id": "jGQqkOJddcg",
+   "start": "2026-10-25 21:01",
+   "title": "【同時視聴】完全初見🔰Fate/Zero 10話から14話まで👀【にじさんじ/梢桃音】",
+   "kind": "配信",
+   "chatters": 359,
+   "member_chatters": 116,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -407,18 +417,6 @@
    "members_level": "",
    "like_count": 116,
    "view_count": null
-  },
-  {
-   "video_id": "jGQqkOJddcg",
-   "start": "2026-10-25 00:00",
-   "title": "【同時視聴】完全初見🔰Fate/Zero 10話から14話まで👀【にじさんじ/梢桃音】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 468,
-   "view_count": 14986
   }
  ],
  "members_only_content": [
@@ -536,20 +534,20 @@
     "from": "2026-10-01",
     "to": "2026-10-26"
    },
-   "streams_analyzed": 22,
-   "streams_missed": 4,
-   "unique_chatters": 2807,
-   "members_confirmed": 456,
+   "streams_analyzed": 23,
+   "streams_missed": 3,
+   "unique_chatters": 2864,
+   "members_confirmed": 460,
    "member_classes": {
     "known": 89,
-    "unknown": 346,
+    "unknown": 350,
     "gift": 21
    },
-   "long_term_members": 284,
+   "long_term_members": 286,
    "badges": [
     {
      "months": 0,
-     "members": 41
+     "members": 42
     },
     {
      "months": 1,
@@ -557,15 +555,15 @@
     },
     {
      "months": 2,
-     "members": 37
+     "members": 36
     },
     {
      "months": 6,
-     "members": 83
+     "members": 85
     },
     {
      "months": 12,
-     "members": 163
+     "members": 165
     },
     {
      "months": 24,
@@ -575,7 +573,7 @@
    "events": {
     "new_members": 11,
     "rejoins": 3,
-    "milestones": 50,
+    "milestones": 51,
     "gifted_total": 21
    },
    "tiers": [
@@ -583,15 +581,15 @@
      "tier": "もねゴンの集い",
      "price": 490,
      "confirmed_members": 89,
-     "estimated_members": 435.0
+     "estimated_members": 439.0
     }
    ],
    "revenue": {
-    "monthly_low": 135641,
-    "monthly_est": 135641,
+    "monthly_low": 136888,
+    "monthly_est": 136888,
     "gift_once": 6548
    },
-   "avg_member_chatters": 143.6,
+   "avg_member_chatters": 142.4,
    "partial": true,
    "finalized": false
   }

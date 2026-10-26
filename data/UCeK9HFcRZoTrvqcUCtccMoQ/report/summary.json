@@ -3,16 +3,16 @@
  "channel_id": "UCeK9HFcRZoTrvqcUCtccMoQ",
  "handle": "@ShibuyaHajime",
  "subscribers": 161000,
- "fetched_at": "2026-10-26 05:18",
- "generated_at": "2026-10-26 05:18",
+ "fetched_at": "2026-10-26 09:18",
+ "generated_at": "2026-10-26 09:19",
  "period": {
-  "from": "2026-09-26 05:18",
-  "to": "2026-10-26 05:18",
+  "from": "2026-09-26 09:18",
+  "to": "2026-10-26 09:18",
   "days": 30
  },
- "streams_analyzed": 22,
- "streams_missed": 1,
- "unique_chatters": 290,
+ "streams_analyzed": 23,
+ "streams_missed": 0,
+ "unique_chatters": 304,
  "members_confirmed": 60,
  "member_classes": {
   "unknown": 60
@@ -52,7 +52,7 @@
  "events": {
   "new_members": 3,
   "rejoins": 2,
-  "milestones": 12,
+  "milestones": 13,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -305,22 +305,19 @@
    "member_chatters": 18,
    "new_members": 0,
    "gifted_total": 0
-  }
- ],
- "missed_streams": [
+  },
   {
    "video_id": "ud0ZrCZKhWs",
-   "start": "2026-10-25 00:00",
+   "start": "2026-10-25 19:20",
    "title": "【遊戯王マスターデュエル】DCLv17幻影騎士団で回す！！【にじさんじ/渋谷ハジメ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 133,
-   "view_count": 5287
+   "kind": "配信",
+   "chatters": 39,
+   "member_chatters": 15,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -393,9 +390,9 @@
     "from": "2026-10-01",
     "to": "2026-10-26"
    },
-   "streams_analyzed": 19,
-   "streams_missed": 1,
-   "unique_chatters": 281,
+   "streams_analyzed": 20,
+   "streams_missed": 0,
+   "unique_chatters": 295,
    "members_confirmed": 57,
    "member_classes": {
     "unknown": 57
@@ -430,7 +427,7 @@
    "events": {
     "new_members": 3,
     "rejoins": 0,
-    "milestones": 7,
+    "milestones": 8,
     "gifted_total": 0
    },
    "tiers": [
@@ -446,7 +443,7 @@
     "monthly_est": 17774,
     "gift_once": 0
    },
-   "avg_member_chatters": 19.8,
+   "avg_member_chatters": 19.6,
    "partial": true,
    "finalized": false
   }

@@ -3,19 +3,19 @@
  "channel_id": "UCcswLVd6KGBf5mIdzeO83bA",
  "handle": "@HanakagoTsubasa",
  "subscribers": 129000,
- "fetched_at": "2026-10-26 05:42",
- "generated_at": "2026-10-26 05:42",
+ "fetched_at": "2026-10-26 09:22",
+ "generated_at": "2026-10-26 09:22",
  "period": {
-  "from": "2026-09-26 05:42",
-  "to": "2026-10-26 05:42",
+  "from": "2026-09-26 09:22",
+  "to": "2026-10-26 09:22",
   "days": 30
  },
- "streams_analyzed": 22,
+ "streams_analyzed": 23,
  "streams_missed": 0,
- "unique_chatters": 753,
- "members_confirmed": 310,
+ "unique_chatters": 864,
+ "members_confirmed": 328,
  "member_classes": {
-  "unknown": 229,
+  "unknown": 247,
   "known": 20,
   "gift": 61
  },
@@ -33,17 +33,17 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 49
+   "members": 58
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 74
+   "members": 76
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 46
+   "members": 53
   }
  ],
  "events": {
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 20,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 229.0,
-   "estimated_members": 249.0,
+   "allocated_unknown": 247.0,
+   "estimated_members": 267.0,
    "monthly_net_confirmed": 6236,
-   "monthly_net_estimated": 77643
+   "monthly_net_estimated": 83255
   }
  ],
  "revenue": {
-  "monthly_low": 77643,
-  "monthly_est": 77643,
+  "monthly_low": 83255,
+  "monthly_est": 83255,
   "gift_once": 19021,
-  "total_low": 96664,
-  "total_est": 96664,
-  "paying_members": 249,
+  "total_low": 102276,
+  "total_est": 102276,
+  "paying_members": 267,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -302,6 +302,16 @@
    "member_chatters": 86,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "FAJ0Su4GncM",
+   "start": "2026-10-26 07:02",
+   "title": "【雑談】起きてください！！！なんと朝活です。【花籠つばさ / にじさんじ】",
+   "kind": "配信",
+   "chatters": 244,
+   "member_chatters": 113,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -371,16 +381,16 @@
     "from": "2026-10-01",
     "to": "2026-10-26"
    },
-   "streams_analyzed": 19,
+   "streams_analyzed": 20,
    "streams_missed": 0,
-   "unique_chatters": 653,
-   "members_confirmed": 285,
+   "unique_chatters": 771,
+   "members_confirmed": 305,
    "member_classes": {
-    "unknown": 215,
+    "unknown": 235,
     "known": 19,
     "gift": 51
    },
-   "long_term_members": 46,
+   "long_term_members": 53,
    "badges": [
     {
      "months": 0,
@@ -388,19 +398,19 @@
     },
     {
      "months": 1,
-     "members": 45
+     "members": 46
     },
     {
      "months": 2,
-     "members": 48
+     "members": 57
     },
     {
      "months": 6,
-     "members": 66
+     "members": 69
     },
     {
      "months": 12,
-     "members": 46
+     "members": 53
     }
    ],
    "events": {
@@ -414,15 +424,15 @@
      "tier": "翼推部 子つ葉班",
      "price": 490,
      "confirmed_members": 19,
-     "estimated_members": 234.0
+     "estimated_members": 254.0
     }
    ],
    "revenue": {
-    "monthly_low": 72965,
-    "monthly_est": 72965,
+    "monthly_low": 79202,
+    "monthly_est": 79202,
     "gift_once": 15903
    },
-   "avg_member_chatters": 76.4,
+   "avg_member_chatters": 78.2,
    "partial": true,
    "finalized": false
   }
