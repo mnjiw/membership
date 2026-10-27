@@ -3,15 +3,15 @@
  "channel_id": "UCa1HO5wU6csVDePt9EPYqmA",
  "handle": "@PomeloPunch",
  "subscribers": 82100,
- "fetched_at": "2026-10-27 05:32",
- "generated_at": "2026-10-27 05:32",
+ "fetched_at": "2026-10-27 10:31",
+ "generated_at": "2026-10-27 10:31",
  "period": {
-  "from": "2026-09-27 05:32",
-  "to": "2026-10-27 05:32",
+  "from": "2026-09-27 10:31",
+  "to": "2026-10-27 10:31",
   "days": 30
  },
  "streams_analyzed": 19,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 1663,
  "members_confirmed": 197,
  "member_classes": {
@@ -264,8 +264,32 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
- "members_only_content": [],
+ "missed_streams": [
+  {
+   "video_id": "ziDxgYdGaRo",
+   "start": "2026-10-27 07:01",
+   "title": "【メン限朝活】ゆる～～～～～おはよう【ぽめろ・ぱんち / にじさんじ】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 57,
+   "view_count": null
+  }
+ ],
+ "members_only_content": [
+  {
+   "video_id": "ziDxgYdGaRo",
+   "start": "2026-10-27 07:01",
+   "title": "【メン限朝活】ゆる～～～～～おはよう【ぽめろ・ぱんち / にじさんじ】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 57,
+   "view_count": null
+  }
+ ],
  "history": [
   {
    "month": "2026-09",
@@ -324,7 +348,7 @@
     "to": "2026-10-27"
    },
    "streams_analyzed": 16,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 1453,
    "members_confirmed": 181,
    "member_classes": {
