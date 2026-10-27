@@ -3,19 +3,19 @@
  "channel_id": "UCnzZmBOSrQf2wDBbnsDajVw",
  "handle": "@OhJiyu",
  "subscribers": 60700,
- "fetched_at": "2026-10-27 10:30",
- "generated_at": "2026-10-27 10:30",
+ "fetched_at": "2026-10-28 05:26",
+ "generated_at": "2026-10-28 05:26",
  "period": {
-  "from": "2026-09-27 10:30",
-  "to": "2026-10-27 10:30",
+  "from": "2026-09-28 05:26",
+  "to": "2026-10-28 05:26",
   "days": 30
  },
- "streams_analyzed": 9,
- "streams_missed": 1,
- "unique_chatters": 122,
- "members_confirmed": 92,
+ "streams_analyzed": 8,
+ "streams_missed": 3,
+ "unique_chatters": 110,
+ "members_confirmed": 91,
  "member_classes": {
-  "unknown": 20,
+  "unknown": 19,
   "known": 9,
   "gift": 63
  },
@@ -48,7 +48,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 12
+   "members": 11
   }
  ],
  "events": {
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 9,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 20.0,
-   "estimated_members": 29.0,
+   "allocated_unknown": 19.0,
+   "estimated_members": 28.0,
    "monthly_net_confirmed": 2806,
-   "monthly_net_estimated": 9043
+   "monthly_net_estimated": 8731
   }
  ],
  "revenue": {
-  "monthly_low": 9043,
-  "monthly_est": 9043,
+  "monthly_low": 8731,
+  "monthly_est": 8731,
   "gift_once": 19645,
-  "total_low": 28687,
-  "total_est": 28687,
-  "paying_members": 29,
+  "total_low": 28375,
+  "total_est": 28375,
+  "paying_members": 28,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "i3c-4mhoFRo",
-   "start": "2026-09-27 22:01",
-   "title": "【！ネタバレ注意！트릭컬 리바이브】3주년 이벤트 스토리 감상회2【にじさんじ／ジユ】",
-   "kind": "配信",
-   "chatters": 21,
-   "member_chatters": 8,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "BXoWh4iYVJ0",
    "start": "2026-09-29 16:01",
@@ -191,6 +181,30 @@
    "members_level": "방안의 아기새냥이/部屋の中の子猫鳥",
    "like_count": 13,
    "view_count": null
+  },
+  {
+   "video_id": "RYaFGo_e0UU",
+   "start": "2026-10-27 00:00",
+   "title": "【명일방주】13지 꽈베기를 마저합니다【니지산지/지유】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": null,
+   "view_count": 2200
+  },
+  {
+   "video_id": "s90QM4zZ-Fc",
+   "start": "2026-10-27 22:34",
+   "title": "【雑談】雑談タイム～",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "방안의 아기새냥이/部屋の中の子猫鳥",
+   "like_count": 13,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -198,6 +212,16 @@
    "video_id": "jMnxyDRF7kE",
    "start": "2026-09-30 21:03",
    "title": "【雑談？】EmoteLabで色々作ってみましょう！！！",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "방안의 아기새냥이/部屋の中の子猫鳥",
+   "like_count": 13,
+   "view_count": null
+  },
+  {
+   "video_id": "s90QM4zZ-Fc",
+   "start": "2026-10-27 22:34",
+   "title": "【雑談】雑談タイム～",
    "kind": "live",
    "status": "members_only",
    "members_level": "방안의 아기새냥이/部屋の中の子猫鳥",
@@ -272,10 +296,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-27"
+    "to": "2026-10-28"
    },
    "streams_analyzed": 5,
-   "streams_missed": 0,
+   "streams_missed": 2,
    "unique_chatters": 101,
    "members_confirmed": 80,
    "member_classes": {

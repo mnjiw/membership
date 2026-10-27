@@ -3,19 +3,19 @@
  "channel_id": "UCtAvQ5U0aXyKwm2i4GqFgJg",
  "handle": "@HarusakiAir",
  "subscribers": 197000,
- "fetched_at": "2026-10-27 10:28",
- "generated_at": "2026-10-27 10:28",
+ "fetched_at": "2026-10-28 05:20",
+ "generated_at": "2026-10-28 05:20",
  "period": {
-  "from": "2026-09-27 10:28",
-  "to": "2026-10-27 10:28",
+  "from": "2026-09-28 05:20",
+  "to": "2026-10-28 05:20",
   "days": 30
  },
- "streams_analyzed": 11,
+ "streams_analyzed": 12,
  "streams_missed": 2,
- "unique_chatters": 1172,
- "members_confirmed": 223,
+ "unique_chatters": 1235,
+ "members_confirmed": 241,
  "member_classes": {
-  "unknown": 211,
+  "unknown": 229,
   "known": 7,
   "gift": 5
  },
@@ -23,32 +23,32 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 21
+   "members": 20
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 5
+   "members": 6
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 14
+   "members": 16
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 29
+   "members": 30
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 38
+   "members": 46
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 116
+   "members": 123
   }
  ],
  "events": {
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 7,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 211.0,
-   "estimated_members": 218.0,
+   "allocated_unknown": 229.0,
+   "estimated_members": 236.0,
    "monthly_net_confirmed": 2183,
-   "monthly_net_estimated": 67976
+   "monthly_net_estimated": 73589
   }
  ],
  "revenue": {
-  "monthly_low": 67976,
-  "monthly_est": 67976,
+  "monthly_low": 73589,
+  "monthly_est": 73589,
   "gift_once": 1559,
-  "total_low": 69535,
-  "total_est": 69535,
-  "paying_members": 218,
+  "total_low": 75148,
+  "total_est": 75148,
+  "paying_members": 236,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -196,6 +196,16 @@
    "chatters": 83,
    "member_chatters": 49,
    "new_members": 1,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "HE-pvo1nqnY",
+   "start": "2026-10-27 19:05",
+   "title": "【スプラトゥーン3】告知あり！プラベ参加させていただきます！【春崎エアル/にじさんじ】",
+   "kind": "配信",
+   "chatters": 198,
+   "member_chatters": 107,
+   "new_members": 0,
    "gifted_total": 0
   }
  ],
@@ -318,42 +328,42 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-27"
+    "to": "2026-10-28"
    },
-   "streams_analyzed": 11,
+   "streams_analyzed": 12,
    "streams_missed": 2,
-   "unique_chatters": 1172,
-   "members_confirmed": 223,
+   "unique_chatters": 1235,
+   "members_confirmed": 241,
    "member_classes": {
-    "unknown": 211,
+    "unknown": 229,
     "known": 7,
     "gift": 5
    },
-   "long_term_members": 154,
+   "long_term_members": 169,
    "badges": [
     {
      "months": 0,
-     "members": 21
+     "members": 20
     },
     {
      "months": 1,
-     "members": 5
+     "members": 6
     },
     {
      "months": 2,
-     "members": 14
+     "members": 16
     },
     {
      "months": 6,
-     "members": 29
+     "members": 30
     },
     {
      "months": 12,
-     "members": 38
+     "members": 46
     },
     {
      "months": 24,
-     "members": 116
+     "members": 123
     }
    ],
    "events": {
@@ -367,15 +377,15 @@
      "tier": "春の民",
      "price": 490,
      "confirmed_members": 7,
-     "estimated_members": 218.0
+     "estimated_members": 236.0
     }
    ],
    "revenue": {
-    "monthly_low": 67976,
-    "monthly_est": 67976,
+    "monthly_low": 73589,
+    "monthly_est": 73589,
     "gift_once": 1559
    },
-   "avg_member_chatters": 77.4,
+   "avg_member_chatters": 79.8,
    "partial": true,
    "finalized": false
   }

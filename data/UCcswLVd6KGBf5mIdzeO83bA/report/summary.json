@@ -3,15 +3,15 @@
  "channel_id": "UCcswLVd6KGBf5mIdzeO83bA",
  "handle": "@HanakagoTsubasa",
  "subscribers": 129000,
- "fetched_at": "2026-10-27 10:31",
- "generated_at": "2026-10-27 10:31",
+ "fetched_at": "2026-10-28 05:31",
+ "generated_at": "2026-10-28 05:31",
  "period": {
-  "from": "2026-09-27 10:31",
-  "to": "2026-10-27 10:31",
+  "from": "2026-09-28 05:31",
+  "to": "2026-10-28 05:31",
   "days": 30
  },
  "streams_analyzed": 21,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 783,
  "members_confirmed": 308,
  "member_classes": {
@@ -294,8 +294,32 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
- "members_only_content": [],
+ "missed_streams": [
+  {
+   "video_id": "mHf52hwfL4g",
+   "start": "2026-10-27 21:00",
+   "title": "【メン限】視聴者参加型スプラトゥーンやる！！！【花籠つばさ / にじさんじ】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 80,
+   "view_count": null
+  }
+ ],
+ "members_only_content": [
+  {
+   "video_id": "mHf52hwfL4g",
+   "start": "2026-10-27 21:00",
+   "title": "【メン限】視聴者参加型スプラトゥーンやる！！！【花籠つばさ / にじさんじ】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 80,
+   "view_count": null
+  }
+ ],
  "history": [
   {
    "month": "2026-09",
@@ -359,10 +383,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-27"
+    "to": "2026-10-28"
    },
    "streams_analyzed": 20,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 771,
    "members_confirmed": 305,
    "member_classes": {

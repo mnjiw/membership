@@ -3,27 +3,27 @@
  "channel_id": "UCK9l6rTwU3hiSZijIMq51Gw",
  "handle": "@VezaliusBandage",
  "subscribers": 237000,
- "fetched_at": "2026-10-27 10:32",
- "generated_at": "2026-10-27 10:32",
+ "fetched_at": "2026-10-28 05:34",
+ "generated_at": "2026-10-28 05:34",
  "period": {
-  "from": "2026-09-27 10:32",
-  "to": "2026-10-27 10:32",
+  "from": "2026-09-28 05:34",
+  "to": "2026-10-28 05:34",
   "days": 30
  },
- "streams_analyzed": 19,
- "streams_missed": 2,
- "unique_chatters": 812,
- "members_confirmed": 272,
+ "streams_analyzed": 18,
+ "streams_missed": 3,
+ "unique_chatters": 795,
+ "members_confirmed": 267,
  "member_classes": {
-  "known": 50,
-  "unknown": 161,
+  "known": 48,
+  "unknown": 158,
   "gift": 61
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 80
+   "members": 79
   },
   {
    "months": 1,
@@ -33,12 +33,12 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 25
+   "members": 23
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 20
+   "members": 19
   },
   {
    "months": 12,
@@ -48,13 +48,13 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 80
+   "members": 79
   }
  ],
  "events": {
   "new_members": 3,
   "rejoins": 7,
-  "milestones": 17,
+  "milestones": 14,
   "gift_purchases": 11,
   "gifted_total": 61,
   "gift_redemptions": 61
@@ -65,21 +65,21 @@
    "tier": "VezShip",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 50,
+   "confirmed_members": 48,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 161.0,
-   "estimated_members": 211.0,
-   "monthly_net_confirmed": 15591,
-   "monthly_net_estimated": 65794
+   "allocated_unknown": 158.0,
+   "estimated_members": 206.0,
+   "monthly_net_confirmed": 14967,
+   "monthly_net_estimated": 64235
   }
  ],
  "revenue": {
-  "monthly_low": 65794,
-  "monthly_est": 65794,
+  "monthly_low": 64235,
+  "monthly_est": 64235,
   "gift_once": 19021,
-  "total_low": 84815,
-  "total_est": 84815,
-  "paying_members": 211,
+  "total_low": 83255,
+  "total_est": 83255,
+  "paying_members": 206,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "IWr1jDQWhs8",
-   "start": "2026-09-27 21:00",
-   "title": "【The Dandelion Endures.】タンポポは耐える。#SillyZaliSunday【NIJISANJI EN | Vezalius Bandage】",
-   "kind": "配信",
-   "chatters": 134,
-   "member_chatters": 89,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "hX6wIz4Tlvg",
    "start": "2026-09-29 21:03",
@@ -301,8 +291,20 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 130,
+   "like_count": 132,
    "view_count": null
+  },
+  {
+   "video_id": "_A2fptolF_U",
+   "start": "2026-10-27 00:00",
+   "title": "【No, I'm not a Human】Everyone is sus..【NIJISANJI EN | Vezalius Bandage】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 657,
+   "view_count": 12617
   }
  ],
  "members_only_content": [
@@ -323,7 +325,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 130,
+   "like_count": 132,
    "view_count": null
   }
  ],
@@ -398,10 +400,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-27"
+    "to": "2026-10-28"
    },
    "streams_analyzed": 15,
-   "streams_missed": 2,
+   "streams_missed": 3,
    "unique_chatters": 746,
    "members_confirmed": 244,
    "member_classes": {

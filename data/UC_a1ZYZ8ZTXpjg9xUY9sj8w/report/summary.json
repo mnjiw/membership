@@ -3,27 +3,27 @@
  "channel_id": "UC_a1ZYZ8ZTXpjg9xUY9sj8w",
  "handle": "@LuluSuzuhara",
  "subscribers": 776000,
- "fetched_at": "2026-10-27 10:29",
- "generated_at": "2026-10-27 10:29",
+ "fetched_at": "2026-10-28 05:22",
+ "generated_at": "2026-10-28 05:22",
  "period": {
-  "from": "2026-09-27 10:29",
-  "to": "2026-10-27 10:29",
+  "from": "2026-09-28 05:22",
+  "to": "2026-10-28 05:22",
   "days": 30
  },
- "streams_analyzed": 20,
- "streams_missed": 3,
- "unique_chatters": 5391,
- "members_confirmed": 766,
+ "streams_analyzed": 19,
+ "streams_missed": 4,
+ "unique_chatters": 5177,
+ "members_confirmed": 757,
  "member_classes": {
-  "unknown": 736,
-  "known": 12,
+  "unknown": 728,
+  "known": 11,
   "gift": 18
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 34
+   "members": 33
   },
   {
    "months": 1,
@@ -38,12 +38,12 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 425
+   "members": 419
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 112
+   "members": 110
   },
   {
    "months": 24,
@@ -53,7 +53,7 @@
  ],
  "events": {
   "new_members": 3,
-  "rejoins": 6,
+  "rejoins": 5,
   "milestones": 0,
   "gift_purchases": 19,
   "gifted_total": 19,
@@ -65,21 +65,21 @@
    "tier": "魔界レベル1",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 12,
+   "confirmed_members": 11,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 736.0,
-   "estimated_members": 748.0,
-   "monthly_net_confirmed": 3742,
-   "monthly_net_estimated": 233240
+   "allocated_unknown": 728.0,
+   "estimated_members": 739.0,
+   "monthly_net_confirmed": 3430,
+   "monthly_net_estimated": 230434
   }
  ],
  "revenue": {
-  "monthly_low": 233240,
-  "monthly_est": 233240,
+  "monthly_low": 230434,
+  "monthly_est": 230434,
   "gift_once": 5925,
-  "total_low": 239165,
-  "total_est": 239165,
-  "paying_members": 748,
+  "total_low": 236358,
+  "total_est": 236358,
+  "paying_members": 739,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "HuuYNeGgrNI",
-   "start": "2026-09-27 23:30",
-   "title": "【Bloodborne】#dlc 1エブたそ＆DLC編　ブラボやるよおおおおおおおッ！！！！！！　【にじさんじ/鈴原るる】",
-   "kind": "配信",
-   "chatters": 757,
-   "member_chatters": 232,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "C7LsWUfqIHY",
    "start": "2026-09-30 23:30",
@@ -311,8 +301,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 429,
-   "view_count": 29518
+   "like_count": 440,
+   "view_count": 30379
   },
   {
    "video_id": "lvPyDzvzRa0",
@@ -323,8 +313,20 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 285,
+   "like_count": 286,
    "view_count": null
+  },
+  {
+   "video_id": "txbeSXPvyBo",
+   "start": "2026-10-27 00:00",
+   "title": "【JUDGE EYES #7 最終回】3年前の事件の真相へ…最後の法廷に立つ名探偵・鈴原るる【鈴原るる/にじさんじ切り抜き】※ネタバレあり",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 356,
+   "view_count": 17182
   }
  ],
  "members_only_content": [
@@ -345,7 +347,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 285,
+   "like_count": 286,
    "view_count": null
   }
  ],
@@ -420,10 +422,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-27"
+    "to": "2026-10-28"
    },
    "streams_analyzed": 18,
-   "streams_missed": 2,
+   "streams_missed": 3,
    "unique_chatters": 4969,
    "members_confirmed": 744,
    "member_classes": {

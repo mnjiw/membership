@@ -3,15 +3,15 @@
  "channel_id": "UCUP8TmlO7NNra88AMqGU_vQ",
  "handle": "@KoshimizuToru",
  "subscribers": 394000,
- "fetched_at": "2026-10-27 10:30",
- "generated_at": "2026-10-27 10:30",
+ "fetched_at": "2026-10-28 05:26",
+ "generated_at": "2026-10-28 05:27",
  "period": {
-  "from": "2026-09-27 10:30",
-  "to": "2026-10-27 10:30",
+  "from": "2026-09-28 05:26",
+  "to": "2026-10-28 05:26",
   "days": 30
  },
  "streams_analyzed": 12,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 2267,
  "members_confirmed": 498,
  "member_classes": {
@@ -213,7 +213,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "XQqeHH7DzTc",
+   "start": "2026-10-27 00:00",
+   "title": "【完結！】前代未聞！？最終決戦でニートに徹する透！？【ほの暮しの庭】【小清水透/にじさんじ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 312,
+   "view_count": 13389
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -290,10 +303,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-27"
+    "to": "2026-10-28"
    },
    "streams_analyzed": 12,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 2267,
    "members_confirmed": 498,
    "member_classes": {

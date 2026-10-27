@@ -3,61 +3,61 @@
  "channel_id": "UCy8P3o5XlMpJGQY4WugzdNA",
  "handle": "@SaikiIttetsu",
  "subscribers": 411000,
- "fetched_at": "2026-10-27 10:30",
- "generated_at": "2026-10-27 10:30",
+ "fetched_at": "2026-10-28 05:27",
+ "generated_at": "2026-10-28 05:30",
  "period": {
-  "from": "2026-09-27 10:30",
-  "to": "2026-10-27 10:30",
+  "from": "2026-09-28 05:27",
+  "to": "2026-10-28 05:27",
   "days": 30
  },
- "streams_analyzed": 19,
+ "streams_analyzed": 18,
  "streams_missed": 2,
- "unique_chatters": 6699,
- "members_confirmed": 2709,
+ "unique_chatters": 6790,
+ "members_confirmed": 2746,
  "member_classes": {
-  "unknown": 2536,
-  "known": 87,
-  "gift": 86
+  "unknown": 2549,
+  "known": 90,
+  "gift": 107
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 234
+   "members": 259
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 60
+   "members": 57
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 329
+   "members": 332
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 353
+   "members": 358
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 965
+   "members": 967
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 768
+   "members": 773
   }
  ],
  "events": {
-  "new_members": 50,
-  "rejoins": 19,
+  "new_members": 52,
+  "rejoins": 20,
   "milestones": 0,
-  "gift_purchases": 37,
-  "gifted_total": 101,
-  "gift_redemptions": 86
+  "gift_purchases": 43,
+  "gifted_total": 120,
+  "gift_redemptions": 107
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +65,21 @@
    "tier": "仲磨強化プログラム🤝",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 87,
+   "confirmed_members": 90,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2536.0,
-   "estimated_members": 2623.0,
-   "monthly_net_confirmed": 27128,
-   "monthly_net_estimated": 817899
+   "allocated_unknown": 2549.0,
+   "estimated_members": 2639.0,
+   "monthly_net_confirmed": 28064,
+   "monthly_net_estimated": 822888
   }
  ],
  "revenue": {
-  "monthly_low": 817899,
-  "monthly_est": 817899,
-  "gift_once": 31494,
-  "total_low": 849393,
-  "total_est": 849393,
-  "paying_members": 2623,
+  "monthly_low": 822888,
+  "monthly_est": 822888,
+  "gift_once": 37418,
+  "total_low": 860306,
+  "total_est": 860306,
+  "paying_members": 2639,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,26 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "kZ6gpo22_hE",
-   "start": "2026-09-27 17:14",
-   "title": "【アバタール・チューナー PART07】再起イッテツ　※ネタバレ注意【にじさんじ／佐伯イッテツ】",
-   "kind": "配信",
-   "chatters": 714,
-   "member_chatters": 551,
-   "new_members": 1,
-   "gifted_total": 2
-  },
-  {
-   "video_id": "bFEUpGSK_jg",
-   "start": "2026-09-28 05:14",
-   "title": "【アバタール・チューナー PART07・後編】大人をムキにさせるとこうなる　※ネタバレ注意【にじさんじ／佐伯イッテツ】",
-   "kind": "配信",
-   "chatters": 194,
-   "member_chatters": 151,
-   "new_members": 1,
-   "gifted_total": 2
-  },
   {
    "video_id": "g4N922up14o",
    "start": "2026-09-29 09:31",
@@ -277,6 +257,16 @@
    "member_chatters": 843,
    "new_members": 4,
    "gifted_total": 3
+  },
+  {
+   "video_id": "XjG-jX3EHwA",
+   "start": "2026-10-27 20:29",
+   "title": "【ほぼ初見part06】意気揚々？いや、いっき揚々！！【にじさんじ／佐伯イッテツ】",
+   "kind": "配信",
+   "chatters": 1515,
+   "member_chatters": 933,
+   "new_members": 4,
+   "gifted_total": 23
   }
  ],
  "missed_streams": [
@@ -301,7 +291,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "仲磨強化プログラム🤝",
-   "like_count": 618,
+   "like_count": 621,
    "view_count": null
   }
  ],
@@ -323,7 +313,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "仲磨強化プログラム🤝",
-   "like_count": 618,
+   "like_count": 621,
    "view_count": null
   }
  ],
@@ -398,22 +388,22 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-27"
+    "to": "2026-10-28"
    },
-   "streams_analyzed": 15,
+   "streams_analyzed": 16,
    "streams_missed": 1,
-   "unique_chatters": 6522,
-   "members_confirmed": 2663,
+   "unique_chatters": 6702,
+   "members_confirmed": 2718,
    "member_classes": {
-    "unknown": 2496,
-    "known": 83,
-    "gift": 84
+    "unknown": 2523,
+    "known": 88,
+    "gift": 107
    },
-   "long_term_members": 1707,
+   "long_term_members": 1722,
    "badges": [
     {
      "months": 0,
-     "members": 228
+     "members": 257
     },
     {
      "months": 1,
@@ -421,41 +411,41 @@
     },
     {
      "months": 2,
-     "members": 323
+     "members": 328
     },
     {
      "months": 6,
-     "members": 348
+     "members": 354
     },
     {
      "months": 12,
-     "members": 949
+     "members": 955
     },
     {
      "months": 24,
-     "members": 758
+     "members": 767
     }
    ],
    "events": {
-    "new_members": 46,
-    "rejoins": 17,
+    "new_members": 50,
+    "rejoins": 18,
     "milestones": 0,
-    "gifted_total": 97
+    "gifted_total": 120
    },
    "tiers": [
     {
      "tier": "仲磨強化プログラム🤝",
      "price": 490,
-     "confirmed_members": 83,
-     "estimated_members": 2579.0
+     "confirmed_members": 88,
+     "estimated_members": 2611.0
     }
    ],
    "revenue": {
-    "monthly_low": 804179,
-    "monthly_est": 804179,
-    "gift_once": 30246
+    "monthly_low": 814157,
+    "monthly_est": 814157,
+    "gift_once": 37418
    },
-   "avg_member_chatters": 807.5,
+   "avg_member_chatters": 815.3,
    "partial": true,
    "finalized": false
   }

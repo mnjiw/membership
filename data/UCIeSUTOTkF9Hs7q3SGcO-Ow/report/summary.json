@@ -3,27 +3,27 @@
  "channel_id": "UCIeSUTOTkF9Hs7q3SGcO-Ow",
  "handle": "@EliraPendora",
  "subscribers": 514000,
- "fetched_at": "2026-10-27 10:31",
- "generated_at": "2026-10-27 10:31",
+ "fetched_at": "2026-10-28 05:32",
+ "generated_at": "2026-10-28 05:33",
  "period": {
-  "from": "2026-09-27 10:31",
-  "to": "2026-10-27 10:31",
+  "from": "2026-09-28 05:32",
+  "to": "2026-10-28 05:32",
   "days": 30
  },
- "streams_analyzed": 22,
+ "streams_analyzed": 23,
  "streams_missed": 3,
- "unique_chatters": 2450,
- "members_confirmed": 701,
+ "unique_chatters": 2469,
+ "members_confirmed": 711,
  "member_classes": {
-  "unknown": 205,
-  "known": 206,
-  "gift": 290
+  "unknown": 204,
+  "known": 207,
+  "gift": 300
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 281
+   "members": 291
   },
   {
    "months": 1,
@@ -69,10 +69,10 @@
  "events": {
   "new_members": 3,
   "rejoins": 18,
-  "milestones": 175,
-  "gift_purchases": 55,
-  "gifted_total": 298,
-  "gift_redemptions": 292
+  "milestones": 177,
+  "gift_purchases": 57,
+  "gifted_total": 308,
+  "gift_redemptions": 302
  },
  "tiers_configured": true,
  "tiers": [
@@ -80,20 +80,20 @@
    "tier": "Membersheesh",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 206,
+   "confirmed_members": 207,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 205.0,
+   "allocated_unknown": 204.0,
    "estimated_members": 411.0,
-   "monthly_net_confirmed": 90453,
+   "monthly_net_confirmed": 90892,
    "monthly_net_estimated": 180466
   }
  ],
  "revenue": {
   "monthly_low": 180466,
   "monthly_est": 180466,
-  "gift_once": 130849,
-  "total_low": 311315,
-  "total_est": 311315,
+  "gift_once": 135240,
+  "total_low": 315706,
+  "total_est": 315706,
   "paying_members": 411,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -322,6 +322,16 @@
    "member_chatters": 114,
    "new_members": 0,
    "gifted_total": 1
+  },
+  {
+   "video_id": "hzjg_bokHlU",
+   "start": "2026-10-27 20:50",
+   "title": "【INVOKYR】 early morning horror with some dice rolling for our lives!? 【NIJISANJI EN | Elira Pendora】",
+   "kind": "配信",
+   "chatters": 157,
+   "member_chatters": 83,
+   "new_members": 0,
+   "gifted_total": 10
   }
  ],
  "missed_streams": [
@@ -477,22 +487,22 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-27"
+    "to": "2026-10-28"
    },
-   "streams_analyzed": 20,
+   "streams_analyzed": 21,
    "streams_missed": 2,
-   "unique_chatters": 2403,
-   "members_confirmed": 688,
+   "unique_chatters": 2424,
+   "members_confirmed": 698,
    "member_classes": {
-    "unknown": 200,
-    "known": 202,
-    "gift": 286
+    "unknown": 199,
+    "known": 203,
+    "gift": 296
    },
    "long_term_members": 348,
    "badges": [
     {
      "months": 0,
-     "members": 275
+     "members": 285
     },
     {
      "months": 1,
@@ -530,23 +540,23 @@
    "events": {
     "new_members": 2,
     "rejoins": 15,
-    "milestones": 171,
-    "gifted_total": 294
+    "milestones": 173,
+    "gifted_total": 304
    },
    "tiers": [
     {
      "tier": "Membersheesh",
      "price": 690,
-     "confirmed_members": 202,
+     "confirmed_members": 203,
      "estimated_members": 402.0
     }
    ],
    "revenue": {
     "monthly_low": 176515,
     "monthly_est": 176515,
-    "gift_once": 129093
+    "gift_once": 133484
    },
-   "avg_member_chatters": 126.0,
+   "avg_member_chatters": 123.9,
    "partial": true,
    "finalized": false
   }

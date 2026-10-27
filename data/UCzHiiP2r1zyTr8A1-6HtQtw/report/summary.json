@@ -3,27 +3,27 @@
  "channel_id": "UCzHiiP2r1zyTr8A1-6HtQtw",
  "handle": "@YamadaRyuichiro",
  "subscribers": 168000,
- "fetched_at": "2026-10-27 10:32",
- "generated_at": "2026-10-27 10:32",
+ "fetched_at": "2026-10-28 05:34",
+ "generated_at": "2026-10-28 05:35",
  "period": {
-  "from": "2026-09-27 10:32",
-  "to": "2026-10-27 10:32",
+  "from": "2026-09-28 05:34",
+  "to": "2026-10-28 05:34",
   "days": 30
  },
- "streams_analyzed": 28,
- "streams_missed": 4,
- "unique_chatters": 4307,
- "members_confirmed": 1585,
+ "streams_analyzed": 27,
+ "streams_missed": 5,
+ "unique_chatters": 3837,
+ "members_confirmed": 1546,
  "member_classes": {
-  "unknown": 800,
-  "known": 534,
+  "unknown": 780,
+  "known": 515,
   "gift": 251
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 1064
+   "members": 1025
   },
   {
    "months": 1,
@@ -32,7 +32,7 @@
   }
  ],
  "events": {
-  "new_members": 82,
+  "new_members": 72,
   "rejoins": 0,
   "milestones": 0,
   "gift_purchases": 21,
@@ -45,21 +45,21 @@
    "tier": "山田のメンバー",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 534,
+   "confirmed_members": 515,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 800.0,
-   "estimated_members": 1334.0,
-   "monthly_net_confirmed": 166511,
-   "monthly_net_estimated": 415965
+   "allocated_unknown": 780.0,
+   "estimated_members": 1295.0,
+   "monthly_net_confirmed": 160586,
+   "monthly_net_estimated": 403805
   }
  ],
  "revenue": {
-  "monthly_low": 415965,
-  "monthly_est": 415965,
+  "monthly_low": 403805,
+  "monthly_est": 403805,
   "gift_once": 78266,
-  "total_low": 494232,
-  "total_est": 494232,
-  "paying_members": 1334,
+  "total_low": 482071,
+  "total_est": 482071,
+  "paying_members": 1295,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -68,16 +68,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "jcaSvhuf068",
-   "start": "2026-09-27 18:01",
-   "title": "【初コラボ 】今年にじさんじで一番アツいミュージシャンとの対談【にじさんじ / 山田龍一郎・ジョー・力一さん】",
-   "kind": "配信",
-   "chatters": 1155,
-   "member_chatters": 498,
-   "new_members": 10,
-   "gifted_total": 0
-  },
   {
    "video_id": "WYxppHafAzU",
    "start": "2026-09-29 18:00",
@@ -397,6 +387,18 @@
    "members_level": "山田のメンバー",
    "like_count": 301,
    "view_count": null
+  },
+  {
+   "video_id": "3vPUFZyLQzY",
+   "start": "2026-10-27 00:00",
+   "title": "【初耐久】神曲神ゲーのスーパーマリオ64、120枚耐久【にじさんじ / 山田龍一郎】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 1492,
+   "view_count": 56665
   }
  ],
  "members_only_content": [
@@ -482,10 +484,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-27"
+    "to": "2026-10-28"
    },
    "streams_analyzed": 26,
-   "streams_missed": 4,
+   "streams_missed": 5,
    "unique_chatters": 3601,
    "members_confirmed": 1396,
    "member_classes": {

@@ -3,19 +3,19 @@
  "channel_id": "UC0g1AE0DOjBYnLhkgoRWN1w",
  "handle": "@HonmaHimawari",
  "subscribers": 786000,
- "fetched_at": "2026-10-27 10:28",
- "generated_at": "2026-10-27 10:28",
+ "fetched_at": "2026-10-28 05:18",
+ "generated_at": "2026-10-28 05:18",
  "period": {
-  "from": "2026-09-27 10:28",
-  "to": "2026-10-27 10:28",
+  "from": "2026-09-28 05:18",
+  "to": "2026-10-28 05:18",
   "days": 30
  },
- "streams_analyzed": 23,
+ "streams_analyzed": 24,
  "streams_missed": 2,
- "unique_chatters": 2113,
- "members_confirmed": 273,
+ "unique_chatters": 2135,
+ "members_confirmed": 275,
  "member_classes": {
-  "unknown": 255,
+  "unknown": 257,
   "known": 13,
   "gift": 5
  },
@@ -43,7 +43,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 24
+   "members": 25
   },
   {
    "months": 36,
@@ -53,7 +53,7 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 183
+   "members": 184
   }
  ],
  "events": {
@@ -72,19 +72,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 13,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 255.0,
-   "estimated_members": 268.0,
+   "allocated_unknown": 257.0,
+   "estimated_members": 270.0,
    "monthly_net_confirmed": 4054,
-   "monthly_net_estimated": 83567
+   "monthly_net_estimated": 84191
   }
  ],
  "revenue": {
-  "monthly_low": 83567,
-  "monthly_est": 83567,
+  "monthly_low": 84191,
+  "monthly_est": 84191,
   "gift_once": 1559,
-  "total_low": 85126,
-  "total_est": 85126,
-  "paying_members": 268,
+  "total_low": 85750,
+  "total_est": 85750,
+  "paying_members": 270,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -322,6 +322,16 @@
    "member_chatters": 141,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "cmwbKNk__QY",
+   "start": "2026-10-27 18:15",
+   "title": "꒰ Overwatch ꒱ らんくどまっちど。もうちょっとだけつづくんじゃよ　˹ 本間ひまわり にじさんじのみなさんっ ˼",
+   "kind": "配信",
+   "chatters": 145,
+   "member_chatters": 77,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -346,7 +356,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 133,
+   "like_count": 132,
    "view_count": null
   }
  ],
@@ -368,7 +378,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 133,
+   "like_count": 132,
    "view_count": null
   }
  ],
@@ -450,18 +460,18 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-27"
+    "to": "2026-10-28"
    },
-   "streams_analyzed": 22,
+   "streams_analyzed": 23,
    "streams_missed": 1,
-   "unique_chatters": 2041,
-   "members_confirmed": 271,
+   "unique_chatters": 2063,
+   "members_confirmed": 273,
    "member_classes": {
-    "unknown": 255,
+    "unknown": 257,
     "known": 11,
     "gift": 5
    },
-   "long_term_members": 250,
+   "long_term_members": 252,
    "badges": [
     {
      "months": 0,
@@ -481,7 +491,7 @@
     },
     {
      "months": 24,
-     "members": 24
+     "members": 25
     },
     {
      "months": 36,
@@ -489,7 +499,7 @@
     },
     {
      "months": 48,
-     "members": 183
+     "members": 184
     }
    ],
    "events": {
@@ -503,15 +513,15 @@
      "tier": "ひまぐま",
      "price": 490,
      "confirmed_members": 11,
-     "estimated_members": 266.0
+     "estimated_members": 268.0
     }
    ],
    "revenue": {
-    "monthly_low": 82944,
-    "monthly_est": 82944,
+    "monthly_low": 83567,
+    "monthly_est": 83567,
     "gift_once": 1559
    },
-   "avg_member_chatters": 81.1,
+   "avg_member_chatters": 81.0,
    "partial": true,
    "finalized": false
   }
