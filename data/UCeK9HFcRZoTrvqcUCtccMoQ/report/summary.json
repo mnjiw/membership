@@ -3,16 +3,16 @@
  "channel_id": "UCeK9HFcRZoTrvqcUCtccMoQ",
  "handle": "@ShibuyaHajime",
  "subscribers": 161000,
- "fetched_at": "2026-10-28 05:17",
- "generated_at": "2026-10-28 05:17",
+ "fetched_at": "2026-10-28 10:18",
+ "generated_at": "2026-10-28 10:18",
  "period": {
-  "from": "2026-09-28 05:17",
-  "to": "2026-10-28 05:17",
+  "from": "2026-09-28 10:18",
+  "to": "2026-10-28 10:18",
   "days": 30
  },
- "streams_analyzed": 21,
- "streams_missed": 1,
- "unique_chatters": 299,
+ "streams_analyzed": 22,
+ "streams_missed": 0,
+ "unique_chatters": 302,
  "members_confirmed": 58,
  "member_classes": {
   "unknown": 58
@@ -21,12 +21,12 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 4
+   "members": 3
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 1
+   "members": 2
   },
   {
    "months": 2,
@@ -41,18 +41,18 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 6
+   "members": 5
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 38
+   "members": 39
   }
  ],
  "events": {
   "new_members": 3,
   "rejoins": 1,
-  "milestones": 8,
+  "milestones": 9,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -295,22 +295,19 @@
    "member_chatters": 15,
    "new_members": 0,
    "gifted_total": 0
-  }
- ],
- "missed_streams": [
+  },
   {
    "video_id": "2pakFiPrCAg",
-   "start": "2026-10-27 00:00",
+   "start": "2026-10-27 21:32",
    "title": "【free】なんか色々やる？【にじさんじ/渋谷ハジメ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 110,
-   "view_count": 3046
+   "kind": "配信",
+   "chatters": 33,
+   "member_chatters": 19,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -383,9 +380,9 @@
     "from": "2026-10-01",
     "to": "2026-10-28"
    },
-   "streams_analyzed": 20,
-   "streams_missed": 1,
-   "unique_chatters": 295,
+   "streams_analyzed": 21,
+   "streams_missed": 0,
+   "unique_chatters": 298,
    "members_confirmed": 57,
    "member_classes": {
     "unknown": 57
@@ -394,11 +391,11 @@
    "badges": [
     {
      "months": 0,
-     "members": 4
+     "members": 3
     },
     {
      "months": 1,
-     "members": 1
+     "members": 2
     },
     {
      "months": 2,
@@ -410,17 +407,17 @@
     },
     {
      "months": 12,
-     "members": 6
+     "members": 5
     },
     {
      "months": 24,
-     "members": 38
+     "members": 39
     }
    ],
    "events": {
     "new_members": 3,
     "rejoins": 0,
-    "milestones": 8,
+    "milestones": 9,
     "gifted_total": 0
    },
    "tiers": [

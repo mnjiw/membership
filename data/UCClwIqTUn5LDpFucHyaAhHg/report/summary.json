@@ -3,27 +3,27 @@
  "channel_id": "UCClwIqTUn5LDpFucHyaAhHg",
  "handle": "@LeeRoha",
  "subscribers": 110000,
- "fetched_at": "2026-10-28 05:26",
- "generated_at": "2026-10-28 05:26",
+ "fetched_at": "2026-10-28 10:21",
+ "generated_at": "2026-10-28 10:21",
  "period": {
-  "from": "2026-09-28 05:26",
-  "to": "2026-10-28 05:26",
+  "from": "2026-09-28 10:21",
+  "to": "2026-10-28 10:21",
   "days": 30
  },
- "streams_analyzed": 13,
- "streams_missed": 1,
- "unique_chatters": 198,
- "members_confirmed": 49,
+ "streams_analyzed": 14,
+ "streams_missed": 0,
+ "unique_chatters": 224,
+ "members_confirmed": 51,
  "member_classes": {
   "unknown": 30,
-  "known": 6,
-  "gift": 13
+  "known": 7,
+  "gift": 14
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 14
+   "members": 16
   },
   {
    "months": 1,
@@ -52,12 +52,12 @@
   }
  ],
  "events": {
-  "new_members": 0,
+  "new_members": 1,
   "rejoins": 0,
   "milestones": 5,
-  "gift_purchases": 5,
-  "gifted_total": 13,
-  "gift_redemptions": 13
+  "gift_purchases": 6,
+  "gifted_total": 14,
+  "gift_redemptions": 14
  },
  "tiers_configured": true,
  "tiers": [
@@ -66,31 +66,31 @@
    "price": 490,
    "net_per_member": 311.8,
    "confirmed_members": 3,
-   "share_of_confirmed_pct": 50.0,
-   "allocated_unknown": 15.0,
-   "estimated_members": 18.0,
+   "share_of_confirmed_pct": 42.9,
+   "allocated_unknown": 12.9,
+   "estimated_members": 15.9,
    "monthly_net_confirmed": 935,
-   "monthly_net_estimated": 5613
+   "monthly_net_estimated": 4945
   },
   {
    "tier": "🅑🅘🅖宇宙アイドル応援パック",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 3,
-   "share_of_confirmed_pct": 50.0,
-   "allocated_unknown": 15.0,
-   "estimated_members": 18.0,
-   "monthly_net_confirmed": 1317,
-   "monthly_net_estimated": 7904
+   "confirmed_members": 4,
+   "share_of_confirmed_pct": 57.1,
+   "allocated_unknown": 17.1,
+   "estimated_members": 21.1,
+   "monthly_net_confirmed": 1756,
+   "monthly_net_estimated": 9284
   }
  ],
  "revenue": {
-  "monthly_low": 11607,
-  "monthly_est": 13516,
-  "gift_once": 4054,
-  "total_low": 15661,
-  "total_est": 17570,
-  "paying_members": 36,
+  "monthly_low": 12046,
+  "monthly_est": 14228,
+  "gift_once": 4365,
+  "total_low": 16412,
+  "total_est": 18594,
+  "paying_members": 37,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -228,22 +228,19 @@
    "member_chatters": 10,
    "new_members": 0,
    "gifted_total": 0
-  }
- ],
- "missed_streams": [
+  },
   {
    "video_id": "2fjtUV4_Jto",
-   "start": "2026-10-27 00:00",
+   "start": "2026-10-27 22:48",
    "title": "【Japanese Ramen Simulator】★宇宙ラーメン屋★　[にじさんじ/イロハ]",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 336,
-   "view_count": 5386
+   "kind": "配信",
+   "chatters": 55,
+   "member_chatters": 15,
+   "new_members": 1,
+   "gifted_total": 1
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -324,20 +321,20 @@
     "from": "2026-10-01",
     "to": "2026-10-28"
    },
-   "streams_analyzed": 13,
-   "streams_missed": 1,
-   "unique_chatters": 198,
-   "members_confirmed": 49,
+   "streams_analyzed": 14,
+   "streams_missed": 0,
+   "unique_chatters": 224,
+   "members_confirmed": 51,
    "member_classes": {
     "unknown": 30,
-    "known": 6,
-    "gift": 13
+    "known": 7,
+    "gift": 14
    },
    "long_term_members": 31,
    "badges": [
     {
      "months": 0,
-     "members": 14
+     "members": 16
     },
     {
      "months": 1,
@@ -361,31 +358,31 @@
     }
    ],
    "events": {
-    "new_members": 0,
+    "new_members": 1,
     "rejoins": 0,
     "milestones": 5,
-    "gifted_total": 13
+    "gifted_total": 14
    },
    "tiers": [
     {
      "tier": "宇宙アイドル応援パック",
      "price": 490,
      "confirmed_members": 3,
-     "estimated_members": 18.0
+     "estimated_members": 15.9
     },
     {
      "tier": "🅑🅘🅖宇宙アイドル応援パック",
      "price": 690,
-     "confirmed_members": 3,
-     "estimated_members": 18.0
+     "confirmed_members": 4,
+     "estimated_members": 21.1
     }
    ],
    "revenue": {
-    "monthly_low": 11607,
-    "monthly_est": 13516,
-    "gift_once": 4054
+    "monthly_low": 12046,
+    "monthly_est": 14228,
+    "gift_once": 4365
    },
-   "avg_member_chatters": 12.4,
+   "avg_member_chatters": 12.6,
    "partial": true,
    "finalized": false
   }

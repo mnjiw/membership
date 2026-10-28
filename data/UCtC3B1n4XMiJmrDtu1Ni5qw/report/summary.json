@@ -3,32 +3,32 @@
  "channel_id": "UCtC3B1n4XMiJmrDtu1Ni5qw",
  "handle": "@NanaseSuzuna",
  "subscribers": 319000,
- "fetched_at": "2026-10-28 05:30",
- "generated_at": "2026-10-28 05:30",
+ "fetched_at": "2026-10-28 10:22",
+ "generated_at": "2026-10-28 10:22",
  "period": {
-  "from": "2026-09-28 05:30",
-  "to": "2026-10-28 05:30",
+  "from": "2026-09-28 10:22",
+  "to": "2026-10-28 10:22",
   "days": 30
  },
  "streams_analyzed": 31,
  "streams_missed": 3,
- "unique_chatters": 10888,
+ "unique_chatters": 10924,
  "members_confirmed": 1608,
  "member_classes": {
-  "known": 162,
-  "unknown": 1268,
+  "unknown": 1267,
+  "known": 163,
   "gift": 178
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 414
+   "members": 410
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 313
+   "members": 316
   },
   {
    "months": 6,
@@ -38,18 +38,18 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 448
+   "members": 446
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 287
+   "members": 290
   }
  ],
  "events": {
-  "new_members": 76,
+  "new_members": 77,
   "rejoins": 11,
-  "milestones": 66,
+  "milestones": 67,
   "gift_purchases": 28,
   "gifted_total": 186,
   "gift_redemptions": 178
@@ -60,11 +60,11 @@
    "tier": "すずふぁーむ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 162,
+   "confirmed_members": 163,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1268.0,
+   "allocated_unknown": 1267.0,
    "estimated_members": 1430.0,
-   "monthly_net_confirmed": 50515,
+   "monthly_net_confirmed": 50826,
    "monthly_net_estimated": 445900
   }
  ],
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "C-Nx8Mv3XfM",
-   "start": "2026-09-28 07:02",
-   "title": "【朝活】おはすず9月28日（月）＃590【七瀬すず菜/にじさんじ】",
-   "kind": "配信",
-   "chatters": 1116,
-   "member_chatters": 361,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "shaXZUCyCVo",
    "start": "2026-09-30 07:00",
@@ -392,6 +382,16 @@
    "member_chatters": 395,
    "new_members": 3,
    "gifted_total": 0
+  },
+  {
+   "video_id": "9co4Gk9hlEw",
+   "start": "2026-10-28 07:00",
+   "title": "【朝活】おはすず10月28日（水）＃605【七瀬すず菜/にじさんじ】",
+   "kind": "配信",
+   "chatters": 1356,
+   "member_chatters": 421,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -533,58 +533,58 @@
     "from": "2026-10-01",
     "to": "2026-10-28"
    },
-   "streams_analyzed": 29,
+   "streams_analyzed": 30,
    "streams_missed": 3,
-   "unique_chatters": 10597,
-   "members_confirmed": 1540,
+   "unique_chatters": 10789,
+   "members_confirmed": 1550,
    "member_classes": {
-    "unknown": 1263,
-    "known": 156,
+    "unknown": 1272,
+    "known": 157,
     "gift": 121
    },
-   "long_term_members": 728,
+   "long_term_members": 733,
    "badges": [
     {
      "months": 0,
-     "members": 356
+     "members": 355
     },
     {
      "months": 2,
-     "members": 312
+     "members": 316
     },
     {
      "months": 6,
-     "members": 144
+     "members": 146
     },
     {
      "months": 12,
-     "members": 443
+     "members": 445
     },
     {
      "months": 24,
-     "members": 285
+     "members": 288
     }
    ],
    "events": {
-    "new_members": 65,
+    "new_members": 66,
     "rejoins": 9,
-    "milestones": 58,
+    "milestones": 59,
     "gifted_total": 126
    },
    "tiers": [
     {
      "tier": "すずふぁーむ",
      "price": 490,
-     "confirmed_members": 156,
-     "estimated_members": 1419.0
+     "confirmed_members": 157,
+     "estimated_members": 1429.0
     }
    ],
    "revenue": {
-    "monthly_low": 442470,
-    "monthly_est": 442470,
+    "monthly_low": 445588,
+    "monthly_est": 445588,
     "gift_once": 39289
    },
-   "avg_member_chatters": 381.4,
+   "avg_member_chatters": 382.8,
    "partial": true,
    "finalized": false
   }
