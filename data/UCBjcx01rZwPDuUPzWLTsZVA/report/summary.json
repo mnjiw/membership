@@ -3,11 +3,11 @@
  "channel_id": "UCBjcx01rZwPDuUPzWLTsZVA",
  "handle": "@YagyuShino",
  "subscribers": 93600,
- "fetched_at": "2026-10-28 10:22",
- "generated_at": "2026-10-28 10:22",
+ "fetched_at": "2026-10-29 05:24",
+ "generated_at": "2026-10-29 05:24",
  "period": {
-  "from": "2026-09-28 10:22",
-  "to": "2026-10-28 10:22",
+  "from": "2026-09-29 05:24",
+  "to": "2026-10-29 05:24",
   "days": 30
  },
  "streams_analyzed": 16,
@@ -246,18 +246,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "OVn2fdTbu6M",
-   "start": "2026-09-28 21:03",
-   "title": "〖 メン限 〗自立報告会⟡.· 9月もたいへんよくできました💮夏をのりこえたで賞〖 夜牛詩乃 / にじさんじ 〗",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": null,
-   "view_count": null
-  },
-  {
    "video_id": "a-xLYt2YYPg",
    "start": "2026-10-16 11:47",
    "title": "〖 しのめし 〗お昼雑談🍴とん汁とみそラーメンのマリアージュ…！㊗️デビュー14カ月！〖 にじさんじ / 夜牛詩乃 〗",
@@ -304,19 +292,21 @@
    "members_level": "",
    "like_count": null,
    "view_count": null
-  }
- ],
- "members_only_content": [
+  },
   {
-   "video_id": "OVn2fdTbu6M",
-   "start": "2026-09-28 21:03",
-   "title": "〖 メン限 〗自立報告会⟡.· 9月もたいへんよくできました💮夏をのりこえたで賞〖 夜牛詩乃 / にじさんじ 〗",
+   "video_id": "T7NKX54F37w",
+   "start": "2026-10-28 18:41",
+   "title": "〖 メン限 〗超集中作業⟡.·きゃりあうーまんの音〖 夜牛詩乃 / にじさんじ 〗",
    "kind": "live",
    "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
    "members_level": "",
    "like_count": null,
    "view_count": null
-  },
+  }
+ ],
+ "members_only_content": [
   {
    "video_id": "Qy8mim5eOSk",
    "start": "2026-10-24 19:46",
@@ -341,6 +331,16 @@
    "video_id": "ztXQ0VKhgGQ",
    "start": "2026-10-27 11:46",
    "title": "〖 メン限 〗超集中作業⟡.·詩育二キネキといっしょ〖 夜牛詩乃 / にじさんじ 〗",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": null,
+   "view_count": null
+  },
+  {
+   "video_id": "T7NKX54F37w",
+   "start": "2026-10-28 18:41",
+   "title": "〖 メン限 〗超集中作業⟡.·きゃりあうーまんの音〖 夜牛詩乃 / にじさんじ 〗",
    "kind": "live",
    "status": "members_only",
    "members_level": "",
@@ -415,10 +415,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-28"
+    "to": "2026-10-29"
    },
    "streams_analyzed": 14,
-   "streams_missed": 4,
+   "streams_missed": 5,
    "unique_chatters": 2642,
    "members_confirmed": 198,
    "member_classes": {

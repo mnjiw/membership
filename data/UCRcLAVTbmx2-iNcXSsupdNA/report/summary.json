@@ -3,20 +3,20 @@
  "channel_id": "UCRcLAVTbmx2-iNcXSsupdNA",
  "handle": "@KurusuNatsume",
  "subscribers": 268000,
- "fetched_at": "2026-10-28 10:20",
- "generated_at": "2026-10-28 10:20",
+ "fetched_at": "2026-10-29 05:21",
+ "generated_at": "2026-10-29 05:21",
  "period": {
-  "from": "2026-09-28 10:20",
-  "to": "2026-10-28 10:20",
+  "from": "2026-09-29 05:21",
+  "to": "2026-10-29 05:21",
   "days": 30
  },
- "streams_analyzed": 5,
- "streams_missed": 4,
- "unique_chatters": 724,
- "members_confirmed": 406,
+ "streams_analyzed": 4,
+ "streams_missed": 5,
+ "unique_chatters": 630,
+ "members_confirmed": 391,
  "member_classes": {
-  "unknown": 379,
   "known": 17,
+  "unknown": 364,
   "gift": 10
  },
  "badges": [
@@ -43,27 +43,27 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 64
+   "members": 62
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 57
+   "members": 55
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 61
+   "members": 59
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 74
+   "members": 71
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 76
+   "members": 70
   },
   {
    "months": 72,
@@ -87,10 +87,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 11,
    "share_of_confirmed_pct": 64.7,
-   "allocated_unknown": 245.2,
-   "estimated_members": 256.2,
+   "allocated_unknown": 235.5,
+   "estimated_members": 246.5,
    "monthly_net_confirmed": 3430,
-   "monthly_net_estimated": 79899
+   "monthly_net_estimated": 76872
   },
   {
    "tier": "なつめいとクリエイティブ",
@@ -98,19 +98,19 @@
    "net_per_member": 757.3,
    "confirmed_members": 6,
    "share_of_confirmed_pct": 35.3,
-   "allocated_unknown": 133.8,
-   "estimated_members": 139.8,
+   "allocated_unknown": 128.5,
+   "estimated_members": 134.5,
    "monthly_net_confirmed": 4544,
-   "monthly_net_estimated": 105840
+   "monthly_net_estimated": 101831
   }
  ],
  "revenue": {
-  "monthly_low": 126153,
-  "monthly_est": 185739,
+  "monthly_low": 121475,
+  "monthly_est": 178703,
   "gift_once": 3118,
-  "total_low": 129271,
-  "total_est": 188857,
-  "paying_members": 396,
+  "total_low": 124594,
+  "total_est": 181821,
+  "paying_members": 381,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -119,16 +119,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "kKQsV1FX_5E",
-   "start": "2026-09-28 22:01",
-   "title": "【#やまなつ晩酌RADIO 長野県回】# 32　満月の晩に逢いましょう 　season3 【にじさんじ/山神カルタ/来栖夏芽】",
-   "kind": "配信",
-   "chatters": 226,
-   "member_chatters": 124,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "1JUpYOI4YMU",
    "start": "2026-10-03 18:46",
@@ -192,7 +182,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 143,
+   "like_count": 144,
    "view_count": null
   },
   {
@@ -216,7 +206,19 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "なつめいとスタンダード",
-   "like_count": 121,
+   "like_count": 122,
+   "view_count": null
+  },
+  {
+   "video_id": "s8VSkJLC9Ro",
+   "start": "2026-10-28 21:01",
+   "title": "【同時視聴】マイ・インターン",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 109,
    "view_count": null
   }
  ],
@@ -238,7 +240,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 143,
+   "like_count": 144,
    "view_count": null
   },
   {
@@ -258,7 +260,17 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "なつめいとスタンダード",
-   "like_count": 121,
+   "like_count": 122,
+   "view_count": null
+  },
+  {
+   "video_id": "s8VSkJLC9Ro",
+   "start": "2026-10-28 21:01",
+   "title": "【同時視聴】マイ・インターン",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 109,
    "view_count": null
   }
  ],
@@ -355,10 +367,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-28"
+    "to": "2026-10-29"
    },
    "streams_analyzed": 4,
-   "streams_missed": 4,
+   "streams_missed": 5,
    "unique_chatters": 630,
    "members_confirmed": 391,
    "member_classes": {

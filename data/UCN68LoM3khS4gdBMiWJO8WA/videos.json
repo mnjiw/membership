@@ -150,8 +150,8 @@
    "checked_at": "2026-10-07 13:19",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1793133213.7079358,
-   "likes_checked_at": "2026-10-28 05:33"
+   "likes_checked_ts": 1793219139.2142365,
+   "likes_checked_at": "2026-10-29 05:25"
   },
   "8o2IecVNpLo": {
    "id": "8o2IecVNpLo",
@@ -1308,15 +1308,15 @@
    "start_jst": "2026-10-25 09:29",
    "duration_sec": 8068,
    "view_count": null,
-   "like_count": 28,
+   "like_count": 29,
    "live_status": "was_live",
    "members_only": true,
    "has_chat": false,
    "checked_at": "2026-10-26 05:44",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1793133213.7079358,
-   "likes_checked_at": "2026-10-28 05:33"
+   "likes_checked_ts": 1793219139.2142365,
+   "likes_checked_at": "2026-10-29 05:25"
   },
   "4ZDQmdQIvE0": {
    "id": "4ZDQmdQIvE0",
@@ -1376,17 +1376,19 @@
   "-M_uZ_RTO34": {
    "id": "-M_uZ_RTO34",
    "title": "【WARHAMMER 40K BOLTGUN 2】 BY BOLTER SHELL, FLAMER BURST, AND MELTA BLAST, I PURGE THE HERETIC!!!",
-   "status": "live_now",
+   "status": "error",
    "seen_live_at": "2026-10-28 10:23",
-   "was_public_when_live": true
+   "was_public_when_live": true,
+   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
+   "failed_since_ts": 1793219139.2142365
   }
  },
  "channel": "Aia Amare 【NIJISANJI EN】",
  "channel_id": "UCN68LoM3khS4gdBMiWJO8WA",
  "handle": "@AiaAmare",
  "subscribers": 283000,
- "fetched_at": "2026-10-28 10:23",
- "fetched_at_ts": 1793150592.58577,
- "checked_from": "2026-10-21 10:23",
+ "fetched_at": "2026-10-29 05:25",
+ "fetched_at_ts": 1793219139.2142365,
+ "checked_from": "2026-10-22 05:25",
  "initial_fetch_done": true
 }

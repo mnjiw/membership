@@ -859,8 +859,8 @@
    "was_public_when_live": false,
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1793133268.7776053,
-   "likes_checked_at": "2026-10-28 05:34"
+   "likes_checked_ts": 1793219182.6042533,
+   "likes_checked_at": "2026-10-29 05:26"
   },
   "O8ZZo0Nbvws": {
    "id": "O8ZZo0Nbvws",
@@ -877,8 +877,8 @@
    "checked_at": "2026-10-21 05:33",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1793133268.7776053,
-   "likes_checked_at": "2026-10-28 05:34"
+   "likes_checked_ts": 1793219182.6042533,
+   "likes_checked_at": "2026-10-29 05:26"
   },
   "yNCqH3Tk9Ys": {
    "id": "yNCqH3Tk9Ys",
@@ -991,17 +991,19 @@
   "m31q8Jw1noI": {
    "id": "m31q8Jw1noI",
    "title": "【Castlevania: Belmont's Curse】 Into The Castle (vania) 【NIJISANJI EN | Zeal Ginjoka】",
-   "status": "live_now",
+   "status": "error",
    "seen_live_at": "2026-10-28 10:23",
-   "was_public_when_live": true
+   "was_public_when_live": true,
+   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
+   "failed_since_ts": 1793219182.6042533
   }
  },
  "channel": "Zeal Ginjoka【NIJISANJI EN】",
  "channel_id": "UClMYGvekJOb51eBOCK-d4Dw",
  "handle": "@ZealGinjoka",
  "subscribers": 190000,
- "fetched_at": "2026-10-28 10:23",
- "fetched_at_ts": 1793150608.2406864,
- "checked_from": "2026-10-21 10:23",
+ "fetched_at": "2026-10-29 05:26",
+ "fetched_at_ts": 1793219182.6042533,
+ "checked_from": "2026-10-22 05:26",
  "initial_fetch_done": true
 }

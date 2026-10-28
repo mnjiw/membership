@@ -137,8 +137,8 @@
    "checked_at": "2026-10-07 05:10",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1793132257.05116,
-   "likes_checked_at": "2026-10-28 05:17"
+   "likes_checked_ts": 1793218670.5171015,
+   "likes_checked_at": "2026-10-29 05:17"
   },
   "Ok7_6uQEngo": {
    "id": "Ok7_6uQEngo",
@@ -1191,8 +1191,8 @@
    "was_public_when_live": false,
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1793132257.05116,
-   "likes_checked_at": "2026-10-28 05:17"
+   "likes_checked_ts": 1793218670.5171015,
+   "likes_checked_at": "2026-10-29 05:17"
   },
   "4ik51bt05mU": {
    "id": "4ik51bt05mU",
@@ -1304,8 +1304,8 @@
    "was_public_when_live": false,
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1793132257.05116,
-   "likes_checked_at": "2026-10-28 05:17"
+   "likes_checked_ts": 1793218670.5171015,
+   "likes_checked_at": "2026-10-29 05:17"
   },
   "sqxAKcovqtU": {
    "id": "sqxAKcovqtU",
@@ -1478,8 +1478,17 @@
   "NWzM-RBfVfI": {
    "id": "NWzM-RBfVfI",
    "title": "🚀共同探検23 05 | No Man's Sky【静凛/にじさんじ】",
-   "status": "live_now",
+   "status": "error",
    "seen_live_at": "2026-10-28 05:17",
+   "was_public_when_live": true,
+   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
+   "failed_since_ts": 1793218670.5171015
+  },
+  "saliaWe1cFk": {
+   "id": "saliaWe1cFk",
+   "title": "🗡️作業しながらのんびりスレスパ | Slay the Spire 2【静凛/にじさんじ】",
+   "status": "live_now",
+   "seen_live_at": "2026-10-29 05:17",
    "was_public_when_live": true
   }
  },
@@ -1487,8 +1496,8 @@
  "channel_id": "UC6oDys1BGgBsIC3WhG1BovQ",
  "handle": "@ShizukaRin",
  "subscribers": 398000,
- "fetched_at": "2026-10-28 10:18",
- "fetched_at_ts": 1793150312.416947,
- "checked_from": "2026-10-21 10:18",
+ "fetched_at": "2026-10-29 05:17",
+ "fetched_at_ts": 1793218670.5171015,
+ "checked_from": "2026-10-22 05:17",
  "initial_fetch_done": true
 }

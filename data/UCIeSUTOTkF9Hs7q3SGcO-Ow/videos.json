@@ -32,8 +32,8 @@
    "checked_at": "2026-10-07 13:00",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1793133166.2854955,
-   "likes_checked_at": "2026-10-28 05:32"
+   "likes_checked_ts": 1793219113.014313,
+   "likes_checked_at": "2026-10-29 05:25"
   },
   "obP0gKIn_Jg": {
    "id": "obP0gKIn_Jg",
@@ -155,8 +155,8 @@
    "checked_at": "2026-10-07 13:01",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1793133166.2854955,
-   "likes_checked_at": "2026-10-28 05:32"
+   "likes_checked_ts": 1793219113.014313,
+   "likes_checked_at": "2026-10-29 05:25"
   },
   "Gu4tKmXUgXs": {
    "id": "Gu4tKmXUgXs",
@@ -884,8 +884,8 @@
    "was_public_when_live": false,
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1793133166.2854955,
-   "likes_checked_at": "2026-10-28 05:32"
+   "likes_checked_ts": 1793219113.014313,
+   "likes_checked_at": "2026-10-29 05:25"
   },
   "2b6CISaG5-0": {
    "id": "2b6CISaG5-0",
@@ -1085,17 +1085,19 @@
   "O4Uppt4JiWk": {
    "id": "O4Uppt4JiWk",
    "title": "【THE PLANT SHOP】 working retail is a nightmare 【NIJISANJI EN | Elira Pendora】",
-   "status": "live_now",
+   "status": "error",
    "seen_live_at": "2026-10-28 10:23",
-   "was_public_when_live": true
+   "was_public_when_live": true,
+   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
+   "failed_since_ts": 1793219113.014313
   }
  },
  "channel": "Elira Pendora 【NIJISANJI EN】",
  "channel_id": "UCIeSUTOTkF9Hs7q3SGcO-Ow",
  "handle": "@EliraPendora",
  "subscribers": 514000,
- "fetched_at": "2026-10-28 10:23",
- "fetched_at_ts": 1793150580.9273257,
- "checked_from": "2026-10-21 10:23",
+ "fetched_at": "2026-10-29 05:25",
+ "fetched_at_ts": 1793219113.014313,
+ "checked_from": "2026-10-22 05:25",
  "initial_fetch_done": true
 }

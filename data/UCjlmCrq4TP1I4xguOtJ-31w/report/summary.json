@@ -3,11 +3,11 @@
  "channel_id": "UCjlmCrq4TP1I4xguOtJ-31w",
  "handle": "@DebidebiDebiru",
  "subscribers": 645000,
- "fetched_at": "2026-10-28 10:19",
- "generated_at": "2026-10-28 10:19",
+ "fetched_at": "2026-10-29 05:19",
+ "generated_at": "2026-10-29 05:19",
  "period": {
-  "from": "2026-09-28 10:19",
-  "to": "2026-10-28 10:19",
+  "from": "2026-09-29 05:19",
+  "to": "2026-10-29 05:19",
   "days": 30
  },
  "streams_analyzed": 13,
@@ -232,18 +232,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "L7kjI858bMI",
-   "start": "2026-09-28 22:04",
-   "title": "メンバー限定映画同時視聴　変な家【でびでび・でびる/にじさんじ】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 121,
-   "view_count": null
-  },
-  {
    "video_id": "IposZ1VTpJo",
    "start": "2026-10-11 20:04",
    "title": "メンバー限定配信というやつ【でびでび・でびる/にじさんじ】",
@@ -266,19 +254,21 @@
    "members_level": "",
    "like_count": 91,
    "view_count": null
+  },
+  {
+   "video_id": "FxzVV_WEvMs",
+   "start": "2026-10-28 00:00",
+   "title": "【F:NEX】1/2スケールフィギュア「でびでび・でびる」",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 2051,
+   "view_count": 34054
   }
  ],
  "members_only_content": [
-  {
-   "video_id": "L7kjI858bMI",
-   "start": "2026-09-28 22:04",
-   "title": "メンバー限定映画同時視聴　変な家【でびでび・でびる/にじさんじ】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 121,
-   "view_count": null
-  },
   {
    "video_id": "IposZ1VTpJo",
    "start": "2026-10-11 20:04",
@@ -377,10 +367,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-28"
+    "to": "2026-10-29"
    },
    "streams_analyzed": 12,
-   "streams_missed": 2,
+   "streams_missed": 3,
    "unique_chatters": 1079,
    "members_confirmed": 441,
    "member_classes": {

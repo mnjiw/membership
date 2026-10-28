@@ -669,8 +669,8 @@
    "checked_at": "2026-10-08 08:47",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1793132970.4590423,
-   "likes_checked_at": "2026-10-28 05:29"
+   "likes_checked_ts": 1793219025.625008,
+   "likes_checked_at": "2026-10-29 05:23"
   },
   "7e8qAogdF8Q": {
    "id": "7e8qAogdF8Q",
@@ -782,15 +782,15 @@
    "start_jst": "2026-10-23 22:00",
    "duration_sec": 10720,
    "view_count": null,
-   "like_count": 143,
+   "like_count": 144,
    "live_status": "was_live",
    "members_only": true,
    "has_chat": false,
    "checked_at": "2026-10-24 05:30",
    "members_level": "りこりすとさん",
    "status": "members_only",
-   "likes_checked_ts": 1793132970.4590423,
-   "likes_checked_at": "2026-10-28 05:29"
+   "likes_checked_ts": 1793219025.625008,
+   "likes_checked_at": "2026-10-29 05:23"
   },
   "VRT2lyxasJI": {
    "id": "VRT2lyxasJI",
@@ -842,14 +842,21 @@
    "info_limited": true,
    "start_from_chat": true,
    "status": "ok"
+  },
+  "zbkdsNQbPzQ": {
+   "id": "zbkdsNQbPzQ",
+   "title": "[Niji3D Chat] You all worked so hard today, didn't you~~~ [Shiga Riko/NIJISANJI]",
+   "status": "error",
+   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
+   "failed_since_ts": 1793219025.625008
   }
  },
  "channel": "司賀りこ / Shiga Riko【にじさんじ】",
  "channel_id": "UCzsCWYuvPUky3-DKzphYbEw",
  "handle": "@ShigaRiko",
  "subscribers": 256000,
- "fetched_at": "2026-10-28 10:22",
- "fetched_at_ts": 1793150528.5538983,
- "checked_from": "2026-10-21 10:22",
+ "fetched_at": "2026-10-29 05:23",
+ "fetched_at_ts": 1793219025.625008,
+ "checked_from": "2026-10-22 05:23",
  "initial_fetch_done": true
 }

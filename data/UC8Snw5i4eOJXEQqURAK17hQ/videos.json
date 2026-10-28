@@ -553,14 +553,40 @@
    "info_limited": true,
    "start_from_chat": true,
    "status": "ok"
+  },
+  "ecWwawbbwqM": {
+   "id": "ecWwawbbwqM",
+   "title": "【Dredge】 Rai Galilei's: \"Im going (slightly) insane!\" #2【NIJISANJI】",
+   "kind": "video",
+   "start_ts": 1793113200.0,
+   "start_jst": "2026-10-28 00:00",
+   "duration_sec": null,
+   "view_count": 755,
+   "like_count": 99,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": false,
+   "checked_at": "2026-10-29 05:22",
+   "info_limited": true,
+   "error": "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)",
+   "tab": "live",
+   "status": "error",
+   "failed_since_ts": 1793218945.1184223
+  },
+  "7K7tpjMI3fA": {
+   "id": "7K7tpjMI3fA",
+   "title": "【Dredge】 Rai Galilei's: \"I just wanna fish peacefully man\" #1【NIJISANJI】",
+   "status": "error",
+   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
+   "failed_since_ts": 1793218945.1184223
   }
  },
  "channel": "Rai Galilei【NIJISANJI / にじさんじ】",
  "channel_id": "UC8Snw5i4eOJXEQqURAK17hQ",
  "handle": "@RaiGalilei",
  "subscribers": 57800,
- "fetched_at": "2026-10-28 10:21",
- "fetched_at_ts": 1793150463.8184617,
- "checked_from": "2026-10-21 10:21",
+ "fetched_at": "2026-10-29 05:22",
+ "fetched_at_ts": 1793218945.1184223,
+ "checked_from": "2026-10-22 05:22",
  "initial_fetch_done": true
 }

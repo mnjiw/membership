@@ -3,26 +3,26 @@
  "channel_id": "UCYKP16oMX9KKPbrNgo_Kgag",
  "handle": "@Elu",
  "subscribers": 737000,
- "fetched_at": "2026-10-28 10:18",
- "generated_at": "2026-10-28 10:18",
+ "fetched_at": "2026-10-29 05:17",
+ "generated_at": "2026-10-29 05:18",
  "period": {
-  "from": "2026-09-28 10:18",
-  "to": "2026-10-28 10:18",
+  "from": "2026-09-29 05:17",
+  "to": "2026-10-29 05:17",
   "days": 30
  },
- "streams_analyzed": 23,
- "streams_missed": 1,
- "unique_chatters": 3828,
- "members_confirmed": 297,
+ "streams_analyzed": 22,
+ "streams_missed": 2,
+ "unique_chatters": 3411,
+ "members_confirmed": 289,
  "member_classes": {
-  "unknown": 262,
-  "known": 35
+  "known": 35,
+  "unknown": 254
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 13
+   "members": 11
   },
   {
    "months": 1,
@@ -42,22 +42,22 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 52
+   "members": 51
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 46
+   "members": 45
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 58
+   "members": 57
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 93
+   "members": 90
   }
  ],
  "events": {
@@ -76,19 +76,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 35,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 262.0,
-   "estimated_members": 297.0,
+   "allocated_unknown": 254.0,
+   "estimated_members": 289.0,
    "monthly_net_confirmed": 10914,
-   "monthly_net_estimated": 92610
+   "monthly_net_estimated": 90115
   }
  ],
  "revenue": {
-  "monthly_low": 92610,
-  "monthly_est": 92610,
+  "monthly_low": 90115,
+  "monthly_est": 90115,
   "gift_once": 0,
-  "total_low": 92610,
-  "total_est": 92610,
-  "paying_members": 297,
+  "total_low": 90115,
+  "total_est": 90115,
+  "paying_members": 289,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -97,16 +97,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "AEHOOWEoVus",
-   "start": "2026-09-28 18:59",
-   "title": "【 歌枠 】アンパンマン大好きライバー集合！愉快なアンパンマン歌枠【にじさんじ/える】",
-   "kind": "配信",
-   "chatters": 602,
-   "member_chatters": 80,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "yIdo7IvRHPo",
    "start": "2026-09-29 12:10",
@@ -338,7 +328,19 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 580,
+   "like_count": 581,
+   "view_count": null
+  },
+  {
+   "video_id": "C966HaNLOpc",
+   "start": "2026-10-28 20:02",
+   "title": "【アークナイツ：エンドフィールド】The k4sen に向けて自主練の刃～付け焼き編～②【にじさんじ/える】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 419,
    "view_count": null
   }
  ],
@@ -350,7 +352,17 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 580,
+   "like_count": 581,
+   "view_count": null
+  },
+  {
+   "video_id": "C966HaNLOpc",
+   "start": "2026-10-28 20:02",
+   "title": "【アークナイツ：エンドフィールド】The k4sen に向けて自主練の刃～付け焼き編～②【にじさんじ/える】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 419,
    "view_count": null
   }
  ],
@@ -432,10 +444,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-28"
+    "to": "2026-10-29"
    },
    "streams_analyzed": 20,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 3316,
    "members_confirmed": 285,
    "member_classes": {

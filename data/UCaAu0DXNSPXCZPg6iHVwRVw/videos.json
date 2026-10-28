@@ -248,15 +248,15 @@
    "start_jst": "2026-09-26 21:03",
    "duration_sec": 7250,
    "view_count": null,
-   "like_count": 302,
+   "like_count": 303,
    "live_status": "was_live",
    "members_only": true,
    "has_chat": false,
    "checked_at": "2026-10-07 12:26",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1793133058.724047,
-   "likes_checked_at": "2026-10-28 05:30"
+   "likes_checked_ts": 1793219062.7615366,
+   "likes_checked_at": "2026-10-29 05:24"
   },
   "f0TicOO-VnU": {
    "id": "f0TicOO-VnU",
@@ -1988,14 +1988,28 @@
    "info_limited": true,
    "start_from_chat": true,
    "status": "ok"
+  },
+  "x2KzBcO7UFQ": {
+   "id": "x2KzBcO7UFQ",
+   "title": "✧︎* 深夜ラジオ┊2026年10月29日(木)のにゃるらじ🌙〖猫屋敷美紅 / にじさんじ〗",
+   "status": "error",
+   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
+   "failed_since_ts": 1793219062.7615366
+  },
+  "CH_vL4UoCxA": {
+   "id": "CH_vL4UoCxA",
+   "title": "✧︎* スプラトゥーン3┊お久しぶりすぎるスプラ！！！🔰〖猫屋敷美紅 / にじさんじ〗",
+   "status": "error",
+   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
+   "failed_since_ts": 1793219062.7615366
   }
  },
  "channel": "猫屋敷美紅 / Nekoyashiki Miku【にじさんじ】",
  "channel_id": "UCaAu0DXNSPXCZPg6iHVwRVw",
  "handle": "@NekoyashikiMiku",
  "subscribers": 153000,
- "fetched_at": "2026-10-28 10:22",
- "fetched_at_ts": 1793150551.3572419,
- "checked_from": "2026-10-21 10:22",
+ "fetched_at": "2026-10-29 05:24",
+ "fetched_at_ts": 1793219062.7615366,
+ "checked_from": "2026-10-22 05:24",
  "initial_fetch_done": true
 }
