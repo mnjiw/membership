@@ -542,17 +542,27 @@
   "UAVgSj07VAI": {
    "id": "UAVgSj07VAI",
    "title": "【 🗣️雑談 】最近Tier？ってもんが流行ってるらしいじゃん【にじさんじ/轟京子】",
-   "status": "error",
-   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
-   "failed_since_ts": 1793218721.650901
+   "kind": "live",
+   "start_ts": 1793192648.1359942,
+   "start_jst": "2026-10-28 22:04",
+   "duration_sec": 9727,
+   "view_count": 5987,
+   "like_count": 332,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-10-29 10:48",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "轟京子/kyoko todoroki【にじさんじ】",
  "channel_id": "UCRV9d6YCYIMUszK-83TwxVA",
  "handle": "@TodorokiKyoko",
  "subscribers": 148000,
- "fetched_at": "2026-10-29 05:18",
- "fetched_at_ts": 1793218721.650901,
- "checked_from": "2026-10-22 05:18",
+ "fetched_at": "2026-10-29 10:48",
+ "fetched_at_ts": 1793238512.5370772,
+ "checked_from": "2026-10-22 10:48",
  "initial_fetch_done": true
 }

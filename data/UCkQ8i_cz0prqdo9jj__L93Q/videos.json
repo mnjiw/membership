@@ -847,17 +847,27 @@
   "dFkmpGmS7aU": {
    "id": "dFkmpGmS7aU",
    "title": "【LTK】Masters熱血応援会場【酒寄颯馬/にじさんじ】",
-   "status": "error",
-   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
-   "failed_since_ts": 1793219050.5619576
+   "kind": "live",
+   "start_ts": 1793174430.936211,
+   "start_jst": "2026-10-28 17:00",
+   "duration_sec": 19239,
+   "view_count": 150368,
+   "like_count": 1053,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-10-29 10:57",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "酒寄颯馬 / Sakayori Soma【にじさんじ】",
  "channel_id": "UCkQ8i_cz0prqdo9jj__L93Q",
  "handle": "@SakayoriSoma",
  "subscribers": 287000,
- "fetched_at": "2026-10-29 05:24",
- "fetched_at_ts": 1793219050.5619576,
- "checked_from": "2026-10-22 05:24",
+ "fetched_at": "2026-10-29 10:57",
+ "fetched_at_ts": 1793239037.6506588,
+ "checked_from": "2026-10-22 10:57",
  "initial_fetch_done": true
 }

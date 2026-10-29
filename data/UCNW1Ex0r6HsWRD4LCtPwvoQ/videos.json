@@ -168,17 +168,27 @@
   "7SyVPsV6FZ8": {
    "id": "7SyVPsV6FZ8",
    "title": "花に風 - 三枝明那 cover",
-   "status": "error",
-   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
-   "failed_since_ts": 1793218799.4285717
+   "kind": "premiere",
+   "start_ts": 1793185325.9381669,
+   "start_jst": "2026-10-28 20:02",
+   "duration_sec": 245,
+   "view_count": 228455,
+   "like_count": 21590,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-10-29 10:49",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "三枝明那 / Saegusa Akina",
  "channel_id": "UCNW1Ex0r6HsWRD4LCtPwvoQ",
  "handle": "@SaegusaAkina",
  "subscribers": 738000,
- "fetched_at": "2026-10-29 05:19",
- "fetched_at_ts": 1793218799.4285717,
- "checked_from": "2026-10-22 05:19",
+ "fetched_at": "2026-10-29 10:49",
+ "fetched_at_ts": 1793238583.9048715,
+ "checked_from": "2026-10-22 10:49",
  "initial_fetch_done": true
 }

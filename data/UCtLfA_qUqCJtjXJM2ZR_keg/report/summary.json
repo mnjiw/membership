@@ -3,60 +3,61 @@
  "channel_id": "UCtLfA_qUqCJtjXJM2ZR_keg",
  "handle": "@IshigamiNozomi",
  "subscribers": 439000,
- "fetched_at": "2026-10-29 05:22",
- "generated_at": "2026-10-29 05:23",
+ "fetched_at": "2026-10-29 10:54",
+ "generated_at": "2026-10-29 10:55",
  "period": {
-  "from": "2026-09-29 05:22",
-  "to": "2026-10-29 05:22",
+  "from": "2026-09-29 10:54",
+  "to": "2026-10-29 10:54",
   "days": 30
  },
- "streams_analyzed": 14,
- "streams_missed": 4,
- "unique_chatters": 8927,
- "members_confirmed": 1659,
+ "streams_analyzed": 15,
+ "streams_missed": 3,
+ "unique_chatters": 9646,
+ "members_confirmed": 1865,
  "member_classes": {
-  "unknown": 1635,
-  "known": 24
+  "unknown": 1824,
+  "known": 36,
+  "gift": 5
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 49
+   "members": 72
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 55
+   "members": 58
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 242
+   "members": 278
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 209
+   "members": 238
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 336
+   "members": 378
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 768
+   "members": 841
   }
  ],
  "events": {
-  "new_members": 13,
-  "rejoins": 5,
+  "new_members": 21,
+  "rejoins": 8,
   "milestones": 0,
-  "gift_purchases": 0,
-  "gifted_total": 0,
-  "gift_redemptions": 0
+  "gift_purchases": 1,
+  "gifted_total": 5,
+  "gift_redemptions": 5
  },
  "tiers_configured": true,
  "tiers": [
@@ -64,21 +65,21 @@
    "tier": "神者たち",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 24,
+   "confirmed_members": 36,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1635.0,
-   "estimated_members": 1659.0,
-   "monthly_net_confirmed": 7484,
-   "monthly_net_estimated": 517306
+   "allocated_unknown": 1824.0,
+   "estimated_members": 1860.0,
+   "monthly_net_confirmed": 11225,
+   "monthly_net_estimated": 579982
   }
  ],
  "revenue": {
-  "monthly_low": 517306,
-  "monthly_est": 517306,
-  "gift_once": 0,
-  "total_low": 517306,
-  "total_est": 517306,
-  "paying_members": 1659,
+  "monthly_low": 579982,
+  "monthly_est": 579982,
+  "gift_once": 1559,
+  "total_low": 581541,
+  "total_est": 581541,
+  "paying_members": 1860,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -226,6 +227,16 @@
    "member_chatters": 638,
    "new_members": 2,
    "gifted_total": 0
+  },
+  {
+   "video_id": "UVK0krxXqq4",
+   "start": "2026-10-28 23:33",
+   "title": "【 #石神のぞみ生誕祭2026 】お誕生日カウントダウンきちゃああああああああああああ【 にじさんじ所属 ／ 石神のぞみ 】",
+   "kind": "配信",
+   "chatters": 2060,
+   "member_chatters": 994,
+   "new_members": 8,
+   "gifted_total": 5
   }
  ],
  "missed_streams": [
@@ -242,18 +253,6 @@
    "view_count": null
   },
   {
-   "video_id": "2BBrkQIInyM",
-   "start": "2026-10-25 00:00",
-   "title": "『デュエプレコラボ』で実装された石神がミームばっか喋って爆笑する石神【 デュエプレ / 石神のぞみ #石神のぞみ切り抜き 】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 3693,
-   "view_count": 308964
-  },
-  {
    "video_id": "Jw6He679XDI",
    "start": "2026-10-26 00:00",
    "title": "サバイバルホラーで自爆して逆さ吊りになったチャイカにボロクソ言う石神たち【 インボキア / 石神のぞみ 花畑チャイカ 珠乃井ナナ 十河ののは #石神のぞみ切り抜き 】",
@@ -262,8 +261,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 1257,
-   "view_count": 88203
+   "like_count": 1262,
+   "view_count": 88981
   },
   {
    "video_id": "flev3pFQAzA",
@@ -274,8 +273,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 1450,
-   "view_count": 105912
+   "like_count": 1470,
+   "view_count": 106600
   }
  ],
  "members_only_content": [
@@ -362,61 +361,62 @@
     "from": "2026-10-01",
     "to": "2026-10-29"
    },
-   "streams_analyzed": 13,
-   "streams_missed": 3,
-   "unique_chatters": 8286,
-   "members_confirmed": 1611,
+   "streams_analyzed": 14,
+   "streams_missed": 2,
+   "unique_chatters": 9025,
+   "members_confirmed": 1824,
    "member_classes": {
-    "unknown": 1588,
-    "known": 23
+    "unknown": 1784,
+    "known": 35,
+    "gift": 5
    },
-   "long_term_members": 1080,
+   "long_term_members": 1199,
    "badges": [
     {
      "months": 0,
-     "members": 44
+     "members": 67
     },
     {
      "months": 1,
-     "members": 53
+     "members": 56
     },
     {
      "months": 2,
-     "members": 232
+     "members": 270
     },
     {
      "months": 6,
-     "members": 202
+     "members": 232
     },
     {
      "months": 12,
-     "members": 331
+     "members": 375
     },
     {
      "months": 24,
-     "members": 749
+     "members": 824
     }
    ],
    "events": {
-    "new_members": 12,
-    "rejoins": 5,
+    "new_members": 20,
+    "rejoins": 8,
     "milestones": 0,
-    "gifted_total": 0
+    "gifted_total": 5
    },
    "tiers": [
     {
      "tier": "神者たち",
      "price": 490,
-     "confirmed_members": 23,
-     "estimated_members": 1611.0
+     "confirmed_members": 35,
+     "estimated_members": 1819.0
     }
    ],
    "revenue": {
-    "monthly_low": 502339,
-    "monthly_est": 502339,
-    "gift_once": 0
+    "monthly_low": 567197,
+    "monthly_est": 567197,
+    "gift_once": 1559
    },
-   "avg_member_chatters": 520.5,
+   "avg_member_chatters": 554.3,
    "partial": true,
    "finalized": false
   }

@@ -3,27 +3,27 @@
  "channel_id": "UCQYwIUCLqFoin7lHKmePjJw",
  "handle": "@KlaraCharmwood",
  "subscribers": 110000,
- "fetched_at": "2026-10-29 05:26",
- "generated_at": "2026-10-29 05:26",
+ "fetched_at": "2026-10-29 11:01",
+ "generated_at": "2026-10-29 11:01",
  "period": {
-  "from": "2026-09-29 05:26",
-  "to": "2026-10-29 05:26",
+  "from": "2026-09-29 11:01",
+  "to": "2026-10-29 11:01",
   "days": 30
  },
- "streams_analyzed": 31,
+ "streams_analyzed": 32,
  "streams_missed": 2,
- "unique_chatters": 4853,
- "members_confirmed": 573,
+ "unique_chatters": 4862,
+ "members_confirmed": 576,
  "member_classes": {
-  "unknown": 168,
+  "unknown": 170,
   "known": 118,
-  "gift": 287
+  "gift": 288
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 307
+   "members": 309
   },
   {
    "months": 1,
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 52
+   "members": 53
   },
   {
    "months": 6,
@@ -55,9 +55,9 @@
   "new_members": 24,
   "rejoins": 13,
   "milestones": 78,
-  "gift_purchases": 75,
-  "gifted_total": 407,
-  "gift_redemptions": 293
+  "gift_purchases": 76,
+  "gifted_total": 408,
+  "gift_redemptions": 294
  },
  "tiers_configured": true,
  "tiers": [
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 118,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 168.0,
-   "estimated_members": 286.0,
+   "allocated_unknown": 170.0,
+   "estimated_members": 288.0,
    "monthly_net_confirmed": 36795,
-   "monthly_net_estimated": 89180
+   "monthly_net_estimated": 89804
   }
  ],
  "revenue": {
-  "monthly_low": 89180,
-  "monthly_est": 89180,
-  "gift_once": 126910,
-  "total_low": 216090,
-  "total_est": 216090,
-  "paying_members": 286,
+  "monthly_low": 89804,
+  "monthly_est": 89804,
+  "gift_once": 127222,
+  "total_low": 217025,
+  "total_est": 217025,
+  "paying_members": 288,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -397,6 +397,16 @@
    "member_chatters": 40,
    "new_members": 0,
    "gifted_total": 6
+  },
+  {
+   "video_id": "9oFrarWR-z8",
+   "start": "2026-10-28 19:58",
+   "title": "【Village in the Shade】Slow Life Horror with The Maid #1【NIJISANJI EN | Klara Charmwood】",
+   "kind": "配信",
+   "chatters": 100,
+   "member_chatters": 58,
+   "new_members": 0,
+   "gifted_total": 1
   }
  ],
  "missed_streams": [
@@ -520,20 +530,20 @@
     "from": "2026-10-01",
     "to": "2026-10-29"
    },
-   "streams_analyzed": 31,
+   "streams_analyzed": 32,
    "streams_missed": 2,
-   "unique_chatters": 4853,
-   "members_confirmed": 573,
+   "unique_chatters": 4862,
+   "members_confirmed": 576,
    "member_classes": {
-    "unknown": 168,
+    "unknown": 170,
     "known": 118,
-    "gift": 287
+    "gift": 288
    },
    "long_term_members": 131,
    "badges": [
     {
      "months": 0,
-     "members": 307
+     "members": 309
     },
     {
      "months": 1,
@@ -541,7 +551,7 @@
     },
     {
      "months": 2,
-     "members": 52
+     "members": 53
     },
     {
      "months": 6,
@@ -560,22 +570,22 @@
     "new_members": 24,
     "rejoins": 13,
     "milestones": 78,
-    "gifted_total": 407
+    "gifted_total": 408
    },
    "tiers": [
     {
      "tier": "Cuppanions",
      "price": 490,
      "confirmed_members": 118,
-     "estimated_members": 286.0
+     "estimated_members": 288.0
     }
    ],
    "revenue": {
-    "monthly_low": 89180,
-    "monthly_est": 89180,
-    "gift_once": 126910
+    "monthly_low": 89804,
+    "monthly_est": 89804,
+    "gift_once": 127222
    },
-   "avg_member_chatters": 75.3,
+   "avg_member_chatters": 74.8,
    "partial": true,
    "finalized": false
   }

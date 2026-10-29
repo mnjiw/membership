@@ -3,37 +3,37 @@
  "channel_id": "UClMYGvekJOb51eBOCK-d4Dw",
  "handle": "@ZealGinjoka",
  "subscribers": 190000,
- "fetched_at": "2026-10-29 05:26",
- "generated_at": "2026-10-29 05:26",
+ "fetched_at": "2026-10-29 11:01",
+ "generated_at": "2026-10-29 11:01",
  "period": {
-  "from": "2026-09-29 05:26",
-  "to": "2026-10-29 05:26",
+  "from": "2026-09-29 11:01",
+  "to": "2026-10-29 11:01",
   "days": 30
  },
- "streams_analyzed": 17,
+ "streams_analyzed": 18,
  "streams_missed": 2,
- "unique_chatters": 1583,
- "members_confirmed": 672,
+ "unique_chatters": 1594,
+ "members_confirmed": 681,
  "member_classes": {
-  "known": 264,
-  "unknown": 340,
-  "gift": 68
+  "known": 268,
+  "unknown": 341,
+  "gift": 72
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 101
+   "members": 107
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 34
+   "members": 33
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 57
+   "members": 59
   },
   {
    "months": 6,
@@ -43,16 +43,16 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 399
+   "members": 401
   }
  ],
  "events": {
-  "new_members": 10,
+  "new_members": 11,
   "rejoins": 18,
-  "milestones": 152,
-  "gift_purchases": 22,
-  "gifted_total": 68,
-  "gift_redemptions": 68
+  "milestones": 156,
+  "gift_purchases": 23,
+  "gifted_total": 73,
+  "gift_redemptions": 73
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,21 +60,21 @@
    "tier": "Zuper Epic Awesome Legend",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 264,
+   "confirmed_members": 268,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 340.0,
-   "estimated_members": 604.0,
-   "monthly_net_confirmed": 115920,
-   "monthly_net_estimated": 265211
+   "allocated_unknown": 341.0,
+   "estimated_members": 609.0,
+   "monthly_net_confirmed": 117676,
+   "monthly_net_estimated": 267406
   }
  ],
  "revenue": {
-  "monthly_low": 265211,
-  "monthly_est": 265211,
-  "gift_once": 29858,
-  "total_low": 295069,
-  "total_est": 295069,
-  "paying_members": 604,
+  "monthly_low": 267406,
+  "monthly_est": 267406,
+  "gift_once": 32054,
+  "total_low": 299460,
+  "total_est": 299460,
+  "paying_members": 609,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -252,6 +252,16 @@
    "member_chatters": 216,
    "new_members": 3,
    "gifted_total": 3
+  },
+  {
+   "video_id": "m31q8Jw1noI",
+   "start": "2026-10-28 08:59",
+   "title": "【Castlevania: Belmont's Curse】 Into The Castle (vania) 【NIJISANJI EN | Zeal Ginjoka】",
+   "kind": "配信",
+   "chatters": 197,
+   "member_chatters": 148,
+   "new_members": 1,
+   "gifted_total": 5
   }
  ],
  "missed_streams": [
@@ -371,28 +381,28 @@
     "from": "2026-10-01",
     "to": "2026-10-29"
    },
-   "streams_analyzed": 17,
+   "streams_analyzed": 18,
    "streams_missed": 2,
-   "unique_chatters": 1583,
-   "members_confirmed": 672,
+   "unique_chatters": 1594,
+   "members_confirmed": 681,
    "member_classes": {
-    "known": 264,
-    "unknown": 340,
-    "gift": 68
+    "known": 268,
+    "unknown": 341,
+    "gift": 72
    },
-   "long_term_members": 399,
+   "long_term_members": 401,
    "badges": [
     {
      "months": 0,
-     "members": 101
+     "members": 107
     },
     {
      "months": 1,
-     "members": 34
+     "members": 33
     },
     {
      "months": 2,
-     "members": 57
+     "members": 59
     },
     {
      "months": 6,
@@ -400,29 +410,29 @@
     },
     {
      "months": 12,
-     "members": 399
+     "members": 401
     }
    ],
    "events": {
-    "new_members": 10,
+    "new_members": 11,
     "rejoins": 18,
-    "milestones": 152,
-    "gifted_total": 68
+    "milestones": 156,
+    "gifted_total": 73
    },
    "tiers": [
     {
      "tier": "Zuper Epic Awesome Legend",
      "price": 690,
-     "confirmed_members": 264,
-     "estimated_members": 604.0
+     "confirmed_members": 268,
+     "estimated_members": 609.0
     }
    ],
    "revenue": {
-    "monthly_low": 265211,
-    "monthly_est": 265211,
-    "gift_once": 29858
+    "monthly_low": 267406,
+    "monthly_est": 267406,
+    "gift_once": 32054
    },
-   "avg_member_chatters": 196.2,
+   "avg_member_chatters": 193.6,
    "partial": true,
    "finalized": false
   }

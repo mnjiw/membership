@@ -3,19 +3,19 @@
  "channel_id": "UCkQ8i_cz0prqdo9jj__L93Q",
  "handle": "@SakayoriSoma",
  "subscribers": 287000,
- "fetched_at": "2026-10-29 05:24",
- "generated_at": "2026-10-29 05:24",
+ "fetched_at": "2026-10-29 10:57",
+ "generated_at": "2026-10-29 10:57",
  "period": {
-  "from": "2026-09-29 05:24",
-  "to": "2026-10-29 05:24",
+  "from": "2026-09-29 10:57",
+  "to": "2026-10-29 10:57",
   "days": 30
  },
- "streams_analyzed": 17,
+ "streams_analyzed": 18,
  "streams_missed": 0,
- "unique_chatters": 2723,
- "members_confirmed": 549,
+ "unique_chatters": 2793,
+ "members_confirmed": 554,
  "member_classes": {
-  "unknown": 492,
+  "unknown": 497,
   "known": 32,
   "gift": 25
  },
@@ -23,27 +23,27 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 60
+   "members": 62
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 34
+   "members": 31
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 110
+   "members": 114
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 87
+   "members": 88
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 258
+   "members": 259
   }
  ],
  "events": {
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 32,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 492.0,
-   "estimated_members": 524.0,
+   "allocated_unknown": 497.0,
+   "estimated_members": 529.0,
    "monthly_net_confirmed": 9978,
-   "monthly_net_estimated": 163393
+   "monthly_net_estimated": 164952
   }
  ],
  "revenue": {
-  "monthly_low": 163393,
-  "monthly_est": 163393,
+  "monthly_low": 164952,
+  "monthly_est": 164952,
   "gift_once": 7795,
-  "total_low": 171188,
-  "total_est": 171188,
-  "paying_members": 524,
+  "total_low": 172747,
+  "total_est": 172747,
+  "paying_members": 529,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -252,6 +252,16 @@
    "member_chatters": 288,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "dFkmpGmS7aU",
+   "start": "2026-10-28 17:00",
+   "title": "【LTK】Masters熱血応援会場【酒寄颯馬/にじさんじ】",
+   "kind": "配信",
+   "chatters": 563,
+   "member_chatters": 168,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -325,36 +335,36 @@
     "from": "2026-10-01",
     "to": "2026-10-29"
    },
-   "streams_analyzed": 17,
+   "streams_analyzed": 18,
    "streams_missed": 0,
-   "unique_chatters": 2723,
-   "members_confirmed": 549,
+   "unique_chatters": 2793,
+   "members_confirmed": 554,
    "member_classes": {
-    "unknown": 492,
+    "unknown": 497,
     "known": 32,
     "gift": 25
    },
-   "long_term_members": 258,
+   "long_term_members": 259,
    "badges": [
     {
      "months": 0,
-     "members": 60
+     "members": 62
     },
     {
      "months": 1,
-     "members": 34
+     "members": 31
     },
     {
      "months": 2,
-     "members": 110
+     "members": 114
     },
     {
      "months": 6,
-     "members": 87
+     "members": 88
     },
     {
      "months": 12,
-     "members": 258
+     "members": 259
     }
    ],
    "events": {
@@ -368,15 +378,15 @@
      "tier": "酒寄颯馬のメンバーシップ",
      "price": 490,
      "confirmed_members": 32,
-     "estimated_members": 524.0
+     "estimated_members": 529.0
     }
    ],
    "revenue": {
-    "monthly_low": 163393,
-    "monthly_est": 163393,
+    "monthly_low": 164952,
+    "monthly_est": 164952,
     "gift_once": 7795
    },
-   "avg_member_chatters": 205.4,
+   "avg_member_chatters": 203.3,
    "partial": true,
    "finalized": false
   }

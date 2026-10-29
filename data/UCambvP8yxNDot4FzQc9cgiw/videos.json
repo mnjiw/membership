@@ -757,17 +757,27 @@
   "01hy5K4AJdA": {
    "id": "01hy5K4AJdA",
    "title": "【ONEPIECE 海のごちそうレストラン】いつもクソお世話になっております。 #2【宇佐美リト/にじさんじ】",
-   "status": "error",
-   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
-   "failed_since_ts": 1793219001.5154355
+   "kind": "live",
+   "start_ts": 1793188812.4624379,
+   "start_jst": "2026-10-28 21:00",
+   "duration_sec": 7319,
+   "view_count": 42732,
+   "like_count": 1070,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-10-29 10:54",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "宇佐美リト / Usami Rito【にじさんじ】",
  "channel_id": "UCambvP8yxNDot4FzQc9cgiw",
  "handle": "@UsamiRito",
  "subscribers": 392000,
- "fetched_at": "2026-10-29 05:23",
- "fetched_at_ts": 1793219001.5154355,
- "checked_from": "2026-10-22 05:23",
+ "fetched_at": "2026-10-29 10:54",
+ "fetched_at_ts": 1793238890.3209648,
+ "checked_from": "2026-10-22 10:54",
  "initial_fetch_done": true
 }

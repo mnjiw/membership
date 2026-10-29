@@ -3,36 +3,36 @@
  "channel_id": "UCzHiiP2r1zyTr8A1-6HtQtw",
  "handle": "@YamadaRyuichiro",
  "subscribers": 168000,
- "fetched_at": "2026-10-29 05:26",
- "generated_at": "2026-10-29 05:26",
+ "fetched_at": "2026-10-29 11:01",
+ "generated_at": "2026-10-29 11:02",
  "period": {
-  "from": "2026-09-29 05:26",
-  "to": "2026-10-29 05:26",
+  "from": "2026-09-29 11:01",
+  "to": "2026-10-29 11:01",
   "days": 30
  },
- "streams_analyzed": 28,
+ "streams_analyzed": 29,
  "streams_missed": 4,
- "unique_chatters": 3946,
- "members_confirmed": 1563,
+ "unique_chatters": 3953,
+ "members_confirmed": 1567,
  "member_classes": {
-  "unknown": 788,
-  "known": 523,
+  "unknown": 791,
+  "known": 524,
   "gift": 252
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 938
+   "members": 924
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 625
+   "members": 643
   }
  ],
  "events": {
-  "new_members": 77,
+  "new_members": 78,
   "rejoins": 0,
   "milestones": 0,
   "gift_purchases": 22,
@@ -45,21 +45,21 @@
    "tier": "山田のメンバー",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 523,
+   "confirmed_members": 524,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 788.0,
-   "estimated_members": 1311.0,
-   "monthly_net_confirmed": 163081,
-   "monthly_net_estimated": 408794
+   "allocated_unknown": 791.0,
+   "estimated_members": 1315.0,
+   "monthly_net_confirmed": 163393,
+   "monthly_net_estimated": 410041
   }
  ],
  "revenue": {
-  "monthly_low": 408794,
-  "monthly_est": 408794,
+  "monthly_low": 410041,
+  "monthly_est": 410041,
   "gift_once": 78578,
-  "total_low": 487372,
-  "total_est": 487372,
-  "paying_members": 1311,
+  "total_low": 488619,
+  "total_est": 488619,
+  "paying_members": 1315,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -347,6 +347,16 @@
    "member_chatters": 468,
    "new_members": 5,
    "gifted_total": 1
+  },
+  {
+   "video_id": "GhIcxzLaIMw",
+   "start": "2026-10-28 18:02",
+   "title": "【1時間耐久】ちょっといい日/山田龍一郎 【にじさんじ】",
+   "kind": "プレミア",
+   "chatters": 209,
+   "member_chatters": 168,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -484,28 +494,28 @@
     "from": "2026-10-01",
     "to": "2026-10-29"
    },
-   "streams_analyzed": 27,
+   "streams_analyzed": 28,
    "streams_missed": 4,
-   "unique_chatters": 3713,
-   "members_confirmed": 1417,
+   "unique_chatters": 3721,
+   "members_confirmed": 1421,
    "member_classes": {
-    "unknown": 766,
-    "known": 499,
+    "unknown": 769,
+    "known": 500,
     "gift": 152
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 792
+     "members": 778
     },
     {
      "months": 1,
-     "members": 625
+     "members": 643
     }
    ],
    "events": {
-    "new_members": 71,
+    "new_members": 72,
     "rejoins": 0,
     "milestones": 0,
     "gifted_total": 152
@@ -514,16 +524,16 @@
     {
      "tier": "山田のメンバー",
      "price": 490,
-     "confirmed_members": 499,
-     "estimated_members": 1265.0
+     "confirmed_members": 500,
+     "estimated_members": 1269.0
     }
    ],
    "revenue": {
-    "monthly_low": 394450,
-    "monthly_est": 394450,
+    "monthly_low": 395697,
+    "monthly_est": 395697,
     "gift_once": 47396
    },
-   "avg_member_chatters": 360.6,
+   "avg_member_chatters": 353.7,
    "partial": true,
    "finalized": false
   }

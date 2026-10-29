@@ -846,17 +846,27 @@
   "zbkdsNQbPzQ": {
    "id": "zbkdsNQbPzQ",
    "title": "[Niji3D Chat] You all worked so hard today, didn't you~~~ [Shiga Riko/NIJISANJI]",
-   "status": "error",
-   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
-   "failed_since_ts": 1793219025.625008
+   "kind": "live",
+   "start_ts": 1793185193.363604,
+   "start_jst": "2026-10-28 19:59",
+   "duration_sec": 4333,
+   "view_count": 43459,
+   "like_count": 1020,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-10-29 10:56",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "司賀りこ / Shiga Riko【にじさんじ】",
  "channel_id": "UCzsCWYuvPUky3-DKzphYbEw",
  "handle": "@ShigaRiko",
  "subscribers": 256000,
- "fetched_at": "2026-10-29 05:23",
- "fetched_at_ts": 1793219025.625008,
- "checked_from": "2026-10-22 05:23",
+ "fetched_at": "2026-10-29 10:56",
+ "fetched_at_ts": 1793238960.978408,
+ "checked_from": "2026-10-22 10:56",
  "initial_fetch_done": true
 }

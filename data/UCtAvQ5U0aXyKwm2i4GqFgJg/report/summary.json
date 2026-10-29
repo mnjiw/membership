@@ -3,19 +3,19 @@
  "channel_id": "UCtAvQ5U0aXyKwm2i4GqFgJg",
  "handle": "@HarusakiAir",
  "subscribers": 197000,
- "fetched_at": "2026-10-29 05:19",
- "generated_at": "2026-10-29 05:19",
+ "fetched_at": "2026-10-29 10:49",
+ "generated_at": "2026-10-29 10:49",
  "period": {
-  "from": "2026-09-29 05:19",
-  "to": "2026-10-29 05:19",
+  "from": "2026-09-29 10:49",
+  "to": "2026-10-29 10:49",
   "days": 30
  },
- "streams_analyzed": 12,
- "streams_missed": 3,
- "unique_chatters": 1235,
- "members_confirmed": 241,
+ "streams_analyzed": 13,
+ "streams_missed": 2,
+ "unique_chatters": 1281,
+ "members_confirmed": 249,
  "member_classes": {
-  "unknown": 229,
+  "unknown": 237,
   "known": 7,
   "gift": 5
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 20
+   "members": 21
   },
   {
    "months": 1,
@@ -38,7 +38,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 30
+   "members": 31
   },
   {
    "months": 12,
@@ -48,7 +48,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 123
+   "members": 129
   }
  ],
  "events": {
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 7,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 229.0,
-   "estimated_members": 236.0,
+   "allocated_unknown": 237.0,
+   "estimated_members": 244.0,
    "monthly_net_confirmed": 2183,
-   "monthly_net_estimated": 73589
+   "monthly_net_estimated": 76084
   }
  ],
  "revenue": {
-  "monthly_low": 73589,
-  "monthly_est": 73589,
+  "monthly_low": 76084,
+  "monthly_est": 76084,
   "gift_once": 1559,
-  "total_low": 75148,
-  "total_est": 75148,
-  "paying_members": 236,
+  "total_low": 77643,
+  "total_est": 77643,
+  "paying_members": 244,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -207,6 +207,16 @@
    "member_chatters": 107,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "NMCIk6JxMOQ",
+   "start": "2026-10-28 22:04",
+   "title": "【スプラトゥーン3】本日もライバーさんとスプラ磨かせていただきますよ【春崎エアル/にじさんじ】",
+   "kind": "配信",
+   "chatters": 183,
+   "member_chatters": 87,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -233,18 +243,6 @@
    "members_level": "",
    "like_count": 80,
    "view_count": null
-  },
-  {
-   "video_id": "NMCIk6JxMOQ",
-   "start": "2026-10-28 00:00",
-   "title": "【スプラトゥーン3】本日もライバーさんとスプラ磨かせていただきますよ【春崎エアル/にじさんじ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 524,
-   "view_count": 23746
   }
  ],
  "members_only_content": [
@@ -342,20 +340,20 @@
     "from": "2026-10-01",
     "to": "2026-10-29"
    },
-   "streams_analyzed": 12,
-   "streams_missed": 3,
-   "unique_chatters": 1235,
-   "members_confirmed": 241,
+   "streams_analyzed": 13,
+   "streams_missed": 2,
+   "unique_chatters": 1281,
+   "members_confirmed": 249,
    "member_classes": {
-    "unknown": 229,
+    "unknown": 237,
     "known": 7,
     "gift": 5
    },
-   "long_term_members": 169,
+   "long_term_members": 175,
    "badges": [
     {
      "months": 0,
-     "members": 20
+     "members": 21
     },
     {
      "months": 1,
@@ -367,7 +365,7 @@
     },
     {
      "months": 6,
-     "members": 30
+     "members": 31
     },
     {
      "months": 12,
@@ -375,7 +373,7 @@
     },
     {
      "months": 24,
-     "members": 123
+     "members": 129
     }
    ],
    "events": {
@@ -389,15 +387,15 @@
      "tier": "春の民",
      "price": 490,
      "confirmed_members": 7,
-     "estimated_members": 236.0
+     "estimated_members": 244.0
     }
    ],
    "revenue": {
-    "monthly_low": 73589,
-    "monthly_est": 73589,
+    "monthly_low": 76084,
+    "monthly_est": 76084,
     "gift_once": 1559
    },
-   "avg_member_chatters": 79.8,
+   "avg_member_chatters": 80.4,
    "partial": true,
    "finalized": false
   }

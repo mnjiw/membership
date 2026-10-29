@@ -859,17 +859,27 @@
   "pC54jAfkntg": {
    "id": "pC54jAfkntg",
    "title": "【球ひろいSimulator】野球ボールを拾います【星導ショウ/にじさんじ】",
-   "status": "error",
-   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
-   "failed_since_ts": 1793219006.990858
+   "kind": "live",
+   "start_ts": 1793190651.859786,
+   "start_jst": "2026-10-28 21:30",
+   "duration_sec": 4109,
+   "view_count": 68963,
+   "like_count": 2602,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-10-29 10:54",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "星導ショウ / Hoshirube Sho【にじさんじ】",
  "channel_id": "UCgZ0pH7j6c9z-pkOG3PYw1Q",
  "handle": "@HoshirubeSho",
  "subscribers": 503000,
- "fetched_at": "2026-10-29 05:23",
- "fetched_at_ts": 1793219006.990858,
- "checked_from": "2026-10-22 05:23",
+ "fetched_at": "2026-10-29 10:54",
+ "fetched_at_ts": 1793238895.2077835,
+ "checked_from": "2026-10-22 10:54",
  "initial_fetch_done": true
 }

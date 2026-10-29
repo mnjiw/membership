@@ -963,24 +963,44 @@
   "XslQrwbuvK0": {
    "id": "XslQrwbuvK0",
    "title": "【DEADLOCK】got a barrel for ya",
-   "status": "error",
-   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
-   "failed_since_ts": 1793219175.8232386
+   "kind": "live",
+   "start_ts": 1793170966.220957,
+   "start_jst": "2026-10-28 16:02",
+   "duration_sec": 25589,
+   "view_count": 14454,
+   "like_count": 513,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-10-29 11:01",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
   },
   "ePxrUKszY88": {
    "id": "ePxrUKszY88",
    "title": "【雑談】3 Years To This Day",
-   "status": "error",
-   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
-   "failed_since_ts": 1793219175.8232386
+   "kind": "live",
+   "start_ts": 1793163657.250266,
+   "start_jst": "2026-10-28 14:00",
+   "duration_sec": 6058,
+   "view_count": 11354,
+   "like_count": 948,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-10-29 11:01",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "Claude Clawmark 【NIJISANJI EN】",
  "channel_id": "UCdh-YF2gTzqDNu0VU9lwPPw",
  "handle": "@ClaudeClawmark",
  "subscribers": 160000,
- "fetched_at": "2026-10-29 05:26",
- "fetched_at_ts": 1793219175.8232386,
- "checked_from": "2026-10-22 05:26",
+ "fetched_at": "2026-10-29 11:01",
+ "fetched_at_ts": 1793239266.0639043,
+ "checked_from": "2026-10-22 11:01",
  "initial_fetch_done": true
 }

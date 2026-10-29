@@ -786,17 +786,27 @@
   "3Z09p_N12KU": {
    "id": "3Z09p_N12KU",
    "title": "10月終わりの雑談やよ〜〜〜っ！！！",
-   "status": "error",
-   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
-   "failed_since_ts": 1793218700.9297967
+   "kind": "live",
+   "start_ts": 1793183509.465796,
+   "start_jst": "2026-10-28 19:31",
+   "duration_sec": 13044,
+   "view_count": 80576,
+   "like_count": 1411,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-10-29 10:48",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "笹木咲 / Sasaki Saku",
  "channel_id": "UCoztvTULBYd3WmStqYeoHcA",
  "handle": "@SasakiSaku",
  "subscribers": 1000000,
- "fetched_at": "2026-10-29 05:18",
- "fetched_at_ts": 1793218700.9297967,
- "checked_from": "2026-10-22 05:18",
+ "fetched_at": "2026-10-29 10:48",
+ "fetched_at_ts": 1793238483.8008473,
+ "checked_from": "2026-10-22 10:48",
  "initial_fetch_done": true
 }

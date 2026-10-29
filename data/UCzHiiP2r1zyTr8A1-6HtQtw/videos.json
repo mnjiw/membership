@@ -1096,17 +1096,27 @@
   "GhIcxzLaIMw": {
    "id": "GhIcxzLaIMw",
    "title": "【1時間耐久】ちょっといい日/山田龍一郎 【にじさんじ】",
-   "status": "error",
-   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
-   "failed_since_ts": 1793219195.0838737
+   "kind": "premiere",
+   "start_ts": 1793178129.179296,
+   "start_jst": "2026-10-28 18:02",
+   "duration_sec": 3614,
+   "view_count": 25141,
+   "like_count": 1846,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-10-29 11:02",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "山田龍一郎 / Yamada Ryuichiro【にじさんじ】",
  "channel_id": "UCzHiiP2r1zyTr8A1-6HtQtw",
  "handle": "@YamadaRyuichiro",
  "subscribers": 168000,
- "fetched_at": "2026-10-29 05:26",
- "fetched_at_ts": 1793219195.0838737,
- "checked_from": "2026-10-22 05:26",
+ "fetched_at": "2026-10-29 11:01",
+ "fetched_at_ts": 1793239317.406372,
+ "checked_from": "2026-10-22 11:01",
  "initial_fetch_done": true
 }

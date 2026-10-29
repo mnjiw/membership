@@ -3,19 +3,19 @@
  "channel_id": "UCtC3B1n4XMiJmrDtu1Ni5qw",
  "handle": "@NanaseSuzuna",
  "subscribers": 319000,
- "fetched_at": "2026-10-29 05:24",
- "generated_at": "2026-10-29 05:24",
+ "fetched_at": "2026-10-29 10:56",
+ "generated_at": "2026-10-29 10:57",
  "period": {
-  "from": "2026-09-29 05:24",
-  "to": "2026-10-29 05:24",
+  "from": "2026-09-29 10:56",
+  "to": "2026-10-29 10:56",
   "days": 30
  },
- "streams_analyzed": 31,
+ "streams_analyzed": 32,
  "streams_missed": 3,
- "unique_chatters": 10924,
- "members_confirmed": 1608,
+ "unique_chatters": 11090,
+ "members_confirmed": 1618,
  "member_classes": {
-  "unknown": 1267,
+  "unknown": 1277,
   "known": 163,
   "gift": 178
  },
@@ -23,17 +23,17 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 410
+   "members": 412
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 316
+   "members": 321
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 146
+   "members": 147
   },
   {
    "months": 12,
@@ -43,7 +43,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 290
+   "members": 292
   }
  ],
  "events": {
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 163,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1267.0,
-   "estimated_members": 1430.0,
+   "allocated_unknown": 1277.0,
+   "estimated_members": 1440.0,
    "monthly_net_confirmed": 50826,
-   "monthly_net_estimated": 445900
+   "monthly_net_estimated": 449018
   }
  ],
  "revenue": {
-  "monthly_low": 445900,
-  "monthly_est": 445900,
+  "monthly_low": 449018,
+  "monthly_est": 449018,
   "gift_once": 57998,
-  "total_low": 503898,
-  "total_est": 503898,
-  "paying_members": 1430,
+  "total_low": 507016,
+  "total_est": 507016,
+  "paying_members": 1440,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -392,6 +392,16 @@
    "member_chatters": 421,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "gQ2RH24sGuc",
+   "start": "2026-10-29 07:02",
+   "title": "【朝活】おはすず10月29日（木）＃606【七瀬すず菜/にじさんじ】",
+   "kind": "配信",
+   "chatters": 1279,
+   "member_chatters": 411,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -533,28 +543,28 @@
     "from": "2026-10-01",
     "to": "2026-10-29"
    },
-   "streams_analyzed": 30,
+   "streams_analyzed": 31,
    "streams_missed": 3,
-   "unique_chatters": 10789,
-   "members_confirmed": 1550,
+   "unique_chatters": 10956,
+   "members_confirmed": 1560,
    "member_classes": {
-    "unknown": 1272,
+    "unknown": 1282,
     "known": 157,
     "gift": 121
    },
-   "long_term_members": 733,
+   "long_term_members": 735,
    "badges": [
     {
      "months": 0,
-     "members": 355
+     "members": 357
     },
     {
      "months": 2,
-     "members": 316
+     "members": 321
     },
     {
      "months": 6,
-     "members": 146
+     "members": 147
     },
     {
      "months": 12,
@@ -562,7 +572,7 @@
     },
     {
      "months": 24,
-     "members": 288
+     "members": 290
     }
    ],
    "events": {
@@ -576,15 +586,15 @@
      "tier": "すずふぁーむ",
      "price": 490,
      "confirmed_members": 157,
-     "estimated_members": 1429.0
+     "estimated_members": 1439.0
     }
    ],
    "revenue": {
-    "monthly_low": 445588,
-    "monthly_est": 445588,
+    "monthly_low": 448706,
+    "monthly_est": 448706,
     "gift_once": 39289
    },
-   "avg_member_chatters": 382.8,
+   "avg_member_chatters": 383.7,
    "partial": true,
    "finalized": false
   }
