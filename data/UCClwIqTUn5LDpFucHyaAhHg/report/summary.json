@@ -3,15 +3,15 @@
  "channel_id": "UCClwIqTUn5LDpFucHyaAhHg",
  "handle": "@LeeRoha",
  "subscribers": 110000,
- "fetched_at": "2026-10-29 10:53",
- "generated_at": "2026-10-29 10:53",
+ "fetched_at": "2026-10-30 05:25",
+ "generated_at": "2026-10-30 05:25",
  "period": {
-  "from": "2026-09-29 10:53",
-  "to": "2026-10-29 10:53",
+  "from": "2026-09-30 05:25",
+  "to": "2026-10-30 05:25",
   "days": 30
  },
  "streams_analyzed": 14,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 224,
  "members_confirmed": 51,
  "member_classes": {
@@ -240,7 +240,20 @@
    "gifted_total": 1
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "97ln2851hh8",
+   "start": "2026-10-29 00:00",
+   "title": "【スプラトゥーン3】初めましてスプラトゥーン　[にじさんじ/イロハ]",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 412,
+   "view_count": 11611
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -319,10 +332,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-29"
+    "to": "2026-10-30"
    },
    "streams_analyzed": 14,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 224,
    "members_confirmed": 51,
    "member_classes": {

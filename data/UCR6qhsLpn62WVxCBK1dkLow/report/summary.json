@@ -3,15 +3,15 @@
  "channel_id": "UCR6qhsLpn62WVxCBK1dkLow",
  "handle": "@EnnaAlouette",
  "subscribers": 644000,
- "fetched_at": "2026-10-29 10:59",
- "generated_at": "2026-10-29 10:59",
+ "fetched_at": "2026-10-30 05:31",
+ "generated_at": "2026-10-30 05:31",
  "period": {
-  "from": "2026-09-29 10:59",
-  "to": "2026-10-29 10:59",
+  "from": "2026-09-30 05:31",
+  "to": "2026-10-30 05:31",
   "days": 30
  },
  "streams_analyzed": 8,
- "streams_missed": 1,
+ "streams_missed": 0,
  "unique_chatters": 1429,
  "members_confirmed": 356,
  "member_classes": {
@@ -179,32 +179,8 @@
    "gifted_total": 2
   }
  ],
- "missed_streams": [
-  {
-   "video_id": "u1JjEEgd0gI",
-   "start": "2026-09-29 22:00",
-   "title": "zatsu ざつ⭐ (membies)【NIJISANJI  EN | Enna Alouette】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 141,
-   "view_count": null
-  }
- ],
- "members_only_content": [
-  {
-   "video_id": "u1JjEEgd0gI",
-   "start": "2026-09-29 22:00",
-   "title": "zatsu ざつ⭐ (membies)【NIJISANJI  EN | Enna Alouette】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 141,
-   "view_count": null
-  }
- ],
+ "missed_streams": [],
+ "members_only_content": [],
  "history": [
   {
    "month": "2026-09",
@@ -284,7 +260,7 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-29"
+    "to": "2026-10-30"
    },
    "streams_analyzed": 8,
    "streams_missed": 0,

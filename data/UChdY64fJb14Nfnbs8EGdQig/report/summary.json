@@ -3,11 +3,11 @@
  "channel_id": "UChdY64fJb14Nfnbs8EGdQig",
  "handle": "@MurakumoKagetsu",
  "subscribers": 390000,
- "fetched_at": "2026-10-29 10:55",
- "generated_at": "2026-10-29 10:55",
+ "fetched_at": "2026-10-30 05:27",
+ "generated_at": "2026-10-30 05:27",
  "period": {
-  "from": "2026-09-29 10:55",
-  "to": "2026-10-29 10:55",
+  "from": "2026-09-30 05:27",
+  "to": "2026-10-30 05:27",
   "days": 30
  },
  "streams_analyzed": 18,
@@ -276,18 +276,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "VKmGVBrLudo",
-   "start": "2026-09-29 22:33",
-   "title": "【メン限】９月早すぎだろ【にじさんじ/叢雲カゲツ】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 1123,
-   "view_count": null
-  },
-  {
    "video_id": "NELWLoIgxvg",
    "start": "2026-10-28 21:31",
    "title": "【メン限】秋が来た【にじさんじ/叢雲カゲツ】",
@@ -296,29 +284,31 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 935,
+   "like_count": 999,
    "view_count": null
+  },
+  {
+   "video_id": "ZjM7UkkGH94",
+   "start": "2026-10-29 00:00",
+   "title": "【スプラトゥーン3】にじイカ祭り2026に出るドパガキです【叢雲カゲツ/にじさんじ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 1941,
+   "view_count": 94789
   }
  ],
  "members_only_content": [
   {
-   "video_id": "VKmGVBrLudo",
-   "start": "2026-09-29 22:33",
-   "title": "【メン限】９月早すぎだろ【にじさんじ/叢雲カゲツ】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 1123,
-   "view_count": null
-  },
-  {
    "video_id": "NELWLoIgxvg",
    "start": "2026-10-28 21:31",
    "title": "【メン限】秋が来た【にじさんじ/叢雲カゲツ】",
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 935,
+   "like_count": 999,
    "view_count": null
   }
  ],
@@ -396,10 +386,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-29"
+    "to": "2026-10-30"
    },
    "streams_analyzed": 17,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 4388,
    "members_confirmed": 2663,
    "member_classes": {

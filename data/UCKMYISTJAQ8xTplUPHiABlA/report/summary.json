@@ -3,15 +3,15 @@
  "channel_id": "UCKMYISTJAQ8xTplUPHiABlA",
  "handle": "@YashiroKizuku",
  "subscribers": 924000,
- "fetched_at": "2026-10-29 10:48",
- "generated_at": "2026-10-29 10:48",
+ "fetched_at": "2026-10-30 05:18",
+ "generated_at": "2026-10-30 05:19",
  "period": {
-  "from": "2026-09-29 10:48",
-  "to": "2026-10-29 10:48",
+  "from": "2026-09-30 05:18",
+  "to": "2026-10-30 05:18",
   "days": 30
  },
  "streams_analyzed": 14,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 13319,
  "members_confirmed": 957,
  "member_classes": {
@@ -213,8 +213,32 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
- "members_only_content": [],
+ "missed_streams": [
+  {
+   "video_id": "Xc5K-bzyTBk",
+   "start": "2026-10-29 22:05",
+   "title": "【メンバー限定】参加型スプラトゥーン３　大会もあるし…な！",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 200,
+   "view_count": null
+  }
+ ],
+ "members_only_content": [
+  {
+   "video_id": "Xc5K-bzyTBk",
+   "start": "2026-10-29 22:05",
+   "title": "【メンバー限定】参加型スプラトゥーン３　大会もあるし…な！",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 200,
+   "view_count": null
+  }
+ ],
  "history": [
   {
    "month": "2026-09",
@@ -274,10 +298,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-29"
+    "to": "2026-10-30"
    },
    "streams_analyzed": 14,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 13319,
    "members_confirmed": 957,
    "member_classes": {

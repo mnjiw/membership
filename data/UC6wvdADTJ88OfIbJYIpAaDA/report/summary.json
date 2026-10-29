@@ -3,15 +3,15 @@
  "channel_id": "UC6wvdADTJ88OfIbJYIpAaDA",
  "handle": "@FuwaMinato",
  "subscribers": 1210000,
- "fetched_at": "2026-10-29 10:51",
- "generated_at": "2026-10-29 10:51",
+ "fetched_at": "2026-10-30 05:21",
+ "generated_at": "2026-10-30 05:22",
  "period": {
-  "from": "2026-09-29 10:51",
-  "to": "2026-10-29 10:51",
+  "from": "2026-09-30 05:21",
+  "to": "2026-10-30 05:21",
   "days": 30
  },
  "streams_analyzed": 15,
- "streams_missed": 1,
+ "streams_missed": 0,
  "unique_chatters": 5669,
  "members_confirmed": 2615,
  "member_classes": {
@@ -243,32 +243,8 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [
-  {
-   "video_id": "im8gfRDRF_Y",
-   "start": "2026-09-29 22:32",
-   "title": "【メン限】魂の起床配信【不破湊/にじさんじ】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "不破狂",
-   "like_count": 1257,
-   "view_count": null
-  }
- ],
- "members_only_content": [
-  {
-   "video_id": "im8gfRDRF_Y",
-   "start": "2026-09-29 22:32",
-   "title": "【メン限】魂の起床配信【不破湊/にじさんじ】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "不破狂",
-   "like_count": 1257,
-   "view_count": null
-  }
- ],
+ "missed_streams": [],
+ "members_only_content": [],
  "history": [
   {
    "month": "2026-09",
@@ -343,7 +319,7 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-29"
+    "to": "2026-10-30"
    },
    "streams_analyzed": 14,
    "streams_missed": 0,

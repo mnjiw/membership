@@ -3,19 +3,19 @@
  "channel_id": "UC8Snw5i4eOJXEQqURAK17hQ",
  "handle": "@RaiGalilei",
  "subscribers": 57800,
- "fetched_at": "2026-10-29 10:53",
- "generated_at": "2026-10-29 10:53",
+ "fetched_at": "2026-10-30 05:24",
+ "generated_at": "2026-10-30 05:24",
  "period": {
-  "from": "2026-09-29 10:53",
-  "to": "2026-10-29 10:53",
+  "from": "2026-09-30 05:24",
+  "to": "2026-10-30 05:24",
   "days": 30
  },
- "streams_analyzed": 10,
- "streams_missed": 0,
- "unique_chatters": 203,
- "members_confirmed": 46,
+ "streams_analyzed": 11,
+ "streams_missed": 2,
+ "unique_chatters": 207,
+ "members_confirmed": 47,
  "member_classes": {
-  "unknown": 10,
+  "unknown": 11,
   "known": 5,
   "gift": 31
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 27
+   "members": 28
   },
   {
    "months": 1,
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 5,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 10.0,
-   "estimated_members": 15.0,
+   "allocated_unknown": 11.0,
+   "estimated_members": 16.0,
    "monthly_net_confirmed": 1559,
-   "monthly_net_estimated": 4677
+   "monthly_net_estimated": 4989
   }
  ],
  "revenue": {
-  "monthly_low": 4677,
-  "monthly_est": 4677,
+  "monthly_low": 4989,
+  "monthly_est": 4989,
   "gift_once": 9666,
-  "total_low": 14344,
-  "total_est": 14344,
-  "paying_members": 15,
+  "total_low": 14655,
+  "total_est": 14655,
+  "paying_members": 16,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -187,9 +187,44 @@
    "member_chatters": 11,
    "new_members": 0,
    "gifted_total": 6
+  },
+  {
+   "video_id": "cNA3cnqw1cA",
+   "start": "2026-10-29 23:18",
+   "title": "【Valheim】 Rai Galilei's: \"We woke up after 100x food poisoning from the mass\"【NIJISANJI】",
+   "kind": "配信",
+   "chatters": 26,
+   "member_chatters": 4,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "Ov0PuhW6W64",
+   "start": "2026-10-29 00:00",
+   "title": "【Valheim】 Rai Galilei's: \"We woke up after 100x food poisoning from the mass\" #2【NIJISANJI】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 85,
+   "view_count": 528
+  },
+  {
+   "video_id": "oY5qKTr1zJ4",
+   "start": "2026-10-29 00:00",
+   "title": "【Freetalk】 Rai Galilei's: \"Workilei before plelilei\"【NIJISANJI】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 69,
+   "view_count": 542
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -262,14 +297,14 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-29"
+    "to": "2026-10-30"
    },
-   "streams_analyzed": 9,
-   "streams_missed": 0,
-   "unique_chatters": 191,
-   "members_confirmed": 46,
+   "streams_analyzed": 10,
+   "streams_missed": 2,
+   "unique_chatters": 195,
+   "members_confirmed": 47,
    "member_classes": {
-    "unknown": 10,
+    "unknown": 11,
     "known": 5,
     "gift": 31
    },
@@ -277,7 +312,7 @@
    "badges": [
     {
      "months": 0,
-     "members": 27
+     "members": 28
     },
     {
      "months": 1,
@@ -311,15 +346,15 @@
      "tier": "A.I.D Program",
      "price": 490,
      "confirmed_members": 5,
-     "estimated_members": 15.0
+     "estimated_members": 16.0
     }
    ],
    "revenue": {
-    "monthly_low": 4677,
-    "monthly_est": 4677,
+    "monthly_low": 4989,
+    "monthly_est": 4989,
     "gift_once": 9666
    },
-   "avg_member_chatters": 8.2,
+   "avg_member_chatters": 7.8,
    "partial": true,
    "finalized": false
   }

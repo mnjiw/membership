@@ -3,61 +3,61 @@
  "channel_id": "UCIytNcoz4pWzXfLda0DoULQ",
  "handle": "@ExAlbio",
  "subscribers": 592000,
- "fetched_at": "2026-10-29 10:49",
- "generated_at": "2026-10-29 10:51",
+ "fetched_at": "2026-10-30 05:20",
+ "generated_at": "2026-10-30 05:20",
  "period": {
-  "from": "2026-09-29 10:49",
-  "to": "2026-10-29 10:49",
+  "from": "2026-09-30 05:20",
+  "to": "2026-10-30 05:20",
   "days": 30
  },
- "streams_analyzed": 27,
- "streams_missed": 1,
- "unique_chatters": 9903,
- "members_confirmed": 2974,
+ "streams_analyzed": 26,
+ "streams_missed": 2,
+ "unique_chatters": 9738,
+ "members_confirmed": 2918,
  "member_classes": {
-  "unknown": 2117,
-  "known": 197,
-  "gift": 660
+  "unknown": 2101,
+  "gift": 620,
+  "known": 197
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 880
+   "members": 843
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 97
+   "members": 95
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 330
+   "members": 324
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 471
+   "members": 467
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 607
+   "members": 603
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 589
+   "members": 586
   }
  ],
  "events": {
-  "new_members": 114,
+  "new_members": 113,
   "rejoins": 34,
-  "milestones": 23,
-  "gift_purchases": 33,
-  "gifted_total": 665,
-  "gift_redemptions": 660
+  "milestones": 22,
+  "gift_purchases": 29,
+  "gifted_total": 625,
+  "gift_redemptions": 620
  },
  "tiers_configured": true,
  "tiers": [
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 197,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2117.0,
-   "estimated_members": 2314.0,
+   "allocated_unknown": 2101.0,
+   "estimated_members": 2298.0,
    "monthly_net_confirmed": 61428,
-   "monthly_net_estimated": 721547
+   "monthly_net_estimated": 716558
   }
  ],
  "revenue": {
-  "monthly_low": 721547,
-  "monthly_est": 721547,
-  "gift_once": 207359,
-  "total_low": 928906,
-  "total_est": 928906,
-  "paying_members": 2314,
+  "monthly_low": 716558,
+  "monthly_est": 716558,
+  "gift_once": 194886,
+  "total_low": 911445,
+  "total_est": 911445,
+  "paying_members": 2298,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "jP7qYB95914",
-   "start": "2026-09-29 18:24",
-   "title": "新しく来たARK鯖で超久しぶりの新ラグナロク完全攻略目指すぞ！！『 ARK: Survival Ascended 』＃11【 エビオ/にじさんじ 】",
-   "kind": "配信",
-   "chatters": 1332,
-   "member_chatters": 613,
-   "new_members": 1,
-   "gifted_total": 40
-  },
   {
    "video_id": "s2Xwts6TZgg",
    "start": "2026-10-01 18:10",
@@ -369,7 +359,19 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 870,
+   "like_count": 872,
+   "view_count": null
+  },
+  {
+   "video_id": "H6GChn1b1IE",
+   "start": "2026-10-29 23:14",
+   "title": "みなさん調子どうですか？",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 476,
    "view_count": null
   }
  ],
@@ -381,7 +383,17 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 870,
+   "like_count": 872,
+   "view_count": null
+  },
+  {
+   "video_id": "H6GChn1b1IE",
+   "start": "2026-10-29 23:14",
+   "title": "みなさん調子どうですか？",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 476,
    "view_count": null
   }
  ],
@@ -456,10 +468,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-29"
+    "to": "2026-10-30"
    },
    "streams_analyzed": 26,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 9738,
    "members_confirmed": 2918,
    "member_classes": {

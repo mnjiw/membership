@@ -3,36 +3,36 @@
  "channel_id": "UCryOPk2GZ1meIDt53tL30Tw",
  "handle": "@SuzukiMasaru",
  "subscribers": 332000,
- "fetched_at": "2026-10-29 10:48",
- "generated_at": "2026-10-29 10:49",
+ "fetched_at": "2026-10-30 05:18",
+ "generated_at": "2026-10-30 05:19",
  "period": {
-  "from": "2026-09-29 10:48",
-  "to": "2026-10-29 10:48",
+  "from": "2026-09-30 05:18",
+  "to": "2026-10-30 05:18",
   "days": 30
  },
  "streams_analyzed": 9,
  "streams_missed": 5,
- "unique_chatters": 510,
- "members_confirmed": 175,
+ "unique_chatters": 487,
+ "members_confirmed": 167,
  "member_classes": {
-  "unknown": 170,
+  "unknown": 162,
   "known": 5
  },
  "badges": [
   {
-   "months": 0,
-   "label": "新規(1ヶ月未満)",
+   "months": 1,
+   "label": "1ヶ月",
    "members": 1
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 10
+   "members": 9
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 164
+   "members": 157
   }
  ],
  "events": {
@@ -51,19 +51,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 5,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 170.0,
-   "estimated_members": 175.0,
+   "allocated_unknown": 162.0,
+   "estimated_members": 167.0,
    "monthly_net_confirmed": 1559,
-   "monthly_net_estimated": 54568
+   "monthly_net_estimated": 52074
   }
  ],
  "revenue": {
-  "monthly_low": 54568,
-  "monthly_est": 54568,
+  "monthly_low": 52074,
+  "monthly_est": 52074,
   "gift_once": 0,
-  "total_low": 54568,
-  "total_est": 54568,
-  "paying_members": 175,
+  "total_low": 52074,
+  "total_est": 52074,
+  "paying_members": 167,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -72,16 +72,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "D3cMXNoKNDo",
-   "start": "2026-09-30 00:05",
-   "title": "🛑【Binaural】ひそひそお喋り＆文玩胡桃 2026.9.30【にじさんじ/鈴木勝】",
-   "kind": "配信",
-   "chatters": 140,
-   "member_chatters": 72,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "WyJLKoed0Xs",
    "start": "2026-10-07 00:04",
@@ -159,6 +149,16 @@
    "kind": "配信",
    "chatters": 131,
    "member_chatters": 79,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "QKvA0aBy_fI",
+   "start": "2026-10-29 22:04",
+   "title": "#3【Poppy Playtime 5】裏切り者を許すな！たのしい工場見学【鈴木勝/にじさんじ】",
+   "kind": "配信",
+   "chatters": 83,
+   "member_chatters": 47,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -329,11 +329,11 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-29"
+    "to": "2026-10-30"
    },
-   "streams_analyzed": 8,
+   "streams_analyzed": 9,
    "streams_missed": 5,
-   "unique_chatters": 470,
+   "unique_chatters": 487,
    "members_confirmed": 167,
    "member_classes": {
     "unknown": 162,
@@ -342,7 +342,7 @@
    "long_term_members": 0,
    "badges": [
     {
-     "months": 0,
+     "months": 1,
      "members": 1
     },
     {
@@ -373,7 +373,7 @@
     "monthly_est": 52074,
     "gift_once": 0
    },
-   "avg_member_chatters": 66.8,
+   "avg_member_chatters": 64.6,
    "partial": true,
    "finalized": false
   }

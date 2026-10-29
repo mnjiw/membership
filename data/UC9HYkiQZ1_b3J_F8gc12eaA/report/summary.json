@@ -3,26 +3,26 @@
  "channel_id": "UC9HYkiQZ1_b3J_F8gc12eaA",
  "handle": "@TsukaharaDaichi_Y4T4",
  "subscribers": 120000,
- "fetched_at": "2026-10-29 10:58",
- "generated_at": "2026-10-29 10:59",
+ "fetched_at": "2026-10-30 05:30",
+ "generated_at": "2026-10-30 05:31",
  "period": {
-  "from": "2026-09-29 10:58",
-  "to": "2026-10-29 10:58",
+  "from": "2026-09-30 05:30",
+  "to": "2026-10-30 05:30",
   "days": 30
  },
  "streams_analyzed": 26,
  "streams_missed": 1,
- "unique_chatters": 1672,
- "members_confirmed": 288,
+ "unique_chatters": 1744,
+ "members_confirmed": 289,
  "member_classes": {
-  "unknown": 259,
+  "unknown": 260,
   "known": 29
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 44
+   "members": 45
   },
   {
    "months": 1,
@@ -51,19 +51,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 29,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 259.0,
-   "estimated_members": 288.0,
+   "allocated_unknown": 260.0,
+   "estimated_members": 289.0,
    "monthly_net_confirmed": 9043,
-   "monthly_net_estimated": 89804
+   "monthly_net_estimated": 90115
   }
  ],
  "revenue": {
-  "monthly_low": 89804,
-  "monthly_est": 89804,
+  "monthly_low": 90115,
+  "monthly_est": 90115,
   "gift_once": 0,
-  "total_low": 89804,
-  "total_est": 89804,
-  "paying_members": 288,
+  "total_low": 90115,
+  "total_est": 90115,
+  "paying_members": 289,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -72,16 +72,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "cpV8dZfJz3I",
-   "start": "2026-09-29 18:02",
-   "title": "【SEKIRO/隻狼】もうチャキ狼とは言わせない。脳筋が完全初見で挑む。#2 【塚原大地 / にじさんじ】",
-   "kind": "配信",
-   "chatters": 218,
-   "member_chatters": 61,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "pBvUWHOQDmo",
    "start": "2026-09-30 18:02",
@@ -331,6 +321,16 @@
    "member_chatters": 98,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "pHDJRam6BRU",
+   "start": "2026-10-29 23:00",
+   "title": "【スプラトゥーン3】BIGなイカに俺はなる。【塚原大地 / にじさんじ】",
+   "kind": "配信",
+   "chatters": 247,
+   "member_chatters": 83,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -406,21 +406,21 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-29"
+    "to": "2026-10-30"
    },
-   "streams_analyzed": 24,
+   "streams_analyzed": 25,
    "streams_missed": 1,
-   "unique_chatters": 1574,
-   "members_confirmed": 286,
+   "unique_chatters": 1696,
+   "members_confirmed": 289,
    "member_classes": {
-    "unknown": 258,
-    "known": 28
+    "unknown": 260,
+    "known": 29
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 43
+     "members": 45
     },
     {
      "months": 1,
@@ -428,11 +428,11 @@
     },
     {
      "months": 2,
-     "members": 215
+     "members": 216
     }
    ],
    "events": {
-    "new_members": 18,
+    "new_members": 19,
     "rejoins": 8,
     "milestones": 0,
     "gifted_total": 0
@@ -441,16 +441,16 @@
     {
      "tier": "つかズ",
      "price": 490,
-     "confirmed_members": 28,
-     "estimated_members": 286.0
+     "confirmed_members": 29,
+     "estimated_members": 289.0
     }
    ],
    "revenue": {
-    "monthly_low": 89180,
-    "monthly_est": 89180,
+    "monthly_low": 90115,
+    "monthly_est": 90115,
     "gift_once": 0
    },
-   "avg_member_chatters": 76.4,
+   "avg_member_chatters": 76.7,
    "partial": true,
    "finalized": false
   }

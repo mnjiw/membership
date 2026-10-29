@@ -3,20 +3,20 @@
  "channel_id": "UCpRXCTyNNa-MnjhK6gisnRw",
  "handle": "@Gaon",
  "subscribers": 59700,
- "fetched_at": "2026-10-29 10:53",
- "generated_at": "2026-10-29 10:53",
+ "fetched_at": "2026-10-30 05:25",
+ "generated_at": "2026-10-30 05:25",
  "period": {
-  "from": "2026-09-29 10:53",
-  "to": "2026-10-29 10:53",
+  "from": "2026-09-30 05:25",
+  "to": "2026-10-30 05:25",
   "days": 30
  },
- "streams_analyzed": 12,
- "streams_missed": 1,
- "unique_chatters": 578,
+ "streams_analyzed": 11,
+ "streams_missed": 2,
+ "unique_chatters": 575,
  "members_confirmed": 115,
  "member_classes": {
-  "known": 26,
   "unknown": 78,
+  "known": 26,
   "gift": 11
  },
  "badges": [
@@ -110,16 +110,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "-hieBAFsJ6w",
-   "start": "2026-09-29 21:00",
-   "title": "【Splatoon3】ひ！さ！び！さ！ス！プ！ラ！【にじさん | ガオン】",
-   "kind": "配信",
-   "chatters": 21,
-   "member_chatters": 14,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "svjiMTXAjMc",
    "start": "2026-09-30 21:30",
@@ -243,6 +233,18 @@
    "members_level": "Gaide🚩취업센터 就業センター",
    "like_count": 25,
    "view_count": null
+  },
+  {
+   "video_id": "XJO-H-Ivc88",
+   "start": "2026-10-29 00:00",
+   "title": "【#にじイカ祭り2026】【Splatoon3】今年出るぞ！ 【にじさんじ | ガオン】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 127,
+   "view_count": 1726
   }
  ],
  "members_only_content": [
@@ -340,10 +342,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-29"
+    "to": "2026-10-30"
    },
    "streams_analyzed": 10,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 572,
    "members_confirmed": 114,
    "member_classes": {

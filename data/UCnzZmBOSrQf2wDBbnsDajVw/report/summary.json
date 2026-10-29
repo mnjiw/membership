@@ -3,27 +3,27 @@
  "channel_id": "UCnzZmBOSrQf2wDBbnsDajVw",
  "handle": "@OhJiyu",
  "subscribers": 60700,
- "fetched_at": "2026-10-29 10:53",
- "generated_at": "2026-10-29 10:53",
+ "fetched_at": "2026-10-30 05:25",
+ "generated_at": "2026-10-30 05:25",
  "period": {
-  "from": "2026-09-29 10:53",
-  "to": "2026-10-29 10:53",
+  "from": "2026-09-30 05:25",
+  "to": "2026-10-30 05:25",
   "days": 30
  },
- "streams_analyzed": 11,
- "streams_missed": 2,
+ "streams_analyzed": 10,
+ "streams_missed": 3,
  "unique_chatters": 126,
- "members_confirmed": 91,
+ "members_confirmed": 80,
  "member_classes": {
-  "unknown": 19,
   "known": 9,
-  "gift": 63
+  "unknown": 19,
+  "gift": 52
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 64
+   "members": 53
   },
   {
    "months": 1,
@@ -55,9 +55,9 @@
   "new_members": 0,
   "rejoins": 1,
   "milestones": 7,
-  "gift_purchases": 8,
-  "gifted_total": 63,
-  "gift_redemptions": 63
+  "gift_purchases": 5,
+  "gifted_total": 52,
+  "gift_redemptions": 52
  },
  "tiers_configured": true,
  "tiers": [
@@ -76,9 +76,9 @@
  "revenue": {
   "monthly_low": 8731,
   "monthly_est": 8731,
-  "gift_once": 19645,
-  "total_low": 28375,
-  "total_est": 28375,
+  "gift_once": 16215,
+  "total_low": 24945,
+  "total_est": 24945,
   "paying_members": 28,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -88,26 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "BXoWh4iYVJ0",
-   "start": "2026-09-29 16:01",
-   "title": "【고요한 시골 정원 이야기】19. 아직 엔딩도 못봤고 1년차인데 업데이트 왔다【스포일러 주의!!!】",
-   "kind": "配信",
-   "chatters": 15,
-   "member_chatters": 11,
-   "new_members": 0,
-   "gifted_total": 5
-  },
-  {
-   "video_id": "Y_SAzU6gHX4",
-   "start": "2026-09-29 21:00",
-   "title": "【고요한 시골 정원 이야기】20. 안녕하세요? 광산을 파먹으러 왔습니다.【스포일러 주의!!!】",
-   "kind": "配信",
-   "chatters": 11,
-   "member_chatters": 12,
-   "new_members": 0,
-   "gifted_total": 6
-  },
   {
    "video_id": "rcdsBPgYQsQ",
    "start": "2026-09-30 16:47",
@@ -197,6 +177,16 @@
    "member_chatters": 6,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "xQkjP6IFgZ0",
+   "start": "2026-10-29 15:30",
+   "title": "【명일방주】16지역 꽈베기를 합니다【니지산지/지유】",
+   "kind": "配信",
+   "chatters": 12,
+   "member_chatters": 3,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -223,6 +213,18 @@
    "members_level": "방안의 아기새냥이/部屋の中の子猫鳥",
    "like_count": 13,
    "view_count": null
+  },
+  {
+   "video_id": "i-mp2Wsth04",
+   "start": "2026-10-29 00:00",
+   "title": "【명일방주】미뤄뒀던 하드 스테이지를 밀 때가 왔습니다【니지산지/지유】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": null,
+   "view_count": 943
   }
  ],
  "members_only_content": [
@@ -314,11 +316,11 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-29"
+    "to": "2026-10-30"
    },
-   "streams_analyzed": 8,
-   "streams_missed": 1,
-   "unique_chatters": 117,
+   "streams_analyzed": 9,
+   "streams_missed": 2,
+   "unique_chatters": 122,
    "members_confirmed": 80,
    "member_classes": {
     "known": 9,
@@ -371,7 +373,7 @@
     "monthly_est": 8731,
     "gift_once": 16215
    },
-   "avg_member_chatters": 13.8,
+   "avg_member_chatters": 12.6,
    "partial": true,
    "finalized": false
   }

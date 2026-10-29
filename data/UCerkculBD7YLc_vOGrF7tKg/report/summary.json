@@ -3,26 +3,26 @@
  "channel_id": "UCerkculBD7YLc_vOGrF7tKg",
  "handle": "@MatsukaiMao",
  "subscribers": 315000,
- "fetched_at": "2026-10-29 10:51",
- "generated_at": "2026-10-29 10:51",
+ "fetched_at": "2026-10-30 05:21",
+ "generated_at": "2026-10-30 05:22",
  "period": {
-  "from": "2026-09-29 10:51",
-  "to": "2026-10-29 10:51",
+  "from": "2026-09-30 05:21",
+  "to": "2026-10-30 05:21",
   "days": 30
  },
  "streams_analyzed": 11,
  "streams_missed": 2,
- "unique_chatters": 1092,
- "members_confirmed": 172,
+ "unique_chatters": 1084,
+ "members_confirmed": 170,
  "member_classes": {
-  "unknown": 159,
+  "unknown": 157,
   "known": 13
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 5
+   "members": 4
   },
   {
    "months": 1,
@@ -32,7 +32,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 166
+   "members": 165
   }
  ],
  "events": {
@@ -51,19 +51,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 13,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 159.0,
-   "estimated_members": 172.0,
+   "allocated_unknown": 157.0,
+   "estimated_members": 170.0,
    "monthly_net_confirmed": 4054,
-   "monthly_net_estimated": 53633
+   "monthly_net_estimated": 53009
   }
  ],
  "revenue": {
-  "monthly_low": 53633,
-  "monthly_est": 53633,
+  "monthly_low": 53009,
+  "monthly_est": 53009,
   "gift_once": 0,
-  "total_low": 53633,
-  "total_est": 53633,
-  "paying_members": 172,
+  "total_low": 53009,
+  "total_est": 53009,
+  "paying_members": 170,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -72,16 +72,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "b1IjMJ4bO6I",
-   "start": "2026-09-30 00:03",
-   "title": "【Don't Drop The Cake】落とすと即死❓💦深夜のケーキ運び【魔使マオ/にじさんじ】",
-   "kind": "配信",
-   "chatters": 162,
-   "member_chatters": 70,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "01WEaW0d-L4",
    "start": "2026-09-30 23:04",
@@ -181,6 +171,16 @@
    "member_chatters": 81,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "SRm-xGoiU_M",
+   "start": "2026-10-29 20:03",
+   "title": "【インボキア】呪いのボードゲーム💦ジュマンジ⁉【夜見れな/樋口楓/花畑チャイカ/魔使マオ/にじさんじ】",
+   "kind": "配信",
+   "chatters": 121,
+   "member_chatters": 66,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -205,7 +205,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 66,
+   "like_count": 72,
    "view_count": null
   }
  ],
@@ -227,7 +227,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 66,
+   "like_count": 72,
    "view_count": null
   }
  ],
@@ -289,14 +289,14 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-29"
+    "to": "2026-10-30"
    },
-   "streams_analyzed": 9,
+   "streams_analyzed": 10,
    "streams_missed": 1,
-   "unique_chatters": 930,
-   "members_confirmed": 161,
+   "unique_chatters": 954,
+   "members_confirmed": 163,
    "member_classes": {
-    "unknown": 148,
+    "unknown": 150,
     "known": 13
    },
    "long_term_members": 0,
@@ -307,7 +307,7 @@
     },
     {
      "months": 2,
-     "members": 157
+     "members": 159
     }
    ],
    "events": {
@@ -321,15 +321,15 @@
      "tier": "マオのゆかいな仲間たち",
      "price": 490,
      "confirmed_members": 13,
-     "estimated_members": 161.0
+     "estimated_members": 163.0
     }
    ],
    "revenue": {
-    "monthly_low": 50203,
-    "monthly_est": 50203,
+    "monthly_low": 50826,
+    "monthly_est": 50826,
     "gift_once": 0
    },
-   "avg_member_chatters": 71.3,
+   "avg_member_chatters": 70.8,
    "partial": true,
    "finalized": false
   }

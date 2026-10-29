@@ -2,20 +2,20 @@
  "channel": "ぷりん・らら・もーど / Purin･Lala･Mode【にじさんじ】",
  "channel_id": "UCIxiVz8JLYTMXexmLh92S6A",
  "handle": "@PurinLalaMode",
- "subscribers": 87300,
- "fetched_at": "2026-10-29 10:59",
- "generated_at": "2026-10-29 10:59",
+ "subscribers": 87400,
+ "fetched_at": "2026-10-30 05:31",
+ "generated_at": "2026-10-30 05:31",
  "period": {
-  "from": "2026-09-29 10:59",
-  "to": "2026-10-29 10:59",
+  "from": "2026-09-30 05:31",
+  "to": "2026-10-30 05:31",
   "days": 30
  },
- "streams_analyzed": 22,
- "streams_missed": 1,
- "unique_chatters": 986,
- "members_confirmed": 150,
+ "streams_analyzed": 21,
+ "streams_missed": 2,
+ "unique_chatters": 949,
+ "members_confirmed": 147,
  "member_classes": {
-  "unknown": 129,
+  "unknown": 126,
   "known": 15,
   "gift": 6
  },
@@ -23,12 +23,12 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 29
+   "members": 28
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 68
+   "members": 66
   },
   {
    "months": 2,
@@ -52,19 +52,19 @@
    "net_per_member": 439.1,
    "confirmed_members": 15,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 129.0,
-   "estimated_members": 144.0,
+   "allocated_unknown": 126.0,
+   "estimated_members": 141.0,
    "monthly_net_confirmed": 6586,
-   "monthly_net_estimated": 63229
+   "monthly_net_estimated": 61912
   }
  ],
  "revenue": {
-  "monthly_low": 63229,
-  "monthly_est": 63229,
+  "monthly_low": 61912,
+  "monthly_est": 61912,
   "gift_once": 2635,
-  "total_low": 65864,
-  "total_est": 65864,
-  "paying_members": 144,
+  "total_low": 64546,
+  "total_est": 64546,
+  "paying_members": 141,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "PdaDZeEXPC8",
-   "start": "2026-09-29 22:01",
-   "title": "【Dressmaker】深夜のちるテイラーぷりん・しょくにん・もーどさん🍮💌【ぷりん・らら・もーど / にじさんじ】",
-   "kind": "配信",
-   "chatters": 101,
-   "member_chatters": 36,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "14YVx7FwRMI",
    "start": "2026-10-01 00:01",
@@ -306,6 +296,18 @@
    "members_level": "",
    "like_count": 51,
    "view_count": null
+  },
+  {
+   "video_id": "WtCrXduALME",
+   "start": "2026-10-29 00:00",
+   "title": "【ピクミン２#２】完全初見！ヘビガラスの穴から！借金のこり50％ピクミンの犠牲をなるべく少なく会社の危機を救うぞー！💖🍮💌【ぷりん・らら・もーど / にじさんじ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 567,
+   "view_count": 11631
   }
  ],
  "members_only_content": [
@@ -375,10 +377,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-29"
+    "to": "2026-10-30"
    },
    "streams_analyzed": 21,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 949,
    "members_confirmed": 147,
    "member_classes": {

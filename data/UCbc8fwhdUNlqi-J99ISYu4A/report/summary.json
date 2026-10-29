@@ -3,27 +3,27 @@
  "channel_id": "UCbc8fwhdUNlqi-J99ISYu4A",
  "handle": "@BelmondBanderas",
  "subscribers": 493000,
- "fetched_at": "2026-10-29 10:49",
- "generated_at": "2026-10-29 10:49",
+ "fetched_at": "2026-10-30 05:19",
+ "generated_at": "2026-10-30 05:20",
  "period": {
-  "from": "2026-09-29 10:49",
-  "to": "2026-10-29 10:49",
+  "from": "2026-09-30 05:19",
+  "to": "2026-10-30 05:19",
   "days": 30
  },
  "streams_analyzed": 18,
  "streams_missed": 3,
- "unique_chatters": 1294,
+ "unique_chatters": 1288,
  "members_confirmed": 197,
  "member_classes": {
-  "unknown": 163,
-  "known": 24,
+  "unknown": 164,
+  "known": 23,
   "gift": 10
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 24
+   "members": 23
   },
   {
    "months": 1,
@@ -48,11 +48,11 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 110
+   "members": 111
   }
  ],
  "events": {
-  "new_members": 5,
+  "new_members": 4,
   "rejoins": 6,
   "milestones": 8,
   "gift_purchases": 1,
@@ -66,52 +66,52 @@
    "price": 140,
    "net_per_member": 89.1,
    "confirmed_members": 3,
-   "share_of_confirmed_pct": 12.5,
-   "allocated_unknown": 20.4,
-   "estimated_members": 23.4,
+   "share_of_confirmed_pct": 13.0,
+   "allocated_unknown": 21.4,
+   "estimated_members": 24.4,
    "monthly_net_confirmed": 267,
-   "monthly_net_estimated": 2082
+   "monthly_net_estimated": 2173
   },
   {
    "tier": "常連さんプラン",
    "price": 490,
    "net_per_member": 311.8,
    "confirmed_members": 11,
-   "share_of_confirmed_pct": 45.8,
-   "allocated_unknown": 74.7,
-   "estimated_members": 85.7,
+   "share_of_confirmed_pct": 47.8,
+   "allocated_unknown": 78.4,
+   "estimated_members": 89.4,
    "monthly_net_confirmed": 3430,
-   "monthly_net_estimated": 26725
+   "monthly_net_estimated": 27887
   },
   {
    "tier": "お得意さんプラン",
    "price": 990,
    "net_per_member": 630.0,
-   "confirmed_members": 9,
-   "share_of_confirmed_pct": 37.5,
-   "allocated_unknown": 61.1,
-   "estimated_members": 70.1,
-   "monthly_net_confirmed": 5670,
-   "monthly_net_estimated": 44179
+   "confirmed_members": 8,
+   "share_of_confirmed_pct": 34.8,
+   "allocated_unknown": 57.0,
+   "estimated_members": 65.0,
+   "monthly_net_confirmed": 5040,
+   "monthly_net_estimated": 40977
   },
   {
    "tier": "VIPプラン",
    "price": 3490,
    "net_per_member": 2220.9,
    "confirmed_members": 1,
-   "share_of_confirmed_pct": 4.2,
-   "allocated_unknown": 6.8,
-   "estimated_members": 7.8,
+   "share_of_confirmed_pct": 4.3,
+   "allocated_unknown": 7.1,
+   "estimated_members": 8.1,
    "monthly_net_confirmed": 2221,
-   "monthly_net_estimated": 17305
+   "monthly_net_estimated": 18057
   }
  ],
  "revenue": {
-  "monthly_low": 26110,
-  "monthly_est": 90291,
+  "monthly_low": 25569,
+  "monthly_est": 89095,
   "gift_once": 891,
-  "total_low": 27001,
-  "total_est": 91182,
+  "total_low": 26460,
+  "total_est": 89986,
   "paying_members": 187,
   "single_tier": false,
   "tax_rate": 0.1,
@@ -121,16 +121,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "AqZ9h9sOWHM",
-   "start": "2026-09-29 21:00",
-   "title": "【同時視聴】うしおととら ３４～３９話をみんなで観よう【にじさんじ/ベルモンド・バンデラス】",
-   "kind": "配信",
-   "chatters": 70,
-   "member_chatters": 28,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "fDoLgSUM9d8",
    "start": "2026-10-02 23:05",
@@ -300,21 +290,19 @@
    "member_chatters": 79,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "h8eo7al4hgE",
+   "start": "2026-10-29 21:01",
+   "title": "【同時視聴】からくりサーカス ６～１０話をみんなで観よう【にじさんじ/ベルモンド・バンデラス】",
+   "kind": "配信",
+   "chatters": 70,
+   "member_chatters": 31,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
-  {
-   "video_id": "1SNLFegruQk",
-   "start": "2026-09-30 00:07",
-   "title": "【メン限PowerWash Simulator 2】#3 月末は水浸し【にじさんじ/ベルモンド・バンデラス】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "常連さんプラン",
-   "like_count": 68,
-   "view_count": null
-  },
   {
    "video_id": "PGZfQwjgLQQ",
    "start": "2026-10-22 00:01",
@@ -324,7 +312,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "常連さんプラン",
-   "like_count": 66,
+   "like_count": 67,
    "view_count": null
   },
   {
@@ -337,28 +325,30 @@
    "members_only": true,
    "members_level": "お得意さんプラン",
    "like_count": 29,
+   "view_count": null
+  },
+  {
+   "video_id": "PNuK2DzkV2M",
+   "start": "2026-10-30 00:03",
+   "title": "【メン限PowerWash Simulator 2】#4 10月末のお掃除【にじさんじ/ベルモンド・バンデラス】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "常連さんプラン",
+   "like_count": 54,
    "view_count": null
   }
  ],
  "members_only_content": [
   {
-   "video_id": "1SNLFegruQk",
-   "start": "2026-09-30 00:07",
-   "title": "【メン限PowerWash Simulator 2】#3 月末は水浸し【にじさんじ/ベルモンド・バンデラス】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "常連さんプラン",
-   "like_count": 68,
-   "view_count": null
-  },
-  {
    "video_id": "PGZfQwjgLQQ",
    "start": "2026-10-22 00:01",
    "title": "【メン限配信】2026年10月の作業がてら雑談配信【にじさんじ/ベルモンド・バンデラス】",
    "kind": "live",
    "status": "members_only",
    "members_level": "常連さんプラン",
-   "like_count": 66,
+   "like_count": 67,
    "view_count": null
   },
   {
@@ -369,6 +359,16 @@
    "status": "members_only",
    "members_level": "お得意さんプラン",
    "like_count": 29,
+   "view_count": null
+  },
+  {
+   "video_id": "PNuK2DzkV2M",
+   "start": "2026-10-30 00:03",
+   "title": "【メン限PowerWash Simulator 2】#4 10月末のお掃除【にじさんじ/ベルモンド・バンデラス】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "常連さんプラン",
+   "like_count": 54,
    "view_count": null
   }
  ],
@@ -461,18 +461,18 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-29"
+    "to": "2026-10-30"
    },
-   "streams_analyzed": 17,
-   "streams_missed": 2,
-   "unique_chatters": 1277,
-   "members_confirmed": 196,
+   "streams_analyzed": 18,
+   "streams_missed": 3,
+   "unique_chatters": 1288,
+   "members_confirmed": 197,
    "member_classes": {
-    "unknown": 163,
+    "unknown": 164,
     "known": 23,
     "gift": 10
    },
-   "long_term_members": 141,
+   "long_term_members": 142,
    "badges": [
     {
      "months": 0,
@@ -496,7 +496,7 @@
     },
     {
      "months": 24,
-     "members": 110
+     "members": 111
     }
    ],
    "events": {
@@ -510,19 +510,19 @@
      "tier": "ノンアルプラン",
      "price": 140,
      "confirmed_members": 3,
-     "estimated_members": 24.3
+     "estimated_members": 24.4
     },
     {
      "tier": "常連さんプラン",
      "price": 490,
      "confirmed_members": 11,
-     "estimated_members": 89.0
+     "estimated_members": 89.4
     },
     {
      "tier": "お得意さんプラン",
      "price": 990,
      "confirmed_members": 8,
-     "estimated_members": 64.7
+     "estimated_members": 65.0
     },
     {
      "tier": "VIPプラン",
@@ -532,11 +532,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 25480,
-    "monthly_est": 88618,
+    "monthly_low": 25569,
+    "monthly_est": 89095,
     "gift_once": 891
    },
-   "avg_member_chatters": 75.6,
+   "avg_member_chatters": 73.2,
    "partial": true,
    "finalized": false
   }

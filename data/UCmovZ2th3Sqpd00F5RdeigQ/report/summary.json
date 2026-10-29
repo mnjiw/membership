@@ -3,19 +3,19 @@
  "channel_id": "UCmovZ2th3Sqpd00F5RdeigQ",
  "handle": "@KagamiHayato",
  "subscribers": 964000,
- "fetched_at": "2026-10-29 10:50",
- "generated_at": "2026-10-29 10:50",
+ "fetched_at": "2026-10-30 05:20",
+ "generated_at": "2026-10-30 05:21",
  "period": {
-  "from": "2026-09-29 10:50",
-  "to": "2026-10-29 10:50",
+  "from": "2026-09-30 05:20",
+  "to": "2026-10-30 05:20",
   "days": 30
  },
- "streams_analyzed": 17,
+ "streams_analyzed": 18,
  "streams_missed": 1,
- "unique_chatters": 10818,
- "members_confirmed": 3553,
+ "unique_chatters": 10896,
+ "members_confirmed": 3571,
  "member_classes": {
-  "unknown": 3354,
+  "unknown": 3372,
   "known": 48,
   "gift": 151
  },
@@ -28,27 +28,27 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 73
+   "members": 74
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 256
+   "members": 257
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 518
+   "members": 520
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 790
+   "members": 795
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 1692
+   "members": 1701
   }
  ],
  "events": {
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 48,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 3354.0,
-   "estimated_members": 3402.0,
+   "allocated_unknown": 3372.0,
+   "estimated_members": 3420.0,
    "monthly_net_confirmed": 14967,
-   "monthly_net_estimated": 1060805
+   "monthly_net_estimated": 1066418
   }
  ],
  "revenue": {
-  "monthly_low": 1060805,
-  "monthly_est": 1060805,
+  "monthly_low": 1066418,
+  "monthly_est": 1066418,
   "gift_once": 48644,
-  "total_low": 1109449,
-  "total_est": 1109449,
-  "paying_members": 3402,
+  "total_low": 1115062,
+  "total_est": 1115062,
+  "paying_members": 3420,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -257,6 +257,16 @@
    "member_chatters": 962,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "D3Sr6snui2s",
+   "start": "2026-10-29 20:02",
+   "title": "【MV】加賀美ハヤト - デストロイアガール",
+   "kind": "プレミア",
+   "chatters": 667,
+   "member_chatters": 436,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -269,7 +279,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 1021,
+   "like_count": 1026,
    "view_count": null
   }
  ],
@@ -281,7 +291,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 1021,
+   "like_count": 1026,
    "view_count": null
   }
  ],
@@ -356,18 +366,18 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-29"
+    "to": "2026-10-30"
    },
-   "streams_analyzed": 17,
+   "streams_analyzed": 18,
    "streams_missed": 1,
-   "unique_chatters": 10818,
-   "members_confirmed": 3553,
+   "unique_chatters": 10896,
+   "members_confirmed": 3571,
    "member_classes": {
-    "unknown": 3354,
+    "unknown": 3372,
     "known": 48,
     "gift": 151
    },
-   "long_term_members": 2482,
+   "long_term_members": 2496,
    "badges": [
     {
      "months": 0,
@@ -375,23 +385,23 @@
     },
     {
      "months": 1,
-     "members": 73
+     "members": 74
     },
     {
      "months": 2,
-     "members": 256
+     "members": 257
     },
     {
      "months": 6,
-     "members": 518
+     "members": 520
     },
     {
      "months": 12,
-     "members": 790
+     "members": 795
     },
     {
      "months": 24,
-     "members": 1692
+     "members": 1701
     }
    ],
    "events": {
@@ -405,15 +415,15 @@
      "tier": "加賀美ハヤトのメンバーシップ",
      "price": 490,
      "confirmed_members": 48,
-     "estimated_members": 3402.0
+     "estimated_members": 3420.0
     }
    ],
    "revenue": {
-    "monthly_low": 1060805,
-    "monthly_est": 1060805,
+    "monthly_low": 1066418,
+    "monthly_est": 1066418,
     "gift_once": 48644
    },
-   "avg_member_chatters": 971.6,
+   "avg_member_chatters": 941.8,
    "partial": true,
    "finalized": false
   }

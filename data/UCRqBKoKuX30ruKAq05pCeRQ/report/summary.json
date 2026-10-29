@@ -3,20 +3,20 @@
  "channel_id": "UCRqBKoKuX30ruKAq05pCeRQ",
  "handle": "@KitakojiHisui",
  "subscribers": 332000,
- "fetched_at": "2026-10-29 10:52",
- "generated_at": "2026-10-29 10:52",
+ "fetched_at": "2026-10-30 05:22",
+ "generated_at": "2026-10-30 05:22",
  "period": {
-  "from": "2026-09-29 10:52",
-  "to": "2026-10-29 10:52",
+  "from": "2026-09-30 05:22",
+  "to": "2026-10-30 05:22",
   "days": 30
  },
- "streams_analyzed": 12,
- "streams_missed": 1,
- "unique_chatters": 736,
- "members_confirmed": 170,
+ "streams_analyzed": 11,
+ "streams_missed": 2,
+ "unique_chatters": 691,
+ "members_confirmed": 163,
  "member_classes": {
-  "unknown": 147,
-  "known": 13,
+  "known": 12,
+  "unknown": 141,
   "gift": 10
  },
  "badges": [
@@ -33,18 +33,18 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 29
+   "members": 28
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 124
+   "members": 118
   }
  ],
  "events": {
   "new_members": 2,
   "rejoins": 1,
-  "milestones": 6,
+  "milestones": 5,
   "gift_purchases": 6,
   "gifted_total": 10,
   "gift_redemptions": 10
@@ -55,43 +55,43 @@
    "tier": "ひみつの部屋🦈",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 11,
-   "share_of_confirmed_pct": 84.6,
-   "allocated_unknown": 124.4,
-   "estimated_members": 135.4,
-   "monthly_net_confirmed": 3430,
-   "monthly_net_estimated": 42215
+   "confirmed_members": 10,
+   "share_of_confirmed_pct": 83.3,
+   "allocated_unknown": 117.5,
+   "estimated_members": 127.5,
+   "monthly_net_confirmed": 3118,
+   "monthly_net_estimated": 39757
   },
   {
    "tier": "ひみつの部屋のクローゼット🦈",
    "price": 3490,
    "net_per_member": 2220.9,
    "confirmed_members": 1,
-   "share_of_confirmed_pct": 7.7,
-   "allocated_unknown": 11.3,
-   "estimated_members": 12.3,
+   "share_of_confirmed_pct": 8.3,
+   "allocated_unknown": 11.8,
+   "estimated_members": 12.8,
    "monthly_net_confirmed": 2221,
-   "monthly_net_estimated": 27334
+   "monthly_net_estimated": 28317
   },
   {
    "tier": "わたしの部屋❇",
    "price": 14000,
    "net_per_member": 8909.1,
    "confirmed_members": 1,
-   "share_of_confirmed_pct": 7.7,
-   "allocated_unknown": 11.3,
-   "estimated_members": 12.3,
+   "share_of_confirmed_pct": 8.3,
+   "allocated_unknown": 11.8,
+   "estimated_members": 12.8,
    "monthly_net_confirmed": 8909,
-   "monthly_net_estimated": 109650
+   "monthly_net_estimated": 113591
   }
  ],
  "revenue": {
-  "monthly_low": 60397,
-  "monthly_est": 179200,
+  "monthly_low": 58215,
+  "monthly_est": 181664,
   "gift_once": 3118,
-  "total_low": 63515,
-  "total_est": 182318,
-  "paying_members": 160,
+  "total_low": 61333,
+  "total_est": 184782,
+  "paying_members": 153,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -100,16 +100,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "G6N2PXkNU-c",
-   "start": "2026-09-29 15:00",
-   "title": "【雑談】Chill Time☕【北小路ヒスイ/にじさんじ】",
-   "kind": "配信",
-   "chatters": 113,
-   "member_chatters": 43,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "uRz589z11C4",
    "start": "2026-09-30 17:44",
@@ -233,6 +223,18 @@
    "members_level": "",
    "like_count": 71,
    "view_count": null
+  },
+  {
+   "video_id": "NtVnz4MCFrA",
+   "start": "2026-10-29 00:00",
+   "title": "【🍸スナック翡翠】🌟人生相談💞恋愛相談🍸深夜のしっぽり雑談 #14　【北小路ヒスイ/にじさんじ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 224,
+   "view_count": 5468
   }
  ],
  "members_only_content": [
@@ -321,10 +323,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-29"
+    "to": "2026-10-30"
    },
    "streams_analyzed": 10,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 629,
    "members_confirmed": 155,
    "member_classes": {
