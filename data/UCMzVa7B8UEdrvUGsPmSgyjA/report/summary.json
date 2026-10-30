@@ -3,16 +3,16 @@
  "channel_id": "UCMzVa7B8UEdrvUGsPmSgyjA",
  "handle": "@DeremKado",
  "subscribers": 48300,
- "fetched_at": "2026-10-30 05:25",
- "generated_at": "2026-10-30 05:25",
+ "fetched_at": "2026-10-30 10:58",
+ "generated_at": "2026-10-30 10:58",
  "period": {
-  "from": "2026-09-30 05:25",
-  "to": "2026-10-30 05:25",
+  "from": "2026-09-30 10:58",
+  "to": "2026-10-30 10:58",
   "days": 30
  },
- "streams_analyzed": 11,
- "streams_missed": 2,
- "unique_chatters": 136,
+ "streams_analyzed": 13,
+ "streams_missed": 0,
+ "unique_chatters": 147,
  "members_confirmed": 55,
  "member_classes": {
   "unknown": 20,
@@ -48,12 +48,12 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 4
+   "members": 3
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 5
+   "members": 6
   },
   {
    "months": 48,
@@ -207,34 +207,29 @@
    "member_chatters": 10,
    "new_members": 0,
    "gifted_total": 5
-  }
- ],
- "missed_streams": [
-  {
-   "video_id": "iONgkmFJHHc",
-   "start": "2026-10-29 00:00",
-   "title": "【 Valheim 】 More Iron to the Mountains【 NIJISANJI | Derem Kado 】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 81,
-   "view_count": 472
   },
   {
    "video_id": "dqYzzeisdzE",
-   "start": "2026-10-29 00:00",
+   "start": "2026-10-29 23:15",
    "title": "【 Valheim 】 Turnips, are you healthy? 【 NIJISANJI | Derem Kado 】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 111,
-   "view_count": 791
+   "kind": "配信",
+   "chatters": 16,
+   "member_chatters": 2,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "iONgkmFJHHc",
+   "start": "2026-10-30 01:50",
+   "title": "【 Valheim 】 More Iron to the Mountains【 NIJISANJI | Derem Kado 】",
+   "kind": "配信",
+   "chatters": 17,
+   "member_chatters": 3,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -317,9 +312,9 @@
     "from": "2026-10-01",
     "to": "2026-10-30"
    },
-   "streams_analyzed": 11,
-   "streams_missed": 2,
-   "unique_chatters": 136,
+   "streams_analyzed": 13,
+   "streams_missed": 0,
+   "unique_chatters": 147,
    "members_confirmed": 55,
    "member_classes": {
     "unknown": 20,
@@ -350,11 +345,11 @@
     },
     {
      "months": 24,
-     "members": 4
+     "members": 3
     },
     {
      "months": 36,
-     "members": 5
+     "members": 6
     },
     {
      "months": 48,
@@ -380,7 +375,7 @@
     "monthly_est": 7484,
     "gift_once": 9666
    },
-   "avg_member_chatters": 9.5,
+   "avg_member_chatters": 8.5,
    "partial": true,
    "finalized": false
   }

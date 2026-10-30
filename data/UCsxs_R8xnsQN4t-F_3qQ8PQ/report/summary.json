@@ -3,36 +3,36 @@
  "channel_id": "UCsxs_R8xnsQN4t-F_3qQ8PQ",
  "handle": "@Rayon_Y4T4",
  "subscribers": 103000,
- "fetched_at": "2026-10-30 05:31",
- "generated_at": "2026-10-30 05:31",
+ "fetched_at": "2026-10-30 11:00",
+ "generated_at": "2026-10-30 11:00",
  "period": {
-  "from": "2026-09-30 05:31",
-  "to": "2026-10-30 05:31",
+  "from": "2026-09-30 11:00",
+  "to": "2026-10-30 11:00",
   "days": 30
  },
- "streams_analyzed": 17,
+ "streams_analyzed": 18,
  "streams_missed": 0,
- "unique_chatters": 874,
- "members_confirmed": 140,
+ "unique_chatters": 906,
+ "members_confirmed": 141,
  "member_classes": {
-  "unknown": 119,
+  "unknown": 120,
   "known": 21
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 34
+   "members": 33
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 10
+   "members": 11
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 96
+   "members": 97
   }
  ],
  "events": {
@@ -51,19 +51,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 21,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 119.0,
-   "estimated_members": 140.0,
+   "allocated_unknown": 120.0,
+   "estimated_members": 141.0,
    "monthly_net_confirmed": 6548,
-   "monthly_net_estimated": 43655
+   "monthly_net_estimated": 43966
   }
  ],
  "revenue": {
-  "monthly_low": 43655,
-  "monthly_est": 43655,
+  "monthly_low": 43966,
+  "monthly_est": 43966,
   "gift_once": 0,
-  "total_low": 43655,
-  "total_est": 43655,
-  "paying_members": 140,
+  "total_low": 43966,
+  "total_est": 43966,
+  "paying_members": 141,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -241,6 +241,16 @@
    "member_chatters": 38,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "OXPSwqxl8BY",
+   "start": "2026-10-30 06:32",
+   "title": "[Chat] Participating in a Splatoon tournament",
+   "kind": "配信",
+   "chatters": 101,
+   "member_chatters": 34,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -306,27 +316,27 @@
     "from": "2026-10-01",
     "to": "2026-10-30"
    },
-   "streams_analyzed": 16,
+   "streams_analyzed": 17,
    "streams_missed": 0,
-   "unique_chatters": 850,
-   "members_confirmed": 138,
+   "unique_chatters": 882,
+   "members_confirmed": 139,
    "member_classes": {
-    "unknown": 118,
+    "unknown": 119,
     "known": 20
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 32
+     "members": 31
     },
     {
      "months": 1,
-     "members": 10
+     "members": 11
     },
     {
      "months": 2,
-     "members": 96
+     "members": 97
     }
    ],
    "events": {
@@ -340,15 +350,15 @@
      "tier": "らりるれよん組",
      "price": 490,
      "confirmed_members": 20,
-     "estimated_members": 138.0
+     "estimated_members": 139.0
     }
    ],
    "revenue": {
-    "monthly_low": 43031,
-    "monthly_est": 43031,
+    "monthly_low": 43343,
+    "monthly_est": 43343,
     "gift_once": 0
    },
-   "avg_member_chatters": 43.8,
+   "avg_member_chatters": 43.2,
    "partial": true,
    "finalized": false
   }

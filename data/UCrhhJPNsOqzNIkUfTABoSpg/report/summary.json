@@ -3,27 +3,27 @@
  "channel_id": "UCrhhJPNsOqzNIkUfTABoSpg",
  "handle": "@HaYun",
  "subscribers": 133000,
- "fetched_at": "2026-10-30 05:25",
- "generated_at": "2026-10-30 05:25",
+ "fetched_at": "2026-10-30 10:58",
+ "generated_at": "2026-10-30 10:58",
  "period": {
-  "from": "2026-09-30 05:25",
-  "to": "2026-10-30 05:25",
+  "from": "2026-09-30 10:58",
+  "to": "2026-10-30 10:58",
   "days": 30
  },
- "streams_analyzed": 14,
- "streams_missed": 1,
- "unique_chatters": 128,
- "members_confirmed": 64,
+ "streams_analyzed": 15,
+ "streams_missed": 0,
+ "unique_chatters": 139,
+ "members_confirmed": 66,
  "member_classes": {
-  "known": 14,
-  "unknown": 45,
+  "known": 15,
+  "unknown": 46,
   "gift": 5
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 4
+   "members": 5
   },
   {
    "months": 2,
@@ -43,11 +43,11 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 38
+   "members": 39
   }
  ],
  "events": {
-  "new_members": 0,
+  "new_members": 1,
   "rejoins": 1,
   "milestones": 12,
   "gift_purchases": 1,
@@ -60,21 +60,21 @@
    "tier": "HaYun Membership",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 14,
+   "confirmed_members": 15,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 45.0,
-   "estimated_members": 59.0,
-   "monthly_net_confirmed": 4365,
-   "monthly_net_estimated": 18397
+   "allocated_unknown": 46.0,
+   "estimated_members": 61.0,
+   "monthly_net_confirmed": 4677,
+   "monthly_net_estimated": 19021
   }
  ],
  "revenue": {
-  "monthly_low": 18397,
-  "monthly_est": 18397,
+  "monthly_low": 19021,
+  "monthly_est": 19021,
   "gift_once": 1559,
-  "total_low": 19956,
-  "total_est": 19956,
-  "paying_members": 59,
+  "total_low": 20580,
+  "total_est": 20580,
+  "paying_members": 61,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -222,22 +222,19 @@
    "member_chatters": 13,
    "new_members": 0,
    "gifted_total": 0
-  }
- ],
- "missed_streams": [
+  },
   {
    "video_id": "BC7Ck5lH0bc",
-   "start": "2026-10-29 00:00",
+   "start": "2026-10-29 20:01",
    "title": "【#ストグラ2】 お金が必要な ユンユン【ハユン/にじさんじ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 285,
-   "view_count": 14233
+   "kind": "配信",
+   "chatters": 37,
+   "member_chatters": 21,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -312,20 +309,20 @@
     "from": "2026-10-01",
     "to": "2026-10-30"
    },
-   "streams_analyzed": 12,
-   "streams_missed": 1,
-   "unique_chatters": 126,
-   "members_confirmed": 64,
+   "streams_analyzed": 13,
+   "streams_missed": 0,
+   "unique_chatters": 137,
+   "members_confirmed": 66,
    "member_classes": {
-    "known": 14,
-    "unknown": 45,
+    "known": 15,
+    "unknown": 46,
     "gift": 5
    },
-   "long_term_members": 46,
+   "long_term_members": 47,
    "badges": [
     {
      "months": 0,
-     "members": 4
+     "members": 5
     },
     {
      "months": 2,
@@ -341,11 +338,11 @@
     },
     {
      "months": 24,
-     "members": 38
+     "members": 39
     }
    ],
    "events": {
-    "new_members": 0,
+    "new_members": 1,
     "rejoins": 1,
     "milestones": 12,
     "gifted_total": 5
@@ -354,16 +351,16 @@
     {
      "tier": "HaYun Membership",
      "price": 490,
-     "confirmed_members": 14,
-     "estimated_members": 59.0
+     "confirmed_members": 15,
+     "estimated_members": 61.0
     }
    ],
    "revenue": {
-    "monthly_low": 18397,
-    "monthly_est": 18397,
+    "monthly_low": 19021,
+    "monthly_est": 19021,
     "gift_once": 1559
    },
-   "avg_member_chatters": 21.7,
+   "avg_member_chatters": 21.6,
    "partial": true,
    "finalized": false
   }

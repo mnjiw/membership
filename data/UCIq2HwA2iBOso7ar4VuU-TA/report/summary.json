@@ -3,32 +3,32 @@
  "channel_id": "UCIq2HwA2iBOso7ar4VuU-TA",
  "handle": "@KadouMikaru",
  "subscribers": 134000,
- "fetched_at": "2026-10-30 05:29",
- "generated_at": "2026-10-30 05:29",
+ "fetched_at": "2026-10-30 10:59",
+ "generated_at": "2026-10-30 11:00",
  "period": {
-  "from": "2026-09-30 05:29",
-  "to": "2026-10-30 05:29",
+  "from": "2026-09-30 10:59",
+  "to": "2026-10-30 10:59",
   "days": 30
  },
  "streams_analyzed": 22,
- "streams_missed": 5,
- "unique_chatters": 4795,
- "members_confirmed": 694,
+ "streams_missed": 4,
+ "unique_chatters": 4896,
+ "members_confirmed": 705,
  "member_classes": {
-  "unknown": 643,
-  "known": 31,
+  "unknown": 655,
+  "known": 30,
   "gift": 20
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 79
+   "members": 81
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 55
+   "members": 54
   },
   {
    "months": 2,
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 286
+   "members": 296
   }
  ],
  "events": {
@@ -60,21 +60,21 @@
    "tier": "かたつむり組",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 31,
+   "confirmed_members": 30,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 643.0,
-   "estimated_members": 674.0,
-   "monthly_net_confirmed": 9666,
-   "monthly_net_estimated": 210165
+   "allocated_unknown": 655.0,
+   "estimated_members": 685.0,
+   "monthly_net_confirmed": 9355,
+   "monthly_net_estimated": 213595
   }
  ],
  "revenue": {
-  "monthly_low": 210165,
-  "monthly_est": 210165,
+  "monthly_low": 213595,
+  "monthly_est": 213595,
   "gift_once": 6236,
-  "total_low": 216402,
-  "total_est": 216402,
-  "paying_members": 674,
+  "total_low": 219832,
+  "total_est": 219832,
+  "paying_members": 685,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "eMDYHnDreis",
-   "start": "2026-09-30 07:45",
-   "title": "【 朝活 】 9月がおわる～～？！【 にじさんじ / 蝸堂みかる 】",
-   "kind": "配信",
-   "chatters": 425,
-   "member_chatters": 174,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "Ei8RkA4zv7w",
    "start": "2026-10-01 23:30",
@@ -302,6 +292,16 @@
    "member_chatters": 179,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "ez3LLZIJFE4",
+   "start": "2026-10-29 23:48",
+   "title": "【 雑談 】 家の中でも靴下履く季節。スプラも少々。【 にじさんじ / 蝸堂みかる 】",
+   "kind": "配信",
+   "chatters": 660,
+   "member_chatters": 241,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -352,18 +352,6 @@
    "members_level": "",
    "like_count": 221,
    "view_count": null
-  },
-  {
-   "video_id": "ez3LLZIJFE4",
-   "start": "2026-10-29 00:00",
-   "title": "【 雑談 】 家の中でも靴下履く季節。スプラも少々。【 にじさんじ / 蝸堂みかる 】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 1341,
-   "view_count": 59215
   }
  ],
  "members_only_content": [
@@ -477,36 +465,36 @@
     "from": "2026-10-01",
     "to": "2026-10-30"
    },
-   "streams_analyzed": 21,
-   "streams_missed": 5,
-   "unique_chatters": 4707,
-   "members_confirmed": 683,
+   "streams_analyzed": 22,
+   "streams_missed": 4,
+   "unique_chatters": 4896,
+   "members_confirmed": 705,
    "member_classes": {
-    "unknown": 633,
+    "unknown": 655,
     "known": 30,
     "gift": 20
    },
-   "long_term_members": 285,
+   "long_term_members": 296,
    "badges": [
     {
      "months": 0,
-     "members": 77
+     "members": 81
     },
     {
      "months": 1,
-     "members": 55
+     "members": 54
     },
     {
      "months": 2,
-     "members": 137
+     "members": 139
     },
     {
      "months": 6,
-     "members": 129
+     "members": 135
     },
     {
      "months": 12,
-     "members": 285
+     "members": 296
     }
    ],
    "events": {
@@ -520,15 +508,15 @@
      "tier": "かたつむり組",
      "price": 490,
      "confirmed_members": 30,
-     "estimated_members": 663.0
+     "estimated_members": 685.0
     }
    ],
    "revenue": {
-    "monthly_low": 206735,
-    "monthly_est": 206735,
+    "monthly_low": 213595,
+    "monthly_est": 213595,
     "gift_once": 6236
    },
-   "avg_member_chatters": 193.3,
+   "avg_member_chatters": 195.5,
    "partial": true,
    "finalized": false
   }

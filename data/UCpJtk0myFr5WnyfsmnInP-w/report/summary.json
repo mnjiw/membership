@@ -3,19 +3,19 @@
  "channel_id": "UCpJtk0myFr5WnyfsmnInP-w",
  "handle": "@HanaMacchia",
  "subscribers": 280000,
- "fetched_at": "2026-10-30 05:24",
- "generated_at": "2026-10-30 05:24",
+ "fetched_at": "2026-10-30 10:58",
+ "generated_at": "2026-10-30 10:58",
  "period": {
-  "from": "2026-09-30 05:24",
-  "to": "2026-10-30 05:24",
+  "from": "2026-09-30 10:58",
+  "to": "2026-10-30 10:58",
   "days": 30
  },
- "streams_analyzed": 10,
- "streams_missed": 3,
- "unique_chatters": 431,
- "members_confirmed": 80,
+ "streams_analyzed": 12,
+ "streams_missed": 1,
+ "unique_chatters": 446,
+ "members_confirmed": 81,
  "member_classes": {
-  "unknown": 57,
+  "unknown": 58,
   "known": 12,
   "gift": 11
  },
@@ -38,7 +38,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 61
+   "members": 62
   }
  ],
  "events": {
@@ -57,19 +57,19 @@
    "net_per_member": 439.1,
    "confirmed_members": 12,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 57.0,
-   "estimated_members": 69.0,
+   "allocated_unknown": 58.0,
+   "estimated_members": 70.0,
    "monthly_net_confirmed": 5269,
-   "monthly_net_estimated": 30297
+   "monthly_net_estimated": 30736
   }
  ],
  "revenue": {
-  "monthly_low": 30297,
-  "monthly_est": 30297,
+  "monthly_low": 30736,
+  "monthly_est": 30736,
   "gift_once": 4830,
-  "total_low": 35127,
-  "total_est": 35127,
-  "paying_members": 69,
+  "total_low": 35566,
+  "total_est": 35566,
+  "paying_members": 70,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -177,6 +177,26 @@
    "member_chatters": 24,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "QwHjLfmAtXw",
+   "start": "2026-10-29 23:18",
+   "title": "【#7】(Valheim Collab) i swear if this game becomes harder i'll cry【NIJISANJI | Hana Macchia】",
+   "kind": "配信",
+   "chatters": 41,
+   "member_chatters": 15,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "ZsCf28LMF1A",
+   "start": "2026-10-30 01:57",
+   "title": "【#8】(Valheim Collab) iron farming time【NIJISANJI | Hana Macchia】",
+   "kind": "配信",
+   "chatters": 32,
+   "member_chatters": 11,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -191,30 +211,6 @@
    "members_level": "",
    "like_count": 26,
    "view_count": null
-  },
-  {
-   "video_id": "ZsCf28LMF1A",
-   "start": "2026-10-29 00:00",
-   "title": "【#8】(Valheim Collab) iron farming time【NIJISANJI | Hana Macchia】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 160,
-   "view_count": 1517
-  },
-  {
-   "video_id": "QwHjLfmAtXw",
-   "start": "2026-10-29 00:00",
-   "title": "【#7】(Valheim Collab) i swear if this game becomes harder i'll cry【NIJISANJI | Hana Macchia】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 192,
-   "view_count": 2618
   }
  ],
  "members_only_content": [
@@ -289,16 +285,16 @@
     "from": "2026-10-01",
     "to": "2026-10-30"
    },
-   "streams_analyzed": 10,
-   "streams_missed": 3,
-   "unique_chatters": 431,
-   "members_confirmed": 80,
+   "streams_analyzed": 12,
+   "streams_missed": 1,
+   "unique_chatters": 446,
+   "members_confirmed": 81,
    "member_classes": {
-    "unknown": 57,
+    "unknown": 58,
     "known": 12,
     "gift": 11
    },
-   "long_term_members": 63,
+   "long_term_members": 64,
    "badges": [
     {
      "months": 0,
@@ -314,7 +310,7 @@
     },
     {
      "months": 24,
-     "members": 61
+     "members": 62
     }
    ],
    "events": {
@@ -328,15 +324,15 @@
      "tier": "Nijisenja",
      "price": 690,
      "confirmed_members": 12,
-     "estimated_members": 69.0
+     "estimated_members": 70.0
     }
    ],
    "revenue": {
-    "monthly_low": 30297,
-    "monthly_est": 30297,
+    "monthly_low": 30736,
+    "monthly_est": 30736,
     "gift_once": 4830
    },
-   "avg_member_chatters": 20.6,
+   "avg_member_chatters": 19.3,
    "partial": true,
    "finalized": false
   }

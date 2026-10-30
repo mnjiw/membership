@@ -3,19 +3,19 @@
  "channel_id": "UC_4QF0dL-9XI9VajsNkMtmQ",
  "handle": "@Rei7_Y4T4",
  "subscribers": 177000,
- "fetched_at": "2026-10-30 05:30",
- "generated_at": "2026-10-30 05:31",
+ "fetched_at": "2026-10-30 11:00",
+ "generated_at": "2026-10-30 11:01",
  "period": {
-  "from": "2026-09-30 05:30",
-  "to": "2026-10-30 05:30",
+  "from": "2026-09-30 11:00",
+  "to": "2026-10-30 11:00",
   "days": 30
  },
- "streams_analyzed": 32,
+ "streams_analyzed": 33,
  "streams_missed": 3,
- "unique_chatters": 5716,
- "members_confirmed": 713,
+ "unique_chatters": 5963,
+ "members_confirmed": 720,
  "member_classes": {
-  "unknown": 636,
+  "unknown": 643,
   "known": 66,
   "gift": 11
  },
@@ -23,17 +23,17 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 87
+   "members": 85
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 79
+   "members": 81
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 547
+   "members": 554
   }
  ],
  "events": {
@@ -52,19 +52,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 66,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 636.0,
-   "estimated_members": 702.0,
+   "allocated_unknown": 643.0,
+   "estimated_members": 709.0,
    "monthly_net_confirmed": 20580,
-   "monthly_net_estimated": 218896
+   "monthly_net_estimated": 221079
   }
  ],
  "revenue": {
-  "monthly_low": 218896,
-  "monthly_est": 218896,
+  "monthly_low": 221079,
+  "monthly_est": 221079,
   "gift_once": 3430,
-  "total_low": 222326,
-  "total_est": 222326,
-  "paying_members": 702,
+  "total_low": 224509,
+  "total_est": 224509,
+  "paying_members": 709,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -392,6 +392,16 @@
    "member_chatters": 130,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "AAXBp9q8pS0",
+   "start": "2026-10-29 19:22",
+   "title": "#4【 ドラゴンボールZ:KAKAROT 】人造人間編！少年時代履修したぞ～【 Rei7 / にじさんじ 】",
+   "kind": "配信",
+   "chatters": 712,
+   "member_chatters": 125,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -408,18 +418,6 @@
    "view_count": null
   },
   {
-   "video_id": "AAXBp9q8pS0",
-   "start": "2026-10-29 00:00",
-   "title": "#4【 ドラゴンボールZ:KAKAROT 】人造人間編！少年時代履修したぞ～【 Rei7 / にじさんじ 】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 1611,
-   "view_count": 120553
-  },
-  {
    "video_id": "2lm8ltSq2Ks",
    "start": "2026-10-29 00:00",
    "title": "[ Chat ] My image is getting way ahead of me, so I’m listing the things I can't do, which turned ...",
@@ -428,8 +426,20 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 574,
-   "view_count": 32413
+   "like_count": 615,
+   "view_count": 35289
+  },
+  {
+   "video_id": "Jg6Q2fMTNl0",
+   "start": "2026-10-30 10:05",
+   "title": "【 メン限 】眠たくなるように。",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "Ris7",
+   "like_count": 104,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -441,6 +451,16 @@
    "status": "members_only",
    "members_level": "Ris7",
    "like_count": 184,
+   "view_count": null
+  },
+  {
+   "video_id": "Jg6Q2fMTNl0",
+   "start": "2026-10-30 10:05",
+   "title": "【 メン限 】眠たくなるように。",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "Ris7",
+   "like_count": 104,
    "view_count": null
   }
  ],
@@ -505,12 +525,12 @@
     "from": "2026-10-01",
     "to": "2026-10-30"
    },
-   "streams_analyzed": 31,
+   "streams_analyzed": 32,
    "streams_missed": 3,
-   "unique_chatters": 5458,
-   "members_confirmed": 702,
+   "unique_chatters": 5778,
+   "members_confirmed": 711,
    "member_classes": {
-    "unknown": 626,
+    "unknown": 635,
     "known": 65,
     "gift": 11
    },
@@ -518,15 +538,15 @@
    "badges": [
     {
      "months": 0,
-     "members": 83
+     "members": 82
     },
     {
      "months": 1,
-     "members": 77
+     "members": 80
     },
     {
      "months": 2,
-     "members": 542
+     "members": 549
     }
    ],
    "events": {
@@ -540,15 +560,15 @@
      "tier": "Ris7",
      "price": 490,
      "confirmed_members": 65,
-     "estimated_members": 691.0
+     "estimated_members": 700.0
     }
    ],
    "revenue": {
-    "monthly_low": 215466,
-    "monthly_est": 215466,
+    "monthly_low": 218273,
+    "monthly_est": 218273,
     "gift_once": 3430
    },
-   "avg_member_chatters": 129,
+   "avg_member_chatters": 128.9,
    "partial": true,
    "finalized": false
   }
