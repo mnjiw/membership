@@ -3,27 +3,27 @@
  "channel_id": "UCzcuYIyP-1YcXC96t9J5yWQ",
  "handle": "@KuriEita_Y4T4",
  "subscribers": 75200,
- "fetched_at": "2026-10-30 11:00",
- "generated_at": "2026-10-30 11:00",
+ "fetched_at": "2026-10-31 05:33",
+ "generated_at": "2026-10-31 05:33",
  "period": {
-  "from": "2026-09-30 11:00",
-  "to": "2026-10-30 11:00",
+  "from": "2026-10-01 05:33",
+  "to": "2026-10-31 05:33",
   "days": 30
  },
- "streams_analyzed": 25,
+ "streams_analyzed": 24,
  "streams_missed": 2,
- "unique_chatters": 1159,
- "members_confirmed": 110,
+ "unique_chatters": 1146,
+ "members_confirmed": 109,
  "member_classes": {
   "unknown": 97,
   "known": 8,
-  "gift": 5
+  "gift": 4
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 19
+   "members": 18
   },
   {
    "months": 1,
@@ -37,12 +37,12 @@
   }
  ],
  "events": {
-  "new_members": 7,
+  "new_members": 6,
   "rejoins": 0,
   "milestones": 0,
-  "gift_purchases": 5,
-  "gifted_total": 5,
-  "gift_redemptions": 5
+  "gift_purchases": 4,
+  "gifted_total": 4,
+  "gift_redemptions": 4
  },
  "tiers_configured": true,
  "tiers": [
@@ -61,9 +61,9 @@
  "revenue": {
   "monthly_low": 32741,
   "monthly_est": 32741,
-  "gift_once": 1559,
-  "total_low": 34300,
-  "total_est": 34300,
+  "gift_once": 1247,
+  "total_low": 33988,
+  "total_est": 33988,
   "paying_members": 105,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "t2KpAHxWgqI",
-   "start": "2026-09-30 13:01",
-   "title": "【Apex Legends】足掻き続けるソロランク / D4~【九里詠太 / にじさんじ】",
-   "kind": "配信",
-   "chatters": 49,
-   "member_chatters": 22,
-   "new_members": 1,
-   "gifted_total": 1
-  },
   {
    "video_id": "fV2AKA-IpfI",
    "start": "2026-10-02 12:01",
@@ -326,18 +316,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "1YOaZlVP4Xg",
-   "start": "2026-09-30 22:00",
-   "title": "【メン限】ひさしぶりにゆるっとお話【九里詠太 / にじさんじ】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 39,
-   "view_count": null
-  },
-  {
    "video_id": "tTexeQ57Rw8",
    "start": "2026-10-18 23:01",
    "title": "【メン限】ハーフアニバ目前らしい...！？【九里詠太 / にじさんじ】",
@@ -347,21 +325,23 @@
    "members_only": true,
    "members_level": "",
    "like_count": 54,
+   "view_count": null
+  },
+  {
+   "video_id": "BLOhE_eoQjQ",
+   "start": "2026-10-30 22:03",
+   "title": "【メン限】今月はいろいろありましたね...【九里詠太 / にじさんじ】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 33,
    "view_count": null
   }
  ],
  "members_only_content": [
   {
-   "video_id": "1YOaZlVP4Xg",
-   "start": "2026-09-30 22:00",
-   "title": "【メン限】ひさしぶりにゆるっとお話【九里詠太 / にじさんじ】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 39,
-   "view_count": null
-  },
-  {
    "video_id": "tTexeQ57Rw8",
    "start": "2026-10-18 23:01",
    "title": "【メン限】ハーフアニバ目前らしい...！？【九里詠太 / にじさんじ】",
@@ -369,6 +349,16 @@
    "status": "members_only",
    "members_level": "",
    "like_count": 54,
+   "view_count": null
+  },
+  {
+   "video_id": "BLOhE_eoQjQ",
+   "start": "2026-10-30 22:03",
+   "title": "【メン限】今月はいろいろありましたね...【九里詠太 / にじさんじ】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 33,
    "view_count": null
   }
  ],
@@ -431,10 +421,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-30"
+    "to": "2026-10-31"
    },
    "streams_analyzed": 24,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 1146,
    "members_confirmed": 109,
    "member_classes": {

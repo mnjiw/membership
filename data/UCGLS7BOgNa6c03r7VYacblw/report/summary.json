@@ -3,19 +3,19 @@
  "channel_id": "UCGLS7BOgNa6c03r7VYacblw",
  "handle": "@MinamoMadoka",
  "subscribers": 146000,
- "fetched_at": "2026-10-30 11:00",
- "generated_at": "2026-10-30 11:00",
+ "fetched_at": "2026-10-31 05:32",
+ "generated_at": "2026-10-31 05:33",
  "period": {
-  "from": "2026-09-30 11:00",
-  "to": "2026-10-30 11:00",
+  "from": "2026-10-01 05:32",
+  "to": "2026-10-31 05:32",
   "days": 30
  },
- "streams_analyzed": 25,
- "streams_missed": 1,
- "unique_chatters": 3099,
- "members_confirmed": 326,
+ "streams_analyzed": 24,
+ "streams_missed": 2,
+ "unique_chatters": 2592,
+ "members_confirmed": 323,
  "member_classes": {
-  "unknown": 297,
+  "unknown": 294,
   "known": 11,
   "gift": 18
  },
@@ -23,12 +23,12 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 48
+   "members": 46
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 70
+   "members": 69
   },
   {
    "months": 6,
@@ -38,7 +38,7 @@
  ],
  "events": {
   "new_members": 10,
-  "rejoins": 1,
+  "rejoins": 0,
   "milestones": 0,
   "gift_purchases": 1,
   "gifted_total": 10,
@@ -52,19 +52,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 11,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 297.0,
-   "estimated_members": 308.0,
+   "allocated_unknown": 294.0,
+   "estimated_members": 305.0,
    "monthly_net_confirmed": 3430,
-   "monthly_net_estimated": 96040
+   "monthly_net_estimated": 95105
   }
  ],
  "revenue": {
-  "monthly_low": 96040,
-  "monthly_est": 96040,
+  "monthly_low": 95105,
+  "monthly_est": 95105,
   "gift_once": 3118,
-  "total_low": 99158,
-  "total_est": 99158,
-  "paying_members": 308,
+  "total_low": 98223,
+  "total_est": 98223,
+  "paying_members": 305,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "eOvcWXRNCXE",
-   "start": "2026-09-30 18:59",
-   "title": "【 コラボ歌枠 】ちょっと悪くてカッコイイ曲を歌いましょう👿🎤 supported by DAM【 水面まどか / にじさんじ 】",
-   "kind": "配信",
-   "chatters": 678,
-   "member_chatters": 68,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "KFFyRRA8ATg",
    "start": "2026-10-02 22:14",
@@ -336,6 +326,18 @@
    "members_level": "",
    "like_count": 101,
    "view_count": null
+  },
+  {
+   "video_id": "zR_bTXMf_pY",
+   "start": "2026-10-30 00:00",
+   "title": "【 スプラトゥーン3 】初心者同士のたたかイカ🦑 ミリしらスプラ！ 水面まどか視点 #にじイカ祭り2026【 にじさんじ / 水面まどか 】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 838,
+   "view_count": 28530
   }
  ],
  "members_only_content": [
@@ -409,10 +411,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-30"
+    "to": "2026-10-31"
    },
    "streams_analyzed": 24,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 2592,
    "members_confirmed": 323,
    "member_classes": {

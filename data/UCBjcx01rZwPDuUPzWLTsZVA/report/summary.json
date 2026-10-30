@@ -3,16 +3,16 @@
  "channel_id": "UCBjcx01rZwPDuUPzWLTsZVA",
  "handle": "@YagyuShino",
  "subscribers": 93700,
- "fetched_at": "2026-10-30 10:59",
- "generated_at": "2026-10-30 10:59",
+ "fetched_at": "2026-10-31 05:32",
+ "generated_at": "2026-10-31 05:32",
  "period": {
-  "from": "2026-09-30 10:59",
-  "to": "2026-10-30 10:59",
+  "from": "2026-10-01 05:32",
+  "to": "2026-10-31 05:32",
   "days": 30
  },
  "streams_analyzed": 15,
  "streams_missed": 5,
- "unique_chatters": 2696,
+ "unique_chatters": 2721,
  "members_confirmed": 200,
  "member_classes": {
   "unknown": 184,
@@ -23,27 +23,27 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 24
+   "members": 22
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 15
+   "members": 17
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 64
+   "members": 62
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 28
+   "members": 31
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 69
+   "members": 68
   }
  ],
  "events": {
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "xgE55JLWyIs",
-   "start": "2026-09-30 11:50",
-   "title": "〖 Minecraft 〗にじ鯖ではじめての建築をする！！！！！！🌈〖 にじさんじ / 夜牛詩乃 〗",
-   "kind": "配信",
-   "chatters": 259,
-   "member_chatters": 61,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "SSQNUrUOYt0",
    "start": "2026-10-02 11:54",
@@ -230,6 +220,16 @@
    "kind": "配信",
    "chatters": 296,
    "member_chatters": 62,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "dUuGkIDDSZA",
+   "start": "2026-10-30 21:10",
+   "title": "〖 プレゼン 〗～あなたのことを教えて～🫱🚪🫲扉を開ける絵文字〖 小々波いるか / 夜牛詩乃 / にじさんじ 〗",
+   "kind": "配信",
+   "chatters": 268,
+   "member_chatters": 59,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -405,14 +405,14 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-30"
+    "to": "2026-10-31"
    },
-   "streams_analyzed": 14,
+   "streams_analyzed": 15,
    "streams_missed": 5,
-   "unique_chatters": 2642,
-   "members_confirmed": 198,
+   "unique_chatters": 2721,
+   "members_confirmed": 200,
    "member_classes": {
-    "unknown": 182,
+    "unknown": 184,
     "known": 10,
     "gift": 6
    },
@@ -420,19 +420,19 @@
    "badges": [
     {
      "months": 0,
-     "members": 24
+     "members": 22
     },
     {
      "months": 1,
-     "members": 15
+     "members": 17
     },
     {
      "months": 2,
-     "members": 63
+     "members": 62
     },
     {
      "months": 6,
-     "members": 28
+     "members": 31
     },
     {
      "months": 12,
@@ -450,15 +450,15 @@
      "tier": "詩乃餌付け隊",
      "price": 490,
      "confirmed_members": 10,
-     "estimated_members": 192.0
+     "estimated_members": 194.0
     }
    ],
    "revenue": {
-    "monthly_low": 59869,
-    "monthly_est": 59869,
+    "monthly_low": 60493,
+    "monthly_est": 60493,
     "gift_once": 1871
    },
-   "avg_member_chatters": 69.7,
+   "avg_member_chatters": 69,
    "partial": true,
    "finalized": false
   }

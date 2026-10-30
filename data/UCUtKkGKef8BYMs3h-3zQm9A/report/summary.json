@@ -3,20 +3,20 @@
  "channel_id": "UCUtKkGKef8BYMs3h-3zQm9A",
  "handle": "@MinSuha",
  "subscribers": 186000,
- "fetched_at": "2026-10-30 10:58",
- "generated_at": "2026-10-30 10:58",
+ "fetched_at": "2026-10-31 05:26",
+ "generated_at": "2026-10-31 05:27",
  "period": {
-  "from": "2026-09-30 10:58",
-  "to": "2026-10-30 10:58",
+  "from": "2026-10-01 05:26",
+  "to": "2026-10-31 05:26",
   "days": 30
  },
- "streams_analyzed": 7,
+ "streams_analyzed": 8,
  "streams_missed": 1,
- "unique_chatters": 457,
- "members_confirmed": 125,
+ "unique_chatters": 484,
+ "members_confirmed": 133,
  "member_classes": {
-  "unknown": 105,
-  "known": 20
+  "unknown": 111,
+  "known": 22
  },
  "badges": [
   {
@@ -52,12 +52,12 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 29
+   "members": 35
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 35
+   "members": 37
   },
   {
    "months": 60,
@@ -68,7 +68,7 @@
  "events": {
   "new_members": 0,
   "rejoins": 1,
-  "milestones": 17,
+  "milestones": 19,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -79,21 +79,21 @@
    "tier": "수하쿠아(Suhaqua)",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 20,
+   "confirmed_members": 22,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 105.0,
-   "estimated_members": 125.0,
-   "monthly_net_confirmed": 6236,
-   "monthly_net_estimated": 38977
+   "allocated_unknown": 111.0,
+   "estimated_members": 133.0,
+   "monthly_net_confirmed": 6860,
+   "monthly_net_estimated": 41472
   }
  ],
  "revenue": {
-  "monthly_low": 38977,
-  "monthly_est": 38977,
+  "monthly_low": 41472,
+  "monthly_est": 41472,
   "gift_once": 0,
-  "total_low": 38977,
-  "total_est": 38977,
-  "paying_members": 125,
+  "total_low": 41472,
+  "total_est": 41472,
+  "paying_members": 133,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -169,6 +169,16 @@
    "kind": "配信",
    "chatters": 307,
    "member_chatters": 71,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "oUHEM3WH_HU",
+   "start": "2026-10-30 22:32",
+   "title": "🌊【잡담】연애 궁극의 이지선다【NIJISANJI】",
+   "kind": "配信",
+   "chatters": 92,
+   "member_chatters": 64,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -281,17 +291,17 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-30"
+    "to": "2026-10-31"
    },
-   "streams_analyzed": 7,
+   "streams_analyzed": 8,
    "streams_missed": 1,
-   "unique_chatters": 457,
-   "members_confirmed": 125,
+   "unique_chatters": 484,
+   "members_confirmed": 133,
    "member_classes": {
-    "unknown": 105,
-    "known": 20
+    "unknown": 111,
+    "known": 22
    },
-   "long_term_members": 107,
+   "long_term_members": 115,
    "badges": [
     {
      "months": 0,
@@ -319,11 +329,11 @@
     },
     {
      "months": 36,
-     "members": 29
+     "members": 35
     },
     {
      "months": 48,
-     "members": 35
+     "members": 37
     },
     {
      "months": 60,
@@ -333,23 +343,23 @@
    "events": {
     "new_members": 0,
     "rejoins": 1,
-    "milestones": 17,
+    "milestones": 19,
     "gifted_total": 0
    },
    "tiers": [
     {
      "tier": "수하쿠아(Suhaqua)",
      "price": 490,
-     "confirmed_members": 20,
-     "estimated_members": 125.0
+     "confirmed_members": 22,
+     "estimated_members": 133.0
     }
    ],
    "revenue": {
-    "monthly_low": 38977,
-    "monthly_est": 38977,
+    "monthly_low": 41472,
+    "monthly_est": 41472,
     "gift_once": 0
    },
-   "avg_member_chatters": 54.1,
+   "avg_member_chatters": 55.4,
    "partial": true,
    "finalized": false
   }

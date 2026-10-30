@@ -3,37 +3,37 @@
  "channel_id": "UCyJOgJhgfoVRpFjsBCUmuvg",
  "handle": "@KozueMone",
  "subscribers": 159000,
- "fetched_at": "2026-10-30 10:59",
- "generated_at": "2026-10-30 11:00",
+ "fetched_at": "2026-10-31 05:30",
+ "generated_at": "2026-10-31 05:31",
  "period": {
-  "from": "2026-09-30 10:59",
-  "to": "2026-10-30 10:59",
+  "from": "2026-10-01 05:30",
+  "to": "2026-10-31 05:30",
   "days": 30
  },
  "streams_analyzed": 28,
  "streams_missed": 3,
- "unique_chatters": 3099,
- "members_confirmed": 479,
+ "unique_chatters": 3077,
+ "members_confirmed": 471,
  "member_classes": {
-  "unknown": 362,
-  "known": 96,
+  "known": 94,
+  "unknown": 356,
   "gift": 21
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 46
+   "members": 42
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 12
+   "members": 13
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 39
+   "members": 38
   },
   {
    "months": 6,
@@ -43,18 +43,18 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 169
+   "members": 167
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 127
+   "members": 125
   }
  ],
  "events": {
-  "new_members": 16,
+  "new_members": 12,
   "rejoins": 3,
-  "milestones": 55,
+  "milestones": 56,
   "gift_purchases": 12,
   "gifted_total": 21,
   "gift_redemptions": 21
@@ -65,21 +65,21 @@
    "tier": "もねゴンの集い",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 96,
+   "confirmed_members": 94,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 362.0,
-   "estimated_members": 458.0,
-   "monthly_net_confirmed": 29935,
-   "monthly_net_estimated": 142813
+   "allocated_unknown": 356.0,
+   "estimated_members": 450.0,
+   "monthly_net_confirmed": 29311,
+   "monthly_net_estimated": 140318
   }
  ],
  "revenue": {
-  "monthly_low": 142813,
-  "monthly_est": 142813,
+  "monthly_low": 140318,
+  "monthly_est": 140318,
   "gift_once": 6548,
-  "total_low": 149361,
-  "total_est": 149361,
-  "paying_members": 458,
+  "total_low": 146866,
+  "total_est": 146866,
+  "paying_members": 450,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "z7nvxm2Oi8A",
-   "start": "2026-09-30 23:01",
-   "title": "【Leaf it Alone】深夜のChill🍂秋の夜長はまったり落ち葉掃除【にじさんじ/梢桃音】",
-   "kind": "配信",
-   "chatters": 315,
-   "member_chatters": 175,
-   "new_members": 4,
-   "gifted_total": 0
-  },
   {
    "video_id": "6eNcLGrNHxU",
    "start": "2026-10-01 12:00",
@@ -367,6 +357,16 @@
    "member_chatters": 109,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "eWqamEXJ5Y8",
+   "start": "2026-10-30 12:00",
+   "title": "【ぽこ あ ポケモン】昼のぽこポケ☕まったり進めてゆきましょう【にじさんじ/梢桃音】",
+   "kind": "配信",
+   "chatters": 272,
+   "member_chatters": 120,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -403,7 +403,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 121,
+   "like_count": 122,
    "view_count": null
   }
  ],
@@ -435,7 +435,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 121,
+   "like_count": 122,
    "view_count": null
   }
  ],
@@ -510,26 +510,26 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-30"
+    "to": "2026-10-31"
    },
-   "streams_analyzed": 27,
+   "streams_analyzed": 28,
    "streams_missed": 3,
-   "unique_chatters": 3047,
-   "members_confirmed": 470,
+   "unique_chatters": 3077,
+   "members_confirmed": 471,
    "member_classes": {
-    "known": 93,
+    "known": 94,
     "unknown": 356,
     "gift": 21
    },
-   "long_term_members": 291,
+   "long_term_members": 292,
    "badges": [
     {
      "months": 0,
-     "members": 43
+     "members": 42
     },
     {
      "months": 1,
-     "members": 12
+     "members": 13
     },
     {
      "months": 2,
@@ -541,7 +541,7 @@
     },
     {
      "months": 12,
-     "members": 166
+     "members": 167
     },
     {
      "months": 24,
@@ -551,23 +551,23 @@
    "events": {
     "new_members": 12,
     "rejoins": 3,
-    "milestones": 54,
+    "milestones": 56,
     "gifted_total": 21
    },
    "tiers": [
     {
      "tier": "もねゴンの集い",
      "price": 490,
-     "confirmed_members": 93,
-     "estimated_members": 449.0
+     "confirmed_members": 94,
+     "estimated_members": 450.0
     }
    ],
    "revenue": {
-    "monthly_low": 140006,
-    "monthly_est": 140006,
+    "monthly_low": 140318,
+    "monthly_est": 140318,
     "gift_once": 6548
    },
-   "avg_member_chatters": 140.7,
+   "avg_member_chatters": 140,
    "partial": true,
    "finalized": false
   }

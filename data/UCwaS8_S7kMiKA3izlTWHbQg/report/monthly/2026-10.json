@@ -2,22 +2,22 @@
  "month": "2026-10",
  "coverage": {
   "from": "2026-10-01",
-  "to": "2026-10-30"
+  "to": "2026-10-31"
  },
- "streams_analyzed": 20,
+ "streams_analyzed": 22,
  "streams_missed": 3,
- "unique_chatters": 1145,
- "members_confirmed": 180,
+ "unique_chatters": 1319,
+ "members_confirmed": 198,
  "member_classes": {
-  "unknown": 102,
-  "known": 39,
-  "gift": 39
+  "known": 47,
+  "unknown": 107,
+  "gift": 44
  },
- "long_term_members": 110,
+ "long_term_members": 116,
  "badges": [
   {
    "months": 0,
-   "members": 42
+   "members": 48
   },
   {
    "months": 1,
@@ -25,11 +25,11 @@
   },
   {
    "months": 2,
-   "members": 14
+   "members": 16
   },
   {
    "months": 6,
-   "members": 12
+   "members": 16
   },
   {
    "months": 12,
@@ -37,29 +37,29 @@
   },
   {
    "months": 24,
-   "members": 72
+   "members": 78
   }
  ],
  "events": {
   "new_members": 1,
-  "rejoins": 6,
-  "milestones": 29,
-  "gifted_total": 39
+  "rejoins": 7,
+  "milestones": 36,
+  "gifted_total": 44
  },
  "tiers": [
   {
    "tier": "The Dollhouse",
    "price": 490,
-   "confirmed_members": 39,
-   "estimated_members": 141.0
+   "confirmed_members": 47,
+   "estimated_members": 154.0
   }
  ],
  "revenue": {
-  "monthly_low": 43966,
-  "monthly_est": 43966,
-  "gift_once": 12161
+  "monthly_low": 48020,
+  "monthly_est": 48020,
+  "gift_once": 13720
  },
- "avg_member_chatters": 32.9,
+ "avg_member_chatters": 34.2,
  "partial": true,
  "finalized": false
 }

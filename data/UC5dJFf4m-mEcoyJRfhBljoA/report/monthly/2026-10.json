@@ -2,26 +2,26 @@
  "month": "2026-10",
  "coverage": {
   "from": "2026-10-01",
-  "to": "2026-10-30"
+  "to": "2026-10-31"
  },
- "streams_analyzed": 15,
+ "streams_analyzed": 17,
  "streams_missed": 2,
- "unique_chatters": 2232,
- "members_confirmed": 1231,
+ "unique_chatters": 2342,
+ "members_confirmed": 1264,
  "member_classes": {
-  "unknown": 1040,
-  "known": 130,
+  "unknown": 1064,
+  "known": 139,
   "gift": 61
  },
- "long_term_members": 709,
+ "long_term_members": 730,
  "badges": [
   {
    "months": 0,
-   "members": 133
+   "members": 138
   },
   {
    "months": 1,
-   "members": 48
+   "members": 51
   },
   {
    "months": 2,
@@ -29,39 +29,39 @@
   },
   {
    "months": 6,
-   "members": 165
+   "members": 169
   },
   {
    "months": 12,
-   "members": 709
+   "members": 730
   }
  ],
  "events": {
-  "new_members": 23,
-  "rejoins": 11,
-  "milestones": 77,
+  "new_members": 27,
+  "rejoins": 12,
+  "milestones": 82,
   "gifted_total": 62
  },
  "tiers": [
   {
    "tier": "アシスタントエージェント",
    "price": 140,
-   "confirmed_members": 8,
-   "estimated_members": 72.0
+   "confirmed_members": 11,
+   "estimated_members": 95.2
   },
   {
    "tier": "バディエージェント",
    "price": 490,
-   "confirmed_members": 122,
-   "estimated_members": 1098.0
+   "confirmed_members": 128,
+   "estimated_members": 1107.8
   }
  ],
  "revenue": {
-  "monthly_low": 131409,
-  "monthly_est": 348791,
+  "monthly_low": 135685,
+  "monthly_est": 353913,
   "gift_once": 5524
  },
- "avg_member_chatters": 356.6,
+ "avg_member_chatters": 353.1,
  "partial": true,
  "finalized": false
 }

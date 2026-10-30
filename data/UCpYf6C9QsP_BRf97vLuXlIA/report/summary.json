@@ -3,27 +3,27 @@
  "channel_id": "UCpYf6C9QsP_BRf97vLuXlIA",
  "handle": "@VantacrowBringer",
  "subscribers": 311000,
- "fetched_at": "2026-10-30 11:00",
- "generated_at": "2026-10-30 11:01",
+ "fetched_at": "2026-10-31 05:35",
+ "generated_at": "2026-10-31 05:36",
  "period": {
-  "from": "2026-09-30 11:00",
-  "to": "2026-10-30 11:00",
+  "from": "2026-10-01 05:35",
+  "to": "2026-10-31 05:35",
   "days": 30
  },
  "streams_analyzed": 27,
- "streams_missed": 2,
- "unique_chatters": 3404,
- "members_confirmed": 891,
+ "streams_missed": 3,
+ "unique_chatters": 3280,
+ "members_confirmed": 877,
  "member_classes": {
-  "known": 314,
-  "unknown": 329,
-  "gift": 248
+  "unknown": 317,
+  "known": 310,
+  "gift": 250
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 285
+   "members": 282
   },
   {
    "months": 1,
@@ -33,36 +33,36 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 105
+   "members": 107
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 92
+   "members": 90
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 155
+   "members": 150
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 117
+   "members": 110
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 90
+   "members": 91
   }
  ],
  "events": {
-  "new_members": 31,
-  "rejoins": 30,
-  "milestones": 215,
-  "gift_purchases": 83,
-  "gifted_total": 254,
-  "gift_redemptions": 252
+  "new_members": 26,
+  "rejoins": 31,
+  "milestones": 207,
+  "gift_purchases": 86,
+  "gifted_total": 257,
+  "gift_redemptions": 254
  },
  "tiers_configured": true,
  "tiers": [
@@ -70,32 +70,32 @@
    "tier": "Vantacrew",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 187,
-   "share_of_confirmed_pct": 59.6,
-   "allocated_unknown": 195.9,
-   "estimated_members": 382.9,
-   "monthly_net_confirmed": 82110,
-   "monthly_net_estimated": 168142
+   "confirmed_members": 184,
+   "share_of_confirmed_pct": 59.4,
+   "allocated_unknown": 188.2,
+   "estimated_members": 372.2,
+   "monthly_net_confirmed": 80793,
+   "monthly_net_estimated": 163410
   },
   {
    "tier": "Vantacrew Archives",
    "price": 1090,
    "net_per_member": 693.6,
-   "confirmed_members": 127,
-   "share_of_confirmed_pct": 40.4,
-   "allocated_unknown": 133.1,
-   "estimated_members": 260.1,
-   "monthly_net_confirmed": 88092,
-   "monthly_net_estimated": 180392
+   "confirmed_members": 126,
+   "share_of_confirmed_pct": 40.6,
+   "allocated_unknown": 128.8,
+   "estimated_members": 254.8,
+   "monthly_net_confirmed": 87398,
+   "monthly_net_estimated": 176770
   }
  ],
  "revenue": {
-  "monthly_low": 314663,
-  "monthly_est": 348534,
-  "gift_once": 111529,
-  "total_low": 426192,
-  "total_est": 460063,
-  "paying_members": 643,
+  "monthly_low": 307383,
+  "monthly_est": 340180,
+  "gift_once": 112846,
+  "total_low": 420229,
+  "total_est": 453026,
+  "paying_members": 627,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -104,16 +104,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "LwZOFd-iyHY",
-   "start": "2026-09-30 12:03",
-   "title": "【DRESSMAKER】I HAVE FASHION SENSE I SWEAR",
-   "kind": "配信",
-   "chatters": 504,
-   "member_chatters": 179,
-   "new_members": 7,
-   "gifted_total": 7
-  },
   {
    "video_id": "xNfvhNGWuIY",
    "start": "2026-10-01 12:17",
@@ -373,6 +363,16 @@
    "member_chatters": 88,
    "new_members": 1,
    "gifted_total": 8
+  },
+  {
+   "video_id": "dZUsTwBSzX8",
+   "start": "2026-10-30 10:00",
+   "title": "NOT STARVING WITH FRIENDS AGAIN!【DON'T STARVE TOGETHER 】",
+   "kind": "配信",
+   "chatters": 325,
+   "member_chatters": 127,
+   "new_members": 2,
+   "gifted_total": 10
   }
  ],
  "missed_streams": [
@@ -397,8 +397,20 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 71,
+   "like_count": 72,
    "view_count": null
+  },
+  {
+   "video_id": "R5StY56GqxY",
+   "start": "2026-10-30 00:00",
+   "title": "Vampire Boyfriend - Halloween BFE Audio",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 436,
+   "view_count": 3240
   }
  ],
  "members_only_content": [
@@ -429,7 +441,37 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 71,
+   "like_count": 72,
+   "view_count": null
+  },
+  {
+   "video_id": "S4aXyGZfQqY",
+   "start": "2026-10-30 19:36",
+   "title": "Vampire Boyfriend Part 2 - Halloween BFE Audio",
+   "kind": "video",
+   "status": "members_only_video",
+   "members_level": "",
+   "like_count": 80,
+   "view_count": null
+  },
+  {
+   "video_id": "DLSW4WNcMDA",
+   "start": "2026-10-30 23:30",
+   "title": "【Tyrant Tales: Echoes EX】Episode 1 - An Uneasy Quiet",
+   "kind": "video",
+   "status": "members_only_video",
+   "members_level": "Vantacrew Archives",
+   "like_count": 17,
+   "view_count": null
+  },
+  {
+   "video_id": "TT-ZV44YP40",
+   "start": "2026-10-30 23:47",
+   "title": "【Tyrant Tales Echoes - Uncut】Episode 1  - Newly Arisen",
+   "kind": "video",
+   "status": "members_only_video",
+   "members_level": "Vantacrew Archives",
+   "like_count": 15,
    "view_count": null
   }
  ],
@@ -514,74 +556,74 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-30"
+    "to": "2026-10-31"
    },
-   "streams_analyzed": 26,
-   "streams_missed": 2,
-   "unique_chatters": 3223,
-   "members_confirmed": 857,
+   "streams_analyzed": 27,
+   "streams_missed": 3,
+   "unique_chatters": 3280,
+   "members_confirmed": 877,
    "member_classes": {
-    "unknown": 312,
-    "known": 304,
-    "gift": 241
+    "unknown": 317,
+    "known": 310,
+    "gift": 250
    },
-   "long_term_members": 348,
+   "long_term_members": 351,
    "badges": [
     {
      "months": 0,
-     "members": 274
+     "members": 282
     },
     {
      "months": 1,
-     "members": 45
+     "members": 47
     },
     {
      "months": 2,
-     "members": 102
+     "members": 107
     },
     {
      "months": 6,
-     "members": 88
+     "members": 90
     },
     {
      "months": 12,
-     "members": 149
+     "members": 150
     },
     {
      "months": 24,
-     "members": 111
+     "members": 110
     },
     {
      "months": 36,
-     "members": 88
+     "members": 91
     }
    ],
    "events": {
-    "new_members": 24,
-    "rejoins": 28,
-    "milestones": 200,
-    "gifted_total": 247
+    "new_members": 26,
+    "rejoins": 31,
+    "milestones": 207,
+    "gifted_total": 257
    },
    "tiers": [
     {
      "tier": "Vantacrew",
      "price": 690,
-     "confirmed_members": 179,
-     "estimated_members": 362.7
+     "confirmed_members": 184,
+     "estimated_members": 372.2
     },
     {
      "tier": "Vantacrew Archives",
      "price": 1090,
-     "confirmed_members": 125,
-     "estimated_members": 253.3
+     "confirmed_members": 126,
+     "estimated_members": 254.8
     }
    ],
    "revenue": {
-    "monthly_low": 302298,
-    "monthly_est": 334954,
-    "gift_once": 108455
+    "monthly_low": 307383,
+    "monthly_est": 340180,
+    "gift_once": 112846
    },
-   "avg_member_chatters": 119.4,
+   "avg_member_chatters": 119.7,
    "partial": true,
    "finalized": false
   }

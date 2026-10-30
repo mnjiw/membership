@@ -3,19 +3,19 @@
  "channel_id": "UC3lNFeJiTq6L3UWoz4g1e-A",
  "handle": "@UzukiKou",
  "subscribers": 462000,
- "fetched_at": "2026-10-30 10:56",
- "generated_at": "2026-10-30 10:56",
+ "fetched_at": "2026-10-31 05:19",
+ "generated_at": "2026-10-31 05:19",
  "period": {
-  "from": "2026-09-30 10:56",
-  "to": "2026-10-30 10:56",
+  "from": "2026-10-01 05:19",
+  "to": "2026-10-31 05:19",
   "days": 30
  },
- "streams_analyzed": 13,
+ "streams_analyzed": 14,
  "streams_missed": 1,
- "unique_chatters": 4296,
- "members_confirmed": 757,
+ "unique_chatters": 4318,
+ "members_confirmed": 762,
  "member_classes": {
-  "unknown": 667,
+  "unknown": 672,
   "known": 71,
   "gift": 19
  },
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 37
+   "members": 38
   },
   {
    "months": 6,
@@ -53,12 +53,12 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 119
+   "members": 118
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 294
+   "members": 299
   }
  ],
  "events": {
@@ -77,19 +77,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 71,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 667.0,
-   "estimated_members": 738.0,
+   "allocated_unknown": 672.0,
+   "estimated_members": 743.0,
    "monthly_net_confirmed": 22139,
-   "monthly_net_estimated": 230122
+   "monthly_net_estimated": 231681
   }
  ],
  "revenue": {
-  "monthly_low": 230122,
-  "monthly_est": 230122,
+  "monthly_low": 231681,
+  "monthly_est": 231681,
   "gift_once": 6236,
-  "total_low": 236358,
-  "total_est": 236358,
-  "paying_members": 738,
+  "total_low": 237917,
+  "total_est": 237917,
+  "paying_members": 743,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -227,6 +227,16 @@
    "member_chatters": 202,
    "new_members": 0,
    "gifted_total": 20
+  },
+  {
+   "video_id": "4ICX1wV-8Fk",
+   "start": "2026-10-30 22:02",
+   "title": "【PUBG MOBILE】にじさんじ随一のヒットマンたち【葛葉/早乙女ベリー】",
+   "kind": "配信",
+   "chatters": 230,
+   "member_chatters": 132,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -334,18 +344,18 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-30"
+    "to": "2026-10-31"
    },
-   "streams_analyzed": 13,
+   "streams_analyzed": 14,
    "streams_missed": 1,
-   "unique_chatters": 4296,
-   "members_confirmed": 757,
+   "unique_chatters": 4318,
+   "members_confirmed": 762,
    "member_classes": {
-    "unknown": 667,
+    "unknown": 672,
     "known": 71,
     "gift": 19
    },
-   "long_term_members": 620,
+   "long_term_members": 624,
    "badges": [
     {
      "months": 0,
@@ -357,7 +367,7 @@
     },
     {
      "months": 2,
-     "members": 37
+     "members": 38
     },
     {
      "months": 6,
@@ -373,11 +383,11 @@
     },
     {
      "months": 36,
-     "members": 119
+     "members": 118
     },
     {
      "months": 48,
-     "members": 294
+     "members": 299
     }
    ],
    "events": {
@@ -391,15 +401,15 @@
      "tier": "卯月コウのメンバーシップ",
      "price": 490,
      "confirmed_members": 71,
-     "estimated_members": 738.0
+     "estimated_members": 743.0
     }
    ],
    "revenue": {
-    "monthly_low": 230122,
-    "monthly_est": 230122,
+    "monthly_low": 231681,
+    "monthly_est": 231681,
     "gift_once": 6236
    },
-   "avg_member_chatters": 231.7,
+   "avg_member_chatters": 224.6,
    "partial": true,
    "finalized": false
   }

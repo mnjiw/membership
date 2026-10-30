@@ -2,20 +2,20 @@
  "channel": "立伝都々 / Tachitsute Toto【にじさんじ】",
  "channel_id": "UCnbJ8LTbHrsRgqkxwJXCU8w",
  "handle": "@TachitsuteToto",
- "subscribers": 182000,
- "fetched_at": "2026-10-30 10:59",
- "generated_at": "2026-10-30 10:59",
+ "subscribers": 183000,
+ "fetched_at": "2026-10-31 05:29",
+ "generated_at": "2026-10-31 05:30",
  "period": {
-  "from": "2026-09-30 10:59",
-  "to": "2026-10-30 10:59",
+  "from": "2026-10-01 05:29",
+  "to": "2026-10-31 05:29",
   "days": 30
  },
- "streams_analyzed": 16,
+ "streams_analyzed": 17,
  "streams_missed": 1,
- "unique_chatters": 2363,
- "members_confirmed": 348,
+ "unique_chatters": 2398,
+ "members_confirmed": 349,
  "member_classes": {
-  "unknown": 267,
+  "unknown": 268,
   "known": 11,
   "gift": 70
  },
@@ -33,17 +33,17 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 37
+   "members": 38
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 36
+   "members": 34
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 65
+   "members": 67
   },
   {
    "months": 24,
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 11,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 267.0,
-   "estimated_members": 278.0,
+   "allocated_unknown": 268.0,
+   "estimated_members": 279.0,
    "monthly_net_confirmed": 3430,
-   "monthly_net_estimated": 86685
+   "monthly_net_estimated": 86997
   }
  ],
  "revenue": {
-  "monthly_low": 86685,
-  "monthly_est": 86685,
+  "monthly_low": 86997,
+  "monthly_est": 86997,
   "gift_once": 21827,
-  "total_low": 108513,
-  "total_est": 108513,
-  "paying_members": 278,
+  "total_low": 108825,
+  "total_est": 108825,
+  "paying_members": 279,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -247,6 +247,16 @@
    "member_chatters": 79,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "P0dmETufi7k",
+   "start": "2026-10-30 20:03",
+   "title": "#14【空の軌跡 the 2nd 】ふたりはいつかまた逢える🧭気を抜くとよだれが出ます。【立伝都々/にじさんじ】",
+   "kind": "配信",
+   "chatters": 445,
+   "member_chatters": 70,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -346,18 +356,18 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-30"
+    "to": "2026-10-31"
    },
-   "streams_analyzed": 16,
+   "streams_analyzed": 17,
    "streams_missed": 1,
-   "unique_chatters": 2363,
-   "members_confirmed": 348,
+   "unique_chatters": 2398,
+   "members_confirmed": 349,
    "member_classes": {
-    "unknown": 267,
+    "unknown": 268,
     "known": 11,
     "gift": 70
    },
-   "long_term_members": 178,
+   "long_term_members": 180,
    "badges": [
     {
      "months": 0,
@@ -369,15 +379,15 @@
     },
     {
      "months": 2,
-     "members": 37
+     "members": 38
     },
     {
      "months": 6,
-     "members": 36
+     "members": 34
     },
     {
      "months": 12,
-     "members": 65
+     "members": 67
     },
     {
      "months": 24,
@@ -395,15 +405,15 @@
      "tier": "お助け部の倉庫",
      "price": 490,
      "confirmed_members": 11,
-     "estimated_members": 278.0
+     "estimated_members": 279.0
     }
    ],
    "revenue": {
-    "monthly_low": 86685,
-    "monthly_est": 86685,
+    "monthly_low": 86997,
+    "monthly_est": 86997,
     "gift_once": 21827
    },
-   "avg_member_chatters": 95,
+   "avg_member_chatters": 93.5,
    "partial": true,
    "finalized": false
   }

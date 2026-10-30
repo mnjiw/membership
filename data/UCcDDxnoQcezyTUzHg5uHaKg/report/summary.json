@@ -3,19 +3,19 @@
  "channel_id": "UCcDDxnoQcezyTUzHg5uHaKg",
  "handle": "@ShikinagiAkira",
  "subscribers": 501000,
- "fetched_at": "2026-10-30 10:58",
- "generated_at": "2026-10-30 10:58",
+ "fetched_at": "2026-10-31 05:25",
+ "generated_at": "2026-10-31 05:26",
  "period": {
-  "from": "2026-09-30 10:58",
-  "to": "2026-10-30 10:58",
+  "from": "2026-10-01 05:25",
+  "to": "2026-10-31 05:25",
   "days": 30
  },
- "streams_analyzed": 13,
+ "streams_analyzed": 14,
  "streams_missed": 1,
- "unique_chatters": 4363,
- "members_confirmed": 1485,
+ "unique_chatters": 4392,
+ "members_confirmed": 1492,
  "member_classes": {
-  "unknown": 1233,
+  "unknown": 1240,
   "known": 235,
   "gift": 17
  },
@@ -23,32 +23,32 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 78
+   "members": 80
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 39
+   "members": 37
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 158
+   "members": 160
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 228
+   "members": 227
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 446
+   "members": 448
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 536
+   "members": 540
   }
  ],
  "events": {
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 235,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1233.0,
-   "estimated_members": 1468.0,
+   "allocated_unknown": 1240.0,
+   "estimated_members": 1475.0,
    "monthly_net_confirmed": 73277,
-   "monthly_net_estimated": 457749
+   "monthly_net_estimated": 459932
   }
  ],
  "revenue": {
-  "monthly_low": 457749,
-  "monthly_est": 457749,
+  "monthly_low": 459932,
+  "monthly_est": 459932,
   "gift_once": 4677,
-  "total_low": 462426,
-  "total_est": 462426,
-  "paying_members": 1468,
+  "total_low": 464609,
+  "total_est": 464609,
+  "paying_members": 1475,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -217,6 +217,16 @@
    "member_chatters": 235,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "9CIUM79nVs0",
+   "start": "2026-10-30 22:00",
+   "title": "チーム8初顔合わせ！ハイドラか？それとも……。【四季凪アキラ視点/#にじイカ祭り2026】",
+   "kind": "配信",
+   "chatters": 392,
+   "member_chatters": 319,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -304,42 +314,42 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-30"
+    "to": "2026-10-31"
    },
-   "streams_analyzed": 13,
+   "streams_analyzed": 14,
    "streams_missed": 1,
-   "unique_chatters": 4363,
-   "members_confirmed": 1485,
+   "unique_chatters": 4392,
+   "members_confirmed": 1492,
    "member_classes": {
-    "unknown": 1233,
+    "unknown": 1240,
     "known": 235,
     "gift": 17
    },
-   "long_term_members": 982,
+   "long_term_members": 988,
    "badges": [
     {
      "months": 0,
-     "members": 78
+     "members": 80
     },
     {
      "months": 1,
-     "members": 39
+     "members": 37
     },
     {
      "months": 2,
-     "members": 158
+     "members": 160
     },
     {
      "months": 6,
-     "members": 228
+     "members": 227
     },
     {
      "months": 12,
-     "members": 446
+     "members": 448
     },
     {
      "months": 24,
-     "members": 536
+     "members": 540
     }
    ],
    "events": {
@@ -353,15 +363,15 @@
      "tier": "凪友",
      "price": 490,
      "confirmed_members": 235,
-     "estimated_members": 1468.0
+     "estimated_members": 1475.0
     }
    ],
    "revenue": {
-    "monthly_low": 457749,
-    "monthly_est": 457749,
+    "monthly_low": 459932,
+    "monthly_est": 459932,
     "gift_once": 4677
    },
-   "avg_member_chatters": 411.4,
+   "avg_member_chatters": 404.8,
    "partial": true,
    "finalized": false
   }

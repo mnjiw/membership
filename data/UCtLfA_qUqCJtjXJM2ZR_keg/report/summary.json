@@ -3,27 +3,27 @@
  "channel_id": "UCtLfA_qUqCJtjXJM2ZR_keg",
  "handle": "@IshigamiNozomi",
  "subscribers": 440000,
- "fetched_at": "2026-10-30 10:58",
- "generated_at": "2026-10-30 10:59",
+ "fetched_at": "2026-10-31 05:27",
+ "generated_at": "2026-10-31 05:28",
  "period": {
-  "from": "2026-09-30 10:58",
-  "to": "2026-10-30 10:58",
+  "from": "2026-10-01 05:27",
+  "to": "2026-10-31 05:27",
   "days": 30
  },
- "streams_analyzed": 16,
- "streams_missed": 1,
- "unique_chatters": 10494,
- "members_confirmed": 2073,
+ "streams_analyzed": 17,
+ "streams_missed": 0,
+ "unique_chatters": 10163,
+ "members_confirmed": 2068,
  "member_classes": {
-  "unknown": 2006,
-  "known": 57,
-  "gift": 10
+  "unknown": 2001,
+  "gift": 10,
+  "known": 57
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 101
+   "members": 96
   },
   {
    "months": 1,
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 309
+   "members": 303
   },
   {
    "months": 6,
@@ -43,12 +43,12 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 428
+   "members": 432
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 908
+   "members": 910
   }
  ],
  "events": {
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 57,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2006.0,
-   "estimated_members": 2063.0,
+   "allocated_unknown": 2001.0,
+   "estimated_members": 2058.0,
    "monthly_net_confirmed": 17774,
-   "monthly_net_estimated": 643281
+   "monthly_net_estimated": 641722
   }
  ],
  "revenue": {
-  "monthly_low": 643281,
-  "monthly_est": 643281,
+  "monthly_low": 641722,
+  "monthly_est": 641722,
   "gift_once": 3118,
-  "total_low": 646399,
-  "total_est": 646399,
-  "paying_members": 2063,
+  "total_low": 644840,
+  "total_est": 644840,
+  "paying_members": 2058,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "2HfzEHxNsTs",
-   "start": "2026-09-30 21:05",
-   "title": "【 東方紅魔郷NC 】2026年に発売された小学生に人気のゲーム【 にじさんじ所属 ／ 石神のぞみ 】",
-   "kind": "配信",
-   "chatters": 1796,
-   "member_chatters": 510,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "sNDNx8bz3UQ",
    "start": "2026-10-04 00:36",
@@ -247,22 +237,29 @@
    "member_chatters": 1233,
    "new_members": 16,
    "gifted_total": 5
-  }
- ],
- "missed_streams": [
+  },
   {
-   "video_id": "flev3pFQAzA",
-   "start": "2026-10-27 00:00",
-   "title": "『迷子の男の子、けいすけ君』が予想外すぎる登場をして爆笑する石神【 デュエプレ / 石神のぞみ #石神のぞみ切り抜き 】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 1511,
-   "view_count": 110746
+   "video_id": "DwtI38SYaHg",
+   "start": "2026-10-30 19:02",
+   "title": "【 外ロケVlog 】  石神とそとにでよう！#1 陶芸BAR ~ろくろ体験をしながら酒を飲もう編~",
+   "kind": "プレミア",
+   "chatters": 578,
+   "member_chatters": 349,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "ZyMo27dhLi0",
+   "start": "2026-10-30 22:02",
+   "title": "【 Meowdoku! 】猫×ナンプレ！🎃ハマりすぎてライバーにすすめまくったゲーム【 にじさんじ所属 ／ 石神のぞみ 】",
+   "kind": "配信",
+   "chatters": 919,
+   "member_chatters": 458,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -334,46 +331,46 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-30"
+    "to": "2026-10-31"
    },
-   "streams_analyzed": 15,
-   "streams_missed": 1,
-   "unique_chatters": 9901,
-   "members_confirmed": 2042,
+   "streams_analyzed": 17,
+   "streams_missed": 0,
+   "unique_chatters": 10163,
+   "members_confirmed": 2068,
    "member_classes": {
-    "unknown": 1976,
+    "unknown": 2001,
     "gift": 10,
-    "known": 56
+    "known": 57
    },
-   "long_term_members": 1322,
+   "long_term_members": 1342,
    "badges": [
     {
      "months": 0,
-     "members": 97
+     "members": 96
     },
     {
      "months": 1,
-     "members": 61
+     "members": 63
     },
     {
      "months": 2,
-     "members": 302
+     "members": 303
     },
     {
      "months": 6,
-     "members": 260
+     "members": 264
     },
     {
      "months": 12,
-     "members": 426
+     "members": 432
     },
     {
      "months": 24,
-     "members": 896
+     "members": 910
     }
    ],
    "events": {
-    "new_members": 36,
+    "new_members": 37,
     "rejoins": 13,
     "milestones": 0,
     "gifted_total": 10
@@ -382,16 +379,16 @@
     {
      "tier": "神者たち",
      "price": 490,
-     "confirmed_members": 56,
-     "estimated_members": 2032.0
+     "confirmed_members": 57,
+     "estimated_members": 2058.0
     }
    ],
    "revenue": {
-    "monthly_low": 633615,
-    "monthly_est": 633615,
+    "monthly_low": 641722,
+    "monthly_est": 641722,
     "gift_once": 3118
    },
-   "avg_member_chatters": 599.5,
+   "avg_member_chatters": 576.5,
    "partial": true,
    "finalized": false
   }

@@ -3,36 +3,36 @@
  "channel_id": "UCEFOogmvTTcCaO8Qe0I8-tg",
  "handle": "@KaelixDebonair",
  "subscribers": 242000,
- "fetched_at": "2026-10-30 11:01",
- "generated_at": "2026-10-30 11:01",
+ "fetched_at": "2026-10-31 05:36",
+ "generated_at": "2026-10-31 05:36",
  "period": {
-  "from": "2026-09-30 11:01",
-  "to": "2026-10-30 11:01",
+  "from": "2026-10-01 05:36",
+  "to": "2026-10-31 05:36",
   "days": 30
  },
- "streams_analyzed": 6,
+ "streams_analyzed": 7,
  "streams_missed": 2,
- "unique_chatters": 2304,
- "members_confirmed": 802,
+ "unique_chatters": 2479,
+ "members_confirmed": 840,
  "member_classes": {
-  "unknown": 731,
-  "known": 28,
+  "unknown": 768,
+  "known": 29,
   "gift": 43
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 371
+   "members": 386
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 431
+   "members": 454
   }
  ],
  "events": {
-  "new_members": 9,
+  "new_members": 10,
   "rejoins": 2,
   "milestones": 0,
   "gift_purchases": 10,
@@ -45,21 +45,21 @@
    "tier": "Debonheir Royale",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 28,
+   "confirmed_members": 29,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 731.0,
-   "estimated_members": 759.0,
-   "monthly_net_confirmed": 12295,
-   "monthly_net_estimated": 333270
+   "allocated_unknown": 768.0,
+   "estimated_members": 797.0,
+   "monthly_net_confirmed": 12734,
+   "monthly_net_estimated": 349955
   }
  ],
  "revenue": {
-  "monthly_low": 333270,
-  "monthly_est": 333270,
+  "monthly_low": 349955,
+  "monthly_est": 349955,
   "gift_once": 18881,
-  "total_low": 352151,
-  "total_est": 352151,
-  "paying_members": 759,
+  "total_low": 368836,
+  "total_est": 368836,
+  "paying_members": 797,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -127,6 +127,16 @@
    "member_chatters": 338,
    "new_members": 3,
    "gifted_total": 15
+  },
+  {
+   "video_id": "WfQJ1JFzs-I",
+   "start": "2026-10-30 10:18",
+   "title": "【DON'T STARVE TOGETHER】 hi 【NIJISANJI EN | Kaelix Debonair】",
+   "kind": "配信",
+   "chatters": 549,
+   "member_chatters": 248,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -139,7 +149,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 382,
+   "like_count": 383,
    "view_count": null
   },
   {
@@ -163,7 +173,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 382,
+   "like_count": 383,
    "view_count": null
   },
   {
@@ -232,30 +242,30 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-30"
+    "to": "2026-10-31"
    },
-   "streams_analyzed": 6,
+   "streams_analyzed": 7,
    "streams_missed": 2,
-   "unique_chatters": 2304,
-   "members_confirmed": 802,
+   "unique_chatters": 2479,
+   "members_confirmed": 840,
    "member_classes": {
-    "unknown": 731,
-    "known": 28,
+    "unknown": 768,
+    "known": 29,
     "gift": 43
    },
-   "long_term_members": 431,
+   "long_term_members": 454,
    "badges": [
     {
      "months": 0,
-     "members": 371
+     "members": 386
     },
     {
      "months": 12,
-     "members": 431
+     "members": 454
     }
    ],
    "events": {
-    "new_members": 9,
+    "new_members": 10,
     "rejoins": 2,
     "milestones": 0,
     "gifted_total": 43
@@ -264,16 +274,16 @@
     {
      "tier": "Debonheir Royale",
      "price": 690,
-     "confirmed_members": 28,
-     "estimated_members": 759.0
+     "confirmed_members": 29,
+     "estimated_members": 797.0
     }
    ],
    "revenue": {
-    "monthly_low": 333270,
-    "monthly_est": 333270,
+    "monthly_low": 349955,
+    "monthly_est": 349955,
     "gift_once": 18881
    },
-   "avg_member_chatters": 317.2,
+   "avg_member_chatters": 307.3,
    "partial": true,
    "finalized": false
   }

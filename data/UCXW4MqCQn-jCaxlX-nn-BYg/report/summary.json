@@ -2,20 +2,20 @@
  "channel": "長尾 景 / Nagao Kei【にじさんじ】",
  "channel_id": "UCXW4MqCQn-jCaxlX-nn-BYg",
  "handle": "@NagaoKei",
- "subscribers": 562000,
- "fetched_at": "2026-10-30 10:57",
- "generated_at": "2026-10-30 10:58",
+ "subscribers": 563000,
+ "fetched_at": "2026-10-31 05:23",
+ "generated_at": "2026-10-31 05:24",
  "period": {
-  "from": "2026-09-30 10:57",
-  "to": "2026-10-30 10:57",
+  "from": "2026-10-01 05:23",
+  "to": "2026-10-31 05:23",
   "days": 30
  },
- "streams_analyzed": 23,
+ "streams_analyzed": 22,
  "streams_missed": 5,
- "unique_chatters": 7865,
- "members_confirmed": 1196,
+ "unique_chatters": 7819,
+ "members_confirmed": 1185,
  "member_classes": {
-  "unknown": 1022,
+  "unknown": 1011,
   "known": 163,
   "gift": 11
  },
@@ -38,17 +38,17 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 96
+   "members": 95
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 208
+   "members": 203
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 743
+   "members": 738
   }
  ],
  "events": {
@@ -67,10 +67,10 @@
    "net_per_member": 89.1,
    "confirmed_members": 7,
    "share_of_confirmed_pct": 4.3,
-   "allocated_unknown": 43.9,
-   "estimated_members": 50.9,
+   "allocated_unknown": 43.4,
+   "estimated_members": 50.4,
    "monthly_net_confirmed": 624,
-   "monthly_net_estimated": 4534
+   "monthly_net_estimated": 4492
   },
   {
    "tier": "ゆうしきしゃ16GB",
@@ -78,10 +78,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 53,
    "share_of_confirmed_pct": 32.5,
-   "allocated_unknown": 332.3,
-   "estimated_members": 385.3,
+   "allocated_unknown": 328.7,
+   "estimated_members": 381.7,
    "monthly_net_confirmed": 16526,
-   "monthly_net_estimated": 120146
+   "monthly_net_estimated": 119030
   },
   {
    "tier": "ゆうしきしゃ32GB",
@@ -89,19 +89,19 @@
    "net_per_member": 1266.4,
    "confirmed_members": 103,
    "share_of_confirmed_pct": 63.2,
-   "allocated_unknown": 645.8,
-   "estimated_members": 748.8,
+   "allocated_unknown": 638.9,
+   "estimated_members": 741.9,
    "monthly_net_confirmed": 130435,
-   "monthly_net_estimated": 948258
+   "monthly_net_estimated": 939455
   }
  ],
  "revenue": {
-  "monthly_low": 238636,
-  "monthly_est": 1072937,
+  "monthly_low": 237656,
+  "monthly_est": 1062977,
   "gift_once": 980,
-  "total_low": 239616,
-  "total_est": 1073917,
-  "paying_members": 1185,
+  "total_low": 238636,
+  "total_est": 1063957,
+  "paying_members": 1174,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -110,16 +110,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "HxMd0fi965Q",
-   "start": "2026-09-30 11:02",
-   "title": "【雑談】ひるざつだん【長尾景/にじさんじ】【#ながおしゃべり】",
-   "kind": "配信",
-   "chatters": 352,
-   "member_chatters": 252,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "2XARUAPGslQ",
    "start": "2026-10-03 19:03",
@@ -343,18 +333,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "n5NYlE47qfw",
-   "start": "2026-09-30 22:00",
-   "title": "【めっちゃカメレオン】定期16メン限",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "ゆうしきしゃ16GB",
-   "like_count": 375,
-   "view_count": null
-  },
-  {
    "video_id": "9bwRuV2HISA",
    "start": "2026-10-18 12:07",
    "title": "定期16メン限",
@@ -363,7 +341,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "ゆうしきしゃ16GB",
-   "like_count": 377,
+   "like_count": 378,
    "view_count": null
   },
   {
@@ -399,29 +377,31 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "ゆうしきしゃ32GB",
-   "like_count": 222,
+   "like_count": 243,
    "view_count": null
+  },
+  {
+   "video_id": "AM6EZLNLka8",
+   "start": "2026-10-30 00:00",
+   "title": "【#にじイカ祭り2026】ミリしらスプラトゥーン【長尾景/にじさんじ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 2423,
+   "view_count": 142269
   }
  ],
  "members_only_content": [
   {
-   "video_id": "n5NYlE47qfw",
-   "start": "2026-09-30 22:00",
-   "title": "【めっちゃカメレオン】定期16メン限",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "ゆうしきしゃ16GB",
-   "like_count": 375,
-   "view_count": null
-  },
-  {
    "video_id": "9bwRuV2HISA",
    "start": "2026-10-18 12:07",
    "title": "定期16メン限",
    "kind": "live",
    "status": "members_only",
    "members_level": "ゆうしきしゃ16GB",
-   "like_count": 377,
+   "like_count": 378,
    "view_count": null
   },
   {
@@ -451,7 +431,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "ゆうしきしゃ32GB",
-   "like_count": 222,
+   "like_count": 243,
    "view_count": null
   }
  ],
@@ -537,10 +517,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-30"
+    "to": "2026-10-31"
    },
    "streams_analyzed": 22,
-   "streams_missed": 4,
+   "streams_missed": 5,
    "unique_chatters": 7819,
    "members_confirmed": 1185,
    "member_classes": {

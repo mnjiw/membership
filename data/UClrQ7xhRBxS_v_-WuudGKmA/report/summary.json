@@ -3,27 +3,27 @@
  "channel_id": "UClrQ7xhRBxS_v_-WuudGKmA",
  "handle": "@KaburakiRoco",
  "subscribers": 259000,
- "fetched_at": "2026-10-30 10:58",
- "generated_at": "2026-10-30 10:58",
+ "fetched_at": "2026-10-31 05:27",
+ "generated_at": "2026-10-31 05:27",
  "period": {
-  "from": "2026-09-30 10:58",
-  "to": "2026-10-30 10:58",
+  "from": "2026-10-01 05:27",
+  "to": "2026-10-31 05:27",
   "days": 30
  },
- "streams_analyzed": 20,
- "streams_missed": 5,
- "unique_chatters": 3600,
- "members_confirmed": 779,
+ "streams_analyzed": 19,
+ "streams_missed": 6,
+ "unique_chatters": 3554,
+ "members_confirmed": 775,
  "member_classes": {
-  "unknown": 648,
-  "known": 27,
+  "unknown": 645,
+  "known": 26,
   "gift": 104
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 148
+   "members": 147
   },
   {
    "months": 1,
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 72
+   "members": 71
   },
   {
    "months": 6,
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 172
+   "members": 170
   },
   {
    "months": 24,
@@ -57,7 +57,7 @@
   }
  ],
  "events": {
-  "new_members": 18,
+  "new_members": 17,
   "rejoins": 2,
   "milestones": 0,
   "gift_purchases": 11,
@@ -70,21 +70,21 @@
    "tier": "鏑木ろこのメンバーシップ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 27,
+   "confirmed_members": 26,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 648.0,
-   "estimated_members": 675.0,
-   "monthly_net_confirmed": 8419,
-   "monthly_net_estimated": 210477
+   "allocated_unknown": 645.0,
+   "estimated_members": 671.0,
+   "monthly_net_confirmed": 8107,
+   "monthly_net_estimated": 209230
   }
  ],
  "revenue": {
-  "monthly_low": 210477,
-  "monthly_est": 210477,
+  "monthly_low": 209230,
+  "monthly_est": 209230,
   "gift_once": 33988,
-  "total_low": 244465,
-  "total_est": 244465,
-  "paying_members": 675,
+  "total_low": 243218,
+  "total_est": 243218,
+  "paying_members": 671,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "yUVe2eItTTc",
-   "start": "2026-09-30 21:02",
-   "title": "【 BOMBANANA! 】 ろべりこで役割分担して爆弾解除するぞっっ！ 【 早乙女ベリー￤司賀りこ￤鏑木ろこ￤にじさんじ 】",
-   "kind": "配信",
-   "chatters": 287,
-   "member_chatters": 145,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "xhfyKgar3x0",
    "start": "2026-10-01 07:01",
@@ -328,7 +318,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 203,
+   "like_count": 202,
    "view_count": null
   },
   {
@@ -353,6 +343,18 @@
    "members_only": true,
    "members_level": "",
    "like_count": 84,
+   "view_count": null
+  },
+  {
+   "video_id": "3SYfwFJXSwI",
+   "start": "2026-10-30 23:02",
+   "title": "【 メン限同時視聴 】野生の島のロズ",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 69,
    "view_count": null
   }
  ],
@@ -384,7 +386,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 203,
+   "like_count": 202,
    "view_count": null
   },
   {
@@ -405,6 +407,16 @@
    "status": "members_only",
    "members_level": "",
    "like_count": 84,
+   "view_count": null
+  },
+  {
+   "video_id": "3SYfwFJXSwI",
+   "start": "2026-10-30 23:02",
+   "title": "【 メン限同時視聴 】野生の島のロズ",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 69,
    "view_count": null
   }
  ],
@@ -483,10 +495,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-30"
+    "to": "2026-10-31"
    },
    "streams_analyzed": 19,
-   "streams_missed": 5,
+   "streams_missed": 6,
    "unique_chatters": 3554,
    "members_confirmed": 775,
    "member_classes": {

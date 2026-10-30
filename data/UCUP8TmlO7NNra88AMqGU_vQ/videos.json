@@ -772,17 +772,15 @@
    "start_ts": 1793026800.0,
    "start_jst": "2026-10-27 00:00",
    "duration_sec": null,
-   "view_count": 19323,
-   "like_count": 388,
+   "view_count": 19779,
+   "like_count": 395,
    "live_status": null,
    "members_only": false,
    "has_chat": false,
-   "checked_at": "2026-10-30 10:58",
+   "checked_at": "2026-10-31 05:27",
    "info_limited": true,
-   "error": "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)",
-   "tab": "video",
-   "status": "error",
-   "failed_since_ts": 1793132817.2622743
+   "settled_while_limited": true,
+   "status": "skip_not_stream"
   },
   "AhQs0pmtJC8": {
    "id": "AhQs0pmtJC8",
@@ -825,8 +823,8 @@
  "channel_id": "UCUP8TmlO7NNra88AMqGU_vQ",
  "handle": "@KoshimizuToru",
  "subscribers": 394000,
- "fetched_at": "2026-10-30 10:58",
- "fetched_at_ts": 1793325527.2580862,
- "checked_from": "2026-10-23 10:58",
+ "fetched_at": "2026-10-31 05:27",
+ "fetched_at_ts": 1793392032.193621,
+ "checked_from": "2026-10-24 05:27",
  "initial_fetch_done": true
 }

@@ -3,16 +3,16 @@
  "channel_id": "UCnzZmBOSrQf2wDBbnsDajVw",
  "handle": "@OhJiyu",
  "subscribers": 60700,
- "fetched_at": "2026-10-30 10:58",
- "generated_at": "2026-10-30 10:58",
+ "fetched_at": "2026-10-31 05:27",
+ "generated_at": "2026-10-31 05:27",
  "period": {
-  "from": "2026-09-30 10:58",
-  "to": "2026-10-30 10:58",
+  "from": "2026-10-01 05:27",
+  "to": "2026-10-31 05:27",
   "days": 30
  },
  "streams_analyzed": 10,
  "streams_missed": 3,
- "unique_chatters": 126,
+ "unique_chatters": 123,
  "members_confirmed": 80,
  "member_classes": {
   "known": 9,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "rcdsBPgYQsQ",
-   "start": "2026-09-30 16:47",
-   "title": "【고요한 시골 정원 이야기】21. 광산의 끝을 보겠다는 원대한 꿈【스포일러 주의!!!】",
-   "kind": "配信",
-   "chatters": 13,
-   "member_chatters": 5,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "08UlCL2srUE",
    "start": "2026-10-12 21:32",
@@ -187,21 +177,19 @@
    "member_chatters": 3,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "i-mp2Wsth04",
+   "start": "2026-10-29 23:46",
+   "title": "【Arknights】It’s time to finally clear those hard stages I’ve been putting off【NIJISANJI/Jiyu】",
+   "kind": "配信",
+   "chatters": 8,
+   "member_chatters": 3,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
-  {
-   "video_id": "jMnxyDRF7kE",
-   "start": "2026-09-30 21:03",
-   "title": "【雑談？】EmoteLabで色々作ってみましょう！！！",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "방안의 아기새냥이/部屋の中の子猫鳥",
-   "like_count": 13,
-   "view_count": null
-  },
   {
    "video_id": "s90QM4zZ-Fc",
    "start": "2026-10-27 22:34",
@@ -215,29 +203,31 @@
    "view_count": null
   },
   {
-   "video_id": "i-mp2Wsth04",
-   "start": "2026-10-29 00:00",
-   "title": "【명일방주】미뤄뒀던 하드 스테이지를 밀 때가 왔습니다【니지산지/지유】",
+   "video_id": "SgbLqnb2vjA",
+   "start": "2026-10-30 00:00",
+   "title": "【 #にじイカ祭り2026 】リハビリじゃい！ 【にじさんじ／ジユ】",
    "kind": "video",
    "status": "error",
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
    "like_count": null,
-   "view_count": 1004
+   "view_count": 2000
+  },
+  {
+   "video_id": "JVt3jyw7RxM",
+   "start": "2026-10-30 00:00",
+   "title": "【페그오】04. 런던에서 벗어나게 해주세요【스포일러 주의!!!】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": null,
+   "view_count": 2537
   }
  ],
  "members_only_content": [
-  {
-   "video_id": "jMnxyDRF7kE",
-   "start": "2026-09-30 21:03",
-   "title": "【雑談？】EmoteLabで色々作ってみましょう！！！",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "방안의 아기새냥이/部屋の中の子猫鳥",
-   "like_count": 13,
-   "view_count": null
-  },
   {
    "video_id": "s90QM4zZ-Fc",
    "start": "2026-10-27 22:34",
@@ -316,11 +306,11 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-30"
+    "to": "2026-10-31"
    },
-   "streams_analyzed": 9,
-   "streams_missed": 2,
-   "unique_chatters": 122,
+   "streams_analyzed": 10,
+   "streams_missed": 3,
+   "unique_chatters": 123,
    "members_confirmed": 80,
    "member_classes": {
     "known": 9,
@@ -373,7 +363,7 @@
     "monthly_est": 8731,
     "gift_once": 16215
    },
-   "avg_member_chatters": 12.6,
+   "avg_member_chatters": 11.6,
    "partial": true,
    "finalized": false
   }

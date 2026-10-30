@@ -2,16 +2,16 @@
  "channel": "イ・ロハ / LeeRoha【にじさんじ】",
  "channel_id": "UCClwIqTUn5LDpFucHyaAhHg",
  "handle": "@LeeRoha",
- "subscribers": 110000,
- "fetched_at": "2026-10-30 10:58",
- "generated_at": "2026-10-30 10:58",
+ "subscribers": 111000,
+ "fetched_at": "2026-10-31 05:26",
+ "generated_at": "2026-10-31 05:27",
  "period": {
-  "from": "2026-09-30 10:58",
-  "to": "2026-10-30 10:58",
+  "from": "2026-10-01 05:26",
+  "to": "2026-10-31 05:26",
   "days": 30
  },
  "streams_analyzed": 15,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 280,
  "members_confirmed": 53,
  "member_classes": {
@@ -250,7 +250,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "MUzXsiVHk_4",
+   "start": "2026-10-30 00:00",
+   "title": "【#にじイカ祭り2026】🦑ミリしら🦑長尾、五十嵐先生に スプラトゥーンを学ぶ会　[にじさんじ/イロハ]",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 491,
+   "view_count": 12638
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -329,10 +342,10 @@
    "month": "2026-10",
    "coverage": {
     "from": "2026-10-01",
-    "to": "2026-10-30"
+    "to": "2026-10-31"
    },
    "streams_analyzed": 15,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 280,
    "members_confirmed": 53,
    "member_classes": {
