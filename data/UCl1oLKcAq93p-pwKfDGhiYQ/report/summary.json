@@ -3,20 +3,20 @@
  "channel_id": "UCl1oLKcAq93p-pwKfDGhiYQ",
  "handle": "@EmmaAugust",
  "subscribers": 240000,
- "fetched_at": "2026-10-31 05:22",
- "generated_at": "2026-10-31 05:22",
+ "fetched_at": "2026-10-31 10:36",
+ "generated_at": "2026-10-31 10:36",
  "period": {
-  "from": "2026-10-01 05:22",
-  "to": "2026-10-31 05:22",
+  "from": "2026-10-01 10:36",
+  "to": "2026-10-31 10:36",
   "days": 30
  },
- "streams_analyzed": 6,
+ "streams_analyzed": 7,
  "streams_missed": 0,
- "unique_chatters": 1003,
- "members_confirmed": 72,
+ "unique_chatters": 1060,
+ "members_confirmed": 78,
  "member_classes": {
-  "known": 10,
-  "unknown": 62
+  "known": 12,
+  "unknown": 66
  },
  "badges": [
   {
@@ -27,23 +27,23 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 2
+   "members": 1
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 9
+   "members": 10
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 60
+   "members": 66
   }
  ],
  "events": {
   "new_members": 0,
   "rejoins": 1,
-  "milestones": 1,
+  "milestones": 2,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -54,23 +54,23 @@
    "tier": "おたすけ下僕",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 8,
-   "share_of_confirmed_pct": 80.0,
-   "allocated_unknown": 49.6,
-   "estimated_members": 57.6,
-   "monthly_net_confirmed": 2495,
-   "monthly_net_estimated": 17961
+   "confirmed_members": 10,
+   "share_of_confirmed_pct": 83.3,
+   "allocated_unknown": 55.0,
+   "estimated_members": 65.0,
+   "monthly_net_confirmed": 3118,
+   "monthly_net_estimated": 20268
   },
   {
    "tier": "Mサイズ",
    "price": 3490,
    "net_per_member": 2220.9,
    "confirmed_members": 2,
-   "share_of_confirmed_pct": 20.0,
-   "allocated_unknown": 12.4,
-   "estimated_members": 14.4,
+   "share_of_confirmed_pct": 16.7,
+   "allocated_unknown": 11.0,
+   "estimated_members": 13.0,
    "monthly_net_confirmed": 4442,
-   "monthly_net_estimated": 31981
+   "monthly_net_estimated": 28872
   },
   {
    "tier": "もはや仕送り",
@@ -85,12 +85,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 26269,
-  "monthly_est": 49942,
+  "monthly_low": 28140,
+  "monthly_est": 49140,
   "gift_once": 0,
-  "total_low": 26269,
-  "total_est": 49942,
-  "paying_members": 72,
+  "total_low": 28140,
+  "total_est": 49140,
+  "paying_members": 78,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -156,6 +156,16 @@
    "kind": "配信",
    "chatters": 202,
    "member_chatters": 41,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "AwEZfUOkTHE",
+   "start": "2026-10-31 09:20",
+   "title": "【朝活】今日で活動7周年らしい。【えま★おうがすと/にじさんじ所属】",
+   "kind": "配信",
+   "chatters": 127,
+   "member_chatters": 29,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -238,13 +248,13 @@
     "from": "2026-10-01",
     "to": "2026-10-31"
    },
-   "streams_analyzed": 6,
+   "streams_analyzed": 7,
    "streams_missed": 0,
-   "unique_chatters": 1003,
-   "members_confirmed": 72,
+   "unique_chatters": 1060,
+   "members_confirmed": 78,
    "member_classes": {
-    "known": 10,
-    "unknown": 62
+    "known": 12,
+    "unknown": 66
    },
    "long_term_members": 0,
    "badges": [
@@ -254,35 +264,35 @@
     },
     {
      "months": 1,
-     "members": 2
+     "members": 1
     },
     {
      "months": 2,
-     "members": 9
+     "members": 10
     },
     {
      "months": 6,
-     "members": 60
+     "members": 66
     }
    ],
    "events": {
     "new_members": 0,
     "rejoins": 1,
-    "milestones": 1,
+    "milestones": 2,
     "gifted_total": 0
    },
    "tiers": [
     {
      "tier": "おたすけ下僕",
      "price": 490,
-     "confirmed_members": 8,
-     "estimated_members": 57.6
+     "confirmed_members": 10,
+     "estimated_members": 65.0
     },
     {
      "tier": "Mサイズ",
      "price": 3490,
      "confirmed_members": 2,
-     "estimated_members": 14.4
+     "estimated_members": 13.0
     },
     {
      "tier": "もはや仕送り",
@@ -292,11 +302,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 26269,
-    "monthly_est": 49942,
+    "monthly_low": 28140,
+    "monthly_est": 49140,
     "gift_once": 0
    },
-   "avg_member_chatters": 33.5,
+   "avg_member_chatters": 32.9,
    "partial": true,
    "finalized": false
   }

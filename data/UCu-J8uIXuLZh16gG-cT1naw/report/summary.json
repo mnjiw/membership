@@ -3,27 +3,27 @@
  "channel_id": "UCu-J8uIXuLZh16gG-cT1naw",
  "handle": "@FinanaRyugu",
  "subscribers": 474000,
- "fetched_at": "2026-10-31 05:34",
- "generated_at": "2026-10-31 05:34",
+ "fetched_at": "2026-10-31 10:38",
+ "generated_at": "2026-10-31 10:38",
  "period": {
-  "from": "2026-10-01 05:34",
-  "to": "2026-10-31 05:34",
+  "from": "2026-10-01 10:38",
+  "to": "2026-10-31 10:38",
   "days": 30
  },
- "streams_analyzed": 22,
- "streams_missed": 4,
- "unique_chatters": 492,
- "members_confirmed": 142,
+ "streams_analyzed": 21,
+ "streams_missed": 5,
+ "unique_chatters": 487,
+ "members_confirmed": 134,
  "member_classes": {
+  "unknown": 60,
   "known": 18,
-  "unknown": 62,
-  "gift": 62
+  "gift": 56
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 63
+   "members": 57
   },
   {
    "months": 1,
@@ -48,16 +48,16 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 52
+   "members": 50
   }
  ],
  "events": {
   "new_members": 2,
   "rejoins": 0,
   "milestones": 10,
-  "gift_purchases": 38,
-  "gifted_total": 62,
-  "gift_redemptions": 62
+  "gift_purchases": 36,
+  "gifted_total": 56,
+  "gift_redemptions": 56
  },
  "tiers_configured": true,
  "tiers": [
@@ -67,19 +67,19 @@
    "net_per_member": 439.1,
    "confirmed_members": 18,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 62.0,
-   "estimated_members": 80.0,
+   "allocated_unknown": 60.0,
+   "estimated_members": 78.0,
    "monthly_net_confirmed": 7904,
-   "monthly_net_estimated": 35127
+   "monthly_net_estimated": 34249
   }
  ],
  "revenue": {
-  "monthly_low": 35127,
-  "monthly_est": 35127,
-  "gift_once": 27224,
-  "total_low": 62351,
-  "total_est": 62351,
-  "paying_members": 80,
+  "monthly_low": 34249,
+  "monthly_est": 34249,
+  "gift_once": 24589,
+  "total_low": 58838,
+  "total_est": 58838,
+  "paying_members": 78,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "yhoSv7WfmZU",
-   "start": "2026-10-01 08:00",
-   "title": "【Urban Myth Dissolution Center】 NO IDEA WHERE THIS IS GOING NOW #4 [4]",
-   "kind": "配信",
-   "chatters": 57,
-   "member_chatters": 36,
-   "new_members": 0,
-   "gifted_total": 6
-  },
   {
    "video_id": "k9_sI26Ty8M",
    "start": "2026-10-02 10:14",
@@ -357,6 +347,18 @@
    "members_level": "",
    "like_count": 19,
    "view_count": null
+  },
+  {
+   "video_id": "_zcil3IYKAY",
+   "start": "2026-10-30 00:00",
+   "title": "【Maplestory Classic World】KPQ TO LEVEL 30 HOPEFULLY",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 281,
+   "view_count": 4570
   }
  ],
  "members_only_content": [
@@ -475,7 +477,7 @@
     "to": "2026-10-31"
    },
    "streams_analyzed": 22,
-   "streams_missed": 4,
+   "streams_missed": 5,
    "unique_chatters": 492,
    "members_confirmed": 142,
    "member_classes": {

@@ -3,52 +3,52 @@
  "channel_id": "UCXW4MqCQn-jCaxlX-nn-BYg",
  "handle": "@NagaoKei",
  "subscribers": 563000,
- "fetched_at": "2026-10-31 05:23",
- "generated_at": "2026-10-31 05:24",
+ "fetched_at": "2026-10-31 10:36",
+ "generated_at": "2026-10-31 10:37",
  "period": {
-  "from": "2026-10-01 05:23",
-  "to": "2026-10-31 05:23",
+  "from": "2026-10-01 10:36",
+  "to": "2026-10-31 10:36",
   "days": 30
  },
- "streams_analyzed": 22,
- "streams_missed": 5,
- "unique_chatters": 7819,
- "members_confirmed": 1185,
+ "streams_analyzed": 23,
+ "streams_missed": 4,
+ "unique_chatters": 8307,
+ "members_confirmed": 1212,
  "member_classes": {
-  "unknown": 1011,
-  "known": 163,
+  "unknown": 1036,
+  "known": 165,
   "gift": 11
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 35
+   "members": 36
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 17
+   "members": 19
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 97
+   "members": 98
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 95
+   "members": 100
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 203
+   "members": 204
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 738
+   "members": 755
   }
  ],
  "events": {
@@ -65,43 +65,43 @@
    "tier": "ゆうしきしゃ8GB",
    "price": 140,
    "net_per_member": 89.1,
-   "confirmed_members": 7,
-   "share_of_confirmed_pct": 4.3,
-   "allocated_unknown": 43.4,
-   "estimated_members": 50.4,
-   "monthly_net_confirmed": 624,
-   "monthly_net_estimated": 4492
+   "confirmed_members": 8,
+   "share_of_confirmed_pct": 4.8,
+   "allocated_unknown": 50.2,
+   "estimated_members": 58.2,
+   "monthly_net_confirmed": 713,
+   "monthly_net_estimated": 5188
   },
   {
    "tier": "ゆうしきしゃ16GB",
    "price": 490,
    "net_per_member": 311.8,
    "confirmed_members": 53,
-   "share_of_confirmed_pct": 32.5,
-   "allocated_unknown": 328.7,
-   "estimated_members": 381.7,
+   "share_of_confirmed_pct": 32.1,
+   "allocated_unknown": 332.8,
+   "estimated_members": 385.8,
    "monthly_net_confirmed": 16526,
-   "monthly_net_estimated": 119030
+   "monthly_net_estimated": 120292
   },
   {
    "tier": "ゆうしきしゃ32GB",
    "price": 1990,
    "net_per_member": 1266.4,
-   "confirmed_members": 103,
-   "share_of_confirmed_pct": 63.2,
-   "allocated_unknown": 638.9,
-   "estimated_members": 741.9,
-   "monthly_net_confirmed": 130435,
-   "monthly_net_estimated": 939455
+   "confirmed_members": 104,
+   "share_of_confirmed_pct": 63.0,
+   "allocated_unknown": 653.0,
+   "estimated_members": 757.0,
+   "monthly_net_confirmed": 131702,
+   "monthly_net_estimated": 958630
   }
  ],
  "revenue": {
-  "monthly_low": 237656,
-  "monthly_est": 1062977,
+  "monthly_low": 241239,
+  "monthly_est": 1084109,
   "gift_once": 980,
-  "total_low": 238636,
-  "total_est": 1063957,
-  "paying_members": 1174,
+  "total_low": 242219,
+  "total_est": 1085089,
+  "paying_members": 1201,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -329,6 +329,16 @@
    "member_chatters": 437,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "AM6EZLNLka8",
+   "start": "2026-10-30 22:13",
+   "title": "【#にじイカ祭り2026】ミリしらスプラトゥーン【長尾景/にじさんじ】",
+   "kind": "配信",
+   "chatters": 1405,
+   "member_chatters": 473,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -379,18 +389,6 @@
    "members_level": "ゆうしきしゃ32GB",
    "like_count": 243,
    "view_count": null
-  },
-  {
-   "video_id": "AM6EZLNLka8",
-   "start": "2026-10-30 00:00",
-   "title": "【#にじイカ祭り2026】ミリしらスプラトゥーン【長尾景/にじさんじ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 2423,
-   "view_count": 142269
   }
  ],
  "members_only_content": [
@@ -519,40 +517,40 @@
     "from": "2026-10-01",
     "to": "2026-10-31"
    },
-   "streams_analyzed": 22,
-   "streams_missed": 5,
-   "unique_chatters": 7819,
-   "members_confirmed": 1185,
+   "streams_analyzed": 23,
+   "streams_missed": 4,
+   "unique_chatters": 8307,
+   "members_confirmed": 1212,
    "member_classes": {
-    "unknown": 1011,
-    "known": 163,
+    "unknown": 1036,
+    "known": 165,
     "gift": 11
    },
-   "long_term_members": 941,
+   "long_term_members": 959,
    "badges": [
     {
      "months": 0,
-     "members": 35
+     "members": 36
     },
     {
      "months": 1,
-     "members": 17
+     "members": 19
     },
     {
      "months": 2,
-     "members": 97
+     "members": 98
     },
     {
      "months": 6,
-     "members": 95
+     "members": 100
     },
     {
      "months": 12,
-     "members": 203
+     "members": 204
     },
     {
      "months": 24,
-     "members": 738
+     "members": 755
     }
    ],
    "events": {
@@ -565,28 +563,28 @@
     {
      "tier": "ゆうしきしゃ8GB",
      "price": 140,
-     "confirmed_members": 7,
-     "estimated_members": 50.4
+     "confirmed_members": 8,
+     "estimated_members": 58.2
     },
     {
      "tier": "ゆうしきしゃ16GB",
      "price": 490,
      "confirmed_members": 53,
-     "estimated_members": 381.7
+     "estimated_members": 385.8
     },
     {
      "tier": "ゆうしきしゃ32GB",
      "price": 1990,
-     "confirmed_members": 103,
-     "estimated_members": 741.9
+     "confirmed_members": 104,
+     "estimated_members": 757.0
     }
    ],
    "revenue": {
-    "monthly_low": 237656,
-    "monthly_est": 1062977,
+    "monthly_low": 241239,
+    "monthly_est": 1084109,
     "gift_once": 980
    },
-   "avg_member_chatters": 354.8,
+   "avg_member_chatters": 359.9,
    "partial": true,
    "finalized": false
   }

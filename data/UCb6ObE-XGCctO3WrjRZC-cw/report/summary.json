@@ -3,19 +3,19 @@
  "channel_id": "UCb6ObE-XGCctO3WrjRZC-cw",
  "handle": "@LuisCammy",
  "subscribers": 257000,
- "fetched_at": "2026-10-31 05:22",
- "generated_at": "2026-10-31 05:23",
+ "fetched_at": "2026-10-31 10:36",
+ "generated_at": "2026-10-31 10:36",
  "period": {
-  "from": "2026-10-01 05:22",
-  "to": "2026-10-31 05:22",
+  "from": "2026-10-01 10:36",
+  "to": "2026-10-31 10:36",
   "days": 30
  },
- "streams_analyzed": 14,
- "streams_missed": 5,
- "unique_chatters": 811,
- "members_confirmed": 101,
+ "streams_analyzed": 15,
+ "streams_missed": 4,
+ "unique_chatters": 844,
+ "members_confirmed": 107,
  "member_classes": {
-  "unknown": 91,
+  "unknown": 97,
   "known": 9,
   "gift": 1
  },
@@ -43,12 +43,12 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 8
+   "members": 9
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 79
+   "members": 84
   }
  ],
  "events": {
@@ -67,10 +67,10 @@
    "net_per_member": 439.1,
    "confirmed_members": 6,
    "share_of_confirmed_pct": 66.7,
-   "allocated_unknown": 60.7,
-   "estimated_members": 66.7,
+   "allocated_unknown": 64.7,
+   "estimated_members": 70.7,
    "monthly_net_confirmed": 2635,
-   "monthly_net_estimated": 29273
+   "monthly_net_estimated": 31029
   },
   {
    "tier": "ルイスの相棒",
@@ -78,19 +78,19 @@
    "net_per_member": 1266.4,
    "confirmed_members": 3,
    "share_of_confirmed_pct": 33.3,
-   "allocated_unknown": 30.3,
-   "estimated_members": 33.3,
+   "allocated_unknown": 32.3,
+   "estimated_members": 35.3,
    "monthly_net_confirmed": 3799,
-   "monthly_net_estimated": 42212
+   "monthly_net_estimated": 44745
   }
  ],
  "revenue": {
-  "monthly_low": 46391,
-  "monthly_est": 71485,
+  "monthly_low": 49025,
+  "monthly_est": 75774,
   "gift_once": 439,
-  "total_low": 46830,
-  "total_est": 71924,
-  "paying_members": 100,
+  "total_low": 49465,
+  "total_est": 76213,
+  "paying_members": 106,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -238,6 +238,16 @@
    "member_chatters": 32,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "0Vbwt95GfYE",
+   "start": "2026-10-30 22:01",
+   "title": "ルイス視点くコ:彡！顔合わせだ～！【#にじイカ祭り2026/ルイス・キャミー/にじさんじ】",
+   "kind": "配信",
+   "chatters": 74,
+   "member_chatters": 32,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -288,18 +298,6 @@
    "members_level": "ルイスの相棒",
    "like_count": 23,
    "view_count": null
-  },
-  {
-   "video_id": "0Vbwt95GfYE",
-   "start": "2026-10-30 00:00",
-   "title": "ルイス視点くコ:彡！顔合わせだ～！【#にじイカ祭り2026/ルイス・キャミー/にじさんじ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 369,
-   "view_count": 12631
   }
  ],
  "members_only_content": [
@@ -422,16 +420,16 @@
     "from": "2026-10-01",
     "to": "2026-10-31"
    },
-   "streams_analyzed": 14,
-   "streams_missed": 5,
-   "unique_chatters": 811,
-   "members_confirmed": 101,
+   "streams_analyzed": 15,
+   "streams_missed": 4,
+   "unique_chatters": 844,
+   "members_confirmed": 107,
    "member_classes": {
-    "unknown": 91,
+    "unknown": 97,
     "known": 9,
     "gift": 1
    },
-   "long_term_members": 87,
+   "long_term_members": 93,
    "badges": [
     {
      "months": 0,
@@ -451,11 +449,11 @@
     },
     {
      "months": 12,
-     "members": 8
+     "members": 9
     },
     {
      "months": 24,
-     "members": 79
+     "members": 84
     }
    ],
    "events": {
@@ -469,21 +467,21 @@
      "tier": "怪盗団",
      "price": 690,
      "confirmed_members": 6,
-     "estimated_members": 66.7
+     "estimated_members": 70.7
     },
     {
      "tier": "ルイスの相棒",
      "price": 1990,
      "confirmed_members": 3,
-     "estimated_members": 33.3
+     "estimated_members": 35.3
     }
    ],
    "revenue": {
-    "monthly_low": 46391,
-    "monthly_est": 71485,
+    "monthly_low": 49025,
+    "monthly_est": 75774,
     "gift_once": 439
    },
-   "avg_member_chatters": 29.7,
+   "avg_member_chatters": 29.9,
    "partial": true,
    "finalized": false
   }

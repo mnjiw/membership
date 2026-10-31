@@ -3,20 +3,20 @@
  "channel_id": "UCnzZmBOSrQf2wDBbnsDajVw",
  "handle": "@OhJiyu",
  "subscribers": 60700,
- "fetched_at": "2026-10-31 05:27",
- "generated_at": "2026-10-31 05:27",
+ "fetched_at": "2026-10-31 10:37",
+ "generated_at": "2026-10-31 10:37",
  "period": {
-  "from": "2026-10-01 05:27",
-  "to": "2026-10-31 05:27",
+  "from": "2026-10-01 10:37",
+  "to": "2026-10-31 10:37",
   "days": 30
  },
- "streams_analyzed": 10,
- "streams_missed": 3,
- "unique_chatters": 123,
- "members_confirmed": 80,
+ "streams_analyzed": 11,
+ "streams_missed": 2,
+ "unique_chatters": 130,
+ "members_confirmed": 83,
  "member_classes": {
   "known": 9,
-  "unknown": 19,
+  "unknown": 22,
   "gift": 52
  },
  "badges": [
@@ -48,7 +48,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 11
+   "members": 14
   }
  ],
  "events": {
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 9,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 19.0,
-   "estimated_members": 28.0,
+   "allocated_unknown": 22.0,
+   "estimated_members": 31.0,
    "monthly_net_confirmed": 2806,
-   "monthly_net_estimated": 8731
+   "monthly_net_estimated": 9666
   }
  ],
  "revenue": {
-  "monthly_low": 8731,
-  "monthly_est": 8731,
+  "monthly_low": 9666,
+  "monthly_est": 9666,
   "gift_once": 16215,
-  "total_low": 24945,
-  "total_est": 24945,
-  "paying_members": 28,
+  "total_low": 25881,
+  "total_est": 25881,
+  "paying_members": 31,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -187,6 +187,16 @@
    "member_chatters": 3,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "JVt3jyw7RxM",
+   "start": "2026-10-30 17:32",
+   "title": "【페그오】04. 런던에서 벗어나게 해주세요【스포일러 주의!!!】",
+   "kind": "配信",
+   "chatters": 19,
+   "member_chatters": 7,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -212,19 +222,7 @@
    "members_only": false,
    "members_level": "",
    "like_count": null,
-   "view_count": 2000
-  },
-  {
-   "video_id": "JVt3jyw7RxM",
-   "start": "2026-10-30 00:00",
-   "title": "【페그오】04. 런던에서 벗어나게 해주세요【스포일러 주의!!!】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": null,
-   "view_count": 2537
+   "view_count": 2936
   }
  ],
  "members_only_content": [
@@ -308,16 +306,16 @@
     "from": "2026-10-01",
     "to": "2026-10-31"
    },
-   "streams_analyzed": 10,
-   "streams_missed": 3,
-   "unique_chatters": 123,
-   "members_confirmed": 80,
+   "streams_analyzed": 11,
+   "streams_missed": 2,
+   "unique_chatters": 130,
+   "members_confirmed": 83,
    "member_classes": {
     "known": 9,
-    "unknown": 19,
+    "unknown": 22,
     "gift": 52
    },
-   "long_term_members": 18,
+   "long_term_members": 21,
    "badges": [
     {
      "months": 0,
@@ -341,7 +339,7 @@
     },
     {
      "months": 24,
-     "members": 11
+     "members": 14
     }
    ],
    "events": {
@@ -355,15 +353,15 @@
      "tier": "방안의 아기새냥이/部屋の中の子猫鳥",
      "price": 490,
      "confirmed_members": 9,
-     "estimated_members": 28.0
+     "estimated_members": 31.0
     }
    ],
    "revenue": {
-    "monthly_low": 8731,
-    "monthly_est": 8731,
+    "monthly_low": 9666,
+    "monthly_est": 9666,
     "gift_once": 16215
    },
-   "avg_member_chatters": 11.6,
+   "avg_member_chatters": 11.2,
    "partial": true,
    "finalized": false
   }

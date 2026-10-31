@@ -3,27 +3,27 @@
  "channel_id": "UCMzVa7B8UEdrvUGsPmSgyjA",
  "handle": "@DeremKado",
  "subscribers": 48300,
- "fetched_at": "2026-10-31 05:26",
- "generated_at": "2026-10-31 05:26",
+ "fetched_at": "2026-10-31 10:36",
+ "generated_at": "2026-10-31 10:36",
  "period": {
-  "from": "2026-10-01 05:26",
-  "to": "2026-10-31 05:26",
+  "from": "2026-10-01 10:36",
+  "to": "2026-10-31 10:36",
   "days": 30
  },
- "streams_analyzed": 13,
- "streams_missed": 1,
- "unique_chatters": 147,
- "members_confirmed": 55,
+ "streams_analyzed": 14,
+ "streams_missed": 0,
+ "unique_chatters": 151,
+ "members_confirmed": 67,
  "member_classes": {
   "unknown": 20,
   "known": 4,
-  "gift": 31
+  "gift": 43
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 29
+   "members": 41
   },
   {
    "months": 1,
@@ -65,9 +65,9 @@
   "new_members": 0,
   "rejoins": 1,
   "milestones": 3,
-  "gift_purchases": 7,
-  "gifted_total": 31,
-  "gift_redemptions": 31
+  "gift_purchases": 11,
+  "gifted_total": 43,
+  "gift_redemptions": 43
  },
  "tiers_configured": true,
  "tiers": [
@@ -86,9 +86,9 @@
  "revenue": {
   "monthly_low": 7484,
   "monthly_est": 7484,
-  "gift_once": 9666,
-  "total_low": 17150,
-  "total_est": 17150,
+  "gift_once": 13408,
+  "total_low": 20892,
+  "total_est": 20892,
   "paying_members": 24,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -227,22 +227,19 @@
    "member_chatters": 3,
    "new_members": 0,
    "gifted_total": 0
-  }
- ],
- "missed_streams": [
+  },
   {
    "video_id": "-GjWPZemWDM",
-   "start": "2026-10-30 00:00",
+   "start": "2026-10-30 22:41",
    "title": "【 Village in the Shade 】Cozy village they said o(￣┰￣*)ゞ【 NIJISANJI | Derem Kado 】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 126,
-   "view_count": 1289
+   "kind": "配信",
+   "chatters": 30,
+   "member_chatters": 16,
+   "new_members": 0,
+   "gifted_total": 12
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -325,20 +322,20 @@
     "from": "2026-10-01",
     "to": "2026-10-31"
    },
-   "streams_analyzed": 13,
-   "streams_missed": 1,
-   "unique_chatters": 147,
-   "members_confirmed": 55,
+   "streams_analyzed": 14,
+   "streams_missed": 0,
+   "unique_chatters": 151,
+   "members_confirmed": 67,
    "member_classes": {
     "unknown": 20,
     "known": 4,
-    "gift": 31
+    "gift": 43
    },
    "long_term_members": 16,
    "badges": [
     {
      "months": 0,
-     "members": 29
+     "members": 41
     },
     {
      "months": 1,
@@ -373,7 +370,7 @@
     "new_members": 0,
     "rejoins": 1,
     "milestones": 3,
-    "gifted_total": 31
+    "gifted_total": 43
    },
    "tiers": [
     {
@@ -386,9 +383,9 @@
    "revenue": {
     "monthly_low": 7484,
     "monthly_est": 7484,
-    "gift_once": 9666
+    "gift_once": 13408
    },
-   "avg_member_chatters": 8.5,
+   "avg_member_chatters": 9,
    "partial": true,
    "finalized": false
   }
