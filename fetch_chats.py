@@ -51,6 +51,8 @@ LIMITED_GIVEUP_DAYS = 3
 # 上のように情報が欠けたまま「チャットリプレイなし」と決めたライブタブの枠は、アーカイブの処理が長引いて
 # チャットが後から出てくることがあるので、配信から30日の間は週1回 (この曜日。0 = 月曜) だけ確認し直す
 RECHECK_WEEKDAY = 0
+# チャットの最後の発言が、配信時間のこの割合より前で終わっていたら「途中で切れた」とみなす (正常な枠は 98% 以上)
+CHAT_COMPLETE_RATIO = 0.9
 # 非公開・削除された枠は、この日数だけ確認し直しても戻らなければ「配信・プレミアではない」扱いで確定する
 # (中身が分からず集計にも使えないので、再確認待ちのまま残さない)
 UNAVAILABLE_HINTS = ("Private video", "Video unavailable", "This video is unavailable", "video has been removed",
@@ -365,6 +367,18 @@ def fetch_one(args, video_id: str, chats_dir: Path, cutoff_ts: float, prev: dict
     chat_file = chats_dir / f"{video_id}.live_chat.json"
     if not chat_file.exists() or chat_file.stat().st_size == 0:
         return meta, "chat_failed"
+    # yt-dlp は途中の応答に続きがないと、そこを終わりとみなして正常終了する (途中までのチャットが成功扱いになる)。
+    # 最後の発言の位置が配信時間に届いていなければ取り直す。本当に途中でチャットが止まった配信もあるので、
+    # LIMITED_GIVEUP_DAYS 取り直しても変わらなければ、印をつけて今あるチャットを使う
+    expected, last = meta.get("duration_sec"), chat_last_offset(chat_file)
+    if expected and last is not None and last < expected * CHAT_COMPLETE_RATIO:
+        since = prev.get("failed_since_ts")
+        if since and time.time() - since >= LIMITED_GIVEUP_DAYS * 86400:
+            meta["chat_incomplete"] = True
+        else:
+            chat_file.unlink(missing_ok=True)
+            meta["error"] = f"チャットが途中までしか取れませんでした ({last} / {expected} 秒)"
+            return meta, "chat_failed"
     if limited:
         # 開始時刻が日付だけ・配信時間がない → チャットから正確な値を求める
         start, dur = chat_timing(chat_file)
@@ -374,6 +388,19 @@ def fetch_one(args, video_id: str, chats_dir: Path, cutoff_ts: float, prev: dict
         if dur and not meta.get("duration_sec"):
             meta["duration_sec"] = dur
     return meta, "ok"
+
+
+def chat_last_offset(chat_file: Path):
+    """チャットの最後の発言が配信の何秒目かを返す (読めなければ None)。ファイルの末尾だけを読む"""
+    try:
+        with chat_file.open("rb") as f:
+            f.seek(0, 2)
+            f.seek(max(0, f.tell() - 200_000))
+            tail = f.read().decode("utf-8", "replace")
+    except OSError:
+        return None
+    offsets = re.findall(r'"videoOffsetTimeMsec":\s*"(\d+)"', tail)
+    return int(offsets[-1]) // 1000 if offsets else None
 
 
 def chat_timing(chat_file: Path):

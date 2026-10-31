@@ -217,7 +217,14 @@ def parse_chat(path: Path, video_id: str) -> dict:
     events は加入・マイルストーン・ギフトを時刻順に並べたもの。"""
     chatters, members, events = set(), {}, []
     messages = superchats = 0
+    seen = set()
     for rtype, r, offset in iter_items(path):
+        # 取得のやり直しで、同じ発言がファイルに二重に入ることがある
+        item_id = r.get("id")
+        if item_id in seen:
+            continue
+        if item_id:
+            seen.add(item_id)
         cid = r.get("authorExternalChannelId")
         name = runs_text(r.get("authorName"))
         off = int(offset or 0)
