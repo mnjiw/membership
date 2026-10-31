@@ -3,15 +3,15 @@
  "channel_id": "UCo2N7C-Z91waaR6lF3LL_jw",
  "handle": "@KaidaHaru",
  "subscribers": 742000,
- "fetched_at": "2026-10-31 10:36",
- "generated_at": "2026-10-31 10:36",
+ "fetched_at": "2026-11-01 05:26",
+ "generated_at": "2026-11-01 05:26",
  "period": {
-  "from": "2026-10-01 10:36",
-  "to": "2026-10-31 10:36",
+  "from": "2026-10-02 05:26",
+  "to": "2026-11-01 05:26",
   "days": 30
  },
  "streams_analyzed": 18,
- "streams_missed": 1,
+ "streams_missed": 2,
  "unique_chatters": 4137,
  "members_confirmed": 2596,
  "member_classes": {
@@ -299,8 +299,20 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "研修助手コース",
-   "like_count": 851,
+   "like_count": 852,
    "view_count": null
+  },
+  {
+   "video_id": "QemcDXvfbeE",
+   "start": "2026-10-31 00:00",
+   "title": "【原神】魔神任務7章2幕『死魂の夜想曲』進めるぞ！【甲斐田晴/にじさんじ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 1863,
+   "view_count": 54873
   }
  ],
  "members_only_content": [
@@ -311,7 +323,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "研修助手コース",
-   "like_count": 851,
+   "like_count": 852,
    "view_count": null
   }
  ],
@@ -402,7 +414,7 @@
     "to": "2026-10-31"
    },
    "streams_analyzed": 18,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 4137,
    "members_confirmed": 2596,
    "member_classes": {
@@ -470,7 +482,7 @@
     "gift_once": 0
    },
    "avg_member_chatters": 727.3,
-   "partial": true,
+   "partial": false,
    "finalized": false
   }
  ],

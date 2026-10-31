@@ -3,19 +3,19 @@
  "channel_id": "UCivwPlOp0ojnMPZj5pNOPPA",
  "handle": "@Sophia_Valentine",
  "subscribers": 407000,
- "fetched_at": "2026-10-31 10:37",
- "generated_at": "2026-10-31 10:37",
+ "fetched_at": "2026-11-01 05:29",
+ "generated_at": "2026-11-01 05:30",
  "period": {
-  "from": "2026-10-01 10:37",
-  "to": "2026-10-31 10:37",
+  "from": "2026-10-02 05:29",
+  "to": "2026-11-01 05:29",
   "days": 30
  },
- "streams_analyzed": 23,
+ "streams_analyzed": 24,
  "streams_missed": 3,
- "unique_chatters": 2060,
- "members_confirmed": 454,
+ "unique_chatters": 2090,
+ "members_confirmed": 456,
  "member_classes": {
-  "unknown": 422,
+  "unknown": 424,
   "known": 32
  },
  "badges": [
@@ -27,12 +27,12 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 15
+   "members": 14
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 42
+   "members": 43
   },
   {
    "months": 6,
@@ -47,12 +47,12 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 64
+   "members": 65
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 153
+   "members": 154
   }
  ],
  "events": {
@@ -71,19 +71,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 32,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 422.0,
-   "estimated_members": 454.0,
+   "allocated_unknown": 424.0,
+   "estimated_members": 456.0,
    "monthly_net_confirmed": 9978,
-   "monthly_net_estimated": 141565
+   "monthly_net_estimated": 142189
   }
  ],
  "revenue": {
-  "monthly_low": 141565,
-  "monthly_est": 141565,
+  "monthly_low": 142189,
+  "monthly_est": 142189,
   "gift_once": 0,
-  "total_low": 141565,
-  "total_est": 141565,
-  "paying_members": 454,
+  "total_low": 142189,
+  "total_est": 142189,
+  "paying_members": 456,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -321,6 +321,16 @@
    "member_chatters": 121,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "aofVxPGXlRg",
+   "start": "2026-10-31 14:25",
+   "title": "【 お菓子作り 】ハロウィンだ！かぼちゃマフィンを作ってみたい！🎃【 ソフィア・ヴァレンタイン / にじさんじ】",
+   "kind": "配信",
+   "chatters": 218,
+   "member_chatters": 107,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -357,7 +367,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 177,
+   "like_count": 178,
    "view_count": null
   }
  ],
@@ -389,7 +399,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 177,
+   "like_count": 178,
    "view_count": null
   }
  ],
@@ -469,15 +479,15 @@
     "from": "2026-10-01",
     "to": "2026-10-31"
    },
-   "streams_analyzed": 23,
+   "streams_analyzed": 24,
    "streams_missed": 3,
-   "unique_chatters": 2060,
-   "members_confirmed": 454,
+   "unique_chatters": 2090,
+   "members_confirmed": 456,
    "member_classes": {
-    "unknown": 422,
+    "unknown": 424,
     "known": 32
    },
-   "long_term_members": 300,
+   "long_term_members": 302,
    "badges": [
     {
      "months": 0,
@@ -485,11 +495,11 @@
     },
     {
      "months": 1,
-     "members": 15
+     "members": 14
     },
     {
      "months": 2,
-     "members": 42
+     "members": 43
     },
     {
      "months": 6,
@@ -501,11 +511,11 @@
     },
     {
      "months": 24,
-     "members": 64
+     "members": 65
     },
     {
      "months": 36,
-     "members": 153
+     "members": 154
     }
    ],
    "events": {
@@ -519,16 +529,16 @@
      "tier": "SOPHIAGENT",
      "price": 490,
      "confirmed_members": 32,
-     "estimated_members": 454.0
+     "estimated_members": 456.0
     }
    ],
    "revenue": {
-    "monthly_low": 141565,
-    "monthly_est": 141565,
+    "monthly_low": 142189,
+    "monthly_est": 142189,
     "gift_once": 0
    },
-   "avg_member_chatters": 103.9,
-   "partial": true,
+   "avg_member_chatters": 104.0,
+   "partial": false,
    "finalized": false
   }
  ],

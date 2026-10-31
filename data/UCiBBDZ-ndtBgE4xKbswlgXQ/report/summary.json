@@ -3,27 +3,27 @@
  "channel_id": "UCiBBDZ-ndtBgE4xKbswlgXQ",
  "handle": "@ItsukiSakyo",
  "subscribers": 164000,
- "fetched_at": "2026-10-31 10:37",
- "generated_at": "2026-10-31 10:37",
+ "fetched_at": "2026-11-01 05:33",
+ "generated_at": "2026-11-01 05:34",
  "period": {
-  "from": "2026-10-01 10:37",
-  "to": "2026-10-31 10:37",
+  "from": "2026-10-02 05:33",
+  "to": "2026-11-01 05:33",
   "days": 30
  },
  "streams_analyzed": 20,
  "streams_missed": 1,
- "unique_chatters": 1227,
- "members_confirmed": 375,
+ "unique_chatters": 1236,
+ "members_confirmed": 378,
  "member_classes": {
-  "unknown": 317,
-  "known": 45,
+  "known": 47,
+  "unknown": 318,
   "gift": 13
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 27
+   "members": 29
   },
   {
    "months": 1,
@@ -43,13 +43,13 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 226
+   "members": 227
   }
  ],
  "events": {
-  "new_members": 3,
+  "new_members": 4,
   "rejoins": 1,
-  "milestones": 29,
+  "milestones": 30,
   "gift_purchases": 5,
   "gifted_total": 13,
   "gift_redemptions": 13
@@ -60,21 +60,21 @@
    "tier": "うさ部員総会",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 45,
+   "confirmed_members": 47,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 317.0,
-   "estimated_members": 362.0,
-   "monthly_net_confirmed": 14032,
-   "monthly_net_estimated": 112878
+   "allocated_unknown": 318.0,
+   "estimated_members": 365.0,
+   "monthly_net_confirmed": 14655,
+   "monthly_net_estimated": 113814
   }
  ],
  "revenue": {
-  "monthly_low": 112878,
-  "monthly_est": 112878,
+  "monthly_low": 113814,
+  "monthly_est": 113814,
   "gift_once": 4054,
-  "total_low": 116932,
-  "total_est": 116932,
-  "paying_members": 362,
+  "total_low": 117867,
+  "total_est": 117867,
+  "paying_members": 365,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "KX8LtiasM30",
-   "start": "2026-10-01 20:00",
-   "title": "猫に食べられそうでも、酔っぱらいのおじさんがきても、泥臭く生き残る『タンポポは耐える。』【にじさんじ / 五木左京】",
-   "kind": "配信",
-   "chatters": 196,
-   "member_chatters": 125,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "U_RBrU87MTk",
    "start": "2026-10-02 22:02",
@@ -282,6 +272,16 @@
    "member_chatters": 159,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "Gv8WcHvJCzU",
+   "start": "2026-10-31 21:00",
+   "title": "【クソデカ囃子】万病に効くヘヴィメタルでハロウィンをぶっぱなせ！【にじさんじ / 五木左京】",
+   "kind": "配信",
+   "chatters": 247,
+   "member_chatters": 158,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -294,7 +294,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 170,
+   "like_count": 175,
    "view_count": null
   }
  ],
@@ -306,7 +306,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 170,
+   "like_count": 175,
    "view_count": null
   }
  ],
@@ -379,20 +379,20 @@
     "from": "2026-10-01",
     "to": "2026-10-31"
    },
-   "streams_analyzed": 20,
+   "streams_analyzed": 21,
    "streams_missed": 1,
-   "unique_chatters": 1227,
-   "members_confirmed": 375,
+   "unique_chatters": 1261,
+   "members_confirmed": 382,
    "member_classes": {
-    "unknown": 317,
-    "known": 45,
+    "unknown": 322,
+    "known": 47,
     "gift": 13
    },
-   "long_term_members": 226,
+   "long_term_members": 229,
    "badges": [
     {
      "months": 0,
-     "members": 27
+     "members": 31
     },
     {
      "months": 1,
@@ -408,30 +408,30 @@
     },
     {
      "months": 12,
-     "members": 226
+     "members": 229
     }
    ],
    "events": {
-    "new_members": 3,
+    "new_members": 4,
     "rejoins": 1,
-    "milestones": 29,
+    "milestones": 30,
     "gifted_total": 13
    },
    "tiers": [
     {
      "tier": "うさ部員総会",
      "price": 490,
-     "confirmed_members": 45,
-     "estimated_members": 362.0
+     "confirmed_members": 47,
+     "estimated_members": 369.0
     }
    ],
    "revenue": {
-    "monthly_low": 112878,
-    "monthly_est": 112878,
+    "monthly_low": 115061,
+    "monthly_est": 115061,
     "gift_once": 4054
    },
-   "avg_member_chatters": 134.5,
-   "partial": true,
+   "avg_member_chatters": 135.6,
+   "partial": false,
    "finalized": false
   }
  ],

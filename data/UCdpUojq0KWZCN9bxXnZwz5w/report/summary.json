@@ -3,15 +3,15 @@
  "channel_id": "UCdpUojq0KWZCN9bxXnZwz5w",
  "handle": "@ArsAlmal",
  "subscribers": 868000,
- "fetched_at": "2026-10-31 10:35",
- "generated_at": "2026-10-31 10:35",
+ "fetched_at": "2026-11-01 05:23",
+ "generated_at": "2026-11-01 05:24",
  "period": {
-  "from": "2026-10-01 10:35",
-  "to": "2026-10-31 10:35",
+  "from": "2026-10-02 05:23",
+  "to": "2026-11-01 05:23",
   "days": 30
  },
  "streams_analyzed": 13,
- "streams_missed": 5,
+ "streams_missed": 4,
  "unique_chatters": 1536,
  "members_confirmed": 240,
  "member_classes": {
@@ -232,18 +232,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "MOZ3QzEjda4",
-   "start": "2026-10-02 00:16",
-   "title": "【スプラトゥーン3 】BウデマエB　短射程編　【アルス・アルマル/にじさんじ】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "トゲ丸",
-   "like_count": 1371,
-   "view_count": null
-  },
-  {
    "video_id": "iNeWAc2oQwI",
    "start": "2026-10-03 00:49",
    "title": "【スプラトゥーン3 】SウデマエS　短射程編　【アルス・アルマル/にじさんじ】",
@@ -293,16 +281,6 @@
   }
  ],
  "members_only_content": [
-  {
-   "video_id": "MOZ3QzEjda4",
-   "start": "2026-10-02 00:16",
-   "title": "【スプラトゥーン3 】BウデマエB　短射程編　【アルス・アルマル/にじさんじ】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "トゲ丸",
-   "like_count": 1371,
-   "view_count": null
-  },
   {
    "video_id": "iNeWAc2oQwI",
    "start": "2026-10-03 00:49",
@@ -480,7 +458,7 @@
     "gift_once": 185
    },
    "avg_member_chatters": 73.1,
-   "partial": true,
+   "partial": false,
    "finalized": false
   }
  ],

@@ -3,27 +3,27 @@
  "channel_id": "UCtnO2N4kPTXmyvedjGWdx3Q",
  "handle": "@LeviElipha",
  "subscribers": 375000,
- "fetched_at": "2026-10-31 10:35",
- "generated_at": "2026-10-31 10:35",
+ "fetched_at": "2026-11-01 05:23",
+ "generated_at": "2026-11-01 05:23",
  "period": {
-  "from": "2026-10-01 10:35",
-  "to": "2026-10-31 10:35",
+  "from": "2026-10-02 05:23",
+  "to": "2026-11-01 05:23",
   "days": 30
  },
- "streams_analyzed": 17,
- "streams_missed": 2,
- "unique_chatters": 613,
- "members_confirmed": 98,
+ "streams_analyzed": 16,
+ "streams_missed": 3,
+ "unique_chatters": 601,
+ "members_confirmed": 96,
  "member_classes": {
-  "unknown": 63,
-  "known": 14,
+  "unknown": 62,
+  "known": 13,
   "gift": 21
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 25
+   "members": 24
   },
   {
    "months": 1,
@@ -43,11 +43,11 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 62
+   "members": 61
   }
  ],
  "events": {
-  "new_members": 3,
+  "new_members": 2,
   "rejoins": 0,
   "milestones": 10,
   "gift_purchases": 3,
@@ -60,43 +60,43 @@
    "tier": "バイ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 10,
-   "share_of_confirmed_pct": 71.4,
-   "allocated_unknown": 45.0,
-   "estimated_members": 55.0,
-   "monthly_net_confirmed": 3118,
-   "monthly_net_estimated": 17150
+   "confirmed_members": 9,
+   "share_of_confirmed_pct": 69.2,
+   "allocated_unknown": 42.9,
+   "estimated_members": 51.9,
+   "monthly_net_confirmed": 2806,
+   "monthly_net_estimated": 16191
   },
   {
    "tier": "チク",
    "price": 1190,
    "net_per_member": 757.3,
    "confirmed_members": 2,
-   "share_of_confirmed_pct": 14.3,
-   "allocated_unknown": 9.0,
-   "estimated_members": 11.0,
+   "share_of_confirmed_pct": 15.4,
+   "allocated_unknown": 9.5,
+   "estimated_members": 11.5,
    "monthly_net_confirmed": 1515,
-   "monthly_net_estimated": 8330
+   "monthly_net_estimated": 8738
   },
   {
    "tier": "ショー",
    "price": 3490,
    "net_per_member": 2220.9,
    "confirmed_members": 2,
-   "share_of_confirmed_pct": 14.3,
-   "allocated_unknown": 9.0,
-   "estimated_members": 11.0,
+   "share_of_confirmed_pct": 15.4,
+   "allocated_unknown": 9.5,
+   "estimated_members": 11.5,
    "monthly_net_confirmed": 4442,
-   "monthly_net_estimated": 24430
+   "monthly_net_estimated": 25626
   }
  ],
  "revenue": {
-  "monthly_low": 28719,
-  "monthly_est": 49910,
+  "monthly_low": 28095,
+  "monthly_est": 50554,
   "gift_once": 6548,
-  "total_low": 35267,
-  "total_est": 56458,
-  "paying_members": 77,
+  "total_low": 34644,
+  "total_est": 57102,
+  "paying_members": 75,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -105,16 +105,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "_gtJVNT2SNo",
-   "start": "2026-10-02 00:19",
-   "title": "#8【JUDGE EYES：死神の遺言 Remastered】再び神室町へ舞い戻ル‼　事件の真相を追うゾウ‼　※ネタバレあり【にじさんじ/レヴィ・エリファ】",
-   "kind": "配信",
-   "chatters": 48,
-   "member_chatters": 19,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "P4aRh1UjyJU",
    "start": "2026-10-03 21:11",
@@ -300,6 +290,18 @@
    "members_level": "",
    "like_count": 40,
    "view_count": null
+  },
+  {
+   "video_id": "jr7GQkKyycA",
+   "start": "2026-10-31 00:00",
+   "title": "【ぽこ あ ポケモン】ハロウィンイベントやるゾウ♪【にじさんじ/レヴィ・エリファ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 287,
+   "view_count": 8085
   }
  ],
  "members_only_content": [
@@ -406,7 +408,7 @@
     "to": "2026-10-31"
    },
    "streams_analyzed": 17,
-   "streams_missed": 2,
+   "streams_missed": 3,
    "unique_chatters": 613,
    "members_confirmed": 98,
    "member_classes": {
@@ -469,7 +471,7 @@
     "gift_once": 6548
    },
    "avg_member_chatters": 24.3,
-   "partial": true,
+   "partial": false,
    "finalized": false
   }
  ],

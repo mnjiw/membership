@@ -3,19 +3,19 @@
  "channel_id": "UC0g1AE0DOjBYnLhkgoRWN1w",
  "handle": "@HonmaHimawari",
  "subscribers": 785000,
- "fetched_at": "2026-10-31 10:34",
- "generated_at": "2026-10-31 10:35",
+ "fetched_at": "2026-11-01 05:18",
+ "generated_at": "2026-11-01 05:19",
  "period": {
-  "from": "2026-10-01 10:34",
-  "to": "2026-10-31 10:34",
+  "from": "2026-10-02 05:18",
+  "to": "2026-11-01 05:18",
   "days": 30
  },
- "streams_analyzed": 24,
+ "streams_analyzed": 23,
  "streams_missed": 1,
- "unique_chatters": 2176,
- "members_confirmed": 288,
+ "unique_chatters": 2134,
+ "members_confirmed": 287,
  "member_classes": {
-  "unknown": 270,
+  "unknown": 269,
   "known": 13,
   "gift": 5
  },
@@ -48,7 +48,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 26
+   "members": 25
   },
   {
    "months": 36,
@@ -62,7 +62,7 @@
   }
  ],
  "events": {
-  "new_members": 4,
+  "new_members": 3,
   "rejoins": 3,
   "milestones": 2,
   "gift_purchases": 1,
@@ -77,19 +77,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 13,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 270.0,
-   "estimated_members": 283.0,
+   "allocated_unknown": 269.0,
+   "estimated_members": 282.0,
    "monthly_net_confirmed": 4054,
-   "monthly_net_estimated": 88245
+   "monthly_net_estimated": 87933
   }
  ],
  "revenue": {
-  "monthly_low": 88245,
-  "monthly_est": 88245,
+  "monthly_low": 87933,
+  "monthly_est": 87933,
   "gift_once": 1559,
-  "total_low": 89804,
-  "total_est": 89804,
-  "paying_members": 283,
+  "total_low": 89492,
+  "total_est": 89492,
+  "paying_members": 282,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "-J6RDCd2p_w",
-   "start": "2026-10-01 22:27",
-   "title": "꒰ OW2 ꒱　TANK！勉強会いきます。　˹ 本間ひまわり にじさんじ ˼",
-   "kind": "配信",
-   "chatters": 179,
-   "member_chatters": 92,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "GXwNAcH5uTc",
    "start": "2026-10-03 13:01",
@@ -509,7 +499,7 @@
     "gift_once": 1559
    },
    "avg_member_chatters": 82.7,
-   "partial": true,
+   "partial": false,
    "finalized": false
   }
  ],

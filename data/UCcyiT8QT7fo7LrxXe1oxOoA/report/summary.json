@@ -3,19 +3,19 @@
  "channel_id": "UCcyiT8QT7fo7LrxXe1oxOoA",
  "handle": "@HitotsubashiAyato",
  "subscribers": 212000,
- "fetched_at": "2026-10-31 10:37",
- "generated_at": "2026-10-31 10:37",
+ "fetched_at": "2026-11-01 05:33",
+ "generated_at": "2026-11-01 05:33",
  "period": {
-  "from": "2026-10-01 10:37",
-  "to": "2026-10-31 10:37",
+  "from": "2026-10-02 05:33",
+  "to": "2026-11-01 05:33",
   "days": 30
  },
- "streams_analyzed": 11,
+ "streams_analyzed": 10,
  "streams_missed": 1,
- "unique_chatters": 1103,
- "members_confirmed": 292,
+ "unique_chatters": 1066,
+ "members_confirmed": 287,
  "member_classes": {
-  "unknown": 284,
+  "unknown": 279,
   "gift": 6,
   "known": 2
  },
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 60
+   "members": 55
   },
   {
    "months": 6,
@@ -57,19 +57,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 2,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 284.0,
-   "estimated_members": 286.0,
+   "allocated_unknown": 279.0,
+   "estimated_members": 281.0,
    "monthly_net_confirmed": 624,
-   "monthly_net_estimated": 89180
+   "monthly_net_estimated": 87621
   }
  ],
  "revenue": {
-  "monthly_low": 89180,
-  "monthly_est": 89180,
+  "monthly_low": 87621,
+  "monthly_est": 87621,
   "gift_once": 1871,
-  "total_low": 91051,
-  "total_est": 91051,
-  "paying_members": 286,
+  "total_low": 89492,
+  "total_est": 89492,
+  "paying_members": 281,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -78,16 +78,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "DcrXh0sO7Dw",
-   "start": "2026-10-01 20:31",
-   "title": "【パラノマサイト FILE23 本所七不思議】#5 運命が交わったり交わらなかったりするのが一番いいんだから　※ネタバレ注意【一橋綾人/にじさんじ】",
-   "kind": "配信",
-   "chatters": 234,
-   "member_chatters": 104,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "Ag96qrtDYs0",
    "start": "2026-10-02 22:02",
@@ -324,7 +314,7 @@
     "gift_once": 1871
    },
    "avg_member_chatters": 104.3,
-   "partial": true,
+   "partial": false,
    "finalized": false
   }
  ],

@@ -3,19 +3,19 @@
  "channel_id": "UCMzVa7B8UEdrvUGsPmSgyjA",
  "handle": "@DeremKado",
  "subscribers": 48300,
- "fetched_at": "2026-10-31 10:36",
- "generated_at": "2026-10-31 10:36",
+ "fetched_at": "2026-11-01 05:28",
+ "generated_at": "2026-11-01 05:28",
  "period": {
-  "from": "2026-10-01 10:36",
-  "to": "2026-10-31 10:36",
+  "from": "2026-10-02 05:28",
+  "to": "2026-11-01 05:28",
   "days": 30
  },
- "streams_analyzed": 14,
- "streams_missed": 0,
- "unique_chatters": 151,
- "members_confirmed": 67,
+ "streams_analyzed": 15,
+ "streams_missed": 1,
+ "unique_chatters": 165,
+ "members_confirmed": 69,
  "member_classes": {
-  "unknown": 20,
+  "unknown": 22,
   "known": 4,
   "gift": 43
  },
@@ -38,7 +38,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 5
+   "members": 6
   },
   {
    "months": 12,
@@ -58,7 +58,7 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 3
+   "members": 4
   }
  ],
  "events": {
@@ -77,19 +77,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 4,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 20.0,
-   "estimated_members": 24.0,
+   "allocated_unknown": 22.0,
+   "estimated_members": 26.0,
    "monthly_net_confirmed": 1247,
-   "monthly_net_estimated": 7484
+   "monthly_net_estimated": 8107
   }
  ],
  "revenue": {
-  "monthly_low": 7484,
-  "monthly_est": 7484,
+  "monthly_low": 8107,
+  "monthly_est": 8107,
   "gift_once": 13408,
-  "total_low": 20892,
-  "total_est": 20892,
-  "paying_members": 24,
+  "total_low": 21515,
+  "total_est": 21515,
+  "paying_members": 26,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -237,9 +237,32 @@
    "member_chatters": 16,
    "new_members": 0,
    "gifted_total": 12
+  },
+  {
+   "video_id": "PdqE2T-xzzc",
+   "start": "2026-10-31 21:01",
+   "title": "【 Cover 】お呪い (Omajinai)【 NIJISANJI | Derem Kado 】",
+   "kind": "プレミア",
+   "chatters": 25,
+   "member_chatters": 5,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "U8sX1uF5EnY",
+   "start": "2026-10-31 00:00",
+   "title": "【 VALORANT 】 Spare me.... how to play this game? 【 NIJISANJI | Derem Kado 】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 119,
+   "view_count": 951
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -322,16 +345,16 @@
     "from": "2026-10-01",
     "to": "2026-10-31"
    },
-   "streams_analyzed": 14,
-   "streams_missed": 0,
-   "unique_chatters": 151,
-   "members_confirmed": 67,
+   "streams_analyzed": 15,
+   "streams_missed": 1,
+   "unique_chatters": 165,
+   "members_confirmed": 69,
    "member_classes": {
-    "unknown": 20,
+    "unknown": 22,
     "known": 4,
     "gift": 43
    },
-   "long_term_members": 16,
+   "long_term_members": 17,
    "badges": [
     {
      "months": 0,
@@ -347,7 +370,7 @@
     },
     {
      "months": 6,
-     "members": 5
+     "members": 6
     },
     {
      "months": 12,
@@ -363,7 +386,7 @@
     },
     {
      "months": 48,
-     "members": 3
+     "members": 4
     }
    ],
    "events": {
@@ -377,16 +400,16 @@
      "tier": "Magical Domikado",
      "price": 490,
      "confirmed_members": 4,
-     "estimated_members": 24.0
+     "estimated_members": 26.0
     }
    ],
    "revenue": {
-    "monthly_low": 7484,
-    "monthly_est": 7484,
+    "monthly_low": 8107,
+    "monthly_est": 8107,
     "gift_once": 13408
    },
-   "avg_member_chatters": 9,
-   "partial": true,
+   "avg_member_chatters": 8.7,
+   "partial": false,
    "finalized": false
   }
  ],

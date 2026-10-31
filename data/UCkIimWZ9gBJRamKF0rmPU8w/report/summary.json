@@ -3,70 +3,71 @@
  "channel_id": "UCkIimWZ9gBJRamKF0rmPU8w",
  "handle": "@AmamiyaKokoro",
  "subscribers": 812000,
- "fetched_at": "2026-10-31 10:35",
- "generated_at": "2026-10-31 10:35",
+ "fetched_at": "2026-11-01 05:23",
+ "generated_at": "2026-11-01 05:24",
  "period": {
-  "from": "2026-10-01 10:35",
-  "to": "2026-10-31 10:35",
+  "from": "2026-10-02 05:23",
+  "to": "2026-11-01 05:23",
   "days": 30
  },
- "streams_analyzed": 10,
- "streams_missed": 1,
- "unique_chatters": 2560,
- "members_confirmed": 259,
+ "streams_analyzed": 11,
+ "streams_missed": 0,
+ "unique_chatters": 2729,
+ "members_confirmed": 273,
  "member_classes": {
-  "unknown": 248,
-  "known": 11
+  "unknown": 256,
+  "known": 12,
+  "gift": 5
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 5
+   "members": 10
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 3
+   "members": 4
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 23
+   "members": 24
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 27
+   "members": 28
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 34
+   "members": 35
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 31
+   "members": 32
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 24
+   "members": 25
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 112
+   "members": 115
   }
  ],
  "events": {
-  "new_members": 3,
+  "new_members": 4,
   "rejoins": 8,
   "milestones": 0,
-  "gift_purchases": 0,
-  "gifted_total": 0,
-  "gift_redemptions": 0
+  "gift_purchases": 1,
+  "gifted_total": 5,
+  "gift_redemptions": 5
  },
  "tiers_configured": true,
  "tiers": [
@@ -75,31 +76,31 @@
    "price": 490,
    "net_per_member": 311.8,
    "confirmed_members": 5,
-   "share_of_confirmed_pct": 45.5,
-   "allocated_unknown": 112.7,
-   "estimated_members": 117.7,
+   "share_of_confirmed_pct": 41.7,
+   "allocated_unknown": 106.7,
+   "estimated_members": 111.7,
    "monthly_net_confirmed": 1559,
-   "monthly_net_estimated": 36710
+   "monthly_net_estimated": 34820
   },
   {
    "tier": "みゃんばーしっぷ★",
    "price": 1190,
    "net_per_member": 757.3,
-   "confirmed_members": 6,
-   "share_of_confirmed_pct": 54.5,
-   "allocated_unknown": 135.3,
-   "estimated_members": 141.3,
-   "monthly_net_confirmed": 4544,
-   "monthly_net_estimated": 106982
+   "confirmed_members": 7,
+   "share_of_confirmed_pct": 58.3,
+   "allocated_unknown": 149.3,
+   "estimated_members": 156.3,
+   "monthly_net_confirmed": 5301,
+   "monthly_net_estimated": 118387
   }
  ],
  "revenue": {
-  "monthly_low": 83434,
-  "monthly_est": 143691,
-  "gift_once": 0,
-  "total_low": 83434,
-  "total_est": 143691,
-  "paying_members": 259,
+  "monthly_low": 86685,
+  "monthly_est": 153207,
+  "gift_once": 1559,
+  "total_low": 88245,
+  "total_est": 154766,
+  "paying_members": 268,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -207,22 +208,19 @@
    "member_chatters": 64,
    "new_members": 0,
    "gifted_total": 0
-  }
- ],
- "missed_streams": [
+  },
   {
-   "video_id": "mJItynfgXhg",
-   "start": "2026-10-28 00:00",
-   "title": "✯┊おひめさま衣装┊NowLoding②〖 天宮こころ / にじさんじ 〗",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 664,
-   "view_count": 11068
+   "video_id": "u2lXJ_2mld4",
+   "start": "2026-10-31 19:35",
+   "title": "✯┊First Offline Collab┊This is the venue for Tamako Kira and Kokoro Amamiya's Halloween Party〖 Ko...",
+   "kind": "配信",
+   "chatters": 381,
+   "member_chatters": 113,
+   "new_members": 1,
+   "gifted_total": 5
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -310,76 +308,77 @@
     "from": "2026-10-01",
     "to": "2026-10-31"
    },
-   "streams_analyzed": 10,
-   "streams_missed": 1,
-   "unique_chatters": 2560,
-   "members_confirmed": 259,
+   "streams_analyzed": 11,
+   "streams_missed": 0,
+   "unique_chatters": 2729,
+   "members_confirmed": 273,
    "member_classes": {
-    "unknown": 248,
-    "known": 11
+    "unknown": 256,
+    "known": 12,
+    "gift": 5
    },
-   "long_term_members": 201,
+   "long_term_members": 207,
    "badges": [
     {
      "months": 0,
-     "members": 5
+     "members": 10
     },
     {
      "months": 1,
-     "members": 3
+     "members": 4
     },
     {
      "months": 2,
-     "members": 23
-    },
-    {
-     "months": 6,
-     "members": 27
-    },
-    {
-     "months": 12,
-     "members": 34
-    },
-    {
-     "months": 24,
-     "members": 31
-    },
-    {
-     "months": 36,
      "members": 24
     },
     {
+     "months": 6,
+     "members": 28
+    },
+    {
+     "months": 12,
+     "members": 35
+    },
+    {
+     "months": 24,
+     "members": 32
+    },
+    {
+     "months": 36,
+     "members": 25
+    },
+    {
      "months": 48,
-     "members": 112
+     "members": 115
     }
    ],
    "events": {
-    "new_members": 3,
+    "new_members": 4,
     "rejoins": 8,
     "milestones": 0,
-    "gifted_total": 0
+    "gifted_total": 5
    },
    "tiers": [
     {
      "tier": "天宮こころ/みゃんばーしっぷ",
      "price": 490,
      "confirmed_members": 5,
-     "estimated_members": 117.7
+     "estimated_members": 111.7
     },
     {
      "tier": "みゃんばーしっぷ★",
      "price": 1190,
-     "confirmed_members": 6,
-     "estimated_members": 141.3
+     "confirmed_members": 7,
+     "estimated_members": 156.3
     }
    ],
    "revenue": {
-    "monthly_low": 83434,
-    "monthly_est": 143691,
-    "gift_once": 0
+    "monthly_low": 86685,
+    "monthly_est": 153207,
+    "gift_once": 1559
    },
-   "avg_member_chatters": 85.3,
-   "partial": true,
+   "avg_member_chatters": 87.8,
+   "partial": false,
    "finalized": false
   }
  ],

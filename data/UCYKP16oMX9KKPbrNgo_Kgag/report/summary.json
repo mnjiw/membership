@@ -3,20 +3,20 @@
  "channel_id": "UCYKP16oMX9KKPbrNgo_Kgag",
  "handle": "@Elu",
  "subscribers": 737000,
- "fetched_at": "2026-10-31 10:34",
- "generated_at": "2026-10-31 10:34",
+ "fetched_at": "2026-11-01 05:17",
+ "generated_at": "2026-11-01 05:18",
  "period": {
-  "from": "2026-10-01 10:34",
-  "to": "2026-10-31 10:34",
+  "from": "2026-10-02 05:17",
+  "to": "2026-11-01 05:17",
   "days": 30
  },
- "streams_analyzed": 22,
+ "streams_analyzed": 20,
  "streams_missed": 2,
- "unique_chatters": 3451,
- "members_confirmed": 290,
+ "unique_chatters": 3318,
+ "members_confirmed": 285,
  "member_classes": {
-  "known": 35,
-  "unknown": 255
+  "known": 34,
+  "unknown": 251
  },
  "badges": [
   {
@@ -27,7 +27,7 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 7
+   "members": 6
   },
   {
    "months": 2,
@@ -47,7 +47,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 47
+   "members": 44
   },
   {
    "months": 36,
@@ -57,7 +57,7 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 89
+   "members": 88
   }
  ],
  "events": {
@@ -74,21 +74,21 @@
    "tier": "エルフの森",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 35,
+   "confirmed_members": 34,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 255.0,
-   "estimated_members": 290.0,
-   "monthly_net_confirmed": 10914,
-   "monthly_net_estimated": 90427
+   "allocated_unknown": 251.0,
+   "estimated_members": 285.0,
+   "monthly_net_confirmed": 10602,
+   "monthly_net_estimated": 88868
   }
  ],
  "revenue": {
-  "monthly_low": 90427,
-  "monthly_est": 90427,
+  "monthly_low": 88868,
+  "monthly_est": 88868,
   "gift_once": 0,
-  "total_low": 90427,
-  "total_est": 90427,
-  "paying_members": 290,
+  "total_low": 88868,
+  "total_est": 88868,
+  "paying_members": 285,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -97,26 +97,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "aB2u8pGZbiI",
-   "start": "2026-10-01 13:01",
-   "title": "【APEX】ソロカップ顔合わせ【にじさんじ/える】",
-   "kind": "配信",
-   "chatters": 300,
-   "member_chatters": 61,
-   "new_members": 0,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "GnyPHRrC5Sg",
-   "start": "2026-10-01 22:00",
-   "title": "【 カブトムシの森 】エルフの森を脱け出して【にじさんじ/える】",
-   "kind": "配信",
-   "chatters": 205,
-   "member_chatters": 84,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "xRIPOWruweA",
    "start": "2026-10-02 13:03",
@@ -509,7 +489,7 @@
     "gift_once": 0
    },
    "avg_member_chatters": 76.0,
-   "partial": true,
+   "partial": false,
    "finalized": false
   }
  ],

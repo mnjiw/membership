@@ -3,41 +3,41 @@
  "channel_id": "UCEFOogmvTTcCaO8Qe0I8-tg",
  "handle": "@KaelixDebonair",
  "subscribers": 242000,
- "fetched_at": "2026-10-31 10:38",
- "generated_at": "2026-10-31 10:39",
+ "fetched_at": "2026-11-01 05:37",
+ "generated_at": "2026-11-01 05:38",
  "period": {
-  "from": "2026-10-01 10:38",
-  "to": "2026-10-31 10:38",
+  "from": "2026-10-02 05:37",
+  "to": "2026-11-01 05:37",
   "days": 30
  },
- "streams_analyzed": 6,
+ "streams_analyzed": 7,
  "streams_missed": 2,
- "unique_chatters": 2406,
- "members_confirmed": 822,
+ "unique_chatters": 2483,
+ "members_confirmed": 846,
  "member_classes": {
-  "unknown": 751,
-  "known": 28,
-  "gift": 43
+  "unknown": 771,
+  "known": 31,
+  "gift": 44
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 374
+   "members": 387
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 448
+   "members": 459
   }
  ],
  "events": {
-  "new_members": 10,
+  "new_members": 13,
   "rejoins": 2,
   "milestones": 0,
-  "gift_purchases": 10,
-  "gifted_total": 43,
-  "gift_redemptions": 43
+  "gift_purchases": 11,
+  "gifted_total": 44,
+  "gift_redemptions": 44
  },
  "tiers_configured": true,
  "tiers": [
@@ -45,21 +45,21 @@
    "tier": "Debonheir Royale",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 28,
+   "confirmed_members": 31,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 751.0,
-   "estimated_members": 779.0,
-   "monthly_net_confirmed": 12295,
-   "monthly_net_estimated": 342052
+   "allocated_unknown": 771.0,
+   "estimated_members": 802.0,
+   "monthly_net_confirmed": 13612,
+   "monthly_net_estimated": 352151
   }
  ],
  "revenue": {
-  "monthly_low": 342052,
-  "monthly_est": 342052,
-  "gift_once": 18881,
-  "total_low": 360933,
-  "total_est": 360933,
-  "paying_members": 779,
+  "monthly_low": 352151,
+  "monthly_est": 352151,
+  "gift_once": 19320,
+  "total_low": 371471,
+  "total_est": 371471,
+  "paying_members": 802,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -127,6 +127,16 @@
    "member_chatters": 248,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "UHeZyb0sUbo",
+   "start": "2026-10-31 11:10",
+   "title": "【NO MORE ROOM IN HELL 2】 happy halloweiner 🧟 【NIJISANJI EN | Kaelix Debonair】",
+   "kind": "配信",
+   "chatters": 348,
+   "member_chatters": 187,
+   "new_members": 3,
+   "gifted_total": 1
   }
  ],
  "missed_streams": [
@@ -234,47 +244,47 @@
     "from": "2026-10-01",
     "to": "2026-10-31"
    },
-   "streams_analyzed": 7,
+   "streams_analyzed": 8,
    "streams_missed": 2,
-   "unique_chatters": 2479,
-   "members_confirmed": 840,
+   "unique_chatters": 2553,
+   "members_confirmed": 864,
    "member_classes": {
-    "unknown": 768,
-    "known": 29,
-    "gift": 43
+    "unknown": 788,
+    "known": 32,
+    "gift": 44
    },
-   "long_term_members": 454,
+   "long_term_members": 465,
    "badges": [
     {
      "months": 0,
-     "members": 386
+     "members": 399
     },
     {
      "months": 12,
-     "members": 454
+     "members": 465
     }
    ],
    "events": {
-    "new_members": 10,
+    "new_members": 13,
     "rejoins": 2,
     "milestones": 0,
-    "gifted_total": 43
+    "gifted_total": 44
    },
    "tiers": [
     {
      "tier": "Debonheir Royale",
      "price": 690,
-     "confirmed_members": 29,
-     "estimated_members": 797.0
+     "confirmed_members": 32,
+     "estimated_members": 820.0
     }
    ],
    "revenue": {
-    "monthly_low": 349955,
-    "monthly_est": 349955,
-    "gift_once": 18881
+    "monthly_low": 360055,
+    "monthly_est": 360055,
+    "gift_once": 19320
    },
-   "avg_member_chatters": 307.3,
-   "partial": true,
+   "avg_member_chatters": 292.2,
+   "partial": false,
    "finalized": false
   }
  ],

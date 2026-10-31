@@ -3,15 +3,15 @@
  "channel_id": "UCJubINhCcFXlsBwnHp0wl_g",
  "handle": "@MaimotoKeisuke",
  "subscribers": 471000,
- "fetched_at": "2026-10-31 10:35",
- "generated_at": "2026-10-31 10:35",
+ "fetched_at": "2026-11-01 05:21",
+ "generated_at": "2026-11-01 05:21",
  "period": {
-  "from": "2026-10-01 10:35",
-  "to": "2026-10-31 10:35",
+  "from": "2026-10-02 05:21",
+  "to": "2026-11-01 05:21",
   "days": 30
  },
  "streams_analyzed": 13,
- "streams_missed": 1,
+ "streams_missed": 2,
  "unique_chatters": 4231,
  "members_confirmed": 294,
  "member_classes": {
@@ -229,6 +229,18 @@
    "members_level": "",
    "like_count": 35,
    "view_count": null
+  },
+  {
+   "video_id": "bpVormQqdCU",
+   "start": "2026-10-31 12:04",
+   "title": "【メン限】めんげんステゴダビスタ2マン【にじさんじ/舞元啓介】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 40,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -240,6 +252,16 @@
    "status": "members_only",
    "members_level": "",
    "like_count": 35,
+   "view_count": null
+  },
+  {
+   "video_id": "bpVormQqdCU",
+   "start": "2026-10-31 12:04",
+   "title": "【メン限】めんげんステゴダビスタ2マン【にじさんじ/舞元啓介】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 40,
    "view_count": null
   }
  ],
@@ -315,7 +337,7 @@
     "to": "2026-10-31"
    },
    "streams_analyzed": 13,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 4231,
    "members_confirmed": 294,
    "member_classes": {
@@ -368,7 +390,7 @@
     "gift_once": 0
    },
    "avg_member_chatters": 79.6,
-   "partial": true,
+   "partial": false,
    "finalized": false
   }
  ],

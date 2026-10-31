@@ -3,19 +3,19 @@
  "channel_id": "UCy8P3o5XlMpJGQY4WugzdNA",
  "handle": "@SaikiIttetsu",
  "subscribers": 411000,
- "fetched_at": "2026-10-31 10:37",
- "generated_at": "2026-10-31 10:37",
+ "fetched_at": "2026-11-01 05:29",
+ "generated_at": "2026-11-01 05:30",
  "period": {
-  "from": "2026-10-01 10:37",
-  "to": "2026-10-31 10:37",
+  "from": "2026-10-02 05:29",
+  "to": "2026-11-01 05:29",
   "days": 30
  },
- "streams_analyzed": 16,
+ "streams_analyzed": 15,
  "streams_missed": 3,
- "unique_chatters": 6702,
- "members_confirmed": 2718,
+ "unique_chatters": 6645,
+ "members_confirmed": 2704,
  "member_classes": {
-  "unknown": 2523,
+  "unknown": 2509,
   "known": 88,
   "gift": 107
  },
@@ -33,27 +33,27 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 328
+   "members": 326
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 354
+   "members": 352
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 955
+   "members": 951
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 767
+   "members": 761
   }
  ],
  "events": {
-  "new_members": 50,
-  "rejoins": 18,
+  "new_members": 49,
+  "rejoins": 17,
   "milestones": 0,
   "gift_purchases": 43,
   "gifted_total": 120,
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 88,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2523.0,
-   "estimated_members": 2611.0,
+   "allocated_unknown": 2509.0,
+   "estimated_members": 2597.0,
    "monthly_net_confirmed": 27440,
-   "monthly_net_estimated": 814157
+   "monthly_net_estimated": 809792
   }
  ],
  "revenue": {
-  "monthly_low": 814157,
-  "monthly_est": 814157,
+  "monthly_low": 809792,
+  "monthly_est": 809792,
   "gift_once": 37418,
-  "total_low": 851575,
-  "total_est": 851575,
-  "paying_members": 2611,
+  "total_low": 847210,
+  "total_est": 847210,
+  "paying_members": 2597,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "AXNU80gPCzw",
-   "start": "2026-10-01 20:28",
-   "title": "【手積み麻雀】趣がいいんだよね趣が趣が【にじさんじ／佐伯イッテツ】",
-   "kind": "配信",
-   "chatters": 735,
-   "member_chatters": 588,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "3Gtd1W33CBM",
    "start": "2026-10-03 19:00",
@@ -259,7 +249,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "仲磨強化プログラム🤝",
-   "like_count": 628,
+   "like_count": 629,
    "view_count": null
   },
   {
@@ -271,7 +261,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "仲磨強化プログラム🤝",
-   "like_count": 748,
+   "like_count": 758,
    "view_count": null
   },
   {
@@ -283,7 +273,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "仲磨強化プログラム🤝",
-   "like_count": 574,
+   "like_count": 582,
    "view_count": null
   }
  ],
@@ -295,7 +285,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "仲磨強化プログラム🤝",
-   "like_count": 628,
+   "like_count": 629,
    "view_count": null
   },
   {
@@ -305,7 +295,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "仲磨強化プログラム🤝",
-   "like_count": 748,
+   "like_count": 758,
    "view_count": null
   },
   {
@@ -315,7 +305,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "仲磨強化プログラム🤝",
-   "like_count": 574,
+   "like_count": 582,
    "view_count": null
   }
  ],
@@ -448,7 +438,7 @@
     "gift_once": 37418
    },
    "avg_member_chatters": 815.3,
-   "partial": true,
+   "partial": false,
    "finalized": false
   }
  ],

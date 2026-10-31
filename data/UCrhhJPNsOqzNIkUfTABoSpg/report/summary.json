@@ -3,20 +3,20 @@
  "channel_id": "UCrhhJPNsOqzNIkUfTABoSpg",
  "handle": "@HaYun",
  "subscribers": 133000,
- "fetched_at": "2026-10-31 10:37",
- "generated_at": "2026-10-31 10:37",
+ "fetched_at": "2026-11-01 05:29",
+ "generated_at": "2026-11-01 05:29",
  "period": {
-  "from": "2026-10-01 10:37",
-  "to": "2026-10-31 10:37",
+  "from": "2026-10-02 05:29",
+  "to": "2026-11-01 05:29",
   "days": 30
  },
- "streams_analyzed": 14,
- "streams_missed": 0,
- "unique_chatters": 156,
- "members_confirmed": 74,
+ "streams_analyzed": 13,
+ "streams_missed": 1,
+ "unique_chatters": 153,
+ "members_confirmed": 72,
  "member_classes": {
+  "unknown": 46,
   "known": 16,
-  "unknown": 48,
   "gift": 10
  },
  "badges": [
@@ -43,7 +43,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 40
+   "members": 38
   }
  ],
  "events": {
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 16,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 48.0,
-   "estimated_members": 64.0,
+   "allocated_unknown": 46.0,
+   "estimated_members": 62.0,
    "monthly_net_confirmed": 4989,
-   "monthly_net_estimated": 19956
+   "monthly_net_estimated": 19333
   }
  ],
  "revenue": {
-  "monthly_low": 19956,
-  "monthly_est": 19956,
+  "monthly_low": 19333,
+  "monthly_est": 19333,
   "gift_once": 3118,
-  "total_low": 23075,
-  "total_est": 23075,
-  "paying_members": 64,
+  "total_low": 22451,
+  "total_est": 22451,
+  "paying_members": 62,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "-pWjlcQCCTw",
-   "start": "2026-10-01 20:04",
-   "title": "【WARDOGS】 3人でパーティーだ～！ 【ハユン/にじさんじ】",
-   "kind": "配信",
-   "chatters": 22,
-   "member_chatters": 16,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "n2_Rh64Fvrw",
    "start": "2026-10-02 21:04",
@@ -224,7 +214,20 @@
    "gifted_total": 5
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "yD4FGaZS_z8",
+   "start": "2026-10-31 00:00",
+   "title": "【APEX】 短めでポイントはたくさん 【ハユン/にじさんじ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 104,
+   "view_count": 3908
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -300,7 +303,7 @@
     "to": "2026-10-31"
    },
    "streams_analyzed": 14,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 156,
    "members_confirmed": 74,
    "member_classes": {
@@ -351,7 +354,7 @@
     "gift_once": 3118
    },
    "avg_member_chatters": 22.8,
-   "partial": true,
+   "partial": false,
    "finalized": false
   }
  ],

@@ -3,15 +3,15 @@
  "channel_id": "UCClwIqTUn5LDpFucHyaAhHg",
  "handle": "@LeeRoha",
  "subscribers": 111000,
- "fetched_at": "2026-10-31 10:36",
- "generated_at": "2026-10-31 10:37",
+ "fetched_at": "2026-11-01 05:29",
+ "generated_at": "2026-11-01 05:29",
  "period": {
-  "from": "2026-10-01 10:36",
-  "to": "2026-10-31 10:36",
+  "from": "2026-10-02 05:29",
+  "to": "2026-11-01 05:29",
   "days": 30
  },
  "streams_analyzed": 16,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 314,
  "members_confirmed": 54,
  "member_classes": {
@@ -260,7 +260,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "csrPu2YYZxQ",
+   "start": "2026-10-31 00:00",
+   "title": "【#にじイカ祭り2026】３チーム顔合わせなのです。　[にじさんじ/イロハ]",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 671,
+   "view_count": 22640
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -342,7 +355,7 @@
     "to": "2026-10-31"
    },
    "streams_analyzed": 16,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 314,
    "members_confirmed": 54,
    "member_classes": {
@@ -403,7 +416,7 @@
     "gift_once": 4365
    },
    "avg_member_chatters": 12.9,
-   "partial": true,
+   "partial": false,
    "finalized": false
   }
  ],

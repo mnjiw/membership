@@ -2,28 +2,28 @@
  "channel": "Rei7【にじさんじ】",
  "channel_id": "UC_4QF0dL-9XI9VajsNkMtmQ",
  "handle": "@Rei7_Y4T4",
- "subscribers": 177000,
- "fetched_at": "2026-10-31 10:38",
- "generated_at": "2026-10-31 10:38",
+ "subscribers": 178000,
+ "fetched_at": "2026-11-01 05:34",
+ "generated_at": "2026-11-01 05:35",
  "period": {
-  "from": "2026-10-01 10:38",
-  "to": "2026-10-31 10:38",
+  "from": "2026-10-02 05:34",
+  "to": "2026-11-01 05:34",
   "days": 30
  },
- "streams_analyzed": 32,
- "streams_missed": 3,
- "unique_chatters": 5907,
- "members_confirmed": 725,
+ "streams_analyzed": 31,
+ "streams_missed": 4,
+ "unique_chatters": 5885,
+ "members_confirmed": 724,
  "member_classes": {
   "unknown": 646,
-  "known": 68,
+  "known": 67,
   "gift": 11
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 84
+   "members": 83
   },
   {
    "months": 1,
@@ -37,7 +37,7 @@
   }
  ],
  "events": {
-  "new_members": 43,
+  "new_members": 42,
   "rejoins": 7,
   "milestones": 0,
   "gift_purchases": 3,
@@ -50,21 +50,21 @@
    "tier": "Ris7",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 68,
+   "confirmed_members": 67,
    "share_of_confirmed_pct": 100.0,
    "allocated_unknown": 646.0,
-   "estimated_members": 714.0,
-   "monthly_net_confirmed": 21204,
-   "monthly_net_estimated": 222638
+   "estimated_members": 713.0,
+   "monthly_net_confirmed": 20892,
+   "monthly_net_estimated": 222326
   }
  ],
  "revenue": {
-  "monthly_low": 222638,
-  "monthly_est": 222638,
+  "monthly_low": 222326,
+  "monthly_est": 222326,
   "gift_once": 3430,
-  "total_low": 226068,
-  "total_est": 226068,
-  "paying_members": 714,
+  "total_low": 225756,
+  "total_est": 225756,
+  "paying_members": 713,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "hwYEkeAeegc",
-   "start": "2026-10-01 20:56",
-   "title": "【 スト6 】Mジュリ/D4~ / NO炊【 Rei7 / にじさんじ 】",
-   "kind": "配信",
-   "chatters": 198,
-   "member_chatters": 87,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "S-FrmnHPeYw",
    "start": "2026-10-02 22:16",
@@ -416,8 +406,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 712,
-   "view_count": 45686
+   "like_count": 750,
+   "view_count": 50997
   },
   {
    "video_id": "Jg6Q2fMTNl0",
@@ -430,6 +420,18 @@
    "members_level": "Ris7",
    "like_count": 167,
    "view_count": null
+  },
+  {
+   "video_id": "dku3EVOMSN4",
+   "start": "2026-10-31 00:00",
+   "title": "【スプラトゥーン3】フェス参加してみるななよ。／男虎、小々波いるか、塚原大地【 Rei7 / にじさんじ 】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 1181,
+   "view_count": 82763
   }
  ],
  "members_only_content": [
@@ -516,7 +518,7 @@
     "to": "2026-10-31"
    },
    "streams_analyzed": 33,
-   "streams_missed": 3,
+   "streams_missed": 4,
    "unique_chatters": 5958,
    "members_confirmed": 728,
    "member_classes": {
@@ -559,7 +561,7 @@
     "gift_once": 3430
    },
    "avg_member_chatters": 130.2,
-   "partial": true,
+   "partial": false,
    "finalized": false
   }
  ],

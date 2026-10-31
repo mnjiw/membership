@@ -4,22 +4,31 @@
   "from": "2026-10-01",
   "to": "2026-10-31"
  },
- "streams_analyzed": 30,
- "streams_missed": 0,
- "unique_chatters": 6397,
- "members_confirmed": 0,
- "member_classes": {},
+ "streams_analyzed": 31,
+ "streams_missed": 2,
+ "unique_chatters": 7069,
+ "members_confirmed": 1563,
+ "member_classes": {
+  "known": 1522,
+  "unknown": 5,
+  "gift": 36
+ },
  "long_term_members": 0,
- "badges": [],
+ "badges": [
+  {
+   "months": 0,
+   "members": 1563
+  }
+ ],
  "events": {
-  "new_members": 0,
+  "new_members": 1525,
   "rejoins": 0,
   "milestones": 0,
-  "gifted_total": 0
+  "gifted_total": 36
  },
  "tiers": [],
  "revenue": null,
- "avg_member_chatters": 0,
- "partial": true,
+ "avg_member_chatters": 50.4,
+ "partial": false,
  "finalized": false
 }

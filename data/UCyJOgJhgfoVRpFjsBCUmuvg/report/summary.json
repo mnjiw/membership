@@ -3,20 +3,20 @@
  "channel_id": "UCyJOgJhgfoVRpFjsBCUmuvg",
  "handle": "@KozueMone",
  "subscribers": 159000,
- "fetched_at": "2026-10-31 10:37",
- "generated_at": "2026-10-31 10:37",
+ "fetched_at": "2026-11-01 05:32",
+ "generated_at": "2026-11-01 05:33",
  "period": {
-  "from": "2026-10-01 10:37",
-  "to": "2026-10-31 10:37",
+  "from": "2026-10-02 05:32",
+  "to": "2026-11-01 05:32",
   "days": 30
  },
- "streams_analyzed": 28,
- "streams_missed": 3,
- "unique_chatters": 3077,
- "members_confirmed": 471,
+ "streams_analyzed": 27,
+ "streams_missed": 4,
+ "unique_chatters": 3053,
+ "members_confirmed": 469,
  "member_classes": {
   "known": 94,
-  "unknown": 356,
+  "unknown": 354,
   "gift": 21
  },
  "badges": [
@@ -28,7 +28,7 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 13
+   "members": 12
   },
   {
    "months": 2,
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 167
+   "members": 166
   },
   {
    "months": 24,
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 94,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 356.0,
-   "estimated_members": 450.0,
+   "allocated_unknown": 354.0,
+   "estimated_members": 448.0,
    "monthly_net_confirmed": 29311,
-   "monthly_net_estimated": 140318
+   "monthly_net_estimated": 139695
   }
  ],
  "revenue": {
-  "monthly_low": 140318,
-  "monthly_est": 140318,
+  "monthly_low": 139695,
+  "monthly_est": 139695,
   "gift_once": 6548,
-  "total_low": 146866,
-  "total_est": 146866,
-  "paying_members": 450,
+  "total_low": 146243,
+  "total_est": 146243,
+  "paying_members": 448,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "6eNcLGrNHxU",
-   "start": "2026-10-01 12:00",
-   "title": "【月見】KFCのとろーり月見食べる🤤🌕🍔【にじさんじ/梢桃音】",
-   "kind": "配信",
-   "chatters": 236,
-   "member_chatters": 115,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "sInLFNSUfsE",
    "start": "2026-10-02 18:02",
@@ -391,7 +381,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 68,
+   "like_count": 69,
    "view_count": null
   },
   {
@@ -405,6 +395,18 @@
    "members_level": "",
    "like_count": 122,
    "view_count": null
+  },
+  {
+   "video_id": "tlKi5_uh_jM",
+   "start": "2026-10-31 00:00",
+   "title": "【夜ご飯】パイナップルon好物【にじさんじ/梢桃音】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 775,
+   "view_count": 17646
   }
  ],
  "members_only_content": [
@@ -425,7 +427,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 68,
+   "like_count": 69,
    "view_count": null
   },
   {
@@ -513,7 +515,7 @@
     "to": "2026-10-31"
    },
    "streams_analyzed": 28,
-   "streams_missed": 3,
+   "streams_missed": 4,
    "unique_chatters": 3077,
    "members_confirmed": 471,
    "member_classes": {
@@ -568,7 +570,7 @@
     "gift_once": 6548
    },
    "avg_member_chatters": 140,
-   "partial": true,
+   "partial": false,
    "finalized": false
   }
  ],

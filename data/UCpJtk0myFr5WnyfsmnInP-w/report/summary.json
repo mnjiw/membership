@@ -3,15 +3,15 @@
  "channel_id": "UCpJtk0myFr5WnyfsmnInP-w",
  "handle": "@HanaMacchia",
  "subscribers": 280000,
- "fetched_at": "2026-10-31 10:36",
- "generated_at": "2026-10-31 10:36",
+ "fetched_at": "2026-11-01 05:28",
+ "generated_at": "2026-11-01 05:28",
  "period": {
-  "from": "2026-10-01 10:36",
-  "to": "2026-10-31 10:36",
+  "from": "2026-10-02 05:28",
+  "to": "2026-11-01 05:28",
   "days": 30
  },
  "streams_analyzed": 13,
- "streams_missed": 1,
+ "streams_missed": 2,
  "unique_chatters": 489,
  "members_confirmed": 84,
  "member_classes": {
@@ -221,6 +221,18 @@
    "members_level": "",
    "like_count": 26,
    "view_count": null
+  },
+  {
+   "video_id": "pCUPk2wt0vU",
+   "start": "2026-11-01 01:33",
+   "title": "hello you have been treated to a member stream happy halloween【NIJISANJI | Hana Macchia】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 26,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -228,6 +240,16 @@
    "video_id": "FYLdprq-sNw",
    "start": "2026-10-04 00:00",
    "title": "stream ball run【NIJISANJI | Hana Macchia】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 26,
+   "view_count": null
+  },
+  {
+   "video_id": "pCUPk2wt0vU",
+   "start": "2026-11-01 01:33",
+   "title": "hello you have been treated to a member stream happy halloween【NIJISANJI | Hana Macchia】",
    "kind": "live",
    "status": "members_only",
    "members_level": "",
@@ -343,7 +365,7 @@
     "gift_once": 4830
    },
    "avg_member_chatters": 19.3,
-   "partial": true,
+   "partial": false,
    "finalized": false
   }
  ],

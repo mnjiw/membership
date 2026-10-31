@@ -3,32 +3,32 @@
  "channel_id": "UC6oDys1BGgBsIC3WhG1BovQ",
  "handle": "@ShizukaRin",
  "subscribers": 398000,
- "fetched_at": "2026-10-31 10:34",
- "generated_at": "2026-10-31 10:34",
+ "fetched_at": "2026-11-01 05:17",
+ "generated_at": "2026-11-01 05:18",
  "period": {
-  "from": "2026-10-01 10:34",
-  "to": "2026-10-31 10:34",
+  "from": "2026-10-02 05:17",
+  "to": "2026-11-01 05:17",
   "days": 30
  },
  "streams_analyzed": 27,
- "streams_missed": 3,
- "unique_chatters": 996,
- "members_confirmed": 280,
+ "streams_missed": 4,
+ "unique_chatters": 1021,
+ "members_confirmed": 289,
  "member_classes": {
-  "unknown": 203,
+  "unknown": 213,
   "known": 32,
-  "gift": 45
+  "gift": 44
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 59
+   "members": 58
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 5
+   "members": 6
   },
   {
    "months": 2,
@@ -48,26 +48,26 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 13
+   "members": 14
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 14
+   "members": 17
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 130
+   "members": 135
   }
  ],
  "events": {
   "new_members": 7,
   "rejoins": 3,
-  "milestones": 14,
-  "gift_purchases": 12,
-  "gifted_total": 45,
-  "gift_redemptions": 45
+  "milestones": 13,
+  "gift_purchases": 11,
+  "gifted_total": 44,
+  "gift_redemptions": 44
  },
  "tiers_configured": true,
  "tiers": [
@@ -77,19 +77,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 32,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 203.0,
-   "estimated_members": 235.0,
+   "allocated_unknown": 213.0,
+   "estimated_members": 245.0,
    "monthly_net_confirmed": 9978,
-   "monthly_net_estimated": 73277
+   "monthly_net_estimated": 76395
   }
  ],
  "revenue": {
-  "monthly_low": 73277,
-  "monthly_est": 73277,
-  "gift_once": 14032,
-  "total_low": 87309,
-  "total_est": 87309,
-  "paying_members": 235,
+  "monthly_low": 76395,
+  "monthly_est": 76395,
+  "gift_once": 13720,
+  "total_low": 90115,
+  "total_est": 90115,
+  "paying_members": 245,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "9qofm7P6EIY",
-   "start": "2026-10-02 00:48",
-   "title": "𝔽𝔽𝟙𝟜 | NOPLANの凛 | ネタバレ注意【静凛/にじさんじ】",
-   "kind": "配信",
-   "chatters": 72,
-   "member_chatters": 56,
-   "new_members": 0,
-   "gifted_total": 1
-  },
   {
    "video_id": "1-QPY_NpuR0",
    "start": "2026-10-02 20:08",
@@ -367,6 +357,16 @@
    "member_chatters": 70,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "ob2NOi5QuYg",
+   "start": "2026-10-31 22:51",
+   "title": "𝔽𝔽𝟙𝟜 | 守護天節2026 + α | ネタバレ注意【静凛/にじさんじ】",
+   "kind": "配信",
+   "chatters": 123,
+   "member_chatters": 83,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -405,6 +405,18 @@
    "members_level": "",
    "like_count": 91,
    "view_count": null
+  },
+  {
+   "video_id": "Wrp3mmroAHo",
+   "start": "2026-10-31 19:20",
+   "title": "19-21の間に開始！🟣M限 | 月末雑談 | 202610【静凛/にじさんじ】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 135,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -436,6 +448,16 @@
    "status": "members_only",
    "members_level": "",
    "like_count": 91,
+   "view_count": null
+  },
+  {
+   "video_id": "Wrp3mmroAHo",
+   "start": "2026-10-31 19:20",
+   "title": "19-21の間に開始！🟣M限 | 月末雑談 | 202610【静凛/にじさんじ】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 135,
    "view_count": null
   }
  ],
@@ -520,24 +542,24 @@
     "from": "2026-10-01",
     "to": "2026-10-31"
    },
-   "streams_analyzed": 27,
-   "streams_missed": 3,
-   "unique_chatters": 996,
-   "members_confirmed": 280,
+   "streams_analyzed": 28,
+   "streams_missed": 4,
+   "unique_chatters": 1027,
+   "members_confirmed": 290,
    "member_classes": {
-    "unknown": 203,
+    "unknown": 213,
     "known": 32,
     "gift": 45
    },
-   "long_term_members": 186,
+   "long_term_members": 196,
    "badges": [
     {
      "months": 0,
-     "members": 59
+     "members": 58
     },
     {
      "months": 1,
-     "members": 5
+     "members": 6
     },
     {
      "months": 2,
@@ -553,15 +575,15 @@
     },
     {
      "months": 24,
-     "members": 13
-    },
-    {
-     "months": 36,
      "members": 14
     },
     {
+     "months": 36,
+     "members": 17
+    },
+    {
      "months": 48,
-     "members": 130
+     "members": 136
     }
    ],
    "events": {
@@ -575,16 +597,16 @@
      "tier": "しずりんのメンバーシップだよ！",
      "price": 490,
      "confirmed_members": 32,
-     "estimated_members": 235.0
+     "estimated_members": 245.0
     }
    ],
    "revenue": {
-    "monthly_low": 73277,
-    "monthly_est": 73277,
+    "monthly_low": 76395,
+    "monthly_est": 76395,
     "gift_once": 14032
    },
-   "avg_member_chatters": 74,
-   "partial": true,
+   "avg_member_chatters": 74.3,
+   "partial": false,
    "finalized": false
   }
  ],

@@ -3,15 +3,15 @@
  "channel_id": "UCllKI7VjyANuS1RXatizfLQ",
  "handle": "@YamagamiKaruta",
  "subscribers": 295000,
- "fetched_at": "2026-10-31 10:36",
- "generated_at": "2026-10-31 10:36",
+ "fetched_at": "2026-11-01 05:24",
+ "generated_at": "2026-11-01 05:24",
  "period": {
-  "from": "2026-10-01 10:36",
-  "to": "2026-10-31 10:36",
+  "from": "2026-10-02 05:24",
+  "to": "2026-11-01 05:24",
   "days": 30
  },
  "streams_analyzed": 16,
- "streams_missed": 2,
+ "streams_missed": 3,
  "unique_chatters": 1824,
  "members_confirmed": 327,
  "member_classes": {
@@ -282,6 +282,18 @@
    "members_level": "",
    "like_count": 116,
    "view_count": null
+  },
+  {
+   "video_id": "HTrt3nunh8E",
+   "start": "2026-10-31 00:00",
+   "title": "【Splatoon3】プラべで練習するぞ！！！！【にじさんじ/山神カルタ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 776,
+   "view_count": 40553
   }
  ],
  "members_only_content": [
@@ -387,7 +399,7 @@
     "to": "2026-10-31"
    },
    "streams_analyzed": 16,
-   "streams_missed": 2,
+   "streams_missed": 3,
    "unique_chatters": 1824,
    "members_confirmed": 327,
    "member_classes": {
@@ -449,7 +461,7 @@
     "gift_once": 0
    },
    "avg_member_chatters": 89.1,
-   "partial": true,
+   "partial": false,
    "finalized": false
   }
  ],

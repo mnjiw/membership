@@ -4,20 +4,20 @@
   "from": "2026-10-01",
   "to": "2026-10-31"
  },
- "streams_analyzed": 16,
+ "streams_analyzed": 17,
  "streams_missed": 3,
- "unique_chatters": 1513,
- "members_confirmed": 522,
+ "unique_chatters": 1539,
+ "members_confirmed": 533,
  "member_classes": {
-  "known": 65,
-  "unknown": 282,
-  "gift": 175
+  "known": 66,
+  "unknown": 287,
+  "gift": 180
  },
- "long_term_members": 256,
+ "long_term_members": 260,
  "badges": [
   {
    "months": 0,
-   "members": 190
+   "members": 195
   },
   {
    "months": 1,
@@ -25,55 +25,55 @@
   },
   {
    "months": 2,
-   "members": 30
+   "members": 31
   },
   {
    "months": 6,
-   "members": 35
+   "members": 36
   },
   {
    "months": 12,
-   "members": 64
-  },
-  {
-   "months": 24,
-   "members": 55
-  },
-  {
-   "months": 36,
    "members": 65
   },
   {
+   "months": 24,
+   "members": 56
+  },
+  {
+   "months": 36,
+   "members": 66
+  },
+  {
    "months": 48,
-   "members": 72
+   "members": 73
   }
  ],
  "events": {
   "new_members": 6,
   "rejoins": 5,
-  "milestones": 40,
-  "gifted_total": 179
+  "milestones": 42,
+  "gifted_total": 184
  },
  "tiers": [
   {
    "tier": "Konbini Crew",
    "price": 490,
    "confirmed_members": 20,
-   "estimated_members": 106.8
+   "estimated_members": 107.0
   },
   {
    "tier": "MEGA Konbini Crew",
    "price": 790,
-   "confirmed_members": 45,
-   "estimated_members": 240.2
+   "confirmed_members": 46,
+   "estimated_members": 246.0
   }
  ],
  "revenue": {
-  "monthly_low": 116792,
-  "monthly_est": 154063,
-  "gift_once": 55815
+  "monthly_low": 118854,
+  "monthly_est": 157041,
+  "gift_once": 57375
  },
- "avg_member_chatters": 127.8,
- "partial": true,
+ "avg_member_chatters": 126.9,
+ "partial": false,
  "finalized": false
 }

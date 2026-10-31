@@ -3,19 +3,19 @@
  "channel_id": "UCtpB6Bvhs1Um93ziEDACQ8g",
  "handle": "@MorinakaKazaki",
  "subscribers": 335000,
- "fetched_at": "2026-10-31 10:34",
- "generated_at": "2026-10-31 10:34",
+ "fetched_at": "2026-11-01 05:18",
+ "generated_at": "2026-11-01 05:18",
  "period": {
-  "from": "2026-10-01 10:34",
-  "to": "2026-10-31 10:34",
+  "from": "2026-10-02 05:18",
+  "to": "2026-11-01 05:18",
   "days": 30
  },
- "streams_analyzed": 16,
+ "streams_analyzed": 17,
  "streams_missed": 1,
- "unique_chatters": 381,
- "members_confirmed": 89,
+ "unique_chatters": 399,
+ "members_confirmed": 92,
  "member_classes": {
-  "unknown": 86,
+  "unknown": 89,
   "known": 3
  },
  "badges": [
@@ -47,12 +47,12 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 7
+   "members": 8
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 71
+   "members": 73
   }
  ],
  "events": {
@@ -71,10 +71,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 3,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 86.0,
-   "estimated_members": 89.0,
+   "allocated_unknown": 89.0,
+   "estimated_members": 92.0,
    "monthly_net_confirmed": 935,
-   "monthly_net_estimated": 27752
+   "monthly_net_estimated": 28687
   },
   {
    "tier": "お前の歌を愛してるぞプラン",
@@ -100,12 +100,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 27752,
-  "monthly_est": 27752,
+  "monthly_low": 28687,
+  "monthly_est": 28687,
   "gift_once": 0,
-  "total_low": 27752,
-  "total_est": 27752,
-  "paying_members": 89,
+  "total_low": 28687,
+  "total_est": 28687,
+  "paying_members": 92,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -273,6 +273,16 @@
    "member_chatters": 12,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "6JiwYNSc-NY",
+   "start": "2026-10-31 22:07",
+   "title": "【Invokyr】Happy Halloween...な夜は、にじさんじオカルト研究部で部活動。【にじさんじオカルト研究部】",
+   "kind": "配信",
+   "chatters": 59,
+   "member_chatters": 32,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -386,15 +396,15 @@
     "from": "2026-10-01",
     "to": "2026-10-31"
    },
-   "streams_analyzed": 16,
+   "streams_analyzed": 17,
    "streams_missed": 1,
-   "unique_chatters": 381,
-   "members_confirmed": 89,
+   "unique_chatters": 399,
+   "members_confirmed": 92,
    "member_classes": {
-    "unknown": 86,
+    "unknown": 89,
     "known": 3
    },
-   "long_term_members": 82,
+   "long_term_members": 85,
    "badges": [
     {
      "months": 0,
@@ -418,11 +428,11 @@
     },
     {
      "months": 24,
-     "members": 7
+     "members": 8
     },
     {
      "months": 36,
-     "members": 71
+     "members": 73
     }
    ],
    "events": {
@@ -436,7 +446,7 @@
      "tier": "くまさんず会社",
      "price": 490,
      "confirmed_members": 3,
-     "estimated_members": 89.0
+     "estimated_members": 92.0
     },
     {
      "tier": "お前の歌を愛してるぞプラン",
@@ -452,12 +462,12 @@
     }
    ],
    "revenue": {
-    "monthly_low": 27752,
-    "monthly_est": 27752,
+    "monthly_low": 28687,
+    "monthly_est": 28687,
     "gift_once": 0
    },
-   "avg_member_chatters": 22.5,
-   "partial": true,
+   "avg_member_chatters": 23.1,
+   "partial": false,
    "finalized": false
   }
  ],

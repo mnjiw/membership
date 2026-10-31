@@ -3,15 +3,15 @@
  "channel_id": "UCkhViRjLUKgIcVpar9JiNrw",
  "handle": "@TamanoiNana",
  "subscribers": 364000,
- "fetched_at": "2026-10-31 10:37",
- "generated_at": "2026-10-31 10:38",
+ "fetched_at": "2026-11-01 05:32",
+ "generated_at": "2026-11-01 05:32",
  "period": {
-  "from": "2026-10-01 10:37",
-  "to": "2026-10-31 10:37",
+  "from": "2026-10-02 05:32",
+  "to": "2026-11-01 05:32",
   "days": 30
  },
  "streams_analyzed": 13,
- "streams_missed": 2,
+ "streams_missed": 3,
  "unique_chatters": 2946,
  "members_confirmed": 623,
  "member_classes": {
@@ -241,8 +241,20 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "ななかま",
-   "like_count": 332,
+   "like_count": 333,
    "view_count": null
+  },
+  {
+   "video_id": "9BGGy9VrX9A",
+   "start": "2026-10-31 00:00",
+   "title": "【 魔法少女ノ魔女裁判 】#18 希望の光【にじさんじ / 珠乃井ナナ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 1150,
+   "view_count": 59687
   }
  ],
  "members_only_content": [
@@ -263,7 +275,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "ななかま",
-   "like_count": 332,
+   "like_count": 333,
    "view_count": null
   }
  ],
@@ -341,7 +353,7 @@
     "to": "2026-10-31"
    },
    "streams_analyzed": 13,
-   "streams_missed": 2,
+   "streams_missed": 3,
    "unique_chatters": 2946,
    "members_confirmed": 623,
    "member_classes": {
@@ -396,7 +408,7 @@
     "gift_once": 6548
    },
    "avg_member_chatters": 184.5,
-   "partial": true,
+   "partial": false,
    "finalized": false
   }
  ],

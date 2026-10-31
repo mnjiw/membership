@@ -3,20 +3,20 @@
  "channel_id": "UCqjTqdVlvIipZXIKeCkHKUA",
  "handle": "@OliverEvans",
  "subscribers": 358000,
- "fetched_at": "2026-10-31 10:36",
- "generated_at": "2026-10-31 10:36",
+ "fetched_at": "2026-11-01 05:27",
+ "generated_at": "2026-11-01 05:27",
  "period": {
-  "from": "2026-10-01 10:36",
-  "to": "2026-10-31 10:36",
+  "from": "2026-10-02 05:27",
+  "to": "2026-11-01 05:27",
   "days": 30
  },
- "streams_analyzed": 12,
+ "streams_analyzed": 13,
  "streams_missed": 2,
- "unique_chatters": 1490,
- "members_confirmed": 411,
+ "unique_chatters": 1516,
+ "members_confirmed": 414,
  "member_classes": {
-  "unknown": 388,
-  "known": 18,
+  "unknown": 389,
+  "known": 20,
   "gift": 5
  },
  "badges": [
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 16
+   "members": 17
   },
   {
    "months": 6,
@@ -43,18 +43,18 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 47
+   "members": 48
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 310
+   "members": 311
   }
  ],
  "events": {
   "new_members": 0,
   "rejoins": 2,
-  "milestones": 10,
+  "milestones": 12,
   "gift_purchases": 1,
   "gifted_total": 5,
   "gift_redemptions": 5
@@ -66,31 +66,31 @@
    "price": 490,
    "net_per_member": 311.8,
    "confirmed_members": 10,
-   "share_of_confirmed_pct": 55.6,
-   "allocated_unknown": 215.6,
-   "estimated_members": 225.6,
+   "share_of_confirmed_pct": 50.0,
+   "allocated_unknown": 194.5,
+   "estimated_members": 204.5,
    "monthly_net_confirmed": 3118,
-   "monthly_net_estimated": 70332
+   "monthly_net_estimated": 63767
   },
   {
    "tier": "ゼミアルバム",
    "price": 1190,
    "net_per_member": 757.3,
-   "confirmed_members": 8,
-   "share_of_confirmed_pct": 44.4,
-   "allocated_unknown": 172.4,
-   "estimated_members": 180.4,
-   "monthly_net_confirmed": 6058,
-   "monthly_net_estimated": 136646
+   "confirmed_members": 10,
+   "share_of_confirmed_pct": 50.0,
+   "allocated_unknown": 194.5,
+   "estimated_members": 204.5,
+   "monthly_net_confirmed": 7573,
+   "monthly_net_estimated": 154862
   }
  ],
  "revenue": {
-  "monthly_low": 130162,
-  "monthly_est": 206978,
+  "monthly_low": 131988,
+  "monthly_est": 218629,
   "gift_once": 1559,
-  "total_low": 131721,
-  "total_est": 208537,
-  "paying_members": 406,
+  "total_low": 133547,
+  "total_est": 220188,
+  "paying_members": 409,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -216,6 +216,16 @@
    "kind": "配信",
    "chatters": 207,
    "member_chatters": 136,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "ym5ALy_AC9I",
+   "start": "2026-10-31 18:03",
+   "title": "【#にじイカ祭り2026 】突発プラべ！筆強襲！！【 オリバー・エバンス/にじさんじ】",
+   "kind": "配信",
+   "chatters": 152,
+   "member_chatters": 103,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -346,16 +356,16 @@
     "from": "2026-10-01",
     "to": "2026-10-31"
    },
-   "streams_analyzed": 12,
+   "streams_analyzed": 13,
    "streams_missed": 2,
-   "unique_chatters": 1490,
-   "members_confirmed": 411,
+   "unique_chatters": 1516,
+   "members_confirmed": 414,
    "member_classes": {
-    "unknown": 388,
-    "known": 18,
+    "unknown": 389,
+    "known": 20,
     "gift": 5
    },
-   "long_term_members": 357,
+   "long_term_members": 359,
    "badges": [
     {
      "months": 0,
@@ -367,7 +377,7 @@
     },
     {
      "months": 2,
-     "members": 16
+     "members": 17
     },
     {
      "months": 6,
@@ -375,17 +385,17 @@
     },
     {
      "months": 12,
-     "members": 47
+     "members": 48
     },
     {
      "months": 24,
-     "members": 310
+     "members": 311
     }
    ],
    "events": {
     "new_members": 0,
     "rejoins": 2,
-    "milestones": 10,
+    "milestones": 12,
     "gifted_total": 5
    },
    "tiers": [
@@ -393,22 +403,22 @@
      "tier": "ゼミ打ち上げ",
      "price": 490,
      "confirmed_members": 10,
-     "estimated_members": 225.6
+     "estimated_members": 204.5
     },
     {
      "tier": "ゼミアルバム",
      "price": 1190,
-     "confirmed_members": 8,
-     "estimated_members": 180.4
+     "confirmed_members": 10,
+     "estimated_members": 204.5
     }
    ],
    "revenue": {
-    "monthly_low": 130162,
-    "monthly_est": 206978,
+    "monthly_low": 131988,
+    "monthly_est": 218629,
     "gift_once": 1559
    },
-   "avg_member_chatters": 144.6,
-   "partial": true,
+   "avg_member_chatters": 141.4,
+   "partial": false,
    "finalized": false
   }
  ],

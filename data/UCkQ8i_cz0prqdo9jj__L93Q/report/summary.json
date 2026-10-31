@@ -2,16 +2,16 @@
  "channel": "酒寄颯馬 / Sakayori Soma【にじさんじ】",
  "channel_id": "UCkQ8i_cz0prqdo9jj__L93Q",
  "handle": "@SakayoriSoma",
- "subscribers": 287000,
- "fetched_at": "2026-10-31 10:37",
- "generated_at": "2026-10-31 10:37",
+ "subscribers": 288000,
+ "fetched_at": "2026-11-01 05:33",
+ "generated_at": "2026-11-01 05:33",
  "period": {
-  "from": "2026-10-01 10:37",
-  "to": "2026-10-31 10:37",
+  "from": "2026-10-02 05:33",
+  "to": "2026-11-01 05:33",
   "days": 30
  },
  "streams_analyzed": 19,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 2823,
  "members_confirmed": 557,
  "member_classes": {
@@ -274,7 +274,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "34MPL4Ipd9M",
+   "start": "2026-10-31 00:00",
+   "title": "【LTK】スクリム、間に合え【酒寄颯馬/にじさんじ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 696,
+   "view_count": 84607
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -346,7 +359,7 @@
     "to": "2026-10-31"
    },
    "streams_analyzed": 19,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 2823,
    "members_confirmed": 557,
    "member_classes": {
@@ -397,7 +410,7 @@
     "gift_once": 7795
    },
    "avg_member_chatters": 201.3,
-   "partial": true,
+   "partial": false,
    "finalized": false
   }
  ],

@@ -3,19 +3,19 @@
  "channel_id": "UCsFn_ueskBkMCEyzCEqAOvg",
  "handle": "@HanabatakeChaika",
  "subscribers": 572000,
- "fetched_at": "2026-10-31 10:35",
- "generated_at": "2026-10-31 10:35",
+ "fetched_at": "2026-11-01 05:20",
+ "generated_at": "2026-11-01 05:20",
  "period": {
-  "from": "2026-10-01 10:35",
-  "to": "2026-10-31 10:35",
+  "from": "2026-10-02 05:20",
+  "to": "2026-11-01 05:20",
   "days": 30
  },
- "streams_analyzed": 18,
+ "streams_analyzed": 17,
  "streams_missed": 4,
- "unique_chatters": 3296,
- "members_confirmed": 531,
+ "unique_chatters": 2968,
+ "members_confirmed": 517,
  "member_classes": {
-  "unknown": 531
+  "unknown": 517
  },
  "badges": [
   {
@@ -26,18 +26,18 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 34
+   "members": 33
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 472
+   "members": 459
   }
  ],
  "events": {
   "new_members": 9,
   "rejoins": 9,
-  "milestones": 42,
+  "milestones": 40,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -50,19 +50,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 0,
    "share_of_confirmed_pct": "",
-   "allocated_unknown": 531.0,
-   "estimated_members": 531.0,
+   "allocated_unknown": 517.0,
+   "estimated_members": 517.0,
    "monthly_net_confirmed": 0,
-   "monthly_net_estimated": 165575
+   "monthly_net_estimated": 161210
   }
  ],
  "revenue": {
-  "monthly_low": 165575,
-  "monthly_est": 165575,
+  "monthly_low": 161210,
+  "monthly_est": 161210,
   "gift_once": 0,
-  "total_low": 165575,
-  "total_est": 165575,
-  "paying_members": 531,
+  "total_low": 161210,
+  "total_est": 161210,
+  "paying_members": 517,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -71,16 +71,6 @@
   "price_source": "メンバー登録画面で確認（2026-10-07）"
  },
  "streams": [
-  {
-   "video_id": "URlQ_ZGPXPY",
-   "start": "2026-10-01 20:00",
-   "title": "花畑チャイカと近畿霊務局 - Kinki Spiritual Affairs Bureau 生きていなくても、幽霊だって〇してみせる",
-   "kind": "配信",
-   "chatters": 814,
-   "member_chatters": 192,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "BmgMde1wb4Y",
    "start": "2026-10-03 15:02",
@@ -298,8 +288,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 3317,
-   "view_count": 88092
+   "like_count": 3612,
+   "view_count": 100047
   }
  ],
  "members_only_content": [
@@ -435,7 +425,7 @@
     "gift_once": 0
    },
    "avg_member_chatters": 162.2,
-   "partial": true,
+   "partial": false,
    "finalized": false
   }
  ],

@@ -3,16 +3,16 @@
  "channel_id": "UC7_MFM9b8hp5kuTSpa8WyOQ",
  "handle": "@ShiorihaRuri",
  "subscribers": 483000,
- "fetched_at": "2026-10-31 10:37",
- "generated_at": "2026-10-31 10:37",
+ "fetched_at": "2026-11-01 05:31",
+ "generated_at": "2026-11-01 05:32",
  "period": {
-  "from": "2026-10-01 10:37",
-  "to": "2026-10-31 10:37",
+  "from": "2026-10-02 05:31",
+  "to": "2026-11-01 05:31",
   "days": 30
  },
  "streams_analyzed": 22,
  "streams_missed": 0,
- "unique_chatters": 6950,
+ "unique_chatters": 6871,
  "members_confirmed": 0,
  "member_classes": {},
  "badges": [],
@@ -28,16 +28,6 @@
  "tiers": [],
  "revenue": null,
  "streams": [
-  {
-   "video_id": "k5k0ZIf9q0M",
-   "start": "2026-10-01 23:00",
-   "title": "降りすぎだろ、雨",
-   "kind": "配信",
-   "chatters": 807,
-   "member_chatters": 0,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "HVF4_NKzP5c",
    "start": "2026-10-02 19:00",
@@ -247,6 +237,16 @@
    "member_chatters": 0,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "zGB2fCPYxVw",
+   "start": "2026-10-31 19:00",
+   "title": "【デュエプレ】にじさんじコラボストーリーを読もう！【栞葉るり/にじさんじ】",
+   "kind": "配信",
+   "chatters": 999,
+   "member_chatters": 0,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -284,9 +284,9 @@
     "from": "2026-10-01",
     "to": "2026-10-31"
    },
-   "streams_analyzed": 22,
+   "streams_analyzed": 23,
    "streams_missed": 0,
-   "unique_chatters": 6950,
+   "unique_chatters": 7156,
    "members_confirmed": 0,
    "member_classes": {},
    "long_term_members": 0,
@@ -300,7 +300,7 @@
    "tiers": [],
    "revenue": null,
    "avg_member_chatters": 0,
-   "partial": true,
+   "partial": false,
    "finalized": false
   }
  ],

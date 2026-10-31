@@ -3,29 +3,44 @@
  "channel_id": "UCxTIuegV_Vqx11ctdeezPRQ",
  "handle": "@KaminagaTaiga",
  "subscribers": 202000,
- "fetched_at": "2026-10-31 10:38",
- "generated_at": "2026-10-31 10:39",
+ "fetched_at": "2026-11-01 05:38",
+ "generated_at": "2026-11-01 05:39",
  "period": {
-  "from": "2026-10-01 10:38",
-  "to": "2026-10-31 10:38",
+  "from": "2026-10-02 05:38",
+  "to": "2026-11-01 05:38",
   "days": 30
  },
- "streams_analyzed": 29,
- "streams_missed": 0,
- "unique_chatters": 6192,
- "members_confirmed": 0,
- "member_classes": {},
- "badges": [],
+ "streams_analyzed": 30,
+ "streams_missed": 2,
+ "unique_chatters": 6869,
+ "members_confirmed": 1563,
+ "member_classes": {
+  "known": 1522,
+  "unknown": 5,
+  "gift": 36
+ },
+ "badges": [
+  {
+   "months": 0,
+   "label": "新規(1ヶ月未満)",
+   "members": 1563
+  }
+ ],
  "events": {
-  "new_members": 0,
+  "new_members": 1525,
   "rejoins": 0,
   "milestones": 0,
-  "gift_purchases": 0,
-  "gifted_total": 0,
-  "gift_redemptions": 0
+  "gift_purchases": 5,
+  "gifted_total": 36,
+  "gift_redemptions": 36
  },
  "tiers_configured": false,
- "tiers": [],
+ "tiers": [
+  {
+   "tier": "虎っ子部",
+   "confirmed_members": 1522
+  }
+ ],
  "revenue": null,
  "streams": [
   {
@@ -317,10 +332,56 @@
    "member_chatters": 0,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "pj-Q8r4sSYg",
+   "start": "2026-10-31 20:41",
+   "title": "【ハロウィンパーティー🎃】タイガとハロパ！～仮装しながらおやつ食べながら～　# ０２【神永タイガ / にじさんじ】",
+   "kind": "配信",
+   "chatters": 1821,
+   "member_chatters": 1563,
+   "new_members": 1525,
+   "gifted_total": 36
   }
  ],
- "missed_streams": [],
- "members_only_content": [],
+ "missed_streams": [
+  {
+   "video_id": "zYYwtKeJC6c",
+   "start": "2026-10-31 00:00",
+   "title": "【スプラトゥーン3 #３】急遽！長尾先輩に教えていただくマンツーマン！　#にじイカ祭り2026　# ０１【神永タイガ / にじさんじ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 1552,
+   "view_count": 48053
+  },
+  {
+   "video_id": "x0RRbG_lXf4",
+   "start": "2026-10-31 23:21",
+   "title": "【初メン限】おまたせ。乾杯しよ🍾　# ０２【神永タイガ / にじさんじ】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "虎っ子部",
+   "like_count": 516,
+   "view_count": null
+  }
+ ],
+ "members_only_content": [
+  {
+   "video_id": "x0RRbG_lXf4",
+   "start": "2026-10-31 23:21",
+   "title": "【初メン限】おまたせ。乾杯しよ🍾　# ０２【神永タイガ / にじさんじ】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "虎っ子部",
+   "like_count": 516,
+   "view_count": null
+  }
+ ],
  "history": [
   {
    "month": "2026-09",
@@ -354,23 +415,32 @@
     "from": "2026-10-01",
     "to": "2026-10-31"
    },
-   "streams_analyzed": 30,
-   "streams_missed": 0,
-   "unique_chatters": 6397,
-   "members_confirmed": 0,
-   "member_classes": {},
+   "streams_analyzed": 31,
+   "streams_missed": 2,
+   "unique_chatters": 7069,
+   "members_confirmed": 1563,
+   "member_classes": {
+    "known": 1522,
+    "unknown": 5,
+    "gift": 36
+   },
    "long_term_members": 0,
-   "badges": [],
+   "badges": [
+    {
+     "months": 0,
+     "members": 1563
+    }
+   ],
    "events": {
-    "new_members": 0,
+    "new_members": 1525,
     "rejoins": 0,
     "milestones": 0,
-    "gifted_total": 0
+    "gifted_total": 36
    },
    "tiers": [],
    "revenue": null,
-   "avg_member_chatters": 0,
-   "partial": true,
+   "avg_member_chatters": 50.4,
+   "partial": false,
    "finalized": false
   }
  ],
