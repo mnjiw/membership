@@ -3,58 +3,58 @@
  "channel_id": "UC4l9gz3q65lTBFfFtW5LLeA",
  "handle": "@WataraiHibari",
  "subscribers": 665000,
- "fetched_at": "2026-11-01 10:08",
- "generated_at": "2026-11-01 10:08",
+ "fetched_at": "2026-11-02 05:29",
+ "generated_at": "2026-11-02 05:30",
  "period": {
-  "from": "2026-10-02 10:08",
-  "to": "2026-11-01 10:08",
+  "from": "2026-10-03 05:29",
+  "to": "2026-11-02 05:29",
   "days": 30
  },
- "streams_analyzed": 10,
+ "streams_analyzed": 11,
  "streams_missed": 0,
- "unique_chatters": 3174,
- "members_confirmed": 1783,
+ "unique_chatters": 3248,
+ "members_confirmed": 1806,
  "member_classes": {
-  "unknown": 1360,
-  "known": 393,
+  "unknown": 1380,
+  "known": 396,
   "gift": 30
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 121
+   "members": 123
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 89
+   "members": 92
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 178
+   "members": 181
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 223
+   "members": 224
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 460
+   "members": 468
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 712
+   "members": 718
   }
  ],
  "events": {
-  "new_members": 12,
+  "new_members": 14,
   "rejoins": 8,
-  "milestones": 58,
+  "milestones": 60,
   "gift_purchases": 5,
   "gifted_total": 30,
   "gift_redemptions": 30
@@ -65,27 +65,27 @@
    "tier": "ひばりすた",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 393,
+   "confirmed_members": 396,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1360.0,
-   "estimated_members": 1753.0,
-   "monthly_net_confirmed": 122545,
-   "monthly_net_estimated": 546617
+   "allocated_unknown": 1380.0,
+   "estimated_members": 1776.0,
+   "monthly_net_confirmed": 123480,
+   "monthly_net_estimated": 553789
   }
  ],
  "revenue": {
-  "monthly_low": 546617,
-  "monthly_est": 546617,
+  "monthly_low": 553789,
+  "monthly_est": 553789,
   "gift_once": 9355,
-  "total_low": 555972,
-  "total_est": 555972,
-  "paying_members": 1753,
+  "total_low": 563144,
+  "total_est": 563144,
+  "paying_members": 1776,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
   "overseas": false,
   "currency": "JPY",
-  "price_source": "メンバー登録画面で確認（2026-10-07）"
+  "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
   {
@@ -187,6 +187,16 @@
    "member_chatters": 410,
    "new_members": 2,
    "gifted_total": 10
+  },
+  {
+   "video_id": "vYgJNmhEpn0",
+   "start": "2026-11-01 15:18",
+   "title": "【スト６】ルーク面白すぎるんだが【渡会雲雀/にじさんじ】",
+   "kind": "配信",
+   "chatters": 485,
+   "member_chatters": 367,
+   "new_members": 2,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -321,6 +331,70 @@
    },
    "avg_member_chatters": 553.8,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-02"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 485,
+   "members_confirmed": 367,
+   "member_classes": {
+    "known": 91,
+    "unknown": 276
+   },
+   "long_term_members": 276,
+   "badges": [
+    {
+     "months": 0,
+     "members": 5
+    },
+    {
+     "months": 1,
+     "members": 15
+    },
+    {
+     "months": 2,
+     "members": 30
+    },
+    {
+     "months": 6,
+     "members": 41
+    },
+    {
+     "months": 12,
+     "members": 94
+    },
+    {
+     "months": 24,
+     "members": 182
+    }
+   ],
+   "events": {
+    "new_members": 2,
+    "rejoins": 0,
+    "milestones": 2,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "ひばりすた",
+     "price": 490,
+     "confirmed_members": 91,
+     "estimated_members": 367.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 114437,
+    "monthly_est": 114437,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 367,
+   "partial": true,
    "finalized": false
   }
  ],

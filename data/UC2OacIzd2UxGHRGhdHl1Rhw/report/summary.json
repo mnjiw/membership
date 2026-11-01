@@ -3,19 +3,19 @@
  "channel_id": "UC2OacIzd2UxGHRGhdHl1Rhw",
  "handle": "@HayaseSou",
  "subscribers": 294000,
- "fetched_at": "2026-11-01 10:08",
- "generated_at": "2026-11-01 10:08",
+ "fetched_at": "2026-11-02 05:24",
+ "generated_at": "2026-11-02 05:24",
  "period": {
-  "from": "2026-10-02 10:08",
-  "to": "2026-11-01 10:08",
+  "from": "2026-10-03 05:24",
+  "to": "2026-11-02 05:24",
   "days": 30
  },
- "streams_analyzed": 11,
+ "streams_analyzed": 12,
  "streams_missed": 0,
- "unique_chatters": 1465,
- "members_confirmed": 40,
+ "unique_chatters": 1576,
+ "members_confirmed": 42,
  "member_classes": {
-  "unknown": 35,
+  "unknown": 37,
   "gift": 5
  },
  "badges": [
@@ -42,12 +42,12 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 1
+   "members": 2
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 27
+   "members": 28
   }
  ],
  "events": {
@@ -66,10 +66,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 0,
    "share_of_confirmed_pct": "",
-   "allocated_unknown": 35.0,
-   "estimated_members": 35.0,
+   "allocated_unknown": 37.0,
+   "estimated_members": 37.0,
    "monthly_net_confirmed": 0,
-   "monthly_net_estimated": 10914
+   "monthly_net_estimated": 11537
   },
   {
    "tier": "早瀬ハイツ",
@@ -95,18 +95,18 @@
   }
  ],
  "revenue": {
-  "monthly_low": 10914,
-  "monthly_est": 10914,
+  "monthly_low": 11537,
+  "monthly_est": 11537,
   "gift_once": 1559,
-  "total_low": 12473,
-  "total_est": 12473,
-  "paying_members": 35,
+  "total_low": 13096,
+  "total_est": 13096,
+  "paying_members": 37,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
   "overseas": false,
   "currency": "JPY",
-  "price_source": "メンバー登録画面で確認（2026-10-07）"
+  "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
   {
@@ -216,6 +216,16 @@
    "kind": "配信",
    "chatters": 94,
    "member_chatters": 14,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "WY5oWZzIkdI",
+   "start": "2026-11-01 22:01",
+   "title": "【#早瀬とサシ飲み再演】早瀬走×健屋花那　part.1",
+   "kind": "プレミア",
+   "chatters": 153,
+   "member_chatters": 16,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -371,6 +381,69 @@
    },
    "avg_member_chatters": 12,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-02"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 153,
+   "members_confirmed": 16,
+   "member_classes": {
+    "unknown": 16
+   },
+   "long_term_members": 14,
+   "badges": [
+    {
+     "months": 1,
+     "members": 2
+    },
+    {
+     "months": 12,
+     "members": 1
+    },
+    {
+     "months": 24,
+     "members": 13
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 0,
+    "milestones": 0,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "早瀬荘",
+     "price": 490,
+     "confirmed_members": 0,
+     "estimated_members": 16.0
+    },
+    {
+     "tier": "早瀬ハイツ",
+     "price": 3490,
+     "confirmed_members": 0,
+     "estimated_members": 0.0
+    },
+    {
+     "tier": "早瀬ヒルズ",
+     "price": 6300,
+     "confirmed_members": 0,
+     "estimated_members": 0.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 4989,
+    "monthly_est": 4989,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 16,
+   "partial": true,
    "finalized": false
   }
  ],

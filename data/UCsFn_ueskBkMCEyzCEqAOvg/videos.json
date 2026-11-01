@@ -60,8 +60,8 @@
    "checked_at": "2026-10-07 06:56",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1793478021.0327334,
-   "likes_checked_at": "2026-11-01 05:20"
+   "likes_checked_ts": 1793564356.913459,
+   "likes_checked_at": "2026-11-02 05:19"
   },
   "URlQ_ZGPXPY": {
    "id": "URlQ_ZGPXPY",
@@ -533,8 +533,8 @@
    "checked_at": "2026-10-10 05:18",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1793478021.0327334,
-   "likes_checked_at": "2026-11-01 05:20"
+   "likes_checked_ts": 1793564356.913459,
+   "likes_checked_at": "2026-11-02 05:19"
   },
   "dY2708MMKmY": {
    "id": "dY2708MMKmY",
@@ -697,15 +697,15 @@
    "start_jst": "2026-10-25 23:15",
    "duration_sec": 6112,
    "view_count": null,
-   "like_count": 233,
+   "like_count": 236,
    "live_status": "was_live",
    "members_only": true,
    "has_chat": false,
    "checked_at": "2026-10-26 05:20",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1793478021.0327334,
-   "likes_checked_at": "2026-11-01 05:20"
+   "likes_checked_ts": 1793564356.913459,
+   "likes_checked_at": "2026-11-02 05:19"
   },
   "OsJOLnpDaTU": {
    "id": "OsJOLnpDaTU",
@@ -782,25 +782,40 @@
    "start_ts": 1793199600.0,
    "start_jst": "2026-10-29 00:00",
    "duration_sec": null,
-   "view_count": 100663,
-   "like_count": 3633,
+   "view_count": 106116,
+   "like_count": 3770,
    "live_status": null,
    "members_only": false,
    "has_chat": false,
-   "checked_at": "2026-11-01 10:07",
+   "checked_at": "2026-11-02 05:19",
    "info_limited": true,
-   "error": "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)",
-   "tab": "video",
-   "status": "error",
-   "failed_since_ts": 1793305128.5685437
+   "settled_while_limited": true,
+   "status": "skip_not_stream"
+  },
+  "vHZR6e8ML0w": {
+   "id": "vHZR6e8ML0w",
+   "title": "花畑チャイカとペルソナ3 リロード 10月8日 天田くん…いや天田さん…【ネタバレ注意】",
+   "kind": "live",
+   "start_ts": 1793525532.044051,
+   "start_jst": "2026-11-01 18:32",
+   "duration_sec": 15926,
+   "view_count": 75493,
+   "like_count": 888,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-02 05:19",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "花畑チャイカ",
  "channel_id": "UCsFn_ueskBkMCEyzCEqAOvg",
  "handle": "@HanabatakeChaika",
  "subscribers": 572000,
- "fetched_at": "2026-11-01 10:07",
- "fetched_at_ts": 1793495244.2341757,
- "checked_from": "2026-10-25 10:07",
+ "fetched_at": "2026-11-02 05:19",
+ "fetched_at_ts": 1793564356.913459,
+ "checked_from": "2026-10-26 05:19",
  "initial_fetch_done": true
 }

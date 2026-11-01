@@ -3,41 +3,41 @@
  "channel_id": "UCsFn_ueskBkMCEyzCEqAOvg",
  "handle": "@HanabatakeChaika",
  "subscribers": 572000,
- "fetched_at": "2026-11-01 10:07",
- "generated_at": "2026-11-01 10:07",
+ "fetched_at": "2026-11-02 05:19",
+ "generated_at": "2026-11-02 05:20",
  "period": {
-  "from": "2026-10-02 10:07",
-  "to": "2026-11-01 10:07",
+  "from": "2026-10-03 05:19",
+  "to": "2026-11-02 05:19",
   "days": 30
  },
- "streams_analyzed": 17,
- "streams_missed": 4,
- "unique_chatters": 2968,
- "members_confirmed": 517,
+ "streams_analyzed": 18,
+ "streams_missed": 2,
+ "unique_chatters": 3054,
+ "members_confirmed": 528,
  "member_classes": {
-  "unknown": 517
+  "unknown": 528
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 25
+   "members": 26
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 33
+   "members": 35
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 459
+   "members": 467
   }
  ],
  "events": {
-  "new_members": 9,
-  "rejoins": 9,
-  "milestones": 40,
+  "new_members": 10,
+  "rejoins": 10,
+  "milestones": 48,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -50,25 +50,25 @@
    "net_per_member": 311.8,
    "confirmed_members": 0,
    "share_of_confirmed_pct": "",
-   "allocated_unknown": 517.0,
-   "estimated_members": 517.0,
+   "allocated_unknown": 528.0,
+   "estimated_members": 528.0,
    "monthly_net_confirmed": 0,
-   "monthly_net_estimated": 161210
+   "monthly_net_estimated": 164640
   }
  ],
  "revenue": {
-  "monthly_low": 161210,
-  "monthly_est": 161210,
+  "monthly_low": 164640,
+  "monthly_est": 164640,
   "gift_once": 0,
-  "total_low": 161210,
-  "total_est": 161210,
-  "paying_members": 517,
+  "total_low": 164640,
+  "total_est": 164640,
+  "paying_members": 528,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
   "overseas": false,
   "currency": "JPY",
-  "price_source": "メンバー登録画面で確認（2026-10-07）"
+  "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
   {
@@ -240,22 +240,20 @@
    "member_chatters": 139,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "vHZR6e8ML0w",
+   "start": "2026-11-01 18:32",
+   "title": "花畑チャイカとペルソナ3 リロード 10月8日 天田くん…いや天田さん…【ネタバレ注意】",
+   "kind": "配信",
+   "chatters": 494,
+   "member_chatters": 183,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
   {
-   "video_id": "9hE9vBwn68M",
-   "start": "2026-10-02 22:02",
-   "title": "花畑チャイカとめんげん眠いからちょっとだけ",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 150,
-   "view_count": null
-  },
-  {
    "video_id": "rHEFjddArzo",
    "start": "2026-10-09 22:39",
    "title": "花畑チャイカとめんげん雑",
@@ -276,34 +274,12 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 233,
+   "like_count": 236,
    "view_count": null
-  },
-  {
-   "video_id": "g0dijdllBIQ",
-   "start": "2026-10-29 00:00",
-   "title": "【F:NEX】1/7 スケールフィギュア「花畑チャイカ」",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 3633,
-   "view_count": 100663
   }
  ],
  "members_only_content": [
   {
-   "video_id": "9hE9vBwn68M",
-   "start": "2026-10-02 22:02",
-   "title": "花畑チャイカとめんげん眠いからちょっとだけ",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 150,
-   "view_count": null
-  },
-  {
    "video_id": "rHEFjddArzo",
    "start": "2026-10-09 22:39",
    "title": "花畑チャイカとめんげん雑",
@@ -320,7 +296,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 233,
+   "like_count": 236,
    "view_count": null
   }
  ],
@@ -384,7 +360,7 @@
     "to": "2026-10-31"
    },
    "streams_analyzed": 18,
-   "streams_missed": 4,
+   "streams_missed": 3,
    "unique_chatters": 3296,
    "members_confirmed": 531,
    "member_classes": {
@@ -426,6 +402,57 @@
    },
    "avg_member_chatters": 162.2,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-02"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 494,
+   "members_confirmed": 183,
+   "member_classes": {
+    "unknown": 183
+   },
+   "long_term_members": 0,
+   "badges": [
+    {
+     "months": 0,
+     "members": 8
+    },
+    {
+     "months": 2,
+     "members": 16
+    },
+    {
+     "months": 6,
+     "members": 159
+    }
+   ],
+   "events": {
+    "new_members": 1,
+    "rejoins": 1,
+    "milestones": 8,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "メンバーシップ",
+     "price": 490,
+     "confirmed_members": 0,
+     "estimated_members": 183.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 57063,
+    "monthly_est": 57063,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 183,
+   "partial": true,
    "finalized": false
   }
  ],

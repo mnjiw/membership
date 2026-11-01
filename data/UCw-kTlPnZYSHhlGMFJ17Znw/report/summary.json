@@ -3,19 +3,19 @@
  "channel_id": "UCw-kTlPnZYSHhlGMFJ17Znw",
  "handle": "@KiraraTamako",
  "subscribers": 219000,
- "fetched_at": "2026-11-01 10:10",
- "generated_at": "2026-11-01 10:10",
+ "fetched_at": "2026-11-02 05:36",
+ "generated_at": "2026-11-02 05:37",
  "period": {
-  "from": "2026-10-02 10:10",
-  "to": "2026-11-01 10:10",
+  "from": "2026-10-03 05:36",
+  "to": "2026-11-02 05:36",
   "days": 30
  },
- "streams_analyzed": 19,
+ "streams_analyzed": 20,
  "streams_missed": 1,
- "unique_chatters": 1474,
- "members_confirmed": 216,
+ "unique_chatters": 1523,
+ "members_confirmed": 225,
  "member_classes": {
-  "unknown": 196,
+  "unknown": 205,
   "known": 15,
   "gift": 5
  },
@@ -23,32 +23,32 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 15
+   "members": 16
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 6
+   "members": 7
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 36
+   "members": 39
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 35
+   "members": 36
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 65
+   "members": 66
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 59
+   "members": 61
   }
  ],
  "events": {
@@ -67,25 +67,25 @@
    "net_per_member": 311.8,
    "confirmed_members": 15,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 196.0,
-   "estimated_members": 211.0,
+   "allocated_unknown": 205.0,
+   "estimated_members": 220.0,
    "monthly_net_confirmed": 4677,
-   "monthly_net_estimated": 65794
+   "monthly_net_estimated": 68600
   }
  ],
  "revenue": {
-  "monthly_low": 65794,
-  "monthly_est": 65794,
+  "monthly_low": 68600,
+  "monthly_est": 68600,
   "gift_once": 1559,
-  "total_low": 67353,
-  "total_est": 67353,
-  "paying_members": 211,
+  "total_low": 70159,
+  "total_est": 70159,
+  "paying_members": 220,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
   "overseas": false,
   "currency": "JPY",
-  "price_source": "メンバー登録画面で確認（2026-10-07）"
+  "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
   {
@@ -277,6 +277,16 @@
    "member_chatters": 47,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "Y8c4fIwIDC0",
+   "start": "2026-11-01 22:02",
+   "title": "𓊆 スプラトゥーン3 ┊ #にじイカ祭り2026 𓊇 チーム24顔合わせ&対抗戦いくよ～！！ 𓊆 雲母たまこ ┊ にじさんじ 𓊇",
+   "kind": "配信",
+   "chatters": 160,
+   "member_chatters": 65,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -434,6 +444,70 @@
    },
    "avg_member_chatters": 64.5,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-02"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 160,
+   "members_confirmed": 65,
+   "member_classes": {
+    "unknown": 61,
+    "known": 4
+   },
+   "long_term_members": 45,
+   "badges": [
+    {
+     "months": 0,
+     "members": 2
+    },
+    {
+     "months": 1,
+     "members": 1
+    },
+    {
+     "months": 2,
+     "members": 7
+    },
+    {
+     "months": 6,
+     "members": 10
+    },
+    {
+     "months": 12,
+     "members": 21
+    },
+    {
+     "months": 24,
+     "members": 24
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 0,
+    "milestones": 0,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "雲母たまこのメンバーシップ",
+     "price": 490,
+     "confirmed_members": 4,
+     "estimated_members": 65.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 20268,
+    "monthly_est": 20268,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 65,
+   "partial": true,
    "finalized": false
   }
  ],

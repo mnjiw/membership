@@ -3,19 +3,19 @@
  "channel_id": "UC0g1AE0DOjBYnLhkgoRWN1w",
  "handle": "@HonmaHimawari",
  "subscribers": 785000,
- "fetched_at": "2026-11-01 10:07",
- "generated_at": "2026-11-01 10:07",
+ "fetched_at": "2026-11-02 05:18",
+ "generated_at": "2026-11-02 05:19",
  "period": {
-  "from": "2026-10-02 10:07",
-  "to": "2026-11-01 10:07",
+  "from": "2026-10-03 05:18",
+  "to": "2026-11-02 05:18",
   "days": 30
  },
- "streams_analyzed": 23,
+ "streams_analyzed": 24,
  "streams_missed": 1,
- "unique_chatters": 2134,
- "members_confirmed": 287,
+ "unique_chatters": 2380,
+ "members_confirmed": 290,
  "member_classes": {
-  "unknown": 269,
+  "unknown": 272,
   "known": 13,
   "gift": 5
  },
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 7
+   "members": 8
   },
   {
    "months": 6,
@@ -58,7 +58,7 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 195
+   "members": 197
   }
  ],
  "events": {
@@ -77,25 +77,25 @@
    "net_per_member": 311.8,
    "confirmed_members": 13,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 269.0,
-   "estimated_members": 282.0,
+   "allocated_unknown": 272.0,
+   "estimated_members": 285.0,
    "monthly_net_confirmed": 4054,
-   "monthly_net_estimated": 87933
+   "monthly_net_estimated": 88868
   }
  ],
  "revenue": {
-  "monthly_low": 87933,
-  "monthly_est": 87933,
+  "monthly_low": 88868,
+  "monthly_est": 88868,
   "gift_once": 1559,
-  "total_low": 89492,
-  "total_est": 89492,
-  "paying_members": 282,
+  "total_low": 90427,
+  "total_est": 90427,
+  "paying_members": 285,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
   "overseas": false,
   "currency": "JPY",
-  "price_source": "メンバー登録画面で確認（2026-10-07）"
+  "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
   {
@@ -327,6 +327,16 @@
    "member_chatters": 123,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "c9vry8o-4IU",
+   "start": "2026-11-01 16:02",
+   "title": "꒰スプラトゥーン3꒱　まず武器をもつところからだね～！　˹ 本間ひまわり にじさんじのみなさん ˼",
+   "kind": "配信",
+   "chatters": 438,
+   "member_chatters": 100,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -500,6 +510,70 @@
    },
    "avg_member_chatters": 82.7,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-02"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 438,
+   "members_confirmed": 100,
+   "member_classes": {
+    "unknown": 97,
+    "known": 3
+   },
+   "long_term_members": 96,
+   "badges": [
+    {
+     "months": 2,
+     "members": 2
+    },
+    {
+     "months": 6,
+     "members": 2
+    },
+    {
+     "months": 12,
+     "members": 8
+    },
+    {
+     "months": 24,
+     "members": 9
+    },
+    {
+     "months": 36,
+     "members": 7
+    },
+    {
+     "months": 48,
+     "members": 72
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 0,
+    "milestones": 0,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "ひまぐま",
+     "price": 490,
+     "confirmed_members": 3,
+     "estimated_members": 100.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 31182,
+    "monthly_est": 31182,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 100,
+   "partial": true,
    "finalized": false
   }
  ],

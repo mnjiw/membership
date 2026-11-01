@@ -2,21 +2,21 @@
  "channel": "セラフ・ダズルガーデン / Seraph Dazzlegarden",
  "channel_id": "UC5dJFf4m-mEcoyJRfhBljoA",
  "handle": "@SeraphDazzlegarden",
- "subscribers": 427000,
- "fetched_at": "2026-11-01 10:08",
- "generated_at": "2026-11-01 10:08",
+ "subscribers": 428000,
+ "fetched_at": "2026-11-02 05:30",
+ "generated_at": "2026-11-02 05:31",
  "period": {
-  "from": "2026-10-02 10:08",
-  "to": "2026-11-01 10:08",
+  "from": "2026-10-03 05:30",
+  "to": "2026-11-02 05:30",
   "days": 30
  },
- "streams_analyzed": 18,
+ "streams_analyzed": 19,
  "streams_missed": 3,
- "unique_chatters": 2407,
- "members_confirmed": 1292,
+ "unique_chatters": 2546,
+ "members_confirmed": 1328,
  "member_classes": {
-  "unknown": 1085,
-  "known": 146,
+  "unknown": 1111,
+  "known": 156,
   "gift": 61
  },
  "badges": [
@@ -28,28 +28,28 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 51
+   "members": 58
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 180
+   "members": 184
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 168
+   "members": 173
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 747
+   "members": 767
   }
  ],
  "events": {
-  "new_members": 33,
-  "rejoins": 14,
-  "milestones": 82,
+  "new_members": 39,
+  "rejoins": 17,
+  "milestones": 83,
   "gift_purchases": 5,
   "gifted_total": 62,
   "gift_redemptions": 62
@@ -60,38 +60,38 @@
    "tier": "アシスタントエージェント",
    "price": 140,
    "net_per_member": 89.1,
-   "confirmed_members": 10,
-   "share_of_confirmed_pct": 6.8,
-   "allocated_unknown": 74.3,
-   "estimated_members": 84.3,
-   "monthly_net_confirmed": 891,
-   "monthly_net_estimated": 7512
+   "confirmed_members": 11,
+   "share_of_confirmed_pct": 7.1,
+   "allocated_unknown": 78.3,
+   "estimated_members": 89.3,
+   "monthly_net_confirmed": 980,
+   "monthly_net_estimated": 7959
   },
   {
    "tier": "バディエージェント",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 136,
-   "share_of_confirmed_pct": 93.2,
-   "allocated_unknown": 1010.7,
-   "estimated_members": 1146.7,
-   "monthly_net_confirmed": 42407,
-   "monthly_net_estimated": 357557
+   "confirmed_members": 145,
+   "share_of_confirmed_pct": 92.9,
+   "allocated_unknown": 1032.7,
+   "estimated_members": 1177.7,
+   "monthly_net_confirmed": 45214,
+   "monthly_net_estimated": 367216
   }
  ],
  "revenue": {
-  "monthly_low": 139962,
-  "monthly_est": 365069,
+  "monthly_low": 145174,
+  "monthly_est": 375175,
   "gift_once": 5524,
-  "total_low": 145485,
-  "total_est": 370593,
-  "paying_members": 1231,
+  "total_low": 150697,
+  "total_est": 380699,
+  "paying_members": 1267,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
   "overseas": false,
   "currency": "JPY",
-  "price_source": "メンバー登録画面で確認（2026-10-07）"
+  "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
   {
@@ -273,6 +273,16 @@
    "member_chatters": 372,
    "new_members": 6,
    "gifted_total": 0
+  },
+  {
+   "video_id": "AzEVdm2XCeM",
+   "start": "2026-11-01 18:02",
+   "title": "【#にじイカ祭り2026 | 練習】個人練4日目！→21時頃からチーム対抗戦予定【セラフ・ダズルガーデン/にじさんじ】",
+   "kind": "配信",
+   "chatters": 608,
+   "member_chatters": 405,
+   "new_members": 6,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -297,7 +307,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "バディエージェント",
-   "like_count": 374,
+   "like_count": 375,
    "view_count": null
   },
   {
@@ -309,7 +319,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "バディエージェント",
-   "like_count": 296,
+   "like_count": 313,
    "view_count": null
   }
  ],
@@ -331,7 +341,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "バディエージェント",
-   "like_count": 374,
+   "like_count": 375,
    "view_count": null
   },
   {
@@ -341,7 +351,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "バディエージェント",
-   "like_count": 296,
+   "like_count": 313,
    "view_count": null
   }
  ],
@@ -479,6 +489,72 @@
    },
    "avg_member_chatters": 354.1,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-02"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 608,
+   "members_confirmed": 405,
+   "member_classes": {
+    "unknown": 349,
+    "known": 56
+   },
+   "long_term_members": 262,
+   "badges": [
+    {
+     "months": 0,
+     "members": 21
+    },
+    {
+     "months": 1,
+     "members": 18
+    },
+    {
+     "months": 2,
+     "members": 56
+    },
+    {
+     "months": 6,
+     "members": 48
+    },
+    {
+     "months": 12,
+     "members": 262
+    }
+   ],
+   "events": {
+    "new_members": 6,
+    "rejoins": 3,
+    "milestones": 1,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "アシスタントエージェント",
+     "price": 140,
+     "confirmed_members": 2,
+     "estimated_members": 14.5
+    },
+    {
+     "tier": "バディエージェント",
+     "price": 490,
+     "confirmed_members": 54,
+     "estimated_members": 390.5
+    }
+   ],
+   "revenue": {
+    "monthly_low": 48109,
+    "monthly_est": 123065,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 405,
+   "partial": true,
    "finalized": false
   }
  ],

@@ -60,8 +60,8 @@
    "checked_at": "2026-10-07 12:53",
    "members_level": "Ris7",
    "status": "members_only",
-   "likes_checked_ts": 1793478899.3231547,
-   "likes_checked_at": "2026-11-01 05:34"
+   "likes_checked_ts": 1793565547.1775174,
+   "likes_checked_at": "2026-11-02 05:39"
   },
   "iRVpis7OcY8": {
    "id": "iRVpis7OcY8",
@@ -1766,17 +1766,15 @@
    "start_ts": 1793199600.0,
    "start_jst": "2026-10-29 00:00",
    "duration_sec": null,
-   "view_count": 51781,
-   "like_count": 757,
+   "view_count": 55784,
+   "like_count": 792,
    "live_status": null,
    "members_only": false,
    "has_chat": false,
-   "checked_at": "2026-11-01 10:11",
+   "checked_at": "2026-11-02 05:39",
    "info_limited": true,
-   "error": "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)",
-   "tab": "video",
-   "status": "error",
-   "failed_since_ts": 1793305855.148256
+   "settled_while_limited": true,
+   "status": "skip_not_stream"
   },
   "Jg6Q2fMTNl0": {
    "id": "Jg6Q2fMTNl0",
@@ -1829,14 +1827,33 @@
    "info_limited": true,
    "start_from_chat": true,
    "status": "ok"
+  },
+  "CFLzzRl8ZVU": {
+   "id": "CFLzzRl8ZVU",
+   "title": "【スプラトゥーン3】チーム練開始【 Rei7 / にじさんじ 】",
+   "kind": "video",
+   "start_ts": 1793458800.0,
+   "start_jst": "2026-11-01 00:00",
+   "duration_sec": null,
+   "view_count": 113619,
+   "like_count": 1454,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": false,
+   "checked_at": "2026-11-02 05:39",
+   "info_limited": true,
+   "error": "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)",
+   "tab": "live",
+   "status": "error",
+   "failed_since_ts": 1793565547.1775174
   }
  },
  "channel": "Rei7【にじさんじ】",
  "channel_id": "UC_4QF0dL-9XI9VajsNkMtmQ",
  "handle": "@Rei7_Y4T4",
  "subscribers": 178000,
- "fetched_at": "2026-11-01 10:11",
- "fetched_at_ts": 1793495463.0046277,
- "checked_from": "2026-10-25 10:11",
+ "fetched_at": "2026-11-02 05:39",
+ "fetched_at_ts": 1793565547.1775174,
+ "checked_from": "2026-10-26 05:39",
  "initial_fetch_done": true
 }

@@ -3,42 +3,42 @@
  "channel_id": "UCCugV2RWXqJMjVVQl_Yh4TQ",
  "handle": "@Seible_nijisanji",
  "subscribers": 178000,
- "fetched_at": "2026-11-01 10:11",
- "generated_at": "2026-11-01 10:11",
+ "fetched_at": "2026-11-02 05:41",
+ "generated_at": "2026-11-02 05:41",
  "period": {
-  "from": "2026-10-02 10:11",
-  "to": "2026-11-01 10:11",
+  "from": "2026-10-03 05:41",
+  "to": "2026-11-02 05:41",
   "days": 30
  },
  "streams_analyzed": 20,
  "streams_missed": 3,
- "unique_chatters": 2450,
- "members_confirmed": 494,
+ "unique_chatters": 2481,
+ "members_confirmed": 498,
  "member_classes": {
-  "known": 134,
-  "unknown": 256,
+  "known": 136,
+  "unknown": 258,
   "gift": 104
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 129
+   "members": 131
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 24
+   "members": 23
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 64
+   "members": 66
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 49
+   "members": 50
   },
   {
    "months": 12,
@@ -47,9 +47,9 @@
   }
  ],
  "events": {
-  "new_members": 7,
-  "rejoins": 8,
-  "milestones": 88,
+  "new_members": 9,
+  "rejoins": 9,
+  "milestones": 86,
   "gift_purchases": 25,
   "gifted_total": 171,
   "gift_redemptions": 105
@@ -60,50 +60,40 @@
    "tier": "Seinyan （セイニャン）",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 45,
-   "share_of_confirmed_pct": 33.6,
-   "allocated_unknown": 86.0,
-   "estimated_members": 131.0,
-   "monthly_net_confirmed": 14032,
-   "monthly_net_estimated": 40839
+   "confirmed_members": 47,
+   "share_of_confirmed_pct": 34.6,
+   "allocated_unknown": 89.2,
+   "estimated_members": 136.2,
+   "monthly_net_confirmed": 14655,
+   "monthly_net_estimated": 42458
   },
   {
    "tier": "Big Seinyan (セイニャンましまし）",
    "price": 1190,
    "net_per_member": 757.3,
    "confirmed_members": 89,
-   "share_of_confirmed_pct": 66.4,
-   "allocated_unknown": 170.0,
-   "estimated_members": 259.0,
+   "share_of_confirmed_pct": 65.4,
+   "allocated_unknown": 168.8,
+   "estimated_members": 257.8,
    "monthly_net_confirmed": 67397,
-   "monthly_net_estimated": 196156
+   "monthly_net_estimated": 195254
   }
  ],
  "revenue": {
-  "monthly_low": 161255,
-  "monthly_est": 236995,
+  "monthly_low": 162502,
+  "monthly_est": 237712,
   "gift_once": 53321,
-  "total_low": 214575,
-  "total_est": 290316,
-  "paying_members": 390,
+  "total_low": 215823,
+  "total_est": 291032,
+  "paying_members": 394,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
   "overseas": true,
   "currency": "JPY",
-  "price_source": "メンバー登録画面で確認（2026-10-07）"
+  "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "IjqpM0YSDnk",
-   "start": "2026-10-02 18:03",
-   "title": "【WUWA&Work】25-15 Wuwa & Work Pomodoro! Seiday2026-Eve【NIJISANJI EN | Seible】",
-   "kind": "配信",
-   "chatters": 118,
-   "member_chatters": 81,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "fsKGI5yBYtY",
    "start": "2026-10-03 14:09",
@@ -293,6 +283,16 @@
    "member_chatters": 99,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "hfrgyCJ3l2s",
+   "start": "2026-11-01 22:01",
+   "title": "【Splatoon3】Tournament Bootcamp! 7-day Challenge! 初からヒーロー  #にじイカ祭り2026 【NIJISANJI EN | Seible】",
+   "kind": "配信",
+   "chatters": 211,
+   "member_chatters": 115,
+   "new_members": 2,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -317,7 +317,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "Big Seinyan (セイニャンましまし）",
-   "like_count": 53,
+   "like_count": 54,
    "view_count": null
   },
   {
@@ -329,7 +329,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "Seinyan （セイニャン）",
-   "like_count": 91,
+   "like_count": 93,
    "view_count": null
   }
  ],
@@ -341,7 +341,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "Big Seinyan (セイニャンましまし）",
-   "like_count": 53,
+   "like_count": 54,
    "view_count": null
   },
   {
@@ -351,7 +351,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "Seinyan （セイニャン）",
-   "like_count": 91,
+   "like_count": 93,
    "view_count": null
   }
  ],
@@ -489,6 +489,72 @@
    },
    "avg_member_chatters": 111.2,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-02"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 211,
+   "members_confirmed": 115,
+   "member_classes": {
+    "known": 67,
+    "unknown": 48
+   },
+   "long_term_members": 71,
+   "badges": [
+    {
+     "months": 0,
+     "members": 6
+    },
+    {
+     "months": 1,
+     "members": 3
+    },
+    {
+     "months": 2,
+     "members": 20
+    },
+    {
+     "months": 6,
+     "members": 15
+    },
+    {
+     "months": 12,
+     "members": 71
+    }
+   ],
+   "events": {
+    "new_members": 2,
+    "rejoins": 1,
+    "milestones": 1,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "Seinyan （セイニャン）",
+     "price": 490,
+     "confirmed_members": 17,
+     "estimated_members": 29.2
+    },
+    {
+     "tier": "Big Seinyan (セイニャンましまし）",
+     "price": 1190,
+     "confirmed_members": 50,
+     "estimated_members": 85.8
+    }
+   ],
+   "revenue": {
+    "monthly_low": 58132,
+    "monthly_est": 74088,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 115,
+   "partial": true,
    "finalized": false
   }
  ],

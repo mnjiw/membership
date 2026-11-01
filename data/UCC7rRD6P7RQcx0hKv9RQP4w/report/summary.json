@@ -3,32 +3,32 @@
  "channel_id": "UCC7rRD6P7RQcx0hKv9RQP4w",
  "handle": "@FuraKanato",
  "subscribers": 442000,
- "fetched_at": "2026-11-01 10:08",
- "generated_at": "2026-11-01 10:08",
+ "fetched_at": "2026-11-02 05:29",
+ "generated_at": "2026-11-02 05:30",
  "period": {
-  "from": "2026-10-02 10:08",
-  "to": "2026-11-01 10:08",
+  "from": "2026-10-03 05:29",
+  "to": "2026-11-02 05:29",
   "days": 30
  },
  "streams_analyzed": 19,
  "streams_missed": 0,
- "unique_chatters": 2328,
- "members_confirmed": 1510,
+ "unique_chatters": 2326,
+ "members_confirmed": 1515,
  "member_classes": {
-  "unknown": 1358,
-  "known": 137,
+  "unknown": 1357,
+  "known": 143,
   "gift": 15
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 95
+   "members": 96
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 51
+   "members": 53
   },
   {
    "months": 2,
@@ -38,7 +38,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 233
+   "members": 234
   },
   {
    "months": 12,
@@ -48,17 +48,17 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 267
+   "members": 266
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 354
+   "members": 356
   }
  ],
  "events": {
-  "new_members": 27,
-  "rejoins": 18,
+  "new_members": 29,
+  "rejoins": 17,
   "milestones": 77,
   "gift_purchases": 2,
   "gifted_total": 15,
@@ -70,39 +70,29 @@
    "tier": "Diner",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 137,
+   "confirmed_members": 143,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1358.0,
-   "estimated_members": 1495.0,
-   "monthly_net_confirmed": 42719,
-   "monthly_net_estimated": 466168
+   "allocated_unknown": 1357.0,
+   "estimated_members": 1500.0,
+   "monthly_net_confirmed": 44590,
+   "monthly_net_estimated": 467727
   }
  ],
  "revenue": {
-  "monthly_low": 466168,
-  "monthly_est": 466168,
+  "monthly_low": 467727,
+  "monthly_est": 467727,
   "gift_once": 4677,
-  "total_low": 470845,
-  "total_est": 470845,
-  "paying_members": 1495,
+  "total_low": 472405,
+  "total_est": 472405,
+  "paying_members": 1500,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
   "overseas": false,
   "currency": "JPY",
-  "price_source": "メンバー登録画面で確認（2026-10-07）"
+  "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "frVzU9z3iGU",
-   "start": "2026-10-02 20:15",
-   "title": "【 Deadlock 】　慣れたぞ新マップ、ランク行くぞ【にじさんじ/風楽奏斗】",
-   "kind": "配信",
-   "chatters": 338,
-   "member_chatters": 296,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "pKXWc95zKf4",
    "start": "2026-10-03 12:45",
@@ -282,6 +272,16 @@
    "member_chatters": 321,
    "new_members": 2,
    "gifted_total": 0
+  },
+  {
+   "video_id": "nSTDZ1SxSmw",
+   "start": "2026-11-01 20:00",
+   "title": "【 Deadlock 】　シーズン１終わっちまう、プラチナまでもうちょっと【にじさんじ/風楽奏斗】",
+   "kind": "配信",
+   "chatters": 369,
+   "member_chatters": 314,
+   "new_members": 3,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -424,6 +424,74 @@
    },
    "avg_member_chatters": 414.1,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-02"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 369,
+   "members_confirmed": 314,
+   "member_classes": {
+    "unknown": 272,
+    "known": 42
+   },
+   "long_term_members": 224,
+   "badges": [
+    {
+     "months": 0,
+     "members": 8
+    },
+    {
+     "months": 1,
+     "members": 7
+    },
+    {
+     "months": 2,
+     "members": 31
+    },
+    {
+     "months": 6,
+     "members": 44
+    },
+    {
+     "months": 12,
+     "members": 70
+    },
+    {
+     "months": 24,
+     "members": 43
+    },
+    {
+     "months": 36,
+     "members": 111
+    }
+   ],
+   "events": {
+    "new_members": 3,
+    "rejoins": 2,
+    "milestones": 4,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "Diner",
+     "price": 490,
+     "confirmed_members": 42,
+     "estimated_members": 314.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 97911,
+    "monthly_est": 97911,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 314,
+   "partial": true,
    "finalized": false
   }
  ],

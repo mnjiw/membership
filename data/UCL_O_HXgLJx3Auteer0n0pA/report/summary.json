@@ -3,19 +3,19 @@
  "channel_id": "UCL_O_HXgLJx3Auteer0n0pA",
  "handle": "@SuoSango",
  "subscribers": 680000,
- "fetched_at": "2026-11-01 10:08",
- "generated_at": "2026-11-01 10:08",
+ "fetched_at": "2026-11-02 05:27",
+ "generated_at": "2026-11-02 05:28",
  "period": {
-  "from": "2026-10-02 10:08",
-  "to": "2026-11-01 10:08",
+  "from": "2026-10-03 05:27",
+  "to": "2026-11-02 05:27",
   "days": 30
  },
- "streams_analyzed": 13,
+ "streams_analyzed": 14,
  "streams_missed": 4,
- "unique_chatters": 2070,
- "members_confirmed": 316,
+ "unique_chatters": 2173,
+ "members_confirmed": 319,
  "member_classes": {
-  "unknown": 298,
+  "unknown": 301,
   "known": 18
  },
  "badges": [
@@ -42,12 +42,12 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 65
+   "members": 66
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 177
+   "members": 179
   }
  ],
  "events": {
@@ -66,10 +66,10 @@
    "net_per_member": 248.2,
    "confirmed_members": 5,
    "share_of_confirmed_pct": 27.8,
-   "allocated_unknown": 82.8,
-   "estimated_members": 87.8,
+   "allocated_unknown": 83.6,
+   "estimated_members": 88.6,
    "monthly_net_confirmed": 1241,
-   "monthly_net_estimated": 21785
+   "monthly_net_estimated": 21992
   },
   {
    "tier": "どすふぁんご",
@@ -77,10 +77,10 @@
    "net_per_member": 439.1,
    "confirmed_members": 10,
    "share_of_confirmed_pct": 55.6,
-   "allocated_unknown": 165.6,
-   "estimated_members": 175.6,
+   "allocated_unknown": 167.2,
+   "estimated_members": 177.2,
    "monthly_net_confirmed": 4391,
-   "monthly_net_estimated": 77085
+   "monthly_net_estimated": 77817
   },
   {
    "tier": "ファ～♪ンゴ",
@@ -88,25 +88,25 @@
    "net_per_member": 2602.7,
    "confirmed_members": 3,
    "share_of_confirmed_pct": 16.7,
-   "allocated_unknown": 49.7,
-   "estimated_members": 52.7,
+   "allocated_unknown": 50.2,
+   "estimated_members": 53.2,
    "monthly_net_confirmed": 7808,
-   "monthly_net_estimated": 137077
+   "monthly_net_estimated": 138378
   }
  ],
  "revenue": {
-  "monthly_low": 87398,
-  "monthly_est": 235947,
+  "monthly_low": 88143,
+  "monthly_est": 238187,
   "gift_once": 0,
-  "total_low": 87398,
-  "total_est": 235947,
-  "paying_members": 316,
+  "total_low": 88143,
+  "total_est": 238187,
+  "paying_members": 319,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
   "overseas": false,
   "currency": "JPY",
-  "price_source": "メンバー登録画面で確認（2026-10-07）"
+  "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
   {
@@ -238,6 +238,16 @@
    "member_chatters": 65,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "XYstfRpVjiw",
+   "start": "2026-11-01 20:00",
+   "title": "【幻想水滸伝 STAR LEAP】早瀬さんに教えてもらった『幻水』最新作をやってみよう！【周央サンゴ】",
+   "kind": "配信",
+   "chatters": 182,
+   "member_chatters": 56,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -286,7 +296,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "どすふぁんご",
-   "like_count": 85,
+   "like_count": 86,
    "view_count": null
   }
  ],
@@ -328,7 +338,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "どすふぁんご",
-   "like_count": 85,
+   "like_count": 86,
    "view_count": null
   }
  ],
@@ -484,6 +494,78 @@
    },
    "avg_member_chatters": 77.1,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-02"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 182,
+   "members_confirmed": 56,
+   "member_classes": {
+    "unknown": 53,
+    "known": 3
+   },
+   "long_term_members": 50,
+   "badges": [
+    {
+     "months": 0,
+     "members": 3
+    },
+    {
+     "months": 1,
+     "members": 1
+    },
+    {
+     "months": 2,
+     "members": 2
+    },
+    {
+     "months": 12,
+     "members": 11
+    },
+    {
+     "months": 24,
+     "members": 39
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 0,
+    "milestones": 0,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "ふぁんご",
+     "price": 390,
+     "confirmed_members": 1,
+     "estimated_members": 18.7
+    },
+    {
+     "tier": "どすふぁんご",
+     "price": 690,
+     "confirmed_members": 2,
+     "estimated_members": 37.3
+    },
+    {
+     "tier": "ファ～♪ンゴ",
+     "price": 4090,
+     "confirmed_members": 0,
+     "estimated_members": 0.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 14280,
+    "monthly_est": 21025,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 56,
+   "partial": true,
    "finalized": false
   }
  ],

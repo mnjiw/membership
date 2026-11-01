@@ -3,19 +3,19 @@
  "channel_id": "UC_4QF0dL-9XI9VajsNkMtmQ",
  "handle": "@Rei7_Y4T4",
  "subscribers": 178000,
- "fetched_at": "2026-11-01 10:11",
- "generated_at": "2026-11-01 10:11",
+ "fetched_at": "2026-11-02 05:39",
+ "generated_at": "2026-11-02 05:39",
  "period": {
-  "from": "2026-10-02 10:11",
-  "to": "2026-11-01 10:11",
+  "from": "2026-10-03 05:39",
+  "to": "2026-11-02 05:39",
   "days": 30
  },
- "streams_analyzed": 32,
+ "streams_analyzed": 31,
  "streams_missed": 3,
- "unique_chatters": 5979,
- "members_confirmed": 728,
+ "unique_chatters": 5911,
+ "members_confirmed": 726,
  "member_classes": {
-  "unknown": 648,
+  "unknown": 646,
   "known": 69,
   "gift": 11
  },
@@ -33,11 +33,11 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 564
+   "members": 562
   }
  ],
  "events": {
-  "new_members": 44,
+  "new_members": 42,
   "rejoins": 7,
   "milestones": 0,
   "gift_purchases": 3,
@@ -52,37 +52,27 @@
    "net_per_member": 311.8,
    "confirmed_members": 69,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 648.0,
-   "estimated_members": 717.0,
+   "allocated_unknown": 646.0,
+   "estimated_members": 715.0,
    "monthly_net_confirmed": 21515,
-   "monthly_net_estimated": 223574
+   "monthly_net_estimated": 222950
   }
  ],
  "revenue": {
-  "monthly_low": 223574,
-  "monthly_est": 223574,
+  "monthly_low": 222950,
+  "monthly_est": 222950,
   "gift_once": 3430,
-  "total_low": 227004,
-  "total_est": 227004,
-  "paying_members": 717,
+  "total_low": 226380,
+  "total_est": 226380,
+  "paying_members": 715,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
   "overseas": false,
   "currency": "JPY",
-  "price_source": "メンバー登録画面で確認（2026-10-07）"
+  "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "S-FrmnHPeYw",
-   "start": "2026-10-02 22:16",
-   "title": "【 スト6 】wa~【 Rei7 / にじさんじ 】",
-   "kind": "配信",
-   "chatters": 403,
-   "member_chatters": 127,
-   "new_members": 2,
-   "gifted_total": 0
-  },
   {
    "video_id": "Zryt5qB_moU",
    "start": "2026-10-03 16:01",
@@ -408,18 +398,6 @@
    "view_count": null
   },
   {
-   "video_id": "2lm8ltSq2Ks",
-   "start": "2026-10-29 00:00",
-   "title": "[ Chat ] My image is getting way ahead of me, so I’m listing the things I can't do, which turned ...",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 757,
-   "view_count": 51781
-  },
-  {
    "video_id": "Jg6Q2fMTNl0",
    "start": "2026-10-30 10:05",
    "title": "【 メン限 】眠たくなるように。",
@@ -430,6 +408,18 @@
    "members_level": "Ris7",
    "like_count": 170,
    "view_count": null
+  },
+  {
+   "video_id": "CFLzzRl8ZVU",
+   "start": "2026-11-01 00:00",
+   "title": "【スプラトゥーン3】チーム練開始【 Rei7 / にじさんじ 】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 1454,
+   "view_count": 113619
   }
  ],
  "members_only_content": [
@@ -516,7 +506,7 @@
     "to": "2026-10-31"
    },
    "streams_analyzed": 34,
-   "streams_missed": 3,
+   "streams_missed": 2,
    "unique_chatters": 6051,
    "members_confirmed": 732,
    "member_classes": {

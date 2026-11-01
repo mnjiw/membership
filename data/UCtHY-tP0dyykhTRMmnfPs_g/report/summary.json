@@ -3,19 +3,19 @@
  "channel_id": "UCtHY-tP0dyykhTRMmnfPs_g",
  "handle": "@UmiseYotsuha",
  "subscribers": 271000,
- "fetched_at": "2026-11-01 10:08",
- "generated_at": "2026-11-01 10:08",
+ "fetched_at": "2026-11-02 05:29",
+ "generated_at": "2026-11-02 05:29",
  "period": {
-  "from": "2026-10-02 10:08",
-  "to": "2026-11-01 10:08",
+  "from": "2026-10-03 05:29",
+  "to": "2026-11-02 05:29",
   "days": 30
  },
- "streams_analyzed": 20,
+ "streams_analyzed": 21,
  "streams_missed": 1,
- "unique_chatters": 1812,
- "members_confirmed": 202,
+ "unique_chatters": 1858,
+ "members_confirmed": 203,
  "member_classes": {
-  "unknown": 178,
+  "unknown": 179,
   "known": 14,
   "gift": 10
  },
@@ -48,7 +48,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 17
+   "members": 18
   },
   {
    "months": 36,
@@ -72,10 +72,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 12,
    "share_of_confirmed_pct": 85.7,
-   "allocated_unknown": 152.6,
-   "estimated_members": 164.6,
+   "allocated_unknown": 153.4,
+   "estimated_members": 165.4,
    "monthly_net_confirmed": 3742,
-   "monthly_net_estimated": 51316
+   "monthly_net_estimated": 51584
   },
   {
    "tier": "ほごしゃ会",
@@ -83,25 +83,25 @@
    "net_per_member": 757.3,
    "confirmed_members": 2,
    "share_of_confirmed_pct": 14.3,
-   "allocated_unknown": 25.4,
-   "estimated_members": 27.4,
+   "allocated_unknown": 25.6,
+   "estimated_members": 27.6,
    "monthly_net_confirmed": 1515,
-   "monthly_net_estimated": 20771
+   "monthly_net_estimated": 20879
   }
  ],
  "revenue": {
-  "monthly_low": 60760,
-  "monthly_est": 72087,
+  "monthly_low": 61072,
+  "monthly_est": 72463,
   "gift_once": 3118,
-  "total_low": 63878,
-  "total_est": 75205,
-  "paying_members": 192,
+  "total_low": 64190,
+  "total_est": 75581,
+  "paying_members": 193,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
   "overseas": false,
   "currency": "JPY",
-  "price_source": "メンバー登録画面で確認（2026-10-07）"
+  "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
   {
@@ -303,6 +303,16 @@
    "member_chatters": 44,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "myGAOfCrSKk",
+   "start": "2026-11-01 18:30",
+   "title": "【 スプラトゥーン3 】顔合わせのわれわれ㌠【海妹四葉/にじさんじ】",
+   "kind": "配信",
+   "chatters": 161,
+   "member_chatters": 49,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -404,6 +414,72 @@
     "gift_once": 3118
    },
    "avg_member_chatters": 54.9,
+   "partial": true,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-02"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 161,
+   "members_confirmed": 49,
+   "member_classes": {
+    "unknown": 46,
+    "known": 3
+   },
+   "long_term_members": 44,
+   "badges": [
+    {
+     "months": 2,
+     "members": 3
+    },
+    {
+     "months": 6,
+     "members": 2
+    },
+    {
+     "months": 12,
+     "members": 7
+    },
+    {
+     "months": 24,
+     "members": 7
+    },
+    {
+     "months": 36,
+     "members": 30
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 0,
+    "milestones": 0,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "コアツメイト",
+     "price": 490,
+     "confirmed_members": 2,
+     "estimated_members": 32.7
+    },
+    {
+     "tier": "ほごしゃ会",
+     "price": 1190,
+     "confirmed_members": 1,
+     "estimated_members": 16.3
+    }
+   ],
+   "revenue": {
+    "monthly_low": 15725,
+    "monthly_est": 22555,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 49,
    "partial": true,
    "finalized": false
   }

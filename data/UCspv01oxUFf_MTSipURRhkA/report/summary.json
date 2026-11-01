@@ -3,42 +3,42 @@
  "channel_id": "UCspv01oxUFf_MTSipURRhkA",
  "handle": "@Kanae",
  "subscribers": 1650000,
- "fetched_at": "2026-11-01 10:07",
- "generated_at": "2026-11-01 10:07",
+ "fetched_at": "2026-11-02 05:18",
+ "generated_at": "2026-11-02 05:19",
  "period": {
-  "from": "2026-10-02 10:07",
-  "to": "2026-11-01 10:07",
+  "from": "2026-10-03 05:18",
+  "to": "2026-11-02 05:18",
   "days": 30
  },
- "streams_analyzed": 19,
+ "streams_analyzed": 20,
  "streams_missed": 1,
- "unique_chatters": 5503,
- "members_confirmed": 2604,
+ "unique_chatters": 5552,
+ "members_confirmed": 2618,
  "member_classes": {
-  "unknown": 2500,
-  "known": 73,
+  "unknown": 2512,
+  "known": 75,
   "gift": 31
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 89
+   "members": 90
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 55
+   "members": 56
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 340
+   "members": 341
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 229
+   "members": 230
   },
   {
    "months": 12,
@@ -48,12 +48,12 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 1440
+   "members": 1450
   }
  ],
  "events": {
-  "new_members": 26,
-  "rejoins": 20,
+  "new_members": 27,
+  "rejoins": 21,
   "milestones": 0,
   "gift_purchases": 4,
   "gifted_total": 31,
@@ -65,27 +65,27 @@
    "tier": "叶え隊",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 73,
+   "confirmed_members": 75,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2500.0,
-   "estimated_members": 2573.0,
-   "monthly_net_confirmed": 22763,
-   "monthly_net_estimated": 802308
+   "allocated_unknown": 2512.0,
+   "estimated_members": 2587.0,
+   "monthly_net_confirmed": 23386,
+   "monthly_net_estimated": 806674
   }
  ],
  "revenue": {
-  "monthly_low": 802308,
-  "monthly_est": 802308,
+  "monthly_low": 806674,
+  "monthly_est": 806674,
   "gift_once": 9666,
-  "total_low": 811975,
-  "total_est": 811975,
-  "paying_members": 2573,
+  "total_low": 816340,
+  "total_est": 816340,
+  "paying_members": 2587,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
   "overseas": false,
   "currency": "JPY",
-  "price_source": "メンバー登録画面で確認（2026-10-07）"
+  "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
   {
@@ -277,6 +277,16 @@
    "member_chatters": 739,
    "new_members": 3,
    "gifted_total": 0
+  },
+  {
+   "video_id": "Mcqc2oPFmIM",
+   "start": "2026-11-01 19:28",
+   "title": "前日練習！がんばるぞ～～  | LTK練習【にじさんじ/叶】",
+   "kind": "配信",
+   "chatters": 996,
+   "member_chatters": 760,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -289,8 +299,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 604,
-   "view_count": 51735
+   "like_count": 629,
+   "view_count": 55189
   }
  ],
  "members_only_content": [],
@@ -424,6 +434,70 @@
    },
    "avg_member_chatters": 880.5,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-02"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 996,
+   "members_confirmed": 760,
+   "member_classes": {
+    "unknown": 746,
+    "known": 14
+   },
+   "long_term_members": 587,
+   "badges": [
+    {
+     "months": 0,
+     "members": 6
+    },
+    {
+     "months": 1,
+     "members": 6
+    },
+    {
+     "months": 2,
+     "members": 86
+    },
+    {
+     "months": 6,
+     "members": 75
+    },
+    {
+     "months": 12,
+     "members": 145
+    },
+    {
+     "months": 24,
+     "members": 442
+    }
+   ],
+   "events": {
+    "new_members": 1,
+    "rejoins": 1,
+    "milestones": 0,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "叶え隊",
+     "price": 490,
+     "confirmed_members": 14,
+     "estimated_members": 760.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 236982,
+    "monthly_est": 236982,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 760,
+   "partial": true,
    "finalized": false
   }
  ],

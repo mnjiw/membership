@@ -3,15 +3,15 @@
  "channel_id": "UCy8P3o5XlMpJGQY4WugzdNA",
  "handle": "@SaikiIttetsu",
  "subscribers": 411000,
- "fetched_at": "2026-11-01 10:09",
- "generated_at": "2026-11-01 10:09",
+ "fetched_at": "2026-11-02 05:31",
+ "generated_at": "2026-11-02 05:32",
  "period": {
-  "from": "2026-10-02 10:09",
-  "to": "2026-11-01 10:09",
+  "from": "2026-10-03 05:31",
+  "to": "2026-11-02 05:31",
   "days": 30
  },
  "streams_analyzed": 15,
- "streams_missed": 3,
+ "streams_missed": 4,
  "unique_chatters": 6645,
  "members_confirmed": 2704,
  "member_classes": {
@@ -85,7 +85,7 @@
   "creator_share": 0.7,
   "overseas": false,
   "currency": "JPY",
-  "price_source": "メンバー登録画面で確認（2026-10-07）"
+  "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
   {
@@ -261,7 +261,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "仲磨強化プログラム🤝",
-   "like_count": 758,
+   "like_count": 761,
    "view_count": null
   },
   {
@@ -273,8 +273,20 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "仲磨強化プログラム🤝",
-   "like_count": 582,
+   "like_count": 586,
    "view_count": null
+  },
+  {
+   "video_id": "7EvhWJ73H3M",
+   "start": "2026-11-01 00:00",
+   "title": "【ほぼ初見part07 番外編】地元のポケモンと触れ合おう！！【にじさんじ／佐伯イッテツ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 1647,
+   "view_count": 70289
   }
  ],
  "members_only_content": [
@@ -295,7 +307,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "仲磨強化プログラム🤝",
-   "like_count": 758,
+   "like_count": 761,
    "view_count": null
   },
   {
@@ -305,7 +317,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "仲磨強化プログラム🤝",
-   "like_count": 582,
+   "like_count": 586,
    "view_count": null
   }
  ],

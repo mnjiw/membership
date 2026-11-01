@@ -3,15 +3,15 @@
  "channel_id": "UCWRPqA0ehhWV4Hnp27PJCkQ",
  "handle": "@ShishidoAkari",
  "subscribers": 351000,
- "fetched_at": "2026-11-01 10:09",
- "generated_at": "2026-11-01 10:09",
+ "fetched_at": "2026-11-02 05:31",
+ "generated_at": "2026-11-02 05:31",
  "period": {
-  "from": "2026-10-02 10:09",
-  "to": "2026-11-01 10:09",
+  "from": "2026-10-03 05:31",
+  "to": "2026-11-02 05:31",
   "days": 30
  },
  "streams_analyzed": 21,
- "streams_missed": 1,
+ "streams_missed": 2,
  "unique_chatters": 1831,
  "members_confirmed": 327,
  "member_classes": {
@@ -89,7 +89,7 @@
   "creator_share": 0.7,
   "overseas": false,
   "currency": "JPY",
-  "price_source": "メンバー登録画面で確認（2026-10-07）"
+  "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
   {
@@ -313,8 +313,20 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 148,
+   "like_count": 149,
    "view_count": null
+  },
+  {
+   "video_id": "UbmbwZC-maQ",
+   "start": "2026-11-01 00:00",
+   "title": "【 #LTK 】CCnextスクリム！【にじさんじ/獅子堂あかり】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 635,
+   "view_count": 46798
   }
  ],
  "members_only_content": [
@@ -325,7 +337,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 148,
+   "like_count": 149,
    "view_count": null
   }
  ],

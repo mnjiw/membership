@@ -3,19 +3,19 @@
  "channel_id": "UCHVSA2OScyef9W7OwPGgJ9w",
  "handle": "@ShiroseIsumi",
  "subscribers": 146000,
- "fetched_at": "2026-11-01 10:10",
- "generated_at": "2026-11-01 10:10",
+ "fetched_at": "2026-11-02 05:37",
+ "generated_at": "2026-11-02 05:38",
  "period": {
-  "from": "2026-10-02 10:10",
-  "to": "2026-11-01 10:10",
+  "from": "2026-10-03 05:37",
+  "to": "2026-11-02 05:37",
   "days": 30
  },
- "streams_analyzed": 16,
+ "streams_analyzed": 17,
  "streams_missed": 1,
- "unique_chatters": 2559,
- "members_confirmed": 183,
+ "unique_chatters": 2574,
+ "members_confirmed": 184,
  "member_classes": {
-  "unknown": 161,
+  "unknown": 162,
   "known": 20,
   "gift": 2
  },
@@ -28,22 +28,22 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 22
+   "members": 21
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 35
+   "members": 36
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 59
+   "members": 58
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 36
+   "members": 38
   }
  ],
  "events": {
@@ -62,25 +62,25 @@
    "net_per_member": 311.8,
    "confirmed_members": 20,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 161.0,
-   "estimated_members": 181.0,
+   "allocated_unknown": 162.0,
+   "estimated_members": 182.0,
    "monthly_net_confirmed": 6236,
-   "monthly_net_estimated": 56439
+   "monthly_net_estimated": 56751
   }
  ],
  "revenue": {
-  "monthly_low": 56439,
-  "monthly_est": 56439,
+  "monthly_low": 56751,
+  "monthly_est": 56751,
   "gift_once": 624,
-  "total_low": 57063,
-  "total_est": 57063,
-  "paying_members": 181,
+  "total_low": 57375,
+  "total_est": 57375,
+  "paying_members": 182,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
   "overseas": false,
   "currency": "JPY",
-  "price_source": "メンバー登録画面で確認（2026-10-07）"
+  "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
   {
@@ -242,6 +242,16 @@
    "member_chatters": 46,
    "new_members": 4,
    "gifted_total": 0
+  },
+  {
+   "video_id": "ifyRHaNo14A",
+   "start": "2026-11-01 19:09",
+   "title": "【 スプラトゥーン3 】ゲリラプラべ！！GO!!!!!!!!!!!!!!!【 城瀬いすみ / すぷれあ / にじさんじ 】#にじイカ祭り2026",
+   "kind": "配信",
+   "chatters": 71,
+   "member_chatters": 43,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -387,6 +397,66 @@
    },
    "avg_member_chatters": 43.1,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-02"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 71,
+   "members_confirmed": 43,
+   "member_classes": {
+    "unknown": 38,
+    "known": 5
+   },
+   "long_term_members": 19,
+   "badges": [
+    {
+     "months": 0,
+     "members": 5
+    },
+    {
+     "months": 1,
+     "members": 3
+    },
+    {
+     "months": 2,
+     "members": 10
+    },
+    {
+     "months": 6,
+     "members": 6
+    },
+    {
+     "months": 12,
+     "members": 19
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 0,
+    "milestones": 0,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "くらすみゃいと",
+     "price": 490,
+     "confirmed_members": 5,
+     "estimated_members": 43.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 13408,
+    "monthly_est": 13408,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 43,
+   "partial": true,
    "finalized": false
   }
  ],

@@ -3,20 +3,20 @@
  "channel_id": "UCu-J8uIXuLZh16gG-cT1naw",
  "handle": "@FinanaRyugu",
  "subscribers": 474000,
- "fetched_at": "2026-11-01 10:11",
- "generated_at": "2026-11-01 10:11",
+ "fetched_at": "2026-11-02 05:39",
+ "generated_at": "2026-11-02 05:39",
  "period": {
-  "from": "2026-10-02 10:11",
-  "to": "2026-11-01 10:11",
+  "from": "2026-10-03 05:39",
+  "to": "2026-11-02 05:39",
   "days": 30
  },
  "streams_analyzed": 22,
  "streams_missed": 4,
- "unique_chatters": 494,
- "members_confirmed": 134,
+ "unique_chatters": 505,
+ "members_confirmed": 139,
  "member_classes": {
-  "unknown": 60,
-  "known": 18,
+  "unknown": 64,
+  "known": 19,
   "gift": 56
  },
  "badges": [
@@ -38,7 +38,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 7
+   "members": 8
   },
   {
    "months": 12,
@@ -48,13 +48,13 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 50
+   "members": 54
   }
  ],
  "events": {
   "new_members": 2,
-  "rejoins": 0,
-  "milestones": 10,
+  "rejoins": 1,
+  "milestones": 9,
   "gift_purchases": 36,
   "gifted_total": 56,
   "gift_redemptions": 56
@@ -65,39 +65,29 @@
    "tier": "Ryuguard",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 18,
+   "confirmed_members": 19,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 60.0,
-   "estimated_members": 78.0,
-   "monthly_net_confirmed": 7904,
-   "monthly_net_estimated": 34249
+   "allocated_unknown": 64.0,
+   "estimated_members": 83.0,
+   "monthly_net_confirmed": 8343,
+   "monthly_net_estimated": 36445
   }
  ],
  "revenue": {
-  "monthly_low": 34249,
-  "monthly_est": 34249,
+  "monthly_low": 36445,
+  "monthly_est": 36445,
   "gift_once": 24589,
-  "total_low": 58838,
-  "total_est": 58838,
-  "paying_members": 78,
+  "total_low": 61034,
+  "total_est": 61034,
+  "paying_members": 83,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
   "overseas": true,
   "currency": "JPY",
-  "price_source": "メンバー登録画面で確認（2026-10-07）"
+  "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "k9_sI26Ty8M",
-   "start": "2026-10-02 10:14",
-   "title": "【Backrooms: Escape Together】 crunchy screams 「Collab」 ft. Elira, Uki & Zeal",
-   "kind": "配信",
-   "chatters": 95,
-   "member_chatters": 34,
-   "new_members": 0,
-   "gifted_total": 3
-  },
   {
    "video_id": "r8p7ygFxjwc",
    "start": "2026-10-03 10:11",
@@ -307,6 +297,16 @@
    "member_chatters": 17,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "Kr-PbjQyGXE",
+   "start": "2026-11-01 08:11",
+   "title": "【PHASMOPHOBIA】Halloween Drinking again w/ Wiwa!! 🎃 [Collab] ft. @EliraPendora",
+   "kind": "配信",
+   "chatters": 109,
+   "member_chatters": 39,
+   "new_members": 0,
+   "gifted_total": 3
   }
  ],
  "missed_streams": [
@@ -531,6 +531,63 @@
    },
    "avg_member_chatters": 26.6,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-02"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 109,
+   "members_confirmed": 39,
+   "member_classes": {
+    "unknown": 29,
+    "known": 7,
+    "gift": 3
+   },
+   "long_term_members": 32,
+   "badges": [
+    {
+     "months": 0,
+     "members": 3
+    },
+    {
+     "months": 6,
+     "members": 4
+    },
+    {
+     "months": 12,
+     "members": 3
+    },
+    {
+     "months": 24,
+     "members": 29
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 1,
+    "milestones": 0,
+    "gifted_total": 3
+   },
+   "tiers": [
+    {
+     "tier": "Ryuguard",
+     "price": 690,
+     "confirmed_members": 7,
+     "estimated_members": 36.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 15807,
+    "monthly_est": 15807,
+    "gift_once": 1317
+   },
+   "avg_member_chatters": 39,
+   "partial": true,
    "finalized": false
   }
  ],

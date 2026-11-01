@@ -3,20 +3,20 @@
  "channel_id": "UCnzZmBOSrQf2wDBbnsDajVw",
  "handle": "@OhJiyu",
  "subscribers": 60700,
- "fetched_at": "2026-11-01 10:08",
- "generated_at": "2026-11-01 10:09",
+ "fetched_at": "2026-11-02 05:30",
+ "generated_at": "2026-11-02 05:31",
  "period": {
-  "from": "2026-10-02 10:08",
-  "to": "2026-11-01 10:08",
+  "from": "2026-10-03 05:30",
+  "to": "2026-11-02 05:30",
   "days": 30
  },
- "streams_analyzed": 13,
- "streams_missed": 2,
- "unique_chatters": 137,
- "members_confirmed": 90,
+ "streams_analyzed": 14,
+ "streams_missed": 1,
+ "unique_chatters": 140,
+ "members_confirmed": 91,
  "member_classes": {
   "known": 9,
-  "unknown": 24,
+  "unknown": 25,
   "gift": 57
  },
  "badges": [
@@ -48,7 +48,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 14
+   "members": 15
   }
  ],
  "events": {
@@ -67,25 +67,25 @@
    "net_per_member": 311.8,
    "confirmed_members": 9,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 24.0,
-   "estimated_members": 33.0,
+   "allocated_unknown": 25.0,
+   "estimated_members": 34.0,
    "monthly_net_confirmed": 2806,
-   "monthly_net_estimated": 10290
+   "monthly_net_estimated": 10602
   }
  ],
  "revenue": {
-  "monthly_low": 10290,
-  "monthly_est": 10290,
+  "monthly_low": 10602,
+  "monthly_est": 10602,
   "gift_once": 17774,
-  "total_low": 28064,
-  "total_est": 28064,
-  "paying_members": 33,
+  "total_low": 28375,
+  "total_est": 28375,
+  "paying_members": 34,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
   "overseas": true,
   "currency": "JPY",
-  "price_source": "メンバー登録画面で確認（2026-10-07）"
+  "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
   {
@@ -217,6 +217,16 @@
    "member_chatters": 2,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "jvHUw-mTHuM",
+   "start": "2026-10-31 22:01",
+   "title": "【 #NijiSquidFestival2026 】Time for some more rehab today! 【NIJISANJI / Jiyu】",
+   "kind": "配信",
+   "chatters": 15,
+   "member_chatters": 10,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -231,18 +241,6 @@
    "members_level": "방안의 아기새냥이/部屋の中の子猫鳥",
    "like_count": 13,
    "view_count": null
-  },
-  {
-   "video_id": "jvHUw-mTHuM",
-   "start": "2026-10-31 00:00",
-   "title": "【 #にじイカ祭り2026 】今日もリハビリじゃい！ 【にじさんじ／ジユ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": null,
-   "view_count": 1626
   }
  ],
  "members_only_content": [
@@ -326,16 +324,16 @@
     "from": "2026-10-01",
     "to": "2026-10-31"
    },
-   "streams_analyzed": 13,
-   "streams_missed": 2,
-   "unique_chatters": 137,
-   "members_confirmed": 90,
+   "streams_analyzed": 14,
+   "streams_missed": 1,
+   "unique_chatters": 140,
+   "members_confirmed": 91,
    "member_classes": {
     "known": 9,
-    "unknown": 24,
+    "unknown": 25,
     "gift": 57
    },
-   "long_term_members": 21,
+   "long_term_members": 22,
    "badges": [
     {
      "months": 0,
@@ -359,7 +357,7 @@
     },
     {
      "months": 24,
-     "members": 14
+     "members": 15
     }
    ],
    "events": {
@@ -373,15 +371,15 @@
      "tier": "방안의 아기새냥이/部屋の中の子猫鳥",
      "price": 490,
      "confirmed_members": 9,
-     "estimated_members": 33.0
+     "estimated_members": 34.0
     }
    ],
    "revenue": {
-    "monthly_low": 10290,
-    "monthly_est": 10290,
+    "monthly_low": 10602,
+    "monthly_est": 10602,
     "gift_once": 17774
    },
-   "avg_member_chatters": 10.8,
+   "avg_member_chatters": 10.7,
    "partial": false,
    "finalized": false
   }

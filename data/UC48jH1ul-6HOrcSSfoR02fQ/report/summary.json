@@ -3,19 +3,19 @@
  "channel_id": "UC48jH1ul-6HOrcSSfoR02fQ",
  "handle": "@YuhiRiri",
  "subscribers": 425000,
- "fetched_at": "2026-11-01 10:07",
- "generated_at": "2026-11-01 10:07",
+ "fetched_at": "2026-11-02 05:17",
+ "generated_at": "2026-11-02 05:18",
  "period": {
-  "from": "2026-10-02 10:07",
-  "to": "2026-11-01 10:07",
+  "from": "2026-10-03 05:17",
+  "to": "2026-11-02 05:17",
   "days": 30
  },
  "streams_analyzed": 20,
  "streams_missed": 1,
- "unique_chatters": 1301,
- "members_confirmed": 252,
+ "unique_chatters": 1290,
+ "members_confirmed": 255,
  "member_classes": {
-  "unknown": 228,
+  "unknown": 231,
   "known": 19,
   "gift": 5
  },
@@ -23,12 +23,12 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 26
+   "members": 25
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 5
+   "members": 6
   },
   {
    "months": 2,
@@ -43,16 +43,16 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 20
+   "members": 22
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 157
+   "members": 158
   }
  ],
  "events": {
-  "new_members": 9,
+  "new_members": 8,
   "rejoins": 5,
   "milestones": 1,
   "gift_purchases": 1,
@@ -67,37 +67,27 @@
    "net_per_member": 311.8,
    "confirmed_members": 19,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 228.0,
-   "estimated_members": 247.0,
+   "allocated_unknown": 231.0,
+   "estimated_members": 250.0,
    "monthly_net_confirmed": 5925,
-   "monthly_net_estimated": 77019
+   "monthly_net_estimated": 77955
   }
  ],
  "revenue": {
-  "monthly_low": 77019,
-  "monthly_est": 77019,
+  "monthly_low": 77955,
+  "monthly_est": 77955,
   "gift_once": 1559,
-  "total_low": 78578,
-  "total_est": 78578,
-  "paying_members": 247,
+  "total_low": 79514,
+  "total_est": 79514,
+  "paying_members": 250,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
   "overseas": false,
   "currency": "JPY",
-  "price_source": "メンバー登録画面で確認（2026-10-07）"
+  "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "t2B01btkxCY",
-   "start": "2026-10-03 00:03",
-   "title": "#11 ▶︎▷ ほの暮しの庭※ネタバレ注意 ｜ 初見2年目春　畑だけはうそをつかないから ｜ 夕陽リリ ￤ にじさんじ",
-   "kind": "配信",
-   "chatters": 126,
-   "member_chatters": 63,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "PVhmWX00nls",
    "start": "2026-10-06 00:08",
@@ -287,6 +277,16 @@
    "member_chatters": 52,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "ACn1V06KsbU",
+   "start": "2026-11-01 21:00",
+   "title": "▶︎▷ スプラトゥーン3 ｜ TEAM20。すみません、まず弾のうち方を教えてください。 ｜ 夕陽リリ ￤ にじさんじ",
+   "kind": "配信",
+   "chatters": 121,
+   "member_chatters": 76,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -444,6 +444,70 @@
    },
    "avg_member_chatters": 67.4,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-02"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 121,
+   "members_confirmed": 76,
+   "member_classes": {
+    "unknown": 74,
+    "known": 2
+   },
+   "long_term_members": 62,
+   "badges": [
+    {
+     "months": 0,
+     "members": 1
+    },
+    {
+     "months": 1,
+     "members": 3
+    },
+    {
+     "months": 2,
+     "members": 4
+    },
+    {
+     "months": 6,
+     "members": 6
+    },
+    {
+     "months": 12,
+     "members": 9
+    },
+    {
+     "months": 24,
+     "members": 53
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 0,
+    "milestones": 0,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "Level5",
+     "price": 490,
+     "confirmed_members": 2,
+     "estimated_members": 76.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 23698,
+    "monthly_est": 23698,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 76,
+   "partial": true,
    "finalized": false
   }
  ],

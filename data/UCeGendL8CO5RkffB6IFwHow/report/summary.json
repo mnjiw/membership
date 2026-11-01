@@ -3,22 +3,27 @@
  "channel_id": "UCeGendL8CO5RkffB6IFwHow",
  "handle": "@Seffyna",
  "subscribers": 238000,
- "fetched_at": "2026-11-01 10:08",
- "generated_at": "2026-11-01 10:09",
+ "fetched_at": "2026-11-02 05:31",
+ "generated_at": "2026-11-02 05:31",
  "period": {
-  "from": "2026-10-02 10:08",
-  "to": "2026-11-01 10:08",
+  "from": "2026-10-03 05:31",
+  "to": "2026-11-02 05:31",
   "days": 30
  },
  "streams_analyzed": 15,
- "streams_missed": 1,
- "unique_chatters": 312,
- "members_confirmed": 60,
+ "streams_missed": 2,
+ "unique_chatters": 324,
+ "members_confirmed": 61,
  "member_classes": {
   "unknown": 51,
-  "known": 9
+  "known": 10
  },
  "badges": [
+  {
+   "months": 0,
+   "label": "新規(1ヶ月未満)",
+   "members": 1
+  },
   {
    "months": 1,
    "label": "1ヶ月",
@@ -56,7 +61,7 @@
   }
  ],
  "events": {
-  "new_members": 0,
+  "new_members": 1,
   "rejoins": 0,
   "milestones": 5,
   "gift_purchases": 0,
@@ -69,39 +74,29 @@
    "tier": "セフィナイトの温室",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 9,
+   "confirmed_members": 10,
    "share_of_confirmed_pct": 100.0,
    "allocated_unknown": 51.0,
-   "estimated_members": 60.0,
-   "monthly_net_confirmed": 2806,
-   "monthly_net_estimated": 18709
+   "estimated_members": 61.0,
+   "monthly_net_confirmed": 3118,
+   "monthly_net_estimated": 19021
   }
  ],
  "revenue": {
-  "monthly_low": 18709,
-  "monthly_est": 18709,
+  "monthly_low": 19021,
+  "monthly_est": 19021,
   "gift_once": 0,
-  "total_low": 18709,
-  "total_est": 18709,
-  "paying_members": 60,
+  "total_low": 19021,
+  "total_est": 19021,
+  "paying_members": 61,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
   "overseas": true,
   "currency": "JPY",
-  "price_source": "メンバー登録画面で確認（2026-10-07）"
+  "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "a_bHt7evpkQ",
-   "start": "2026-10-02 22:01",
-   "title": "【#マイクラ肝試し2026】今日はこの4人で昨年の肝試し行っちゃいますよ！【にじさんじ | セフィナ 桜凛月 五木左京 一橋綾人】",
-   "kind": "配信",
-   "chatters": 33,
-   "member_chatters": 15,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "_mx0MhfKW_4",
    "start": "2026-10-04 13:00",
@@ -241,6 +236,16 @@
    "member_chatters": 24,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "-j4mCuq4kak",
+   "start": "2026-11-01 16:03",
+   "title": "【#にじイカ祭り2026】プラベ練習！🦑セフィナ視点🦑【にじさんじ | セフィナ】",
+   "kind": "配信",
+   "chatters": 60,
+   "member_chatters": 20,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -255,6 +260,18 @@
    "members_level": "セフィナイトの温室",
    "like_count": 34,
    "view_count": null
+  },
+  {
+   "video_id": "i5xs8QBVdGo",
+   "start": "2026-11-01 00:00",
+   "title": "抜錨 - ナナホシ管弦楽団 / セフィナ COVER",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 1272,
+   "view_count": 9946
   }
  ],
  "members_only_content": [
@@ -405,6 +422,74 @@
    },
    "avg_member_chatters": 17.7,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-02"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 1,
+   "unique_chatters": 60,
+   "members_confirmed": 20,
+   "member_classes": {
+    "unknown": 17,
+    "known": 3
+   },
+   "long_term_members": 17,
+   "badges": [
+    {
+     "months": 0,
+     "members": 1
+    },
+    {
+     "months": 2,
+     "members": 1
+    },
+    {
+     "months": 6,
+     "members": 1
+    },
+    {
+     "months": 12,
+     "members": 3
+    },
+    {
+     "months": 24,
+     "members": 1
+    },
+    {
+     "months": 36,
+     "members": 5
+    },
+    {
+     "months": 48,
+     "members": 8
+    }
+   ],
+   "events": {
+    "new_members": 1,
+    "rejoins": 0,
+    "milestones": 0,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "セフィナイトの温室",
+     "price": 490,
+     "confirmed_members": 3,
+     "estimated_members": 20.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 6236,
+    "monthly_est": 6236,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 20,
+   "partial": true,
    "finalized": false
   }
  ],

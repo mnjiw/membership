@@ -3,19 +3,19 @@
  "channel_id": "UCiA-trSZfB0i92V_-dyDqBw",
  "handle": "@KuramochiMeruto",
  "subscribers": 310000,
- "fetched_at": "2026-11-01 10:09",
- "generated_at": "2026-11-01 10:09",
+ "fetched_at": "2026-11-02 05:31",
+ "generated_at": "2026-11-02 05:33",
  "period": {
-  "from": "2026-10-02 10:09",
-  "to": "2026-11-01 10:09",
+  "from": "2026-10-03 05:31",
+  "to": "2026-11-02 05:31",
   "days": 30
  },
- "streams_analyzed": 17,
+ "streams_analyzed": 18,
  "streams_missed": 2,
- "unique_chatters": 6387,
- "members_confirmed": 848,
+ "unique_chatters": 6458,
+ "members_confirmed": 861,
  "member_classes": {
-  "unknown": 801,
+  "unknown": 814,
   "known": 37,
   "gift": 10
  },
@@ -23,37 +23,37 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 62
+   "members": 61
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 29
+   "members": 31
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 87
+   "members": 85
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 104
+   "members": 105
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 209
+   "members": 214
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 188
+   "members": 194
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 169
+   "members": 171
   }
  ],
  "events": {
@@ -72,25 +72,25 @@
    "net_per_member": 311.8,
    "confirmed_members": 37,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 801.0,
-   "estimated_members": 838.0,
+   "allocated_unknown": 814.0,
+   "estimated_members": 851.0,
    "monthly_net_confirmed": 11537,
-   "monthly_net_estimated": 261304
+   "monthly_net_estimated": 265357
   }
  ],
  "revenue": {
-  "monthly_low": 261304,
-  "monthly_est": 261304,
+  "monthly_low": 265357,
+  "monthly_est": 265357,
   "gift_once": 3118,
-  "total_low": 264422,
-  "total_est": 264422,
-  "paying_members": 838,
+  "total_low": 268475,
+  "total_est": 268475,
+  "paying_members": 851,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
   "overseas": false,
   "currency": "JPY",
-  "price_source": "メンバー登録画面で確認（2026-10-07）"
+  "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
   {
@@ -262,6 +262,16 @@
    "member_chatters": 151,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "TcKLMpS-fhk",
+   "start": "2026-11-01 20:06",
+   "title": "【 #にじイカ祭り2026 】チーム12顔合わせと練習だあああああああああ!!✨【倉持めると/にじさんじ】",
+   "kind": "配信",
+   "chatters": 501,
+   "member_chatters": 280,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -274,7 +284,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "めるねいとの拳たち",
-   "like_count": 362,
+   "like_count": 364,
    "view_count": null
   },
   {
@@ -286,7 +296,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "めるねいとの拳たち",
-   "like_count": 334,
+   "like_count": 352,
    "view_count": null
   }
  ],
@@ -298,7 +308,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "めるねいとの拳たち",
-   "like_count": 362,
+   "like_count": 364,
    "view_count": null
   },
   {
@@ -308,7 +318,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "めるねいとの拳たち",
-   "like_count": 334,
+   "like_count": 352,
    "view_count": null
   }
  ],
@@ -450,6 +460,74 @@
    },
    "avg_member_chatters": 275.7,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-02"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 501,
+   "members_confirmed": 280,
+   "member_classes": {
+    "unknown": 275,
+    "known": 5
+   },
+   "long_term_members": 224,
+   "badges": [
+    {
+     "months": 0,
+     "members": 3
+    },
+    {
+     "months": 1,
+     "members": 12
+    },
+    {
+     "months": 2,
+     "members": 14
+    },
+    {
+     "months": 6,
+     "members": 27
+    },
+    {
+     "months": 12,
+     "members": 72
+    },
+    {
+     "months": 24,
+     "members": 83
+    },
+    {
+     "months": 36,
+     "members": 69
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 0,
+    "milestones": 0,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "めるねいとの拳たち",
+     "price": 490,
+     "confirmed_members": 5,
+     "estimated_members": 280.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 87309,
+    "monthly_est": 87309,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 280,
+   "partial": true,
    "finalized": false
   }
  ],

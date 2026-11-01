@@ -3,27 +3,27 @@
  "channel_id": "UCfQVs_KuXeNAlGa3fb8rlnQ",
  "handle": "@SakuraRitsuki",
  "subscribers": 282000,
- "fetched_at": "2026-11-01 10:07",
- "generated_at": "2026-11-01 10:07",
+ "fetched_at": "2026-11-02 05:20",
+ "generated_at": "2026-11-02 05:21",
  "period": {
-  "from": "2026-10-02 10:07",
-  "to": "2026-11-01 10:07",
+  "from": "2026-10-03 05:20",
+  "to": "2026-11-02 05:20",
   "days": 30
  },
- "streams_analyzed": 44,
+ "streams_analyzed": 45,
  "streams_missed": 2,
- "unique_chatters": 1456,
- "members_confirmed": 105,
+ "unique_chatters": 1597,
+ "members_confirmed": 115,
  "member_classes": {
-  "known": 16,
   "unknown": 88,
-  "gift": 1
+  "known": 16,
+  "gift": 11
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 1
+   "members": 11
   },
   {
    "months": 1,
@@ -53,21 +53,21 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 12
+   "members": 11
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 62
+   "members": 63
   }
  ],
  "events": {
   "new_members": 0,
   "rejoins": 0,
   "milestones": 13,
-  "gift_purchases": 1,
-  "gifted_total": 1,
-  "gift_redemptions": 1
+  "gift_purchases": 2,
+  "gifted_total": 11,
+  "gift_redemptions": 11
  },
  "tiers_configured": true,
  "tiers": [
@@ -97,28 +97,18 @@
  "revenue": {
   "monthly_low": 51520,
   "monthly_est": 156520,
-  "gift_once": 312,
-  "total_low": 51832,
-  "total_est": 156832,
+  "gift_once": 3430,
+  "total_low": 54950,
+  "total_est": 159950,
   "paying_members": 104,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
   "overseas": false,
   "currency": "JPY",
-  "price_source": "メンバー登録画面で確認（2026-10-07）"
+  "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "jQcarFxcEPY",
-   "start": "2026-10-02 22:01",
-   "title": "【マイクラ肝試し2026】えりぶり×りつぴなで2025年の肝試しマップに行くぞ！【にじさんじ/桜凛月】",
-   "kind": "配信",
-   "chatters": 51,
-   "member_chatters": 28,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "OVp6G5tH78s",
    "start": "2026-10-04 13:00",
@@ -548,6 +538,26 @@
    "member_chatters": 31,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "isEHIEacIMQ",
+   "start": "2026-11-01 11:01",
+   "title": "【#にじイカ祭り2026】ガチ練習プラベ→ライバーさん合流【にじさんじ/桜凛月】",
+   "kind": "配信",
+   "chatters": 275,
+   "member_chatters": 49,
+   "new_members": 0,
+   "gifted_total": 10
+  },
+  {
+   "video_id": "l965LBI7ziE",
+   "start": "2026-11-01 21:44",
+   "title": "【#にじイカ祭り2026】ガチ練習プラベ【にじさんじ/桜凛月】",
+   "kind": "配信",
+   "chatters": 52,
+   "member_chatters": 35,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -755,6 +765,81 @@
    },
    "avg_member_chatters": 24.2,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-02"
+   },
+   "streams_analyzed": 2,
+   "streams_missed": 0,
+   "unique_chatters": 289,
+   "members_confirmed": 58,
+   "member_classes": {
+    "unknown": 40,
+    "known": 8,
+    "gift": 10
+   },
+   "long_term_members": 45,
+   "badges": [
+    {
+     "months": 0,
+     "members": 10
+    },
+    {
+     "months": 2,
+     "members": 1
+    },
+    {
+     "months": 6,
+     "members": 2
+    },
+    {
+     "months": 12,
+     "members": 5
+    },
+    {
+     "months": 24,
+     "members": 3
+    },
+    {
+     "months": 36,
+     "members": 3
+    },
+    {
+     "months": 48,
+     "members": 34
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 0,
+    "milestones": 0,
+    "gifted_total": 10
+   },
+   "tiers": [
+    {
+     "tier": "桜ンボの箱舟",
+     "price": 490,
+     "confirmed_members": 1,
+     "estimated_members": 6.0
+    },
+    {
+     "tier": "桜SP",
+     "price": 3490,
+     "confirmed_members": 7,
+     "estimated_members": 42.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 28331,
+    "monthly_est": 95149,
+    "gift_once": 3118
+   },
+   "avg_member_chatters": 42,
+   "partial": true,
    "finalized": false
   }
  ],

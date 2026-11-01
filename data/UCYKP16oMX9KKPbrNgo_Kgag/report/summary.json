@@ -3,26 +3,26 @@
  "channel_id": "UCYKP16oMX9KKPbrNgo_Kgag",
  "handle": "@Elu",
  "subscribers": 737000,
- "fetched_at": "2026-11-01 10:07",
- "generated_at": "2026-11-01 10:07",
+ "fetched_at": "2026-11-02 05:17",
+ "generated_at": "2026-11-02 05:17",
  "period": {
-  "from": "2026-10-02 10:07",
-  "to": "2026-11-01 10:07",
+  "from": "2026-10-03 05:17",
+  "to": "2026-11-02 05:17",
   "days": 30
  },
- "streams_analyzed": 20,
+ "streams_analyzed": 18,
  "streams_missed": 2,
- "unique_chatters": 3318,
- "members_confirmed": 285,
+ "unique_chatters": 2890,
+ "members_confirmed": 278,
  "member_classes": {
-  "known": 34,
-  "unknown": 251
+  "unknown": 245,
+  "known": 33
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 11
+   "members": 10
   },
   {
    "months": 1,
@@ -47,23 +47,23 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 44
+   "members": 42
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 58
+   "members": 55
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 88
+   "members": 87
   }
  ],
  "events": {
-  "new_members": 5,
+  "new_members": 4,
   "rejoins": 1,
-  "milestones": 21,
+  "milestones": 17,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -74,49 +74,29 @@
    "tier": "エルフの森",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 34,
+   "confirmed_members": 33,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 251.0,
-   "estimated_members": 285.0,
-   "monthly_net_confirmed": 10602,
-   "monthly_net_estimated": 88868
+   "allocated_unknown": 245.0,
+   "estimated_members": 278.0,
+   "monthly_net_confirmed": 10290,
+   "monthly_net_estimated": 86685
   }
  ],
  "revenue": {
-  "monthly_low": 88868,
-  "monthly_est": 88868,
+  "monthly_low": 86685,
+  "monthly_est": 86685,
   "gift_once": 0,
-  "total_low": 88868,
-  "total_est": 88868,
-  "paying_members": 285,
+  "total_low": 86685,
+  "total_est": 86685,
+  "paying_members": 278,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
   "overseas": false,
   "currency": "JPY",
-  "price_source": "メンバー登録画面で確認（2026-10-07）"
+  "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "xRIPOWruweA",
-   "start": "2026-10-02 13:03",
-   "title": "【APEX】第2回ソロカップ顔合わせ【にじさんじ/える】",
-   "kind": "配信",
-   "chatters": 252,
-   "member_chatters": 51,
-   "new_members": 0,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "GlQ-a7AhWFU",
-   "start": "2026-10-02 19:00",
-   "title": "【 ドラゴンボールZ:KAKAROT 】#06 完全初見！魔人ブウ編続きから！【にじさんじ/える】",
-   "kind": "配信",
-   "chatters": 783,
-   "member_chatters": 77,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "skzSFU37Jys",
    "start": "2026-10-03 12:01",
@@ -494,7 +474,7 @@
   }
  ],
  "no_streams": false,
- "membership": null,
+ "membership": true,
  "price_history": [
   {
    "date": "2026-10-07",

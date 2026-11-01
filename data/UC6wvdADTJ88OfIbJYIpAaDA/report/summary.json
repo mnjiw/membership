@@ -3,61 +3,61 @@
  "channel_id": "UC6wvdADTJ88OfIbJYIpAaDA",
  "handle": "@FuwaMinato",
  "subscribers": 1210000,
- "fetched_at": "2026-11-01 10:08",
- "generated_at": "2026-11-01 10:08",
+ "fetched_at": "2026-11-02 05:24",
+ "generated_at": "2026-11-02 05:29",
  "period": {
-  "from": "2026-10-02 10:08",
-  "to": "2026-11-01 10:08",
+  "from": "2026-10-03 05:24",
+  "to": "2026-11-02 05:24",
   "days": 30
  },
  "streams_analyzed": 14,
  "streams_missed": 1,
- "unique_chatters": 5834,
- "members_confirmed": 2678,
+ "unique_chatters": 6299,
+ "members_confirmed": 2811,
  "member_classes": {
-  "unknown": 2630,
-  "known": 48
+  "unknown": 2759,
+  "known": 52
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 41
+   "members": 47
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 45
+   "members": 42
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 240
+   "members": 256
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 251
+   "members": 258
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 512
+   "members": 533
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 820
+   "members": 852
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 769
+   "members": 823
   }
  ],
  "events": {
-  "new_members": 20,
-  "rejoins": 16,
+  "new_members": 23,
+  "rejoins": 17,
   "milestones": 0,
   "gift_purchases": 0,
   "gifted_total": 0,
@@ -69,39 +69,29 @@
    "tier": "不破狂",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 48,
+   "confirmed_members": 52,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2630.0,
-   "estimated_members": 2678.0,
-   "monthly_net_confirmed": 14967,
-   "monthly_net_estimated": 835049
+   "allocated_unknown": 2759.0,
+   "estimated_members": 2811.0,
+   "monthly_net_confirmed": 16215,
+   "monthly_net_estimated": 876521
   }
  ],
  "revenue": {
-  "monthly_low": 835049,
-  "monthly_est": 835049,
+  "monthly_low": 876521,
+  "monthly_est": 876521,
   "gift_once": 0,
-  "total_low": 835049,
-  "total_est": 835049,
-  "paying_members": 2678,
+  "total_low": 876521,
+  "total_est": 876521,
+  "paying_members": 2811,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
   "overseas": false,
   "currency": "JPY",
-  "price_source": "メンバー登録画面で確認（2026-10-07）"
+  "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "1pH3M1k1fbM",
-   "start": "2026-10-02 21:00",
-   "title": "【APEX】CRカップ スクリム2日目【不破湊/SqLA/でっぷ/にじさんじ】",
-   "kind": "配信",
-   "chatters": 811,
-   "member_chatters": 694,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "HPxcMt0td0I",
    "start": "2026-10-03 20:59",
@@ -231,6 +221,16 @@
    "member_chatters": 1123,
    "new_members": 3,
    "gifted_total": 0
+  },
+  {
+   "video_id": "5S0wP6a4gjg",
+   "start": "2026-11-01 20:47",
+   "title": "【スプラトゥーン3】魂のごちゃまぜプラべのち顔合わせ【不破湊/にじさんじ】",
+   "kind": "配信",
+   "chatters": 2102,
+   "member_chatters": 1319,
+   "new_members": 3,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -243,8 +243,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 4135,
-   "view_count": 59026
+   "like_count": 4683,
+   "view_count": 75825
   }
  ],
  "members_only_content": [],
@@ -384,6 +384,74 @@
    },
    "avg_member_chatters": 901.5,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-02"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 2102,
+   "members_confirmed": 1319,
+   "member_classes": {
+    "unknown": 1308,
+    "known": 11
+   },
+   "long_term_members": 1089,
+   "badges": [
+    {
+     "months": 0,
+     "members": 12
+    },
+    {
+     "months": 1,
+     "members": 12
+    },
+    {
+     "months": 2,
+     "members": 100
+    },
+    {
+     "months": 6,
+     "members": 106
+    },
+    {
+     "months": 12,
+     "members": 238
+    },
+    {
+     "months": 24,
+     "members": 416
+    },
+    {
+     "months": 48,
+     "members": 435
+    }
+   ],
+   "events": {
+    "new_members": 3,
+    "rejoins": 2,
+    "milestones": 0,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "不破狂",
+     "price": 490,
+     "confirmed_members": 11,
+     "estimated_members": 1319.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 411288,
+    "monthly_est": 411288,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 1319,
+   "partial": true,
    "finalized": false
   }
  ],

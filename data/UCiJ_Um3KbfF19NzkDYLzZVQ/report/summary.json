@@ -2,21 +2,21 @@
  "channel": "綺沙良 / Kisara【にじさんじ】",
  "channel_id": "UCiJ_Um3KbfF19NzkDYLzZVQ",
  "handle": "@Kisara_nijisanji",
- "subscribers": 229000,
- "fetched_at": "2026-11-01 10:09",
- "generated_at": "2026-11-01 10:10",
+ "subscribers": 230000,
+ "fetched_at": "2026-11-02 05:35",
+ "generated_at": "2026-11-02 05:36",
  "period": {
-  "from": "2026-10-02 10:09",
-  "to": "2026-11-01 10:09",
+  "from": "2026-10-03 05:35",
+  "to": "2026-11-02 05:35",
   "days": 30
  },
- "streams_analyzed": 26,
- "streams_missed": 2,
- "unique_chatters": 3167,
+ "streams_analyzed": 27,
+ "streams_missed": 3,
+ "unique_chatters": 3178,
  "members_confirmed": 427,
  "member_classes": {
-  "known": 102,
-  "unknown": 320,
+  "known": 104,
+  "unknown": 318,
   "gift": 5
  },
  "badges": [
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 77
+   "members": 78
   },
   {
    "months": 6,
@@ -48,12 +48,12 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 93
+   "members": 92
   }
  ],
  "events": {
-  "new_members": 39,
-  "rejoins": 9,
+  "new_members": 40,
+  "rejoins": 10,
   "milestones": 27,
   "gift_purchases": 1,
   "gifted_total": 5,
@@ -65,11 +65,11 @@
    "tier": "うちの常連さん",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 102,
+   "confirmed_members": 104,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 320.0,
+   "allocated_unknown": 318.0,
    "estimated_members": 422.0,
-   "monthly_net_confirmed": 31805,
+   "monthly_net_confirmed": 32429,
    "monthly_net_estimated": 131587
   }
  ],
@@ -85,19 +85,9 @@
   "creator_share": 0.7,
   "overseas": false,
   "currency": "JPY",
-  "price_source": "メンバー登録画面で確認（2026-10-07）"
+  "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "dFByBpOfwNg",
-   "start": "2026-10-02 18:01",
-   "title": "【BOMBANANA！】お酒飲みながら爆弾解除！？！？💣【綺沙良/にじさんじ】",
-   "kind": "配信",
-   "chatters": 124,
-   "member_chatters": 62,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "52LQlVfz3Oo",
    "start": "2026-10-03 21:00",
@@ -347,6 +337,26 @@
    "member_chatters": 53,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "S22wUaCkQt4",
+   "start": "2026-11-01 12:41",
+   "title": "スプラトゥーン３│ワカバOTPを卒業します。15時からメン限占いします！【綺沙良/にじさんじ】",
+   "kind": "配信",
+   "chatters": 131,
+   "member_chatters": 44,
+   "new_members": 1,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "LGSVJlnuNac",
+   "start": "2026-11-01 21:41",
+   "title": "スプラトゥーン３│プラべ参加するので配信枠たててみました【綺沙良/にじさんじ】",
+   "kind": "配信",
+   "chatters": 76,
+   "member_chatters": 49,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -371,7 +381,19 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "うちの常連さん",
-   "like_count": 154,
+   "like_count": 155,
+   "view_count": null
+  },
+  {
+   "video_id": "dyYxXbnZouY",
+   "start": "2026-11-01 15:11",
+   "title": "メン限│１１月のメン限占い♩【綺沙良/にじさんじ】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "うちの常連さん",
+   "like_count": 95,
    "view_count": null
   }
  ],
@@ -393,7 +415,17 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "うちの常連さん",
-   "like_count": 154,
+   "like_count": 155,
+   "view_count": null
+  },
+  {
+   "video_id": "dyYxXbnZouY",
+   "start": "2026-11-01 15:11",
+   "title": "メン限│１１月のメン限占い♩【綺沙良/にじさんじ】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "うちの常連さん",
+   "like_count": 95,
    "view_count": null
   }
  ],
@@ -527,6 +559,70 @@
    },
    "avg_member_chatters": 76.6,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-02"
+   },
+   "streams_analyzed": 2,
+   "streams_missed": 1,
+   "unique_chatters": 174,
+   "members_confirmed": 65,
+   "member_classes": {
+    "unknown": 42,
+    "known": 23
+   },
+   "long_term_members": 36,
+   "badges": [
+    {
+     "months": 0,
+     "members": 3
+    },
+    {
+     "months": 1,
+     "members": 2
+    },
+    {
+     "months": 2,
+     "members": 13
+    },
+    {
+     "months": 6,
+     "members": 11
+    },
+    {
+     "months": 12,
+     "members": 16
+    },
+    {
+     "months": 24,
+     "members": 20
+    }
+   ],
+   "events": {
+    "new_members": 1,
+    "rejoins": 1,
+    "milestones": 0,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "うちの常連さん",
+     "price": 490,
+     "confirmed_members": 23,
+     "estimated_members": 65.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 20268,
+    "monthly_est": 20268,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 46.5,
+   "partial": true,
    "finalized": false
   }
  ],

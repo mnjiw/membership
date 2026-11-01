@@ -3,20 +3,20 @@
  "channel_id": "UCbc8fwhdUNlqi-J99ISYu4A",
  "handle": "@BelmondBanderas",
  "subscribers": 493000,
- "fetched_at": "2026-11-01 10:07",
- "generated_at": "2026-11-01 10:07",
+ "fetched_at": "2026-11-02 05:21",
+ "generated_at": "2026-11-02 05:21",
  "period": {
-  "from": "2026-10-02 10:07",
-  "to": "2026-11-01 10:07",
+  "from": "2026-10-03 05:21",
+  "to": "2026-11-02 05:21",
   "days": 30
  },
- "streams_analyzed": 18,
+ "streams_analyzed": 17,
  "streams_missed": 3,
- "unique_chatters": 1288,
- "members_confirmed": 197,
+ "unique_chatters": 1231,
+ "members_confirmed": 189,
  "member_classes": {
-  "unknown": 164,
-  "known": 23,
+  "known": 22,
+  "unknown": 157,
   "gift": 10
  },
  "badges": [
@@ -43,12 +43,12 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 31
+   "members": 29
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 111
+   "members": 105
   }
  ],
  "events": {
@@ -66,71 +66,61 @@
    "price": 140,
    "net_per_member": 89.1,
    "confirmed_members": 3,
-   "share_of_confirmed_pct": 13.0,
+   "share_of_confirmed_pct": 13.6,
    "allocated_unknown": 21.4,
    "estimated_members": 24.4,
    "monthly_net_confirmed": 267,
-   "monthly_net_estimated": 2173
+   "monthly_net_estimated": 2175
   },
   {
    "tier": "常連さんプラン",
    "price": 490,
    "net_per_member": 311.8,
    "confirmed_members": 11,
-   "share_of_confirmed_pct": 47.8,
-   "allocated_unknown": 78.4,
-   "estimated_members": 89.4,
+   "share_of_confirmed_pct": 50.0,
+   "allocated_unknown": 78.5,
+   "estimated_members": 89.5,
    "monthly_net_confirmed": 3430,
-   "monthly_net_estimated": 27887
+   "monthly_net_estimated": 27908
   },
   {
    "tier": "お得意さんプラン",
    "price": 990,
    "net_per_member": 630.0,
-   "confirmed_members": 8,
-   "share_of_confirmed_pct": 34.8,
-   "allocated_unknown": 57.0,
-   "estimated_members": 65.0,
-   "monthly_net_confirmed": 5040,
-   "monthly_net_estimated": 40977
+   "confirmed_members": 7,
+   "share_of_confirmed_pct": 31.8,
+   "allocated_unknown": 50.0,
+   "estimated_members": 57.0,
+   "monthly_net_confirmed": 4410,
+   "monthly_net_estimated": 35881
   },
   {
    "tier": "VIPプラン",
    "price": 3490,
    "net_per_member": 2220.9,
    "confirmed_members": 1,
-   "share_of_confirmed_pct": 4.3,
+   "share_of_confirmed_pct": 4.5,
    "allocated_unknown": 7.1,
    "estimated_members": 8.1,
    "monthly_net_confirmed": 2221,
-   "monthly_net_estimated": 18057
+   "monthly_net_estimated": 18070
   }
  ],
  "revenue": {
-  "monthly_low": 25569,
-  "monthly_est": 89095,
+  "monthly_low": 24315,
+  "monthly_est": 84034,
   "gift_once": 891,
-  "total_low": 26460,
-  "total_est": 89986,
-  "paying_members": 187,
+  "total_low": 25206,
+  "total_est": 84925,
+  "paying_members": 179,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
   "overseas": false,
   "currency": "JPY",
-  "price_source": "メンバー登録画面で確認（2026-10-07）"
+  "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "fDoLgSUM9d8",
-   "start": "2026-10-02 23:05",
-   "title": "【デス桃太郎】日本デス昔話の時間だよ【ベルモンド・バンデラス/にじさんじ】",
-   "kind": "配信",
-   "chatters": 174,
-   "member_chatters": 82,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "yU0W2ahlviw",
    "start": "2026-10-03 23:02",
@@ -336,7 +326,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "常連さんプラン",
-   "like_count": 56,
+   "like_count": 57,
    "view_count": null
   }
  ],
@@ -368,7 +358,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "常連さんプラン",
-   "like_count": 56,
+   "like_count": 57,
    "view_count": null
   }
  ],

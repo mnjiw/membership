@@ -3,19 +3,19 @@
  "channel_id": "UCmZ1Rbthn-6Jm_qOGjYsh5A",
  "handle": "@Ibrahim",
  "subscribers": 926000,
- "fetched_at": "2026-11-01 10:08",
- "generated_at": "2026-11-01 10:08",
+ "fetched_at": "2026-11-02 05:26",
+ "generated_at": "2026-11-02 05:27",
  "period": {
-  "from": "2026-10-02 10:08",
-  "to": "2026-11-01 10:08",
+  "from": "2026-10-03 05:26",
+  "to": "2026-11-02 05:26",
   "days": 30
  },
  "streams_analyzed": 22,
  "streams_missed": 0,
- "unique_chatters": 6832,
- "members_confirmed": 1389,
+ "unique_chatters": 6957,
+ "members_confirmed": 1381,
  "member_classes": {
-  "unknown": 1187,
+  "unknown": 1179,
   "known": 115,
   "gift": 87
  },
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 99
+   "members": 96
   },
   {
    "months": 6,
@@ -43,12 +43,12 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 172
+   "members": 173
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 922
+   "members": 916
   }
  ],
  "events": {
@@ -67,37 +67,27 @@
    "net_per_member": 311.8,
    "confirmed_members": 115,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1187.0,
-   "estimated_members": 1302.0,
+   "allocated_unknown": 1179.0,
+   "estimated_members": 1294.0,
    "monthly_net_confirmed": 35859,
-   "monthly_net_estimated": 405987
+   "monthly_net_estimated": 403493
   }
  ],
  "revenue": {
-  "monthly_low": 405987,
-  "monthly_est": 405987,
+  "monthly_low": 403493,
+  "monthly_est": 403493,
   "gift_once": 27128,
-  "total_low": 433115,
-  "total_est": 433115,
-  "paying_members": 1302,
+  "total_low": 430621,
+  "total_est": 430621,
+  "paying_members": 1294,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
   "overseas": false,
   "currency": "JPY",
-  "price_source": "メンバー登録画面で確認（2026-10-07）"
+  "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "gTSSQ4nwjNs",
-   "start": "2026-10-02 20:38",
-   "title": "【APEX│CRCUP】　スクリム2日目　【にじさんじ/イブラヒム】",
-   "kind": "配信",
-   "chatters": 636,
-   "member_chatters": 378,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "erOnIvdFWK8",
    "start": "2026-10-03 20:41",
@@ -307,6 +297,16 @@
    "member_chatters": 400,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "SbcSRaMTWmQ",
+   "start": "2026-11-01 20:18",
+   "title": "【ゼルダの伝説スカイウォードソード】完全初見初めてのマスターソードづくり③【にじさんじ/イブラヒム】",
+   "kind": "配信",
+   "chatters": 792,
+   "member_chatters": 340,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -441,6 +441,70 @@
    },
    "avg_member_chatters": 417.8,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-02"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 792,
+   "members_confirmed": 340,
+   "member_classes": {
+    "unknown": 301,
+    "known": 39
+   },
+   "long_term_members": 287,
+   "badges": [
+    {
+     "months": 0,
+     "members": 4
+    },
+    {
+     "months": 1,
+     "members": 3
+    },
+    {
+     "months": 2,
+     "members": 24
+    },
+    {
+     "months": 6,
+     "members": 22
+    },
+    {
+     "months": 12,
+     "members": 37
+    },
+    {
+     "months": 24,
+     "members": 250
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 0,
+    "milestones": 1,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "イブラヒムのメンバーシップ",
+     "price": 490,
+     "confirmed_members": 39,
+     "estimated_members": 340.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 106018,
+    "monthly_est": 106018,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 340,
+   "partial": true,
    "finalized": false
   }
  ],

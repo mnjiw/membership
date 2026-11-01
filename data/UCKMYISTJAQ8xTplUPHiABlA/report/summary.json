@@ -3,41 +3,41 @@
  "channel_id": "UCKMYISTJAQ8xTplUPHiABlA",
  "handle": "@YashiroKizuku",
  "subscribers": 924000,
- "fetched_at": "2026-11-01 10:07",
- "generated_at": "2026-11-01 10:07",
+ "fetched_at": "2026-11-02 05:20",
+ "generated_at": "2026-11-02 05:21",
  "period": {
-  "from": "2026-10-02 10:07",
-  "to": "2026-11-01 10:07",
+  "from": "2026-10-03 05:20",
+  "to": "2026-11-02 05:20",
   "days": 30
  },
- "streams_analyzed": 16,
+ "streams_analyzed": 17,
  "streams_missed": 1,
- "unique_chatters": 13805,
- "members_confirmed": 963,
+ "unique_chatters": 14032,
+ "members_confirmed": 978,
  "member_classes": {
-  "unknown": 887,
-  "known": 76
+  "unknown": 901,
+  "known": 77
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 48
+   "members": 51
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 29
+   "members": 28
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 886
+   "members": 899
   }
  ],
  "events": {
   "new_members": 14,
-  "rejoins": 6,
+  "rejoins": 7,
   "milestones": 46,
   "gift_purchases": 0,
   "gifted_total": 0,
@@ -49,27 +49,27 @@
    "tier": "メンバー",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 76,
+   "confirmed_members": 77,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 887.0,
-   "estimated_members": 963.0,
-   "monthly_net_confirmed": 23698,
-   "monthly_net_estimated": 300281
+   "allocated_unknown": 901.0,
+   "estimated_members": 978.0,
+   "monthly_net_confirmed": 24010,
+   "monthly_net_estimated": 304958
   }
  ],
  "revenue": {
-  "monthly_low": 300281,
-  "monthly_est": 300281,
+  "monthly_low": 304958,
+  "monthly_est": 304958,
   "gift_once": 0,
-  "total_low": 300281,
-  "total_est": 300281,
-  "paying_members": 963,
+  "total_low": 304958,
+  "total_est": 304958,
+  "paying_members": 978,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
   "overseas": false,
   "currency": "JPY",
-  "price_source": "メンバー登録画面で確認（2026-10-07）"
+  "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
   {
@@ -231,6 +231,16 @@
    "member_chatters": 276,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "ektGePphZXo",
+   "start": "2026-11-01 21:06",
+   "title": "【スプラトゥーン3】いよいよ対抗戦！！するチョア氏～だのチョアヨ～だのﾑﾙｺﾞﾙﾚｼﾞﾙだの【にじさんじ/社築】",
+   "kind": "配信",
+   "chatters": 1080,
+   "member_chatters": 290,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -364,6 +374,58 @@
    },
    "avg_member_chatters": 259.2,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-02"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 1080,
+   "members_confirmed": 290,
+   "member_classes": {
+    "unknown": 265,
+    "known": 25
+   },
+   "long_term_members": 0,
+   "badges": [
+    {
+     "months": 0,
+     "members": 19
+    },
+    {
+     "months": 1,
+     "members": 2
+    },
+    {
+     "months": 2,
+     "members": 269
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 1,
+    "milestones": 0,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "メンバー",
+     "price": 490,
+     "confirmed_members": 25,
+     "estimated_members": 290.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 90427,
+    "monthly_est": 90427,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 290,
+   "partial": true,
    "finalized": false
   }
  ],

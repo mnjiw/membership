@@ -3,27 +3,27 @@
  "channel_id": "UCFgXWZOUZA2oYHNr6qDmsTQ",
  "handle": "@ScarleYonaguni",
  "subscribers": 355000,
- "fetched_at": "2026-11-01 10:11",
- "generated_at": "2026-11-01 10:11",
+ "fetched_at": "2026-11-02 05:40",
+ "generated_at": "2026-11-02 05:40",
  "period": {
-  "from": "2026-10-02 10:11",
-  "to": "2026-11-01 10:11",
+  "from": "2026-10-03 05:40",
+  "to": "2026-11-02 05:40",
   "days": 30
  },
- "streams_analyzed": 39,
+ "streams_analyzed": 38,
  "streams_missed": 3,
- "unique_chatters": 2296,
- "members_confirmed": 688,
+ "unique_chatters": 2245,
+ "members_confirmed": 651,
  "member_classes": {
-  "unknown": 100,
-  "known": 244,
-  "gift": 344
+  "known": 243,
+  "unknown": 99,
+  "gift": 309
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 341
+   "members": 306
   },
   {
    "months": 1,
@@ -43,17 +43,17 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 58
+   "members": 57
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 71
+   "members": 72
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 109
+   "members": 107
   },
   {
    "months": 48,
@@ -64,10 +64,10 @@
  "events": {
   "new_members": 2,
   "rejoins": 13,
-  "milestones": 208,
-  "gift_purchases": 48,
-  "gifted_total": 344,
-  "gift_redemptions": 344
+  "milestones": 199,
+  "gift_purchases": 45,
+  "gifted_total": 309,
+  "gift_redemptions": 309
  },
  "tiers_configured": true,
  "tiers": [
@@ -75,49 +75,29 @@
    "tier": "✨Apprenticeship✨",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 244,
+   "confirmed_members": 243,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 100.0,
-   "estimated_members": 344.0,
-   "monthly_net_confirmed": 107138,
-   "monthly_net_estimated": 151047
+   "allocated_unknown": 99.0,
+   "estimated_members": 342.0,
+   "monthly_net_confirmed": 106699,
+   "monthly_net_estimated": 150169
   }
  ],
  "revenue": {
-  "monthly_low": 151047,
-  "monthly_est": 151047,
-  "gift_once": 151047,
-  "total_low": 302095,
-  "total_est": 302095,
-  "paying_members": 344,
+  "monthly_low": 150169,
+  "monthly_est": 150169,
+  "gift_once": 135679,
+  "total_low": 285848,
+  "total_est": 285848,
+  "paying_members": 342,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
   "overseas": true,
   "currency": "JPY",
-  "price_source": "メンバー登録画面で確認（2026-10-07）"
+  "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "KVev9cP6axQ",
-   "start": "2026-10-02 11:04",
-   "title": "I TIERLIST EVERY SINGLE FOOD ITEM EVER! (that i have tried)",
-   "kind": "配信",
-   "chatters": 287,
-   "member_chatters": 132,
-   "new_members": 0,
-   "gifted_total": 36
-  },
-  {
-   "video_id": "pLHUO7pM_4A",
-   "start": "2026-10-03 02:27",
-   "title": "HEHEHEHE I ONLY HAVE AN HOUR! COME HERE OR ILL BITE YOUR PINKY!",
-   "kind": "配信",
-   "chatters": 181,
-   "member_chatters": 61,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "Oci_MniUZQs",
    "start": "2026-10-03 11:21",
@@ -487,6 +467,16 @@
    "member_chatters": 125,
    "new_members": 0,
    "gifted_total": 2
+  },
+  {
+   "video_id": "o4A7m4J0Zwo",
+   "start": "2026-11-01 15:02",
+   "title": "After Karaoke Halloween Night + Spooky Stories!👻💜🎃 ✨",
+   "kind": "配信",
+   "chatters": 144,
+   "member_chatters": 65,
+   "new_members": 0,
+   "gifted_total": 1
   }
  ],
  "missed_streams": [
@@ -523,8 +513,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 558,
-   "view_count": 6486
+   "like_count": 569,
+   "view_count": 6646
   }
  ],
  "members_only_content": [
@@ -695,6 +685,79 @@
    },
    "avg_member_chatters": 94.4,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-02"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 144,
+   "members_confirmed": 65,
+   "member_classes": {
+    "known": 49,
+    "unknown": 15,
+    "gift": 1
+   },
+   "long_term_members": 56,
+   "badges": [
+    {
+     "months": 0,
+     "members": 3
+    },
+    {
+     "months": 1,
+     "members": 1
+    },
+    {
+     "months": 2,
+     "members": 2
+    },
+    {
+     "months": 6,
+     "members": 3
+    },
+    {
+     "months": 12,
+     "members": 14
+    },
+    {
+     "months": 24,
+     "members": 12
+    },
+    {
+     "months": 36,
+     "members": 25
+    },
+    {
+     "months": 48,
+     "members": 5
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 0,
+    "milestones": 2,
+    "gifted_total": 1
+   },
+   "tiers": [
+    {
+     "tier": "✨Apprenticeship✨",
+     "price": 690,
+     "confirmed_members": 49,
+     "estimated_members": 64.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 28102,
+    "monthly_est": 28102,
+    "gift_once": 439
+   },
+   "avg_member_chatters": 65,
+   "partial": true,
    "finalized": false
   }
  ],

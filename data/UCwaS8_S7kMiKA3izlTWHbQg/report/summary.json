@@ -3,16 +3,16 @@
  "channel_id": "UCwaS8_S7kMiKA3izlTWHbQg",
  "handle": "@MariaMarionette",
  "subscribers": 479000,
- "fetched_at": "2026-11-01 10:11",
- "generated_at": "2026-11-01 10:11",
+ "fetched_at": "2026-11-02 05:40",
+ "generated_at": "2026-11-02 05:40",
  "period": {
-  "from": "2026-10-02 10:11",
-  "to": "2026-11-01 10:11",
+  "from": "2026-10-03 05:40",
+  "to": "2026-11-02 05:40",
   "days": 30
  },
- "streams_analyzed": 22,
- "streams_missed": 2,
- "unique_chatters": 1342,
+ "streams_analyzed": 21,
+ "streams_missed": 3,
+ "unique_chatters": 1326,
  "members_confirmed": 196,
  "member_classes": {
   "known": 47,
@@ -53,7 +53,7 @@
  ],
  "events": {
   "new_members": 1,
-  "rejoins": 7,
+  "rejoins": 6,
   "milestones": 37,
   "gift_purchases": 12,
   "gifted_total": 43,
@@ -85,19 +85,9 @@
   "creator_share": 0.7,
   "overseas": true,
   "currency": "JPY",
-  "price_source": "メンバー登録画面で確認（2026-10-07）"
+  "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "ysZBw1Z90bk",
-   "start": "2026-10-02 18:01",
-   "title": "Overwatch Vibes Day【Maria Marionette | NIJISANJI EN】",
-   "kind": "配信",
-   "chatters": 57,
-   "member_chatters": 17,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "oouHjVRT8Fw",
    "start": "2026-10-03 16:00",
@@ -333,6 +323,18 @@
    "members_level": "",
    "like_count": 29,
    "view_count": null
+  },
+  {
+   "video_id": "RxkySX6qFoU",
+   "start": "2026-11-01 22:01",
+   "title": "Membaship strim!! Ready for November?【Maria Marionette | NIJISANJI EN】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 23,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -363,7 +365,17 @@
    "kind": "video",
    "status": "members_only_video",
    "members_level": "",
-   "like_count": 28,
+   "like_count": 31,
+   "view_count": null
+  },
+  {
+   "video_id": "RxkySX6qFoU",
+   "start": "2026-11-01 22:01",
+   "title": "Membaship strim!! Ready for November?【Maria Marionette | NIJISANJI EN】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 23,
    "view_count": null
   }
  ],

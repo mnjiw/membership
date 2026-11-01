@@ -3,20 +3,20 @@
  "channel_id": "UCUc8GZfFxtmk7ZwSO7ccQ0g",
  "handle": "@NuiSociere",
  "subscribers": 710000,
- "fetched_at": "2026-11-01 10:07",
- "generated_at": "2026-11-01 10:07",
+ "fetched_at": "2026-11-02 05:22",
+ "generated_at": "2026-11-02 05:23",
  "period": {
-  "from": "2026-10-02 10:07",
-  "to": "2026-11-01 10:07",
+  "from": "2026-10-03 05:22",
+  "to": "2026-11-02 05:22",
   "days": 30
  },
- "streams_analyzed": 17,
+ "streams_analyzed": 18,
  "streams_missed": 1,
- "unique_chatters": 5210,
- "members_confirmed": 1012,
+ "unique_chatters": 5418,
+ "members_confirmed": 1031,
  "member_classes": {
-  "unknown": 865,
-  "known": 96,
+  "unknown": 883,
+  "known": 97,
   "gift": 51
  },
  "badges": [
@@ -28,7 +28,7 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 5
+   "members": 6
   },
   {
    "months": 2,
@@ -38,23 +38,23 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 32
+   "members": 31
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 79
+   "members": 82
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 799
+   "members": 815
   }
  ],
  "events": {
   "new_members": 9,
   "rejoins": 11,
-  "milestones": 72,
+  "milestones": 75,
   "gift_purchases": 2,
   "gifted_total": 51,
   "gift_redemptions": 51
@@ -65,27 +65,27 @@
    "tier": "めんばーしっぷ！",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 96,
+   "confirmed_members": 97,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 865.0,
-   "estimated_members": 961.0,
-   "monthly_net_confirmed": 29935,
-   "monthly_net_estimated": 299657
+   "allocated_unknown": 883.0,
+   "estimated_members": 980.0,
+   "monthly_net_confirmed": 30246,
+   "monthly_net_estimated": 305582
   }
  ],
  "revenue": {
-  "monthly_low": 299657,
-  "monthly_est": 299657,
+  "monthly_low": 305582,
+  "monthly_est": 305582,
   "gift_once": 15903,
-  "total_low": 315560,
-  "total_est": 315560,
-  "paying_members": 961,
+  "total_low": 321485,
+  "total_est": 321485,
+  "paying_members": 980,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
   "overseas": false,
   "currency": "JPY",
-  "price_source": "メンバー登録画面で確認（2026-10-07）"
+  "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
   {
@@ -257,6 +257,16 @@
    "member_chatters": 556,
    "new_members": 4,
    "gifted_total": 51
+  },
+  {
+   "video_id": "o4XY--syE1Q",
+   "start": "2026-11-01 14:32",
+   "title": "【競馬同時視聴】2026年 天皇賞(秋) 同時視聴【ニュイ・ソシエール/にじさんじ】",
+   "kind": "配信",
+   "chatters": 890,
+   "member_chatters": 265,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -415,6 +425,70 @@
    },
    "avg_member_chatters": 224.1,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-02"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 890,
+   "members_confirmed": 265,
+   "member_classes": {
+    "known": 36,
+    "unknown": 229
+   },
+   "long_term_members": 257,
+   "badges": [
+    {
+     "months": 0,
+     "members": 1
+    },
+    {
+     "months": 1,
+     "members": 1
+    },
+    {
+     "months": 2,
+     "members": 2
+    },
+    {
+     "months": 6,
+     "members": 4
+    },
+    {
+     "months": 12,
+     "members": 17
+    },
+    {
+     "months": 24,
+     "members": 240
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 0,
+    "milestones": 3,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "めんばーしっぷ！",
+     "price": 490,
+     "confirmed_members": 36,
+     "estimated_members": 265.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 82632,
+    "monthly_est": 82632,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 265,
+   "partial": true,
    "finalized": false
   }
  ],
