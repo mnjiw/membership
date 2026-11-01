@@ -431,6 +431,7 @@ def main():
             sj["revenue"]["overseas"] = True
         index.append({"id": cid, "name": sj["display_name"], "title": sj["channel"], "handle": sj.get("handle", ""),
                       "group": sj["group"], "tags": sj["tags"], "yomi": sj["yomi"], "subscribers": sj.get("subscribers"),
+                      "gender": cm.get("gender", ""),
                       "period": sj["period"], "fetched_at": sj.get("fetched_at"),
                       "m": metrics_recent(sj), "months": [h["month"] for h in sj.get("history", [])],
                       "no_membership": sj.get("membership") is False,

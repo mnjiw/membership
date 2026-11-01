@@ -9,8 +9,10 @@ channels.csv (掲載するチャンネルの一覧) を読む共通処理。
     country        … 活動の拠点 (JP など)。JP 以外は「海外チャンネル」として、料金の注記を出す
     name           … サイトで表示する短い名前 (空なら YouTube のチャンネル名)
     yomi           … 読み仮名。検索に使う
-    tags           … 自由なラベル (; 区切り)。検索と表示に使う。集計には影響しない
-    そのほかの列 (color, gender など) は読み込むが、今は使っていない。
+    tags           … 自由なラベル (; 区切り)。検索・表示とランキングの絞り込みに使う。集計には影響しない
+                     デビュー時期は「にじさんじ2019年1〜3月」のように、事務所の名前から書く (事務所をまたいで同じタグにしないため)
+    gender         … 性別。ランキングの絞り込みに使う
+    そのほかの列 (color など) は読み込むが、今は使っていない。
 
 文字コードは UTF-8 (BOM あり/なし) を想定。Excel で「CSV (コンマ区切り)」として保存した
 Shift_JIS のファイルも読めるが、韓国語・絵文字などが「?」に化けるので、
@@ -67,6 +69,7 @@ def load_channels(path="channels.csv", strict=False) -> list:
             "name": r.get("name", ""),
             "yomi": r.get("yomi", ""),
             "tags": [t.strip() for t in r.get("tags", "").split(";") if t.strip()],
+            "gender": r.get("gender", ""),
             "row": n,
         })
     for p in problems:
