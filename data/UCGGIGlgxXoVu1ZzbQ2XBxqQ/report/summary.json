@@ -3,41 +3,41 @@
  "channel_id": "UCGGIGlgxXoVu1ZzbQ2XBxqQ",
  "handle": "@KokonamiIruka_Y4T4",
  "subscribers": 92200,
- "fetched_at": "2026-11-01 05:34",
- "generated_at": "2026-11-01 05:34",
+ "fetched_at": "2026-11-01 10:10",
+ "generated_at": "2026-11-01 10:11",
  "period": {
-  "from": "2026-10-02 05:34",
-  "to": "2026-11-01 05:34",
+  "from": "2026-10-02 10:10",
+  "to": "2026-11-01 10:10",
   "days": 30
  },
- "streams_analyzed": 23,
- "streams_missed": 3,
- "unique_chatters": 3725,
- "members_confirmed": 202,
+ "streams_analyzed": 24,
+ "streams_missed": 2,
+ "unique_chatters": 3756,
+ "members_confirmed": 204,
  "member_classes": {
   "unknown": 163,
-  "known": 29,
+  "known": 31,
   "gift": 10
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 48
+   "members": 50
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 37
+   "members": 36
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 117
+   "members": 118
   }
  ],
  "events": {
-  "new_members": 16,
+  "new_members": 18,
   "rejoins": 1,
   "milestones": 0,
   "gift_purchases": 1,
@@ -50,21 +50,21 @@
    "tier": "ここなみん",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 29,
+   "confirmed_members": 31,
    "share_of_confirmed_pct": 100.0,
    "allocated_unknown": 163.0,
-   "estimated_members": 192.0,
-   "monthly_net_confirmed": 9043,
-   "monthly_net_estimated": 59869
+   "estimated_members": 194.0,
+   "monthly_net_confirmed": 9666,
+   "monthly_net_estimated": 60493
   }
  ],
  "revenue": {
-  "monthly_low": 59869,
-  "monthly_est": 59869,
+  "monthly_low": 60493,
+  "monthly_est": 60493,
   "gift_once": 3118,
-  "total_low": 62987,
-  "total_est": 62987,
-  "paying_members": 192,
+  "total_low": 63611,
+  "total_est": 63611,
+  "paying_members": 194,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -302,6 +302,16 @@
    "member_chatters": 50,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "2y3uG5jdvE4",
+   "start": "2026-10-31 20:46",
+   "title": "【 スプラトゥーン3 】好きなイカは透明なイカです【 にじさんじ  / 小々波いるか 】",
+   "kind": "配信",
+   "chatters": 212,
+   "member_chatters": 69,
+   "new_members": 2,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -328,18 +338,6 @@
    "members_level": "",
    "like_count": 68,
    "view_count": null
-  },
-  {
-   "video_id": "2y3uG5jdvE4",
-   "start": "2026-10-31 00:00",
-   "title": "【 スプラトゥーン3 】好きなイカは透明なイカです【 にじさんじ  / 小々波いるか 】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 844,
-   "view_count": 36634
   }
  ],
  "members_only_content": [
@@ -425,32 +423,32 @@
     "from": "2026-10-01",
     "to": "2026-10-31"
    },
-   "streams_analyzed": 25,
-   "streams_missed": 3,
-   "unique_chatters": 3787,
-   "members_confirmed": 206,
+   "streams_analyzed": 26,
+   "streams_missed": 2,
+   "unique_chatters": 3816,
+   "members_confirmed": 208,
    "member_classes": {
     "unknown": 164,
-    "known": 32,
+    "known": 34,
     "gift": 10
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 52
+     "members": 54
     },
     {
      "months": 1,
-     "members": 37
+     "members": 36
     },
     {
      "months": 2,
-     "members": 117
+     "members": 118
     }
    ],
    "events": {
-    "new_members": 20,
+    "new_members": 22,
     "rejoins": 1,
     "milestones": 0,
     "gifted_total": 10
@@ -459,16 +457,16 @@
     {
      "tier": "ここなみん",
      "price": 490,
-     "confirmed_members": 32,
-     "estimated_members": 196.0
+     "confirmed_members": 34,
+     "estimated_members": 198.0
     }
    ],
    "revenue": {
-    "monthly_low": 61116,
-    "monthly_est": 61116,
+    "monthly_low": 61740,
+    "monthly_est": 61740,
     "gift_once": 3118
    },
-   "avg_member_chatters": 59.3,
+   "avg_member_chatters": 59.7,
    "partial": false,
    "finalized": false
   }
