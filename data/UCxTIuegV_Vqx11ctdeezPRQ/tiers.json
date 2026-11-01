@@ -1,18 +1,37 @@
 {
-  "tiers": [],
+  "tiers": [
+    {
+      "name": "虎っ子部",
+      "prices": [
+        {
+          "from": "2026-11-01",
+          "price": 490
+        }
+      ]
+    }
+  ],
   "gift_tier": null,
   "currency": "JPY",
   "tax_rate": 0.1,
   "creator_share": 0.7,
-  "source": "",
+  "source": "メンバー登録画面で確認（2026-11-01）",
   "changes": [
     {
       "date": "2026-10-07",
       "note": "メンバーシップなし"
+    },
+    {
+      "date": "2026-11-01",
+      "note": "メンバーシップの提供が始まった"
+    },
+    {
+      "date": "2026-11-01",
+      "note": "虎っ子部: （初回） → ¥490（メンバー登録画面で自動確認）"
     }
   ],
-  "membership": false,
+  "membership": true,
   "checks": [
-    "2026-10-07"
+    "2026-10-07",
+    "2026-11-01"
   ]
 }

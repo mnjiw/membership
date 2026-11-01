@@ -4,7 +4,7 @@
  "handle": "@RindouMikoto",
  "subscribers": 595000,
  "fetched_at": "2026-11-01 10:07",
- "generated_at": "2026-11-01 10:07",
+ "generated_at": "2026-11-01 13:18",
  "period": {
   "from": "2026-10-02 10:07",
   "to": "2026-11-01 10:07",
@@ -15,8 +15,8 @@
  "unique_chatters": 1907,
  "members_confirmed": 319,
  "member_classes": {
-  "known": 118,
-  "unknown": 171,
+  "known": 91,
+  "unknown": 198,
   "gift": 30
  },
  "badges": [
@@ -87,30 +87,41 @@
  "tiers_configured": true,
  "tiers": [
   {
-   "tier": "わらわのメンバーシップ",
+   "tier": "鬼の居る間",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 118,
-   "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 171.0,
-   "estimated_members": 289.0,
-   "monthly_net_confirmed": 36795,
-   "monthly_net_estimated": 90115
+   "confirmed_members": 18,
+   "share_of_confirmed_pct": 19.8,
+   "allocated_unknown": 39.2,
+   "estimated_members": 57.2,
+   "monthly_net_confirmed": 5613,
+   "monthly_net_estimated": 17825
+  },
+  {
+   "tier": "鬼に癒されたい者の集い",
+   "price": 2790,
+   "net_per_member": 1775.5,
+   "confirmed_members": 73,
+   "share_of_confirmed_pct": 80.2,
+   "allocated_unknown": 158.8,
+   "estimated_members": 231.8,
+   "monthly_net_confirmed": 129608,
+   "monthly_net_estimated": 411613
   }
  ],
  "revenue": {
-  "monthly_low": 90115,
-  "monthly_est": 90115,
+  "monthly_low": 196961,
+  "monthly_est": 429438,
   "gift_once": 9355,
-  "total_low": 99470,
-  "total_est": 99470,
+  "total_low": 206315,
+  "total_est": 438792,
   "paying_members": 289,
-  "single_tier": true,
+  "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
   "overseas": false,
   "currency": "JPY",
-  "price_source": "メンバー登録画面で確認（2026-10-07）"
+  "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
   {
@@ -387,13 +398,25 @@
     {
      "tier": "わらわのメンバーシップ",
      "price": 490,
-     "confirmed_members": 118,
-     "estimated_members": 289.0
+     "confirmed_members": 27,
+     "estimated_members": 66.1
+    },
+    {
+     "tier": "鬼の居る間",
+     "price": 490,
+     "confirmed_members": 18,
+     "estimated_members": 44.1
+    },
+    {
+     "tier": "鬼に癒されたい者の集い",
+     "price": 2790,
+     "confirmed_members": 73,
+     "estimated_members": 178.8
     }
    ],
    "revenue": {
-    "monthly_low": 90115,
-    "monthly_est": 90115,
+    "monthly_low": 196961,
+    "monthly_est": 351796,
     "gift_once": 9355
    },
    "avg_member_chatters": 115.7,
@@ -409,12 +432,34 @@
    "tier": "わらわのメンバーシップ",
    "price": 490,
    "before": null
+  },
+  {
+   "date": "2026-11-01",
+   "tier": "わらわのメンバーシップ",
+   "price": null,
+   "before": 490
+  },
+  {
+   "date": "2026-11-01",
+   "tier": "鬼に癒されたい者の集い",
+   "price": 2790,
+   "before": null
+  },
+  {
+   "date": "2026-11-01",
+   "tier": "鬼の居る間",
+   "price": 490,
+   "before": null
   }
  ],
  "price_notes": [
   {
    "date": "2026-10-07",
    "note": "わらわのメンバーシップ: （初回） → ¥490（メンバー登録画面で自動確認）"
+  },
+  {
+   "date": "2026-11-01",
+   "note": "鬼の居る間: （初回） → ¥490 / 鬼に癒されたい者の集い: （初回） → ¥2,790 / わらわのメンバーシップ: ¥490 → 提供なし（メンバー登録画面で自動確認）"
   }
  ]
 }
