@@ -3,26 +3,26 @@
  "channel_id": "UCYKP16oMX9KKPbrNgo_Kgag",
  "handle": "@Elu",
  "subscribers": 737000,
- "fetched_at": "2026-11-02 10:29",
- "generated_at": "2026-11-02 10:29",
+ "fetched_at": "2026-11-02 17:55",
+ "generated_at": "2026-11-02 17:55",
  "period": {
-  "from": "2026-10-03 10:29",
-  "to": "2026-11-02 10:29",
+  "from": "2026-10-03 17:55",
+  "to": "2026-11-02 17:55",
   "days": 30
  },
  "streams_analyzed": 18,
  "streams_missed": 2,
- "unique_chatters": 2890,
- "members_confirmed": 278,
+ "unique_chatters": 2869,
+ "members_confirmed": 280,
  "member_classes": {
   "unknown": 245,
-  "known": 33
+  "known": 35
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 10
+   "members": 11
   },
   {
    "months": 1,
@@ -42,7 +42,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 51
+   "members": 52
   },
   {
    "months": 24,
@@ -63,7 +63,7 @@
  "events": {
   "new_members": 4,
   "rejoins": 1,
-  "milestones": 17,
+  "milestones": 19,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -74,21 +74,21 @@
    "tier": "エルフの森",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 33,
+   "confirmed_members": 35,
    "share_of_confirmed_pct": 100.0,
    "allocated_unknown": 245.0,
-   "estimated_members": 278.0,
-   "monthly_net_confirmed": 10290,
-   "monthly_net_estimated": 86685
+   "estimated_members": 280.0,
+   "monthly_net_confirmed": 10914,
+   "monthly_net_estimated": 87309
   }
  ],
  "revenue": {
-  "monthly_low": 86685,
-  "monthly_est": 86685,
+  "monthly_low": 87309,
+  "monthly_est": 87309,
   "gift_once": 0,
-  "total_low": 86685,
-  "total_est": 86685,
-  "paying_members": 278,
+  "total_low": 87309,
+  "total_est": 87309,
+  "paying_members": 280,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -97,16 +97,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "skzSFU37Jys",
-   "start": "2026-10-03 12:01",
-   "title": "【APEX】第3回ソロカップ顔合わせ【にじさんじ/える】",
-   "kind": "配信",
-   "chatters": 330,
-   "member_chatters": 66,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "126x69lUm0c",
    "start": "2026-10-04 10:01",
@@ -274,6 +264,16 @@
    "kind": "配信",
    "chatters": 190,
    "member_chatters": 65,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "oCwcV7NnHBo",
+   "start": "2026-11-02 10:01",
+   "title": "【 #にじイカ祭り2026 】いろんなブキを触ってみるよ【にじさんじ/える】【 スプラトゥーン3 】",
+   "kind": "配信",
+   "chatters": 290,
+   "member_chatters": 66,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -470,6 +470,74 @@
    },
    "avg_member_chatters": 76.0,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-02"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 290,
+   "members_confirmed": 66,
+   "member_classes": {
+    "unknown": 54,
+    "known": 12
+   },
+   "long_term_members": 58,
+   "badges": [
+    {
+     "months": 0,
+     "members": 3
+    },
+    {
+     "months": 1,
+     "members": 2
+    },
+    {
+     "months": 6,
+     "members": 3
+    },
+    {
+     "months": 12,
+     "members": 11
+    },
+    {
+     "months": 24,
+     "members": 8
+    },
+    {
+     "months": 36,
+     "members": 12
+    },
+    {
+     "months": 48,
+     "members": 27
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 0,
+    "milestones": 3,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "エルフの森",
+     "price": 490,
+     "confirmed_members": 12,
+     "estimated_members": 66.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 20580,
+    "monthly_est": 20580,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 66,
+   "partial": true,
    "finalized": false
   }
  ],

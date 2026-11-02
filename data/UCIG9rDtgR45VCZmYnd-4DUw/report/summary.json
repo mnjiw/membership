@@ -3,20 +3,20 @@
  "channel_id": "UCIG9rDtgR45VCZmYnd-4DUw",
  "handle": "@RatnaPetit",
  "subscribers": 628000,
- "fetched_at": "2026-11-02 10:31",
- "generated_at": "2026-11-02 10:31",
+ "fetched_at": "2026-11-02 17:56",
+ "generated_at": "2026-11-02 17:56",
  "period": {
-  "from": "2026-10-03 10:31",
-  "to": "2026-11-02 10:31",
+  "from": "2026-10-03 17:56",
+  "to": "2026-11-02 17:56",
   "days": 30
  },
- "streams_analyzed": 16,
+ "streams_analyzed": 17,
  "streams_missed": 0,
- "unique_chatters": 3234,
- "members_confirmed": 332,
+ "unique_chatters": 3549,
+ "members_confirmed": 361,
  "member_classes": {
-  "unknown": 284,
-  "known": 43,
+  "unknown": 310,
+  "known": 46,
   "gift": 5
  },
  "badges": [
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 13
+   "members": 14
   },
   {
    "months": 6,
@@ -43,38 +43,38 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 29
+   "members": 31
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 49
+   "members": 54
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 41
+   "members": 44
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 68
+   "members": 73
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 55
+   "members": 63
   },
   {
    "months": 72,
    "label": "6年",
-   "members": 56
+   "members": 61
   }
  ],
  "events": {
   "new_members": 5,
   "rejoins": 6,
-  "milestones": 29,
+  "milestones": 31,
   "gift_purchases": 2,
   "gifted_total": 6,
   "gift_redemptions": 5
@@ -85,32 +85,32 @@
    "tier": "ぷてぃしっぷ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 38,
-   "share_of_confirmed_pct": 88.4,
-   "allocated_unknown": 251.0,
-   "estimated_members": 289.0,
-   "monthly_net_confirmed": 11849,
-   "monthly_net_estimated": 90108
+   "confirmed_members": 41,
+   "share_of_confirmed_pct": 89.1,
+   "allocated_unknown": 276.3,
+   "estimated_members": 317.3,
+   "monthly_net_confirmed": 12785,
+   "monthly_net_estimated": 98941
   },
   {
    "tier": "G級ぷてちぷれみあむ",
    "price": 4690,
    "net_per_member": 2984.5,
    "confirmed_members": 5,
-   "share_of_confirmed_pct": 11.6,
-   "allocated_unknown": 33.0,
-   "estimated_members": 38.0,
+   "share_of_confirmed_pct": 10.9,
+   "allocated_unknown": 33.7,
+   "estimated_members": 38.7,
    "monthly_net_confirmed": 14923,
-   "monthly_net_estimated": 113482
+   "monthly_net_estimated": 115489
   }
  ],
  "revenue": {
-  "monthly_low": 115328,
-  "monthly_est": 203590,
+  "monthly_low": 124371,
+  "monthly_est": 214430,
   "gift_once": 1871,
-  "total_low": 117199,
-  "total_est": 205461,
-  "paying_members": 327,
+  "total_low": 126242,
+  "total_est": 216301,
+  "paying_members": 356,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -276,6 +276,16 @@
    "kind": "配信",
    "chatters": 140,
    "member_chatters": 60,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "ul8IcIniSf4",
+   "start": "2026-11-02 12:05",
+   "title": "ツイートする前に配信ではなそっっっ【ラトナ・プティ/にじさんじ】",
+   "kind": "配信",
+   "chatters": 606,
+   "member_chatters": 137,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -455,6 +465,88 @@
    },
    "avg_member_chatters": 83.9,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-02"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 606,
+   "members_confirmed": 137,
+   "member_classes": {
+    "unknown": 123,
+    "known": 14
+   },
+   "long_term_members": 133,
+   "badges": [
+    {
+     "months": 0,
+     "members": 1
+    },
+    {
+     "months": 1,
+     "members": 1
+    },
+    {
+     "months": 2,
+     "members": 2
+    },
+    {
+     "months": 12,
+     "members": 14
+    },
+    {
+     "months": 24,
+     "members": 17
+    },
+    {
+     "months": 36,
+     "members": 19
+    },
+    {
+     "months": 48,
+     "members": 28
+    },
+    {
+     "months": 60,
+     "members": 26
+    },
+    {
+     "months": 72,
+     "members": 29
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 0,
+    "milestones": 2,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "ぷてぃしっぷ",
+     "price": 490,
+     "confirmed_members": 12,
+     "estimated_members": 117.4
+    },
+    {
+     "tier": "G級ぷてちぷれみあむ",
+     "price": 4690,
+     "confirmed_members": 2,
+     "estimated_members": 19.6
+    }
+   ],
+   "revenue": {
+    "monthly_low": 48065,
+    "monthly_est": 95028,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 137,
+   "partial": true,
    "finalized": false
   }
  ],
