@@ -8,7 +8,13 @@
 //   WORKFLOW_FILE  … "daily.yml" (wrangler.jsonc の vars)
 //   GITHUB_TOKEN   … GitHub のトークン (シークレット。リポジトリには書かない)
 
-async function dispatch(env) {
+// cron の時刻ごとの、処理するグループ (時刻は wrangler.jsonc の crons と合わせる)
+const GROUPS = {
+  "17 20 * * *": "にじさんじ",    // 日本時間 5:17
+  "17 21 * * *": "!にじさんじ",   // 日本時間 6:17 (それ以外)
+};
+
+async function dispatch(env, groups) {
   const url = `https://api.github.com/repos/${env.GITHUB_REPO}/actions/workflows/${env.WORKFLOW_FILE}/dispatches`;
   const res = await fetch(url, {
     method: "POST",
@@ -19,17 +25,17 @@ async function dispatch(env) {
       "User-Agent": "membership-cron",
       "Content-Type": "application/json",
     },
-    body: JSON.stringify({ ref: "main", inputs: { limit: "0" } }),   // limit 0 = 全チャンネル
+    body: JSON.stringify({ ref: "main", inputs: { limit: "0", groups } }),   // limit 0 = 範囲内の全チャンネル
   });
   if (res.status !== 204) {
     // 失敗は Cloudflare のログ (Workers → membership-cron → ログ) に残る
     throw new Error(`GitHub への実行依頼に失敗しました: HTTP ${res.status} ${await res.text()}`);
   }
-  console.log("GitHub Actions (daily-update) の実行を依頼しました");
+  console.log(`GitHub Actions (daily-update) の実行を依頼しました: ${groups}`);
 }
 
 export default {
   async scheduled(event, env, ctx) {
-    ctx.waitUntil(dispatch(env));
+    ctx.waitUntil(dispatch(env, GROUPS[event.cron] ?? ""));
   },
 };

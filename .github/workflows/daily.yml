@@ -1,4 +1,5 @@
-# 毎日 5:17 (Cloudflare の cron から起動。予備として 7:17 にも) チャンネルの配信を確認し、集計とサイトを更新して commit する。
+# 毎日 5:17 (にじさんじ) と 6:17 (それ以外) に Cloudflare の cron から起動 (予備として 7:17 に全チャンネルも)。
+# チャンネルの配信を確認し、集計とサイトを更新して commit する。
 # Cloudflare Workers (wrangler.jsonc) はこのリポジトリと連携していて、push されると site/ を自動で公開する。
 #
 # エラーがあったとき:
@@ -15,7 +16,7 @@ name: daily-update
 
 on:
   schedule:
-    # 毎朝 5:17 の実行は、Cloudflare の Cron Trigger (cron/ の Worker) から workflow_dispatch で起動する。
+    # 毎朝 5:17 と 6:17 の実行は、Cloudflare の Cron Trigger (cron/ の Worker) から workflow_dispatch で起動する。
     # GitHub 自身の定期実行は遅れたり実行されなかったりすることがあるので、予備として 7:17 にだけ置く
     # (5:17 に動いていれば、新しい配信がないことを確かめるだけですぐ終わる)
     - cron: "17 22 * * *"   # UTC 22:17 = 日本時間 7:17 (予備)
@@ -25,6 +26,10 @@ on:
         description: "先頭から何チャンネルだけ処理するか (0 = 全部)"
         required: false
         default: "0"
+      groups:
+        description: "処理するグループ (「にじさんじ」で始まるもの、「!にじさんじ」でそれ以外。空 = 全部)"
+        required: false
+        default: ""
       test_alert:
         description: "点検の異常を1件わざと出して、失敗のメールが届くか確かめる"
         type: boolean
@@ -62,7 +67,7 @@ jobs:
         continue-on-error: true   # 失敗しても、下の artifact 保存と commit は行う
         env:
           TZ: Asia/Tokyo
-        run: python run_daily.py --workers 4 --limit "${{ github.event.inputs.limit || '0' }}" ${{ github.event.inputs.test_alert == 'true' && '--test-alert' || '' }}
+        run: python run_daily.py --workers 4 --limit "${{ github.event.inputs.limit || '0' }}" --groups "${{ github.event.inputs.groups || '' }}" ${{ github.event.inputs.test_alert == 'true' && '--test-alert' || '' }}
 
       # 元のチャットデータは GitHub に入れず、圧縮して artifact として24時間だけ残す
       # (集計プログラムの不具合や取得の失敗に気づいたとき、その日のうちなら作り直せるように)

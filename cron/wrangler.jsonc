@@ -8,8 +8,9 @@
   // 公開URLは不要 (時刻になったら動くだけ)
   "workers_dev": false,
   "triggers": {
-    // Cloudflare の cron は UTC。20:17 UTC = 日本時間 5:17
-    "crons": ["17 20 * * *"]
+    // Cloudflare の cron は UTC。20:17 UTC = 日本時間 5:17、21:17 UTC = 日本時間 6:17
+    // 時刻を変えるときは src/index.js の GROUPS も合わせる
+    "crons": ["17 20 * * *", "17 21 * * *"]
   },
   "vars": {
     "GITHUB_REPO": "mnjiw/membership",

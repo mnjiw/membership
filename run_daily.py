@@ -7,6 +7,8 @@ GitHub Actions からも、手元のPCからも同じように動く。
     python run_daily.py                          # 全チャンネル (初回取得がまだのチャンネルは飛ばす)
     python run_daily.py --only UCxxxx UCyyyy     # 指定したチャンネルだけ (テスト用)
     python run_daily.py --limit 3                # 先頭から3チャンネルだけ (テスト用)
+    python run_daily.py --groups にじさんじ       # グループ名がこれで始まるチャンネルだけ (毎朝の分割実行)
+    python run_daily.py --groups '!にじさんじ'    # それ以外のチャンネルだけ
     python run_daily.py --workers 4              # 同時に処理するチャンネル数 (既定: 3)
     python run_daily.py --new-only               # 初回取得がまだのチャンネルだけ、過去30日分を取得する (手元で使う)
                                                  #   途中で止めても、もう一度同じコマンドで続きから再開する
@@ -26,7 +28,7 @@ GitHub Actions からも、手元のPCからも同じように動く。
     取りこぼし   … チャンネルの一覧 (直近30日) に出ているのに、記録されていない枠がある
     記録の矛盾   … 「保存」なのにチャットの記録がない、開始時刻がない・日付だけ、記録があるのに「保存」以外
     再確認待ち   … 取得エラー・配信中・アーカイブ処理中のまま7日を超えた枠 (直近30日の分)
-    取得数       … その日最初の全チャンネルの実行で、新しく取得した配信が10本未満
+    取得数       … その日最初の実行 (--groups の範囲ごと) で、新しく取得した配信が10本未満
     手動で動かすとき、--test-alert をつけると点検の異常を1件わざと出す (メールが届くかの確認用)
 """
 
@@ -53,8 +55,9 @@ BLOCK_HINTS = ("Sign in to confirm", "not a bot", "HTTP Error 429", "Too Many Re
 NOT_FOUND_HINTS = ("does not exist", "HTTP Error 404", "This channel is not available", "has been terminated")
 RETRY_STATUSES = {"error", "chat_failed"}
 PENDING_ALERT_DAYS = 7    # 再確認待ちがこの日数を超えたら異常とする
-MIN_NEW_FIRST_RUN = 10    # その日最初の全チャンネルの実行で、新しく取得した配信がこれ未満なら異常とする
+MIN_NEW_FIRST_RUN = 10    # その日最初の実行 (--groups の範囲ごと) で、新しく取得した配信がこれ未満なら異常とする
 PARTIAL_MARK = "- 対象: 一部のチャンネル"   # 一部のチャンネルだけの実行 (テスト・手動) のレポートにつける
+GROUPS_MARK = "- 対象グループ: "   # --groups で範囲を決めた実行 (毎朝の分割実行) のレポートにつける
 
 
 def run(cmd, timeout):
@@ -191,10 +194,22 @@ def check_channel(r: dict) -> list:
     return out
 
 
-def earlier_full_run_today(logs: Path, started: datetime) -> bool:
-    """今日 (日本時間) すでに全チャンネルの実行をしたか (logs/ のレポートで判断する)"""
+def pick_groups(channels: list, groups: str) -> list:
+    """--groups の指定で絞る。「にじさんじ」ならグループ名がそれで始まるもの、「!にじさんじ」ならそれ以外"""
+    exclude = groups.startswith("!")
+    prefix = groups.removeprefix("!")
+    return [c for c in channels if c["group"].startswith(prefix) != exclude]
+
+
+def earlier_run_today(logs: Path, started: datetime, groups: str) -> bool:
+    """今日 (日本時間) すでに同じ範囲の実行をしたか (logs/ のレポートで判断する)
+    全チャンネルの実行 (予備の実行) は、グループごとの実行も実行済みに数える"""
     for lp in logs.glob(f"run_{started:%Y%m%d}_*.md"):
-        if PARTIAL_MARK not in lp.read_text(encoding="utf-8"):
+        text = lp.read_text(encoding="utf-8")
+        if PARTIAL_MARK in text:
+            continue
+        earlier = next((ln[len(GROUPS_MARK):].strip() for ln in text.splitlines() if ln.startswith(GROUPS_MARK)), "")
+        if not groups or not earlier or earlier == groups:
             return True
     return False
 
@@ -203,7 +218,7 @@ STATUS_LABEL = {"ok": "成功", "no_streams": "配信なし", "fetch_error": "�
                 "crashed": "異常終了", "skipped": "未取得"}
 
 
-def write_report(results, started, finished, build_msg, alerts, partial) -> str:
+def write_report(results, started, finished, build_msg, alerts, partial, groups="") -> str:
     counts = {k: sum(1 for r in results if r["status"] == k) for k in STATUS_LABEL}
     L = [f"# 毎日の更新 {started:%Y-%m-%d %H:%M} (JST)", ""]
     L.append(f"- 所要時間: {round((finished - started).total_seconds() / 60)} 分")
@@ -220,6 +235,8 @@ def write_report(results, started, finished, build_msg, alerts, partial) -> str:
     L.append(f"- 点検: " + (f"異常 {len(alerts)} 件 (下の「点検で見つかった異常」を確認してください)" if alerts else "異常なし"))
     if partial:
         L.append(PARTIAL_MARK + " (テスト・手動の実行。取得数の点検はしていません)")
+    if groups:
+        L.append(GROUPS_MARK + groups)
     L.append("")
     if alerts:
         L.append("## 点検で見つかった異常")
@@ -255,6 +272,7 @@ def main():
     p.add_argument("--workers", type=int, default=3, help="同時に処理するチャンネル数 (既定: 3)")
     p.add_argument("--only", nargs="*", help="このチャンネルIDだけ処理する (テスト用)")
     p.add_argument("--limit", type=int, default=0, help="先頭から N チャンネルだけ処理する (テスト用)")
+    p.add_argument("--groups", default="", help="グループ名がこれで始まるチャンネルだけ処理する (! を付けるとそれ以外)")
     p.add_argument("--initial", action="store_true", help="初回取得がまだのチャンネルも取得する (手元で使う)")
     p.add_argument("--new-only", action="store_true",
                    help="初回取得がまだのチャンネルだけを処理する (--initial を含む。手元で使う)")
@@ -272,6 +290,8 @@ def main():
         missing = set(args.only) - {c["channel_id"] for c in channels}
         if missing:
             sys.exit(f"{args.channels} にないチャンネルIDです: {', '.join(sorted(missing))}")
+    if args.groups:
+        channels = pick_groups(channels, args.groups)
     if args.new_only:
         args.initial = True
         done = [c for c in channels if initial_done(c["channel_id"])]
@@ -317,14 +337,14 @@ def main():
         if r["id"] != "-":
             alerts += check_channel(r)
     total_new = sum(r["new"] for r in results)
-    if not partial and not earlier_full_run_today(logs, started) and total_new < MIN_NEW_FIRST_RUN:
+    if not partial and not earlier_run_today(logs, started, args.groups) and total_new < MIN_NEW_FIRST_RUN:
         alerts.append(f"今日最初の実行なのに、新しく取得した配信が {total_new} 本しかありません "
                       f"({MIN_NEW_FIRST_RUN} 本未満)。YouTube に取得を止められていないか確認してください")
     if args.test_alert:
         alerts.append("テスト用の異常です (--test-alert)。メール通知の確認のために、わざと出しています")
 
     finished = datetime.now(JST)
-    report = write_report(results, started, finished, build_msg, alerts, partial)
+    report = write_report(results, started, finished, build_msg, alerts, partial, args.groups)
     (logs / f"run_{started:%Y%m%d_%H%M}.md").write_text(report, encoding="utf-8")
     print("\n" + report)
 
