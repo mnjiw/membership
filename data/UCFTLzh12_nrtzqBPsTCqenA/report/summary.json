@@ -1,0 +1,738 @@
+{
+ "channel": "AkiRosenthal Ch. hololive-JP",
+ "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
+ "handle": "@AkiRosenthal",
+ "subscribers": 1040000,
+ "fetched_at": "2026-11-02 15:36",
+ "generated_at": "2026-11-02 15:37",
+ "period": {
+  "from": "2026-10-03 15:36",
+  "to": "2026-11-02 15:36",
+  "days": 30
+ },
+ "streams_analyzed": 37,
+ "streams_missed": 5,
+ "unique_chatters": 7639,
+ "members_confirmed": 1797,
+ "member_classes": {
+  "known": 84,
+  "unknown": 1137,
+  "gift": 576
+ },
+ "badges": [
+  {
+   "months": 0,
+   "label": "新規(1ヶ月未満)",
+   "members": 602
+  },
+  {
+   "months": 1,
+   "label": "1ヶ月",
+   "members": 38
+  },
+  {
+   "months": 2,
+   "label": "2ヶ月",
+   "members": 44
+  },
+  {
+   "months": 6,
+   "label": "6ヶ月",
+   "members": 104
+  },
+  {
+   "months": 12,
+   "label": "1年",
+   "members": 240
+  },
+  {
+   "months": 24,
+   "label": "2年",
+   "members": 319
+  },
+  {
+   "months": 36,
+   "label": "3年",
+   "members": 450
+  }
+ ],
+ "events": {
+  "new_members": 12,
+  "rejoins": 10,
+  "milestones": 39,
+  "gift_purchases": 146,
+  "gifted_total": 657,
+  "gift_redemptions": 576
+ },
+ "tiers_configured": true,
+ "tiers": [
+  {
+   "tier": "ロゼ隊の宿付き酒場",
+   "price": 490,
+   "net_per_member": 311.8,
+   "confirmed_members": 84,
+   "share_of_confirmed_pct": 100.0,
+   "allocated_unknown": 1137.0,
+   "estimated_members": 1221.0,
+   "monthly_net_confirmed": 26193,
+   "monthly_net_estimated": 380730
+  }
+ ],
+ "revenue": {
+  "monthly_low": 380730,
+  "monthly_est": 380730,
+  "gift_once": 204865,
+  "total_low": 585595,
+  "total_est": 585595,
+  "paying_members": 1221,
+  "single_tier": true,
+  "tax_rate": 0.1,
+  "creator_share": 0.7,
+  "overseas": false,
+  "currency": "JPY",
+  "price_source": "メンバー登録画面で確認（2026-11-01）"
+ },
+ "streams": [
+  {
+   "video_id": "lJ0ZhMWVHSg",
+   "start": "2026-10-03 18:01",
+   "title": "【ホロライブドリームス】参加型！すぷらっしゅボールやろうぜ！ #ホロドリ【ホロライブ/アキロゼ】",
+   "kind": "配信",
+   "chatters": 490,
+   "member_chatters": 260,
+   "new_members": 0,
+   "gifted_total": 40
+  },
+  {
+   "video_id": "f_fWXN7XCbk",
+   "start": "2026-10-04 18:01",
+   "title": "【ホロライブドリームス】麦まんじゅうと言われようとも。ポロリ事件簿そして釣り図鑑あつめ#ホロドリ【ホロライブ/アキロゼ】",
+   "kind": "配信",
+   "chatters": 875,
+   "member_chatters": 337,
+   "new_members": 0,
+   "gifted_total": 21
+  },
+  {
+   "video_id": "ADZ2suzMSss",
+   "start": "2026-10-05 19:32",
+   "title": "【ホロライブドリームス】釣りざつ～～！からの参加型ミニゲーム！ #ホロドリ【ホロライブ/アキロゼ】",
+   "kind": "配信",
+   "chatters": 530,
+   "member_chatters": 298,
+   "new_members": 1,
+   "gifted_total": 22
+  },
+  {
+   "video_id": "WjNxzPtIHhI",
+   "start": "2026-10-05 23:45",
+   "title": "【#アキちょこナイパレ｜第54回】サプライズ好き🆚事前に教えてほしい あなたはどっち？｜シスターローズの懺悔室～深夜のひとくちラジオ～",
+   "kind": "配信",
+   "chatters": 390,
+   "member_chatters": 187,
+   "new_members": 0,
+   "gifted_total": 10
+  },
+  {
+   "video_id": "o3Rp1OxpSgQ",
+   "start": "2026-10-06 20:00",
+   "title": "【#ホロドリ 】#RosaMiA チーム対抗すぷらっしゅボール視聴者参加バトル💥🥊 【ホロライブ/アキロゼ】",
+   "kind": "配信",
+   "chatters": 549,
+   "member_chatters": 309,
+   "new_members": 0,
+   "gifted_total": 22
+  },
+  {
+   "video_id": "YRHmE_jm-c4",
+   "start": "2026-10-07 22:30",
+   "title": "【ホロライブドリームス】新エリアそして釣り雑談～ #ホロドリ【ホロライブ/アキロゼ】",
+   "kind": "配信",
+   "chatters": 477,
+   "member_chatters": 295,
+   "new_members": 1,
+   "gifted_total": 32
+  },
+  {
+   "video_id": "p9XKA6AcXio",
+   "start": "2026-10-08 22:30",
+   "title": "[Hololive Dreams] What kind of outfit will she be wearing for her stream?! Fishing chat → Oops! #...",
+   "kind": "配信",
+   "chatters": 535,
+   "member_chatters": 315,
+   "new_members": 1,
+   "gifted_total": 36
+  },
+  {
+   "video_id": "aXlNdRbV3U8",
+   "start": "2026-10-09 18:49",
+   "title": "【ホロライブドリームス】釣り埋め図鑑！ポカじゃん参加型も少々 #ホロドリ【ホロライブ/アキロゼ】",
+   "kind": "配信",
+   "chatters": 625,
+   "member_chatters": 269,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "k9SsOQrUGCc",
+   "start": "2026-10-09 20:07",
+   "title": "【 #ホロARK 】DAY1│MAPはラグナロク！1か月間まったり生活！？【ホロライブ/アキロゼ】",
+   "kind": "配信",
+   "chatters": 2141,
+   "member_chatters": 710,
+   "new_members": 1,
+   "gifted_total": 140
+  },
+  {
+   "video_id": "kch-3FbzjEI",
+   "start": "2026-10-10 19:14",
+   "title": "【 #ホロARK 】DAY2│ドレイクリングとパイロとブローバックと【ホロライブ/アキロゼ】",
+   "kind": "配信",
+   "chatters": 1250,
+   "member_chatters": 425,
+   "new_members": 0,
+   "gifted_total": 17
+  },
+  {
+   "video_id": "c9XZhiqOPk4",
+   "start": "2026-10-10 23:11",
+   "title": "【ホロライブドリームス】ARK奴隷をかけたアキちょこミニゲーム対決（笑） #ホロドリ【ホロライブ/アキロゼ】",
+   "kind": "配信",
+   "chatters": 600,
+   "member_chatters": 287,
+   "new_members": 0,
+   "gifted_total": 11
+  },
+  {
+   "video_id": "PPOAqpd6Pz4",
+   "start": "2026-10-11 17:02",
+   "title": "【ホロライブドリームス】釣り雑談～図鑑コンプへの道！ #ホロドリ【ホロライブ/アキロゼ】",
+   "kind": "配信",
+   "chatters": 366,
+   "member_chatters": 221,
+   "new_members": 1,
+   "gifted_total": 21
+  },
+  {
+   "video_id": "me_Pq47Plxg",
+   "start": "2026-10-11 20:01",
+   "title": "【 Big Walk 】4人で協力謎解きできる！？#ちくまろ /ひまちゃん、べにちゃん、ちょこせん【アキロゼ/ホロライブ】",
+   "kind": "配信",
+   "chatters": 498,
+   "member_chatters": 287,
+   "new_members": 0,
+   "gifted_total": 6
+  },
+  {
+   "video_id": "dbMiQqtqP_Y",
+   "start": "2026-10-11 22:37",
+   "title": "【 #ホロ鯖ARK 】DAY3│原始生活セット🦖テイム！ドレイクリング冬ちゃんも！【ホロライブ/アキロゼ】",
+   "kind": "配信",
+   "chatters": 1566,
+   "member_chatters": 487,
+   "new_members": 0,
+   "gifted_total": 17
+  },
+  {
+   "video_id": "fID7HLF0LJY",
+   "start": "2026-10-12 17:03",
+   "title": "【ホロライブドリームス】ロボタールで釣るぞ～！ #ホロドリ【ホロライブ/アキロゼ】",
+   "kind": "配信",
+   "chatters": 337,
+   "member_chatters": 203,
+   "new_members": 0,
+   "gifted_total": 10
+  },
+  {
+   "video_id": "Pz_nIQjzIyA",
+   "start": "2026-10-12 20:03",
+   "title": "【 #ホロ鯖ARK 】DAY4│パイロメイン＆ドレイクリング冬🦖テイムする！【ホロライブ/アキロゼ】",
+   "kind": "配信",
+   "chatters": 1052,
+   "member_chatters": 413,
+   "new_members": 0,
+   "gifted_total": 7
+  },
+  {
+   "video_id": "MxpAOjgZX3Y",
+   "start": "2026-10-12 23:40",
+   "title": "【#アキちょこナイパレ｜第55回】連絡は 電話派📞🆚メッセージ派💬 あなたはどっち？｜ちょこのお悩み相談室～深夜のひとくちラジオ～",
+   "kind": "配信",
+   "chatters": 362,
+   "member_chatters": 193,
+   "new_members": 0,
+   "gifted_total": 5
+  },
+  {
+   "video_id": "JzHvkdqVgkI",
+   "start": "2026-10-13 01:51",
+   "title": "【 #ホロ鯖ARK 】DAY4.5│ドレイクリング冬テイムしたい＆文明開化【ホロライブ/アキロゼ】",
+   "kind": "配信",
+   "chatters": 1124,
+   "member_chatters": 329,
+   "new_members": 0,
+   "gifted_total": 10
+  },
+  {
+   "video_id": "ku7_BDnFNQY",
+   "start": "2026-10-13 23:00",
+   "title": "【#ホロドリ 】100連ガチャ対決！運のいい姉妹はだれ！？#RosaMiA  【ホロライブ/アキロゼ】",
+   "kind": "配信",
+   "chatters": 646,
+   "member_chatters": 296,
+   "new_members": 0,
+   "gifted_total": 1
+  },
+  {
+   "video_id": "-WLZDL1yJFw",
+   "start": "2026-10-14 00:32",
+   "title": "【 #ホロ鯖ARK 】DAY5│続！ドレイクリング冬テイムしたい＆拠点拡張！【ホロライブ/アキロゼ】",
+   "kind": "配信",
+   "chatters": 943,
+   "member_chatters": 327,
+   "new_members": 0,
+   "gifted_total": 16
+  },
+  {
+   "video_id": "64GEC-f70zE",
+   "start": "2026-10-14 18:31",
+   "title": "【ホロライブドリームス】釣り雑談～お魚🐟図鑑コンプへの道！ミニゲーム参加型も少々 #ホロドリ【ホロライブ/アキロゼ】",
+   "kind": "配信",
+   "chatters": 391,
+   "member_chatters": 227,
+   "new_members": 0,
+   "gifted_total": 17
+  },
+  {
+   "video_id": "FTmZQg1h1Qg",
+   "start": "2026-10-14 19:49",
+   "title": "【 #ホロ鯖ARK 】DAY6│拠点拡張！ルミナとギガラプも欲しい！【ホロライブ/アキロゼ】",
+   "kind": "配信",
+   "chatters": 1609,
+   "member_chatters": 506,
+   "new_members": 0,
+   "gifted_total": 22
+  },
+  {
+   "video_id": "O5pc96YtYNg",
+   "start": "2026-10-15 18:30",
+   "title": "【ホロライブドリームス】雑談しながら釣り餌回収エリアクエ！ミニゲーム参加型も少々 #ホロドリ【ホロライブ/アキロゼ】",
+   "kind": "配信",
+   "chatters": 383,
+   "member_chatters": 211,
+   "new_members": 0,
+   "gifted_total": 5
+  },
+  {
+   "video_id": "yUkjRk16T_I",
+   "start": "2026-10-15 20:10",
+   "title": "【 #ホロ鯖ARK 】DAY7│みんなが使いやすそうなお家＆拠点作りたい！【ホロライブ/アキロゼ】",
+   "kind": "配信",
+   "chatters": 1391,
+   "member_chatters": 502,
+   "new_members": 1,
+   "gifted_total": 27
+  },
+  {
+   "video_id": "K9iqnQtgoxc",
+   "start": "2026-10-16 20:00",
+   "title": "【 #ホロドリ釣り名人】豪運でレア魚🐟を釣りまくれ！【ホロライブ/アキロゼ】",
+   "kind": "配信",
+   "chatters": 457,
+   "member_chatters": 269,
+   "new_members": 0,
+   "gifted_total": 1
+  },
+  {
+   "video_id": "1rmBUIj_-ss",
+   "start": "2026-10-16 23:00",
+   "title": "【 #ホロ鯖ARK 】DAY7│めちゃでか拠点作り！テイムも行きたい【ホロライブ/アキロゼ】",
+   "kind": "配信",
+   "chatters": 1143,
+   "member_chatters": 364,
+   "new_members": 1,
+   "gifted_total": 12
+  },
+  {
+   "video_id": "1eGF8OUnCtM",
+   "start": "2026-10-17 23:32",
+   "title": "【ホロライブドリームス】 実質雑談！エリアクエこなす！#ホロドリ【ホロライブ/アキロゼ】",
+   "kind": "配信",
+   "chatters": 425,
+   "member_chatters": 257,
+   "new_members": 0,
+   "gifted_total": 26
+  },
+  {
+   "video_id": "lUjjBU4jmVw",
+   "start": "2026-10-18 01:01",
+   "title": "【 #ホロ鯖ARK 】DAY9│ド深夜ARKでめちゃでか拠点作り！【ホロライブ/アキロゼ】",
+   "kind": "配信",
+   "chatters": 1483,
+   "member_chatters": 423,
+   "new_members": 0,
+   "gifted_total": 15
+  },
+  {
+   "video_id": "4615fZj_dwY",
+   "start": "2026-10-18 22:03",
+   "title": "【ホロライブドリームス】 実質雑談！図鑑コンプまで残り9匹！#ホロドリ【ホロライブ/アキロゼ】",
+   "kind": "配信",
+   "chatters": 356,
+   "member_chatters": 232,
+   "new_members": 0,
+   "gifted_total": 12
+  },
+  {
+   "video_id": "eXp9OF4YbRw",
+   "start": "2026-10-18 23:19",
+   "title": "【 #ホロ鯖ARK 】DAY10│ついにめちゃデカ拠点完成！凍土の洞窟へ！【ホロライブ/アキロゼ】",
+   "kind": "配信",
+   "chatters": 1142,
+   "member_chatters": 354,
+   "new_members": 1,
+   "gifted_total": 26
+  },
+  {
+   "video_id": "SLpQS06YZ-M",
+   "start": "2026-10-19 22:06",
+   "title": "【ホロライブドリームス】 今日も実質雑談！図鑑コンプまで残り9匹！#ホロドリ【ホロライブ/アキロゼ】",
+   "kind": "配信",
+   "chatters": 345,
+   "member_chatters": 222,
+   "new_members": 0,
+   "gifted_total": 16
+  },
+  {
+   "video_id": "C8W03Z6zWFk",
+   "start": "2026-10-19 23:43",
+   "title": "【#アキちょこナイパレ｜第56回】タイムマシンで行くなら過去🆚未来 あなたはどっち？｜シスターローズの懺悔室 🌹～深夜のひとくちラジオ～",
+   "kind": "配信",
+   "chatters": 337,
+   "member_chatters": 171,
+   "new_members": 0,
+   "gifted_total": 5
+  },
+  {
+   "video_id": "NTAafRzR9SE",
+   "start": "2026-10-20 01:10",
+   "title": "【 #ホロ鯖ARK 】DAY11│設備のお引越し！なんかテイム【ホロライブ/アキロゼ】",
+   "kind": "配信",
+   "chatters": 1192,
+   "member_chatters": 329,
+   "new_members": 0,
+   "gifted_total": 1
+  },
+  {
+   "video_id": "mqbSYtp8auE",
+   "start": "2026-10-20 23:06",
+   "title": "【ホロライブドリームス】 釣り対決！w/アーニャ、ちょこ先 #ホロドリ【ホロライブ/アキロゼ】",
+   "kind": "配信",
+   "chatters": 363,
+   "member_chatters": 221,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "nNAjbIxlmDA",
+   "start": "2026-10-21 01:01",
+   "title": "【 #ホロ鯖ARK 】DAY12│拠点大整理とダエオドン！からの洞窟！【ホロライブ/アキロゼ】",
+   "kind": "配信",
+   "chatters": 952,
+   "member_chatters": 344,
+   "new_members": 2,
+   "gifted_total": 17
+  },
+  {
+   "video_id": "-0sau-6cD0s",
+   "start": "2026-10-21 21:32",
+   "title": "【ホロライブドリームス】 今日も実質雑談！図鑑コンプまで残り5匹！#ホロドリ【ホロライブ/アキロゼ】",
+   "kind": "配信",
+   "chatters": 358,
+   "member_chatters": 231,
+   "new_members": 2,
+   "gifted_total": 6
+  },
+  {
+   "video_id": "dTbDAIbG84I",
+   "start": "2026-10-26 23:40",
+   "title": "【#アキちょこナイパレ｜第57回】📞恋人と毎日連絡したい派🆚💬会う時に濃く話したい派  あなたはどっち？｜ちょこの相談室💋～深夜のひとくちラジオ～",
+   "kind": "配信",
+   "chatters": 434,
+   "member_chatters": 221,
+   "new_members": 0,
+   "gifted_total": 5
+  }
+ ],
+ "missed_streams": [
+  {
+   "video_id": "4ALr81I8wfk",
+   "start": "2026-10-03 19:20",
+   "title": "【ホロライブドリームス】参加型！すぷらっしゅボールやろうぜ！ #ホロドリ【ホロライブ/アキロゼ】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 460,
+   "view_count": null
+  },
+  {
+   "video_id": "oK1JiyYDFRk",
+   "start": "2026-10-04 19:30",
+   "title": "【ホロライブドリームス】麦まんじゅうと言われようとも。ポロリ事件簿そして釣り図鑑あつめ#ホロドリ【ホロライブ/アキロゼ】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 487,
+   "view_count": null
+  },
+  {
+   "video_id": "mv7dQ5xjGJo",
+   "start": "2026-10-07 23:42",
+   "title": "【ホロライブドリームス】新エリアそして釣り雑談～ #ホロドリ【ホロライブ/アキロゼ】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 390,
+   "view_count": null
+  },
+  {
+   "video_id": "aYqjBkdUwEc",
+   "start": "2026-10-08 23:43",
+   "title": "【ホロライブドリームス】配信衣装がなんと！？釣り雑談→ポカじゃん！ #ホロドリ【ホロライブ/アキロゼ】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 399,
+   "view_count": null
+  },
+  {
+   "video_id": "tOIdBJ9Dm3E",
+   "start": "2026-10-11 18:10",
+   "title": "【ホロライブドリームス】釣り雑談～図鑑コンプへの道！ #ホロドリ【ホロライブ/アキロゼ】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 371,
+   "view_count": null
+  }
+ ],
+ "members_only_content": [
+  {
+   "video_id": "4ALr81I8wfk",
+   "start": "2026-10-03 19:20",
+   "title": "【ホロライブドリームス】参加型！すぷらっしゅボールやろうぜ！ #ホロドリ【ホロライブ/アキロゼ】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 460,
+   "view_count": null
+  },
+  {
+   "video_id": "oK1JiyYDFRk",
+   "start": "2026-10-04 19:30",
+   "title": "【ホロライブドリームス】麦まんじゅうと言われようとも。ポロリ事件簿そして釣り図鑑あつめ#ホロドリ【ホロライブ/アキロゼ】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 487,
+   "view_count": null
+  },
+  {
+   "video_id": "mv7dQ5xjGJo",
+   "start": "2026-10-07 23:42",
+   "title": "【ホロライブドリームス】新エリアそして釣り雑談～ #ホロドリ【ホロライブ/アキロゼ】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 390,
+   "view_count": null
+  },
+  {
+   "video_id": "aYqjBkdUwEc",
+   "start": "2026-10-08 23:43",
+   "title": "【ホロライブドリームス】配信衣装がなんと！？釣り雑談→ポカじゃん！ #ホロドリ【ホロライブ/アキロゼ】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 399,
+   "view_count": null
+  },
+  {
+   "video_id": "tOIdBJ9Dm3E",
+   "start": "2026-10-11 18:10",
+   "title": "【ホロライブドリームス】釣り雑談～図鑑コンプへの道！ #ホロドリ【ホロライブ/アキロゼ】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 371,
+   "view_count": null
+  }
+ ],
+ "history": [
+  {
+   "month": "2026-09",
+   "coverage": {
+    "from": "2026-09-08",
+    "to": "2026-09-30"
+   },
+   "streams_analyzed": 11,
+   "streams_missed": 3,
+   "unique_chatters": 5725,
+   "members_confirmed": 1232,
+   "member_classes": {
+    "unknown": 981,
+    "known": 36,
+    "gift": 215
+   },
+   "long_term_members": 816,
+   "badges": [
+    {
+     "months": 0,
+     "members": 257
+    },
+    {
+     "months": 1,
+     "members": 29
+    },
+    {
+     "months": 2,
+     "members": 44
+    },
+    {
+     "months": 6,
+     "members": 86
+    },
+    {
+     "months": 12,
+     "members": 195
+    },
+    {
+     "months": 24,
+     "members": 261
+    },
+    {
+     "months": 36,
+     "members": 360
+    }
+   ],
+   "events": {
+    "new_members": 9,
+    "rejoins": 5,
+    "milestones": 23,
+    "gifted_total": 297
+   },
+   "tiers": [
+    {
+     "tier": "ロゼ隊の宿付き酒場",
+     "price": 490,
+     "confirmed_members": 36,
+     "estimated_members": 1017.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 317119,
+    "monthly_est": 317119,
+    "gift_once": 92610
+   },
+   "avg_member_chatters": 341.1,
+   "partial": true,
+   "finalized": true,
+   "finalized_at": "2026-10-08 08:51"
+  },
+  {
+   "month": "2026-10",
+   "coverage": {
+    "from": "2026-10-01",
+    "to": "2026-10-31"
+   },
+   "streams_analyzed": 39,
+   "streams_missed": 7,
+   "unique_chatters": 7906,
+   "members_confirmed": 1871,
+   "member_classes": {
+    "unknown": 1154,
+    "known": 88,
+    "gift": 629
+   },
+   "long_term_members": 1020,
+   "badges": [
+    {
+     "months": 0,
+     "members": 656
+    },
+    {
+     "months": 1,
+     "members": 40
+    },
+    {
+     "months": 2,
+     "members": 48
+    },
+    {
+     "months": 6,
+     "members": 107
+    },
+    {
+     "months": 12,
+     "members": 242
+    },
+    {
+     "months": 24,
+     "members": 322
+    },
+    {
+     "months": 36,
+     "members": 456
+    }
+   ],
+   "events": {
+    "new_members": 15,
+    "rejoins": 12,
+    "milestones": 46,
+    "gifted_total": 711
+   },
+   "tiers": [
+    {
+     "tier": "ロゼ隊の宿付き酒場",
+     "price": 490,
+     "confirmed_members": 88,
+     "estimated_members": 1242.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 387278,
+    "monthly_est": 387278,
+    "gift_once": 221703
+   },
+   "avg_member_chatters": 312.2,
+   "partial": false,
+   "finalized": false
+  }
+ ],
+ "no_streams": false,
+ "membership": true,
+ "price_history": [
+  {
+   "date": "2026-10-08",
+   "tier": "ロゼ隊の宿付き酒場",
+   "price": 490,
+   "before": null
+  }
+ ],
+ "price_notes": [
+  {
+   "date": "2026-10-08",
+   "note": "ロゼ隊の宿付き酒場: （初回） → ¥490（メンバー登録画面で自動確認）"
+  }
+ ]
+}

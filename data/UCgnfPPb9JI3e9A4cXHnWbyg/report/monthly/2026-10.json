@@ -1,0 +1,77 @@
+{
+ "month": "2026-10",
+ "coverage": {
+  "from": "2026-10-01",
+  "to": "2026-10-31"
+ },
+ "streams_analyzed": 11,
+ "streams_missed": 2,
+ "unique_chatters": 6465,
+ "members_confirmed": 2029,
+ "member_classes": {
+  "unknown": 940,
+  "known": 547,
+  "gift": 542
+ },
+ "long_term_members": 1023,
+ "badges": [
+  {
+   "months": 0,
+   "members": 621
+  },
+  {
+   "months": 1,
+   "members": 57
+  },
+  {
+   "months": 2,
+   "members": 162
+  },
+  {
+   "months": 6,
+   "members": 166
+  },
+  {
+   "months": 12,
+   "members": 332
+  },
+  {
+   "months": 24,
+   "members": 691
+  }
+ ],
+ "events": {
+  "new_members": 30,
+  "rejoins": 21,
+  "milestones": 404,
+  "gifted_total": 950
+ },
+ "tiers": [
+  {
+   "tier": "Page",
+   "price": 390,
+   "confirmed_members": 56,
+   "estimated_members": 152.2
+  },
+  {
+   "tier": "Bookwyrm",
+   "price": 690,
+   "confirmed_members": 255,
+   "estimated_members": 693.2
+  },
+  {
+   "tier": "Novelknights",
+   "price": 1290,
+   "confirmed_members": 236,
+   "estimated_members": 641.6
+  }
+ ],
+ "revenue": {
+  "monthly_low": 552892,
+  "monthly_est": 868824,
+  "gift_once": 235773
+ },
+ "avg_member_chatters": 534.7,
+ "partial": false,
+ "finalized": false
+}

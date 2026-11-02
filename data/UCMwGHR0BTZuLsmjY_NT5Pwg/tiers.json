@@ -1,0 +1,56 @@
+{
+  "tiers": [
+    {
+      "name": "AO-chan's Food",
+      "prices": [
+        {
+          "from": "2026-10-08",
+          "price": 3490
+        }
+      ]
+    },
+    {
+      "name": "Otako",
+      "prices": [
+        {
+          "from": "2026-10-08",
+          "price": 690
+        }
+      ]
+    },
+    {
+      "name": "Takoling",
+      "prices": [
+        {
+          "from": "2026-10-08",
+          "price": 390
+        }
+      ]
+    },
+    {
+      "name": "Tentacultist",
+      "prices": [
+        {
+          "from": "2026-10-08",
+          "price": 1990
+        }
+      ]
+    }
+  ],
+  "gift_tier": null,
+  "currency": "JPY",
+  "tax_rate": 0.1,
+  "creator_share": 0.7,
+  "source": "メンバー登録画面で確認（2026-11-01）",
+  "changes": [
+    {
+      "date": "2026-10-08",
+      "note": "Takoling: （初回） → ¥390 / Otako: （初回） → ¥690 / Tentacultist: （初回） → ¥1,990 / AO-chan's Food: （初回） → ¥3,490（メンバー登録画面で自動確認）"
+    }
+  ],
+  "membership": true,
+  "checks": [
+    "2026-10-08",
+    "2026-11-01"
+  ]
+}

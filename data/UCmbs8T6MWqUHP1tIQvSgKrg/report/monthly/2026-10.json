@@ -1,0 +1,89 @@
+{
+ "month": "2026-10",
+ "coverage": {
+  "from": "2026-10-01",
+  "to": "2026-10-31"
+ },
+ "streams_analyzed": 14,
+ "streams_missed": 0,
+ "unique_chatters": 13344,
+ "members_confirmed": 2252,
+ "member_classes": {
+  "unknown": 1406,
+  "known": 598,
+  "gift": 248
+ },
+ "long_term_members": 1528,
+ "badges": [
+  {
+   "months": 0,
+   "members": 292
+  },
+  {
+   "months": 1,
+   "members": 42
+  },
+  {
+   "months": 2,
+   "members": 168
+  },
+  {
+   "months": 6,
+   "members": 222
+  },
+  {
+   "months": 12,
+   "members": 413
+  },
+  {
+   "months": 24,
+   "members": 249
+  },
+  {
+   "months": 36,
+   "members": 186
+  },
+  {
+   "months": 48,
+   "members": 279
+  },
+  {
+   "months": 60,
+   "members": 401
+  }
+ ],
+ "events": {
+  "new_members": 11,
+  "rejoins": 26,
+  "milestones": 507,
+  "gifted_total": 308
+ },
+ "tiers": [
+  {
+   "tier": "Second",
+   "price": 690,
+   "confirmed_members": 571,
+   "estimated_members": 1913.5
+  },
+  {
+   "tier": "Minute",
+   "price": 1290,
+   "confirmed_members": 14,
+   "estimated_members": 46.9
+  },
+  {
+   "tier": "Hour",
+   "price": 3490,
+   "confirmed_members": 13,
+   "estimated_members": 43.6
+  }
+ ],
+ "revenue": {
+  "monthly_low": 908447,
+  "monthly_est": 975477,
+  "gift_once": 135240
+ },
+ "avg_member_chatters": 600.6,
+ "partial": false,
+ "finalized": false
+}

@@ -1,0 +1,65 @@
+{
+  "tiers": [
+    {
+      "name": "Cardinal Archer",
+      "prices": [
+        {
+          "from": "2026-10-08",
+          "price": 690
+        }
+      ]
+    },
+    {
+      "name": "Rosarian Citizen",
+      "prices": [
+        {
+          "from": "2026-10-08",
+          "price": 390
+        }
+      ]
+    },
+    {
+      "name": "Ruby Knight",
+      "prices": [
+        {
+          "from": "2026-10-08",
+          "price": 1990
+        }
+      ]
+    },
+    {
+      "name": "Scarlet Court Noble",
+      "prices": [
+        {
+          "from": "2026-10-08",
+          "price": 3490
+        }
+      ]
+    },
+    {
+      "name": "Tine Squire",
+      "prices": [
+        {
+          "from": "2026-10-08",
+          "price": 1290
+        }
+      ]
+    }
+  ],
+  "gift_tier": null,
+  "currency": "JPY",
+  "tax_rate": 0.1,
+  "creator_share": 0.7,
+  "source": "メンバー登録画面で確認（2026-11-01）",
+  "changes": [
+    {
+      "date": "2026-10-08",
+      "note": "Rosarian Citizen: （初回） → ¥390 / Cardinal Archer: （初回） → ¥690 / Tine Squire: （初回） → ¥1,290 / Ruby Knight: （初回） → ¥1,990 / Scarlet Court Noble: （初回） → ¥3,490（メンバー登録画面で自動確認）"
+    }
+  ],
+  "membership": true,
+  "checks": [
+    "2026-10-08",
+    "2026-11-01"
+  ]
+}
