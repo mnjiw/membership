@@ -3,19 +3,19 @@
  "channel_id": "UCGLS7BOgNa6c03r7VYacblw",
  "handle": "@MinamoMadoka",
  "subscribers": 146000,
- "fetched_at": "2026-11-02 17:57",
- "generated_at": "2026-11-02 17:57",
+ "fetched_at": "2026-11-03 05:33",
+ "generated_at": "2026-11-03 05:34",
  "period": {
-  "from": "2026-10-03 17:57",
-  "to": "2026-11-02 17:57",
+  "from": "2026-10-04 05:33",
+  "to": "2026-11-03 05:33",
   "days": 30
  },
  "streams_analyzed": 26,
  "streams_missed": 1,
- "unique_chatters": 2689,
- "members_confirmed": 325,
+ "unique_chatters": 2680,
+ "members_confirmed": 323,
  "member_classes": {
-  "unknown": 295,
+  "unknown": 293,
   "known": 12,
   "gift": 18
  },
@@ -28,16 +28,16 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 68
+   "members": 65
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 210
+   "members": 211
   }
  ],
  "events": {
-  "new_members": 11,
+  "new_members": 9,
   "rejoins": 0,
   "milestones": 0,
   "gift_purchases": 1,
@@ -52,19 +52,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 12,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 295.0,
-   "estimated_members": 307.0,
+   "allocated_unknown": 293.0,
+   "estimated_members": 305.0,
    "monthly_net_confirmed": 3742,
-   "monthly_net_estimated": 95728
+   "monthly_net_estimated": 95105
   }
  ],
  "revenue": {
-  "monthly_low": 95728,
-  "monthly_est": 95728,
+  "monthly_low": 95105,
+  "monthly_est": 95105,
   "gift_once": 3118,
-  "total_low": 98846,
-  "total_est": 98846,
-  "paying_members": 307,
+  "total_low": 98223,
+  "total_est": 98223,
+  "paying_members": 305,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "1CMHI820bjc",
-   "start": "2026-10-03 18:01",
-   "title": "【 マインクラフト 】ひとりでできるやい！ソロエンドラ討伐準備編！【 にじさんじ / 水面まどか 】",
-   "kind": "配信",
-   "chatters": 196,
-   "member_chatters": 68,
-   "new_members": 2,
-   "gifted_total": 0
-  },
   {
    "video_id": "eoUaQRPJzs8",
    "start": "2026-10-04 20:06",
@@ -332,6 +322,16 @@
    "member_chatters": 50,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "fdCd0a42lB4",
+   "start": "2026-11-02 19:00",
+   "title": "【 スプラトゥーン3 】チーム14顔合わせ！ 水面まどか視点🔰 #にじイカ祭り2026【 にじさんじ / 水面まどか 】",
+   "kind": "配信",
+   "chatters": 148,
+   "member_chatters": 56,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -472,29 +472,29 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-02"
+    "to": "2026-11-03"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 0,
-   "unique_chatters": 116,
-   "members_confirmed": 50,
+   "unique_chatters": 234,
+   "members_confirmed": 82,
    "member_classes": {
-    "unknown": 48,
-    "known": 2
+    "unknown": 79,
+    "known": 3
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 2
+     "members": 4
     },
     {
      "months": 2,
-     "members": 6
+     "members": 12
     },
     {
      "months": 6,
-     "members": 42
+     "members": 66
     }
    ],
    "events": {
@@ -507,16 +507,16 @@
     {
      "tier": "水飲み隊",
      "price": 490,
-     "confirmed_members": 2,
-     "estimated_members": 50.0
+     "confirmed_members": 3,
+     "estimated_members": 82.0
     }
    ],
    "revenue": {
-    "monthly_low": 15591,
-    "monthly_est": 15591,
+    "monthly_low": 25569,
+    "monthly_est": 25569,
     "gift_once": 0
    },
-   "avg_member_chatters": 50,
+   "avg_member_chatters": 53,
    "partial": true,
    "finalized": false
   }

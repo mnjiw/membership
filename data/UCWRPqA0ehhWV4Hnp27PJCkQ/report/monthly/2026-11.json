@@ -2,59 +2,68 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-02"
+  "to": "2026-11-03"
  },
- "streams_analyzed": 1,
+ "streams_analyzed": 2,
  "streams_missed": 0,
- "unique_chatters": 151,
- "members_confirmed": 77,
+ "unique_chatters": 381,
+ "members_confirmed": 147,
  "member_classes": {
-  "unknown": 69,
-  "known": 8
+  "unknown": 123,
+  "known": 14,
+  "gift": 10
  },
- "long_term_members": 65,
+ "long_term_members": 107,
  "badges": [
   {
+   "months": 0,
+   "members": 16
+  },
+  {
+   "months": 1,
+   "members": 2
+  },
+  {
    "months": 2,
-   "members": 5
+   "members": 9
   },
   {
    "months": 6,
-   "members": 7
+   "members": 13
   },
   {
    "months": 12,
-   "members": 26
+   "members": 44
   },
   {
    "months": 24,
-   "members": 24
+   "members": 34
   },
   {
    "months": 36,
-   "members": 15
+   "members": 29
   }
  ],
  "events": {
-  "new_members": 0,
-  "rejoins": 1,
-  "milestones": 0,
-  "gifted_total": 0
+  "new_members": 3,
+  "rejoins": 3,
+  "milestones": 1,
+  "gifted_total": 10
  },
  "tiers": [
   {
    "tier": "ブリーダー(仮)",
    "price": 490,
-   "confirmed_members": 8,
-   "estimated_members": 77.0
+   "confirmed_members": 14,
+   "estimated_members": 137.0
   }
  ],
  "revenue": {
-  "monthly_low": 24010,
-  "monthly_est": 24010,
-  "gift_once": 0
+  "monthly_low": 42719,
+  "monthly_est": 42719,
+  "gift_once": 3118
  },
- "avg_member_chatters": 77,
+ "avg_member_chatters": 107,
  "partial": true,
  "finalized": false
 }

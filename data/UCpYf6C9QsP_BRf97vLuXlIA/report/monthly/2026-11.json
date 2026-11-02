@@ -2,73 +2,74 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-02"
+  "to": "2026-11-03"
  },
- "streams_analyzed": 1,
+ "streams_analyzed": 2,
  "streams_missed": 2,
- "unique_chatters": 64,
- "members_confirmed": 26,
+ "unique_chatters": 674,
+ "members_confirmed": 191,
  "member_classes": {
-  "known": 16,
-  "unknown": 10
+  "known": 103,
+  "unknown": 76,
+  "gift": 12
  },
- "long_term_members": 13,
+ "long_term_members": 108,
  "badges": [
   {
    "months": 0,
-   "members": 5
+   "members": 25
   },
   {
    "months": 1,
-   "members": 1
+   "members": 12
   },
   {
    "months": 2,
-   "members": 3
+   "members": 26
   },
   {
    "months": 6,
-   "members": 4
+   "members": 20
   },
   {
    "months": 12,
-   "members": 5
+   "members": 41
   },
   {
    "months": 24,
-   "members": 5
+   "members": 36
   },
   {
    "months": 36,
-   "members": 3
+   "members": 31
   }
  ],
  "events": {
-  "new_members": 1,
-  "rejoins": 0,
-  "milestones": 0,
-  "gifted_total": 0
+  "new_members": 3,
+  "rejoins": 2,
+  "milestones": 25,
+  "gifted_total": 12
  },
  "tiers": [
   {
    "tier": "Vantacrew",
    "price": 690,
-   "confirmed_members": 5,
-   "estimated_members": 8.1
+   "confirmed_members": 54,
+   "estimated_members": 93.8
   },
   {
    "tier": "Vantacrew Archives",
    "price": 1090,
-   "confirmed_members": 11,
-   "estimated_members": 17.9
+   "confirmed_members": 49,
+   "estimated_members": 85.2
   }
  ],
  "revenue": {
-  "monthly_low": 14216,
-  "monthly_est": 15966,
-  "gift_once": 0
+  "monthly_low": 91070,
+  "monthly_est": 100273,
+  "gift_once": 5269
  },
- "avg_member_chatters": 26,
+ "avg_member_chatters": 104,
  "partial": true,
  "finalized": false
 }

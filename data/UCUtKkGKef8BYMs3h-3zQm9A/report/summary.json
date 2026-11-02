@@ -3,20 +3,20 @@
  "channel_id": "UCUtKkGKef8BYMs3h-3zQm9A",
  "handle": "@MinSuha",
  "subscribers": 186000,
- "fetched_at": "2026-11-02 17:57",
- "generated_at": "2026-11-02 17:57",
+ "fetched_at": "2026-11-03 05:28",
+ "generated_at": "2026-11-03 05:28",
  "period": {
-  "from": "2026-10-03 17:57",
-  "to": "2026-11-02 17:57",
+  "from": "2026-10-04 05:28",
+  "to": "2026-11-03 05:28",
   "days": 30
  },
  "streams_analyzed": 8,
  "streams_missed": 1,
- "unique_chatters": 478,
- "members_confirmed": 132,
+ "unique_chatters": 466,
+ "members_confirmed": 129,
  "member_classes": {
-  "known": 22,
-  "unknown": 110
+  "known": 23,
+  "unknown": 106
  },
  "badges": [
   {
@@ -42,7 +42,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 15
+   "members": 14
   },
   {
    "months": 24,
@@ -52,7 +52,7 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 34
+   "members": 33
   },
   {
    "months": 48,
@@ -62,13 +62,13 @@
   {
    "months": 60,
    "label": "5年",
-   "members": 4
+   "members": 3
   }
  ],
  "events": {
-  "new_members": 0,
-  "rejoins": 1,
-  "milestones": 19,
+  "new_members": 1,
+  "rejoins": 0,
+  "milestones": 14,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -79,21 +79,21 @@
    "tier": "수하쿠아(Suhaqua)",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 22,
+   "confirmed_members": 23,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 110.0,
-   "estimated_members": 132.0,
-   "monthly_net_confirmed": 6860,
-   "monthly_net_estimated": 41160
+   "allocated_unknown": 106.0,
+   "estimated_members": 129.0,
+   "monthly_net_confirmed": 7172,
+   "monthly_net_estimated": 40225
   }
  ],
  "revenue": {
-  "monthly_low": 41160,
-  "monthly_est": 41160,
+  "monthly_low": 40225,
+  "monthly_est": 40225,
   "gift_once": 0,
-  "total_low": 41160,
-  "total_est": 41160,
-  "paying_members": 132,
+  "total_low": 40225,
+  "total_est": 40225,
+  "paying_members": 129,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -102,16 +102,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "HgK6Ia8GRfo",
-   "start": "2026-10-03 22:36",
-   "title": "🌊【雑談】風が涼しいから、お喋りしたい【NIJISANJI】",
-   "kind": "配信",
-   "chatters": 86,
-   "member_chatters": 57,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "8KH2k2gOPkQ",
    "start": "2026-10-18 18:00",
@@ -180,6 +170,16 @@
    "chatters": 60,
    "member_chatters": 44,
    "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "NpZQlE0gUwA",
+   "start": "2026-11-02 20:00",
+   "title": "🦑【#にじイカ祭り2026】　ローラー使いになります・チーム９【NIJISANJI】",
+   "kind": "配信",
+   "chatters": 47,
+   "member_chatters": 39,
+   "new_members": 1,
    "gifted_total": 0
   }
  ],
@@ -367,18 +367,26 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-02"
+    "to": "2026-11-03"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 0,
-   "unique_chatters": 60,
-   "members_confirmed": 44,
+   "unique_chatters": 78,
+   "members_confirmed": 56,
    "member_classes": {
-    "unknown": 34,
-    "known": 10
+    "unknown": 43,
+    "known": 13
    },
-   "long_term_members": 42,
+   "long_term_members": 52,
    "badges": [
+    {
+     "months": 0,
+     "members": 1
+    },
+    {
+     "months": 2,
+     "members": 1
+    },
     {
      "months": 6,
      "members": 2
@@ -389,15 +397,15 @@
     },
     {
      "months": 24,
-     "members": 11
+     "members": 13
     },
     {
      "months": 36,
-     "members": 11
+     "members": 13
     },
     {
      "months": 48,
-     "members": 11
+     "members": 17
     },
     {
      "months": 60,
@@ -405,7 +413,7 @@
     }
    ],
    "events": {
-    "new_members": 0,
+    "new_members": 1,
     "rejoins": 0,
     "milestones": 0,
     "gifted_total": 0
@@ -414,16 +422,16 @@
     {
      "tier": "수하쿠아(Suhaqua)",
      "price": 490,
-     "confirmed_members": 10,
-     "estimated_members": 44.0
+     "confirmed_members": 13,
+     "estimated_members": 56.0
     }
    ],
    "revenue": {
-    "monthly_low": 13720,
-    "monthly_est": 13720,
+    "monthly_low": 17462,
+    "monthly_est": 17462,
     "gift_once": 0
    },
-   "avg_member_chatters": 44,
+   "avg_member_chatters": 41.5,
    "partial": true,
    "finalized": false
   }

@@ -3,36 +3,36 @@
  "channel_id": "UClS6k3w1sPwlVFqK3-yID5A",
  "handle": "@RyuHari",
  "subscribers": 44900,
- "fetched_at": "2026-11-02 17:57",
- "generated_at": "2026-11-02 17:57",
+ "fetched_at": "2026-11-03 05:28",
+ "generated_at": "2026-11-03 05:28",
  "period": {
-  "from": "2026-10-03 17:57",
-  "to": "2026-11-02 17:57",
+  "from": "2026-10-04 05:28",
+  "to": "2026-11-03 05:28",
   "days": 30
  },
  "streams_analyzed": 13,
  "streams_missed": 1,
- "unique_chatters": 189,
- "members_confirmed": 110,
+ "unique_chatters": 188,
+ "members_confirmed": 108,
  "member_classes": {
-  "unknown": 34,
+  "unknown": 33,
   "known": 16,
-  "gift": 60
+  "gift": 59
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 110
+   "members": 108
   }
  ],
  "events": {
   "new_members": 5,
   "rejoins": 0,
   "milestones": 10,
-  "gift_purchases": 10,
-  "gifted_total": 61,
-  "gift_redemptions": 61
+  "gift_purchases": 9,
+  "gifted_total": 60,
+  "gift_redemptions": 60
  },
  "tiers_configured": true,
  "tiers": [
@@ -42,19 +42,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 16,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 34.0,
-   "estimated_members": 50.0,
+   "allocated_unknown": 33.0,
+   "estimated_members": 49.0,
    "monthly_net_confirmed": 4989,
-   "monthly_net_estimated": 15591
+   "monthly_net_estimated": 15279
   }
  ],
  "revenue": {
-  "monthly_low": 15591,
-  "monthly_est": 15591,
-  "gift_once": 19021,
-  "total_low": 34612,
-  "total_est": 34612,
-  "paying_members": 50,
+  "monthly_low": 15279,
+  "monthly_est": 15279,
+  "gift_once": 18709,
+  "total_low": 33988,
+  "total_est": 33988,
+  "paying_members": 49,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -63,16 +63,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "5Ye08ywxhXo",
-   "start": "2026-10-03 22:31",
-   "title": "[Dressmaker] 闇のドレスを作る",
-   "kind": "配信",
-   "chatters": 34,
-   "member_chatters": 22,
-   "new_members": 0,
-   "gifted_total": 1
-  },
   {
    "video_id": "tbV3KT8-l_g",
    "start": "2026-10-06 22:06",
@@ -190,6 +180,16 @@
    "kind": "配信",
    "chatters": 33,
    "member_chatters": 22,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "j7xH5pab4yc",
+   "start": "2026-11-02 21:00",
+   "title": "[VSF Backrooms] バックルームから出られるか？？！？！",
+   "kind": "配信",
+   "chatters": 34,
+   "member_chatters": 21,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -310,6 +310,50 @@
    },
    "avg_member_chatters": 27.1,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-03"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 34,
+   "members_confirmed": 21,
+   "member_classes": {
+    "unknown": 14,
+    "known": 7
+   },
+   "long_term_members": 0,
+   "badges": [
+    {
+     "months": 0,
+     "members": 21
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 0,
+    "milestones": 0,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "리몽",
+     "price": 490,
+     "confirmed_members": 7,
+     "estimated_members": 21.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 6548,
+    "monthly_est": 6548,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 21,
+   "partial": true,
    "finalized": false
   }
  ],

@@ -3,11 +3,11 @@
  "channel_id": "UClrQ7xhRBxS_v_-WuudGKmA",
  "handle": "@KaburakiRoco",
  "subscribers": 259000,
- "fetched_at": "2026-11-02 17:57",
- "generated_at": "2026-11-02 17:57",
+ "fetched_at": "2026-11-03 05:28",
+ "generated_at": "2026-11-03 05:29",
  "period": {
-  "from": "2026-10-03 17:57",
-  "to": "2026-11-02 17:57",
+  "from": "2026-10-04 05:28",
+  "to": "2026-11-03 05:28",
   "days": 30
  },
  "streams_analyzed": 19,
@@ -286,18 +286,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "BnNgtKnejpc",
-   "start": "2026-10-03 23:01",
-   "title": "【 メン限同時視聴 】ラストマイル",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 105,
-   "view_count": null
-  },
-  {
    "video_id": "c9tMsQAxyxw",
    "start": "2026-10-10 23:01",
    "title": "【 メン限同時視聴 】スパイ・キッズ",
@@ -354,22 +342,24 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 78,
+   "like_count": 79,
    "view_count": null
+  },
+  {
+   "video_id": "t6VwssBvPRs",
+   "start": "2026-11-02 00:00",
+   "title": "【 スプラトゥーン３ 】チーム12！練習会だ！！！【 鏑木ろこ￤にじさんじ 】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 831,
+   "view_count": 33560
   }
  ],
  "members_only_content": [
   {
-   "video_id": "BnNgtKnejpc",
-   "start": "2026-10-03 23:01",
-   "title": "【 メン限同時視聴 】ラストマイル",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 105,
-   "view_count": null
-  },
-  {
    "video_id": "c9tMsQAxyxw",
    "start": "2026-10-10 23:01",
    "title": "【 メン限同時視聴 】スパイ・キッズ",
@@ -416,7 +406,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 78,
+   "like_count": 79,
    "view_count": null
   }
  ],
@@ -564,10 +554,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-02"
+    "to": "2026-11-03"
    },
    "streams_analyzed": 2,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 637,
    "members_confirmed": 240,
    "member_classes": {

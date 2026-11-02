@@ -3,63 +3,63 @@
  "channel_id": "UChdY64fJb14Nfnbs8EGdQig",
  "handle": "@MurakumoKagetsu",
  "subscribers": 390000,
- "fetched_at": "2026-11-02 17:57",
- "generated_at": "2026-11-02 17:57",
+ "fetched_at": "2026-11-03 05:29",
+ "generated_at": "2026-11-03 05:29",
  "period": {
-  "from": "2026-10-03 17:57",
-  "to": "2026-11-02 17:57",
+  "from": "2026-10-04 05:29",
+  "to": "2026-11-03 05:29",
   "days": 30
  },
- "streams_analyzed": 19,
- "streams_missed": 1,
- "unique_chatters": 4555,
- "members_confirmed": 2729,
+ "streams_analyzed": 18,
+ "streams_missed": 2,
+ "unique_chatters": 4512,
+ "members_confirmed": 2703,
  "member_classes": {
-  "unknown": 2381,
-  "known": 343,
+  "unknown": 2358,
+  "known": 340,
   "gift": 5
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 169
+   "members": 165
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 97
+   "members": 96
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 271
+   "members": 268
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 285
+   "members": 283
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 882
+   "members": 871
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 762
+   "members": 758
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 263
+   "members": 262
   }
  ],
  "events": {
-  "new_members": 48,
+  "new_members": 47,
   "rejoins": 35,
-  "milestones": 242,
+  "milestones": 240,
   "gift_purchases": 1,
   "gifted_total": 5,
   "gift_redemptions": 5
@@ -70,21 +70,21 @@
    "tier": "叢雲観察所",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 343,
+   "confirmed_members": 340,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2381.0,
-   "estimated_members": 2724.0,
-   "monthly_net_confirmed": 106954,
-   "monthly_net_estimated": 849393
+   "allocated_unknown": 2358.0,
+   "estimated_members": 2698.0,
+   "monthly_net_confirmed": 106018,
+   "monthly_net_estimated": 841285
   }
  ],
  "revenue": {
-  "monthly_low": 849393,
-  "monthly_est": 849393,
+  "monthly_low": 841285,
+  "monthly_est": 841285,
   "gift_once": 1559,
-  "total_low": 850952,
-  "total_est": 850952,
-  "paying_members": 2724,
+  "total_low": 842845,
+  "total_est": 842845,
+  "paying_members": 2698,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "HdqUG2srK68",
-   "start": "2026-10-03 20:42",
-   "title": "【Apex】CRCUPスクリム day３ w/イブラヒムさん AlphaAzurさん コーチ meltsteraさん【叢雲カゲツ/にじさんじ】",
-   "kind": "配信",
-   "chatters": 712,
-   "member_chatters": 621,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "wOviTCK9tEc",
    "start": "2026-10-04 17:33",
@@ -294,8 +284,20 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 1018,
+   "like_count": 1019,
    "view_count": null
+  },
+  {
+   "video_id": "VRWLZnnZqck",
+   "start": "2026-11-02 00:00",
+   "title": "【スプラトゥーン3】即席スプラ #にじイカ祭り2026【叢雲カゲツ/にじさんじ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 1610,
+   "view_count": 60249
   }
  ],
  "members_only_content": [
@@ -306,7 +308,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 1018,
+   "like_count": 1019,
    "view_count": null
   }
  ],
@@ -453,10 +455,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-02"
+    "to": "2026-11-03"
    },
    "streams_analyzed": 1,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 650,
    "members_confirmed": 572,
    "member_classes": {

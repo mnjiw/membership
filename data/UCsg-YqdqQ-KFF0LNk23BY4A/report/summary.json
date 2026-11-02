@@ -3,19 +3,19 @@
  "channel_id": "UCsg-YqdqQ-KFF0LNk23BY4A",
  "handle": "@HiguchiKaede",
  "subscribers": 1030000,
- "fetched_at": "2026-11-02 17:55",
- "generated_at": "2026-11-02 17:55",
+ "fetched_at": "2026-11-03 05:18",
+ "generated_at": "2026-11-03 05:18",
  "period": {
-  "from": "2026-10-03 17:55",
-  "to": "2026-11-02 17:55",
+  "from": "2026-10-04 05:18",
+  "to": "2026-11-03 05:18",
   "days": 30
  },
  "streams_analyzed": 14,
  "streams_missed": 1,
- "unique_chatters": 1954,
- "members_confirmed": 251,
+ "unique_chatters": 1951,
+ "members_confirmed": 247,
  "member_classes": {
-  "unknown": 242,
+  "unknown": 238,
   "known": 9
  },
  "badges": [
@@ -42,17 +42,17 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 32
+   "members": 33
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 29
+   "members": 27
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 31
+   "members": 29
   },
   {
    "months": 48,
@@ -62,7 +62,7 @@
   {
    "months": 60,
    "label": "5年",
-   "members": 104
+   "members": 103
   }
  ],
  "events": {
@@ -81,19 +81,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 9,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 242.0,
-   "estimated_members": 251.0,
+   "allocated_unknown": 238.0,
+   "estimated_members": 247.0,
    "monthly_net_confirmed": 2806,
-   "monthly_net_estimated": 78266
+   "monthly_net_estimated": 77019
   }
  ],
  "revenue": {
-  "monthly_low": 78266,
-  "monthly_est": 78266,
+  "monthly_low": 77019,
+  "monthly_est": 77019,
   "gift_once": 0,
-  "total_low": 78266,
-  "total_est": 78266,
-  "paying_members": 251,
+  "total_low": 77019,
+  "total_est": 77019,
+  "paying_members": 247,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -102,16 +102,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "hX0VLB_Iab4",
-   "start": "2026-10-03 21:24",
-   "title": "【APEX】CRカップDay3スクリム w/胡桃のあ , 1tappy , Lykq【にじさんじ / 樋口楓】#わんちゃんWIN",
-   "kind": "配信",
-   "chatters": 184,
-   "member_chatters": 103,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "qpuH4EM5u10",
    "start": "2026-10-04 17:17",
@@ -241,6 +231,16 @@
    "member_chatters": 108,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "rXbXxTNglJ8",
+   "start": "2026-11-02 22:01",
+   "title": "【スプラトゥーン3】TEAM16！Day2 #にじイカ祭り2026【にじさんじ / 樋口楓】",
+   "kind": "配信",
+   "chatters": 158,
+   "member_chatters": 93,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -253,7 +253,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 118,
+   "like_count": 119,
    "view_count": null
   }
  ],
@@ -265,7 +265,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 118,
+   "like_count": 119,
    "view_count": null
   }
  ],
@@ -428,17 +428,17 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-02"
+    "to": "2026-11-03"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 0,
-   "unique_chatters": 188,
-   "members_confirmed": 108,
+   "unique_chatters": 243,
+   "members_confirmed": 123,
    "member_classes": {
-    "unknown": 106,
+    "unknown": 121,
     "known": 2
    },
-   "long_term_members": 92,
+   "long_term_members": 107,
    "badges": [
     {
      "months": 0,
@@ -454,7 +454,7 @@
     },
     {
      "months": 12,
-     "members": 11
+     "members": 14
     },
     {
      "months": 24,
@@ -462,15 +462,15 @@
     },
     {
      "months": 36,
-     "members": 15
+     "members": 16
     },
     {
      "months": 48,
-     "members": 9
+     "members": 11
     },
     {
      "months": 60,
-     "members": 43
+     "members": 52
     }
    ],
    "events": {
@@ -484,15 +484,15 @@
      "tier": "楓組メンバーシップ",
      "price": 490,
      "confirmed_members": 2,
-     "estimated_members": 108.0
+     "estimated_members": 123.0
     }
    ],
    "revenue": {
-    "monthly_low": 33676,
-    "monthly_est": 33676,
+    "monthly_low": 38354,
+    "monthly_est": 38354,
     "gift_once": 0
    },
-   "avg_member_chatters": 108,
+   "avg_member_chatters": 100.5,
    "partial": true,
    "finalized": false
   }

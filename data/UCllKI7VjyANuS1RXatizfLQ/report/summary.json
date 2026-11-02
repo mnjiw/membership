@@ -3,20 +3,20 @@
  "channel_id": "UCllKI7VjyANuS1RXatizfLQ",
  "handle": "@YamagamiKaruta",
  "subscribers": 295000,
- "fetched_at": "2026-11-02 17:56",
- "generated_at": "2026-11-02 17:56",
+ "fetched_at": "2026-11-03 05:23",
+ "generated_at": "2026-11-03 05:24",
  "period": {
-  "from": "2026-10-03 17:56",
-  "to": "2026-11-02 17:56",
+  "from": "2026-10-04 05:23",
+  "to": "2026-11-03 05:23",
   "days": 30
  },
  "streams_analyzed": 19,
  "streams_missed": 1,
- "unique_chatters": 2021,
- "members_confirmed": 345,
+ "unique_chatters": 2010,
+ "members_confirmed": 350,
  "member_classes": {
-  "known": 27,
-  "unknown": 318
+  "unknown": 323,
+  "known": 27
  },
  "badges": [
   {
@@ -42,22 +42,22 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 57
+   "members": 58
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 32
+   "members": 33
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 58
+   "members": 57
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 147
+   "members": 151
   }
  ],
  "events": {
@@ -76,19 +76,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 27,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 318.0,
-   "estimated_members": 345.0,
+   "allocated_unknown": 323.0,
+   "estimated_members": 350.0,
    "monthly_net_confirmed": 8419,
-   "monthly_net_estimated": 107577
+   "monthly_net_estimated": 109136
   }
  ],
  "revenue": {
-  "monthly_low": 107577,
-  "monthly_est": 107577,
+  "monthly_low": 109136,
+  "monthly_est": 109136,
   "gift_once": 0,
-  "total_low": 107577,
-  "total_est": 107577,
-  "paying_members": 345,
+  "total_low": 109136,
+  "total_est": 109136,
+  "paying_members": 350,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -97,16 +97,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "ZZtXZvIuGOI",
-   "start": "2026-10-03 19:11",
-   "title": "【空の軌跡 the 1st】# 8 ¦ 完全初見！忘れられない旅、始めよう。🪽【にじさんじ/山神カルタ】",
-   "kind": "配信",
-   "chatters": 142,
-   "member_chatters": 55,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "PwKeLAJzzT8",
    "start": "2026-10-06 22:07",
@@ -284,6 +274,16 @@
    "kind": "プレミア",
    "chatters": 139,
    "member_chatters": 79,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "tO7-3nR1CNw",
+   "start": "2026-11-02 20:03",
+   "title": "【Splatoon3】チーム18のみなさんと顔合わせ！✨【にじさんじ/山神カルタ】",
+   "kind": "配信",
+   "chatters": 161,
+   "member_chatters": 91,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -464,25 +464,25 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-02"
+    "to": "2026-11-03"
    },
-   "streams_analyzed": 2,
+   "streams_analyzed": 3,
    "streams_missed": 0,
-   "unique_chatters": 470,
-   "members_confirmed": 121,
+   "unique_chatters": 564,
+   "members_confirmed": 159,
    "member_classes": {
-    "unknown": 107,
-    "known": 14
+    "unknown": 140,
+    "known": 19
    },
-   "long_term_members": 96,
+   "long_term_members": 132,
    "badges": [
     {
      "months": 1,
-     "members": 6
+     "members": 7
     },
     {
      "months": 2,
-     "members": 5
+     "members": 6
     },
     {
      "months": 6,
@@ -490,19 +490,19 @@
     },
     {
      "months": 12,
-     "members": 11
+     "members": 16
     },
     {
      "months": 24,
-     "members": 5
+     "members": 10
     },
     {
      "months": 36,
-     "members": 22
+     "members": 30
     },
     {
      "months": 48,
-     "members": 58
+     "members": 76
     }
    ],
    "events": {
@@ -515,16 +515,16 @@
     {
      "tier": "かるたっこ",
      "price": 490,
-     "confirmed_members": 14,
-     "estimated_members": 121.0
+     "confirmed_members": 19,
+     "estimated_members": 159.0
     }
    ],
    "revenue": {
-    "monthly_low": 37730,
-    "monthly_est": 37730,
+    "monthly_low": 49579,
+    "monthly_est": 49579,
     "gift_once": 0
    },
-   "avg_member_chatters": 90,
+   "avg_member_chatters": 90.3,
    "partial": true,
    "finalized": false
   }

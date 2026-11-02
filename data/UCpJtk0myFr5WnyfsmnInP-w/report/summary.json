@@ -3,20 +3,20 @@
  "channel_id": "UCpJtk0myFr5WnyfsmnInP-w",
  "handle": "@HanaMacchia",
  "subscribers": 280000,
- "fetched_at": "2026-11-02 17:56",
- "generated_at": "2026-11-02 17:56",
+ "fetched_at": "2026-11-03 05:27",
+ "generated_at": "2026-11-03 05:28",
  "period": {
-  "from": "2026-10-03 17:56",
-  "to": "2026-11-02 17:56",
+  "from": "2026-10-04 05:27",
+  "to": "2026-11-03 05:27",
   "days": 30
  },
- "streams_analyzed": 12,
- "streams_missed": 2,
- "unique_chatters": 483,
- "members_confirmed": 82,
+ "streams_analyzed": 13,
+ "streams_missed": 1,
+ "unique_chatters": 510,
+ "members_confirmed": 86,
  "member_classes": {
-  "known": 12,
-  "unknown": 59,
+  "known": 13,
+  "unknown": 62,
   "gift": 11
  },
  "badges": [
@@ -38,12 +38,12 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 62
+   "members": 66
   }
  ],
  "events": {
   "new_members": 1,
-  "rejoins": 3,
+  "rejoins": 4,
   "milestones": 8,
   "gift_purchases": 3,
   "gifted_total": 11,
@@ -55,21 +55,21 @@
    "tier": "Nijisenja",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 12,
+   "confirmed_members": 13,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 59.0,
-   "estimated_members": 71.0,
-   "monthly_net_confirmed": 5269,
-   "monthly_net_estimated": 31175
+   "allocated_unknown": 62.0,
+   "estimated_members": 75.0,
+   "monthly_net_confirmed": 5708,
+   "monthly_net_estimated": 32932
   }
  ],
  "revenue": {
-  "monthly_low": 31175,
-  "monthly_est": 31175,
+  "monthly_low": 32932,
+  "monthly_est": 32932,
   "gift_once": 4830,
-  "total_low": 36005,
-  "total_est": 36005,
-  "paying_members": 71,
+  "total_low": 37762,
+  "total_est": 37762,
+  "paying_members": 75,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -197,21 +197,19 @@
    "member_chatters": 19,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "5Cf-1XpRoXg",
+   "start": "2026-11-02 21:02",
+   "title": "(Minecraft: VSF BACKROOMS) oh boy i hope there's no creature around here【NIJISANJI | Hana Macchia】",
+   "kind": "配信",
+   "chatters": 69,
+   "member_chatters": 21,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
-  {
-   "video_id": "FYLdprq-sNw",
-   "start": "2026-10-04 00:00",
-   "title": "stream ball run【NIJISANJI | Hana Macchia】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 26,
-   "view_count": null
-  },
   {
    "video_id": "pCUPk2wt0vU",
    "start": "2026-11-01 01:33",
@@ -226,16 +224,6 @@
   }
  ],
  "members_only_content": [
-  {
-   "video_id": "FYLdprq-sNw",
-   "start": "2026-10-04 00:00",
-   "title": "stream ball run【NIJISANJI | Hana Macchia】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 26,
-   "view_count": null
-  },
   {
    "video_id": "pCUPk2wt0vU",
    "start": "2026-11-01 01:33",
@@ -356,6 +344,54 @@
    },
    "avg_member_chatters": 19.3,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-03"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 1,
+   "unique_chatters": 69,
+   "members_confirmed": 21,
+   "member_classes": {
+    "unknown": 15,
+    "known": 6
+   },
+   "long_term_members": 20,
+   "badges": [
+    {
+     "months": 2,
+     "members": 1
+    },
+    {
+     "months": 24,
+     "members": 20
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 1,
+    "milestones": 0,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "Nijisenja",
+     "price": 690,
+     "confirmed_members": 6,
+     "estimated_members": 21.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 9221,
+    "monthly_est": 9221,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 21,
+   "partial": true,
    "finalized": false
   }
  ],

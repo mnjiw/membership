@@ -2,21 +2,21 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-02"
+  "to": "2026-11-03"
  },
- "streams_analyzed": 1,
- "streams_missed": 0,
- "unique_chatters": 147,
- "members_confirmed": 105,
+ "streams_analyzed": 2,
+ "streams_missed": 1,
+ "unique_chatters": 187,
+ "members_confirmed": 138,
  "member_classes": {
-  "unknown": 103,
-  "known": 2
+  "unknown": 135,
+  "known": 3
  },
- "long_term_members": 77,
+ "long_term_members": 101,
  "badges": [
   {
    "months": 0,
-   "members": 1
+   "members": 2
   },
   {
    "months": 1,
@@ -24,31 +24,31 @@
   },
   {
    "months": 2,
-   "members": 10
-  },
-  {
-   "months": 6,
-   "members": 12
-  },
-  {
-   "months": 12,
-   "members": 19
-  },
-  {
-   "months": 24,
-   "members": 9
-  },
-  {
-   "months": 36,
    "members": 15
   },
   {
+   "months": 6,
+   "members": 15
+  },
+  {
+   "months": 12,
+   "members": 28
+  },
+  {
+   "months": 24,
+   "members": 12
+  },
+  {
+   "months": 36,
+   "members": 21
+  },
+  {
    "months": 48,
-   "members": 34
+   "members": 40
   }
  ],
  "events": {
-  "new_members": 1,
+  "new_members": 2,
   "rejoins": 0,
   "milestones": 0,
   "gifted_total": 0
@@ -64,13 +64,13 @@
    "tier": "弦月さん家の魔と歩こ！",
    "price": 390,
    "confirmed_members": 1,
-   "estimated_members": 52.5
+   "estimated_members": 46.0
   },
   {
    "tier": "弦月さん家の魔と遊ぼ！",
    "price": 490,
-   "confirmed_members": 1,
-   "estimated_members": 52.5
+   "confirmed_members": 2,
+   "estimated_members": 92.0
   },
   {
    "tier": "弦月さん家の魔と暮らそ！",
@@ -86,11 +86,11 @@
   }
  ],
  "revenue": {
-  "monthly_low": 19568,
-  "monthly_est": 29400,
+  "monthly_low": 25785,
+  "monthly_est": 40104,
   "gift_once": 0
  },
- "avg_member_chatters": 105,
+ "avg_member_chatters": 93.5,
  "partial": true,
  "finalized": false
 }

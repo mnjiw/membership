@@ -3,61 +3,61 @@
  "channel_id": "UC4l9gz3q65lTBFfFtW5LLeA",
  "handle": "@WataraiHibari",
  "subscribers": 665000,
- "fetched_at": "2026-11-02 17:56",
- "generated_at": "2026-11-02 17:56",
+ "fetched_at": "2026-11-03 05:27",
+ "generated_at": "2026-11-03 05:28",
  "period": {
-  "from": "2026-10-03 17:56",
-  "to": "2026-11-02 17:56",
+  "from": "2026-10-04 05:27",
+  "to": "2026-11-03 05:27",
   "days": 30
  },
- "streams_analyzed": 11,
+ "streams_analyzed": 12,
  "streams_missed": 0,
- "unique_chatters": 3248,
- "members_confirmed": 1806,
+ "unique_chatters": 3302,
+ "members_confirmed": 1831,
  "member_classes": {
-  "unknown": 1380,
-  "known": 396,
-  "gift": 30
+  "unknown": 1396,
+  "known": 400,
+  "gift": 35
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 123
+   "members": 130
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 92
+   "members": 91
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 181
+   "members": 185
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 224
+   "members": 223
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 468
+   "members": 476
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 718
+   "members": 726
   }
  ],
  "events": {
-  "new_members": 14,
-  "rejoins": 8,
-  "milestones": 60,
-  "gift_purchases": 5,
-  "gifted_total": 30,
-  "gift_redemptions": 30
+  "new_members": 15,
+  "rejoins": 9,
+  "milestones": 61,
+  "gift_purchases": 6,
+  "gifted_total": 35,
+  "gift_redemptions": 35
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +65,21 @@
    "tier": "ひばりすた",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 396,
+   "confirmed_members": 400,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1380.0,
-   "estimated_members": 1776.0,
-   "monthly_net_confirmed": 123480,
-   "monthly_net_estimated": 553789
+   "allocated_unknown": 1396.0,
+   "estimated_members": 1796.0,
+   "monthly_net_confirmed": 124727,
+   "monthly_net_estimated": 560025
   }
  ],
  "revenue": {
-  "monthly_low": 553789,
-  "monthly_est": 553789,
-  "gift_once": 9355,
-  "total_low": 563144,
-  "total_est": 563144,
-  "paying_members": 1776,
+  "monthly_low": 560025,
+  "monthly_est": 560025,
+  "gift_once": 10914,
+  "total_low": 570939,
+  "total_est": 570939,
+  "paying_members": 1796,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -197,6 +197,16 @@
    "member_chatters": 367,
    "new_members": 2,
    "gifted_total": 0
+  },
+  {
+   "video_id": "6Y6YAwnGEJ8",
+   "start": "2026-11-02 22:16",
+   "title": "【#にじイカ祭り2026】ごちゃ混ぜカスタム！？！？【渡会雲雀/にじさんじ】",
+   "kind": "配信",
+   "chatters": 594,
+   "member_chatters": 480,
+   "new_members": 1,
+   "gifted_total": 5
   }
  ],
  "missed_streams": [],
@@ -337,63 +347,64 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-02"
+    "to": "2026-11-03"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 0,
-   "unique_chatters": 485,
-   "members_confirmed": 367,
+   "unique_chatters": 814,
+   "members_confirmed": 611,
    "member_classes": {
-    "known": 91,
-    "unknown": 276
+    "known": 150,
+    "unknown": 456,
+    "gift": 5
    },
-   "long_term_members": 276,
+   "long_term_members": 454,
    "badges": [
     {
      "months": 0,
-     "members": 5
+     "members": 18
     },
     {
      "months": 1,
-     "members": 15
+     "members": 24
     },
     {
      "months": 2,
-     "members": 30
+     "members": 48
     },
     {
      "months": 6,
-     "members": 41
+     "members": 67
     },
     {
      "months": 12,
-     "members": 94
+     "members": 160
     },
     {
      "months": 24,
-     "members": 182
+     "members": 294
     }
    ],
    "events": {
-    "new_members": 2,
-    "rejoins": 0,
-    "milestones": 2,
-    "gifted_total": 0
+    "new_members": 3,
+    "rejoins": 1,
+    "milestones": 3,
+    "gifted_total": 5
    },
    "tiers": [
     {
      "tier": "ひばりすた",
      "price": 490,
-     "confirmed_members": 91,
-     "estimated_members": 367.0
+     "confirmed_members": 150,
+     "estimated_members": 606.0
     }
    ],
    "revenue": {
-    "monthly_low": 114437,
-    "monthly_est": 114437,
-    "gift_once": 0
+    "monthly_low": 188962,
+    "monthly_est": 188962,
+    "gift_once": 1559
    },
-   "avg_member_chatters": 367,
+   "avg_member_chatters": 423.5,
    "partial": true,
    "finalized": false
   }

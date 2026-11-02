@@ -3,61 +3,61 @@
  "channel_id": "UCspv01oxUFf_MTSipURRhkA",
  "handle": "@Kanae",
  "subscribers": 1650000,
- "fetched_at": "2026-11-02 17:55",
- "generated_at": "2026-11-02 17:55",
+ "fetched_at": "2026-11-03 05:19",
+ "generated_at": "2026-11-03 05:20",
  "period": {
-  "from": "2026-10-03 17:55",
-  "to": "2026-11-02 17:55",
+  "from": "2026-10-04 05:19",
+  "to": "2026-11-03 05:19",
   "days": 30
  },
  "streams_analyzed": 20,
- "streams_missed": 2,
- "unique_chatters": 5552,
- "members_confirmed": 2618,
+ "streams_missed": 1,
+ "unique_chatters": 5368,
+ "members_confirmed": 2599,
  "member_classes": {
-  "unknown": 2512,
+  "unknown": 2503,
   "known": 75,
-  "gift": 31
+  "gift": 21
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 90
+   "members": 74
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 56
+   "members": 59
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 341
+   "members": 339
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 230
+   "members": 232
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 451
+   "members": 447
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 1450
+   "members": 1448
   }
  ],
  "events": {
-  "new_members": 27,
-  "rejoins": 21,
+  "new_members": 26,
+  "rejoins": 22,
   "milestones": 0,
-  "gift_purchases": 4,
-  "gifted_total": 31,
-  "gift_redemptions": 31
+  "gift_purchases": 3,
+  "gifted_total": 21,
+  "gift_redemptions": 21
  },
  "tiers_configured": true,
  "tiers": [
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 75,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2512.0,
-   "estimated_members": 2587.0,
+   "allocated_unknown": 2503.0,
+   "estimated_members": 2578.0,
    "monthly_net_confirmed": 23386,
-   "monthly_net_estimated": 806674
+   "monthly_net_estimated": 803867
   }
  ],
  "revenue": {
-  "monthly_low": 806674,
-  "monthly_est": 806674,
-  "gift_once": 9666,
-  "total_low": 816340,
-  "total_est": 816340,
-  "paying_members": 2587,
+  "monthly_low": 803867,
+  "monthly_est": 803867,
+  "gift_once": 6548,
+  "total_low": 810415,
+  "total_est": 810415,
+  "paying_members": 2578,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "OU8FN4T7qWI",
-   "start": "2026-10-03 22:03",
-   "title": "歴戦王？へー、強いんだ？  | モンスターハンターワイルズ【にじさんじ/叶】",
-   "kind": "配信",
-   "chatters": 1208,
-   "member_chatters": 821,
-   "new_members": 2,
-   "gifted_total": 10
-  },
   {
    "video_id": "pLsoMQQvZe4",
    "start": "2026-10-05 22:00",
@@ -287,21 +277,19 @@
    "member_chatters": 760,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "mmFEG9mww6s",
+   "start": "2026-11-02 17:15",
+   "title": "今日は本番～！負けられないLR戦  | LTK練習【にじさんじ/叶】",
+   "kind": "配信",
+   "chatters": 1441,
+   "member_chatters": 1020,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
-  {
-   "video_id": "A5TR6VVPqMo",
-   "start": "2026-10-30 00:00",
-   "title": "【#LTK】床で料理すると噂の昏昏アリアを謎の隕石論で擁護する叶【にじさんじ/叶/切り抜き】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 646,
-   "view_count": 56897
-  },
   {
    "video_id": "xUKSUUcjaA4",
    "start": "2026-11-02 00:00",
@@ -311,8 +299,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 339,
-   "view_count": 10293
+   "like_count": 432,
+   "view_count": 24351
   }
  ],
  "members_only_content": [],
@@ -390,7 +378,7 @@
     "to": "2026-10-31"
    },
    "streams_analyzed": 20,
-   "streams_missed": 1,
+   "streams_missed": 0,
    "unique_chatters": 5908,
    "members_confirmed": 2668,
    "member_classes": {
@@ -452,46 +440,46 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-02"
+    "to": "2026-11-03"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 1,
-   "unique_chatters": 996,
-   "members_confirmed": 760,
+   "unique_chatters": 1712,
+   "members_confirmed": 1173,
    "member_classes": {
-    "unknown": 746,
-    "known": 14
+    "unknown": 1150,
+    "known": 23
    },
-   "long_term_members": 587,
+   "long_term_members": 909,
    "badges": [
     {
      "months": 0,
-     "members": 6
+     "members": 9
     },
     {
      "months": 1,
-     "members": 6
+     "members": 12
     },
     {
      "months": 2,
-     "members": 86
+     "members": 127
     },
     {
      "months": 6,
-     "members": 75
+     "members": 116
     },
     {
      "months": 12,
-     "members": 145
+     "members": 209
     },
     {
      "months": 24,
-     "members": 442
+     "members": 700
     }
    ],
    "events": {
-    "new_members": 1,
-    "rejoins": 1,
+    "new_members": 2,
+    "rejoins": 3,
     "milestones": 0,
     "gifted_total": 0
    },
@@ -499,16 +487,16 @@
     {
      "tier": "叶え隊",
      "price": 490,
-     "confirmed_members": 14,
-     "estimated_members": 760.0
+     "confirmed_members": 23,
+     "estimated_members": 1173.0
     }
    ],
    "revenue": {
-    "monthly_low": 236982,
-    "monthly_est": 236982,
+    "monthly_low": 365763,
+    "monthly_est": 365763,
     "gift_once": 0
    },
-   "avg_member_chatters": 760,
+   "avg_member_chatters": 890,
    "partial": true,
    "finalized": false
   }

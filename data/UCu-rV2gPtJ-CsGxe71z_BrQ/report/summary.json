@@ -3,19 +3,19 @@
  "channel_id": "UCu-rV2gPtJ-CsGxe71z_BrQ",
  "handle": "@IgarashiRika",
  "subscribers": 360000,
- "fetched_at": "2026-11-02 17:57",
- "generated_at": "2026-11-02 17:57",
+ "fetched_at": "2026-11-03 05:28",
+ "generated_at": "2026-11-03 05:29",
  "period": {
-  "from": "2026-10-03 17:57",
-  "to": "2026-11-02 17:57",
+  "from": "2026-10-04 05:28",
+  "to": "2026-11-03 05:28",
   "days": 30
  },
  "streams_analyzed": 28,
  "streams_missed": 1,
- "unique_chatters": 4506,
- "members_confirmed": 679,
+ "unique_chatters": 4496,
+ "members_confirmed": 681,
  "member_classes": {
-  "unknown": 652,
+  "unknown": 654,
   "known": 27
  },
  "badges": [
@@ -27,7 +27,7 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 15
+   "members": 14
   },
   {
    "months": 2,
@@ -37,12 +37,12 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 108
+   "members": 110
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 482
+   "members": 483
   }
  ],
  "events": {
@@ -61,19 +61,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 27,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 652.0,
-   "estimated_members": 679.0,
+   "allocated_unknown": 654.0,
+   "estimated_members": 681.0,
    "monthly_net_confirmed": 8419,
-   "monthly_net_estimated": 211725
+   "monthly_net_estimated": 212348
   }
  ],
  "revenue": {
-  "monthly_low": 211725,
-  "monthly_est": 211725,
+  "monthly_low": 212348,
+  "monthly_est": 212348,
   "gift_once": 0,
-  "total_low": 211725,
-  "total_est": 211725,
-  "paying_members": 679,
+  "total_low": 212348,
+  "total_est": 212348,
+  "paying_members": 681,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -82,16 +82,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "2eJA3Hqnr-c",
-   "start": "2026-10-03 20:03",
-   "title": "魔法少女ノ魔女裁判┊︎#4 第3話裁判~ 勘違いと嘘【 にじさんじ / 五十嵐梨花 】",
-   "kind": "配信",
-   "chatters": 738,
-   "member_chatters": 204,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "t5NWH5VceCg",
    "start": "2026-10-04 23:18",
@@ -361,6 +351,16 @@
    "member_chatters": 282,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "BshHEU-9E-4",
+   "start": "2026-11-02 22:00",
+   "title": "#にじイカ祭り2026┊︎チーム04の対抗戦したくない？【 にじさんじ / 五十嵐梨花 】",
+   "kind": "配信",
+   "chatters": 518,
+   "member_chatters": 253,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -515,21 +515,21 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-02"
+    "to": "2026-11-03"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 0,
-   "unique_chatters": 696,
-   "members_confirmed": 282,
+   "unique_chatters": 865,
+   "members_confirmed": 323,
    "member_classes": {
-    "unknown": 275,
-    "known": 7
+    "unknown": 315,
+    "known": 8
    },
-   "long_term_members": 232,
+   "long_term_members": 261,
    "badges": [
     {
      "months": 0,
-     "members": 6
+     "members": 7
     },
     {
      "months": 1,
@@ -541,15 +541,15 @@
     },
     {
      "months": 6,
-     "members": 29
+     "members": 40
     },
     {
      "months": 12,
-     "members": 232
+     "members": 261
     }
    ],
    "events": {
-    "new_members": 0,
+    "new_members": 1,
     "rejoins": 0,
     "milestones": 0,
     "gifted_total": 0
@@ -558,16 +558,16 @@
     {
      "tier": "五十嵐の監督さんたち",
      "price": 490,
-     "confirmed_members": 7,
-     "estimated_members": 282.0
+     "confirmed_members": 8,
+     "estimated_members": 323.0
     }
    ],
    "revenue": {
-    "monthly_low": 87933,
-    "monthly_est": 87933,
+    "monthly_low": 100717,
+    "monthly_est": 100717,
     "gift_once": 0
    },
-   "avg_member_chatters": 282,
+   "avg_member_chatters": 267.5,
    "partial": true,
    "finalized": false
   }

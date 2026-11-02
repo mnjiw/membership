@@ -2,42 +2,42 @@
  "channel": "御子神琴音 / Mikogami Kotone【にじさんじ】",
  "channel_id": "UCwjlRIySBvZ-kLV5bfjya4A",
  "handle": "@MikogamiKotone_Y4T4",
- "subscribers": 235000,
- "fetched_at": "2026-11-02 17:57",
- "generated_at": "2026-11-02 17:57",
+ "subscribers": 237000,
+ "fetched_at": "2026-11-03 05:34",
+ "generated_at": "2026-11-03 05:35",
  "period": {
-  "from": "2026-10-03 17:57",
-  "to": "2026-11-02 17:57",
+  "from": "2026-10-04 05:34",
+  "to": "2026-11-03 05:34",
   "days": 30
  },
- "streams_analyzed": 16,
+ "streams_analyzed": 17,
  "streams_missed": 2,
- "unique_chatters": 8026,
- "members_confirmed": 1253,
+ "unique_chatters": 8772,
+ "members_confirmed": 1311,
  "member_classes": {
-  "unknown": 986,
-  "known": 182,
+  "unknown": 1038,
+  "known": 188,
   "gift": 85
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 217
+   "members": 242
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 70
+   "members": 74
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 966
+   "members": 995
   }
  ],
  "events": {
-  "new_members": 59,
+  "new_members": 65,
   "rejoins": 16,
   "milestones": 106,
   "gift_purchases": 9,
@@ -50,21 +50,21 @@
    "tier": "御子神家使用人",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 182,
+   "confirmed_members": 188,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 986.0,
-   "estimated_members": 1168.0,
-   "monthly_net_confirmed": 56751,
-   "monthly_net_estimated": 364204
+   "allocated_unknown": 1038.0,
+   "estimated_members": 1226.0,
+   "monthly_net_confirmed": 58622,
+   "monthly_net_estimated": 382289
   }
  ],
  "revenue": {
-  "monthly_low": 364204,
-  "monthly_est": 364204,
+  "monthly_low": 382289,
+  "monthly_est": 382289,
   "gift_once": 26505,
-  "total_low": 390708,
-  "total_est": 390708,
-  "paying_members": 1168,
+  "total_low": 408794,
+  "total_est": 408794,
+  "paying_members": 1226,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -232,6 +232,16 @@
    "member_chatters": 489,
    "new_members": 4,
    "gifted_total": 0
+  },
+  {
+   "video_id": "CqsCTmKlR38",
+   "start": "2026-11-02 22:31",
+   "title": "【スプラトゥーン3】イカ祭りチーム1の皆様と顔合わせ！琴音お姉さん、参ります。【御子神琴音 / にじさんじ】",
+   "kind": "配信",
+   "chatters": 2002,
+   "member_chatters": 468,
+   "new_members": 6,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -256,7 +266,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 447,
+   "like_count": 497,
    "view_count": null
   }
  ],
@@ -278,7 +288,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 447,
+   "like_count": 497,
    "view_count": null
   }
  ],
@@ -388,6 +398,58 @@
    },
    "avg_member_chatters": 318.1,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-03"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 1,
+   "unique_chatters": 2002,
+   "members_confirmed": 468,
+   "member_classes": {
+    "known": 75,
+    "unknown": 393
+   },
+   "long_term_members": 0,
+   "badges": [
+    {
+     "months": 0,
+     "members": 61
+    },
+    {
+     "months": 1,
+     "members": 24
+    },
+    {
+     "months": 2,
+     "members": 383
+    }
+   ],
+   "events": {
+    "new_members": 6,
+    "rejoins": 0,
+    "milestones": 0,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "御子神家使用人",
+     "price": 490,
+     "confirmed_members": 75,
+     "estimated_members": 468.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 145931,
+    "monthly_est": 145931,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 468,
+   "partial": true,
    "finalized": false
   }
  ],

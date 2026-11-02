@@ -2,17 +2,17 @@
  "channel": "ジユ / Jiyu 【にじさんじ】 ",
  "channel_id": "UCnzZmBOSrQf2wDBbnsDajVw",
  "handle": "@OhJiyu",
- "subscribers": 60700,
- "fetched_at": "2026-11-02 17:57",
- "generated_at": "2026-11-02 17:57",
+ "subscribers": 60800,
+ "fetched_at": "2026-11-03 05:28",
+ "generated_at": "2026-11-03 05:28",
  "period": {
-  "from": "2026-10-03 17:57",
-  "to": "2026-11-02 17:57",
+  "from": "2026-10-04 05:28",
+  "to": "2026-11-03 05:28",
   "days": 30
  },
- "streams_analyzed": 14,
+ "streams_analyzed": 15,
  "streams_missed": 1,
- "unique_chatters": 140,
+ "unique_chatters": 149,
  "members_confirmed": 91,
  "member_classes": {
   "known": 9,
@@ -38,12 +38,12 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 6
+   "members": 5
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 7
+   "members": 8
   },
   {
    "months": 24,
@@ -227,6 +227,16 @@
    "member_chatters": 10,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "RVa37dFyKDs",
+   "start": "2026-11-02 21:01",
+   "title": "【Minecraft/VSF BACKROOMS】ハリとEN鯖、遊びに行きます！【にじさんじ／ジユ】",
+   "kind": "配信",
+   "chatters": 27,
+   "member_chatters": 12,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -381,6 +391,62 @@
    },
    "avg_member_chatters": 10.7,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-03"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 27,
+   "members_confirmed": 12,
+   "member_classes": {
+    "unknown": 9,
+    "known": 3
+   },
+   "long_term_members": 8,
+   "badges": [
+    {
+     "months": 0,
+     "members": 2
+    },
+    {
+     "months": 6,
+     "members": 2
+    },
+    {
+     "months": 12,
+     "members": 3
+    },
+    {
+     "months": 24,
+     "members": 5
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 0,
+    "milestones": 0,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "방안의 아기새냥이/部屋の中の子猫鳥",
+     "price": 490,
+     "confirmed_members": 3,
+     "estimated_members": 12.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 3742,
+    "monthly_est": 3742,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 12,
+   "partial": true,
    "finalized": false
   }
  ],

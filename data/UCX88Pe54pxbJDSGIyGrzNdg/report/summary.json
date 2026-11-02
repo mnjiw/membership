@@ -3,15 +3,15 @@
  "channel_id": "UCX88Pe54pxbJDSGIyGrzNdg",
  "handle": "@NaSera",
  "subscribers": 85700,
- "fetched_at": "2026-11-02 17:57",
- "generated_at": "2026-11-02 17:57",
+ "fetched_at": "2026-11-03 05:28",
+ "generated_at": "2026-11-03 05:28",
  "period": {
-  "from": "2026-10-03 17:57",
-  "to": "2026-11-02 17:57",
+  "from": "2026-10-04 05:28",
+  "to": "2026-11-03 05:28",
   "days": 30
  },
  "streams_analyzed": 0,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 0,
  "members_confirmed": 0,
  "member_classes": {},
@@ -53,7 +53,20 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "kBQisPUtDiw",
+   "start": "2026-11-02 00:00",
+   "title": "【狂い咲き】引っ越したら...（ハロウィンの代わりにホラゲしよう🎃）【ナセラ/にじさんじ🌸🌙】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 244,
+   "view_count": 2503
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
