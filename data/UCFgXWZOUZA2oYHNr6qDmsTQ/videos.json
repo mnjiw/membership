@@ -1791,12 +1791,12 @@
    "start_ts": 1793372400.0,
    "start_jst": "2026-10-31 00:00",
    "duration_sec": null,
-   "view_count": 6646,
+   "view_count": 6687,
    "like_count": 569,
    "live_status": null,
    "members_only": false,
    "has_chat": false,
-   "checked_at": "2026-11-02 05:40",
+   "checked_at": "2026-11-02 10:35",
    "info_limited": true,
    "error": "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)",
    "tab": "live",
@@ -1823,9 +1823,12 @@
   "3hHZCoOu334": {
    "id": "3hHZCoOu334",
    "title": "🎵 REBROADCAST: DRUNK Halloween Karaoke!🎵🥰🎤👻💜✨🎃",
-   "status": "live_now",
+   "status": "error",
    "seen_live_at": "2026-11-02 05:40",
-   "was_public_when_live": true
+   "was_public_when_live": true,
+   "error": "ERROR: [youtube] Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://githu",
+   "unavailable": true,
+   "failed_since_ts": 1793583348.0061467
   },
   "o4A7m4J0Zwo": {
    "id": "o4A7m4J0Zwo",
@@ -1849,8 +1852,8 @@
  "channel_id": "UCFgXWZOUZA2oYHNr6qDmsTQ",
  "handle": "@ScarleYonaguni",
  "subscribers": 355000,
- "fetched_at": "2026-11-02 05:40",
- "fetched_at_ts": 1793565609.8563333,
- "checked_from": "2026-10-26 05:40",
+ "fetched_at": "2026-11-02 10:35",
+ "fetched_at_ts": 1793583348.0061467,
+ "checked_from": "2026-10-26 10:35",
  "initial_fetch_done": true
 }

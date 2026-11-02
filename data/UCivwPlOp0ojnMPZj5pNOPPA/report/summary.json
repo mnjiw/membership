@@ -3,19 +3,19 @@
  "channel_id": "UCivwPlOp0ojnMPZj5pNOPPA",
  "handle": "@Sophia_Valentine",
  "subscribers": 407000,
- "fetched_at": "2026-11-02 05:31",
- "generated_at": "2026-11-02 05:32",
+ "fetched_at": "2026-11-02 10:32",
+ "generated_at": "2026-11-02 10:33",
  "period": {
-  "from": "2026-10-03 05:31",
-  "to": "2026-11-02 05:31",
+  "from": "2026-10-03 10:32",
+  "to": "2026-11-02 10:32",
   "days": 30
  },
- "streams_analyzed": 23,
- "streams_missed": 4,
- "unique_chatters": 2025,
- "members_confirmed": 448,
+ "streams_analyzed": 25,
+ "streams_missed": 3,
+ "unique_chatters": 2097,
+ "members_confirmed": 453,
  "member_classes": {
-  "unknown": 418,
+  "unknown": 423,
   "known": 30
  },
  "badges": [
@@ -37,7 +37,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 64
+   "members": 63
   },
   {
    "months": 12,
@@ -47,12 +47,12 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 64
+   "members": 66
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 154
+   "members": 158
   }
  ],
  "events": {
@@ -71,19 +71,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 30,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 418.0,
-   "estimated_members": 448.0,
+   "allocated_unknown": 423.0,
+   "estimated_members": 453.0,
    "monthly_net_confirmed": 9355,
-   "monthly_net_estimated": 139695
+   "monthly_net_estimated": 141254
   }
  ],
  "revenue": {
-  "monthly_low": 139695,
-  "monthly_est": 139695,
+  "monthly_low": 141254,
+  "monthly_est": 141254,
   "gift_once": 0,
-  "total_low": 139695,
-  "total_est": 139695,
-  "paying_members": 448,
+  "total_low": 141254,
+  "total_est": 141254,
+  "paying_members": 453,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -321,6 +321,26 @@
    "member_chatters": 107,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "CCsrX3kT7Zw",
+   "start": "2026-11-01 20:00",
+   "title": "【 #にじイカ祭り2026 】顔合わせ＆対戦！！！ 【ソフィア・ヴァレンタイン / にじさんじ】",
+   "kind": "配信",
+   "chatters": 224,
+   "member_chatters": 117,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "pVbQjI_Fljw",
+   "start": "2026-11-02 06:59",
+   "title": "【 朝活雑談 】おはよ～！眠れなかった！！【 ソフィア・ヴァレンタイン / にじさんじ】",
+   "kind": "配信",
+   "chatters": 171,
+   "member_chatters": 73,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -359,18 +379,6 @@
    "members_level": "",
    "like_count": 178,
    "view_count": null
-  },
-  {
-   "video_id": "CCsrX3kT7Zw",
-   "start": "2026-11-01 00:00",
-   "title": "【 #にじイカ祭り2026 】顔合わせ＆対戦！！！ 【ソフィア・ヴァレンタイン / にじさんじ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 1009,
-   "view_count": 34514
   }
  ],
  "members_only_content": [
@@ -541,6 +549,74 @@
    },
    "avg_member_chatters": 104.0,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-02"
+   },
+   "streams_analyzed": 2,
+   "streams_missed": 0,
+   "unique_chatters": 342,
+   "members_confirmed": 149,
+   "member_classes": {
+    "unknown": 144,
+    "known": 5
+   },
+   "long_term_members": 123,
+   "badges": [
+    {
+     "months": 0,
+     "members": 3
+    },
+    {
+     "months": 1,
+     "members": 3
+    },
+    {
+     "months": 2,
+     "members": 6
+    },
+    {
+     "months": 6,
+     "members": 14
+    },
+    {
+     "months": 12,
+     "members": 31
+    },
+    {
+     "months": 24,
+     "members": 25
+    },
+    {
+     "months": 36,
+     "members": 67
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 0,
+    "milestones": 0,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "SOPHIAGENT",
+     "price": 490,
+     "confirmed_members": 5,
+     "estimated_members": 149.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 46461,
+    "monthly_est": 46461,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 95,
+   "partial": true,
    "finalized": false
   }
  ],

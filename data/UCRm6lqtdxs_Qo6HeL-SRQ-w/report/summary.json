@@ -3,27 +3,27 @@
  "channel_id": "UCRm6lqtdxs_Qo6HeL-SRQ-w",
  "handle": "@LainPaterson",
  "subscribers": 470000,
- "fetched_at": "2026-11-02 05:29",
- "generated_at": "2026-11-02 05:29",
+ "fetched_at": "2026-11-02 10:31",
+ "generated_at": "2026-11-02 10:31",
  "period": {
-  "from": "2026-10-03 05:29",
-  "to": "2026-11-02 05:29",
+  "from": "2026-10-03 10:31",
+  "to": "2026-11-02 10:31",
   "days": 30
  },
- "streams_analyzed": 21,
- "streams_missed": 2,
- "unique_chatters": 1946,
- "members_confirmed": 103,
+ "streams_analyzed": 22,
+ "streams_missed": 1,
+ "unique_chatters": 1972,
+ "members_confirmed": 105,
  "member_classes": {
-  "unknown": 83,
-  "known": 19,
+  "unknown": 84,
+  "known": 20,
   "gift": 1
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 8
+   "members": 9
   },
   {
    "months": 1,
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 15
+   "members": 16
   },
   {
    "months": 24,
@@ -67,7 +67,7 @@
   }
  ],
  "events": {
-  "new_members": 6,
+  "new_members": 7,
   "rejoins": 4,
   "milestones": 8,
   "gift_purchases": 1,
@@ -80,43 +80,43 @@
    "tier": "level1",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 11,
-   "share_of_confirmed_pct": 57.9,
-   "allocated_unknown": 48.1,
-   "estimated_members": 59.1,
-   "monthly_net_confirmed": 3430,
-   "monthly_net_estimated": 18414
+   "confirmed_members": 12,
+   "share_of_confirmed_pct": 60.0,
+   "allocated_unknown": 50.4,
+   "estimated_members": 62.4,
+   "monthly_net_confirmed": 3742,
+   "monthly_net_estimated": 19457
   },
   {
    "tier": "level2",
    "price": 1190,
    "net_per_member": 757.3,
    "confirmed_members": 2,
-   "share_of_confirmed_pct": 10.5,
-   "allocated_unknown": 8.7,
-   "estimated_members": 10.7,
+   "share_of_confirmed_pct": 10.0,
+   "allocated_unknown": 8.4,
+   "estimated_members": 10.4,
    "monthly_net_confirmed": 1515,
-   "monthly_net_estimated": 8131
+   "monthly_net_estimated": 7876
   },
   {
    "tier": "level4",
    "price": 6300,
    "net_per_member": 4009.1,
    "confirmed_members": 6,
-   "share_of_confirmed_pct": 31.6,
-   "allocated_unknown": 26.2,
-   "estimated_members": 32.2,
+   "share_of_confirmed_pct": 30.0,
+   "allocated_unknown": 25.2,
+   "estimated_members": 31.2,
    "monthly_net_confirmed": 24055,
-   "monthly_net_estimated": 129135
+   "monthly_net_estimated": 125084
   }
  ],
  "revenue": {
-  "monthly_low": 54880,
-  "monthly_est": 155679,
+  "monthly_low": 55504,
+  "monthly_est": 152417,
   "gift_once": 312,
-  "total_low": 55192,
-  "total_est": 155991,
-  "paying_members": 102,
+  "total_low": 55815,
+  "total_est": 152729,
+  "paying_members": 104,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -334,6 +334,16 @@
    "member_chatters": 27,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "UEIQacuSzyA",
+   "start": "2026-11-01 21:00",
+   "title": "【スプラ3】チーム9顔合わせいくぞぉおお！！！| #にじイカ祭り2026 【レイン・パターソン/にじさんじ】",
+   "kind": "配信",
+   "chatters": 76,
+   "member_chatters": 28,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -348,18 +358,6 @@
    "members_level": "level2",
    "like_count": 23,
    "view_count": null
-  },
-  {
-   "video_id": "UEIQacuSzyA",
-   "start": "2026-11-01 00:00",
-   "title": "【スプラ3】チーム9顔合わせいくぞぉおお！！！| #にじイカ祭り2026 【レイン・パターソン/にじさんじ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 600,
-   "view_count": 22540
   }
  ],
  "members_only_content": [
@@ -570,23 +568,23 @@
     "from": "2026-11-01",
     "to": "2026-11-02"
    },
-   "streams_analyzed": 1,
-   "streams_missed": 1,
-   "unique_chatters": 243,
-   "members_confirmed": 27,
+   "streams_analyzed": 2,
+   "streams_missed": 0,
+   "unique_chatters": 301,
+   "members_confirmed": 43,
    "member_classes": {
-    "unknown": 21,
-    "known": 6
+    "unknown": 36,
+    "known": 7
    },
-   "long_term_members": 21,
+   "long_term_members": 35,
    "badges": [
     {
      "months": 0,
-     "members": 1
+     "members": 2
     },
     {
      "months": 2,
-     "members": 1
+     "members": 2
     },
     {
      "months": 6,
@@ -594,27 +592,27 @@
     },
     {
      "months": 12,
-     "members": 3
+     "members": 4
     },
     {
      "months": 24,
-     "members": 2
+     "members": 4
     },
     {
      "months": 36,
-     "members": 2
-    },
-    {
-     "months": 48,
      "members": 3
     },
     {
+     "months": 48,
+     "members": 9
+    },
+    {
      "months": 60,
-     "members": 11
+     "members": 15
     }
    ],
    "events": {
-    "new_members": 0,
+    "new_members": 1,
     "rejoins": 0,
     "milestones": 0,
     "gifted_total": 0
@@ -623,28 +621,28 @@
     {
      "tier": "level1",
      "price": 490,
-     "confirmed_members": 1,
-     "estimated_members": 4.5
+     "confirmed_members": 2,
+     "estimated_members": 12.3
     },
     {
      "tier": "level2",
      "price": 1190,
      "confirmed_members": 2,
-     "estimated_members": 9.0
+     "estimated_members": 12.3
     },
     {
      "tier": "level4",
      "price": 6300,
      "confirmed_members": 3,
-     "estimated_members": 13.5
+     "estimated_members": 18.4
     }
    ],
    "revenue": {
-    "monthly_low": 20402,
-    "monthly_est": 62341,
+    "monthly_low": 25391,
+    "monthly_est": 87016,
     "gift_once": 0
    },
-   "avg_member_chatters": 27,
+   "avg_member_chatters": 27.5,
    "partial": true,
    "finalized": false
   }
