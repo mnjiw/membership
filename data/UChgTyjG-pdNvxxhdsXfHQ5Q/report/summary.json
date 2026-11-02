@@ -3,27 +3,27 @@
  "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
  "handle": "@PavoliaReine",
  "subscribers": 857000,
- "fetched_at": "2026-11-02 18:59",
- "generated_at": "2026-11-02 18:59",
+ "fetched_at": "2026-11-03 06:33",
+ "generated_at": "2026-11-03 06:34",
  "period": {
-  "from": "2026-10-03 18:59",
-  "to": "2026-11-02 18:59",
+  "from": "2026-10-04 06:33",
+  "to": "2026-11-03 06:33",
   "days": 30
  },
- "streams_analyzed": 30,
+ "streams_analyzed": 31,
  "streams_missed": 0,
- "unique_chatters": 2793,
- "members_confirmed": 325,
+ "unique_chatters": 2852,
+ "members_confirmed": 335,
  "member_classes": {
-  "known": 113,
-  "unknown": 189,
-  "gift": 23
+  "known": 116,
+  "unknown": 191,
+  "gift": 28
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 37
+   "members": 43
   },
   {
    "months": 1,
@@ -33,12 +33,12 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 16
+   "members": 17
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 26
+   "members": 27
   },
   {
    "months": 12,
@@ -48,7 +48,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 24
+   "members": 25
   },
   {
    "months": 36,
@@ -63,16 +63,16 @@
   {
    "months": 60,
    "label": "5年",
-   "members": 96
+   "members": 97
   }
  ],
  "events": {
   "new_members": 4,
-  "rejoins": 5,
-  "milestones": 28,
-  "gift_purchases": 9,
-  "gifted_total": 25,
-  "gift_redemptions": 24
+  "rejoins": 6,
+  "milestones": 32,
+  "gift_purchases": 10,
+  "gifted_total": 30,
+  "gift_redemptions": 29
  },
  "tiers_configured": true,
  "tiers": [
@@ -80,21 +80,21 @@
    "tier": "The Royaltea",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 113,
+   "confirmed_members": 116,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 189.0,
-   "estimated_members": 302.0,
-   "monthly_net_confirmed": 49617,
-   "monthly_net_estimated": 132605
+   "allocated_unknown": 191.0,
+   "estimated_members": 307.0,
+   "monthly_net_confirmed": 50935,
+   "monthly_net_estimated": 134801
   }
  ],
  "revenue": {
-  "monthly_low": 132605,
-  "monthly_est": 132605,
-  "gift_once": 10977,
-  "total_low": 143583,
-  "total_est": 143583,
-  "paying_members": 302,
+  "monthly_low": 134801,
+  "monthly_est": 134801,
+  "gift_once": 13173,
+  "total_low": 147974,
+  "total_est": 147974,
+  "paying_members": 307,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -402,6 +402,16 @@
    "member_chatters": 103,
    "new_members": 0,
    "gifted_total": 5
+  },
+  {
+   "video_id": "rIyRCMIzNJw",
+   "start": "2026-11-02 22:04",
+   "title": "Tending to Bizarre Guests as a Servant of the Lake (PART 2)【Pavolia Reine/hololive】",
+   "kind": "配信",
+   "chatters": 282,
+   "member_chatters": 110,
+   "new_members": 0,
+   "gifted_total": 5
   }
  ],
  "missed_streams": [],
@@ -549,6 +559,83 @@
    },
    "avg_member_chatters": 87.0,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-03"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 282,
+   "members_confirmed": 110,
+   "member_classes": {
+    "unknown": 57,
+    "known": 48,
+    "gift": 5
+   },
+   "long_term_members": 88,
+   "badges": [
+    {
+     "months": 0,
+     "members": 8
+    },
+    {
+     "months": 1,
+     "members": 2
+    },
+    {
+     "months": 2,
+     "members": 4
+    },
+    {
+     "months": 6,
+     "members": 8
+    },
+    {
+     "months": 12,
+     "members": 12
+    },
+    {
+     "months": 24,
+     "members": 10
+    },
+    {
+     "months": 36,
+     "members": 8
+    },
+    {
+     "months": 48,
+     "members": 18
+    },
+    {
+     "months": 60,
+     "members": 40
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 1,
+    "milestones": 4,
+    "gifted_total": 5
+   },
+   "tiers": [
+    {
+     "tier": "The Royaltea",
+     "price": 690,
+     "confirmed_members": 48,
+     "estimated_members": 105.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 46105,
+    "monthly_est": 46105,
+    "gift_once": 2195
+   },
+   "avg_member_chatters": 110,
+   "partial": true,
    "finalized": false
   }
  ],

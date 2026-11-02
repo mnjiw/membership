@@ -3,19 +3,19 @@
  "channel_id": "UCv3EicDtxObcZZmnFcHvNnw",
  "handle": "@onigayaten0512",
  "subscribers": 87700,
- "fetched_at": "2026-11-02 19:01",
- "generated_at": "2026-11-02 19:01",
+ "fetched_at": "2026-11-03 06:41",
+ "generated_at": "2026-11-03 06:41",
  "period": {
-  "from": "2026-10-03 19:01",
-  "to": "2026-11-02 19:01",
+  "from": "2026-10-04 06:41",
+  "to": "2026-11-03 06:41",
   "days": 30
  },
  "streams_analyzed": 35,
  "streams_missed": 4,
- "unique_chatters": 572,
- "members_confirmed": 211,
+ "unique_chatters": 565,
+ "members_confirmed": 208,
  "member_classes": {
-  "unknown": 136,
+  "unknown": 133,
   "known": 15,
   "gift": 60
  },
@@ -33,12 +33,12 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 30
+   "members": 29
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 38
+   "members": 36
   },
   {
    "months": 12,
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 15,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 136.0,
-   "estimated_members": 151.0,
+   "allocated_unknown": 133.0,
+   "estimated_members": 148.0,
    "monthly_net_confirmed": 4677,
-   "monthly_net_estimated": 47085
+   "monthly_net_estimated": 46149
   }
  ],
  "revenue": {
-  "monthly_low": 47085,
-  "monthly_est": 47085,
+  "monthly_low": 46149,
+  "monthly_est": 46149,
   "gift_once": 18709,
-  "total_low": 65794,
-  "total_est": 65794,
-  "paying_members": 151,
+  "total_low": 64858,
+  "total_est": 64858,
+  "paying_members": 148,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "HV4sra8BZl8",
-   "start": "2026-10-03 22:01",
-   "title": "【雑談】ちょっと飲みたい、そんな気分。【鬼ヶ谷テン/ネオポルテ】",
-   "kind": "配信",
-   "chatters": 78,
-   "member_chatters": 41,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "UVupdZzeBcI",
    "start": "2026-10-04 13:03",
@@ -437,6 +427,16 @@
    "member_chatters": 33,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "EVqkT_6i6Jw",
+   "start": "2026-11-02 21:01",
+   "title": "【スト6】弊社対戦会ですよ～～～！！！【鬼ヶ谷テン/ネオポルテ】",
+   "kind": "配信",
+   "chatters": 43,
+   "member_chatters": 28,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -656,16 +656,17 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-02"
+    "to": "2026-11-03"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 0,
-   "unique_chatters": 49,
-   "members_confirmed": 33,
+   "unique_chatters": 68,
+   "members_confirmed": 41,
    "member_classes": {
-    "unknown": 33
+    "unknown": 39,
+    "known": 2
    },
-   "long_term_members": 15,
+   "long_term_members": 19,
    "badges": [
     {
      "months": 0,
@@ -673,19 +674,19 @@
     },
     {
      "months": 2,
-     "members": 5
+     "members": 6
     },
     {
      "months": 6,
-     "members": 10
-    },
-    {
-     "months": 12,
      "members": 13
     },
     {
+     "months": 12,
+     "members": 16
+    },
+    {
      "months": 24,
-     "members": 2
+     "members": 3
     }
    ],
    "events": {
@@ -698,16 +699,16 @@
     {
      "tier": "鬼組",
      "price": 490,
-     "confirmed_members": 0,
-     "estimated_members": 33.0
+     "confirmed_members": 2,
+     "estimated_members": 41.0
     }
    ],
    "revenue": {
-    "monthly_low": 10290,
-    "monthly_est": 10290,
+    "monthly_low": 12785,
+    "monthly_est": 12785,
     "gift_once": 0
    },
-   "avg_member_chatters": 33,
+   "avg_member_chatters": 30.5,
    "partial": true,
    "finalized": false
   }

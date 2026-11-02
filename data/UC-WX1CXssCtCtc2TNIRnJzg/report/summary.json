@@ -3,32 +3,32 @@
  "channel_id": "UC-WX1CXssCtCtc2TNIRnJzg",
  "handle": "@Kokage_Tsumugi",
  "subscribers": 463000,
- "fetched_at": "2026-11-02 19:00",
- "generated_at": "2026-11-02 19:00",
+ "fetched_at": "2026-11-03 06:37",
+ "generated_at": "2026-11-03 06:37",
  "period": {
-  "from": "2026-10-03 19:00",
-  "to": "2026-11-02 19:00",
+  "from": "2026-10-04 06:37",
+  "to": "2026-11-03 06:37",
   "days": 30
  },
- "streams_analyzed": 33,
+ "streams_analyzed": 34,
  "streams_missed": 0,
- "unique_chatters": 4934,
- "members_confirmed": 1349,
+ "unique_chatters": 5040,
+ "members_confirmed": 1360,
  "member_classes": {
-  "unknown": 672,
+  "unknown": 679,
   "known": 171,
-  "gift": 506
+  "gift": 510
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 552
+   "members": 555
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 34
+   "members": 36
   },
   {
    "months": 2,
@@ -38,26 +38,26 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 119
+   "members": 121
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 199
+   "members": 201
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 372
+   "members": 374
   }
  ],
  "events": {
   "new_members": 40,
   "rejoins": 28,
   "milestones": 100,
-  "gift_purchases": 202,
-  "gifted_total": 556,
-  "gift_redemptions": 506
+  "gift_purchases": 206,
+  "gifted_total": 560,
+  "gift_redemptions": 510
  },
  "tiers_configured": true,
  "tiers": [
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 171,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 672.0,
-   "estimated_members": 843.0,
+   "allocated_unknown": 679.0,
+   "estimated_members": 850.0,
    "monthly_net_confirmed": 53321,
-   "monthly_net_estimated": 262863
+   "monthly_net_estimated": 265045
   }
  ],
  "revenue": {
-  "monthly_low": 262863,
-  "monthly_est": 262863,
-  "gift_once": 173371,
-  "total_low": 436234,
-  "total_est": 436234,
-  "paying_members": 843,
+  "monthly_low": 265045,
+  "monthly_est": 265045,
+  "gift_once": 174618,
+  "total_low": 439664,
+  "total_est": 439664,
+  "paying_members": 850,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -417,6 +417,16 @@
    "member_chatters": 152,
    "new_members": 0,
    "gifted_total": 7
+  },
+  {
+   "video_id": "zKG2Lssl95k",
+   "start": "2026-11-02 15:04",
+   "title": "【VALORANT】あの人とDuo【ぶいすぽっ！ / 紡木こかげ】",
+   "kind": "配信",
+   "chatters": 339,
+   "member_chatters": 123,
+   "new_members": 0,
+   "gifted_total": 4
   }
  ],
  "missed_streams": [],
@@ -546,64 +556,64 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-02"
+    "to": "2026-11-03"
    },
-   "streams_analyzed": 2,
+   "streams_analyzed": 3,
    "streams_missed": 0,
-   "unique_chatters": 460,
-   "members_confirmed": 199,
+   "unique_chatters": 699,
+   "members_confirmed": 246,
    "member_classes": {
-    "unknown": 139,
-    "known": 46,
-    "gift": 14
+    "unknown": 175,
+    "known": 53,
+    "gift": 18
    },
-   "long_term_members": 131,
+   "long_term_members": 155,
    "badges": [
     {
      "months": 0,
-     "members": 26
+     "members": 34
     },
     {
      "months": 1,
-     "members": 3
+     "members": 5
     },
     {
      "months": 2,
-     "members": 16
-    },
-    {
-     "months": 6,
      "members": 23
     },
     {
+     "months": 6,
+     "members": 29
+    },
+    {
      "months": 12,
-     "members": 55
+     "members": 61
     },
     {
      "months": 24,
-     "members": 76
+     "members": 94
     }
    ],
    "events": {
     "new_members": 1,
     "rejoins": 2,
     "milestones": 0,
-    "gifted_total": 14
+    "gifted_total": 18
    },
    "tiers": [
     {
      "tier": "こもれびと",
      "price": 490,
-     "confirmed_members": 46,
-     "estimated_members": 185.0
+     "confirmed_members": 53,
+     "estimated_members": 228.0
     }
    ],
    "revenue": {
-    "monthly_low": 57686,
-    "monthly_est": 57686,
-    "gift_once": 4365
+    "monthly_low": 71095,
+    "monthly_est": 71095,
+    "gift_once": 5613
    },
-   "avg_member_chatters": 125,
+   "avg_member_chatters": 124.3,
    "partial": true,
    "finalized": false
   }

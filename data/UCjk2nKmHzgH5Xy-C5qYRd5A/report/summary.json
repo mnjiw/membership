@@ -3,27 +3,27 @@
  "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
  "handle": "@MizumiyaSu",
  "subscribers": 753000,
- "fetched_at": "2026-11-02 18:58",
- "generated_at": "2026-11-02 18:59",
+ "fetched_at": "2026-11-03 06:30",
+ "generated_at": "2026-11-03 06:33",
  "period": {
-  "from": "2026-10-03 18:58",
-  "to": "2026-11-02 18:58",
+  "from": "2026-10-04 06:30",
+  "to": "2026-11-03 06:30",
   "days": 30
  },
  "streams_analyzed": 36,
  "streams_missed": 1,
- "unique_chatters": 17817,
- "members_confirmed": 3542,
+ "unique_chatters": 17849,
+ "members_confirmed": 3628,
  "member_classes": {
-  "unknown": 2262,
-  "known": 339,
-  "gift": 941
+  "unknown": 2259,
+  "known": 343,
+  "gift": 1026
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 1146
+   "members": 1235
   },
   {
    "months": 1,
@@ -33,26 +33,26 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 503
+   "members": 499
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 613
+   "members": 612
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 1154
+   "members": 1156
   }
  ],
  "events": {
-  "new_members": 143,
+  "new_members": 142,
   "rejoins": 45,
-  "milestones": 105,
-  "gift_purchases": 183,
-  "gifted_total": 1075,
-  "gift_redemptions": 941
+  "milestones": 101,
+  "gift_purchases": 188,
+  "gifted_total": 1160,
+  "gift_redemptions": 1026
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,21 +60,21 @@
    "tier": "しゅぴ通信",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 339,
+   "confirmed_members": 343,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2262.0,
-   "estimated_members": 2601.0,
-   "monthly_net_confirmed": 105706,
-   "monthly_net_estimated": 811039
+   "allocated_unknown": 2259.0,
+   "estimated_members": 2602.0,
+   "monthly_net_confirmed": 106954,
+   "monthly_net_estimated": 811351
   }
  ],
  "revenue": {
-  "monthly_low": 811039,
-  "monthly_est": 811039,
-  "gift_once": 335205,
-  "total_low": 1146244,
-  "total_est": 1146244,
-  "paying_members": 2601,
+  "monthly_low": 811351,
+  "monthly_est": 811351,
+  "gift_once": 361709,
+  "total_low": 1173060,
+  "total_est": 1173060,
+  "paying_members": 2602,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "DgrFwg7po0U",
-   "start": "2026-10-03 23:01",
-   "title": "【バイオハザードレクイエム】ホラゲ苦手が行くバイオ9初見❕#８【水宮枢／ホロライブ】※ネタバレ有",
-   "kind": "配信",
-   "chatters": 1164,
-   "member_chatters": 490,
-   "new_members": 10,
-   "gifted_total": 6
-  },
   {
    "video_id": "JPRGdxVEAWU",
    "start": "2026-10-04 15:00",
@@ -442,6 +432,16 @@
    "member_chatters": 512,
    "new_members": 5,
    "gifted_total": 1
+  },
+  {
+   "video_id": "2czNjeqndOk",
+   "start": "2026-11-02 22:31",
+   "title": "【#8】LOST JUDGMENT：裁かれざる記憶 ※ネタバレ有【水宮枢／ホロライブ】",
+   "kind": "配信",
+   "chatters": 1464,
+   "member_chatters": 570,
+   "new_members": 9,
+   "gifted_total": 91
   }
  ],
  "missed_streams": [
@@ -598,60 +598,60 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-02"
+    "to": "2026-11-03"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 0,
-   "unique_chatters": 1610,
-   "members_confirmed": 512,
+   "unique_chatters": 2649,
+   "members_confirmed": 802,
    "member_classes": {
-    "unknown": 451,
-    "known": 60,
-    "gift": 1
+    "unknown": 623,
+    "known": 87,
+    "gift": 92
    },
-   "long_term_members": 260,
+   "long_term_members": 358,
    "badges": [
     {
      "months": 0,
-     "members": 23
+     "members": 128
     },
     {
      "months": 1,
-     "members": 22
+     "members": 29
     },
     {
      "months": 2,
-     "members": 90
+     "members": 120
     },
     {
      "months": 6,
-     "members": 117
+     "members": 167
     },
     {
      "months": 12,
-     "members": 260
+     "members": 358
     }
    ],
    "events": {
-    "new_members": 5,
-    "rejoins": 4,
-    "milestones": 4,
-    "gifted_total": 1
+    "new_members": 14,
+    "rejoins": 6,
+    "milestones": 5,
+    "gifted_total": 92
    },
    "tiers": [
     {
      "tier": "しゅぴ通信",
      "price": 490,
-     "confirmed_members": 60,
-     "estimated_members": 511.0
+     "confirmed_members": 87,
+     "estimated_members": 710.0
     }
    ],
    "revenue": {
-    "monthly_low": 159339,
-    "monthly_est": 159339,
-    "gift_once": 312
+    "monthly_low": 221391,
+    "monthly_est": 221391,
+    "gift_once": 28687
    },
-   "avg_member_chatters": 512,
+   "avg_member_chatters": 541,
    "partial": true,
    "finalized": false
   }

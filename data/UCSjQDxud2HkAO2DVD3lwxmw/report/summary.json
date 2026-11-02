@@ -3,36 +3,36 @@
  "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
  "handle": "@HyakutoKyoko",
  "subscribers": 333000,
- "fetched_at": "2026-11-02 18:59",
- "generated_at": "2026-11-02 18:59",
+ "fetched_at": "2026-11-03 06:31",
+ "generated_at": "2026-11-03 06:33",
  "period": {
-  "from": "2026-10-03 18:59",
-  "to": "2026-11-02 18:59",
+  "from": "2026-10-04 06:31",
+  "to": "2026-11-03 06:31",
   "days": 30
  },
  "streams_analyzed": 52,
  "streams_missed": 0,
- "unique_chatters": 31574,
- "members_confirmed": 1637,
+ "unique_chatters": 31811,
+ "members_confirmed": 1697,
  "member_classes": {
-  "unknown": 425,
-  "known": 1063,
-  "gift": 149
+  "unknown": 447,
+  "known": 1095,
+  "gift": 155
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 1637
+   "members": 1697
   }
  ],
  "events": {
-  "new_members": 1063,
+  "new_members": 1095,
   "rejoins": 0,
   "milestones": 0,
-  "gift_purchases": 31,
-  "gifted_total": 163,
-  "gift_redemptions": 149
+  "gift_purchases": 34,
+  "gifted_total": 189,
+  "gift_redemptions": 155
  },
  "tiers_configured": true,
  "tiers": [
@@ -40,21 +40,21 @@
    "tier": "百灯派出所 // Chembership",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 1063,
+   "confirmed_members": 1095,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 425.0,
-   "estimated_members": 1488.0,
-   "monthly_net_confirmed": 331463,
-   "monthly_net_estimated": 463985
+   "allocated_unknown": 447.0,
+   "estimated_members": 1542.0,
+   "monthly_net_confirmed": 341441,
+   "monthly_net_estimated": 480824
   }
  ],
  "revenue": {
-  "monthly_low": 463985,
-  "monthly_est": 463985,
-  "gift_once": 50826,
-  "total_low": 514812,
-  "total_est": 514812,
-  "paying_members": 1488,
+  "monthly_low": 480824,
+  "monthly_est": 480824,
+  "gift_once": 58934,
+  "total_low": 539757,
+  "total_est": 539757,
+  "paying_members": 1542,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -63,16 +63,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "yT6Sp7JtRVY",
-   "start": "2026-10-03 21:59",
-   "title": "【ホラー】カフェの仕事？憧れてたんです！ | 閉店事件【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-   "kind": "配信",
-   "chatters": 2044,
-   "member_chatters": 0,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "qZ3kwg_7Zvk",
    "start": "2026-10-04 20:59",
@@ -582,6 +572,16 @@
    "member_chatters": 418,
    "new_members": 57,
    "gifted_total": 20
+  },
+  {
+   "video_id": "1keTs6wLc3o",
+   "start": "2026-11-02 21:59",
+   "title": "#8 最強担当、いざ参る！！※ネタバレあり | 鬼武者 Way of the Sword 【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+   "kind": "配信",
+   "chatters": 1973,
+   "member_chatters": 403,
+   "new_members": 32,
+   "gifted_total": 26
   }
  ],
  "missed_streams": [],
@@ -662,44 +662,44 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-02"
+    "to": "2026-11-03"
    },
-   "streams_analyzed": 2,
+   "streams_analyzed": 3,
    "streams_missed": 0,
-   "unique_chatters": 2267,
-   "members_confirmed": 599,
+   "unique_chatters": 3828,
+   "members_confirmed": 785,
    "member_classes": {
-    "unknown": 230,
-    "known": 353,
-    "gift": 16
+    "unknown": 296,
+    "known": 467,
+    "gift": 22
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 599
+     "members": 785
     }
    ],
    "events": {
-    "new_members": 106,
+    "new_members": 138,
     "rejoins": 0,
     "milestones": 0,
-    "gifted_total": 20
+    "gifted_total": 46
    },
    "tiers": [
     {
      "tier": "百灯派出所 // Chembership",
      "price": 490,
-     "confirmed_members": 353,
-     "estimated_members": 583.0
+     "confirmed_members": 467,
+     "estimated_members": 763.0
     }
    ],
    "revenue": {
-    "monthly_low": 181790,
-    "monthly_est": 181790,
-    "gift_once": 6236
+    "monthly_low": 237917,
+    "monthly_est": 237917,
+    "gift_once": 14344
    },
-   "avg_member_chatters": 358.5,
+   "avg_member_chatters": 373.3,
    "partial": true,
    "finalized": false
   }

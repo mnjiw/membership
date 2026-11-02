@@ -3,27 +3,27 @@
  "channel_id": "UCo6mwsozDGMW0UNGowBJGhg",
  "handle": "@KonkonAria",
  "subscribers": 159000,
- "fetched_at": "2026-11-02 19:01",
- "generated_at": "2026-11-02 19:01",
+ "fetched_at": "2026-11-03 06:41",
+ "generated_at": "2026-11-03 06:41",
  "period": {
-  "from": "2026-10-03 19:01",
-  "to": "2026-11-02 19:01",
+  "from": "2026-10-04 06:41",
+  "to": "2026-11-03 06:41",
   "days": 30
  },
- "streams_analyzed": 24,
- "streams_missed": 2,
- "unique_chatters": 3796,
- "members_confirmed": 679,
+ "streams_analyzed": 23,
+ "streams_missed": 3,
+ "unique_chatters": 3734,
+ "members_confirmed": 675,
  "member_classes": {
-  "known": 102,
-  "unknown": 364,
+  "unknown": 362,
+  "known": 100,
   "gift": 213
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 243
+   "members": 239
   },
   {
    "months": 1,
@@ -52,7 +52,7 @@
   }
  ],
  "events": {
-  "new_members": 29,
+  "new_members": 27,
   "rejoins": 18,
   "milestones": 47,
   "gift_purchases": 59,
@@ -65,21 +65,21 @@
    "tier": "メンバーシップ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 102,
+   "confirmed_members": 100,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 364.0,
-   "estimated_members": 466.0,
-   "monthly_net_confirmed": 31805,
-   "monthly_net_estimated": 145307
+   "allocated_unknown": 362.0,
+   "estimated_members": 462.0,
+   "monthly_net_confirmed": 31182,
+   "monthly_net_estimated": 144060
   }
  ],
  "revenue": {
-  "monthly_low": 145307,
-  "monthly_est": 145307,
+  "monthly_low": 144060,
+  "monthly_est": 144060,
   "gift_once": 67041,
-  "total_low": 212348,
-  "total_est": 212348,
-  "paying_members": 466,
+  "total_low": 211101,
+  "total_est": 211101,
+  "paying_members": 462,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "EZ3YfzDLma8",
-   "start": "2026-10-03 19:31",
-   "title": "【 BioShock 】初見プレイ！ノーチラスが出てくるらしい【昏昏アリア/ネオポルテ】",
-   "kind": "配信",
-   "chatters": 286,
-   "member_chatters": 114,
-   "new_members": 2,
-   "gifted_total": 0
-  },
   {
    "video_id": "CMQtLjT36N8",
    "start": "2026-10-04 14:01",
@@ -353,6 +343,18 @@
    "members_level": "メンバーシップ",
    "like_count": 130,
    "view_count": null
+  },
+  {
+   "video_id": "LUcYWYZz9YY",
+   "start": "2026-11-02 00:00",
+   "title": "【 #LTK 】Day5本番！ CC CORE #CCWIN【昏昏アリア/ネオポルテ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 1112,
+   "view_count": 130189
   }
  ],
  "members_only_content": [
@@ -502,10 +504,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-02"
+    "to": "2026-11-03"
    },
    "streams_analyzed": 1,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 614,
    "members_confirmed": 204,
    "member_classes": {

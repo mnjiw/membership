@@ -3,32 +3,32 @@
  "channel_id": "UCFaGKEDWe9_jOmWMsyatxSw",
  "handle": "@MukuroOwarino",
  "subscribers": 34100,
- "fetched_at": "2026-11-02 19:01",
- "generated_at": "2026-11-02 19:01",
+ "fetched_at": "2026-11-03 06:39",
+ "generated_at": "2026-11-03 06:40",
  "period": {
-  "from": "2026-10-03 19:01",
-  "to": "2026-11-02 19:01",
+  "from": "2026-10-04 06:39",
+  "to": "2026-11-03 06:39",
   "days": 30
  },
- "streams_analyzed": 22,
+ "streams_analyzed": 23,
  "streams_missed": 2,
- "unique_chatters": 703,
- "members_confirmed": 156,
+ "unique_chatters": 793,
+ "members_confirmed": 197,
  "member_classes": {
+  "unknown": 134,
   "known": 11,
-  "unknown": 129,
-  "gift": 16
+  "gift": 52
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 38
+   "members": 73
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 13
+   "members": 14
   },
   {
    "months": 2,
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 38
+   "members": 43
   },
   {
    "months": 24,
@@ -55,9 +55,9 @@
   "new_members": 5,
   "rejoins": 2,
   "milestones": 5,
-  "gift_purchases": 8,
-  "gifted_total": 101,
-  "gift_redemptions": 16
+  "gift_purchases": 11,
+  "gifted_total": 251,
+  "gift_redemptions": 52
  },
  "tiers_configured": true,
  "tiers": [
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 11,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 129.0,
-   "estimated_members": 140.0,
+   "allocated_unknown": 134.0,
+   "estimated_members": 145.0,
    "monthly_net_confirmed": 3430,
-   "monthly_net_estimated": 43655
+   "monthly_net_estimated": 45214
   }
  ],
  "revenue": {
-  "monthly_low": 43655,
-  "monthly_est": 43655,
-  "gift_once": 31494,
-  "total_low": 75148,
-  "total_est": 75148,
-  "paying_members": 140,
+  "monthly_low": 45214,
+  "monthly_est": 45214,
+  "gift_once": 78266,
+  "total_low": 123480,
+  "total_est": 123480,
+  "paying_members": 145,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "6wUuRZug5XY",
-   "start": "2026-10-03 21:06",
-   "title": "♰ SILENT HILL: Townfall ♰ #4 怖い場所に閉じ込められています【 #終末むくろ / #すぺしゃりて 】",
-   "kind": "配信",
-   "chatters": 63,
-   "member_chatters": 33,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "nR1GlvESExs",
    "start": "2026-10-05 21:03",
@@ -307,6 +297,26 @@
    "member_chatters": 82,
    "new_members": 2,
    "gifted_total": 0
+  },
+  {
+   "video_id": "KtaM5t2rkbI",
+   "start": "2026-11-02 20:32",
+   "title": "きみのためのうた / 終末むくろ 【歌ってみた】",
+   "kind": "プレミア",
+   "chatters": 44,
+   "member_chatters": 30,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "huZrPkHjuZc",
+   "start": "2026-11-02 20:59",
+   "title": "♰ #終末むくろ生誕祭2026 ♰ カメラあり！むくろの3回目の誕生日会だ！【 #終末むくろ / #すぺしゃりて 】",
+   "kind": "配信",
+   "chatters": 287,
+   "member_chatters": 131,
+   "new_members": 0,
+   "gifted_total": 150
   }
  ],
  "missed_streams": [
@@ -478,63 +488,64 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-02"
+    "to": "2026-11-03"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 3,
    "streams_missed": 0,
-   "unique_chatters": 183,
-   "members_confirmed": 82,
+   "unique_chatters": 366,
+   "members_confirmed": 153,
    "member_classes": {
-    "unknown": 73,
-    "known": 9
+    "unknown": 108,
+    "known": 9,
+    "gift": 36
    },
-   "long_term_members": 52,
+   "long_term_members": 67,
    "badges": [
     {
      "months": 0,
-     "members": 11
+     "members": 52
     },
     {
      "months": 1,
-     "members": 6
+     "members": 11
     },
     {
      "months": 2,
-     "members": 5
+     "members": 9
     },
     {
      "months": 6,
-     "members": 8
+     "members": 14
     },
     {
      "months": 12,
-     "members": 30
+     "members": 40
     },
     {
      "months": 24,
-     "members": 22
+     "members": 27
     }
    ],
    "events": {
     "new_members": 2,
     "rejoins": 0,
     "milestones": 3,
-    "gifted_total": 0
+    "gifted_total": 150
    },
    "tiers": [
     {
      "tier": "むくろの冥土さん",
      "price": 490,
      "confirmed_members": 9,
-     "estimated_members": 82.0
+     "estimated_members": 117.0
     }
    ],
    "revenue": {
-    "monthly_low": 25569,
-    "monthly_est": 25569,
-    "gift_once": 0
+    "monthly_low": 36483,
+    "monthly_est": 36483,
+    "gift_once": 46773
    },
-   "avg_member_chatters": 82,
+   "avg_member_chatters": 81,
    "partial": true,
    "finalized": false
   }

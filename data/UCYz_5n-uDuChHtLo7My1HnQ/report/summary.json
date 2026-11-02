@@ -3,32 +3,32 @@
  "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
  "handle": "@KureijiOllie",
  "subscribers": 1410000,
- "fetched_at": "2026-11-02 18:59",
- "generated_at": "2026-11-02 18:59",
+ "fetched_at": "2026-11-03 06:33",
+ "generated_at": "2026-11-03 06:33",
  "period": {
-  "from": "2026-10-03 18:59",
-  "to": "2026-11-02 18:59",
+  "from": "2026-10-04 06:33",
+  "to": "2026-11-03 06:33",
   "days": 30
  },
- "streams_analyzed": 30,
- "streams_missed": 6,
- "unique_chatters": 6428,
- "members_confirmed": 564,
+ "streams_analyzed": 29,
+ "streams_missed": 7,
+ "unique_chatters": 6396,
+ "members_confirmed": 562,
  "member_classes": {
-  "unknown": 314,
-  "known": 181,
+  "unknown": 313,
+  "known": 180,
   "gift": 69
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 97
+   "members": 96
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 32
+   "members": 31
   },
   {
    "months": 2,
@@ -64,7 +64,7 @@
  "events": {
   "new_members": 12,
   "rejoins": 15,
-  "milestones": 128,
+  "milestones": 127,
   "gift_purchases": 24,
   "gifted_total": 71,
   "gift_redemptions": 70
@@ -75,21 +75,21 @@
    "tier": "ZOMILY",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 181,
+   "confirmed_members": 180,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 314.0,
-   "estimated_members": 495.0,
-   "monthly_net_confirmed": 79475,
-   "monthly_net_estimated": 217350
+   "allocated_unknown": 313.0,
+   "estimated_members": 493.0,
+   "monthly_net_confirmed": 79036,
+   "monthly_net_estimated": 216472
   }
  ],
  "revenue": {
-  "monthly_low": 217350,
-  "monthly_est": 217350,
+  "monthly_low": 216472,
+  "monthly_est": 216472,
   "gift_once": 31175,
-  "total_low": 248525,
-  "total_est": 248525,
-  "paying_members": 495,
+  "total_low": 247647,
+  "total_est": 247647,
+  "paying_members": 493,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "2U64RtX8cwY",
-   "start": "2026-10-03 22:04",
-   "title": "【hololive Dreams】 GACHA-BANANZA WITH MOONA!! #holodori #ホロドリ 【Kureiji Ollie】",
-   "kind": "配信",
-   "chatters": 186,
-   "member_chatters": 56,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "Tpd_eeg2NfM",
    "start": "2026-10-04 10:00",
@@ -471,6 +461,18 @@
    "members_level": "",
    "like_count": 218,
    "view_count": null
+  },
+  {
+   "video_id": "FAzK_lZBsls",
+   "start": "2026-11-02 00:00",
+   "title": "【FREETALK】 HAPPY NOVEMBER EVERYBODY!! LET'S CHAT!! 【Kureiji Ollie】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 3761,
+   "view_count": 45178
   }
  ],
  "members_only_content": [

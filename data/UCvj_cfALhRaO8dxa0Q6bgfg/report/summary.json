@@ -3,46 +3,46 @@
  "channel_id": "UCvj_cfALhRaO8dxa0Q6bgfg",
  "handle": "@ArcanaGrimmybear",
  "subscribers": 30800,
- "fetched_at": "2026-11-02 19:02",
- "generated_at": "2026-11-02 19:02",
+ "fetched_at": "2026-11-03 06:42",
+ "generated_at": "2026-11-03 06:42",
  "period": {
-  "from": "2026-10-03 19:02",
-  "to": "2026-11-02 19:02",
+  "from": "2026-10-04 06:42",
+  "to": "2026-11-03 06:42",
   "days": 30
  },
  "streams_analyzed": 32,
  "streams_missed": 3,
- "unique_chatters": 1109,
- "members_confirmed": 466,
+ "unique_chatters": 1104,
+ "members_confirmed": 418,
  "member_classes": {
-  "unknown": 295,
-  "known": 17,
-  "gift": 154
+  "unknown": 298,
+  "known": 16,
+  "gift": 104
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 193
+   "members": 146
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 40
+   "members": 41
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 233
+   "members": 231
   }
  ],
  "events": {
-  "new_members": 10,
+  "new_members": 9,
   "rejoins": 4,
   "milestones": 0,
-  "gift_purchases": 11,
-  "gifted_total": 145,
-  "gift_redemptions": 154
+  "gift_purchases": 10,
+  "gifted_total": 95,
+  "gift_redemptions": 104
  },
  "tiers_configured": true,
  "tiers": [
@@ -50,23 +50,23 @@
    "tier": "🐾 見習い調査員 ✧",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 16,
-   "share_of_confirmed_pct": 94.1,
-   "allocated_unknown": 277.6,
-   "estimated_members": 293.6,
-   "monthly_net_confirmed": 4989,
-   "monthly_net_estimated": 91564
+   "confirmed_members": 15,
+   "share_of_confirmed_pct": 93.8,
+   "allocated_unknown": 279.4,
+   "estimated_members": 294.4,
+   "monthly_net_confirmed": 4677,
+   "monthly_net_estimated": 91791
   },
   {
    "tier": "📖 正式調査員 ✧",
    "price": 1190,
    "net_per_member": 757.3,
    "confirmed_members": 1,
-   "share_of_confirmed_pct": 5.9,
-   "allocated_unknown": 17.4,
-   "estimated_members": 18.4,
+   "share_of_confirmed_pct": 6.2,
+   "allocated_unknown": 18.6,
+   "estimated_members": 19.6,
    "monthly_net_confirmed": 757,
-   "monthly_net_estimated": 13898
+   "monthly_net_estimated": 14861
   },
   {
    "tier": "🕯️ 特別調査官 ✧",
@@ -92,12 +92,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 97733,
-  "monthly_est": 105463,
-  "gift_once": 45214,
-  "total_low": 142946,
-  "total_est": 150676,
-  "paying_members": 312,
+  "monthly_low": 98356,
+  "monthly_est": 106653,
+  "gift_once": 29623,
+  "total_low": 127979,
+  "total_est": 136276,
+  "paying_members": 314,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -106,16 +106,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "DIvHRqcNfkE",
-   "start": "2026-10-03 23:01",
-   "title": "【#ASMR】本当にされてるかのような耳かき🖤耳奥まで届く丁寧でリアルなゴリゴリ音圧。ゼロ距離吐息/睡眠導入/Ear Cleaning/Whispering【アルカナ・グリミィベア/Varium】",
-   "kind": "配信",
-   "chatters": 124,
-   "member_chatters": 126,
-   "new_members": 1,
-   "gifted_total": 50
-  },
   {
    "video_id": "nL22bS34XFQ",
    "start": "2026-10-04 08:02",
@@ -425,6 +415,16 @@
    "member_chatters": 164,
    "new_members": 0,
    "gifted_total": 50
+  },
+  {
+   "video_id": "VpwecawUq8E",
+   "start": "2026-11-02 19:01",
+   "title": "【 雑談 】感謝を込めて.ᐟ すぱちゃお礼させていただきます🧸ෆ【 アルカナ・グリミィベア/Varium 】",
+   "kind": "配信",
+   "chatters": 112,
+   "member_chatters": 74,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -616,14 +616,14 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-02"
+    "to": "2026-11-03"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 0,
-   "unique_chatters": 171,
-   "members_confirmed": 164,
+   "unique_chatters": 219,
+   "members_confirmed": 182,
    "member_classes": {
-    "unknown": 113,
+    "unknown": 131,
     "known": 1,
     "gift": 50
    },
@@ -631,15 +631,15 @@
    "badges": [
     {
      "months": 0,
-     "members": 52
+     "members": 54
     },
     {
      "months": 1,
-     "members": 13
+     "members": 16
     },
     {
      "months": 2,
-     "members": 99
+     "members": 112
     }
    ],
    "events": {
@@ -653,7 +653,7 @@
      "tier": "🐾 見習い調査員 ✧",
      "price": 490,
      "confirmed_members": 1,
-     "estimated_members": 114.0
+     "estimated_members": 132.0
     },
     {
      "tier": "📖 正式調査員 ✧",
@@ -675,11 +675,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 35547,
-    "monthly_est": 35547,
+    "monthly_low": 41160,
+    "monthly_est": 41160,
     "gift_once": 15591
    },
-   "avg_member_chatters": 164,
+   "avg_member_chatters": 119,
    "partial": true,
    "finalized": false
   }

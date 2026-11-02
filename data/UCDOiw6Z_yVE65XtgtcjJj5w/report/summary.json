@@ -3,16 +3,16 @@
  "channel_id": "UCDOiw6Z_yVE65XtgtcjJj5w",
  "handle": "@unohananonochi",
  "subscribers": 41700,
- "fetched_at": "2026-11-02 19:02",
- "generated_at": "2026-11-02 19:02",
+ "fetched_at": "2026-11-03 06:42",
+ "generated_at": "2026-11-03 06:42",
  "period": {
-  "from": "2026-10-03 19:02",
-  "to": "2026-11-02 19:02",
+  "from": "2026-10-04 06:42",
+  "to": "2026-11-03 06:42",
   "days": 30
  },
- "streams_analyzed": 29,
+ "streams_analyzed": 30,
  "streams_missed": 3,
- "unique_chatters": 2047,
+ "unique_chatters": 2065,
  "members_confirmed": 1177,
  "member_classes": {
   "unknown": 310,
@@ -23,27 +23,27 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 757
+   "members": 755
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 49
+   "members": 50
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 162
+   "members": 163
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 56
+   "members": 53
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 153
+   "members": 156
   }
  ],
  "events": {
@@ -405,6 +405,16 @@
    "member_chatters": 102,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "jkkNGsbUt7M",
+   "start": "2026-11-02 18:59",
+   "title": "[Dandelions Endure] And Then, I Become a Dandelion. [Unohana Nochi/Varium]",
+   "kind": "配信",
+   "chatters": 227,
+   "member_chatters": 117,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -612,37 +622,37 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-02"
+    "to": "2026-11-03"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 0,
-   "unique_chatters": 277,
-   "members_confirmed": 102,
+   "unique_chatters": 408,
+   "members_confirmed": 157,
    "member_classes": {
-    "unknown": 99,
-    "known": 3
+    "unknown": 153,
+    "known": 4
    },
-   "long_term_members": 49,
+   "long_term_members": 78,
    "badges": [
     {
      "months": 0,
-     "members": 9
-    },
-    {
-     "months": 1,
-     "members": 7
-    },
-    {
-     "months": 2,
-     "members": 22
-    },
-    {
-     "months": 6,
      "members": 15
     },
     {
+     "months": 1,
+     "members": 11
+    },
+    {
+     "months": 2,
+     "members": 32
+    },
+    {
+     "months": 6,
+     "members": 21
+    },
+    {
      "months": 12,
-     "members": 49
+     "members": 78
     }
    ],
    "events": {
@@ -655,8 +665,8 @@
     {
      "tier": "花束ちゃん",
      "price": 490,
-     "confirmed_members": 3,
-     "estimated_members": 102.0
+     "confirmed_members": 4,
+     "estimated_members": 157.0
     },
     {
      "tier": "花束ちゃま",
@@ -678,11 +688,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 31805,
-    "monthly_est": 31805,
+    "monthly_low": 48955,
+    "monthly_est": 48955,
     "gift_once": 0
    },
-   "avg_member_chatters": 102,
+   "avg_member_chatters": 109.5,
    "partial": true,
    "finalized": false
   }

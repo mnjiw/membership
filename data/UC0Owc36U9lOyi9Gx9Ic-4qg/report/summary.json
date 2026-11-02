@@ -3,19 +3,19 @@
  "channel_id": "UC0Owc36U9lOyi9Gx9Ic-4qg",
  "handle": "@Inaba_Haneru",
  "subscribers": 378000,
- "fetched_at": "2026-11-02 18:59",
- "generated_at": "2026-11-02 18:59",
+ "fetched_at": "2026-11-03 06:34",
+ "generated_at": "2026-11-03 06:34",
  "period": {
-  "from": "2026-10-03 18:59",
-  "to": "2026-11-02 18:59",
+  "from": "2026-10-04 06:34",
+  "to": "2026-11-03 06:34",
   "days": 30
  },
- "streams_analyzed": 13,
+ "streams_analyzed": 14,
  "streams_missed": 1,
- "unique_chatters": 704,
- "members_confirmed": 191,
+ "unique_chatters": 721,
+ "members_confirmed": 196,
  "member_classes": {
-  "unknown": 184,
+  "unknown": 189,
   "known": 7
  },
  "badges": [
@@ -42,7 +42,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 179
+   "members": 184
   }
  ],
  "events": {
@@ -61,19 +61,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 7,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 184.0,
-   "estimated_members": 191.0,
+   "allocated_unknown": 189.0,
+   "estimated_members": 196.0,
    "monthly_net_confirmed": 2183,
-   "monthly_net_estimated": 59557
+   "monthly_net_estimated": 61116
   }
  ],
  "revenue": {
-  "monthly_low": 59557,
-  "monthly_est": 59557,
+  "monthly_low": 61116,
+  "monthly_est": 61116,
   "gift_once": 0,
-  "total_low": 59557,
-  "total_est": 59557,
-  "paying_members": 191,
+  "total_low": 61116,
+  "total_est": 61116,
+  "paying_members": 196,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -209,6 +209,16 @@
    "kind": "配信",
    "chatters": 200,
    "member_chatters": 82,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "NAu6BgemJDU",
+   "start": "2026-11-02 23:31",
+   "title": "【Feeling Under the Weather】【Inaba Haneru / Nanashi Ink】",
+   "kind": "配信",
+   "chatters": 116,
+   "member_chatters": 80,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -348,6 +358,62 @@
    },
    "avg_member_chatters": 83.5,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-03"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 116,
+   "members_confirmed": 80,
+   "member_classes": {
+    "unknown": 78,
+    "known": 2
+   },
+   "long_term_members": 78,
+   "badges": [
+    {
+     "months": 2,
+     "members": 1
+    },
+    {
+     "months": 6,
+     "members": 1
+    },
+    {
+     "months": 12,
+     "members": 2
+    },
+    {
+     "months": 24,
+     "members": 76
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 0,
+    "milestones": 0,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "因幡組",
+     "price": 490,
+     "confirmed_members": 2,
+     "estimated_members": 80.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 24945,
+    "monthly_est": 24945,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 80,
+   "partial": true,
    "finalized": false
   }
  ],

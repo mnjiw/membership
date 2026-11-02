@@ -3,19 +3,19 @@
  "channel_id": "UC2hc-00y-MSR6eYA4eQ4tjQ",
  "handle": "@Rene_Ryugasaki",
  "subscribers": 249000,
- "fetched_at": "2026-11-02 18:59",
- "generated_at": "2026-11-02 18:59",
+ "fetched_at": "2026-11-03 06:35",
+ "generated_at": "2026-11-03 06:35",
  "period": {
-  "from": "2026-10-03 18:59",
-  "to": "2026-11-02 18:59",
+  "from": "2026-10-04 06:35",
+  "to": "2026-11-03 06:35",
   "days": 30
  },
- "streams_analyzed": 12,
+ "streams_analyzed": 13,
  "streams_missed": 1,
- "unique_chatters": 1376,
- "members_confirmed": 180,
+ "unique_chatters": 1416,
+ "members_confirmed": 181,
  "member_classes": {
-  "unknown": 160,
+  "unknown": 161,
   "known": 15,
   "gift": 5
  },
@@ -53,7 +53,7 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 68
+   "members": 69
   }
  ],
  "events": {
@@ -72,19 +72,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 15,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 160.0,
-   "estimated_members": 175.0,
+   "allocated_unknown": 161.0,
+   "estimated_members": 176.0,
    "monthly_net_confirmed": 4677,
-   "monthly_net_estimated": 54568
+   "monthly_net_estimated": 54880
   }
  ],
  "revenue": {
-  "monthly_low": 54568,
-  "monthly_est": 54568,
+  "monthly_low": 54880,
+  "monthly_est": 54880,
   "gift_once": 1559,
-  "total_low": 56127,
-  "total_est": 56127,
-  "paying_members": 175,
+  "total_low": 56439,
+  "total_est": 56439,
+  "paying_members": 176,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -210,6 +210,16 @@
    "kind": "配信",
    "chatters": 129,
    "member_chatters": 22,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "cM6XcckBf4I",
+   "start": "2026-11-02 14:50",
+   "title": "【FF9】完全初見でプレイする「ファイナルファンタジーⅨ | FINAL FANTASY Ⅸ」#5【龍ヶ崎リン / ななしいんく】",
+   "kind": "配信",
+   "chatters": 184,
+   "member_chatters": 26,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -372,21 +382,21 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-02"
+    "to": "2026-11-03"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 0,
-   "unique_chatters": 129,
-   "members_confirmed": 22,
+   "unique_chatters": 232,
+   "members_confirmed": 31,
    "member_classes": {
-    "unknown": 19,
-    "known": 3
+    "unknown": 27,
+    "known": 4
    },
-   "long_term_members": 15,
+   "long_term_members": 21,
    "badges": [
     {
      "months": 0,
-     "members": 2
+     "members": 5
     },
     {
      "months": 2,
@@ -398,7 +408,7 @@
     },
     {
      "months": 12,
-     "members": 6
+     "members": 7
     },
     {
      "months": 24,
@@ -406,7 +416,7 @@
     },
     {
      "months": 36,
-     "members": 7
+     "members": 12
     }
    ],
    "events": {
@@ -419,16 +429,16 @@
     {
      "tier": "きりん組",
      "price": 490,
-     "confirmed_members": 3,
-     "estimated_members": 22.0
+     "confirmed_members": 4,
+     "estimated_members": 31.0
     }
    ],
    "revenue": {
-    "monthly_low": 6860,
-    "monthly_est": 6860,
+    "monthly_low": 9666,
+    "monthly_est": 9666,
     "gift_once": 0
    },
-   "avg_member_chatters": 22,
+   "avg_member_chatters": 24,
    "partial": true,
    "finalized": false
   }

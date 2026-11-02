@@ -2,59 +2,60 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-02"
+  "to": "2026-11-03"
  },
- "streams_analyzed": 2,
+ "streams_analyzed": 3,
  "streams_missed": 0,
- "unique_chatters": 847,
- "members_confirmed": 317,
+ "unique_chatters": 2498,
+ "members_confirmed": 1104,
  "member_classes": {
-  "unknown": 190,
-  "known": 127
+  "unknown": 753,
+  "known": 343,
+  "gift": 8
  },
- "long_term_members": 196,
+ "long_term_members": 726,
  "badges": [
   {
    "months": 0,
-   "members": 21
+   "members": 58
   },
   {
    "months": 1,
-   "members": 12
+   "members": 28
   },
   {
    "months": 2,
-   "members": 35
+   "members": 109
   },
   {
    "months": 6,
-   "members": 53
+   "members": 183
   },
   {
    "months": 12,
-   "members": 196
+   "members": 726
   }
  ],
  "events": {
-  "new_members": 3,
-  "rejoins": 1,
-  "milestones": 0,
-  "gifted_total": 0
+  "new_members": 10,
+  "rejoins": 2,
+  "milestones": 3,
+  "gifted_total": 8
  },
  "tiers": [
   {
    "tier": "ガレージ輪堂",
    "price": 490,
-   "confirmed_members": 127,
-   "estimated_members": 317.0
+   "confirmed_members": 343,
+   "estimated_members": 1096.0
   }
  ],
  "revenue": {
-  "monthly_low": 98846,
-  "monthly_est": 98846,
-  "gift_once": 0
+  "monthly_low": 341753,
+  "monthly_est": 341753,
+  "gift_once": 2495
  },
- "avg_member_chatters": 221,
+ "avg_member_chatters": 475.3,
  "partial": true,
  "finalized": false
 }

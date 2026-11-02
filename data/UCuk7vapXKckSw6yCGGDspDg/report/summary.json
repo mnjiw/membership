@@ -3,31 +3,31 @@
  "channel_id": "UCuk7vapXKckSw6yCGGDspDg",
  "handle": "@Hizuki_Yui_",
  "subscribers": 411000,
- "fetched_at": "2026-11-02 19:01",
- "generated_at": "2026-11-02 19:01",
+ "fetched_at": "2026-11-03 06:40",
+ "generated_at": "2026-11-03 06:40",
  "period": {
-  "from": "2026-10-03 19:01",
-  "to": "2026-11-02 19:01",
+  "from": "2026-10-04 06:40",
+  "to": "2026-11-03 06:40",
   "days": 30
  },
- "streams_analyzed": 41,
- "streams_missed": 1,
- "unique_chatters": 4482,
- "members_confirmed": 831,
+ "streams_analyzed": 40,
+ "streams_missed": 2,
+ "unique_chatters": 4381,
+ "members_confirmed": 822,
  "member_classes": {
-  "unknown": 742,
+  "unknown": 733,
   "gift": 89
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 137
+   "members": 135
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 38
+   "members": 34
   },
   {
    "months": 2,
@@ -37,17 +37,17 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 63
+   "members": 62
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 91
+   "members": 90
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 97
+   "members": 96
   },
   {
    "months": 36,
@@ -61,8 +61,8 @@
   }
  ],
  "events": {
-  "new_members": 27,
-  "rejoins": 11,
+  "new_members": 26,
+  "rejoins": 10,
   "milestones": 68,
   "gift_purchases": 17,
   "gifted_total": 89,
@@ -76,19 +76,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 0,
    "share_of_confirmed_pct": "",
-   "allocated_unknown": 742.0,
-   "estimated_members": 742.0,
+   "allocated_unknown": 733.0,
+   "estimated_members": 733.0,
    "monthly_net_confirmed": 0,
-   "monthly_net_estimated": 231369
+   "monthly_net_estimated": 228563
   }
  ],
  "revenue": {
-  "monthly_low": 231369,
-  "monthly_est": 231369,
+  "monthly_low": 228563,
+  "monthly_est": 228563,
   "gift_once": 27752,
-  "total_low": 259121,
-  "total_est": 259121,
-  "paying_members": 742,
+  "total_low": 256315,
+  "total_est": 256315,
+  "paying_members": 733,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -97,16 +97,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "V6FBuX1hzwI",
-   "start": "2026-10-03 22:32",
-   "title": "【鳴潮】#18 | 完全初見！セブンヒルズを救え！【緋月ゆい/ネオポルテ】",
-   "kind": "配信",
-   "chatters": 345,
-   "member_chatters": 64,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "juazw7qRfkg",
    "start": "2026-10-04 14:01",
@@ -520,6 +510,18 @@
    "members_level": "",
    "like_count": 256,
    "view_count": null
+  },
+  {
+   "video_id": "ZK7Qy_JzxNo",
+   "start": "2026-11-02 00:00",
+   "title": "【メタファー：リファンタジオ】#19 | 完全初見！まだやり残したことがある。【緋月ゆい/ネオポルテ】※ネタバレあり",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 520,
+   "view_count": 25672
   }
  ],
  "members_only_content": [
@@ -673,10 +675,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-02"
+    "to": "2026-11-03"
    },
    "streams_analyzed": 4,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 810,
    "members_confirmed": 240,
    "member_classes": {

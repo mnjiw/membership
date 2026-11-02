@@ -3,16 +3,16 @@
  "channel_id": "UCElYE3bfzjjmJ9xwjvro9Yw",
  "handle": "@HiuraKuro0914",
  "subscribers": 36300,
- "fetched_at": "2026-11-02 19:01",
- "generated_at": "2026-11-02 19:01",
+ "fetched_at": "2026-11-03 06:41",
+ "generated_at": "2026-11-03 06:41",
  "period": {
-  "from": "2026-10-03 19:01",
-  "to": "2026-11-02 19:01",
+  "from": "2026-10-04 06:41",
+  "to": "2026-11-03 06:41",
   "days": 30
  },
  "streams_analyzed": 28,
  "streams_missed": 2,
- "unique_chatters": 165,
+ "unique_chatters": 166,
  "members_confirmed": 61,
  "member_classes": {
   "unknown": 57,
@@ -87,16 +87,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "iy-eIS9qkcs",
-   "start": "2026-10-04 00:00",
-   "title": "【ほの暮しの庭】まっちゃりほの暮らしできるらしいです【日裏クロ / ネオポルテ】",
-   "kind": "配信",
-   "chatters": 25,
-   "member_chatters": 18,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "5lebECo6TiY",
    "start": "2026-10-05 20:33",
@@ -366,6 +356,16 @@
    "member_chatters": 13,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "VqUlJn1e4js",
+   "start": "2026-11-02 21:01",
+   "title": "【スト6】箱内対戦会ガイルで冷え冷えにするぞー！！！【日裏クロ / ネオポルテ】",
+   "kind": "配信",
+   "chatters": 18,
+   "member_chatters": 13,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -540,32 +540,36 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-02"
+    "to": "2026-11-03"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 0,
-   "unique_chatters": 16,
-   "members_confirmed": 13,
+   "unique_chatters": 25,
+   "members_confirmed": 18,
    "member_classes": {
-    "unknown": 13
+    "unknown": 18
    },
-   "long_term_members": 10,
+   "long_term_members": 13,
    "badges": [
     {
      "months": 0,
      "members": 1
     },
     {
+     "months": 2,
+     "members": 1
+    },
+    {
      "months": 6,
-     "members": 2
+     "members": 3
     },
     {
      "months": 12,
-     "members": 2
+     "members": 3
     },
     {
      "months": 24,
-     "members": 8
+     "members": 10
     }
    ],
    "events": {
@@ -579,12 +583,12 @@
      "tier": "ワニ園",
      "price": 490,
      "confirmed_members": 0,
-     "estimated_members": 13.0
+     "estimated_members": 18.0
     }
    ],
    "revenue": {
-    "monthly_low": 4054,
-    "monthly_est": 4054,
+    "monthly_low": 5613,
+    "monthly_est": 5613,
     "gift_once": 0
    },
    "avg_member_chatters": 13,

@@ -3,30 +3,25 @@
  "channel_id": "UCZYyhgoV314CM14zBD6vd4A",
  "handle": "@tenkaitsukasa",
  "subscribers": 366000,
- "fetched_at": "2026-11-02 19:02",
- "generated_at": "2026-11-02 19:02",
+ "fetched_at": "2026-11-03 06:43",
+ "generated_at": "2026-11-03 06:44",
  "period": {
-  "from": "2026-10-03 19:02",
-  "to": "2026-11-02 19:02",
+  "from": "2026-10-04 06:43",
+  "to": "2026-11-03 06:43",
   "days": 30
  },
  "streams_analyzed": 16,
  "streams_missed": 0,
- "unique_chatters": 1886,
- "members_confirmed": 144,
+ "unique_chatters": 2128,
+ "members_confirmed": 145,
  "member_classes": {
-  "unknown": 144
+  "unknown": 145
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
    "members": 7
-  },
-  {
-   "months": 1,
-   "label": "1ヶ月",
-   "members": 1
   },
   {
    "months": 2,
@@ -46,7 +41,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 110
+   "members": 112
   }
  ],
  "events": {
@@ -65,19 +60,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 0,
    "share_of_confirmed_pct": "",
-   "allocated_unknown": 144.0,
-   "estimated_members": 144.0,
+   "allocated_unknown": 145.0,
+   "estimated_members": 145.0,
    "monthly_net_confirmed": 0,
-   "monthly_net_estimated": 44902
+   "monthly_net_estimated": 45214
   }
  ],
  "revenue": {
-  "monthly_low": 44902,
-  "monthly_est": 44902,
+  "monthly_low": 45214,
+  "monthly_est": 45214,
   "gift_once": 0,
-  "total_low": 44902,
-  "total_est": 44902,
-  "paying_members": 144,
+  "total_low": 45214,
+  "total_est": 45214,
+  "paying_members": 145,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -86,16 +81,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "V_SflFBeAcI",
-   "start": "2026-10-03 20:00",
-   "title": "【パワプロ2026/部屋ごと栄冠ナイン】2年目秋神宮大会準々決勝～【天開司/Vtuber】",
-   "kind": "配信",
-   "chatters": 331,
-   "member_chatters": 49,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "g-fIv4A67yM",
    "start": "2026-10-04 20:00",
@@ -245,6 +230,16 @@
    "member_chatters": 24,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "X7o_DnbOAqc",
+   "start": "2026-11-02 19:59",
+   "title": "【ブルアカ/新イベント】Start Your Engine！～183号よ永遠に！～【天開司/Vtuber】",
+   "kind": "配信",
+   "chatters": 437,
+   "member_chatters": 31,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -370,16 +365,16 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-02"
+    "to": "2026-11-03"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 0,
-   "unique_chatters": 102,
-   "members_confirmed": 24,
+   "unique_chatters": 504,
+   "members_confirmed": 39,
    "member_classes": {
-    "unknown": 24
+    "unknown": 39
    },
-   "long_term_members": 21,
+   "long_term_members": 35,
    "badges": [
     {
      "months": 0,
@@ -387,7 +382,7 @@
     },
     {
      "months": 2,
-     "members": 1
+     "members": 2
     },
     {
      "months": 6,
@@ -395,11 +390,11 @@
     },
     {
      "months": 12,
-     "members": 1
+     "members": 3
     },
     {
      "months": 24,
-     "members": 20
+     "members": 32
     }
    ],
    "events": {
@@ -413,15 +408,15 @@
      "tier": "メンバーシップ",
      "price": 490,
      "confirmed_members": 0,
-     "estimated_members": 24.0
+     "estimated_members": 39.0
     }
    ],
    "revenue": {
-    "monthly_low": 7484,
-    "monthly_est": 7484,
+    "monthly_low": 12161,
+    "monthly_est": 12161,
     "gift_once": 0
    },
-   "avg_member_chatters": 24,
+   "avg_member_chatters": 27.5,
    "partial": true,
    "finalized": false
   }

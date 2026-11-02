@@ -2,71 +2,72 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-02"
+  "to": "2026-11-03"
  },
- "streams_analyzed": 2,
- "streams_missed": 0,
- "unique_chatters": 852,
- "members_confirmed": 338,
+ "streams_analyzed": 3,
+ "streams_missed": 1,
+ "unique_chatters": 2449,
+ "members_confirmed": 1570,
  "member_classes": {
-  "unknown": 289,
-  "known": 49
+  "unknown": 582,
+  "known": 721,
+  "gift": 267
  },
- "long_term_members": 268,
+ "long_term_members": 597,
  "badges": [
   {
    "months": 0,
-   "members": 6
+   "members": 701
   },
   {
    "months": 1,
-   "members": 8
+   "members": 59
   },
   {
    "months": 2,
-   "members": 30
+   "members": 128
   },
   {
    "months": 6,
-   "members": 26
+   "members": 85
   },
   {
    "months": 12,
-   "members": 60
+   "members": 143
   },
   {
    "months": 24,
-   "members": 65
+   "members": 155
   },
   {
    "months": 36,
-   "members": 69
+   "members": 140
   },
   {
    "months": 48,
-   "members": 74
+   "members": 159
   }
  ],
  "events": {
-  "new_members": 3,
-  "rejoins": 3,
-  "milestones": 3,
-  "gifted_total": 0
+  "new_members": 466,
+  "rejoins": 149,
+  "milestones": 27,
+  "gifted_total": 268
  },
  "tiers": [
   {
    "tier": "エマの藍方",
    "price": 490,
-   "confirmed_members": 49,
-   "estimated_members": 338.0
+   "confirmed_members": 721,
+   "estimated_members": 1303.0
   }
  ],
  "revenue": {
-  "monthly_low": 105395,
-  "monthly_est": 105395,
-  "gift_once": 0
+  "monthly_low": 406299,
+  "monthly_est": 406299,
+  "gift_once": 83567
  },
- "avg_member_chatters": 212,
+ "avg_member_chatters": 620,
  "partial": true,
  "finalized": false
 }
