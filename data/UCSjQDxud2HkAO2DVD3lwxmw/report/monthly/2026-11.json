@@ -4,41 +4,42 @@
   "from": "2026-11-01",
   "to": "2026-11-02"
  },
- "streams_analyzed": 1,
+ "streams_analyzed": 2,
  "streams_missed": 0,
- "unique_chatters": 889,
- "members_confirmed": 299,
+ "unique_chatters": 2267,
+ "members_confirmed": 599,
  "member_classes": {
-  "unknown": 138,
-  "known": 161
+  "unknown": 230,
+  "known": 353,
+  "gift": 16
  },
  "long_term_members": 0,
  "badges": [
   {
    "months": 0,
-   "members": 299
+   "members": 599
   }
  ],
  "events": {
-  "new_members": 49,
+  "new_members": 106,
   "rejoins": 0,
   "milestones": 0,
-  "gifted_total": 0
+  "gifted_total": 20
  },
  "tiers": [
   {
    "tier": "百灯派出所 // Chembership",
    "price": 490,
-   "confirmed_members": 161,
-   "estimated_members": 299.0
+   "confirmed_members": 353,
+   "estimated_members": 583.0
   }
  ],
  "revenue": {
-  "monthly_low": 93234,
-  "monthly_est": 93234,
-  "gift_once": 0
+  "monthly_low": 181790,
+  "monthly_est": 181790,
+  "gift_once": 6236
  },
- "avg_member_chatters": 299,
+ "avg_member_chatters": 358.5,
  "partial": true,
  "finalized": false
 }

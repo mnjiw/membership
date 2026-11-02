@@ -3,27 +3,27 @@
  "channel_id": "UC_WOBIopwUih0rytRnr_1Ag",
  "handle": "@Rui_Seshima",
  "subscribers": 60000,
- "fetched_at": "2026-11-02 16:25",
- "generated_at": "2026-11-02 16:25",
+ "fetched_at": "2026-11-02 18:59",
+ "generated_at": "2026-11-02 19:00",
  "period": {
-  "from": "2026-10-03 16:25",
-  "to": "2026-11-02 16:25",
+  "from": "2026-10-03 18:59",
+  "to": "2026-11-02 18:59",
   "days": 30
  },
- "streams_analyzed": 22,
+ "streams_analyzed": 24,
  "streams_missed": 1,
- "unique_chatters": 835,
- "members_confirmed": 141,
+ "unique_chatters": 850,
+ "members_confirmed": 149,
  "member_classes": {
-  "known": 29,
-  "unknown": 106,
-  "gift": 6
+  "known": 30,
+  "unknown": 108,
+  "gift": 11
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 7
+   "members": 11
   },
   {
    "months": 1,
@@ -33,12 +33,12 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 15
+   "members": 17
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 9
+   "members": 10
   },
   {
    "months": 12,
@@ -53,7 +53,7 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 22
+   "members": 23
   },
   {
    "months": 48,
@@ -68,11 +68,11 @@
  ],
  "events": {
   "new_members": 2,
-  "rejoins": 1,
+  "rejoins": 2,
   "milestones": 17,
-  "gift_purchases": 2,
-  "gifted_total": 6,
-  "gift_redemptions": 6
+  "gift_purchases": 3,
+  "gifted_total": 11,
+  "gift_redemptions": 11
  },
  "tiers_configured": true,
  "tiers": [
@@ -80,21 +80,21 @@
    "tier": "ふぁみるい",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 29,
+   "confirmed_members": 30,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 106.0,
-   "estimated_members": 135.0,
-   "monthly_net_confirmed": 9043,
-   "monthly_net_estimated": 42095
+   "allocated_unknown": 108.0,
+   "estimated_members": 138.0,
+   "monthly_net_confirmed": 9355,
+   "monthly_net_estimated": 43031
   }
  ],
  "revenue": {
-  "monthly_low": 42095,
-  "monthly_est": 42095,
-  "gift_once": 1871,
-  "total_low": 43966,
-  "total_est": 43966,
-  "paying_members": 135,
+  "monthly_low": 43031,
+  "monthly_est": 43031,
+  "gift_once": 3430,
+  "total_low": 46461,
+  "total_est": 46461,
+  "paying_members": 138,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -322,6 +322,26 @@
    "member_chatters": 51,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "oQmuEVoA2To",
+   "start": "2026-11-02 17:02",
+   "title": "【 #歌枠 #karaoke 】プチ告知も！1曲聴いていきませんか？寒い冬にも🎙 / Singing Stream 【  瀬島るい┋ななしいんく】",
+   "kind": "配信",
+   "chatters": 77,
+   "member_chatters": 33,
+   "new_members": 0,
+   "gifted_total": 5
+  },
+  {
+   "video_id": "IPfxeuIJG9Y",
+   "start": "2026-11-02 18:12",
+   "title": "[Miracle] I was at #56 for the MeroJoy pop-up and had lost all hope, but then this happened!? LOL...",
+   "kind": "プレミア",
+   "chatters": 27,
+   "member_chatters": 17,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -493,6 +513,75 @@
    },
    "avg_member_chatters": 38.4,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-02"
+   },
+   "streams_analyzed": 2,
+   "streams_missed": 0,
+   "unique_chatters": 81,
+   "members_confirmed": 34,
+   "member_classes": {
+    "unknown": 21,
+    "known": 8,
+    "gift": 5
+   },
+   "long_term_members": 22,
+   "badges": [
+    {
+     "months": 0,
+     "members": 4
+    },
+    {
+     "months": 2,
+     "members": 5
+    },
+    {
+     "months": 6,
+     "members": 3
+    },
+    {
+     "months": 24,
+     "members": 2
+    },
+    {
+     "months": 36,
+     "members": 6
+    },
+    {
+     "months": 48,
+     "members": 2
+    },
+    {
+     "months": 60,
+     "members": 12
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 1,
+    "milestones": 0,
+    "gifted_total": 5
+   },
+   "tiers": [
+    {
+     "tier": "ふぁみるい",
+     "price": 490,
+     "confirmed_members": 8,
+     "estimated_members": 29.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 9043,
+    "monthly_est": 9043,
+    "gift_once": 1559
+   },
+   "avg_member_chatters": 25,
+   "partial": true,
    "finalized": false
   }
  ],

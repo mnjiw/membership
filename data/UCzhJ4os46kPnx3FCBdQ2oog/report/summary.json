@@ -3,21 +3,21 @@
  "channel_id": "UCzhJ4os46kPnx3FCBdQ2oog",
  "handle": "@mumu_yumemi",
  "subscribers": 19300,
- "fetched_at": "2026-11-02 16:36",
- "generated_at": "2026-11-02 16:37",
+ "fetched_at": "2026-11-02 19:01",
+ "generated_at": "2026-11-02 19:01",
  "period": {
-  "from": "2026-10-03 16:36",
-  "to": "2026-11-02 16:36",
+  "from": "2026-10-03 19:01",
+  "to": "2026-11-02 19:01",
   "days": 30
  },
- "streams_analyzed": 26,
+ "streams_analyzed": 27,
  "streams_missed": 5,
- "unique_chatters": 1672,
- "members_confirmed": 502,
+ "unique_chatters": 1760,
+ "members_confirmed": 503,
  "member_classes": {
   "known": 42,
   "unknown": 187,
-  "gift": 273
+  "gift": 274
  },
  "badges": [
   {
@@ -28,12 +28,12 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 75
+   "members": 76
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 70
+   "members": 69
   },
   {
    "months": 6,
@@ -43,16 +43,16 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 45
+   "members": 46
   }
  ],
  "events": {
   "new_members": 12,
   "rejoins": 3,
   "milestones": 14,
-  "gift_purchases": 55,
-  "gifted_total": 279,
-  "gift_redemptions": 273
+  "gift_purchases": 56,
+  "gifted_total": 280,
+  "gift_redemptions": 274
  },
  "tiers_configured": true,
  "tiers": [
@@ -82,9 +82,9 @@
  "revenue": {
   "monthly_low": 78088,
   "monthly_est": 107838,
-  "gift_once": 86997,
-  "total_low": 165085,
-  "total_est": 194835,
+  "gift_once": 87309,
+  "total_low": 165397,
+  "total_est": 195147,
   "paying_members": 229,
   "single_tier": false,
   "tax_rate": 0.1,
@@ -353,6 +353,16 @@
    "member_chatters": 93,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "U9qONQ5Nxrw",
+   "start": "2026-11-02 13:01",
+   "title": "【 ポケモンチャンピオンズ 】初めてのポケチャン.ᐟ.ᐟ大会に向けて最高の相棒６匹をスカウトするぞ~~っっ🔥【 夢見むむ / すぺしゃりて 】",
+   "kind": "配信",
+   "chatters": 307,
+   "member_chatters": 85,
+   "new_members": 0,
+   "gifted_total": 1
   }
  ],
  "missed_streams": [
@@ -590,63 +600,64 @@
     "from": "2026-11-01",
     "to": "2026-11-02"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 0,
-   "unique_chatters": 176,
-   "members_confirmed": 93,
+   "unique_chatters": 417,
+   "members_confirmed": 136,
    "member_classes": {
-    "unknown": 83,
-    "known": 10
+    "unknown": 118,
+    "known": 17,
+    "gift": 1
    },
-   "long_term_members": 30,
+   "long_term_members": 33,
    "badges": [
     {
      "months": 0,
-     "members": 23
+     "members": 36
     },
     {
      "months": 1,
-     "members": 5
+     "members": 16
     },
     {
      "months": 2,
-     "members": 20
+     "members": 28
     },
     {
      "months": 6,
-     "members": 15
+     "members": 23
     },
     {
      "months": 12,
-     "members": 30
+     "members": 33
     }
    ],
    "events": {
     "new_members": 0,
     "rejoins": 0,
     "milestones": 0,
-    "gifted_total": 0
+    "gifted_total": 1
    },
    "tiers": [
     {
      "tier": "💜夢見むむルート💜",
      "price": 490,
-     "confirmed_members": 6,
-     "estimated_members": 55.8
+     "confirmed_members": 12,
+     "estimated_members": 95.3
     },
     {
      "tier": "👑夢見むむグランドルート👑",
      "price": 1990,
-     "confirmed_members": 4,
-     "estimated_members": 37.2
+     "confirmed_members": 5,
+     "estimated_members": 39.7
     }
    ],
    "revenue": {
-    "monthly_low": 32817,
-    "monthly_est": 64508,
-    "gift_once": 0
+    "monthly_low": 46868,
+    "monthly_est": 79997,
+    "gift_once": 312
    },
-   "avg_member_chatters": 93,
+   "avg_member_chatters": 89,
    "partial": true,
    "finalized": false
   }

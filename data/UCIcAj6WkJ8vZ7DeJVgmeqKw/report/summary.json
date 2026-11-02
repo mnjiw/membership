@@ -3,15 +3,15 @@
  "channel_id": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
  "handle": "@963Noah",
  "subscribers": 813000,
- "fetched_at": "2026-11-02 16:27",
- "generated_at": "2026-11-02 16:27",
+ "fetched_at": "2026-11-02 19:00",
+ "generated_at": "2026-11-02 19:00",
  "period": {
-  "from": "2026-10-03 16:27",
-  "to": "2026-11-02 16:27",
+  "from": "2026-10-03 19:00",
+  "to": "2026-11-02 19:00",
   "days": 30
  },
  "streams_analyzed": 35,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 4213,
  "members_confirmed": 1858,
  "member_classes": {
@@ -454,7 +454,20 @@
    "gifted_total": 10
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "2zQHCM4dJYA",
+   "start": "2026-11-02 00:00",
+   "title": "【 APEX 】ハロウィンはまだ終わってない【 ぶいすぽっ！胡桃のあ 】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 1356,
+   "view_count": 71412
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -608,7 +621,7 @@
     "to": "2026-11-02"
    },
    "streams_analyzed": 1,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 443,
    "members_confirmed": 245,
    "member_classes": {
