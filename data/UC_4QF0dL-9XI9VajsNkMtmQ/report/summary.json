@@ -3,15 +3,15 @@
  "channel_id": "UC_4QF0dL-9XI9VajsNkMtmQ",
  "handle": "@Rei7_Y4T4",
  "subscribers": 178000,
- "fetched_at": "2026-11-03 05:34",
- "generated_at": "2026-11-03 05:34",
+ "fetched_at": "2026-11-03 12:32",
+ "generated_at": "2026-11-03 12:32",
  "period": {
-  "from": "2026-10-04 05:34",
-  "to": "2026-11-03 05:34",
+  "from": "2026-10-04 12:32",
+  "to": "2026-11-03 12:32",
   "days": 30
  },
  "streams_analyzed": 32,
- "streams_missed": 2,
+ "streams_missed": 3,
  "unique_chatters": 6169,
  "members_confirmed": 751,
  "member_classes": {
@@ -416,8 +416,20 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "Ris7",
-   "like_count": 172,
+   "like_count": 175,
    "view_count": null
+  },
+  {
+   "video_id": "Ej_8wGh4EmI",
+   "start": "2026-11-02 00:00",
+   "title": "【スプラトゥーン3】起きたらこの時間だった。【 Rei7 / にじさんじ 】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 1638,
+   "view_count": 126593
   }
  ],
  "members_only_content": [
@@ -438,7 +450,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "Ris7",
-   "like_count": 172,
+   "like_count": 175,
    "view_count": null
   }
  ],
@@ -557,7 +569,7 @@
     "to": "2026-11-03"
    },
    "streams_analyzed": 2,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 1004,
    "members_confirmed": 286,
    "member_classes": {

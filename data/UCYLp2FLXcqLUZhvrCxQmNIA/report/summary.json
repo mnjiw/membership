@@ -3,19 +3,19 @@
  "channel_id": "UCYLp2FLXcqLUZhvrCxQmNIA",
  "handle": "@Ririka_krmzw0707",
  "subscribers": 119000,
- "fetched_at": "2026-11-03 06:43",
- "generated_at": "2026-11-03 06:44",
+ "fetched_at": "2026-11-03 12:42",
+ "generated_at": "2026-11-03 12:42",
  "period": {
-  "from": "2026-10-04 06:43",
-  "to": "2026-11-03 06:43",
+  "from": "2026-10-04 12:42",
+  "to": "2026-11-03 12:42",
   "days": 30
  },
- "streams_analyzed": 32,
- "streams_missed": 2,
- "unique_chatters": 2217,
- "members_confirmed": 193,
+ "streams_analyzed": 31,
+ "streams_missed": 3,
+ "unique_chatters": 2190,
+ "members_confirmed": 191,
  "member_classes": {
-  "unknown": 164,
+  "unknown": 162,
   "known": 28,
   "gift": 1
  },
@@ -43,12 +43,12 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 34
+   "members": 33
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 103
+   "members": 102
   }
  ],
  "events": {
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 28,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 164.0,
-   "estimated_members": 192.0,
+   "allocated_unknown": 162.0,
+   "estimated_members": 190.0,
    "monthly_net_confirmed": 8731,
-   "monthly_net_estimated": 59869
+   "monthly_net_estimated": 59245
   }
  ],
  "revenue": {
-  "monthly_low": 59869,
-  "monthly_est": 59869,
+  "monthly_low": 59245,
+  "monthly_est": 59245,
   "gift_once": 312,
-  "total_low": 60181,
-  "total_est": 60181,
-  "paying_members": 192,
+  "total_low": 59557,
+  "total_est": 59557,
+  "paying_members": 190,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "TrjyVUf62hY",
-   "start": "2026-10-04 10:38",
-   "title": "【アークザラッド3 ArcTheLad 3】きたぜラスダン！クリアめざすぞ！！【胡桃沢りりか】",
-   "kind": "配信",
-   "chatters": 177,
-   "member_chatters": 48,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "KFoss5DfNKw",
    "start": "2026-10-04 23:33",
@@ -433,6 +423,18 @@
    "members_level": "めろんそーだ",
    "like_count": 77,
    "view_count": null
+  },
+  {
+   "video_id": "19VPov5I6rY",
+   "start": "2026-11-02 00:00",
+   "title": "【FINAL FANTASY RESONANCE ファイナルファンタジーレゾナンス】7章続きから！いくぞ！！※ネタバレ注意【胡桃沢りりか】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 802,
+   "view_count": 49352
   }
  ],
  "members_only_content": [
@@ -574,7 +576,7 @@
     "to": "2026-11-03"
    },
    "streams_analyzed": 2,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 733,
    "members_confirmed": 120,
    "member_classes": {

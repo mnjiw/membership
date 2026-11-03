@@ -3,27 +3,27 @@
  "channel_id": "UCTxoJgb4DzMd7tiM8cvf4PA",
  "handle": "@Shino_Asakura",
  "subscribers": 79000,
- "fetched_at": "2026-11-03 06:41",
- "generated_at": "2026-11-03 06:41",
+ "fetched_at": "2026-11-03 12:41",
+ "generated_at": "2026-11-03 12:41",
  "period": {
-  "from": "2026-10-04 06:41",
-  "to": "2026-11-03 06:41",
+  "from": "2026-10-04 12:41",
+  "to": "2026-11-03 12:41",
   "days": 30
  },
- "streams_analyzed": 24,
- "streams_missed": 3,
- "unique_chatters": 1411,
- "members_confirmed": 246,
+ "streams_analyzed": 25,
+ "streams_missed": 2,
+ "unique_chatters": 1478,
+ "members_confirmed": 247,
  "member_classes": {
   "known": 36,
-  "unknown": 105,
+  "unknown": 106,
   "gift": 105
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 124
+   "members": 125
   },
   {
    "months": 1,
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 36,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 105.0,
-   "estimated_members": 141.0,
+   "allocated_unknown": 106.0,
+   "estimated_members": 142.0,
    "monthly_net_confirmed": 11225,
-   "monthly_net_estimated": 43966
+   "monthly_net_estimated": 44278
   }
  ],
  "revenue": {
-  "monthly_low": 43966,
-  "monthly_est": 43966,
+  "monthly_low": 44278,
+  "monthly_est": 44278,
   "gift_once": 32741,
-  "total_low": 76707,
-  "total_est": 76707,
-  "paying_members": 141,
+  "total_low": 77019,
+  "total_est": 77019,
+  "paying_members": 142,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -327,6 +327,16 @@
    "member_chatters": 22,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "Ys8eMOA8zhI",
+   "start": "2026-11-02 23:32",
+   "title": "【Valorant】ね、ねてた【麻倉シノ / ネオポルテ】",
+   "kind": "配信",
+   "chatters": 190,
+   "member_chatters": 33,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -353,18 +363,6 @@
    "members_level": "シノノ愛",
    "like_count": 39,
    "view_count": null
-  },
-  {
-   "video_id": "Ys8eMOA8zhI",
-   "start": "2026-11-02 00:00",
-   "title": "【Valorant】ね、ねてた【麻倉シノ / ネオポルテ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 261,
-   "view_count": 29184
   }
  ],
  "members_only_content": [
@@ -515,35 +513,35 @@
     "from": "2026-11-01",
     "to": "2026-11-03"
    },
-   "streams_analyzed": 1,
-   "streams_missed": 1,
-   "unique_chatters": 31,
-   "members_confirmed": 22,
+   "streams_analyzed": 2,
+   "streams_missed": 0,
+   "unique_chatters": 203,
+   "members_confirmed": 41,
    "member_classes": {
-    "known": 11,
-    "unknown": 11
+    "known": 17,
+    "unknown": 24
    },
-   "long_term_members": 11,
+   "long_term_members": 18,
    "badges": [
     {
      "months": 0,
-     "members": 2
+     "members": 8
     },
     {
      "months": 2,
-     "members": 2
-    },
-    {
-     "months": 6,
-     "members": 7
-    },
-    {
-     "months": 12,
      "members": 4
     },
     {
+     "months": 6,
+     "members": 11
+    },
+    {
+     "months": 12,
+     "members": 5
+    },
+    {
      "months": 24,
-     "members": 7
+     "members": 13
     }
    ],
    "events": {
@@ -556,16 +554,16 @@
     {
      "tier": "シノノ愛",
      "price": 490,
-     "confirmed_members": 11,
-     "estimated_members": 22.0
+     "confirmed_members": 17,
+     "estimated_members": 41.0
     }
    ],
    "revenue": {
-    "monthly_low": 6860,
-    "monthly_est": 6860,
+    "monthly_low": 12785,
+    "monthly_est": 12785,
     "gift_once": 0
    },
-   "avg_member_chatters": 22,
+   "avg_member_chatters": 27.5,
    "partial": true,
    "finalized": false
   }

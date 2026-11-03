@@ -3,19 +3,19 @@
  "channel_id": "UCGw7lrT-rVZCWHfdG9Frcgg",
  "handle": "@GenzukiTojiro",
  "subscribers": 407000,
- "fetched_at": "2026-11-03 05:25",
- "generated_at": "2026-11-03 05:25",
+ "fetched_at": "2026-11-03 12:30",
+ "generated_at": "2026-11-03 12:30",
  "period": {
-  "from": "2026-10-04 05:25",
-  "to": "2026-11-03 05:25",
+  "from": "2026-10-04 12:30",
+  "to": "2026-11-03 12:30",
   "days": 30
  },
- "streams_analyzed": 18,
- "streams_missed": 2,
- "unique_chatters": 1244,
- "members_confirmed": 374,
+ "streams_analyzed": 19,
+ "streams_missed": 1,
+ "unique_chatters": 1249,
+ "members_confirmed": 375,
  "member_classes": {
-  "unknown": 363,
+  "unknown": 364,
   "known": 9,
   "gift": 2
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 7
+   "members": 8
   },
   {
    "months": 1,
@@ -77,10 +77,10 @@
    "net_per_member": 184.5,
    "confirmed_members": 3,
    "share_of_confirmed_pct": 33.3,
-   "allocated_unknown": 121.0,
-   "estimated_members": 124.0,
+   "allocated_unknown": 121.3,
+   "estimated_members": 124.3,
    "monthly_net_confirmed": 554,
-   "monthly_net_estimated": 22884
+   "monthly_net_estimated": 22945
   },
   {
    "tier": "弦月さん家の魔と歩こ！",
@@ -88,10 +88,10 @@
    "net_per_member": 248.2,
    "confirmed_members": 2,
    "share_of_confirmed_pct": 22.2,
-   "allocated_unknown": 80.7,
-   "estimated_members": 82.7,
+   "allocated_unknown": 80.9,
+   "estimated_members": 82.9,
    "monthly_net_confirmed": 496,
-   "monthly_net_estimated": 20516
+   "monthly_net_estimated": 20572
   },
   {
    "tier": "弦月さん家の魔と遊ぼ！",
@@ -99,10 +99,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 3,
    "share_of_confirmed_pct": 33.3,
-   "allocated_unknown": 121.0,
-   "estimated_members": 124.0,
+   "allocated_unknown": 121.3,
+   "estimated_members": 124.3,
    "monthly_net_confirmed": 935,
-   "monthly_net_estimated": 38665
+   "monthly_net_estimated": 38769
   },
   {
    "tier": "弦月さん家の魔と暮らそ！",
@@ -110,10 +110,10 @@
    "net_per_member": 757.3,
    "confirmed_members": 1,
    "share_of_confirmed_pct": 11.1,
-   "allocated_unknown": 40.3,
-   "estimated_members": 41.3,
+   "allocated_unknown": 40.4,
+   "estimated_members": 41.4,
    "monthly_net_confirmed": 757,
-   "monthly_net_estimated": 31301
+   "monthly_net_estimated": 31385
   },
   {
    "tier": "弦月さん家の魔を知ろ！",
@@ -128,12 +128,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 69733,
-  "monthly_est": 113366,
+  "monthly_low": 69917,
+  "monthly_est": 113671,
   "gift_once": 369,
-  "total_low": 70102,
-  "total_est": 113735,
-  "paying_members": 372,
+  "total_low": 70286,
+  "total_est": 114040,
+  "paying_members": 373,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -321,6 +321,16 @@
    "member_chatters": 82,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "sqQJxPbPrVQ",
+   "start": "2026-11-02 22:01",
+   "title": "⋙ Splatoon3 | #にじイカ祭り2026 ⋮❙⋮ Team16、進捗が止まりません。 w/樋口楓 . Rei7 . レヴィ・エリファ ⋮❙⋮ 弦月藤士郎 / にじさんじ ⋘",
+   "kind": "配信",
+   "chatters": 97,
+   "member_chatters": 73,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -335,18 +345,6 @@
    "members_level": "弦月さん家の魔と歩こ！",
    "like_count": null,
    "view_count": null
-  },
-  {
-   "video_id": "sqQJxPbPrVQ",
-   "start": "2026-11-02 00:00",
-   "title": "⋙ Splatoon3 | #にじイカ祭り2026 ⋮❙⋮ Team16、進捗が止まりません。 w/樋口楓 . Rei7 . レヴィ・エリファ ⋮❙⋮ 弦月藤士郎 / にじさんじ ⋘",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 345,
-   "view_count": 9761
   }
  ],
  "members_only_content": [
@@ -563,19 +561,19 @@
     "from": "2026-11-01",
     "to": "2026-11-03"
    },
-   "streams_analyzed": 2,
-   "streams_missed": 1,
-   "unique_chatters": 187,
-   "members_confirmed": 138,
+   "streams_analyzed": 3,
+   "streams_missed": 0,
+   "unique_chatters": 211,
+   "members_confirmed": 150,
    "member_classes": {
-    "unknown": 135,
+    "unknown": 147,
     "known": 3
    },
-   "long_term_members": 101,
+   "long_term_members": 110,
    "badges": [
     {
      "months": 0,
-     "members": 2
+     "members": 3
     },
     {
      "months": 1,
@@ -587,23 +585,23 @@
     },
     {
      "months": 6,
-     "members": 15
+     "members": 17
     },
     {
      "months": 12,
-     "members": 28
+     "members": 30
     },
     {
      "months": 24,
-     "members": 12
+     "members": 15
     },
     {
      "months": 36,
-     "members": 21
+     "members": 23
     },
     {
      "months": 48,
-     "members": 40
+     "members": 42
     }
    ],
    "events": {
@@ -623,13 +621,13 @@
      "tier": "弦月さん家の魔と歩こ！",
      "price": 390,
      "confirmed_members": 1,
-     "estimated_members": 46.0
+     "estimated_members": 50.0
     },
     {
      "tier": "弦月さん家の魔と遊ぼ！",
      "price": 490,
      "confirmed_members": 2,
-     "estimated_members": 92.0
+     "estimated_members": 100.0
     },
     {
      "tier": "弦月さん家の魔と暮らそ！",
@@ -645,11 +643,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 25785,
-    "monthly_est": 40104,
+    "monthly_low": 28000,
+    "monthly_est": 43591,
     "gift_once": 0
    },
-   "avg_member_chatters": 93.5,
+   "avg_member_chatters": 86.7,
    "partial": true,
    "finalized": false
   }

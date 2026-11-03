@@ -3,27 +3,27 @@
  "channel_id": "UCgA2jKRkqpY_8eysPUs8sjw",
  "handle": "@petragurin",
  "subscribers": 505000,
- "fetched_at": "2026-11-03 05:34",
- "generated_at": "2026-11-03 05:35",
+ "fetched_at": "2026-11-03 12:32",
+ "generated_at": "2026-11-03 12:33",
  "period": {
-  "from": "2026-10-04 05:34",
-  "to": "2026-11-03 05:34",
+  "from": "2026-10-04 12:32",
+  "to": "2026-11-03 12:32",
   "days": 30
  },
- "streams_analyzed": 9,
- "streams_missed": 2,
- "unique_chatters": 3868,
- "members_confirmed": 284,
+ "streams_analyzed": 10,
+ "streams_missed": 1,
+ "unique_chatters": 3905,
+ "members_confirmed": 286,
  "member_classes": {
-  "unknown": 165,
-  "known": 40,
+  "unknown": 166,
+  "known": 41,
   "gift": 79
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 82
+   "members": 83
   },
   {
    "months": 1,
@@ -58,7 +58,7 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 28
+   "members": 29
   },
   {
    "months": 60,
@@ -67,7 +67,7 @@
   }
  ],
  "events": {
-  "new_members": 4,
+  "new_members": 5,
   "rejoins": 1,
   "milestones": 22,
   "gift_purchases": 21,
@@ -80,21 +80,21 @@
    "tier": "Pentomo Family",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 40,
+   "confirmed_members": 41,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 165.0,
-   "estimated_members": 205.0,
-   "monthly_net_confirmed": 12473,
-   "monthly_net_estimated": 63923
+   "allocated_unknown": 166.0,
+   "estimated_members": 207.0,
+   "monthly_net_confirmed": 12785,
+   "monthly_net_estimated": 64546
   }
  ],
  "revenue": {
-  "monthly_low": 63923,
-  "monthly_est": 63923,
+  "monthly_low": 64546,
+  "monthly_est": 64546,
   "gift_once": 24634,
-  "total_low": 88556,
-  "total_est": 88556,
-  "paying_members": 205,
+  "total_low": 89180,
+  "total_est": 89180,
+  "paying_members": 207,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -192,6 +192,16 @@
    "member_chatters": 88,
    "new_members": 1,
    "gifted_total": 15
+  },
+  {
+   "video_id": "4ByEJu3D5WY",
+   "start": "2026-11-02 21:02",
+   "title": "#VSFBackrooms┆*gulps* he's behind me isn't he…【 NIJISANJI EN｜Petra Gurin 】",
+   "kind": "配信",
+   "chatters": 135,
+   "member_chatters": 52,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -206,18 +216,6 @@
    "members_level": "",
    "like_count": 70,
    "view_count": null
-  },
-  {
-   "video_id": "4ByEJu3D5WY",
-   "start": "2026-11-02 00:00",
-   "title": "#VSFBackrooms┆*gulps* he's behind me isn't he…【 NIJISANJI EN｜Petra Gurin 】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 661,
-   "view_count": 10466
   }
  ],
  "members_only_content": [
@@ -382,6 +380,82 @@
    },
    "avg_member_chatters": 86.1,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-03"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 135,
+   "members_confirmed": 52,
+   "member_classes": {
+    "known": 15,
+    "unknown": 37
+   },
+   "long_term_members": 38,
+   "badges": [
+    {
+     "months": 0,
+     "members": 2
+    },
+    {
+     "months": 1,
+     "members": 1
+    },
+    {
+     "months": 2,
+     "members": 5
+    },
+    {
+     "months": 6,
+     "members": 6
+    },
+    {
+     "months": 12,
+     "members": 7
+    },
+    {
+     "months": 24,
+     "members": 4
+    },
+    {
+     "months": 36,
+     "members": 6
+    },
+    {
+     "months": 48,
+     "members": 13
+    },
+    {
+     "months": 60,
+     "members": 8
+    }
+   ],
+   "events": {
+    "new_members": 1,
+    "rejoins": 0,
+    "milestones": 0,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "Pentomo Family",
+     "price": 490,
+     "confirmed_members": 15,
+     "estimated_members": 52.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 16215,
+    "monthly_est": 16215,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 52,
+   "partial": true,
    "finalized": false
   }
  ],

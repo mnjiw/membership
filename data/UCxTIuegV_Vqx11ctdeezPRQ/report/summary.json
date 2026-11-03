@@ -3,36 +3,36 @@
  "channel_id": "UCxTIuegV_Vqx11ctdeezPRQ",
  "handle": "@KaminagaTaiga",
  "subscribers": 203000,
- "fetched_at": "2026-11-03 05:36",
- "generated_at": "2026-11-03 05:36",
+ "fetched_at": "2026-11-03 12:33",
+ "generated_at": "2026-11-03 12:34",
  "period": {
-  "from": "2026-10-04 05:36",
-  "to": "2026-11-03 05:36",
+  "from": "2026-10-04 12:33",
+  "to": "2026-11-03 12:33",
   "days": 30
  },
- "streams_analyzed": 29,
- "streams_missed": 2,
- "unique_chatters": 6721,
- "members_confirmed": 1710,
+ "streams_analyzed": 30,
+ "streams_missed": 1,
+ "unique_chatters": 6933,
+ "members_confirmed": 1810,
  "member_classes": {
-  "known": 1608,
-  "unknown": 61,
-  "gift": 41
+  "known": 1632,
+  "unknown": 132,
+  "gift": 46
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 1710
+   "members": 1810
   }
  ],
  "events": {
-  "new_members": 1611,
+  "new_members": 1635,
   "rejoins": 0,
   "milestones": 0,
-  "gift_purchases": 6,
-  "gifted_total": 41,
-  "gift_redemptions": 41
+  "gift_purchases": 7,
+  "gifted_total": 46,
+  "gift_redemptions": 46
  },
  "tiers_configured": true,
  "tiers": [
@@ -40,21 +40,21 @@
    "tier": "虎っ子部",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 1608,
+   "confirmed_members": 1632,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 61.0,
-   "estimated_members": 1669.0,
-   "monthly_net_confirmed": 501404,
-   "monthly_net_estimated": 520425
+   "allocated_unknown": 132.0,
+   "estimated_members": 1764.0,
+   "monthly_net_confirmed": 508887,
+   "monthly_net_estimated": 550047
   }
  ],
  "revenue": {
-  "monthly_low": 520425,
-  "monthly_est": 520425,
-  "gift_once": 12785,
-  "total_low": 533209,
-  "total_est": 533209,
-  "paying_members": 1669,
+  "monthly_low": 550047,
+  "monthly_est": 550047,
+  "gift_once": 14344,
+  "total_low": 564391,
+  "total_est": 564391,
+  "paying_members": 1764,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -352,6 +352,16 @@
    "member_chatters": 463,
    "new_members": 86,
    "gifted_total": 5
+  },
+  {
+   "video_id": "hRABmJwz8TQ",
+   "start": "2026-11-02 22:30",
+   "title": "【スプラトゥーン3 #４】チーム１で顔合わせ！皆様と遂に練習！！　#にじイカ祭り2026　# ０１【神永タイガ / にじさんじ】",
+   "kind": "配信",
+   "chatters": 1073,
+   "member_chatters": 652,
+   "new_members": 24,
+   "gifted_total": 5
   }
  ],
  "missed_streams": [
@@ -366,18 +376,6 @@
    "members_level": "虎っ子部",
    "like_count": 668,
    "view_count": null
-  },
-  {
-   "video_id": "hRABmJwz8TQ",
-   "start": "2026-11-02 00:00",
-   "title": "【スプラトゥーン3 #４】チーム１で顔合わせ！皆様と遂に練習！！　#にじイカ祭り2026　# ０１【神永タイガ / にじさんじ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 2262,
-   "view_count": 79835
   }
  ],
  "members_only_content": [
@@ -470,42 +468,42 @@
     "from": "2026-11-01",
     "to": "2026-11-03"
    },
-   "streams_analyzed": 1,
-   "streams_missed": 1,
-   "unique_chatters": 873,
-   "members_confirmed": 463,
+   "streams_analyzed": 2,
+   "streams_missed": 0,
+   "unique_chatters": 1608,
+   "members_confirmed": 863,
    "member_classes": {
-    "known": 399,
-    "unknown": 59,
-    "gift": 5
+    "known": 722,
+    "unknown": 131,
+    "gift": 10
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 463
+     "members": 863
     }
    ],
    "events": {
-    "new_members": 86,
+    "new_members": 110,
     "rejoins": 0,
     "milestones": 0,
-    "gifted_total": 5
+    "gifted_total": 10
    },
    "tiers": [
     {
      "tier": "虎っ子部",
      "price": 490,
-     "confirmed_members": 399,
-     "estimated_members": 458.0
+     "confirmed_members": 722,
+     "estimated_members": 853.0
     }
    ],
    "revenue": {
-    "monthly_low": 142813,
-    "monthly_est": 142813,
-    "gift_once": 1559
+    "monthly_low": 265981,
+    "monthly_est": 265981,
+    "gift_once": 3118
    },
-   "avg_member_chatters": 463,
+   "avg_member_chatters": 557.5,
    "partial": true,
    "finalized": false
   }

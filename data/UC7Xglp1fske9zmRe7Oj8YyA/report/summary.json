@@ -3,16 +3,16 @@
  "channel_id": "UC7Xglp1fske9zmRe7Oj8YyA",
  "handle": "@rikosolari",
  "subscribers": 72800,
- "fetched_at": "2026-11-03 06:38",
- "generated_at": "2026-11-03 06:38",
+ "fetched_at": "2026-11-03 12:38",
+ "generated_at": "2026-11-03 12:39",
  "period": {
-  "from": "2026-10-04 06:38",
-  "to": "2026-11-03 06:38",
+  "from": "2026-10-04 12:38",
+  "to": "2026-11-03 12:38",
   "days": 30
  },
- "streams_analyzed": 18,
- "streams_missed": 3,
- "unique_chatters": 1306,
+ "streams_analyzed": 19,
+ "streams_missed": 2,
+ "unique_chatters": 1324,
  "members_confirmed": 119,
  "member_classes": {
   "known": 43,
@@ -267,6 +267,16 @@
    "member_chatters": 17,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "Pncd5SqGgE8",
+   "start": "2026-11-02 22:00",
+   "title": "【HOW TO FISH】MORE FISHING!!!!【#VSPOEN #RikoSolari】",
+   "kind": "配信",
+   "chatters": 84,
+   "member_chatters": 18,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -293,18 +303,6 @@
    "members_level": "",
    "like_count": 33,
    "view_count": null
-  },
-  {
-   "video_id": "Pncd5SqGgE8",
-   "start": "2026-11-02 00:00",
-   "title": "【HOW TO FISH】MORE FISHING!!!!【#VSPOEN #RikoSolari】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 378,
-   "view_count": 7967
   }
  ],
  "members_only_content": [
@@ -456,15 +454,15 @@
     "from": "2026-11-01",
     "to": "2026-11-03"
    },
-   "streams_analyzed": 1,
-   "streams_missed": 1,
-   "unique_chatters": 49,
-   "members_confirmed": 17,
+   "streams_analyzed": 2,
+   "streams_missed": 0,
+   "unique_chatters": 115,
+   "members_confirmed": 27,
    "member_classes": {
-    "known": 7,
-    "unknown": 10
+    "known": 13,
+    "unknown": 14
    },
-   "long_term_members": 11,
+   "long_term_members": 19,
    "badges": [
     {
      "months": 0,
@@ -472,7 +470,7 @@
     },
     {
      "months": 2,
-     "members": 3
+     "members": 5
     },
     {
      "months": 6,
@@ -480,11 +478,11 @@
     },
     {
      "months": 12,
-     "members": 5
+     "members": 10
     },
     {
      "months": 24,
-     "members": 6
+     "members": 9
     }
    ],
    "events": {
@@ -497,16 +495,16 @@
     {
      "tier": "Rikonaut",
      "price": 490,
-     "confirmed_members": 7,
-     "estimated_members": 17.0
+     "confirmed_members": 13,
+     "estimated_members": 27.0
     }
    ],
    "revenue": {
-    "monthly_low": 5301,
-    "monthly_est": 5301,
+    "monthly_low": 8419,
+    "monthly_est": 8419,
     "gift_once": 0
    },
-   "avg_member_chatters": 17,
+   "avg_member_chatters": 17.5,
    "partial": true,
    "finalized": false
   }

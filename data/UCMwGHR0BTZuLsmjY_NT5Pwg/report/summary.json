@@ -3,81 +3,81 @@
  "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
  "handle": "@NinomaeInanis",
  "subscribers": 1680000,
- "fetched_at": "2026-11-03 06:34",
- "generated_at": "2026-11-03 06:34",
+ "fetched_at": "2026-11-03 12:36",
+ "generated_at": "2026-11-03 12:36",
  "period": {
-  "from": "2026-10-04 06:34",
-  "to": "2026-11-03 06:34",
+  "from": "2026-10-04 12:36",
+  "to": "2026-11-03 12:36",
   "days": 30
  },
- "streams_analyzed": 10,
+ "streams_analyzed": 11,
  "streams_missed": 2,
- "unique_chatters": 7372,
- "members_confirmed": 2067,
+ "unique_chatters": 7595,
+ "members_confirmed": 2127,
  "member_classes": {
-  "known": 537,
-  "unknown": 1491,
-  "gift": 39
+  "known": 547,
+  "unknown": 1532,
+  "gift": 48
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 90
+   "members": 103
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 30
+   "members": 29
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 84
+   "members": 88
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 104
+   "members": 108
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 277
+   "members": 283
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 196
+   "members": 201
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 245
+   "members": 250
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 321
+   "members": 324
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 584
+   "members": 588
   },
   {
    "months": 72,
    "label": "6年",
-   "members": 136
+   "members": 153
   }
  ],
  "events": {
   "new_members": 15,
   "rejoins": 16,
-  "milestones": 233,
-  "gift_purchases": 3,
-  "gifted_total": 35,
-  "gift_redemptions": 39
+  "milestones": 242,
+  "gift_purchases": 4,
+  "gifted_total": 45,
+  "gift_redemptions": 49
  },
  "tiers_configured": true,
  "tiers": [
@@ -86,22 +86,22 @@
    "price": 390,
    "net_per_member": 248.2,
    "confirmed_members": 75,
-   "share_of_confirmed_pct": 14.0,
-   "allocated_unknown": 208.2,
-   "estimated_members": 283.2,
+   "share_of_confirmed_pct": 13.7,
+   "allocated_unknown": 210.1,
+   "estimated_members": 285.1,
    "monthly_net_confirmed": 18614,
-   "monthly_net_estimated": 70295
+   "monthly_net_estimated": 70745
   },
   {
    "tier": "Otako",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 448,
-   "share_of_confirmed_pct": 83.4,
-   "allocated_unknown": 1243.9,
-   "estimated_members": 1691.9,
-   "monthly_net_confirmed": 196713,
-   "monthly_net_estimated": 742893
+   "confirmed_members": 458,
+   "share_of_confirmed_pct": 83.7,
+   "allocated_unknown": 1282.7,
+   "estimated_members": 1740.7,
+   "monthly_net_confirmed": 201104,
+   "monthly_net_estimated": 764341
   },
   {
    "tier": "Tentacultist",
@@ -109,10 +109,10 @@
    "net_per_member": 1266.4,
    "confirmed_members": 6,
    "share_of_confirmed_pct": 1.1,
-   "allocated_unknown": 16.7,
-   "estimated_members": 22.7,
+   "allocated_unknown": 16.8,
+   "estimated_members": 22.8,
    "monthly_net_confirmed": 7598,
-   "monthly_net_estimated": 28695
+   "monthly_net_estimated": 28879
   },
   {
    "tier": "AO-chan's Food",
@@ -120,19 +120,19 @@
    "net_per_member": 2220.9,
    "confirmed_members": 8,
    "share_of_confirmed_pct": 1.5,
-   "allocated_unknown": 22.2,
-   "estimated_members": 30.2,
+   "allocated_unknown": 22.4,
+   "estimated_members": 30.4,
    "monthly_net_confirmed": 17767,
-   "monthly_net_estimated": 67099
+   "monthly_net_estimated": 67529
   }
  ],
  "revenue": {
-  "monthly_low": 610731,
-  "monthly_est": 908981,
-  "gift_once": 8686,
-  "total_low": 619417,
-  "total_est": 917668,
-  "paying_members": 2028,
+  "monthly_low": 625297,
+  "monthly_est": 931494,
+  "gift_once": 11168,
+  "total_low": 636465,
+  "total_est": 942662,
+  "paying_members": 2079,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -240,6 +240,16 @@
    "member_chatters": 538,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "XmWqKmGtLHk",
+   "start": "2026-11-03 10:02",
+   "title": "【#GBVSR】Tournament Time!!! #sponsored",
+   "kind": "配信",
+   "chatters": 992,
+   "member_chatters": 516,
+   "new_members": 0,
+   "gifted_total": 10
   }
  ],
  "missed_streams": [
@@ -264,7 +274,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "Otako",
-   "like_count": 614,
+   "like_count": 618,
    "view_count": null
   }
  ],
@@ -286,7 +296,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "Otako",
-   "like_count": 614,
+   "like_count": 618,
    "view_count": null
   }
  ],
@@ -455,6 +465,105 @@
    },
    "avg_member_chatters": 549.2,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-03"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 992,
+   "members_confirmed": 516,
+   "member_classes": {
+    "known": 163,
+    "unknown": 344,
+    "gift": 9
+   },
+   "long_term_members": 452,
+   "badges": [
+    {
+     "months": 0,
+     "members": 18
+    },
+    {
+     "months": 1,
+     "members": 2
+    },
+    {
+     "months": 2,
+     "members": 19
+    },
+    {
+     "months": 6,
+     "members": 25
+    },
+    {
+     "months": 12,
+     "members": 65
+    },
+    {
+     "months": 24,
+     "members": 46
+    },
+    {
+     "months": 36,
+     "members": 65
+    },
+    {
+     "months": 48,
+     "members": 76
+    },
+    {
+     "months": 60,
+     "members": 132
+    },
+    {
+     "months": 72,
+     "members": 68
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 0,
+    "milestones": 9,
+    "gifted_total": 10
+   },
+   "tiers": [
+    {
+     "tier": "Takoling",
+     "price": 390,
+     "confirmed_members": 14,
+     "estimated_members": 43.5
+    },
+    {
+     "tier": "Otako",
+     "price": 690,
+     "confirmed_members": 141,
+     "estimated_members": 438.6
+    },
+    {
+     "tier": "Tentacultist",
+     "price": 1990,
+     "confirmed_members": 4,
+     "estimated_members": 12.4
+    },
+    {
+     "tier": "AO-chan's Food",
+     "price": 3490,
+     "confirmed_members": 4,
+     "estimated_members": 12.4
+    }
+   ],
+   "revenue": {
+    "monthly_low": 164710,
+    "monthly_est": 246767,
+    "gift_once": 2482
+   },
+   "avg_member_chatters": 516,
+   "partial": true,
    "finalized": false
   }
  ],

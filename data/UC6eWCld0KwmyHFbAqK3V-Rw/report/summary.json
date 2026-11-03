@@ -3,68 +3,68 @@
  "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
  "handle": "@HakuiKoyori",
  "subscribers": 1380000,
- "fetched_at": "2026-11-03 06:27",
- "generated_at": "2026-11-03 06:31",
+ "fetched_at": "2026-11-03 12:34",
+ "generated_at": "2026-11-03 12:36",
  "period": {
-  "from": "2026-10-04 06:27",
-  "to": "2026-11-03 06:27",
+  "from": "2026-10-04 12:34",
+  "to": "2026-11-03 12:34",
   "days": 30
  },
  "streams_analyzed": 42,
- "streams_missed": 1,
- "unique_chatters": 26859,
- "members_confirmed": 4755,
+ "streams_missed": 2,
+ "unique_chatters": 26910,
+ "members_confirmed": 4784,
  "member_classes": {
-  "unknown": 2989,
-  "known": 905,
+  "unknown": 3008,
+  "known": 915,
   "gift": 861
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 968
+   "members": 967
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 83
+   "members": 85
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 226
+   "members": 229
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 337
+   "members": 339
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 637
+   "members": 644
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 558
+   "members": 561
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 802
+   "members": 807
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 1144
+   "members": 1152
   }
  ],
  "events": {
-  "new_members": 51,
-  "rejoins": 55,
-  "milestones": 370,
+  "new_members": 52,
+  "rejoins": 57,
+  "milestones": 374,
   "gift_purchases": 177,
   "gifted_total": 966,
   "gift_redemptions": 862
@@ -75,21 +75,21 @@
    "tier": "こよりの研究室",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 905,
+   "confirmed_members": 915,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2989.0,
-   "estimated_members": 3894.0,
-   "monthly_net_confirmed": 282195,
-   "monthly_net_estimated": 1214220
+   "allocated_unknown": 3008.0,
+   "estimated_members": 3923.0,
+   "monthly_net_confirmed": 285314,
+   "monthly_net_estimated": 1223263
   }
  ],
  "revenue": {
-  "monthly_low": 1214220,
-  "monthly_est": 1214220,
+  "monthly_low": 1223263,
+  "monthly_est": 1223263,
   "gift_once": 301216,
-  "total_low": 1515436,
-  "total_est": 1515436,
-  "paying_members": 3894,
+  "total_low": 1524479,
+  "total_est": 1524479,
+  "paying_members": 3923,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "d3_-HSxjShc",
-   "start": "2026-10-04 12:30",
-   "title": "【空の軌跡 the 2nd】完全初見！第1章プレイ中！withシェラ姉だよ～！ #2 【博衣こより/ホロライブ】※ネタバレあり",
-   "kind": "配信",
-   "chatters": 1639,
-   "member_chatters": 654,
-   "new_members": 1,
-   "gifted_total": 1
-  },
   {
    "video_id": "VSxQqM-2QwA",
    "start": "2026-10-04 18:58",
@@ -517,6 +507,16 @@
    "member_chatters": 1237,
    "new_members": 0,
    "gifted_total": 86
+  },
+  {
+   "video_id": "YQdaiqI7An8",
+   "start": "2026-11-03 07:09",
+   "title": "【 #朝こよ 】3週連続告知アリ③週目‼️10月の\"めい\"言発表！火曜日の朝は朝こよ～！☀ #305 【博衣こより/hololive】",
+   "kind": "配信",
+   "chatters": 2203,
+   "member_chatters": 920,
+   "new_members": 2,
+   "gifted_total": 1
   }
  ],
  "missed_streams": [
@@ -529,8 +529,20 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 1535,
+   "like_count": 1543,
    "view_count": null
+  },
+  {
+   "video_id": "hXHc-Fg-pak",
+   "start": "2026-11-02 00:00",
+   "title": "Hakuin Koyori 2nd Album \"Chemical Spark\" Crossfade🧪✨",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 988,
+   "view_count": 10760
   }
  ],
  "members_only_content": [
@@ -541,7 +553,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 1535,
+   "like_count": 1543,
    "view_count": null
   }
  ],
@@ -699,70 +711,70 @@
     "from": "2026-11-01",
     "to": "2026-11-03"
    },
-   "streams_analyzed": 3,
-   "streams_missed": 0,
-   "unique_chatters": 6162,
-   "members_confirmed": 1814,
+   "streams_analyzed": 4,
+   "streams_missed": 1,
+   "unique_chatters": 7291,
+   "members_confirmed": 2073,
    "member_classes": {
-    "unknown": 1231,
-    "known": 532,
-    "gift": 51
+    "unknown": 1425,
+    "known": 596,
+    "gift": 52
    },
-   "long_term_members": 1492,
+   "long_term_members": 1701,
    "badges": [
     {
      "months": 0,
-     "members": 90
+     "members": 94
     },
     {
      "months": 1,
-     "members": 25
+     "members": 32
     },
     {
      "months": 2,
-     "members": 78
+     "members": 90
     },
     {
      "months": 6,
-     "members": 129
+     "members": 156
     },
     {
      "months": 12,
-     "members": 287
+     "members": 329
     },
     {
      "months": 24,
-     "members": 270
+     "members": 305
     },
     {
      "months": 36,
-     "members": 365
+     "members": 433
     },
     {
      "months": 48,
-     "members": 570
+     "members": 634
     }
    ],
    "events": {
-    "new_members": 5,
-    "rejoins": 9,
-    "milestones": 5,
-    "gifted_total": 92
+    "new_members": 7,
+    "rejoins": 12,
+    "milestones": 12,
+    "gifted_total": 93
    },
    "tiers": [
     {
      "tier": "こよりの研究室",
      "price": 490,
-     "confirmed_members": 532,
-     "estimated_members": 1763.0
+     "confirmed_members": 596,
+     "estimated_members": 2021.0
     }
    ],
    "revenue": {
-    "monthly_low": 549735,
-    "monthly_est": 549735,
-    "gift_once": 28687
+    "monthly_low": 630185,
+    "monthly_est": 630185,
+    "gift_once": 28999
    },
-   "avg_member_chatters": 988.7,
+   "avg_member_chatters": 971.5,
    "partial": true,
    "finalized": false
   }

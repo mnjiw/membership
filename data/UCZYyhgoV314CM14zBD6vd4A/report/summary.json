@@ -3,15 +3,15 @@
  "channel_id": "UCZYyhgoV314CM14zBD6vd4A",
  "handle": "@tenkaitsukasa",
  "subscribers": 366000,
- "fetched_at": "2026-11-03 06:43",
- "generated_at": "2026-11-03 06:44",
+ "fetched_at": "2026-11-03 12:42",
+ "generated_at": "2026-11-03 12:42",
  "period": {
-  "from": "2026-10-04 06:43",
-  "to": "2026-11-03 06:43",
+  "from": "2026-10-04 12:42",
+  "to": "2026-11-03 12:42",
   "days": 30
  },
  "streams_analyzed": 16,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 2128,
  "members_confirmed": 145,
  "member_classes": {
@@ -242,7 +242,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "qBDQYsb8gRs",
+   "start": "2026-11-03 00:00",
+   "title": "[Clip/Dragon Quest V] Tenkai Tsukasa stunned by the shocking turn of events [VTuber]",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 46,
+   "view_count": 631
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -368,7 +381,7 @@
     "to": "2026-11-03"
    },
    "streams_analyzed": 2,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 504,
    "members_confirmed": 39,
    "member_classes": {

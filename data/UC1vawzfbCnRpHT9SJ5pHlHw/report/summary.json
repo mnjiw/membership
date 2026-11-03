@@ -3,27 +3,27 @@
  "channel_id": "UC1vawzfbCnRpHT9SJ5pHlHw",
  "handle": "@AkagiWen",
  "subscribers": 364000,
- "fetched_at": "2026-11-03 05:29",
- "generated_at": "2026-11-03 05:29",
+ "fetched_at": "2026-11-03 12:31",
+ "generated_at": "2026-11-03 12:32",
  "period": {
-  "from": "2026-10-04 05:29",
-  "to": "2026-11-03 05:29",
+  "from": "2026-10-04 12:31",
+  "to": "2026-11-03 12:31",
   "days": 30
  },
- "streams_analyzed": 19,
- "streams_missed": 3,
- "unique_chatters": 4178,
- "members_confirmed": 2245,
+ "streams_analyzed": 20,
+ "streams_missed": 2,
+ "unique_chatters": 4303,
+ "members_confirmed": 2299,
  "member_classes": {
-  "unknown": 1758,
-  "known": 396,
+  "unknown": 1804,
+  "known": 404,
   "gift": 91
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 198
+   "members": 207
   },
   {
    "months": 1,
@@ -33,33 +33,33 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 256
+   "members": 262
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 330
+   "members": 331
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 924
+   "members": 947
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 390
+   "members": 399
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 92
+   "members": 98
   }
  ],
  "events": {
-  "new_members": 53,
-  "rejoins": 22,
-  "milestones": 214,
+  "new_members": 58,
+  "rejoins": 24,
+  "milestones": 218,
   "gift_purchases": 15,
   "gifted_total": 91,
   "gift_redemptions": 91
@@ -70,21 +70,21 @@
    "tier": "うちら永遠のダイエッター",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 396,
+   "confirmed_members": 404,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1758.0,
-   "estimated_members": 2154.0,
-   "monthly_net_confirmed": 123480,
-   "monthly_net_estimated": 671656
+   "allocated_unknown": 1804.0,
+   "estimated_members": 2208.0,
+   "monthly_net_confirmed": 125975,
+   "monthly_net_estimated": 688495
   }
  ],
  "revenue": {
-  "monthly_low": 671656,
-  "monthly_est": 671656,
+  "monthly_low": 688495,
+  "monthly_est": 688495,
   "gift_once": 28375,
-  "total_low": 700032,
-  "total_est": 700032,
-  "paying_members": 2154,
+  "total_low": 716870,
+  "total_est": 716870,
+  "paying_members": 2208,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -282,6 +282,16 @@
    "member_chatters": 433,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "rYUJkwrfuOA",
+   "start": "2026-11-02 20:41",
+   "title": "【スプラ3】チーム１１顔合わせ！ #にじイカ祭り2026 【にじさんじ / 赤城ウェン】",
+   "kind": "配信",
+   "chatters": 1047,
+   "member_chatters": 799,
+   "new_members": 5,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -308,18 +318,6 @@
    "members_level": "",
    "like_count": 838,
    "view_count": null
-  },
-  {
-   "video_id": "rYUJkwrfuOA",
-   "start": "2026-11-02 00:00",
-   "title": "【スプラ3】チーム１１顔合わせ！ #にじイカ祭り2026 【にじさんじ / 赤城ウェン】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 2235,
-   "view_count": 111419
   }
  ],
  "members_only_content": [
@@ -472,6 +470,74 @@
    },
    "avg_member_chatters": 558.2,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-03"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 1047,
+   "members_confirmed": 799,
+   "member_classes": {
+    "known": 155,
+    "unknown": 644
+   },
+   "long_term_members": 587,
+   "badges": [
+    {
+     "months": 0,
+     "members": 28
+    },
+    {
+     "months": 1,
+     "members": 15
+    },
+    {
+     "months": 2,
+     "members": 69
+    },
+    {
+     "months": 6,
+     "members": 100
+    },
+    {
+     "months": 12,
+     "members": 368
+    },
+    {
+     "months": 24,
+     "members": 170
+    },
+    {
+     "months": 36,
+     "members": 49
+    }
+   ],
+   "events": {
+    "new_members": 5,
+    "rejoins": 2,
+    "milestones": 4,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "うちら永遠のダイエッター",
+     "price": 490,
+     "confirmed_members": 155,
+     "estimated_members": 799.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 249143,
+    "monthly_est": 249143,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 799,
+   "partial": true,
    "finalized": false
   }
  ],

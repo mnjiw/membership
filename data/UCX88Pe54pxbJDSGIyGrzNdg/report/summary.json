@@ -3,23 +3,57 @@
  "channel_id": "UCX88Pe54pxbJDSGIyGrzNdg",
  "handle": "@NaSera",
  "subscribers": 85700,
- "fetched_at": "2026-11-03 05:28",
- "generated_at": "2026-11-03 05:28",
+ "fetched_at": "2026-11-03 12:31",
+ "generated_at": "2026-11-03 12:31",
  "period": {
-  "from": "2026-10-04 05:28",
-  "to": "2026-11-03 05:28",
+  "from": "2026-10-04 12:31",
+  "to": "2026-11-03 12:31",
   "days": 30
  },
- "streams_analyzed": 0,
- "streams_missed": 1,
- "unique_chatters": 0,
- "members_confirmed": 0,
- "member_classes": {},
- "badges": [],
+ "streams_analyzed": 1,
+ "streams_missed": 0,
+ "unique_chatters": 95,
+ "members_confirmed": 42,
+ "member_classes": {
+  "unknown": 36,
+  "known": 6
+ },
+ "badges": [
+  {
+   "months": 2,
+   "label": "2ヶ月",
+   "members": 6
+  },
+  {
+   "months": 6,
+   "label": "6ヶ月",
+   "members": 2
+  },
+  {
+   "months": 12,
+   "label": "1年",
+   "members": 9
+  },
+  {
+   "months": 24,
+   "label": "2年",
+   "members": 5
+  },
+  {
+   "months": 36,
+   "label": "3年",
+   "members": 1
+  },
+  {
+   "months": 48,
+   "label": "4年",
+   "members": 19
+  }
+ ],
  "events": {
   "new_members": 0,
   "rejoins": 0,
-  "milestones": 0,
+  "milestones": 5,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -30,21 +64,21 @@
    "tier": "🌸🌙 ケセラ魔法クラス🌟케세라 마법 클래스",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 0,
-   "share_of_confirmed_pct": "",
-   "allocated_unknown": 0.0,
-   "estimated_members": 0.0,
-   "monthly_net_confirmed": 0,
-   "monthly_net_estimated": 0
+   "confirmed_members": 6,
+   "share_of_confirmed_pct": 100.0,
+   "allocated_unknown": 36.0,
+   "estimated_members": 42.0,
+   "monthly_net_confirmed": 1871,
+   "monthly_net_estimated": 13096
   }
  ],
  "revenue": {
-  "monthly_low": 0,
-  "monthly_est": 0,
+  "monthly_low": 13096,
+  "monthly_est": 13096,
   "gift_once": 0,
-  "total_low": 0,
-  "total_est": 0,
-  "paying_members": 0,
+  "total_low": 13096,
+  "total_est": 13096,
+  "paying_members": 42,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -52,21 +86,19 @@
   "currency": "JPY",
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
- "streams": [],
- "missed_streams": [
+ "streams": [
   {
    "video_id": "kBQisPUtDiw",
-   "start": "2026-11-02 00:00",
+   "start": "2026-11-02 21:01",
    "title": "【狂い咲き】引っ越したら...（ハロウィンの代わりにホラゲしよう🎃）【ナセラ/にじさんじ🌸🌙】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 244,
-   "view_count": 2503
+   "kind": "配信",
+   "chatters": 95,
+   "member_chatters": 42,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -142,9 +174,73 @@
    "partial": true,
    "finalized": true,
    "finalized_at": "2026-10-08 08:46"
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-03"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 95,
+   "members_confirmed": 42,
+   "member_classes": {
+    "unknown": 36,
+    "known": 6
+   },
+   "long_term_members": 34,
+   "badges": [
+    {
+     "months": 2,
+     "members": 6
+    },
+    {
+     "months": 6,
+     "members": 2
+    },
+    {
+     "months": 12,
+     "members": 9
+    },
+    {
+     "months": 24,
+     "members": 5
+    },
+    {
+     "months": 36,
+     "members": 1
+    },
+    {
+     "months": 48,
+     "members": 19
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 0,
+    "milestones": 5,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "🌸🌙 ケセラ魔法クラス🌟케세라 마법 클래스",
+     "price": 490,
+     "confirmed_members": 6,
+     "estimated_members": 42.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 13096,
+    "monthly_est": 13096,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 42,
+   "partial": true,
+   "finalized": false
   }
  ],
- "no_streams": true,
+ "no_streams": false,
  "membership": true,
  "price_history": [
   {

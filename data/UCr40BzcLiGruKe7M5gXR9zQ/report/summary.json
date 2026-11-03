@@ -3,19 +3,19 @@
  "channel_id": "UCr40BzcLiGruKe7M5gXR9zQ",
  "handle": "@Freodore_nijisanji",
  "subscribers": 203000,
- "fetched_at": "2026-11-03 05:36",
- "generated_at": "2026-11-03 05:36",
+ "fetched_at": "2026-11-03 12:33",
+ "generated_at": "2026-11-03 12:33",
  "period": {
-  "from": "2026-10-04 05:36",
-  "to": "2026-11-03 05:36",
+  "from": "2026-10-04 12:33",
+  "to": "2026-11-03 12:33",
   "days": 30
  },
- "streams_analyzed": 19,
+ "streams_analyzed": 20,
  "streams_missed": 0,
- "unique_chatters": 3309,
- "members_confirmed": 747,
+ "unique_chatters": 3370,
+ "members_confirmed": 751,
  "member_classes": {
-  "unknown": 576,
+  "unknown": 580,
   "known": 47,
   "gift": 124
  },
@@ -23,27 +23,27 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 156
+   "members": 155
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 24
+   "members": 25
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 88
+   "members": 90
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 80
+   "members": 78
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 399
+   "members": 403
   }
  ],
  "events": {
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 47,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 576.0,
-   "estimated_members": 623.0,
+   "allocated_unknown": 580.0,
+   "estimated_members": 627.0,
    "monthly_net_confirmed": 14655,
-   "monthly_net_estimated": 194263
+   "monthly_net_estimated": 195510
   }
  ],
  "revenue": {
-  "monthly_low": 194263,
-  "monthly_est": 194263,
+  "monthly_low": 195510,
+  "monthly_est": 195510,
   "gift_once": 38665,
-  "total_low": 232928,
-  "total_est": 232928,
-  "paying_members": 623,
+  "total_low": 234175,
+  "total_est": 234175,
+  "paying_members": 627,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -272,6 +272,16 @@
    "member_chatters": 199,
    "new_members": 0,
    "gifted_total": 5
+  },
+  {
+   "video_id": "sjdC4Jlazok",
+   "start": "2026-11-03 07:00",
+   "title": "【Coffee Zatsu】New Beans November【NIJISANJI EN | Freodore】",
+   "kind": "配信",
+   "chatters": 301,
+   "member_chatters": 153,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -335,6 +345,66 @@
     "gift_once": 62675
    },
    "avg_member_chatters": 187.8,
+   "partial": true,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-03"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 301,
+   "members_confirmed": 153,
+   "member_classes": {
+    "unknown": 141,
+    "known": 12
+   },
+   "long_term_members": 91,
+   "badges": [
+    {
+     "months": 0,
+     "members": 11
+    },
+    {
+     "months": 1,
+     "members": 3
+    },
+    {
+     "months": 2,
+     "members": 24
+    },
+    {
+     "months": 6,
+     "members": 24
+    },
+    {
+     "months": 12,
+     "members": 91
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 0,
+    "milestones": 0,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "Doremin Café",
+     "price": 490,
+     "confirmed_members": 12,
+     "estimated_members": 153.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 47708,
+    "monthly_est": 47708,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 153,
    "partial": true,
    "finalized": false
   }

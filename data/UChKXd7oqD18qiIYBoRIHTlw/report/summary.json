@@ -3,47 +3,47 @@
  "channel_id": "UChKXd7oqD18qiIYBoRIHTlw",
  "handle": "@MelocoKyoran",
  "subscribers": 731000,
- "fetched_at": "2026-11-03 05:36",
- "generated_at": "2026-11-03 05:36",
+ "fetched_at": "2026-11-03 12:33",
+ "generated_at": "2026-11-03 12:33",
  "period": {
-  "from": "2026-10-04 05:36",
-  "to": "2026-11-03 05:36",
+  "from": "2026-10-04 12:33",
+  "to": "2026-11-03 12:33",
   "days": 30
  },
- "streams_analyzed": 17,
+ "streams_analyzed": 18,
  "streams_missed": 3,
- "unique_chatters": 5761,
- "members_confirmed": 674,
+ "unique_chatters": 5863,
+ "members_confirmed": 682,
  "member_classes": {
-  "known": 119,
-  "unknown": 471,
+  "known": 120,
+  "unknown": 478,
   "gift": 84
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 132
+   "members": 138
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 20
+   "members": 19
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 72
+   "members": 73
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 199
+   "members": 200
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 138
+   "members": 139
   },
   {
    "months": 24,
@@ -54,7 +54,7 @@
  "events": {
   "new_members": 26,
   "rejoins": 5,
-  "milestones": 69,
+  "milestones": 70,
   "gift_purchases": 9,
   "gifted_total": 84,
   "gift_redemptions": 84
@@ -65,21 +65,21 @@
    "tier": "Meloveship",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 119,
+   "confirmed_members": 120,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 471.0,
-   "estimated_members": 590.0,
-   "monthly_net_confirmed": 37106,
-   "monthly_net_estimated": 183973
+   "allocated_unknown": 478.0,
+   "estimated_members": 598.0,
+   "monthly_net_confirmed": 37418,
+   "monthly_net_estimated": 186467
   }
  ],
  "revenue": {
-  "monthly_low": 183973,
-  "monthly_est": 183973,
+  "monthly_low": 186467,
+  "monthly_est": 186467,
   "gift_once": 26193,
-  "total_low": 210165,
-  "total_est": 210165,
-  "paying_members": 590,
+  "total_low": 212660,
+  "total_est": 212660,
+  "paying_members": 598,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -257,6 +257,16 @@
    "member_chatters": 155,
    "new_members": 1,
    "gifted_total": 1
+  },
+  {
+   "video_id": "VrKzykKNPtk",
+   "start": "2026-11-02 23:27",
+   "title": "【龍が如く 極2】HE'S BACK 伝説の龍再び【NIJISANJI EN￤Meloco Kyoran】",
+   "kind": "配信",
+   "chatters": 650,
+   "member_chatters": 102,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -459,6 +469,70 @@
    },
    "avg_member_chatters": 132.8,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-03"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 1,
+   "unique_chatters": 650,
+   "members_confirmed": 102,
+   "member_classes": {
+    "known": 29,
+    "unknown": 73
+   },
+   "long_term_members": 39,
+   "badges": [
+    {
+     "months": 0,
+     "members": 19
+    },
+    {
+     "months": 1,
+     "members": 5
+    },
+    {
+     "months": 2,
+     "members": 11
+    },
+    {
+     "months": 6,
+     "members": 28
+    },
+    {
+     "months": 12,
+     "members": 23
+    },
+    {
+     "months": 24,
+     "members": 16
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 0,
+    "milestones": 1,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "Meloveship",
+     "price": 490,
+     "confirmed_members": 29,
+     "estimated_members": 102.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 31805,
+    "monthly_est": 31805,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 102,
+   "partial": true,
    "finalized": false
   }
  ],
