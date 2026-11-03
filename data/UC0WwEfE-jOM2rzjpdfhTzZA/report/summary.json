@@ -3,23 +3,37 @@
  "channel_id": "UC0WwEfE-jOM2rzjpdfhTzZA",
  "handle": "@AizonoManami",
  "subscribers": 180000,
- "fetched_at": "2026-11-03 12:29",
- "generated_at": "2026-11-03 12:29",
+ "fetched_at": "2026-11-04 05:24",
+ "generated_at": "2026-11-04 05:25",
  "period": {
-  "from": "2026-10-04 12:29",
-  "to": "2026-11-03 12:29",
+  "from": "2026-10-05 05:24",
+  "to": "2026-11-04 05:24",
   "days": 30
  },
- "streams_analyzed": 0,
+ "streams_analyzed": 1,
  "streams_missed": 1,
- "unique_chatters": 0,
- "members_confirmed": 0,
- "member_classes": {},
- "badges": [],
+ "unique_chatters": 50,
+ "members_confirmed": 20,
+ "member_classes": {
+  "unknown": 18,
+  "known": 2
+ },
+ "badges": [
+  {
+   "months": 12,
+   "label": "1年",
+   "members": 2
+  },
+  {
+   "months": 24,
+   "label": "2年",
+   "members": 18
+  }
+ ],
  "events": {
   "new_members": 0,
-  "rejoins": 0,
-  "milestones": 0,
+  "rejoins": 1,
+  "milestones": 1,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -30,21 +44,21 @@
    "tier": "愛民",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 0,
-   "share_of_confirmed_pct": "",
-   "allocated_unknown": 0.0,
-   "estimated_members": 0.0,
-   "monthly_net_confirmed": 0,
-   "monthly_net_estimated": 0
+   "confirmed_members": 2,
+   "share_of_confirmed_pct": 100.0,
+   "allocated_unknown": 18.0,
+   "estimated_members": 20.0,
+   "monthly_net_confirmed": 624,
+   "monthly_net_estimated": 6236
   }
  ],
  "revenue": {
-  "monthly_low": 0,
-  "monthly_est": 0,
+  "monthly_low": 6236,
+  "monthly_est": 6236,
   "gift_once": 0,
-  "total_low": 0,
-  "total_est": 0,
-  "paying_members": 0,
+  "total_low": 6236,
+  "total_est": 6236,
+  "paying_members": 20,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -52,7 +66,18 @@
   "currency": "JPY",
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
- "streams": [],
+ "streams": [
+  {
+   "video_id": "tMUZA8o2QvQ",
+   "start": "2026-11-03 19:03",
+   "title": "【#にじイカ祭り2026 】チーム6顔合わせ＆練習！【にじさんじ/愛園愛美】",
+   "kind": "配信",
+   "chatters": 50,
+   "member_chatters": 20,
+   "new_members": 0,
+   "gifted_total": 0
+  }
+ ],
  "missed_streams": [
   {
    "video_id": "-pWBpHvVeck",
@@ -79,8 +104,57 @@
    "view_count": null
   }
  ],
- "history": [],
- "no_streams": true,
+ "history": [
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-03",
+    "to": "2026-11-04"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 50,
+   "members_confirmed": 20,
+   "member_classes": {
+    "unknown": 18,
+    "known": 2
+   },
+   "long_term_members": 20,
+   "badges": [
+    {
+     "months": 12,
+     "members": 2
+    },
+    {
+     "months": 24,
+     "members": 18
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 1,
+    "milestones": 1,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "愛民",
+     "price": 490,
+     "confirmed_members": 2,
+     "estimated_members": 20.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 6236,
+    "monthly_est": 6236,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 20,
+   "partial": true,
+   "finalized": false
+  }
+ ],
+ "no_streams": false,
  "membership": true,
  "price_history": [
   {

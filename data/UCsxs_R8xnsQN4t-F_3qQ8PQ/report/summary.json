@@ -3,15 +3,15 @@
  "channel_id": "UCsxs_R8xnsQN4t-F_3qQ8PQ",
  "handle": "@Rayon_Y4T4",
  "subscribers": 104000,
- "fetched_at": "2026-11-03 12:32",
- "generated_at": "2026-11-03 12:32",
+ "fetched_at": "2026-11-04 05:40",
+ "generated_at": "2026-11-04 05:40",
  "period": {
-  "from": "2026-10-04 12:32",
-  "to": "2026-11-03 12:32",
+  "from": "2026-10-05 05:40",
+  "to": "2026-11-04 05:40",
   "days": 30
  },
  "streams_analyzed": 21,
- "streams_missed": 0,
+ "streams_missed": 2,
  "unique_chatters": 1366,
  "members_confirmed": 174,
  "member_classes": {
@@ -283,7 +283,32 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "D93pPNjFZTA",
+   "start": "2026-11-03 00:00",
+   "title": "【スプラトゥーン3】ヤグラヤグラヤグラ",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 233,
+   "view_count": 9868
+  },
+  {
+   "video_id": "2U-jGiqcPZ4",
+   "start": "2026-11-03 00:00",
+   "title": "【スプラトゥーン3】緑一色WIN チーム練3日目",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 371,
+   "view_count": 16728
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -396,10 +421,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-03"
+    "to": "2026-11-04"
    },
    "streams_analyzed": 3,
-   "streams_missed": 0,
+   "streams_missed": 2,
    "unique_chatters": 311,
    "members_confirmed": 64,
    "member_classes": {

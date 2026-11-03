@@ -3,26 +3,26 @@
  "channel_id": "UCtAvQ5U0aXyKwm2i4GqFgJg",
  "handle": "@HarusakiAir",
  "subscribers": 198000,
- "fetched_at": "2026-11-03 12:29",
- "generated_at": "2026-11-03 12:29",
+ "fetched_at": "2026-11-04 05:23",
+ "generated_at": "2026-11-04 05:23",
  "period": {
-  "from": "2026-10-04 12:29",
-  "to": "2026-11-03 12:29",
+  "from": "2026-10-05 05:23",
+  "to": "2026-11-04 05:23",
   "days": 30
  },
- "streams_analyzed": 13,
- "streams_missed": 2,
- "unique_chatters": 1229,
- "members_confirmed": 269,
+ "streams_analyzed": 12,
+ "streams_missed": 3,
+ "unique_chatters": 1200,
+ "members_confirmed": 262,
  "member_classes": {
-  "unknown": 262,
-  "known": 7
+  "unknown": 256,
+  "known": 6
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 15
+   "members": 14
   },
   {
    "months": 1,
@@ -37,7 +37,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 31
+   "members": 30
   },
   {
    "months": 12,
@@ -47,7 +47,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 149
+   "members": 144
   }
  ],
  "events": {
@@ -64,21 +64,21 @@
    "tier": "春の民",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 7,
+   "confirmed_members": 6,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 262.0,
-   "estimated_members": 269.0,
-   "monthly_net_confirmed": 2183,
-   "monthly_net_estimated": 83879
+   "allocated_unknown": 256.0,
+   "estimated_members": 262.0,
+   "monthly_net_confirmed": 1871,
+   "monthly_net_estimated": 81696
   }
  ],
  "revenue": {
-  "monthly_low": 83879,
-  "monthly_est": 83879,
+  "monthly_low": 81696,
+  "monthly_est": 81696,
   "gift_once": 0,
-  "total_low": 83879,
-  "total_est": 83879,
-  "paying_members": 269,
+  "total_low": 81696,
+  "total_est": 81696,
+  "paying_members": 262,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -87,16 +87,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "hVob1uCghGQ",
-   "start": "2026-10-04 23:43",
-   "title": "【Don't Drop The Cake】落としても3秒以内ならセーフやぞ【春崎エアル/にじさんじ】",
-   "kind": "配信",
-   "chatters": 174,
-   "member_chatters": 97,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "BiFTTcUHXJ4",
    "start": "2026-10-08 22:39",
@@ -242,6 +232,18 @@
    "members_level": "",
    "like_count": 80,
    "view_count": null
+  },
+  {
+   "video_id": "MKSJ2cYQq3Y",
+   "start": "2026-11-03 00:00",
+   "title": "【#にじイカ祭り2026】チーム13伝説の始まり【春崎エアル/にじさんじ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 740,
+   "view_count": 66901
   }
  ],
  "members_only_content": [
@@ -402,10 +404,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-03"
+    "to": "2026-11-04"
    },
    "streams_analyzed": 1,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 237,
    "members_confirmed": 123,
    "member_classes": {

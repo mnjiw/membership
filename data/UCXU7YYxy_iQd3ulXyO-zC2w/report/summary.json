@@ -3,27 +3,27 @@
  "channel_id": "UCXU7YYxy_iQd3ulXyO-zC2w",
  "handle": "@FushimiGaku",
  "subscribers": 368000,
- "fetched_at": "2026-11-03 12:28",
- "generated_at": "2026-11-03 12:28",
+ "fetched_at": "2026-11-04 05:21",
+ "generated_at": "2026-11-04 05:22",
  "period": {
-  "from": "2026-10-04 12:28",
-  "to": "2026-11-03 12:28",
+  "from": "2026-10-05 05:21",
+  "to": "2026-11-04 05:21",
   "days": 30
  },
  "streams_analyzed": 13,
  "streams_missed": 0,
- "unique_chatters": 2950,
- "members_confirmed": 1615,
+ "unique_chatters": 2597,
+ "members_confirmed": 1451,
  "member_classes": {
-  "unknown": 1457,
-  "known": 42,
-  "gift": 116
+  "unknown": 1301,
+  "gift": 111,
+  "known": 39
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 154
+   "members": 143
   },
   {
    "months": 1,
@@ -33,26 +33,26 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 74
+   "members": 62
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 105
+   "members": 94
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 1268
+   "members": 1138
   }
  ],
  "events": {
-  "new_members": 14,
-  "rejoins": 26,
+  "new_members": 8,
+  "rejoins": 23,
   "milestones": 0,
-  "gift_purchases": 17,
-  "gifted_total": 136,
-  "gift_redemptions": 116
+  "gift_purchases": 16,
+  "gifted_total": 131,
+  "gift_redemptions": 111
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,32 +60,32 @@
    "tier": "食卓",
    "price": 140,
    "net_per_member": 89.1,
-   "confirmed_members": 17,
-   "share_of_confirmed_pct": 40.5,
-   "allocated_unknown": 589.7,
-   "estimated_members": 606.7,
-   "monthly_net_confirmed": 1515,
-   "monthly_net_estimated": 54055
+   "confirmed_members": 16,
+   "share_of_confirmed_pct": 41.0,
+   "allocated_unknown": 533.7,
+   "estimated_members": 549.7,
+   "monthly_net_confirmed": 1425,
+   "monthly_net_estimated": 48977
   },
   {
    "tier": "食卓！",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 25,
-   "share_of_confirmed_pct": 59.5,
-   "allocated_unknown": 867.3,
-   "estimated_members": 892.3,
-   "monthly_net_confirmed": 7795,
-   "monthly_net_estimated": 278223
+   "confirmed_members": 23,
+   "share_of_confirmed_pct": 59.0,
+   "allocated_unknown": 767.3,
+   "estimated_members": 790.3,
+   "monthly_net_confirmed": 7172,
+   "monthly_net_estimated": 246416
   }
  ],
  "revenue": {
-  "monthly_low": 139115,
-  "monthly_est": 332278,
-  "gift_once": 12116,
-  "total_low": 151232,
-  "total_est": 344395,
-  "paying_members": 1499,
+  "monthly_low": 124505,
+  "monthly_est": 295393,
+  "gift_once": 11671,
+  "total_low": 136175,
+  "total_est": 307064,
+  "paying_members": 1340,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -94,16 +94,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "IrERyZ7Dtbo",
-   "start": "2026-10-04 23:01",
-   "title": "もうすぐ誕生日なんです…！！！【ネタバレあり / にじさんじ / 伏見ガク】",
-   "kind": "配信",
-   "chatters": 1560,
-   "member_chatters": 1010,
-   "new_members": 6,
-   "gifted_total": 5
-  },
   {
    "video_id": "iAc4SFmZLUo",
    "start": "2026-10-05 23:03",
@@ -223,6 +213,16 @@
    "member_chatters": 313,
    "new_members": 2,
    "gifted_total": 1
+  },
+  {
+   "video_id": "OxiP144cqW0",
+   "start": "2026-11-03 21:04",
+   "title": "【龍が如く 極】初プレイ！！！！！！！！漢、魅せて頂きます#1【にじさんじ / 伏見ガク / ネタバレ注意】",
+   "kind": "配信",
+   "chatters": 568,
+   "member_chatters": 429,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -234,7 +234,7 @@
    "kind": "video",
    "status": "members_only_video",
    "members_level": "食卓！",
-   "like_count": 420,
+   "like_count": 434,
    "view_count": null
   }
  ],
@@ -372,6 +372,72 @@
    },
    "avg_member_chatters": 490.5,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-04"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 568,
+   "members_confirmed": 429,
+   "member_classes": {
+    "unknown": 420,
+    "known": 9
+   },
+   "long_term_members": 370,
+   "badges": [
+    {
+     "months": 0,
+     "members": 10
+    },
+    {
+     "months": 1,
+     "members": 5
+    },
+    {
+     "months": 2,
+     "members": 20
+    },
+    {
+     "months": 6,
+     "members": 24
+    },
+    {
+     "months": 12,
+     "members": 370
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 1,
+    "milestones": 0,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "食卓",
+     "price": 140,
+     "confirmed_members": 1,
+     "estimated_members": 47.7
+    },
+    {
+     "tier": "食卓！",
+     "price": 490,
+     "confirmed_members": 8,
+     "estimated_members": 381.3
+    }
+   ],
+   "revenue": {
+    "monthly_low": 40002,
+    "monthly_est": 123153,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 429,
+   "partial": true,
    "finalized": false
   }
  ],

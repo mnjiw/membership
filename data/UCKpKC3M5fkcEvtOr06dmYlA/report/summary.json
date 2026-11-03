@@ -3,47 +3,47 @@
  "channel_id": "UCKpKC3M5fkcEvtOr06dmYlA",
  "handle": "@YuQ.Wilson",
  "subscribers": 245000,
- "fetched_at": "2026-11-03 12:33",
- "generated_at": "2026-11-03 12:33",
+ "fetched_at": "2026-11-04 05:42",
+ "generated_at": "2026-11-04 05:43",
  "period": {
-  "from": "2026-10-04 12:33",
-  "to": "2026-11-03 12:33",
+  "from": "2026-10-05 05:42",
+  "to": "2026-11-04 05:42",
   "days": 30
  },
- "streams_analyzed": 17,
+ "streams_analyzed": 18,
  "streams_missed": 1,
- "unique_chatters": 2782,
- "members_confirmed": 664,
+ "unique_chatters": 2854,
+ "members_confirmed": 693,
  "member_classes": {
-  "known": 224,
-  "unknown": 266,
+  "known": 229,
+  "unknown": 290,
   "gift": 174
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 184
+   "members": 194
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 30
+   "members": 31
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 82
+   "members": 90
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 84
+   "members": 85
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 151
+   "members": 154
   },
   {
    "months": 24,
@@ -53,13 +53,13 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 56
+   "members": 62
   }
  ],
  "events": {
   "new_members": 9,
-  "rejoins": 12,
-  "milestones": 156,
+  "rejoins": 13,
+  "milestones": 169,
   "gift_purchases": 30,
   "gifted_total": 173,
   "gift_redemptions": 174
@@ -70,21 +70,21 @@
    "tier": "Wilsoneers",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 224,
+   "confirmed_members": 229,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 266.0,
-   "estimated_members": 490.0,
-   "monthly_net_confirmed": 98356,
-   "monthly_net_estimated": 215155
+   "allocated_unknown": 290.0,
+   "estimated_members": 519.0,
+   "monthly_net_confirmed": 100552,
+   "monthly_net_estimated": 227888
   }
  ],
  "revenue": {
-  "monthly_low": 215155,
-  "monthly_est": 215155,
+  "monthly_low": 227888,
+  "monthly_est": 227888,
   "gift_once": 75963,
-  "total_low": 291117,
-  "total_est": 291117,
-  "paying_members": 490,
+  "total_low": 303851,
+  "total_est": 303851,
+  "paying_members": 519,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -262,6 +262,16 @@
    "member_chatters": 281,
    "new_members": 0,
    "gifted_total": 65
+  },
+  {
+   "video_id": "nHHU3V5rOx4",
+   "start": "2026-11-03 10:20",
+   "title": "THIS VTUBER TALKS AND MOVES WOW 【NIJISANJI EN | Yu Q. Wilson】",
+   "kind": "配信",
+   "chatters": 451,
+   "member_chatters": 200,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -274,7 +284,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 177,
+   "like_count": 195,
    "view_count": null
   }
  ],
@@ -286,7 +296,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 177,
+   "like_count": 195,
    "view_count": null
   }
  ],
@@ -428,6 +438,74 @@
    },
    "avg_member_chatters": 164.9,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-04"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 1,
+   "unique_chatters": 451,
+   "members_confirmed": 200,
+   "member_classes": {
+    "known": 110,
+    "unknown": 90
+   },
+   "long_term_members": 116,
+   "badges": [
+    {
+     "months": 0,
+     "members": 11
+    },
+    {
+     "months": 1,
+     "members": 7
+    },
+    {
+     "months": 2,
+     "members": 29
+    },
+    {
+     "months": 6,
+     "members": 37
+    },
+    {
+     "months": 12,
+     "members": 59
+    },
+    {
+     "months": 24,
+     "members": 30
+    },
+    {
+     "months": 36,
+     "members": 27
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 1,
+    "milestones": 13,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "Wilsoneers",
+     "price": 690,
+     "confirmed_members": 110,
+     "estimated_members": 200.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 87818,
+    "monthly_est": 87818,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 200,
+   "partial": true,
    "finalized": false
   }
  ],

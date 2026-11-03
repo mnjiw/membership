@@ -3,41 +3,41 @@
  "channel_id": "UCEFOogmvTTcCaO8Qe0I8-tg",
  "handle": "@KaelixDebonair",
  "subscribers": 242000,
- "fetched_at": "2026-11-03 12:33",
- "generated_at": "2026-11-03 12:33",
+ "fetched_at": "2026-11-04 05:43",
+ "generated_at": "2026-11-04 05:44",
  "period": {
-  "from": "2026-10-04 12:33",
-  "to": "2026-11-03 12:33",
+  "from": "2026-10-05 05:43",
+  "to": "2026-11-04 05:43",
   "days": 30
  },
- "streams_analyzed": 6,
+ "streams_analyzed": 7,
  "streams_missed": 2,
- "unique_chatters": 2254,
- "members_confirmed": 782,
+ "unique_chatters": 2730,
+ "members_confirmed": 944,
  "member_classes": {
-  "unknown": 708,
-  "known": 30,
-  "gift": 44
+  "unknown": 800,
+  "known": 40,
+  "gift": 104
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 353
+   "members": 458
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 429
+   "members": 486
   }
  ],
  "events": {
-  "new_members": 13,
+  "new_members": 21,
   "rejoins": 2,
   "milestones": 0,
-  "gift_purchases": 11,
-  "gifted_total": 44,
-  "gift_redemptions": 44
+  "gift_purchases": 37,
+  "gifted_total": 105,
+  "gift_redemptions": 104
  },
  "tiers_configured": true,
  "tiers": [
@@ -45,21 +45,21 @@
    "tier": "Debonheir Royale",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 30,
+   "confirmed_members": 40,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 708.0,
-   "estimated_members": 738.0,
-   "monthly_net_confirmed": 13173,
-   "monthly_net_estimated": 324049
+   "allocated_unknown": 800.0,
+   "estimated_members": 840.0,
+   "monthly_net_confirmed": 17564,
+   "monthly_net_estimated": 368836
   }
  ],
  "revenue": {
-  "monthly_low": 324049,
-  "monthly_est": 324049,
-  "gift_once": 19320,
-  "total_low": 343369,
-  "total_est": 343369,
-  "paying_members": 738,
+  "monthly_low": 368836,
+  "monthly_est": 368836,
+  "gift_once": 46105,
+  "total_low": 414941,
+  "total_est": 414941,
+  "paying_members": 840,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -127,6 +127,16 @@
    "member_chatters": 187,
    "new_members": 3,
    "gifted_total": 1
+  },
+  {
+   "video_id": "nnSLox8NyBU",
+   "start": "2026-11-03 08:56",
+   "title": "【JUST CHATTING】 i'm sick 【NIJISANJI EN | Kaelix Debonair】",
+   "kind": "配信",
+   "chatters": 1130,
+   "member_chatters": 491,
+   "new_members": 8,
+   "gifted_total": 61
   }
  ],
  "missed_streams": [
@@ -139,7 +149,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 386,
+   "like_count": 388,
    "view_count": null
   },
   {
@@ -163,7 +173,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 386,
+   "like_count": 388,
    "view_count": null
   },
   {
@@ -275,6 +285,55 @@
    },
    "avg_member_chatters": 292.2,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-04"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 1130,
+   "members_confirmed": 491,
+   "member_classes": {
+    "unknown": 407,
+    "known": 24,
+    "gift": 60
+   },
+   "long_term_members": 266,
+   "badges": [
+    {
+     "months": 0,
+     "members": 225
+    },
+    {
+     "months": 12,
+     "members": 266
+    }
+   ],
+   "events": {
+    "new_members": 8,
+    "rejoins": 0,
+    "milestones": 0,
+    "gifted_total": 61
+   },
+   "tiers": [
+    {
+     "tier": "Debonheir Royale",
+     "price": 690,
+     "confirmed_members": 24,
+     "estimated_members": 431.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 189248,
+    "monthly_est": 189248,
+    "gift_once": 26785
+   },
+   "avg_member_chatters": 491,
+   "partial": true,
    "finalized": false
   }
  ],

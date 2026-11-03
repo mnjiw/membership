@@ -3,15 +3,15 @@
  "channel_id": "UCIzZDiilcPv0wim_MbuizFA",
  "handle": "@RyomaBarrenwort",
  "subscribers": 81000,
- "fetched_at": "2026-11-03 12:33",
- "generated_at": "2026-11-03 12:33",
+ "fetched_at": "2026-11-04 05:42",
+ "generated_at": "2026-11-04 05:43",
  "period": {
-  "from": "2026-10-04 12:33",
-  "to": "2026-11-03 12:33",
+  "from": "2026-10-05 05:42",
+  "to": "2026-11-04 05:42",
   "days": 30
  },
  "streams_analyzed": 10,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 339,
  "members_confirmed": 84,
  "member_classes": {
@@ -189,7 +189,20 @@
    "gifted_total": 1
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "ge5JcwdB48Q",
+   "start": "2026-11-03 00:00",
+   "title": "woah [ 日本語字幕 ] | Active Matter",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 238,
+   "view_count": 2935
+  }
+ ],
  "members_only_content": [],
  "history": [
   {

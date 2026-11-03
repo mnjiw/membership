@@ -2,63 +2,64 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-03"
+  "to": "2026-11-04"
  },
- "streams_analyzed": 1,
+ "streams_analyzed": 2,
  "streams_missed": 0,
- "unique_chatters": 657,
- "members_confirmed": 84,
+ "unique_chatters": 1443,
+ "members_confirmed": 180,
  "member_classes": {
-  "unknown": 80,
-  "known": 4
+  "unknown": 168,
+  "known": 7,
+  "gift": 5
  },
- "long_term_members": 48,
+ "long_term_members": 114,
  "badges": [
   {
    "months": 0,
-   "members": 8
+   "members": 13
   },
   {
    "months": 1,
-   "members": 2
+   "members": 4
   },
   {
    "months": 2,
-   "members": 14
+   "members": 27
   },
   {
    "months": 6,
-   "members": 12
+   "members": 22
   },
   {
    "months": 12,
-   "members": 14
+   "members": 36
   },
   {
    "months": 24,
-   "members": 34
+   "members": 78
   }
  ],
  "events": {
-  "new_members": 1,
+  "new_members": 2,
   "rejoins": 0,
   "milestones": 0,
-  "gifted_total": 0
+  "gifted_total": 5
  },
  "tiers": [
   {
    "tier": "お助け部の倉庫",
    "price": 490,
-   "confirmed_members": 4,
-   "estimated_members": 84.0
+   "confirmed_members": 7,
+   "estimated_members": 175.0
   }
  ],
  "revenue": {
-  "monthly_low": 26193,
-  "monthly_est": 26193,
-  "gift_once": 0
+  "monthly_low": 54568,
+  "monthly_est": 54568,
+  "gift_once": 1559
  },
- "avg_member_chatters": 84,
+ "avg_member_chatters": 117,
  "partial": true,
  "finalized": false
 }

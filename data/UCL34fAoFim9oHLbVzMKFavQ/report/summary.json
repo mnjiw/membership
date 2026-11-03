@@ -3,15 +3,15 @@
  "channel_id": "UCL34fAoFim9oHLbVzMKFavQ",
  "handle": "@YorumiRena",
  "subscribers": 606000,
- "fetched_at": "2026-11-03 12:29",
- "generated_at": "2026-11-03 12:29",
+ "fetched_at": "2026-11-04 05:26",
+ "generated_at": "2026-11-04 05:26",
  "period": {
-  "from": "2026-10-04 12:29",
-  "to": "2026-11-03 12:29",
+  "from": "2026-10-05 05:26",
+  "to": "2026-11-04 05:26",
   "days": 30
  },
  "streams_analyzed": 14,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 1570,
  "members_confirmed": 251,
  "member_classes": {
@@ -243,7 +243,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "u1ZrEWAPRXI",
+   "start": "2026-11-03 00:00",
+   "title": "【 Livin' the Cream: Ice Cream Simulator 】アイスクリームショップ経営🍦 【 にじさんじ / 夜見れな 】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 1526,
+   "view_count": 51140
+  }
+ ],
  "members_only_content": [],
  "history": [
   {

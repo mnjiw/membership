@@ -3,19 +3,19 @@
  "channel_id": "UChUJbHiTVeGrSkTdBzVfNCQ",
  "handle": "@JoeRikiichi",
  "subscribers": 666000,
- "fetched_at": "2026-11-03 12:29",
- "generated_at": "2026-11-03 12:29",
+ "fetched_at": "2026-11-04 05:23",
+ "generated_at": "2026-11-04 05:24",
  "period": {
-  "from": "2026-10-04 12:29",
-  "to": "2026-11-03 12:29",
+  "from": "2026-10-05 05:23",
+  "to": "2026-11-04 05:23",
   "days": 30
  },
- "streams_analyzed": 9,
- "streams_missed": 0,
- "unique_chatters": 4990,
- "members_confirmed": 693,
+ "streams_analyzed": 8,
+ "streams_missed": 1,
+ "unique_chatters": 4733,
+ "members_confirmed": 669,
  "member_classes": {
-  "unknown": 632,
+  "unknown": 608,
   "known": 41,
   "gift": 20
  },
@@ -23,12 +23,12 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 51
+   "members": 50
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 18
+   "members": 15
   },
   {
    "months": 2,
@@ -38,17 +38,17 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 59
+   "members": 57
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 98
+   "members": 94
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 406
+   "members": 392
   }
  ],
  "events": {
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 41,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 632.0,
-   "estimated_members": 673.0,
+   "allocated_unknown": 608.0,
+   "estimated_members": 649.0,
    "monthly_net_confirmed": 12785,
-   "monthly_net_estimated": 209854
+   "monthly_net_estimated": 202370
   }
  ],
  "revenue": {
-  "monthly_low": 209854,
-  "monthly_est": 209854,
+  "monthly_low": 202370,
+  "monthly_est": 202370,
   "gift_once": 6236,
-  "total_low": 216090,
-  "total_est": 216090,
-  "paying_members": 673,
+  "total_low": 208606,
+  "total_est": 208606,
+  "paying_members": 649,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "nKvIu_GrnDk",
-   "start": "2026-10-04 22:07",
-   "title": "【ラジオ】ジョー・力一の空昼ブランコ番外編 ふつおた大激論 #21【にじさんじ】",
-   "kind": "配信",
-   "chatters": 844,
-   "member_chatters": 256,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "DJL02c7toq8",
    "start": "2026-10-06 19:59",
@@ -179,8 +169,32 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
- "members_only_content": [],
+ "missed_streams": [
+  {
+   "video_id": "BqotJuNtWN8",
+   "start": "2026-11-03 23:04",
+   "title": "【メンバー限定】ライナーノーツを書く作業配信【にじさんじ/ジョー・力一】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 220,
+   "view_count": null
+  }
+ ],
+ "members_only_content": [
+  {
+   "video_id": "BqotJuNtWN8",
+   "start": "2026-11-03 23:04",
+   "title": "【メンバー限定】ライナーノーツを書く作業配信【にじさんじ/ジョー・力一】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 220,
+   "view_count": null
+  }
+ ],
  "history": [
   {
    "month": "2026-09",
@@ -317,10 +331,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-03"
+    "to": "2026-11-04"
    },
    "streams_analyzed": 1,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 973,
    "members_confirmed": 196,
    "member_classes": {

@@ -3,26 +3,26 @@
  "channel_id": "UCl1oLKcAq93p-pwKfDGhiYQ",
  "handle": "@EmmaAugust",
  "subscribers": 240000,
- "fetched_at": "2026-11-03 12:30",
- "generated_at": "2026-11-03 12:30",
+ "fetched_at": "2026-11-04 05:27",
+ "generated_at": "2026-11-04 05:27",
  "period": {
-  "from": "2026-10-04 12:30",
-  "to": "2026-11-03 12:30",
+  "from": "2026-10-05 05:27",
+  "to": "2026-11-04 05:27",
   "days": 30
  },
- "streams_analyzed": 5,
+ "streams_analyzed": 6,
  "streams_missed": 0,
- "unique_chatters": 747,
- "members_confirmed": 72,
+ "unique_chatters": 751,
+ "members_confirmed": 75,
  "member_classes": {
-  "unknown": 60,
+  "unknown": 63,
   "known": 12
  },
  "badges": [
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 1
+   "members": 3
   },
   {
    "months": 2,
@@ -32,7 +32,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 62
+   "members": 63
   }
  ],
  "events": {
@@ -51,10 +51,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 10,
    "share_of_confirmed_pct": 83.3,
-   "allocated_unknown": 50.0,
-   "estimated_members": 60.0,
+   "allocated_unknown": 52.5,
+   "estimated_members": 62.5,
    "monthly_net_confirmed": 3118,
-   "monthly_net_estimated": 18709
+   "monthly_net_estimated": 19489
   },
   {
    "tier": "Mサイズ",
@@ -62,10 +62,10 @@
    "net_per_member": 2220.9,
    "confirmed_members": 2,
    "share_of_confirmed_pct": 16.7,
-   "allocated_unknown": 10.0,
-   "estimated_members": 12.0,
+   "allocated_unknown": 10.5,
+   "estimated_members": 12.5,
    "monthly_net_confirmed": 4442,
-   "monthly_net_estimated": 26651
+   "monthly_net_estimated": 27761
   },
   {
    "tier": "もはや仕送り",
@@ -80,12 +80,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 26269,
-  "monthly_est": 45360,
+  "monthly_low": 27205,
+  "monthly_est": 47250,
   "gift_once": 0,
-  "total_low": 26269,
-  "total_est": 45360,
-  "paying_members": 72,
+  "total_low": 27205,
+  "total_est": 47250,
+  "paying_members": 75,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -141,6 +141,16 @@
    "kind": "配信",
    "chatters": 54,
    "member_chatters": 32,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "19ARIrTM-LQ",
+   "start": "2026-11-03 21:03",
+   "title": "【#にじイカ祭り2026】練習！ チームごちゃまぜプラベ！【えま★おうがすと/にじさんじ所属】",
+   "kind": "配信",
+   "chatters": 39,
+   "member_chatters": 29,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -289,25 +299,29 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-03"
+    "to": "2026-11-04"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 0,
-   "unique_chatters": 54,
-   "members_confirmed": 32,
+   "unique_chatters": 64,
+   "members_confirmed": 40,
    "member_classes": {
-    "unknown": 26,
-    "known": 6
+    "unknown": 33,
+    "known": 7
    },
    "long_term_members": 0,
    "badges": [
     {
-     "months": 2,
+     "months": 1,
      "members": 2
     },
     {
+     "months": 2,
+     "members": 3
+    },
+    {
      "months": 6,
-     "members": 30
+     "members": 35
     }
    ],
    "events": {
@@ -320,14 +334,14 @@
     {
      "tier": "おたすけ下僕",
      "price": 490,
-     "confirmed_members": 4,
-     "estimated_members": 21.3
+     "confirmed_members": 5,
+     "estimated_members": 28.6
     },
     {
      "tier": "Mサイズ",
      "price": 3490,
      "confirmed_members": 2,
-     "estimated_members": 10.7
+     "estimated_members": 11.4
     },
     {
      "tier": "もはや仕送り",
@@ -337,11 +351,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 13796,
-    "monthly_est": 30342,
+    "monthly_low": 16291,
+    "monthly_est": 34291,
     "gift_once": 0
    },
-   "avg_member_chatters": 32,
+   "avg_member_chatters": 30.5,
    "partial": true,
    "finalized": false
   }

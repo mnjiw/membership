@@ -3,58 +3,58 @@
  "channel_id": "UCyXBNgCulibV9pRm3ZKpmoQ",
  "handle": "@SakakiNess",
  "subscribers": 355000,
- "fetched_at": "2026-11-03 12:31",
- "generated_at": "2026-11-03 12:31",
+ "fetched_at": "2026-11-04 05:35",
+ "generated_at": "2026-11-04 05:38",
  "period": {
-  "from": "2026-10-04 12:31",
-  "to": "2026-11-03 12:31",
+  "from": "2026-10-05 05:35",
+  "to": "2026-11-04 05:35",
   "days": 30
  },
  "streams_analyzed": 23,
  "streams_missed": 0,
- "unique_chatters": 2687,
- "members_confirmed": 939,
+ "unique_chatters": 4754,
+ "members_confirmed": 1046,
  "member_classes": {
-  "unknown": 690,
-  "known": 159,
+  "unknown": 773,
+  "known": 183,
   "gift": 90
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 132
+   "members": 133
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 32
+   "members": 33
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 84
+   "members": 94
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 143
+   "members": 161
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 258
+   "members": 292
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 290
+   "members": 333
   }
  ],
  "events": {
-  "new_members": 37,
+  "new_members": 41,
   "rejoins": 10,
-  "milestones": 109,
+  "milestones": 129,
   "gift_purchases": 5,
   "gifted_total": 90,
   "gift_redemptions": 90
@@ -65,21 +65,21 @@
    "tier": "ネッシー",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 159,
+   "confirmed_members": 183,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 690.0,
-   "estimated_members": 849.0,
-   "monthly_net_confirmed": 49579,
-   "monthly_net_estimated": 264734
+   "allocated_unknown": 773.0,
+   "estimated_members": 956.0,
+   "monthly_net_confirmed": 57063,
+   "monthly_net_estimated": 298098
   }
  ],
  "revenue": {
-  "monthly_low": 264734,
-  "monthly_est": 264734,
+  "monthly_low": 298098,
+  "monthly_est": 298098,
   "gift_once": 28064,
-  "total_low": 292797,
-  "total_est": 292797,
-  "paying_members": 849,
+  "total_low": 326162,
+  "total_est": 326162,
+  "paying_members": 956,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "eES6gHnublI",
-   "start": "2026-10-04 22:02",
-   "title": "【デュエプレ】第37弾「虹帝∞命動」　～天門！天門！天門！～【榊ネス/にじさんじ】",
-   "kind": "配信",
-   "chatters": 332,
-   "member_chatters": 215,
-   "new_members": 0,
-   "gifted_total": 20
-  },
   {
    "video_id": "rYl8CyIXqQQ",
    "start": "2026-10-05 20:00",
@@ -317,6 +307,16 @@
    "member_chatters": 181,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "IknOozQhQXE",
+   "start": "2026-11-03 19:59",
+   "title": "【3D歌枠】誕生日記念でゲスト呼んで歌うぞ！重大告知あり！【榊ネス/にじさんじ】",
+   "kind": "配信",
+   "chatters": 3113,
+   "member_chatters": 622,
+   "new_members": 4,
+   "gifted_total": 20
   }
  ],
  "missed_streams": [],
@@ -456,63 +456,64 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-03"
+    "to": "2026-11-04"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 4,
    "streams_missed": 0,
-   "unique_chatters": 618,
-   "members_confirmed": 318,
+   "unique_chatters": 3381,
+   "members_confirmed": 691,
    "member_classes": {
-    "unknown": 252,
-    "known": 66
+    "unknown": 538,
+    "known": 133,
+    "gift": 20
    },
-   "long_term_members": 210,
+   "long_term_members": 442,
    "badges": [
     {
      "months": 0,
-     "members": 17
+     "members": 52
     },
     {
      "months": 1,
-     "members": 10
+     "members": 22
     },
     {
      "months": 2,
-     "members": 30
+     "members": 64
     },
     {
      "months": 6,
-     "members": 51
+     "members": 111
     },
     {
      "months": 12,
-     "members": 113
+     "members": 213
     },
     {
      "months": 24,
-     "members": 97
+     "members": 229
     }
    ],
    "events": {
-    "new_members": 5,
+    "new_members": 9,
     "rejoins": 2,
-    "milestones": 3,
-    "gifted_total": 0
+    "milestones": 24,
+    "gifted_total": 20
    },
    "tiers": [
     {
      "tier": "ネッシー",
      "price": 490,
-     "confirmed_members": 66,
-     "estimated_members": 318.0
+     "confirmed_members": 133,
+     "estimated_members": 671.0
     }
    ],
    "revenue": {
-    "monthly_low": 99158,
-    "monthly_est": 99158,
-    "gift_once": 0
+    "monthly_low": 209230,
+    "monthly_est": 209230,
+    "gift_once": 6236
    },
-   "avg_member_chatters": 190.7,
+   "avg_member_chatters": 298.5,
    "partial": true,
    "finalized": false
   }

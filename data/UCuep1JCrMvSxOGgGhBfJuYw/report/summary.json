@@ -3,27 +3,27 @@
  "channel_id": "UCuep1JCrMvSxOGgGhBfJuYw",
  "handle": "@FurenELustario",
  "subscribers": 840000,
- "fetched_at": "2026-11-03 12:30",
- "generated_at": "2026-11-03 12:30",
+ "fetched_at": "2026-11-04 05:28",
+ "generated_at": "2026-11-04 05:28",
  "period": {
-  "from": "2026-10-04 12:30",
-  "to": "2026-11-03 12:30",
+  "from": "2026-10-05 05:28",
+  "to": "2026-11-04 05:28",
   "days": 30
  },
- "streams_analyzed": 14,
+ "streams_analyzed": 13,
  "streams_missed": 2,
- "unique_chatters": 8018,
- "members_confirmed": 1121,
+ "unique_chatters": 7483,
+ "members_confirmed": 1104,
  "member_classes": {
-  "unknown": 1088,
-  "known": 31,
-  "gift": 2
+  "unknown": 1073,
+  "known": 30,
+  "gift": 1
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 43
+   "members": 41
   },
   {
    "months": 1,
@@ -33,41 +33,41 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 108
+   "members": 105
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 86
+   "members": 85
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 153
+   "members": 149
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 177
+   "members": 175
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 130
+   "members": 128
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 392
+   "members": 389
   }
  ],
  "events": {
   "new_members": 14,
   "rejoins": 9,
   "milestones": 0,
-  "gift_purchases": 2,
-  "gifted_total": 2,
-  "gift_redemptions": 2
+  "gift_purchases": 1,
+  "gifted_total": 1,
+  "gift_redemptions": 1
  },
  "tiers_configured": true,
  "tiers": [
@@ -75,21 +75,21 @@
    "tier": "フレン親衛隊",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 31,
+   "confirmed_members": 30,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1088.0,
-   "estimated_members": 1119.0,
-   "monthly_net_confirmed": 9666,
-   "monthly_net_estimated": 348925
+   "allocated_unknown": 1073.0,
+   "estimated_members": 1103.0,
+   "monthly_net_confirmed": 9355,
+   "monthly_net_estimated": 343935
   }
  ],
  "revenue": {
-  "monthly_low": 348925,
-  "monthly_est": 348925,
-  "gift_once": 624,
-  "total_low": 349548,
-  "total_est": 349548,
-  "paying_members": 1119,
+  "monthly_low": 343935,
+  "monthly_est": 343935,
+  "gift_once": 312,
+  "total_low": 344247,
+  "total_est": 344247,
+  "paying_members": 1103,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "5uCvEnt6ByE",
-   "start": "2026-10-04 15:00",
-   "title": "【妖怪ウォッチ1】完全初見！最強プリチーの陣、ゆきます【にじさんじ】",
-   "kind": "配信",
-   "chatters": 1659,
-   "member_chatters": 351,
-   "new_members": 0,
-   "gifted_total": 1
-  },
   {
    "video_id": "yaedIDc76Oc",
    "start": "2026-10-06 19:12",
@@ -249,7 +239,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 418,
+   "like_count": 419,
    "view_count": null
   },
   {
@@ -261,7 +251,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 336,
+   "like_count": 338,
    "view_count": null
   }
  ],
@@ -273,7 +263,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 418,
+   "like_count": 419,
    "view_count": null
   },
   {
@@ -283,7 +273,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 336,
+   "like_count": 338,
    "view_count": null
   }
  ],
@@ -439,7 +429,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-03"
+    "to": "2026-11-04"
    },
    "streams_analyzed": 1,
    "streams_missed": 0,

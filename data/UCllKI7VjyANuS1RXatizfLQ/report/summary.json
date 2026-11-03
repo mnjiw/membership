@@ -3,20 +3,20 @@
  "channel_id": "UCllKI7VjyANuS1RXatizfLQ",
  "handle": "@YamagamiKaruta",
  "subscribers": 295000,
- "fetched_at": "2026-11-03 12:30",
- "generated_at": "2026-11-03 12:30",
+ "fetched_at": "2026-11-04 05:27",
+ "generated_at": "2026-11-04 05:27",
  "period": {
-  "from": "2026-10-04 12:30",
-  "to": "2026-11-03 12:30",
+  "from": "2026-10-05 05:27",
+  "to": "2026-11-04 05:27",
   "days": 30
  },
- "streams_analyzed": 19,
+ "streams_analyzed": 20,
  "streams_missed": 1,
- "unique_chatters": 2010,
- "members_confirmed": 350,
+ "unique_chatters": 2182,
+ "members_confirmed": 361,
  "member_classes": {
-  "unknown": 323,
-  "known": 27
+  "unknown": 333,
+  "known": 28
  },
  "badges": [
   {
@@ -27,7 +27,7 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 10
+   "members": 12
   },
   {
    "months": 2,
@@ -37,27 +37,27 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 22
+   "members": 23
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 58
+   "members": 60
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 33
+   "members": 35
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 57
+   "members": 58
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 151
+   "members": 154
   }
  ],
  "events": {
@@ -74,21 +74,21 @@
    "tier": "かるたっこ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 27,
+   "confirmed_members": 28,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 323.0,
-   "estimated_members": 350.0,
-   "monthly_net_confirmed": 8419,
-   "monthly_net_estimated": 109136
+   "allocated_unknown": 333.0,
+   "estimated_members": 361.0,
+   "monthly_net_confirmed": 8731,
+   "monthly_net_estimated": 112566
   }
  ],
  "revenue": {
-  "monthly_low": 109136,
-  "monthly_est": 109136,
+  "monthly_low": 112566,
+  "monthly_est": 112566,
   "gift_once": 0,
-  "total_low": 109136,
-  "total_est": 109136,
-  "paying_members": 350,
+  "total_low": 112566,
+  "total_est": 112566,
+  "paying_members": 361,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -286,6 +286,16 @@
    "member_chatters": 91,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "d88hHwjUcho",
+   "start": "2026-11-03 19:01",
+   "title": "【BLEACH Mirrors High】BLEACH新作アプリゲーム！✨護廷十三隊に入隊出来るんですか･･･！？【にじさんじ/山神カルタ】",
+   "kind": "配信",
+   "chatters": 469,
+   "member_chatters": 128,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -464,21 +474,25 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-03"
+    "to": "2026-11-04"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 4,
    "streams_missed": 0,
-   "unique_chatters": 564,
-   "members_confirmed": 159,
+   "unique_chatters": 820,
+   "members_confirmed": 202,
    "member_classes": {
-    "unknown": 140,
-    "known": 19
+    "unknown": 181,
+    "known": 21
    },
-   "long_term_members": 132,
+   "long_term_members": 170,
    "badges": [
     {
+     "months": 0,
+     "members": 1
+    },
+    {
      "months": 1,
-     "members": 7
+     "members": 9
     },
     {
      "months": 2,
@@ -486,23 +500,23 @@
     },
     {
      "months": 6,
-     "members": 14
-    },
-    {
-     "months": 12,
      "members": 16
     },
     {
+     "months": 12,
+     "members": 24
+    },
+    {
      "months": 24,
-     "members": 10
+     "members": 16
     },
     {
      "months": 36,
-     "members": 30
+     "members": 34
     },
     {
      "months": 48,
-     "members": 76
+     "members": 96
     }
    ],
    "events": {
@@ -515,16 +529,16 @@
     {
      "tier": "かるたっこ",
      "price": 490,
-     "confirmed_members": 19,
-     "estimated_members": 159.0
+     "confirmed_members": 21,
+     "estimated_members": 202.0
     }
    ],
    "revenue": {
-    "monthly_low": 49579,
-    "monthly_est": 49579,
+    "monthly_low": 62987,
+    "monthly_est": 62987,
     "gift_once": 0
    },
-   "avg_member_chatters": 90.3,
+   "avg_member_chatters": 99.8,
    "partial": true,
    "finalized": false
   }

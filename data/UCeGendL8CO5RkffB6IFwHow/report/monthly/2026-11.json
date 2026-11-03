@@ -2,21 +2,21 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-03"
+  "to": "2026-11-04"
  },
- "streams_analyzed": 2,
- "streams_missed": 2,
- "unique_chatters": 89,
- "members_confirmed": 27,
+ "streams_analyzed": 4,
+ "streams_missed": 1,
+ "unique_chatters": 145,
+ "members_confirmed": 36,
  "member_classes": {
-  "unknown": 23,
-  "known": 4
+  "unknown": 30,
+  "known": 6
  },
- "long_term_members": 21,
+ "long_term_members": 25,
  "badges": [
   {
    "months": 0,
-   "members": 1
+   "members": 2
   },
   {
    "months": 1,
@@ -24,19 +24,19 @@
   },
   {
    "months": 2,
-   "members": 1
-  },
-  {
-   "months": 6,
    "members": 3
   },
   {
+   "months": 6,
+   "members": 5
+  },
+  {
    "months": 12,
-   "members": 4
+   "members": 6
   },
   {
    "months": 24,
-   "members": 1
+   "members": 3
   },
   {
    "months": 36,
@@ -48,7 +48,7 @@
   }
  ],
  "events": {
-  "new_members": 1,
+  "new_members": 2,
   "rejoins": 0,
   "milestones": 0,
   "gifted_total": 0
@@ -57,16 +57,16 @@
   {
    "tier": "セフィナイトの温室",
    "price": 490,
-   "confirmed_members": 4,
-   "estimated_members": 27.0
+   "confirmed_members": 6,
+   "estimated_members": 36.0
   }
  ],
  "revenue": {
-  "monthly_low": 8419,
-  "monthly_est": 8419,
+  "monthly_low": 11225,
+  "monthly_est": 11225,
   "gift_once": 0
  },
- "avg_member_chatters": 20.5,
+ "avg_member_chatters": 19,
  "partial": true,
  "finalized": false
 }

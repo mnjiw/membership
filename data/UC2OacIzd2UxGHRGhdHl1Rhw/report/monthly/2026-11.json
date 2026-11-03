@@ -2,24 +2,32 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-03"
+  "to": "2026-11-04"
  },
- "streams_analyzed": 3,
+ "streams_analyzed": 4,
  "streams_missed": 0,
- "unique_chatters": 608,
- "members_confirmed": 25,
+ "unique_chatters": 1314,
+ "members_confirmed": 35,
  "member_classes": {
-  "unknown": 25
+  "unknown": 35
  },
- "long_term_members": 22,
+ "long_term_members": 28,
  "badges": [
   {
    "months": 0,
-   "members": 1
+   "members": 2
   },
   {
    "months": 1,
-   "members": 2
+   "members": 1
+  },
+  {
+   "months": 2,
+   "members": 3
+  },
+  {
+   "months": 6,
+   "members": 1
   },
   {
    "months": 12,
@@ -27,7 +35,7 @@
   },
   {
    "months": 24,
-   "members": 21
+   "members": 27
   }
  ],
  "events": {
@@ -41,7 +49,7 @@
    "tier": "早瀬荘",
    "price": 490,
    "confirmed_members": 0,
-   "estimated_members": 25.0
+   "estimated_members": 35.0
   },
   {
    "tier": "早瀬ハイツ",
@@ -57,11 +65,11 @@
   }
  ],
  "revenue": {
-  "monthly_low": 7795,
-  "monthly_est": 7795,
+  "monthly_low": 10914,
+  "monthly_est": 10914,
   "gift_once": 0
  },
- "avg_member_chatters": 16.7,
+ "avg_member_chatters": 19.5,
  "partial": true,
  "finalized": false
 }

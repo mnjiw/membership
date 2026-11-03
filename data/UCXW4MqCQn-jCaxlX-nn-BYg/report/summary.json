@@ -3,19 +3,19 @@
  "channel_id": "UCXW4MqCQn-jCaxlX-nn-BYg",
  "handle": "@NagaoKei",
  "subscribers": 563000,
- "fetched_at": "2026-11-03 12:30",
- "generated_at": "2026-11-03 12:30",
+ "fetched_at": "2026-11-04 05:28",
+ "generated_at": "2026-11-04 05:29",
  "period": {
-  "from": "2026-10-04 12:30",
-  "to": "2026-11-03 12:30",
+  "from": "2026-10-05 05:28",
+  "to": "2026-11-04 05:28",
   "days": 30
  },
  "streams_analyzed": 24,
  "streams_missed": 4,
- "unique_chatters": 8343,
- "members_confirmed": 1206,
+ "unique_chatters": 8340,
+ "members_confirmed": 1205,
  "member_classes": {
-  "unknown": 1028,
+  "unknown": 1027,
   "known": 167,
   "gift": 11
  },
@@ -38,17 +38,17 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 101
+   "members": 100
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 200
+   "members": 201
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 756
+   "members": 755
   }
  ],
  "events": {
@@ -70,7 +70,7 @@
    "allocated_unknown": 49.2,
    "estimated_members": 57.2,
    "monthly_net_confirmed": 713,
-   "monthly_net_estimated": 5100
+   "monthly_net_estimated": 5096
   },
   {
    "tier": "ゆうしきしゃ16GB",
@@ -78,10 +78,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 55,
    "share_of_confirmed_pct": 32.9,
-   "allocated_unknown": 338.6,
-   "estimated_members": 393.6,
+   "allocated_unknown": 338.2,
+   "estimated_members": 393.2,
    "monthly_net_confirmed": 17150,
-   "monthly_net_estimated": 122720
+   "monthly_net_estimated": 122617
   },
   {
    "tier": "ゆうしきしゃ32GB",
@@ -89,19 +89,19 @@
    "net_per_member": 1266.4,
    "confirmed_members": 104,
    "share_of_confirmed_pct": 62.3,
-   "allocated_unknown": 640.2,
-   "estimated_members": 744.2,
+   "allocated_unknown": 639.6,
+   "estimated_members": 743.6,
    "monthly_net_confirmed": 131702,
-   "monthly_net_estimated": 942417
+   "monthly_net_estimated": 941629
   }
  ],
  "revenue": {
-  "monthly_low": 241150,
-  "monthly_est": 1070237,
+  "monthly_low": 241061,
+  "monthly_est": 1069342,
   "gift_once": 980,
-  "total_low": 242130,
-  "total_est": 1071217,
-  "paying_members": 1195,
+  "total_low": 242041,
+  "total_est": 1070322,
+  "paying_members": 1194,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -110,16 +110,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "gFquUtwBizY",
-   "start": "2026-10-04 21:04",
-   "title": "【ドキドキAI尋問ゲーム】尋問の心得【長尾景/にじさんじ】",
-   "kind": "配信",
-   "chatters": 443,
-   "member_chatters": 344,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "QMle2qGqOJQ",
    "start": "2026-10-05 12:06",
@@ -348,6 +338,16 @@
    "chatters": 606,
    "member_chatters": 409,
    "new_members": 1,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "dpPk5q67Caw",
+   "start": "2026-11-03 23:59",
+   "title": "【スプラトゥーン3】座　学【長尾景/にじさんじ】【#にじイカ祭り2026】",
+   "kind": "配信",
+   "chatters": 368,
+   "member_chatters": 254,
+   "new_members": 0,
    "gifted_total": 0
   }
  ],
@@ -602,17 +602,17 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-03"
+    "to": "2026-11-04"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 0,
-   "unique_chatters": 606,
-   "members_confirmed": 409,
+   "unique_chatters": 724,
+   "members_confirmed": 455,
    "member_classes": {
-    "unknown": 324,
-    "known": 85
+    "unknown": 360,
+    "known": 95
    },
-   "long_term_members": 336,
+   "long_term_members": 375,
    "badges": [
     {
      "months": 0,
@@ -624,19 +624,19 @@
     },
     {
      "months": 2,
-     "members": 26
+     "members": 31
     },
     {
      "months": 6,
-     "members": 38
+     "members": 40
     },
     {
      "months": 12,
-     "members": 51
+     "members": 64
     },
     {
      "months": 24,
-     "members": 285
+     "members": 311
     }
    ],
    "events": {
@@ -655,22 +655,22 @@
     {
      "tier": "ゆうしきしゃ16GB",
      "price": 490,
-     "confirmed_members": 15,
-     "estimated_members": 72.2
+     "confirmed_members": 18,
+     "estimated_members": 86.2
     },
     {
      "tier": "ゆうしきしゃ32GB",
      "price": 1990,
-     "confirmed_members": 69,
-     "estimated_members": 332.0
+     "confirmed_members": 76,
+     "estimated_members": 364.0
     }
    ],
    "revenue": {
-    "monthly_low": 121011,
-    "monthly_est": 443382,
+    "monthly_low": 134018,
+    "monthly_est": 488265,
     "gift_once": 0
    },
-   "avg_member_chatters": 409,
+   "avg_member_chatters": 331.5,
    "partial": true,
    "finalized": false
   }

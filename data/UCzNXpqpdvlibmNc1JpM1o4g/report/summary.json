@@ -3,20 +3,20 @@
  "channel_id": "UCzNXpqpdvlibmNc1JpM1o4g",
  "handle": "@Lunlun_nijisanji",
  "subscribers": 927000,
- "fetched_at": "2026-11-03 12:32",
- "generated_at": "2026-11-03 12:32",
+ "fetched_at": "2026-11-04 05:36",
+ "generated_at": "2026-11-04 05:37",
  "period": {
-  "from": "2026-10-04 12:32",
-  "to": "2026-11-03 12:32",
+  "from": "2026-10-05 05:36",
+  "to": "2026-11-04 05:36",
   "days": 30
  },
- "streams_analyzed": 13,
+ "streams_analyzed": 14,
  "streams_missed": 0,
- "unique_chatters": 7690,
- "members_confirmed": 2015,
+ "unique_chatters": 7877,
+ "members_confirmed": 2029,
  "member_classes": {
   "known": 447,
-  "unknown": 1534,
+  "unknown": 1548,
   "gift": 34
  },
  "badges": [
@@ -28,27 +28,27 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 73
+   "members": 67
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 160
+   "members": 166
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 251
+   "members": 255
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 866
+   "members": 859
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 582
+   "members": 599
   }
  ],
  "events": {
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 447,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1534.0,
-   "estimated_members": 1981.0,
+   "allocated_unknown": 1548.0,
+   "estimated_members": 1995.0,
    "monthly_net_confirmed": 139383,
-   "monthly_net_estimated": 617712
+   "monthly_net_estimated": 622077
   }
  ],
  "revenue": {
-  "monthly_low": 617712,
-  "monthly_est": 617712,
+  "monthly_low": 622077,
+  "monthly_est": 622077,
   "gift_once": 10602,
-  "total_low": 628314,
-  "total_est": 628314,
-  "paying_members": 1981,
+  "total_low": 632679,
+  "total_est": 632679,
+  "paying_members": 1995,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -215,6 +215,16 @@
    "kind": "配信",
    "chatters": 725,
    "member_chatters": 288,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "XRa8X8ML7sY",
+   "start": "2026-11-03 21:29",
+   "title": "【BLEACHミラハイ】ちょまは護廷十三隊に入隊できるのでしょうか？【ルンルン/にじさんじ】",
+   "kind": "配信",
+   "chatters": 604,
+   "member_chatters": 294,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -353,41 +363,41 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-03"
+    "to": "2026-11-04"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 0,
-   "unique_chatters": 725,
-   "members_confirmed": 288,
+   "unique_chatters": 1188,
+   "members_confirmed": 472,
    "member_classes": {
-    "unknown": 208,
-    "known": 80
+    "unknown": 344,
+    "known": 128
    },
-   "long_term_members": 221,
+   "long_term_members": 357,
    "badges": [
     {
      "months": 0,
-     "members": 2
+     "members": 7
     },
     {
      "months": 1,
-     "members": 3
+     "members": 5
     },
     {
      "months": 2,
-     "members": 26
+     "members": 41
     },
     {
      "months": 6,
-     "members": 36
+     "members": 62
     },
     {
      "months": 12,
-     "members": 103
+     "members": 161
     },
     {
      "months": 24,
-     "members": 118
+     "members": 196
     }
    ],
    "events": {
@@ -400,16 +410,16 @@
     {
      "tier": "おちょまだち",
      "price": 490,
-     "confirmed_members": 80,
-     "estimated_members": 288.0
+     "confirmed_members": 128,
+     "estimated_members": 472.0
     }
    ],
    "revenue": {
-    "monthly_low": 89804,
-    "monthly_est": 89804,
+    "monthly_low": 147178,
+    "monthly_est": 147178,
     "gift_once": 0
    },
-   "avg_member_chatters": 288,
+   "avg_member_chatters": 291,
    "partial": true,
    "finalized": false
   }

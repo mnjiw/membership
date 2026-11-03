@@ -2,63 +2,64 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-03"
+  "to": "2026-11-04"
  },
- "streams_analyzed": 3,
+ "streams_analyzed": 4,
  "streams_missed": 0,
- "unique_chatters": 618,
- "members_confirmed": 318,
+ "unique_chatters": 3381,
+ "members_confirmed": 691,
  "member_classes": {
-  "unknown": 252,
-  "known": 66
+  "unknown": 538,
+  "known": 133,
+  "gift": 20
  },
- "long_term_members": 210,
+ "long_term_members": 442,
  "badges": [
   {
    "months": 0,
-   "members": 17
+   "members": 52
   },
   {
    "months": 1,
-   "members": 10
+   "members": 22
   },
   {
    "months": 2,
-   "members": 30
+   "members": 64
   },
   {
    "months": 6,
-   "members": 51
+   "members": 111
   },
   {
    "months": 12,
-   "members": 113
+   "members": 213
   },
   {
    "months": 24,
-   "members": 97
+   "members": 229
   }
  ],
  "events": {
-  "new_members": 5,
+  "new_members": 9,
   "rejoins": 2,
-  "milestones": 3,
-  "gifted_total": 0
+  "milestones": 24,
+  "gifted_total": 20
  },
  "tiers": [
   {
    "tier": "ネッシー",
    "price": 490,
-   "confirmed_members": 66,
-   "estimated_members": 318.0
+   "confirmed_members": 133,
+   "estimated_members": 671.0
   }
  ],
  "revenue": {
-  "monthly_low": 99158,
-  "monthly_est": 99158,
-  "gift_once": 0
+  "monthly_low": 209230,
+  "monthly_est": 209230,
+  "gift_once": 6236
  },
- "avg_member_chatters": 190.7,
+ "avg_member_chatters": 298.5,
  "partial": true,
  "finalized": false
 }

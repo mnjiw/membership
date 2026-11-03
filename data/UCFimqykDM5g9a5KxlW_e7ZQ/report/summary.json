@@ -3,27 +3,27 @@
  "channel_id": "UCFimqykDM5g9a5KxlW_e7ZQ",
  "handle": "@Onotora_Y4T4",
  "subscribers": 126000,
- "fetched_at": "2026-11-03 12:32",
- "generated_at": "2026-11-03 12:32",
+ "fetched_at": "2026-11-04 05:39",
+ "generated_at": "2026-11-04 05:39",
  "period": {
-  "from": "2026-10-04 12:32",
-  "to": "2026-11-03 12:32",
+  "from": "2026-10-05 05:39",
+  "to": "2026-11-04 05:39",
   "days": 30
  },
- "streams_analyzed": 23,
- "streams_missed": 3,
- "unique_chatters": 2383,
- "members_confirmed": 367,
+ "streams_analyzed": 22,
+ "streams_missed": 4,
+ "unique_chatters": 2300,
+ "members_confirmed": 356,
  "member_classes": {
   "unknown": 301,
   "known": 34,
-  "gift": 32
+  "gift": 21
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 81
+   "members": 73
   },
   {
    "months": 1,
@@ -33,16 +33,16 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 252
+   "members": 249
   }
  ],
  "events": {
   "new_members": 24,
   "rejoins": 5,
   "milestones": 0,
-  "gift_purchases": 4,
-  "gifted_total": 32,
-  "gift_redemptions": 32
+  "gift_purchases": 2,
+  "gifted_total": 21,
+  "gift_redemptions": 21
  },
  "tiers_configured": true,
  "tiers": [
@@ -61,9 +61,9 @@
  "revenue": {
   "monthly_low": 104459,
   "monthly_est": 104459,
-  "gift_once": 9978,
-  "total_low": 114437,
-  "total_est": 114437,
+  "gift_once": 6548,
+  "total_low": 111007,
+  "total_est": 111007,
   "paying_members": 335,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "8hNEvLks9HY",
-   "start": "2026-10-04 18:00",
-   "title": "【 あつまれ どうぶつの森 】 あつ森、釣り、虫取り　それが俺の生きがいってわけだ【にじさんじ / 男虎】",
-   "kind": "配信",
-   "chatters": 289,
-   "member_chatters": 121,
-   "new_members": 0,
-   "gifted_total": 11
-  },
   {
    "video_id": "FsKvRRF-4pU",
    "start": "2026-10-05 20:59",
@@ -340,6 +330,18 @@
    "members_level": "オノヘッズ",
    "like_count": 71,
    "view_count": null
+  },
+  {
+   "video_id": "kZpDjjmy7f0",
+   "start": "2026-11-03 00:00",
+   "title": "【スプラトゥーン3 #にじイカ祭り2026 】チーム練習3日目！今日も頑張りましょう！　【にじさんじ/男虎】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 851,
+   "view_count": 59905
   }
  ],
  "members_only_content": [
@@ -476,10 +478,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-03"
+    "to": "2026-11-04"
    },
    "streams_analyzed": 4,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 791,
    "members_confirmed": 166,
    "member_classes": {

@@ -3,57 +3,57 @@
  "channel_id": "UCHVXbQzkl3rDfsXWo8xi2qw",
  "handle": "@AngeKatrina",
  "subscribers": 1040000,
- "fetched_at": "2026-11-03 12:29",
- "generated_at": "2026-11-03 12:29",
+ "fetched_at": "2026-11-04 05:24",
+ "generated_at": "2026-11-04 05:25",
  "period": {
-  "from": "2026-10-04 12:29",
-  "to": "2026-11-03 12:29",
+  "from": "2026-10-05 05:24",
+  "to": "2026-11-04 05:24",
   "days": 30
  },
- "streams_analyzed": 2,
+ "streams_analyzed": 3,
  "streams_missed": 1,
- "unique_chatters": 1579,
- "members_confirmed": 396,
+ "unique_chatters": 2442,
+ "members_confirmed": 517,
  "member_classes": {
-  "unknown": 319,
-  "known": 77
+  "unknown": 423,
+  "known": 94
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 10
+   "members": 13
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 13
+   "members": 14
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 24
+   "members": 26
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 23
+   "members": 26
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 39
+   "members": 47
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 287
+   "members": 391
   }
  ],
  "events": {
-  "new_members": 1,
-  "rejoins": 1,
-  "milestones": 11,
+  "new_members": 3,
+  "rejoins": 3,
+  "milestones": 13,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -64,21 +64,21 @@
    "tier": "アンちゃん大好き倶楽部(仮)",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 77,
+   "confirmed_members": 94,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 319.0,
-   "estimated_members": 396.0,
-   "monthly_net_confirmed": 24010,
-   "monthly_net_estimated": 123480
+   "allocated_unknown": 423.0,
+   "estimated_members": 517.0,
+   "monthly_net_confirmed": 29311,
+   "monthly_net_estimated": 161210
   }
  ],
  "revenue": {
-  "monthly_low": 123480,
-  "monthly_est": 123480,
+  "monthly_low": 161210,
+  "monthly_est": 161210,
   "gift_once": 0,
-  "total_low": 123480,
-  "total_est": 123480,
-  "paying_members": 396,
+  "total_low": 161210,
+  "total_est": 161210,
+  "paying_members": 517,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -106,6 +106,16 @@
    "member_chatters": 341,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "eUtaNGjkmhE",
+   "start": "2026-11-03 20:00",
+   "title": "アンちゃんです！お元気です！！！！！！",
+   "kind": "配信",
+   "chatters": 1306,
+   "member_chatters": 341,
+   "new_members": 2,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -118,7 +128,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 361,
+   "like_count": 362,
    "view_count": null
   }
  ],
@@ -130,7 +140,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 361,
+   "like_count": 362,
    "view_count": null
   }
  ],
@@ -263,6 +273,70 @@
    },
    "avg_member_chatters": 284,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-04"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 1306,
+   "members_confirmed": 341,
+   "member_classes": {
+    "unknown": 282,
+    "known": 59
+   },
+   "long_term_members": 306,
+   "badges": [
+    {
+     "months": 0,
+     "members": 6
+    },
+    {
+     "months": 1,
+     "members": 7
+    },
+    {
+     "months": 2,
+     "members": 10
+    },
+    {
+     "months": 6,
+     "members": 12
+    },
+    {
+     "months": 12,
+     "members": 29
+    },
+    {
+     "months": 24,
+     "members": 277
+    }
+   ],
+   "events": {
+    "new_members": 2,
+    "rejoins": 2,
+    "milestones": 2,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "アンちゃん大好き倶楽部(仮)",
+     "price": 490,
+     "confirmed_members": 59,
+     "estimated_members": 341.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 106330,
+    "monthly_est": 106330,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 341,
+   "partial": true,
    "finalized": false
   }
  ],

@@ -3,27 +3,27 @@
  "channel_id": "UCnbJ8LTbHrsRgqkxwJXCU8w",
  "handle": "@TachitsuteToto",
  "subscribers": 183000,
- "fetched_at": "2026-11-03 12:31",
- "generated_at": "2026-11-03 12:31",
+ "fetched_at": "2026-11-04 05:34",
+ "generated_at": "2026-11-04 05:35",
  "period": {
-  "from": "2026-10-04 12:31",
-  "to": "2026-11-03 12:31",
+  "from": "2026-10-05 05:34",
+  "to": "2026-11-04 05:34",
   "days": 30
  },
  "streams_analyzed": 18,
  "streams_missed": 1,
- "unique_chatters": 2509,
- "members_confirmed": 372,
+ "unique_chatters": 3087,
+ "members_confirmed": 404,
  "member_classes": {
-  "unknown": 289,
+  "unknown": 316,
   "known": 13,
-  "gift": 70
+  "gift": 75
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 84
+   "members": 87
   },
   {
    "months": 1,
@@ -33,31 +33,31 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 48
+   "members": 54
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 32
+   "members": 35
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 72
+   "members": 75
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 126
+   "members": 143
   }
  ],
  "events": {
   "new_members": 7,
   "rejoins": 2,
   "milestones": 0,
-  "gift_purchases": 3,
-  "gifted_total": 70,
-  "gift_redemptions": 70
+  "gift_purchases": 4,
+  "gifted_total": 75,
+  "gift_redemptions": 75
  },
  "tiers_configured": true,
  "tiers": [
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 13,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 289.0,
-   "estimated_members": 302.0,
+   "allocated_unknown": 316.0,
+   "estimated_members": 329.0,
    "monthly_net_confirmed": 4054,
-   "monthly_net_estimated": 94169
+   "monthly_net_estimated": 102588
   }
  ],
  "revenue": {
-  "monthly_low": 94169,
-  "monthly_est": 94169,
-  "gift_once": 21827,
-  "total_low": 115996,
-  "total_est": 115996,
-  "paying_members": 302,
+  "monthly_low": 102588,
+  "monthly_est": 102588,
+  "gift_once": 23386,
+  "total_low": 125975,
+  "total_est": 125975,
+  "paying_members": 329,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "wUcUlEVXHSY",
-   "start": "2026-10-04 19:05",
-   "title": "#3【空の軌跡 the 2nd 】ふたりはいつかまた逢える🧭大丈夫エステル✨怖くないよ✨【立伝都々/にじさんじ】",
-   "kind": "配信",
-   "chatters": 442,
-   "member_chatters": 88,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "xitLE7kh9is",
    "start": "2026-10-08 19:04",
@@ -267,6 +257,16 @@
    "member_chatters": 84,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "GnwBT8F8gVk",
+   "start": "2026-11-03 22:00",
+   "title": "【JSP3 】協力して監視業務にあたろうね！しよッ！お仕事ッ！【立伝都々/栞葉るり/にじさんじ】",
+   "kind": "配信",
+   "chatters": 883,
+   "member_chatters": 150,
+   "new_members": 1,
+   "gifted_total": 5
   }
  ],
  "missed_streams": [
@@ -431,63 +431,64 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-03"
+    "to": "2026-11-04"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 0,
-   "unique_chatters": 657,
-   "members_confirmed": 84,
+   "unique_chatters": 1443,
+   "members_confirmed": 180,
    "member_classes": {
-    "unknown": 80,
-    "known": 4
+    "unknown": 168,
+    "known": 7,
+    "gift": 5
    },
-   "long_term_members": 48,
+   "long_term_members": 114,
    "badges": [
     {
      "months": 0,
-     "members": 8
+     "members": 13
     },
     {
      "months": 1,
-     "members": 2
+     "members": 4
     },
     {
      "months": 2,
-     "members": 14
+     "members": 27
     },
     {
      "months": 6,
-     "members": 12
+     "members": 22
     },
     {
      "months": 12,
-     "members": 14
+     "members": 36
     },
     {
      "months": 24,
-     "members": 34
+     "members": 78
     }
    ],
    "events": {
-    "new_members": 1,
+    "new_members": 2,
     "rejoins": 0,
     "milestones": 0,
-    "gifted_total": 0
+    "gifted_total": 5
    },
    "tiers": [
     {
      "tier": "お助け部の倉庫",
      "price": 490,
-     "confirmed_members": 4,
-     "estimated_members": 84.0
+     "confirmed_members": 7,
+     "estimated_members": 175.0
     }
    ],
    "revenue": {
-    "monthly_low": 26193,
-    "monthly_est": 26193,
-    "gift_once": 0
+    "monthly_low": 54568,
+    "monthly_est": 54568,
+    "gift_once": 1559
    },
-   "avg_member_chatters": 84,
+   "avg_member_chatters": 117,
    "partial": true,
    "finalized": false
   }

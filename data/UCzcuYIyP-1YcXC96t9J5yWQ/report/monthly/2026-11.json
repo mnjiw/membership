@@ -2,14 +2,14 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-03"
+  "to": "2026-11-04"
  },
- "streams_analyzed": 3,
- "streams_missed": 0,
- "unique_chatters": 193,
- "members_confirmed": 61,
+ "streams_analyzed": 4,
+ "streams_missed": 1,
+ "unique_chatters": 239,
+ "members_confirmed": 65,
  "member_classes": {
-  "unknown": 55,
+  "unknown": 59,
   "known": 5,
   "gift": 1
  },
@@ -21,11 +21,11 @@
   },
   {
    "months": 1,
-   "members": 3
+   "members": 4
   },
   {
    "months": 2,
-   "members": 50
+   "members": 53
   }
  ],
  "events": {
@@ -39,15 +39,15 @@
    "tier": "便利屋会員",
    "price": 490,
    "confirmed_members": 5,
-   "estimated_members": 60.0
+   "estimated_members": 64.0
   }
  ],
  "revenue": {
-  "monthly_low": 18709,
-  "monthly_est": 18709,
+  "monthly_low": 19956,
+  "monthly_est": 19956,
   "gift_once": 312
  },
- "avg_member_chatters": 35.3,
+ "avg_member_chatters": 33.5,
  "partial": true,
  "finalized": false
 }

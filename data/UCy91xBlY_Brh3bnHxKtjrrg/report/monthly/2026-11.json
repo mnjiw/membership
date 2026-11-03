@@ -2,22 +2,22 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-03"
+  "to": "2026-11-04"
  },
- "streams_analyzed": 1,
+ "streams_analyzed": 2,
  "streams_missed": 0,
- "unique_chatters": 156,
- "members_confirmed": 87,
+ "unique_chatters": 336,
+ "members_confirmed": 176,
  "member_classes": {
-  "known": 55,
-  "unknown": 31,
-  "gift": 1
+  "known": 94,
+  "unknown": 59,
+  "gift": 23
  },
- "long_term_members": 61,
+ "long_term_members": 107,
  "badges": [
   {
    "months": 0,
-   "members": 7
+   "members": 33
   },
   {
    "months": 1,
@@ -25,45 +25,45 @@
   },
   {
    "months": 2,
-   "members": 10
+   "members": 18
   },
   {
    "months": 6,
-   "members": 2
-  },
-  {
-   "months": 12,
    "members": 11
   },
   {
+   "months": 12,
+   "members": 26
+  },
+  {
    "months": 24,
-   "members": 10
+   "members": 23
   },
   {
    "months": 36,
-   "members": 40
+   "members": 58
   }
  ],
  "events": {
   "new_members": 1,
-  "rejoins": 0,
-  "milestones": 4,
-  "gifted_total": 1
+  "rejoins": 1,
+  "milestones": 26,
+  "gifted_total": 23
  },
  "tiers": [
   {
    "tier": "The Arcade, Dropplets!!",
    "price": 690,
-   "confirmed_members": 55,
-   "estimated_members": 86.0
+   "confirmed_members": 94,
+   "estimated_members": 153.0
   }
  ],
  "revenue": {
-  "monthly_low": 37762,
-  "monthly_est": 37762,
-  "gift_once": 439
+  "monthly_low": 67181,
+  "monthly_est": 67181,
+  "gift_once": 10099
  },
- "avg_member_chatters": 87,
+ "avg_member_chatters": 123.5,
  "partial": true,
  "finalized": false
 }
