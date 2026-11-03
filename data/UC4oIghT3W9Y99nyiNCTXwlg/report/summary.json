@@ -3,27 +3,27 @@
  "channel_id": "UC4oIghT3W9Y99nyiNCTXwlg",
  "handle": "@Azri_0822",
  "subscribers": 14300,
- "fetched_at": "2026-11-03 12:37",
- "generated_at": "2026-11-03 12:37",
+ "fetched_at": "2026-11-04 06:39",
+ "generated_at": "2026-11-04 06:40",
  "period": {
-  "from": "2026-10-04 12:37",
-  "to": "2026-11-03 12:37",
+  "from": "2026-10-05 06:39",
+  "to": "2026-11-04 06:39",
   "days": 30
  },
  "streams_analyzed": 20,
  "streams_missed": 1,
- "unique_chatters": 562,
+ "unique_chatters": 552,
  "members_confirmed": 204,
  "member_classes": {
-  "unknown": 183,
-  "known": 14,
-  "gift": 7
+  "unknown": 181,
+  "known": 13,
+  "gift": 10
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 15
+   "members": 17
   },
   {
    "months": 1,
@@ -33,16 +33,16 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 171
+   "members": 169
   }
  ],
  "events": {
   "new_members": 2,
   "rejoins": 0,
   "milestones": 4,
-  "gift_purchases": 3,
-  "gifted_total": 7,
-  "gift_redemptions": 7
+  "gift_purchases": 6,
+  "gifted_total": 10,
+  "gift_redemptions": 10
  },
  "tiers_configured": true,
  "tiers": [
@@ -50,21 +50,21 @@
    "tier": "あずりのえでん",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 14,
+   "confirmed_members": 13,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 183.0,
-   "estimated_members": 197.0,
-   "monthly_net_confirmed": 4365,
-   "monthly_net_estimated": 61428
+   "allocated_unknown": 181.0,
+   "estimated_members": 194.0,
+   "monthly_net_confirmed": 4054,
+   "monthly_net_estimated": 60493
   }
  ],
  "revenue": {
-  "monthly_low": 61428,
-  "monthly_est": 61428,
-  "gift_once": 2183,
+  "monthly_low": 60493,
+  "monthly_est": 60493,
+  "gift_once": 3118,
   "total_low": 63611,
   "total_est": 63611,
-  "paying_members": 197,
+  "paying_members": 194,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "f18psHjcmos",
-   "start": "2026-10-04 20:59",
-   "title": "ど　で　か　歩　き- #BigWalk【ななしいんく/ RIΣM】",
-   "kind": "配信",
-   "chatters": 103,
-   "member_chatters": 63,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "Irl0rjDrPHg",
    "start": "2026-10-05 21:59",
@@ -272,6 +262,16 @@
    "member_chatters": 75,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "PiDKMwc1MTs",
+   "start": "2026-11-03 22:00",
+   "title": "パンツも遊びにくる森のレストランで料理をつくる -Creature Kitchen【ななしいんく/アズリ】",
+   "kind": "配信",
+   "chatters": 107,
+   "member_chatters": 77,
+   "new_members": 0,
+   "gifted_total": 3
   }
  ],
  "missed_streams": [
@@ -395,6 +395,59 @@
    },
    "avg_member_chatters": 71.3,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-04"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 107,
+   "members_confirmed": 77,
+   "member_classes": {
+    "unknown": 68,
+    "known": 6,
+    "gift": 3
+   },
+   "long_term_members": 0,
+   "badges": [
+    {
+     "months": 0,
+     "members": 5
+    },
+    {
+     "months": 1,
+     "members": 3
+    },
+    {
+     "months": 2,
+     "members": 69
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 0,
+    "milestones": 0,
+    "gifted_total": 3
+   },
+   "tiers": [
+    {
+     "tier": "あずりのえでん",
+     "price": 490,
+     "confirmed_members": 6,
+     "estimated_members": 74.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 23075,
+    "monthly_est": 23075,
+    "gift_once": 935
+   },
+   "avg_member_chatters": 77,
+   "partial": true,
    "finalized": false
   }
  ],

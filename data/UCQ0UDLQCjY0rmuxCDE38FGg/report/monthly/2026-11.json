@@ -2,88 +2,88 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-03"
+  "to": "2026-11-04"
  },
- "streams_analyzed": 2,
+ "streams_analyzed": 4,
  "streams_missed": 0,
- "unique_chatters": 6660,
- "members_confirmed": 998,
+ "unique_chatters": 6902,
+ "members_confirmed": 1066,
  "member_classes": {
-  "unknown": 522,
-  "known": 183,
-  "gift": 293
+  "unknown": 560,
+  "known": 191,
+  "gift": 315
  },
- "long_term_members": 448,
+ "long_term_members": 477,
  "badges": [
   {
    "months": 0,
-   "members": 352
+   "members": 378
   },
   {
    "months": 1,
-   "members": 29
+   "members": 31
   },
   {
    "months": 2,
-   "members": 102
+   "members": 109
   },
   {
    "months": 6,
-   "members": 67
+   "members": 71
   },
   {
    "months": 12,
-   "members": 113
+   "members": 120
   },
   {
    "months": 24,
-   "members": 57
+   "members": 63
   },
   {
    "months": 36,
-   "members": 72
+   "members": 74
   },
   {
    "months": 48,
-   "members": 78
+   "members": 80
   },
   {
    "months": 60,
-   "members": 64
+   "members": 71
   },
   {
    "months": 72,
-   "members": 47
+   "members": 50
   },
   {
    "months": 84,
-   "members": 17
+   "members": 19
   }
  ],
  "events": {
-  "new_members": 47,
+  "new_members": 49,
   "rejoins": 25,
-  "milestones": 54,
-  "gifted_total": 357
+  "milestones": 57,
+  "gifted_total": 379
  },
  "tiers": [
   {
    "tier": "うどん",
    "price": 490,
-   "confirmed_members": 166,
-   "estimated_members": 639.5
+   "confirmed_members": 172,
+   "estimated_members": 676.3
   },
   {
    "tier": "ハンバーグ",
    "price": 790,
-   "confirmed_members": 13,
-   "estimated_members": 50.1
+   "confirmed_members": 15,
+   "estimated_members": 59.0
   },
   {
    "tier": "焼き肉",
    "price": 3490,
    "confirmed_members": 3,
-   "estimated_members": 11.6
+   "estimated_members": 11.8
   },
   {
    "tier": "うにさんど",
@@ -93,11 +93,11 @@
   }
  ],
  "revenue": {
-  "monthly_low": 236638,
-  "monthly_est": 284578,
-  "gift_once": 111319
+  "monthly_low": 251364,
+  "monthly_est": 301758,
+  "gift_once": 118179
  },
- "avg_member_chatters": 622.5,
+ "avg_member_chatters": 408.2,
  "partial": true,
  "finalized": false
 }

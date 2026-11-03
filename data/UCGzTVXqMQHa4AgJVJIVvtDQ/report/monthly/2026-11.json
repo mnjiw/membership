@@ -2,59 +2,60 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-03"
+  "to": "2026-11-04"
  },
- "streams_analyzed": 2,
+ "streams_analyzed": 3,
  "streams_missed": 0,
- "unique_chatters": 2545,
- "members_confirmed": 771,
+ "unique_chatters": 3315,
+ "members_confirmed": 983,
  "member_classes": {
-  "unknown": 655,
-  "known": 116
+  "unknown": 777,
+  "known": 135,
+  "gift": 71
  },
- "long_term_members": 367,
+ "long_term_members": 424,
  "badges": [
   {
    "months": 0,
-   "members": 22
+   "members": 95
   },
   {
    "months": 1,
-   "members": 24
+   "members": 30
   },
   {
    "months": 2,
-   "members": 115
+   "members": 141
   },
   {
    "months": 6,
-   "members": 243
+   "members": 293
   },
   {
    "months": 12,
-   "members": 367
+   "members": 424
   }
  ],
  "events": {
-  "new_members": 4,
-  "rejoins": 1,
-  "milestones": 5,
-  "gifted_total": 0
+  "new_members": 7,
+  "rejoins": 2,
+  "milestones": 11,
+  "gifted_total": 76
  },
  "tiers": [
   {
    "tier": "ヴィヴィ喜劇",
    "price": 490,
-   "confirmed_members": 116,
-   "estimated_members": 771.0
+   "confirmed_members": 135,
+   "estimated_members": 912.0
   }
  ],
  "revenue": {
-  "monthly_low": 240412,
-  "monthly_est": 240412,
-  "gift_once": 0
+  "monthly_low": 284378,
+  "monthly_est": 284378,
+  "gift_once": 23698
  },
- "avg_member_chatters": 578,
+ "avg_member_chatters": 614,
  "partial": true,
  "finalized": false
 }

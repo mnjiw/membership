@@ -2,59 +2,67 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-03"
+  "to": "2026-11-04"
  },
- "streams_analyzed": 1,
+ "streams_analyzed": 2,
  "streams_missed": 0,
- "unique_chatters": 88,
- "members_confirmed": 65,
+ "unique_chatters": 171,
+ "members_confirmed": 100,
  "member_classes": {
-  "unknown": 62,
-  "known": 3
+  "unknown": 95,
+  "known": 5
  },
- "long_term_members": 63,
+ "long_term_members": 94,
  "badges": [
   {
-   "months": 6,
-   "members": 2
-  },
-  {
-   "months": 12,
+   "months": 0,
    "members": 1
   },
   {
+   "months": 2,
+   "members": 1
+  },
+  {
+   "months": 6,
+   "members": 4
+  },
+  {
+   "months": 12,
+   "members": 6
+  },
+  {
    "months": 24,
-   "members": 9
+   "members": 14
   },
   {
    "months": 36,
-   "members": 8
+   "members": 11
   },
   {
    "months": 48,
-   "members": 45
+   "members": 63
   }
  ],
  "events": {
-  "new_members": 0,
+  "new_members": 1,
   "rejoins": 0,
-  "milestones": 1,
+  "milestones": 2,
   "gifted_total": 0
  },
  "tiers": [
   {
    "tier": "༒ 惑わされし人間よ.....悪魔の宴 ༒",
    "price": 490,
-   "confirmed_members": 3,
-   "estimated_members": 65.0
+   "confirmed_members": 5,
+   "estimated_members": 100.0
   }
  ],
  "revenue": {
-  "monthly_low": 20268,
-  "monthly_est": 20268,
+  "monthly_low": 31182,
+  "monthly_est": 31182,
   "gift_once": 0
  },
- "avg_member_chatters": 65,
+ "avg_member_chatters": 75,
  "partial": true,
  "finalized": false
 }

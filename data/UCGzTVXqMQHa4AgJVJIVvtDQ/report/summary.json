@@ -3,56 +3,56 @@
  "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
  "handle": "@KikiraraVivi",
  "subscribers": 760000,
- "fetched_at": "2026-11-03 12:35",
- "generated_at": "2026-11-03 12:35",
+ "fetched_at": "2026-11-04 06:32",
+ "generated_at": "2026-11-04 06:34",
  "period": {
-  "from": "2026-10-04 12:35",
-  "to": "2026-11-03 12:35",
+  "from": "2026-10-05 06:32",
+  "to": "2026-11-04 06:32",
   "days": 30
  },
- "streams_analyzed": 53,
+ "streams_analyzed": 52,
  "streams_missed": 2,
- "unique_chatters": 19067,
- "members_confirmed": 3165,
+ "unique_chatters": 17750,
+ "members_confirmed": 3153,
  "member_classes": {
-  "unknown": 2442,
-  "known": 412,
-  "gift": 311
+  "unknown": 2365,
+  "known": 413,
+  "gift": 375
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 504
+   "members": 555
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 223
+   "members": 206
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 419
+   "members": 414
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 814
+   "members": 802
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 1205
+   "members": 1176
   }
  ],
  "events": {
-  "new_members": 88,
+  "new_members": 86,
   "rejoins": 33,
   "milestones": 192,
-  "gift_purchases": 28,
-  "gifted_total": 311,
-  "gift_redemptions": 311
+  "gift_purchases": 31,
+  "gifted_total": 380,
+  "gift_redemptions": 375
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,21 +60,21 @@
    "tier": "ヴィヴィ喜劇",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 412,
+   "confirmed_members": 413,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2442.0,
-   "estimated_members": 2854.0,
-   "monthly_net_confirmed": 128469,
-   "monthly_net_estimated": 889929
+   "allocated_unknown": 2365.0,
+   "estimated_members": 2778.0,
+   "monthly_net_confirmed": 128781,
+   "monthly_net_estimated": 866231
   }
  ],
  "revenue": {
-  "monthly_low": 889929,
-  "monthly_est": 889929,
-  "gift_once": 96975,
-  "total_low": 986905,
-  "total_est": 986905,
-  "paying_members": 2854,
+  "monthly_low": 866231,
+  "monthly_est": 866231,
+  "gift_once": 118491,
+  "total_low": 984722,
+  "total_est": 984722,
+  "paying_members": 2778,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,26 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "w6AE3f_b3bs",
-   "start": "2026-10-04 17:00",
-   "title": "【 Steamオータムセール 】みんなのおすすめゲーム教えて！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-   "kind": "配信",
-   "chatters": 3598,
-   "member_chatters": 872,
-   "new_members": 3,
-   "gifted_total": 5
-  },
-  {
-   "video_id": "wW2QC1K7ZTY",
-   "start": "2026-10-04 20:45",
-   "title": "【#ホロドリ 】新エリア！！🎣釣りとスプラッシュボール 【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-   "kind": "配信",
-   "chatters": 958,
-   "member_chatters": 486,
-   "new_members": 2,
-   "gifted_total": 2
-  },
   {
    "video_id": "Svxm5cI4ZiQ",
    "start": "2026-10-05 12:14",
@@ -612,6 +592,16 @@
    "member_chatters": 570,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "8a_G_WJL-RE",
+   "start": "2026-11-03 22:44",
+   "title": "【#ホロ鯖ARK】ガルガンターテイム！初めてのホロ鯖ARK！！＃26【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+   "kind": "配信",
+   "chatters": 1785,
+   "member_chatters": 686,
+   "new_members": 3,
+   "gifted_total": 76
   }
  ],
  "missed_streams": [
@@ -769,59 +759,60 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-03"
+    "to": "2026-11-04"
    },
-   "streams_analyzed": 2,
+   "streams_analyzed": 3,
    "streams_missed": 0,
-   "unique_chatters": 2545,
-   "members_confirmed": 771,
+   "unique_chatters": 3315,
+   "members_confirmed": 983,
    "member_classes": {
-    "unknown": 655,
-    "known": 116
+    "unknown": 777,
+    "known": 135,
+    "gift": 71
    },
-   "long_term_members": 367,
+   "long_term_members": 424,
    "badges": [
     {
      "months": 0,
-     "members": 22
+     "members": 95
     },
     {
      "months": 1,
-     "members": 24
+     "members": 30
     },
     {
      "months": 2,
-     "members": 115
+     "members": 141
     },
     {
      "months": 6,
-     "members": 243
+     "members": 293
     },
     {
      "months": 12,
-     "members": 367
+     "members": 424
     }
    ],
    "events": {
-    "new_members": 4,
-    "rejoins": 1,
-    "milestones": 5,
-    "gifted_total": 0
+    "new_members": 7,
+    "rejoins": 2,
+    "milestones": 11,
+    "gifted_total": 76
    },
    "tiers": [
     {
      "tier": "ヴィヴィ喜劇",
      "price": 490,
-     "confirmed_members": 116,
-     "estimated_members": 771.0
+     "confirmed_members": 135,
+     "estimated_members": 912.0
     }
    ],
    "revenue": {
-    "monthly_low": 240412,
-    "monthly_est": 240412,
-    "gift_once": 0
+    "monthly_low": 284378,
+    "monthly_est": 284378,
+    "gift_once": 23698
    },
-   "avg_member_chatters": 578,
+   "avg_member_chatters": 614,
    "partial": true,
    "finalized": false
   }

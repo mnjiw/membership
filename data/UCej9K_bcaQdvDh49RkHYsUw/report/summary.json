@@ -3,16 +3,16 @@
  "channel_id": "UCej9K_bcaQdvDh49RkHYsUw",
  "handle": "@nano_kozuya",
  "subscribers": 35200,
- "fetched_at": "2026-11-03 12:39",
- "generated_at": "2026-11-03 12:39",
+ "fetched_at": "2026-11-04 06:43",
+ "generated_at": "2026-11-04 06:44",
  "period": {
-  "from": "2026-10-04 12:39",
-  "to": "2026-11-03 12:39",
+  "from": "2026-10-05 06:43",
+  "to": "2026-11-04 06:43",
   "days": 30
  },
- "streams_analyzed": 28,
+ "streams_analyzed": 29,
  "streams_missed": 2,
- "unique_chatters": 1449,
+ "unique_chatters": 1492,
  "members_confirmed": 291,
  "member_classes": {
   "unknown": 227,
@@ -33,21 +33,21 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 42
+   "members": 41
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 41
+   "members": 43
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 125
+   "members": 124
   }
  ],
  "events": {
-  "new_members": 8,
+  "new_members": 7,
   "rejoins": 0,
   "milestones": 0,
   "gift_purchases": 12,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "Rnkzx9msJiI",
-   "start": "2026-10-04 20:00",
-   "title": "〖 雑談  〗1on1や学園のマドンナ先輩になったお話など🎶〖 小鳥谷なの / すぺしゃりて 〗",
-   "kind": "配信",
-   "chatters": 165,
-   "member_chatters": 107,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "ikLEOQvYwL8",
    "start": "2026-10-05 19:06",
@@ -362,6 +352,26 @@
    "member_chatters": 124,
    "new_members": 2,
    "gifted_total": 0
+  },
+  {
+   "video_id": "HcGl32eoI1I",
+   "start": "2026-11-03 10:08",
+   "title": "〖 ポケモンチャンピオンズ  〗初めての対戦！熱血練習いくぞ🔥 #すぺしゃりてポケチャン大会 にむけて！〖 小鳥谷なの / すぺしゃりて 〗",
+   "kind": "配信",
+   "chatters": 282,
+   "member_chatters": 89,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "PKXpOtoKpAY",
+   "start": "2026-11-03 19:59",
+   "title": "〖 ポケモンチャンピオンズ  〗熱血チームC顔合わせ＆対戦会🔥〖 小鳥谷なの / すぺしゃりて 〗",
+   "kind": "配信",
+   "chatters": 158,
+   "member_chatters": 85,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -529,18 +539,18 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-03"
+    "to": "2026-11-04"
    },
-   "streams_analyzed": 4,
+   "streams_analyzed": 6,
    "streams_missed": 0,
-   "unique_chatters": 553,
-   "members_confirmed": 170,
+   "unique_chatters": 648,
+   "members_confirmed": 181,
    "member_classes": {
-    "unknown": 158,
+    "unknown": 169,
     "known": 11,
     "gift": 1
    },
-   "long_term_members": 78,
+   "long_term_members": 85,
    "badges": [
     {
      "months": 0,
@@ -556,11 +566,11 @@
     },
     {
      "months": 6,
-     "members": 26
+     "members": 30
     },
     {
      "months": 12,
-     "members": 78
+     "members": 85
     }
    ],
    "events": {
@@ -574,15 +584,15 @@
      "tier": "こずや大好きっ子クラブ",
      "price": 490,
      "confirmed_members": 11,
-     "estimated_members": 169.0
+     "estimated_members": 180.0
     }
    ],
    "revenue": {
-    "monthly_low": 52697,
-    "monthly_est": 52697,
+    "monthly_low": 56127,
+    "monthly_est": 56127,
     "gift_once": 312
    },
-   "avg_member_chatters": 92.2,
+   "avg_member_chatters": 90.5,
    "partial": true,
    "finalized": false
   }

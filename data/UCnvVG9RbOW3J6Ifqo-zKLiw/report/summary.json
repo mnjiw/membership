@@ -3,20 +3,20 @@
  "channel_id": "UCnvVG9RbOW3J6Ifqo-zKLiw",
  "handle": "@tosakimimi3369",
  "subscribers": 463000,
- "fetched_at": "2026-11-03 12:38",
- "generated_at": "2026-11-03 12:38",
+ "fetched_at": "2026-11-04 06:40",
+ "generated_at": "2026-11-04 06:40",
  "period": {
-  "from": "2026-10-04 12:38",
-  "to": "2026-11-03 12:38",
+  "from": "2026-10-05 06:40",
+  "to": "2026-11-04 06:40",
   "days": 30
  },
  "streams_analyzed": 17,
- "streams_missed": 1,
- "unique_chatters": 1592,
- "members_confirmed": 642,
+ "streams_missed": 0,
+ "unique_chatters": 1623,
+ "members_confirmed": 645,
  "member_classes": {
-  "unknown": 523,
-  "known": 64,
+  "unknown": 525,
+  "known": 65,
   "gift": 55
  },
  "badges": [
@@ -28,32 +28,32 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 14
+   "members": 15
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 37
+   "members": 39
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 56
+   "members": 55
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 85
+   "members": 83
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 360
+   "members": 363
   }
  ],
  "events": {
-  "new_members": 27,
-  "rejoins": 17,
+  "new_members": 28,
+  "rejoins": 16,
   "milestones": 16,
   "gift_purchases": 11,
   "gifted_total": 56,
@@ -65,32 +65,32 @@
    "tier": "ぴょんぴょん隊",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 52,
-   "share_of_confirmed_pct": 81.2,
-   "allocated_unknown": 424.9,
-   "estimated_members": 476.9,
-   "monthly_net_confirmed": 16215,
-   "monthly_net_estimated": 148718
+   "confirmed_members": 54,
+   "share_of_confirmed_pct": 83.1,
+   "allocated_unknown": 436.2,
+   "estimated_members": 490.2,
+   "monthly_net_confirmed": 16838,
+   "monthly_net_estimated": 152839
   },
   {
    "tier": "ぴょんぴょん隊Mk2",
    "price": 1190,
    "net_per_member": 757.3,
-   "confirmed_members": 12,
-   "share_of_confirmed_pct": 18.8,
-   "allocated_unknown": 98.1,
-   "estimated_members": 110.1,
-   "monthly_net_confirmed": 9087,
-   "monthly_net_estimated": 83347
+   "confirmed_members": 11,
+   "share_of_confirmed_pct": 16.9,
+   "allocated_unknown": 88.8,
+   "estimated_members": 99.8,
+   "monthly_net_confirmed": 8330,
+   "monthly_net_estimated": 75611
   }
  ],
  "revenue": {
-  "monthly_low": 188383,
-  "monthly_est": 232065,
+  "monthly_low": 188873,
+  "monthly_est": 228450,
   "gift_once": 17462,
-  "total_low": 205845,
-  "total_est": 249527,
-  "paying_members": 587,
+  "total_low": 206335,
+  "total_est": 245911,
+  "paying_members": 590,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -99,16 +99,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "J0G96r3ghHQ",
-   "start": "2026-10-04 22:02",
-   "title": "【PUBG】メンバーとあそぶ会【ぶいすぽ/兎咲ミミ】",
-   "kind": "配信",
-   "chatters": 233,
-   "member_chatters": 163,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "HY6MAk-Vl9s",
    "start": "2026-10-05 17:59",
@@ -268,34 +258,20 @@
    "member_chatters": 116,
    "new_members": 1,
    "gifted_total": 0
-  }
- ],
- "missed_streams": [
+  },
   {
-   "video_id": "HcGU2WZp-Pg",
-   "start": "2026-10-04 20:01",
-   "title": "【メンバー限定】同時視聴：名探偵コナン 30号殺人事件",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 119,
-   "view_count": null
+   "video_id": "AEQZG5HBBpE",
+   "start": "2026-11-03 20:01",
+   "title": "【Japanese Ramen Simulator】ぶいすぽラーメン屋開店～【ぶいすぽ/兎咲ミミ】",
+   "kind": "配信",
+   "chatters": 276,
+   "member_chatters": 176,
+   "new_members": 2,
+   "gifted_total": 0
   }
  ],
- "members_only_content": [
-  {
-   "video_id": "HcGU2WZp-Pg",
-   "start": "2026-10-04 20:01",
-   "title": "【メンバー限定】同時視聴：名探偵コナン 30号殺人事件",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 119,
-   "view_count": null
-  }
- ],
+ "missed_streams": [],
+ "members_only_content": [],
  "history": [
   {
    "month": "2026-09",
@@ -426,45 +402,45 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-03"
+    "to": "2026-11-04"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 0,
-   "unique_chatters": 175,
-   "members_confirmed": 116,
+   "unique_chatters": 365,
+   "members_confirmed": 215,
    "member_classes": {
-    "unknown": 108,
-    "known": 8
+    "unknown": 199,
+    "known": 16
    },
-   "long_term_members": 99,
+   "long_term_members": 182,
    "badges": [
     {
      "months": 0,
-     "members": 5
+     "members": 9
     },
     {
      "months": 1,
-     "members": 1
+     "members": 4
     },
     {
      "months": 2,
-     "members": 5
+     "members": 10
     },
     {
      "months": 6,
-     "members": 6
+     "members": 10
     },
     {
      "months": 12,
-     "members": 18
+     "members": 32
     },
     {
      "months": 24,
-     "members": 81
+     "members": 150
     }
    ],
    "events": {
-    "new_members": 1,
+    "new_members": 3,
     "rejoins": 2,
     "milestones": 1,
     "gifted_total": 0
@@ -473,22 +449,22 @@
     {
      "tier": "ぴょんぴょん隊",
      "price": 490,
-     "confirmed_members": 6,
-     "estimated_members": 87.0
+     "confirmed_members": 13,
+     "estimated_members": 174.7
     },
     {
      "tier": "ぴょんぴょん隊Mk2",
      "price": 1190,
-     "confirmed_members": 2,
-     "estimated_members": 29.0
+     "confirmed_members": 3,
+     "estimated_members": 40.3
     }
    ],
    "revenue": {
-    "monthly_low": 37062,
-    "monthly_est": 49089,
+    "monthly_low": 68377,
+    "monthly_est": 84998,
     "gift_once": 0
    },
-   "avg_member_chatters": 116,
+   "avg_member_chatters": 146,
    "partial": true,
    "finalized": false
   }

@@ -3,19 +3,19 @@
  "channel_id": "UCL9hJsdk9eQa0IlWbFB2oRg",
  "handle": "@HanabiChoya",
  "subscribers": 312000,
- "fetched_at": "2026-11-03 12:38",
- "generated_at": "2026-11-03 12:38",
+ "fetched_at": "2026-11-04 06:42",
+ "generated_at": "2026-11-04 06:42",
  "period": {
-  "from": "2026-10-04 12:38",
-  "to": "2026-11-03 12:38",
+  "from": "2026-10-05 06:42",
+  "to": "2026-11-04 06:42",
   "days": 30
  },
  "streams_analyzed": 26,
  "streams_missed": 1,
- "unique_chatters": 5124,
- "members_confirmed": 1047,
+ "unique_chatters": 5134,
+ "members_confirmed": 1049,
  "member_classes": {
-  "unknown": 778,
+  "unknown": 780,
   "known": 243,
   "gift": 26
  },
@@ -23,27 +23,27 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 137
+   "members": 138
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 66
+   "members": 65
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 163
+   "members": 164
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 211
+   "members": 210
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 470
+   "members": 472
   }
  ],
  "events": {
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 243,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 778.0,
-   "estimated_members": 1021.0,
+   "allocated_unknown": 780.0,
+   "estimated_members": 1023.0,
    "monthly_net_confirmed": 75772,
-   "monthly_net_estimated": 318366
+   "monthly_net_estimated": 318990
   }
  ],
  "revenue": {
-  "monthly_low": 318366,
-  "monthly_est": 318366,
+  "monthly_low": 318990,
+  "monthly_est": 318990,
   "gift_once": 8107,
-  "total_low": 326474,
-  "total_est": 326474,
-  "paying_members": 1021,
+  "total_low": 327097,
+  "total_est": 327097,
+  "paying_members": 1023,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "k28L2ocGeG4",
-   "start": "2026-10-04 22:02",
-   "title": "【 PUBG 】　やる気あります！！！！！！！！！！w/ミミ先輩、きゅぴちゃま、エマ先輩　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-   "kind": "配信",
-   "chatters": 147,
-   "member_chatters": 83,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "gCQ46NuwtEY",
    "start": "2026-10-05 17:59",
@@ -342,6 +332,16 @@
    "member_chatters": 111,
    "new_members": 3,
    "gifted_total": 0
+  },
+  {
+   "video_id": "ymaMxVQ6OH8",
+   "start": "2026-11-03 15:28",
+   "title": "【 振り返り雑談 】　３年目のはじまり！！！ケーキを食べながら目標とか考えたり！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+   "kind": "配信",
+   "chatters": 285,
+   "member_chatters": 170,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -487,22 +487,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-03"
+    "to": "2026-11-04"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 4,
    "streams_missed": 0,
-   "unique_chatters": 1793,
-   "members_confirmed": 810,
+   "unique_chatters": 1866,
+   "members_confirmed": 826,
    "member_classes": {
-    "unknown": 573,
+    "unknown": 589,
     "known": 232,
     "gift": 5
    },
-   "long_term_members": 365,
+   "long_term_members": 376,
    "badges": [
     {
      "months": 0,
-     "members": 100
+     "members": 102
     },
     {
      "months": 1,
@@ -510,15 +510,15 @@
     },
     {
      "months": 2,
-     "members": 137
+     "members": 139
     },
     {
      "months": 6,
-     "members": 153
+     "members": 154
     },
     {
      "months": 12,
-     "members": 365
+     "members": 376
     }
    ],
    "events": {
@@ -532,15 +532,15 @@
      "tier": "かやく",
      "price": 490,
      "confirmed_members": 232,
-     "estimated_members": 805.0
+     "estimated_members": 821.0
     }
    ],
    "revenue": {
-    "monthly_low": 251014,
-    "monthly_est": 251014,
+    "monthly_low": 256003,
+    "monthly_est": 256003,
     "gift_once": 1559
    },
-   "avg_member_chatters": 378.3,
+   "avg_member_chatters": 326.2,
    "partial": true,
    "finalized": false
   }

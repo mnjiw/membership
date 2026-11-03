@@ -3,11 +3,11 @@
  "channel_id": "UCCra1t-eIlO3ULyXQQMD9Xw",
  "handle": "@RemiaAotsuki",
  "subscribers": 81500,
- "fetched_at": "2026-11-03 12:38",
- "generated_at": "2026-11-03 12:38",
+ "fetched_at": "2026-11-04 06:42",
+ "generated_at": "2026-11-04 06:42",
  "period": {
-  "from": "2026-10-04 12:38",
-  "to": "2026-11-03 12:38",
+  "from": "2026-10-05 06:42",
+  "to": "2026-11-04 06:42",
   "days": 30
  },
  "streams_analyzed": 25,
@@ -341,18 +341,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "hrOtS1KvkmQ",
-   "start": "2026-10-04 23:05",
-   "title": "【VALHEIM】 Row row row your boat!  【#VSPOEN #RemiaAotsuki】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 24,
-   "view_count": null
-  },
-  {
    "video_id": "ox3DugxCTps",
    "start": "2026-10-18 23:00",
    "title": "【VALHEIM - Part 2】  Just mining copper...  【#VSPOEN #RemiaAotsuki】",
@@ -363,19 +351,21 @@
    "members_level": "",
    "like_count": 19,
    "view_count": null
+  },
+  {
+   "video_id": "il2QNjX_Y7Q",
+   "start": "2026-11-03 00:00",
+   "title": "【Counter-Strike 2/OVERWATCH 2】   it's g-growing?! 🐥 |  Premier 25K!  【#VSPOEN #RemiaAotsuki】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 477,
+   "view_count": 7343
   }
  ],
  "members_only_content": [
-  {
-   "video_id": "hrOtS1KvkmQ",
-   "start": "2026-10-04 23:05",
-   "title": "【VALHEIM】 Row row row your boat!  【#VSPOEN #RemiaAotsuki】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 24,
-   "view_count": null
-  },
   {
    "video_id": "ox3DugxCTps",
    "start": "2026-10-18 23:00",
@@ -512,10 +502,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-03"
+    "to": "2026-11-04"
    },
    "streams_analyzed": 2,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 90,
    "members_confirmed": 42,
    "member_classes": {

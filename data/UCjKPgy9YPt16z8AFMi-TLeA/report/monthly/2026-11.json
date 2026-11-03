@@ -2,73 +2,74 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-03"
+  "to": "2026-11-04"
  },
- "streams_analyzed": 2,
- "streams_missed": 1,
- "unique_chatters": 1092,
- "members_confirmed": 180,
+ "streams_analyzed": 6,
+ "streams_missed": 3,
+ "unique_chatters": 1750,
+ "members_confirmed": 282,
  "member_classes": {
-  "known": 83,
-  "unknown": 97
+  "known": 110,
+  "unknown": 126,
+  "gift": 46
  },
- "long_term_members": 59,
+ "long_term_members": 69,
  "badges": [
   {
    "months": 0,
-   "members": 22
+   "members": 87
   },
   {
    "months": 1,
-   "members": 6
+   "members": 12
   },
   {
    "months": 2,
-   "members": 57
+   "members": 70
   },
   {
    "months": 6,
-   "members": 36
+   "members": 44
   },
   {
    "months": 12,
-   "members": 46
+   "members": 54
   },
   {
    "months": 24,
-   "members": 13
+   "members": 15
   }
  ],
  "events": {
-  "new_members": 7,
-  "rejoins": 0,
-  "milestones": 34,
-  "gifted_total": 0
+  "new_members": 22,
+  "rejoins": 6,
+  "milestones": 42,
+  "gifted_total": 47
  },
  "tiers": [
   {
    "tier": "ゆらのえふぃら",
    "price": 490,
-   "confirmed_members": 54,
-   "estimated_members": 117.1
+   "confirmed_members": 76,
+   "estimated_members": 163.1
   },
   {
    "tier": "ゆらとASMR",
    "price": 3490,
-   "confirmed_members": 22,
-   "estimated_members": 47.7
+   "confirmed_members": 26,
+   "estimated_members": 55.8
   },
   {
    "tier": "ゆらとシチュボ",
    "price": 5600,
-   "confirmed_members": 7,
-   "estimated_members": 15.2
+   "confirmed_members": 8,
+   "estimated_members": 17.2
   }
  ],
  "revenue": {
-  "monthly_low": 120890,
-  "monthly_est": 196577,
-  "gift_once": 0
+  "monthly_low": 149240,
+  "monthly_est": 235895,
+  "gift_once": 14655
  },
  "avg_member_chatters": 122,
  "partial": true,

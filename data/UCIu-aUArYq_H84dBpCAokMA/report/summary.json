@@ -3,16 +3,16 @@
  "channel_id": "UCIu-aUArYq_H84dBpCAokMA",
  "handle": "@Shirayuki_Reid",
  "subscribers": 422000,
- "fetched_at": "2026-11-03 12:40",
- "generated_at": "2026-11-03 12:40",
+ "fetched_at": "2026-11-04 06:45",
+ "generated_at": "2026-11-04 06:46",
  "period": {
-  "from": "2026-10-04 12:40",
-  "to": "2026-11-03 12:40",
+  "from": "2026-10-05 06:45",
+  "to": "2026-11-04 06:45",
   "days": 30
  },
- "streams_analyzed": 33,
- "streams_missed": 0,
- "unique_chatters": 3035,
+ "streams_analyzed": 35,
+ "streams_missed": 1,
+ "unique_chatters": 3102,
  "members_confirmed": 383,
  "member_classes": {
   "unknown": 365,
@@ -422,9 +422,42 @@
    "member_chatters": 42,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "2ZbdmDkVfic",
+   "start": "2026-11-03 21:08",
+   "title": "【COD DMZ】脱出シューターはとりあえず触らないと【白雪レイド】",
+   "kind": "配信",
+   "chatters": 93,
+   "member_chatters": 38,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "g-rmpTyJXfY",
+   "start": "2026-11-03 23:51",
+   "title": "【#雀魂】かぐや。やれるか？ ー３連逆連帯強制終了ー【王座の間 ５分遅延】",
+   "kind": "配信",
+   "chatters": 199,
+   "member_chatters": 41,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "2Cn2nxiyNzQ",
+   "start": "2026-11-03 00:00",
+   "title": "[Mahjong Soul] Raid abandons the frog-turned Saber and reunites with his ex-girlfriend [Shirayuki...",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 398,
+   "view_count": 73992
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -558,41 +591,45 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-03"
+    "to": "2026-11-04"
    },
-   "streams_analyzed": 2,
-   "streams_missed": 0,
-   "unique_chatters": 428,
-   "members_confirmed": 103,
+   "streams_analyzed": 4,
+   "streams_missed": 1,
+   "unique_chatters": 589,
+   "members_confirmed": 126,
    "member_classes": {
-    "unknown": 102,
+    "unknown": 125,
     "known": 1
    },
-   "long_term_members": 93,
+   "long_term_members": 110,
    "badges": [
     {
      "months": 0,
      "members": 1
     },
     {
-     "months": 2,
+     "months": 1,
      "members": 3
     },
     {
+     "months": 2,
+     "members": 4
+    },
+    {
      "months": 6,
-     "members": 6
+     "members": 8
     },
     {
      "months": 12,
-     "members": 13
+     "members": 15
     },
     {
      "months": 24,
-     "members": 13
+     "members": 18
     },
     {
      "months": 36,
-     "members": 67
+     "members": 77
     }
    ],
    "events": {
@@ -606,15 +643,15 @@
      "tier": "ホワ民",
      "price": 490,
      "confirmed_members": 1,
-     "estimated_members": 103.0
+     "estimated_members": 126.0
     }
    ],
    "revenue": {
-    "monthly_low": 32117,
-    "monthly_est": 32117,
+    "monthly_low": 39289,
+    "monthly_est": 39289,
     "gift_once": 0
    },
-   "avg_member_chatters": 64.5,
+   "avg_member_chatters": 52,
    "partial": true,
    "finalized": false
   }

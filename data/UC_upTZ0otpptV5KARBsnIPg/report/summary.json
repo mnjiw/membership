@@ -3,42 +3,42 @@
  "channel_id": "UC_upTZ0otpptV5KARBsnIPg",
  "handle": "@komawarikoma",
  "subscribers": 436000,
- "fetched_at": "2026-11-03 12:41",
- "generated_at": "2026-11-03 12:41",
+ "fetched_at": "2026-11-04 06:46",
+ "generated_at": "2026-11-04 06:46",
  "period": {
-  "from": "2026-10-04 12:41",
-  "to": "2026-11-03 12:41",
+  "from": "2026-10-05 06:46",
+  "to": "2026-11-04 06:46",
   "days": 30
  },
- "streams_analyzed": 8,
+ "streams_analyzed": 7,
  "streams_missed": 1,
- "unique_chatters": 1275,
- "members_confirmed": 231,
+ "unique_chatters": 1181,
+ "members_confirmed": 224,
  "member_classes": {
-  "known": 71,
-  "unknown": 135,
+  "unknown": 130,
+  "known": 69,
   "gift": 25
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 37
+   "members": 36
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 15
+   "members": 14
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 47
+   "members": 43
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 55
+   "members": 54
   },
   {
    "months": 12,
@@ -47,9 +47,9 @@
   }
  ],
  "events": {
-  "new_members": 6,
-  "rejoins": 2,
-  "milestones": 37,
+  "new_members": 4,
+  "rejoins": 1,
+  "milestones": 35,
   "gift_purchases": 2,
   "gifted_total": 25,
   "gift_redemptions": 25
@@ -60,21 +60,21 @@
    "tier": "小廻一座",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 71,
+   "confirmed_members": 69,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 135.0,
-   "estimated_members": 206.0,
-   "monthly_net_confirmed": 22139,
-   "monthly_net_estimated": 64235
+   "allocated_unknown": 130.0,
+   "estimated_members": 199.0,
+   "monthly_net_confirmed": 21515,
+   "monthly_net_estimated": 62052
   }
  ],
  "revenue": {
-  "monthly_low": 64235,
-  "monthly_est": 64235,
+  "monthly_low": 62052,
+  "monthly_est": 62052,
   "gift_once": 7795,
-  "total_low": 72030,
-  "total_est": 72030,
-  "paying_members": 206,
+  "total_low": 69847,
+  "total_est": 69847,
+  "paying_members": 199,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "bcqT7XkGAS0",
-   "start": "2026-10-04 20:33",
-   "title": "【 #マイクラ肝試し2026 】らすとちる観光するだ～【小廻こま/ミリプロ】",
-   "kind": "配信",
-   "chatters": 220,
-   "member_chatters": 78,
-   "new_members": 2,
-   "gifted_total": 0
-  },
   {
    "video_id": "NBbE-zXEEmo",
    "start": "2026-10-07 20:01",
@@ -174,7 +164,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 120,
+   "like_count": 121,
    "view_count": null
   }
  ],
@@ -186,7 +176,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 120,
+   "like_count": 121,
    "view_count": null
   }
  ],
@@ -307,7 +297,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-03"
+    "to": "2026-11-04"
    },
    "streams_analyzed": 1,
    "streams_missed": 0,

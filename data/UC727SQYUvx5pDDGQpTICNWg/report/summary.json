@@ -3,19 +3,19 @@
  "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
  "handle": "@AnyaMelfissa",
  "subscribers": 804000,
- "fetched_at": "2026-11-03 12:35",
- "generated_at": "2026-11-03 12:35",
+ "fetched_at": "2026-11-04 06:37",
+ "generated_at": "2026-11-04 06:37",
  "period": {
-  "from": "2026-10-04 12:35",
-  "to": "2026-11-03 12:35",
+  "from": "2026-10-05 06:37",
+  "to": "2026-11-04 06:37",
   "days": 30
  },
- "streams_analyzed": 34,
- "streams_missed": 3,
- "unique_chatters": 4617,
- "members_confirmed": 608,
+ "streams_analyzed": 33,
+ "streams_missed": 4,
+ "unique_chatters": 4510,
+ "members_confirmed": 603,
  "member_classes": {
-  "unknown": 269,
+  "unknown": 264,
   "known": 72,
   "gift": 267
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 298
+   "members": 296
   },
   {
    "months": 1,
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 28
+   "members": 27
   },
   {
    "months": 6,
@@ -53,7 +53,7 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 108
+   "members": 106
   }
  ],
  "events": {
@@ -72,19 +72,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 72,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 269.0,
-   "estimated_members": 341.0,
+   "allocated_unknown": 264.0,
+   "estimated_members": 336.0,
    "monthly_net_confirmed": 22451,
-   "monthly_net_estimated": 106330
+   "monthly_net_estimated": 104771
   }
  ],
  "revenue": {
-  "monthly_low": 106330,
-  "monthly_est": 106330,
+  "monthly_low": 104771,
+  "monthly_est": 104771,
   "gift_once": 84191,
-  "total_low": 190521,
-  "total_est": 190521,
-  "paying_members": 341,
+  "total_low": 188962,
+  "total_est": 188962,
+  "paying_members": 336,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "Snk0CJCQOa8",
-   "start": "2026-10-04 21:01",
-   "title": "【Minecraft #マイクラ肝試し2026】水宮とお散歩する〜 Exploring Around with Suu【hololive holoro | Anya Melfissa】",
-   "kind": "配信",
-   "chatters": 317,
-   "member_chatters": 76,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "7RD4-JhQXXM",
    "start": "2026-10-05 13:01",
@@ -470,6 +460,18 @@
    "members_level": "",
    "like_count": 161,
    "view_count": null
+  },
+  {
+   "video_id": "V4nbZaxZQdM",
+   "start": "2026-11-03 00:00",
+   "title": "【SPOILER WARNING | Ratatan ラタタン】FIRST TIME PLAYING!! 初見プレイ！フレわたーニャ！【hololive holoro | Anya Melfissa】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 4478,
+   "view_count": 57494
   }
  ],
  "members_only_content": [
@@ -638,10 +640,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-03"
+    "to": "2026-11-04"
    },
    "streams_analyzed": 1,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 374,
    "members_confirmed": 134,
    "member_classes": {

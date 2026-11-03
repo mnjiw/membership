@@ -3,52 +3,52 @@
  "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
  "handle": "@TsunomakiWatame",
  "subscribers": 1730000,
- "fetched_at": "2026-11-03 12:34",
- "generated_at": "2026-11-03 12:34",
+ "fetched_at": "2026-11-04 06:28",
+ "generated_at": "2026-11-04 06:29",
  "period": {
-  "from": "2026-10-04 12:34",
-  "to": "2026-11-03 12:34",
+  "from": "2026-10-05 06:28",
+  "to": "2026-11-04 06:28",
   "days": 30
  },
  "streams_analyzed": 25,
  "streams_missed": 0,
- "unique_chatters": 13454,
- "members_confirmed": 4936,
+ "unique_chatters": 13235,
+ "members_confirmed": 4884,
  "member_classes": {
-  "known": 597,
-  "unknown": 3709,
-  "gift": 630
+  "unknown": 3674,
+  "known": 598,
+  "gift": 612
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 739
+   "members": 716
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 55
+   "members": 57
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 263
+   "members": 260
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 314
+   "members": 309
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 828
+   "members": 819
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 624
+   "members": 621
   },
   {
    "months": 36,
@@ -58,26 +58,26 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 479
+   "members": 475
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 727
+   "members": 723
   },
   {
    "months": 72,
    "label": "6年",
-   "members": 341
+   "members": 338
   }
  ],
  "events": {
   "new_members": 58,
-  "rejoins": 51,
+  "rejoins": 48,
   "milestones": 353,
-  "gift_purchases": 226,
-  "gifted_total": 788,
-  "gift_redemptions": 631
+  "gift_purchases": 224,
+  "gifted_total": 774,
+  "gift_redemptions": 612
  },
  "tiers_configured": true,
  "tiers": [
@@ -85,21 +85,21 @@
    "tier": "Member sheep",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 597,
+   "confirmed_members": 598,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 3709.0,
-   "estimated_members": 4306.0,
-   "monthly_net_confirmed": 186155,
-   "monthly_net_estimated": 1342689
+   "allocated_unknown": 3674.0,
+   "estimated_members": 4272.0,
+   "monthly_net_confirmed": 186467,
+   "monthly_net_estimated": 1332087
   }
  ],
  "revenue": {
-  "monthly_low": 1342689,
-  "monthly_est": 1342689,
-  "gift_once": 245713,
-  "total_low": 1588402,
-  "total_est": 1588402,
-  "paying_members": 4306,
+  "monthly_low": 1332087,
+  "monthly_est": 1332087,
+  "gift_once": 241347,
+  "total_low": 1573435,
+  "total_est": 1573435,
+  "paying_members": 4272,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -108,16 +108,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "G3jGIUCMoek",
-   "start": "2026-10-04 22:02",
-   "title": "【 #ホロドリ 】宿題（サブクエ）やったり遊んだり！！！【角巻わため/ホロライブ４期生】",
-   "kind": "配信",
-   "chatters": 1972,
-   "member_chatters": 1179,
-   "new_members": 2,
-   "gifted_total": 26
-  },
   {
    "video_id": "BsKbBSIsaiI",
    "start": "2026-10-05 19:00",
@@ -357,6 +347,16 @@
    "member_chatters": 1993,
    "new_members": 20,
    "gifted_total": 167
+  },
+  {
+   "video_id": "17uiYbuaKa8",
+   "start": "2026-11-03 22:06",
+   "title": "【 RATATAN  】フレわたーニャで初めてのラタタン🎺🎶【角巻わため/ホロライブ４期生】※ネタバレ注意",
+   "kind": "配信",
+   "chatters": 1237,
+   "member_chatters": 867,
+   "new_members": 2,
+   "gifted_total": 12
   }
  ],
  "missed_streams": [],
@@ -523,6 +523,87 @@
    },
    "avg_member_chatters": 1035.1,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-04"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 1237,
+   "members_confirmed": 867,
+   "member_classes": {
+    "known": 156,
+    "unknown": 709,
+    "gift": 2
+   },
+   "long_term_members": 742,
+   "badges": [
+    {
+     "months": 0,
+     "members": 19
+    },
+    {
+     "months": 1,
+     "members": 10
+    },
+    {
+     "months": 2,
+     "members": 41
+    },
+    {
+     "months": 6,
+     "members": 55
+    },
+    {
+     "months": 12,
+     "members": 173
+    },
+    {
+     "months": 24,
+     "members": 118
+    },
+    {
+     "months": 36,
+     "members": 123
+    },
+    {
+     "months": 48,
+     "members": 107
+    },
+    {
+     "months": 60,
+     "members": 145
+    },
+    {
+     "months": 72,
+     "members": 76
+    }
+   ],
+   "events": {
+    "new_members": 2,
+    "rejoins": 1,
+    "milestones": 4,
+    "gifted_total": 12
+   },
+   "tiers": [
+    {
+     "tier": "Member sheep",
+     "price": 490,
+     "confirmed_members": 156,
+     "estimated_members": 865.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 269723,
+    "monthly_est": 269723,
+    "gift_once": 3742
+   },
+   "avg_member_chatters": 867,
+   "partial": true,
    "finalized": false
   }
  ],

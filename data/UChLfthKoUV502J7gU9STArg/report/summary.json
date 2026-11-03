@@ -3,19 +3,19 @@
  "channel_id": "UChLfthKoUV502J7gU9STArg",
  "handle": "@ShibuyaHAL",
  "subscribers": 902000,
- "fetched_at": "2026-11-03 12:40",
- "generated_at": "2026-11-03 12:40",
+ "fetched_at": "2026-11-04 06:45",
+ "generated_at": "2026-11-04 06:45",
  "period": {
-  "from": "2026-10-04 12:40",
-  "to": "2026-11-03 12:40",
+  "from": "2026-10-05 06:45",
+  "to": "2026-11-04 06:45",
   "days": 30
  },
  "streams_analyzed": 29,
  "streams_missed": 0,
- "unique_chatters": 1790,
- "members_confirmed": 254,
+ "unique_chatters": 1534,
+ "members_confirmed": 236,
  "member_classes": {
-  "unknown": 226,
+  "unknown": 208,
   "known": 8,
   "gift": 20
  },
@@ -23,17 +23,17 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 23
+   "members": 22
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 7
+   "members": 6
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 10
+   "members": 9
   },
   {
    "months": 12,
@@ -43,17 +43,17 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 43
+   "members": 39
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 49
+   "members": 47
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 98
+   "members": 89
   }
  ],
  "events": {
@@ -72,10 +72,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 6,
    "share_of_confirmed_pct": 75.0,
-   "allocated_unknown": 169.5,
-   "estimated_members": 175.5,
+   "allocated_unknown": 156.0,
+   "estimated_members": 162.0,
    "monthly_net_confirmed": 1871,
-   "monthly_net_estimated": 54724
+   "monthly_net_estimated": 50515
   },
   {
    "tier": "バイトリーダー",
@@ -83,10 +83,10 @@
    "net_per_member": 757.3,
    "confirmed_members": 2,
    "share_of_confirmed_pct": 25.0,
-   "allocated_unknown": 56.5,
-   "estimated_members": 58.5,
+   "allocated_unknown": 52.0,
+   "estimated_members": 54.0,
    "monthly_net_confirmed": 1515,
-   "monthly_net_estimated": 44300
+   "monthly_net_estimated": 40893
   },
   {
    "tier": "店長",
@@ -112,12 +112,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 73856,
-  "monthly_est": 99025,
+  "monthly_low": 68244,
+  "monthly_est": 91407,
   "gift_once": 6236,
-  "total_low": 80093,
-  "total_est": 105261,
-  "paying_members": 234,
+  "total_low": 74480,
+  "total_est": 97644,
+  "paying_members": 216,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -126,16 +126,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "YcEnFr7aTPQ",
-   "start": "2026-10-04 17:09",
-   "title": "【APEX LEGENDS】CRカップ 本番 チーム「べてらんっ！」 w/ kamito 八雲べに れく むかい",
-   "kind": "配信",
-   "chatters": 524,
-   "member_chatters": 144,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "-z3iPnzMUGw",
    "start": "2026-10-07 18:52",
@@ -415,6 +405,16 @@
    "member_chatters": 54,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "ZhBYBvXQ508",
+   "start": "2026-11-03 15:35",
+   "title": "【Probably Stolen】どん底ハードモードクリアしたくなってしまった #本当の最終回",
+   "kind": "配信",
+   "chatters": 148,
+   "member_chatters": 52,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -574,17 +574,17 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-03"
+    "to": "2026-11-04"
    },
-   "streams_analyzed": 4,
+   "streams_analyzed": 5,
    "streams_missed": 0,
-   "unique_chatters": 272,
-   "members_confirmed": 92,
+   "unique_chatters": 316,
+   "members_confirmed": 97,
    "member_classes": {
-    "unknown": 90,
+    "unknown": 95,
     "known": 2
    },
-   "long_term_members": 85,
+   "long_term_members": 89,
    "badges": [
     {
      "months": 0,
@@ -596,19 +596,19 @@
     },
     {
      "months": 6,
-     "members": 5
+     "members": 6
     },
     {
      "months": 12,
-     "members": 10
+     "members": 12
     },
     {
      "months": 24,
-     "members": 17
+     "members": 18
     },
     {
      "months": 36,
-     "members": 22
+     "members": 23
     },
     {
      "months": 48,
@@ -626,13 +626,13 @@
      "tier": "バイト",
      "price": 490,
      "confirmed_members": 1,
-     "estimated_members": 46.0
+     "estimated_members": 48.5
     },
     {
      "tier": "バイトリーダー",
      "price": 1190,
      "confirmed_members": 1,
-     "estimated_members": 46.0
+     "estimated_members": 48.5
     },
     {
      "tier": "店長",
@@ -648,11 +648,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 29133,
-    "monthly_est": 49178,
+    "monthly_low": 30692,
+    "monthly_est": 51851,
     "gift_once": 0
    },
-   "avg_member_chatters": 54,
+   "avg_member_chatters": 53.6,
    "partial": true,
    "finalized": false
   }

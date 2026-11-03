@@ -2,67 +2,68 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-03"
+  "to": "2026-11-04"
  },
- "streams_analyzed": 2,
+ "streams_analyzed": 3,
  "streams_missed": 0,
- "unique_chatters": 247,
- "members_confirmed": 62,
+ "unique_chatters": 549,
+ "members_confirmed": 105,
  "member_classes": {
-  "unknown": 58,
-  "known": 4
+  "unknown": 91,
+  "known": 9,
+  "gift": 5
  },
- "long_term_members": 51,
+ "long_term_members": 82,
  "badges": [
   {
    "months": 0,
-   "members": 1
+   "members": 4
   },
   {
    "months": 1,
-   "members": 2
+   "members": 5
   },
   {
    "months": 2,
-   "members": 1
+   "members": 2
   },
   {
    "months": 6,
-   "members": 7
+   "members": 12
   },
   {
    "months": 12,
-   "members": 9
+   "members": 11
   },
   {
    "months": 24,
-   "members": 9
+   "members": 12
   },
   {
    "months": 36,
-   "members": 33
+   "members": 59
   }
  ],
  "events": {
   "new_members": 0,
-  "rejoins": 0,
-  "milestones": 0,
-  "gifted_total": 0
+  "rejoins": 1,
+  "milestones": 1,
+  "gifted_total": 5
  },
  "tiers": [
   {
    "tier": "ポポパーク",
    "price": 490,
-   "confirmed_members": 4,
-   "estimated_members": 62.0
+   "confirmed_members": 9,
+   "estimated_members": 100.0
   }
  ],
  "revenue": {
-  "monthly_low": 19333,
-  "monthly_est": 19333,
-  "gift_once": 0
+  "monthly_low": 31182,
+  "monthly_est": 31182,
+  "gift_once": 1559
  },
- "avg_member_chatters": 47.5,
+ "avg_member_chatters": 63.7,
  "partial": true,
  "finalized": false
 }

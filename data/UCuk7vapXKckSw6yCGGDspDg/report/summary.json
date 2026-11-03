@@ -3,19 +3,19 @@
  "channel_id": "UCuk7vapXKckSw6yCGGDspDg",
  "handle": "@Hizuki_Yui_",
  "subscribers": 411000,
- "fetched_at": "2026-11-03 12:40",
- "generated_at": "2026-11-03 12:41",
+ "fetched_at": "2026-11-04 06:45",
+ "generated_at": "2026-11-04 06:45",
  "period": {
-  "from": "2026-10-04 12:40",
-  "to": "2026-11-03 12:40",
+  "from": "2026-10-05 06:45",
+  "to": "2026-11-04 06:45",
   "days": 30
  },
- "streams_analyzed": 41,
- "streams_missed": 1,
- "unique_chatters": 4404,
- "members_confirmed": 823,
+ "streams_analyzed": 40,
+ "streams_missed": 2,
+ "unique_chatters": 4193,
+ "members_confirmed": 816,
  "member_classes": {
-  "unknown": 734,
+  "unknown": 727,
   "gift": 89
  },
  "badges": [
@@ -27,27 +27,27 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 34
+   "members": 33
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 96
+   "members": 95
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 62
+   "members": 61
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 90
+   "members": 89
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 96
+   "members": 94
   },
   {
    "months": 36,
@@ -57,13 +57,13 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 185
+   "members": 184
   }
  ],
  "events": {
   "new_members": 27,
   "rejoins": 10,
-  "milestones": 68,
+  "milestones": 65,
   "gift_purchases": 17,
   "gifted_total": 89,
   "gift_redemptions": 89
@@ -76,19 +76,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 0,
    "share_of_confirmed_pct": "",
-   "allocated_unknown": 734.0,
-   "estimated_members": 734.0,
+   "allocated_unknown": 727.0,
+   "estimated_members": 727.0,
    "monthly_net_confirmed": 0,
-   "monthly_net_estimated": 228875
+   "monthly_net_estimated": 226692
   }
  ],
  "revenue": {
-  "monthly_low": 228875,
-  "monthly_est": 228875,
+  "monthly_low": 226692,
+  "monthly_est": 226692,
   "gift_once": 27752,
-  "total_low": 256626,
-  "total_est": 256626,
-  "paying_members": 734,
+  "total_low": 254444,
+  "total_est": 254444,
+  "paying_members": 727,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -97,16 +97,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "juazw7qRfkg",
-   "start": "2026-10-04 14:01",
-   "title": "【Steam オータムセール】面白そうなゲームを探すよ🎮️✨️【緋月ゆい/ネオポルテ】",
-   "kind": "配信",
-   "chatters": 523,
-   "member_chatters": 139,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "phSJXcO-D-k",
    "start": "2026-10-05 07:16",
@@ -520,6 +510,18 @@
    "members_level": "",
    "like_count": 256,
    "view_count": null
+  },
+  {
+   "video_id": "W59ocC3-fFQ",
+   "start": "2026-11-03 00:00",
+   "title": "【VALORANT】いつまでプラチナ2にいるんですか。【緋月ゆい/ネオポルテ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 1138,
+   "view_count": 88490
   }
  ],
  "members_only_content": [
@@ -673,10 +675,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-03"
+    "to": "2026-11-04"
    },
    "streams_analyzed": 5,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 895,
    "members_confirmed": 254,
    "member_classes": {
