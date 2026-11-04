@@ -3,32 +3,32 @@
  "channel_id": "UC_WOBIopwUih0rytRnr_1Ag",
  "handle": "@Rui_Seshima",
  "subscribers": 60000,
- "fetched_at": "2026-11-04 11:26",
- "generated_at": "2026-11-04 11:26",
+ "fetched_at": "2026-11-05 06:34",
+ "generated_at": "2026-11-05 06:34",
  "period": {
-  "from": "2026-10-05 11:26",
-  "to": "2026-11-04 11:26",
+  "from": "2026-10-06 06:34",
+  "to": "2026-11-05 06:34",
   "days": 30
  },
  "streams_analyzed": 24,
  "streams_missed": 1,
- "unique_chatters": 850,
- "members_confirmed": 149,
+ "unique_chatters": 838,
+ "members_confirmed": 146,
  "member_classes": {
-  "known": 30,
-  "unknown": 108,
+  "known": 32,
+  "unknown": 103,
   "gift": 11
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 11
+   "members": 10
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 2
+   "members": 3
   },
   {
    "months": 2,
@@ -53,12 +53,12 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 23
+   "members": 21
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 18
+   "members": 17
   },
   {
    "months": 60,
@@ -67,9 +67,9 @@
   }
  ],
  "events": {
-  "new_members": 2,
+  "new_members": 3,
   "rejoins": 2,
-  "milestones": 17,
+  "milestones": 19,
   "gift_purchases": 3,
   "gifted_total": 11,
   "gift_redemptions": 11
@@ -80,21 +80,21 @@
    "tier": "ふぁみるい",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 30,
+   "confirmed_members": 32,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 108.0,
-   "estimated_members": 138.0,
-   "monthly_net_confirmed": 9355,
-   "monthly_net_estimated": 43031
+   "allocated_unknown": 103.0,
+   "estimated_members": 135.0,
+   "monthly_net_confirmed": 9978,
+   "monthly_net_estimated": 42095
   }
  ],
  "revenue": {
-  "monthly_low": 43031,
-  "monthly_est": 43031,
+  "monthly_low": 42095,
+  "monthly_est": 42095,
   "gift_once": 3430,
-  "total_low": 46461,
-  "total_est": 46461,
-  "paying_members": 138,
+  "total_low": 45525,
+  "total_est": 45525,
+  "paying_members": 135,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -103,16 +103,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "IOoUixrfJD8",
-   "start": "2026-10-05 18:30",
-   "title": "【 #キリンカップ  】遂に決勝🏆無料同時視聴⚽初見さんも応援💗🐶💉【  光りりあ┋瀬島るい┋ななしいんく】",
-   "kind": "配信",
-   "chatters": 85,
-   "member_chatters": 28,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "yPSV0yhRuSM",
    "start": "2026-10-06 17:00",
@@ -342,6 +332,16 @@
    "member_chatters": 17,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "IQC5ucMGfZM",
+   "start": "2026-11-04 17:00",
+   "title": "【 閲覧注意 】これって重い？判定シートに挑戦⁉本音でいかせていただきます❕【 瀬島るい┋ななしいんく 】",
+   "kind": "配信",
+   "chatters": 94,
+   "member_chatters": 39,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -519,68 +519,76 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-04"
+    "to": "2026-11-05"
    },
-   "streams_analyzed": 2,
+   "streams_analyzed": 3,
    "streams_missed": 0,
-   "unique_chatters": 81,
-   "members_confirmed": 34,
+   "unique_chatters": 146,
+   "members_confirmed": 54,
    "member_classes": {
-    "unknown": 21,
-    "known": 8,
+    "unknown": 30,
+    "known": 19,
     "gift": 5
    },
-   "long_term_members": 22,
+   "long_term_members": 39,
    "badges": [
     {
      "months": 0,
      "members": 4
     },
     {
+     "months": 1,
+     "members": 1
+    },
+    {
      "months": 2,
-     "members": 5
-    },
-    {
-     "months": 6,
-     "members": 3
-    },
-    {
-     "months": 24,
-     "members": 2
-    },
-    {
-     "months": 36,
      "members": 6
     },
     {
+     "months": 6,
+     "members": 4
+    },
+    {
+     "months": 12,
+     "members": 1
+    },
+    {
+     "months": 24,
+     "members": 4
+    },
+    {
+     "months": 36,
+     "members": 8
+    },
+    {
      "months": 48,
-     "members": 2
+     "members": 5
     },
     {
      "months": 60,
-     "members": 12
+     "members": 21
     }
    ],
    "events": {
-    "new_members": 0,
+    "new_members": 1,
     "rejoins": 1,
-    "milestones": 0,
+    "milestones": 2,
     "gifted_total": 5
    },
    "tiers": [
     {
      "tier": "ふぁみるい",
      "price": 490,
-     "confirmed_members": 8,
-     "estimated_members": 29.0
+     "confirmed_members": 19,
+     "estimated_members": 49.0
     }
    ],
    "revenue": {
-    "monthly_low": 9043,
-    "monthly_est": 9043,
+    "monthly_low": 15279,
+    "monthly_est": 15279,
     "gift_once": 1559
    },
-   "avg_member_chatters": 25,
+   "avg_member_chatters": 29.7,
    "partial": true,
    "finalized": false
   }

@@ -3,19 +3,19 @@
  "channel_id": "UCm4QiJHdsgz9PshJkGMSk5w",
  "handle": "@minya_scott",
  "subscribers": 13700,
- "fetched_at": "2026-11-04 11:28",
- "generated_at": "2026-11-04 11:29",
+ "fetched_at": "2026-11-05 06:37",
+ "generated_at": "2026-11-05 06:37",
  "period": {
-  "from": "2026-10-05 11:28",
-  "to": "2026-11-04 11:28",
+  "from": "2026-10-06 06:37",
+  "to": "2026-11-05 06:37",
   "days": 30
  },
- "streams_analyzed": 4,
+ "streams_analyzed": 5,
  "streams_missed": 1,
- "unique_chatters": 301,
- "members_confirmed": 61,
+ "unique_chatters": 304,
+ "members_confirmed": 63,
  "member_classes": {
-  "unknown": 35,
+  "unknown": 37,
   "known": 5,
   "gift": 21
  },
@@ -28,12 +28,12 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 5
+   "members": 6
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 10
+   "members": 11
   },
   {
    "months": 6,
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 5,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 35.0,
-   "estimated_members": 40.0,
+   "allocated_unknown": 37.0,
+   "estimated_members": 42.0,
    "monthly_net_confirmed": 1559,
-   "monthly_net_estimated": 12473
+   "monthly_net_estimated": 13096
   }
  ],
  "revenue": {
-  "monthly_low": 12473,
-  "monthly_est": 12473,
+  "monthly_low": 13096,
+  "monthly_est": 13096,
   "gift_once": 6548,
-  "total_low": 19021,
-  "total_est": 19021,
-  "paying_members": 40,
+  "total_low": 19645,
+  "total_est": 19645,
+  "paying_members": 42,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -127,6 +127,16 @@
    "member_chatters": 53,
    "new_members": 1,
    "gifted_total": 21
+  },
+  {
+   "video_id": "KFkwbAFViWI",
+   "start": "2026-11-04 21:00",
+   "title": "【 BOMBANANA! 】見ざる言わざる聞かざるで爆弾解除💣 w / ザクレイ・温々ねむみ【 すぺしゃりて  / ミーニャ・スコット 】",
+   "kind": "配信",
+   "chatters": 23,
+   "member_chatters": 17,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -268,6 +278,70 @@
    },
    "avg_member_chatters": 27.8,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-05"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 23,
+   "members_confirmed": 17,
+   "member_classes": {
+    "unknown": 16,
+    "known": 1
+   },
+   "long_term_members": 9,
+   "badges": [
+    {
+     "months": 0,
+     "members": 2
+    },
+    {
+     "months": 1,
+     "members": 3
+    },
+    {
+     "months": 2,
+     "members": 1
+    },
+    {
+     "months": 6,
+     "members": 2
+    },
+    {
+     "months": 12,
+     "members": 5
+    },
+    {
+     "months": 24,
+     "members": 4
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 0,
+    "milestones": 0,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "みにゃ好こ",
+     "price": 490,
+     "confirmed_members": 1,
+     "estimated_members": 17.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 5301,
+    "monthly_est": 5301,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 17,
+   "partial": true,
    "finalized": false
   }
  ],

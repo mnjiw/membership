@@ -2,47 +2,47 @@
  "channel": "Pota Ch. 向日守ぽた",
  "channel_id": "UCrS80YZ_-a_BaH_d8XL-3og",
  "handle": "@HimamoriPota",
- "subscribers": 41800,
- "fetched_at": "2026-11-04 11:31",
- "generated_at": "2026-11-04 11:31",
+ "subscribers": 42800,
+ "fetched_at": "2026-11-05 06:41",
+ "generated_at": "2026-11-05 06:42",
  "period": {
-  "from": "2026-10-05 11:31",
-  "to": "2026-11-04 11:31",
+  "from": "2026-10-06 06:41",
+  "to": "2026-11-05 06:41",
   "days": 30
  },
- "streams_analyzed": 31,
+ "streams_analyzed": 32,
  "streams_missed": 4,
- "unique_chatters": 1872,
- "members_confirmed": 866,
+ "unique_chatters": 1902,
+ "members_confirmed": 880,
  "member_classes": {
-  "unknown": 417,
+  "unknown": 421,
   "known": 29,
-  "gift": 420
+  "gift": 430
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 395
+   "members": 400
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 125
+   "members": 130
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 346
+   "members": 350
   }
  ],
  "events": {
   "new_members": 15,
   "rejoins": 5,
   "milestones": 0,
-  "gift_purchases": 53,
-  "gifted_total": 430,
-  "gift_redemptions": 420
+  "gift_purchases": 54,
+  "gifted_total": 440,
+  "gift_redemptions": 430
  },
  "tiers_configured": true,
  "tiers": [
@@ -52,10 +52,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 29,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 417.0,
-   "estimated_members": 446.0,
+   "allocated_unknown": 421.0,
+   "estimated_members": 450.0,
    "monthly_net_confirmed": 9043,
-   "monthly_net_estimated": 139071
+   "monthly_net_estimated": 140318
   },
   {
    "tier": "ゴールド",
@@ -92,12 +92,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 139071,
-  "monthly_est": 139071,
-  "gift_once": 134082,
-  "total_low": 273153,
-  "total_est": 273153,
-  "paying_members": 446,
+  "monthly_low": 140318,
+  "monthly_est": 140318,
+  "gift_once": 137200,
+  "total_low": 277518,
+  "total_est": 277518,
+  "paying_members": 450,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -415,6 +415,16 @@
    "member_chatters": 205,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "LZT6nO_JpPk",
+   "start": "2026-11-04 19:00",
+   "title": "【飲酒】冬のご馳走と酒と私【向日守ぽた / Varium】",
+   "kind": "配信",
+   "chatters": 408,
+   "member_chatters": 272,
+   "new_members": 0,
+   "gifted_total": 10
   }
  ],
  "missed_streams": [
@@ -463,7 +473,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 119,
+   "like_count": 120,
    "view_count": null
   }
  ],
@@ -505,7 +515,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 119,
+   "like_count": 120,
    "view_count": null
   }
  ],
@@ -628,43 +638,44 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-04"
+    "to": "2026-11-05"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 4,
    "streams_missed": 0,
-   "unique_chatters": 639,
-   "members_confirmed": 342,
+   "unique_chatters": 770,
+   "members_confirmed": 403,
    "member_classes": {
-    "unknown": 332,
-    "known": 10
+    "unknown": 380,
+    "known": 13,
+    "gift": 10
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 62
+     "members": 77
     },
     {
      "months": 1,
-     "members": 59
+     "members": 77
     },
     {
      "months": 2,
-     "members": 221
+     "members": 249
     }
    ],
    "events": {
     "new_members": 1,
     "rejoins": 0,
     "milestones": 0,
-    "gifted_total": 0
+    "gifted_total": 10
    },
    "tiers": [
     {
      "tier": "シルバー",
      "price": 490,
-     "confirmed_members": 10,
-     "estimated_members": 342.0
+     "confirmed_members": 13,
+     "estimated_members": 393.0
     },
     {
      "tier": "ゴールド",
@@ -686,11 +697,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 106642,
-    "monthly_est": 106642,
-    "gift_once": 0
+    "monthly_low": 122545,
+    "monthly_est": 122545,
+    "gift_once": 3118
    },
-   "avg_member_chatters": 222.3,
+   "avg_member_chatters": 234.8,
    "partial": true,
    "finalized": false
   }

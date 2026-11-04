@@ -3,32 +3,32 @@
  "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
  "handle": "@ShiranuiFlare",
  "subscribers": 1160000,
- "fetched_at": "2026-11-04 11:23",
- "generated_at": "2026-11-04 11:23",
+ "fetched_at": "2026-11-05 06:23",
+ "generated_at": "2026-11-05 06:23",
  "period": {
-  "from": "2026-10-05 11:23",
-  "to": "2026-11-04 11:23",
+  "from": "2026-10-06 06:23",
+  "to": "2026-11-05 06:23",
   "days": 30
  },
- "streams_analyzed": 17,
+ "streams_analyzed": 18,
  "streams_missed": 1,
- "unique_chatters": 6056,
- "members_confirmed": 1790,
+ "unique_chatters": 6116,
+ "members_confirmed": 1816,
  "member_classes": {
-  "unknown": 1337,
-  "known": 80,
-  "gift": 373
+  "unknown": 1348,
+  "known": 85,
+  "gift": 383
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 387
+   "members": 398
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 15
+   "members": 16
   },
   {
    "months": 2,
@@ -38,7 +38,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 134
+   "members": 135
   },
   {
    "months": 12,
@@ -48,27 +48,27 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 152
+   "members": 154
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 196
+   "members": 198
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 263
+   "members": 264
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 255
+   "members": 259
   },
   {
    "months": 72,
    "label": "6年",
-   "members": 173
+   "members": 177
   },
   {
    "months": 84,
@@ -77,12 +77,12 @@
   }
  ],
  "events": {
-  "new_members": 9,
-  "rejoins": 10,
-  "milestones": 46,
-  "gift_purchases": 45,
-  "gifted_total": 421,
-  "gift_redemptions": 373
+  "new_members": 10,
+  "rejoins": 13,
+  "milestones": 48,
+  "gift_purchases": 47,
+  "gifted_total": 431,
+  "gift_redemptions": 383
  },
  "tiers_configured": true,
  "tiers": [
@@ -90,21 +90,21 @@
    "tier": "止まり木",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 80,
+   "confirmed_members": 85,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1337.0,
-   "estimated_members": 1417.0,
-   "monthly_net_confirmed": 24945,
-   "monthly_net_estimated": 441846
+   "allocated_unknown": 1348.0,
+   "estimated_members": 1433.0,
+   "monthly_net_confirmed": 26505,
+   "monthly_net_estimated": 446835
   }
  ],
  "revenue": {
-  "monthly_low": 441846,
-  "monthly_est": 441846,
-  "gift_once": 131275,
-  "total_low": 573122,
-  "total_est": 573122,
-  "paying_members": 1417,
+  "monthly_low": 446835,
+  "monthly_est": 446835,
+  "gift_once": 134394,
+  "total_low": 581229,
+  "total_est": 581229,
+  "paying_members": 1433,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -282,20 +282,30 @@
    "member_chatters": 412,
    "new_members": 1,
    "gifted_total": 10
+  },
+  {
+   "video_id": "sN6ixbuoAf0",
+   "start": "2026-11-03 22:06",
+   "title": "【RATATAN】今日は初見二人とうきうき遠足気分♪【不知火フレア/ホロライブ】※ネタバレ注意",
+   "kind": "配信",
+   "chatters": 584,
+   "member_chatters": 374,
+   "new_members": 1,
+   "gifted_total": 10
   }
  ],
  "missed_streams": [
   {
-   "video_id": "sN6ixbuoAf0",
-   "start": "2026-11-03 00:00",
-   "title": "【RATATAN】今日は初見二人とうきうき遠足気分♪【不知火フレア/ホロライブ】※ネタバレ注意",
+   "video_id": "3xnJMnbcNVM",
+   "start": "2026-11-04 00:00",
+   "title": "【ツーポイントホスピタル：ハートフルコレクション】深夜にまったりヘンテコ病院を運用🏥【不知火フレア/ホロライブ】",
    "kind": "video",
    "status": "error",
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 5273,
-   "view_count": 117782
+   "like_count": 3691,
+   "view_count": 79266
   }
  ],
  "members_only_content": [],
@@ -471,84 +481,84 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-04"
+    "to": "2026-11-05"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 1,
-   "unique_chatters": 732,
-   "members_confirmed": 412,
+   "unique_chatters": 962,
+   "members_confirmed": 541,
    "member_classes": {
-    "unknown": 379,
-    "known": 23,
-    "gift": 10
+    "unknown": 487,
+    "known": 34,
+    "gift": 20
    },
-   "long_term_members": 348,
+   "long_term_members": 448,
    "badges": [
     {
      "months": 0,
-     "members": 19
+     "members": 33
     },
     {
      "months": 1,
-     "members": 4
+     "members": 5
     },
     {
      "months": 2,
-     "members": 16
+     "members": 19
     },
     {
      "months": 6,
-     "members": 25
+     "members": 36
     },
     {
      "months": 12,
-     "members": 41
+     "members": 45
     },
     {
      "months": 24,
-     "members": 46
+     "members": 58
     },
     {
      "months": 36,
-     "members": 61
-    },
-    {
-     "months": 48,
      "members": 77
     },
     {
+     "months": 48,
+     "members": 102
+    },
+    {
      "months": 60,
-     "members": 61
+     "members": 88
     },
     {
      "months": 72,
-     "members": 55
+     "members": 69
     },
     {
      "months": 84,
-     "members": 7
+     "members": 9
     }
    ],
    "events": {
-    "new_members": 1,
-    "rejoins": 1,
-    "milestones": 2,
-    "gifted_total": 10
+    "new_members": 2,
+    "rejoins": 4,
+    "milestones": 4,
+    "gifted_total": 20
    },
    "tiers": [
     {
      "tier": "止まり木",
      "price": 490,
-     "confirmed_members": 23,
-     "estimated_members": 402.0
+     "confirmed_members": 34,
+     "estimated_members": 521.0
     }
    ],
    "revenue": {
-    "monthly_low": 125351,
-    "monthly_est": 125351,
-    "gift_once": 3118
+    "monthly_low": 162457,
+    "monthly_est": 162457,
+    "gift_once": 6236
    },
-   "avg_member_chatters": 412,
+   "avg_member_chatters": 393,
    "partial": true,
    "finalized": false
   }

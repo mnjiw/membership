@@ -3,16 +3,16 @@
  "channel_id": "UCXp7sNC0F_qkjickvlYkg-Q",
  "handle": "@Kuku_Kazami",
  "subscribers": 130000,
- "fetched_at": "2026-11-04 11:26",
- "generated_at": "2026-11-04 11:26",
+ "fetched_at": "2026-11-05 06:33",
+ "generated_at": "2026-11-05 06:34",
  "period": {
-  "from": "2026-10-05 11:26",
-  "to": "2026-11-04 11:26",
+  "from": "2026-10-06 06:33",
+  "to": "2026-11-05 06:33",
   "days": 30
  },
  "streams_analyzed": 6,
  "streams_missed": 1,
- "unique_chatters": 101,
+ "unique_chatters": 112,
  "members_confirmed": 81,
  "member_classes": {
   "unknown": 64,
@@ -104,16 +104,6 @@
  },
  "streams": [
   {
-   "video_id": "k13qJ_QPqmQ",
-   "start": "2026-10-05 20:00",
-   "title": "【 #ストグラseason2  】1本の電話から始まった、1ヶ月釣りばかりの日々が変わった日 #2【たけいしょうじ/ジャックス/ボイラ/山田パルコ/春原新(ダブチ)】#ストグラ #ストグラ切り抜き",
-   "kind": "プレミア",
-   "chatters": 8,
-   "member_chatters": 8,
-   "new_members": 0,
-   "gifted_total": 0
-  },
-  {
    "video_id": "d9M1B_uIJa4",
    "start": "2026-10-20 20:03",
    "title": "【 #ななしライブ 】12日間音信不通だったやつがライブ出た話。それと俺の浮気判定の緩さ見て。【風見くく / ななしいんく】",
@@ -162,6 +152,16 @@
    "member_chatters": 41,
    "new_members": 0,
    "gifted_total": 10
+  },
+  {
+   "video_id": "0_Vhe0ztNJw",
+   "start": "2026-11-05 00:02",
+   "title": "【 #ゼルダの伝説時のオカリナ 】最速でハイラル歩きたいね。【風見くく / ななしいんく】",
+   "kind": "配信",
+   "chatters": 34,
+   "member_chatters": 18,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -330,18 +330,18 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-04"
+    "to": "2026-11-05"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 4,
    "streams_missed": 0,
-   "unique_chatters": 72,
-   "members_confirmed": 62,
+   "unique_chatters": 86,
+   "members_confirmed": 65,
    "member_classes": {
-    "unknown": 48,
+    "unknown": 51,
     "known": 4,
     "gift": 10
    },
-   "long_term_members": 50,
+   "long_term_members": 53,
    "badges": [
     {
      "months": 0,
@@ -353,11 +353,11 @@
     },
     {
      "months": 24,
-     "members": 6
+     "members": 7
     },
     {
      "months": 36,
-     "members": 9
+     "members": 10
     },
     {
      "months": 48,
@@ -369,7 +369,7 @@
     },
     {
      "months": 72,
-     "members": 14
+     "members": 15
     }
    ],
    "events": {
@@ -383,15 +383,15 @@
      "tier": "🐔KFC🍗",
      "price": 490,
      "confirmed_members": 4,
-     "estimated_members": 52.0
+     "estimated_members": 55.0
     }
    ],
    "revenue": {
-    "monthly_low": 16215,
-    "monthly_est": 16215,
+    "monthly_low": 17150,
+    "monthly_est": 17150,
     "gift_once": 3118
    },
-   "avg_member_chatters": 34.7,
+   "avg_member_chatters": 30.5,
    "partial": true,
    "finalized": false
   }

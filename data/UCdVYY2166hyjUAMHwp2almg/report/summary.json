@@ -2,21 +2,21 @@
  "channel": "光葉エニ",
  "channel_id": "UCdVYY2166hyjUAMHwp2almg",
  "handle": "@Mitsuba_Eni",
- "subscribers": 99500,
- "fetched_at": "2026-11-04 11:31",
- "generated_at": "2026-11-04 11:31",
+ "subscribers": 99600,
+ "fetched_at": "2026-11-05 06:39",
+ "generated_at": "2026-11-05 06:39",
  "period": {
-  "from": "2026-10-05 11:31",
-  "to": "2026-11-04 11:31",
+  "from": "2026-10-06 06:39",
+  "to": "2026-11-05 06:39",
   "days": 30
  },
- "streams_analyzed": 39,
- "streams_missed": 0,
- "unique_chatters": 1616,
- "members_confirmed": 125,
+ "streams_analyzed": 37,
+ "streams_missed": 1,
+ "unique_chatters": 1560,
+ "members_confirmed": 122,
  "member_classes": {
   "known": 31,
-  "unknown": 74,
+  "unknown": 71,
   "gift": 20
  },
  "badges": [
@@ -33,12 +33,12 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 21
+   "members": 20
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 36
+   "members": 34
   },
   {
    "months": 12,
@@ -49,7 +49,7 @@
  "events": {
   "new_members": 6,
   "rejoins": 0,
-  "milestones": 17,
+  "milestones": 15,
   "gift_purchases": 1,
   "gifted_total": 20,
   "gift_redemptions": 20
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 31,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 74.0,
-   "estimated_members": 105.0,
+   "allocated_unknown": 71.0,
+   "estimated_members": 102.0,
    "monthly_net_confirmed": 9666,
-   "monthly_net_estimated": 32741
+   "monthly_net_estimated": 31805
   }
  ],
  "revenue": {
-  "monthly_low": 32741,
-  "monthly_est": 32741,
+  "monthly_low": 31805,
+  "monthly_est": 31805,
   "gift_once": 6236,
-  "total_low": 38977,
-  "total_est": 38977,
-  "paying_members": 105,
+  "total_low": 38042,
+  "total_est": 38042,
+  "paying_members": 102,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,26 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "6hCm4iTOiU8",
-   "start": "2026-10-05 12:01",
-   "title": "【 マスターデュエル】エニは烙印を体で覚える！【ネオポルテ / 光葉エニ】",
-   "kind": "配信",
-   "chatters": 150,
-   "member_chatters": 21,
-   "new_members": 0,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "2P7IiZs6jMg",
-   "start": "2026-10-06 00:00",
-   "title": "【 APEX 】プラ１行くじょー！！！！！【ネオポルテ / 光葉エニ】",
-   "kind": "配信",
-   "chatters": 123,
-   "member_chatters": 23,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "MXTEIVgHLz8",
    "start": "2026-10-07 12:09",
@@ -474,7 +454,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "4y9jbDw6uPo",
+   "start": "2026-11-04 00:00",
+   "title": "【 APEX 】新シーズンからやりますよ。【ネオポルテ / 光葉エニ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 659,
+   "view_count": 54763
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -593,10 +586,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-04"
+    "to": "2026-11-05"
    },
    "streams_analyzed": 3,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 195,
    "members_confirmed": 33,
    "member_classes": {

@@ -2,51 +2,52 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-04"
+  "to": "2026-11-05"
  },
- "streams_analyzed": 2,
+ "streams_analyzed": 3,
  "streams_missed": 1,
- "unique_chatters": 218,
- "members_confirmed": 78,
+ "unique_chatters": 266,
+ "members_confirmed": 95,
  "member_classes": {
-  "unknown": 58,
-  "known": 20
+  "unknown": 68,
+  "known": 22,
+  "gift": 5
  },
  "long_term_members": 0,
  "badges": [
   {
    "months": 0,
-   "members": 5
+   "members": 8
   },
   {
    "months": 1,
-   "members": 9
+   "members": 13
   },
   {
    "months": 2,
-   "members": 64
+   "members": 74
   }
  ],
  "events": {
   "new_members": 1,
   "rejoins": 0,
   "milestones": 1,
-  "gifted_total": 0
+  "gifted_total": 5
  },
  "tiers": [
   {
    "tier": "じぇす汰のおやつ",
    "price": 490,
-   "confirmed_members": 20,
-   "estimated_members": 78.0
+   "confirmed_members": 22,
+   "estimated_members": 90.0
   }
  ],
  "revenue": {
-  "monthly_low": 24322,
-  "monthly_est": 24322,
-  "gift_once": 0
+  "monthly_low": 28064,
+  "monthly_est": 28064,
+  "gift_once": 1559
  },
- "avg_member_chatters": 50.5,
+ "avg_member_chatters": 52.3,
  "partial": true,
  "finalized": false
 }

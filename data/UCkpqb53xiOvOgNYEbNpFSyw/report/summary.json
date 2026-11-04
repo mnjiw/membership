@@ -2,17 +2,17 @@
  "channel": "茜音カンナ / Canna Channel【ななしいんく】",
  "channel_id": "UCkpqb53xiOvOgNYEbNpFSyw",
  "handle": "@Canna_Akane",
- "subscribers": 53800,
- "fetched_at": "2026-11-04 11:26",
- "generated_at": "2026-11-04 11:27",
+ "subscribers": 53900,
+ "fetched_at": "2026-11-05 06:34",
+ "generated_at": "2026-11-05 06:34",
  "period": {
-  "from": "2026-10-05 11:26",
-  "to": "2026-11-04 11:26",
+  "from": "2026-10-06 06:34",
+  "to": "2026-11-05 06:34",
   "days": 30
  },
- "streams_analyzed": 10,
- "streams_missed": 1,
- "unique_chatters": 435,
+ "streams_analyzed": 11,
+ "streams_missed": 0,
+ "unique_chatters": 443,
  "members_confirmed": 248,
  "member_classes": {
   "known": 31,
@@ -197,22 +197,19 @@
    "member_chatters": 51,
    "new_members": 0,
    "gifted_total": 0
-  }
- ],
- "missed_streams": [
+  },
   {
    "video_id": "6RlbKIjfcZM",
-   "start": "2026-11-03 00:00",
+   "start": "2026-11-04 08:00",
    "title": "【 朝ラジ 】わんもに！～第160回～【茜音カンナ / ななしいんく】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 208,
-   "view_count": 945
+   "kind": "配信",
+   "chatters": 66,
+   "member_chatters": 32,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -355,17 +352,17 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-04"
+    "to": "2026-11-05"
    },
-   "streams_analyzed": 2,
-   "streams_missed": 1,
-   "unique_chatters": 112,
-   "members_confirmed": 59,
+   "streams_analyzed": 3,
+   "streams_missed": 0,
+   "unique_chatters": 141,
+   "members_confirmed": 66,
    "member_classes": {
-    "unknown": 42,
-    "known": 17
+    "unknown": 47,
+    "known": 19
    },
-   "long_term_members": 50,
+   "long_term_members": 54,
    "badges": [
     {
      "months": 0,
@@ -381,15 +378,15 @@
     },
     {
      "months": 6,
-     "members": 3
+     "members": 6
     },
     {
      "months": 12,
-     "members": 3
+     "members": 4
     },
     {
      "months": 24,
-     "members": 2
+     "members": 3
     },
     {
      "months": 36,
@@ -397,7 +394,7 @@
     },
     {
      "months": 48,
-     "members": 26
+     "members": 28
     }
    ],
    "events": {
@@ -410,16 +407,16 @@
     {
      "tier": "茜音色の絆",
      "price": 490,
-     "confirmed_members": 17,
-     "estimated_members": 59.0
+     "confirmed_members": 19,
+     "estimated_members": 66.0
     }
    ],
    "revenue": {
-    "monthly_low": 18397,
-    "monthly_est": 18397,
+    "monthly_low": 20580,
+    "monthly_est": 20580,
     "gift_once": 0
    },
-   "avg_member_chatters": 46.5,
+   "avg_member_chatters": 41.7,
    "partial": true,
    "finalized": false
   }

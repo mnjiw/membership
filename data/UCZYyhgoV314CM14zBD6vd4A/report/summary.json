@@ -3,19 +3,19 @@
  "channel_id": "UCZYyhgoV314CM14zBD6vd4A",
  "handle": "@tenkaitsukasa",
  "subscribers": 366000,
- "fetched_at": "2026-11-04 11:31",
- "generated_at": "2026-11-04 11:32",
+ "fetched_at": "2026-11-05 06:42",
+ "generated_at": "2026-11-05 06:43",
  "period": {
-  "from": "2026-10-05 11:31",
-  "to": "2026-11-04 11:31",
+  "from": "2026-10-06 06:42",
+  "to": "2026-11-05 06:42",
   "days": 30
  },
- "streams_analyzed": 16,
+ "streams_analyzed": 17,
  "streams_missed": 1,
- "unique_chatters": 2004,
- "members_confirmed": 143,
+ "unique_chatters": 2085,
+ "members_confirmed": 145,
  "member_classes": {
-  "unknown": 143
+  "unknown": 145
  },
  "badges": [
   {
@@ -41,7 +41,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 110
+   "members": 112
   }
  ],
  "events": {
@@ -60,19 +60,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 0,
    "share_of_confirmed_pct": "",
-   "allocated_unknown": 143.0,
-   "estimated_members": 143.0,
+   "allocated_unknown": 145.0,
+   "estimated_members": 145.0,
    "monthly_net_confirmed": 0,
-   "monthly_net_estimated": 44590
+   "monthly_net_estimated": 45214
   }
  ],
  "revenue": {
-  "monthly_low": 44590,
-  "monthly_est": 44590,
+  "monthly_low": 45214,
+  "monthly_est": 45214,
   "gift_once": 0,
-  "total_low": 44590,
-  "total_est": 44590,
-  "paying_members": 143,
+  "total_low": 45214,
+  "total_est": 45214,
+  "paying_members": 145,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -240,6 +240,16 @@
    "member_chatters": 71,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "x2RNRlkTmCY",
+   "start": "2026-11-04 18:59",
+   "title": "【ドラゴンクエストⅤ/完全初見】そろそろ嫁に会える気がしている【天開司/Vtuber】",
+   "kind": "配信",
+   "chatters": 441,
+   "member_chatters": 63,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -252,8 +262,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 280,
-   "view_count": 21931
+   "like_count": 340,
+   "view_count": 33182
   }
  ],
  "members_only_content": [],
@@ -378,16 +388,16 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-04"
+    "to": "2026-11-05"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 4,
    "streams_missed": 1,
-   "unique_chatters": 783,
-   "members_confirmed": 82,
+   "unique_chatters": 1104,
+   "members_confirmed": 104,
    "member_classes": {
-    "unknown": 82
+    "unknown": 104
    },
-   "long_term_members": 68,
+   "long_term_members": 87,
    "badges": [
     {
      "months": 0,
@@ -395,19 +405,19 @@
     },
     {
      "months": 2,
-     "members": 4
+     "members": 5
     },
     {
      "months": 6,
-     "members": 6
+     "members": 8
     },
     {
      "months": 12,
-     "members": 6
+     "members": 7
     },
     {
      "months": 24,
-     "members": 62
+     "members": 80
     }
    ],
    "events": {
@@ -421,15 +431,15 @@
      "tier": "メンバーシップ",
      "price": 490,
      "confirmed_members": 0,
-     "estimated_members": 82.0
+     "estimated_members": 104.0
     }
    ],
    "revenue": {
-    "monthly_low": 25569,
-    "monthly_est": 25569,
+    "monthly_low": 32429,
+    "monthly_est": 32429,
     "gift_once": 0
    },
-   "avg_member_chatters": 42,
+   "avg_member_chatters": 47.2,
    "partial": true,
    "finalized": false
   }

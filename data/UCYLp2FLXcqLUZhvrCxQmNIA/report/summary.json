@@ -3,16 +3,16 @@
  "channel_id": "UCYLp2FLXcqLUZhvrCxQmNIA",
  "handle": "@Ririka_krmzw0707",
  "subscribers": 119000,
- "fetched_at": "2026-11-04 11:32",
- "generated_at": "2026-11-04 11:32",
+ "fetched_at": "2026-11-05 06:42",
+ "generated_at": "2026-11-05 06:43",
  "period": {
-  "from": "2026-10-05 11:32",
-  "to": "2026-11-04 11:32",
+  "from": "2026-10-06 06:42",
+  "to": "2026-11-05 06:42",
   "days": 30
  },
  "streams_analyzed": 31,
  "streams_missed": 2,
- "unique_chatters": 2175,
+ "unique_chatters": 2125,
  "members_confirmed": 190,
  "member_classes": {
   "unknown": 161,
@@ -54,7 +54,7 @@
  "events": {
   "new_members": 3,
   "rejoins": 1,
-  "milestones": 16,
+  "milestones": 14,
   "gift_purchases": 1,
   "gifted_total": 1,
   "gift_redemptions": 1
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "aeJhkakwLQM",
-   "start": "2026-10-05 23:33",
-   "title": "【エースコンバット8 ACE COMBAT 8:WINGS OF THEVE】Mission24から！翔ぶぞ！！※ネタバレ注意【胡桃沢りりか】",
-   "kind": "配信",
-   "chatters": 329,
-   "member_chatters": 77,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "MRKaw8X1Quo",
    "start": "2026-10-06 23:42",
@@ -397,6 +387,16 @@
    "member_chatters": 71,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "u5TE8L-tPB0",
+   "start": "2026-11-03 23:34",
+   "title": "【ドラゴンクエスト5 天空の花嫁/DS版】嫁連れて帰省だ！グランバニアいくぞ！！※ネタバレ注意【胡桃沢りりか】",
+   "kind": "配信",
+   "chatters": 399,
+   "member_chatters": 83,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -561,18 +561,18 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-04"
+    "to": "2026-11-05"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 4,
    "streams_missed": 0,
-   "unique_chatters": 817,
-   "members_confirmed": 131,
+   "unique_chatters": 905,
+   "members_confirmed": 133,
    "member_classes": {
-    "unknown": 112,
+    "unknown": 114,
     "known": 18,
     "gift": 1
    },
-   "long_term_members": 95,
+   "long_term_members": 97,
    "badges": [
     {
      "months": 0,
@@ -592,11 +592,11 @@
     },
     {
      "months": 12,
-     "members": 19
+     "members": 20
     },
     {
      "months": 24,
-     "members": 76
+     "members": 77
     }
    ],
    "events": {
@@ -610,15 +610,15 @@
      "tier": "めろんそーだ",
      "price": 490,
      "confirmed_members": 18,
-     "estimated_members": 130.0
+     "estimated_members": 132.0
     }
    ],
    "revenue": {
-    "monthly_low": 40536,
-    "monthly_est": 40536,
+    "monthly_low": 41160,
+    "monthly_est": 41160,
     "gift_once": 312
    },
-   "avg_member_chatters": 86.3,
+   "avg_member_chatters": 85.5,
    "partial": true,
    "finalized": false
   }

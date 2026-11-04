@@ -3,20 +3,20 @@
  "channel_id": "UCmpEFsiD67ZOjn2CCJoo1mw",
  "handle": "@kugaleo_Q",
  "subscribers": 91800,
- "fetched_at": "2026-11-04 11:30",
- "generated_at": "2026-11-04 11:30",
+ "fetched_at": "2026-11-05 06:39",
+ "generated_at": "2026-11-05 06:39",
  "period": {
-  "from": "2026-10-05 11:30",
-  "to": "2026-11-04 11:30",
+  "from": "2026-10-06 06:39",
+  "to": "2026-11-05 06:39",
   "days": 30
  },
- "streams_analyzed": 11,
+ "streams_analyzed": 12,
  "streams_missed": 1,
- "unique_chatters": 793,
- "members_confirmed": 327,
+ "unique_chatters": 839,
+ "members_confirmed": 330,
  "member_classes": {
-  "known": 58,
-  "unknown": 114,
+  "known": 60,
+  "unknown": 115,
   "gift": 155
  },
  "badges": [
@@ -38,12 +38,12 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 36
+   "members": 37
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 56
+   "members": 58
   },
   {
    "months": 24,
@@ -59,7 +59,7 @@
  "events": {
   "new_members": 2,
   "rejoins": 4,
-  "milestones": 40,
+  "milestones": 43,
   "gift_purchases": 14,
   "gifted_total": 156,
   "gift_redemptions": 156
@@ -70,32 +70,32 @@
    "tier": "久我ゼミ",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 50,
-   "share_of_confirmed_pct": 86.2,
-   "allocated_unknown": 98.3,
-   "estimated_members": 148.3,
-   "monthly_net_confirmed": 21955,
-   "monthly_net_estimated": 65107
+   "confirmed_members": 52,
+   "share_of_confirmed_pct": 86.7,
+   "allocated_unknown": 99.7,
+   "estimated_members": 151.7,
+   "monthly_net_confirmed": 22833,
+   "monthly_net_estimated": 66595
   },
   {
    "tier": "久我ゼミ放課後",
    "price": 1190,
    "net_per_member": 757.3,
    "confirmed_members": 8,
-   "share_of_confirmed_pct": 13.8,
-   "allocated_unknown": 15.7,
-   "estimated_members": 23.7,
+   "share_of_confirmed_pct": 13.3,
+   "allocated_unknown": 15.3,
+   "estimated_members": 23.3,
    "monthly_net_confirmed": 6058,
-   "monthly_net_estimated": 17966
+   "monthly_net_estimated": 17670
   }
  ],
  "revenue": {
-  "monthly_low": 78069,
-  "monthly_est": 83072,
+  "monthly_low": 79386,
+  "monthly_est": 84265,
   "gift_once": 68498,
-  "total_low": 146567,
-  "total_est": 151570,
-  "paying_members": 172,
+  "total_low": 147885,
+  "total_est": 152763,
+  "paying_members": 175,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -212,6 +212,16 @@
    "chatters": 224,
    "member_chatters": 73,
    "new_members": 1,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "ZFCCMa3ufhs",
+   "start": "2026-11-04 16:16",
+   "title": "【#DistrictV2】 #1.5 | OWNER OF THE VANILLA UNICORN, ROMAN TIQUE 🌹 【Leo Kuga / Neo-Porte】",
+   "kind": "配信",
+   "chatters": 132,
+   "member_chatters": 45,
+   "new_members": 0,
    "gifted_total": 0
   }
  ],
@@ -380,18 +390,18 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-04"
+    "to": "2026-11-05"
    },
-   "streams_analyzed": 2,
+   "streams_analyzed": 3,
    "streams_missed": 0,
-   "unique_chatters": 408,
-   "members_confirmed": 185,
+   "unique_chatters": 461,
+   "members_confirmed": 188,
    "member_classes": {
-    "unknown": 73,
-    "known": 48,
+    "known": 50,
+    "unknown": 74,
     "gift": 64
    },
-   "long_term_members": 66,
+   "long_term_members": 68,
    "badges": [
     {
      "months": 0,
@@ -407,11 +417,11 @@
     },
     {
      "months": 6,
-     "members": 25
+     "members": 26
     },
     {
      "months": 12,
-     "members": 47
+     "members": 49
     },
     {
      "months": 24,
@@ -425,29 +435,29 @@
    "events": {
     "new_members": 2,
     "rejoins": 2,
-    "milestones": 13,
+    "milestones": 16,
     "gifted_total": 65
    },
    "tiers": [
     {
      "tier": "久我ゼミ",
      "price": 690,
-     "confirmed_members": 40,
-     "estimated_members": 100.8
+     "confirmed_members": 42,
+     "estimated_members": 104.2
     },
     {
      "tier": "久我ゼミ放課後",
      "price": 1190,
      "confirmed_members": 8,
-     "estimated_members": 20.2
+     "estimated_members": 19.8
     }
    ],
    "revenue": {
-    "monthly_low": 55675,
-    "monthly_est": 59547,
+    "monthly_low": 56993,
+    "monthly_est": 60760,
     "gift_once": 28541
    },
-   "avg_member_chatters": 115.5,
+   "avg_member_chatters": 92,
    "partial": true,
    "finalized": false
   }

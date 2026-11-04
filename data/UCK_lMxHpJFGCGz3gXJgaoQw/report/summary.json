@@ -3,19 +3,19 @@
  "channel_id": "UCK_lMxHpJFGCGz3gXJgaoQw",
  "handle": "@lumi_yukime",
  "subscribers": 27300,
- "fetched_at": "2026-11-04 11:29",
- "generated_at": "2026-11-04 11:29",
+ "fetched_at": "2026-11-05 06:37",
+ "generated_at": "2026-11-05 06:37",
  "period": {
-  "from": "2026-10-05 11:29",
-  "to": "2026-11-04 11:29",
+  "from": "2026-10-06 06:37",
+  "to": "2026-11-05 06:37",
   "days": 30
  },
  "streams_analyzed": 24,
  "streams_missed": 1,
- "unique_chatters": 655,
- "members_confirmed": 304,
+ "unique_chatters": 652,
+ "members_confirmed": 303,
  "member_classes": {
-  "unknown": 60,
+  "unknown": 59,
   "known": 9,
   "gift": 235
  },
@@ -38,7 +38,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 14
+   "members": 13
   },
   {
    "months": 12,
@@ -52,7 +52,7 @@
   }
  ],
  "events": {
-  "new_members": 5,
+  "new_members": 4,
   "rejoins": 0,
   "milestones": 2,
   "gift_purchases": 25,
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 9,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 60.0,
-   "estimated_members": 69.0,
+   "allocated_unknown": 59.0,
+   "estimated_members": 68.0,
    "monthly_net_confirmed": 2806,
-   "monthly_net_estimated": 21515
+   "monthly_net_estimated": 21204
   }
  ],
  "revenue": {
-  "monthly_low": 21515,
-  "monthly_est": 21515,
+  "monthly_low": 21204,
+  "monthly_est": 21204,
   "gift_once": 73901,
-  "total_low": 95416,
-  "total_est": 95416,
-  "paying_members": 69,
+  "total_low": 95105,
+  "total_est": 95105,
+  "paying_members": 68,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "4Q39rVXsjNU",
-   "start": "2026-10-05 21:02",
-   "title": "*❅ PEAK┊仲良しさーじ警察女子と山登りする⛰️w/終末むくろ/棘龍すぴの/パカエル〖 雪芽るみ┊すぺしゃりて 〗",
-   "kind": "配信",
-   "chatters": 20,
-   "member_chatters": 12,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "6rHCRH5fEQQ",
    "start": "2026-10-07 22:02",
@@ -327,6 +317,16 @@
    "member_chatters": 23,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "BZDTrQs_wTg",
+   "start": "2026-11-04 21:00",
+   "title": "*❅ #肝試しオンライン┊夜の校舎で、肝試し配信。w/YOUtopia〖 雪芽るみ┊すぺしゃりて 〗",
+   "kind": "配信",
+   "chatters": 21,
+   "member_chatters": 15,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -490,21 +490,21 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-04"
+    "to": "2026-11-05"
    },
-   "streams_analyzed": 2,
+   "streams_analyzed": 3,
    "streams_missed": 0,
-   "unique_chatters": 163,
-   "members_confirmed": 45,
+   "unique_chatters": 172,
+   "members_confirmed": 50,
    "member_classes": {
     "known": 4,
-    "unknown": 41
+    "unknown": 46
    },
-   "long_term_members": 15,
+   "long_term_members": 18,
    "badges": [
     {
      "months": 0,
-     "members": 8
+     "members": 9
     },
     {
      "months": 1,
@@ -512,7 +512,7 @@
     },
     {
      "months": 2,
-     "members": 9
+     "members": 10
     },
     {
      "months": 6,
@@ -524,7 +524,7 @@
     },
     {
      "months": 24,
-     "members": 8
+     "members": 11
     }
    ],
    "events": {
@@ -538,15 +538,15 @@
      "tier": "ゆきめにめろめろ",
      "price": 490,
      "confirmed_members": 4,
-     "estimated_members": 45.0
+     "estimated_members": 50.0
     }
    ],
    "revenue": {
-    "monthly_low": 14032,
-    "monthly_est": 14032,
+    "monthly_low": 15591,
+    "monthly_est": 15591,
     "gift_once": 0
    },
-   "avg_member_chatters": 31,
+   "avg_member_chatters": 25.7,
    "partial": true,
    "finalized": false
   }

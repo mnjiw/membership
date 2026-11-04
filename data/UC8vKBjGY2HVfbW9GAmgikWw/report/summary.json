@@ -3,16 +3,16 @@
  "channel_id": "UC8vKBjGY2HVfbW9GAmgikWw",
  "handle": "@Moka_Amayui",
  "subscribers": 298000,
- "fetched_at": "2026-11-04 11:28",
- "generated_at": "2026-11-04 11:28",
+ "fetched_at": "2026-11-05 06:36",
+ "generated_at": "2026-11-05 06:36",
  "period": {
-  "from": "2026-10-05 11:28",
-  "to": "2026-11-04 11:28",
+  "from": "2026-10-06 06:36",
+  "to": "2026-11-05 06:36",
   "days": 30
  },
  "streams_analyzed": 16,
  "streams_missed": 3,
- "unique_chatters": 6300,
+ "unique_chatters": 6277,
  "members_confirmed": 1382,
  "member_classes": {
   "unknown": 934,
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 297
+   "members": 299
   },
   {
    "months": 1,
@@ -33,17 +33,17 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 182
+   "members": 180
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 140
+   "members": 138
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 689
+   "members": 691
   }
  ],
  "events": {
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "FGAYgE--4pQ",
-   "start": "2026-10-05 17:22",
-   "title": "【スト6】だいぶまったりします【 ぶいすぽっ！甘結もか 】",
-   "kind": "配信",
-   "chatters": 386,
-   "member_chatters": 169,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "wW0c1AHHM8Q",
    "start": "2026-10-08 14:21",
@@ -240,6 +230,16 @@
    "kind": "配信",
    "chatters": 1980,
    "member_chatters": 251,
+   "new_members": 1,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "WVpUjPLlkvI",
+   "start": "2026-11-04 21:00",
+   "title": "【APEX】えぺじゃ！レイドさんうるは先輩【 ぶいすぽっ！甘結もか 】",
+   "kind": "配信",
+   "chatters": 356,
+   "member_chatters": 197,
    "new_members": 1,
    "gifted_total": 0
   }
@@ -431,22 +431,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-04"
+    "to": "2026-11-05"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 4,
    "streams_missed": 0,
-   "unique_chatters": 3484,
-   "members_confirmed": 1110,
+   "unique_chatters": 3575,
+   "members_confirmed": 1132,
    "member_classes": {
-    "unknown": 700,
-    "known": 394,
+    "unknown": 721,
+    "known": 395,
     "gift": 16
    },
-   "long_term_members": 525,
+   "long_term_members": 539,
    "badges": [
     {
      "months": 0,
-     "members": 252
+     "members": 255
     },
     {
      "months": 1,
@@ -454,19 +454,19 @@
     },
     {
      "months": 2,
-     "members": 161
+     "members": 162
     },
     {
      "months": 6,
-     "members": 104
+     "members": 108
     },
     {
      "months": 12,
-     "members": 525
+     "members": 539
     }
    ],
    "events": {
-    "new_members": 250,
+    "new_members": 251,
     "rejoins": 131,
     "milestones": 0,
     "gifted_total": 16
@@ -475,16 +475,16 @@
     {
      "tier": "もかサンド",
      "price": 490,
-     "confirmed_members": 394,
-     "estimated_members": 1094.0
+     "confirmed_members": 395,
+     "estimated_members": 1116.0
     }
    ],
    "revenue": {
-    "monthly_low": 341129,
-    "monthly_est": 341129,
+    "monthly_low": 347989,
+    "monthly_est": 347989,
     "gift_once": 4989
    },
-   "avg_member_chatters": 529,
+   "avg_member_chatters": 446,
    "partial": true,
    "finalized": false
   }

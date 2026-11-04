@@ -3,16 +3,16 @@
  "channel_id": "UCdi5pj0MDQ-3LFNUFIFmD8w",
  "handle": "@urutoragaru0831",
  "subscribers": 102000,
- "fetched_at": "2026-11-04 11:28",
- "generated_at": "2026-11-04 11:28",
+ "fetched_at": "2026-11-05 06:37",
+ "generated_at": "2026-11-05 06:37",
  "period": {
-  "from": "2026-10-05 11:28",
-  "to": "2026-11-04 11:28",
+  "from": "2026-10-06 06:37",
+  "to": "2026-11-05 06:37",
   "days": 30
  },
- "streams_analyzed": 11,
- "streams_missed": 1,
- "unique_chatters": 593,
+ "streams_analyzed": 12,
+ "streams_missed": 0,
+ "unique_chatters": 604,
  "members_confirmed": 0,
  "member_classes": {},
  "badges": [],
@@ -137,22 +137,19 @@
    "member_chatters": 0,
    "new_members": 0,
    "gifted_total": 0
-  }
- ],
- "missed_streams": [
+  },
   {
    "video_id": "b3JsorETVqY",
-   "start": "2026-11-03 00:00",
-   "title": "【 ホロドリ 】あと11匹！！釣り図鑑埋めの旅！　目指せ！コンプリートラ！【 うる虎がーる / あおぎり高校  】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 316,
-   "view_count": 6029
+   "start": "2026-11-03 22:00",
+   "title": "[ HoloDori ] Only 11 Left!! The Journey to Complete the Fishing Log! Aiming for Completion! [ Uru...",
+   "kind": "配信",
+   "chatters": 61,
+   "member_chatters": 0,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -204,6 +201,31 @@
    "revenue": null,
    "avg_member_chatters": 0,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-05"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 61,
+   "members_confirmed": 0,
+   "member_classes": {},
+   "long_term_members": 0,
+   "badges": [],
+   "events": {
+    "new_members": 0,
+    "rejoins": 0,
+    "milestones": 0,
+    "gifted_total": 0
+   },
+   "tiers": [],
+   "revenue": null,
+   "avg_member_chatters": 0,
+   "partial": true,
    "finalized": false
   }
  ],

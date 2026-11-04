@@ -3,73 +3,73 @@
  "channel_id": "UCurEA8YoqFwimJcAuSHU0MQ",
  "handle": "@lisahanabusa",
  "subscribers": 581000,
- "fetched_at": "2026-11-04 11:27",
- "generated_at": "2026-11-04 11:27",
+ "fetched_at": "2026-11-05 06:35",
+ "generated_at": "2026-11-05 06:35",
  "period": {
-  "from": "2026-10-05 11:27",
-  "to": "2026-11-04 11:27",
+  "from": "2026-10-06 06:35",
+  "to": "2026-11-05 06:35",
   "days": 30
  },
- "streams_analyzed": 27,
- "streams_missed": 1,
- "unique_chatters": 5625,
- "members_confirmed": 612,
+ "streams_analyzed": 25,
+ "streams_missed": 2,
+ "unique_chatters": 5083,
+ "members_confirmed": 580,
  "member_classes": {
-  "unknown": 562,
-  "known": 45,
+  "unknown": 532,
+  "known": 43,
   "gift": 5
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 35
+   "members": 34
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 28
+   "members": 23
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 74
+   "members": 73
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 48
+   "members": 44
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 167
+   "members": 157
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 92
+   "members": 87
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 76
+   "members": 73
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 59
+   "members": 57
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 33
+   "members": 32
   }
  ],
  "events": {
-  "new_members": 18,
-  "rejoins": 8,
-  "milestones": 11,
+  "new_members": 16,
+  "rejoins": 6,
+  "milestones": 9,
   "gift_purchases": 1,
   "gifted_total": 5,
   "gift_redemptions": 5
@@ -80,21 +80,21 @@
    "tier": "下僕",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 45,
+   "confirmed_members": 43,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 562.0,
-   "estimated_members": 607.0,
-   "monthly_net_confirmed": 14032,
-   "monthly_net_estimated": 189274
+   "allocated_unknown": 532.0,
+   "estimated_members": 575.0,
+   "monthly_net_confirmed": 13408,
+   "monthly_net_estimated": 179295
   }
  ],
  "revenue": {
-  "monthly_low": 189274,
-  "monthly_est": 189274,
+  "monthly_low": 179295,
+  "monthly_est": 179295,
   "gift_once": 1559,
-  "total_low": 190833,
-  "total_est": 190833,
-  "paying_members": 607,
+  "total_low": 180855,
+  "total_est": 180855,
+  "paying_members": 575,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -103,26 +103,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "j-E4Th5MBhU",
-   "start": "2026-10-05 12:00",
-   "title": "【APEX】まずは俺を助けろ【ぶいすぽっ！/英リサ】",
-   "kind": "配信",
-   "chatters": 952,
-   "member_chatters": 152,
-   "new_members": 2,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "yYpCcfBzpxI",
-   "start": "2026-10-05 22:40",
-   "title": "【APEX】awawawawaa/デュク氏、山P【ぶいすぽっ！/英リサ】",
-   "kind": "配信",
-   "chatters": 330,
-   "member_chatters": 120,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "OqRY5HnYwtw",
    "start": "2026-10-06 22:18",
@@ -386,6 +366,18 @@
    "members_level": "下僕",
    "like_count": 125,
    "view_count": null
+  },
+  {
+   "video_id": "-rUviZdcES4",
+   "start": "2026-11-04 00:00",
+   "title": "【APEX】酸素を回します　脳が正常に働くように→集まればフルパ【ぶいすぽっ！/英リサ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 2268,
+   "view_count": 363758
   }
  ],
  "members_only_content": [
@@ -548,10 +540,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-04"
+    "to": "2026-11-05"
    },
    "streams_analyzed": 3,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 1035,
    "members_confirmed": 207,
    "member_classes": {

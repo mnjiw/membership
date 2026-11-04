@@ -3,19 +3,19 @@
  "channel_id": "UCeCWj-SiJG9SWN6wGORiLmw",
  "handle": "@jirajisaki",
  "subscribers": 66600,
- "fetched_at": "2026-11-04 11:28",
- "generated_at": "2026-11-04 11:28",
+ "fetched_at": "2026-11-05 06:36",
+ "generated_at": "2026-11-05 06:36",
  "period": {
-  "from": "2026-10-05 11:28",
-  "to": "2026-11-04 11:28",
+  "from": "2026-10-06 06:36",
+  "to": "2026-11-05 06:36",
   "days": 30
  },
- "streams_analyzed": 11,
+ "streams_analyzed": 12,
  "streams_missed": 1,
- "unique_chatters": 306,
- "members_confirmed": 56,
+ "unique_chatters": 327,
+ "members_confirmed": 57,
  "member_classes": {
-  "known": 16,
+  "known": 17,
   "unknown": 23,
   "gift": 17
  },
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 3
+   "members": 4
   },
   {
    "months": 6,
@@ -53,7 +53,7 @@
  ],
  "events": {
   "new_members": 3,
-  "rejoins": 1,
+  "rejoins": 2,
   "milestones": 7,
   "gift_purchases": 17,
   "gifted_total": 17,
@@ -65,21 +65,21 @@
    "tier": "Jikama",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 16,
+   "confirmed_members": 17,
    "share_of_confirmed_pct": 100.0,
    "allocated_unknown": 23.0,
-   "estimated_members": 39.0,
-   "monthly_net_confirmed": 4989,
-   "monthly_net_estimated": 12161
+   "estimated_members": 40.0,
+   "monthly_net_confirmed": 5301,
+   "monthly_net_estimated": 12473
   }
  ],
  "revenue": {
-  "monthly_low": 12161,
-  "monthly_est": 12161,
+  "monthly_low": 12473,
+  "monthly_est": 12473,
   "gift_once": 5301,
-  "total_low": 17462,
-  "total_est": 17462,
-  "paying_members": 39,
+  "total_low": 17774,
+  "total_est": 17774,
+  "paying_members": 40,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -197,6 +197,16 @@
    "member_chatters": 13,
    "new_members": 0,
    "gifted_total": 1
+  },
+  {
+   "video_id": "qdRtIznLkiQ",
+   "start": "2026-11-04 11:44",
+   "title": "【DistrictV2】jiffany v2 reporting for duty!【#DistrictV2 #VSPOEN #JiraJisaki】",
+   "kind": "配信",
+   "chatters": 80,
+   "member_chatters": 23,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -350,43 +360,47 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-04"
+    "to": "2026-11-05"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 0,
-   "unique_chatters": 44,
-   "members_confirmed": 13,
+   "unique_chatters": 106,
+   "members_confirmed": 27,
    "member_classes": {
-    "unknown": 7,
-    "known": 5,
+    "unknown": 17,
+    "known": 9,
     "gift": 1
    },
-   "long_term_members": 6,
+   "long_term_members": 15,
    "badges": [
     {
      "months": 0,
-     "members": 3
+     "members": 4
     },
     {
      "months": 1,
      "members": 2
     },
     {
-     "months": 6,
+     "months": 2,
      "members": 2
+    },
+    {
+     "months": 6,
+     "members": 4
     },
     {
      "months": 12,
-     "members": 2
+     "members": 5
     },
     {
      "months": 24,
-     "members": 4
+     "members": 10
     }
    ],
    "events": {
     "new_members": 0,
-    "rejoins": 0,
+    "rejoins": 1,
     "milestones": 0,
     "gifted_total": 1
    },
@@ -394,16 +408,16 @@
     {
      "tier": "Jikama",
      "price": 490,
-     "confirmed_members": 5,
-     "estimated_members": 12.0
+     "confirmed_members": 9,
+     "estimated_members": 26.0
     }
    ],
    "revenue": {
-    "monthly_low": 3742,
-    "monthly_est": 3742,
+    "monthly_low": 8107,
+    "monthly_est": 8107,
     "gift_once": 312
    },
-   "avg_member_chatters": 13,
+   "avg_member_chatters": 18,
    "partial": true,
    "finalized": false
   }

@@ -3,19 +3,19 @@
  "channel_id": "UCW8WKciBixmaqaGqrlTITRQ",
  "handle": "@Izumi_Yunohara",
  "subscribers": 132000,
- "fetched_at": "2026-11-04 11:26",
- "generated_at": "2026-11-04 11:26",
+ "fetched_at": "2026-11-05 06:34",
+ "generated_at": "2026-11-05 06:34",
  "period": {
-  "from": "2026-10-05 11:26",
-  "to": "2026-11-04 11:26",
+  "from": "2026-10-06 06:34",
+  "to": "2026-11-05 06:34",
   "days": 30
  },
  "streams_analyzed": 26,
  "streams_missed": 1,
- "unique_chatters": 373,
- "members_confirmed": 71,
+ "unique_chatters": 361,
+ "members_confirmed": 72,
  "member_classes": {
-  "unknown": 67,
+  "unknown": 68,
   "known": 4
  },
  "badges": [
@@ -32,7 +32,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 10
+   "members": 11
   },
   {
    "months": 24,
@@ -56,19 +56,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 4,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 67.0,
-   "estimated_members": 71.0,
+   "allocated_unknown": 68.0,
+   "estimated_members": 72.0,
    "monthly_net_confirmed": 1247,
-   "monthly_net_estimated": 22139
+   "monthly_net_estimated": 22451
   }
  ],
  "revenue": {
-  "monthly_low": 22139,
-  "monthly_est": 22139,
+  "monthly_low": 22451,
+  "monthly_est": 22451,
   "gift_once": 0,
-  "total_low": 22139,
-  "total_est": 22139,
-  "paying_members": 71,
+  "total_low": 22451,
+  "total_est": 22451,
+  "paying_members": 72,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -77,16 +77,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "o2C8mGt6lp4",
-   "start": "2026-10-05 17:31",
-   "title": "【雀魂】指示厨が泡吹いて倒れない麻雀【柚原いづみ / ななしいんく】",
-   "kind": "配信",
-   "chatters": 54,
-   "member_chatters": 23,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "uf1xpGlpA2Y",
    "start": "2026-10-07 17:01",
@@ -336,6 +326,16 @@
    "member_chatters": 17,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "02I6EXgHNKU",
+   "start": "2026-11-04 19:01",
+   "title": "【#ストグラ】#ストグラSeason2 柚乃いずみの日常～180日目～【柚原いづみ / ななしいんく】",
+   "kind": "配信",
+   "chatters": 45,
+   "member_chatters": 23,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -480,29 +480,29 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-04"
+    "to": "2026-11-05"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 0,
-   "unique_chatters": 45,
-   "members_confirmed": 17,
+   "unique_chatters": 65,
+   "members_confirmed": 27,
    "member_classes": {
-    "unknown": 16,
+    "unknown": 26,
     "known": 1
    },
-   "long_term_members": 13,
+   "long_term_members": 22,
    "badges": [
     {
      "months": 2,
-     "members": 4
+     "members": 5
     },
     {
      "months": 12,
-     "members": 3
+     "members": 5
     },
     {
      "months": 24,
-     "members": 10
+     "members": 17
     }
    ],
    "events": {
@@ -516,15 +516,15 @@
      "tier": "柚原温泉街♨🐾",
      "price": 490,
      "confirmed_members": 1,
-     "estimated_members": 17.0
+     "estimated_members": 27.0
     }
    ],
    "revenue": {
-    "monthly_low": 5301,
-    "monthly_est": 5301,
+    "monthly_low": 8419,
+    "monthly_est": 8419,
     "gift_once": 0
    },
-   "avg_member_chatters": 17,
+   "avg_member_chatters": 20,
    "partial": true,
    "finalized": false
   }

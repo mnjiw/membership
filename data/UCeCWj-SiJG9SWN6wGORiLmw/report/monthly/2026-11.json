@@ -2,43 +2,47 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-04"
+  "to": "2026-11-05"
  },
- "streams_analyzed": 1,
+ "streams_analyzed": 2,
  "streams_missed": 0,
- "unique_chatters": 44,
- "members_confirmed": 13,
+ "unique_chatters": 106,
+ "members_confirmed": 27,
  "member_classes": {
-  "unknown": 7,
-  "known": 5,
+  "unknown": 17,
+  "known": 9,
   "gift": 1
  },
- "long_term_members": 6,
+ "long_term_members": 15,
  "badges": [
   {
    "months": 0,
-   "members": 3
+   "members": 4
   },
   {
    "months": 1,
    "members": 2
   },
   {
-   "months": 6,
+   "months": 2,
    "members": 2
+  },
+  {
+   "months": 6,
+   "members": 4
   },
   {
    "months": 12,
-   "members": 2
+   "members": 5
   },
   {
    "months": 24,
-   "members": 4
+   "members": 10
   }
  ],
  "events": {
   "new_members": 0,
-  "rejoins": 0,
+  "rejoins": 1,
   "milestones": 0,
   "gifted_total": 1
  },
@@ -46,16 +50,16 @@
   {
    "tier": "Jikama",
    "price": 490,
-   "confirmed_members": 5,
-   "estimated_members": 12.0
+   "confirmed_members": 9,
+   "estimated_members": 26.0
   }
  ],
  "revenue": {
-  "monthly_low": 3742,
-  "monthly_est": 3742,
+  "monthly_low": 8107,
+  "monthly_est": 8107,
   "gift_once": 312
  },
- "avg_member_chatters": 13,
+ "avg_member_chatters": 18,
  "partial": true,
  "finalized": false
 }

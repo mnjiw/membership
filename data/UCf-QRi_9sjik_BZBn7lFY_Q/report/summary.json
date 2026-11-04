@@ -3,16 +3,16 @@
  "channel_id": "UCf-QRi_9sjik_BZBn7lFY_Q",
  "handle": "@neruko_kamitaba",
  "subscribers": 21100,
- "fetched_at": "2026-11-04 11:29",
- "generated_at": "2026-11-04 11:29",
+ "fetched_at": "2026-11-05 06:38",
+ "generated_at": "2026-11-05 06:38",
  "period": {
-  "from": "2026-10-05 11:29",
-  "to": "2026-11-04 11:29",
+  "from": "2026-10-06 06:38",
+  "to": "2026-11-05 06:38",
   "days": 30
  },
- "streams_analyzed": 23,
- "streams_missed": 6,
- "unique_chatters": 946,
+ "streams_analyzed": 24,
+ "streams_missed": 7,
+ "unique_chatters": 959,
  "members_confirmed": 328,
  "member_classes": {
   "unknown": 234,
@@ -38,12 +38,12 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 50
+   "members": 49
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 113
+   "members": 114
   }
  ],
  "events": {
@@ -312,6 +312,16 @@
    "member_chatters": 73,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "frxfbbB85gY",
+   "start": "2026-11-04 09:29",
+   "title": "#16【ほの暮しの庭】郷愁あふれる田舎の村を舞台にした生活シミュレーションゲーム…だよね？【紙束ねるこ/すぺしゃりて】#ほの暮しの庭",
+   "kind": "配信",
+   "chatters": 142,
+   "member_chatters": 90,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -384,7 +394,19 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 75,
+   "like_count": 76,
+   "view_count": null
+  },
+  {
+   "video_id": "IaZOPyGEqQ8",
+   "start": "2026-11-04 21:38",
+   "title": "【メン限】今より強くなるための作戦会議【紙束ねるこ/すぺしゃりて】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 89,
    "view_count": null
   }
  ],
@@ -466,7 +488,17 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 75,
+   "like_count": 76,
+   "view_count": null
+  },
+  {
+   "video_id": "IaZOPyGEqQ8",
+   "start": "2026-11-04 21:38",
+   "title": "【メン限】今より強くなるための作戦会議【紙束ねるこ/すぺしゃりて】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 89,
    "view_count": null
   }
  ],
@@ -583,21 +615,21 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-04"
+    "to": "2026-11-05"
    },
-   "streams_analyzed": 4,
-   "streams_missed": 1,
-   "unique_chatters": 317,
-   "members_confirmed": 168,
+   "streams_analyzed": 5,
+   "streams_missed": 2,
+   "unique_chatters": 360,
+   "members_confirmed": 183,
    "member_classes": {
-    "unknown": 158,
+    "unknown": 173,
     "known": 10
    },
-   "long_term_members": 69,
+   "long_term_members": 75,
    "badges": [
     {
      "months": 0,
-     "members": 20
+     "members": 23
     },
     {
      "months": 1,
@@ -605,15 +637,15 @@
     },
     {
      "months": 2,
-     "members": 31
+     "members": 36
     },
     {
      "months": 6,
-     "members": 35
+     "members": 36
     },
     {
      "months": 12,
-     "members": 69
+     "members": 75
     }
    ],
    "events": {
@@ -627,12 +659,12 @@
      "tier": "かーどねる",
      "price": 490,
      "confirmed_members": 10,
-     "estimated_members": 168.0
+     "estimated_members": 183.0
     }
    ],
    "revenue": {
-    "monthly_low": 52385,
-    "monthly_est": 52385,
+    "monthly_low": 57063,
+    "monthly_est": 57063,
     "gift_once": 0
    },
    "avg_member_chatters": 90,

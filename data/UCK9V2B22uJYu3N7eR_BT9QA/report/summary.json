@@ -3,27 +3,27 @@
  "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
  "handle": "@OmaruPolka",
  "subscribers": 1380000,
- "fetched_at": "2026-11-04 11:24",
- "generated_at": "2026-11-04 11:24",
+ "fetched_at": "2026-11-05 06:26",
+ "generated_at": "2026-11-05 06:27",
  "period": {
-  "from": "2026-10-05 11:24",
-  "to": "2026-11-04 11:24",
+  "from": "2026-10-06 06:26",
+  "to": "2026-11-05 06:26",
   "days": 30
  },
- "streams_analyzed": 22,
- "streams_missed": 2,
- "unique_chatters": 10933,
- "members_confirmed": 2376,
+ "streams_analyzed": 24,
+ "streams_missed": 1,
+ "unique_chatters": 11087,
+ "members_confirmed": 2408,
  "member_classes": {
-  "unknown": 1879,
-  "known": 365,
-  "gift": 132
+  "unknown": 1897,
+  "known": 372,
+  "gift": 139
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 222
+   "members": 232
   },
   {
    "months": 1,
@@ -33,51 +33,51 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 190
+   "members": 192
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 227
+   "members": 232
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 389
+   "members": 393
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 438
+   "members": 440
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 237
+   "members": 241
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 250
+   "members": 252
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 236
+   "members": 237
   },
   {
    "months": 72,
    "label": "6年",
-   "members": 149
+   "members": 151
   }
  ],
  "events": {
-  "new_members": 40,
-  "rejoins": 27,
-  "milestones": 169,
-  "gift_purchases": 51,
-  "gifted_total": 153,
-  "gift_redemptions": 132
+  "new_members": 41,
+  "rejoins": 31,
+  "milestones": 171,
+  "gift_purchases": 54,
+  "gifted_total": 160,
+  "gift_redemptions": 139
  },
  "tiers_configured": true,
  "tiers": [
@@ -85,21 +85,21 @@
    "tier": "おまる座",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 365,
+   "confirmed_members": 372,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1879.0,
-   "estimated_members": 2244.0,
-   "monthly_net_confirmed": 113814,
-   "monthly_net_estimated": 699720
+   "allocated_unknown": 1897.0,
+   "estimated_members": 2269.0,
+   "monthly_net_confirmed": 115996,
+   "monthly_net_estimated": 707515
   }
  ],
  "revenue": {
-  "monthly_low": 699720,
-  "monthly_est": 699720,
-  "gift_once": 47708,
-  "total_low": 747428,
-  "total_est": 747428,
-  "paying_members": 2244,
+  "monthly_low": 707515,
+  "monthly_est": 707515,
+  "gift_once": 49891,
+  "total_low": 757406,
+  "total_est": 757406,
+  "paying_members": 2269,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -327,6 +327,26 @@
    "member_chatters": 385,
    "new_members": 0,
    "gifted_total": 5
+  },
+  {
+   "video_id": "eikW4el4rwo",
+   "start": "2026-11-03 20:00",
+   "title": "【Japanese Ramen Simulator】へいらっしゃい！ #ハリポルーナ のラーメン屋だよ！！【尾丸ポルカ視点/ホロライブ】",
+   "kind": "配信",
+   "chatters": 715,
+   "member_chatters": 423,
+   "new_members": 1,
+   "gifted_total": 6
+  },
+  {
+   "video_id": "VuU8tt1hm3Q",
+   "start": "2026-11-04 18:05",
+   "title": "[#HoloServerARK] Third attempt! I want to tame a Pyromancer!!!! [Omaru Polka/Hololive]",
+   "kind": "配信",
+   "chatters": 392,
+   "member_chatters": 199,
+   "new_members": 0,
+   "gifted_total": 1
   }
  ],
  "missed_streams": [
@@ -341,18 +361,6 @@
    "members_level": "",
    "like_count": 1199,
    "view_count": null
-  },
-  {
-   "video_id": "eikW4el4rwo",
-   "start": "2026-11-03 00:00",
-   "title": "【Japanese Ramen Simulator】へいらっしゃい！ #ハリポルーナ のラーメン屋だよ！！【尾丸ポルカ視点/ホロライブ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 5150,
-   "view_count": 117570
   }
  ],
  "members_only_content": [
@@ -529,6 +537,87 @@
    },
    "avg_member_chatters": 433.6,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-05"
+   },
+   "streams_analyzed": 2,
+   "streams_missed": 0,
+   "unique_chatters": 946,
+   "members_confirmed": 500,
+   "member_classes": {
+    "unknown": 388,
+    "known": 105,
+    "gift": 7
+   },
+   "long_term_members": 409,
+   "badges": [
+    {
+     "months": 0,
+     "members": 16
+    },
+    {
+     "months": 1,
+     "members": 1
+    },
+    {
+     "months": 2,
+     "members": 26
+    },
+    {
+     "months": 6,
+     "members": 48
+    },
+    {
+     "months": 12,
+     "members": 78
+    },
+    {
+     "months": 24,
+     "members": 119
+    },
+    {
+     "months": 36,
+     "members": 54
+    },
+    {
+     "months": 48,
+     "members": 62
+    },
+    {
+     "months": 60,
+     "members": 50
+    },
+    {
+     "months": 72,
+     "members": 46
+    }
+   ],
+   "events": {
+    "new_members": 1,
+    "rejoins": 4,
+    "milestones": 2,
+    "gifted_total": 7
+   },
+   "tiers": [
+    {
+     "tier": "おまる座",
+     "price": 490,
+     "confirmed_members": 105,
+     "estimated_members": 493.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 153726,
+    "monthly_est": 153726,
+    "gift_once": 2183
+   },
+   "avg_member_chatters": 311,
+   "partial": true,
    "finalized": false
   }
  ],

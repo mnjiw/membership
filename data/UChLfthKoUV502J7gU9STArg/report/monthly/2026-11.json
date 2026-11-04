@@ -2,17 +2,17 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-04"
+  "to": "2026-11-05"
  },
- "streams_analyzed": 5,
- "streams_missed": 0,
- "unique_chatters": 316,
- "members_confirmed": 97,
+ "streams_analyzed": 6,
+ "streams_missed": 1,
+ "unique_chatters": 724,
+ "members_confirmed": 124,
  "member_classes": {
-  "unknown": 95,
+  "unknown": 122,
   "known": 2
  },
- "long_term_members": 89,
+ "long_term_members": 115,
  "badges": [
   {
    "months": 0,
@@ -20,7 +20,7 @@
   },
   {
    "months": 2,
-   "members": 1
+   "members": 2
   },
   {
    "months": 6,
@@ -28,19 +28,19 @@
   },
   {
    "months": 12,
-   "members": 12
+   "members": 16
   },
   {
    "months": 24,
-   "members": 18
-  },
-  {
-   "months": 36,
    "members": 23
   },
   {
+   "months": 36,
+   "members": 29
+  },
+  {
    "months": 48,
-   "members": 36
+   "members": 47
   }
  ],
  "events": {
@@ -54,13 +54,13 @@
    "tier": "バイト",
    "price": 490,
    "confirmed_members": 1,
-   "estimated_members": 48.5
+   "estimated_members": 62.0
   },
   {
    "tier": "バイトリーダー",
    "price": 1190,
    "confirmed_members": 1,
-   "estimated_members": 48.5
+   "estimated_members": 62.0
   },
   {
    "tier": "店長",
@@ -76,11 +76,11 @@
   }
  ],
  "revenue": {
-  "monthly_low": 30692,
-  "monthly_est": 51851,
+  "monthly_low": 39111,
+  "monthly_est": 66284,
   "gift_once": 0
  },
- "avg_member_chatters": 53.6,
+ "avg_member_chatters": 58.3,
  "partial": true,
  "finalized": false
 }

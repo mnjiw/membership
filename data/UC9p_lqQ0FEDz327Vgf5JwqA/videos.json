@@ -1011,17 +1011,37 @@
   "ydMW5pd1bOM": {
    "id": "ydMW5pd1bOM",
    "title": "【UNARCHIVED KARAOKE】but im just messing around",
-   "status": "live_now",
+   "status": "error",
    "seen_live_at": "2026-11-04 11:26",
-   "was_public_when_live": true
+   "was_public_when_live": true,
+   "error": "ERROR: [youtube] Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://githu",
+   "unavailable": true,
+   "failed_since_ts": 1793827962.7866352
+  },
+  "xBG42xoBM0U": {
+   "id": "xBG42xoBM0U",
+   "title": "【SOUL CHAINED】CHAINED TO MY CUTE KOHAI",
+   "kind": "live",
+   "start_ts": 1793793801.471058,
+   "start_jst": "2026-11-04 21:03",
+   "duration_sec": 12477,
+   "view_count": 142250,
+   "like_count": 7473,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-05 06:32",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "Koseki Bijou Ch. hololive",
  "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
  "handle": "@KosekiBijou",
  "subscribers": 1000000,
- "fetched_at": "2026-11-04 11:26",
- "fetched_at_ts": 1793759167.753852,
- "checked_from": "2026-10-28 11:26",
+ "fetched_at": "2026-11-05 06:32",
+ "fetched_at_ts": 1793827962.7866352,
+ "checked_from": "2026-10-29 06:32",
  "initial_fetch_done": true
 }
