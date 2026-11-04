@@ -3,31 +3,31 @@
  "channel_id": "UCxTIuegV_Vqx11ctdeezPRQ",
  "handle": "@KaminagaTaiga",
  "subscribers": 204000,
- "fetched_at": "2026-11-04 11:22",
- "generated_at": "2026-11-04 11:25",
+ "fetched_at": "2026-11-05 05:36",
+ "generated_at": "2026-11-05 05:37",
  "period": {
-  "from": "2026-10-05 11:22",
-  "to": "2026-11-04 11:22",
+  "from": "2026-10-06 05:36",
+  "to": "2026-11-05 05:36",
   "days": 30
  },
  "streams_analyzed": 29,
  "streams_missed": 1,
- "unique_chatters": 7482,
- "members_confirmed": 1894,
+ "unique_chatters": 7456,
+ "members_confirmed": 1904,
  "member_classes": {
-  "known": 1657,
-  "unknown": 191,
+  "known": 1659,
+  "unknown": 199,
   "gift": 46
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 1894
+   "members": 1904
   }
  ],
  "events": {
-  "new_members": 1660,
+  "new_members": 1662,
   "rejoins": 0,
   "milestones": 0,
   "gift_purchases": 7,
@@ -40,21 +40,21 @@
    "tier": "虎っ子部",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 1657,
+   "confirmed_members": 1659,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 191.0,
-   "estimated_members": 1848.0,
-   "monthly_net_confirmed": 516683,
-   "monthly_net_estimated": 576240
+   "allocated_unknown": 199.0,
+   "estimated_members": 1858.0,
+   "monthly_net_confirmed": 517306,
+   "monthly_net_estimated": 579358
   }
  ],
  "revenue": {
-  "monthly_low": 576240,
-  "monthly_est": 576240,
+  "monthly_low": 579358,
+  "monthly_est": 579358,
   "gift_once": 14344,
-  "total_low": 590584,
-  "total_est": 590584,
-  "paying_members": 1848,
+  "total_low": 593702,
+  "total_est": 593702,
+  "paying_members": 1858,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -63,16 +63,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "9At4mEA5XXg",
-   "start": "2026-10-05 20:00",
-   "title": "【Dressmaker】ドレスを制作！デザイナータイガ降臨！～完全初見ゲーム～　# ０１【神永タイガ / にじさんじ】",
-   "kind": "配信",
-   "chatters": 763,
-   "member_chatters": 0,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "93V2Bk6UPVc",
    "start": "2026-10-06 18:30",
@@ -352,6 +342,16 @@
    "member_chatters": 725,
    "new_members": 25,
    "gifted_total": 0
+  },
+  {
+   "video_id": "al-k084CJ4k",
+   "start": "2026-11-05 01:12",
+   "title": "【スプラトゥーン3 #６】命名：神の御籠　行きます。　#にじイカ祭り2026　# ０１【神永タイガ / にじさんじ】",
+   "kind": "配信",
+   "chatters": 534,
+   "member_chatters": 308,
+   "new_members": 2,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -364,7 +364,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "虎っ子部",
-   "like_count": 682,
+   "like_count": 686,
    "view_count": null
   }
  ],
@@ -376,7 +376,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "虎っ子部",
-   "like_count": 682,
+   "like_count": 686,
    "view_count": null
   }
  ],
@@ -456,26 +456,26 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-04"
+    "to": "2026-11-05"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 4,
    "streams_missed": 0,
-   "unique_chatters": 2642,
-   "members_confirmed": 1052,
+   "unique_chatters": 2766,
+   "members_confirmed": 1075,
    "member_classes": {
-    "known": 852,
-    "unknown": 190,
+    "known": 867,
+    "unknown": 198,
     "gift": 10
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 1052
+     "members": 1075
     }
    ],
    "events": {
-    "new_members": 135,
+    "new_members": 137,
     "rejoins": 0,
     "milestones": 0,
     "gifted_total": 10
@@ -484,16 +484,16 @@
     {
      "tier": "虎っ子部",
      "price": 490,
-     "confirmed_members": 852,
-     "estimated_members": 1042.0
+     "confirmed_members": 867,
+     "estimated_members": 1065.0
     }
    ],
    "revenue": {
-    "monthly_low": 324915,
-    "monthly_est": 324915,
+    "monthly_low": 332086,
+    "monthly_est": 332086,
     "gift_once": 3118
    },
-   "avg_member_chatters": 613.3,
+   "avg_member_chatters": 537,
    "partial": true,
    "finalized": false
   }

@@ -3,19 +3,19 @@
  "channel_id": "UCe22Bcwd_GCpTjLxn83zl7A",
  "handle": "@PontoNei",
  "subscribers": 321000,
- "fetched_at": "2026-11-04 11:19",
- "generated_at": "2026-11-04 11:19",
+ "fetched_at": "2026-11-05 05:26",
+ "generated_at": "2026-11-05 05:26",
  "period": {
-  "from": "2026-10-05 11:19",
-  "to": "2026-11-04 11:19",
+  "from": "2026-10-06 05:26",
+  "to": "2026-11-05 05:26",
   "days": 30
  },
  "streams_analyzed": 15,
  "streams_missed": 2,
  "unique_chatters": 1443,
- "members_confirmed": 168,
+ "members_confirmed": 177,
  "member_classes": {
-  "unknown": 161,
+  "unknown": 170,
   "known": 7
  },
  "badges": [
@@ -32,7 +32,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 20
+   "members": 21
   },
   {
    "months": 6,
@@ -42,7 +42,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 123
+   "members": 131
   }
  ],
  "events": {
@@ -61,19 +61,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 7,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 161.0,
-   "estimated_members": 168.0,
+   "allocated_unknown": 170.0,
+   "estimated_members": 177.0,
    "monthly_net_confirmed": 2183,
-   "monthly_net_estimated": 52385
+   "monthly_net_estimated": 55192
   }
  ],
  "revenue": {
-  "monthly_low": 52385,
-  "monthly_est": 52385,
+  "monthly_low": 55192,
+  "monthly_est": 55192,
   "gift_once": 0,
-  "total_low": 52385,
-  "total_est": 52385,
-  "paying_members": 168,
+  "total_low": 55192,
+  "total_est": 55192,
+  "paying_members": 177,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -82,16 +82,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "yCdHp2n7MSk",
-   "start": "2026-10-05 22:02",
-   "title": "【FE 万紫千紅│07】遂に海の逸楽とご対面！ディートリヒも思わずにっこり！？ ※ネタバレ注意【先斗寧/にじさんじ】",
-   "kind": "配信",
-   "chatters": 355,
-   "member_chatters": 59,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "7tdE0VDUZIU",
    "start": "2026-10-08 22:00",
@@ -229,6 +219,16 @@
    "kind": "配信",
    "chatters": 383,
    "member_chatters": 52,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "-j_h6-FIkz4",
+   "start": "2026-11-04 20:01",
+   "title": "【#にじイカ祭り2026】チーム17初顔合わせ！チーム名募集中！対抗戦も！【先斗寧/にじさんじ】",
+   "kind": "配信",
+   "chatters": 134,
+   "member_chatters": 79,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -407,17 +407,17 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-04"
+    "to": "2026-11-05"
    },
-   "streams_analyzed": 2,
+   "streams_analyzed": 3,
    "streams_missed": 0,
-   "unique_chatters": 630,
-   "members_confirmed": 96,
+   "unique_chatters": 698,
+   "members_confirmed": 125,
    "member_classes": {
-    "unknown": 93,
+    "unknown": 122,
     "known": 3
    },
-   "long_term_members": 77,
+   "long_term_members": 99,
    "badges": [
     {
      "months": 0,
@@ -425,19 +425,19 @@
     },
     {
      "months": 1,
-     "members": 3
-    },
-    {
-     "months": 2,
-     "members": 8
-    },
-    {
-     "months": 6,
      "members": 4
     },
     {
+     "months": 2,
+     "members": 11
+    },
+    {
+     "months": 6,
+     "members": 7
+    },
+    {
      "months": 12,
-     "members": 77
+     "members": 99
     }
    ],
    "events": {
@@ -451,15 +451,15 @@
      "tier": "バックヤード",
      "price": 490,
      "confirmed_members": 3,
-     "estimated_members": 96.0
+     "estimated_members": 125.0
     }
    ],
    "revenue": {
-    "monthly_low": 29935,
-    "monthly_est": 29935,
+    "monthly_low": 38977,
+    "monthly_est": 38977,
     "gift_once": 0
    },
-   "avg_member_chatters": 61.5,
+   "avg_member_chatters": 67.3,
    "partial": true,
    "finalized": false
   }

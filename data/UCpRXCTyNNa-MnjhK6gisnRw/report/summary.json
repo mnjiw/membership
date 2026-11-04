@@ -3,20 +3,20 @@
  "channel_id": "UCpRXCTyNNa-MnjhK6gisnRw",
  "handle": "@Gaon",
  "subscribers": 59700,
- "fetched_at": "2026-11-04 11:20",
- "generated_at": "2026-11-04 11:20",
+ "fetched_at": "2026-11-05 05:27",
+ "generated_at": "2026-11-05 05:27",
  "period": {
-  "from": "2026-10-05 11:20",
-  "to": "2026-11-04 11:20",
+  "from": "2026-10-06 05:27",
+  "to": "2026-11-05 05:27",
   "days": 30
  },
- "streams_analyzed": 13,
+ "streams_analyzed": 14,
  "streams_missed": 1,
- "unique_chatters": 586,
- "members_confirmed": 115,
+ "unique_chatters": 591,
+ "members_confirmed": 116,
  "member_classes": {
   "known": 25,
-  "unknown": 79,
+  "unknown": 80,
   "gift": 11
  },
  "badges": [
@@ -48,7 +48,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 60
+   "members": 61
   }
  ],
  "events": {
@@ -67,10 +67,10 @@
    "net_per_member": 184.5,
    "confirmed_members": 6,
    "share_of_confirmed_pct": 24.0,
-   "allocated_unknown": 19.0,
-   "estimated_members": 25.0,
+   "allocated_unknown": 19.2,
+   "estimated_members": 25.2,
    "monthly_net_confirmed": 1107,
-   "monthly_net_estimated": 4606
+   "monthly_net_estimated": 4651
   },
   {
    "tier": "Gaide🚩취업센터 就業センター",
@@ -78,10 +78,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 17,
    "share_of_confirmed_pct": 68.0,
-   "allocated_unknown": 53.7,
-   "estimated_members": 70.7,
+   "allocated_unknown": 54.4,
+   "estimated_members": 71.4,
    "monthly_net_confirmed": 5301,
-   "monthly_net_estimated": 22052
+   "monthly_net_estimated": 22264
   },
   {
    "tier": "Gaide🚩인턴쉽 インターンシップ",
@@ -89,19 +89,19 @@
    "net_per_member": 820.9,
    "confirmed_members": 2,
    "share_of_confirmed_pct": 8.0,
-   "allocated_unknown": 6.3,
-   "estimated_members": 8.3,
+   "allocated_unknown": 6.4,
+   "estimated_members": 8.4,
    "monthly_net_confirmed": 1642,
-   "monthly_net_estimated": 6830
+   "monthly_net_estimated": 6896
   }
  ],
  "revenue": {
-  "monthly_low": 22629,
-  "monthly_est": 33488,
+  "monthly_low": 22814,
+  "monthly_est": 33810,
   "gift_once": 2030,
-  "total_low": 24659,
-  "total_est": 35518,
-  "paying_members": 104,
+  "total_low": 24844,
+  "total_est": 35840,
+  "paying_members": 105,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -237,6 +237,16 @@
    "kind": "配信",
    "chatters": 20,
    "member_chatters": 13,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "Di9tYy3QCqI",
+   "start": "2026-11-04 20:04",
+   "title": "【#にじイカ祭り2026】【Splatoon3】チーム２１顔合わせ練習 【にじさんじ | ガオン】",
+   "kind": "配信",
+   "chatters": 33,
+   "member_chatters": 22,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -421,6 +431,78 @@
    },
    "avg_member_chatters": 27,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-05"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 33,
+   "members_confirmed": 22,
+   "member_classes": {
+    "known": 5,
+    "unknown": 17
+   },
+   "long_term_members": 18,
+   "badges": [
+    {
+     "months": 0,
+     "members": 1
+    },
+    {
+     "months": 1,
+     "members": 1
+    },
+    {
+     "months": 2,
+     "members": 2
+    },
+    {
+     "months": 12,
+     "members": 5
+    },
+    {
+     "months": 24,
+     "members": 13
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 0,
+    "milestones": 0,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "안내소 案内所",
+     "price": 290,
+     "confirmed_members": 1,
+     "estimated_members": 4.4
+    },
+    {
+     "tier": "Gaide🚩취업센터 就業センター",
+     "price": 490,
+     "confirmed_members": 4,
+     "estimated_members": 17.6
+    },
+    {
+     "tier": "Gaide🚩인턴쉽 インターンシップ",
+     "price": 1290,
+     "confirmed_members": 0,
+     "estimated_members": 0.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 4569,
+    "monthly_est": 6300,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 22,
+   "partial": true,
    "finalized": false
   }
  ],

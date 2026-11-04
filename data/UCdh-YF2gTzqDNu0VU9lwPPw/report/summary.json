@@ -3,56 +3,56 @@
  "channel_id": "UCdh-YF2gTzqDNu0VU9lwPPw",
  "handle": "@ClaudeClawmark",
  "subscribers": 160000,
- "fetched_at": "2026-11-04 11:22",
- "generated_at": "2026-11-04 11:22",
+ "fetched_at": "2026-11-05 05:35",
+ "generated_at": "2026-11-05 05:36",
  "period": {
-  "from": "2026-10-05 11:22",
-  "to": "2026-11-04 11:22",
+  "from": "2026-10-06 05:35",
+  "to": "2026-11-05 05:35",
   "days": 30
  },
- "streams_analyzed": 19,
+ "streams_analyzed": 20,
  "streams_missed": 2,
- "unique_chatters": 1836,
- "members_confirmed": 922,
+ "unique_chatters": 2010,
+ "members_confirmed": 929,
  "member_classes": {
-  "known": 300,
-  "unknown": 240,
-  "gift": 382
+  "known": 307,
+  "unknown": 261,
+  "gift": 361
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 383
+   "members": 365
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 96
+   "members": 98
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 87
+   "members": 91
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 171
+   "members": 178
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 185
+   "members": 197
   }
  ],
  "events": {
-  "new_members": 21,
+  "new_members": 19,
   "rejoins": 10,
-  "milestones": 273,
-  "gift_purchases": 40,
-  "gifted_total": 387,
-  "gift_redemptions": 382
+  "milestones": 260,
+  "gift_purchases": 38,
+  "gifted_total": 367,
+  "gift_redemptions": 362
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,21 +60,21 @@
    "tier": "Outclaws",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 300,
+   "confirmed_members": 307,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 240.0,
-   "estimated_members": 540.0,
-   "monthly_net_confirmed": 131727,
-   "monthly_net_estimated": 237109
+   "allocated_unknown": 261.0,
+   "estimated_members": 568.0,
+   "monthly_net_confirmed": 134801,
+   "monthly_net_estimated": 249404
   }
  ],
  "revenue": {
-  "monthly_low": 237109,
-  "monthly_est": 237109,
-  "gift_once": 169928,
-  "total_low": 407037,
-  "total_est": 407037,
-  "paying_members": 540,
+  "monthly_low": 249404,
+  "monthly_est": 249404,
+  "gift_once": 161146,
+  "total_low": 410550,
+  "total_est": 410550,
+  "paying_members": 568,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "GfW6PRj8ae0",
-   "start": "2026-10-05 11:59",
-   "title": "【雑談】slowly being so back",
-   "kind": "配信",
-   "chatters": 332,
-   "member_chatters": 205,
-   "new_members": 3,
-   "gifted_total": 26
-  },
   {
    "video_id": "S6ND3psj9yQ",
    "start": "2026-10-08 21:08",
@@ -272,6 +262,26 @@
    "member_chatters": 181,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "RQHKV58nT9s",
+   "start": "2026-11-04 08:06",
+   "title": "【#DistrictV2 | Day 1】Strangers Searching",
+   "kind": "配信",
+   "chatters": 633,
+   "member_chatters": 282,
+   "new_members": 1,
+   "gifted_total": 6
+  },
+  {
+   "video_id": "K-1QAle6xFs",
+   "start": "2026-11-04 17:28",
+   "title": "【DEADLOCK】idk when season ends",
+   "kind": "配信",
+   "chatters": 80,
+   "member_chatters": 54,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -440,59 +450,60 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-04"
+    "to": "2026-11-05"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 3,
    "streams_missed": 0,
-   "unique_chatters": 273,
-   "members_confirmed": 181,
+   "unique_chatters": 746,
+   "members_confirmed": 335,
    "member_classes": {
-    "known": 121,
-    "unknown": 60
+    "known": 195,
+    "unknown": 135,
+    "gift": 5
    },
-   "long_term_members": 112,
+   "long_term_members": 206,
    "badges": [
     {
      "months": 0,
-     "members": 11
+     "members": 22
     },
     {
      "months": 1,
-     "members": 33
-    },
-    {
-     "months": 6,
-     "members": 25
-    },
-    {
-     "months": 12,
      "members": 55
     },
     {
+     "months": 6,
+     "members": 52
+    },
+    {
+     "months": 12,
+     "members": 92
+    },
+    {
      "months": 24,
-     "members": 57
+     "members": 114
     }
    ],
    "events": {
-    "new_members": 0,
-    "rejoins": 1,
-    "milestones": 24,
-    "gifted_total": 0
+    "new_members": 1,
+    "rejoins": 2,
+    "milestones": 42,
+    "gifted_total": 6
    },
    "tiers": [
     {
      "tier": "Outclaws",
      "price": 690,
-     "confirmed_members": 121,
-     "estimated_members": 181.0
+     "confirmed_members": 195,
+     "estimated_members": 330.0
     }
    ],
    "revenue": {
-    "monthly_low": 79475,
-    "monthly_est": 79475,
-    "gift_once": 0
+    "monthly_low": 144900,
+    "monthly_est": 144900,
+    "gift_once": 2635
    },
-   "avg_member_chatters": 181,
+   "avg_member_chatters": 172.3,
    "partial": true,
    "finalized": false
   }

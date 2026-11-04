@@ -3,15 +3,15 @@
  "channel_id": "UCCHH0nWYXFZmtDS_4tvMxHQ",
  "handle": "@YangNari",
  "subscribers": 337000,
- "fetched_at": "2026-11-04 11:20",
- "generated_at": "2026-11-04 11:20",
+ "fetched_at": "2026-11-05 05:27",
+ "generated_at": "2026-11-05 05:27",
  "period": {
-  "from": "2026-10-05 11:20",
-  "to": "2026-11-04 11:20",
+  "from": "2026-10-06 05:27",
+  "to": "2026-11-05 05:27",
   "days": 30
  },
  "streams_analyzed": 7,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 1581,
  "members_confirmed": 607,
  "member_classes": {
@@ -174,7 +174,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "kvvAopCDoQQ",
+   "start": "2026-11-04 00:00",
+   "title": "🐙スプラトゥーン3🦑 チーム６がんばるぞ #にじイカ祭り2026【ナリ/にじさんじ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 906,
+   "view_count": 31276
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -258,10 +271,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-04"
+    "to": "2026-11-05"
    },
    "streams_analyzed": 2,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 562,
    "members_confirmed": 299,
    "member_classes": {

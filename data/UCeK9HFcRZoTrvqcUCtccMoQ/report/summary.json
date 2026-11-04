@@ -3,19 +3,19 @@
  "channel_id": "UCeK9HFcRZoTrvqcUCtccMoQ",
  "handle": "@ShibuyaHajime",
  "subscribers": 161000,
- "fetched_at": "2026-11-04 11:17",
- "generated_at": "2026-11-04 11:17",
+ "fetched_at": "2026-11-05 05:18",
+ "generated_at": "2026-11-05 05:18",
  "period": {
-  "from": "2026-10-05 11:17",
-  "to": "2026-11-04 11:17",
+  "from": "2026-10-06 05:18",
+  "to": "2026-11-05 05:18",
   "days": 30
  },
  "streams_analyzed": 19,
  "streams_missed": 0,
- "unique_chatters": 301,
- "members_confirmed": 60,
+ "unique_chatters": 290,
+ "members_confirmed": 57,
  "member_classes": {
-  "unknown": 60
+  "unknown": 57
  },
  "badges": [
   {
@@ -36,7 +36,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 2
+   "members": 1
   },
   {
    "months": 12,
@@ -46,7 +46,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 41
+   "members": 39
   }
  ],
  "events": {
@@ -65,19 +65,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 0,
    "share_of_confirmed_pct": "",
-   "allocated_unknown": 60.0,
-   "estimated_members": 60.0,
+   "allocated_unknown": 57.0,
+   "estimated_members": 57.0,
    "monthly_net_confirmed": 0,
-   "monthly_net_estimated": 18709
+   "monthly_net_estimated": 17774
   }
  ],
  "revenue": {
-  "monthly_low": 18709,
-  "monthly_est": 18709,
+  "monthly_low": 17774,
+  "monthly_est": 17774,
   "gift_once": 0,
-  "total_low": 18709,
-  "total_est": 18709,
-  "paying_members": 60,
+  "total_low": 17774,
+  "total_est": 17774,
+  "paying_members": 57,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -86,16 +86,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "2yn9eruznHk",
-   "start": "2026-10-05 22:30",
-   "title": "【雑談】定期的にやってくる奴【にじさんじ/渋谷ハジメ】",
-   "kind": "配信",
-   "chatters": 56,
-   "member_chatters": 28,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "wfIB0G7Z-qU",
    "start": "2026-10-06 22:22",
@@ -275,6 +265,16 @@
    "member_chatters": 18,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "EYQs6QpESSA",
+   "start": "2026-11-04 20:18",
+   "title": "【遊戯王マスターデュエル】幻影RRを使いこなしたい【にじさんじ/渋谷ハジメ】",
+   "kind": "配信",
+   "chatters": 38,
+   "member_chatters": 18,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -411,20 +411,24 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-04"
+    "to": "2026-11-05"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 0,
-   "unique_chatters": 27,
-   "members_confirmed": 18,
+   "unique_chatters": 46,
+   "members_confirmed": 22,
    "member_classes": {
-    "unknown": 18
+    "unknown": 22
    },
-   "long_term_members": 15,
+   "long_term_members": 16,
    "badges": [
     {
+     "months": 0,
+     "members": 2
+    },
+    {
      "months": 2,
-     "members": 3
+     "members": 4
     },
     {
      "months": 12,
@@ -432,7 +436,7 @@
     },
     {
      "months": 24,
-     "members": 12
+     "members": 13
     }
    ],
    "events": {
@@ -446,12 +450,12 @@
      "tier": "メンバーシップ",
      "price": 490,
      "confirmed_members": 0,
-     "estimated_members": 18.0
+     "estimated_members": 22.0
     }
    ],
    "revenue": {
-    "monthly_low": 5613,
-    "monthly_est": 5613,
+    "monthly_low": 6860,
+    "monthly_est": 6860,
     "gift_once": 0
    },
    "avg_member_chatters": 18,

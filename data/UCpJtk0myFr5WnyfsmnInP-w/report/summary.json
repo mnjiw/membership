@@ -3,20 +3,20 @@
  "channel_id": "UCpJtk0myFr5WnyfsmnInP-w",
  "handle": "@HanaMacchia",
  "subscribers": 280000,
- "fetched_at": "2026-11-04 11:19",
- "generated_at": "2026-11-04 11:19",
+ "fetched_at": "2026-11-05 05:26",
+ "generated_at": "2026-11-05 05:26",
  "period": {
-  "from": "2026-10-05 11:19",
-  "to": "2026-11-04 11:19",
+  "from": "2026-10-06 05:26",
+  "to": "2026-11-05 05:26",
   "days": 30
  },
- "streams_analyzed": 13,
+ "streams_analyzed": 14,
  "streams_missed": 1,
- "unique_chatters": 510,
- "members_confirmed": 86,
+ "unique_chatters": 524,
+ "members_confirmed": 87,
  "member_classes": {
   "known": 13,
-  "unknown": 62,
+  "unknown": 63,
   "gift": 11
  },
  "badges": [
@@ -38,7 +38,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 66
+   "members": 67
   }
  ],
  "events": {
@@ -57,19 +57,19 @@
    "net_per_member": 439.1,
    "confirmed_members": 13,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 62.0,
-   "estimated_members": 75.0,
+   "allocated_unknown": 63.0,
+   "estimated_members": 76.0,
    "monthly_net_confirmed": 5708,
-   "monthly_net_estimated": 32932
+   "monthly_net_estimated": 33371
   }
  ],
  "revenue": {
-  "monthly_low": 32932,
-  "monthly_est": 32932,
+  "monthly_low": 33371,
+  "monthly_est": 33371,
   "gift_once": 4830,
-  "total_low": 37762,
-  "total_est": 37762,
-  "paying_members": 75,
+  "total_low": 38201,
+  "total_est": 38201,
+  "paying_members": 76,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -205,6 +205,16 @@
    "kind": "配信",
    "chatters": 69,
    "member_chatters": 21,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "MHiWPYembA0",
+   "start": "2026-11-04 08:35",
+   "title": "(GTAV: District V2) can i uphold justice in los santos? probably not!!!【NIJISANJI | Hana Macchia】",
+   "kind": "配信",
+   "chatters": 58,
+   "member_chatters": 24,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -350,25 +360,29 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-04"
+    "to": "2026-11-05"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 1,
-   "unique_chatters": 69,
-   "members_confirmed": 21,
+   "unique_chatters": 107,
+   "members_confirmed": 35,
    "member_classes": {
-    "unknown": 15,
-    "known": 6
+    "unknown": 28,
+    "known": 7
    },
-   "long_term_members": 20,
+   "long_term_members": 34,
    "badges": [
     {
      "months": 2,
      "members": 1
     },
     {
+     "months": 12,
+     "members": 2
+    },
+    {
      "months": 24,
-     "members": 20
+     "members": 32
     }
    ],
    "events": {
@@ -381,16 +395,16 @@
     {
      "tier": "Nijisenja",
      "price": 690,
-     "confirmed_members": 6,
-     "estimated_members": 21.0
+     "confirmed_members": 7,
+     "estimated_members": 35.0
     }
    ],
    "revenue": {
-    "monthly_low": 9221,
-    "monthly_est": 9221,
+    "monthly_low": 15368,
+    "monthly_est": 15368,
     "gift_once": 0
    },
-   "avg_member_chatters": 21,
+   "avg_member_chatters": 22.5,
    "partial": true,
    "finalized": false
   }

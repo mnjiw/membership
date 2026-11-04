@@ -2,21 +2,22 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-04"
+  "to": "2026-11-05"
  },
- "streams_analyzed": 1,
+ "streams_analyzed": 2,
  "streams_missed": 0,
- "unique_chatters": 135,
- "members_confirmed": 52,
+ "unique_chatters": 258,
+ "members_confirmed": 87,
  "member_classes": {
-  "known": 15,
-  "unknown": 37
+  "known": 24,
+  "unknown": 62,
+  "gift": 1
  },
- "long_term_members": 38,
+ "long_term_members": 64,
  "badges": [
   {
    "months": 0,
-   "members": 2
+   "members": 4
   },
   {
    "months": 1,
@@ -24,53 +25,53 @@
   },
   {
    "months": 2,
-   "members": 5
-  },
-  {
-   "months": 6,
-   "members": 6
-  },
-  {
-   "months": 12,
    "members": 7
   },
   {
+   "months": 6,
+   "members": 11
+  },
+  {
+   "months": 12,
+   "members": 9
+  },
+  {
    "months": 24,
-   "members": 4
+   "members": 12
   },
   {
    "months": 36,
-   "members": 6
+   "members": 11
   },
   {
    "months": 48,
-   "members": 13
+   "members": 16
   },
   {
    "months": 60,
-   "members": 8
+   "members": 16
   }
  ],
  "events": {
-  "new_members": 1,
+  "new_members": 2,
   "rejoins": 0,
-  "milestones": 0,
-  "gifted_total": 0
+  "milestones": 4,
+  "gifted_total": 1
  },
  "tiers": [
   {
    "tier": "Pentomo Family",
    "price": 490,
-   "confirmed_members": 15,
-   "estimated_members": 52.0
+   "confirmed_members": 24,
+   "estimated_members": 86.0
   }
  ],
  "revenue": {
-  "monthly_low": 16215,
-  "monthly_est": 16215,
-  "gift_once": 0
+  "monthly_low": 26816,
+  "monthly_est": 26816,
+  "gift_once": 312
  },
- "avg_member_chatters": 52,
+ "avg_member_chatters": 58.5,
  "partial": true,
  "finalized": false
 }

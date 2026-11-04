@@ -2,65 +2,66 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-04"
+  "to": "2026-11-05"
  },
- "streams_analyzed": 4,
+ "streams_analyzed": 6,
  "streams_missed": 0,
- "unique_chatters": 380,
- "members_confirmed": 177,
+ "unique_chatters": 549,
+ "members_confirmed": 223,
  "member_classes": {
-  "known": 94,
-  "unknown": 83
+  "known": 107,
+  "unknown": 111,
+  "gift": 5
  },
- "long_term_members": 114,
+ "long_term_members": 138,
  "badges": [
   {
    "months": 0,
-   "members": 9
+   "members": 15
   },
   {
    "months": 1,
-   "members": 3
+   "members": 7
   },
   {
    "months": 2,
-   "members": 32
+   "members": 35
   },
   {
    "months": 6,
-   "members": 19
+   "members": 28
   },
   {
    "months": 12,
-   "members": 114
+   "members": 138
   }
  ],
  "events": {
-  "new_members": 2,
-  "rejoins": 1,
-  "milestones": 14,
-  "gifted_total": 0
+  "new_members": 5,
+  "rejoins": 4,
+  "milestones": 24,
+  "gifted_total": 5
  },
  "tiers": [
   {
    "tier": "Seinyan （セイニャン）",
    "price": 490,
-   "confirmed_members": 27,
-   "estimated_members": 50.8
+   "confirmed_members": 36,
+   "estimated_members": 73.3
   },
   {
    "tier": "Big Seinyan (セイニャンましまし）",
    "price": 1190,
-   "confirmed_members": 67,
-   "estimated_members": 126.2
+   "confirmed_members": 71,
+   "estimated_members": 144.7
   }
  ],
  "revenue": {
-  "monthly_low": 85037,
-  "monthly_est": 111390,
-  "gift_once": 0
+  "monthly_low": 99604,
+  "monthly_est": 132413,
+  "gift_once": 1559
  },
- "avg_member_chatters": 97,
+ "avg_member_chatters": 100.2,
  "partial": true,
  "finalized": false
 }

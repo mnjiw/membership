@@ -2,33 +2,33 @@
  "channel": "Rai Galilei【NIJISANJI / にじさんじ】",
  "channel_id": "UC8Snw5i4eOJXEQqURAK17hQ",
  "handle": "@RaiGalilei",
- "subscribers": 57800,
- "fetched_at": "2026-11-04 11:19",
- "generated_at": "2026-11-04 11:20",
+ "subscribers": 57900,
+ "fetched_at": "2026-11-05 05:26",
+ "generated_at": "2026-11-05 05:26",
  "period": {
-  "from": "2026-10-05 11:19",
-  "to": "2026-11-04 11:19",
+  "from": "2026-10-06 05:26",
+  "to": "2026-11-05 05:26",
   "days": 30
  },
- "streams_analyzed": 14,
+ "streams_analyzed": 16,
  "streams_missed": 0,
- "unique_chatters": 225,
- "members_confirmed": 74,
+ "unique_chatters": 252,
+ "members_confirmed": 79,
  "member_classes": {
   "unknown": 12,
   "known": 6,
-  "gift": 56
+  "gift": 61
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 52
+   "members": 54
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 3
+   "members": 6
   },
   {
    "months": 2,
@@ -55,9 +55,9 @@
   "new_members": 0,
   "rejoins": 1,
   "milestones": 2,
-  "gift_purchases": 11,
-  "gifted_total": 56,
-  "gift_redemptions": 56
+  "gift_purchases": 12,
+  "gifted_total": 61,
+  "gift_redemptions": 61
  },
  "tiers_configured": true,
  "tiers": [
@@ -76,9 +76,9 @@
  "revenue": {
   "monthly_low": 5613,
   "monthly_est": 5613,
-  "gift_once": 17462,
-  "total_low": 23075,
-  "total_est": 23075,
+  "gift_once": 19021,
+  "total_low": 24634,
+  "total_est": 24634,
   "paying_members": 18,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -227,6 +227,26 @@
    "member_chatters": 31,
    "new_members": 0,
    "gifted_total": 25
+  },
+  {
+   "video_id": "5gfIpaTLe2o",
+   "start": "2026-11-04 08:01",
+   "title": "【GTAV #DistrictV2】 The OZ: \"The Trick!\"【NIJISANJI】",
+   "kind": "配信",
+   "chatters": 69,
+   "member_chatters": 14,
+   "new_members": 0,
+   "gifted_total": 5
+  },
+  {
+   "video_id": "Jha3u3HP7Xs",
+   "start": "2026-11-04 14:40",
+   "title": "【GTAV #DistrictV2】 The OZ: \"The Trick!\" (2)【NIJISANJI】",
+   "kind": "配信",
+   "chatters": 34,
+   "member_chatters": 6,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -361,6 +381,67 @@
    },
    "avg_member_chatters": 8,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-05"
+   },
+   "streams_analyzed": 2,
+   "streams_missed": 0,
+   "unique_chatters": 80,
+   "members_confirmed": 15,
+   "member_classes": {
+    "unknown": 9,
+    "gift": 5,
+    "known": 1
+   },
+   "long_term_members": 5,
+   "badges": [
+    {
+     "months": 0,
+     "members": 4
+    },
+    {
+     "months": 1,
+     "members": 3
+    },
+    {
+     "months": 2,
+     "members": 3
+    },
+    {
+     "months": 12,
+     "members": 1
+    },
+    {
+     "months": 24,
+     "members": 4
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 0,
+    "milestones": 0,
+    "gifted_total": 5
+   },
+   "tiers": [
+    {
+     "tier": "A.I.D Program",
+     "price": 490,
+     "confirmed_members": 1,
+     "estimated_members": 10.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 3118,
+    "monthly_est": 3118,
+    "gift_once": 1559
+   },
+   "avg_member_chatters": 10,
+   "partial": true,
    "finalized": false
   }
  ],

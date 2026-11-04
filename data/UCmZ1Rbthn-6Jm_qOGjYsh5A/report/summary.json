@@ -3,15 +3,15 @@
  "channel_id": "UCmZ1Rbthn-6Jm_qOGjYsh5A",
  "handle": "@Ibrahim",
  "subscribers": 926000,
- "fetched_at": "2026-11-04 11:19",
- "generated_at": "2026-11-04 11:19",
+ "fetched_at": "2026-11-05 05:24",
+ "generated_at": "2026-11-05 05:24",
  "period": {
-  "from": "2026-10-05 11:19",
-  "to": "2026-11-04 11:19",
+  "from": "2026-10-06 05:24",
+  "to": "2026-11-05 05:24",
   "days": 30
  },
  "streams_analyzed": 21,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 6915,
  "members_confirmed": 1323,
  "member_classes": {
@@ -299,7 +299,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "mn2XNsxEFo4",
+   "start": "2026-11-04 00:00",
+   "title": "【ゼルダの伝説スカイウォードソード】今までの思い出が俺たちのスカイウォードだ！④【にじさんじ/イブラヒム】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 1295,
+   "view_count": 93934
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -437,10 +450,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-04"
+    "to": "2026-11-05"
    },
    "streams_analyzed": 2,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 1218,
    "members_confirmed": 472,
    "member_classes": {

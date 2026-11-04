@@ -2,17 +2,17 @@
  "channel": "水面まどか / Minamo Madoka 【にじさんじ】",
  "channel_id": "UCGLS7BOgNa6c03r7VYacblw",
  "handle": "@MinamoMadoka",
- "subscribers": 146000,
- "fetched_at": "2026-11-04 11:21",
- "generated_at": "2026-11-04 11:21",
+ "subscribers": 147000,
+ "fetched_at": "2026-11-05 05:31",
+ "generated_at": "2026-11-05 05:32",
  "period": {
-  "from": "2026-10-05 11:21",
-  "to": "2026-11-04 11:21",
+  "from": "2026-10-06 05:31",
+  "to": "2026-11-05 05:31",
   "days": 30
  },
  "streams_analyzed": 25,
  "streams_missed": 1,
- "unique_chatters": 2636,
+ "unique_chatters": 2765,
  "members_confirmed": 320,
  "member_classes": {
   "unknown": 291,
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 47
+   "members": 48
   },
   {
    "months": 2,
@@ -33,7 +33,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 208
+   "members": 207
   }
  ],
  "events": {
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "Lx5VR4ewryU",
-   "start": "2026-10-05 17:02",
-   "title": "【 マインクラフト 】全ロス、戻し作業。もくもくマイクラ【 にじさんじ / 水面まどか 】",
-   "kind": "配信",
-   "chatters": 170,
-   "member_chatters": 62,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "x0Swm8s4P3I",
    "start": "2026-10-07 17:32",
@@ -322,6 +312,16 @@
    "member_chatters": 58,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "8bQKGTkIqos",
+   "start": "2026-11-04 14:30",
+   "title": "【 スプラトゥーン3 】長尾先輩に教えを乞う🦑その後プラべ参加 #にじイカ祭り2026【 にじさんじ / 水面まどか 】",
+   "kind": "配信",
+   "chatters": 348,
+   "member_chatters": 57,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -462,29 +462,29 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-04"
+    "to": "2026-11-05"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 4,
    "streams_missed": 0,
-   "unique_chatters": 285,
-   "members_confirmed": 101,
+   "unique_chatters": 537,
+   "members_confirmed": 110,
    "member_classes": {
-    "unknown": 97,
+    "unknown": 106,
     "known": 4
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 6
+     "members": 7
     },
     {
      "months": 2,
-     "members": 18
+     "members": 22
     },
     {
      "months": 6,
-     "members": 77
+     "members": 81
     }
    ],
    "events": {
@@ -498,15 +498,15 @@
      "tier": "水飲み隊",
      "price": 490,
      "confirmed_members": 4,
-     "estimated_members": 101.0
+     "estimated_members": 110.0
     }
    ],
    "revenue": {
-    "monthly_low": 31494,
-    "monthly_est": 31494,
+    "monthly_low": 34300,
+    "monthly_est": 34300,
     "gift_once": 0
    },
-   "avg_member_chatters": 54.7,
+   "avg_member_chatters": 55.2,
    "partial": true,
    "finalized": false
   }

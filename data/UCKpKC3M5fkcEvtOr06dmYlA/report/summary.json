@@ -3,27 +3,27 @@
  "channel_id": "UCKpKC3M5fkcEvtOr06dmYlA",
  "handle": "@YuQ.Wilson",
  "subscribers": 245000,
- "fetched_at": "2026-11-04 11:22",
- "generated_at": "2026-11-04 11:22",
+ "fetched_at": "2026-11-05 05:35",
+ "generated_at": "2026-11-05 05:36",
  "period": {
-  "from": "2026-10-05 11:22",
-  "to": "2026-11-04 11:22",
+  "from": "2026-10-06 05:35",
+  "to": "2026-11-05 05:35",
   "days": 30
  },
- "streams_analyzed": 17,
+ "streams_analyzed": 18,
  "streams_missed": 1,
- "unique_chatters": 2790,
- "members_confirmed": 685,
+ "unique_chatters": 2982,
+ "members_confirmed": 725,
  "member_classes": {
-  "known": 227,
-  "unknown": 284,
-  "gift": 174
+  "known": 255,
+  "unknown": 289,
+  "gift": 181
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 193
+   "members": 202
   },
   {
    "months": 1,
@@ -33,36 +33,36 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 90
+   "members": 98
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 85
+   "members": 88
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 150
+   "members": 156
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 77
+   "members": 86
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 60
+   "members": 65
   }
  ],
  "events": {
   "new_members": 8,
-  "rejoins": 11,
-  "milestones": 160,
-  "gift_purchases": 30,
-  "gifted_total": 173,
-  "gift_redemptions": 174
+  "rejoins": 12,
+  "milestones": 203,
+  "gift_purchases": 33,
+  "gifted_total": 180,
+  "gift_redemptions": 181
  },
  "tiers_configured": true,
  "tiers": [
@@ -70,21 +70,21 @@
    "tier": "Wilsoneers",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 227,
+   "confirmed_members": 255,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 284.0,
-   "estimated_members": 511.0,
-   "monthly_net_confirmed": 99674,
-   "monthly_net_estimated": 224375
+   "allocated_unknown": 289.0,
+   "estimated_members": 544.0,
+   "monthly_net_confirmed": 111968,
+   "monthly_net_estimated": 238865
   }
  ],
  "revenue": {
-  "monthly_low": 224375,
-  "monthly_est": 224375,
-  "gift_once": 75963,
-  "total_low": 300338,
-  "total_est": 300338,
-  "paying_members": 511,
+  "monthly_low": 238865,
+  "monthly_est": 238865,
+  "gift_once": 79036,
+  "total_low": 317902,
+  "total_est": 317902,
+  "paying_members": 544,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -262,6 +262,16 @@
    "member_chatters": 200,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "7w0IvtMrG0A",
+   "start": "2026-11-04 07:49",
+   "title": "【#DISTRICTV2】WELCOME BACK TO PARADISE【NIJISANJI EN | Yu Q. Wilson】",
+   "kind": "配信",
+   "chatters": 764,
+   "member_chatters": 288,
+   "new_members": 0,
+   "gifted_total": 7
   }
  ],
  "missed_streams": [
@@ -434,67 +444,68 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-04"
+    "to": "2026-11-05"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 1,
-   "unique_chatters": 451,
-   "members_confirmed": 200,
+   "unique_chatters": 959,
+   "members_confirmed": 335,
    "member_classes": {
-    "known": 110,
-    "unknown": 90
+    "known": 170,
+    "unknown": 158,
+    "gift": 7
    },
-   "long_term_members": 116,
+   "long_term_members": 179,
    "badges": [
     {
      "months": 0,
-     "members": 11
+     "members": 28
     },
     {
      "months": 1,
-     "members": 7
+     "members": 13
     },
     {
      "months": 2,
-     "members": 29
+     "members": 61
     },
     {
      "months": 6,
-     "members": 37
+     "members": 54
     },
     {
      "months": 12,
-     "members": 59
+     "members": 88
     },
     {
      "months": 24,
-     "members": 30
+     "members": 54
     },
     {
      "months": 36,
-     "members": 27
+     "members": 37
     }
    ],
    "events": {
     "new_members": 0,
-    "rejoins": 1,
-    "milestones": 13,
-    "gifted_total": 0
+    "rejoins": 2,
+    "milestones": 56,
+    "gifted_total": 7
    },
    "tiers": [
     {
      "tier": "Wilsoneers",
      "price": 690,
-     "confirmed_members": 110,
-     "estimated_members": 200.0
+     "confirmed_members": 170,
+     "estimated_members": 328.0
     }
    ],
    "revenue": {
-    "monthly_low": 87818,
-    "monthly_est": 87818,
-    "gift_once": 0
+    "monthly_low": 144022,
+    "monthly_est": 144022,
+    "gift_once": 3074
    },
-   "avg_member_chatters": 200,
+   "avg_member_chatters": 244,
    "partial": true,
    "finalized": false
   }

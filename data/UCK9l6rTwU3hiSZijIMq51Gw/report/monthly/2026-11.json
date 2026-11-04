@@ -2,22 +2,22 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-04"
+  "to": "2026-11-05"
  },
- "streams_analyzed": 1,
- "streams_missed": 0,
- "unique_chatters": 155,
- "members_confirmed": 96,
+ "streams_analyzed": 2,
+ "streams_missed": 1,
+ "unique_chatters": 203,
+ "members_confirmed": 114,
  "member_classes": {
-  "known": 33,
-  "unknown": 58,
+  "known": 37,
+  "unknown": 72,
   "gift": 5
  },
- "long_term_members": 62,
+ "long_term_members": 78,
  "badges": [
   {
    "months": 0,
-   "members": 10
+   "members": 11
   },
   {
    "months": 1,
@@ -29,15 +29,15 @@
   },
   {
    "months": 6,
-   "members": 9
+   "members": 10
   },
   {
    "months": 12,
-   "members": 24
+   "members": 28
   },
   {
    "months": 24,
-   "members": 38
+   "members": 50
   }
  ],
  "events": {
@@ -50,16 +50,16 @@
   {
    "tier": "VezShip",
    "price": 490,
-   "confirmed_members": 33,
-   "estimated_members": 91.0
+   "confirmed_members": 37,
+   "estimated_members": 109.0
   }
  ],
  "revenue": {
-  "monthly_low": 28375,
-  "monthly_est": 28375,
+  "monthly_low": 33988,
+  "monthly_est": 33988,
   "gift_once": 1559
  },
- "avg_member_chatters": 96,
+ "avg_member_chatters": 81,
  "partial": true,
  "finalized": false
 }

@@ -3,20 +3,20 @@
  "channel_id": "UC_82HBGtvwN1hcGeOGHzUBQ",
  "handle": "@SorahoshiKirame",
  "subscribers": 208000,
- "fetched_at": "2026-11-04 11:19",
- "generated_at": "2026-11-04 11:19",
+ "fetched_at": "2026-11-05 05:25",
+ "generated_at": "2026-11-05 05:25",
  "period": {
-  "from": "2026-10-05 11:19",
-  "to": "2026-11-04 11:19",
+  "from": "2026-10-06 05:25",
+  "to": "2026-11-05 05:25",
   "days": 30
  },
- "streams_analyzed": 14,
- "streams_missed": 2,
- "unique_chatters": 620,
- "members_confirmed": 149,
+ "streams_analyzed": 13,
+ "streams_missed": 3,
+ "unique_chatters": 574,
+ "members_confirmed": 148,
  "member_classes": {
-  "unknown": 121,
   "known": 24,
+  "unknown": 120,
   "gift": 4
  },
  "badges": [
@@ -48,7 +48,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 108
+   "members": 107
   }
  ],
  "events": {
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 24,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 121.0,
-   "estimated_members": 145.0,
+   "allocated_unknown": 120.0,
+   "estimated_members": 144.0,
    "monthly_net_confirmed": 7484,
-   "monthly_net_estimated": 45214
+   "monthly_net_estimated": 44902
   }
  ],
  "revenue": {
-  "monthly_low": 45214,
-  "monthly_est": 45214,
+  "monthly_low": 44902,
+  "monthly_est": 44902,
   "gift_once": 1559,
-  "total_low": 46773,
-  "total_est": 46773,
-  "paying_members": 145,
+  "total_low": 46461,
+  "total_est": 46461,
+  "paying_members": 144,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "rFo23r3sJ9A",
-   "start": "2026-10-05 22:05",
-   "title": "【ストリートファイター6】イングリッドでランクマ挑戦なのじゃ！【にじさんじ／空星きらめ】",
-   "kind": "配信",
-   "chatters": 136,
-   "member_chatters": 54,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "BffqG41hTac",
    "start": "2026-10-06 22:01",
@@ -253,6 +243,18 @@
    "members_level": "",
    "like_count": 48,
    "view_count": null
+  },
+  {
+   "video_id": "QzuvCP_vwdg",
+   "start": "2026-11-04 00:00",
+   "title": "【スプラ3 ¦ #にじイカ祭り2026】チーム21顔合わせだ～！！！くコ:彡【にじさんじ／空星きらめ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 405,
+   "view_count": 14237
   }
  ],
  "members_only_content": [
@@ -413,10 +415,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-04"
+    "to": "2026-11-05"
    },
    "streams_analyzed": 3,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 180,
    "members_confirmed": 78,
    "member_classes": {
