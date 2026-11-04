@@ -3,26 +3,26 @@
  "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
  "handle": "@kazamairoha",
  "subscribers": 1150000,
- "fetched_at": "2026-11-04 06:31",
- "generated_at": "2026-11-04 06:31",
+ "fetched_at": "2026-11-04 11:24",
+ "generated_at": "2026-11-04 11:25",
  "period": {
-  "from": "2026-10-05 06:31",
-  "to": "2026-11-04 06:31",
+  "from": "2026-10-05 11:24",
+  "to": "2026-11-04 11:24",
   "days": 30
  },
  "streams_analyzed": 37,
  "streams_missed": 4,
- "unique_chatters": 11301,
- "members_confirmed": 2791,
+ "unique_chatters": 11485,
+ "members_confirmed": 2822,
  "member_classes": {
-  "known": 529,
-  "unknown": 2262
+  "unknown": 2288,
+  "known": 534
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 91
+   "members": 95
   },
   {
    "months": 1,
@@ -32,33 +32,33 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 219
+   "members": 213
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 251
+   "members": 254
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 620
+   "members": 628
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 369
+   "members": 374
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 1188
+   "members": 1205
   }
  ],
  "events": {
-  "new_members": 44,
+  "new_members": 45,
   "rejoins": 29,
-  "milestones": 199,
+  "milestones": 200,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -69,21 +69,21 @@
    "tier": "かざま隊",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 529,
+   "confirmed_members": 534,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2262.0,
-   "estimated_members": 2791.0,
-   "monthly_net_confirmed": 164952,
-   "monthly_net_estimated": 870285
+   "allocated_unknown": 2288.0,
+   "estimated_members": 2822.0,
+   "monthly_net_confirmed": 166511,
+   "monthly_net_estimated": 879951
   }
  ],
  "revenue": {
-  "monthly_low": 870285,
-  "monthly_est": 870285,
+  "monthly_low": 879951,
+  "monthly_est": 879951,
   "gift_once": 0,
-  "total_low": 870285,
-  "total_est": 870285,
-  "paying_members": 2791,
+  "total_low": 879951,
+  "total_est": 879951,
+  "paying_members": 2822,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -92,16 +92,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "UevNUaXWlXk",
-   "start": "2026-10-05 07:00",
-   "title": "【#ホロドリ】朝活☀#ござる金冠チャレンジ👑DAY2🎣【風真いろは/ホロライブ】",
-   "kind": "配信",
-   "chatters": 1141,
-   "member_chatters": 513,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "0_DX6RJ4a0s",
    "start": "2026-10-06 07:00",
@@ -461,6 +451,16 @@
    "member_chatters": 629,
    "new_members": 3,
    "gifted_total": 0
+  },
+  {
+   "video_id": "tkjuTCF0-LE",
+   "start": "2026-11-04 08:01",
+   "title": "【朝活】朝、お茶をｼﾊﾞｰｷながらおはなしする人🍵【風真いろは/ホロライブ】",
+   "kind": "配信",
+   "chatters": 1448,
+   "member_chatters": 605,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -497,7 +497,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "かざま隊",
-   "like_count": 1488,
+   "like_count": 1490,
    "view_count": null
   },
   {
@@ -509,7 +509,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "かざま隊",
-   "like_count": 1301,
+   "like_count": 1319,
    "view_count": null
   }
  ],
@@ -531,7 +531,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "かざま隊",
-   "like_count": 1488,
+   "like_count": 1490,
    "view_count": null
   },
   {
@@ -541,7 +541,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "かざま隊",
-   "like_count": 1301,
+   "like_count": 1319,
    "view_count": null
   }
  ],
@@ -689,65 +689,65 @@
     "from": "2026-11-01",
     "to": "2026-11-04"
    },
-   "streams_analyzed": 2,
+   "streams_analyzed": 3,
    "streams_missed": 1,
-   "unique_chatters": 1937,
-   "members_confirmed": 926,
+   "unique_chatters": 2929,
+   "members_confirmed": 1203,
    "member_classes": {
-    "unknown": 689,
-    "known": 237
+    "unknown": 911,
+    "known": 292
    },
-   "long_term_members": 762,
+   "long_term_members": 981,
    "badges": [
     {
      "months": 0,
-     "members": 21
+     "members": 29
     },
     {
      "months": 1,
-     "members": 11
+     "members": 14
     },
     {
      "months": 2,
-     "members": 55
+     "members": 71
     },
     {
      "months": 6,
-     "members": 77
+     "members": 108
     },
     {
      "months": 12,
-     "members": 208
+     "members": 267
     },
     {
      "months": 24,
-     "members": 114
+     "members": 146
     },
     {
      "months": 36,
-     "members": 440
+     "members": 568
     }
    ],
    "events": {
-    "new_members": 5,
-    "rejoins": 4,
-    "milestones": 7,
+    "new_members": 6,
+    "rejoins": 5,
+    "milestones": 12,
     "gifted_total": 0
    },
    "tiers": [
     {
      "tier": "かざま隊",
      "price": 490,
-     "confirmed_members": 237,
-     "estimated_members": 926.0
+     "confirmed_members": 292,
+     "estimated_members": 1203.0
     }
    ],
    "revenue": {
-    "monthly_low": 288744,
-    "monthly_est": 288744,
+    "monthly_low": 375117,
+    "monthly_est": 375117,
     "gift_once": 0
    },
-   "avg_member_chatters": 612.5,
+   "avg_member_chatters": 610,
    "partial": true,
    "finalized": false
   }

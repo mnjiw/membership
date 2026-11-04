@@ -3,27 +3,27 @@
  "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
  "handle": "@OokamiMio",
  "subscribers": 1360000,
- "fetched_at": "2026-11-04 06:20",
- "generated_at": "2026-11-04 06:23",
+ "fetched_at": "2026-11-04 11:23",
+ "generated_at": "2026-11-04 11:23",
  "period": {
-  "from": "2026-10-05 06:20",
-  "to": "2026-11-04 06:20",
+  "from": "2026-10-05 11:23",
+  "to": "2026-11-04 11:23",
   "days": 30
  },
- "streams_analyzed": 15,
+ "streams_analyzed": 14,
  "streams_missed": 1,
- "unique_chatters": 15015,
- "members_confirmed": 3657,
+ "unique_chatters": 13519,
+ "members_confirmed": 3466,
  "member_classes": {
-  "unknown": 2931,
-  "known": 524,
-  "gift": 202
+  "unknown": 2770,
+  "known": 510,
+  "gift": 186
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 301
+   "members": 279
   },
   {
    "months": 1,
@@ -33,46 +33,46 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 182
+   "members": 175
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 264
+   "members": 248
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 782
+   "members": 738
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 635
+   "members": 596
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 397
+   "members": 372
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 374
+   "members": 358
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 679
+   "members": 657
   }
  ],
  "events": {
-  "new_members": 32,
-  "rejoins": 14,
-  "milestones": 339,
-  "gift_purchases": 40,
-  "gifted_total": 233,
-  "gift_redemptions": 202
+  "new_members": 29,
+  "rejoins": 11,
+  "milestones": 315,
+  "gift_purchases": 36,
+  "gifted_total": 207,
+  "gift_redemptions": 186
  },
  "tiers_configured": true,
  "tiers": [
@@ -80,21 +80,21 @@
    "tier": "ミオファの森のミオファ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 524,
+   "confirmed_members": 510,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2931.0,
-   "estimated_members": 3455.0,
-   "monthly_net_confirmed": 163393,
-   "monthly_net_estimated": 1077332
+   "allocated_unknown": 2770.0,
+   "estimated_members": 3280.0,
+   "monthly_net_confirmed": 159027,
+   "monthly_net_estimated": 1022764
   }
  ],
  "revenue": {
-  "monthly_low": 1077332,
-  "monthly_est": 1077332,
-  "gift_once": 72654,
-  "total_low": 1149985,
-  "total_est": 1149985,
-  "paying_members": 3455,
+  "monthly_low": 1022764,
+  "monthly_est": 1022764,
+  "gift_once": 64546,
+  "total_low": 1087310,
+  "total_est": 1087310,
+  "paying_members": 3280,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -103,16 +103,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "VrdeGNP4mjU",
-   "start": "2026-10-05 09:23",
-   "title": "【#朝ミオ 】１０月だよ！月曜日だよ～～！おはみぉーん！",
-   "kind": "配信",
-   "chatters": 3677,
-   "member_chatters": 1103,
-   "new_members": 3,
-   "gifted_total": 26
-  },
   {
    "video_id": "rdQ6_Umq43c",
    "start": "2026-10-05 19:00",
@@ -264,7 +254,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 1363,
+   "like_count": 1371,
    "view_count": null
   }
  ],
@@ -276,7 +266,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 1363,
+   "like_count": 1371,
    "view_count": null
   }
  ],

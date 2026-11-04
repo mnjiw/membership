@@ -3,19 +3,19 @@
  "channel_id": "UCL34fAoFim9oHLbVzMKFavQ",
  "handle": "@YorumiRena",
  "subscribers": 606000,
- "fetched_at": "2026-11-04 05:26",
- "generated_at": "2026-11-04 05:26",
+ "fetched_at": "2026-11-04 11:18",
+ "generated_at": "2026-11-04 11:19",
  "period": {
-  "from": "2026-10-05 05:26",
-  "to": "2026-11-04 05:26",
+  "from": "2026-10-05 11:18",
+  "to": "2026-11-04 11:18",
   "days": 30
  },
- "streams_analyzed": 14,
- "streams_missed": 1,
- "unique_chatters": 1570,
- "members_confirmed": 251,
+ "streams_analyzed": 15,
+ "streams_missed": 0,
+ "unique_chatters": 1638,
+ "members_confirmed": 257,
  "member_classes": {
-  "unknown": 236,
+  "unknown": 242,
   "known": 15
  },
  "badges": [
@@ -32,12 +32,12 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 12
+   "members": 11
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 14
+   "members": 15
   },
   {
    "months": 12,
@@ -52,7 +52,7 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 31
+   "members": 32
   },
   {
    "months": 48,
@@ -62,7 +62,7 @@
   {
    "months": 60,
    "label": "5年",
-   "members": 116
+   "members": 121
   }
  ],
  "events": {
@@ -81,19 +81,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 15,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 236.0,
-   "estimated_members": 251.0,
+   "allocated_unknown": 242.0,
+   "estimated_members": 257.0,
    "monthly_net_confirmed": 4677,
-   "monthly_net_estimated": 78266
+   "monthly_net_estimated": 80137
   }
  ],
  "revenue": {
-  "monthly_low": 78266,
-  "monthly_est": 78266,
+  "monthly_low": 80137,
+  "monthly_est": 80137,
   "gift_once": 0,
-  "total_low": 78266,
-  "total_est": 78266,
-  "paying_members": 251,
+  "total_low": 80137,
+  "total_est": 80137,
+  "paying_members": 257,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -241,22 +241,19 @@
    "member_chatters": 61,
    "new_members": 0,
    "gifted_total": 0
-  }
- ],
- "missed_streams": [
+  },
   {
    "video_id": "u1ZrEWAPRXI",
-   "start": "2026-11-03 00:00",
+   "start": "2026-11-04 00:00",
    "title": "【 Livin' the Cream: Ice Cream Simulator 】アイスクリームショップ経営🍦 【 にじさんじ / 夜見れな 】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 1526,
-   "view_count": 51140
+   "kind": "配信",
+   "chatters": 272,
+   "member_chatters": 97,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -410,6 +407,74 @@
    },
    "avg_member_chatters": 88.8,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-04"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 272,
+   "members_confirmed": 97,
+   "member_classes": {
+    "unknown": 94,
+    "known": 3
+   },
+   "long_term_members": 89,
+   "badges": [
+    {
+     "months": 2,
+     "members": 3
+    },
+    {
+     "months": 6,
+     "members": 5
+    },
+    {
+     "months": 12,
+     "members": 7
+    },
+    {
+     "months": 24,
+     "members": 6
+    },
+    {
+     "months": 36,
+     "members": 7
+    },
+    {
+     "months": 48,
+     "members": 13
+    },
+    {
+     "months": 60,
+     "members": 56
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 0,
+    "milestones": 0,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "夜見のひよこプラン",
+     "price": 490,
+     "confirmed_members": 3,
+     "estimated_members": 97.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 30246,
+    "monthly_est": 30246,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 97,
+   "partial": true,
    "finalized": false
   }
  ],

@@ -3,16 +3,16 @@
  "channel_id": "UCfQVs_KuXeNAlGa3fb8rlnQ",
  "handle": "@SakuraRitsuki",
  "subscribers": 282000,
- "fetched_at": "2026-11-04 05:23",
- "generated_at": "2026-11-04 05:24",
+ "fetched_at": "2026-11-04 11:18",
+ "generated_at": "2026-11-04 11:18",
  "period": {
-  "from": "2026-10-05 05:23",
-  "to": "2026-11-04 05:23",
+  "from": "2026-10-05 11:18",
+  "to": "2026-11-04 11:18",
   "days": 30
  },
- "streams_analyzed": 47,
- "streams_missed": 3,
- "unique_chatters": 1682,
+ "streams_analyzed": 48,
+ "streams_missed": 2,
+ "unique_chatters": 1702,
  "members_confirmed": 123,
  "member_classes": {
   "known": 16,
@@ -578,6 +578,16 @@
    "member_chatters": 38,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "S2UaMapvn9U",
+   "start": "2026-11-03 19:54",
+   "title": "【#にじイカ祭り2026】水とーよWIN 21時から対抗戦【にじさんじ/桜凛月】",
+   "kind": "配信",
+   "chatters": 115,
+   "member_chatters": 47,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -604,18 +614,6 @@
    "members_level": "",
    "like_count": 31,
    "view_count": null
-  },
-  {
-   "video_id": "S2UaMapvn9U",
-   "start": "2026-11-03 00:00",
-   "title": "【#にじイカ祭り2026】水とーよWIN 21時から対抗戦【にじさんじ/桜凛月】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 442,
-   "view_count": 22391
   }
  ],
  "members_only_content": [
@@ -805,16 +803,16 @@
     "from": "2026-11-01",
     "to": "2026-11-04"
    },
-   "streams_analyzed": 5,
-   "streams_missed": 1,
-   "unique_chatters": 448,
-   "members_confirmed": 82,
+   "streams_analyzed": 6,
+   "streams_missed": 0,
+   "unique_chatters": 478,
+   "members_confirmed": 85,
    "member_classes": {
-    "unknown": 55,
+    "unknown": 58,
     "known": 12,
     "gift": 15
    },
-   "long_term_members": 61,
+   "long_term_members": 64,
    "badges": [
     {
      "months": 0,
@@ -838,11 +836,11 @@
     },
     {
      "months": 36,
-     "members": 6
+     "members": 7
     },
     {
      "months": 48,
-     "members": 44
+     "members": 46
     }
    ],
    "events": {
@@ -856,21 +854,21 @@
      "tier": "桜ンボの箱舟",
      "price": 490,
      "confirmed_members": 3,
-     "estimated_members": 16.8
+     "estimated_members": 17.5
     },
     {
      "tier": "桜SP",
      "price": 3490,
      "confirmed_members": 9,
-     "estimated_members": 50.2
+     "estimated_members": 52.5
     }
    ],
    "revenue": {
-    "monthly_low": 38074,
-    "monthly_est": 116824,
+    "monthly_low": 39009,
+    "monthly_est": 122055,
     "gift_once": 4677
    },
-   "avg_member_chatters": 41.4,
+   "avg_member_chatters": 42.3,
    "partial": true,
    "finalized": false
   }

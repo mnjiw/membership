@@ -3,15 +3,15 @@
  "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
  "handle": "@ShioriNovella",
  "subscribers": 757000,
- "fetched_at": "2026-11-04 06:38",
- "generated_at": "2026-11-04 06:38",
+ "fetched_at": "2026-11-04 11:26",
+ "generated_at": "2026-11-04 11:26",
  "period": {
-  "from": "2026-10-05 06:38",
-  "to": "2026-11-04 06:38",
+  "from": "2026-10-05 11:26",
+  "to": "2026-11-04 11:26",
   "days": 30
  },
  "streams_analyzed": 10,
- "streams_missed": 2,
+ "streams_missed": 3,
  "unique_chatters": 5200,
  "members_confirmed": 1750,
  "member_classes": {
@@ -221,7 +221,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "Bookwyrm",
-   "like_count": 747,
+   "like_count": 748,
    "view_count": null
   },
   {
@@ -233,8 +233,20 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "Bookwyrm",
-   "like_count": 407,
+   "like_count": 408,
    "view_count": null
+  },
+  {
+   "video_id": "ZryTcFRL0uk",
+   "start": "2026-11-03 00:00",
+   "title": "Official Unc Status Achieved 【OPUS: Prism Peak】❗Spoilers",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 4463,
+   "view_count": 35495
   }
  ],
  "members_only_content": [
@@ -245,7 +257,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "Bookwyrm",
-   "like_count": 747,
+   "like_count": 748,
    "view_count": null
   },
   {
@@ -255,7 +267,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "Bookwyrm",
-   "like_count": 407,
+   "like_count": 408,
    "view_count": null
   }
  ],
@@ -399,7 +411,7 @@
     "to": "2026-11-04"
    },
    "streams_analyzed": 1,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 1195,
    "members_confirmed": 511,
    "member_classes": {

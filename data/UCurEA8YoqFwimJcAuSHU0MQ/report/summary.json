@@ -3,19 +3,19 @@
  "channel_id": "UCurEA8YoqFwimJcAuSHU0MQ",
  "handle": "@lisahanabusa",
  "subscribers": 581000,
- "fetched_at": "2026-11-04 06:41",
- "generated_at": "2026-11-04 06:41",
+ "fetched_at": "2026-11-04 11:27",
+ "generated_at": "2026-11-04 11:27",
  "period": {
-  "from": "2026-10-05 06:41",
-  "to": "2026-11-04 06:41",
+  "from": "2026-10-05 11:27",
+  "to": "2026-11-04 11:27",
   "days": 30
  },
- "streams_analyzed": 26,
- "streams_missed": 2,
- "unique_chatters": 5481,
- "members_confirmed": 606,
+ "streams_analyzed": 27,
+ "streams_missed": 1,
+ "unique_chatters": 5625,
+ "members_confirmed": 612,
  "member_classes": {
-  "unknown": 556,
+  "unknown": 562,
   "known": 45,
   "gift": 5
  },
@@ -38,12 +38,12 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 45
+   "members": 48
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 165
+   "members": 167
   },
   {
    "months": 24,
@@ -58,7 +58,7 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 58
+   "members": 59
   },
   {
    "months": 60,
@@ -82,19 +82,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 45,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 556.0,
-   "estimated_members": 601.0,
+   "allocated_unknown": 562.0,
+   "estimated_members": 607.0,
    "monthly_net_confirmed": 14032,
-   "monthly_net_estimated": 187403
+   "monthly_net_estimated": 189274
   }
  ],
  "revenue": {
-  "monthly_low": 187403,
-  "monthly_est": 187403,
+  "monthly_low": 189274,
+  "monthly_est": 189274,
   "gift_once": 1559,
-  "total_low": 188962,
-  "total_est": 188962,
-  "paying_members": 601,
+  "total_low": 190833,
+  "total_est": 190833,
+  "paying_members": 607,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -362,6 +362,16 @@
    "member_chatters": 119,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "UAyCbSSWUyE",
+   "start": "2026-11-03 23:17",
+   "title": "【APEX】フルパ？フルパーー！【ぶいすぽっ！/英リサ】",
+   "kind": "配信",
+   "chatters": 472,
+   "member_chatters": 119,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -374,20 +384,8 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "下僕",
-   "like_count": 123,
+   "like_count": 125,
    "view_count": null
-  },
-  {
-   "video_id": "UAyCbSSWUyE",
-   "start": "2026-11-03 00:00",
-   "title": "【APEX】フルパ？フルパーー！【ぶいすぽっ！/英リサ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 2146,
-   "view_count": 226180
   }
  ],
  "members_only_content": [
@@ -398,7 +396,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "下僕",
-   "like_count": 123,
+   "like_count": 125,
    "view_count": null
   }
  ],
@@ -552,19 +550,19 @@
     "from": "2026-11-01",
     "to": "2026-11-04"
    },
-   "streams_analyzed": 2,
-   "streams_missed": 1,
-   "unique_chatters": 744,
-   "members_confirmed": 167,
+   "streams_analyzed": 3,
+   "streams_missed": 0,
+   "unique_chatters": 1035,
+   "members_confirmed": 207,
    "member_classes": {
-    "unknown": 154,
-    "known": 13
+    "unknown": 192,
+    "known": 15
    },
-   "long_term_members": 126,
+   "long_term_members": 156,
    "badges": [
     {
      "months": 0,
-     "members": 5
+     "members": 6
     },
     {
      "months": 1,
@@ -572,31 +570,31 @@
     },
     {
      "months": 2,
-     "members": 21
-    },
-    {
-     "months": 6,
-     "members": 11
-    },
-    {
-     "months": 12,
-     "members": 43
-    },
-    {
-     "months": 24,
-     "members": 20
-    },
-    {
-     "months": 36,
      "members": 25
     },
     {
+     "months": 6,
+     "members": 16
+    },
+    {
+     "months": 12,
+     "members": 54
+    },
+    {
+     "months": 24,
+     "members": 28
+    },
+    {
+     "months": 36,
+     "members": 28
+    },
+    {
      "months": 48,
-     "members": 23
+     "members": 28
     },
     {
      "months": 60,
-     "members": 15
+     "members": 18
     }
    ],
    "events": {
@@ -609,16 +607,16 @@
     {
      "tier": "下僕",
      "price": 490,
-     "confirmed_members": 13,
-     "estimated_members": 167.0
+     "confirmed_members": 15,
+     "estimated_members": 207.0
     }
    ],
    "revenue": {
-    "monthly_low": 52074,
-    "monthly_est": 52074,
+    "monthly_low": 64546,
+    "monthly_est": 64546,
     "gift_once": 0
    },
-   "avg_member_chatters": 118,
+   "avg_member_chatters": 118.3,
    "partial": true,
    "finalized": false
   }
