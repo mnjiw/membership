@@ -3,32 +3,32 @@
  "channel_id": "UC_a1ZYZ8ZTXpjg9xUY9sj8w",
  "handle": "@LuluSuzuhara",
  "subscribers": 777000,
- "fetched_at": "2026-11-05 11:24",
- "generated_at": "2026-11-05 11:24",
+ "fetched_at": "2026-11-06 05:21",
+ "generated_at": "2026-11-06 05:22",
  "period": {
-  "from": "2026-10-06 11:24",
-  "to": "2026-11-05 11:24",
+  "from": "2026-10-07 05:21",
+  "to": "2026-11-06 05:21",
   "days": 30
  },
  "streams_analyzed": 19,
- "streams_missed": 2,
- "unique_chatters": 6339,
- "members_confirmed": 780,
+ "streams_missed": 1,
+ "unique_chatters": 6374,
+ "members_confirmed": 783,
  "member_classes": {
-  "unknown": 746,
-  "known": 14,
-  "gift": 20
+  "unknown": 749,
+  "known": 15,
+  "gift": 19
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 39
+   "members": 38
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 5
+   "members": 6
   },
   {
    "months": 2,
@@ -38,26 +38,26 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 430
+   "members": 433
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 117
+   "members": 115
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 129
+   "members": 131
   }
  ],
  "events": {
-  "new_members": 5,
+  "new_members": 6,
   "rejoins": 4,
   "milestones": 0,
-  "gift_purchases": 21,
-  "gifted_total": 21,
-  "gift_redemptions": 20
+  "gift_purchases": 20,
+  "gifted_total": 20,
+  "gift_redemptions": 19
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +65,21 @@
    "tier": "魔界レベル1",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 14,
+   "confirmed_members": 15,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 746.0,
-   "estimated_members": 760.0,
-   "monthly_net_confirmed": 4365,
-   "monthly_net_estimated": 236982
+   "allocated_unknown": 749.0,
+   "estimated_members": 764.0,
+   "monthly_net_confirmed": 4677,
+   "monthly_net_estimated": 238229
   }
  ],
  "revenue": {
-  "monthly_low": 236982,
-  "monthly_est": 236982,
-  "gift_once": 6548,
-  "total_low": 243530,
-  "total_est": 243530,
-  "paying_members": 760,
+  "monthly_low": 238229,
+  "monthly_est": 238229,
+  "gift_once": 6236,
+  "total_low": 244465,
+  "total_est": 244465,
+  "paying_members": 764,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "Dh3YDLDbMTk",
-   "start": "2026-10-07 00:00",
-   "title": "【ドンキーコングGB版！３】クリアまで！！SFCより難しい？！ゲームボーイ版！あそぼおおおおおおおッ！！！！！！　【にじさんじ/鈴原るる】",
-   "kind": "配信",
-   "chatters": 306,
-   "member_chatters": 170,
-   "new_members": 0,
-   "gifted_total": 2
-  },
   {
    "video_id": "t0VWMtHl908",
    "start": "2026-10-07 23:32",
@@ -277,6 +267,16 @@
    "member_chatters": 243,
    "new_members": 1,
    "gifted_total": 1
+  },
+  {
+   "video_id": "naknBxcDpM0",
+   "start": "2026-11-05 00:00",
+   "title": "【Megastore: Tidy Up Together】ゆるりと！深夜のお片付け配信ッ！！！！【にじさんじ/鈴原るる】",
+   "kind": "配信",
+   "chatters": 433,
+   "member_chatters": 203,
+   "new_members": 1,
+   "gifted_total": 1
   }
  ],
  "missed_streams": [
@@ -289,20 +289,8 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 287,
+   "like_count": 288,
    "view_count": null
-  },
-  {
-   "video_id": "naknBxcDpM0",
-   "start": "2026-11-04 00:00",
-   "title": "【Megastore: Tidy Up Together】ゆるりと！深夜のお片付け配信ッ！！！！【にじさんじ/鈴原るる】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 2255,
-   "view_count": 126622
   }
  ],
  "members_only_content": [
@@ -313,7 +301,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 287,
+   "like_count": 288,
    "view_count": null
   }
  ],
@@ -453,60 +441,64 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-05"
+    "to": "2026-11-06"
    },
-   "streams_analyzed": 1,
-   "streams_missed": 1,
-   "unique_chatters": 602,
-   "members_confirmed": 243,
+   "streams_analyzed": 2,
+   "streams_missed": 0,
+   "unique_chatters": 794,
+   "members_confirmed": 299,
    "member_classes": {
-    "unknown": 234,
-    "known": 8,
-    "gift": 1
+    "unknown": 287,
+    "known": 10,
+    "gift": 2
    },
-   "long_term_members": 81,
+   "long_term_members": 95,
    "badges": [
     {
      "months": 0,
-     "members": 8
+     "members": 10
+    },
+    {
+     "months": 1,
+     "members": 1
     },
     {
      "months": 2,
-     "members": 20
+     "members": 22
     },
     {
      "months": 6,
-     "members": 134
+     "members": 171
     },
     {
      "months": 12,
-     "members": 29
+     "members": 32
     },
     {
      "months": 24,
-     "members": 52
+     "members": 63
     }
    ],
    "events": {
-    "new_members": 1,
+    "new_members": 2,
     "rejoins": 0,
     "milestones": 0,
-    "gifted_total": 1
+    "gifted_total": 2
    },
    "tiers": [
     {
      "tier": "魔界レベル1",
      "price": 490,
-     "confirmed_members": 8,
-     "estimated_members": 242.0
+     "confirmed_members": 10,
+     "estimated_members": 297.0
     }
    ],
    "revenue": {
-    "monthly_low": 75460,
-    "monthly_est": 75460,
-    "gift_once": 312
+    "monthly_low": 92610,
+    "monthly_est": 92610,
+    "gift_once": 624
    },
-   "avg_member_chatters": 243,
+   "avg_member_chatters": 223,
    "partial": true,
    "finalized": false
   }

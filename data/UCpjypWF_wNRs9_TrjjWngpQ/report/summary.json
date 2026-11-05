@@ -3,42 +3,42 @@
  "channel_id": "UCpjypWF_wNRs9_TrjjWngpQ",
  "handle": "@NagisaTrout",
  "subscribers": 323000,
- "fetched_at": "2026-11-05 11:27",
- "generated_at": "2026-11-05 11:27",
+ "fetched_at": "2026-11-06 05:33",
+ "generated_at": "2026-11-06 05:34",
  "period": {
-  "from": "2026-10-06 11:27",
-  "to": "2026-11-05 11:27",
+  "from": "2026-10-07 05:33",
+  "to": "2026-11-06 05:33",
   "days": 30
  },
  "streams_analyzed": 21,
  "streams_missed": 0,
- "unique_chatters": 3469,
- "members_confirmed": 742,
+ "unique_chatters": 3410,
+ "members_confirmed": 738,
  "member_classes": {
-  "unknown": 716,
-  "known": 23,
-  "gift": 3
+  "unknown": 714,
+  "known": 22,
+  "gift": 2
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 50
+   "members": 46
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 209
+   "members": 208
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 145
+   "members": 147
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 334
+   "members": 333
   },
   {
    "months": 24,
@@ -47,12 +47,12 @@
   }
  ],
  "events": {
-  "new_members": 16,
+  "new_members": 15,
   "rejoins": 2,
   "milestones": 0,
-  "gift_purchases": 3,
-  "gifted_total": 3,
-  "gift_redemptions": 3
+  "gift_purchases": 2,
+  "gifted_total": 2,
+  "gift_redemptions": 2
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,21 +60,21 @@
    "tier": "とれたていくラ～",
    "price": 390,
    "net_per_member": 248.2,
-   "confirmed_members": 23,
+   "confirmed_members": 22,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 716.0,
-   "estimated_members": 739.0,
-   "monthly_net_confirmed": 5708,
-   "monthly_net_estimated": 183406
+   "allocated_unknown": 714.0,
+   "estimated_members": 736.0,
+   "monthly_net_confirmed": 5460,
+   "monthly_net_estimated": 182662
   }
  ],
  "revenue": {
-  "monthly_low": 183406,
-  "monthly_est": 183406,
-  "gift_once": 745,
-  "total_low": 184151,
-  "total_est": 184151,
-  "paying_members": 739,
+  "monthly_low": 182662,
+  "monthly_est": 182662,
+  "gift_once": 496,
+  "total_low": 183158,
+  "total_est": 183158,
+  "paying_members": 736,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "XqtKJ5GrBKw",
-   "start": "2026-10-06 19:00",
-   "title": "【タンポポは耐える】雨ト気圧ニ負ケル【渚トラウト/にじさんじ】",
-   "kind": "配信",
-   "chatters": 460,
-   "member_chatters": 224,
-   "new_members": 1,
-   "gifted_total": 1
-  },
   {
    "video_id": "_V15Nb0MhJk",
    "start": "2026-10-09 22:31",
@@ -292,6 +282,16 @@
    "member_chatters": 216,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "0P_NzQoF764",
+   "start": "2026-11-05 18:34",
+   "title": "【#にじイカ祭り2026】ティム練Day2!ハイドラララララァ！【渚トラウト/にじさんじ】",
+   "kind": "配信",
+   "chatters": 325,
+   "member_chatters": 185,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -419,34 +419,34 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-05"
+    "to": "2026-11-06"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 4,
    "streams_missed": 0,
-   "unique_chatters": 633,
-   "members_confirmed": 295,
+   "unique_chatters": 723,
+   "members_confirmed": 322,
    "member_classes": {
-    "unknown": 288,
-    "known": 6,
+    "unknown": 314,
+    "known": 7,
     "gift": 1
    },
-   "long_term_members": 156,
+   "long_term_members": 164,
    "badges": [
     {
      "months": 0,
-     "members": 15
+     "members": 14
     },
     {
      "months": 1,
-     "members": 77
+     "members": 89
     },
     {
      "months": 6,
-     "members": 47
+     "members": 55
     },
     {
      "months": 12,
-     "members": 153
+     "members": 161
     },
     {
      "months": 24,
@@ -463,16 +463,16 @@
     {
      "tier": "とれたていくラ～",
      "price": 390,
-     "confirmed_members": 6,
-     "estimated_members": 294.0
+     "confirmed_members": 7,
+     "estimated_members": 321.0
     }
    ],
    "revenue": {
-    "monthly_low": 72965,
-    "monthly_est": 72965,
+    "monthly_low": 79666,
+    "monthly_est": 79666,
     "gift_once": 248
    },
-   "avg_member_chatters": 169.7,
+   "avg_member_chatters": 173.5,
    "partial": true,
    "finalized": false
   }

@@ -3,20 +3,20 @@
  "channel_id": "UCcYrL_GQe8X8K2ARhw_Syww",
  "handle": "@SumeragiReo",
  "subscribers": 141000,
- "fetched_at": "2026-11-05 11:27",
- "generated_at": "2026-11-05 11:27",
+ "fetched_at": "2026-11-06 05:34",
+ "generated_at": "2026-11-06 05:34",
  "period": {
-  "from": "2026-10-06 11:27",
-  "to": "2026-11-05 11:27",
+  "from": "2026-10-07 05:34",
+  "to": "2026-11-06 05:34",
   "days": 30
  },
- "streams_analyzed": 36,
- "streams_missed": 4,
- "unique_chatters": 1981,
- "members_confirmed": 599,
+ "streams_analyzed": 35,
+ "streams_missed": 5,
+ "unique_chatters": 1961,
+ "members_confirmed": 598,
  "member_classes": {
-  "unknown": 480,
   "known": 89,
+  "unknown": 479,
   "gift": 30
  },
  "badges": [
@@ -38,7 +38,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 183
+   "members": 182
   },
   {
    "months": 12,
@@ -47,8 +47,8 @@
   }
  ],
  "events": {
-  "new_members": 20,
-  "rejoins": 12,
+  "new_members": 19,
+  "rejoins": 11,
   "milestones": 21,
   "gift_purchases": 4,
   "gifted_total": 30,
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 89,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 480.0,
-   "estimated_members": 569.0,
+   "allocated_unknown": 479.0,
+   "estimated_members": 568.0,
    "monthly_net_confirmed": 27752,
-   "monthly_net_estimated": 177425
+   "monthly_net_estimated": 177113
   }
  ],
  "revenue": {
-  "monthly_low": 177425,
-  "monthly_est": 177425,
+  "monthly_low": 177113,
+  "monthly_est": 177113,
   "gift_once": 9355,
-  "total_low": 186779,
-  "total_est": 186779,
-  "paying_members": 569,
+  "total_low": 186467,
+  "total_est": 186467,
+  "paying_members": 568,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "NDehKs35kmY",
-   "start": "2026-10-06 21:02",
-   "title": "【 スト6 】煌めけC豪鬼！1500MR目指してランクマいくぜ！【 皇れお  / にじさんじ 】",
-   "kind": "配信",
-   "chatters": 141,
-   "member_chatters": 107,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "ho83hIjWd5I",
    "start": "2026-10-07 06:32",
@@ -490,8 +480,20 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "れおとらいぶ",
-   "like_count": 184,
+   "like_count": 186,
    "view_count": null
+  },
+  {
+   "video_id": "IckNQQkJPEQ",
+   "start": "2026-11-05 00:00",
+   "title": "【 スプラトゥーン3 】チーム 「すめらぎぐんかん」進軍！対抗戦行くぞ！ #にじイカ祭り2026【 皇れお  / にじさんじ 】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 477,
+   "view_count": 20182
   }
  ],
  "members_only_content": [
@@ -522,7 +524,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "れおとらいぶ",
-   "like_count": 184,
+   "like_count": 186,
    "view_count": null
   }
  ],
@@ -650,10 +652,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-05"
+    "to": "2026-11-06"
    },
    "streams_analyzed": 5,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 568,
    "members_confirmed": 278,
    "member_classes": {

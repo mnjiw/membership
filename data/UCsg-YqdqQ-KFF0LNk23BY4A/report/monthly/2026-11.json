@@ -2,17 +2,17 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-05"
+  "to": "2026-11-06"
  },
- "streams_analyzed": 3,
- "streams_missed": 0,
- "unique_chatters": 323,
- "members_confirmed": 144,
+ "streams_analyzed": 4,
+ "streams_missed": 1,
+ "unique_chatters": 358,
+ "members_confirmed": 154,
  "member_classes": {
-  "unknown": 141,
+  "unknown": 151,
   "known": 3
  },
- "long_term_members": 126,
+ "long_term_members": 134,
  "badges": [
   {
    "months": 0,
@@ -28,27 +28,27 @@
   },
   {
    "months": 6,
-   "members": 9
-  },
-  {
-   "months": 12,
-   "members": 21
-  },
-  {
-   "months": 24,
-   "members": 16
-  },
-  {
-   "months": 36,
-   "members": 19
-  },
-  {
-   "months": 48,
    "members": 11
   },
   {
+   "months": 12,
+   "members": 24
+  },
+  {
+   "months": 24,
+   "members": 17
+  },
+  {
+   "months": 36,
+   "members": 20
+  },
+  {
+   "months": 48,
+   "members": 12
+  },
+  {
    "months": 60,
-   "members": 59
+   "members": 61
   }
  ],
  "events": {
@@ -62,15 +62,15 @@
    "tier": "楓組メンバーシップ",
    "price": 490,
    "confirmed_members": 3,
-   "estimated_members": 144.0
+   "estimated_members": 154.0
   }
  ],
  "revenue": {
-  "monthly_low": 44902,
-  "monthly_est": 44902,
+  "monthly_low": 48020,
+  "monthly_est": 48020,
   "gift_once": 0
  },
- "avg_member_chatters": 102.7,
+ "avg_member_chatters": 101.8,
  "partial": true,
  "finalized": false
 }

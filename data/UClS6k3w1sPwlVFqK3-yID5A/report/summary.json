@@ -3,11 +3,11 @@
  "channel_id": "UClS6k3w1sPwlVFqK3-yID5A",
  "handle": "@RyuHari",
  "subscribers": 44900,
- "fetched_at": "2026-11-05 11:25",
- "generated_at": "2026-11-05 11:25",
+ "fetched_at": "2026-11-06 05:27",
+ "generated_at": "2026-11-06 05:27",
  "period": {
-  "from": "2026-10-06 11:25",
-  "to": "2026-11-05 11:25",
+  "from": "2026-10-07 05:27",
+  "to": "2026-11-06 05:27",
   "days": 30
  },
  "streams_analyzed": 14,
@@ -63,16 +63,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "tbV3KT8-l_g",
-   "start": "2026-10-06 22:06",
-   "title": "[SILENT HILL: Townfall] #5 武器ほしいです　※ネタバレ注意　【にじさんじ／リュハリ】",
-   "kind": "配信",
-   "chatters": 26,
-   "member_chatters": 18,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "q5Yt5_qbFTY",
    "start": "2026-10-07 22:00",
@@ -202,6 +192,16 @@
    "member_chatters": 14,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "-EuA-eCrgQY",
+   "start": "2026-11-04 22:02",
+   "title": "[CLAWSTROPHOBIA] Playing Claw Machines",
+   "kind": "配信",
+   "chatters": 26,
+   "member_chatters": 19,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -218,16 +218,16 @@
    "view_count": null
   },
   {
-   "video_id": "-EuA-eCrgQY",
-   "start": "2026-11-04 00:00",
-   "title": "[CLAWSTROPHOBIA] クレーンゲームやります",
+   "video_id": "HqmM0t802vE",
+   "start": "2026-11-05 00:00",
+   "title": "[作って！からあげ] おいしいからあげ作ってあげる　【にじさんじ／リュハリ】",
    "kind": "video",
    "status": "error",
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 116,
-   "view_count": 1108
+   "like_count": 139,
+   "view_count": 1371
   }
  ],
  "members_only_content": [
@@ -338,21 +338,21 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-05"
+    "to": "2026-11-06"
    },
-   "streams_analyzed": 2,
+   "streams_analyzed": 3,
    "streams_missed": 1,
-   "unique_chatters": 55,
-   "members_confirmed": 25,
+   "unique_chatters": 58,
+   "members_confirmed": 27,
    "member_classes": {
-    "unknown": 17,
+    "unknown": 19,
     "known": 8
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 25
+     "members": 27
     }
    ],
    "events": {
@@ -366,15 +366,15 @@
      "tier": "리몽",
      "price": 490,
      "confirmed_members": 8,
-     "estimated_members": 25.0
+     "estimated_members": 27.0
     }
    ],
    "revenue": {
-    "monthly_low": 7795,
-    "monthly_est": 7795,
+    "monthly_low": 8419,
+    "monthly_est": 8419,
     "gift_once": 0
    },
-   "avg_member_chatters": 17.5,
+   "avg_member_chatters": 18,
    "partial": true,
    "finalized": false
   }

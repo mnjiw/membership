@@ -3,66 +3,66 @@
  "channel_id": "UCqXxS-9x9Ha_UiH6hG4kh5Q",
  "handle": "@HibachiMana",
  "subscribers": 428000,
- "fetched_at": "2026-11-05 11:26",
- "generated_at": "2026-11-05 11:26",
+ "fetched_at": "2026-11-06 05:29",
+ "generated_at": "2026-11-06 05:30",
  "period": {
-  "from": "2026-10-06 11:26",
-  "to": "2026-11-05 11:26",
+  "from": "2026-10-07 05:29",
+  "to": "2026-11-06 05:29",
   "days": 30
  },
  "streams_analyzed": 18,
  "streams_missed": 2,
- "unique_chatters": 5358,
- "members_confirmed": 1792,
+ "unique_chatters": 5156,
+ "members_confirmed": 1707,
  "member_classes": {
-  "unknown": 1470,
-  "known": 215,
-  "gift": 107
+  "unknown": 1431,
+  "known": 219,
+  "gift": 57
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 302
+   "members": 254
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 88
+   "members": 83
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 261
+   "members": 257
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 314
+   "members": 307
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 496
+   "members": 481
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 213
+   "members": 210
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 118
+   "members": 115
   }
  ],
  "events": {
-  "new_members": 71,
-  "rejoins": 28,
-  "milestones": 69,
-  "gift_purchases": 5,
-  "gifted_total": 107,
-  "gift_redemptions": 107
+  "new_members": 72,
+  "rejoins": 29,
+  "milestones": 58,
+  "gift_purchases": 4,
+  "gifted_total": 57,
+  "gift_redemptions": 57
  },
  "tiers_configured": true,
  "tiers": [
@@ -70,21 +70,21 @@
    "tier": "第マナ世代",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 215,
+   "confirmed_members": 219,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1470.0,
-   "estimated_members": 1685.0,
-   "monthly_net_confirmed": 67041,
-   "monthly_net_estimated": 525414
+   "allocated_unknown": 1431.0,
+   "estimated_members": 1650.0,
+   "monthly_net_confirmed": 68288,
+   "monthly_net_estimated": 514500
   }
  ],
  "revenue": {
-  "monthly_low": 525414,
-  "monthly_est": 525414,
-  "gift_once": 33365,
-  "total_low": 558778,
-  "total_est": 558778,
-  "paying_members": 1685,
+  "monthly_low": 514500,
+  "monthly_est": 514500,
+  "gift_once": 17774,
+  "total_low": 532274,
+  "total_est": 532274,
+  "paying_members": 1650,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "jf-VsEz9he0",
-   "start": "2026-10-06 22:01",
-   "title": "【雑談】ライブ前ラスト！ゆっくり話そうや！【にじさんじ/緋八マナ】",
-   "kind": "配信",
-   "chatters": 1077,
-   "member_chatters": 614,
-   "new_members": 3,
-   "gifted_total": 50
-  },
   {
    "video_id": "UrWCgCTau4Q",
    "start": "2026-10-11 07:04",
@@ -272,6 +262,16 @@
    "member_chatters": 477,
    "new_members": 2,
    "gifted_total": 0
+  },
+  {
+   "video_id": "v5I4j1rdQuw",
+   "start": "2026-11-05 21:03",
+   "title": "【スプラトゥーン3】てあむ20 ~爆発編~【にじさんじ / 緋八マナ】#ただイカWIN",
+   "kind": "配信",
+   "chatters": 416,
+   "member_chatters": 331,
+   "new_members": 4,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -284,7 +284,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 880,
+   "like_count": 881,
    "view_count": null
   },
   {
@@ -296,7 +296,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 508,
+   "like_count": 509,
    "view_count": null
   }
  ],
@@ -308,7 +308,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 880,
+   "like_count": 881,
    "view_count": null
   },
   {
@@ -318,7 +318,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 508,
+   "like_count": 509,
    "view_count": null
   }
  ],
@@ -466,50 +466,50 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-05"
+    "to": "2026-11-06"
    },
-   "streams_analyzed": 4,
+   "streams_analyzed": 5,
    "streams_missed": 0,
-   "unique_chatters": 1807,
-   "members_confirmed": 860,
+   "unique_chatters": 1856,
+   "members_confirmed": 887,
    "member_classes": {
-    "unknown": 747,
-    "known": 113
+    "unknown": 765,
+    "known": 122
    },
-   "long_term_members": 445,
+   "long_term_members": 456,
    "badges": [
     {
      "months": 0,
-     "members": 99
+     "members": 107
     },
     {
      "months": 1,
-     "members": 38
+     "members": 39
     },
     {
      "months": 2,
-     "members": 130
+     "members": 133
     },
     {
      "months": 6,
-     "members": 148
+     "members": 152
     },
     {
      "months": 12,
-     "members": 265
+     "members": 270
     },
     {
      "months": 24,
-     "members": 111
+     "members": 114
     },
     {
      "months": 36,
-     "members": 69
+     "members": 72
     }
    ],
    "events": {
-    "new_members": 13,
-    "rejoins": 4,
+    "new_members": 17,
+    "rejoins": 5,
     "milestones": 8,
     "gifted_total": 0
    },
@@ -517,16 +517,16 @@
     {
      "tier": "第マナ世代",
      "price": 490,
-     "confirmed_members": 113,
-     "estimated_members": 860.0
+     "confirmed_members": 122,
+     "estimated_members": 887.0
     }
    ],
    "revenue": {
-    "monthly_low": 268164,
-    "monthly_est": 268164,
+    "monthly_low": 276583,
+    "monthly_est": 276583,
     "gift_once": 0
    },
-   "avg_member_chatters": 419,
+   "avg_member_chatters": 401.4,
    "partial": true,
    "finalized": false
   }

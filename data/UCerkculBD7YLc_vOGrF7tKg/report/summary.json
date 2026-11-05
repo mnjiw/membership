@@ -3,19 +3,19 @@
  "channel_id": "UCerkculBD7YLc_vOGrF7tKg",
  "handle": "@MatsukaiMao",
  "subscribers": 316000,
- "fetched_at": "2026-11-05 11:24",
- "generated_at": "2026-11-05 11:24",
+ "fetched_at": "2026-11-06 05:23",
+ "generated_at": "2026-11-06 05:23",
  "period": {
-  "from": "2026-10-06 11:24",
-  "to": "2026-11-05 11:24",
+  "from": "2026-10-07 05:23",
+  "to": "2026-11-06 05:23",
   "days": 30
  },
- "streams_analyzed": 11,
- "streams_missed": 1,
- "unique_chatters": 1126,
- "members_confirmed": 182,
+ "streams_analyzed": 10,
+ "streams_missed": 2,
+ "unique_chatters": 1072,
+ "members_confirmed": 178,
  "member_classes": {
-  "unknown": 157,
+  "unknown": 153,
   "known": 25
  },
  "badges": [
@@ -32,7 +32,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 175
+   "members": 171
   }
  ],
  "events": {
@@ -51,19 +51,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 25,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 157.0,
-   "estimated_members": 182.0,
+   "allocated_unknown": 153.0,
+   "estimated_members": 178.0,
    "monthly_net_confirmed": 7795,
-   "monthly_net_estimated": 56751
+   "monthly_net_estimated": 55504
   }
  ],
  "revenue": {
-  "monthly_low": 56751,
-  "monthly_est": 56751,
+  "monthly_low": 55504,
+  "monthly_est": 55504,
   "gift_once": 0,
-  "total_low": 56751,
-  "total_est": 56751,
-  "paying_members": 182,
+  "total_low": 55504,
+  "total_est": 55504,
+  "paying_members": 178,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -72,16 +72,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "cjXECpvr5J0",
-   "start": "2026-10-06 23:01",
-   "title": "【たろうくんはいってきました】見てはいけない動画【魔使マオ/にじさんじ】",
-   "kind": "配信",
-   "chatters": 210,
-   "member_chatters": 80,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "RLaF-yRPZI0",
    "start": "2026-10-11 00:01",
@@ -195,6 +185,18 @@
    "members_level": "",
    "like_count": 75,
    "view_count": null
+  },
+  {
+   "video_id": "YanBOdkNVA4",
+   "start": "2026-11-05 00:00",
+   "title": "【Probably Stolen 】75万本も爆売れしているゲーム【魔使マオ/にじさんじ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 574,
+   "view_count": 18289
   }
  ],
  "members_only_content": [
@@ -315,10 +317,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-05"
+    "to": "2026-11-06"
    },
    "streams_analyzed": 1,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 373,
    "members_confirmed": 122,
    "member_classes": {

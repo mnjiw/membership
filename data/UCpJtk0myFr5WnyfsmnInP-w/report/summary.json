@@ -3,20 +3,20 @@
  "channel_id": "UCpJtk0myFr5WnyfsmnInP-w",
  "handle": "@HanaMacchia",
  "subscribers": 280000,
- "fetched_at": "2026-11-05 11:25",
- "generated_at": "2026-11-05 11:25",
+ "fetched_at": "2026-11-06 05:27",
+ "generated_at": "2026-11-06 05:27",
  "period": {
-  "from": "2026-10-06 11:25",
-  "to": "2026-11-05 11:25",
+  "from": "2026-10-07 05:27",
+  "to": "2026-11-06 05:27",
   "days": 30
  },
- "streams_analyzed": 14,
+ "streams_analyzed": 15,
  "streams_missed": 1,
- "unique_chatters": 524,
- "members_confirmed": 87,
+ "unique_chatters": 540,
+ "members_confirmed": 89,
  "member_classes": {
-  "known": 13,
-  "unknown": 63,
+  "known": 14,
+  "unknown": 64,
   "gift": 11
  },
  "badges": [
@@ -38,13 +38,13 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 67
+   "members": 69
   }
  ],
  "events": {
   "new_members": 1,
   "rejoins": 4,
-  "milestones": 8,
+  "milestones": 9,
   "gift_purchases": 3,
   "gifted_total": 11,
   "gift_redemptions": 11
@@ -55,21 +55,21 @@
    "tier": "Nijisenja",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 13,
+   "confirmed_members": 14,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 63.0,
-   "estimated_members": 76.0,
-   "monthly_net_confirmed": 5708,
-   "monthly_net_estimated": 33371
+   "allocated_unknown": 64.0,
+   "estimated_members": 78.0,
+   "monthly_net_confirmed": 6147,
+   "monthly_net_estimated": 34249
   }
  ],
  "revenue": {
-  "monthly_low": 33371,
-  "monthly_est": 33371,
+  "monthly_low": 34249,
+  "monthly_est": 34249,
   "gift_once": 4830,
-  "total_low": 38201,
-  "total_est": 38201,
-  "paying_members": 76,
+  "total_low": 39079,
+  "total_est": 39079,
+  "paying_members": 78,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -217,6 +217,16 @@
    "member_chatters": 24,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "4LJ7WFeSsoc",
+   "start": "2026-11-05 08:30",
+   "title": "(GTAV: #DistrictV2) hoping my games don't crash and things go well today【NIJISANJI | Hana Macchia】",
+   "kind": "配信",
+   "chatters": 47,
+   "member_chatters": 18,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -360,17 +370,17 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-05"
+    "to": "2026-11-06"
    },
-   "streams_analyzed": 2,
+   "streams_analyzed": 3,
    "streams_missed": 1,
-   "unique_chatters": 107,
-   "members_confirmed": 35,
+   "unique_chatters": 129,
+   "members_confirmed": 37,
    "member_classes": {
-    "unknown": 28,
-    "known": 7
+    "unknown": 29,
+    "known": 8
    },
-   "long_term_members": 34,
+   "long_term_members": 36,
    "badges": [
     {
      "months": 2,
@@ -382,29 +392,29 @@
     },
     {
      "months": 24,
-     "members": 32
+     "members": 34
     }
    ],
    "events": {
     "new_members": 0,
     "rejoins": 1,
-    "milestones": 0,
+    "milestones": 1,
     "gifted_total": 0
    },
    "tiers": [
     {
      "tier": "Nijisenja",
      "price": 690,
-     "confirmed_members": 7,
-     "estimated_members": 35.0
+     "confirmed_members": 8,
+     "estimated_members": 37.0
     }
    ],
    "revenue": {
-    "monthly_low": 15368,
-    "monthly_est": 15368,
+    "monthly_low": 16246,
+    "monthly_est": 16246,
     "gift_once": 0
    },
-   "avg_member_chatters": 22.5,
+   "avg_member_chatters": 21,
    "partial": true,
    "finalized": false
   }

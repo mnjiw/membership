@@ -3,15 +3,15 @@
  "channel_id": "UCTIE7LM5X15NVugV7Krp9Hw",
  "handle": "@YumeoiKakeru",
  "subscribers": 389000,
- "fetched_at": "2026-11-05 11:24",
- "generated_at": "2026-11-05 11:24",
+ "fetched_at": "2026-11-06 05:21",
+ "generated_at": "2026-11-06 05:21",
  "period": {
-  "from": "2026-10-06 11:24",
-  "to": "2026-11-05 11:24",
+  "from": "2026-10-07 05:21",
+  "to": "2026-11-06 05:21",
   "days": 30
  },
  "streams_analyzed": 5,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 773,
  "members_confirmed": 334,
  "member_classes": {
@@ -133,7 +133,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "0wAGqQvv0xc",
+   "start": "2026-11-05 00:00",
+   "title": "#にじイカ祭り2026 プラベに籠るぞ！！！！ | Splatoon3【にじさんじ/夢追翔/天宮こころ/伊波ライ/司賀りこ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 770,
+   "view_count": 38860
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -262,10 +275,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-05"
+    "to": "2026-11-06"
    },
    "streams_analyzed": 4,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 639,
    "members_confirmed": 303,
    "member_classes": {

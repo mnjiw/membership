@@ -2,21 +2,21 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-05"
+  "to": "2026-11-06"
  },
- "streams_analyzed": 3,
- "streams_missed": 0,
- "unique_chatters": 241,
- "members_confirmed": 71,
+ "streams_analyzed": 5,
+ "streams_missed": 1,
+ "unique_chatters": 355,
+ "members_confirmed": 87,
  "member_classes": {
-  "unknown": 64,
-  "known": 7
+  "unknown": 75,
+  "known": 12
  },
- "long_term_members": 56,
+ "long_term_members": 64,
  "badges": [
   {
    "months": 0,
-   "members": 3
+   "members": 9
   },
   {
    "months": 1,
@@ -24,7 +24,7 @@
   },
   {
    "months": 2,
-   "members": 6
+   "members": 8
   },
   {
    "months": 6,
@@ -32,7 +32,7 @@
   },
   {
    "months": 12,
-   "members": 7
+   "members": 8
   },
   {
    "months": 24,
@@ -40,11 +40,11 @@
   },
   {
    "months": 36,
-   "members": 39
+   "members": 46
   }
  ],
  "events": {
-  "new_members": 0,
+  "new_members": 5,
   "rejoins": 0,
   "milestones": 1,
   "gifted_total": 0
@@ -53,22 +53,22 @@
   {
    "tier": "コアツメイト",
    "price": 490,
-   "confirmed_members": 5,
-   "estimated_members": 50.7
+   "confirmed_members": 10,
+   "estimated_members": 72.5
   },
   {
    "tier": "ほごしゃ会",
    "price": 1190,
    "confirmed_members": 2,
-   "estimated_members": 20.3
+   "estimated_members": 14.5
   }
  ],
  "revenue": {
-  "monthly_low": 23030,
-  "monthly_est": 31175,
+  "monthly_low": 28019,
+  "monthly_est": 33587,
   "gift_once": 0
  },
- "avg_member_chatters": 45.7,
+ "avg_member_chatters": 42.6,
  "partial": true,
  "finalized": false
 }

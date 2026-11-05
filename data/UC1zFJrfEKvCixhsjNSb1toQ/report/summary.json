@@ -3,20 +3,20 @@
  "channel_id": "UC1zFJrfEKvCixhsjNSb1toQ",
  "handle": "@Sister_Claire",
  "subscribers": 627000,
- "fetched_at": "2026-11-05 11:23",
- "generated_at": "2026-11-05 11:23",
+ "fetched_at": "2026-11-06 05:19",
+ "generated_at": "2026-11-06 05:20",
  "period": {
-  "from": "2026-10-06 11:23",
-  "to": "2026-11-05 11:23",
+  "from": "2026-10-07 05:19",
+  "to": "2026-11-06 05:19",
   "days": 30
  },
- "streams_analyzed": 6,
+ "streams_analyzed": 7,
  "streams_missed": 1,
- "unique_chatters": 2473,
- "members_confirmed": 375,
+ "unique_chatters": 2482,
+ "members_confirmed": 377,
  "member_classes": {
   "known": 123,
-  "unknown": 226,
+  "unknown": 228,
   "gift": 26
  },
  "badges": [
@@ -33,12 +33,12 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 17
+   "members": 18
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 301
+   "members": 302
   }
  ],
  "events": {
@@ -57,10 +57,10 @@
    "net_per_member": 184.5,
    "confirmed_members": 19,
    "share_of_confirmed_pct": 15.4,
-   "allocated_unknown": 34.9,
-   "estimated_members": 53.9,
+   "allocated_unknown": 35.2,
+   "estimated_members": 54.2,
    "monthly_net_confirmed": 3506,
-   "monthly_net_estimated": 9949
+   "monthly_net_estimated": 10006
   },
   {
    "tier": "たぬさんプラン",
@@ -68,10 +68,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 76,
    "share_of_confirmed_pct": 61.8,
-   "allocated_unknown": 139.6,
-   "estimated_members": 215.6,
+   "allocated_unknown": 140.9,
+   "estimated_members": 216.9,
    "monthly_net_confirmed": 23698,
-   "monthly_net_estimated": 67241
+   "monthly_net_estimated": 67627
   },
   {
    "tier": "たぬさん放題プラン",
@@ -79,19 +79,19 @@
    "net_per_member": 2220.9,
    "confirmed_members": 28,
    "share_of_confirmed_pct": 22.8,
-   "allocated_unknown": 51.4,
-   "estimated_members": 79.4,
+   "allocated_unknown": 51.9,
+   "estimated_members": 79.9,
    "monthly_net_confirmed": 62185,
-   "monthly_net_estimated": 176445
+   "monthly_net_estimated": 177456
   }
  ],
  "revenue": {
-  "monthly_low": 131097,
-  "monthly_est": 253635,
+  "monthly_low": 131466,
+  "monthly_est": 255089,
   "gift_once": 4798,
-  "total_low": 135895,
-  "total_est": 258433,
-  "paying_members": 349,
+  "total_low": 136265,
+  "total_est": 259887,
+  "paying_members": 351,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -157,6 +157,16 @@
    "kind": "プレミア",
    "chatters": 143,
    "member_chatters": 104,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "DJ6q7n2xyW8",
+   "start": "2026-11-05 22:25",
+   "title": "【スプラ３】#にじイカ祭り2026 ♡アース2434♡ 顔合わせ！【にじさんじ/シスター・クレア】",
+   "kind": "配信",
+   "chatters": 97,
+   "member_chatters": 63,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -330,18 +340,18 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-05"
+    "to": "2026-11-06"
    },
-   "streams_analyzed": 2,
+   "streams_analyzed": 3,
    "streams_missed": 0,
-   "unique_chatters": 765,
-   "members_confirmed": 259,
+   "unique_chatters": 795,
+   "members_confirmed": 272,
    "member_classes": {
-    "unknown": 153,
-    "known": 100,
+    "unknown": 162,
+    "known": 104,
     "gift": 6
    },
-   "long_term_members": 222,
+   "long_term_members": 233,
    "badges": [
     {
      "months": 0,
@@ -353,11 +363,11 @@
     },
     {
      "months": 6,
-     "members": 12
+     "members": 14
     },
     {
      "months": 12,
-     "members": 222
+     "members": 233
     }
    ],
    "events": {
@@ -370,28 +380,28 @@
     {
      "tier": "学生や頑張り中たぬさん応援プラン",
      "price": 290,
-     "confirmed_members": 12,
-     "estimated_members": 30.4
+     "confirmed_members": 13,
+     "estimated_members": 33.2
     },
     {
      "tier": "たぬさんプラン",
      "price": 490,
-     "confirmed_members": 61,
-     "estimated_members": 154.3
+     "confirmed_members": 64,
+     "estimated_members": 163.7
     },
     {
      "tier": "たぬさん放題プラン",
      "price": 3490,
      "confirmed_members": 27,
-     "estimated_members": 68.3
+     "estimated_members": 69.1
     }
    ],
    "revenue": {
-    "monthly_low": 109435,
-    "monthly_est": 205436,
+    "monthly_low": 112216,
+    "monthly_est": 210549,
     "gift_once": 1107
    },
-   "avg_member_chatters": 181,
+   "avg_member_chatters": 141.7,
    "partial": true,
    "finalized": false
   }

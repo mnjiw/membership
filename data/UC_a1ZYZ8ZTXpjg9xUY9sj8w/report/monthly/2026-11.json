@@ -2,60 +2,64 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-05"
+  "to": "2026-11-06"
  },
- "streams_analyzed": 1,
- "streams_missed": 1,
- "unique_chatters": 602,
- "members_confirmed": 243,
+ "streams_analyzed": 2,
+ "streams_missed": 0,
+ "unique_chatters": 794,
+ "members_confirmed": 299,
  "member_classes": {
-  "unknown": 234,
-  "known": 8,
-  "gift": 1
+  "unknown": 287,
+  "known": 10,
+  "gift": 2
  },
- "long_term_members": 81,
+ "long_term_members": 95,
  "badges": [
   {
    "months": 0,
-   "members": 8
+   "members": 10
+  },
+  {
+   "months": 1,
+   "members": 1
   },
   {
    "months": 2,
-   "members": 20
+   "members": 22
   },
   {
    "months": 6,
-   "members": 134
+   "members": 171
   },
   {
    "months": 12,
-   "members": 29
+   "members": 32
   },
   {
    "months": 24,
-   "members": 52
+   "members": 63
   }
  ],
  "events": {
-  "new_members": 1,
+  "new_members": 2,
   "rejoins": 0,
   "milestones": 0,
-  "gifted_total": 1
+  "gifted_total": 2
  },
  "tiers": [
   {
    "tier": "魔界レベル1",
    "price": 490,
-   "confirmed_members": 8,
-   "estimated_members": 242.0
+   "confirmed_members": 10,
+   "estimated_members": 297.0
   }
  ],
  "revenue": {
-  "monthly_low": 75460,
-  "monthly_est": 75460,
-  "gift_once": 312
+  "monthly_low": 92610,
+  "monthly_est": 92610,
+  "gift_once": 624
  },
- "avg_member_chatters": 243,
+ "avg_member_chatters": 223,
  "partial": true,
  "finalized": false
 }

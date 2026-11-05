@@ -3,16 +3,16 @@
  "channel_id": "UCtnO2N4kPTXmyvedjGWdx3Q",
  "handle": "@LeviElipha",
  "subscribers": 375000,
- "fetched_at": "2026-11-05 11:24",
- "generated_at": "2026-11-05 11:24",
+ "fetched_at": "2026-11-06 05:22",
+ "generated_at": "2026-11-06 05:22",
  "period": {
-  "from": "2026-10-06 11:24",
-  "to": "2026-11-05 11:24",
+  "from": "2026-10-07 05:22",
+  "to": "2026-11-06 05:22",
   "days": 30
  },
  "streams_analyzed": 21,
  "streams_missed": 0,
- "unique_chatters": 680,
+ "unique_chatters": 674,
  "members_confirmed": 104,
  "member_classes": {
   "known": 15,
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 25
+   "members": 26
   },
   {
    "months": 1,
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 3
+   "members": 2
   },
   {
    "months": 6,
@@ -47,7 +47,7 @@
   }
  ],
  "events": {
-  "new_members": 3,
+  "new_members": 4,
   "rejoins": 1,
   "milestones": 10,
   "gift_purchases": 3,
@@ -60,23 +60,23 @@
    "tier": "バイ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 11,
-   "share_of_confirmed_pct": 73.3,
-   "allocated_unknown": 49.9,
-   "estimated_members": 60.9,
-   "monthly_net_confirmed": 3430,
-   "monthly_net_estimated": 18979
+   "confirmed_members": 10,
+   "share_of_confirmed_pct": 66.7,
+   "allocated_unknown": 45.3,
+   "estimated_members": 55.3,
+   "monthly_net_confirmed": 3118,
+   "monthly_net_estimated": 17254
   },
   {
    "tier": "チク",
    "price": 1190,
    "net_per_member": 757.3,
-   "confirmed_members": 2,
-   "share_of_confirmed_pct": 13.3,
-   "allocated_unknown": 9.1,
-   "estimated_members": 11.1,
-   "monthly_net_confirmed": 1515,
-   "monthly_net_estimated": 8380
+   "confirmed_members": 3,
+   "share_of_confirmed_pct": 20.0,
+   "allocated_unknown": 13.6,
+   "estimated_members": 16.6,
+   "monthly_net_confirmed": 2272,
+   "monthly_net_estimated": 12571
   },
   {
    "tier": "ショー",
@@ -91,11 +91,11 @@
   }
  ],
  "revenue": {
-  "monthly_low": 30590,
-  "monthly_est": 51938,
+  "monthly_low": 31035,
+  "monthly_est": 54403,
   "gift_once": 6548,
-  "total_low": 37138,
-  "total_est": 58486,
+  "total_low": 37584,
+  "total_est": 60951,
   "paying_members": 83,
   "single_tier": false,
   "tax_rate": 0.1,
@@ -105,16 +105,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "FSDWuiySKRc",
-   "start": "2026-10-06 13:18",
-   "title": "#9【JUDGE EYES：死神の遺言 Remastered】ストーリーすすめまス‼　事件の真相を追うゾウ‼　※ネタバレあり【にじさんじ/レヴィ・エリファ】",
-   "kind": "配信",
-   "chatters": 79,
-   "member_chatters": 22,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "lLvjqYhLy5M",
    "start": "2026-10-07 12:04",
@@ -314,6 +304,16 @@
    "member_chatters": 27,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "QxQr2iyw9G0",
+   "start": "2026-11-05 22:07",
+   "title": "【#にじイカ祭り2026】チームの名前決定！ｲ夢で頑張るゾウ🐘🐘【にじさんじ/レヴィ・エリファ】",
+   "kind": "配信",
+   "chatters": 50,
+   "member_chatters": 24,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -470,21 +470,21 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-05"
+    "to": "2026-11-06"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 6,
    "streams_missed": 0,
-   "unique_chatters": 183,
-   "members_confirmed": 47,
+   "unique_chatters": 194,
+   "members_confirmed": 48,
    "member_classes": {
     "unknown": 38,
-    "known": 9
+    "known": 10
    },
    "long_term_members": 40,
    "badges": [
     {
      "months": 0,
-     "members": 2
+     "members": 3
     },
     {
      "months": 1,
@@ -504,7 +504,7 @@
     }
    ],
    "events": {
-    "new_members": 1,
+    "new_members": 2,
     "rejoins": 0,
     "milestones": 0,
     "gifted_total": 0
@@ -514,27 +514,27 @@
      "tier": "バイ",
      "price": 490,
      "confirmed_members": 6,
-     "estimated_members": 31.3
+     "estimated_members": 28.8
     },
     {
      "tier": "チク",
      "price": 1190,
-     "confirmed_members": 1,
-     "estimated_members": 5.2
+     "confirmed_members": 2,
+     "estimated_members": 9.6
     },
     {
      "tier": "ショー",
      "price": 3490,
      "confirmed_members": 2,
-     "estimated_members": 10.4
+     "estimated_members": 9.6
     }
    ],
    "revenue": {
-    "monthly_low": 18919,
-    "monthly_est": 36921,
+    "monthly_low": 19676,
+    "monthly_est": 37571,
     "gift_once": 0
    },
-   "avg_member_chatters": 25.8,
+   "avg_member_chatters": 25.5,
    "partial": true,
    "finalized": false
   }

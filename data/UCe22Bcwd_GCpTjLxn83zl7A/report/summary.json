@@ -3,19 +3,19 @@
  "channel_id": "UCe22Bcwd_GCpTjLxn83zl7A",
  "handle": "@PontoNei",
  "subscribers": 321000,
- "fetched_at": "2026-11-05 11:25",
- "generated_at": "2026-11-05 11:25",
+ "fetched_at": "2026-11-06 05:25",
+ "generated_at": "2026-11-06 05:26",
  "period": {
-  "from": "2026-10-06 11:25",
-  "to": "2026-11-05 11:25",
+  "from": "2026-10-07 05:25",
+  "to": "2026-11-06 05:25",
   "days": 30
  },
- "streams_analyzed": 15,
- "streams_missed": 2,
- "unique_chatters": 1443,
- "members_confirmed": 177,
+ "streams_analyzed": 16,
+ "streams_missed": 1,
+ "unique_chatters": 1470,
+ "members_confirmed": 180,
  "member_classes": {
-  "unknown": 170,
+  "unknown": 173,
   "known": 7
  },
  "badges": [
@@ -42,7 +42,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 131
+   "members": 134
   }
  ],
  "events": {
@@ -61,19 +61,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 7,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 170.0,
-   "estimated_members": 177.0,
+   "allocated_unknown": 173.0,
+   "estimated_members": 180.0,
    "monthly_net_confirmed": 2183,
-   "monthly_net_estimated": 55192
+   "monthly_net_estimated": 56127
   }
  ],
  "revenue": {
-  "monthly_low": 55192,
-  "monthly_est": 55192,
+  "monthly_low": 56127,
+  "monthly_est": 56127,
   "gift_once": 0,
-  "total_low": 55192,
-  "total_est": 55192,
-  "paying_members": 177,
+  "total_low": 56127,
+  "total_est": 56127,
+  "paying_members": 180,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -231,21 +231,19 @@
    "member_chatters": 79,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "9Se_fQx9UQY",
+   "start": "2026-11-05 23:01",
+   "title": "【#にじイカ祭り2026】この愛、獣量級。チーム練習！対抗戦！【先斗寧/にじさんじ】",
+   "kind": "配信",
+   "chatters": 106,
+   "member_chatters": 53,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
-  {
-   "video_id": "Sr7KvBAxaIY",
-   "start": "2026-10-06 22:01",
-   "title": "【メン限】シーサーを全力で応援したい秋SP【先斗寧/にじさんじ】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "バックヤード",
-   "like_count": 81,
-   "view_count": null
-  },
   {
    "video_id": "uossOwbQLI8",
    "start": "2026-10-20 22:01",
@@ -260,16 +258,6 @@
   }
  ],
  "members_only_content": [
-  {
-   "video_id": "Sr7KvBAxaIY",
-   "start": "2026-10-06 22:01",
-   "title": "【メン限】シーサーを全力で応援したい秋SP【先斗寧/にじさんじ】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "バックヤード",
-   "like_count": 81,
-   "view_count": null
-  },
   {
    "video_id": "uossOwbQLI8",
    "start": "2026-10-20 22:01",
@@ -407,17 +395,17 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-05"
+    "to": "2026-11-06"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 4,
    "streams_missed": 0,
-   "unique_chatters": 698,
-   "members_confirmed": 125,
+   "unique_chatters": 733,
+   "members_confirmed": 131,
    "member_classes": {
-    "unknown": 122,
+    "unknown": 128,
     "known": 3
    },
-   "long_term_members": 99,
+   "long_term_members": 105,
    "badges": [
     {
      "months": 0,
@@ -437,7 +425,7 @@
     },
     {
      "months": 12,
-     "members": 99
+     "members": 105
     }
    ],
    "events": {
@@ -451,15 +439,15 @@
      "tier": "バックヤード",
      "price": 490,
      "confirmed_members": 3,
-     "estimated_members": 125.0
+     "estimated_members": 131.0
     }
    ],
    "revenue": {
-    "monthly_low": 38977,
-    "monthly_est": 38977,
+    "monthly_low": 40848,
+    "monthly_est": 40848,
     "gift_once": 0
    },
-   "avg_member_chatters": 67.3,
+   "avg_member_chatters": 63.8,
    "partial": true,
    "finalized": false
   }

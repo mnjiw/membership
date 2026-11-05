@@ -3,61 +3,61 @@
  "channel_id": "UCIytNcoz4pWzXfLda0DoULQ",
  "handle": "@ExAlbio",
  "subscribers": 592000,
- "fetched_at": "2026-11-05 11:24",
- "generated_at": "2026-11-05 11:24",
+ "fetched_at": "2026-11-06 05:21",
+ "generated_at": "2026-11-06 05:22",
  "period": {
-  "from": "2026-10-06 11:24",
-  "to": "2026-11-05 11:24",
+  "from": "2026-10-07 05:21",
+  "to": "2026-11-06 05:21",
   "days": 30
  },
  "streams_analyzed": 27,
  "streams_missed": 2,
- "unique_chatters": 10593,
- "members_confirmed": 2901,
+ "unique_chatters": 10320,
+ "members_confirmed": 2846,
  "member_classes": {
-  "unknown": 2120,
+  "unknown": 2074,
   "known": 206,
-  "gift": 575
+  "gift": 566
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 790
+   "members": 777
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 112
+   "members": 107
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 315
+   "members": 312
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 472
+   "members": 461
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 617
+   "members": 602
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 595
+   "members": 587
   }
  ],
  "events": {
-  "new_members": 116,
+  "new_members": 114,
   "rejoins": 30,
-  "milestones": 24,
-  "gift_purchases": 33,
-  "gifted_total": 610,
-  "gift_redemptions": 575
+  "milestones": 22,
+  "gift_purchases": 32,
+  "gifted_total": 600,
+  "gift_redemptions": 566
  },
  "tiers_configured": true,
  "tiers": [
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 206,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2120.0,
-   "estimated_members": 2326.0,
+   "allocated_unknown": 2074.0,
+   "estimated_members": 2280.0,
    "monthly_net_confirmed": 64235,
-   "monthly_net_estimated": 725289
+   "monthly_net_estimated": 710945
   }
  ],
  "revenue": {
-  "monthly_low": 725289,
-  "monthly_est": 725289,
-  "gift_once": 190209,
-  "total_low": 915498,
-  "total_est": 915498,
-  "paying_members": 2326,
+  "monthly_low": 710945,
+  "monthly_est": 710945,
+  "gift_once": 187091,
+  "total_low": 898036,
+  "total_est": 898036,
+  "paying_members": 2280,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "OKwyNeO-7CM",
-   "start": "2026-10-06 23:05",
-   "title": "今日も明日も頑張ってるみんなと【 エビオ/にじさんじ 】",
-   "kind": "配信",
-   "chatters": 1496,
-   "member_chatters": 735,
-   "new_members": 3,
-   "gifted_total": 10
-  },
   {
    "video_id": "fo5UrTHp_jA",
    "start": "2026-10-07 22:15",
@@ -357,6 +347,16 @@
    "member_chatters": 518,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "hHSHjhEnHVQ",
+   "start": "2026-11-05 22:47",
+   "title": "たった60秒で物資をかき集めて、世紀末の崩壊した世界を生き残るゲーム『 60 Seconds! 』【 エビオ/にじさんじ 】",
+   "kind": "配信",
+   "chatters": 759,
+   "member_chatters": 441,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -369,7 +369,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 878,
+   "like_count": 879,
    "view_count": null
   },
   {
@@ -381,7 +381,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 593,
+   "like_count": 595,
    "view_count": null
   }
  ],
@@ -393,7 +393,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 878,
+   "like_count": 879,
    "view_count": null
   },
   {
@@ -403,7 +403,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 593,
+   "like_count": 595,
    "view_count": null
   }
  ],
@@ -543,47 +543,47 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-05"
+    "to": "2026-11-06"
    },
-   "streams_analyzed": 4,
+   "streams_analyzed": 5,
    "streams_missed": 0,
-   "unique_chatters": 3000,
-   "members_confirmed": 900,
+   "unique_chatters": 3255,
+   "members_confirmed": 980,
    "member_classes": {
-    "unknown": 850,
-    "known": 45,
+    "unknown": 920,
+    "known": 55,
     "gift": 5
    },
-   "long_term_members": 478,
+   "long_term_members": 521,
    "badges": [
     {
      "months": 0,
-     "members": 58
+     "members": 64
     },
     {
      "months": 1,
-     "members": 38
+     "members": 42
     },
     {
      "months": 2,
-     "members": 102
+     "members": 117
     },
     {
      "months": 6,
-     "members": 224
+     "members": 236
     },
     {
      "months": 12,
-     "members": 241
+     "members": 261
     },
     {
      "months": 24,
-     "members": 237
+     "members": 260
     }
    ],
    "events": {
-    "new_members": 4,
-    "rejoins": 3,
+    "new_members": 5,
+    "rejoins": 4,
     "milestones": 1,
     "gifted_total": 25
    },
@@ -591,16 +591,16 @@
     {
      "tier": "英友",
      "price": 490,
-     "confirmed_members": 45,
-     "estimated_members": 895.0
+     "confirmed_members": 55,
+     "estimated_members": 975.0
     }
    ],
    "revenue": {
-    "monthly_low": 279077,
-    "monthly_est": 279077,
+    "monthly_low": 304023,
+    "monthly_est": 304023,
     "gift_once": 7795
    },
-   "avg_member_chatters": 514,
+   "avg_member_chatters": 499.4,
    "partial": true,
    "finalized": false
   }

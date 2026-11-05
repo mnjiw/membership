@@ -3,27 +3,27 @@
  "channel_id": "UCmZ1Rbthn-6Jm_qOGjYsh5A",
  "handle": "@Ibrahim",
  "subscribers": 926000,
- "fetched_at": "2026-11-05 11:24",
- "generated_at": "2026-11-05 11:24",
+ "fetched_at": "2026-11-06 05:24",
+ "generated_at": "2026-11-06 05:25",
  "period": {
-  "from": "2026-10-06 11:24",
-  "to": "2026-11-05 11:24",
+  "from": "2026-10-07 05:24",
+  "to": "2026-11-06 05:24",
   "days": 30
  },
  "streams_analyzed": 21,
  "streams_missed": 1,
- "unique_chatters": 6915,
- "members_confirmed": 1323,
+ "unique_chatters": 6986,
+ "members_confirmed": 1321,
  "member_classes": {
-  "unknown": 1133,
-  "known": 118,
-  "gift": 72
+  "unknown": 1129,
+  "known": 119,
+  "gift": 73
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 90
+   "members": 91
   },
   {
    "months": 1,
@@ -33,31 +33,31 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 92
+   "members": 89
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 83
+   "members": 84
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 169
+   "members": 171
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 879
+   "members": 876
   }
  ],
  "events": {
   "new_members": 12,
   "rejoins": 14,
-  "milestones": 40,
-  "gift_purchases": 11,
-  "gifted_total": 72,
-  "gift_redemptions": 72
+  "milestones": 41,
+  "gift_purchases": 12,
+  "gifted_total": 73,
+  "gift_redemptions": 73
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +65,21 @@
    "tier": "イブラヒムのメンバーシップ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 118,
+   "confirmed_members": 119,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1133.0,
-   "estimated_members": 1251.0,
-   "monthly_net_confirmed": 36795,
-   "monthly_net_estimated": 390085
+   "allocated_unknown": 1129.0,
+   "estimated_members": 1248.0,
+   "monthly_net_confirmed": 37106,
+   "monthly_net_estimated": 389149
   }
  ],
  "revenue": {
-  "monthly_low": 390085,
-  "monthly_est": 390085,
-  "gift_once": 22451,
-  "total_low": 412535,
-  "total_est": 412535,
-  "paying_members": 1251,
+  "monthly_low": 389149,
+  "monthly_est": 389149,
+  "gift_once": 22763,
+  "total_low": 411912,
+  "total_est": 411912,
+  "paying_members": 1248,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "MnPI5WfRlDg",
-   "start": "2026-10-06 21:33",
-   "title": "【PUBG】あ！PUBGおじいちゃんだ！ withロレ,ツルギ,vanilla【にじさんじ/イブラヒム】",
-   "kind": "配信",
-   "chatters": 612,
-   "member_chatters": 362,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "liSFy3Gg3mg",
    "start": "2026-10-07 19:19",
@@ -297,20 +287,30 @@
    "member_chatters": 366,
    "new_members": 2,
    "gifted_total": 0
+  },
+  {
+   "video_id": "mn2XNsxEFo4",
+   "start": "2026-11-04 20:04",
+   "title": "【ゼルダの伝説スカイウォードソード】今までの思い出が俺たちのスカイウォードだ！④【にじさんじ/イブラヒム】",
+   "kind": "配信",
+   "chatters": 890,
+   "member_chatters": 387,
+   "new_members": 0,
+   "gifted_total": 1
   }
  ],
  "missed_streams": [
   {
-   "video_id": "mn2XNsxEFo4",
-   "start": "2026-11-04 00:00",
-   "title": "【ゼルダの伝説スカイウォードソード】今までの思い出が俺たちのスカイウォードだ！④【にじさんじ/イブラヒム】",
+   "video_id": "pg6x8MAC0Zw",
+   "start": "2026-11-05 00:00",
+   "title": "【ゼルダの伝説スカイウォードソード】こいつは天才じゃない...?すべてを見ていたファイ⑤【にじさんじ/イブラヒム】",
    "kind": "video",
    "status": "error",
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 1341,
-   "view_count": 100131
+   "like_count": 1157,
+   "view_count": 80289
   }
  ],
  "members_only_content": [],
@@ -450,21 +450,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-05"
+    "to": "2026-11-06"
    },
-   "streams_analyzed": 2,
+   "streams_analyzed": 3,
    "streams_missed": 1,
-   "unique_chatters": 1218,
-   "members_confirmed": 472,
+   "unique_chatters": 1573,
+   "members_confirmed": 559,
    "member_classes": {
-    "unknown": 418,
-    "known": 54
+    "unknown": 494,
+    "known": 64,
+    "gift": 1
    },
-   "long_term_members": 385,
+   "long_term_members": 461,
    "badges": [
     {
      "months": 0,
-     "members": 8
+     "members": 9
     },
     {
      "months": 1,
@@ -472,41 +473,41 @@
     },
     {
      "months": 2,
-     "members": 37
+     "members": 44
     },
     {
      "months": 6,
-     "members": 38
+     "members": 41
     },
     {
      "months": 12,
-     "members": 52
+     "members": 64
     },
     {
      "months": 24,
-     "members": 333
+     "members": 397
     }
    ],
    "events": {
     "new_members": 2,
     "rejoins": 1,
-    "milestones": 2,
-    "gifted_total": 0
+    "milestones": 3,
+    "gifted_total": 1
    },
    "tiers": [
     {
      "tier": "イブラヒムのメンバーシップ",
      "price": 490,
-     "confirmed_members": 54,
-     "estimated_members": 472.0
+     "confirmed_members": 64,
+     "estimated_members": 558.0
     }
    ],
    "revenue": {
-    "monthly_low": 147178,
-    "monthly_est": 147178,
-    "gift_once": 0
+    "monthly_low": 173995,
+    "monthly_est": 173995,
+    "gift_once": 312
    },
-   "avg_member_chatters": 353,
+   "avg_member_chatters": 364.3,
    "partial": true,
    "finalized": false
   }

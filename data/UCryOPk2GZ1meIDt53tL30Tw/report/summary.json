@@ -3,19 +3,19 @@
  "channel_id": "UCryOPk2GZ1meIDt53tL30Tw",
  "handle": "@SuzukiMasaru",
  "subscribers": 332000,
- "fetched_at": "2026-11-05 11:23",
- "generated_at": "2026-11-05 11:23",
+ "fetched_at": "2026-11-06 05:20",
+ "generated_at": "2026-11-06 05:20",
  "period": {
-  "from": "2026-10-06 11:23",
-  "to": "2026-11-05 11:23",
+  "from": "2026-10-07 05:20",
+  "to": "2026-11-06 05:20",
   "days": 30
  },
  "streams_analyzed": 11,
  "streams_missed": 5,
- "unique_chatters": 576,
- "members_confirmed": 186,
+ "unique_chatters": 525,
+ "members_confirmed": 190,
  "member_classes": {
-  "unknown": 180,
+  "unknown": 184,
   "known": 6
  },
  "badges": [
@@ -37,7 +37,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 174
+   "members": 178
   }
  ],
  "events": {
@@ -56,19 +56,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 6,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 180.0,
-   "estimated_members": 186.0,
+   "allocated_unknown": 184.0,
+   "estimated_members": 190.0,
    "monthly_net_confirmed": 1871,
-   "monthly_net_estimated": 57998
+   "monthly_net_estimated": 59245
   }
  ],
  "revenue": {
-  "monthly_low": 57998,
-  "monthly_est": 57998,
+  "monthly_low": 59245,
+  "monthly_est": 59245,
   "gift_once": 0,
-  "total_low": 57998,
-  "total_est": 57998,
-  "paying_members": 186,
+  "total_low": 59245,
+  "total_est": 59245,
+  "paying_members": 190,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -77,16 +77,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "WyJLKoed0Xs",
-   "start": "2026-10-07 00:04",
-   "title": "🛑【Binaural/黒3Dio】本気で眠りたい人のためのじっくりアロマオイルマッサージ 2026.10.7【にじさんじ/鈴木勝】",
-   "kind": "配信",
-   "chatters": 181,
-   "member_chatters": 69,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "-iDSlPJ0_qM",
    "start": "2026-10-08 22:00",
@@ -184,6 +174,16 @@
    "kind": "配信",
    "chatters": 159,
    "member_chatters": 68,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "W-mI0VRzyC0",
+   "start": "2026-11-05 23:01",
+   "title": "【古今東西ダービー】名前で決まる！？最強の馬で戦うぞ【鈴木勝/にじさんじ】",
+   "kind": "配信",
+   "chatters": 111,
+   "member_chatters": 84,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -406,14 +406,14 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-05"
+    "to": "2026-11-06"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 1,
-   "unique_chatters": 159,
-   "members_confirmed": 68,
+   "unique_chatters": 221,
+   "members_confirmed": 110,
    "member_classes": {
-    "unknown": 66,
+    "unknown": 108,
     "known": 2
    },
    "long_term_members": 0,
@@ -424,11 +424,11 @@
     },
     {
      "months": 2,
-     "members": 1
+     "members": 3
     },
     {
      "months": 6,
-     "members": 66
+     "members": 106
     }
    ],
    "events": {
@@ -442,15 +442,15 @@
      "tier": "特別観測者",
      "price": 490,
      "confirmed_members": 2,
-     "estimated_members": 68.0
+     "estimated_members": 110.0
     }
    ],
    "revenue": {
-    "monthly_low": 21204,
-    "monthly_est": 21204,
+    "monthly_low": 34300,
+    "monthly_est": 34300,
     "gift_once": 0
    },
-   "avg_member_chatters": 68,
+   "avg_member_chatters": 76,
    "partial": true,
    "finalized": false
   }

@@ -3,11 +3,11 @@
  "channel_id": "UCtC3B1n4XMiJmrDtu1Ni5qw",
  "handle": "@NanaseSuzuna",
  "subscribers": 320000,
- "fetched_at": "2026-11-05 11:27",
- "generated_at": "2026-11-05 11:28",
+ "fetched_at": "2026-11-06 05:33",
+ "generated_at": "2026-11-06 05:33",
  "period": {
-  "from": "2026-10-06 11:27",
-  "to": "2026-11-05 11:27",
+  "from": "2026-10-07 05:33",
+  "to": "2026-11-06 05:33",
   "days": 30
  },
  "streams_analyzed": 31,
@@ -396,18 +396,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "Rh4mCip3xtY",
-   "start": "2026-10-06 22:02",
-   "title": "【メン限】メンシスタンプ追加検討会議！どんなのが欲しい？？【七瀬すず菜/にじさんじ】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "すずふぁーむ",
-   "like_count": 332,
-   "view_count": null
-  },
-  {
    "video_id": "T8dt_57EwSE",
    "start": "2026-10-12 09:00",
    "title": "【メン限レベリング】カスミにおびえている【七瀬すず菜/にじさんじ】",
@@ -430,19 +418,21 @@
    "members_level": "すずふぁーむ",
    "like_count": 237,
    "view_count": null
+  },
+  {
+   "video_id": "cb1berWBij0",
+   "start": "2026-11-05 00:00",
+   "title": "【スプラトゥーン3】#にじイカ祭り2026 ごちゃまぜプラベ→対抗戦🦑✨【七瀬すず菜/にじさんじ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 1125,
+   "view_count": 73609
   }
  ],
  "members_only_content": [
-  {
-   "video_id": "Rh4mCip3xtY",
-   "start": "2026-10-06 22:02",
-   "title": "【メン限】メンシスタンプ追加検討会議！どんなのが欲しい？？【七瀬すず菜/にじさんじ】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "すずふぁーむ",
-   "like_count": 332,
-   "view_count": null
-  },
   {
    "video_id": "T8dt_57EwSE",
    "start": "2026-10-12 09:00",
@@ -592,10 +582,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-05"
+    "to": "2026-11-06"
    },
    "streams_analyzed": 5,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 1851,
    "members_confirmed": 609,
    "member_classes": {

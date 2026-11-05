@@ -3,16 +3,16 @@
  "channel_id": "UC6oDys1BGgBsIC3WhG1BovQ",
  "handle": "@ShizukaRin",
  "subscribers": 398000,
- "fetched_at": "2026-11-05 11:23",
- "generated_at": "2026-11-05 11:23",
+ "fetched_at": "2026-11-06 05:18",
+ "generated_at": "2026-11-06 05:18",
  "period": {
-  "from": "2026-10-06 11:23",
-  "to": "2026-11-05 11:23",
+  "from": "2026-10-07 05:18",
+  "to": "2026-11-06 05:18",
   "days": 30
  },
  "streams_analyzed": 25,
  "streams_missed": 4,
- "unique_chatters": 1022,
+ "unique_chatters": 998,
  "members_confirmed": 290,
  "member_classes": {
   "unknown": 205,
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 63
+   "members": 64
   },
   {
    "months": 1,
@@ -38,7 +38,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 19
+   "members": 20
   },
   {
    "months": 12,
@@ -58,13 +58,13 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 132
+   "members": 130
   }
  ],
  "events": {
-  "new_members": 8,
-  "rejoins": 4,
-  "milestones": 15,
+  "new_members": 9,
+  "rejoins": 3,
+  "milestones": 14,
   "gift_purchases": 13,
   "gifted_total": 50,
   "gift_redemptions": 50
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "UTHwjjcHoKM",
-   "start": "2026-10-06 20:06",
-   "title": "🎣02 | みんなでお金を稼がないといけないらしい❗️ | わちゃサバ【静凛/にじさんじ】",
-   "kind": "配信",
-   "chatters": 127,
-   "member_chatters": 69,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "C9HmvFjdt0U",
    "start": "2026-10-07 22:30",
@@ -346,6 +336,16 @@
    "chatters": 129,
    "member_chatters": 76,
    "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "9CeUblx9g1w",
+   "start": "2026-11-04 23:49",
+   "title": "R.E.P.O. | コインを稼いでしっぽを手に入れたい悪魔❗️【静凛/にじさんじ】",
+   "kind": "配信",
+   "chatters": 130,
+   "member_chatters": 84,
+   "new_members": 1,
    "gifted_total": 0
   }
  ],
@@ -593,22 +593,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-05"
+    "to": "2026-11-06"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 4,
    "streams_missed": 0,
-   "unique_chatters": 232,
-   "members_confirmed": 125,
+   "unique_chatters": 265,
+   "members_confirmed": 138,
    "member_classes": {
-    "unknown": 94,
-    "known": 25,
+    "unknown": 105,
+    "known": 27,
     "gift": 6
    },
-   "long_term_members": 103,
+   "long_term_members": 113,
    "badges": [
     {
      "months": 0,
-     "members": 9
+     "members": 10
     },
     {
      "months": 1,
@@ -616,15 +616,15 @@
     },
     {
      "months": 2,
-     "members": 4
+     "members": 5
     },
     {
      "months": 6,
-     "members": 7
+     "members": 8
     },
     {
      "months": 12,
-     "members": 17
+     "members": 19
     },
     {
      "months": 24,
@@ -632,15 +632,15 @@
     },
     {
      "months": 36,
-     "members": 3
+     "members": 5
     },
     {
      "months": 48,
-     "members": 76
+     "members": 82
     }
    ],
    "events": {
-    "new_members": 1,
+    "new_members": 2,
     "rejoins": 1,
     "milestones": 2,
     "gifted_total": 6
@@ -649,16 +649,16 @@
     {
      "tier": "しずりんのメンバーシップだよ！",
      "price": 490,
-     "confirmed_members": 25,
-     "estimated_members": 119.0
+     "confirmed_members": 27,
+     "estimated_members": 132.0
     }
    ],
    "revenue": {
-    "monthly_low": 37106,
-    "monthly_est": 37106,
+    "monthly_low": 41160,
+    "monthly_est": 41160,
     "gift_once": 1871
    },
-   "avg_member_chatters": 83.7,
+   "avg_member_chatters": 83.8,
    "partial": true,
    "finalized": false
   }

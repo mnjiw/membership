@@ -3,19 +3,19 @@
  "channel_id": "UC9HYkiQZ1_b3J_F8gc12eaA",
  "handle": "@TsukaharaDaichi_Y4T4",
  "subscribers": 121000,
- "fetched_at": "2026-11-05 11:28",
- "generated_at": "2026-11-05 11:28",
+ "fetched_at": "2026-11-06 05:34",
+ "generated_at": "2026-11-06 05:35",
  "period": {
-  "from": "2026-10-06 11:28",
-  "to": "2026-11-05 11:28",
+  "from": "2026-10-07 05:34",
+  "to": "2026-11-06 05:34",
   "days": 30
  },
- "streams_analyzed": 29,
- "streams_missed": 1,
- "unique_chatters": 2082,
- "members_confirmed": 303,
+ "streams_analyzed": 27,
+ "streams_missed": 2,
+ "unique_chatters": 2026,
+ "members_confirmed": 300,
  "member_classes": {
-  "unknown": 265,
+  "unknown": 262,
   "known": 37,
   "gift": 1
  },
@@ -28,17 +28,17 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 30
+   "members": 29
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 223
+   "members": 221
   }
  ],
  "events": {
   "new_members": 24,
-  "rejoins": 9,
+  "rejoins": 8,
   "milestones": 0,
   "gift_purchases": 1,
   "gifted_total": 1,
@@ -52,19 +52,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 37,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 265.0,
-   "estimated_members": 302.0,
+   "allocated_unknown": 262.0,
+   "estimated_members": 299.0,
    "monthly_net_confirmed": 11537,
-   "monthly_net_estimated": 94169
+   "monthly_net_estimated": 93234
   }
  ],
  "revenue": {
-  "monthly_low": 94169,
-  "monthly_est": 94169,
+  "monthly_low": 93234,
+  "monthly_est": 93234,
   "gift_once": 312,
-  "total_low": 94481,
-  "total_est": 94481,
-  "paying_members": 302,
+  "total_low": 93545,
+  "total_est": 93545,
+  "paying_members": 299,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,26 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "pAjDrNMho8M",
-   "start": "2026-10-06 16:32",
-   "title": "【OW】大虎で夕方突発OWだとッ！？【塚原大地 / にじさんじ】",
-   "kind": "配信",
-   "chatters": 112,
-   "member_chatters": 46,
-   "new_members": 0,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "AN2nW4ZEFR8",
-   "start": "2026-10-06 21:48",
-   "title": "【SEKIRO/隻狼】俺は正々堂々、忍ばない。 #5 【塚原大地 / にじさんじ】",
-   "kind": "配信",
-   "chatters": 158,
-   "member_chatters": 55,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "I67xVNUMj9k",
    "start": "2026-10-07 20:00",
@@ -376,6 +356,18 @@
    "members_level": "",
    "like_count": 484,
    "view_count": 30442
+  },
+  {
+   "video_id": "j7LAdmA-Jo0",
+   "start": "2026-11-05 00:00",
+   "title": "【#にじイカ祭り2026 】我々はもう怒ってない！対抗戦いくぜ！！！【塚原大地 / にじさんじ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 419,
+   "view_count": 18460
   }
  ],
  "members_only_content": [],
@@ -489,10 +481,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-05"
+    "to": "2026-11-06"
    },
    "streams_analyzed": 4,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 431,
    "members_confirmed": 120,
    "member_classes": {

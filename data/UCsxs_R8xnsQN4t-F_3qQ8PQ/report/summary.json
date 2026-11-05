@@ -3,15 +3,15 @@
  "channel_id": "UCsxs_R8xnsQN4t-F_3qQ8PQ",
  "handle": "@Rayon_Y4T4",
  "subscribers": 104000,
- "fetched_at": "2026-11-05 11:28",
- "generated_at": "2026-11-05 11:28",
+ "fetched_at": "2026-11-06 05:35",
+ "generated_at": "2026-11-06 05:35",
  "period": {
-  "from": "2026-10-06 11:28",
-  "to": "2026-11-05 11:28",
+  "from": "2026-10-07 05:35",
+  "to": "2026-11-06 05:35",
   "days": 30
  },
  "streams_analyzed": 22,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 1378,
  "members_confirmed": 174,
  "member_classes": {
@@ -294,7 +294,20 @@
    "gifted_total": 1
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "EXx1q-_Ri_0",
+   "start": "2026-11-05 00:00",
+   "title": "【スプラトゥーン3】プラべ参加したりソロ回したり",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 412,
+   "view_count": 17728
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -407,10 +420,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-05"
+    "to": "2026-11-06"
    },
    "streams_analyzed": 6,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 404,
    "members_confirmed": 74,
    "member_classes": {

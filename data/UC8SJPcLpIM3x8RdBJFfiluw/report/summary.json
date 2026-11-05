@@ -3,27 +3,27 @@
  "channel_id": "UC8SJPcLpIM3x8RdBJFfiluw",
  "handle": "@Kaisei_nijisanji",
  "subscribers": 365000,
- "fetched_at": "2026-11-05 11:26",
- "generated_at": "2026-11-05 11:26",
+ "fetched_at": "2026-11-06 05:32",
+ "generated_at": "2026-11-06 05:33",
  "period": {
-  "from": "2026-10-06 11:26",
-  "to": "2026-11-05 11:26",
+  "from": "2026-10-07 05:32",
+  "to": "2026-11-06 05:32",
   "days": 30
  },
- "streams_analyzed": 22,
+ "streams_analyzed": 23,
  "streams_missed": 2,
- "unique_chatters": 3435,
- "members_confirmed": 1378,
+ "unique_chatters": 3523,
+ "members_confirmed": 1383,
  "member_classes": {
-  "unknown": 1158,
-  "known": 51,
+  "unknown": 1160,
+  "known": 54,
   "gift": 169
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 227
+   "members": 229
   },
   {
    "months": 1,
@@ -33,22 +33,22 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 153
+   "members": 150
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 188
+   "members": 190
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 752
+   "members": 756
   }
  ],
  "events": {
-  "new_members": 28,
-  "rejoins": 9,
+  "new_members": 29,
+  "rejoins": 11,
   "milestones": 0,
   "gift_purchases": 9,
   "gifted_total": 175,
@@ -60,21 +60,21 @@
    "tier": "ファンキーな錠連",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 51,
+   "confirmed_members": 54,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1158.0,
-   "estimated_members": 1209.0,
-   "monthly_net_confirmed": 15903,
-   "monthly_net_estimated": 376988
+   "allocated_unknown": 1160.0,
+   "estimated_members": 1214.0,
+   "monthly_net_confirmed": 16838,
+   "monthly_net_estimated": 378547
   }
  ],
  "revenue": {
-  "monthly_low": 376988,
-  "monthly_est": 376988,
+  "monthly_low": 378547,
+  "monthly_est": 378547,
   "gift_once": 54568,
-  "total_low": 431556,
-  "total_est": 431556,
-  "paying_members": 1209,
+  "total_low": 433115,
+  "total_est": 433115,
+  "paying_members": 1214,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "1TdE2A26Fgk",
-   "start": "2026-10-06 22:04",
-   "title": "【APEXベイビー】今日は弾が当たる予定です W/詠太【魁星/にじさんじ】",
-   "kind": "配信",
-   "chatters": 347,
-   "member_chatters": 277,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "GGYO9jES1fE",
    "start": "2026-10-09 22:02",
@@ -302,6 +292,26 @@
    "member_chatters": 329,
    "new_members": 2,
    "gifted_total": 0
+  },
+  {
+   "video_id": "KLvY66pBLd0",
+   "start": "2026-11-05 19:59",
+   "title": "【#NijiBifesta】Tell me your secret! / Gengetsu-san【Kaisei/NIJISANJI】",
+   "kind": "配信",
+   "chatters": 257,
+   "member_chatters": 176,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "GPUisS_OO6s",
+   "start": "2026-11-05 22:00",
+   "title": "【#にじイカ祭り2026】魂のボムで爆ぜる！！ｗ/社さん、セラフさん、ロハさん【魁星/にじさんじ】",
+   "kind": "配信",
+   "chatters": 380,
+   "member_chatters": 260,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -326,7 +336,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 539,
+   "like_count": 540,
    "view_count": null
   }
  ],
@@ -348,7 +358,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 539,
+   "like_count": 540,
    "view_count": null
   }
  ],
@@ -480,42 +490,42 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-05"
+    "to": "2026-11-06"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 7,
    "streams_missed": 0,
-   "unique_chatters": 1264,
-   "members_confirmed": 626,
+   "unique_chatters": 1413,
+   "members_confirmed": 661,
    "member_classes": {
-    "unknown": 597,
-    "known": 29
+    "unknown": 629,
+    "known": 32
    },
-   "long_term_members": 415,
+   "long_term_members": 439,
    "badges": [
     {
      "months": 0,
-     "members": 29
+     "members": 31
     },
     {
      "months": 1,
-     "members": 18
+     "members": 19
     },
     {
      "months": 2,
-     "members": 74
+     "members": 77
     },
     {
      "months": 6,
-     "members": 90
+     "members": 95
     },
     {
      "months": 12,
-     "members": 415
+     "members": 439
     }
    ],
    "events": {
-    "new_members": 8,
-    "rejoins": 4,
+    "new_members": 9,
+    "rejoins": 6,
     "milestones": 0,
     "gifted_total": 0
    },
@@ -523,16 +533,16 @@
     {
      "tier": "ファンキーな錠連",
      "price": 490,
-     "confirmed_members": 29,
-     "estimated_members": 626.0
+     "confirmed_members": 32,
+     "estimated_members": 661.0
     }
    ],
    "revenue": {
-    "monthly_low": 195198,
-    "monthly_est": 195198,
+    "monthly_low": 206112,
+    "monthly_est": 206112,
     "gift_once": 0
    },
-   "avg_member_chatters": 282.2,
+   "avg_member_chatters": 263.9,
    "partial": true,
    "finalized": false
   }

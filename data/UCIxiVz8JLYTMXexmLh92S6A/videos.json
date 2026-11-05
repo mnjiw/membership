@@ -1069,8 +1069,8 @@
    "checked_at": "2026-10-17 05:34",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1793824359.4987168,
-   "likes_checked_at": "2026-11-05 05:32"
+   "likes_checked_ts": 1793910910.2931917,
+   "likes_checked_at": "2026-11-06 05:35"
   },
   "2NqmNMLvu68": {
    "id": "2NqmNMLvu68",
@@ -1300,17 +1300,15 @@
    "start_ts": 1793545200.0,
    "start_jst": "2026-11-02 00:00",
    "duration_sec": null,
-   "view_count": 11300,
-   "like_count": 305,
+   "view_count": 22316,
+   "like_count": 366,
    "live_status": null,
    "members_only": false,
    "has_chat": false,
-   "checked_at": "2026-11-05 11:28",
+   "checked_at": "2026-11-06 05:35",
    "info_limited": true,
-   "error": "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)",
-   "tab": "video",
-   "status": "error",
-   "failed_since_ts": 1793651676.5018766
+   "settled_while_limited": true,
+   "status": "skip_not_stream"
   },
   "mE7eyTxP5IU": {
    "id": "mE7eyTxP5IU",
@@ -1345,14 +1343,33 @@
    "info_limited": true,
    "start_from_chat": true,
    "status": "ok"
+  },
+  "Ybm-lu1a7JM": {
+   "id": "Ybm-lu1a7JM",
+   "title": "【スプラトゥーン３】チーム13で練習した後自主練！ついにチーム名きまったぞー🦑#にじイカ祭り2026🍮💌【ぷりん・らら・もーど / にじさんじ】",
+   "kind": "video",
+   "start_ts": 1793804400.0,
+   "start_jst": "2026-11-05 00:00",
+   "duration_sec": null,
+   "view_count": 23958,
+   "like_count": 619,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": false,
+   "checked_at": "2026-11-06 05:35",
+   "info_limited": true,
+   "error": "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)",
+   "tab": "live",
+   "status": "error",
+   "failed_since_ts": 1793910910.2931917
   }
  },
  "channel": "ぷりん・らら・もーど / Purin･Lala･Mode【にじさんじ】",
  "channel_id": "UCIxiVz8JLYTMXexmLh92S6A",
  "handle": "@PurinLalaMode",
- "subscribers": 89500,
- "fetched_at": "2026-11-05 11:28",
- "fetched_at_ts": 1793845706.773542,
- "checked_from": "2026-10-29 11:28",
+ "subscribers": 89900,
+ "fetched_at": "2026-11-06 05:35",
+ "fetched_at_ts": 1793910910.2931917,
+ "checked_from": "2026-10-30 05:35",
  "initial_fetch_done": true
 }
