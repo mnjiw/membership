@@ -3,11 +3,11 @@
  "channel_id": "UCo6mwsozDGMW0UNGowBJGhg",
  "handle": "@KonkonAria",
  "subscribers": 159000,
- "fetched_at": "2026-11-05 11:37",
- "generated_at": "2026-11-05 11:37",
+ "fetched_at": "2026-11-06 06:32",
+ "generated_at": "2026-11-06 06:32",
  "period": {
-  "from": "2026-10-06 11:37",
-  "to": "2026-11-05 11:37",
+  "from": "2026-10-07 06:32",
+  "to": "2026-11-06 06:32",
   "days": 30
  },
  "streams_analyzed": 23,
@@ -321,18 +321,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "JhArOHgcV8Y",
-   "start": "2026-10-06 22:03",
-   "title": "【 雑談 】楽屋裏。【昏昏アリア/ネオポルテ】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "メンバーシップ",
-   "like_count": 180,
-   "view_count": null
-  },
-  {
    "video_id": "328Y9APauuw",
    "start": "2026-10-25 23:48",
    "title": "【 雑談 】楽屋裏。【昏昏アリア/ネオポルテ】",
@@ -343,19 +331,21 @@
    "members_level": "メンバーシップ",
    "like_count": 130,
    "view_count": null
+  },
+  {
+   "video_id": "TvRkkDlXOqU",
+   "start": "2026-11-05 00:00",
+   "title": "【 #LTK 】CC COREスクリム #CCWIN【昏昏アリア/ネオポルテ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 762,
+   "view_count": 69370
   }
  ],
  "members_only_content": [
-  {
-   "video_id": "JhArOHgcV8Y",
-   "start": "2026-10-06 22:03",
-   "title": "【 雑談 】楽屋裏。【昏昏アリア/ネオポルテ】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "メンバーシップ",
-   "like_count": 180,
-   "view_count": null
-  },
   {
    "video_id": "328Y9APauuw",
    "start": "2026-10-25 23:48",
@@ -492,10 +482,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-05"
+    "to": "2026-11-06"
    },
    "streams_analyzed": 2,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 1065,
    "members_confirmed": 311,
    "member_classes": {

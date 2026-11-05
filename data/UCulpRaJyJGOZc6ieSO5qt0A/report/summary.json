@@ -3,15 +3,15 @@
  "channel_id": "UCulpRaJyJGOZc6ieSO5qt0A",
  "handle": "@ToonoOto",
  "subscribers": 140000,
- "fetched_at": "2026-11-05 11:38",
- "generated_at": "2026-11-05 11:38",
+ "fetched_at": "2026-11-06 06:33",
+ "generated_at": "2026-11-06 06:33",
  "period": {
-  "from": "2026-10-06 11:38",
-  "to": "2026-11-05 11:38",
+  "from": "2026-10-07 06:33",
+  "to": "2026-11-06 06:33",
   "days": 30
  },
  "streams_analyzed": 18,
- "streams_missed": 2,
+ "streams_missed": 3,
  "unique_chatters": 1179,
  "members_confirmed": 326,
  "member_classes": {
@@ -324,8 +324,20 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 154,
+   "like_count": 155,
    "view_count": null
+  },
+  {
+   "video_id": "uxDPqDNYfgU",
+   "start": "2026-11-05 00:00",
+   "title": "〖 ゼルダの伝説 時のオカリナ 〗#1 本日発売🗡️フルリメイクで完全初見！初めての「ゼルダの伝説」✧*｡〖 透乃おと / Varium 〗",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 812,
+   "view_count": 17745
   }
  ],
  "members_only_content": [
@@ -346,7 +358,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 154,
+   "like_count": 155,
    "view_count": null
   }
  ],
@@ -493,10 +505,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-05"
+    "to": "2026-11-06"
    },
    "streams_analyzed": 2,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 273,
    "members_confirmed": 156,
    "member_classes": {

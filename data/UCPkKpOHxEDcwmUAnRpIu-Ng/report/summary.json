@@ -3,15 +3,15 @@
  "channel_id": "UCPkKpOHxEDcwmUAnRpIu-Ng",
  "handle": "@AizawaEma",
  "subscribers": 705000,
- "fetched_at": "2026-11-05 11:34",
- "generated_at": "2026-11-05 11:34",
+ "fetched_at": "2026-11-06 06:29",
+ "generated_at": "2026-11-06 06:29",
  "period": {
-  "from": "2026-10-06 11:34",
-  "to": "2026-11-05 11:34",
+  "from": "2026-10-07 06:29",
+  "to": "2026-11-06 06:29",
   "days": 30
  },
  "streams_analyzed": 40,
- "streams_missed": 4,
+ "streams_missed": 5,
  "unique_chatters": 7398,
  "members_confirmed": 2659,
  "member_classes": {
@@ -538,8 +538,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 13438,
-   "view_count": 400898
+   "like_count": 14009,
+   "view_count": 436572
   },
   {
    "video_id": "MIsG21zF88k",
@@ -550,8 +550,20 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 704,
+   "like_count": 739,
    "view_count": null
+  },
+  {
+   "video_id": "tvX8kWPggiE",
+   "start": "2026-11-05 00:00",
+   "title": "【How to Fish】魚を釣るのか？【ぶいすぽっ！/ 藍沢エマ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 1812,
+   "view_count": 108988
   }
  ],
  "members_only_content": [
@@ -582,7 +594,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 704,
+   "like_count": 739,
    "view_count": null
   }
  ],
@@ -727,10 +739,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-05"
+    "to": "2026-11-06"
    },
    "streams_analyzed": 6,
-   "streams_missed": 2,
+   "streams_missed": 3,
    "unique_chatters": 3026,
    "members_confirmed": 1859,
    "member_classes": {

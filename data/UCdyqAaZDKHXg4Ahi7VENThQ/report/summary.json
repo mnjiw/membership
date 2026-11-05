@@ -3,27 +3,27 @@
  "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
  "handle": "@ShiroganeNoel",
  "subscribers": 2060000,
- "fetched_at": "2026-11-05 11:29",
- "generated_at": "2026-11-05 11:29",
+ "fetched_at": "2026-11-06 06:19",
+ "generated_at": "2026-11-06 06:20",
  "period": {
-  "from": "2026-10-06 11:29",
-  "to": "2026-11-05 11:29",
+  "from": "2026-10-07 06:19",
+  "to": "2026-11-06 06:19",
   "days": 30
  },
- "streams_analyzed": 31,
- "streams_missed": 1,
- "unique_chatters": 15361,
- "members_confirmed": 2472,
+ "streams_analyzed": 30,
+ "streams_missed": 2,
+ "unique_chatters": 15171,
+ "members_confirmed": 2457,
  "member_classes": {
-  "unknown": 1887,
-  "known": 415,
+  "known": 411,
+  "unknown": 1876,
   "gift": 170
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 339
+   "members": 338
   },
   {
    "months": 1,
@@ -38,22 +38,22 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 208
+   "members": 205
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 433
+   "members": 430
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 343
+   "members": 341
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 313
+   "members": 311
   },
   {
    "months": 48,
@@ -63,13 +63,13 @@
   {
    "months": 60,
    "label": "5年",
-   "members": 368
+   "members": 364
   }
  ],
  "events": {
-  "new_members": 148,
-  "rejoins": 79,
-  "milestones": 144,
+  "new_members": 147,
+  "rejoins": 77,
+  "milestones": 141,
   "gift_purchases": 41,
   "gifted_total": 176,
   "gift_redemptions": 170
@@ -80,21 +80,21 @@
    "tier": "白銀愛好会",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 415,
+   "confirmed_members": 411,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1887.0,
-   "estimated_members": 2302.0,
-   "monthly_net_confirmed": 129405,
-   "monthly_net_estimated": 717805
+   "allocated_unknown": 1876.0,
+   "estimated_members": 2287.0,
+   "monthly_net_confirmed": 128157,
+   "monthly_net_estimated": 713128
   }
  ],
  "revenue": {
-  "monthly_low": 717805,
-  "monthly_est": 717805,
+  "monthly_low": 713128,
+  "monthly_est": 713128,
   "gift_once": 54880,
-  "total_low": 772685,
-  "total_est": 772685,
-  "paying_members": 2302,
+  "total_low": 768008,
+  "total_est": 768008,
+  "paying_members": 2287,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -103,16 +103,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "_y1ayUIJWBo",
-   "start": "2026-10-06 18:00",
-   "title": "【#ホロ甲2026】大分の白銀学院高校！３年目の春！！夏の甲子園出場を目指して！【白銀ノエル/ホロライブ】",
-   "kind": "配信",
-   "chatters": 1296,
-   "member_chatters": 503,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "dMVBWMfHdVQ",
    "start": "2026-10-08 18:00",
@@ -426,6 +416,18 @@
    "members_level": "",
    "like_count": 1122,
    "view_count": null
+  },
+  {
+   "video_id": "VHvJy-KW9y8",
+   "start": "2026-11-05 00:00",
+   "title": "【ホロ鯖ARK】カワウソ先生！カワウ荘のみんなで思い出作り＆写真館ほぼ完成目指す！【白銀ノエル/ホロライブ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 7918,
+   "view_count": 371364
   }
  ],
  "members_only_content": [
@@ -600,10 +602,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-05"
+    "to": "2026-11-06"
    },
    "streams_analyzed": 4,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 3628,
    "members_confirmed": 1078,
    "member_classes": {

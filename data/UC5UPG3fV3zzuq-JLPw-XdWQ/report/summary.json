@@ -3,37 +3,37 @@
  "channel_id": "UC5UPG3fV3zzuq-JLPw-XdWQ",
  "handle": "@azusa_honami",
  "subscribers": 441000,
- "fetched_at": "2026-11-05 11:35",
- "generated_at": "2026-11-05 11:35",
+ "fetched_at": "2026-11-06 06:30",
+ "generated_at": "2026-11-06 06:31",
  "period": {
-  "from": "2026-10-06 11:35",
-  "to": "2026-11-05 11:35",
+  "from": "2026-10-07 06:30",
+  "to": "2026-11-06 06:30",
   "days": 30
  },
  "streams_analyzed": 16,
  "streams_missed": 2,
- "unique_chatters": 3735,
- "members_confirmed": 403,
+ "unique_chatters": 3846,
+ "members_confirmed": 402,
  "member_classes": {
-  "unknown": 296,
-  "known": 36,
+  "unknown": 294,
+  "known": 37,
   "gift": 71
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 101
+   "members": 100
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 35
+   "members": 37
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 52
+   "members": 48
   },
   {
    "months": 12,
@@ -43,12 +43,12 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 88
+   "members": 90
   }
  ],
  "events": {
   "new_members": 10,
-  "rejoins": 2,
+  "rejoins": 3,
   "milestones": 11,
   "gift_purchases": 8,
   "gifted_total": 71,
@@ -60,21 +60,21 @@
    "tier": "ゲームセンターアジュール",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 36,
+   "confirmed_members": 37,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 296.0,
-   "estimated_members": 332.0,
-   "monthly_net_confirmed": 11225,
-   "monthly_net_estimated": 103524
+   "allocated_unknown": 294.0,
+   "estimated_members": 331.0,
+   "monthly_net_confirmed": 11537,
+   "monthly_net_estimated": 103212
   }
  ],
  "revenue": {
-  "monthly_low": 103524,
-  "monthly_est": 103524,
+  "monthly_low": 103212,
+  "monthly_est": 103212,
   "gift_once": 22139,
-  "total_low": 125663,
-  "total_est": 125663,
-  "paying_members": 332,
+  "total_low": 125351,
+  "total_est": 125351,
+  "paying_members": 331,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "ExZ1ZAddg6Q",
-   "start": "2026-10-06 19:57",
-   "title": "【Dressmaker】乙女＆ネカマ必見！オシャレ仙人あじゅの神業3選【 本阿弥あずさ / すぺしゃりて 】",
-   "kind": "配信",
-   "chatters": 309,
-   "member_chatters": 117,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "t8pKh61WQ1I",
    "start": "2026-10-08 19:57",
@@ -242,6 +232,16 @@
    "member_chatters": 210,
    "new_members": 0,
    "gifted_total": 55
+  },
+  {
+   "video_id": "xaZkgrUXn_o",
+   "start": "2026-11-05 18:57",
+   "title": "【ポケモンチャンピオンズ】イベントに向けて初めてのスカウト！キミたちに決めた！【 本阿弥あずさ / すぺしゃりて 】",
+   "kind": "配信",
+   "chatters": 432,
+   "member_chatters": 110,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -403,6 +403,66 @@
    },
    "avg_member_chatters": 110.3,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-06"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 432,
+   "members_confirmed": 110,
+   "member_classes": {
+    "unknown": 92,
+    "known": 18
+   },
+   "long_term_members": 79,
+   "badges": [
+    {
+     "months": 0,
+     "members": 7
+    },
+    {
+     "months": 2,
+     "members": 10
+    },
+    {
+     "months": 6,
+     "members": 14
+    },
+    {
+     "months": 12,
+     "members": 37
+    },
+    {
+     "months": 24,
+     "members": 42
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 1,
+    "milestones": 0,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "ゲームセンターアジュール",
+     "price": 490,
+     "confirmed_members": 18,
+     "estimated_members": 110.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 34300,
+    "monthly_est": 34300,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 110,
+   "partial": true,
    "finalized": false
   }
  ],

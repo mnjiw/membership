@@ -3,46 +3,46 @@
  "channel_id": "UCoXWDfyKkziR0C01Zp559-Q",
  "handle": "@Mirine_Shionari",
  "subscribers": 13900,
- "fetched_at": "2026-11-05 11:33",
- "generated_at": "2026-11-05 11:34",
+ "fetched_at": "2026-11-06 06:28",
+ "generated_at": "2026-11-06 06:28",
  "period": {
-  "from": "2026-10-06 11:33",
-  "to": "2026-11-05 11:33",
+  "from": "2026-10-07 06:28",
+  "to": "2026-11-06 06:28",
   "days": 30
  },
  "streams_analyzed": 21,
  "streams_missed": 1,
- "unique_chatters": 710,
- "members_confirmed": 408,
+ "unique_chatters": 735,
+ "members_confirmed": 413,
  "member_classes": {
-  "unknown": 176,
   "known": 44,
-  "gift": 188
+  "unknown": 176,
+  "gift": 193
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 168
+   "members": 171
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 55
+   "members": 56
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 185
+   "members": 186
   }
  ],
  "events": {
   "new_members": 7,
   "rejoins": 0,
   "milestones": 25,
-  "gift_purchases": 37,
-  "gifted_total": 188,
-  "gift_redemptions": 188
+  "gift_purchases": 38,
+  "gifted_total": 193,
+  "gift_redemptions": 193
  },
  "tiers_configured": true,
  "tiers": [
@@ -61,9 +61,9 @@
  "revenue": {
   "monthly_low": 68600,
   "monthly_est": 68600,
-  "gift_once": 58622,
-  "total_low": 127222,
-  "total_est": 127222,
+  "gift_once": 60181,
+  "total_low": 128781,
+  "total_est": 128781,
   "paying_members": 220,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "ztUWeDsCUDQ",
-   "start": "2026-10-06 12:00",
-   "title": "【Detroit: Become Human】前回は誰も救えなかった。今回絶対この三人を救うんだ。二週目ｲｸｿﾞｫｫｫ！！！【汐鳴みりね / ななしいんく】",
-   "kind": "配信",
-   "chatters": 142,
-   "member_chatters": 59,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "r3wnhyPbxOY",
    "start": "2026-10-07 20:28",
@@ -282,6 +272,16 @@
    "member_chatters": 72,
    "new_members": 1,
    "gifted_total": 11
+  },
+  {
+   "video_id": "bL6epm-Kak4",
+   "start": "2026-11-05 20:00",
+   "title": "【japanese ramen simulator】#麺処ななし ラーメン屋開店します🔥【堰代ミコさん・龍ヶ崎リンさん・アズリ・汐鳴みりね / ななしいんく】",
+   "kind": "配信",
+   "chatters": 166,
+   "member_chatters": 88,
+   "new_members": 0,
+   "gifted_total": 5
   }
  ],
  "missed_streams": [
@@ -411,52 +411,52 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-05"
+    "to": "2026-11-06"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 4,
    "streams_missed": 0,
-   "unique_chatters": 256,
-   "members_confirmed": 149,
+   "unique_chatters": 339,
+   "members_confirmed": 177,
    "member_classes": {
-    "unknown": 110,
-    "known": 28,
-    "gift": 11
+    "unknown": 131,
+    "known": 30,
+    "gift": 16
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 18
+     "members": 21
     },
     {
      "months": 1,
-     "members": 28
+     "members": 37
     },
     {
      "months": 2,
-     "members": 103
+     "members": 119
     }
    ],
    "events": {
     "new_members": 1,
     "rejoins": 0,
     "milestones": 3,
-    "gifted_total": 11
+    "gifted_total": 16
    },
    "tiers": [
     {
      "tier": "みりねちーむ",
      "price": 490,
-     "confirmed_members": 28,
-     "estimated_members": 138.0
+     "confirmed_members": 30,
+     "estimated_members": 161.0
     }
    ],
    "revenue": {
-    "monthly_low": 43031,
-    "monthly_est": 43031,
-    "gift_once": 3430
+    "monthly_low": 50203,
+    "monthly_est": 50203,
+    "gift_once": 4989
    },
-   "avg_member_chatters": 76,
+   "avg_member_chatters": 79,
    "partial": true,
    "finalized": false
   }

@@ -3,20 +3,20 @@
  "channel_id": "UC_WOBIopwUih0rytRnr_1Ag",
  "handle": "@Rui_Seshima",
  "subscribers": 60000,
- "fetched_at": "2026-11-05 11:33",
- "generated_at": "2026-11-05 11:33",
+ "fetched_at": "2026-11-06 06:27",
+ "generated_at": "2026-11-06 06:28",
  "period": {
-  "from": "2026-10-06 11:33",
-  "to": "2026-11-05 11:33",
+  "from": "2026-10-07 06:27",
+  "to": "2026-11-06 06:27",
   "days": 30
  },
- "streams_analyzed": 24,
- "streams_missed": 1,
- "unique_chatters": 838,
- "members_confirmed": 146,
+ "streams_analyzed": 23,
+ "streams_missed": 2,
+ "unique_chatters": 824,
+ "members_confirmed": 145,
  "member_classes": {
   "known": 32,
-  "unknown": 103,
+  "unknown": 102,
   "gift": 11
  },
  "badges": [
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 15
+   "members": 14
   },
   {
    "months": 24,
@@ -82,19 +82,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 32,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 103.0,
-   "estimated_members": 135.0,
+   "allocated_unknown": 102.0,
+   "estimated_members": 134.0,
    "monthly_net_confirmed": 9978,
-   "monthly_net_estimated": 42095
+   "monthly_net_estimated": 41784
   }
  ],
  "revenue": {
-  "monthly_low": 42095,
-  "monthly_est": 42095,
+  "monthly_low": 41784,
+  "monthly_est": 41784,
   "gift_once": 3430,
-  "total_low": 45525,
-  "total_est": 45525,
-  "paying_members": 135,
+  "total_low": 45214,
+  "total_est": 45214,
+  "paying_members": 134,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -103,16 +103,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "yPSV0yhRuSM",
-   "start": "2026-10-06 17:00",
-   "title": "【 雑談 】窓　あ　い　て　る　よ　？　【 瀬島るい┋ななしいんく 】",
-   "kind": "配信",
-   "chatters": 81,
-   "member_chatters": 32,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "sa6Na6wi6v0",
    "start": "2026-10-07 22:00",
@@ -356,6 +346,18 @@
    "members_level": "ふぁみるい",
    "like_count": 48,
    "view_count": null
+  },
+  {
+   "video_id": "klELFxgKye8",
+   "start": "2026-11-05 19:01",
+   "title": "【 あ。あ。あ。 】※「あ」「お」「ん」だけで操作するただのアクションゲームです【 瀬島るい┋ななしいんく 】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "ふぁみるい",
+   "like_count": 235,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -367,6 +369,16 @@
    "status": "members_only",
    "members_level": "ふぁみるい",
    "like_count": 48,
+   "view_count": null
+  },
+  {
+   "video_id": "klELFxgKye8",
+   "start": "2026-11-05 19:01",
+   "title": "【 あ。あ。あ。 】※「あ」「お」「ん」だけで操作するただのアクションゲームです【 瀬島るい┋ななしいんく 】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "ふぁみるい",
+   "like_count": 235,
    "view_count": null
   }
  ],
@@ -519,10 +531,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-05"
+    "to": "2026-11-06"
    },
    "streams_analyzed": 3,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 146,
    "members_confirmed": 54,
    "member_classes": {

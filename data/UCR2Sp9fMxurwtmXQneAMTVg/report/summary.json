@@ -2,22 +2,22 @@
  "channel": "孫守まごも / Magomo Magomori",
  "channel_id": "UCR2Sp9fMxurwtmXQneAMTVg",
  "handle": "@magomo_magomori",
- "subscribers": 13600,
- "fetched_at": "2026-11-05 11:36",
- "generated_at": "2026-11-05 11:37",
+ "subscribers": 13700,
+ "fetched_at": "2026-11-06 06:31",
+ "generated_at": "2026-11-06 06:31",
  "period": {
-  "from": "2026-10-06 11:36",
-  "to": "2026-11-05 11:36",
+  "from": "2026-10-07 06:31",
+  "to": "2026-11-06 06:31",
   "days": 30
  },
- "streams_analyzed": 32,
+ "streams_analyzed": 31,
  "streams_missed": 9,
- "unique_chatters": 1055,
+ "unique_chatters": 1052,
  "members_confirmed": 300,
  "member_classes": {
-  "unknown": 97,
-  "known": 26,
-  "gift": 177
+  "unknown": 102,
+  "gift": 172,
+  "known": 26
  },
  "badges": [
   {
@@ -47,12 +47,12 @@
   }
  ],
  "events": {
-  "new_members": 13,
+  "new_members": 12,
   "rejoins": 5,
   "milestones": 2,
-  "gift_purchases": 30,
-  "gifted_total": 182,
-  "gift_redemptions": 177
+  "gift_purchases": 29,
+  "gifted_total": 177,
+  "gift_redemptions": 172
  },
  "tiers_configured": true,
  "tiers": [
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 26,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 97.0,
-   "estimated_members": 123.0,
+   "allocated_unknown": 102.0,
+   "estimated_members": 128.0,
    "monthly_net_confirmed": 8107,
-   "monthly_net_estimated": 38354
+   "monthly_net_estimated": 39913
   }
  ],
  "revenue": {
-  "monthly_low": 38354,
-  "monthly_est": 38354,
-  "gift_once": 56751,
+  "monthly_low": 39913,
+  "monthly_est": 39913,
+  "gift_once": 55192,
   "total_low": 95105,
   "total_est": 95105,
-  "paying_members": 123,
+  "paying_members": 128,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,26 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "nMAgTa7CQd0",
-   "start": "2026-10-06 12:58",
-   "title": "【XP3122】昼のほうが勝ちやすいとかありませんか？【すぺしゃりて  / 新人vtuber  孫守まごも】スプラトゥーン3",
-   "kind": "配信",
-   "chatters": 49,
-   "member_chatters": 13,
-   "new_members": 1,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "ZLoymMChL5Q",
-   "start": "2026-10-06 20:57",
-   "title": "【リングフィットアドベンチャー】運動不足！参る！【孫守まごも/すぺしゃりて】",
-   "kind": "配信",
-   "chatters": 101,
-   "member_chatters": 47,
-   "new_members": 0,
-   "gifted_total": 5
-  },
   {
    "video_id": "ddnBWL0vh5c",
    "start": "2026-10-07 20:58",
@@ -402,6 +382,16 @@
    "member_chatters": 25,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "XnW1wg6Ur4A",
+   "start": "2026-11-05 19:59",
+   "title": "【 ポケモンチャンピオンズ 】上手な人にコーチングしてもらったらどこまで成長できるか！【 すぺしゃりて/孫守まごも 】#すぺしゃりてポケチャン大会",
+   "kind": "配信",
+   "chatters": 71,
+   "member_chatters": 32,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -510,7 +500,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 48,
+   "like_count": 47,
    "view_count": null
   }
  ],
@@ -602,7 +592,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 48,
+   "like_count": 47,
    "view_count": null
   }
  ],
@@ -719,14 +709,14 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-05"
+    "to": "2026-11-06"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 6,
    "streams_missed": 1,
-   "unique_chatters": 203,
-   "members_confirmed": 75,
+   "unique_chatters": 223,
+   "members_confirmed": 77,
    "member_classes": {
-    "unknown": 60,
+    "unknown": 62,
     "known": 9,
     "gift": 6
    },
@@ -734,7 +724,7 @@
    "badges": [
     {
      "months": 0,
-     "members": 26
+     "members": 28
     },
     {
      "months": 1,
@@ -764,15 +754,15 @@
      "tier": "まごもをさらにかわいがる会",
      "price": 490,
      "confirmed_members": 9,
-     "estimated_members": 69.0
+     "estimated_members": 71.0
     }
    ],
    "revenue": {
-    "monthly_low": 21515,
-    "monthly_est": 21515,
+    "monthly_low": 22139,
+    "monthly_est": 22139,
     "gift_once": 1871
    },
-   "avg_member_chatters": 31.4,
+   "avg_member_chatters": 31.5,
    "partial": true,
    "finalized": false
   }

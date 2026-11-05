@@ -3,15 +3,15 @@
  "channel_id": "UCAHQGIKolfBfoeXXMY79SBA",
  "handle": "@ShironaShizuku",
  "subscribers": 150000,
- "fetched_at": "2026-11-05 11:37",
- "generated_at": "2026-11-05 11:37",
+ "fetched_at": "2026-11-06 06:32",
+ "generated_at": "2026-11-06 06:32",
  "period": {
-  "from": "2026-10-06 11:37",
-  "to": "2026-11-05 11:37",
+  "from": "2026-10-07 06:32",
+  "to": "2026-11-06 06:32",
   "days": 30
  },
  "streams_analyzed": 22,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 1741,
  "members_confirmed": 256,
  "member_classes": {
@@ -309,7 +309,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "Yxz_PwtnX2g",
+   "start": "2026-11-05 00:00",
+   "title": "【 League of Legends #LTK】スクリム３戦をやるぞ【白那しずく / ネオポルテ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 417,
+   "view_count": 42505
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -435,10 +448,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-05"
+    "to": "2026-11-06"
    },
    "streams_analyzed": 2,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 231,
    "members_confirmed": 80,
    "member_classes": {

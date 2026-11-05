@@ -2,22 +2,26 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-05"
+  "to": "2026-11-06"
  },
- "streams_analyzed": 3,
- "streams_missed": 0,
- "unique_chatters": 271,
- "members_confirmed": 84,
+ "streams_analyzed": 4,
+ "streams_missed": 1,
+ "unique_chatters": 296,
+ "members_confirmed": 88,
  "member_classes": {
-  "unknown": 58,
-  "known": 19,
+  "unknown": 60,
+  "known": 21,
   "gift": 7
  },
- "long_term_members": 67,
+ "long_term_members": 69,
  "badges": [
   {
    "months": 0,
-   "members": 7
+   "members": 8
+  },
+  {
+   "months": 1,
+   "members": 1
   },
   {
    "months": 2,
@@ -29,15 +33,15 @@
   },
   {
    "months": 12,
-   "members": 11
+   "members": 12
   },
   {
    "months": 24,
-   "members": 56
+   "members": 57
   }
  ],
  "events": {
-  "new_members": 0,
+  "new_members": 1,
   "rejoins": 0,
   "milestones": 2,
   "gifted_total": 7
@@ -46,16 +50,16 @@
   {
    "tier": "蛇宵幸福教団",
    "price": 490,
-   "confirmed_members": 19,
-   "estimated_members": 77.0
+   "confirmed_members": 21,
+   "estimated_members": 81.0
   }
  ],
  "revenue": {
-  "monthly_low": 24010,
-  "monthly_est": 24010,
+  "monthly_low": 25257,
+  "monthly_est": 25257,
   "gift_once": 2183
  },
- "avg_member_chatters": 48.3,
+ "avg_member_chatters": 43.8,
  "partial": true,
  "finalized": false
 }

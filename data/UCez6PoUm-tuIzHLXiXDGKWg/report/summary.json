@@ -3,27 +3,27 @@
  "channel_id": "UCez6PoUm-tuIzHLXiXDGKWg",
  "handle": "@PlaneiHoshikuzu",
  "subscribers": 36800,
- "fetched_at": "2026-11-05 11:35",
- "generated_at": "2026-11-05 11:36",
+ "fetched_at": "2026-11-06 06:30",
+ "generated_at": "2026-11-06 06:30",
  "period": {
-  "from": "2026-10-06 11:35",
-  "to": "2026-11-05 11:35",
+  "from": "2026-10-07 06:30",
+  "to": "2026-11-06 06:30",
   "days": 30
  },
  "streams_analyzed": 19,
  "streams_missed": 4,
- "unique_chatters": 973,
- "members_confirmed": 253,
+ "unique_chatters": 976,
+ "members_confirmed": 250,
  "member_classes": {
   "unknown": 102,
   "known": 32,
-  "gift": 119
+  "gift": 116
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 83
+   "members": 81
   },
   {
    "months": 1,
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 38
+   "members": 37
   },
   {
    "months": 6,
@@ -52,12 +52,12 @@
   }
  ],
  "events": {
-  "new_members": 3,
+  "new_members": 2,
   "rejoins": 3,
-  "milestones": 23,
-  "gift_purchases": 33,
-  "gifted_total": 122,
-  "gift_redemptions": 119
+  "milestones": 24,
+  "gift_purchases": 30,
+  "gifted_total": 119,
+  "gift_redemptions": 116
  },
  "tiers_configured": true,
  "tiers": [
@@ -76,9 +76,9 @@
  "revenue": {
   "monthly_low": 41784,
   "monthly_est": 41784,
-  "gift_once": 38042,
-  "total_low": 79825,
-  "total_est": 79825,
+  "gift_once": 37106,
+  "total_low": 78890,
+  "total_est": 78890,
   "paying_members": 134,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "hHWfmu5fqtE",
-   "start": "2026-10-06 18:58",
-   "title": "#04【ACE COMBAT 8】シリーズ完全初見✨月11とコープの関係は!?※ネタバレあり【星屑ぷらね/すぺしゃりて】#すぺしゃりて #acecombat8 #エースコンバット8",
-   "kind": "配信",
-   "chatters": 75,
-   "member_chatters": 37,
-   "new_members": 1,
-   "gifted_total": 3
-  },
   {
    "video_id": "Y5dKVw61UMY",
    "start": "2026-10-10 12:58",
@@ -277,6 +267,16 @@
    "member_chatters": 47,
    "new_members": 0,
    "gifted_total": 5
+  },
+  {
+   "video_id": "o09XZTSfbWI",
+   "start": "2026-11-05 19:58",
+   "title": "【バトオペ2】ガンダムハンマー使いたい!!夜のレーティング行くよ～!!!【星屑ぷらね/すぺしゃりて】#すぺしゃりて #すぺしゃりて #バトオペ2",
+   "kind": "配信",
+   "chatters": 83,
+   "member_chatters": 39,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -496,26 +496,26 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-05"
+    "to": "2026-11-06"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 4,
    "streams_missed": 0,
-   "unique_chatters": 245,
-   "members_confirmed": 112,
+   "unique_chatters": 274,
+   "members_confirmed": 117,
    "member_classes": {
-    "unknown": 62,
-    "known": 24,
+    "unknown": 66,
+    "known": 25,
     "gift": 26
    },
-   "long_term_members": 57,
+   "long_term_members": 60,
    "badges": [
     {
      "months": 0,
-     "members": 32
+     "members": 33
     },
     {
      "months": 1,
-     "members": 3
+     "members": 4
     },
     {
      "months": 2,
@@ -531,29 +531,29 @@
     },
     {
      "months": 24,
-     "members": 33
+     "members": 36
     }
    ],
    "events": {
     "new_members": 1,
     "rejoins": 0,
-    "milestones": 10,
+    "milestones": 11,
     "gifted_total": 27
    },
    "tiers": [
     {
      "tier": "ぷらねの侵略会議室",
      "price": 490,
-     "confirmed_members": 24,
-     "estimated_members": 86.0
+     "confirmed_members": 25,
+     "estimated_members": 91.0
     }
    ],
    "revenue": {
-    "monthly_low": 26816,
-    "monthly_est": 26816,
+    "monthly_low": 28375,
+    "monthly_est": 28375,
     "gift_once": 8419
    },
-   "avg_member_chatters": 55.3,
+   "avg_member_chatters": 51.2,
    "partial": true,
    "finalized": false
   }
