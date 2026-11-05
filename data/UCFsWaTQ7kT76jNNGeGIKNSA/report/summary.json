@@ -3,16 +3,16 @@
  "channel_id": "UCFsWaTQ7kT76jNNGeGIKNSA",
  "handle": "@Hikari_Hira",
  "subscribers": 118000,
- "fetched_at": "2026-11-05 06:34",
- "generated_at": "2026-11-05 06:34",
+ "fetched_at": "2026-11-05 11:33",
+ "generated_at": "2026-11-05 11:33",
  "period": {
-  "from": "2026-10-06 06:34",
-  "to": "2026-11-05 06:34",
+  "from": "2026-10-06 11:33",
+  "to": "2026-11-05 11:33",
   "days": 30
  },
- "streams_analyzed": 9,
+ "streams_analyzed": 10,
  "streams_missed": 0,
- "unique_chatters": 607,
+ "unique_chatters": 645,
  "members_confirmed": 75,
  "member_classes": {
   "unknown": 71,
@@ -37,12 +37,12 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 7
+   "members": 6
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 4
+   "members": 5
   },
   {
    "months": 24,
@@ -186,6 +186,16 @@
    "member_chatters": 28,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "gjCX5AwaSq0",
+   "start": "2026-11-05 05:14",
+   "title": "【Stray】じーにゃすが猫になって大冒険する！🐈‍⬛₎₎【飛良ひかり / ななしいんく】",
+   "kind": "配信",
+   "chatters": 104,
+   "member_chatters": 25,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -324,6 +334,74 @@
    },
    "avg_member_chatters": 30.5,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-05"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 104,
+   "members_confirmed": 25,
+   "member_classes": {
+    "unknown": 24,
+    "known": 1
+   },
+   "long_term_members": 20,
+   "badges": [
+    {
+     "months": 0,
+     "members": 1
+    },
+    {
+     "months": 2,
+     "members": 1
+    },
+    {
+     "months": 6,
+     "members": 3
+    },
+    {
+     "months": 12,
+     "members": 3
+    },
+    {
+     "months": 24,
+     "members": 1
+    },
+    {
+     "months": 36,
+     "members": 3
+    },
+    {
+     "months": 48,
+     "members": 13
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 0,
+    "milestones": 0,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "かぶぬし",
+     "price": 490,
+     "confirmed_members": 1,
+     "estimated_members": 25.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 7795,
+    "monthly_est": 7795,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 25,
+   "partial": true,
    "finalized": false
   }
  ],

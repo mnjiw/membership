@@ -3,27 +3,27 @@
  "channel_id": "UCW98GVLrx8lG_ddOts3cl4g",
  "handle": "@Amaui",
  "subscribers": 55900,
- "fetched_at": "2026-11-05 06:34",
- "generated_at": "2026-11-05 06:34",
+ "fetched_at": "2026-11-05 11:33",
+ "generated_at": "2026-11-05 11:33",
  "period": {
-  "from": "2026-10-06 06:34",
-  "to": "2026-11-05 06:34",
+  "from": "2026-10-06 11:33",
+  "to": "2026-11-05 11:33",
   "days": 30
  },
- "streams_analyzed": 30,
+ "streams_analyzed": 31,
  "streams_missed": 1,
- "unique_chatters": 1301,
- "members_confirmed": 166,
+ "unique_chatters": 1303,
+ "members_confirmed": 171,
  "member_classes": {
   "unknown": 136,
   "known": 8,
-  "gift": 22
+  "gift": 27
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 13
+   "members": 18
   },
   {
    "months": 1,
@@ -60,9 +60,9 @@
   "new_members": 3,
   "rejoins": 4,
   "milestones": 0,
-  "gift_purchases": 3,
-  "gifted_total": 22,
-  "gift_redemptions": 22
+  "gift_purchases": 4,
+  "gifted_total": 27,
+  "gift_redemptions": 27
  },
  "tiers_configured": true,
  "tiers": [
@@ -81,9 +81,9 @@
  "revenue": {
   "monthly_low": 44902,
   "monthly_est": 44902,
-  "gift_once": 6860,
-  "total_low": 51762,
-  "total_est": 51762,
+  "gift_once": 8419,
+  "total_low": 53321,
+  "total_est": 53321,
   "paying_members": 144,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -392,6 +392,16 @@
    "member_chatters": 14,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "_gbziXr1iIY",
+   "start": "2026-11-05 00:00",
+   "title": "☾ ໋ #9〖 FFレゾナンス 〗深夜チルでFF新作レゾナンスです .ᐟ.ᐟ💥#ファイナルファンタジーレゾナンス〖 天羽衣┊ななしいんく 〗",
+   "kind": "配信",
+   "chatters": 67,
+   "member_chatters": 33,
+   "new_members": 0,
+   "gifted_total": 5
   }
  ],
  "missed_streams": [
@@ -555,19 +565,20 @@
     "from": "2026-11-01",
     "to": "2026-11-05"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 6,
    "streams_missed": 0,
-   "unique_chatters": 229,
-   "members_confirmed": 76,
+   "unique_chatters": 245,
+   "members_confirmed": 84,
    "member_classes": {
-    "unknown": 70,
-    "known": 6
+    "unknown": 73,
+    "known": 6,
+    "gift": 5
    },
-   "long_term_members": 43,
+   "long_term_members": 45,
    "badges": [
     {
      "months": 0,
-     "members": 4
+     "members": 9
     },
     {
      "months": 1,
@@ -579,7 +590,7 @@
     },
     {
      "months": 6,
-     "members": 15
+     "members": 16
     },
     {
      "months": 12,
@@ -587,33 +598,33 @@
     },
     {
      "months": 24,
-     "members": 7
+     "members": 8
     },
     {
      "months": 36,
-     "members": 29
+     "members": 30
     }
    ],
    "events": {
     "new_members": 1,
     "rejoins": 2,
     "milestones": 0,
-    "gifted_total": 0
+    "gifted_total": 5
    },
    "tiers": [
     {
      "tier": "あまういぷらいむ",
      "price": 490,
      "confirmed_members": 6,
-     "estimated_members": 76.0
+     "estimated_members": 79.0
     }
    ],
    "revenue": {
-    "monthly_low": 23698,
-    "monthly_est": 23698,
-    "gift_once": 0
+    "monthly_low": 24634,
+    "monthly_est": 24634,
+    "gift_once": 1559
    },
-   "avg_member_chatters": 32.6,
+   "avg_member_chatters": 32.7,
    "partial": true,
    "finalized": false
   }

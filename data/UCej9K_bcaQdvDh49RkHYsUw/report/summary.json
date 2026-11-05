@@ -3,16 +3,16 @@
  "channel_id": "UCej9K_bcaQdvDh49RkHYsUw",
  "handle": "@nano_kozuya",
  "subscribers": 35200,
- "fetched_at": "2026-11-05 06:37",
- "generated_at": "2026-11-05 06:37",
+ "fetched_at": "2026-11-05 11:35",
+ "generated_at": "2026-11-05 11:36",
  "period": {
-  "from": "2026-10-06 06:37",
-  "to": "2026-11-05 06:37",
+  "from": "2026-10-06 11:35",
+  "to": "2026-11-05 11:35",
   "days": 30
  },
- "streams_analyzed": 28,
- "streams_missed": 3,
- "unique_chatters": 1487,
+ "streams_analyzed": 29,
+ "streams_missed": 2,
+ "unique_chatters": 1496,
  "members_confirmed": 291,
  "member_classes": {
   "unknown": 227,
@@ -23,12 +23,12 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 56
+   "members": 55
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 27
+   "members": 28
   },
   {
    "months": 2,
@@ -38,12 +38,12 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 43
+   "members": 42
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 124
+   "members": 125
   }
  ],
  "events": {
@@ -362,6 +362,16 @@
    "member_chatters": 85,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "sNcKldECi2E",
+   "start": "2026-11-04 21:01",
+   "title": "〖 ポケモンチャンピオンズ  〗対戦初心者🔰熱血練バトル習🔥 #すぺしゃりてポケチャン大会 にむけて！〖 小鳥谷なの / すぺしゃりて 〗",
+   "kind": "配信",
+   "chatters": 154,
+   "member_chatters": 79,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -374,7 +384,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "こずや大好きっ子クラブ",
-   "like_count": 100,
+   "like_count": 101,
    "view_count": null
   },
   {
@@ -386,20 +396,8 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "こずや大好きっ子クラブ",
-   "like_count": 87,
+   "like_count": 88,
    "view_count": null
-  },
-  {
-   "video_id": "sNcKldECi2E",
-   "start": "2026-11-04 00:00",
-   "title": "〖 ポケモンチャンピオンズ  〗対戦初心者🔰熱血練バトル習🔥 #すぺしゃりてポケチャン大会 にむけて！〖 小鳥谷なの / すぺしゃりて 〗",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 309,
-   "view_count": 9482
   }
  ],
  "members_only_content": [
@@ -410,7 +408,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "こずや大好きっ子クラブ",
-   "like_count": 100,
+   "like_count": 101,
    "view_count": null
   },
   {
@@ -420,7 +418,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "こずや大好きっ子クラブ",
-   "like_count": 87,
+   "like_count": 88,
    "view_count": null
   }
  ],
@@ -543,24 +541,24 @@
     "from": "2026-11-01",
     "to": "2026-11-05"
    },
-   "streams_analyzed": 6,
-   "streams_missed": 1,
-   "unique_chatters": 648,
-   "members_confirmed": 181,
+   "streams_analyzed": 7,
+   "streams_missed": 0,
+   "unique_chatters": 664,
+   "members_confirmed": 184,
    "member_classes": {
-    "unknown": 169,
-    "known": 11,
+    "unknown": 171,
+    "known": 12,
     "gift": 1
    },
-   "long_term_members": 85,
+   "long_term_members": 87,
    "badges": [
     {
      "months": 0,
-     "members": 27
+     "members": 26
     },
     {
      "months": 1,
-     "members": 11
+     "members": 12
     },
     {
      "months": 2,
@@ -568,11 +566,11 @@
     },
     {
      "months": 6,
-     "members": 30
+     "members": 31
     },
     {
      "months": 12,
-     "members": 85
+     "members": 87
     }
    ],
    "events": {
@@ -585,16 +583,16 @@
     {
      "tier": "こずや大好きっ子クラブ",
      "price": 490,
-     "confirmed_members": 11,
-     "estimated_members": 180.0
+     "confirmed_members": 12,
+     "estimated_members": 183.0
     }
    ],
    "revenue": {
-    "monthly_low": 56127,
-    "monthly_est": 56127,
+    "monthly_low": 57063,
+    "monthly_est": 57063,
     "gift_once": 312
    },
-   "avg_member_chatters": 90.5,
+   "avg_member_chatters": 88.9,
    "partial": true,
    "finalized": false
   }

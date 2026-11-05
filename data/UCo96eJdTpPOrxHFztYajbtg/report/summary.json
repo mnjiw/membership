@@ -3,19 +3,19 @@
  "channel_id": "UCo96eJdTpPOrxHFztYajbtg",
  "handle": "@ShinomiyaYuno",
  "subscribers": 115000,
- "fetched_at": "2026-11-05 05:31",
- "generated_at": "2026-11-05 05:31",
+ "fetched_at": "2026-11-05 11:27",
+ "generated_at": "2026-11-05 11:28",
  "period": {
-  "from": "2026-10-06 05:31",
-  "to": "2026-11-05 05:31",
+  "from": "2026-10-06 11:27",
+  "to": "2026-11-05 11:27",
   "days": 30
  },
- "streams_analyzed": 14,
- "streams_missed": 2,
- "unique_chatters": 1129,
- "members_confirmed": 396,
+ "streams_analyzed": 15,
+ "streams_missed": 1,
+ "unique_chatters": 1145,
+ "members_confirmed": 399,
  "member_classes": {
-  "unknown": 354,
+  "unknown": 357,
   "known": 33,
   "gift": 9
  },
@@ -28,22 +28,22 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 45
+   "members": 46
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 99
+   "members": 100
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 89
+   "members": 88
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 113
+   "members": 115
   }
  ],
  "events": {
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 33,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 354.0,
-   "estimated_members": 387.0,
+   "allocated_unknown": 357.0,
+   "estimated_members": 390.0,
    "monthly_net_confirmed": 10290,
-   "monthly_net_estimated": 120674
+   "monthly_net_estimated": 121609
   }
  ],
  "revenue": {
-  "monthly_low": 120674,
-  "monthly_est": 120674,
+  "monthly_low": 121609,
+  "monthly_est": 121609,
   "gift_once": 3118,
-  "total_low": 123792,
-  "total_est": 123792,
-  "paying_members": 387,
+  "total_low": 124727,
+  "total_est": 124727,
+  "paying_members": 390,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -222,6 +222,16 @@
    "member_chatters": 110,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "HppCRq2R7aI",
+   "start": "2026-11-05 00:01",
+   "title": "【 #にじイカ祭り2026 】行ってみよう！プラベ / スプラトゥーン3【 篠宮ゆの / すぷれあ / にじさんじ 】",
+   "kind": "配信",
+   "chatters": 112,
+   "member_chatters": 77,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -236,18 +246,6 @@
    "members_level": "しのみーるさん",
    "like_count": null,
    "view_count": null
-  },
-  {
-   "video_id": "HppCRq2R7aI",
-   "start": "2026-11-04 00:00",
-   "title": "【 #にじイカ祭り2026 】行ってみよう！プラベ / スプラトゥーン3【 篠宮ゆの / すぷれあ / にじさんじ 】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 331,
-   "view_count": 12799
   }
  ],
  "members_only_content": [
@@ -388,35 +386,35 @@
     "from": "2026-11-01",
     "to": "2026-11-05"
    },
-   "streams_analyzed": 2,
-   "streams_missed": 1,
-   "unique_chatters": 401,
-   "members_confirmed": 184,
+   "streams_analyzed": 3,
+   "streams_missed": 0,
+   "unique_chatters": 443,
+   "members_confirmed": 201,
    "member_classes": {
-    "unknown": 170,
-    "known": 14
+    "unknown": 186,
+    "known": 15
    },
-   "long_term_members": 67,
+   "long_term_members": 75,
    "badges": [
     {
      "months": 0,
-     "members": 19
+     "members": 20
     },
     {
      "months": 1,
-     "members": 19
+     "members": 20
     },
     {
      "months": 2,
-     "members": 47
+     "members": 51
     },
     {
      "months": 6,
-     "members": 32
+     "members": 35
     },
     {
      "months": 12,
-     "members": 67
+     "members": 75
     }
    ],
    "events": {
@@ -429,16 +427,16 @@
     {
      "tier": "しのみーるさん",
      "price": 490,
-     "confirmed_members": 14,
-     "estimated_members": 184.0
+     "confirmed_members": 15,
+     "estimated_members": 201.0
     }
    ],
    "revenue": {
-    "monthly_low": 57375,
-    "monthly_est": 57375,
+    "monthly_low": 62675,
+    "monthly_est": 62675,
     "gift_once": 0
    },
-   "avg_member_chatters": 117,
+   "avg_member_chatters": 103.7,
    "partial": true,
    "finalized": false
   }

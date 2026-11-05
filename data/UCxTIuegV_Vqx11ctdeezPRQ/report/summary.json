@@ -3,31 +3,31 @@
  "channel_id": "UCxTIuegV_Vqx11ctdeezPRQ",
  "handle": "@KaminagaTaiga",
  "subscribers": 204000,
- "fetched_at": "2026-11-05 05:36",
- "generated_at": "2026-11-05 05:37",
+ "fetched_at": "2026-11-05 11:29",
+ "generated_at": "2026-11-05 11:29",
  "period": {
-  "from": "2026-10-06 05:36",
-  "to": "2026-11-05 05:36",
+  "from": "2026-10-06 11:29",
+  "to": "2026-11-05 11:29",
   "days": 30
  },
- "streams_analyzed": 29,
+ "streams_analyzed": 30,
  "streams_missed": 1,
- "unique_chatters": 7456,
- "members_confirmed": 1904,
+ "unique_chatters": 7573,
+ "members_confirmed": 1945,
  "member_classes": {
-  "known": 1659,
-  "unknown": 199,
+  "known": 1669,
+  "unknown": 230,
   "gift": 46
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 1904
+   "members": 1945
   }
  ],
  "events": {
-  "new_members": 1662,
+  "new_members": 1672,
   "rejoins": 0,
   "milestones": 0,
   "gift_purchases": 7,
@@ -40,21 +40,21 @@
    "tier": "虎っ子部",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 1659,
+   "confirmed_members": 1669,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 199.0,
-   "estimated_members": 1858.0,
-   "monthly_net_confirmed": 517306,
-   "monthly_net_estimated": 579358
+   "allocated_unknown": 230.0,
+   "estimated_members": 1899.0,
+   "monthly_net_confirmed": 520425,
+   "monthly_net_estimated": 592143
   }
  ],
  "revenue": {
-  "monthly_low": 579358,
-  "monthly_est": 579358,
+  "monthly_low": 592143,
+  "monthly_est": 592143,
   "gift_once": 14344,
-  "total_low": 593702,
-  "total_est": 593702,
-  "paying_members": 1858,
+  "total_low": 606486,
+  "total_est": 606486,
+  "paying_members": 1899,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -352,6 +352,16 @@
    "member_chatters": 308,
    "new_members": 2,
    "gifted_total": 0
+  },
+  {
+   "video_id": "Bl3HA1IRLJw",
+   "start": "2026-11-05 07:00",
+   "title": "【朝活#２５】朝活配信！〜11月5日(木)〜　# ０２【神永タイガ / にじさんじ】",
+   "kind": "配信",
+   "chatters": 707,
+   "member_chatters": 390,
+   "new_members": 10,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -458,24 +468,24 @@
     "from": "2026-11-01",
     "to": "2026-11-05"
    },
-   "streams_analyzed": 4,
+   "streams_analyzed": 5,
    "streams_missed": 0,
-   "unique_chatters": 2766,
-   "members_confirmed": 1075,
+   "unique_chatters": 3104,
+   "members_confirmed": 1171,
    "member_classes": {
-    "known": 867,
-    "unknown": 198,
+    "known": 931,
+    "unknown": 230,
     "gift": 10
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 1075
+     "members": 1171
     }
    ],
    "events": {
-    "new_members": 137,
+    "new_members": 147,
     "rejoins": 0,
     "milestones": 0,
     "gifted_total": 10
@@ -484,16 +494,16 @@
     {
      "tier": "虎っ子部",
      "price": 490,
-     "confirmed_members": 867,
-     "estimated_members": 1065.0
+     "confirmed_members": 931,
+     "estimated_members": 1161.0
     }
    ],
    "revenue": {
-    "monthly_low": 332086,
-    "monthly_est": 332086,
+    "monthly_low": 362021,
+    "monthly_est": 362021,
     "gift_once": 3118
    },
-   "avg_member_chatters": 537,
+   "avg_member_chatters": 507.6,
    "partial": true,
    "finalized": false
   }

@@ -3,16 +3,16 @@
  "channel_id": "UCV5ZZlLjk5MKGg3L0n0vbzw",
  "handle": "@TakamiyaRion",
  "subscribers": 560000,
- "fetched_at": "2026-11-05 05:20",
- "generated_at": "2026-11-05 05:20",
+ "fetched_at": "2026-11-05 11:23",
+ "generated_at": "2026-11-05 11:24",
  "period": {
-  "from": "2026-10-06 05:20",
-  "to": "2026-11-05 05:20",
+  "from": "2026-10-06 11:23",
+  "to": "2026-11-05 11:23",
   "days": 30
  },
- "streams_analyzed": 38,
- "streams_missed": 1,
- "unique_chatters": 3085,
+ "streams_analyzed": 39,
+ "streams_missed": 0,
+ "unique_chatters": 3109,
  "members_confirmed": 239,
  "member_classes": {
   "known": 32,
@@ -509,22 +509,19 @@
    "member_chatters": 64,
    "new_members": 0,
    "gifted_total": 0
-  }
- ],
- "missed_streams": [
+  },
   {
    "video_id": "MZVsJ788YzI",
-   "start": "2026-11-04 00:00",
+   "start": "2026-11-04 18:01",
    "title": "【 #にじイカ祭り2026 】スプラ大会！スクリム【にじさんじ/鷹宮リオン オリバーエヴァンス 春崎エアル ぷりんららもーど】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 456,
-   "view_count": 25681
+   "kind": "配信",
+   "chatters": 141,
+   "member_chatters": 57,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -720,15 +717,15 @@
     "from": "2026-11-01",
     "to": "2026-11-05"
    },
-   "streams_analyzed": 4,
-   "streams_missed": 1,
-   "unique_chatters": 326,
-   "members_confirmed": 92,
+   "streams_analyzed": 5,
+   "streams_missed": 0,
+   "unique_chatters": 380,
+   "members_confirmed": 98,
    "member_classes": {
     "known": 12,
-    "unknown": 80
+    "unknown": 86
    },
-   "long_term_members": 74,
+   "long_term_members": 78,
    "badges": [
     {
      "months": 0,
@@ -740,7 +737,7 @@
     },
     {
      "months": 2,
-     "members": 6
+     "members": 8
     },
     {
      "months": 6,
@@ -748,11 +745,11 @@
     },
     {
      "months": 12,
-     "members": 12
+     "members": 13
     },
     {
      "months": 24,
-     "members": 12
+     "members": 14
     },
     {
      "months": 36,
@@ -764,7 +761,7 @@
     },
     {
      "months": 60,
-     "members": 13
+     "members": 14
     },
     {
      "months": 72,
@@ -782,7 +779,7 @@
      "tier": "帝華学生",
      "price": 490,
      "confirmed_members": 10,
-     "estimated_members": 76.7
+     "estimated_members": 81.7
     },
     {
      "tier": "なんか真ん中らへんのメンバーでこれはガム代になる",
@@ -794,15 +791,15 @@
      "tier": "鰻コース　鰻食べるだけ",
      "price": 5600,
      "confirmed_members": 2,
-     "estimated_members": 15.3
+     "estimated_members": 16.3
     }
    ],
    "revenue": {
-    "monthly_low": 35191,
-    "monthly_est": 78548,
+    "monthly_low": 37062,
+    "monthly_est": 83671,
     "gift_once": 0
    },
-   "avg_member_chatters": 52.5,
+   "avg_member_chatters": 53.4,
    "partial": true,
    "finalized": false
   }

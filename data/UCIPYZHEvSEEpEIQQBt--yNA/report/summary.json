@@ -3,16 +3,16 @@
  "channel_id": "UCIPYZHEvSEEpEIQQBt--yNA",
  "handle": "@urara_ai",
  "subscribers": 19900,
- "fetched_at": "2026-11-05 06:38",
- "generated_at": "2026-11-05 06:38",
+ "fetched_at": "2026-11-05 11:36",
+ "generated_at": "2026-11-05 11:36",
  "period": {
-  "from": "2026-10-06 06:38",
-  "to": "2026-11-05 06:38",
+  "from": "2026-10-06 11:36",
+  "to": "2026-11-05 11:36",
   "days": 30
  },
- "streams_analyzed": 29,
- "streams_missed": 5,
- "unique_chatters": 1234,
+ "streams_analyzed": 30,
+ "streams_missed": 4,
+ "unique_chatters": 1247,
  "members_confirmed": 343,
  "member_classes": {
   "unknown": 188,
@@ -23,12 +23,12 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 132
+   "members": 130
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 39
+   "members": 41
   },
   {
    "months": 2,
@@ -372,6 +372,16 @@
    "member_chatters": 49,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "AryhXEj1K1Q",
+   "start": "2026-11-04 22:01",
+   "title": "【 ポケモンチャンピオンズ 】ロロ先生からコーチングをもらいます！あいうらら大成長中！【 あいうらら / すぺしゃりて 】",
+   "kind": "配信",
+   "chatters": 128,
+   "member_chatters": 59,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -384,7 +394,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 77,
+   "like_count": 78,
    "view_count": null
   },
   {
@@ -422,18 +432,6 @@
    "members_level": "",
    "like_count": 84,
    "view_count": null
-  },
-  {
-   "video_id": "AryhXEj1K1Q",
-   "start": "2026-11-04 00:00",
-   "title": "【 ポケモンチャンピオンズ 】ロロ先生からコーチングをもらいます！あいうらら大成長中！【 あいうらら / すぺしゃりて 】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 347,
-   "view_count": 14439
   }
  ],
  "members_only_content": [
@@ -444,7 +442,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 77,
+   "like_count": 78,
    "view_count": null
   },
   {
@@ -597,16 +595,16 @@
     "from": "2026-11-01",
     "to": "2026-11-05"
    },
-   "streams_analyzed": 5,
-   "streams_missed": 1,
-   "unique_chatters": 537,
-   "members_confirmed": 192,
+   "streams_analyzed": 6,
+   "streams_missed": 0,
+   "unique_chatters": 566,
+   "members_confirmed": 196,
    "member_classes": {
-    "unknown": 150,
+    "unknown": 154,
     "known": 32,
     "gift": 10
    },
-   "long_term_members": 63,
+   "long_term_members": 64,
    "badges": [
     {
      "months": 0,
@@ -614,7 +612,7 @@
     },
     {
      "months": 1,
-     "members": 25
+     "members": 27
     },
     {
      "months": 2,
@@ -622,11 +620,11 @@
     },
     {
      "months": 6,
-     "members": 31
+     "members": 32
     },
     {
      "months": 12,
-     "members": 63
+     "members": 64
     }
    ],
    "events": {
@@ -640,15 +638,15 @@
      "tier": "うららの天界",
      "price": 490,
      "confirmed_members": 32,
-     "estimated_members": 182.0
+     "estimated_members": 186.0
     }
    ],
    "revenue": {
-    "monthly_low": 56751,
-    "monthly_est": 56751,
+    "monthly_low": 57998,
+    "monthly_est": 57998,
     "gift_once": 3118
    },
-   "avg_member_chatters": 84.6,
+   "avg_member_chatters": 80.3,
    "partial": true,
    "finalized": false
   }

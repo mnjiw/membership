@@ -2,21 +2,21 @@
  "channel": "幽乃うつろ / Kasukano Utsuro",
  "channel_id": "UCEk1_ZVGRiVV-gxHT9wdNMg",
  "handle": "@Kasukano_Utsuro",
- "subscribers": 73000,
- "fetched_at": "2026-11-05 06:39",
- "generated_at": "2026-11-05 06:39",
+ "subscribers": 73100,
+ "fetched_at": "2026-11-05 11:37",
+ "generated_at": "2026-11-05 11:37",
  "period": {
-  "from": "2026-10-06 06:39",
-  "to": "2026-11-05 06:39",
+  "from": "2026-10-06 11:37",
+  "to": "2026-11-05 11:37",
   "days": 30
  },
- "streams_analyzed": 21,
+ "streams_analyzed": 22,
  "streams_missed": 6,
- "unique_chatters": 320,
- "members_confirmed": 121,
+ "unique_chatters": 353,
+ "members_confirmed": 133,
  "member_classes": {
-  "unknown": 86,
-  "known": 28,
+  "unknown": 97,
+  "known": 29,
   "gift": 7
  },
  "badges": [
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 24
+   "members": 26
   },
   {
    "months": 24,
@@ -53,7 +53,7 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 39
+   "members": 49
   }
  ],
  "events": {
@@ -70,21 +70,21 @@
    "tier": "ひょういたいしょう",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 28,
+   "confirmed_members": 29,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 86.0,
-   "estimated_members": 114.0,
-   "monthly_net_confirmed": 8731,
-   "monthly_net_estimated": 35547
+   "allocated_unknown": 97.0,
+   "estimated_members": 126.0,
+   "monthly_net_confirmed": 9043,
+   "monthly_net_estimated": 39289
   }
  ],
  "revenue": {
-  "monthly_low": 35547,
-  "monthly_est": 35547,
+  "monthly_low": 39289,
+  "monthly_est": 39289,
   "gift_once": 2183,
-  "total_low": 37730,
-  "total_est": 37730,
-  "paying_members": 114,
+  "total_low": 41472,
+  "total_est": 41472,
+  "paying_members": 126,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -300,6 +300,16 @@
    "kind": "配信",
    "chatters": 62,
    "member_chatters": 36,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "wroRlXcNuow",
+   "start": "2026-11-05 07:13",
+   "title": "世にも珍しい朝雑談",
+   "kind": "配信",
+   "chatters": 88,
+   "member_chatters": 48,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -574,19 +584,19 @@
     "from": "2026-11-01",
     "to": "2026-11-05"
    },
-   "streams_analyzed": 2,
+   "streams_analyzed": 3,
    "streams_missed": 0,
-   "unique_chatters": 87,
-   "members_confirmed": 42,
+   "unique_chatters": 147,
+   "members_confirmed": 74,
    "member_classes": {
-    "unknown": 30,
-    "known": 12
+    "unknown": 56,
+    "known": 18
    },
-   "long_term_members": 29,
+   "long_term_members": 56,
    "badges": [
     {
      "months": 0,
-     "members": 3
+     "members": 5
     },
     {
      "months": 2,
@@ -594,19 +604,19 @@
     },
     {
      "months": 6,
-     "members": 9
+     "members": 12
     },
     {
      "months": 12,
-     "members": 6
+     "members": 14
     },
     {
      "months": 24,
-     "members": 4
+     "members": 7
     },
     {
      "months": 36,
-     "members": 19
+     "members": 35
     }
    ],
    "events": {
@@ -619,16 +629,16 @@
     {
      "tier": "ひょういたいしょう",
      "price": 490,
-     "confirmed_members": 12,
-     "estimated_members": 42.0
+     "confirmed_members": 18,
+     "estimated_members": 74.0
     }
    ],
    "revenue": {
-    "monthly_low": 13096,
-    "monthly_est": 13096,
+    "monthly_low": 23075,
+    "monthly_est": 23075,
     "gift_once": 0
    },
-   "avg_member_chatters": 32,
+   "avg_member_chatters": 37.3,
    "partial": true,
    "finalized": false
   }

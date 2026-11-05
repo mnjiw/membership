@@ -3,16 +3,16 @@
  "channel_id": "UC2BJwSA_iewqrMHX9rrO59g",
  "handle": "@meru_onino",
  "subscribers": 12600,
- "fetched_at": "2026-11-05 06:38",
- "generated_at": "2026-11-05 06:38",
+ "fetched_at": "2026-11-05 11:36",
+ "generated_at": "2026-11-05 11:36",
  "period": {
-  "from": "2026-10-06 06:38",
-  "to": "2026-11-05 06:38",
+  "from": "2026-10-06 11:36",
+  "to": "2026-11-05 11:36",
   "days": 30
  },
- "streams_analyzed": 25,
- "streams_missed": 2,
- "unique_chatters": 910,
+ "streams_analyzed": 26,
+ "streams_missed": 1,
+ "unique_chatters": 911,
  "members_confirmed": 352,
  "member_classes": {
   "unknown": 122,
@@ -332,6 +332,16 @@
    "member_chatters": 11,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "1_s0AqcZzHY",
+   "start": "2026-11-04 21:56",
+   "title": "【 #にゃにゃ鯖ARK 】DAY６! 最終日！イベントがあるらしい…？！【 鬼ノめる / すぺしゃりて 】",
+   "kind": "配信",
+   "chatters": 23,
+   "member_chatters": 12,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -346,18 +356,6 @@
    "members_level": "",
    "like_count": 187,
    "view_count": null
-  },
-  {
-   "video_id": "1_s0AqcZzHY",
-   "start": "2026-11-04 00:00",
-   "title": "【 #にゃにゃ鯖ARK 】DAY６! 最終日！イベントがあるらしい…？！【 鬼ノめる / すぺしゃりて 】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 118,
-   "view_count": 2156
   }
  ],
  "members_only_content": [
@@ -487,23 +485,23 @@
     "from": "2026-11-01",
     "to": "2026-11-05"
    },
-   "streams_analyzed": 4,
-   "streams_missed": 1,
-   "unique_chatters": 163,
-   "members_confirmed": 69,
+   "streams_analyzed": 5,
+   "streams_missed": 0,
+   "unique_chatters": 170,
+   "members_confirmed": 73,
    "member_classes": {
-    "unknown": 59,
-    "known": 10
+    "unknown": 62,
+    "known": 11
    },
    "long_term_members": 5,
    "badges": [
     {
      "months": 0,
-     "members": 22
+     "members": 24
     },
     {
      "months": 1,
-     "members": 12
+     "members": 13
     },
     {
      "months": 2,
@@ -511,7 +509,7 @@
     },
     {
      "months": 6,
-     "members": 19
+     "members": 20
     },
     {
      "months": 12,
@@ -528,16 +526,16 @@
     {
      "tier": "鬼ノめるを救い隊",
      "price": 490,
-     "confirmed_members": 10,
-     "estimated_members": 69.0
+     "confirmed_members": 11,
+     "estimated_members": 73.0
     }
    ],
    "revenue": {
-    "monthly_low": 21515,
-    "monthly_est": 21515,
+    "monthly_low": 22763,
+    "monthly_est": 22763,
     "gift_once": 0
    },
-   "avg_member_chatters": 25.8,
+   "avg_member_chatters": 23,
    "partial": true,
    "finalized": false
   }

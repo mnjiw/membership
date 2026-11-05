@@ -4,31 +4,39 @@
   "from": "2026-11-01",
   "to": "2026-11-05"
  },
- "streams_analyzed": 1,
- "streams_missed": 1,
- "unique_chatters": 45,
- "members_confirmed": 30,
+ "streams_analyzed": 2,
+ "streams_missed": 0,
+ "unique_chatters": 75,
+ "members_confirmed": 51,
  "member_classes": {
-  "known": 7,
-  "unknown": 23
+  "known": 9,
+  "unknown": 42
  },
- "long_term_members": 22,
+ "long_term_members": 36,
  "badges": [
   {
+   "months": 0,
+   "members": 1
+  },
+  {
+   "months": 1,
+   "members": 1
+  },
+  {
    "months": 2,
-   "members": 3
+   "members": 7
   },
   {
    "months": 6,
-   "members": 5
+   "members": 6
   },
   {
    "months": 12,
-   "members": 2
+   "members": 7
   },
   {
    "months": 24,
-   "members": 20
+   "members": 29
   }
  ],
  "events": {
@@ -41,16 +49,16 @@
   {
    "tier": "HaYun Membership",
    "price": 490,
-   "confirmed_members": 7,
-   "estimated_members": 30.0
+   "confirmed_members": 9,
+   "estimated_members": 51.0
   }
  ],
  "revenue": {
-  "monthly_low": 9355,
-  "monthly_est": 9355,
+  "monthly_low": 15903,
+  "monthly_est": 15903,
   "gift_once": 0
  },
- "avg_member_chatters": 30,
+ "avg_member_chatters": 35.5,
  "partial": true,
  "finalized": false
 }

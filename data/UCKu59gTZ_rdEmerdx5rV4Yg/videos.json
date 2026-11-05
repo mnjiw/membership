@@ -200,17 +200,15 @@
    "start_ts": 1793458800.0,
    "start_jst": "2026-11-01 00:00",
    "duration_sec": null,
-   "view_count": 21921,
-   "like_count": 2166,
+   "view_count": 22088,
+   "like_count": 2179,
    "live_status": null,
    "members_only": false,
    "has_chat": false,
-   "checked_at": "2026-11-05 05:35",
+   "checked_at": "2026-11-05 11:28",
    "info_limited": true,
-   "error": "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)",
-   "tab": "video",
-   "status": "error",
-   "failed_since_ts": 1793565626.0115306
+   "settled_while_limited": true,
+   "status": "skip_not_stream"
   },
   "NEpKLm8OB5M": {
    "id": "NEpKLm8OB5M",
@@ -251,8 +249,8 @@
  "channel_id": "UCKu59gTZ_rdEmerdx5rV4Yg",
  "handle": "@RenZotto",
  "subscribers": 547000,
- "fetched_at": "2026-11-05 05:34",
- "fetched_at_ts": 1793824486.5385206,
- "checked_from": "2026-10-29 05:34",
+ "fetched_at": "2026-11-05 11:28",
+ "fetched_at_ts": 1793845728.0632977,
+ "checked_from": "2026-10-29 11:28",
  "initial_fetch_done": true
 }
