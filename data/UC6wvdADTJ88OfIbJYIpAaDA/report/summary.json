@@ -3,15 +3,15 @@
  "channel_id": "UC6wvdADTJ88OfIbJYIpAaDA",
  "handle": "@FuwaMinato",
  "subscribers": 1210000,
- "fetched_at": "2026-11-06 11:25",
- "generated_at": "2026-11-06 11:25",
+ "fetched_at": "2026-11-07 05:25",
+ "generated_at": "2026-11-07 05:25",
  "period": {
-  "from": "2026-10-07 11:25",
-  "to": "2026-11-06 11:25",
+  "from": "2026-10-08 05:25",
+  "to": "2026-11-07 05:25",
   "days": 30
  },
  "streams_analyzed": 16,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 6552,
  "members_confirmed": 2848,
  "member_classes": {
@@ -253,7 +253,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "FCE7v-jQCb0",
+   "start": "2026-11-06 00:00",
+   "title": "【スプラトゥーン3】ソナー上等、魂の対抗戦連打【不破湊/にじさんじ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 3200,
+   "view_count": 327152
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -397,10 +410,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-06"
+    "to": "2026-11-07"
    },
    "streams_analyzed": 6,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 3617,
    "members_confirmed": 1920,
    "member_classes": {

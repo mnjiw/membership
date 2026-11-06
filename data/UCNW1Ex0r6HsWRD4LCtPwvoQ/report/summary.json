@@ -3,15 +3,15 @@
  "channel_id": "UCNW1Ex0r6HsWRD4LCtPwvoQ",
  "handle": "@SaegusaAkina",
  "subscribers": 738000,
- "fetched_at": "2026-11-06 11:24",
- "generated_at": "2026-11-06 11:24",
+ "fetched_at": "2026-11-07 05:23",
+ "generated_at": "2026-11-07 05:23",
  "period": {
-  "from": "2026-10-07 11:24",
-  "to": "2026-11-06 11:24",
+  "from": "2026-10-08 05:23",
+  "to": "2026-11-07 05:23",
   "days": 30
  },
  "streams_analyzed": 3,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 3058,
  "members_confirmed": 1751,
  "member_classes": {
@@ -112,8 +112,32 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
- "members_only_content": [],
+ "missed_streams": [
+  {
+   "video_id": "O6k1gd0qvEI",
+   "start": "2026-11-07 00:00",
+   "title": "🐈",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 829,
+   "view_count": null
+  }
+ ],
+ "members_only_content": [
+  {
+   "video_id": "O6k1gd0qvEI",
+   "start": "2026-11-07 00:00",
+   "title": "🐈",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 829,
+   "view_count": null
+  }
+ ],
  "history": [
   {
    "month": "2026-09",
@@ -238,10 +262,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-06"
+    "to": "2026-11-07"
    },
    "streams_analyzed": 2,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 2794,
    "members_confirmed": 1669,
    "member_classes": {

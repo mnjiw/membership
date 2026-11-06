@@ -3,36 +3,36 @@
  "channel_id": "UClS6k3w1sPwlVFqK3-yID5A",
  "handle": "@RyuHari",
  "subscribers": 44900,
- "fetched_at": "2026-11-06 11:26",
- "generated_at": "2026-11-06 11:26",
+ "fetched_at": "2026-11-07 05:28",
+ "generated_at": "2026-11-07 05:29",
  "period": {
-  "from": "2026-10-07 11:26",
-  "to": "2026-11-06 11:26",
+  "from": "2026-10-08 05:28",
+  "to": "2026-11-07 05:28",
   "days": 30
  },
  "streams_analyzed": 14,
- "streams_missed": 2,
- "unique_chatters": 201,
- "members_confirmed": 108,
+ "streams_missed": 1,
+ "unique_chatters": 203,
+ "members_confirmed": 107,
  "member_classes": {
   "unknown": 33,
   "known": 16,
-  "gift": 59
+  "gift": 58
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 108
+   "members": 107
   }
  ],
  "events": {
   "new_members": 5,
   "rejoins": 0,
   "milestones": 10,
-  "gift_purchases": 9,
-  "gifted_total": 60,
-  "gift_redemptions": 60
+  "gift_purchases": 8,
+  "gifted_total": 59,
+  "gift_redemptions": 59
  },
  "tiers_configured": true,
  "tiers": [
@@ -51,9 +51,9 @@
  "revenue": {
   "monthly_low": 15279,
   "monthly_est": 15279,
-  "gift_once": 18709,
-  "total_low": 33988,
-  "total_est": 33988,
+  "gift_once": 18397,
+  "total_low": 33676,
+  "total_est": 33676,
   "paying_members": 49,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -63,16 +63,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "q5Yt5_qbFTY",
-   "start": "2026-10-07 22:00",
-   "title": "[SILENT HILL: Townfall] #6 怖いところ　※ネタバレ注意　【にじさんじ／リュハリ】",
-   "kind": "配信",
-   "chatters": 21,
-   "member_chatters": 15,
-   "new_members": 0,
-   "gifted_total": 1
-  },
   {
    "video_id": "O2jjrj9Dr_8",
    "start": "2026-10-08 22:06",
@@ -202,6 +192,16 @@
    "member_chatters": 19,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "HqmM0t802vE",
+   "start": "2026-11-05 22:00",
+   "title": "[Make some! Karaage] I'll make you delicious fried chicken [NIJISANJI / Ryuhari]",
+   "kind": "配信",
+   "chatters": 38,
+   "member_chatters": 22,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -216,18 +216,6 @@
    "members_level": "",
    "like_count": 21,
    "view_count": null
-  },
-  {
-   "video_id": "HqmM0t802vE",
-   "start": "2026-11-05 00:00",
-   "title": "[作って！からあげ] おいしいからあげ作ってあげる　【にじさんじ／リュハリ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 150,
-   "view_count": 1625
   }
  ],
  "members_only_content": [
@@ -338,21 +326,21 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-06"
+    "to": "2026-11-07"
    },
-   "streams_analyzed": 3,
-   "streams_missed": 1,
-   "unique_chatters": 58,
-   "members_confirmed": 27,
+   "streams_analyzed": 4,
+   "streams_missed": 0,
+   "unique_chatters": 68,
+   "members_confirmed": 28,
    "member_classes": {
-    "unknown": 19,
+    "unknown": 20,
     "known": 8
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 27
+     "members": 28
     }
    ],
    "events": {
@@ -366,15 +354,15 @@
      "tier": "리몽",
      "price": 490,
      "confirmed_members": 8,
-     "estimated_members": 27.0
+     "estimated_members": 28.0
     }
    ],
    "revenue": {
-    "monthly_low": 8419,
-    "monthly_est": 8419,
+    "monthly_low": 8731,
+    "monthly_est": 8731,
     "gift_once": 0
    },
-   "avg_member_chatters": 18,
+   "avg_member_chatters": 19,
    "partial": true,
    "finalized": false
   }

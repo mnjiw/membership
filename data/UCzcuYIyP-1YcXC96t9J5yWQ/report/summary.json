@@ -2,20 +2,20 @@
  "channel": "九里詠太 / Kuri Eita【にじさんじ】",
  "channel_id": "UCzcuYIyP-1YcXC96t9J5yWQ",
  "handle": "@KuriEita_Y4T4",
- "subscribers": 76000,
- "fetched_at": "2026-11-06 11:28",
- "generated_at": "2026-11-06 11:28",
+ "subscribers": 76100,
+ "fetched_at": "2026-11-07 05:37",
+ "generated_at": "2026-11-07 05:37",
  "period": {
-  "from": "2026-10-07 11:28",
-  "to": "2026-11-06 11:28",
+  "from": "2026-10-08 05:37",
+  "to": "2026-11-07 05:37",
   "days": 30
  },
- "streams_analyzed": 27,
- "streams_missed": 2,
- "unique_chatters": 1223,
- "members_confirmed": 116,
+ "streams_analyzed": 28,
+ "streams_missed": 3,
+ "unique_chatters": 1230,
+ "members_confirmed": 117,
  "member_classes": {
-  "unknown": 103,
+  "unknown": 104,
   "known": 9,
   "gift": 4
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 18
+   "members": 19
   },
   {
    "months": 1,
@@ -52,19 +52,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 9,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 103.0,
-   "estimated_members": 112.0,
+   "allocated_unknown": 104.0,
+   "estimated_members": 113.0,
    "monthly_net_confirmed": 2806,
-   "monthly_net_estimated": 34924
+   "monthly_net_estimated": 35235
   }
  ],
  "revenue": {
-  "monthly_low": 34924,
-  "monthly_est": 34924,
+  "monthly_low": 35235,
+  "monthly_est": 35235,
   "gift_once": 1247,
-  "total_low": 36171,
-  "total_est": 36171,
-  "paying_members": 112,
+  "total_low": 36483,
+  "total_est": 36483,
+  "paying_members": 113,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -342,6 +342,16 @@
    "member_chatters": 36,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "qP4WLHhFS4g",
+   "start": "2026-11-06 20:02",
+   "title": "【スプラトゥーン3】本番前日の対抗戦！！！  #にじイカ祭り2026  【九里詠太 / にじさんじ】",
+   "kind": "配信",
+   "chatters": 69,
+   "member_chatters": 31,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -368,6 +378,18 @@
    "members_level": "",
    "like_count": 37,
    "view_count": null
+  },
+  {
+   "video_id": "J62k09V3sp4",
+   "start": "2026-11-06 00:00",
+   "title": "【スプラトゥーン3】Xフィジカル強化合宿最終日 #にじイカ祭り2026  【九里詠太 / にじさんじ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 300,
+   "view_count": 18124
   }
  ],
  "members_only_content": [
@@ -504,14 +526,14 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-06"
+    "to": "2026-11-07"
    },
-   "streams_analyzed": 8,
-   "streams_missed": 0,
-   "unique_chatters": 302,
-   "members_confirmed": 76,
+   "streams_analyzed": 9,
+   "streams_missed": 1,
+   "unique_chatters": 311,
+   "members_confirmed": 77,
    "member_classes": {
-    "unknown": 68,
+    "unknown": 69,
     "known": 7,
     "gift": 1
    },
@@ -519,7 +541,7 @@
    "badges": [
     {
      "months": 0,
-     "members": 10
+     "members": 11
     },
     {
      "months": 1,
@@ -541,15 +563,15 @@
      "tier": "便利屋会員",
      "price": 490,
      "confirmed_members": 7,
-     "estimated_members": 75.0
+     "estimated_members": 76.0
     }
    ],
    "revenue": {
-    "monthly_low": 23386,
-    "monthly_est": 23386,
+    "monthly_low": 23698,
+    "monthly_est": 23698,
     "gift_once": 312
    },
-   "avg_member_chatters": 33.1,
+   "avg_member_chatters": 32.9,
    "partial": true,
    "finalized": false
   }

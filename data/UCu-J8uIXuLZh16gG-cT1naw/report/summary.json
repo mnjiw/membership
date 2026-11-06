@@ -3,27 +3,27 @@
  "channel_id": "UCu-J8uIXuLZh16gG-cT1naw",
  "handle": "@FinanaRyugu",
  "subscribers": 474000,
- "fetched_at": "2026-11-06 11:28",
- "generated_at": "2026-11-06 11:29",
+ "fetched_at": "2026-11-07 05:38",
+ "generated_at": "2026-11-07 05:38",
  "period": {
-  "from": "2026-10-07 11:28",
-  "to": "2026-11-06 11:28",
+  "from": "2026-10-08 05:38",
+  "to": "2026-11-07 05:38",
   "days": 30
  },
  "streams_analyzed": 20,
  "streams_missed": 6,
- "unique_chatters": 507,
- "members_confirmed": 133,
+ "unique_chatters": 519,
+ "members_confirmed": 130,
  "member_classes": {
-  "unknown": 62,
+  "unknown": 61,
   "known": 21,
-  "gift": 50
+  "gift": 48
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 51
+   "members": 48
   },
   {
    "months": 1,
@@ -38,26 +38,26 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 8
+   "members": 9
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 13
+   "members": 14
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 56
+   "members": 54
   }
  ],
  "events": {
   "new_members": 2,
   "rejoins": 1,
   "milestones": 10,
-  "gift_purchases": 30,
-  "gifted_total": 50,
-  "gift_redemptions": 50
+  "gift_purchases": 28,
+  "gifted_total": 48,
+  "gift_redemptions": 48
  },
  "tiers_configured": true,
  "tiers": [
@@ -67,19 +67,19 @@
    "net_per_member": 439.1,
    "confirmed_members": 21,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 62.0,
-   "estimated_members": 83.0,
+   "allocated_unknown": 61.0,
+   "estimated_members": 82.0,
    "monthly_net_confirmed": 9221,
-   "monthly_net_estimated": 36445
+   "monthly_net_estimated": 36005
   }
  ],
  "revenue": {
-  "monthly_low": 36445,
-  "monthly_est": 36445,
-  "gift_once": 21955,
-  "total_low": 58399,
-  "total_est": 58399,
-  "paying_members": 83,
+  "monthly_low": 36005,
+  "monthly_est": 36005,
+  "gift_once": 21076,
+  "total_low": 57082,
+  "total_est": 57082,
+  "paying_members": 82,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "bSCpfb0JM-0",
-   "start": "2026-10-08 05:06",
-   "title": "【FINAL FANTASY XIV】 Fall Guys Event [Collab] w/ ‪@EliraPendora‬ !",
-   "kind": "配信",
-   "chatters": 90,
-   "member_chatters": 33,
-   "new_members": 0,
-   "gifted_total": 3
-  },
   {
    "video_id": "uU8nkruxGaw",
    "start": "2026-10-09 05:00",
@@ -287,6 +277,16 @@
    "member_chatters": 32,
    "new_members": 0,
    "gifted_total": 5
+  },
+  {
+   "video_id": "LOrpRJOlMTA",
+   "start": "2026-11-05 07:55",
+   "title": "【#DistrictV2 GTA V RP】999, 10-41. 🚓",
+   "kind": "配信",
+   "chatters": 81,
+   "member_chatters": 27,
+   "new_members": 0,
+   "gifted_total": 1
   }
  ],
  "missed_streams": [
@@ -347,20 +347,20 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 152,
-   "view_count": 4041
+   "like_count": 159,
+   "view_count": 4301
   },
   {
-   "video_id": "LOrpRJOlMTA",
-   "start": "2026-11-04 00:00",
-   "title": "【#DistrictV2 GTA V RP】999, 10-41. 🚓",
+   "video_id": "n7vn3G-_ON0",
+   "start": "2026-11-06 00:00",
+   "title": "【#DistrictV2 GTA V RP】praying for that promotion soon !! 🚓✨",
    "kind": "video",
    "status": "error",
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 479,
-   "view_count": 11315
+   "like_count": 585,
+   "view_count": 18099
   }
  ],
  "members_only_content": [
@@ -541,56 +541,60 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-06"
+    "to": "2026-11-07"
    },
-   "streams_analyzed": 2,
+   "streams_analyzed": 3,
    "streams_missed": 3,
-   "unique_chatters": 163,
-   "members_confirmed": 50,
+   "unique_chatters": 212,
+   "members_confirmed": 59,
    "member_classes": {
-    "unknown": 33,
-    "known": 9,
-    "gift": 8
+    "unknown": 40,
+    "known": 10,
+    "gift": 9
    },
-   "long_term_members": 37,
+   "long_term_members": 43,
    "badges": [
     {
      "months": 0,
-     "members": 8
+     "members": 9
+    },
+    {
+     "months": 2,
+     "members": 1
     },
     {
      "months": 6,
-     "members": 5
+     "members": 6
     },
     {
      "months": 12,
-     "members": 4
+     "members": 7
     },
     {
      "months": 24,
-     "members": 33
+     "members": 36
     }
    ],
    "events": {
     "new_members": 0,
     "rejoins": 1,
     "milestones": 2,
-    "gifted_total": 8
+    "gifted_total": 9
    },
    "tiers": [
     {
      "tier": "Ryuguard",
      "price": 690,
-     "confirmed_members": 9,
-     "estimated_members": 42.0
+     "confirmed_members": 10,
+     "estimated_members": 50.0
     }
    ],
    "revenue": {
-    "monthly_low": 18442,
-    "monthly_est": 18442,
-    "gift_once": 3513
+    "monthly_low": 21955,
+    "monthly_est": 21955,
+    "gift_once": 3952
    },
-   "avg_member_chatters": 35.5,
+   "avg_member_chatters": 32.7,
    "partial": true,
    "finalized": false
   }

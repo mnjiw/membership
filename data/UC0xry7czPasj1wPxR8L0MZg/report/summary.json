@@ -3,19 +3,19 @@
  "channel_id": "UC0xry7czPasj1wPxR8L0MZg",
  "handle": "@Saotomeberry",
  "subscribers": 330000,
- "fetched_at": "2026-11-06 11:27",
- "generated_at": "2026-11-06 11:27",
+ "fetched_at": "2026-11-07 05:34",
+ "generated_at": "2026-11-07 05:35",
  "period": {
-  "from": "2026-10-07 11:27",
-  "to": "2026-11-06 11:27",
+  "from": "2026-10-08 05:34",
+  "to": "2026-11-07 05:34",
   "days": 30
  },
- "streams_analyzed": 29,
+ "streams_analyzed": 30,
  "streams_missed": 1,
- "unique_chatters": 4767,
- "members_confirmed": 518,
+ "unique_chatters": 3889,
+ "members_confirmed": 486,
  "member_classes": {
-  "unknown": 462,
+  "unknown": 430,
   "known": 46,
   "gift": 10
  },
@@ -23,32 +23,32 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 71
+   "members": 70
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 22
+   "members": 20
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 100
+   "members": 91
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 94
+   "members": 88
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 158
+   "members": 147
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 73
+   "members": 70
   }
  ],
  "events": {
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 46,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 462.0,
-   "estimated_members": 508.0,
+   "allocated_unknown": 430.0,
+   "estimated_members": 476.0,
    "monthly_net_confirmed": 14344,
-   "monthly_net_estimated": 158404
+   "monthly_net_estimated": 148425
   }
  ],
  "revenue": {
-  "monthly_low": 158404,
-  "monthly_est": 158404,
+  "monthly_low": 148425,
+  "monthly_est": 148425,
   "gift_once": 3118,
-  "total_low": 161522,
-  "total_est": 161522,
-  "paying_members": 508,
+  "total_low": 151544,
+  "total_est": 151544,
+  "paying_members": 476,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "GM9gim11SGo",
-   "start": "2026-10-07 22:41",
-   "title": "【アソビ大全】そーまとアソビ大全でバトル！！なんと告知もあります🎉【早乙女ベリー/ 酒寄颯馬/にじさんじ】",
-   "kind": "配信",
-   "chatters": 1432,
-   "member_chatters": 196,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "k6wD8UMWiKQ",
    "start": "2026-10-08 18:02",
@@ -377,6 +367,26 @@
    "member_chatters": 54,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "8b-IkTCSfc0",
+   "start": "2026-11-06 21:06",
+   "title": "【#にじイカ祭り2026】チーム11、前日練習！！！【早乙女ベリー/にじさんじ】",
+   "kind": "配信",
+   "chatters": 80,
+   "member_chatters": 48,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "kN3LnGnr_-M",
+   "start": "2026-11-06 22:56",
+   "title": "【#にじイカ祭り2026】チーム11、前日練習！！！【早乙女ベリー/にじさんじ】",
+   "kind": "配信",
+   "chatters": 76,
+   "member_chatters": 45,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -540,18 +550,18 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-06"
+    "to": "2026-11-07"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 7,
    "streams_missed": 0,
-   "unique_chatters": 631,
-   "members_confirmed": 190,
+   "unique_chatters": 666,
+   "members_confirmed": 197,
    "member_classes": {
-    "unknown": 166,
+    "unknown": 173,
     "known": 14,
     "gift": 10
    },
-   "long_term_members": 92,
+   "long_term_members": 95,
    "badges": [
     {
      "months": 0,
@@ -559,23 +569,23 @@
     },
     {
      "months": 1,
-     "members": 2
+     "members": 3
     },
     {
      "months": 2,
-     "members": 33
+     "members": 34
     },
     {
      "months": 6,
-     "members": 37
+     "members": 39
     },
     {
      "months": 12,
-     "members": 63
+     "members": 65
     },
     {
      "months": 24,
-     "members": 29
+     "members": 30
     }
    ],
    "events": {
@@ -589,15 +599,15 @@
      "tier": "べりーばたけ",
      "price": 490,
      "confirmed_members": 14,
-     "estimated_members": 180.0
+     "estimated_members": 187.0
     }
    ],
    "revenue": {
-    "monthly_low": 56127,
-    "monthly_est": 56127,
+    "monthly_low": 58310,
+    "monthly_est": 58310,
     "gift_once": 3118
    },
-   "avg_member_chatters": 76.6,
+   "avg_member_chatters": 68,
    "partial": true,
    "finalized": false
   }

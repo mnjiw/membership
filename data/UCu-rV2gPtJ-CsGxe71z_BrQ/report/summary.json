@@ -2,16 +2,16 @@
  "channel": "五十嵐梨花 / Igarashi Rika 【にじさんじ】",
  "channel_id": "UCu-rV2gPtJ-CsGxe71z_BrQ",
  "handle": "@IgarashiRika",
- "subscribers": 361000,
- "fetched_at": "2026-11-06 11:26",
- "generated_at": "2026-11-06 11:27",
+ "subscribers": 362000,
+ "fetched_at": "2026-11-07 05:29",
+ "generated_at": "2026-11-07 05:29",
  "period": {
-  "from": "2026-10-07 11:26",
-  "to": "2026-11-06 11:26",
+  "from": "2026-10-08 05:29",
+  "to": "2026-11-07 05:29",
   "days": 30
  },
  "streams_analyzed": 28,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 4495,
  "members_confirmed": 690,
  "member_classes": {
@@ -363,7 +363,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "GOcC10QKHA0",
+   "start": "2026-11-06 00:00",
+   "title": "#にじイカ祭り2026┊︎われおこたちの前日対抗戦【 にじさんじ / 五十嵐梨花 】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 972,
+   "view_count": 71744
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -491,10 +504,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-06"
+    "to": "2026-11-07"
    },
    "streams_analyzed": 5,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 1316,
    "members_confirmed": 405,
    "member_classes": {

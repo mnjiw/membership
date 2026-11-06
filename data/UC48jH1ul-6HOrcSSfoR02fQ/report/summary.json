@@ -3,27 +3,26 @@
  "channel_id": "UC48jH1ul-6HOrcSSfoR02fQ",
  "handle": "@YuhiRiri",
  "subscribers": 425000,
- "fetched_at": "2026-11-06 11:23",
- "generated_at": "2026-11-06 11:23",
+ "fetched_at": "2026-11-07 05:18",
+ "generated_at": "2026-11-07 05:19",
  "period": {
-  "from": "2026-10-07 11:23",
-  "to": "2026-11-06 11:23",
+  "from": "2026-10-08 05:18",
+  "to": "2026-11-07 05:18",
   "days": 30
  },
  "streams_analyzed": 21,
  "streams_missed": 1,
- "unique_chatters": 1132,
- "members_confirmed": 246,
+ "unique_chatters": 1000,
+ "members_confirmed": 228,
  "member_classes": {
-  "unknown": 225,
-  "known": 16,
-  "gift": 5
+  "known": 14,
+  "unknown": 214
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 22
+   "members": 15
   },
   {
    "months": 1,
@@ -33,7 +32,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 16
+   "members": 14
   },
   {
    "months": 6,
@@ -48,16 +47,16 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 154
+   "members": 145
   }
  ],
  "events": {
   "new_members": 5,
   "rejoins": 5,
   "milestones": 1,
-  "gift_purchases": 1,
-  "gifted_total": 5,
-  "gift_redemptions": 5
+  "gift_purchases": 0,
+  "gifted_total": 0,
+  "gift_redemptions": 0
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +64,21 @@
    "tier": "Level5",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 16,
+   "confirmed_members": 14,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 225.0,
-   "estimated_members": 241.0,
-   "monthly_net_confirmed": 4989,
-   "monthly_net_estimated": 75148
+   "allocated_unknown": 214.0,
+   "estimated_members": 228.0,
+   "monthly_net_confirmed": 4365,
+   "monthly_net_estimated": 71095
   }
  ],
  "revenue": {
-  "monthly_low": 75148,
-  "monthly_est": 75148,
-  "gift_once": 1559,
-  "total_low": 76707,
-  "total_est": 76707,
-  "paying_members": 241,
+  "monthly_low": 71095,
+  "monthly_est": 71095,
+  "gift_once": 0,
+  "total_low": 71095,
+  "total_est": 71095,
+  "paying_members": 228,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +87,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "ieU5VHP9xWk",
-   "start": "2026-10-07 22:01",
-   "title": "▶︎▷ 絨毯を洗うゲーム - Carpet Cleaning Simulator‐ ｜ 絨毯を洗うゲーム ｜ 夕陽リリ ￤ にじさんじ",
-   "kind": "配信",
-   "chatters": 264,
-   "member_chatters": 102,
-   "new_members": 0,
-   "gifted_total": 5
-  },
   {
    "video_id": "SP1b79NCLY8",
    "start": "2026-10-08 20:07",
@@ -297,6 +286,16 @@
    "member_chatters": 65,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "wbdtq3Lpjyk",
+   "start": "2026-11-06 21:01",
+   "title": "▶︎▷ スプラトゥーン3 ｜ #にじイカ祭り2026 重石外しますかっと…(ガチ9年分) ｜ 夕陽リリ ￤ にじさんじ",
+   "kind": "配信",
+   "chatters": 69,
+   "member_chatters": 55,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -460,17 +459,17 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-06"
+    "to": "2026-11-07"
    },
-   "streams_analyzed": 4,
+   "streams_analyzed": 5,
    "streams_missed": 0,
-   "unique_chatters": 181,
-   "members_confirmed": 105,
+   "unique_chatters": 194,
+   "members_confirmed": 110,
    "member_classes": {
-    "unknown": 101,
+    "unknown": 106,
     "known": 4
    },
-   "long_term_members": 83,
+   "long_term_members": 86,
    "badges": [
     {
      "months": 0,
@@ -486,7 +485,7 @@
     },
     {
      "months": 6,
-     "members": 11
+     "members": 13
     },
     {
      "months": 12,
@@ -494,7 +493,7 @@
     },
     {
      "months": 24,
-     "members": 68
+     "members": 71
     }
    ],
    "events": {
@@ -508,15 +507,15 @@
      "tier": "Level5",
      "price": 490,
      "confirmed_members": 4,
-     "estimated_members": 105.0
+     "estimated_members": 110.0
     }
    ],
    "revenue": {
-    "monthly_low": 32741,
-    "monthly_est": 32741,
+    "monthly_low": 34300,
+    "monthly_est": 34300,
     "gift_once": 0
    },
-   "avg_member_chatters": 66.5,
+   "avg_member_chatters": 64.2,
    "partial": true,
    "finalized": false
   }

@@ -3,15 +3,15 @@
  "channel_id": "UCTIE7LM5X15NVugV7Krp9Hw",
  "handle": "@YumeoiKakeru",
  "subscribers": 389000,
- "fetched_at": "2026-11-06 11:24",
- "generated_at": "2026-11-06 11:25",
+ "fetched_at": "2026-11-07 05:22",
+ "generated_at": "2026-11-07 05:22",
  "period": {
-  "from": "2026-10-07 11:24",
-  "to": "2026-11-06 11:24",
+  "from": "2026-10-08 05:22",
+  "to": "2026-11-07 05:22",
   "days": 30
  },
  "streams_analyzed": 6,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 827,
  "members_confirmed": 350,
  "member_classes": {
@@ -143,7 +143,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "fjjtfuZnMjc",
+   "start": "2026-11-06 00:00",
+   "title": "#にじイカ祭り2026 さぁ明日が本番だ | Splatoon3【にじさんじ/夢追翔/天宮こころ/伊波ライ/司賀りこ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 620,
+   "view_count": 26494
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -272,10 +285,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-06"
+    "to": "2026-11-07"
    },
    "streams_analyzed": 5,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 697,
    "members_confirmed": 321,
    "member_classes": {

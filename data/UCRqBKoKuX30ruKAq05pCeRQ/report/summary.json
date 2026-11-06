@@ -3,19 +3,19 @@
  "channel_id": "UCRqBKoKuX30ruKAq05pCeRQ",
  "handle": "@KitakojiHisui",
  "subscribers": 332000,
- "fetched_at": "2026-11-06 11:25",
- "generated_at": "2026-11-06 11:25",
+ "fetched_at": "2026-11-07 05:27",
+ "generated_at": "2026-11-07 05:27",
  "period": {
-  "from": "2026-10-07 11:25",
-  "to": "2026-11-06 11:25",
+  "from": "2026-10-08 05:27",
+  "to": "2026-11-07 05:27",
   "days": 30
  },
- "streams_analyzed": 13,
- "streams_missed": 1,
- "unique_chatters": 659,
- "members_confirmed": 160,
+ "streams_analyzed": 14,
+ "streams_missed": 0,
+ "unique_chatters": 664,
+ "members_confirmed": 161,
  "member_classes": {
-  "unknown": 137,
+  "unknown": 138,
   "known": 13,
   "gift": 10
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 13
+   "members": 14
   },
   {
    "months": 1,
@@ -57,10 +57,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 11,
    "share_of_confirmed_pct": 84.6,
-   "allocated_unknown": 115.9,
-   "estimated_members": 126.9,
+   "allocated_unknown": 116.8,
+   "estimated_members": 127.8,
    "monthly_net_confirmed": 3430,
-   "monthly_net_estimated": 39577
+   "monthly_net_estimated": 39841
   },
   {
    "tier": "ひみつの部屋のクローゼット🦈",
@@ -68,10 +68,10 @@
    "net_per_member": 2220.9,
    "confirmed_members": 1,
    "share_of_confirmed_pct": 7.7,
-   "allocated_unknown": 10.5,
-   "estimated_members": 11.5,
+   "allocated_unknown": 10.6,
+   "estimated_members": 11.6,
    "monthly_net_confirmed": 2221,
-   "monthly_net_estimated": 25626
+   "monthly_net_estimated": 25797
   },
   {
    "tier": "わたしの部屋❇",
@@ -79,19 +79,19 @@
    "net_per_member": 8909.1,
    "confirmed_members": 1,
    "share_of_confirmed_pct": 7.7,
-   "allocated_unknown": 10.5,
-   "estimated_members": 11.5,
+   "allocated_unknown": 10.6,
+   "estimated_members": 11.6,
    "monthly_net_confirmed": 8909,
-   "monthly_net_estimated": 102797
+   "monthly_net_estimated": 103483
   }
  ],
  "revenue": {
-  "monthly_low": 57279,
-  "monthly_est": 168000,
+  "monthly_low": 57591,
+  "monthly_est": 169120,
   "gift_once": 3118,
-  "total_low": 60397,
-  "total_est": 171118,
-  "paying_members": 150,
+  "total_low": 60709,
+  "total_est": 172238,
+  "paying_members": 151,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -229,22 +229,19 @@
    "member_chatters": 43,
    "new_members": 0,
    "gifted_total": 0
-  }
- ],
- "missed_streams": [
+  },
   {
    "video_id": "QCq597uQvrc",
-   "start": "2026-11-05 00:00",
+   "start": "2026-11-05 23:01",
    "title": "【 スプラトゥーン3 】れんしう#にじイカ祭り2026【北小路ヒスイ/にじさんじ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 215,
-   "view_count": 8495
+   "kind": "配信",
+   "chatters": 34,
+   "member_chatters": 28,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -389,29 +386,29 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-06"
+    "to": "2026-11-07"
    },
-   "streams_analyzed": 1,
-   "streams_missed": 1,
-   "unique_chatters": 60,
-   "members_confirmed": 43,
+   "streams_analyzed": 2,
+   "streams_missed": 0,
+   "unique_chatters": 72,
+   "members_confirmed": 50,
    "member_classes": {
-    "unknown": 41,
+    "unknown": 48,
     "known": 2
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 1
+     "members": 2
     },
     {
      "months": 2,
-     "members": 3
+     "members": 4
     },
     {
      "months": 6,
-     "members": 39
+     "members": 44
     }
    ],
    "events": {
@@ -425,13 +422,13 @@
      "tier": "ひみつの部屋🦈",
      "price": 490,
      "confirmed_members": 1,
-     "estimated_members": 21.5
+     "estimated_members": 25.0
     },
     {
      "tier": "ひみつの部屋のクローゼット🦈",
      "price": 3490,
      "confirmed_members": 1,
-     "estimated_members": 21.5
+     "estimated_members": 25.0
     },
     {
      "tier": "わたしの部屋❇",
@@ -441,11 +438,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 15317,
-    "monthly_est": 54454,
+    "monthly_low": 17500,
+    "monthly_est": 63318,
     "gift_once": 0
    },
-   "avg_member_chatters": 43,
+   "avg_member_chatters": 35.5,
    "partial": true,
    "finalized": false
   }

@@ -3,57 +3,57 @@
  "channel_id": "UCtLfA_qUqCJtjXJM2ZR_keg",
  "handle": "@IshigamiNozomi",
  "subscribers": 441000,
- "fetched_at": "2026-11-06 11:26",
- "generated_at": "2026-11-06 11:27",
+ "fetched_at": "2026-11-07 05:29",
+ "generated_at": "2026-11-07 05:29",
  "period": {
-  "from": "2026-10-07 11:26",
-  "to": "2026-11-06 11:26",
+  "from": "2026-10-08 05:29",
+  "to": "2026-11-07 05:29",
   "days": 30
  },
- "streams_analyzed": 17,
- "streams_missed": 1,
- "unique_chatters": 10616,
- "members_confirmed": 2103,
+ "streams_analyzed": 16,
+ "streams_missed": 2,
+ "unique_chatters": 10331,
+ "members_confirmed": 2087,
  "member_classes": {
-  "unknown": 2024,
-  "known": 69,
-  "gift": 10
+  "unknown": 2009,
+  "gift": 10,
+  "known": 68
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 103
+   "members": 102
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 62
+   "members": 60
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 303
+   "members": 302
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 271
+   "members": 269
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 437
+   "members": 435
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 927
+   "members": 919
   }
  ],
  "events": {
-  "new_members": 44,
-  "rejoins": 15,
+  "new_members": 42,
+  "rejoins": 14,
   "milestones": 0,
   "gift_purchases": 2,
   "gifted_total": 10,
@@ -65,21 +65,21 @@
    "tier": "神者たち",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 69,
+   "confirmed_members": 68,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2024.0,
-   "estimated_members": 2093.0,
-   "monthly_net_confirmed": 21515,
-   "monthly_net_estimated": 652635
+   "allocated_unknown": 2009.0,
+   "estimated_members": 2077.0,
+   "monthly_net_confirmed": 21204,
+   "monthly_net_estimated": 647646
   }
  ],
  "revenue": {
-  "monthly_low": 652635,
-  "monthly_est": 652635,
+  "monthly_low": 647646,
+  "monthly_est": 647646,
   "gift_once": 3118,
-  "total_low": 655754,
-  "total_est": 655754,
-  "paying_members": 2093,
+  "total_low": 650765,
+  "total_est": 650765,
+  "paying_members": 2077,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "2KLPFUI6et8",
-   "start": "2026-10-07 20:47",
-   "title": "【 #にじきみ 】同時視聴!!👀ついに情報公開…!?【 にじさんじ所属 】",
-   "kind": "配信",
-   "chatters": 1168,
-   "member_chatters": 501,
-   "new_members": 2,
-   "gifted_total": 0
-  },
   {
    "video_id": "19RVv2S0PYg",
    "start": "2026-10-08 22:05",
@@ -269,8 +259,20 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 1337,
-   "view_count": 84120
+   "like_count": 1386,
+   "view_count": 87333
+  },
+  {
+   "video_id": "zp__J97Spfo",
+   "start": "2026-11-06 00:00",
+   "title": "待望の『時オカリメイク』でテンションMAXのお祭り状態になる石神【 時オカリメイク / 石神のぞみ #石神のぞみ切り抜き 】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 1444,
+   "view_count": 100208
   }
  ],
  "members_only_content": [],
@@ -409,10 +411,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-06"
+    "to": "2026-11-07"
    },
    "streams_analyzed": 3,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 2777,
    "members_confirmed": 849,
    "member_classes": {

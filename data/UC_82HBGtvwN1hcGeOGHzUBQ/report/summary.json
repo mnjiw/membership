@@ -3,20 +3,20 @@
  "channel_id": "UC_82HBGtvwN1hcGeOGHzUBQ",
  "handle": "@SorahoshiKirame",
  "subscribers": 208000,
- "fetched_at": "2026-11-06 11:25",
- "generated_at": "2026-11-06 11:25",
+ "fetched_at": "2026-11-07 05:26",
+ "generated_at": "2026-11-07 05:26",
  "period": {
-  "from": "2026-10-07 11:25",
-  "to": "2026-11-06 11:25",
+  "from": "2026-10-08 05:26",
+  "to": "2026-11-07 05:26",
   "days": 30
  },
- "streams_analyzed": 13,
- "streams_missed": 3,
- "unique_chatters": 580,
- "members_confirmed": 153,
+ "streams_analyzed": 14,
+ "streams_missed": 2,
+ "unique_chatters": 603,
+ "members_confirmed": 155,
  "member_classes": {
   "known": 25,
-  "unknown": 124,
+  "unknown": 126,
   "gift": 4
  },
  "badges": [
@@ -43,12 +43,12 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 15
+   "members": 16
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 112
+   "members": 113
   }
  ],
  "events": {
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 25,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 124.0,
-   "estimated_members": 149.0,
+   "allocated_unknown": 126.0,
+   "estimated_members": 151.0,
    "monthly_net_confirmed": 7795,
-   "monthly_net_estimated": 46461
+   "monthly_net_estimated": 47085
   }
  ],
  "revenue": {
-  "monthly_low": 46461,
-  "monthly_est": 46461,
+  "monthly_low": 47085,
+  "monthly_est": 47085,
   "gift_once": 1559,
-  "total_low": 48020,
-  "total_est": 48020,
-  "paying_members": 149,
+  "total_low": 48644,
+  "total_est": 48644,
+  "paying_members": 151,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -217,6 +217,16 @@
    "member_chatters": 55,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "-z_rNraAe18",
+   "start": "2026-11-05 21:35",
+   "title": "【スプラ3 ¦ #にじイカ祭り2026】チーム練習するぞ～！くコ:彡【にじさんじ／空星きらめ】",
+   "kind": "配信",
+   "chatters": 115,
+   "member_chatters": 56,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -243,18 +253,6 @@
    "members_level": "",
    "like_count": 48,
    "view_count": null
-  },
-  {
-   "video_id": "-z_rNraAe18",
-   "start": "2026-11-05 00:00",
-   "title": "【スプラ3 ¦ #にじイカ祭り2026】チーム練習するぞ～！くコ:彡【にじさんじ／空星きらめ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 467,
-   "view_count": 23185
   }
  ],
  "members_only_content": [
@@ -415,18 +413,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-06"
+    "to": "2026-11-07"
    },
-   "streams_analyzed": 4,
-   "streams_missed": 1,
-   "unique_chatters": 202,
-   "members_confirmed": 85,
+   "streams_analyzed": 5,
+   "streams_missed": 0,
+   "unique_chatters": 233,
+   "members_confirmed": 89,
    "member_classes": {
-    "unknown": 68,
+    "unknown": 72,
     "known": 17
    },
-   "long_term_members": 79,
+   "long_term_members": 82,
    "badges": [
+    {
+     "months": 0,
+     "members": 1
+    },
     {
      "months": 1,
      "members": 2
@@ -441,11 +443,11 @@
     },
     {
      "months": 12,
-     "members": 7
+     "members": 8
     },
     {
      "months": 24,
-     "members": 72
+     "members": 74
     }
    ],
    "events": {
@@ -459,15 +461,15 @@
      "tier": "きらメン🌌✨",
      "price": 490,
      "confirmed_members": 17,
-     "estimated_members": 85.0
+     "estimated_members": 89.0
     }
    ],
    "revenue": {
-    "monthly_low": 26505,
-    "monthly_est": 26505,
+    "monthly_low": 27752,
+    "monthly_est": 27752,
     "gift_once": 0
    },
-   "avg_member_chatters": 55,
+   "avg_member_chatters": 55.2,
    "partial": true,
    "finalized": false
   }

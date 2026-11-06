@@ -3,16 +3,16 @@
  "channel_id": "UCwrjITPwG4q71HzihV2C7Nw",
  "handle": "@Fumi",
  "subscribers": 278000,
- "fetched_at": "2026-11-06 11:25",
- "generated_at": "2026-11-06 11:25",
+ "fetched_at": "2026-11-07 05:24",
+ "generated_at": "2026-11-07 05:25",
  "period": {
-  "from": "2026-10-07 11:25",
-  "to": "2026-11-06 11:25",
+  "from": "2026-10-08 05:24",
+  "to": "2026-11-07 05:24",
   "days": 30
  },
  "streams_analyzed": 19,
  "streams_missed": 1,
- "unique_chatters": 2080,
+ "unique_chatters": 1928,
  "members_confirmed": 207,
  "member_classes": {
   "unknown": 160,
@@ -43,12 +43,12 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 22
+   "members": 21
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 107
+   "members": 108
   }
  ],
  "events": {
@@ -121,16 +121,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "i2aYEu-6qHo",
-   "start": "2026-10-07 22:04",
-   "title": "【#遊戯王マスターデュエル】新弾はりきりボーイ🧆これなにが当たるとうれしいんですか？全部【にじさんじフミ】",
-   "kind": "配信",
-   "chatters": 524,
-   "member_chatters": 64,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "xYItDAgSomI",
    "start": "2026-10-09 23:04",
@@ -308,6 +298,16 @@
    "kind": "配信",
    "chatters": 69,
    "member_chatters": 32,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "geqWgvO5CJo",
+   "start": "2026-11-06 22:07",
+   "title": "【#にじイカ祭り2026】チーム１💡練習3日目✨【 にじさんじフミ 】",
+   "kind": "配信",
+   "chatters": 133,
+   "member_chatters": 41,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -510,17 +510,17 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-06"
+    "to": "2026-11-07"
    },
-   "streams_analyzed": 4,
+   "streams_analyzed": 5,
    "streams_missed": 0,
-   "unique_chatters": 272,
-   "members_confirmed": 73,
+   "unique_chatters": 326,
+   "members_confirmed": 75,
    "member_classes": {
-    "unknown": 71,
+    "unknown": 73,
     "known": 2
    },
-   "long_term_members": 62,
+   "long_term_members": 63,
    "badges": [
     {
      "months": 0,
@@ -528,7 +528,7 @@
     },
     {
      "months": 1,
-     "members": 1
+     "members": 2
     },
     {
      "months": 2,
@@ -540,11 +540,11 @@
     },
     {
      "months": 12,
-     "members": 12
+     "members": 11
     },
     {
      "months": 24,
-     "members": 50
+     "members": 52
     }
    ],
    "events": {
@@ -564,13 +564,13 @@
      "tier": "ツクヨミ",
      "price": 390,
      "confirmed_members": 1,
-     "estimated_members": 36.5
+     "estimated_members": 37.5
     },
     {
      "tier": "ワダツミ",
      "price": 490,
      "confirmed_members": 1,
-     "estimated_members": 36.5
+     "estimated_members": 37.5
     },
     {
      "tier": "アマテラス",
@@ -580,11 +580,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 13663,
-    "monthly_est": 20440,
+    "monthly_low": 14032,
+    "monthly_est": 21000,
     "gift_once": 0
    },
-   "avg_member_chatters": 43,
+   "avg_member_chatters": 42.6,
    "partial": true,
    "finalized": false
   }

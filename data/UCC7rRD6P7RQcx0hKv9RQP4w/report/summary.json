@@ -3,27 +3,27 @@
  "channel_id": "UCC7rRD6P7RQcx0hKv9RQP4w",
  "handle": "@FuraKanato",
  "subscribers": 443000,
- "fetched_at": "2026-11-06 11:26",
- "generated_at": "2026-11-06 11:26",
+ "fetched_at": "2026-11-07 05:28",
+ "generated_at": "2026-11-07 05:28",
  "period": {
-  "from": "2026-10-07 11:26",
-  "to": "2026-11-06 11:26",
+  "from": "2026-10-08 05:28",
+  "to": "2026-11-07 05:28",
   "days": 30
  },
- "streams_analyzed": 20,
- "streams_missed": 0,
- "unique_chatters": 2425,
- "members_confirmed": 1567,
+ "streams_analyzed": 19,
+ "streams_missed": 1,
+ "unique_chatters": 2394,
+ "members_confirmed": 1554,
  "member_classes": {
-  "unknown": 1411,
-  "known": 146,
+  "unknown": 1399,
+  "known": 145,
   "gift": 10
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 81
+   "members": 79
   },
   {
    "months": 1,
@@ -33,22 +33,22 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 167
+   "members": 164
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 247
+   "members": 244
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 361
+   "members": 359
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 274
+   "members": 271
   },
   {
    "months": 36,
@@ -57,9 +57,9 @@
   }
  ],
  "events": {
-  "new_members": 27,
+  "new_members": 26,
   "rejoins": 21,
-  "milestones": 77,
+  "milestones": 76,
   "gift_purchases": 1,
   "gifted_total": 10,
   "gift_redemptions": 10
@@ -70,21 +70,21 @@
    "tier": "Diner",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 146,
+   "confirmed_members": 145,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1411.0,
-   "estimated_members": 1557.0,
-   "monthly_net_confirmed": 45525,
-   "monthly_net_estimated": 485501
+   "allocated_unknown": 1399.0,
+   "estimated_members": 1544.0,
+   "monthly_net_confirmed": 45214,
+   "monthly_net_estimated": 481447
   }
  ],
  "revenue": {
-  "monthly_low": 485501,
-  "monthly_est": 485501,
+  "monthly_low": 481447,
+  "monthly_est": 481447,
   "gift_once": 3118,
-  "total_low": 488619,
-  "total_est": 488619,
-  "paying_members": 1557,
+  "total_low": 484565,
+  "total_est": 484565,
+  "paying_members": 1544,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "PagYMzlTeYo",
-   "start": "2026-10-07 17:00",
-   "title": "【 Deadlock 】　もう新キャラがきたよぉ、お茶でも飲むかい？【にじさんじ/風楽奏斗】",
-   "kind": "配信",
-   "chatters": 389,
-   "member_chatters": 314,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "tLn-n05tVJc",
    "start": "2026-10-09 22:00",
@@ -294,7 +284,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "zPObC5j6OeY",
+   "start": "2026-11-06 00:00",
+   "title": "【#にじイカ祭り2026】～ 復活のF ～２１時半ごろからチム練【にじさんじ/風楽奏斗】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 1280,
+   "view_count": 63444
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -440,10 +443,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-06"
+    "to": "2026-11-07"
    },
    "streams_analyzed": 4,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 1097,
    "members_confirmed": 823,
    "member_classes": {

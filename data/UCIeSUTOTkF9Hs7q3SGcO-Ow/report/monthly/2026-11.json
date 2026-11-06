@@ -2,42 +2,42 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-06"
+  "to": "2026-11-07"
  },
- "streams_analyzed": 5,
+ "streams_analyzed": 7,
  "streams_missed": 0,
- "unique_chatters": 650,
- "members_confirmed": 271,
+ "unique_chatters": 790,
+ "members_confirmed": 373,
  "member_classes": {
-  "unknown": 100,
-  "known": 136,
-  "gift": 35
+  "unknown": 112,
+  "known": 144,
+  "gift": 117
  },
- "long_term_members": 204,
+ "long_term_members": 215,
  "badges": [
   {
    "months": 0,
-   "members": 36
+   "members": 117
   },
   {
    "months": 1,
-   "members": 5
+   "members": 8
   },
   {
    "months": 2,
-   "members": 12
+   "members": 15
   },
   {
    "months": 6,
-   "members": 14
+   "members": 18
   },
   {
    "months": 12,
-   "members": 38
+   "members": 42
   },
   {
    "months": 24,
-   "members": 41
+   "members": 43
   },
   {
    "months": 36,
@@ -45,33 +45,33 @@
   },
   {
    "months": 48,
-   "members": 45
+   "members": 48
   },
   {
    "months": 60,
-   "members": 44
+   "members": 46
   }
  ],
  "events": {
   "new_members": 0,
-  "rejoins": 2,
-  "milestones": 37,
-  "gifted_total": 35
+  "rejoins": 4,
+  "milestones": 39,
+  "gifted_total": 117
  },
  "tiers": [
   {
    "tier": "Membersheesh",
    "price": 690,
-   "confirmed_members": 136,
-   "estimated_members": 236.0
+   "confirmed_members": 144,
+   "estimated_members": 256.0
   }
  ],
  "revenue": {
-  "monthly_low": 103625,
-  "monthly_est": 103625,
-  "gift_once": 15368
+  "monthly_low": 112407,
+  "monthly_est": 112407,
+  "gift_once": 51374
  },
- "avg_member_chatters": 116.6,
+ "avg_member_chatters": 123,
  "partial": true,
  "finalized": false
 }

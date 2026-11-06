@@ -3,16 +3,16 @@
  "channel_id": "UCgIfLpQvelloDi8I0Ycbwpg",
  "handle": "@HyakumantenbaraSalome",
  "subscribers": 1790000,
- "fetched_at": "2026-11-06 11:26",
- "generated_at": "2026-11-06 11:26",
+ "fetched_at": "2026-11-07 05:27",
+ "generated_at": "2026-11-07 05:28",
  "period": {
-  "from": "2026-10-07 11:26",
-  "to": "2026-11-06 11:26",
+  "from": "2026-10-08 05:27",
+  "to": "2026-11-07 05:27",
   "days": 30
  },
  "streams_analyzed": 21,
- "streams_missed": 0,
- "unique_chatters": 5364,
+ "streams_missed": 1,
+ "unique_chatters": 5160,
  "members_confirmed": 0,
  "member_classes": {},
  "badges": [],
@@ -28,16 +28,6 @@
  "tiers": [],
  "revenue": null,
  "streams": [
-  {
-   "video_id": "pcRioZYZja0",
-   "start": "2026-10-07 22:00",
-   "title": "おブラボ#3 ✦ ヤーナムマチアプはサ終 Bloodborne をお嬢様（一）がプレイ ✦ 壱百満天原サロメですわ～",
-   "kind": "配信",
-   "chatters": 1020,
-   "member_chatters": 0,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "-MBuOuPKkmc",
    "start": "2026-10-08 22:00",
@@ -237,9 +227,32 @@
    "member_chatters": 0,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "7cdulBhIfAk",
+   "start": "2026-11-06 22:01",
+   "title": "BLOODBORNE #13 ✦ Ebrietas, Prepare Yourself ✦ A Lady-in-Training Plays Bloodborne ✦ I am Hyakuman...",
+   "kind": "配信",
+   "chatters": 254,
+   "member_chatters": 0,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "FFJYlMRe7bo",
+   "start": "2026-11-06 00:00",
+   "title": "おブラボ#13 ✦ エブたそ～お覚悟ッ  Bloodborne をお嬢様（一）がプレイ ✦ 壱百満天原サロメですわ～",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 2129,
+   "view_count": 117487
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -297,11 +310,11 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-06"
+    "to": "2026-11-07"
    },
-   "streams_analyzed": 3,
-   "streams_missed": 0,
-   "unique_chatters": 1499,
+   "streams_analyzed": 4,
+   "streams_missed": 1,
+   "unique_chatters": 1549,
    "members_confirmed": 0,
    "member_classes": {},
    "long_term_members": 0,

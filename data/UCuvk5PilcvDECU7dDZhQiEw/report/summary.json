@@ -3,19 +3,19 @@
  "channel_id": "UCuvk5PilcvDECU7dDZhQiEw",
  "handle": "@ShirayukiTomoe",
  "subscribers": 460000,
- "fetched_at": "2026-11-06 11:25",
- "generated_at": "2026-11-06 11:25",
+ "fetched_at": "2026-11-07 05:25",
+ "generated_at": "2026-11-07 05:25",
  "period": {
-  "from": "2026-10-07 11:25",
-  "to": "2026-11-06 11:25",
+  "from": "2026-10-08 05:25",
+  "to": "2026-11-07 05:25",
   "days": 30
  },
  "streams_analyzed": 9,
  "streams_missed": 1,
- "unique_chatters": 462,
- "members_confirmed": 158,
+ "unique_chatters": 493,
+ "members_confirmed": 159,
  "member_classes": {
-  "unknown": 142,
+  "unknown": 143,
   "known": 16
  },
  "badges": [
@@ -47,7 +47,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 120
+   "members": 121
   }
  ],
  "events": {
@@ -69,7 +69,7 @@
    "allocated_unknown": 8.9,
    "estimated_members": 9.9,
    "monthly_net_confirmed": 312,
-   "monthly_net_estimated": 3079
+   "monthly_net_estimated": 3099
   },
   {
    "tier": "女王のお膝上",
@@ -77,19 +77,19 @@
    "net_per_member": 757.3,
    "confirmed_members": 15,
    "share_of_confirmed_pct": 93.8,
-   "allocated_unknown": 133.1,
-   "estimated_members": 148.1,
+   "allocated_unknown": 134.1,
+   "estimated_members": 149.1,
    "monthly_net_confirmed": 11359,
-   "monthly_net_estimated": 112171
+   "monthly_net_estimated": 112881
   }
  ],
  "revenue": {
-  "monthly_low": 55949,
-  "monthly_est": 115250,
+  "monthly_low": 56261,
+  "monthly_est": 115980,
   "gift_once": 0,
-  "total_low": 55949,
-  "total_est": 115250,
-  "paying_members": 158,
+  "total_low": 56261,
+  "total_est": 115980,
+  "paying_members": 159,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "t64Vh53Ql2o",
-   "start": "2026-10-08 00:02",
-   "title": "#3 Part4から【SILENT HILL: Townfall】ステルスが下手すぎるお姉さんの初見実況【白雪巴/にじさんじ】",
-   "kind": "配信",
-   "chatters": 64,
-   "member_chatters": 42,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "vrs2Zoz0PIc",
    "start": "2026-10-09 14:01",
@@ -185,6 +175,16 @@
    "kind": "配信",
    "chatters": 95,
    "member_chatters": 65,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "Pb-IYYWPmFY",
+   "start": "2026-11-06 23:58",
+   "title": "【スプラトゥーン3】チーム올リーダー⚡ナイス玉ってつおいんだなぁ【白雪巴/にじさんじ】#にじイカ祭り2026",
+   "kind": "配信",
+   "chatters": 97,
+   "member_chatters": 50,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -361,17 +361,17 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-06"
+    "to": "2026-11-07"
    },
-   "streams_analyzed": 2,
+   "streams_analyzed": 3,
    "streams_missed": 0,
-   "unique_chatters": 142,
-   "members_confirmed": 88,
+   "unique_chatters": 183,
+   "members_confirmed": 93,
    "member_classes": {
-    "unknown": 75,
+    "unknown": 80,
     "known": 13
    },
-   "long_term_members": 78,
+   "long_term_members": 82,
    "badges": [
     {
      "months": 0,
@@ -379,7 +379,7 @@
     },
     {
      "months": 1,
-     "members": 1
+     "members": 2
     },
     {
      "months": 2,
@@ -391,11 +391,11 @@
     },
     {
      "months": 12,
-     "members": 3
+     "members": 4
     },
     {
      "months": 24,
-     "members": 75
+     "members": 78
     }
    ],
    "events": {
@@ -409,21 +409,21 @@
      "tier": "女王のお膝元",
      "price": 490,
      "confirmed_members": 1,
-     "estimated_members": 6.8
+     "estimated_members": 7.2
     },
     {
      "tier": "女王のお膝上",
      "price": 1190,
      "confirmed_members": 12,
-     "estimated_members": 81.2
+     "estimated_members": 85.8
     }
    ],
    "revenue": {
-    "monthly_low": 32785,
-    "monthly_est": 63625,
+    "monthly_low": 34345,
+    "monthly_est": 67240,
     "gift_once": 0
    },
-   "avg_member_chatters": 67,
+   "avg_member_chatters": 61.3,
    "partial": true,
    "finalized": false
   }

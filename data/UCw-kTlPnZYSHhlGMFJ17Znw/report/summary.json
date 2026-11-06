@@ -3,19 +3,19 @@
  "channel_id": "UCw-kTlPnZYSHhlGMFJ17Znw",
  "handle": "@KiraraTamako",
  "subscribers": 220000,
- "fetched_at": "2026-11-06 11:27",
- "generated_at": "2026-11-06 11:27",
+ "fetched_at": "2026-11-07 05:35",
+ "generated_at": "2026-11-07 05:35",
  "period": {
-  "from": "2026-10-07 11:27",
-  "to": "2026-11-06 11:27",
+  "from": "2026-10-08 05:35",
+  "to": "2026-11-07 05:35",
   "days": 30
  },
- "streams_analyzed": 19,
- "streams_missed": 1,
- "unique_chatters": 2276,
- "members_confirmed": 225,
+ "streams_analyzed": 18,
+ "streams_missed": 2,
+ "unique_chatters": 2209,
+ "members_confirmed": 224,
  "member_classes": {
-  "unknown": 197,
+  "unknown": 196,
   "known": 13,
   "gift": 15
  },
@@ -38,7 +38,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 38
+   "members": 37
   },
   {
    "months": 12,
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 13,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 197.0,
-   "estimated_members": 210.0,
+   "allocated_unknown": 196.0,
+   "estimated_members": 209.0,
    "monthly_net_confirmed": 4054,
-   "monthly_net_estimated": 65482
+   "monthly_net_estimated": 65170
   }
  ],
  "revenue": {
-  "monthly_low": 65482,
-  "monthly_est": 65482,
+  "monthly_low": 65170,
+  "monthly_est": 65170,
   "gift_once": 4677,
-  "total_low": 70159,
-  "total_est": 70159,
-  "paying_members": 210,
+  "total_low": 69847,
+  "total_est": 69847,
+  "paying_members": 209,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "QNgy3jNgKQ4",
-   "start": "2026-10-07 12:07",
-   "title": "𓊆 縦型雑談 𓊇 三角チョコパイ食べ比べ♡ 𓊆 雲母たまこ ┊ にじさんじ 𓊇",
-   "kind": "配信",
-   "chatters": 166,
-   "member_chatters": 47,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "SSpgI4QDKMU",
    "start": "2026-10-10 12:05",
@@ -291,6 +281,18 @@
    "members_level": "",
    "like_count": 86,
    "view_count": null
+  },
+  {
+   "video_id": "QY6ZyuvTgV4",
+   "start": "2026-11-06 00:00",
+   "title": "𓊆 スプラトゥーン3 ┊ #にじイカ祭り2026 𓊇 前日（当日？）チーム練習いくぞー！！ 𓊆 雲母たまこ ┊ にじさんじ 𓊇",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 574,
+   "view_count": 31265
   }
  ],
  "members_only_content": [
@@ -440,10 +442,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-06"
+    "to": "2026-11-07"
    },
    "streams_analyzed": 4,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 1420,
    "members_confirmed": 134,
    "member_classes": {

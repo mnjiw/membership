@@ -3,15 +3,15 @@
  "channel_id": "UC3lNFeJiTq6L3UWoz4g1e-A",
  "handle": "@UzukiKou",
  "subscribers": 462000,
- "fetched_at": "2026-11-06 11:24",
- "generated_at": "2026-11-06 11:24",
+ "fetched_at": "2026-11-07 05:21",
+ "generated_at": "2026-11-07 05:21",
  "period": {
-  "from": "2026-10-07 11:24",
-  "to": "2026-11-06 11:24",
+  "from": "2026-10-08 05:21",
+  "to": "2026-11-07 05:21",
   "days": 30
  },
  "streams_analyzed": 14,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 4289,
  "members_confirmed": 791,
  "member_classes": {
@@ -239,7 +239,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "E1-QBcfrsnk",
+   "start": "2026-11-06 00:00",
+   "title": "【ポケチャン】大会前日！世界王者にポケモンを教わる【卯月コウ/ビエラ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 426,
+   "view_count": 35544
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -393,10 +406,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-06"
+    "to": "2026-11-07"
    },
    "streams_analyzed": 1,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 1180,
    "members_confirmed": 386,
    "member_classes": {

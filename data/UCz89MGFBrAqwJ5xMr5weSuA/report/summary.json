@@ -3,66 +3,66 @@
  "channel_id": "UCz89MGFBrAqwJ5xMr5weSuA",
  "handle": "@InamiRai",
  "subscribers": 425000,
- "fetched_at": "2026-11-06 11:27",
- "generated_at": "2026-11-06 11:27",
+ "fetched_at": "2026-11-07 05:32",
+ "generated_at": "2026-11-07 05:33",
  "period": {
-  "from": "2026-10-07 11:27",
-  "to": "2026-11-06 11:27",
+  "from": "2026-10-08 05:32",
+  "to": "2026-11-07 05:32",
   "days": 30
  },
  "streams_analyzed": 30,
  "streams_missed": 1,
- "unique_chatters": 8622,
- "members_confirmed": 3273,
+ "unique_chatters": 8448,
+ "members_confirmed": 3188,
  "member_classes": {
-  "unknown": 2322,
-  "known": 820,
-  "gift": 131
+  "unknown": 2294,
+  "known": 812,
+  "gift": 82
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 550
+   "members": 499
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 114
+   "members": 112
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 455
+   "members": 449
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 448
+   "members": 444
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 1100
+   "members": 1084
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 451
+   "members": 444
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 155
+   "members": 156
   }
  ],
  "events": {
-  "new_members": 267,
-  "rejoins": 55,
-  "milestones": 475,
-  "gift_purchases": 15,
-  "gifted_total": 134,
-  "gift_redemptions": 132
+  "new_members": 263,
+  "rejoins": 53,
+  "milestones": 466,
+  "gift_purchases": 14,
+  "gifted_total": 84,
+  "gift_redemptions": 83
  },
  "tiers_configured": true,
  "tiers": [
@@ -70,21 +70,21 @@
    "tier": "伊波すたじお",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 820,
+   "confirmed_members": 812,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2322.0,
-   "estimated_members": 3142.0,
-   "monthly_net_confirmed": 255691,
-   "monthly_net_estimated": 979733
+   "allocated_unknown": 2294.0,
+   "estimated_members": 3106.0,
+   "monthly_net_confirmed": 253196,
+   "monthly_net_estimated": 968507
   }
  ],
  "revenue": {
-  "monthly_low": 979733,
-  "monthly_est": 979733,
-  "gift_once": 41784,
-  "total_low": 1021516,
-  "total_est": 1021516,
-  "paying_members": 3142,
+  "monthly_low": 968507,
+  "monthly_est": 968507,
+  "gift_once": 26193,
+  "total_low": 994700,
+  "total_est": 994700,
+  "paying_members": 3106,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "39mbepi-zeQ",
-   "start": "2026-10-07 22:00",
-   "title": "【 ベース 】弾きます【 伊波ライ / にじさんじ 】",
-   "kind": "配信",
-   "chatters": 1440,
-   "member_chatters": 962,
-   "new_members": 4,
-   "gifted_total": 50
-  },
   {
    "video_id": "f22xalx4u88",
    "start": "2026-10-11 23:00",
@@ -392,6 +382,16 @@
    "member_chatters": 555,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "MnPcK6fpi0g",
+   "start": "2026-11-06 21:03",
+   "title": "【 スプラ３ 】本番前ラスト対抗戦 vs 神の御籠【 伊波ライ / にじさんじ 】",
+   "kind": "配信",
+   "chatters": 742,
+   "member_chatters": 639,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -404,7 +404,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 1353,
+   "like_count": 1354,
    "view_count": null
   }
  ],
@@ -416,7 +416,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 1353,
+   "like_count": 1354,
    "view_count": null
   }
  ],
@@ -559,45 +559,45 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-06"
+    "to": "2026-11-07"
    },
-   "streams_analyzed": 7,
+   "streams_analyzed": 8,
    "streams_missed": 0,
-   "unique_chatters": 2274,
-   "members_confirmed": 1423,
+   "unique_chatters": 2353,
+   "members_confirmed": 1459,
    "member_classes": {
-    "unknown": 1079,
-    "known": 344
+    "unknown": 1111,
+    "known": 348
    },
-   "long_term_members": 828,
+   "long_term_members": 843,
    "badges": [
     {
      "months": 0,
-     "members": 142
+     "members": 154
     },
     {
      "months": 1,
-     "members": 42
+     "members": 43
     },
     {
      "months": 2,
-     "members": 181
+     "members": 183
     },
     {
      "months": 6,
-     "members": 230
+     "members": 236
     },
     {
      "months": 12,
-     "members": 529
+     "members": 539
     },
     {
      "months": 24,
-     "members": 193
+     "members": 196
     },
     {
      "months": 36,
-     "members": 106
+     "members": 108
     }
    ],
    "events": {
@@ -610,16 +610,16 @@
     {
      "tier": "伊波すたじお",
      "price": 490,
-     "confirmed_members": 344,
-     "estimated_members": 1423.0
+     "confirmed_members": 348,
+     "estimated_members": 1459.0
     }
    ],
    "revenue": {
-    "monthly_low": 443717,
-    "monthly_est": 443717,
+    "monthly_low": 454943,
+    "monthly_est": 454943,
     "gift_once": 0
    },
-   "avg_member_chatters": 616.1,
+   "avg_member_chatters": 619,
    "partial": true,
    "finalized": false
   }

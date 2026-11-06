@@ -2,26 +2,30 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-06"
+  "to": "2026-11-07"
  },
- "streams_analyzed": 5,
+ "streams_analyzed": 7,
  "streams_missed": 0,
- "unique_chatters": 75,
- "members_confirmed": 46,
+ "unique_chatters": 92,
+ "members_confirmed": 53,
  "member_classes": {
   "known": 3,
-  "unknown": 8,
-  "gift": 35
+  "unknown": 12,
+  "gift": 38
  },
- "long_term_members": 10,
+ "long_term_members": 13,
  "badges": [
   {
    "months": 0,
-   "members": 35
+   "members": 37
+  },
+  {
+   "months": 1,
+   "members": 1
   },
   {
    "months": 2,
-   "members": 1
+   "members": 2
   },
   {
    "months": 12,
@@ -29,7 +33,7 @@
   },
   {
    "months": 24,
-   "members": 1
+   "members": 3
   },
   {
    "months": 36,
@@ -37,29 +41,29 @@
   },
   {
    "months": 48,
-   "members": 4
+   "members": 5
   }
  ],
  "events": {
   "new_members": 0,
   "rejoins": 0,
   "milestones": 2,
-  "gifted_total": 35
+  "gifted_total": 38
  },
  "tiers": [
   {
    "tier": "Magical Domikado",
    "price": 490,
    "confirmed_members": 3,
-   "estimated_members": 11.0
+   "estimated_members": 15.0
   }
  ],
  "revenue": {
-  "monthly_low": 3430,
-  "monthly_est": 3430,
-  "gift_once": 10914
+  "monthly_low": 4677,
+  "monthly_est": 4677,
+  "gift_once": 11849
  },
- "avg_member_chatters": 11.2,
+ "avg_member_chatters": 9.9,
  "partial": true,
  "finalized": false
 }

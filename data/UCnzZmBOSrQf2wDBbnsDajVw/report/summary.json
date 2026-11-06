@@ -3,27 +3,27 @@
  "channel_id": "UCnzZmBOSrQf2wDBbnsDajVw",
  "handle": "@OhJiyu",
  "subscribers": 60900,
- "fetched_at": "2026-11-06 11:26",
- "generated_at": "2026-11-06 11:26",
+ "fetched_at": "2026-11-07 05:28",
+ "generated_at": "2026-11-07 05:29",
  "period": {
-  "from": "2026-10-07 11:26",
-  "to": "2026-11-06 11:26",
+  "from": "2026-10-08 05:28",
+  "to": "2026-11-07 05:28",
   "days": 30
  },
- "streams_analyzed": 15,
- "streams_missed": 2,
- "unique_chatters": 149,
- "members_confirmed": 91,
+ "streams_analyzed": 17,
+ "streams_missed": 1,
+ "unique_chatters": 165,
+ "members_confirmed": 107,
  "member_classes": {
   "known": 9,
-  "unknown": 25,
-  "gift": 57
+  "unknown": 26,
+  "gift": 72
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 59
+   "members": 74
   },
   {
    "months": 1,
@@ -33,12 +33,12 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 3
+   "members": 2
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 5
+   "members": 7
   },
   {
    "months": 12,
@@ -55,9 +55,9 @@
   "new_members": 0,
   "rejoins": 1,
   "milestones": 7,
-  "gift_purchases": 6,
-  "gifted_total": 57,
-  "gift_redemptions": 57
+  "gift_purchases": 8,
+  "gifted_total": 72,
+  "gift_redemptions": 72
  },
  "tiers_configured": true,
  "tiers": [
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 9,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 25.0,
-   "estimated_members": 34.0,
+   "allocated_unknown": 26.0,
+   "estimated_members": 35.0,
    "monthly_net_confirmed": 2806,
-   "monthly_net_estimated": 10602
+   "monthly_net_estimated": 10914
   }
  ],
  "revenue": {
-  "monthly_low": 10602,
-  "monthly_est": 10602,
-  "gift_once": 17774,
-  "total_low": 28375,
-  "total_est": 28375,
-  "paying_members": 34,
+  "monthly_low": 10914,
+  "monthly_est": 10914,
+  "gift_once": 22451,
+  "total_low": 33365,
+  "total_est": 33365,
+  "paying_members": 35,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -237,6 +237,26 @@
    "member_chatters": 12,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "9W9USotyzFY",
+   "start": "2026-11-05 20:57",
+   "title": "【 #にじイカ祭り2026 】チームユルほわ、顔合わせ！【にじさんじ／ジユ】",
+   "kind": "配信",
+   "chatters": 26,
+   "member_chatters": 22,
+   "new_members": 0,
+   "gifted_total": 10
+  },
+  {
+   "video_id": "wcC2-TCvYfg",
+   "start": "2026-11-06 19:00",
+   "title": "【 #にじイカ祭り2026 】チームユルほわ、今日も集合！【にじさんじ／ジユ】",
+   "kind": "配信",
+   "chatters": 19,
+   "member_chatters": 14,
+   "new_members": 0,
+   "gifted_total": 5
   }
  ],
  "missed_streams": [
@@ -251,18 +271,6 @@
    "members_level": "방안의 아기새냥이/部屋の中の子猫鳥",
    "like_count": 13,
    "view_count": null
-  },
-  {
-   "video_id": "9W9USotyzFY",
-   "start": "2026-11-05 00:00",
-   "title": "【 #にじイカ祭り2026 】チームユルほわ、顔合わせ！【にじさんじ／ジユ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": null,
-   "view_count": 4524
   }
  ],
  "members_only_content": [
@@ -409,25 +417,30 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-06"
+    "to": "2026-11-07"
    },
-   "streams_analyzed": 1,
-   "streams_missed": 1,
-   "unique_chatters": 27,
-   "members_confirmed": 12,
+   "streams_analyzed": 3,
+   "streams_missed": 0,
+   "unique_chatters": 49,
+   "members_confirmed": 33,
    "member_classes": {
-    "unknown": 9,
-    "known": 3
+    "unknown": 15,
+    "known": 3,
+    "gift": 15
    },
-   "long_term_members": 8,
+   "long_term_members": 9,
    "badges": [
     {
      "months": 0,
-     "members": 2
+     "members": 17
+    },
+    {
+     "months": 2,
+     "members": 1
     },
     {
      "months": 6,
-     "members": 2
+     "members": 6
     },
     {
      "months": 12,
@@ -435,29 +448,29 @@
     },
     {
      "months": 24,
-     "members": 5
+     "members": 6
     }
    ],
    "events": {
     "new_members": 0,
     "rejoins": 0,
     "milestones": 0,
-    "gifted_total": 0
+    "gifted_total": 15
    },
    "tiers": [
     {
      "tier": "방안의 아기새냥이/部屋の中の子猫鳥",
      "price": 490,
      "confirmed_members": 3,
-     "estimated_members": 12.0
+     "estimated_members": 18.0
     }
    ],
    "revenue": {
-    "monthly_low": 3742,
-    "monthly_est": 3742,
-    "gift_once": 0
+    "monthly_low": 5613,
+    "monthly_est": 5613,
+    "gift_once": 4677
    },
-   "avg_member_chatters": 12,
+   "avg_member_chatters": 16,
    "partial": true,
    "finalized": false
   }

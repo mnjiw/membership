@@ -3,27 +3,26 @@
  "channel_id": "UCV5ZZlLjk5MKGg3L0n0vbzw",
  "handle": "@TakamiyaRion",
  "subscribers": 560000,
- "fetched_at": "2026-11-06 11:24",
- "generated_at": "2026-11-06 11:24",
+ "fetched_at": "2026-11-07 05:21",
+ "generated_at": "2026-11-07 05:22",
  "period": {
-  "from": "2026-10-07 11:24",
-  "to": "2026-11-06 11:24",
+  "from": "2026-10-08 05:21",
+  "to": "2026-11-07 05:21",
   "days": 30
  },
  "streams_analyzed": 38,
  "streams_missed": 0,
- "unique_chatters": 2953,
- "members_confirmed": 233,
+ "unique_chatters": 2851,
+ "members_confirmed": 229,
  "member_classes": {
-  "unknown": 195,
-  "known": 33,
-  "gift": 5
+  "known": 32,
+  "unknown": 197
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 24
+   "members": 23
   },
   {
    "months": 1,
@@ -43,7 +42,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 30
+   "members": 29
   },
   {
    "months": 24,
@@ -63,21 +62,21 @@
   {
    "months": 60,
    "label": "5年",
-   "members": 28
+   "members": 27
   },
   {
    "months": 72,
    "label": "6年",
-   "members": 49
+   "members": 48
   }
  ],
  "events": {
   "new_members": 10,
   "rejoins": 7,
   "milestones": 4,
-  "gift_purchases": 1,
-  "gifted_total": 5,
-  "gift_redemptions": 5
+  "gift_purchases": 0,
+  "gifted_total": 0,
+  "gift_redemptions": 0
  },
  "tiers_configured": true,
  "tiers": [
@@ -85,43 +84,43 @@
    "tier": "帝華学生",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 30,
-   "share_of_confirmed_pct": 90.9,
-   "allocated_unknown": 177.3,
-   "estimated_members": 207.3,
-   "monthly_net_confirmed": 9355,
-   "monthly_net_estimated": 64631
+   "confirmed_members": 29,
+   "share_of_confirmed_pct": 90.6,
+   "allocated_unknown": 178.5,
+   "estimated_members": 207.5,
+   "monthly_net_confirmed": 9043,
+   "monthly_net_estimated": 64712
   },
   {
    "tier": "なんか真ん中らへんのメンバーでこれはガム代になる",
    "price": 1190,
    "net_per_member": 757.3,
    "confirmed_members": 1,
-   "share_of_confirmed_pct": 3.0,
-   "allocated_unknown": 5.9,
-   "estimated_members": 6.9,
+   "share_of_confirmed_pct": 3.1,
+   "allocated_unknown": 6.2,
+   "estimated_members": 7.2,
    "monthly_net_confirmed": 757,
-   "monthly_net_estimated": 5232
+   "monthly_net_estimated": 5419
   },
   {
    "tier": "鰻コース　鰻食べるだけ",
    "price": 5600,
    "net_per_member": 3563.6,
    "confirmed_members": 2,
-   "share_of_confirmed_pct": 6.1,
-   "allocated_unknown": 11.8,
-   "estimated_members": 13.8,
+   "share_of_confirmed_pct": 6.2,
+   "allocated_unknown": 12.3,
+   "estimated_members": 14.3,
    "monthly_net_confirmed": 7127,
-   "monthly_net_estimated": 49243
+   "monthly_net_estimated": 51005
   }
  ],
  "revenue": {
-  "monthly_low": 78044,
-  "monthly_est": 119106,
-  "gift_once": 1559,
-  "total_low": 79603,
-  "total_est": 120666,
-  "paying_members": 228,
+  "monthly_low": 78355,
+  "monthly_est": 121136,
+  "gift_once": 0,
+  "total_low": 78355,
+  "total_est": 121136,
+  "paying_members": 229,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -130,16 +129,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "V3Ok2de9x0A",
-   "start": "2026-10-07 23:00",
-   "title": "【DARK SOULS III】死んだら即終了～33デス目～ #たかみや即終了ダクソ3【にじさんじ/鷹宮リオン】",
-   "kind": "配信",
-   "chatters": 563,
-   "member_chatters": 86,
-   "new_members": 0,
-   "gifted_total": 5
-  },
   {
    "video_id": "dLn8YesMwcU",
    "start": "2026-10-08 23:00",
@@ -509,6 +498,16 @@
    "member_chatters": 42,
    "new_members": 2,
    "gifted_total": 0
+  },
+  {
+   "video_id": "yVvep5BuIsY",
+   "start": "2026-11-06 18:08",
+   "title": "【LTK4】CC nextレギュラーステージ day6 VS IT【にじさんじ/鷹宮リオン 叶 ゆふな 空澄セナ 獅子堂あかり Yuhi】",
+   "kind": "配信",
+   "chatters": 115,
+   "member_chatters": 51,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -705,17 +704,17 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-06"
+    "to": "2026-11-07"
    },
-   "streams_analyzed": 6,
+   "streams_analyzed": 7,
    "streams_missed": 0,
-   "unique_chatters": 401,
-   "members_confirmed": 100,
+   "unique_chatters": 415,
+   "members_confirmed": 101,
    "member_classes": {
     "known": 14,
-    "unknown": 86
+    "unknown": 87
    },
-   "long_term_members": 78,
+   "long_term_members": 79,
    "badges": [
     {
      "months": 0,
@@ -755,7 +754,7 @@
     },
     {
      "months": 72,
-     "members": 23
+     "members": 24
     }
    ],
    "events": {
@@ -769,7 +768,7 @@
      "tier": "帝華学生",
      "price": 490,
      "confirmed_members": 12,
-     "estimated_members": 85.7
+     "estimated_members": 86.6
     },
     {
      "tier": "なんか真ん中らへんのメンバーでこれはガム代になる",
@@ -781,15 +780,15 @@
      "tier": "鰻コース　鰻食べるだけ",
      "price": 5600,
      "confirmed_members": 2,
-     "estimated_members": 14.3
+     "estimated_members": 14.4
     }
    ],
    "revenue": {
-    "monthly_low": 37685,
-    "monthly_est": 77636,
+    "monthly_low": 37997,
+    "monthly_est": 78413,
     "gift_once": 0
    },
-   "avg_member_chatters": 51.5,
+   "avg_member_chatters": 51.4,
    "partial": true,
    "finalized": false
   }

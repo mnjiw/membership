@@ -3,19 +3,19 @@
  "channel_id": "UCspv01oxUFf_MTSipURRhkA",
  "handle": "@Kanae",
  "subscribers": 1650000,
- "fetched_at": "2026-11-06 11:23",
- "generated_at": "2026-11-06 11:23",
+ "fetched_at": "2026-11-07 05:19",
+ "generated_at": "2026-11-07 05:20",
  "period": {
-  "from": "2026-10-07 11:23",
-  "to": "2026-11-06 11:23",
+  "from": "2026-10-08 05:19",
+  "to": "2026-11-07 05:19",
   "days": 30
  },
- "streams_analyzed": 22,
- "streams_missed": 1,
- "unique_chatters": 5318,
- "members_confirmed": 2623,
+ "streams_analyzed": 23,
+ "streams_missed": 0,
+ "unique_chatters": 5443,
+ "members_confirmed": 2647,
  "member_classes": {
-  "unknown": 2522,
+  "unknown": 2546,
   "known": 80,
   "gift": 21
  },
@@ -33,22 +33,22 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 328
+   "members": 327
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 249
+   "members": 255
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 457
+   "members": 460
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 1464
+   "members": 1480
   }
  ],
  "events": {
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 80,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2522.0,
-   "estimated_members": 2602.0,
+   "allocated_unknown": 2546.0,
+   "estimated_members": 2626.0,
    "monthly_net_confirmed": 24945,
-   "monthly_net_estimated": 811351
+   "monthly_net_estimated": 818835
   }
  ],
  "revenue": {
-  "monthly_low": 811351,
-  "monthly_est": 811351,
+  "monthly_low": 818835,
+  "monthly_est": 818835,
   "gift_once": 6548,
-  "total_low": 817899,
-  "total_est": 817899,
-  "paying_members": 2602,
+  "total_low": 825383,
+  "total_est": 825383,
+  "paying_members": 2626,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -307,22 +307,19 @@
    "member_chatters": 790,
    "new_members": 0,
    "gifted_total": 0
-  }
- ],
- "missed_streams": [
+  },
   {
-   "video_id": "46qgP4iVcHs",
-   "start": "2026-11-03 00:00",
-   "title": "【#LTK】知らない人！？音質がアップグレードされたYutaponコーチに驚く叶たち【にじさんじ/叶/切り抜き】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 508,
-   "view_count": 42453
+   "video_id": "0woVrwu-fL8",
+   "start": "2026-11-06 16:49",
+   "title": "レギュラーステージ最終日！練習▶本番！ | LTK【にじさんじ/叶】",
+   "kind": "配信",
+   "chatters": 1412,
+   "member_chatters": 974,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -460,41 +457,41 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-06"
+    "to": "2026-11-07"
    },
-   "streams_analyzed": 5,
-   "streams_missed": 1,
-   "unique_chatters": 2444,
-   "members_confirmed": 1589,
+   "streams_analyzed": 6,
+   "streams_missed": 0,
+   "unique_chatters": 2766,
+   "members_confirmed": 1709,
    "member_classes": {
-    "unknown": 1554,
-    "known": 35
+    "unknown": 1672,
+    "known": 37
    },
-   "long_term_members": 1216,
+   "long_term_members": 1306,
    "badges": [
     {
      "months": 0,
-     "members": 15
+     "members": 16
     },
     {
      "months": 1,
-     "members": 21
+     "members": 23
     },
     {
      "months": 2,
-     "members": 178
+     "members": 188
     },
     {
      "months": 6,
-     "members": 159
+     "members": 176
     },
     {
      "months": 12,
-     "members": 305
+     "members": 318
     },
     {
      "months": 24,
-     "members": 911
+     "members": 988
     }
    ],
    "events": {
@@ -507,16 +504,16 @@
     {
      "tier": "叶え隊",
      "price": 490,
-     "confirmed_members": 35,
-     "estimated_members": 1589.0
+     "confirmed_members": 37,
+     "estimated_members": 1709.0
     }
    ],
    "revenue": {
-    "monthly_low": 495479,
-    "monthly_est": 495479,
+    "monthly_low": 532897,
+    "monthly_est": 532897,
     "gift_once": 0
    },
-   "avg_member_chatters": 819.2,
+   "avg_member_chatters": 845,
    "partial": true,
    "finalized": false
   }

@@ -3,15 +3,15 @@
  "channel_id": "UC0WwEfE-jOM2rzjpdfhTzZA",
  "handle": "@AizonoManami",
  "subscribers": 180000,
- "fetched_at": "2026-11-06 11:24",
- "generated_at": "2026-11-06 11:24",
+ "fetched_at": "2026-11-07 05:23",
+ "generated_at": "2026-11-07 05:23",
  "period": {
-  "from": "2026-10-07 11:24",
-  "to": "2026-11-06 11:24",
+  "from": "2026-10-08 05:23",
+  "to": "2026-11-07 05:23",
   "days": 30
  },
  "streams_analyzed": 2,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 60,
  "members_confirmed": 24,
  "member_classes": {
@@ -88,17 +88,30 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "_1-TQmokLOE",
+   "start": "2026-11-06 00:00",
+   "title": "【#にじイカ祭り2026 】対抗戦で練習最終日！ にじすきWIN【にじさんじ/愛園愛美】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 245,
+   "view_count": 4593
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-03",
-    "to": "2026-11-06"
+    "to": "2026-11-07"
    },
    "streams_analyzed": 2,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 60,
    "members_confirmed": 24,
    "member_classes": {

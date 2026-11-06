@@ -3,16 +3,16 @@
  "channel_id": "UCClwIqTUn5LDpFucHyaAhHg",
  "handle": "@LeeRoha",
  "subscribers": 112000,
- "fetched_at": "2026-11-06 11:26",
- "generated_at": "2026-11-06 11:26",
+ "fetched_at": "2026-11-07 05:28",
+ "generated_at": "2026-11-07 05:29",
  "period": {
-  "from": "2026-10-07 11:26",
-  "to": "2026-11-06 11:26",
+  "from": "2026-10-08 05:28",
+  "to": "2026-11-07 05:28",
   "days": 30
  },
- "streams_analyzed": 14,
+ "streams_analyzed": 15,
  "streams_missed": 1,
- "unique_chatters": 476,
+ "unique_chatters": 520,
  "members_confirmed": 43,
  "member_classes": {
   "unknown": 34,
@@ -54,7 +54,7 @@
  "events": {
   "new_members": 1,
   "rejoins": 0,
-  "milestones": 5,
+  "milestones": 6,
   "gift_purchases": 1,
   "gifted_total": 1,
   "gift_redemptions": 1
@@ -238,20 +238,30 @@
    "member_chatters": 18,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "tN3Lo0IdV0I",
+   "start": "2026-11-05 22:01",
+   "title": "【#にじイカ祭り2026】チョア氏～ 練習会#3  [にじさんじ/イロハ]",
+   "kind": "配信",
+   "chatters": 128,
+   "member_chatters": 16,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
   {
-   "video_id": "tN3Lo0IdV0I",
-   "start": "2026-11-05 00:00",
-   "title": "【#にじイカ祭り2026】チョア氏～ 練習会#3  [にじさんじ/イロハ]",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
+   "video_id": "LDAYFoVAwok",
+   "start": "2026-11-06 23:32",
+   "title": "【#にじイカ祭り2026】チョア氏～ 練習会#4  [にじさんじ/イロハ]",
+   "kind": "live",
+   "status": "processing",
+   "reason": "アーカイブ処理中（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 611,
-   "view_count": 18550
+   "like_count": 415,
+   "view_count": 10814
   }
  ],
  "members_only_content": [],
@@ -403,11 +413,11 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-06"
+    "to": "2026-11-07"
    },
-   "streams_analyzed": 2,
+   "streams_analyzed": 3,
    "streams_missed": 1,
-   "unique_chatters": 224,
+   "unique_chatters": 278,
    "members_confirmed": 23,
    "member_classes": {
     "unknown": 20,
@@ -439,7 +449,7 @@
    "events": {
     "new_members": 0,
     "rejoins": 0,
-    "milestones": 0,
+    "milestones": 1,
     "gifted_total": 0
    },
    "tiers": [
@@ -461,7 +471,7 @@
     "monthly_est": 9123,
     "gift_once": 0
    },
-   "avg_member_chatters": 18,
+   "avg_member_chatters": 17.3,
    "partial": true,
    "finalized": false
   }

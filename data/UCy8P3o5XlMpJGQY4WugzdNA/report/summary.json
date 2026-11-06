@@ -3,57 +3,57 @@
  "channel_id": "UCy8P3o5XlMpJGQY4WugzdNA",
  "handle": "@SaikiIttetsu",
  "subscribers": 412000,
- "fetched_at": "2026-11-06 11:27",
- "generated_at": "2026-11-06 11:27",
+ "fetched_at": "2026-11-07 05:29",
+ "generated_at": "2026-11-07 05:30",
  "period": {
-  "from": "2026-10-07 11:27",
-  "to": "2026-11-06 11:27",
+  "from": "2026-10-08 05:29",
+  "to": "2026-11-07 05:29",
   "days": 30
  },
- "streams_analyzed": 15,
- "streams_missed": 3,
- "unique_chatters": 6625,
- "members_confirmed": 2751,
+ "streams_analyzed": 14,
+ "streams_missed": 4,
+ "unique_chatters": 6443,
+ "members_confirmed": 2721,
  "member_classes": {
-  "unknown": 2537,
-  "known": 109,
+  "unknown": 2508,
+  "known": 108,
   "gift": 105
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 277
+   "members": 274
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 61
+   "members": 59
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 333
+   "members": 330
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 377
+   "members": 373
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 954
+   "members": 943
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 749
+   "members": 742
   }
  ],
  "events": {
-  "new_members": 66,
-  "rejoins": 19,
+  "new_members": 63,
+  "rejoins": 18,
   "milestones": 0,
   "gift_purchases": 44,
   "gifted_total": 117,
@@ -65,21 +65,21 @@
    "tier": "仲磨強化プログラム🤝",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 109,
+   "confirmed_members": 108,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2537.0,
-   "estimated_members": 2646.0,
-   "monthly_net_confirmed": 33988,
-   "monthly_net_estimated": 825071
+   "allocated_unknown": 2508.0,
+   "estimated_members": 2616.0,
+   "monthly_net_confirmed": 33676,
+   "monthly_net_estimated": 815716
   }
  ],
  "revenue": {
-  "monthly_low": 825071,
-  "monthly_est": 825071,
+  "monthly_low": 815716,
+  "monthly_est": 815716,
   "gift_once": 36483,
-  "total_low": 861554,
-  "total_est": 861554,
-  "paying_members": 2646,
+  "total_low": 852199,
+  "total_est": 852199,
+  "paying_members": 2616,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "ay9bt4V5Vzo",
-   "start": "2026-10-08 02:58",
-   "title": "深夜にタバコを吸うだけ【にじさんじ／佐伯イッテツ】",
-   "kind": "配信",
-   "chatters": 563,
-   "member_chatters": 301,
-   "new_members": 3,
-   "gifted_total": 0
-  },
   {
    "video_id": "LsVCt5ycLy0",
    "start": "2026-10-10 23:28",
@@ -261,7 +251,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "仲磨強化プログラム🤝",
-   "like_count": 767,
+   "like_count": 768,
    "view_count": null
   },
   {
@@ -275,6 +265,18 @@
    "members_level": "仲磨強化プログラム🤝",
    "like_count": 600,
    "view_count": null
+  },
+  {
+   "video_id": "6qlD7Z-K7nk",
+   "start": "2026-11-06 00:00",
+   "title": "【ほぼ初見　最終回】諸々ゲットだぜ！！【にじさんじ／佐伯イッテツ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 1597,
+   "view_count": 95181
   }
  ],
  "members_only_content": [
@@ -295,7 +297,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "仲磨強化プログラム🤝",
-   "like_count": 767,
+   "like_count": 768,
    "view_count": null
   },
   {
@@ -445,10 +447,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-06"
+    "to": "2026-11-07"
    },
    "streams_analyzed": 4,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 2888,
    "members_confirmed": 1606,
    "member_classes": {
