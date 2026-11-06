@@ -3,42 +3,42 @@
  "channel_id": "UCiWkgRl4asSN5kRUSWgRLWQ",
  "handle": "@Rokusho_Kureha",
  "subscribers": 62200,
- "fetched_at": "2026-11-06 11:33",
- "generated_at": "2026-11-06 11:33",
+ "fetched_at": "2026-11-07 06:30",
+ "generated_at": "2026-11-07 06:30",
  "period": {
-  "from": "2026-10-07 11:33",
-  "to": "2026-11-06 11:33",
+  "from": "2026-10-08 06:30",
+  "to": "2026-11-07 06:30",
   "days": 30
  },
- "streams_analyzed": 13,
+ "streams_analyzed": 12,
  "streams_missed": 1,
- "unique_chatters": 853,
- "members_confirmed": 222,
+ "unique_chatters": 732,
+ "members_confirmed": 192,
  "member_classes": {
-  "known": 65,
-  "unknown": 122,
-  "gift": 35
+  "known": 63,
+  "unknown": 114,
+  "gift": 15
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 50
+   "members": 31
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 17
+   "members": 14
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 94
+   "members": 88
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 52
+   "members": 50
   },
   {
    "months": 12,
@@ -54,10 +54,10 @@
  "events": {
   "new_members": 4,
   "rejoins": 2,
-  "milestones": 38,
-  "gift_purchases": 4,
-  "gifted_total": 35,
-  "gift_redemptions": 35
+  "milestones": 37,
+  "gift_purchases": 3,
+  "gifted_total": 15,
+  "gift_redemptions": 15
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +65,21 @@
    "tier": "茶会の伴",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 65,
+   "confirmed_members": 63,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 122.0,
-   "estimated_members": 187.0,
-   "monthly_net_confirmed": 20268,
-   "monthly_net_estimated": 58310
+   "allocated_unknown": 114.0,
+   "estimated_members": 177.0,
+   "monthly_net_confirmed": 19645,
+   "monthly_net_estimated": 55192
   }
  ],
  "revenue": {
-  "monthly_low": 58310,
-  "monthly_est": 58310,
-  "gift_once": 10914,
-  "total_low": 69224,
-  "total_est": 69224,
-  "paying_members": 187,
+  "monthly_low": 55192,
+  "monthly_est": 55192,
+  "gift_once": 4677,
+  "total_low": 59869,
+  "total_est": 59869,
+  "paying_members": 177,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "HBKjliWoE40",
-   "start": "2026-10-07 18:16",
-   "title": "#1【星のカービィスーパーデラックス】完全初見❕ずっとやりたかった神ゲーついにきたああああッ🍅🌟【#新人Vtuber/緑青くれは】",
-   "kind": "配信",
-   "chatters": 316,
-   "member_chatters": 102,
-   "new_members": 0,
-   "gifted_total": 20
-  },
   {
    "video_id": "cprs0nDe9bg",
    "start": "2026-10-09 20:00",
@@ -370,7 +360,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-06"
+    "to": "2026-11-07"
    },
    "streams_analyzed": 1,
    "streams_missed": 0,

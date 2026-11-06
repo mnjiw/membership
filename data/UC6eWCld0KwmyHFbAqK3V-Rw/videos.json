@@ -2050,17 +2050,15 @@
    "start_ts": 1793545200.0,
    "start_jst": "2026-11-02 00:00",
    "duration_sec": null,
-   "view_count": 54635,
-   "like_count": 2280,
+   "view_count": 59024,
+   "like_count": 2301,
    "live_status": null,
    "members_only": false,
    "has_chat": false,
-   "checked_at": "2026-11-06 11:30",
+   "checked_at": "2026-11-07 06:26",
    "info_limited": true,
-   "error": "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)",
-   "tab": "video",
-   "status": "error",
-   "failed_since_ts": 1793676885.8764045
+   "settled_while_limited": true,
+   "status": "skip_not_stream"
   },
   "Jy5AitXcdd0": {
    "id": "Jy5AitXcdd0",
@@ -2078,14 +2076,31 @@
    "info_limited": true,
    "start_from_chat": true,
    "status": "ok"
+  },
+  "4o1a8flNNCg": {
+   "id": "4o1a8flNNCg",
+   "title": "【 #ホロ鯖ARK 】ケルベラックスで三位一体助手システムしたいんだよぉぉぉぉぉぉッ！！！【博衣こより/ホロライブ】",
+   "kind": "live",
+   "start_ts": 1793958369.0300279,
+   "start_jst": "2026-11-06 18:46",
+   "duration_sec": 37758,
+   "view_count": 368680,
+   "like_count": 7907,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-07 06:24",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "Koyori ch. 博衣こより - holoX -",
  "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
  "handle": "@HakuiKoyori",
  "subscribers": 1380000,
- "fetched_at": "2026-11-06 11:30",
- "fetched_at_ts": 1793932239.11837,
- "checked_from": "2026-10-30 11:30",
+ "fetched_at": "2026-11-07 06:24",
+ "fetched_at_ts": 1794000240.857461,
+ "checked_from": "2026-10-31 06:24",
  "initial_fetch_done": true
 }

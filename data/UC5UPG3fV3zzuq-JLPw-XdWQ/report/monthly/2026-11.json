@@ -2,41 +2,41 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-06"
+  "to": "2026-11-07"
  },
- "streams_analyzed": 1,
+ "streams_analyzed": 2,
  "streams_missed": 0,
- "unique_chatters": 432,
- "members_confirmed": 110,
+ "unique_chatters": 516,
+ "members_confirmed": 128,
  "member_classes": {
-  "unknown": 92,
-  "known": 18
+  "unknown": 109,
+  "known": 19
  },
- "long_term_members": 79,
+ "long_term_members": 90,
  "badges": [
   {
    "months": 0,
-   "members": 7
-  },
-  {
-   "months": 2,
    "members": 10
   },
   {
+   "months": 2,
+   "members": 12
+  },
+  {
    "months": 6,
-   "members": 14
+   "members": 16
   },
   {
    "months": 12,
-   "members": 37
+   "members": 41
   },
   {
    "months": 24,
-   "members": 42
+   "members": 49
   }
  ],
  "events": {
-  "new_members": 0,
+  "new_members": 1,
   "rejoins": 1,
   "milestones": 0,
   "gifted_total": 0
@@ -45,16 +45,16 @@
   {
    "tier": "ゲームセンターアジュール",
    "price": 490,
-   "confirmed_members": 18,
-   "estimated_members": 110.0
+   "confirmed_members": 19,
+   "estimated_members": 128.0
   }
  ],
  "revenue": {
-  "monthly_low": 34300,
-  "monthly_est": 34300,
+  "monthly_low": 39913,
+  "monthly_est": 39913,
   "gift_once": 0
  },
- "avg_member_chatters": 110,
+ "avg_member_chatters": 97.5,
  "partial": true,
  "finalized": false
 }

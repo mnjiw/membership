@@ -3,20 +3,20 @@
  "channel_id": "UCPXWk2EYjlwaCj6p-XnLbUg",
  "handle": "@lolo_orifice",
  "subscribers": 17700,
- "fetched_at": "2026-11-06 11:36",
- "generated_at": "2026-11-06 11:36",
+ "fetched_at": "2026-11-07 06:33",
+ "generated_at": "2026-11-07 06:34",
  "period": {
-  "from": "2026-10-07 11:36",
-  "to": "2026-11-06 11:36",
+  "from": "2026-10-08 06:33",
+  "to": "2026-11-07 06:33",
   "days": 30
  },
- "streams_analyzed": 23,
+ "streams_analyzed": 22,
  "streams_missed": 3,
- "unique_chatters": 1653,
+ "unique_chatters": 1649,
  "members_confirmed": 317,
  "member_classes": {
-  "unknown": 191,
   "known": 47,
+  "unknown": 191,
   "gift": 79
  },
  "badges": [
@@ -28,16 +28,16 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 17
+   "members": 16
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 207
+   "members": 208
   }
  ],
  "events": {
-  "new_members": 6,
+  "new_members": 5,
   "rejoins": 3,
   "milestones": 29,
   "gift_purchases": 13,
@@ -73,26 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "vLfUBHQeTnY",
-   "start": "2026-10-07 15:01",
-   "title": "【 ポケモンチャンピオンズ 】新シーズン調査隊🔍今期の面白いポケモンを見つける！【 ロロ・オリフィス / すぺしゃりて 】",
-   "kind": "配信",
-   "chatters": 153,
-   "member_chatters": 50,
-   "new_members": 0,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "HQKJANQboEo",
-   "start": "2026-10-07 22:01",
-   "title": "【 ソーセージレジェンド・アリーナ 】ソーセージ一本で中世を生き残る！！！！！【 ロロ・オリフィス / すぺしゃりて 】",
-   "kind": "配信",
-   "chatters": 149,
-   "member_chatters": 94,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "9A-0trYlSVY",
    "start": "2026-10-08 12:00",
@@ -302,6 +282,16 @@
    "member_chatters": 73,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "GlRpaHQGLTk",
+   "start": "2026-11-06 21:01",
+   "title": "【 #すぺしゃりてポケチャン大会 】大会前日！全参加者のスカウト結果を見て勝手に分析する！【 ロロ・オリフィス / すぺしゃりて 】",
+   "kind": "配信",
+   "chatters": 237,
+   "member_chatters": 116,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -475,21 +465,21 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-06"
+    "to": "2026-11-07"
    },
-   "streams_analyzed": 2,
+   "streams_analyzed": 3,
    "streams_missed": 0,
-   "unique_chatters": 490,
-   "members_confirmed": 170,
+   "unique_chatters": 566,
+   "members_confirmed": 193,
    "member_classes": {
-    "unknown": 144,
-    "known": 26
+    "unknown": 161,
+    "known": 32
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 49
+     "members": 56
     },
     {
      "months": 1,
@@ -497,7 +487,7 @@
     },
     {
      "months": 2,
-     "members": 113
+     "members": 129
     }
    ],
    "events": {
@@ -510,16 +500,16 @@
     {
      "tier": "協力者",
      "price": 490,
-     "confirmed_members": 26,
-     "estimated_members": 170.0
+     "confirmed_members": 32,
+     "estimated_members": 193.0
     }
    ],
    "revenue": {
-    "monthly_low": 53009,
-    "monthly_est": 53009,
+    "monthly_low": 60181,
+    "monthly_est": 60181,
     "gift_once": 0
    },
-   "avg_member_chatters": 112,
+   "avg_member_chatters": 113.3,
    "partial": true,
    "finalized": false
   }

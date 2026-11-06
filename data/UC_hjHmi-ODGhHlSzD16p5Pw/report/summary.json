@@ -3,20 +3,20 @@
  "channel_id": "UC_hjHmi-ODGhHlSzD16p5Pw",
  "handle": "@Popo_Ieiri",
  "subscribers": 131000,
- "fetched_at": "2026-11-06 11:33",
- "generated_at": "2026-11-06 11:33",
+ "fetched_at": "2026-11-07 06:30",
+ "generated_at": "2026-11-07 06:30",
  "period": {
-  "from": "2026-10-07 11:33",
-  "to": "2026-11-06 11:33",
+  "from": "2026-10-08 06:30",
+  "to": "2026-11-07 06:30",
   "days": 30
  },
  "streams_analyzed": 24,
- "streams_missed": 1,
- "unique_chatters": 1036,
+ "streams_missed": 2,
+ "unique_chatters": 1051,
  "members_confirmed": 144,
  "member_classes": {
-  "unknown": 116,
-  "known": 12,
+  "unknown": 115,
+  "known": 13,
   "gift": 16
  },
  "badges": [
@@ -59,7 +59,7 @@
  "events": {
   "new_members": 2,
   "rejoins": 1,
-  "milestones": 6,
+  "milestones": 7,
   "gift_purchases": 4,
   "gifted_total": 16,
   "gift_redemptions": 16
@@ -70,11 +70,11 @@
    "tier": "ポポパーク",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 12,
+   "confirmed_members": 13,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 116.0,
+   "allocated_unknown": 115.0,
    "estimated_members": 128.0,
-   "monthly_net_confirmed": 3742,
+   "monthly_net_confirmed": 4054,
    "monthly_net_estimated": 39913
   }
  ],
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "_eCxhWqzzdM",
-   "start": "2026-10-07 21:02",
-   "title": "【めっちゃカメレオン】アイドルのみんなとかくれんぼポポだ！！【家入ポポ / ななしいんく】",
-   "kind": "配信",
-   "chatters": 36,
-   "member_chatters": 22,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "X5FBlleXA1k",
    "start": "2026-10-08 22:00",
@@ -332,6 +322,16 @@
    "member_chatters": 20,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "8wYdxmmerk8",
+   "start": "2026-11-06 19:02",
+   "title": "【雀魂参加型】ポポに負けたら5周年記念グッズ買ってもらうポポ！【家入ポポ / ななしいんく】",
+   "kind": "配信",
+   "chatters": 74,
+   "member_chatters": 33,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -346,6 +346,18 @@
    "members_level": "",
    "like_count": 45,
    "view_count": null
+  },
+  {
+   "video_id": "Di4RxeyERFk",
+   "start": "2026-11-06 00:00",
+   "title": "【肝試しオンライン】同接の奪い合い #いかぽゆ【家入ポポ / ななしいんく】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 230,
+   "view_count": 4847
   }
  ],
  "members_only_content": [
@@ -492,15 +504,15 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-06"
+    "to": "2026-11-07"
    },
-   "streams_analyzed": 4,
-   "streams_missed": 0,
-   "unique_chatters": 555,
+   "streams_analyzed": 5,
+   "streams_missed": 1,
+   "unique_chatters": 575,
    "members_confirmed": 106,
    "member_classes": {
-    "unknown": 92,
-    "known": 9,
+    "unknown": 91,
+    "known": 10,
     "gift": 5
    },
    "long_term_members": 82,
@@ -537,14 +549,14 @@
    "events": {
     "new_members": 0,
     "rejoins": 1,
-    "milestones": 1,
+    "milestones": 2,
     "gifted_total": 5
    },
    "tiers": [
     {
      "tier": "ポポパーク",
      "price": 490,
-     "confirmed_members": 9,
+     "confirmed_members": 10,
      "estimated_members": 101.0
     }
    ],
@@ -553,7 +565,7 @@
     "monthly_est": 31494,
     "gift_once": 1559
    },
-   "avg_member_chatters": 52.8,
+   "avg_member_chatters": 48.8,
    "partial": true,
    "finalized": false
   }

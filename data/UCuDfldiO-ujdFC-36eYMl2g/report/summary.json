@@ -3,21 +3,21 @@
  "channel_id": "UCuDfldiO-ujdFC-36eYMl2g",
  "handle": "@Coco_Jester",
  "subscribers": 16700,
- "fetched_at": "2026-11-06 11:33",
- "generated_at": "2026-11-06 11:34",
+ "fetched_at": "2026-11-07 06:30",
+ "generated_at": "2026-11-07 06:30",
  "period": {
-  "from": "2026-10-07 11:33",
-  "to": "2026-11-06 11:33",
+  "from": "2026-10-08 06:30",
+  "to": "2026-11-07 06:30",
   "days": 30
  },
  "streams_analyzed": 16,
  "streams_missed": 2,
- "unique_chatters": 526,
- "members_confirmed": 184,
+ "unique_chatters": 525,
+ "members_confirmed": 183,
  "member_classes": {
-  "known": 30,
-  "unknown": 114,
-  "gift": 40
+  "known": 28,
+  "unknown": 116,
+  "gift": 39
  },
  "badges": [
   {
@@ -33,16 +33,16 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 114
+   "members": 113
   }
  ],
  "events": {
-  "new_members": 4,
+  "new_members": 2,
   "rejoins": 1,
-  "milestones": 13,
-  "gift_purchases": 16,
-  "gifted_total": 40,
-  "gift_redemptions": 40
+  "milestones": 11,
+  "gift_purchases": 15,
+  "gifted_total": 39,
+  "gift_redemptions": 39
  },
  "tiers_configured": true,
  "tiers": [
@@ -50,20 +50,20 @@
    "tier": "じぇす汰のおやつ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 30,
+   "confirmed_members": 28,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 114.0,
+   "allocated_unknown": 116.0,
    "estimated_members": 144.0,
-   "monthly_net_confirmed": 9355,
+   "monthly_net_confirmed": 8731,
    "monthly_net_estimated": 44902
   }
  ],
  "revenue": {
   "monthly_low": 44902,
   "monthly_est": 44902,
-  "gift_once": 12473,
-  "total_low": 57375,
-  "total_est": 57375,
+  "gift_once": 12161,
+  "total_low": 57063,
+  "total_est": 57063,
   "paying_members": 144,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "dv70sBHv1ME",
-   "start": "2026-10-07 18:59",
-   "title": "酒飲み女のお悩み相談室🍻‼️【ここ・じぇす汰 / ななしいんく】",
-   "kind": "配信",
-   "chatters": 115,
-   "member_chatters": 63,
-   "new_members": 2,
-   "gifted_total": 6
-  },
   {
    "video_id": "rL3SpptGE_w",
    "start": "2026-10-09 19:07",
@@ -230,6 +220,16 @@
    "kind": "配信",
    "chatters": 113,
    "member_chatters": 56,
+   "new_members": 0,
+   "gifted_total": 5
+  },
+  {
+   "video_id": "QPQC0ntf_uc",
+   "start": "2026-11-06 19:00",
+   "title": "【手元カメラ有り】やること終わらないけど酒飲みたい…… #居酒屋じぇ酒汰 【ここ・じぇす汰 / ななしいんく】",
+   "kind": "配信",
+   "chatters": 109,
+   "member_chatters": 53,
    "new_members": 0,
    "gifted_total": 5
   }
@@ -383,52 +383,52 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-06"
+    "to": "2026-11-07"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 4,
    "streams_missed": 1,
-   "unique_chatters": 266,
-   "members_confirmed": 95,
+   "unique_chatters": 301,
+   "members_confirmed": 106,
    "member_classes": {
-    "unknown": 68,
+    "unknown": 74,
     "known": 22,
-    "gift": 5
+    "gift": 10
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 8
+     "members": 12
     },
     {
      "months": 1,
-     "members": 13
+     "members": 15
     },
     {
      "months": 2,
-     "members": 74
+     "members": 79
     }
    ],
    "events": {
     "new_members": 1,
     "rejoins": 0,
     "milestones": 1,
-    "gifted_total": 5
+    "gifted_total": 10
    },
    "tiers": [
     {
      "tier": "じぇす汰のおやつ",
      "price": 490,
      "confirmed_members": 22,
-     "estimated_members": 90.0
+     "estimated_members": 96.0
     }
    ],
    "revenue": {
-    "monthly_low": 28064,
-    "monthly_est": 28064,
-    "gift_once": 1559
+    "monthly_low": 29935,
+    "monthly_est": 29935,
+    "gift_once": 3118
    },
-   "avg_member_chatters": 52.3,
+   "avg_member_chatters": 52.5,
    "partial": true,
    "finalized": false
   }

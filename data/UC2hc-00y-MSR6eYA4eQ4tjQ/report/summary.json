@@ -3,20 +3,20 @@
  "channel_id": "UC2hc-00y-MSR6eYA4eQ4tjQ",
  "handle": "@Rene_Ryugasaki",
  "subscribers": 249000,
- "fetched_at": "2026-11-06 11:33",
- "generated_at": "2026-11-06 11:33",
+ "fetched_at": "2026-11-07 06:29",
+ "generated_at": "2026-11-07 06:30",
  "period": {
-  "from": "2026-10-07 11:33",
-  "to": "2026-11-06 11:33",
+  "from": "2026-10-08 06:29",
+  "to": "2026-11-07 06:29",
   "days": 30
  },
- "streams_analyzed": 14,
+ "streams_analyzed": 15,
  "streams_missed": 0,
- "unique_chatters": 1461,
- "members_confirmed": 196,
+ "unique_chatters": 1497,
+ "members_confirmed": 199,
  "member_classes": {
-  "unknown": 174,
-  "known": 17,
+  "unknown": 176,
+  "known": 18,
   "gift": 5
  },
  "badges": [
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 14
+   "members": 15
   },
   {
    "months": 6,
@@ -53,13 +53,13 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 74
+   "members": 76
   }
  ],
  "events": {
   "new_members": 6,
   "rejoins": 3,
-  "milestones": 5,
+  "milestones": 6,
   "gift_purchases": 1,
   "gifted_total": 5,
   "gift_redemptions": 5
@@ -70,21 +70,21 @@
    "tier": "きりん組",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 17,
+   "confirmed_members": 18,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 174.0,
-   "estimated_members": 191.0,
-   "monthly_net_confirmed": 5301,
-   "monthly_net_estimated": 59557
+   "allocated_unknown": 176.0,
+   "estimated_members": 194.0,
+   "monthly_net_confirmed": 5613,
+   "monthly_net_estimated": 60493
   }
  ],
  "revenue": {
-  "monthly_low": 59557,
-  "monthly_est": 59557,
+  "monthly_low": 60493,
+  "monthly_est": 60493,
   "gift_once": 1559,
-  "total_low": 61116,
-  "total_est": 61116,
-  "paying_members": 191,
+  "total_low": 62052,
+  "total_est": 62052,
+  "paying_members": 194,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -232,6 +232,16 @@
    "member_chatters": 49,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "rhgxxjTLB7o",
+   "start": "2026-11-06 23:00",
+   "title": "1曲だけでも聴いていってくださいよ歌枠【龍ヶ崎リン / ななしいんく】",
+   "kind": "配信",
+   "chatters": 169,
+   "member_chatters": 70,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -368,17 +378,17 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-06"
+    "to": "2026-11-07"
    },
-   "streams_analyzed": 4,
+   "streams_analyzed": 5,
    "streams_missed": 0,
-   "unique_chatters": 475,
-   "members_confirmed": 93,
+   "unique_chatters": 555,
+   "members_confirmed": 116,
    "member_classes": {
-    "unknown": 85,
-    "known": 8
+    "unknown": 105,
+    "known": 11
    },
-   "long_term_members": 79,
+   "long_term_members": 94,
    "badges": [
     {
      "months": 0,
@@ -386,19 +396,19 @@
     },
     {
      "months": 1,
-     "members": 1
+     "members": 2
     },
     {
      "months": 2,
-     "members": 4
+     "members": 7
     },
     {
      "months": 6,
-     "members": 3
+     "members": 7
     },
     {
      "months": 12,
-     "members": 20
+     "members": 26
     },
     {
      "months": 24,
@@ -406,29 +416,29 @@
     },
     {
      "months": 36,
-     "members": 40
+     "members": 49
     }
    ],
    "events": {
     "new_members": 1,
     "rejoins": 0,
-    "milestones": 1,
+    "milestones": 2,
     "gifted_total": 0
    },
    "tiers": [
     {
      "tier": "きりん組",
      "price": 490,
-     "confirmed_members": 8,
-     "estimated_members": 93.0
+     "confirmed_members": 11,
+     "estimated_members": 116.0
     }
    ],
    "revenue": {
-    "monthly_low": 28999,
-    "monthly_est": 28999,
+    "monthly_low": 36171,
+    "monthly_est": 36171,
     "gift_once": 0
    },
-   "avg_member_chatters": 38.2,
+   "avg_member_chatters": 44.6,
    "partial": true,
    "finalized": false
   }

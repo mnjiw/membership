@@ -3,15 +3,15 @@
  "channel_id": "UCLS28fzx6TqoccWmjzrG2YA",
  "handle": "@amemochinina",
  "subscribers": 106000,
- "fetched_at": "2026-11-06 11:38",
- "generated_at": "2026-11-06 11:38",
+ "fetched_at": "2026-11-07 06:36",
+ "generated_at": "2026-11-07 06:36",
  "period": {
-  "from": "2026-10-07 11:38",
-  "to": "2026-11-06 11:38",
+  "from": "2026-10-08 06:36",
+  "to": "2026-11-07 06:36",
   "days": 30
  },
  "streams_analyzed": 21,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 1534,
  "members_confirmed": 1140,
  "member_classes": {
@@ -332,7 +332,20 @@
    "gifted_total": 3
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "9z_504wq8KY",
+   "start": "2026-11-06 00:00",
+   "title": "#7￤トルネコの大冒険～ちょっとステキなリマスター～￤次は奇妙な箱をGETする！ネタバレあり【飴望にぃな/Varium】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 739,
+   "view_count": 27249
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -477,10 +490,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-06"
+    "to": "2026-11-07"
    },
    "streams_analyzed": 4,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 609,
    "members_confirmed": 266,
    "member_classes": {

@@ -3,32 +3,32 @@
  "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
  "handle": "@AkiRosenthal",
  "subscribers": 1040000,
- "fetched_at": "2026-11-06 11:29",
- "generated_at": "2026-11-06 11:30",
+ "fetched_at": "2026-11-07 06:18",
+ "generated_at": "2026-11-07 06:18",
  "period": {
-  "from": "2026-10-07 11:29",
-  "to": "2026-11-06 11:29",
+  "from": "2026-10-08 06:18",
+  "to": "2026-11-07 06:18",
   "days": 30
  },
- "streams_analyzed": 33,
- "streams_missed": 3,
- "unique_chatters": 7172,
- "members_confirmed": 1663,
+ "streams_analyzed": 32,
+ "streams_missed": 2,
+ "unique_chatters": 7116,
+ "members_confirmed": 1637,
  "member_classes": {
-  "known": 81,
-  "unknown": 1104,
-  "gift": 478
+  "unknown": 1106,
+  "known": 80,
+  "gift": 451
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 505
+   "members": 483
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 33
+   "members": 32
   },
   {
    "months": 2,
@@ -48,21 +48,21 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 312
+   "members": 311
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 440
+   "members": 438
   }
  ],
  "events": {
-  "new_members": 11,
+  "new_members": 10,
   "rejoins": 8,
-  "milestones": 34,
-  "gift_purchases": 121,
-  "gifted_total": 552,
-  "gift_redemptions": 478
+  "milestones": 33,
+  "gift_purchases": 113,
+  "gifted_total": 520,
+  "gift_redemptions": 451
  },
  "tiers_configured": true,
  "tiers": [
@@ -70,21 +70,21 @@
    "tier": "ロゼ隊の宿付き酒場",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 81,
+   "confirmed_members": 80,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1104.0,
-   "estimated_members": 1185.0,
-   "monthly_net_confirmed": 25257,
-   "monthly_net_estimated": 369505
+   "allocated_unknown": 1106.0,
+   "estimated_members": 1186.0,
+   "monthly_net_confirmed": 24945,
+   "monthly_net_estimated": 369816
   }
  ],
  "revenue": {
-  "monthly_low": 369505,
-  "monthly_est": 369505,
-  "gift_once": 172124,
-  "total_low": 541628,
-  "total_est": 541628,
-  "paying_members": 1185,
+  "monthly_low": 369816,
+  "monthly_est": 369816,
+  "gift_once": 162145,
+  "total_low": 531962,
+  "total_est": 531962,
+  "paying_members": 1186,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "YRHmE_jm-c4",
-   "start": "2026-10-07 22:30",
-   "title": "【ホロライブドリームス】新エリアそして釣り雑談～ #ホロドリ【ホロライブ/アキロゼ】",
-   "kind": "配信",
-   "chatters": 477,
-   "member_chatters": 295,
-   "new_members": 1,
-   "gifted_total": 32
-  },
   {
    "video_id": "p9XKA6AcXio",
    "start": "2026-10-08 22:30",
@@ -426,18 +416,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "mv7dQ5xjGJo",
-   "start": "2026-10-07 23:42",
-   "title": "【ホロライブドリームス】新エリアそして釣り雑談～ #ホロドリ【ホロライブ/アキロゼ】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 391,
-   "view_count": null
-  },
-  {
    "video_id": "aYqjBkdUwEc",
    "start": "2026-10-08 23:43",
    "title": "【ホロライブドリームス】配信衣装がなんと！？釣り雑談→ポカじゃん！ #ホロドリ【ホロライブ/アキロゼ】",
@@ -463,16 +441,6 @@
   }
  ],
  "members_only_content": [
-  {
-   "video_id": "mv7dQ5xjGJo",
-   "start": "2026-10-07 23:42",
-   "title": "【ホロライブドリームス】新エリアそして釣り雑談～ #ホロドリ【ホロライブ/アキロゼ】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 391,
-   "view_count": null
-  },
   {
    "video_id": "aYqjBkdUwEc",
    "start": "2026-10-08 23:43",
@@ -638,7 +606,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-06"
+    "to": "2026-11-07"
    },
    "streams_analyzed": 1,
    "streams_missed": 0,

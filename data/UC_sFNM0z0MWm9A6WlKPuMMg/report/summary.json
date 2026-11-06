@@ -3,66 +3,66 @@
  "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
  "handle": "@NerissaRavencroft",
  "subscribers": 1040000,
- "fetched_at": "2026-11-06 11:32",
- "generated_at": "2026-11-06 11:32",
+ "fetched_at": "2026-11-07 06:28",
+ "generated_at": "2026-11-07 06:29",
  "period": {
-  "from": "2026-10-07 11:32",
-  "to": "2026-11-06 11:32",
+  "from": "2026-10-08 06:28",
+  "to": "2026-11-07 06:28",
   "days": 30
  },
- "streams_analyzed": 9,
+ "streams_analyzed": 10,
  "streams_missed": 1,
- "unique_chatters": 7276,
- "members_confirmed": 1639,
+ "unique_chatters": 7943,
+ "members_confirmed": 1767,
  "member_classes": {
-  "known": 407,
-  "unknown": 1133,
-  "gift": 99
+  "known": 442,
+  "unknown": 1165,
+  "gift": 160
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 143
+   "members": 209
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 39
+   "members": 43
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 136
+   "members": 141
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 179
+   "members": 187
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 331
+   "members": 351
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 289
+   "members": 296
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 522
+   "members": 540
   }
  ],
  "events": {
-  "new_members": 20,
-  "rejoins": 16,
-  "milestones": 323,
-  "gift_purchases": 17,
-  "gifted_total": 99,
-  "gift_redemptions": 99
+  "new_members": 22,
+  "rejoins": 17,
+  "milestones": 392,
+  "gift_purchases": 20,
+  "gifted_total": 160,
+  "gift_redemptions": 160
  },
  "tiers_configured": true,
  "tiers": [
@@ -70,43 +70,43 @@
    "tier": "Jailbirds+",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 379,
-   "share_of_confirmed_pct": 93.1,
-   "allocated_unknown": 1055.1,
-   "estimated_members": 1434.1,
-   "monthly_net_confirmed": 166415,
-   "monthly_net_estimated": 629680
+   "confirmed_members": 412,
+   "share_of_confirmed_pct": 93.2,
+   "allocated_unknown": 1085.9,
+   "estimated_members": 1497.9,
+   "monthly_net_confirmed": 180905,
+   "monthly_net_estimated": 657726
   },
   {
    "tier": "Jailbirds Ultra",
    "price": 1290,
    "net_per_member": 820.9,
-   "confirmed_members": 19,
-   "share_of_confirmed_pct": 4.7,
-   "allocated_unknown": 52.9,
-   "estimated_members": 71.9,
-   "monthly_net_confirmed": 15597,
-   "monthly_net_estimated": 59017
+   "confirmed_members": 21,
+   "share_of_confirmed_pct": 4.8,
+   "allocated_unknown": 55.4,
+   "estimated_members": 76.4,
+   "monthly_net_confirmed": 17239,
+   "monthly_net_estimated": 62677
   },
   {
    "tier": "Jailbirds Ultra+",
    "price": 3490,
    "net_per_member": 2220.9,
    "confirmed_members": 9,
-   "share_of_confirmed_pct": 2.2,
-   "allocated_unknown": 25.1,
-   "estimated_members": 34.1,
+   "share_of_confirmed_pct": 2.0,
+   "allocated_unknown": 23.7,
+   "estimated_members": 32.7,
    "monthly_net_confirmed": 19988,
-   "monthly_net_estimated": 75631
+   "monthly_net_estimated": 72672
   }
  ],
  "revenue": {
-  "monthly_low": 699491,
-  "monthly_est": 764328,
-  "gift_once": 43470,
-  "total_low": 742961,
-  "total_est": 807798,
-  "paying_members": 1540,
+  "monthly_low": 729674,
+  "monthly_est": 793075,
+  "gift_once": 70255,
+  "total_low": 799928,
+  "total_est": 863330,
+  "paying_members": 1607,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -204,6 +204,16 @@
    "member_chatters": 367,
    "new_members": 1,
    "gifted_total": 60
+  },
+  {
+   "video_id": "dWsi1VaWjR4",
+   "start": "2026-11-06 09:55",
+   "title": "Let's get 10k steps! | Walking Pad",
+   "kind": "配信",
+   "chatters": 1729,
+   "member_chatters": 601,
+   "new_members": 2,
+   "gifted_total": 61
   }
  ],
  "missed_streams": [
@@ -371,6 +381,87 @@
    },
    "avg_member_chatters": 455.1,
    "partial": false,
+   "finalized": false
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-07"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 1729,
+   "members_confirmed": 601,
+   "member_classes": {
+    "known": 200,
+    "unknown": 340,
+    "gift": 61
+   },
+   "long_term_members": 408,
+   "badges": [
+    {
+     "months": 0,
+     "members": 77
+    },
+    {
+     "months": 1,
+     "members": 13
+    },
+    {
+     "months": 2,
+     "members": 38
+    },
+    {
+     "months": 6,
+     "members": 65
+    },
+    {
+     "months": 12,
+     "members": 118
+    },
+    {
+     "months": 24,
+     "members": 92
+    },
+    {
+     "months": 36,
+     "members": 198
+    }
+   ],
+   "events": {
+    "new_members": 2,
+    "rejoins": 1,
+    "milestones": 69,
+    "gifted_total": 61
+   },
+   "tiers": [
+    {
+     "tier": "Jailbirds+",
+     "price": 690,
+     "confirmed_members": 186,
+     "estimated_members": 502.2
+    },
+    {
+     "tier": "Jailbirds Ultra",
+     "price": 1290,
+     "confirmed_members": 9,
+     "estimated_members": 24.3
+    },
+    {
+     "tier": "Jailbirds Ultra+",
+     "price": 3490,
+     "confirmed_members": 5,
+     "estimated_members": 13.5
+    }
+   ],
+   "revenue": {
+    "monthly_low": 249455,
+    "monthly_est": 270442,
+    "gift_once": 26785
+   },
+   "avg_member_chatters": 601,
+   "partial": true,
    "finalized": false
   }
  ],

@@ -3,72 +3,72 @@
  "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
  "handle": "@SakuraMiko",
  "subscribers": 2460000,
- "fetched_at": "2026-11-06 11:29",
- "generated_at": "2026-11-06 11:30",
+ "fetched_at": "2026-11-07 06:19",
+ "generated_at": "2026-11-07 06:23",
  "period": {
-  "from": "2026-10-07 11:29",
-  "to": "2026-11-06 11:29",
+  "from": "2026-10-08 06:19",
+  "to": "2026-11-07 06:19",
   "days": 30
  },
  "streams_analyzed": 22,
- "streams_missed": 1,
- "unique_chatters": 29708,
- "members_confirmed": 10754,
+ "streams_missed": 2,
+ "unique_chatters": 29829,
+ "members_confirmed": 11001,
  "member_classes": {
-  "unknown": 10043,
-  "known": 252,
-  "gift": 459
+  "unknown": 10065,
+  "known": 307,
+  "gift": 629
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 807
+   "members": 1016
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 134
+   "members": 141
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 485
+   "members": 487
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 998
+   "members": 1000
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 2331
+   "members": 2334
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 2313
+   "members": 2336
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 1404
+   "members": 1402
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 1129
+   "members": 1124
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 818
+   "members": 822
   },
   {
    "months": 72,
    "label": "6年",
-   "members": 299
+   "members": 303
   },
   {
    "months": 84,
@@ -77,12 +77,12 @@
   }
  ],
  "events": {
-  "new_members": 99,
-  "rejoins": 93,
+  "new_members": 135,
+  "rejoins": 107,
   "milestones": 0,
-  "gift_purchases": 87,
-  "gifted_total": 493,
-  "gift_redemptions": 459
+  "gift_purchases": 116,
+  "gifted_total": 673,
+  "gift_redemptions": 629
  },
  "tiers_configured": true,
  "tiers": [
@@ -90,21 +90,21 @@
    "tier": "さくら組",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 252,
+   "confirmed_members": 307,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 10043.0,
-   "estimated_members": 10295.0,
-   "monthly_net_confirmed": 78578,
-   "monthly_net_estimated": 3210168
+   "allocated_unknown": 10065.0,
+   "estimated_members": 10372.0,
+   "monthly_net_confirmed": 95728,
+   "monthly_net_estimated": 3234178
   }
  ],
  "revenue": {
-  "monthly_low": 3210168,
-  "monthly_est": 3210168,
-  "gift_once": 153726,
-  "total_low": 3363895,
-  "total_est": 3363895,
-  "paying_members": 10295,
+  "monthly_low": 3234178,
+  "monthly_est": 3234178,
+  "gift_once": 209854,
+  "total_low": 3444032,
+  "total_est": 3444032,
+  "paying_members": 10372,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -113,16 +113,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "ACvWie_jpi8",
-   "start": "2026-10-07 21:03",
-   "title": "【みんなでティア表】みんなでティア表で理解度をあげていくにぇええええええええ！！！【#ホロでティア表】",
-   "kind": "配信",
-   "chatters": 4107,
-   "member_chatters": 2181,
-   "new_members": 1,
-   "gifted_total": 1
-  },
   {
    "video_id": "BqUfGBP3jMM",
    "start": "2026-10-08 22:03",
@@ -332,6 +322,16 @@
    "member_chatters": 2885,
    "new_members": 3,
    "gifted_total": 132
+  },
+  {
+   "video_id": "Pbq8TtAPyMU",
+   "start": "2026-11-06 20:02",
+   "title": "【ソウルキャリバーⅥ】カオスなキャラクリ大会だああああ‼🔥⚔視聴者参加型だにぇ！！！！！！！！【ホロライブ/さくらみこ】",
+   "kind": "配信",
+   "chatters": 5208,
+   "member_chatters": 2891,
+   "new_members": 37,
+   "gifted_total": 181
   }
  ],
  "missed_streams": [
@@ -345,6 +345,18 @@
    "members_only": true,
    "members_level": "",
    "like_count": 5766,
+   "view_count": null
+  },
+  {
+   "video_id": "uY3iNoXLSdY",
+   "start": "2026-11-06 22:03",
+   "title": "【メン限同時視聴】さくらみこ 2nd Live “Blooming Parade!!”をいっしょにみるにぇ！【#咲き乱れみこち】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 4203,
    "view_count": null
   }
  ],
@@ -367,6 +379,16 @@
    "status": "members_only",
    "members_level": "",
    "like_count": 5766,
+   "view_count": null
+  },
+  {
+   "video_id": "uY3iNoXLSdY",
+   "start": "2026-11-06 22:03",
+   "title": "【メン限同時視聴】さくらみこ 2nd Live “Blooming Parade!!”をいっしょにみるにぇ！【#咲き乱れみこち】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 4203,
    "view_count": null
   }
  ],
@@ -546,84 +568,84 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-06"
+    "to": "2026-11-07"
    },
-   "streams_analyzed": 5,
-   "streams_missed": 0,
-   "unique_chatters": 13323,
-   "members_confirmed": 6656,
+   "streams_analyzed": 6,
+   "streams_missed": 1,
+   "unique_chatters": 14977,
+   "members_confirmed": 7175,
    "member_classes": {
-    "unknown": 6265,
-    "known": 145,
-    "gift": 246
+    "unknown": 6555,
+    "known": 203,
+    "gift": 417
    },
-   "long_term_members": 5215,
+   "long_term_members": 5482,
    "badges": [
     {
      "months": 0,
-     "members": 457
+     "members": 674
     },
     {
      "months": 1,
-     "members": 77
+     "members": 89
     },
     {
      "months": 2,
-     "members": 304
+     "members": 312
     },
     {
      "months": 6,
-     "members": 603
+     "members": 618
     },
     {
      "months": 12,
-     "members": 1453
+     "members": 1516
     },
     {
      "months": 24,
-     "members": 1482
+     "members": 1568
     },
     {
      "months": 36,
-     "members": 859
+     "members": 906
     },
     {
      "months": 48,
-     "members": 709
+     "members": 743
     },
     {
      "months": 60,
-     "members": 496
+     "members": 520
     },
     {
      "months": 72,
-     "members": 191
+     "members": 203
     },
     {
      "months": 84,
-     "members": 25
+     "members": 26
     }
    ],
    "events": {
-    "new_members": 31,
-    "rejoins": 20,
+    "new_members": 68,
+    "rejoins": 36,
     "milestones": 0,
-    "gifted_total": 253
+    "gifted_total": 434
    },
    "tiers": [
     {
      "tier": "さくら組",
      "price": 490,
-     "confirmed_members": 145,
-     "estimated_members": 6410.0
+     "confirmed_members": 203,
+     "estimated_members": 6758.0
     }
    ],
    "revenue": {
-    "monthly_low": 1998755,
-    "monthly_est": 1998755,
-    "gift_once": 78890
+    "monthly_low": 2107267,
+    "monthly_est": 2107267,
+    "gift_once": 135329
    },
-   "avg_member_chatters": 3256.4,
+   "avg_member_chatters": 3195.5,
    "partial": true,
    "finalized": false
   }

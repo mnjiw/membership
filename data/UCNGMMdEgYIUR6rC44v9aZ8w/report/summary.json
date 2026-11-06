@@ -3,15 +3,15 @@
  "channel_id": "UCNGMMdEgYIUR6rC44v9aZ8w",
  "handle": "@Kazari_Ceo",
  "subscribers": 31500,
- "fetched_at": "2026-11-06 11:37",
- "generated_at": "2026-11-06 11:37",
+ "fetched_at": "2026-11-07 06:34",
+ "generated_at": "2026-11-07 06:34",
  "period": {
-  "from": "2026-10-07 11:37",
-  "to": "2026-11-06 11:37",
+  "from": "2026-10-08 06:34",
+  "to": "2026-11-07 06:34",
   "days": 30
  },
  "streams_analyzed": 17,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 81,
  "members_confirmed": 43,
  "member_classes": {
@@ -253,7 +253,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "cwPMdPNl9vo",
+   "start": "2026-11-06 00:00",
+   "title": "【Japanese Ramen Simulator】サンタ家、開店ッ…！ withいつもの【瀬尾カザリ / ネオポルテ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 59,
+   "view_count": 1665
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -365,10 +378,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-06"
+    "to": "2026-11-07"
    },
    "streams_analyzed": 3,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 29,
    "members_confirmed": 23,
    "member_classes": {

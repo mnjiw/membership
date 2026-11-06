@@ -3,21 +3,21 @@
  "channel_id": "UCR2Sp9fMxurwtmXQneAMTVg",
  "handle": "@magomo_magomori",
  "subscribers": 13700,
- "fetched_at": "2026-11-06 11:36",
- "generated_at": "2026-11-06 11:37",
+ "fetched_at": "2026-11-07 06:33",
+ "generated_at": "2026-11-07 06:33",
  "period": {
-  "from": "2026-10-07 11:36",
-  "to": "2026-11-06 11:36",
+  "from": "2026-10-08 06:33",
+  "to": "2026-11-07 06:33",
   "days": 30
  },
- "streams_analyzed": 31,
- "streams_missed": 9,
- "unique_chatters": 1052,
+ "streams_analyzed": 30,
+ "streams_missed": 10,
+ "unique_chatters": 1048,
  "members_confirmed": 300,
  "member_classes": {
   "unknown": 102,
-  "gift": 172,
-  "known": 26
+  "known": 26,
+  "gift": 172
  },
  "badges": [
   {
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "ddnBWL0vh5c",
-   "start": "2026-10-07 20:58",
-   "title": "【おしゃべりキング！】AIを論破できなくてAIに頼ります【すぺしゃりて/孫守まごも】",
-   "kind": "配信",
-   "chatters": 76,
-   "member_chatters": 41,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "3ZUsUp3bMTE",
    "start": "2026-10-08 08:57",
@@ -502,6 +492,18 @@
    "members_level": "",
    "like_count": 47,
    "view_count": null
+  },
+  {
+   "video_id": "i72irS3f4uM",
+   "start": "2026-11-06 00:00",
+   "title": "【 ポケモンチャンピオンズ 】スカウト限定で対戦しよう！明日の大会に備える！【 すぺしゃりて/孫守まごも 】#すぺしゃりてポケチャン大会",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 131,
+   "view_count": 2872
   }
  ],
  "members_only_content": [
@@ -709,10 +711,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-06"
+    "to": "2026-11-07"
    },
    "streams_analyzed": 6,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 223,
    "members_confirmed": 77,
    "member_classes": {

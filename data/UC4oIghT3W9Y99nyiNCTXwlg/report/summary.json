@@ -3,19 +3,19 @@
  "channel_id": "UC4oIghT3W9Y99nyiNCTXwlg",
  "handle": "@Azri_0822",
  "subscribers": 14400,
- "fetched_at": "2026-11-06 11:33",
- "generated_at": "2026-11-06 11:33",
+ "fetched_at": "2026-11-07 06:30",
+ "generated_at": "2026-11-07 06:30",
  "period": {
-  "from": "2026-10-07 11:33",
-  "to": "2026-11-06 11:33",
+  "from": "2026-10-08 06:30",
+  "to": "2026-11-07 06:30",
   "days": 30
  },
- "streams_analyzed": 18,
- "streams_missed": 1,
- "unique_chatters": 535,
- "members_confirmed": 200,
+ "streams_analyzed": 17,
+ "streams_missed": 2,
+ "unique_chatters": 524,
+ "members_confirmed": 196,
  "member_classes": {
-  "unknown": 177,
+  "unknown": 173,
   "known": 13,
   "gift": 10
  },
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 165
+   "members": 161
   }
  ],
  "events": {
@@ -52,19 +52,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 13,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 177.0,
-   "estimated_members": 190.0,
+   "allocated_unknown": 173.0,
+   "estimated_members": 186.0,
    "monthly_net_confirmed": 4054,
-   "monthly_net_estimated": 59245
+   "monthly_net_estimated": 57998
   }
  ],
  "revenue": {
-  "monthly_low": 59245,
-  "monthly_est": 59245,
+  "monthly_low": 57998,
+  "monthly_est": 57998,
   "gift_once": 3118,
-  "total_low": 62364,
-  "total_est": 62364,
-  "paying_members": 190,
+  "total_low": 61116,
+  "total_est": 61116,
+  "paying_members": 186,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "yom1dkpQFTs",
-   "start": "2026-10-07 21:59",
-   "title": "むにむに【ななしいんく/アズリ】",
-   "kind": "配信",
-   "chatters": 128,
-   "member_chatters": 86,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "aAkdG-q3Pmw",
    "start": "2026-10-09 19:59",
@@ -266,6 +256,18 @@
    "members_level": "",
    "like_count": 132,
    "view_count": null
+  },
+  {
+   "video_id": "KZKpgktPwMU",
+   "start": "2026-11-06 00:00",
+   "title": "#25 #eldenring  君と僕とのエターナルエルデンリング【ななしいんく/アズリ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 328,
+   "view_count": 7117
   }
  ],
  "members_only_content": [
@@ -381,10 +383,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-06"
+    "to": "2026-11-07"
    },
    "streams_analyzed": 1,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 107,
    "members_confirmed": 77,
    "member_classes": {
