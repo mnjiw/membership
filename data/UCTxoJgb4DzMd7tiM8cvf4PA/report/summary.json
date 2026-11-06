@@ -3,20 +3,20 @@
  "channel_id": "UCTxoJgb4DzMd7tiM8cvf4PA",
  "handle": "@Shino_Asakura",
  "subscribers": 79100,
- "fetched_at": "2026-11-06 06:32",
- "generated_at": "2026-11-06 06:32",
+ "fetched_at": "2026-11-06 11:37",
+ "generated_at": "2026-11-06 11:37",
  "period": {
-  "from": "2026-10-07 06:32",
-  "to": "2026-11-06 06:32",
+  "from": "2026-10-07 11:37",
+  "to": "2026-11-06 11:37",
   "days": 30
  },
- "streams_analyzed": 23,
- "streams_missed": 3,
- "unique_chatters": 1240,
+ "streams_analyzed": 24,
+ "streams_missed": 2,
+ "unique_chatters": 1248,
  "members_confirmed": 132,
  "member_classes": {
-  "known": 31,
-  "unknown": 101
+  "known": 32,
+  "unknown": 100
  },
  "badges": [
   {
@@ -37,12 +37,12 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 45
+   "members": 44
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 13
+   "members": 14
   },
   {
    "months": 24,
@@ -51,7 +51,7 @@
   }
  ],
  "events": {
-  "new_members": 9,
+  "new_members": 10,
   "rejoins": 1,
   "milestones": 8,
   "gift_purchases": 0,
@@ -64,11 +64,11 @@
    "tier": "シノノ愛",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 31,
+   "confirmed_members": 32,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 101.0,
+   "allocated_unknown": 100.0,
    "estimated_members": 132.0,
-   "monthly_net_confirmed": 9666,
+   "monthly_net_confirmed": 9978,
    "monthly_net_estimated": 41160
   }
  ],
@@ -316,6 +316,16 @@
    "member_chatters": 30,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "sC9j1c3IjM4",
+   "start": "2026-11-05 19:31",
+   "title": "【APEX LEGENDS】22時じゃなくなりました w/ ボドカさん bijuさん【麻倉シノ / ネオポルテ】",
+   "kind": "配信",
+   "chatters": 56,
+   "member_chatters": 27,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -342,18 +352,6 @@
    "members_level": "シノノ愛",
    "like_count": 39,
    "view_count": null
-  },
-  {
-   "video_id": "sC9j1c3IjM4",
-   "start": "2026-11-05 00:00",
-   "title": "【APEX LEGENDS】22時じゃなくなりました w/ ボドカさん bijuさん【麻倉シノ / ネオポルテ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 169,
-   "view_count": 18070
   }
  ],
  "members_only_content": [
@@ -504,19 +502,19 @@
     "from": "2026-11-01",
     "to": "2026-11-06"
    },
-   "streams_analyzed": 3,
-   "streams_missed": 1,
-   "unique_chatters": 233,
-   "members_confirmed": 52,
+   "streams_analyzed": 4,
+   "streams_missed": 0,
+   "unique_chatters": 254,
+   "members_confirmed": 55,
    "member_classes": {
-    "known": 19,
+    "known": 22,
     "unknown": 33
    },
-   "long_term_members": 21,
+   "long_term_members": 22,
    "badges": [
     {
      "months": 0,
-     "members": 6
+     "members": 8
     },
     {
      "months": 1,
@@ -532,7 +530,7 @@
     },
     {
      "months": 12,
-     "members": 7
+     "members": 8
     },
     {
      "months": 24,
@@ -540,7 +538,7 @@
     }
    ],
    "events": {
-    "new_members": 0,
+    "new_members": 1,
     "rejoins": 0,
     "milestones": 0,
     "gifted_total": 0
@@ -549,16 +547,16 @@
     {
      "tier": "シノノ愛",
      "price": 490,
-     "confirmed_members": 19,
-     "estimated_members": 52.0
+     "confirmed_members": 22,
+     "estimated_members": 55.0
     }
    ],
    "revenue": {
-    "monthly_low": 16215,
-    "monthly_est": 16215,
+    "monthly_low": 17150,
+    "monthly_est": 17150,
     "gift_once": 0
    },
-   "avg_member_chatters": 28.3,
+   "avg_member_chatters": 28,
    "partial": true,
    "finalized": false
   }

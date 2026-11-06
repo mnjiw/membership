@@ -4,16 +4,20 @@
   "from": "2026-11-01",
   "to": "2026-11-06"
  },
- "streams_analyzed": 3,
+ "streams_analyzed": 4,
  "streams_missed": 0,
- "unique_chatters": 248,
- "members_confirmed": 70,
+ "unique_chatters": 272,
+ "members_confirmed": 73,
  "member_classes": {
-  "unknown": 68,
+  "unknown": 71,
   "known": 2
  },
- "long_term_members": 60,
+ "long_term_members": 62,
  "badges": [
+  {
+   "months": 0,
+   "members": 1
+  },
   {
    "months": 1,
    "members": 1
@@ -28,11 +32,11 @@
   },
   {
    "months": 12,
-   "members": 11
+   "members": 12
   },
   {
    "months": 24,
-   "members": 49
+   "members": 50
   }
  ],
  "events": {
@@ -52,13 +56,13 @@
    "tier": "ツクヨミ",
    "price": 390,
    "confirmed_members": 1,
-   "estimated_members": 35.0
+   "estimated_members": 36.5
   },
   {
    "tier": "ワダツミ",
    "price": 490,
    "confirmed_members": 1,
-   "estimated_members": 35.0
+   "estimated_members": 36.5
   },
   {
    "tier": "アマテラス",
@@ -68,11 +72,11 @@
   }
  ],
  "revenue": {
-  "monthly_low": 13109,
-  "monthly_est": 19600,
+  "monthly_low": 13663,
+  "monthly_est": 20440,
   "gift_once": 0
  },
- "avg_member_chatters": 46.7,
+ "avg_member_chatters": 43,
  "partial": true,
  "finalized": false
 }

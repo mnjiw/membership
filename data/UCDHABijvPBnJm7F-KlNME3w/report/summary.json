@@ -3,58 +3,58 @@
  "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
  "handle": "@holoen_gigimurin",
  "subscribers": 617000,
- "fetched_at": "2026-11-06 06:27",
- "generated_at": "2026-11-06 06:27",
+ "fetched_at": "2026-11-06 11:32",
+ "generated_at": "2026-11-06 11:33",
  "period": {
-  "from": "2026-10-07 06:27",
-  "to": "2026-11-06 06:27",
+  "from": "2026-10-07 11:32",
+  "to": "2026-11-06 11:32",
   "days": 30
  },
- "streams_analyzed": 27,
+ "streams_analyzed": 26,
  "streams_missed": 2,
- "unique_chatters": 22350,
- "members_confirmed": 3240,
+ "unique_chatters": 22128,
+ "members_confirmed": 3213,
  "member_classes": {
-  "unknown": 2272,
-  "known": 817,
+  "known": 813,
+  "unknown": 2249,
   "gift": 151
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 403
+   "members": 395
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 162
+   "members": 159
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 301
+   "members": 299
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 320
+   "members": 318
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 1212
+   "members": 1204
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 842
+   "members": 838
   }
  ],
  "events": {
   "new_members": 61,
-  "rejoins": 35,
-  "milestones": 618,
+  "rejoins": 33,
+  "milestones": 612,
   "gift_purchases": 20,
   "gifted_total": 221,
   "gift_redemptions": 151
@@ -66,22 +66,22 @@
    "price": 390,
    "net_per_member": 248.2,
    "confirmed_members": 107,
-   "share_of_confirmed_pct": 13.1,
-   "allocated_unknown": 297.6,
-   "estimated_members": 404.6,
+   "share_of_confirmed_pct": 13.2,
+   "allocated_unknown": 296.0,
+   "estimated_members": 403.0,
    "monthly_net_confirmed": 26555,
-   "monthly_net_estimated": 100404
+   "monthly_net_estimated": 100016
   },
   {
    "tier": "grem",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 684,
-   "share_of_confirmed_pct": 83.7,
-   "allocated_unknown": 1902.1,
-   "estimated_members": 2586.1,
-   "monthly_net_confirmed": 300338,
-   "monthly_net_estimated": 1135550
+   "confirmed_members": 680,
+   "share_of_confirmed_pct": 83.6,
+   "allocated_unknown": 1881.1,
+   "estimated_members": 2561.1,
+   "monthly_net_confirmed": 298582,
+   "monthly_net_estimated": 1124548
   },
   {
    "tier": "gigremurins",
@@ -89,19 +89,19 @@
    "net_per_member": 1266.4,
    "confirmed_members": 26,
    "share_of_confirmed_pct": 3.2,
-   "allocated_unknown": 72.3,
-   "estimated_members": 98.3,
+   "allocated_unknown": 71.9,
+   "estimated_members": 97.9,
    "monthly_net_confirmed": 32925,
-   "monthly_net_estimated": 124488
+   "monthly_net_estimated": 124007
   }
  ],
  "revenue": {
-  "monthly_low": 923688,
-  "monthly_est": 1360442,
+  "monthly_low": 916224,
+  "monthly_est": 1348571,
   "gift_once": 54848,
-  "total_low": 978536,
-  "total_est": 1415290,
-  "paying_members": 3089,
+  "total_low": 971072,
+  "total_est": 1403419,
+  "paying_members": 3062,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -110,16 +110,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "nUYSD8jXufM",
-   "start": "2026-10-07 08:03",
-   "title": "【hololive Dreams】PLAYING WITH A CELEBRITY!!! @MoriCalliope #holodori",
-   "kind": "配信",
-   "chatters": 1287,
-   "member_chatters": 486,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "DEaXutHcNA0",
    "start": "2026-10-09 06:47",
@@ -403,7 +393,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "grem",
-   "like_count": 810,
+   "like_count": 811,
    "view_count": null
   }
  ],
@@ -425,7 +415,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "grem",
-   "like_count": 810,
+   "like_count": 811,
    "view_count": null
   }
  ],

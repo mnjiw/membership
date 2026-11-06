@@ -3,27 +3,27 @@
  "channel_id": "UCrRdBPzK4sj-MMvYOhHRvHg",
  "handle": "@TogawaNonoha",
  "subscribers": 118000,
- "fetched_at": "2026-11-06 05:33",
- "generated_at": "2026-11-06 05:33",
+ "fetched_at": "2026-11-06 11:27",
+ "generated_at": "2026-11-06 11:28",
  "period": {
-  "from": "2026-10-07 05:33",
-  "to": "2026-11-06 05:33",
+  "from": "2026-10-07 11:27",
+  "to": "2026-11-06 11:27",
   "days": 30
  },
- "streams_analyzed": 14,
- "streams_missed": 3,
- "unique_chatters": 1847,
- "members_confirmed": 272,
+ "streams_analyzed": 15,
+ "streams_missed": 2,
+ "unique_chatters": 1869,
+ "members_confirmed": 273,
  "member_classes": {
   "unknown": 252,
-  "known": 15,
+  "known": 16,
   "gift": 5
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 26
+   "members": 27
   },
   {
    "months": 1,
@@ -38,16 +38,16 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 71
+   "members": 70
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 111
+   "members": 112
   }
  ],
  "events": {
-  "new_members": 9,
+  "new_members": 10,
   "rejoins": 3,
   "milestones": 0,
   "gift_purchases": 1,
@@ -60,21 +60,21 @@
    "tier": "隠れ家",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 15,
+   "confirmed_members": 16,
    "share_of_confirmed_pct": 100.0,
    "allocated_unknown": 252.0,
-   "estimated_members": 267.0,
-   "monthly_net_confirmed": 4677,
-   "monthly_net_estimated": 83255
+   "estimated_members": 268.0,
+   "monthly_net_confirmed": 4989,
+   "monthly_net_estimated": 83567
   }
  ],
  "revenue": {
-  "monthly_low": 83255,
-  "monthly_est": 83255,
+  "monthly_low": 83567,
+  "monthly_est": 83567,
   "gift_once": 1559,
-  "total_low": 84815,
-  "total_est": 84815,
-  "paying_members": 267,
+  "total_low": 85126,
+  "total_est": 85126,
+  "paying_members": 268,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -222,6 +222,16 @@
    "member_chatters": 66,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "uPf7QebmlXk",
+   "start": "2026-11-05 19:30",
+   "title": "〖 DinoBones 〗チル恐竜の骨集め〖 にじさんじ / 十河ののは 〗",
+   "kind": "配信",
+   "chatters": 196,
+   "member_chatters": 100,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -248,18 +258,6 @@
    "members_level": "隠れ家",
    "like_count": 116,
    "view_count": null
-  },
-  {
-   "video_id": "uPf7QebmlXk",
-   "start": "2026-11-05 00:00",
-   "title": "〖 DinoBones 〗チル恐竜の骨集め〖 にじさんじ / 十河ののは 〗",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 666,
-   "view_count": 20224
   }
  ],
  "members_only_content": [
@@ -414,19 +412,19 @@
     "from": "2026-11-01",
     "to": "2026-11-06"
    },
-   "streams_analyzed": 1,
-   "streams_missed": 1,
-   "unique_chatters": 181,
-   "members_confirmed": 66,
+   "streams_analyzed": 2,
+   "streams_missed": 0,
+   "unique_chatters": 312,
+   "members_confirmed": 119,
    "member_classes": {
-    "unknown": 64,
-    "known": 2
+    "unknown": 116,
+    "known": 3
    },
-   "long_term_members": 36,
+   "long_term_members": 63,
    "badges": [
     {
      "months": 0,
-     "members": 1
+     "members": 3
     },
     {
      "months": 1,
@@ -434,19 +432,19 @@
     },
     {
      "months": 2,
-     "members": 9
-    },
-    {
-     "months": 6,
      "members": 18
     },
     {
+     "months": 6,
+     "members": 33
+    },
+    {
      "months": 12,
-     "members": 36
+     "members": 63
     }
    ],
    "events": {
-    "new_members": 0,
+    "new_members": 1,
     "rejoins": 0,
     "milestones": 0,
     "gifted_total": 0
@@ -455,16 +453,16 @@
     {
      "tier": "隠れ家",
      "price": 490,
-     "confirmed_members": 2,
-     "estimated_members": 66.0
+     "confirmed_members": 3,
+     "estimated_members": 119.0
     }
    ],
    "revenue": {
-    "monthly_low": 20580,
-    "monthly_est": 20580,
+    "monthly_low": 37106,
+    "monthly_est": 37106,
     "gift_once": 0
    },
-   "avg_member_chatters": 66,
+   "avg_member_chatters": 83,
    "partial": true,
    "finalized": false
   }

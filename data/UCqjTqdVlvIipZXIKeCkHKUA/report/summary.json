@@ -3,16 +3,16 @@
  "channel_id": "UCqjTqdVlvIipZXIKeCkHKUA",
  "handle": "@OliverEvans",
  "subscribers": 358000,
- "fetched_at": "2026-11-06 05:25",
- "generated_at": "2026-11-06 05:25",
+ "fetched_at": "2026-11-06 11:26",
+ "generated_at": "2026-11-06 11:26",
  "period": {
-  "from": "2026-10-07 05:25",
-  "to": "2026-11-06 05:25",
+  "from": "2026-10-07 11:26",
+  "to": "2026-11-06 11:26",
   "days": 30
  },
- "streams_analyzed": 15,
- "streams_missed": 3,
- "unique_chatters": 1616,
+ "streams_analyzed": 16,
+ "streams_missed": 2,
+ "unique_chatters": 1623,
  "members_confirmed": 422,
  "member_classes": {
   "unknown": 395,
@@ -248,6 +248,16 @@
    "member_chatters": 127,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "wNqsvOOhtTU",
+   "start": "2026-11-05 22:11",
+   "title": "【#にじイカ祭り2026 】チーム１３やれやれやれ～～～！！【 オリバー・エバンス/にじさんじ】",
+   "kind": "配信",
+   "chatters": 133,
+   "member_chatters": 105,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -274,18 +284,6 @@
    "members_level": "ゼミ打ち上げ",
    "like_count": 141,
    "view_count": null
-  },
-  {
-   "video_id": "wNqsvOOhtTU",
-   "start": "2026-11-05 00:00",
-   "title": "【#にじイカ祭り2026 】チーム１３やれやれやれ～～～！！【 オリバー・エバンス/にじさんじ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 262,
-   "view_count": 9004
   }
  ],
  "members_only_content": [
@@ -459,15 +457,15 @@
     "from": "2026-11-01",
     "to": "2026-11-06"
    },
-   "streams_analyzed": 3,
-   "streams_missed": 1,
-   "unique_chatters": 490,
-   "members_confirmed": 239,
+   "streams_analyzed": 4,
+   "streams_missed": 0,
+   "unique_chatters": 506,
+   "members_confirmed": 247,
    "member_classes": {
-    "unknown": 227,
+    "unknown": 235,
     "known": 12
    },
-   "long_term_members": 217,
+   "long_term_members": 224,
    "badges": [
     {
      "months": 1,
@@ -479,7 +477,7 @@
     },
     {
      "months": 6,
-     "members": 16
+     "members": 17
     },
     {
      "months": 12,
@@ -487,7 +485,7 @@
     },
     {
      "months": 24,
-     "members": 189
+     "members": 196
     }
    ],
    "events": {
@@ -501,21 +499,21 @@
      "tier": "ゼミ打ち上げ",
      "price": 490,
      "confirmed_members": 4,
-     "estimated_members": 79.7
+     "estimated_members": 82.3
     },
     {
      "tier": "ゼミアルバム",
      "price": 1190,
      "confirmed_members": 8,
-     "estimated_members": 159.3
+     "estimated_members": 164.7
     }
    ],
    "revenue": {
-    "monthly_low": 78088,
-    "monthly_est": 145500,
+    "monthly_low": 80583,
+    "monthly_est": 150371,
     "gift_once": 0
    },
-   "avg_member_chatters": 142.7,
+   "avg_member_chatters": 133.2,
    "partial": true,
    "finalized": false
   }

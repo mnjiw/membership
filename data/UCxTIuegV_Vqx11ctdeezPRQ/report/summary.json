@@ -3,16 +3,16 @@
  "channel_id": "UCxTIuegV_Vqx11ctdeezPRQ",
  "handle": "@KaminagaTaiga",
  "subscribers": 205000,
- "fetched_at": "2026-11-06 05:38",
- "generated_at": "2026-11-06 05:38",
+ "fetched_at": "2026-11-06 11:29",
+ "generated_at": "2026-11-06 11:29",
  "period": {
-  "from": "2026-10-07 05:38",
-  "to": "2026-11-06 05:38",
+  "from": "2026-10-07 11:29",
+  "to": "2026-11-06 11:29",
   "days": 30
  },
- "streams_analyzed": 29,
- "streams_missed": 1,
- "unique_chatters": 7521,
+ "streams_analyzed": 28,
+ "streams_missed": 2,
+ "unique_chatters": 7351,
  "members_confirmed": 1945,
  "member_classes": {
   "known": 1669,
@@ -63,16 +63,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "EGROVNOFnns",
-   "start": "2026-10-07 07:00",
-   "title": "【朝活#１３】おはよう配信～10月7日(水)～　# ０２【神永タイガ / にじさんじ】",
-   "kind": "配信",
-   "chatters": 911,
-   "member_chatters": 0,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "Rub7PlL6FK8",
    "start": "2026-10-08 07:00",
@@ -366,6 +356,18 @@
    "members_level": "虎っ子部",
    "like_count": 689,
    "view_count": null
+  },
+  {
+   "video_id": "Pj_jriy7vE0",
+   "start": "2026-11-05 00:00",
+   "title": "【スプラトゥーン3 #７】神の御籠　深夜練習！！　#にじイカ祭り2026　# ０１【神永タイガ / にじさんじ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 1158,
+   "view_count": 41033
   }
  ],
  "members_only_content": [
@@ -459,7 +461,7 @@
     "to": "2026-11-06"
    },
    "streams_analyzed": 5,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 3104,
    "members_confirmed": 1171,
    "member_classes": {

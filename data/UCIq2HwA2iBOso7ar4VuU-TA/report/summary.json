@@ -3,19 +3,19 @@
  "channel_id": "UCIq2HwA2iBOso7ar4VuU-TA",
  "handle": "@KadouMikaru",
  "subscribers": 136000,
- "fetched_at": "2026-11-06 05:33",
- "generated_at": "2026-11-06 05:34",
+ "fetched_at": "2026-11-06 11:27",
+ "generated_at": "2026-11-06 11:28",
  "period": {
-  "from": "2026-10-07 05:33",
-  "to": "2026-11-06 05:33",
+  "from": "2026-10-07 11:27",
+  "to": "2026-11-06 11:27",
   "days": 30
  },
- "streams_analyzed": 24,
- "streams_missed": 3,
- "unique_chatters": 5698,
- "members_confirmed": 683,
+ "streams_analyzed": 25,
+ "streams_missed": 2,
+ "unique_chatters": 5756,
+ "members_confirmed": 684,
  "member_classes": {
-  "unknown": 652,
+  "unknown": 653,
   "known": 31
  },
  "badges": [
@@ -32,17 +32,17 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 141
+   "members": 138
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 136
+   "members": 139
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 297
+   "members": 298
   }
  ],
  "events": {
@@ -61,19 +61,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 31,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 652.0,
-   "estimated_members": 683.0,
+   "allocated_unknown": 653.0,
+   "estimated_members": 684.0,
    "monthly_net_confirmed": 9666,
-   "monthly_net_estimated": 212972
+   "monthly_net_estimated": 213284
   }
  ],
  "revenue": {
-  "monthly_low": 212972,
-  "monthly_est": 212972,
+  "monthly_low": 213284,
+  "monthly_est": 213284,
   "gift_once": 0,
-  "total_low": 212972,
-  "total_est": 212972,
-  "paying_members": 683,
+  "total_low": 213284,
+  "total_est": 213284,
+  "paying_members": 684,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -321,6 +321,16 @@
    "member_chatters": 113,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "L-fXYdwI8pQ",
+   "start": "2026-11-05 17:20",
+   "title": "【 スプラトゥーン3 】 #にじイカ祭り2026 プラべ→チーム練習&対抗戦（20時ごろから）🦑【 にじさんじ / 蝸堂みかる 】",
+   "kind": "配信",
+   "chatters": 390,
+   "member_chatters": 166,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -347,18 +357,6 @@
    "members_level": "",
    "like_count": 227,
    "view_count": null
-  },
-  {
-   "video_id": "L-fXYdwI8pQ",
-   "start": "2026-11-05 00:00",
-   "title": "【 スプラトゥーン3 】 #にじイカ祭り2026 プラべ→チーム練習&対抗戦（20時ごろから）🦑【 にじさんじ / 蝸堂みかる 】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 1226,
-   "view_count": 86875
   }
  ],
  "members_only_content": [
@@ -513,35 +511,35 @@
     "from": "2026-11-01",
     "to": "2026-11-06"
    },
-   "streams_analyzed": 6,
-   "streams_missed": 1,
-   "unique_chatters": 1986,
-   "members_confirmed": 338,
+   "streams_analyzed": 7,
+   "streams_missed": 0,
+   "unique_chatters": 2119,
+   "members_confirmed": 355,
    "member_classes": {
-    "unknown": 328,
-    "known": 10
+    "unknown": 344,
+    "known": 11
    },
-   "long_term_members": 171,
+   "long_term_members": 177,
    "badges": [
     {
      "months": 0,
-     "members": 19
+     "members": 21
     },
     {
      "months": 1,
-     "members": 15
+     "members": 16
     },
     {
      "months": 2,
-     "members": 61
+     "members": 64
     },
     {
      "months": 6,
-     "members": 72
+     "members": 77
     },
     {
      "months": 12,
-     "members": 171
+     "members": 177
     }
    ],
    "events": {
@@ -554,16 +552,16 @@
     {
      "tier": "かたつむり組",
      "price": 490,
-     "confirmed_members": 10,
-     "estimated_members": 338.0
+     "confirmed_members": 11,
+     "estimated_members": 355.0
     }
    ],
    "revenue": {
-    "monthly_low": 105395,
-    "monthly_est": 105395,
+    "monthly_low": 110695,
+    "monthly_est": 110695,
     "gift_once": 0
    },
-   "avg_member_chatters": 150.5,
+   "avg_member_chatters": 152.7,
    "partial": true,
    "finalized": false
   }

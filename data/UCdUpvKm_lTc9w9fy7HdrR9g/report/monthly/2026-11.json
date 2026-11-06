@@ -4,23 +4,27 @@
   "from": "2026-11-01",
   "to": "2026-11-06"
  },
- "streams_analyzed": 1,
- "streams_missed": 2,
- "unique_chatters": 53,
- "members_confirmed": 42,
+ "streams_analyzed": 2,
+ "streams_missed": 1,
+ "unique_chatters": 68,
+ "members_confirmed": 50,
  "member_classes": {
-  "unknown": 40,
-  "known": 2
+  "unknown": 47,
+  "known": 3
  },
- "long_term_members": 42,
+ "long_term_members": 49,
  "badges": [
+  {
+   "months": 0,
+   "members": 1
+  },
   {
    "months": 12,
    "members": 3
   },
   {
    "months": 24,
-   "members": 39
+   "members": 46
   }
  ],
  "events": {
@@ -33,16 +37,16 @@
   {
    "tier": "ベビーシッター",
    "price": 490,
-   "confirmed_members": 2,
-   "estimated_members": 42.0
+   "confirmed_members": 3,
+   "estimated_members": 50.0
   }
  ],
  "revenue": {
-  "monthly_low": 13096,
-  "monthly_est": 13096,
+  "monthly_low": 15591,
+  "monthly_est": 15591,
   "gift_once": 0
  },
- "avg_member_chatters": 42,
+ "avg_member_chatters": 43.5,
  "partial": true,
  "finalized": false
 }

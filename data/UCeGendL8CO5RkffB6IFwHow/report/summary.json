@@ -3,16 +3,16 @@
  "channel_id": "UCeGendL8CO5RkffB6IFwHow",
  "handle": "@Seffyna",
  "subscribers": 238000,
- "fetched_at": "2026-11-06 05:27",
- "generated_at": "2026-11-06 05:28",
+ "fetched_at": "2026-11-06 11:26",
+ "generated_at": "2026-11-06 11:26",
  "period": {
-  "from": "2026-10-07 05:27",
-  "to": "2026-11-06 05:27",
+  "from": "2026-10-07 11:26",
+  "to": "2026-11-06 11:26",
   "days": 30
  },
- "streams_analyzed": 18,
- "streams_missed": 2,
- "unique_chatters": 382,
+ "streams_analyzed": 19,
+ "streams_missed": 1,
+ "unique_chatters": 397,
  "members_confirmed": 66,
  "member_classes": {
   "unknown": 55,
@@ -25,14 +25,9 @@
    "members": 2
   },
   {
-   "months": 1,
-   "label": "1ヶ月",
-   "members": 1
-  },
-  {
    "months": 2,
    "label": "2ヶ月",
-   "members": 4
+   "members": 5
   },
   {
    "months": 6,
@@ -276,6 +271,16 @@
    "member_chatters": 24,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "nuSNJuNPiM8",
+   "start": "2026-11-05 20:00",
+   "title": "【#にじイカ祭り2026】🦑けんちゃなーず 練習会🦑【にじさんじ | セフィナ】",
+   "kind": "配信",
+   "chatters": 55,
+   "member_chatters": 21,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -290,18 +295,6 @@
    "members_level": "セフィナイトの温室",
    "like_count": 34,
    "view_count": null
-  },
-  {
-   "video_id": "nuSNJuNPiM8",
-   "start": "2026-11-05 00:00",
-   "title": "【#にじイカ祭り2026】🦑けんちゃなーず 練習会🦑【にじさんじ | セフィナ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 285,
-   "view_count": 8662
   }
  ],
  "members_only_content": [
@@ -460,12 +453,12 @@
     "from": "2026-11-01",
     "to": "2026-11-06"
    },
-   "streams_analyzed": 5,
-   "streams_missed": 1,
-   "unique_chatters": 161,
-   "members_confirmed": 40,
+   "streams_analyzed": 6,
+   "streams_missed": 0,
+   "unique_chatters": 177,
+   "members_confirmed": 41,
    "member_classes": {
-    "unknown": 33,
+    "unknown": 34,
     "known": 7
    },
    "long_term_members": 28,
@@ -475,16 +468,12 @@
      "members": 2
     },
     {
-     "months": 1,
-     "members": 1
-    },
-    {
      "months": 2,
-     "members": 3
+     "members": 4
     },
     {
      "months": 6,
-     "members": 6
+     "members": 7
     },
     {
      "months": 12,
@@ -514,15 +503,15 @@
      "tier": "セフィナイトの温室",
      "price": 490,
      "confirmed_members": 7,
-     "estimated_members": 40.0
+     "estimated_members": 41.0
     }
    ],
    "revenue": {
-    "monthly_low": 12473,
-    "monthly_est": 12473,
+    "monthly_low": 12785,
+    "monthly_est": 12785,
     "gift_once": 0
    },
-   "avg_member_chatters": 20,
+   "avg_member_chatters": 20.2,
    "partial": true,
    "finalized": false
   }

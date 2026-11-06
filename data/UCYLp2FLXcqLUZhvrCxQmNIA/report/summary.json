@@ -3,11 +3,11 @@
  "channel_id": "UCYLp2FLXcqLUZhvrCxQmNIA",
  "handle": "@Ririka_krmzw0707",
  "subscribers": 119000,
- "fetched_at": "2026-11-06 06:35",
- "generated_at": "2026-11-06 06:35",
+ "fetched_at": "2026-11-06 11:38",
+ "generated_at": "2026-11-06 11:39",
  "period": {
-  "from": "2026-10-07 06:35",
-  "to": "2026-11-06 06:35",
+  "from": "2026-10-07 11:38",
+  "to": "2026-11-06 11:38",
   "days": 30
  },
  "streams_analyzed": 31,
@@ -401,18 +401,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "l4IrPuSgBok",
-   "start": "2026-10-07 08:53",
-   "title": "【Steamオータムセール】明日の朝まで！？オータムセールみるぞ！！【胡桃沢りりか】",
-   "kind": "live",
-   "status": "no_chat",
-   "reason": "チャットリプレイなし（アーカイブ編集・チャット無効の可能性）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 594,
-   "view_count": 36289
-  },
-  {
    "video_id": "aEWalkMHOYE",
    "start": "2026-10-31 23:04",
    "title": "【メン限】はっぴーはろうぃん！！めんげんするぞ！！【胡桃沢りりか】",
@@ -423,6 +411,18 @@
    "members_level": "めろんそーだ",
    "like_count": 78,
    "view_count": null
+  },
+  {
+   "video_id": "0Gw4FbMkEUI",
+   "start": "2026-11-05 00:00",
+   "title": "【FINAL FANTASY RESONANCE ファイナルファンタジーレゾナンス】クリア後！強敵倒すぞ！！※ネタバレ注意【胡桃沢りりか】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 765,
+   "view_count": 45984
   }
  ],
  "members_only_content": [
@@ -564,7 +564,7 @@
     "to": "2026-11-06"
    },
    "streams_analyzed": 5,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 940,
    "members_confirmed": 139,
    "member_classes": {
