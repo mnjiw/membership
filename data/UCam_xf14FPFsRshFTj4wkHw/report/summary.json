@@ -3,31 +3,31 @@
  "channel_id": "UCam_xf14FPFsRshFTj4wkHw",
  "handle": "@ShirasaAyane",
  "subscribers": 143000,
- "fetched_at": "2026-11-07 10:59",
- "generated_at": "2026-11-07 10:59",
+ "fetched_at": "2026-11-08 05:37",
+ "generated_at": "2026-11-08 05:38",
  "period": {
-  "from": "2026-10-08 10:59",
-  "to": "2026-11-07 10:59",
+  "from": "2026-10-09 05:37",
+  "to": "2026-11-08 05:37",
   "days": 30
  },
- "streams_analyzed": 19,
+ "streams_analyzed": 20,
  "streams_missed": 1,
- "unique_chatters": 3266,
- "members_confirmed": 308,
+ "unique_chatters": 3288,
+ "members_confirmed": 309,
  "member_classes": {
-  "unknown": 285,
+  "unknown": 286,
   "known": 23
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 29
+   "members": 25
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 14
+   "members": 18
   },
   {
    "months": 2,
@@ -37,7 +37,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 201
+   "members": 202
   }
  ],
  "events": {
@@ -56,19 +56,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 23,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 285.0,
-   "estimated_members": 308.0,
+   "allocated_unknown": 286.0,
+   "estimated_members": 309.0,
    "monthly_net_confirmed": 7172,
-   "monthly_net_estimated": 96040
+   "monthly_net_estimated": 96352
   }
  ],
  "revenue": {
-  "monthly_low": 96040,
-  "monthly_est": 96040,
+  "monthly_low": 96352,
+  "monthly_est": 96352,
   "gift_once": 0,
-  "total_low": 96040,
-  "total_est": 96040,
-  "paying_members": 308,
+  "total_low": 96352,
+  "total_est": 96352,
+  "paying_members": 309,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -266,6 +266,16 @@
    "member_chatters": 103,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "e_mzcK3Gkwo",
+   "start": "2026-11-07 22:00",
+   "title": "【魔法少女ノ魔女裁判】全エンド回収#2 いろいろ聞いてみたい、1話裁判前からです【 白砂あやね / にじさんじ 】",
+   "kind": "配信",
+   "chatters": 277,
+   "member_chatters": 75,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -407,39 +417,40 @@
    },
    "avg_member_chatters": 94.9,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 05:38"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 6,
    "streams_missed": 0,
-   "unique_chatters": 869,
-   "members_confirmed": 158,
+   "unique_chatters": 938,
+   "members_confirmed": 164,
    "member_classes": {
-    "unknown": 147,
+    "unknown": 153,
     "known": 11
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 14
+     "members": 10
     },
     {
      "months": 1,
-     "members": 6
+     "members": 10
     },
     {
      "months": 2,
-     "members": 26
+     "members": 28
     },
     {
      "months": 6,
-     "members": 112
+     "members": 116
     }
    ],
    "events": {
@@ -453,15 +464,15 @@
      "tier": "海月花学院美術部",
      "price": 490,
      "confirmed_members": 11,
-     "estimated_members": 158.0
+     "estimated_members": 164.0
     }
    ],
    "revenue": {
-    "monthly_low": 49267,
-    "monthly_est": 49267,
+    "monthly_low": 51138,
+    "monthly_est": 51138,
     "gift_once": 0
    },
-   "avg_member_chatters": 80.2,
+   "avg_member_chatters": 79.3,
    "partial": true,
    "finalized": false
   }

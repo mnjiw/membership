@@ -2,58 +2,54 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-07"
+  "to": "2026-11-08"
  },
- "streams_analyzed": 3,
+ "streams_analyzed": 5,
  "streams_missed": 0,
- "unique_chatters": 180,
- "members_confirmed": 97,
+ "unique_chatters": 276,
+ "members_confirmed": 121,
  "member_classes": {
-  "unknown": 94,
-  "known": 3
+  "unknown": 116,
+  "known": 5
  },
- "long_term_members": 87,
+ "long_term_members": 110,
  "badges": [
   {
    "months": 0,
    "members": 1
   },
   {
-   "months": 1,
-   "members": 2
-  },
-  {
    "months": 2,
-   "members": 4
+   "members": 6
   },
   {
    "months": 6,
-   "members": 3
+   "members": 4
   },
   {
    "months": 12,
-   "members": 6
+   "members": 9
   },
   {
    "months": 24,
-   "members": 7
+   "members": 9
   },
   {
    "months": 36,
-   "members": 6
+   "members": 7
   },
   {
    "months": 48,
-   "members": 10
+   "members": 12
   },
   {
    "months": 60,
-   "members": 58
+   "members": 73
   }
  ],
  "events": {
   "new_members": 0,
-  "rejoins": 0,
+  "rejoins": 2,
   "milestones": 0,
   "gifted_total": 0
  },
@@ -62,27 +58,27 @@
    "tier": "どらとも🔥弱火",
    "price": 290,
    "confirmed_members": 3,
-   "estimated_members": 97.0
+   "estimated_members": 72.6
   },
   {
    "tier": "どらとも🔥中火",
    "price": 490,
-   "confirmed_members": 0,
-   "estimated_members": 0.0
+   "confirmed_members": 1,
+   "estimated_members": 24.2
   },
   {
    "tier": "どらとも🔥強火",
    "price": 990,
-   "confirmed_members": 0,
-   "estimated_members": 0.0
+   "confirmed_members": 1,
+   "estimated_members": 24.2
   }
  ],
  "revenue": {
-  "monthly_low": 17901,
-  "monthly_est": 17901,
+  "monthly_low": 22903,
+  "monthly_est": 36190,
   "gift_once": 0
  },
- "avg_member_chatters": 51.7,
+ "avg_member_chatters": 55.6,
  "partial": true,
  "finalized": false
 }

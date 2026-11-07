@@ -45,8 +45,8 @@
    "checked_at": "2026-10-07 12:58",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1793997490.2752786,
-   "likes_checked_at": "2026-11-07 05:38"
+   "likes_checked_ts": 1794083941.3771737,
+   "likes_checked_at": "2026-11-08 05:39"
   },
   "r8p7ygFxjwc": {
    "id": "r8p7ygFxjwc",
@@ -806,8 +806,8 @@
    "was_public_when_live": false,
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1793997490.2752786,
-   "likes_checked_at": "2026-11-07 05:38"
+   "likes_checked_ts": 1794083941.3771737,
+   "likes_checked_at": "2026-11-08 05:39"
   },
   "r8udUpA8t_w": {
    "id": "r8udUpA8t_w",
@@ -883,8 +883,8 @@
    "was_public_when_live": false,
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1793997490.2752786,
-   "likes_checked_at": "2026-11-07 05:38"
+   "likes_checked_ts": 1794083941.3771737,
+   "likes_checked_at": "2026-11-08 05:39"
   },
   "u-x85_doRCE": {
    "id": "u-x85_doRCE",
@@ -1034,8 +1034,8 @@
    "was_public_when_live": false,
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1793997490.2752786,
-   "likes_checked_at": "2026-11-07 05:38"
+   "likes_checked_ts": 1794083941.3771737,
+   "likes_checked_at": "2026-11-08 05:39"
   },
   "zpqd5uAxyLQ": {
    "id": "zpqd5uAxyLQ",
@@ -1168,8 +1168,8 @@
    "was_public_when_live": false,
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1793997490.2752786,
-   "likes_checked_at": "2026-11-07 05:38"
+   "likes_checked_ts": 1794083941.3771737,
+   "likes_checked_at": "2026-11-08 05:39"
   },
   "a9qh3fOD45I": {
    "id": "a9qh3fOD45I",
@@ -1191,12 +1191,12 @@
   "wFRevgawloE": {
    "id": "wFRevgawloE",
    "title": "【#DistrictV2 GTA V RP】Cadet Clover Field, Reporting for Duty. 🚓",
-   "status": "error",
+   "status": "skip_not_stream",
    "seen_live_at": "2026-11-04 11:22",
    "was_public_when_live": true,
-   "error": "ERROR: [youtube] Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://githu",
    "unavailable": true,
-   "failed_since_ts": 1793824365.7817833
+   "note": "非公開・削除 (2026-11-08 に確認)",
+   "checked_at": "2026-11-08 05:39"
   },
   "mvJGmSNvoxo": {
    "id": "mvJGmSNvoxo",
@@ -1205,17 +1205,15 @@
    "start_ts": 1793718000.0,
    "start_jst": "2026-11-04 00:00",
    "duration_sec": null,
-   "view_count": 4335,
+   "view_count": 4454,
    "like_count": 159,
    "live_status": null,
    "members_only": false,
    "has_chat": false,
-   "checked_at": "2026-11-07 11:00",
+   "checked_at": "2026-11-08 05:39",
    "info_limited": true,
-   "error": "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)",
-   "tab": "video",
-   "status": "error",
-   "failed_since_ts": 1793824365.7817833
+   "settled_while_limited": true,
+   "status": "skip_not_stream"
   },
   "LOrpRJOlMTA": {
    "id": "LOrpRJOlMTA",
@@ -1243,12 +1241,12 @@
    "start_ts": 1793804400.0,
    "start_jst": "2026-11-05 00:00",
    "duration_sec": null,
-   "view_count": 16923,
-   "like_count": 589,
+   "view_count": 17603,
+   "like_count": 595,
    "live_status": null,
    "members_only": false,
    "has_chat": false,
-   "checked_at": "2026-11-07 10:59",
+   "checked_at": "2026-11-08 05:39",
    "info_limited": true,
    "seen_live_at": "2026-11-06 11:28",
    "was_public_when_live": true,
@@ -1260,17 +1258,29 @@
   "o8xE_7emYB4": {
    "id": "o8xE_7emYB4",
    "title": "【#DistrictV2 GTA V RP】 Time to take the yellow highlighter vest off today ! 🚓✨",
-   "status": "live_now",
+   "kind": "live",
+   "start_ts": 1794006057.825726,
+   "start_jst": "2026-11-07 08:00",
+   "duration_sec": 29733,
+   "view_count": 12975,
+   "like_count": 512,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-08 05:39",
+   "info_limited": true,
    "seen_live_at": "2026-11-07 10:59",
-   "was_public_when_live": true
+   "was_public_when_live": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "Finana Ryugu 【NIJISANJI EN】",
  "channel_id": "UCu-J8uIXuLZh16gG-cT1naw",
  "handle": "@FinanaRyugu",
  "subscribers": 474000,
- "fetched_at": "2026-11-07 10:59",
- "fetched_at_ts": 1794016794.469094,
- "checked_from": "2026-10-31 10:59",
+ "fetched_at": "2026-11-08 05:39",
+ "fetched_at_ts": 1794083941.3771737,
+ "checked_from": "2026-11-01 05:39",
  "initial_fetch_done": true
 }

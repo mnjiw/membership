@@ -3,61 +3,61 @@
  "channel_id": "UC6wvdADTJ88OfIbJYIpAaDA",
  "handle": "@FuwaMinato",
  "subscribers": 1210000,
- "fetched_at": "2026-11-07 10:55",
- "generated_at": "2026-11-07 10:58",
+ "fetched_at": "2026-11-08 05:25",
+ "generated_at": "2026-11-08 05:28",
  "period": {
-  "from": "2026-10-08 10:55",
-  "to": "2026-11-07 10:55",
+  "from": "2026-10-09 05:25",
+  "to": "2026-11-08 05:25",
   "days": 30
  },
  "streams_analyzed": 17,
  "streams_missed": 0,
- "unique_chatters": 6719,
- "members_confirmed": 2890,
+ "unique_chatters": 6912,
+ "members_confirmed": 2935,
  "member_classes": {
-  "unknown": 2822,
-  "known": 68
+  "unknown": 2865,
+  "known": 70
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 52
+   "members": 50
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 42
+   "members": 44
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 245
+   "members": 239
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 258
+   "members": 261
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 536
+   "members": 548
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 872
+   "members": 892
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 885
+   "members": 901
   }
  ],
  "events": {
   "new_members": 30,
-  "rejoins": 24,
+  "rejoins": 27,
   "milestones": 0,
   "gift_purchases": 0,
   "gifted_total": 0,
@@ -69,21 +69,21 @@
    "tier": "不破狂",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 68,
+   "confirmed_members": 70,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2822.0,
-   "estimated_members": 2890.0,
-   "monthly_net_confirmed": 21204,
-   "monthly_net_estimated": 901155
+   "allocated_unknown": 2865.0,
+   "estimated_members": 2935.0,
+   "monthly_net_confirmed": 21827,
+   "monthly_net_estimated": 915186
   }
  ],
  "revenue": {
-  "monthly_low": 901155,
-  "monthly_est": 901155,
+  "monthly_low": 915186,
+  "monthly_est": 915186,
   "gift_once": 0,
-  "total_low": 901155,
-  "total_est": 901155,
-  "paying_members": 2890,
+  "total_low": 915186,
+  "total_est": 915186,
+  "paying_members": 2935,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -92,16 +92,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "o6PpPJRCfAw",
-   "start": "2026-10-08 20:05",
-   "title": "【タンポポは耐える】不破湊は耐える【不破湊/にじさんじ】",
-   "kind": "配信",
-   "chatters": 1191,
-   "member_chatters": 833,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "7yvCSwcd2Ec",
    "start": "2026-10-10 00:00",
@@ -261,6 +251,16 @@
    "member_chatters": 1019,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "5b75bHd32SE",
+   "start": "2026-11-07 12:59",
+   "title": "【#にじイカ祭り2026 / スプラトゥーン3】ソナー上等レチゴ【不破湊/にじさんじ】",
+   "kind": "配信",
+   "chatters": 2002,
+   "member_chatters": 1198,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -401,56 +401,57 @@
    },
    "avg_member_chatters": 901.5,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 05:28"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 7,
+   "streams_analyzed": 8,
    "streams_missed": 0,
-   "unique_chatters": 3862,
-   "members_confirmed": 1995,
+   "unique_chatters": 4366,
+   "members_confirmed": 2170,
    "member_classes": {
-    "unknown": 1962,
-    "known": 33
+    "unknown": 2132,
+    "known": 38
    },
-   "long_term_members": 1642,
+   "long_term_members": 1783,
    "badges": [
     {
      "months": 0,
-     "members": 26
+     "members": 27
     },
     {
      "months": 1,
-     "members": 22
+     "members": 27
     },
     {
      "months": 2,
-     "members": 144
+     "members": 154
     },
     {
      "months": 6,
-     "members": 161
+     "members": 179
     },
     {
      "months": 12,
-     "members": 353
+     "members": 394
     },
     {
      "months": 24,
-     "members": 621
+     "members": 676
     },
     {
      "months": 48,
-     "members": 668
+     "members": 713
     }
    ],
    "events": {
-    "new_members": 10,
-    "rejoins": 14,
+    "new_members": 11,
+    "rejoins": 17,
     "milestones": 0,
     "gifted_total": 0
    },
@@ -458,16 +459,16 @@
     {
      "tier": "不破狂",
      "price": 490,
-     "confirmed_members": 33,
-     "estimated_members": 1995.0
+     "confirmed_members": 38,
+     "estimated_members": 2170.0
     }
    ],
    "revenue": {
-    "monthly_low": 622077,
-    "monthly_est": 622077,
+    "monthly_low": 676645,
+    "monthly_est": 676645,
     "gift_once": 0
    },
-   "avg_member_chatters": 1014.9,
+   "avg_member_chatters": 1037.8,
    "partial": true,
    "finalized": false
   }

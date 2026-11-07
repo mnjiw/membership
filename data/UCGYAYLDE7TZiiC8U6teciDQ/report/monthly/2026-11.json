@@ -2,41 +2,45 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-07"
+  "to": "2026-11-08"
  },
- "streams_analyzed": 2,
+ "streams_analyzed": 3,
  "streams_missed": 0,
- "unique_chatters": 192,
- "members_confirmed": 126,
+ "unique_chatters": 261,
+ "members_confirmed": 163,
  "member_classes": {
-  "unknown": 118,
-  "known": 8
+  "unknown": 153,
+  "known": 10
  },
- "long_term_members": 109,
+ "long_term_members": 136,
  "badges": [
   {
    "months": 0,
-   "members": 3
+   "members": 5
+  },
+  {
+   "months": 1,
+   "members": 1
   },
   {
    "months": 2,
-   "members": 6
+   "members": 8
   },
   {
    "months": 6,
-   "members": 8
+   "members": 13
   },
   {
    "months": 12,
-   "members": 8
+   "members": 14
   },
   {
    "months": 24,
-   "members": 101
+   "members": 122
   }
  ],
  "events": {
-  "new_members": 3,
+  "new_members": 5,
   "rejoins": 4,
   "milestones": 0,
   "gifted_total": 0
@@ -45,16 +49,16 @@
   {
    "tier": "葉加瀬のラボメン",
    "price": 490,
-   "confirmed_members": 8,
-   "estimated_members": 126.0
+   "confirmed_members": 10,
+   "estimated_members": 163.0
   }
  ],
  "revenue": {
-  "monthly_low": 39289,
-  "monthly_est": 39289,
+  "monthly_low": 50826,
+  "monthly_est": 50826,
   "gift_once": 0
  },
- "avg_member_chatters": 88,
+ "avg_member_chatters": 96.7,
  "partial": true,
  "finalized": false
 }

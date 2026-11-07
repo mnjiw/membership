@@ -3,27 +3,27 @@
  "channel_id": "UCrRdBPzK4sj-MMvYOhHRvHg",
  "handle": "@TogawaNonoha",
  "subscribers": 118000,
- "fetched_at": "2026-11-07 10:59",
- "generated_at": "2026-11-07 10:59",
+ "fetched_at": "2026-11-08 05:36",
+ "generated_at": "2026-11-08 05:37",
  "period": {
-  "from": "2026-10-08 10:59",
-  "to": "2026-11-07 10:59",
+  "from": "2026-10-09 05:36",
+  "to": "2026-11-08 05:36",
   "days": 30
  },
  "streams_analyzed": 15,
  "streams_missed": 2,
- "unique_chatters": 1869,
- "members_confirmed": 273,
+ "unique_chatters": 1854,
+ "members_confirmed": 280,
  "member_classes": {
-  "unknown": 252,
-  "known": 16,
+  "unknown": 258,
+  "known": 17,
   "gift": 5
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 27
+   "members": 29
   },
   {
    "months": 1,
@@ -33,17 +33,17 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 50
+   "members": 51
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 70
+   "members": 71
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 112
+   "members": 115
   }
  ],
  "events": {
@@ -60,21 +60,21 @@
    "tier": "隠れ家",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 16,
+   "confirmed_members": 17,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 252.0,
-   "estimated_members": 268.0,
-   "monthly_net_confirmed": 4989,
-   "monthly_net_estimated": 83567
+   "allocated_unknown": 258.0,
+   "estimated_members": 275.0,
+   "monthly_net_confirmed": 5301,
+   "monthly_net_estimated": 85750
   }
  ],
  "revenue": {
-  "monthly_low": 83567,
-  "monthly_est": 83567,
+  "monthly_low": 85750,
+  "monthly_est": 85750,
   "gift_once": 1559,
-  "total_low": 85126,
-  "total_est": 85126,
-  "paying_members": 268,
+  "total_low": 87309,
+  "total_est": 87309,
+  "paying_members": 275,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "a0KG1WYycrk",
-   "start": "2026-10-08 21:00",
-   "title": "〖 デス桃太郎 〗デス十河、出動〖 にじさんじ / 十河ののは 〗",
-   "kind": "配信",
-   "chatters": 227,
-   "member_chatters": 100,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "WAQyFBTmZGo",
    "start": "2026-10-11 16:30",
@@ -230,6 +220,16 @@
    "kind": "配信",
    "chatters": 196,
    "member_chatters": 100,
+   "new_members": 1,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "M28s_f4VsB8",
+   "start": "2026-11-07 22:00",
+   "title": "オフラインミニライブのお土産話とお土産写真を持って帰ってきたよっ〖 にじさんじ / 十河ののは 〗",
+   "kind": "配信",
+   "chatters": 205,
+   "member_chatters": 114,
    "new_members": 1,
    "gifted_total": 0
   }
@@ -404,47 +404,48 @@
    },
    "avg_member_chatters": 95.6,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 05:37"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 2,
+   "streams_analyzed": 3,
    "streams_missed": 0,
-   "unique_chatters": 312,
-   "members_confirmed": 119,
+   "unique_chatters": 401,
+   "members_confirmed": 151,
    "member_classes": {
-    "unknown": 116,
-    "known": 3
+    "unknown": 147,
+    "known": 4
    },
-   "long_term_members": 63,
+   "long_term_members": 78,
    "badges": [
     {
      "months": 0,
-     "members": 3
+     "members": 6
     },
     {
      "months": 1,
-     "members": 2
+     "members": 3
     },
     {
      "months": 2,
-     "members": 18
+     "members": 26
     },
     {
      "months": 6,
-     "members": 33
+     "members": 38
     },
     {
      "months": 12,
-     "members": 63
+     "members": 78
     }
    ],
    "events": {
-    "new_members": 1,
+    "new_members": 2,
     "rejoins": 0,
     "milestones": 0,
     "gifted_total": 0
@@ -453,16 +454,16 @@
     {
      "tier": "隠れ家",
      "price": 490,
-     "confirmed_members": 3,
-     "estimated_members": 119.0
+     "confirmed_members": 4,
+     "estimated_members": 151.0
     }
    ],
    "revenue": {
-    "monthly_low": 37106,
-    "monthly_est": 37106,
+    "monthly_low": 47085,
+    "monthly_est": 47085,
     "gift_once": 0
    },
-   "avg_member_chatters": 83,
+   "avg_member_chatters": 93.3,
    "partial": true,
    "finalized": false
   }

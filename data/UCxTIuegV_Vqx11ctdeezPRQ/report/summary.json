@@ -2,37 +2,37 @@
  "channel": "神永タイガ / Kaminaga Taiga【にじさんじ】",
  "channel_id": "UCxTIuegV_Vqx11ctdeezPRQ",
  "handle": "@KaminagaTaiga",
- "subscribers": 205000,
- "fetched_at": "2026-11-07 11:00",
- "generated_at": "2026-11-07 11:00",
+ "subscribers": 206000,
+ "fetched_at": "2026-11-08 05:42",
+ "generated_at": "2026-11-08 05:44",
  "period": {
-  "from": "2026-10-08 11:00",
-  "to": "2026-11-07 11:00",
+  "from": "2026-10-09 05:42",
+  "to": "2026-11-08 05:42",
   "days": 30
  },
- "streams_analyzed": 29,
+ "streams_analyzed": 30,
  "streams_missed": 1,
- "unique_chatters": 7364,
- "members_confirmed": 1965,
+ "unique_chatters": 7673,
+ "members_confirmed": 2007,
  "member_classes": {
-  "known": 1678,
-  "unknown": 241,
-  "gift": 46
+  "known": 1689,
+  "unknown": 267,
+  "gift": 51
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 1965
+   "members": 2007
   }
  ],
  "events": {
-  "new_members": 1681,
+  "new_members": 1692,
   "rejoins": 0,
   "milestones": 0,
-  "gift_purchases": 7,
-  "gifted_total": 46,
-  "gift_redemptions": 46
+  "gift_purchases": 8,
+  "gifted_total": 51,
+  "gift_redemptions": 51
  },
  "tiers_configured": true,
  "tiers": [
@@ -40,21 +40,21 @@
    "tier": "虎っ子部",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 1678,
+   "confirmed_members": 1689,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 241.0,
-   "estimated_members": 1919.0,
-   "monthly_net_confirmed": 523231,
-   "monthly_net_estimated": 598379
+   "allocated_unknown": 267.0,
+   "estimated_members": 1956.0,
+   "monthly_net_confirmed": 526661,
+   "monthly_net_estimated": 609916
   }
  ],
  "revenue": {
-  "monthly_low": 598379,
-  "monthly_est": 598379,
-  "gift_once": 14344,
-  "total_low": 612723,
-  "total_est": 612723,
-  "paying_members": 1919,
+  "monthly_low": 609916,
+  "monthly_est": 609916,
+  "gift_once": 15903,
+  "total_low": 625819,
+  "total_est": 625819,
+  "paying_members": 1956,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -352,6 +352,16 @@
    "member_chatters": 279,
    "new_members": 3,
    "gifted_total": 0
+  },
+  {
+   "video_id": "RvZu4n9CML0",
+   "start": "2026-11-07 15:03",
+   "title": "【#にじイカ祭り2026】本番。Day１！！！ #神の御籠 #かみかごWIN【神永タイガ  / にじさんじ】",
+   "kind": "配信",
+   "chatters": 1346,
+   "member_chatters": 636,
+   "new_members": 11,
+   "gifted_total": 5
   }
  ],
  "missed_streams": [
@@ -364,7 +374,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "虎っ子部",
-   "like_count": 692,
+   "like_count": 695,
    "view_count": null
   }
  ],
@@ -376,7 +386,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "虎っ子部",
-   "like_count": 692,
+   "like_count": 695,
    "view_count": null
   }
  ],
@@ -450,50 +460,51 @@
    },
    "avg_member_chatters": 50.4,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 05:44"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 7,
+   "streams_analyzed": 8,
    "streams_missed": 0,
-   "unique_chatters": 3283,
-   "members_confirmed": 1207,
+   "unique_chatters": 3752,
+   "members_confirmed": 1305,
    "member_classes": {
-    "known": 956,
-    "unknown": 241,
-    "gift": 10
+    "known": 1023,
+    "unknown": 267,
+    "gift": 15
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 1207
+     "members": 1305
     }
    ],
    "events": {
-    "new_members": 156,
+    "new_members": 167,
     "rejoins": 0,
     "milestones": 0,
-    "gifted_total": 10
+    "gifted_total": 15
    },
    "tiers": [
     {
      "tier": "虎っ子部",
      "price": 490,
-     "confirmed_members": 956,
-     "estimated_members": 1197.0
+     "confirmed_members": 1023,
+     "estimated_members": 1290.0
     }
    ],
    "revenue": {
-    "monthly_low": 373246,
-    "monthly_est": 373246,
-    "gift_once": 3118
+    "monthly_low": 402245,
+    "monthly_est": 402245,
+    "gift_once": 4677
    },
-   "avg_member_chatters": 447.1,
+   "avg_member_chatters": 470.8,
    "partial": true,
    "finalized": false
   }

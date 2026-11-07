@@ -3,19 +3,19 @@
  "channel_id": "UCqjTqdVlvIipZXIKeCkHKUA",
  "handle": "@OliverEvans",
  "subscribers": 358000,
- "fetched_at": "2026-11-07 10:56",
- "generated_at": "2026-11-07 10:56",
+ "fetched_at": "2026-11-08 05:28",
+ "generated_at": "2026-11-08 05:28",
  "period": {
-  "from": "2026-10-08 10:56",
-  "to": "2026-11-07 10:56",
+  "from": "2026-10-09 05:28",
+  "to": "2026-11-08 05:28",
   "days": 30
  },
- "streams_analyzed": 16,
+ "streams_analyzed": 17,
  "streams_missed": 1,
- "unique_chatters": 1623,
- "members_confirmed": 422,
+ "unique_chatters": 1658,
+ "members_confirmed": 433,
  "member_classes": {
-  "unknown": 395,
+  "unknown": 406,
   "known": 22,
   "gift": 5
  },
@@ -43,12 +43,12 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 50
+   "members": 53
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 320
+   "members": 328
   }
  ],
  "events": {
@@ -67,10 +67,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 11,
    "share_of_confirmed_pct": 50.0,
-   "allocated_unknown": 197.5,
-   "estimated_members": 208.5,
+   "allocated_unknown": 203.0,
+   "estimated_members": 214.0,
    "monthly_net_confirmed": 3430,
-   "monthly_net_estimated": 65014
+   "monthly_net_estimated": 66729
   },
   {
    "tier": "ゼミアルバム",
@@ -78,19 +78,19 @@
    "net_per_member": 757.3,
    "confirmed_members": 11,
    "share_of_confirmed_pct": 50.0,
-   "allocated_unknown": 197.5,
-   "estimated_members": 208.5,
+   "allocated_unknown": 203.0,
+   "estimated_members": 214.0,
    "monthly_net_confirmed": 8330,
-   "monthly_net_estimated": 157891
+   "monthly_net_estimated": 162056
   }
  ],
  "revenue": {
-  "monthly_low": 134928,
-  "monthly_est": 222905,
+  "monthly_low": 138358,
+  "monthly_est": 228785,
   "gift_once": 1559,
-  "total_low": 136487,
-  "total_est": 224465,
-  "paying_members": 417,
+  "total_low": 139917,
+  "total_est": 230345,
+  "paying_members": 428,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -256,6 +256,16 @@
    "kind": "配信",
    "chatters": 133,
    "member_chatters": 105,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "6qhaKb91cqE",
+   "start": "2026-11-07 16:02",
+   "title": "【#にじイカ祭り2026 】Day1優勝候補（笑）出動【 オリバー・エバンス/にじさんじ】",
+   "kind": "配信",
+   "chatters": 223,
+   "member_chatters": 163,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -427,23 +437,24 @@
    },
    "avg_member_chatters": 141.4,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 05:28"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 4,
+   "streams_analyzed": 5,
    "streams_missed": 0,
-   "unique_chatters": 506,
-   "members_confirmed": 247,
+   "unique_chatters": 568,
+   "members_confirmed": 278,
    "member_classes": {
-    "unknown": 235,
-    "known": 12
+    "unknown": 264,
+    "known": 14
    },
-   "long_term_members": 224,
+   "long_term_members": 253,
    "badges": [
     {
      "months": 1,
@@ -451,19 +462,19 @@
     },
     {
      "months": 2,
-     "members": 5
+     "members": 6
     },
     {
      "months": 6,
-     "members": 17
+     "members": 18
     },
     {
      "months": 12,
-     "members": 28
+     "members": 34
     },
     {
      "months": 24,
-     "members": 196
+     "members": 219
     }
    ],
    "events": {
@@ -476,22 +487,22 @@
     {
      "tier": "ゼミ打ち上げ",
      "price": 490,
-     "confirmed_members": 4,
-     "estimated_members": 82.3
+     "confirmed_members": 6,
+     "estimated_members": 119.1
     },
     {
      "tier": "ゼミアルバム",
      "price": 1190,
      "confirmed_members": 8,
-     "estimated_members": 164.7
+     "estimated_members": 158.9
     }
    ],
    "revenue": {
-    "monthly_low": 80583,
-    "monthly_est": 150371,
+    "monthly_low": 90249,
+    "monthly_est": 157449,
     "gift_once": 0
    },
-   "avg_member_chatters": 133.2,
+   "avg_member_chatters": 139.2,
    "partial": true,
    "finalized": false
   }

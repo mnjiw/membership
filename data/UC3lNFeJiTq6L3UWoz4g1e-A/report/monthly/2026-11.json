@@ -2,71 +2,72 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-07"
+  "to": "2026-11-08"
  },
- "streams_analyzed": 2,
+ "streams_analyzed": 3,
  "streams_missed": 0,
- "unique_chatters": 1265,
- "members_confirmed": 427,
+ "unique_chatters": 1810,
+ "members_confirmed": 695,
  "member_classes": {
-  "unknown": 371,
-  "known": 56
+  "unknown": 465,
+  "known": 124,
+  "gift": 106
  },
- "long_term_members": 370,
+ "long_term_members": 512,
  "badges": [
   {
    "months": 0,
-   "members": 7
+   "members": 112
   },
   {
    "months": 1,
-   "members": 2
+   "members": 4
   },
   {
    "months": 2,
-   "members": 21
-  },
-  {
-   "months": 6,
    "members": 27
   },
   {
+   "months": 6,
+   "members": 40
+  },
+  {
    "months": 12,
-   "members": 65
+   "members": 85
   },
   {
    "months": 24,
-   "members": 60
+   "members": 77
   },
   {
    "months": 36,
-   "members": 64
+   "members": 91
   },
   {
    "months": 48,
-   "members": 181
+   "members": 259
   }
  ],
  "events": {
-  "new_members": 4,
-  "rejoins": 1,
-  "milestones": 3,
-  "gifted_total": 0
+  "new_members": 8,
+  "rejoins": 2,
+  "milestones": 81,
+  "gifted_total": 106
  },
  "tiers": [
   {
    "tier": "卯月コウのメンバーシップ",
    "price": 490,
-   "confirmed_members": 56,
-   "estimated_members": 427.0
+   "confirmed_members": 124,
+   "estimated_members": 589.0
   }
  ],
  "revenue": {
-  "monthly_low": 133146,
-  "monthly_est": 133146,
-  "gift_once": 0
+  "monthly_low": 183661,
+  "monthly_est": 183661,
+  "gift_once": 33053
  },
- "avg_member_chatters": 265.5,
+ "avg_member_chatters": 339.3,
  "partial": true,
  "finalized": false
 }

@@ -2,17 +2,17 @@
  "channel": "ジユ / Jiyu 【にじさんじ】 ",
  "channel_id": "UCnzZmBOSrQf2wDBbnsDajVw",
  "handle": "@OhJiyu",
- "subscribers": 60900,
- "fetched_at": "2026-11-07 10:58",
- "generated_at": "2026-11-07 10:58",
+ "subscribers": 61000,
+ "fetched_at": "2026-11-08 05:30",
+ "generated_at": "2026-11-08 05:30",
  "period": {
-  "from": "2026-10-08 10:58",
-  "to": "2026-11-07 10:58",
+  "from": "2026-10-09 05:30",
+  "to": "2026-11-08 05:30",
   "days": 30
  },
- "streams_analyzed": 17,
+ "streams_analyzed": 18,
  "streams_missed": 1,
- "unique_chatters": 165,
+ "unique_chatters": 175,
  "members_confirmed": 107,
  "member_classes": {
   "known": 9,
@@ -257,6 +257,16 @@
    "member_chatters": 14,
    "new_members": 0,
    "gifted_total": 5
+  },
+  {
+   "video_id": "2X-AxdP1Sas",
+   "start": "2026-11-07 15:17",
+   "title": "【 #にじイカ祭り2026 】#ユルほわWIN 本番行くぞー！！！【にじさんじ／ジユ】",
+   "kind": "配信",
+   "chatters": 24,
+   "member_chatters": 6,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -411,24 +421,25 @@
    },
    "avg_member_chatters": 10.7,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 05:30"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 4,
    "streams_missed": 0,
-   "unique_chatters": 49,
-   "members_confirmed": 33,
+   "unique_chatters": 61,
+   "members_confirmed": 34,
    "member_classes": {
-    "unknown": 15,
+    "unknown": 16,
     "known": 3,
     "gift": 15
    },
-   "long_term_members": 9,
+   "long_term_members": 10,
    "badges": [
     {
      "months": 0,
@@ -448,7 +459,7 @@
     },
     {
      "months": 24,
-     "members": 6
+     "members": 7
     }
    ],
    "events": {
@@ -462,15 +473,15 @@
      "tier": "방안의 아기새냥이/部屋の中の子猫鳥",
      "price": 490,
      "confirmed_members": 3,
-     "estimated_members": 18.0
+     "estimated_members": 19.0
     }
    ],
    "revenue": {
-    "monthly_low": 5613,
-    "monthly_est": 5613,
+    "monthly_low": 5925,
+    "monthly_est": 5925,
     "gift_once": 4677
    },
-   "avg_member_chatters": 16,
+   "avg_member_chatters": 13.5,
    "partial": true,
    "finalized": false
   }

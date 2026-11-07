@@ -3,27 +3,27 @@
  "channel_id": "UCXU7YYxy_iQd3ulXyO-zC2w",
  "handle": "@FushimiGaku",
  "subscribers": 368000,
- "fetched_at": "2026-11-07 10:54",
- "generated_at": "2026-11-07 10:54",
+ "fetched_at": "2026-11-08 05:19",
+ "generated_at": "2026-11-08 05:19",
  "period": {
-  "from": "2026-10-08 10:54",
-  "to": "2026-11-07 10:54",
+  "from": "2026-10-09 05:19",
+  "to": "2026-11-08 05:19",
   "days": 30
  },
- "streams_analyzed": 12,
+ "streams_analyzed": 13,
  "streams_missed": 0,
- "unique_chatters": 1767,
- "members_confirmed": 984,
+ "unique_chatters": 1800,
+ "members_confirmed": 1042,
  "member_classes": {
-  "unknown": 955,
-  "known": 28,
-  "gift": 1
+  "unknown": 960,
+  "known": 31,
+  "gift": 51
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 20
+   "members": 72
   },
   {
    "months": 1,
@@ -33,26 +33,26 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 47
+   "members": 50
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 68
+   "members": 69
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 834
+   "members": 836
   }
  ],
  "events": {
-  "new_members": 4,
-  "rejoins": 11,
+  "new_members": 6,
+  "rejoins": 12,
   "milestones": 0,
-  "gift_purchases": 1,
-  "gifted_total": 1,
-  "gift_redemptions": 1
+  "gift_purchases": 2,
+  "gifted_total": 51,
+  "gift_redemptions": 51
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,32 +60,32 @@
    "tier": "食卓",
    "price": 140,
    "net_per_member": 89.1,
-   "confirmed_members": 11,
-   "share_of_confirmed_pct": 39.3,
-   "allocated_unknown": 375.2,
-   "estimated_members": 386.2,
-   "monthly_net_confirmed": 980,
-   "monthly_net_estimated": 34405
+   "confirmed_members": 13,
+   "share_of_confirmed_pct": 41.9,
+   "allocated_unknown": 402.6,
+   "estimated_members": 415.6,
+   "monthly_net_confirmed": 1158,
+   "monthly_net_estimated": 37024
   },
   {
    "tier": "食卓！",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 17,
-   "share_of_confirmed_pct": 60.7,
-   "allocated_unknown": 579.8,
-   "estimated_members": 596.8,
-   "monthly_net_confirmed": 5301,
-   "monthly_net_estimated": 186100
+   "confirmed_members": 18,
+   "share_of_confirmed_pct": 58.1,
+   "allocated_unknown": 557.4,
+   "estimated_members": 575.4,
+   "monthly_net_confirmed": 5613,
+   "monthly_net_estimated": 179426
   }
  ],
  "revenue": {
-  "monthly_low": 91363,
-  "monthly_est": 220505,
-  "gift_once": 89,
-  "total_low": 91452,
-  "total_est": 220594,
-  "paying_members": 983,
+  "monthly_low": 92298,
+  "monthly_est": 216451,
+  "gift_once": 4544,
+  "total_low": 96842,
+  "total_est": 220994,
+  "paying_members": 991,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -213,6 +213,16 @@
    "member_chatters": 345,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "gOGHK1eYLjg",
+   "start": "2026-11-07 22:01",
+   "title": "【龍が如く 極】100億と10年前の失踪。いつのまにか渦の中心へ…#3【にじさんじ / 伏見ガク / ネタバレ注意】",
+   "kind": "配信",
+   "chatters": 398,
+   "member_chatters": 353,
+   "new_members": 2,
+   "gifted_total": 50
   }
  ],
  "missed_streams": [],
@@ -224,7 +234,7 @@
    "kind": "video",
    "status": "members_only_video",
    "members_level": "食卓！",
-   "like_count": 442,
+   "like_count": 445,
    "view_count": null
   }
  ],
@@ -362,71 +372,73 @@
    },
    "avg_member_chatters": 490.5,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 05:19"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 2,
+   "streams_analyzed": 3,
    "streams_missed": 0,
-   "unique_chatters": 691,
-   "members_confirmed": 509,
+   "unique_chatters": 756,
+   "members_confirmed": 587,
    "member_classes": {
-    "unknown": 500,
-    "known": 9
+    "unknown": 525,
+    "known": 12,
+    "gift": 50
    },
-   "long_term_members": 437,
+   "long_term_members": 456,
    "badges": [
     {
      "months": 0,
-     "members": 7
+     "members": 59
     },
     {
      "months": 1,
-     "members": 8
+     "members": 9
     },
     {
      "months": 2,
-     "members": 25
+     "members": 28
     },
     {
      "months": 6,
-     "members": 32
+     "members": 35
     },
     {
      "months": 12,
-     "members": 437
+     "members": 456
     }
    ],
    "events": {
-    "new_members": 0,
-    "rejoins": 1,
+    "new_members": 2,
+    "rejoins": 2,
     "milestones": 0,
-    "gifted_total": 0
+    "gifted_total": 50
    },
    "tiers": [
     {
      "tier": "食卓",
      "price": 140,
-     "confirmed_members": 1,
-     "estimated_members": 56.6
+     "confirmed_members": 3,
+     "estimated_members": 134.2
     },
     {
      "tier": "食卓！",
      "price": 490,
-     "confirmed_members": 8,
-     "estimated_members": 452.4
+     "confirmed_members": 9,
+     "estimated_members": 402.8
     }
    ],
    "revenue": {
-    "monthly_low": 47129,
-    "monthly_est": 146119,
-    "gift_once": 0
+    "monthly_low": 49846,
+    "monthly_est": 137545,
+    "gift_once": 4455
    },
-   "avg_member_chatters": 387,
+   "avg_member_chatters": 375.7,
    "partial": true,
    "finalized": false
   }

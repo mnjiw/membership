@@ -3,16 +3,16 @@
  "channel_id": "UC8Snw5i4eOJXEQqURAK17hQ",
  "handle": "@RaiGalilei",
  "subscribers": 57900,
- "fetched_at": "2026-11-07 10:58",
- "generated_at": "2026-11-07 10:58",
+ "fetched_at": "2026-11-08 05:29",
+ "generated_at": "2026-11-08 05:29",
  "period": {
-  "from": "2026-10-08 10:58",
-  "to": "2026-11-07 10:58",
+  "from": "2026-10-09 05:29",
+  "to": "2026-11-08 05:29",
   "days": 30
  },
- "streams_analyzed": 19,
+ "streams_analyzed": 21,
  "streams_missed": 0,
- "unique_chatters": 272,
+ "unique_chatters": 283,
  "members_confirmed": 84,
  "member_classes": {
   "unknown": 12,
@@ -277,6 +277,26 @@
    "member_chatters": 6,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "7OX5E7pl3og",
+   "start": "2026-11-07 08:41",
+   "title": "【GTAV #DistrictV2】 The OZ: \"Good magician, bad magician\" #4【NIJISANJI】",
+   "kind": "配信",
+   "chatters": 35,
+   "member_chatters": 6,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "tQeXBk2Wof4",
+   "start": "2026-11-07 15:57",
+   "title": "【GTAV #DistrictV2】 The OZ: \"Good magician, bad magician\" (2) #4【NIJISANJI】",
+   "kind": "配信",
+   "chatters": 32,
+   "member_chatters": 6,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -411,20 +431,21 @@
    },
    "avg_member_chatters": 8,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 05:29"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 7,
    "streams_missed": 0,
-   "unique_chatters": 108,
-   "members_confirmed": 20,
+   "unique_chatters": 122,
+   "members_confirmed": 21,
    "member_classes": {
-    "unknown": 9,
+    "unknown": 10,
     "gift": 10,
     "known": 1
    },
@@ -432,7 +453,7 @@
    "badges": [
     {
      "months": 0,
-     "members": 9
+     "members": 10
     },
     {
      "months": 1,
@@ -462,15 +483,15 @@
      "tier": "A.I.D Program",
      "price": 490,
      "confirmed_members": 1,
-     "estimated_members": 10.0
+     "estimated_members": 11.0
     }
    ],
    "revenue": {
-    "monthly_low": 3118,
-    "monthly_est": 3118,
+    "monthly_low": 3430,
+    "monthly_est": 3430,
     "gift_once": 3118
    },
-   "avg_member_chatters": 8.6,
+   "avg_member_chatters": 7.9,
    "partial": true,
    "finalized": false
   }

@@ -3,19 +3,19 @@
  "channel_id": "UCkIimWZ9gBJRamKF0rmPU8w",
  "handle": "@AmamiyaKokoro",
  "subscribers": 812000,
- "fetched_at": "2026-11-07 10:55",
- "generated_at": "2026-11-07 10:55",
+ "fetched_at": "2026-11-08 05:24",
+ "generated_at": "2026-11-08 05:24",
  "period": {
-  "from": "2026-10-08 10:55",
-  "to": "2026-11-07 10:55",
+  "from": "2026-10-09 05:24",
+  "to": "2026-11-08 05:24",
   "days": 30
  },
  "streams_analyzed": 18,
  "streams_missed": 0,
- "unique_chatters": 2457,
- "members_confirmed": 281,
+ "unique_chatters": 2375,
+ "members_confirmed": 277,
  "member_classes": {
-  "unknown": 262,
+  "unknown": 258,
   "known": 14,
   "gift": 5
  },
@@ -38,7 +38,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 27
+   "members": 26
   },
   {
    "months": 12,
@@ -48,7 +48,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 30
+   "members": 28
   },
   {
    "months": 36,
@@ -58,7 +58,7 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 123
+   "members": 122
   }
  ],
  "events": {
@@ -77,10 +77,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 6,
    "share_of_confirmed_pct": 42.9,
-   "allocated_unknown": 112.3,
-   "estimated_members": 118.3,
+   "allocated_unknown": 110.6,
+   "estimated_members": 116.6,
    "monthly_net_confirmed": 1871,
-   "monthly_net_estimated": 36884
+   "monthly_net_estimated": 36349
   },
   {
    "tier": "みゃんばーしっぷ★",
@@ -88,19 +88,19 @@
    "net_per_member": 757.3,
    "confirmed_members": 8,
    "share_of_confirmed_pct": 57.1,
-   "allocated_unknown": 149.7,
-   "estimated_members": 157.7,
+   "allocated_unknown": 147.4,
+   "estimated_members": 155.4,
    "monthly_net_confirmed": 6058,
-   "monthly_net_estimated": 119433
+   "monthly_net_estimated": 117702
   }
  ],
  "revenue": {
-  "monthly_low": 89625,
-  "monthly_est": 156316,
+  "monthly_low": 88378,
+  "monthly_est": 154051,
   "gift_once": 1559,
-  "total_low": 91185,
-  "total_est": 157875,
-  "paying_members": 276,
+  "total_low": 89937,
+  "total_est": 155610,
+  "paying_members": 272,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -109,16 +109,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "bA6nslptGq8",
-   "start": "2026-10-08 20:02",
-   "title": "JUVENILE - 初音ミク feat. じん / 天宮こころ(cover)",
-   "kind": "プレミア",
-   "chatters": 199,
-   "member_chatters": 71,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "_k43_Pk5mRw",
    "start": "2026-10-09 07:29",
@@ -288,6 +278,16 @@
    "member_chatters": 52,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "ufQayLaeYyI",
+   "start": "2026-11-07 14:35",
+   "title": "✯┊#にじイカ祭り2026 DAY1 ┊本番だよ‼ お父さん全員やって‼ #哀愁WIN〖 天宮こころ / 伊波ライ / しがりこ / 夢追翔 〗スプラトゥーン３",
+   "kind": "配信",
+   "chatters": 151,
+   "member_chatters": 76,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -449,23 +449,24 @@
    },
    "avg_member_chatters": 87.8,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 05:24"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 8,
+   "streams_analyzed": 9,
    "streams_missed": 0,
-   "unique_chatters": 750,
-   "members_confirmed": 153,
+   "unique_chatters": 780,
+   "members_confirmed": 161,
    "member_classes": {
-    "unknown": 147,
+    "unknown": 155,
     "known": 6
    },
-   "long_term_members": 131,
+   "long_term_members": 137,
    "badges": [
     {
      "months": 0,
@@ -477,11 +478,11 @@
     },
     {
      "months": 6,
-     "members": 14
+     "members": 16
     },
     {
      "months": 12,
-     "members": 17
+     "members": 18
     },
     {
      "months": 24,
@@ -489,11 +490,11 @@
     },
     {
      "months": 36,
-     "members": 21
+     "members": 22
     },
     {
      "months": 48,
-     "members": 78
+     "members": 82
     }
    ],
    "events": {
@@ -507,21 +508,21 @@
      "tier": "天宮こころ/みゃんばーしっぷ",
      "price": 490,
      "confirmed_members": 4,
-     "estimated_members": 102.0
+     "estimated_members": 107.3
     },
     {
      "tier": "みゃんばーしっぷ★",
      "price": 1190,
      "confirmed_members": 2,
-     "estimated_members": 51.0
+     "estimated_members": 53.7
     }
    ],
    "revenue": {
-    "monthly_low": 48599,
-    "monthly_est": 70426,
+    "monthly_low": 51094,
+    "monthly_est": 74109,
     "gift_once": 0
    },
-   "avg_member_chatters": 60.4,
+   "avg_member_chatters": 62.1,
    "partial": true,
    "finalized": false
   }

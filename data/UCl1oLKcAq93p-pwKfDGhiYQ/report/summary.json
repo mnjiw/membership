@@ -3,16 +3,16 @@
  "channel_id": "UCl1oLKcAq93p-pwKfDGhiYQ",
  "handle": "@EmmaAugust",
  "subscribers": 240000,
- "fetched_at": "2026-11-07 10:55",
- "generated_at": "2026-11-07 10:55",
+ "fetched_at": "2026-11-08 05:25",
+ "generated_at": "2026-11-08 05:25",
  "period": {
-  "from": "2026-10-08 10:55",
-  "to": "2026-11-07 10:55",
+  "from": "2026-10-09 05:25",
+  "to": "2026-11-08 05:25",
   "days": 30
  },
- "streams_analyzed": 10,
+ "streams_analyzed": 11,
  "streams_missed": 0,
- "unique_chatters": 765,
+ "unique_chatters": 772,
  "members_confirmed": 75,
  "member_classes": {
   "unknown": 63,
@@ -193,6 +193,16 @@
    "member_chatters": 18,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "h5Ce8jrCUQ4",
+   "start": "2026-11-07 17:51",
+   "title": "【#にじイカ祭り2026】ついに本番！ 舞元、ドリンク買ってこいよ。略して #舞ドリWIN【えま★おうがすと・東堂コハク・山神カルタ・舞元啓介/にじさんじ所属】",
+   "kind": "配信",
+   "chatters": 40,
+   "member_chatters": 27,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -333,17 +343,18 @@
    },
    "avg_member_chatters": 32.9,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 05:25"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 6,
+   "streams_analyzed": 7,
    "streams_missed": 0,
-   "unique_chatters": 84,
+   "unique_chatters": 91,
    "members_confirmed": 43,
    "member_classes": {
     "unknown": 36,
@@ -395,7 +406,7 @@
     "monthly_est": 36863,
     "gift_once": 0
    },
-   "avg_member_chatters": 22.3,
+   "avg_member_chatters": 23,
    "partial": true,
    "finalized": false
   }

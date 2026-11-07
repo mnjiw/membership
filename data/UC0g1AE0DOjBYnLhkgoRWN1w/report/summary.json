@@ -3,20 +3,20 @@
  "channel_id": "UC0g1AE0DOjBYnLhkgoRWN1w",
  "handle": "@HonmaHimawari",
  "subscribers": 785000,
- "fetched_at": "2026-11-07 10:54",
- "generated_at": "2026-11-07 10:54",
+ "fetched_at": "2026-11-08 05:19",
+ "generated_at": "2026-11-08 05:19",
  "period": {
-  "from": "2026-10-08 10:54",
-  "to": "2026-11-07 10:54",
+  "from": "2026-10-09 05:19",
+  "to": "2026-11-08 05:19",
   "days": 30
  },
  "streams_analyzed": 26,
  "streams_missed": 1,
- "unique_chatters": 2154,
- "members_confirmed": 289,
+ "unique_chatters": 2171,
+ "members_confirmed": 285,
  "member_classes": {
-  "unknown": 269,
-  "known": 15,
+  "unknown": 266,
+  "known": 14,
   "gift": 5
  },
  "badges": [
@@ -38,17 +38,17 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 4
+   "members": 5
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 23
+   "members": 22
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 25
+   "members": 24
   },
   {
    "months": 36,
@@ -58,12 +58,12 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 197
+   "members": 194
   }
  ],
  "events": {
   "new_members": 3,
-  "rejoins": 4,
+  "rejoins": 3,
   "milestones": 2,
   "gift_purchases": 1,
   "gifted_total": 5,
@@ -75,21 +75,21 @@
    "tier": "ひまぐま",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 15,
+   "confirmed_members": 14,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 269.0,
-   "estimated_members": 284.0,
-   "monthly_net_confirmed": 4677,
-   "monthly_net_estimated": 88556
+   "allocated_unknown": 266.0,
+   "estimated_members": 280.0,
+   "monthly_net_confirmed": 4365,
+   "monthly_net_estimated": 87309
   }
  ],
  "revenue": {
-  "monthly_low": 88556,
-  "monthly_est": 88556,
+  "monthly_low": 87309,
+  "monthly_est": 87309,
   "gift_once": 1559,
-  "total_low": 90115,
-  "total_est": 90115,
-  "paying_members": 284,
+  "total_low": 88868,
+  "total_est": 88868,
+  "paying_members": 280,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "kNzp7Oy7I1g",
-   "start": "2026-10-08 20:01",
-   "title": "꒰ OW2 ꒱　にじカスタム～～～～🌈TANK練習しよっ🦍　˹ 本間ひまわり にじさんじのみなさんっ ˼",
-   "kind": "配信",
-   "chatters": 137,
-   "member_chatters": 84,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "SynjF8WumHY",
    "start": "2026-10-10 12:23",
@@ -357,6 +347,16 @@
    "member_chatters": 69,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "XzK2TeOxSLU",
+   "start": "2026-11-07 17:04",
+   "title": "꒰スプラトゥーン3꒱　#にじイカ祭り2026　本番当日⚡🦑　全力でたのしもうっっ❕　　˹ 本間ひまわり にじさんじのみなさん ˼",
+   "kind": "配信",
+   "chatters": 195,
+   "member_chatters": 96,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -530,23 +530,24 @@
    },
    "avg_member_chatters": 82.7,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 05:19"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 6,
+   "streams_analyzed": 7,
    "streams_missed": 0,
-   "unique_chatters": 709,
-   "members_confirmed": 141,
+   "unique_chatters": 764,
+   "members_confirmed": 154,
    "member_classes": {
-    "unknown": 133,
+    "unknown": 146,
     "known": 8
    },
-   "long_term_members": 136,
+   "long_term_members": 148,
    "badges": [
     {
      "months": 1,
@@ -558,7 +559,7 @@
     },
     {
      "months": 6,
-     "members": 2
+     "members": 3
     },
     {
      "months": 12,
@@ -566,15 +567,15 @@
     },
     {
      "months": 24,
-     "members": 12
+     "members": 15
     },
     {
      "months": 36,
-     "members": 13
+     "members": 14
     },
     {
      "months": 48,
-     "members": 101
+     "members": 109
     }
    ],
    "events": {
@@ -588,15 +589,15 @@
      "tier": "ひまぐま",
      "price": 490,
      "confirmed_members": 8,
-     "estimated_members": 141.0
+     "estimated_members": 154.0
     }
    ],
    "revenue": {
-    "monthly_low": 43966,
-    "monthly_est": 43966,
+    "monthly_low": 48020,
+    "monthly_est": 48020,
     "gift_once": 0
    },
-   "avg_member_chatters": 82.3,
+   "avg_member_chatters": 84.3,
    "partial": true,
    "finalized": false
   }

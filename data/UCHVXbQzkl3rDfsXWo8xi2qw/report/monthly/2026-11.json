@@ -2,63 +2,64 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-07"
+  "to": "2026-11-08"
  },
- "streams_analyzed": 1,
+ "streams_analyzed": 2,
  "streams_missed": 0,
- "unique_chatters": 1306,
- "members_confirmed": 341,
+ "unique_chatters": 2585,
+ "members_confirmed": 470,
  "member_classes": {
-  "unknown": 282,
-  "known": 59
+  "unknown": 379,
+  "known": 81,
+  "gift": 10
  },
- "long_term_members": 306,
+ "long_term_members": 403,
  "badges": [
   {
    "months": 0,
-   "members": 6
+   "members": 19
   },
   {
    "months": 1,
-   "members": 7
-  },
-  {
-   "months": 2,
    "members": 10
   },
   {
+   "months": 2,
+   "members": 15
+  },
+  {
    "months": 6,
-   "members": 12
+   "members": 23
   },
   {
    "months": 12,
-   "members": 29
+   "members": 43
   },
   {
    "months": 24,
-   "members": 277
+   "members": 360
   }
  ],
  "events": {
   "new_members": 2,
   "rejoins": 2,
-  "milestones": 2,
-  "gifted_total": 0
+  "milestones": 3,
+  "gifted_total": 15
  },
  "tiers": [
   {
    "tier": "アンちゃん大好き倶楽部(仮)",
    "price": 490,
-   "confirmed_members": 59,
-   "estimated_members": 341.0
+   "confirmed_members": 81,
+   "estimated_members": 460.0
   }
  ],
  "revenue": {
-  "monthly_low": 106330,
-  "monthly_est": 106330,
-  "gift_once": 0
+  "monthly_low": 143436,
+  "monthly_est": 143436,
+  "gift_once": 4677
  },
- "avg_member_chatters": 341,
+ "avg_member_chatters": 323,
  "partial": true,
  "finalized": false
 }

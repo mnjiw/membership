@@ -3,20 +3,20 @@
  "channel_id": "UCrhhJPNsOqzNIkUfTABoSpg",
  "handle": "@HaYun",
  "subscribers": 135000,
- "fetched_at": "2026-11-07 10:58",
- "generated_at": "2026-11-07 10:58",
+ "fetched_at": "2026-11-08 05:30",
+ "generated_at": "2026-11-08 05:30",
  "period": {
-  "from": "2026-10-08 10:58",
-  "to": "2026-11-07 10:58",
+  "from": "2026-10-09 05:30",
+  "to": "2026-11-08 05:30",
   "days": 30
  },
- "streams_analyzed": 15,
- "streams_missed": 0,
- "unique_chatters": 692,
- "members_confirmed": 206,
+ "streams_analyzed": 14,
+ "streams_missed": 1,
+ "unique_chatters": 686,
+ "members_confirmed": 204,
  "member_classes": {
   "known": 35,
-  "unknown": 71,
+  "unknown": 69,
   "gift": 100
  },
  "badges": [
@@ -38,7 +38,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 9
+   "members": 8
   },
   {
    "months": 12,
@@ -48,13 +48,13 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 60
+   "members": 59
   }
  ],
  "events": {
   "new_members": 3,
   "rejoins": 4,
-  "milestones": 28,
+  "milestones": 24,
   "gift_purchases": 15,
   "gifted_total": 100,
   "gift_redemptions": 100
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 35,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 71.0,
-   "estimated_members": 106.0,
+   "allocated_unknown": 69.0,
+   "estimated_members": 104.0,
    "monthly_net_confirmed": 10914,
-   "monthly_net_estimated": 33053
+   "monthly_net_estimated": 32429
   }
  ],
  "revenue": {
-  "monthly_low": 33053,
-  "monthly_est": 33053,
+  "monthly_low": 32429,
+  "monthly_est": 32429,
   "gift_once": 31182,
-  "total_low": 64235,
-  "total_est": 64235,
-  "paying_members": 106,
+  "total_low": 63611,
+  "total_est": 63611,
+  "paying_members": 104,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "7kwVLHe_0As",
-   "start": "2026-10-08 23:53",
-   "title": "深夜食堂 雑談 【ハユン/にじさんじ】",
-   "kind": "配信",
-   "chatters": 43,
-   "member_chatters": 33,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "6ciAEA6Qdw8",
    "start": "2026-10-12 20:32",
@@ -239,7 +229,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "jNNcgHhbpWI",
+   "start": "2026-11-07 00:00",
+   "title": "【#にじイカ祭り2026】 올リーダーWIN！  【ハユン/にじさんじ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 321,
+   "view_count": 7435
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -367,16 +370,17 @@
    },
    "avg_member_chatters": 22.4,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 05:30"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
    "streams_analyzed": 4,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 631,
    "members_confirmed": 189,
    "member_classes": {

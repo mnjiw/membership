@@ -3,11 +3,11 @@
  "channel_id": "UCSFCh5NL4qXrAy9u-u2lX3g",
  "handle": "@Kuzuha",
  "subscribers": 2240000,
- "fetched_at": "2026-11-07 10:54",
- "generated_at": "2026-11-07 10:58",
+ "fetched_at": "2026-11-08 05:19",
+ "generated_at": "2026-11-08 05:20",
  "period": {
-  "from": "2026-10-08 10:54",
-  "to": "2026-11-07 10:54",
+  "from": "2026-10-09 05:19",
+  "to": "2026-11-08 05:19",
   "days": 30
  },
  "streams_analyzed": 28,
@@ -380,18 +380,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "Jzz9MrLM7pA",
-   "start": "2026-11-04 00:00",
-   "title": "【LTK】とあるスキルに目覚めた葛葉、コーチングを跳ね除け反抗期に突入してしまう【葛葉/にじさんじ/切り抜き】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 1388,
-   "view_count": 195372
-  },
-  {
    "video_id": "F0Eelrm6uEA",
    "start": "2026-11-06 00:00",
    "title": "【LTK】やうじの呪いによりちーたーまん陥落、残されたのは葛葉だけ【葛葉/にじさんじ/切り抜き】",
@@ -400,8 +388,20 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 407,
-   "view_count": 34088
+   "like_count": 461,
+   "view_count": 42962
+  },
+  {
+   "video_id": "ZlfX6UQ13OA",
+   "start": "2026-11-07 00:00",
+   "title": "【LTK】本番 Day6｜前回MVPの好調なシンドラで因縁の数字の悪魔に挑む葛葉【葛葉/にじさんじ/切り抜き】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 413,
+   "view_count": 45837
   }
  ],
  "members_only_content": [],
@@ -549,13 +549,14 @@
    },
    "avg_member_chatters": 1489.8,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 05:20"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
    "streams_analyzed": 5,
    "streams_missed": 2,

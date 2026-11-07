@@ -3,19 +3,19 @@
  "channel_id": "UCdpUojq0KWZCN9bxXnZwz5w",
  "handle": "@ArsAlmal",
  "subscribers": 867000,
- "fetched_at": "2026-11-07 10:55",
- "generated_at": "2026-11-07 10:55",
+ "fetched_at": "2026-11-08 05:24",
+ "generated_at": "2026-11-08 05:24",
  "period": {
-  "from": "2026-10-08 10:55",
-  "to": "2026-11-07 10:55",
+  "from": "2026-10-09 05:24",
+  "to": "2026-11-08 05:24",
   "days": 30
  },
- "streams_analyzed": 9,
+ "streams_analyzed": 8,
  "streams_missed": 3,
- "unique_chatters": 1247,
- "members_confirmed": 178,
+ "unique_chatters": 1144,
+ "members_confirmed": 173,
  "member_classes": {
-  "unknown": 170,
+  "unknown": 165,
   "known": 8
  },
  "badges": [
@@ -42,12 +42,12 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 71
+   "members": 70
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 86
+   "members": 82
   }
  ],
  "events": {
@@ -66,10 +66,10 @@
    "net_per_member": 184.5,
    "confirmed_members": 1,
    "share_of_confirmed_pct": 12.5,
-   "allocated_unknown": 21.2,
-   "estimated_members": 22.2,
+   "allocated_unknown": 20.6,
+   "estimated_members": 21.6,
    "monthly_net_confirmed": 185,
-   "monthly_net_estimated": 4106
+   "monthly_net_estimated": 3991
   },
   {
    "tier": "トゲ丸",
@@ -77,19 +77,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 7,
    "share_of_confirmed_pct": 87.5,
-   "allocated_unknown": 148.8,
-   "estimated_members": 155.8,
+   "allocated_unknown": 144.4,
+   "estimated_members": 151.4,
    "monthly_net_confirmed": 2183,
-   "monthly_net_estimated": 48566
+   "monthly_net_estimated": 47201
   }
  ],
  "revenue": {
-  "monthly_low": 33740,
-  "monthly_est": 52672,
+  "monthly_low": 32817,
+  "monthly_est": 51192,
   "gift_once": 0,
-  "total_low": 33740,
-  "total_est": 52672,
-  "paying_members": 178,
+  "total_low": 32817,
+  "total_est": 51192,
+  "paying_members": 173,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "hxz-c4SZqOM",
-   "start": "2026-10-09 00:19",
-   "title": "＃09【ゼルダの伝説 スカイウォードソード HD】完全初見プレイ  ♦ 勇者の詩 ♦ 女神のサイレン【アルス・アルマル/にじさんじ】",
-   "kind": "配信",
-   "chatters": 340,
-   "member_chatters": 73,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "zUM_vebydDI",
    "start": "2026-10-11 00:06",
@@ -396,7 +386,8 @@
    },
    "avg_member_chatters": 73.1,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 05:24"
   }
  ],
  "no_streams": false,

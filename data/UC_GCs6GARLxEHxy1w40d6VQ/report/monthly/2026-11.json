@@ -2,71 +2,72 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-07"
+  "to": "2026-11-08"
  },
- "streams_analyzed": 2,
+ "streams_analyzed": 3,
  "streams_missed": 1,
- "unique_chatters": 634,
- "members_confirmed": 106,
+ "unique_chatters": 1186,
+ "members_confirmed": 280,
  "member_classes": {
-  "unknown": 98,
-  "known": 8
+  "unknown": 220,
+  "known": 25,
+  "gift": 35
  },
- "long_term_members": 68,
+ "long_term_members": 171,
  "badges": [
   {
    "months": 0,
-   "members": 8
+   "members": 46
   },
   {
    "months": 1,
-   "members": 6
+   "members": 10
   },
   {
    "months": 2,
-   "members": 7
-  },
-  {
-   "months": 6,
    "members": 17
   },
   {
+   "months": 6,
+   "members": 36
+  },
+  {
    "months": 12,
-   "members": 12
+   "members": 37
   },
   {
    "months": 24,
-   "members": 18
+   "members": 41
   },
   {
    "months": 36,
-   "members": 8
+   "members": 33
   },
   {
    "months": 48,
-   "members": 30
+   "members": 60
   }
  ],
  "events": {
-  "new_members": 3,
-  "rejoins": 0,
-  "milestones": 1,
-  "gifted_total": 0
+  "new_members": 7,
+  "rejoins": 1,
+  "milestones": 11,
+  "gifted_total": 35
  },
  "tiers": [
   {
    "tier": "もっといっぱい家長むぎ",
    "price": 490,
-   "confirmed_members": 8,
-   "estimated_members": 106.0
+   "confirmed_members": 25,
+   "estimated_members": 245.0
   }
  ],
  "revenue": {
-  "monthly_low": 33053,
-  "monthly_est": 33053,
-  "gift_once": 0
+  "monthly_low": 76395,
+  "monthly_est": 76395,
+  "gift_once": 10914
  },
- "avg_member_chatters": 61,
+ "avg_member_chatters": 121.3,
  "partial": true,
  "finalized": false
 }

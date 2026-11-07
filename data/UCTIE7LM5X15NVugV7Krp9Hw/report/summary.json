@@ -3,20 +3,20 @@
  "channel_id": "UCTIE7LM5X15NVugV7Krp9Hw",
  "handle": "@YumeoiKakeru",
  "subscribers": 389000,
- "fetched_at": "2026-11-07 10:54",
- "generated_at": "2026-11-07 10:55",
+ "fetched_at": "2026-11-08 05:22",
+ "generated_at": "2026-11-08 05:22",
  "period": {
-  "from": "2026-10-08 10:54",
-  "to": "2026-11-07 10:54",
+  "from": "2026-10-09 05:22",
+  "to": "2026-11-08 05:22",
   "days": 30
  },
- "streams_analyzed": 7,
+ "streams_analyzed": 8,
  "streams_missed": 0,
- "unique_chatters": 847,
- "members_confirmed": 357,
+ "unique_chatters": 946,
+ "members_confirmed": 401,
  "member_classes": {
-  "unknown": 305,
-  "known": 52
+  "unknown": 339,
+  "known": 62
  },
  "badges": [
   {
@@ -27,28 +27,28 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 14
+   "members": 15
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 22
+   "members": 24
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 32
+   "members": 37
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 283
+   "members": 319
   }
  ],
  "events": {
   "new_members": 4,
   "rejoins": 2,
-  "milestones": 2,
+  "milestones": 6,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -59,21 +59,21 @@
    "tier": "追っ翔メンバーシップ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 52,
+   "confirmed_members": 62,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 305.0,
-   "estimated_members": 357.0,
-   "monthly_net_confirmed": 16215,
-   "monthly_net_estimated": 111319
+   "allocated_unknown": 339.0,
+   "estimated_members": 401.0,
+   "monthly_net_confirmed": 19333,
+   "monthly_net_estimated": 125039
   }
  ],
  "revenue": {
-  "monthly_low": 111319,
-  "monthly_est": 111319,
+  "monthly_low": 125039,
+  "monthly_est": 125039,
   "gift_once": 0,
-  "total_low": 111319,
-  "total_est": 111319,
-  "paying_members": 357,
+  "total_low": 125039,
+  "total_est": 125039,
+  "paying_members": 401,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -150,6 +150,16 @@
    "chatters": 216,
    "member_chatters": 130,
    "new_members": 1,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "MarwgobJb7Q",
+   "start": "2026-11-07 14:36",
+   "title": "#にじイカ祭り2026 大会本番Day1 | Splatoon3【にじさんじ/夢追翔/天宮こころ/伊波ライ/司賀りこ】",
+   "kind": "配信",
+   "chatters": 361,
+   "member_chatters": 222,
+   "new_members": 0,
    "gifted_total": 0
   }
  ],
@@ -276,23 +286,24 @@
    },
    "avg_member_chatters": 158,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 05:22"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 6,
+   "streams_analyzed": 7,
    "streams_missed": 0,
-   "unique_chatters": 719,
-   "members_confirmed": 329,
+   "unique_chatters": 822,
+   "members_confirmed": 377,
    "member_classes": {
-    "unknown": 278,
-    "known": 51
+    "unknown": 316,
+    "known": 61
    },
-   "long_term_members": 267,
+   "long_term_members": 307,
    "badges": [
     {
      "months": 0,
@@ -300,41 +311,41 @@
     },
     {
      "months": 1,
-     "members": 11
+     "members": 12
     },
     {
      "months": 2,
-     "members": 17
+     "members": 19
     },
     {
      "months": 6,
-     "members": 29
+     "members": 34
     },
     {
      "months": 12,
-     "members": 267
+     "members": 307
     }
    ],
    "events": {
     "new_members": 4,
     "rejoins": 2,
-    "milestones": 2,
+    "milestones": 6,
     "gifted_total": 0
    },
    "tiers": [
     {
      "tier": "追っ翔メンバーシップ",
      "price": 490,
-     "confirmed_members": 51,
-     "estimated_members": 329.0
+     "confirmed_members": 61,
+     "estimated_members": 377.0
     }
    ],
    "revenue": {
-    "monthly_low": 102588,
-    "monthly_est": 102588,
+    "monthly_low": 117555,
+    "monthly_est": 117555,
     "gift_once": 0
    },
-   "avg_member_chatters": 172.7,
+   "avg_member_chatters": 179.7,
    "partial": true,
    "finalized": false
   }

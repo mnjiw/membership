@@ -2,43 +2,44 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-07"
+  "to": "2026-11-08"
  },
- "streams_analyzed": 4,
+ "streams_analyzed": 5,
  "streams_missed": 0,
- "unique_chatters": 68,
- "members_confirmed": 28,
+ "unique_chatters": 76,
+ "members_confirmed": 51,
  "member_classes": {
-  "unknown": 20,
-  "known": 8
+  "unknown": 23,
+  "known": 8,
+  "gift": 20
  },
  "long_term_members": 0,
  "badges": [
   {
    "months": 0,
-   "members": 28
+   "members": 51
   }
  ],
  "events": {
   "new_members": 0,
   "rejoins": 0,
   "milestones": 0,
-  "gifted_total": 0
+  "gifted_total": 20
  },
  "tiers": [
   {
    "tier": "리몽",
    "price": 490,
    "confirmed_members": 8,
-   "estimated_members": 28.0
+   "estimated_members": 31.0
   }
  ],
  "revenue": {
-  "monthly_low": 8731,
-  "monthly_est": 8731,
-  "gift_once": 0
+  "monthly_low": 9666,
+  "monthly_est": 9666,
+  "gift_once": 6236
  },
- "avg_member_chatters": 19,
+ "avg_member_chatters": 23.4,
  "partial": true,
  "finalized": false
 }

@@ -3,27 +3,27 @@
  "channel_id": "UCfipDDn7wY-C-SoUChgxCQQ",
  "handle": "@HayamaMarin",
  "subscribers": 636000,
- "fetched_at": "2026-11-07 10:55",
- "generated_at": "2026-11-07 10:55",
+ "fetched_at": "2026-11-08 05:23",
+ "generated_at": "2026-11-08 05:23",
  "period": {
-  "from": "2026-10-08 10:55",
-  "to": "2026-11-07 10:55",
+  "from": "2026-10-09 05:23",
+  "to": "2026-11-08 05:23",
   "days": 30
  },
- "streams_analyzed": 20,
+ "streams_analyzed": 19,
  "streams_missed": 2,
- "unique_chatters": 2065,
- "members_confirmed": 412,
+ "unique_chatters": 1965,
+ "members_confirmed": 400,
  "member_classes": {
-  "unknown": 183,
+  "unknown": 181,
   "known": 14,
-  "gift": 215
+  "gift": 205
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 215
+   "members": 205
   },
   {
    "months": 1,
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 12
+   "members": 11
   },
   {
    "months": 6,
@@ -48,7 +48,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 45
+   "members": 44
   },
   {
    "months": 36,
@@ -65,9 +65,9 @@
   "new_members": 2,
   "rejoins": 1,
   "milestones": 7,
-  "gift_purchases": 25,
-  "gifted_total": 216,
-  "gift_redemptions": 215
+  "gift_purchases": 24,
+  "gifted_total": 206,
+  "gift_redemptions": 205
  },
  "tiers_configured": true,
  "tiers": [
@@ -77,10 +77,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 9,
    "share_of_confirmed_pct": 64.3,
-   "allocated_unknown": 117.6,
-   "estimated_members": 126.6,
+   "allocated_unknown": 116.4,
+   "estimated_members": 125.4,
    "monthly_net_confirmed": 2806,
-   "monthly_net_estimated": 39490
+   "monthly_net_estimated": 39089
   },
   {
    "tier": "超✧王覇山軍",
@@ -88,10 +88,10 @@
    "net_per_member": 757.3,
    "confirmed_members": 4,
    "share_of_confirmed_pct": 28.6,
-   "allocated_unknown": 52.3,
-   "estimated_members": 56.3,
+   "allocated_unknown": 51.7,
+   "estimated_members": 55.7,
    "monthly_net_confirmed": 3029,
-   "monthly_net_estimated": 42624
+   "monthly_net_estimated": 42191
   },
   {
    "tier": "最強✦王覇山軍",
@@ -99,19 +99,19 @@
    "net_per_member": 2602.7,
    "confirmed_members": 1,
    "share_of_confirmed_pct": 7.1,
-   "allocated_unknown": 13.1,
-   "estimated_members": 14.1,
+   "allocated_unknown": 12.9,
+   "estimated_members": 13.9,
    "monthly_net_confirmed": 2603,
-   "monthly_net_estimated": 36624
+   "monthly_net_estimated": 36252
   }
  ],
  "revenue": {
-  "monthly_low": 65501,
-  "monthly_est": 118737,
-  "gift_once": 67353,
-  "total_low": 132854,
-  "total_est": 186090,
-  "paying_members": 197,
+  "monthly_low": 64877,
+  "monthly_est": 117532,
+  "gift_once": 64235,
+  "total_low": 129112,
+  "total_est": 181766,
+  "paying_members": 195,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -120,16 +120,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "tYP02X56Vwo",
-   "start": "2026-10-09 00:09",
-   "title": "#08【 KINGDOM HEARTS II FINAL MIX 】最強の裏ボス倒す！完全初見🔑クリア後の世界へ。（ 別々の心がとけあう時、もう一度その手はつながれる ）【 にじさんじ┊︎葉山舞鈴 】",
-   "kind": "配信",
-   "chatters": 405,
-   "member_chatters": 88,
-   "new_members": 0,
-   "gifted_total": 10
-  },
   {
    "video_id": "AlfL7zEy6Dk",
    "start": "2026-10-09 12:08",
@@ -539,13 +529,14 @@
    },
    "avg_member_chatters": 84.6,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 05:23"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
    "streams_analyzed": 5,
    "streams_missed": 0,

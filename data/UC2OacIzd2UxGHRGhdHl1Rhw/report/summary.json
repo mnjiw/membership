@@ -3,16 +3,16 @@
  "channel_id": "UC2OacIzd2UxGHRGhdHl1Rhw",
  "handle": "@HayaseSou",
  "subscribers": 294000,
- "fetched_at": "2026-11-07 10:55",
- "generated_at": "2026-11-07 10:55",
+ "fetched_at": "2026-11-08 05:24",
+ "generated_at": "2026-11-08 05:25",
  "period": {
-  "from": "2026-10-08 10:55",
-  "to": "2026-11-07 10:55",
+  "from": "2026-10-09 05:24",
+  "to": "2026-11-08 05:24",
   "days": 30
  },
- "streams_analyzed": 16,
+ "streams_analyzed": 17,
  "streams_missed": 0,
- "unique_chatters": 3182,
+ "unique_chatters": 4040,
  "members_confirmed": 49,
  "member_classes": {
   "unknown": 44,
@@ -268,6 +268,16 @@
    "member_chatters": 13,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "bC0hnpjYbwM",
+   "start": "2026-11-07 22:00",
+   "title": "【#早瀬とサシ飲み再演】早瀬走×佐伯イッテツ　part.7",
+   "kind": "配信",
+   "chatters": 993,
+   "member_chatters": 8,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -421,17 +431,18 @@
    },
    "avg_member_chatters": 12,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 05:25"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 8,
+   "streams_analyzed": 9,
    "streams_missed": 0,
-   "unique_chatters": 2261,
+   "unique_chatters": 3130,
    "members_confirmed": 38,
    "member_classes": {
     "unknown": 38
@@ -494,7 +505,7 @@
     "monthly_est": 11849,
     "gift_once": 0
    },
-   "avg_member_chatters": 15.4,
+   "avg_member_chatters": 14.6,
    "partial": true,
    "finalized": false
   }

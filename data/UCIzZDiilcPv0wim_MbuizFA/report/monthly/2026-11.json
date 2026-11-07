@@ -2,56 +2,60 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-07"
+  "to": "2026-11-08"
  },
- "streams_analyzed": 1,
+ "streams_analyzed": 2,
  "streams_missed": 0,
- "unique_chatters": 80,
- "members_confirmed": 18,
+ "unique_chatters": 95,
+ "members_confirmed": 29,
  "member_classes": {
-  "known": 8,
-  "unknown": 9,
-  "gift": 1
+  "known": 10,
+  "unknown": 13,
+  "gift": 6
  },
- "long_term_members": 15,
+ "long_term_members": 19,
  "badges": [
   {
    "months": 0,
+   "members": 6
+  },
+  {
+   "months": 2,
    "members": 1
   },
   {
    "months": 6,
-   "members": 2
+   "members": 3
   },
   {
    "months": 12,
-   "members": 8
+   "members": 11
   },
   {
    "months": 24,
-   "members": 7
+   "members": 8
   }
  ],
  "events": {
   "new_members": 0,
   "rejoins": 0,
-  "milestones": 2,
-  "gifted_total": 1
+  "milestones": 3,
+  "gifted_total": 6
  },
  "tiers": [
   {
    "tier": "Ryonins",
    "price": 690,
-   "confirmed_members": 8,
-   "estimated_members": 17.0
+   "confirmed_members": 10,
+   "estimated_members": 23.0
   }
  ],
  "revenue": {
-  "monthly_low": 7465,
-  "monthly_est": 7465,
-  "gift_once": 439
+  "monthly_low": 10099,
+  "monthly_est": 10099,
+  "gift_once": 2635
  },
- "avg_member_chatters": 18,
+ "avg_member_chatters": 18.5,
  "partial": true,
  "finalized": false
 }

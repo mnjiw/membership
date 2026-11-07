@@ -3,20 +3,20 @@
  "channel_id": "UCV5ZZlLjk5MKGg3L0n0vbzw",
  "handle": "@TakamiyaRion",
  "subscribers": 560000,
- "fetched_at": "2026-11-07 10:54",
- "generated_at": "2026-11-07 10:54",
+ "fetched_at": "2026-11-08 05:21",
+ "generated_at": "2026-11-08 05:21",
  "period": {
-  "from": "2026-10-08 10:54",
-  "to": "2026-11-07 10:54",
+  "from": "2026-10-09 05:21",
+  "to": "2026-11-08 05:21",
   "days": 30
  },
  "streams_analyzed": 38,
  "streams_missed": 0,
- "unique_chatters": 2851,
+ "unique_chatters": 2836,
  "members_confirmed": 229,
  "member_classes": {
-  "known": 32,
-  "unknown": 197
+  "unknown": 197,
+  "known": 32
  },
  "badges": [
   {
@@ -73,7 +73,7 @@
  "events": {
   "new_members": 10,
   "rejoins": 7,
-  "milestones": 4,
+  "milestones": 5,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -129,16 +129,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "dLn8YesMwcU",
-   "start": "2026-10-08 23:00",
-   "title": "[DARK SOULS III] Die and the Stream Ends -Day 34- #TakamiyaEndsTheStreamDarkSouls3 [NIJISANJI/Tak...",
-   "kind": "配信",
-   "chatters": 268,
-   "member_chatters": 45,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "VKvdc2_YSJ8",
    "start": "2026-10-09 23:02",
@@ -508,6 +498,16 @@
    "member_chatters": 51,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "i7-CHVTD-A0",
+   "start": "2026-11-07 16:01",
+   "title": "【 #にじイカ祭り2026 】スプラ大会！本番！【にじさんじ/鷹宮リオン オリバーエヴァンス 春崎エアル ぷりんららもーど】",
+   "kind": "配信",
+   "chatters": 130,
+   "member_chatters": 64,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -698,23 +698,24 @@
    },
    "avg_member_chatters": 57.5,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 05:21"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 7,
+   "streams_analyzed": 8,
    "streams_missed": 0,
-   "unique_chatters": 415,
-   "members_confirmed": 101,
+   "unique_chatters": 446,
+   "members_confirmed": 108,
    "member_classes": {
-    "known": 14,
-    "unknown": 87
+    "known": 15,
+    "unknown": 93
    },
-   "long_term_members": 79,
+   "long_term_members": 86,
    "badges": [
     {
      "months": 0,
@@ -738,7 +739,7 @@
     },
     {
      "months": 24,
-     "members": 14
+     "members": 15
     },
     {
      "months": 36,
@@ -746,7 +747,7 @@
     },
     {
      "months": 48,
-     "members": 6
+     "members": 7
     },
     {
      "months": 60,
@@ -754,21 +755,21 @@
     },
     {
      "months": 72,
-     "members": 24
+     "members": 29
     }
    ],
    "events": {
     "new_members": 3,
     "rejoins": 1,
-    "milestones": 0,
+    "milestones": 1,
     "gifted_total": 0
    },
    "tiers": [
     {
      "tier": "帝華学生",
      "price": 490,
-     "confirmed_members": 12,
-     "estimated_members": 86.6
+     "confirmed_members": 13,
+     "estimated_members": 93.6
     },
     {
      "tier": "なんか真ん中らへんのメンバーでこれはガム代になる",
@@ -784,11 +785,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 37997,
-    "monthly_est": 78413,
+    "monthly_low": 40180,
+    "monthly_est": 80503,
     "gift_once": 0
    },
-   "avg_member_chatters": 51.4,
+   "avg_member_chatters": 53,
    "partial": true,
    "finalized": false
   }

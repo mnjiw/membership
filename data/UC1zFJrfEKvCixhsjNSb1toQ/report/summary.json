@@ -3,16 +3,16 @@
  "channel_id": "UC1zFJrfEKvCixhsjNSb1toQ",
  "handle": "@Sister_Claire",
  "subscribers": 627000,
- "fetched_at": "2026-11-07 10:54",
- "generated_at": "2026-11-07 10:54",
+ "fetched_at": "2026-11-08 05:19",
+ "generated_at": "2026-11-08 05:20",
  "period": {
-  "from": "2026-10-08 10:54",
-  "to": "2026-11-07 10:54",
+  "from": "2026-10-09 05:19",
+  "to": "2026-11-08 05:19",
   "days": 30
  },
- "streams_analyzed": 8,
+ "streams_analyzed": 9,
  "streams_missed": 1,
- "unique_chatters": 2508,
+ "unique_chatters": 2522,
  "members_confirmed": 381,
  "member_classes": {
   "known": 123,
@@ -23,12 +23,12 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 36
+   "members": 35
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 22
+   "members": 23
   },
   {
    "months": 6,
@@ -177,6 +177,16 @@
    "kind": "配信",
    "chatters": 104,
    "member_chatters": 54,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "ylzCLWfiyYE",
+   "start": "2026-11-07 18:19",
+   "title": "【#にじイカ祭り2026】 ♡アース2434♡　Bリーグ  DAY1【にじさんじ/シスター・クレア】",
+   "kind": "配信",
+   "chatters": 108,
+   "member_chatters": 67,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -344,32 +354,33 @@
    },
    "avg_member_chatters": 161,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 05:20"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 4,
+   "streams_analyzed": 5,
    "streams_missed": 0,
-   "unique_chatters": 831,
-   "members_confirmed": 277,
+   "unique_chatters": 854,
+   "members_confirmed": 279,
    "member_classes": {
-    "unknown": 167,
-    "known": 104,
+    "unknown": 168,
+    "known": 105,
     "gift": 6
    },
-   "long_term_members": 237,
+   "long_term_members": 239,
    "badges": [
     {
      "months": 0,
-     "members": 12
+     "members": 11
     },
     {
      "months": 1,
-     "members": 14
+     "members": 15
     },
     {
      "months": 6,
@@ -377,7 +388,7 @@
     },
     {
      "months": 12,
-     "members": 237
+     "members": 239
     }
    ],
    "events": {
@@ -391,27 +402,27 @@
      "tier": "学生や頑張り中たぬさん応援プラン",
      "price": 290,
      "confirmed_members": 13,
-     "estimated_members": 33.9
+     "estimated_members": 33.8
     },
     {
      "tier": "たぬさんプラン",
      "price": 490,
-     "confirmed_members": 64,
-     "estimated_members": 166.8
+     "confirmed_members": 65,
+     "estimated_members": 169.0
     },
     {
      "tier": "たぬさん放題プラン",
      "price": 3490,
      "confirmed_members": 27,
-     "estimated_members": 70.4
+     "estimated_members": 70.2
     }
    ],
    "revenue": {
-    "monthly_low": 113139,
-    "monthly_est": 214507,
+    "monthly_low": 113635,
+    "monthly_est": 214843,
     "gift_once": 1107
    },
-   "avg_member_chatters": 119.8,
+   "avg_member_chatters": 109.2,
    "partial": true,
    "finalized": false
   }

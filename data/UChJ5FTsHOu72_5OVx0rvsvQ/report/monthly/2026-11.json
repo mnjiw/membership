@@ -2,72 +2,72 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-07"
+  "to": "2026-11-08"
  },
- "streams_analyzed": 4,
+ "streams_analyzed": 6,
  "streams_missed": 0,
- "unique_chatters": 740,
- "members_confirmed": 253,
+ "unique_chatters": 2156,
+ "members_confirmed": 624,
  "member_classes": {
-  "unknown": 123,
-  "known": 114,
-  "gift": 16
+  "known": 207,
+  "unknown": 257,
+  "gift": 160
  },
- "long_term_members": 178,
+ "long_term_members": 363,
  "badges": [
   {
    "months": 0,
-   "members": 23
+   "members": 165
   },
   {
    "months": 1,
-   "members": 9
-  },
-  {
-   "months": 2,
    "members": 23
   },
   {
+   "months": 2,
+   "members": 36
+  },
+  {
    "months": 6,
-   "members": 20
+   "members": 37
   },
   {
    "months": 12,
-   "members": 49
+   "members": 96
   },
   {
    "months": 24,
-   "members": 29
+   "members": 80
   },
   {
    "months": 36,
-   "members": 43
+   "members": 79
   },
   {
    "months": 48,
-   "members": 57
+   "members": 108
   }
  ],
  "events": {
-  "new_members": 1,
-  "rejoins": 3,
-  "milestones": 19,
-  "gifted_total": 16
+  "new_members": 5,
+  "rejoins": 6,
+  "milestones": 99,
+  "gifted_total": 162
  },
  "tiers": [
   {
    "tier": "the Ukiverse",
    "price": 490,
-   "confirmed_members": 114,
-   "estimated_members": 237.0
+   "confirmed_members": 207,
+   "estimated_members": 464.0
   }
  ],
  "revenue": {
-  "monthly_low": 73901,
-  "monthly_est": 73901,
-  "gift_once": 4989
+  "monthly_low": 144684,
+  "monthly_est": 144684,
+  "gift_once": 50515
  },
- "avg_member_chatters": 113.5,
+ "avg_member_chatters": 181.3,
  "partial": true,
  "finalized": false
 }

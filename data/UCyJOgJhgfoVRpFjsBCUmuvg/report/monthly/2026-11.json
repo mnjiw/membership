@@ -2,63 +2,64 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-07"
+  "to": "2026-11-08"
  },
- "streams_analyzed": 4,
+ "streams_analyzed": 5,
  "streams_missed": 1,
- "unique_chatters": 874,
- "members_confirmed": 244,
+ "unique_chatters": 1006,
+ "members_confirmed": 275,
  "member_classes": {
-  "unknown": 173,
-  "known": 71
+  "unknown": 181,
+  "known": 89,
+  "gift": 5
  },
- "long_term_members": 171,
+ "long_term_members": 188,
  "badges": [
   {
    "months": 0,
-   "members": 9
+   "members": 14
   },
   {
    "months": 1,
-   "members": 6
+   "members": 7
   },
   {
    "months": 2,
-   "members": 21
+   "members": 23
   },
   {
    "months": 6,
-   "members": 37
+   "members": 43
   },
   {
    "months": 12,
-   "members": 86
+   "members": 98
   },
   {
    "months": 24,
-   "members": 85
+   "members": 90
   }
  ],
  "events": {
   "new_members": 3,
   "rejoins": 1,
-  "milestones": 5,
-  "gifted_total": 0
+  "milestones": 30,
+  "gifted_total": 5
  },
  "tiers": [
   {
    "tier": "もねゴンの集い",
    "price": 490,
-   "confirmed_members": 71,
-   "estimated_members": 244.0
+   "confirmed_members": 89,
+   "estimated_members": 270.0
   }
  ],
  "revenue": {
-  "monthly_low": 76084,
-  "monthly_est": 76084,
-  "gift_once": 0
+  "monthly_low": 84191,
+  "monthly_est": 84191,
+  "gift_once": 1559
  },
- "avg_member_chatters": 129,
+ "avg_member_chatters": 133.6,
  "partial": true,
  "finalized": false
 }

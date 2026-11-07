@@ -3,37 +3,37 @@
  "channel_id": "UCCugV2RWXqJMjVVQl_Yh4TQ",
  "handle": "@Seible_nijisanji",
  "subscribers": 178000,
- "fetched_at": "2026-11-07 11:00",
- "generated_at": "2026-11-07 11:00",
+ "fetched_at": "2026-11-08 05:42",
+ "generated_at": "2026-11-08 05:43",
  "period": {
-  "from": "2026-10-08 11:00",
-  "to": "2026-11-07 11:00",
+  "from": "2026-10-09 05:42",
+  "to": "2026-11-08 05:42",
   "days": 30
  },
  "streams_analyzed": 27,
  "streams_missed": 2,
- "unique_chatters": 1388,
- "members_confirmed": 437,
+ "unique_chatters": 1335,
+ "members_confirmed": 428,
  "member_classes": {
-  "known": 144,
-  "unknown": 192,
-  "gift": 101
+  "known": 142,
+  "unknown": 190,
+  "gift": 96
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 118
+   "members": 112
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 23
+   "members": 22
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 57
+   "members": 53
   },
   {
    "months": 6,
@@ -43,16 +43,16 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 191
+   "members": 193
   }
  ],
  "events": {
   "new_members": 10,
-  "rejoins": 16,
-  "milestones": 99,
-  "gift_purchases": 18,
-  "gifted_total": 101,
-  "gift_redemptions": 101
+  "rejoins": 15,
+  "milestones": 103,
+  "gift_purchases": 17,
+  "gifted_total": 96,
+  "gift_redemptions": 96
  },
  "tiers_configured": true,
  "tiers": [
@@ -61,31 +61,31 @@
    "price": 490,
    "net_per_member": 311.8,
    "confirmed_members": 54,
-   "share_of_confirmed_pct": 37.5,
-   "allocated_unknown": 72.0,
-   "estimated_members": 126.0,
+   "share_of_confirmed_pct": 38.0,
+   "allocated_unknown": 72.3,
+   "estimated_members": 126.3,
    "monthly_net_confirmed": 16838,
-   "monthly_net_estimated": 39289
+   "monthly_net_estimated": 39368
   },
   {
    "tier": "Big Seinyan (セイニャンましまし）",
    "price": 1190,
    "net_per_member": 757.3,
-   "confirmed_members": 90,
-   "share_of_confirmed_pct": 62.5,
-   "allocated_unknown": 120.0,
-   "estimated_members": 210.0,
-   "monthly_net_confirmed": 68155,
-   "monthly_net_estimated": 159027
+   "confirmed_members": 88,
+   "share_of_confirmed_pct": 62.0,
+   "allocated_unknown": 117.7,
+   "estimated_members": 205.7,
+   "monthly_net_confirmed": 66640,
+   "monthly_net_estimated": 155806
   }
  ],
  "revenue": {
-  "monthly_low": 144862,
-  "monthly_est": 198316,
-  "gift_once": 31494,
-  "total_low": 176355,
-  "total_est": 229810,
-  "paying_members": 336,
+  "monthly_low": 142724,
+  "monthly_est": 195174,
+  "gift_once": 29935,
+  "total_low": 172658,
+  "total_est": 225109,
+  "paying_members": 332,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -94,16 +94,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "_-NZEfV5y48",
-   "start": "2026-10-08 12:15",
-   "title": "【Dressmaker】Boo! Back from Receptions! - Yapping & Dressing【NIJISANJI EN | Seible】",
-   "kind": "配信",
-   "chatters": 261,
-   "member_chatters": 134,
-   "new_members": 0,
-   "gifted_total": 5
-  },
   {
    "video_id": "ZptUlgSCulM",
    "start": "2026-10-10 13:05",
@@ -363,6 +353,16 @@
    "member_chatters": 81,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "iYCj06ii0N8",
+   "start": "2026-11-07 13:43",
+   "title": "【スプラトゥーン３】  #にじイカ祭り2026 DAY1＃ちきぎゃるWIN！ 【NIJISANJI EN | Seible】",
+   "kind": "配信",
+   "chatters": 161,
+   "member_chatters": 102,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -375,7 +375,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "Big Seinyan (セイニャンましまし）",
-   "like_count": 61,
+   "like_count": 62,
    "view_count": null
   },
   {
@@ -399,7 +399,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "Big Seinyan (セイニャンましまし）",
-   "like_count": 61,
+   "like_count": 62,
    "view_count": null
   },
   {
@@ -547,24 +547,25 @@
    },
    "avg_member_chatters": 111.2,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 05:43"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 10,
+   "streams_analyzed": 11,
    "streams_missed": 0,
-   "unique_chatters": 708,
-   "members_confirmed": 277,
+   "unique_chatters": 748,
+   "members_confirmed": 288,
    "member_classes": {
-    "known": 117,
-    "unknown": 129,
+    "known": 120,
+    "unknown": 137,
     "gift": 31
    },
-   "long_term_members": 150,
+   "long_term_members": 160,
    "badges": [
     {
      "months": 0,
@@ -580,39 +581,39 @@
     },
     {
      "months": 6,
-     "members": 32
+     "members": 33
     },
     {
      "months": 12,
-     "members": 150
+     "members": 160
     }
    ],
    "events": {
     "new_members": 5,
-    "rejoins": 8,
-    "milestones": 25,
+    "rejoins": 9,
+    "milestones": 30,
     "gifted_total": 31
    },
    "tiers": [
     {
      "tier": "Seinyan （セイニャン）",
      "price": 490,
-     "confirmed_members": 40,
-     "estimated_members": 84.1
+     "confirmed_members": 41,
+     "estimated_members": 87.8
     },
     {
      "tier": "Big Seinyan (セイニャンましまし）",
      "price": 1190,
-     "confirmed_members": 77,
-     "estimated_members": 161.9
+     "confirmed_members": 79,
+     "estimated_members": 169.2
     }
    ],
    "revenue": {
-    "monthly_low": 111007,
-    "monthly_est": 148825,
+    "monthly_low": 115328,
+    "monthly_est": 155504,
     "gift_once": 9666
    },
-   "avg_member_chatters": 98.9,
+   "avg_member_chatters": 99.2,
    "partial": true,
    "finalized": false
   }

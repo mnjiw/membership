@@ -2,67 +2,68 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-07"
+  "to": "2026-11-08"
  },
- "streams_analyzed": 7,
+ "streams_analyzed": 8,
  "streams_missed": 0,
- "unique_chatters": 1654,
- "members_confirmed": 1153,
+ "unique_chatters": 1844,
+ "members_confirmed": 1260,
  "member_classes": {
-  "known": 218,
-  "unknown": 935
+  "known": 233,
+  "unknown": 1022,
+  "gift": 5
  },
- "long_term_members": 802,
+ "long_term_members": 876,
  "badges": [
   {
    "months": 0,
-   "members": 47
+   "members": 55
   },
   {
    "months": 1,
-   "members": 27
+   "members": 29
   },
   {
    "months": 2,
-   "members": 114
+   "members": 122
   },
   {
    "months": 6,
-   "members": 163
+   "members": 178
   },
   {
    "months": 12,
-   "members": 495
+   "members": 539
   },
   {
    "months": 24,
-   "members": 240
+   "members": 266
   },
   {
    "months": 36,
-   "members": 67
+   "members": 71
   }
  ],
  "events": {
   "new_members": 12,
-  "rejoins": 9,
-  "milestones": 13,
-  "gifted_total": 0
+  "rejoins": 10,
+  "milestones": 18,
+  "gifted_total": 5
  },
  "tiers": [
   {
    "tier": "うちら永遠のダイエッター",
    "price": 490,
-   "confirmed_members": 218,
-   "estimated_members": 1153.0
+   "confirmed_members": 233,
+   "estimated_members": 1255.0
   }
  ],
  "revenue": {
-  "monthly_low": 359526,
-  "monthly_est": 359526,
-  "gift_once": 0
+  "monthly_low": 391332,
+  "monthly_est": 391332,
+  "gift_once": 1559
  },
- "avg_member_chatters": 529.9,
+ "avg_member_chatters": 551.4,
  "partial": true,
  "finalized": false
 }

@@ -3,27 +3,27 @@
  "channel_id": "UCkhViRjLUKgIcVpar9JiNrw",
  "handle": "@TamanoiNana",
  "subscribers": 365000,
- "fetched_at": "2026-11-07 10:59",
- "generated_at": "2026-11-07 10:59",
+ "fetched_at": "2026-11-08 05:35",
+ "generated_at": "2026-11-08 05:35",
  "period": {
-  "from": "2026-10-08 10:59",
-  "to": "2026-11-07 10:59",
+  "from": "2026-10-09 05:35",
+  "to": "2026-11-08 05:35",
   "days": 30
  },
- "streams_analyzed": 18,
+ "streams_analyzed": 19,
  "streams_missed": 2,
- "unique_chatters": 3170,
- "members_confirmed": 653,
+ "unique_chatters": 3205,
+ "members_confirmed": 664,
  "member_classes": {
-  "unknown": 575,
-  "known": 57,
+  "unknown": 583,
+  "known": 60,
   "gift": 21
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 64
+   "members": 67
   },
   {
    "months": 1,
@@ -33,28 +33,28 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 71
+   "members": 72
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 86
+   "members": 89
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 193
+   "members": 195
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 216
+   "members": 218
   }
  ],
  "events": {
-  "new_members": 23,
+  "new_members": 25,
   "rejoins": 5,
-  "milestones": 13,
+  "milestones": 15,
   "gift_purchases": 5,
   "gifted_total": 21,
   "gift_redemptions": 21
@@ -65,21 +65,21 @@
    "tier": "ななかま",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 57,
+   "confirmed_members": 60,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 575.0,
-   "estimated_members": 632.0,
-   "monthly_net_confirmed": 17774,
-   "monthly_net_estimated": 197069
+   "allocated_unknown": 583.0,
+   "estimated_members": 643.0,
+   "monthly_net_confirmed": 18709,
+   "monthly_net_estimated": 200499
   }
  ],
  "revenue": {
-  "monthly_low": 197069,
-  "monthly_est": 197069,
+  "monthly_low": 200499,
+  "monthly_est": 200499,
   "gift_once": 6548,
-  "total_low": 203617,
-  "total_est": 203617,
-  "paying_members": 632,
+  "total_low": 207047,
+  "total_est": 207047,
+  "paying_members": 643,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -267,6 +267,16 @@
    "member_chatters": 140,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "ObhQ4QEw1sU",
+   "start": "2026-11-07 15:23",
+   "title": "【 #にじイカ祭り2026 】大会Day1本番！ #われおこWIN 【にじさんじ/珠乃井ナナ】",
+   "kind": "配信",
+   "chatters": 296,
+   "member_chatters": 188,
+   "new_members": 2,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -447,69 +457,70 @@
    },
    "avg_member_chatters": 183.8,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 05:35"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 7,
+   "streams_analyzed": 8,
    "streams_missed": 0,
-   "unique_chatters": 1422,
-   "members_confirmed": 352,
+   "unique_chatters": 1485,
+   "members_confirmed": 375,
    "member_classes": {
-    "unknown": 320,
-    "known": 32
+    "unknown": 340,
+    "known": 35
    },
-   "long_term_members": 248,
+   "long_term_members": 258,
    "badges": [
     {
      "months": 0,
-     "members": 21
+     "members": 24
     },
     {
      "months": 1,
-     "members": 10
+     "members": 11
     },
     {
      "months": 2,
-     "members": 28
+     "members": 29
     },
     {
      "months": 6,
-     "members": 45
+     "members": 53
     },
     {
      "months": 12,
-     "members": 125
+     "members": 129
     },
     {
      "months": 24,
-     "members": 123
+     "members": 129
     }
    ],
    "events": {
-    "new_members": 10,
+    "new_members": 12,
     "rejoins": 2,
-    "milestones": 2,
+    "milestones": 4,
     "gifted_total": 0
    },
    "tiers": [
     {
      "tier": "ななかま",
      "price": 490,
-     "confirmed_members": 32,
-     "estimated_members": 352.0
+     "confirmed_members": 35,
+     "estimated_members": 375.0
     }
    ],
    "revenue": {
-    "monthly_low": 109760,
-    "monthly_est": 109760,
+    "monthly_low": 116932,
+    "monthly_est": 116932,
     "gift_once": 0
    },
-   "avg_member_chatters": 160.4,
+   "avg_member_chatters": 163.9,
    "partial": true,
    "finalized": false
   }

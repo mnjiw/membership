@@ -3,71 +3,71 @@
  "channel_id": "UChJ5FTsHOu72_5OVx0rvsvQ",
  "handle": "@UkiVioleta",
  "subscribers": 670000,
- "fetched_at": "2026-11-07 11:00",
- "generated_at": "2026-11-07 11:00",
+ "fetched_at": "2026-11-08 05:40",
+ "generated_at": "2026-11-08 05:41",
  "period": {
-  "from": "2026-10-08 11:00",
-  "to": "2026-11-07 11:00",
+  "from": "2026-10-09 05:40",
+  "to": "2026-11-08 05:40",
   "days": 30
  },
  "streams_analyzed": 22,
  "streams_missed": 0,
- "unique_chatters": 2644,
- "members_confirmed": 604,
+ "unique_chatters": 3556,
+ "members_confirmed": 858,
  "member_classes": {
-  "known": 182,
-  "unknown": 279,
-  "gift": 143
+  "known": 237,
+  "unknown": 341,
+  "gift": 280
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 151
+   "members": 283
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 21
+   "members": 28
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 47
+   "members": 56
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 37
+   "members": 43
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 96
+   "members": 121
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 77
+   "members": 102
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 71
+   "members": 91
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 104
+   "members": 134
   }
  ],
  "events": {
-  "new_members": 6,
-  "rejoins": 8,
-  "milestones": 144,
-  "gift_purchases": 38,
-  "gifted_total": 143,
-  "gift_redemptions": 143
+  "new_members": 10,
+  "rejoins": 11,
+  "milestones": 219,
+  "gift_purchases": 50,
+  "gifted_total": 282,
+  "gift_redemptions": 281
  },
  "tiers_configured": true,
  "tiers": [
@@ -75,21 +75,21 @@
    "tier": "the Ukiverse",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 182,
+   "confirmed_members": 237,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 279.0,
-   "estimated_members": 461.0,
-   "monthly_net_confirmed": 56751,
-   "monthly_net_estimated": 143748
+   "allocated_unknown": 341.0,
+   "estimated_members": 578.0,
+   "monthly_net_confirmed": 73901,
+   "monthly_net_estimated": 180231
   }
  ],
  "revenue": {
-  "monthly_low": 143748,
-  "monthly_est": 143748,
-  "gift_once": 44590,
-  "total_low": 188338,
-  "total_est": 188338,
-  "paying_members": 461,
+  "monthly_low": 180231,
+  "monthly_est": 180231,
+  "gift_once": 87933,
+  "total_low": 268164,
+  "total_est": 268164,
+  "paying_members": 578,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,26 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "T3mmiH68_m0",
-   "start": "2026-10-08 14:30",
-   "title": "【​​DRESSMAKER】so you think this has nothing to do with you 👗",
-   "kind": "配信",
-   "chatters": 220,
-   "member_chatters": 81,
-   "new_members": 0,
-   "gifted_total": 7
-  },
-  {
-   "video_id": "MIRthbZK1mQ",
-   "start": "2026-10-08 21:09",
-   "title": "【LEAGUE OF LEGENDS】before-midnight clash practice",
-   "kind": "配信",
-   "chatters": 105,
-   "member_chatters": 54,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "TYU_FHxsF-c",
    "start": "2026-10-10 22:03",
@@ -317,6 +297,26 @@
    "member_chatters": 101,
    "new_members": 0,
    "gifted_total": 10
+  },
+  {
+   "video_id": "nQD2xJfwpGw",
+   "start": "2026-11-07 09:01",
+   "title": "【#DistrictV2 EP.3】Vi is remembering...but at what cost? 🔪",
+   "kind": "配信",
+   "chatters": 251,
+   "member_chatters": 103,
+   "new_members": 0,
+   "gifted_total": 1
+  },
+  {
+   "video_id": "dqljwDsFERE",
+   "start": "2026-11-07 21:01",
+   "title": "【#VioletAuCourant | OUTFIT REVEAL】the U in SEUP! 💜 #ImAtTheSEUPStore",
+   "kind": "配信",
+   "chatters": 1727,
+   "member_chatters": 531,
+   "new_members": 4,
+   "gifted_total": 145
   }
  ],
  "missed_streams": [],
@@ -467,78 +467,79 @@
    },
    "avg_member_chatters": 105.0,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 05:41"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 4,
+   "streams_analyzed": 6,
    "streams_missed": 0,
-   "unique_chatters": 740,
-   "members_confirmed": 253,
+   "unique_chatters": 2156,
+   "members_confirmed": 624,
    "member_classes": {
-    "unknown": 123,
-    "known": 114,
-    "gift": 16
+    "known": 207,
+    "unknown": 257,
+    "gift": 160
    },
-   "long_term_members": 178,
+   "long_term_members": 363,
    "badges": [
     {
      "months": 0,
-     "members": 23
+     "members": 165
     },
     {
      "months": 1,
-     "members": 9
-    },
-    {
-     "months": 2,
      "members": 23
     },
     {
+     "months": 2,
+     "members": 36
+    },
+    {
      "months": 6,
-     "members": 20
+     "members": 37
     },
     {
      "months": 12,
-     "members": 49
+     "members": 96
     },
     {
      "months": 24,
-     "members": 29
+     "members": 80
     },
     {
      "months": 36,
-     "members": 43
+     "members": 79
     },
     {
      "months": 48,
-     "members": 57
+     "members": 108
     }
    ],
    "events": {
-    "new_members": 1,
-    "rejoins": 3,
-    "milestones": 19,
-    "gifted_total": 16
+    "new_members": 5,
+    "rejoins": 6,
+    "milestones": 99,
+    "gifted_total": 162
    },
    "tiers": [
     {
      "tier": "the Ukiverse",
      "price": 490,
-     "confirmed_members": 114,
-     "estimated_members": 237.0
+     "confirmed_members": 207,
+     "estimated_members": 464.0
     }
    ],
    "revenue": {
-    "monthly_low": 73901,
-    "monthly_est": 73901,
-    "gift_once": 4989
+    "monthly_low": 144684,
+    "monthly_est": 144684,
+    "gift_once": 50515
    },
-   "avg_member_chatters": 113.5,
+   "avg_member_chatters": 181.3,
    "partial": true,
    "finalized": false
   }

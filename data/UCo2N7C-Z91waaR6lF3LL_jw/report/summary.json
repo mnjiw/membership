@@ -3,11 +3,11 @@
  "channel_id": "UCo2N7C-Z91waaR6lF3LL_jw",
  "handle": "@KaidaHaru",
  "subscribers": 742000,
- "fetched_at": "2026-11-07 10:56",
- "generated_at": "2026-11-07 10:56",
+ "fetched_at": "2026-11-08 05:27",
+ "generated_at": "2026-11-08 05:27",
  "period": {
-  "from": "2026-10-08 10:56",
-  "to": "2026-11-07 10:56",
+  "from": "2026-10-09 05:27",
+  "to": "2026-11-08 05:27",
   "days": 30
  },
  "streams_analyzed": 17,
@@ -289,7 +289,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "研修助手コース",
-   "like_count": 855,
+   "like_count": 856,
    "view_count": null
   }
  ],
@@ -301,7 +301,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "研修助手コース",
-   "like_count": 855,
+   "like_count": 856,
    "view_count": null
   }
  ],
@@ -461,13 +461,14 @@
    },
    "avg_member_chatters": 737,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 05:27"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
    "streams_analyzed": 2,
    "streams_missed": 0,

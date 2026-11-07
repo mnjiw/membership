@@ -3,19 +3,19 @@
  "channel_id": "UCmovZ2th3Sqpd00F5RdeigQ",
  "handle": "@KagamiHayato",
  "subscribers": 964000,
- "fetched_at": "2026-11-07 10:55",
- "generated_at": "2026-11-07 10:55",
+ "fetched_at": "2026-11-08 05:23",
+ "generated_at": "2026-11-08 05:24",
  "period": {
-  "from": "2026-10-08 10:55",
-  "to": "2026-11-07 10:55",
+  "from": "2026-10-09 05:23",
+  "to": "2026-11-08 05:23",
   "days": 30
  },
- "streams_analyzed": 19,
- "streams_missed": 3,
- "unique_chatters": 9972,
- "members_confirmed": 3460,
+ "streams_analyzed": 18,
+ "streams_missed": 2,
+ "unique_chatters": 9761,
+ "members_confirmed": 3436,
  "member_classes": {
-  "unknown": 3278,
+  "unknown": 3254,
   "known": 57,
   "gift": 125
  },
@@ -28,27 +28,27 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 78
+   "members": 77
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 242
+   "members": 240
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 509
+   "members": 507
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 763
+   "members": 758
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 1665
+   "members": 1651
   }
  ],
  "events": {
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 57,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 3278.0,
-   "estimated_members": 3335.0,
+   "allocated_unknown": 3254.0,
+   "estimated_members": 3311.0,
    "monthly_net_confirmed": 17774,
-   "monthly_net_estimated": 1039914
+   "monthly_net_estimated": 1032430
   }
  ],
  "revenue": {
-  "monthly_low": 1039914,
-  "monthly_est": 1039914,
+  "monthly_low": 1032430,
+  "monthly_est": 1032430,
   "gift_once": 40536,
-  "total_low": 1080450,
-  "total_est": 1080450,
-  "paying_members": 3335,
+  "total_low": 1072966,
+  "total_est": 1072966,
+  "paying_members": 3311,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "IM7p2ygR9bU",
-   "start": "2026-10-08 22:00",
-   "title": "【Dinoblade】　帯刀したスピノサウルスで、頂点捕食者に挑む　【にじさんじ/加賀美ハヤト】",
-   "kind": "配信",
-   "chatters": 1365,
-   "member_chatters": 760,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "buuUBqaIRyQ",
    "start": "2026-10-10 22:00",
@@ -289,20 +279,8 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 1032,
+   "like_count": 1033,
    "view_count": null
-  },
-  {
-   "video_id": "tSscxX-tnBo",
-   "start": "2026-11-04 00:00",
-   "title": "【LIVE】デストロイアガール / 加賀美ハヤト #加賀美ハヤト_1stライブBD",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 8177,
-   "view_count": 116488
   },
   {
    "video_id": "bJ-RhZ-cjVM",
@@ -313,7 +291,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 824,
+   "like_count": 954,
    "view_count": null
   }
  ],
@@ -325,7 +303,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 1032,
+   "like_count": 1033,
    "view_count": null
   },
   {
@@ -335,7 +313,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 824,
+   "like_count": 954,
    "view_count": null
   }
  ],
@@ -469,16 +447,17 @@
    },
    "avg_member_chatters": 940.8,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 05:24"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
    "streams_analyzed": 5,
-   "streams_missed": 2,
+   "streams_missed": 1,
    "unique_chatters": 2954,
    "members_confirmed": 1536,
    "member_classes": {

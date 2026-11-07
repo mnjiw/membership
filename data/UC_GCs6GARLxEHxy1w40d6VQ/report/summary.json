@@ -3,71 +3,71 @@
  "channel_id": "UC_GCs6GARLxEHxy1w40d6VQ",
  "handle": "@IenagaMugi",
  "subscribers": 309000,
- "fetched_at": "2026-11-07 10:54",
- "generated_at": "2026-11-07 10:54",
+ "fetched_at": "2026-11-08 05:19",
+ "generated_at": "2026-11-08 05:19",
  "period": {
-  "from": "2026-10-08 10:54",
-  "to": "2026-11-07 10:54",
+  "from": "2026-10-09 05:19",
+  "to": "2026-11-08 05:19",
   "days": 30
  },
- "streams_analyzed": 9,
+ "streams_analyzed": 10,
  "streams_missed": 4,
- "unique_chatters": 2024,
- "members_confirmed": 240,
+ "unique_chatters": 2434,
+ "members_confirmed": 361,
  "member_classes": {
-  "unknown": 200,
-  "known": 15,
-  "gift": 25
+  "unknown": 270,
+  "known": 31,
+  "gift": 60
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 38
+   "members": 75
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 10
+   "members": 12
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 29
+   "members": 32
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 30
+   "members": 42
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 38
+   "members": 48
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 33
+   "members": 51
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 18
+   "members": 36
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 44
+   "members": 65
   }
  ],
  "events": {
-  "new_members": 8,
-  "rejoins": 0,
-  "milestones": 6,
-  "gift_purchases": 7,
-  "gifted_total": 25,
-  "gift_redemptions": 25
+  "new_members": 12,
+  "rejoins": 1,
+  "milestones": 16,
+  "gift_purchases": 12,
+  "gifted_total": 60,
+  "gift_redemptions": 60
  },
  "tiers_configured": true,
  "tiers": [
@@ -75,21 +75,21 @@
    "tier": "もっといっぱい家長むぎ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 15,
+   "confirmed_members": 31,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 200.0,
-   "estimated_members": 215.0,
-   "monthly_net_confirmed": 4677,
-   "monthly_net_estimated": 67041
+   "allocated_unknown": 270.0,
+   "estimated_members": 301.0,
+   "monthly_net_confirmed": 9666,
+   "monthly_net_estimated": 93857
   }
  ],
  "revenue": {
-  "monthly_low": 67041,
-  "monthly_est": 67041,
-  "gift_once": 7795,
-  "total_low": 74836,
-  "total_est": 74836,
-  "paying_members": 215,
+  "monthly_low": 93857,
+  "monthly_est": 93857,
+  "gift_once": 18709,
+  "total_low": 112566,
+  "total_est": 112566,
+  "paying_members": 301,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -187,6 +187,16 @@
    "member_chatters": 81,
    "new_members": 2,
    "gifted_total": 0
+  },
+  {
+   "video_id": "NJ4PDap-bKg",
+   "start": "2026-11-07 22:00",
+   "title": "【告知あり！】誕生日🍰祝23歳＆表彰されたよ&うれしい告知【 にじさんじ / 家長むぎ 】",
+   "kind": "配信",
+   "chatters": 703,
+   "member_chatters": 242,
+   "new_members": 4,
+   "gifted_total": 35
   }
  ],
  "missed_streams": [
@@ -223,7 +233,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 55,
+   "like_count": 56,
    "view_count": null
   },
   {
@@ -235,7 +245,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 53,
+   "like_count": 55,
    "view_count": null
   }
  ],
@@ -267,7 +277,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 55,
+   "like_count": 56,
    "view_count": null
   },
   {
@@ -277,7 +287,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 53,
+   "like_count": 55,
    "view_count": null
   }
  ],
@@ -427,77 +437,79 @@
    },
    "avg_member_chatters": 54.3,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 05:19"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 2,
+   "streams_analyzed": 3,
    "streams_missed": 1,
-   "unique_chatters": 634,
-   "members_confirmed": 106,
+   "unique_chatters": 1186,
+   "members_confirmed": 280,
    "member_classes": {
-    "unknown": 98,
-    "known": 8
+    "unknown": 220,
+    "known": 25,
+    "gift": 35
    },
-   "long_term_members": 68,
+   "long_term_members": 171,
    "badges": [
     {
      "months": 0,
-     "members": 8
+     "members": 46
     },
     {
      "months": 1,
-     "members": 6
+     "members": 10
     },
     {
      "months": 2,
-     "members": 7
-    },
-    {
-     "months": 6,
      "members": 17
     },
     {
+     "months": 6,
+     "members": 36
+    },
+    {
      "months": 12,
-     "members": 12
+     "members": 37
     },
     {
      "months": 24,
-     "members": 18
+     "members": 41
     },
     {
      "months": 36,
-     "members": 8
+     "members": 33
     },
     {
      "months": 48,
-     "members": 30
+     "members": 60
     }
    ],
    "events": {
-    "new_members": 3,
-    "rejoins": 0,
-    "milestones": 1,
-    "gifted_total": 0
+    "new_members": 7,
+    "rejoins": 1,
+    "milestones": 11,
+    "gifted_total": 35
    },
    "tiers": [
     {
      "tier": "もっといっぱい家長むぎ",
      "price": 490,
-     "confirmed_members": 8,
-     "estimated_members": 106.0
+     "confirmed_members": 25,
+     "estimated_members": 245.0
     }
    ],
    "revenue": {
-    "monthly_low": 33053,
-    "monthly_est": 33053,
-    "gift_once": 0
+    "monthly_low": 76395,
+    "monthly_est": 76395,
+    "gift_once": 10914
    },
-   "avg_member_chatters": 61,
+   "avg_member_chatters": 121.3,
    "partial": true,
    "finalized": false
   }

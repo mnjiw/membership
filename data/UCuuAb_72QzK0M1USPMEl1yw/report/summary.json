@@ -2,21 +2,21 @@
  "channel": "Sonny Brisko 【NIJISANJI EN】",
  "channel_id": "UCuuAb_72QzK0M1USPMEl1yw",
  "handle": "@SonnyBrisko",
- "subscribers": 546000,
- "fetched_at": "2026-11-07 11:00",
- "generated_at": "2026-11-07 11:00",
+ "subscribers": 547000,
+ "fetched_at": "2026-11-08 05:40",
+ "generated_at": "2026-11-08 05:41",
  "period": {
-  "from": "2026-10-08 11:00",
-  "to": "2026-11-07 11:00",
+  "from": "2026-10-09 05:40",
+  "to": "2026-11-08 05:40",
   "days": 30
  },
- "streams_analyzed": 21,
+ "streams_analyzed": 23,
  "streams_missed": 0,
- "unique_chatters": 1819,
- "members_confirmed": 572,
+ "unique_chatters": 1873,
+ "members_confirmed": 585,
  "member_classes": {
-  "unknown": 363,
-  "known": 119,
+  "unknown": 373,
+  "known": 122,
   "gift": 90
  },
  "badges": [
@@ -48,13 +48,13 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 286
+   "members": 299
   }
  ],
  "events": {
   "new_members": 12,
   "rejoins": 7,
-  "milestones": 80,
+  "milestones": 85,
   "gift_purchases": 22,
   "gifted_total": 90,
   "gift_redemptions": 90
@@ -65,21 +65,21 @@
    "tier": "Brisquad",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 119,
+   "confirmed_members": 122,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 363.0,
-   "estimated_members": 482.0,
-   "monthly_net_confirmed": 37106,
-   "monthly_net_estimated": 150296
+   "allocated_unknown": 373.0,
+   "estimated_members": 495.0,
+   "monthly_net_confirmed": 38042,
+   "monthly_net_estimated": 154350
   }
  ],
  "revenue": {
-  "monthly_low": 150296,
-  "monthly_est": 150296,
+  "monthly_low": 154350,
+  "monthly_est": 154350,
   "gift_once": 28064,
-  "total_low": 178360,
-  "total_est": 178360,
-  "paying_members": 482,
+  "total_low": 182414,
+  "total_est": 182414,
+  "paying_members": 495,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -297,6 +297,26 @@
    "member_chatters": 128,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "yTB0_wcQDEk",
+   "start": "2026-11-07 12:02",
+   "title": "【Arknights: Endfield】Well, hello handsome!【NIJISANJI EN | Sonny Brisko】",
+   "kind": "配信",
+   "chatters": 172,
+   "member_chatters": 116,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "flZl7iKVqMA",
+   "start": "2026-11-07 16:46",
+   "title": "【#DistrictV2 DAY 4】another Smiley day for Sonny【NIJISANJI EN | Sonny Brisko】",
+   "kind": "配信",
+   "chatters": 166,
+   "member_chatters": 92,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -431,24 +451,25 @@
    },
    "avg_member_chatters": 125.5,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 05:41"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 5,
    "streams_missed": 0,
-   "unique_chatters": 993,
-   "members_confirmed": 368,
+   "unique_chatters": 1071,
+   "members_confirmed": 398,
    "member_classes": {
-    "unknown": 214,
-    "known": 79,
+    "unknown": 236,
+    "known": 87,
     "gift": 75
    },
-   "long_term_members": 220,
+   "long_term_members": 243,
    "badges": [
     {
      "months": 0,
@@ -460,41 +481,41 @@
     },
     {
      "months": 2,
-     "members": 25
+     "members": 28
     },
     {
      "months": 6,
-     "members": 31
+     "members": 35
     },
     {
      "months": 12,
-     "members": 37
+     "members": 39
     },
     {
      "months": 24,
-     "members": 183
+     "members": 204
     }
    ],
    "events": {
     "new_members": 1,
     "rejoins": 0,
-    "milestones": 21,
+    "milestones": 26,
     "gifted_total": 75
    },
    "tiers": [
     {
      "tier": "Brisquad",
      "price": 490,
-     "confirmed_members": 79,
-     "estimated_members": 293.0
+     "confirmed_members": 87,
+     "estimated_members": 323.0
     }
    ],
    "revenue": {
-    "monthly_low": 91363,
-    "monthly_est": 91363,
+    "monthly_low": 100717,
+    "monthly_est": 100717,
     "gift_once": 23386
    },
-   "avg_member_chatters": 196,
+   "avg_member_chatters": 159.2,
    "partial": true,
    "finalized": false
   }

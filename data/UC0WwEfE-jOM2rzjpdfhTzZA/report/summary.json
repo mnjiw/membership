@@ -3,22 +3,27 @@
  "channel_id": "UC0WwEfE-jOM2rzjpdfhTzZA",
  "handle": "@AizonoManami",
  "subscribers": 180000,
- "fetched_at": "2026-11-07 10:55",
- "generated_at": "2026-11-07 10:55",
+ "fetched_at": "2026-11-08 05:22",
+ "generated_at": "2026-11-08 05:22",
  "period": {
-  "from": "2026-10-08 10:55",
-  "to": "2026-11-07 10:55",
+  "from": "2026-10-09 05:22",
+  "to": "2026-11-08 05:22",
   "days": 30
  },
- "streams_analyzed": 3,
+ "streams_analyzed": 4,
  "streams_missed": 0,
- "unique_chatters": 72,
- "members_confirmed": 26,
+ "unique_chatters": 85,
+ "members_confirmed": 31,
  "member_classes": {
-  "unknown": 24,
-  "known": 2
+  "unknown": 27,
+  "known": 4
  },
  "badges": [
+  {
+   "months": 6,
+   "label": "6ヶ月",
+   "members": 1
+  },
   {
    "months": 12,
    "label": "1年",
@@ -27,13 +32,13 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 24
+   "members": 28
   }
  ],
  "events": {
   "new_members": 0,
   "rejoins": 1,
-  "milestones": 1,
+  "milestones": 3,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -44,21 +49,21 @@
    "tier": "愛民",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 2,
+   "confirmed_members": 4,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 24.0,
-   "estimated_members": 26.0,
-   "monthly_net_confirmed": 624,
-   "monthly_net_estimated": 8107
+   "allocated_unknown": 27.0,
+   "estimated_members": 31.0,
+   "monthly_net_confirmed": 1247,
+   "monthly_net_estimated": 9666
   }
  ],
  "revenue": {
-  "monthly_low": 8107,
-  "monthly_est": 8107,
+  "monthly_low": 9666,
+  "monthly_est": 9666,
   "gift_once": 0,
-  "total_low": 8107,
-  "total_est": 8107,
-  "paying_members": 26,
+  "total_low": 9666,
+  "total_est": 9666,
+  "paying_members": 31,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -96,6 +101,16 @@
    "member_chatters": 16,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "xyfzqUP1dlQ",
+   "start": "2026-11-07 15:17",
+   "title": "【#にじイカ祭り2026 】お祭り本番！勝つのもだいすき～ #にじすきWIN【にじさんじ/愛園愛美】",
+   "kind": "配信",
+   "chatters": 37,
+   "member_chatters": 22,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -105,47 +120,51 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-03",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 4,
    "streams_missed": 0,
-   "unique_chatters": 72,
-   "members_confirmed": 26,
+   "unique_chatters": 85,
+   "members_confirmed": 31,
    "member_classes": {
-    "unknown": 24,
-    "known": 2
+    "unknown": 27,
+    "known": 4
    },
-   "long_term_members": 26,
+   "long_term_members": 30,
    "badges": [
+    {
+     "months": 6,
+     "members": 1
+    },
     {
      "months": 12,
      "members": 2
     },
     {
      "months": 24,
-     "members": 24
+     "members": 28
     }
    ],
    "events": {
     "new_members": 0,
     "rejoins": 1,
-    "milestones": 1,
+    "milestones": 3,
     "gifted_total": 0
    },
    "tiers": [
     {
      "tier": "愛民",
      "price": 490,
-     "confirmed_members": 2,
-     "estimated_members": 26.0
+     "confirmed_members": 4,
+     "estimated_members": 31.0
     }
    ],
    "revenue": {
-    "monthly_low": 8107,
-    "monthly_est": 8107,
+    "monthly_low": 9666,
+    "monthly_est": 9666,
     "gift_once": 0
    },
-   "avg_member_chatters": 17.3,
+   "avg_member_chatters": 18.5,
    "partial": true,
    "finalized": false
   }

@@ -3,11 +3,11 @@
  "channel_id": "UChUJbHiTVeGrSkTdBzVfNCQ",
  "handle": "@JoeRikiichi",
  "subscribers": 667000,
- "fetched_at": "2026-11-07 10:54",
- "generated_at": "2026-11-07 10:54",
+ "fetched_at": "2026-11-08 05:21",
+ "generated_at": "2026-11-08 05:21",
  "period": {
-  "from": "2026-10-08 10:54",
-  "to": "2026-11-07 10:54",
+  "from": "2026-10-09 05:21",
+  "to": "2026-11-08 05:21",
   "days": 30
  },
  "streams_analyzed": 9,
@@ -188,7 +188,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 264,
+   "like_count": 266,
    "view_count": null
   }
  ],
@@ -200,7 +200,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 264,
+   "like_count": 266,
    "view_count": null
   }
  ],
@@ -334,13 +334,14 @@
    },
    "avg_member_chatters": 235.8,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 05:21"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
    "streams_analyzed": 3,
    "streams_missed": 1,

@@ -3,19 +3,19 @@
  "channel_id": "UCFimqykDM5g9a5KxlW_e7ZQ",
  "handle": "@Onotora_Y4T4",
  "subscribers": 127000,
- "fetched_at": "2026-11-07 10:59",
- "generated_at": "2026-11-07 10:59",
+ "fetched_at": "2026-11-08 05:37",
+ "generated_at": "2026-11-08 05:38",
  "period": {
-  "from": "2026-10-08 10:59",
-  "to": "2026-11-07 10:59",
+  "from": "2026-10-09 05:37",
+  "to": "2026-11-08 05:37",
   "days": 30
  },
  "streams_analyzed": 24,
- "streams_missed": 2,
- "unique_chatters": 2329,
- "members_confirmed": 354,
+ "streams_missed": 3,
+ "unique_chatters": 2347,
+ "members_confirmed": 355,
  "member_classes": {
-  "unknown": 290,
+  "unknown": 291,
   "known": 43,
   "gift": 21
  },
@@ -23,17 +23,17 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 79
+   "members": 80
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 31
+   "members": 29
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 244
+   "members": 246
   }
  ],
  "events": {
@@ -52,19 +52,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 43,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 290.0,
-   "estimated_members": 333.0,
+   "allocated_unknown": 291.0,
+   "estimated_members": 334.0,
    "monthly_net_confirmed": 13408,
-   "monthly_net_estimated": 103835
+   "monthly_net_estimated": 104147
   }
  ],
  "revenue": {
-  "monthly_low": 103835,
-  "monthly_est": 103835,
+  "monthly_low": 104147,
+  "monthly_est": 104147,
   "gift_once": 6548,
-  "total_low": 110384,
-  "total_est": 110384,
-  "paying_members": 333,
+  "total_low": 110695,
+  "total_est": 110695,
+  "paying_members": 334,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "pQU5OrD0o7g",
-   "start": "2026-10-08 23:00",
-   "title": "【 あつまれ どうぶつの森 】さらばヘルツ、全額カブ買取キャンペーンの日【にじさんじ / 男虎】",
-   "kind": "配信",
-   "chatters": 175,
-   "member_chatters": 81,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "K_xfDj6Y2mE",
    "start": "2026-10-09 19:10",
@@ -312,6 +302,16 @@
    "member_chatters": 93,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "HMcvv34gNMg",
+   "start": "2026-11-07 17:04",
+   "title": "【 #にじイカ祭り2026 】本番！！けんちゃな～ずWIN！！！　【にじさんじ/男虎】",
+   "kind": "配信",
+   "chatters": 287,
+   "member_chatters": 119,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -336,7 +336,19 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "オノヘッズ",
-   "like_count": 72,
+   "like_count": 73,
+   "view_count": null
+  },
+  {
+   "video_id": "FL17t-b8zwc",
+   "start": "2026-11-07 21:54",
+   "title": "【メン限】ちょろっとメン限【にじさんじ】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "オノヘッズ",
+   "like_count": 107,
    "view_count": null
   }
  ],
@@ -358,7 +370,17 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "オノヘッズ",
-   "like_count": 72,
+   "like_count": 73,
+   "view_count": null
+  },
+  {
+   "video_id": "FL17t-b8zwc",
+   "start": "2026-11-07 21:54",
+   "title": "【メン限】ちょろっとメン限【にじさんじ】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "オノヘッズ",
+   "like_count": 107,
    "view_count": null
   }
  ],
@@ -468,36 +490,37 @@
    },
    "avg_member_chatters": 101.6,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 05:38"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 8,
-   "streams_missed": 0,
-   "unique_chatters": 1032,
-   "members_confirmed": 212,
+   "streams_analyzed": 9,
+   "streams_missed": 1,
+   "unique_chatters": 1120,
+   "members_confirmed": 228,
    "member_classes": {
-    "unknown": 182,
-    "known": 29,
+    "unknown": 196,
+    "known": 31,
     "gift": 1
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 44
+     "members": 47
     },
     {
      "months": 1,
-     "members": 18
+     "members": 17
     },
     {
      "months": 2,
-     "members": 150
+     "members": 164
     }
    ],
    "events": {
@@ -510,16 +533,16 @@
     {
      "tier": "オノヘッズ",
      "price": 490,
-     "confirmed_members": 29,
-     "estimated_members": 211.0
+     "confirmed_members": 31,
+     "estimated_members": 227.0
     }
    ],
    "revenue": {
-    "monthly_low": 65794,
-    "monthly_est": 65794,
+    "monthly_low": 70783,
+    "monthly_est": 70783,
     "gift_once": 312
    },
-   "avg_member_chatters": 102.9,
+   "avg_member_chatters": 104.7,
    "partial": true,
    "finalized": false
   }

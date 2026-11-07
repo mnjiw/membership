@@ -3,11 +3,11 @@
  "channel_id": "UClMYGvekJOb51eBOCK-d4Dw",
  "handle": "@ZealGinjoka",
  "subscribers": 191000,
- "fetched_at": "2026-11-07 11:00",
- "generated_at": "2026-11-07 11:00",
+ "fetched_at": "2026-11-08 05:42",
+ "generated_at": "2026-11-08 05:42",
  "period": {
-  "from": "2026-10-08 11:00",
-  "to": "2026-11-07 11:00",
+  "from": "2026-10-09 05:42",
+  "to": "2026-11-08 05:42",
   "days": 30
  },
  "streams_analyzed": 17,
@@ -276,7 +276,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 156,
+   "like_count": 157,
    "view_count": null
   }
  ],
@@ -298,7 +298,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 156,
+   "like_count": 157,
    "view_count": null
   }
  ],
@@ -424,13 +424,14 @@
    },
    "avg_member_chatters": 186.8,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 05:42"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
    "streams_analyzed": 2,
    "streams_missed": 0,

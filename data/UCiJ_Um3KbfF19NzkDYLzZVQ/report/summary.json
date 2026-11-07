@@ -2,21 +2,21 @@
  "channel": "綺沙良 / Kisara【にじさんじ】",
  "channel_id": "UCiJ_Um3KbfF19NzkDYLzZVQ",
  "handle": "@Kisara_nijisanji",
- "subscribers": 230000,
- "fetched_at": "2026-11-07 10:59",
- "generated_at": "2026-11-07 10:59",
+ "subscribers": 231000,
+ "fetched_at": "2026-11-08 05:35",
+ "generated_at": "2026-11-08 05:35",
  "period": {
-  "from": "2026-10-08 10:59",
-  "to": "2026-11-07 10:59",
+  "from": "2026-10-09 05:35",
+  "to": "2026-11-08 05:35",
   "days": 30
  },
- "streams_analyzed": 32,
+ "streams_analyzed": 33,
  "streams_missed": 2,
- "unique_chatters": 3505,
- "members_confirmed": 451,
+ "unique_chatters": 3517,
+ "members_confirmed": 446,
  "member_classes": {
-  "known": 115,
-  "unknown": 331,
+  "known": 114,
+  "unknown": 327,
   "gift": 5
  },
  "badges": [
@@ -28,33 +28,33 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 24
+   "members": 23
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 80
+   "members": 76
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 75
+   "members": 80
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 107
+   "members": 105
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 100
+   "members": 97
   }
  ],
  "events": {
-  "new_members": 44,
-  "rejoins": 11,
-  "milestones": 32,
+  "new_members": 42,
+  "rejoins": 9,
+  "milestones": 28,
   "gift_purchases": 1,
   "gifted_total": 5,
   "gift_redemptions": 5
@@ -65,21 +65,21 @@
    "tier": "うちの常連さん",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 115,
+   "confirmed_members": 114,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 331.0,
-   "estimated_members": 446.0,
-   "monthly_net_confirmed": 35859,
-   "monthly_net_estimated": 139071
+   "allocated_unknown": 327.0,
+   "estimated_members": 441.0,
+   "monthly_net_confirmed": 35547,
+   "monthly_net_estimated": 137512
   }
  ],
  "revenue": {
-  "monthly_low": 139071,
-  "monthly_est": 139071,
+  "monthly_low": 137512,
+  "monthly_est": 137512,
   "gift_once": 1559,
-  "total_low": 140630,
-  "total_est": 140630,
-  "paying_members": 446,
+  "total_low": 139071,
+  "total_est": 139071,
+  "paying_members": 441,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "4wWzt22xB9c",
-   "start": "2026-10-08 20:59",
-   "title": "【作業】とてもまったりお絵描き配信！メンシプスタンプ描きたい🎨【綺沙良/にじさんじ】",
-   "kind": "配信",
-   "chatters": 248,
-   "member_chatters": 138,
-   "new_members": 5,
-   "gifted_total": 0
-  },
   {
    "video_id": "vwX_UafmtSc",
    "start": "2026-10-09 23:03",
@@ -407,6 +397,26 @@
    "member_chatters": 36,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "eiji3BX4LzA",
+   "start": "2026-11-07 18:03",
+   "title": "#にじイカ祭り2026 大会予選Bリーグ！ボムコロれちご #水とーよWIN 【綺沙良/にじさんじ】",
+   "kind": "配信",
+   "chatters": 157,
+   "member_chatters": 94,
+   "new_members": 1,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "3CQ_vYa1ATg",
+   "start": "2026-11-07 22:59",
+   "title": "飲酒雑談│にゃるちょ お誕生日会🍥🎂【綺沙良/にじさんじ】",
+   "kind": "配信",
+   "chatters": 204,
+   "member_chatters": 101,
+   "new_members": 2,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -431,7 +441,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "うちの常連さん",
-   "like_count": 98,
+   "like_count": 99,
    "view_count": null
   }
  ],
@@ -453,7 +463,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "うちの常連さん",
-   "like_count": 98,
+   "like_count": 99,
    "view_count": null
   }
  ],
@@ -587,69 +597,70 @@
    },
    "avg_member_chatters": 76.6,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 05:35"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 10,
+   "streams_analyzed": 12,
    "streams_missed": 1,
-   "unique_chatters": 1089,
-   "members_confirmed": 214,
+   "unique_chatters": 1217,
+   "members_confirmed": 261,
    "member_classes": {
-    "unknown": 150,
-    "known": 64
+    "unknown": 189,
+    "known": 72
    },
-   "long_term_members": 111,
+   "long_term_members": 137,
    "badges": [
     {
      "months": 0,
-     "members": 20
+     "members": 24
     },
     {
      "months": 1,
-     "members": 10
+     "members": 11
     },
     {
      "months": 2,
-     "members": 36
+     "members": 39
     },
     {
      "months": 6,
-     "members": 37
+     "members": 50
     },
     {
      "months": 12,
-     "members": 52
+     "members": 64
     },
     {
      "months": 24,
-     "members": 59
+     "members": 73
     }
    ],
    "events": {
-    "new_members": 10,
+    "new_members": 13,
     "rejoins": 3,
-    "milestones": 5,
+    "milestones": 8,
     "gifted_total": 0
    },
    "tiers": [
     {
      "tier": "うちの常連さん",
      "price": 490,
-     "confirmed_members": 64,
-     "estimated_members": 214.0
+     "confirmed_members": 72,
+     "estimated_members": 261.0
     }
    ],
    "revenue": {
-    "monthly_low": 66729,
-    "monthly_est": 66729,
+    "monthly_low": 81385,
+    "monthly_est": 81385,
     "gift_once": 0
    },
-   "avg_member_chatters": 57.1,
+   "avg_member_chatters": 63.8,
    "partial": true,
    "finalized": false
   }

@@ -2,47 +2,51 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-03",
-  "to": "2026-11-07"
+  "to": "2026-11-08"
  },
- "streams_analyzed": 3,
+ "streams_analyzed": 4,
  "streams_missed": 0,
- "unique_chatters": 72,
- "members_confirmed": 26,
+ "unique_chatters": 85,
+ "members_confirmed": 31,
  "member_classes": {
-  "unknown": 24,
-  "known": 2
+  "unknown": 27,
+  "known": 4
  },
- "long_term_members": 26,
+ "long_term_members": 30,
  "badges": [
+  {
+   "months": 6,
+   "members": 1
+  },
   {
    "months": 12,
    "members": 2
   },
   {
    "months": 24,
-   "members": 24
+   "members": 28
   }
  ],
  "events": {
   "new_members": 0,
   "rejoins": 1,
-  "milestones": 1,
+  "milestones": 3,
   "gifted_total": 0
  },
  "tiers": [
   {
    "tier": "愛民",
    "price": 490,
-   "confirmed_members": 2,
-   "estimated_members": 26.0
+   "confirmed_members": 4,
+   "estimated_members": 31.0
   }
  ],
  "revenue": {
-  "monthly_low": 8107,
-  "monthly_est": 8107,
+  "monthly_low": 9666,
+  "monthly_est": 9666,
   "gift_once": 0
  },
- "avg_member_chatters": 17.3,
+ "avg_member_chatters": 18.5,
  "partial": true,
  "finalized": false
 }
