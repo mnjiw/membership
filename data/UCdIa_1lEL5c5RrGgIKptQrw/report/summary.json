@@ -2,38 +2,38 @@
  "channel": "Linon ch. 天籠りのん",
  "channel_id": "UCdIa_1lEL5c5RrGgIKptQrw",
  "handle": "@LinonAmakomo",
- "subscribers": 88700,
- "fetched_at": "2026-11-07 11:06",
- "generated_at": "2026-11-07 11:07",
+ "subscribers": 88800,
+ "fetched_at": "2026-11-08 06:48",
+ "generated_at": "2026-11-08 06:48",
  "period": {
-  "from": "2026-10-08 11:06",
-  "to": "2026-11-07 11:06",
+  "from": "2026-10-09 06:48",
+  "to": "2026-11-08 06:48",
   "days": 30
  },
  "streams_analyzed": 22,
  "streams_missed": 4,
- "unique_chatters": 1720,
- "members_confirmed": 986,
+ "unique_chatters": 1707,
+ "members_confirmed": 984,
  "member_classes": {
-  "known": 98,
-  "unknown": 274,
-  "gift": 614
+  "unknown": 269,
+  "known": 102,
+  "gift": 613
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 723
+   "members": 720
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 57
+   "members": 58
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 71
+   "members": 73
   },
   {
    "months": 6,
@@ -48,11 +48,11 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 82
+   "members": 80
   }
  ],
  "events": {
-  "new_members": 27,
+  "new_members": 28,
   "rejoins": 2,
   "milestones": 23,
   "gift_purchases": 48,
@@ -65,32 +65,32 @@
    "tier": "あまこも超親衛隊",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 86,
-   "share_of_confirmed_pct": 87.8,
-   "allocated_unknown": 240.4,
-   "estimated_members": 326.4,
-   "monthly_net_confirmed": 26816,
-   "monthly_net_estimated": 101793
+   "confirmed_members": 90,
+   "share_of_confirmed_pct": 88.2,
+   "allocated_unknown": 237.4,
+   "estimated_members": 327.4,
+   "monthly_net_confirmed": 28064,
+   "monthly_net_estimated": 102075
   },
   {
    "tier": "あまこも超絶親衛隊",
    "price": 3490,
    "net_per_member": 2220.9,
    "confirmed_members": 12,
-   "share_of_confirmed_pct": 12.2,
-   "allocated_unknown": 33.6,
-   "estimated_members": 45.6,
+   "share_of_confirmed_pct": 11.8,
+   "allocated_unknown": 31.6,
+   "estimated_members": 43.6,
    "monthly_net_confirmed": 26651,
-   "monthly_net_estimated": 101165
+   "monthly_net_estimated": 96936
   }
  ],
  "revenue": {
-  "monthly_low": 138905,
-  "monthly_est": 202957,
+  "monthly_low": 138594,
+  "monthly_est": 199011,
   "gift_once": 192080,
-  "total_low": 330985,
-  "total_est": 395037,
-  "paying_members": 372,
+  "total_low": 330674,
+  "total_est": 391091,
+  "paying_members": 371,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -99,16 +99,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "ObjcOayaBWo",
-   "start": "2026-10-08 23:01",
-   "title": "すぺしゃりて入りして1週間たったわけですけど【天籠りのん /すぺしゃりて】",
-   "kind": "配信",
-   "chatters": 240,
-   "member_chatters": 121,
-   "new_members": 2,
-   "gifted_total": 0
-  },
   {
    "video_id": "BecbG3vtvPM",
    "start": "2026-10-09 19:59",
@@ -317,6 +307,16 @@
    "chatters": 116,
    "member_chatters": 73,
    "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "SFJJ6Ncf-wM",
+   "start": "2026-11-07 17:00",
+   "title": "【 ポケモンチャンピオンズ 】大会本番。確率が収束する日。【 天籠りのん/すぺしゃりて 】#すぺしゃりてポケチャン大会",
+   "kind": "配信",
+   "chatters": 162,
+   "member_chatters": 105,
+   "new_members": 3,
    "gifted_total": 0
   }
  ],
@@ -537,75 +537,76 @@
    },
    "avg_member_chatters": 170.7,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 06:48"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 4,
    "streams_missed": 0,
-   "unique_chatters": 450,
-   "members_confirmed": 188,
+   "unique_chatters": 486,
+   "members_confirmed": 206,
    "member_classes": {
-    "known": 57,
-    "unknown": 131
+    "known": 61,
+    "unknown": 145
    },
-   "long_term_members": 62,
+   "long_term_members": 66,
    "badges": [
     {
      "months": 0,
-     "members": 65
+     "members": 75
     },
     {
      "months": 1,
-     "members": 21
+     "members": 22
     },
     {
      "months": 2,
-     "members": 28
+     "members": 30
     },
     {
      "months": 6,
-     "members": 12
-    },
-    {
-     "months": 12,
      "members": 13
     },
     {
+     "months": 12,
+     "members": 14
+    },
+    {
      "months": 24,
-     "members": 49
+     "members": 52
     }
    ],
    "events": {
-    "new_members": 4,
+    "new_members": 7,
     "rejoins": 0,
-    "milestones": 2,
+    "milestones": 3,
     "gifted_total": 0
    },
    "tiers": [
     {
      "tier": "あまこも超親衛隊",
      "price": 490,
-     "confirmed_members": 48,
-     "estimated_members": 158.3
+     "confirmed_members": 52,
+     "estimated_members": 175.6
     },
     {
      "tier": "あまこも超絶親衛隊",
      "price": 3490,
      "confirmed_members": 9,
-     "estimated_members": 29.7
+     "estimated_members": 30.4
     }
    ],
    "revenue": {
-    "monthly_low": 75804,
-    "monthly_est": 115292,
+    "monthly_low": 81416,
+    "monthly_est": 122258,
     "gift_once": 0
    },
-   "avg_member_chatters": 108.7,
+   "avg_member_chatters": 107.8,
    "partial": true,
    "finalized": false
   }

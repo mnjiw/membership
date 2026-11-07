@@ -3,15 +3,15 @@
  "channel_id": "UC9Vq5c7FKEHLstvmSAsogXQ",
  "handle": "@aisaka_siu",
  "subscribers": 68800,
- "fetched_at": "2026-11-07 11:05",
- "generated_at": "2026-11-07 11:05",
+ "fetched_at": "2026-11-08 06:46",
+ "generated_at": "2026-11-08 06:46",
  "period": {
-  "from": "2026-10-08 11:05",
-  "to": "2026-11-07 11:05",
+  "from": "2026-10-09 06:46",
+  "to": "2026-11-08 06:46",
   "days": 30
  },
  "streams_analyzed": 15,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 743,
  "members_confirmed": 109,
  "member_classes": {
@@ -234,7 +234,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "2xFuP3bK2BU",
+   "start": "2026-11-07 00:00",
+   "title": "【 ポケモンチャンピオンズ 】大会本番！ 顔つよポケモンたちと天才頭脳で勝つぞおおおお🔥#すぺしゃりてポケチャン大会 【 すぺしゃりて / 藍坂しう 】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 171,
+   "view_count": 4479
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -347,16 +360,17 @@
    },
    "avg_member_chatters": 30.9,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 06:46"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
    "streams_analyzed": 4,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 206,
    "members_confirmed": 36,
    "member_classes": {

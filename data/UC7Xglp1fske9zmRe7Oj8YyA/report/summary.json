@@ -3,19 +3,19 @@
  "channel_id": "UC7Xglp1fske9zmRe7Oj8YyA",
  "handle": "@rikosolari",
  "subscribers": 72900,
- "fetched_at": "2026-11-07 11:05",
- "generated_at": "2026-11-07 11:05",
+ "fetched_at": "2026-11-08 06:45",
+ "generated_at": "2026-11-08 06:45",
  "period": {
-  "from": "2026-10-08 11:05",
-  "to": "2026-11-07 11:05",
+  "from": "2026-10-09 06:45",
+  "to": "2026-11-08 06:45",
   "days": 30
  },
- "streams_analyzed": 20,
+ "streams_analyzed": 19,
  "streams_missed": 2,
- "unique_chatters": 1387,
- "members_confirmed": 123,
+ "unique_chatters": 1338,
+ "members_confirmed": 122,
  "member_classes": {
-  "known": 49,
+  "known": 48,
   "unknown": 64,
   "gift": 10
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 22
+   "members": 21
   },
   {
    "months": 1,
@@ -65,21 +65,21 @@
    "tier": "Rikonaut",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 49,
+   "confirmed_members": 48,
    "share_of_confirmed_pct": 100.0,
    "allocated_unknown": 64.0,
-   "estimated_members": 113.0,
-   "monthly_net_confirmed": 15279,
-   "monthly_net_estimated": 35235
+   "estimated_members": 112.0,
+   "monthly_net_confirmed": 14967,
+   "monthly_net_estimated": 34924
   }
  ],
  "revenue": {
-  "monthly_low": 35235,
-  "monthly_est": 35235,
+  "monthly_low": 34924,
+  "monthly_est": 34924,
   "gift_once": 3118,
-  "total_low": 38354,
-  "total_est": 38354,
-  "paying_members": 113,
+  "total_low": 38042,
+  "total_est": 38042,
+  "paying_members": 112,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "n5_2KAnW6gY",
-   "start": "2026-10-08 21:51",
-   "title": "【TEACH MY LITTLE SISTER HOW TO DRIVE】I don't even have a license myself LOL【#VSPOEN #RikoSolari】",
-   "kind": "配信",
-   "chatters": 179,
-   "member_chatters": 28,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "b1u5LKVwSSg",
    "start": "2026-10-09 20:01",
@@ -456,13 +446,14 @@
    },
    "avg_member_chatters": 29.7,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 06:45"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
    "streams_analyzed": 4,
    "streams_missed": 0,

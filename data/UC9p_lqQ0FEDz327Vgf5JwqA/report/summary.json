@@ -3,56 +3,56 @@
  "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
  "handle": "@KosekiBijou",
  "subscribers": 1000000,
- "fetched_at": "2026-11-07 11:02",
- "generated_at": "2026-11-07 11:03",
+ "fetched_at": "2026-11-08 06:39",
+ "generated_at": "2026-11-08 06:42",
  "period": {
-  "from": "2026-10-08 11:02",
-  "to": "2026-11-07 11:02",
+  "from": "2026-10-09 06:39",
+  "to": "2026-11-08 06:39",
   "days": 30
  },
  "streams_analyzed": 29,
  "streams_missed": 2,
- "unique_chatters": 26961,
- "members_confirmed": 3834,
+ "unique_chatters": 25295,
+ "members_confirmed": 3394,
  "member_classes": {
-  "known": 1163,
-  "unknown": 1626,
-  "gift": 1045
+  "known": 1066,
+  "unknown": 1572,
+  "gift": 756
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 1167
+   "members": 886
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 69
+   "members": 62
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 202
+   "members": 196
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 245
+   "members": 231
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 2151
+   "members": 2019
   }
  ],
  "events": {
-  "new_members": 53,
-  "rejoins": 70,
-  "milestones": 1033,
-  "gift_purchases": 78,
-  "gifted_total": 1058,
-  "gift_redemptions": 1053
+  "new_members": 37,
+  "rejoins": 45,
+  "milestones": 474,
+  "gift_purchases": 61,
+  "gifted_total": 761,
+  "gift_redemptions": 761
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,43 +60,43 @@
    "tier": "Gemlins",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 1137,
-   "share_of_confirmed_pct": 97.8,
-   "allocated_unknown": 1589.6,
-   "estimated_members": 2726.6,
-   "monthly_net_confirmed": 499246,
-   "monthly_net_estimated": 1197247
+   "confirmed_members": 1042,
+   "share_of_confirmed_pct": 97.7,
+   "allocated_unknown": 1536.6,
+   "estimated_members": 2578.6,
+   "monthly_net_confirmed": 457533,
+   "monthly_net_estimated": 1132243
   },
   {
    "tier": "The Boulders",
    "price": 1990,
    "net_per_member": 1266.4,
    "confirmed_members": 6,
-   "share_of_confirmed_pct": 0.5,
-   "allocated_unknown": 8.4,
-   "estimated_members": 14.4,
+   "share_of_confirmed_pct": 0.6,
+   "allocated_unknown": 8.8,
+   "estimated_members": 14.8,
    "monthly_net_confirmed": 7598,
-   "monthly_net_estimated": 18221
+   "monthly_net_estimated": 18803
   },
   {
    "tier": "Moai Moai Kyun",
    "price": 3490,
    "net_per_member": 2220.9,
-   "confirmed_members": 20,
+   "confirmed_members": 18,
    "share_of_confirmed_pct": 1.7,
-   "allocated_unknown": 28.0,
-   "estimated_members": 48.0,
-   "monthly_net_confirmed": 44418,
-   "monthly_net_estimated": 106520
+   "allocated_unknown": 26.5,
+   "estimated_members": 44.5,
+   "monthly_net_confirmed": 39976,
+   "monthly_net_estimated": 98928
   }
  ],
  "revenue": {
-  "monthly_low": 1265225,
-  "monthly_est": 1321988,
-  "gift_once": 464558,
-  "total_low": 1729783,
-  "total_est": 1786546,
-  "paying_members": 2789,
+  "monthly_low": 1195358,
+  "monthly_est": 1249975,
+  "gift_once": 334148,
+  "total_low": 1529506,
+  "total_est": 1584123,
+  "paying_members": 2638,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -105,16 +105,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "xbvwxTMOAgo",
-   "start": "2026-10-08 12:56",
-   "title": "1 MILLIONS? PEBBLES!",
-   "kind": "配信",
-   "chatters": 5236,
-   "member_chatters": 1495,
-   "new_members": 17,
-   "gifted_total": 322
-  },
   {
    "video_id": "rGnmZaFAu-0",
    "start": "2026-10-09 09:57",
@@ -394,6 +384,16 @@
    "member_chatters": 664,
    "new_members": 1,
    "gifted_total": 20
+  },
+  {
+   "video_id": "kdCm_0YbzrE",
+   "start": "2026-11-07 08:56",
+   "title": "【The Legend of Zelda: Ocarina of Time Remake】learning to doot doot cuz i bought an ocarina",
+   "kind": "配信",
+   "chatters": 2715,
+   "member_chatters": 743,
+   "new_members": 1,
+   "gifted_total": 25
   }
  ],
  "missed_streams": [
@@ -567,58 +567,59 @@
    },
    "avg_member_chatters": 663.6,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 06:42"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 6,
    "streams_missed": 0,
-   "unique_chatters": 10713,
-   "members_confirmed": 2038,
+   "unique_chatters": 11558,
+   "members_confirmed": 2120,
    "member_classes": {
-    "unknown": 1004,
-    "known": 839,
-    "gift": 195
+    "unknown": 1042,
+    "known": 858,
+    "gift": 220
    },
-   "long_term_members": 1431,
+   "long_term_members": 1473,
    "badges": [
     {
      "months": 0,
-     "members": 277
+     "members": 306
     },
     {
      "months": 1,
-     "members": 30
+     "members": 33
     },
     {
      "months": 2,
-     "members": 131
+     "members": 136
     },
     {
      "months": 6,
-     "members": 169
+     "members": 172
     },
     {
      "months": 12,
-     "members": 1431
+     "members": 1473
     }
    ],
    "events": {
-    "new_members": 9,
-    "rejoins": 19,
-    "milestones": 266,
-    "gifted_total": 195
+    "new_members": 10,
+    "rejoins": 20,
+    "milestones": 269,
+    "gifted_total": 220
    },
    "tiers": [
     {
      "tier": "Gemlins",
      "price": 690,
-     "confirmed_members": 819,
-     "estimated_members": 1799.1
+     "confirmed_members": 838,
+     "estimated_members": 1855.7
     },
     {
      "tier": "The Boulders",
@@ -630,15 +631,15 @@
      "tier": "Moai Moai Kyun",
      "price": 3490,
      "confirmed_members": 17,
-     "estimated_members": 37.3
+     "estimated_members": 37.6
     }
    ],
    "revenue": {
-    "monthly_low": 842017,
-    "monthly_est": 881235,
-    "gift_once": 85623
+    "monthly_low": 867045,
+    "monthly_est": 906846,
+    "gift_once": 96600
    },
-   "avg_member_chatters": 838.8,
+   "avg_member_chatters": 822.8,
    "partial": true,
    "finalized": false
   }

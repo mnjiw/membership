@@ -3,15 +3,15 @@
  "channel_id": "UCAVdcteEwgNrEBW7Aj9pZSw",
  "handle": "@aoi_sakura3",
  "subscribers": 258000,
- "fetched_at": "2026-11-07 11:08",
- "generated_at": "2026-11-07 11:08",
+ "fetched_at": "2026-11-08 06:53",
+ "generated_at": "2026-11-08 06:53",
  "period": {
-  "from": "2026-10-08 11:08",
-  "to": "2026-11-07 11:08",
+  "from": "2026-10-09 06:53",
+  "to": "2026-11-08 06:53",
   "days": 30
  },
  "streams_analyzed": 16,
- "streams_missed": 7,
+ "streams_missed": 8,
  "unique_chatters": 939,
  "members_confirmed": 533,
  "member_classes": {
@@ -364,7 +364,19 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "100％の花びらさん🌸",
-   "like_count": 151,
+   "like_count": 153,
+   "view_count": null
+  },
+  {
+   "video_id": "bGGUZ5DAew8",
+   "start": "2026-11-08 00:18",
+   "title": "【メン限】恋リア同時視聴！【碧依さくら】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "100％の花びらさん🌸",
+   "like_count": 113,
    "view_count": null
   }
  ],
@@ -436,7 +448,17 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "100％の花びらさん🌸",
-   "like_count": 151,
+   "like_count": 153,
+   "view_count": null
+  },
+  {
+   "video_id": "bGGUZ5DAew8",
+   "start": "2026-11-08 00:18",
+   "title": "【メン限】恋リア同時視聴！【碧依さくら】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "100％の花びらさん🌸",
+   "like_count": 113,
    "view_count": null
   }
  ],
@@ -577,16 +599,17 @@
    },
    "avg_member_chatters": 192.5,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 06:53"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
    "streams_analyzed": 3,
-   "streams_missed": 2,
+   "streams_missed": 3,
    "unique_chatters": 533,
    "members_confirmed": 355,
    "member_classes": {

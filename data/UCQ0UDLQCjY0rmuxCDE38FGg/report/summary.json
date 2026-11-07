@@ -2,73 +2,73 @@
  "channel": "Matsuri Channel 夏色まつり",
  "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
  "handle": "@NatsuiroMatsuri",
- "subscribers": 1600000,
- "fetched_at": "2026-11-07 11:00",
- "generated_at": "2026-11-07 11:00",
+ "subscribers": 1610000,
+ "fetched_at": "2026-11-08 06:18",
+ "generated_at": "2026-11-08 06:18",
  "period": {
-  "from": "2026-10-08 11:00",
-  "to": "2026-11-07 11:00",
+  "from": "2026-10-09 06:18",
+  "to": "2026-11-08 06:18",
   "days": 30
  },
- "streams_analyzed": 18,
+ "streams_analyzed": 17,
  "streams_missed": 0,
- "unique_chatters": 12422,
- "members_confirmed": 1697,
+ "unique_chatters": 11988,
+ "members_confirmed": 1580,
  "member_classes": {
-  "unknown": 857,
-  "known": 248,
-  "gift": 592
+  "unknown": 815,
+  "known": 242,
+  "gift": 523
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 687
+   "members": 613
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 49
+   "members": 45
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 169
+   "members": 163
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 117
+   "members": 109
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 172
+   "members": 164
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 92
+   "members": 89
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 114
+   "members": 107
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 99
+   "members": 96
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 104
+   "members": 103
   },
   {
    "months": 72,
    "label": "6年",
-   "members": 68
+   "members": 65
   },
   {
    "months": 84,
@@ -77,12 +77,12 @@
   }
  ],
  "events": {
-  "new_members": 64,
+  "new_members": 60,
   "rejoins": 34,
-  "milestones": 147,
-  "gift_purchases": 88,
-  "gifted_total": 661,
-  "gift_redemptions": 596
+  "milestones": 140,
+  "gift_purchases": 77,
+  "gifted_total": 592,
+  "gift_redemptions": 527
  },
  "tiers_configured": true,
  "tiers": [
@@ -90,23 +90,23 @@
    "tier": "うどん",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 227,
-   "share_of_confirmed_pct": 91.5,
-   "allocated_unknown": 784.4,
-   "estimated_members": 1011.4,
-   "monthly_net_confirmed": 70783,
-   "monthly_net_estimated": 315383
+   "confirmed_members": 221,
+   "share_of_confirmed_pct": 91.3,
+   "allocated_unknown": 744.3,
+   "estimated_members": 965.3,
+   "monthly_net_confirmed": 68912,
+   "monthly_net_estimated": 300991
   },
   {
    "tier": "ハンバーグ",
    "price": 790,
    "net_per_member": 502.7,
    "confirmed_members": 17,
-   "share_of_confirmed_pct": 6.9,
-   "allocated_unknown": 58.7,
-   "estimated_members": 75.7,
+   "share_of_confirmed_pct": 7.0,
+   "allocated_unknown": 57.3,
+   "estimated_members": 74.3,
    "monthly_net_confirmed": 8546,
-   "monthly_net_estimated": 38080
+   "monthly_net_estimated": 37329
   },
   {
    "tier": "焼き肉",
@@ -114,10 +114,10 @@
    "net_per_member": 2220.9,
    "confirmed_members": 3,
    "share_of_confirmed_pct": 1.2,
-   "allocated_unknown": 10.4,
-   "estimated_members": 13.4,
+   "allocated_unknown": 10.1,
+   "estimated_members": 13.1,
    "monthly_net_confirmed": 6663,
-   "monthly_net_estimated": 29687
+   "monthly_net_estimated": 29101
   },
   {
    "tier": "うにさんど",
@@ -125,19 +125,19 @@
    "net_per_member": 8909.1,
    "confirmed_members": 1,
    "share_of_confirmed_pct": 0.4,
-   "allocated_unknown": 3.5,
-   "estimated_members": 4.5,
+   "allocated_unknown": 3.4,
+   "estimated_members": 4.4,
    "monthly_net_confirmed": 8909,
-   "monthly_net_estimated": 39696
+   "monthly_net_estimated": 38913
   }
  ],
  "revenue": {
-  "monthly_low": 362129,
-  "monthly_est": 422845,
-  "gift_once": 206112,
-  "total_low": 568241,
-  "total_est": 628957,
-  "paying_members": 1105,
+  "monthly_low": 347162,
+  "monthly_est": 406334,
+  "gift_once": 184596,
+  "total_low": 531758,
+  "total_est": 590930,
+  "paying_members": 1057,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -146,16 +146,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "yGaeRFePsWs",
-   "start": "2026-10-09 03:19",
-   "title": "うた",
-   "kind": "配信",
-   "chatters": 771,
-   "member_chatters": 219,
-   "new_members": 4,
-   "gifted_total": 69
-  },
   {
    "video_id": "bWXTy9UW9gM",
    "start": "2026-10-09 21:59",
@@ -535,13 +525,14 @@
    },
    "avg_member_chatters": 240.9,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 06:18"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
    "streams_analyzed": 5,
    "streams_missed": 0,

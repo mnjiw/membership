@@ -3,20 +3,20 @@
  "channel_id": "UCv3EicDtxObcZZmnFcHvNnw",
  "handle": "@onigayaten0512",
  "subscribers": 87700,
- "fetched_at": "2026-11-07 11:07",
- "generated_at": "2026-11-07 11:08",
+ "fetched_at": "2026-11-08 06:49",
+ "generated_at": "2026-11-08 06:49",
  "period": {
-  "from": "2026-10-08 11:07",
-  "to": "2026-11-07 11:07",
+  "from": "2026-10-09 06:49",
+  "to": "2026-11-08 06:49",
   "days": 30
  },
- "streams_analyzed": 38,
- "streams_missed": 5,
- "unique_chatters": 566,
+ "streams_analyzed": 37,
+ "streams_missed": 6,
+ "unique_chatters": 563,
  "members_confirmed": 220,
  "member_classes": {
-  "unknown": 135,
   "known": 15,
+  "unknown": 135,
   "gift": 70
  },
  "badges": [
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "LU_ph4iaJ0Q",
-   "start": "2026-10-08 16:00",
-   "title": "【スト6】まったり少しだけ～【鬼ヶ谷テン/ネオポルテ】",
-   "kind": "配信",
-   "chatters": 30,
-   "member_chatters": 18,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "nFQXtkGBtNU",
    "start": "2026-10-11 23:11",
@@ -529,6 +519,18 @@
    "members_level": "",
    "like_count": 31,
    "view_count": null
+  },
+  {
+   "video_id": "n15-PxjP37c",
+   "start": "2026-11-07 23:00",
+   "title": "【メン限 】ちゃんと飲むメン限【鬼ヶ谷テン/ネオポルテ】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 30,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -570,6 +572,16 @@
    "status": "members_only",
    "members_level": "",
    "like_count": 31,
+   "view_count": null
+  },
+  {
+   "video_id": "n15-PxjP37c",
+   "start": "2026-11-07 23:00",
+   "title": "【メン限 】ちゃんと飲むメン限【鬼ヶ谷テン/ネオポルテ】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 30,
    "view_count": null
   }
  ],
@@ -692,16 +704,17 @@
    },
    "avg_member_chatters": 31.9,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 06:49"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
    "streams_analyzed": 9,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 188,
    "members_confirmed": 88,
    "member_classes": {

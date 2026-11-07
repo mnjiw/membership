@@ -3,72 +3,72 @@
  "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
  "handle": "@SakuraMiko",
  "subscribers": 2460000,
- "fetched_at": "2026-11-07 11:00",
- "generated_at": "2026-11-07 11:01",
+ "fetched_at": "2026-11-08 06:19",
+ "generated_at": "2026-11-08 06:25",
  "period": {
-  "from": "2026-10-08 11:00",
-  "to": "2026-11-07 11:00",
+  "from": "2026-10-09 06:19",
+  "to": "2026-11-08 06:19",
   "days": 30
  },
  "streams_analyzed": 22,
  "streams_missed": 2,
- "unique_chatters": 29829,
- "members_confirmed": 11001,
+ "unique_chatters": 30147,
+ "members_confirmed": 11094,
  "member_classes": {
-  "unknown": 10065,
-  "known": 307,
-  "gift": 629
+  "unknown": 10150,
+  "known": 314,
+  "gift": 630
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 1016
+   "members": 1029
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 141
+   "members": 143
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 487
+   "members": 490
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 1000
+   "members": 1007
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 2334
+   "members": 2347
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 2336
+   "members": 2367
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 1402
+   "members": 1414
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 1124
+   "members": 1127
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 822
+   "members": 828
   },
   {
    "months": 72,
    "label": "6年",
-   "members": 303
+   "members": 306
   },
   {
    "months": 84,
@@ -77,12 +77,12 @@
   }
  ],
  "events": {
-  "new_members": 135,
-  "rejoins": 107,
+  "new_members": 138,
+  "rejoins": 109,
   "milestones": 0,
-  "gift_purchases": 116,
-  "gifted_total": 673,
-  "gift_redemptions": 629
+  "gift_purchases": 117,
+  "gifted_total": 674,
+  "gift_redemptions": 630
  },
  "tiers_configured": true,
  "tiers": [
@@ -90,21 +90,21 @@
    "tier": "さくら組",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 307,
+   "confirmed_members": 314,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 10065.0,
-   "estimated_members": 10372.0,
-   "monthly_net_confirmed": 95728,
-   "monthly_net_estimated": 3234178
+   "allocated_unknown": 10150.0,
+   "estimated_members": 10464.0,
+   "monthly_net_confirmed": 97911,
+   "monthly_net_estimated": 3262865
   }
  ],
  "revenue": {
-  "monthly_low": 3234178,
-  "monthly_est": 3234178,
-  "gift_once": 209854,
-  "total_low": 3444032,
-  "total_est": 3444032,
-  "paying_members": 10372,
+  "monthly_low": 3262865,
+  "monthly_est": 3262865,
+  "gift_once": 210165,
+  "total_low": 3473031,
+  "total_est": 3473031,
+  "paying_members": 10464,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -113,16 +113,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "BqUfGBP3jMM",
-   "start": "2026-10-08 22:03",
-   "title": "３日目【 FCマリオ】残機０で即終了する俺のスーパーマリオブラザーズチャレンジ【ホロライブ/さくらみこ】",
-   "kind": "配信",
-   "chatters": 2699,
-   "member_chatters": 1601,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "y-8p5lgHGG0",
    "start": "2026-10-09 20:04",
@@ -332,6 +322,16 @@
    "member_chatters": 2891,
    "new_members": 37,
    "gifted_total": 181
+  },
+  {
+   "video_id": "4ETPnsQikMU",
+   "start": "2026-11-07 21:02",
+   "title": "【ポケモンBDSP】みこちの色違い捕まえないと次のジム行けない伝説の旅２日目【ホロライブ/さくらみこ】",
+   "kind": "配信",
+   "chatters": 5302,
+   "member_chatters": 3249,
+   "new_members": 3,
+   "gifted_total": 1
   }
  ],
  "missed_streams": [
@@ -356,7 +356,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 4203,
+   "like_count": 4326,
    "view_count": null
   }
  ],
@@ -388,7 +388,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 4203,
+   "like_count": 4326,
    "view_count": null
   }
  ],
@@ -562,90 +562,91 @@
    },
    "avg_member_chatters": 2549.4,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 06:25"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 6,
+   "streams_analyzed": 7,
    "streams_missed": 1,
-   "unique_chatters": 14977,
-   "members_confirmed": 7175,
+   "unique_chatters": 16102,
+   "members_confirmed": 7510,
    "member_classes": {
-    "unknown": 6555,
-    "known": 203,
-    "gift": 417
+    "unknown": 6879,
+    "known": 213,
+    "gift": 418
    },
-   "long_term_members": 5482,
+   "long_term_members": 5736,
    "badges": [
     {
      "months": 0,
-     "members": 674
+     "members": 694
     },
     {
      "months": 1,
-     "members": 89
+     "members": 98
     },
     {
      "months": 2,
-     "members": 312
+     "members": 332
     },
     {
      "months": 6,
-     "members": 618
+     "members": 650
     },
     {
      "months": 12,
-     "members": 1516
+     "members": 1584
     },
     {
      "months": 24,
-     "members": 1568
+     "members": 1658
     },
     {
      "months": 36,
-     "members": 906
+     "members": 944
     },
     {
      "months": 48,
-     "members": 743
+     "members": 772
     },
     {
      "months": 60,
-     "members": 520
+     "members": 539
     },
     {
      "months": 72,
-     "members": 203
+     "members": 212
     },
     {
      "months": 84,
-     "members": 26
+     "members": 27
     }
    ],
    "events": {
-    "new_members": 68,
-    "rejoins": 36,
+    "new_members": 71,
+    "rejoins": 39,
     "milestones": 0,
-    "gifted_total": 434
+    "gifted_total": 435
    },
    "tiers": [
     {
      "tier": "さくら組",
      "price": 490,
-     "confirmed_members": 203,
-     "estimated_members": 6758.0
+     "confirmed_members": 213,
+     "estimated_members": 7092.0
     }
    ],
    "revenue": {
-    "monthly_low": 2107267,
-    "monthly_est": 2107267,
-    "gift_once": 135329
+    "monthly_low": 2211415,
+    "monthly_est": 2211415,
+    "gift_once": 135641
    },
-   "avg_member_chatters": 3195.5,
+   "avg_member_chatters": 3203.1,
    "partial": true,
    "finalized": false
   }

@@ -3,21 +3,21 @@
  "channel_id": "UCuGD1paDrwhDP-PJteOh-UA",
  "handle": "@hinori_natsukawa",
  "subscribers": 17500,
- "fetched_at": "2026-11-07 11:06",
- "generated_at": "2026-11-07 11:06",
+ "fetched_at": "2026-11-08 06:47",
+ "generated_at": "2026-11-08 06:47",
  "period": {
-  "from": "2026-10-08 11:06",
-  "to": "2026-11-07 11:06",
+  "from": "2026-10-09 06:47",
+  "to": "2026-11-08 06:47",
   "days": 30
  },
- "streams_analyzed": 20,
- "streams_missed": 3,
- "unique_chatters": 690,
- "members_confirmed": 144,
+ "streams_analyzed": 21,
+ "streams_missed": 2,
+ "unique_chatters": 676,
+ "members_confirmed": 146,
  "member_classes": {
-  "unknown": 60,
+  "unknown": 59,
   "known": 8,
-  "gift": 76
+  "gift": 79
  },
  "badges": [
   {
@@ -28,7 +28,7 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 16
+   "members": 19
   },
   {
    "months": 2,
@@ -43,16 +43,16 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 27
+   "members": 26
   }
  ],
  "events": {
   "new_members": 3,
   "rejoins": 0,
-  "milestones": 0,
-  "gift_purchases": 13,
-  "gifted_total": 76,
-  "gift_redemptions": 76
+  "milestones": 1,
+  "gift_purchases": 16,
+  "gifted_total": 79,
+  "gift_redemptions": 79
  },
  "tiers_configured": true,
  "tiers": [
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 8,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 60.0,
-   "estimated_members": 68.0,
+   "allocated_unknown": 59.0,
+   "estimated_members": 67.0,
    "monthly_net_confirmed": 2495,
-   "monthly_net_estimated": 21204
+   "monthly_net_estimated": 20892
   }
  ],
  "revenue": {
-  "monthly_low": 21204,
-  "monthly_est": 21204,
-  "gift_once": 23698,
-  "total_low": 44902,
-  "total_est": 44902,
-  "paying_members": 68,
+  "monthly_low": 20892,
+  "monthly_est": 20892,
+  "gift_once": 24634,
+  "total_low": 45525,
+  "total_est": 45525,
+  "paying_members": 67,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "3s7IH2UEsa0",
-   "start": "2026-10-08 23:02",
-   "title": "〖 #ポケモンチャンピオンズ 〗新シーズン～～～～!!! とりまマスボ級💜🖤 #すぺしゃりて #夏河ひのり #ポケモン",
-   "kind": "配信",
-   "chatters": 114,
-   "member_chatters": 25,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "A5tgGbD6pKY",
    "start": "2026-10-10 21:23",
@@ -282,6 +272,26 @@
    "member_chatters": 12,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "bV74IPVGFd4",
+   "start": "2026-11-07 08:00",
+   "title": "〖 どよもに☀ 〗応援したいしされたいDAY✨ﾌﾚｰ!! ﾌﾚｰ!!♡   #すぺしゃりて #夏河ひのり",
+   "kind": "配信",
+   "chatters": 73,
+   "member_chatters": 36,
+   "new_members": 0,
+   "gifted_total": 3
+  },
+  {
+   "video_id": "x0lC37vcKlc",
+   "start": "2026-11-07 16:58",
+   "title": "〖 #ポケモンチャンピオンズ 〗#すぺしゃりてポケチャン大会 #あやぴかWIN✨果たして輝けるのか…!?🔥 #すぺしゃりて #夏河ひのり #ポケモン",
+   "kind": "配信",
+   "chatters": 40,
+   "member_chatters": 19,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -308,18 +318,6 @@
    "members_level": "",
    "like_count": 38,
    "view_count": null
-  },
-  {
-   "video_id": "bV74IPVGFd4",
-   "start": "2026-11-06 00:00",
-   "title": "〖 どよもに☀ 〗応援したいしされたいDAY✨ﾌﾚｰ!! ﾌﾚｰ!!♡   #すぺしゃりて #夏河ひのり",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 211,
-   "view_count": 1756
   }
  ],
  "members_only_content": [
@@ -445,65 +443,67 @@
    },
    "avg_member_chatters": 27.6,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 06:47"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 3,
-   "streams_missed": 2,
-   "unique_chatters": 115,
-   "members_confirmed": 36,
+   "streams_analyzed": 5,
+   "streams_missed": 1,
+   "unique_chatters": 168,
+   "members_confirmed": 55,
    "member_classes": {
-    "unknown": 30,
-    "known": 6
+    "unknown": 44,
+    "known": 8,
+    "gift": 3
    },
-   "long_term_members": 8,
+   "long_term_members": 14,
    "badges": [
     {
      "months": 0,
-     "members": 5
+     "members": 8
     },
     {
      "months": 1,
-     "members": 3
+     "members": 7
     },
     {
      "months": 2,
-     "members": 14
+     "members": 15
     },
     {
      "months": 6,
-     "members": 6
+     "members": 11
     },
     {
      "months": 12,
-     "members": 8
+     "members": 14
     }
    ],
    "events": {
     "new_members": 2,
     "rejoins": 0,
-    "milestones": 0,
-    "gifted_total": 0
+    "milestones": 1,
+    "gifted_total": 3
    },
    "tiers": [
     {
      "tier": "ひのぴ応援隊",
      "price": 490,
-     "confirmed_members": 6,
-     "estimated_members": 36.0
+     "confirmed_members": 8,
+     "estimated_members": 52.0
     }
    ],
    "revenue": {
-    "monthly_low": 11225,
-    "monthly_est": 11225,
-    "gift_once": 0
+    "monthly_low": 16215,
+    "monthly_est": 16215,
+    "gift_once": 935
    },
-   "avg_member_chatters": 19.7,
+   "avg_member_chatters": 22.8,
    "partial": true,
    "finalized": false
   }

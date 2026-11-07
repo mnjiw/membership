@@ -3,25 +3,25 @@
  "channel_id": "UCZYyhgoV314CM14zBD6vd4A",
  "handle": "@tenkaitsukasa",
  "subscribers": 366000,
- "fetched_at": "2026-11-07 11:08",
- "generated_at": "2026-11-07 11:08",
+ "fetched_at": "2026-11-08 06:54",
+ "generated_at": "2026-11-08 06:55",
  "period": {
-  "from": "2026-10-08 11:08",
-  "to": "2026-11-07 11:08",
+  "from": "2026-10-09 06:54",
+  "to": "2026-11-08 06:54",
   "days": 30
  },
- "streams_analyzed": 18,
- "streams_missed": 1,
- "unique_chatters": 2100,
- "members_confirmed": 145,
+ "streams_analyzed": 19,
+ "streams_missed": 2,
+ "unique_chatters": 2232,
+ "members_confirmed": 151,
  "member_classes": {
-  "unknown": 145
+  "unknown": 151
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 7
+   "members": 8
   },
   {
    "months": 2,
@@ -36,16 +36,16 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 11
+   "members": 12
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 112
+   "members": 116
   }
  ],
  "events": {
-  "new_members": 6,
+  "new_members": 7,
   "rejoins": 0,
   "milestones": 4,
   "gift_purchases": 0,
@@ -60,19 +60,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 0,
    "share_of_confirmed_pct": "",
-   "allocated_unknown": 145.0,
-   "estimated_members": 145.0,
+   "allocated_unknown": 151.0,
+   "estimated_members": 151.0,
    "monthly_net_confirmed": 0,
-   "monthly_net_estimated": 45214
+   "monthly_net_estimated": 47085
   }
  ],
  "revenue": {
-  "monthly_low": 45214,
-  "monthly_est": 45214,
+  "monthly_low": 47085,
+  "monthly_est": 47085,
   "gift_once": 0,
-  "total_low": 45214,
-  "total_est": 45214,
-  "paying_members": 145,
+  "total_low": 47085,
+  "total_est": 47085,
+  "paying_members": 151,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -260,6 +260,16 @@
    "member_chatters": 23,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "nCz2nGwSsHw",
+   "start": "2026-11-07 19:06",
+   "title": "【ドラゴンクエストⅤ/完全初見】ついに嫁選び【天開司/Vtuber】",
+   "kind": "配信",
+   "chatters": 528,
+   "member_chatters": 81,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -272,8 +282,20 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 401,
-   "view_count": 29343
+   "like_count": 422,
+   "view_count": 33439
+  },
+  {
+   "video_id": "aEgdSrGxsv8",
+   "start": "2026-11-07 00:00",
+   "title": "【切り抜き/部屋ごと栄冠ナイン】最後の夏、8回まで点が取れない大ピンチ【パワプロ2026/天開司/Vtuber】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 257,
+   "view_count": 14378
   }
  ],
  "members_only_content": [],
@@ -392,26 +414,27 @@
    },
    "avg_member_chatters": 43.7,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 06:55"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 5,
-   "streams_missed": 1,
-   "unique_chatters": 1130,
-   "members_confirmed": 104,
+   "streams_analyzed": 6,
+   "streams_missed": 2,
+   "unique_chatters": 1369,
+   "members_confirmed": 117,
    "member_classes": {
-    "unknown": 104
+    "unknown": 117
    },
-   "long_term_members": 87,
+   "long_term_members": 98,
    "badges": [
     {
      "months": 0,
-     "members": 4
+     "members": 6
     },
     {
      "months": 2,
@@ -423,15 +446,15 @@
     },
     {
      "months": 12,
-     "members": 7
+     "members": 9
     },
     {
      "months": 24,
-     "members": 80
+     "members": 89
     }
    ],
    "events": {
-    "new_members": 0,
+    "new_members": 1,
     "rejoins": 0,
     "milestones": 3,
     "gifted_total": 0
@@ -441,15 +464,15 @@
      "tier": "メンバーシップ",
      "price": 490,
      "confirmed_members": 0,
-     "estimated_members": 104.0
+     "estimated_members": 117.0
     }
    ],
    "revenue": {
-    "monthly_low": 32429,
-    "monthly_est": 32429,
+    "monthly_low": 36483,
+    "monthly_est": 36483,
     "gift_once": 0
    },
-   "avg_member_chatters": 42.4,
+   "avg_member_chatters": 48.8,
    "partial": true,
    "finalized": false
   }

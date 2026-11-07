@@ -3,20 +3,20 @@
  "channel_id": "UCm4QiJHdsgz9PshJkGMSk5w",
  "handle": "@minya_scott",
  "subscribers": 13700,
- "fetched_at": "2026-11-07 11:05",
- "generated_at": "2026-11-07 11:06",
+ "fetched_at": "2026-11-08 06:46",
+ "generated_at": "2026-11-08 06:46",
  "period": {
-  "from": "2026-10-08 11:05",
-  "to": "2026-11-07 11:05",
+  "from": "2026-10-09 06:46",
+  "to": "2026-11-08 06:46",
   "days": 30
  },
- "streams_analyzed": 5,
+ "streams_analyzed": 6,
  "streams_missed": 1,
- "unique_chatters": 359,
- "members_confirmed": 61,
+ "unique_chatters": 371,
+ "members_confirmed": 62,
  "member_classes": {
   "unknown": 35,
-  "known": 5,
+  "known": 6,
   "gift": 21
  },
  "badges": [
@@ -38,7 +38,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 9
+   "members": 10
   },
   {
    "months": 12,
@@ -53,7 +53,7 @@
  ],
  "events": {
   "new_members": 1,
-  "rejoins": 1,
+  "rejoins": 2,
   "milestones": 3,
   "gift_purchases": 3,
   "gifted_total": 21,
@@ -65,21 +65,21 @@
    "tier": "みにゃ好こ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 5,
+   "confirmed_members": 6,
    "share_of_confirmed_pct": 100.0,
    "allocated_unknown": 35.0,
-   "estimated_members": 40.0,
-   "monthly_net_confirmed": 1559,
-   "monthly_net_estimated": 12473
+   "estimated_members": 41.0,
+   "monthly_net_confirmed": 1871,
+   "monthly_net_estimated": 12785
   }
  ],
  "revenue": {
-  "monthly_low": 12473,
-  "monthly_est": 12473,
+  "monthly_low": 12785,
+  "monthly_est": 12785,
   "gift_once": 6548,
-  "total_low": 19021,
-  "total_est": 19021,
-  "paying_members": 40,
+  "total_low": 19333,
+  "total_est": 19333,
+  "paying_members": 41,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -135,6 +135,16 @@
    "kind": "配信",
    "chatters": 120,
    "member_chatters": 30,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "6aRywSe9EAo",
+   "start": "2026-11-07 16:56",
+   "title": "【 ポケモンチャンピオンズ 】#すぺしゃりてポケチャン大会 本番！#鬼ワルもちドカ食いTVWIN【 すぺしゃりて  / ミーニャ・スコット 】",
+   "kind": "配信",
+   "chatters": 43,
+   "member_chatters": 21,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -278,27 +288,28 @@
    },
    "avg_member_chatters": 27.8,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 06:46"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 2,
+   "streams_analyzed": 3,
    "streams_missed": 0,
-   "unique_chatters": 127,
-   "members_confirmed": 34,
+   "unique_chatters": 142,
+   "members_confirmed": 36,
    "member_classes": {
-    "unknown": 30,
-    "known": 4
+    "unknown": 31,
+    "known": 5
    },
    "long_term_members": 11,
    "badges": [
     {
      "months": 0,
-     "members": 7
+     "members": 8
     },
     {
      "months": 1,
@@ -310,7 +321,7 @@
     },
     {
      "months": 6,
-     "members": 6
+     "members": 7
     },
     {
      "months": 12,
@@ -323,7 +334,7 @@
    ],
    "events": {
     "new_members": 0,
-    "rejoins": 0,
+    "rejoins": 1,
     "milestones": 0,
     "gifted_total": 0
    },
@@ -331,16 +342,16 @@
     {
      "tier": "みにゃ好こ",
      "price": 490,
-     "confirmed_members": 4,
-     "estimated_members": 34.0
+     "confirmed_members": 5,
+     "estimated_members": 36.0
     }
    ],
    "revenue": {
-    "monthly_low": 10602,
-    "monthly_est": 10602,
+    "monthly_low": 11225,
+    "monthly_est": 11225,
     "gift_once": 0
    },
-   "avg_member_chatters": 23.5,
+   "avg_member_chatters": 22.7,
    "partial": true,
    "finalized": false
   }

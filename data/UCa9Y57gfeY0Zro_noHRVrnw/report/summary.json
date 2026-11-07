@@ -3,27 +3,27 @@
  "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
  "handle": "@HimemoriLuna",
  "subscribers": 1170000,
- "fetched_at": "2026-11-07 11:01",
- "generated_at": "2026-11-07 11:01",
+ "fetched_at": "2026-11-08 06:29",
+ "generated_at": "2026-11-08 06:29",
  "period": {
-  "from": "2026-10-08 11:01",
-  "to": "2026-11-07 11:01",
+  "from": "2026-10-09 06:29",
+  "to": "2026-11-08 06:29",
   "days": 30
  },
- "streams_analyzed": 26,
+ "streams_analyzed": 25,
  "streams_missed": 3,
- "unique_chatters": 14459,
- "members_confirmed": 4671,
+ "unique_chatters": 14233,
+ "members_confirmed": 4590,
  "member_classes": {
-  "unknown": 1907,
-  "known": 94,
-  "gift": 2670
+  "unknown": 1903,
+  "known": 92,
+  "gift": 2595
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 2714
+   "members": 2639
   },
   {
    "months": 1,
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 144
+   "members": 143
   },
   {
    "months": 6,
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 348
+   "members": 346
   },
   {
    "months": 24,
@@ -53,7 +53,7 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 288
+   "members": 286
   },
   {
    "months": 48,
@@ -63,7 +63,7 @@
   {
    "months": 60,
    "label": "5年",
-   "members": 222
+   "members": 221
   },
   {
    "months": 72,
@@ -72,12 +72,12 @@
   }
  ],
  "events": {
-  "new_members": 37,
-  "rejoins": 40,
+  "new_members": 36,
+  "rejoins": 38,
   "milestones": 0,
-  "gift_purchases": 236,
-  "gifted_total": 2791,
-  "gift_redemptions": 2670
+  "gift_purchases": 231,
+  "gifted_total": 2716,
+  "gift_redemptions": 2595
  },
  "tiers_configured": true,
  "tiers": [
@@ -85,32 +85,32 @@
    "tier": "ルーナイトへようこそなのら",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 70,
-   "share_of_confirmed_pct": 74.5,
-   "allocated_unknown": 1420.1,
-   "estimated_members": 1490.1,
-   "monthly_net_confirmed": 21827,
-   "monthly_net_estimated": 464642
+   "confirmed_members": 69,
+   "share_of_confirmed_pct": 75.0,
+   "allocated_unknown": 1427.2,
+   "estimated_members": 1496.2,
+   "monthly_net_confirmed": 21515,
+   "monthly_net_estimated": 466558
   },
   {
    "tier": "ルーナイト御意へようこそなのら",
    "price": 1190,
    "net_per_member": 757.3,
-   "confirmed_members": 24,
-   "share_of_confirmed_pct": 25.5,
-   "allocated_unknown": 486.9,
-   "estimated_members": 510.9,
-   "monthly_net_confirmed": 18175,
-   "monthly_net_estimated": 386886
+   "confirmed_members": 23,
+   "share_of_confirmed_pct": 25.0,
+   "allocated_unknown": 475.8,
+   "estimated_members": 498.8,
+   "monthly_net_confirmed": 17417,
+   "monthly_net_estimated": 377690
   }
  ],
  "revenue": {
-  "monthly_low": 634639,
-  "monthly_est": 851528,
-  "gift_once": 870285,
-  "total_low": 1504924,
-  "total_est": 1721813,
-  "paying_members": 2001,
+  "monthly_low": 632323,
+  "monthly_est": 844248,
+  "gift_once": 846898,
+  "total_low": 1479221,
+  "total_est": 1691146,
+  "paying_members": 1995,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -119,16 +119,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "o6B7wQUtH8M",
-   "start": "2026-10-08 18:58",
-   "title": "【 エースコンバット8 】空よ、教えてくれ『ACE COMBAT 8: WINGS OF THEVE』に挑むのら！！！＃３【姫森ルーナ/ホロライブ】※ネタバレあり",
-   "kind": "配信",
-   "chatters": 1302,
-   "member_chatters": 524,
-   "new_members": 1,
-   "gifted_total": 75
-  },
   {
    "video_id": "-hNSc-IiEsI",
    "start": "2026-10-09 23:29",
@@ -624,13 +614,14 @@
    },
    "avg_member_chatters": 638.2,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 06:29"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
    "streams_analyzed": 6,
    "streams_missed": 1,

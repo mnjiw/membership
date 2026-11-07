@@ -3,16 +3,16 @@
  "channel_id": "UCNGMMdEgYIUR6rC44v9aZ8w",
  "handle": "@Kazari_Ceo",
  "subscribers": 31500,
- "fetched_at": "2026-11-07 11:07",
- "generated_at": "2026-11-07 11:07",
+ "fetched_at": "2026-11-08 06:49",
+ "generated_at": "2026-11-08 06:49",
  "period": {
-  "from": "2026-10-08 11:07",
-  "to": "2026-11-07 11:07",
+  "from": "2026-10-09 06:49",
+  "to": "2026-11-08 06:49",
   "days": 30
  },
- "streams_analyzed": 17,
- "streams_missed": 1,
- "unique_chatters": 81,
+ "streams_analyzed": 18,
+ "streams_missed": 0,
+ "unique_chatters": 83,
  "members_confirmed": 43,
  "member_classes": {
   "unknown": 42,
@@ -251,22 +251,19 @@
    "member_chatters": 11,
    "new_members": 0,
    "gifted_total": 0
-  }
- ],
- "missed_streams": [
+  },
   {
    "video_id": "cwPMdPNl9vo",
-   "start": "2026-11-06 00:00",
-   "title": "【Japanese Ramen Simulator】サンタ家、開店ッ…！ withいつもの【瀬尾カザリ / ネオポルテ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 62,
-   "view_count": 1665
+   "start": "2026-11-06 20:03",
+   "title": "【Japanese Ramen Simulator】Santa-ya is Open for Business...! with the usual crew【Seo Kazari / Neo-...",
+   "kind": "配信",
+   "chatters": 10,
+   "member_chatters": 7,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -372,17 +369,18 @@
    },
    "avg_member_chatters": 13.8,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 06:49"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 3,
-   "streams_missed": 1,
-   "unique_chatters": 29,
+   "streams_analyzed": 4,
+   "streams_missed": 0,
+   "unique_chatters": 31,
    "members_confirmed": 23,
    "member_classes": {
     "unknown": 23
@@ -425,7 +423,7 @@
     "monthly_est": 7172,
     "gift_once": 0
    },
-   "avg_member_chatters": 14.7,
+   "avg_member_chatters": 12.8,
    "partial": true,
    "finalized": false
   }

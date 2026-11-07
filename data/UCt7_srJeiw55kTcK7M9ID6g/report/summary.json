@@ -3,11 +3,11 @@
  "channel_id": "UCt7_srJeiw55kTcK7M9ID6g",
  "handle": "@tamako0212",
  "subscribers": 535000,
- "fetched_at": "2026-11-07 11:05",
- "generated_at": "2026-11-07 11:05",
+ "fetched_at": "2026-11-08 06:45",
+ "generated_at": "2026-11-08 06:45",
  "period": {
-  "from": "2026-10-08 11:05",
-  "to": "2026-11-07 11:05",
+  "from": "2026-10-09 06:45",
+  "to": "2026-11-08 06:45",
   "days": 30
  },
  "streams_analyzed": 19,
@@ -321,7 +321,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 161,
+   "like_count": 166,
    "view_count": null
   }
  ],
@@ -343,7 +343,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 161,
+   "like_count": 166,
    "view_count": null
   }
  ],
@@ -498,13 +498,14 @@
    },
    "avg_member_chatters": 142.7,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 06:45"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
    "streams_analyzed": 4,
    "streams_missed": 1,

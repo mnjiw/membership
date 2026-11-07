@@ -3,52 +3,52 @@
  "channel_id": "UCjXBuHmWkieBApgBhDuJMMQ",
  "handle": "@八雲べに",
  "subscribers": 666000,
- "fetched_at": "2026-11-07 11:04",
- "generated_at": "2026-11-07 11:04",
+ "fetched_at": "2026-11-08 06:44",
+ "generated_at": "2026-11-08 06:44",
  "period": {
-  "from": "2026-10-08 11:04",
-  "to": "2026-11-07 11:04",
+  "from": "2026-10-09 06:44",
+  "to": "2026-11-08 06:44",
   "days": 30
  },
- "streams_analyzed": 19,
+ "streams_analyzed": 18,
  "streams_missed": 1,
- "unique_chatters": 7790,
- "members_confirmed": 1053,
+ "unique_chatters": 7577,
+ "members_confirmed": 1030,
  "member_classes": {
-  "unknown": 882,
-  "known": 161,
+  "unknown": 864,
+  "known": 156,
   "gift": 10
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 93
+   "members": 89
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 39
+   "members": 36
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 98
+   "members": 96
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 99
+   "members": 95
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 163
+   "members": 161
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 195
+   "members": 189
   },
   {
    "months": 36,
@@ -58,17 +58,17 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 128
+   "members": 127
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 59
+   "members": 58
   }
  ],
  "events": {
-  "new_members": 51,
-  "rejoins": 26,
+  "new_members": 46,
+  "rejoins": 25,
   "milestones": 30,
   "gift_purchases": 1,
   "gifted_total": 10,
@@ -80,21 +80,21 @@
    "tier": "♡しもべに♡",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 161,
+   "confirmed_members": 156,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 882.0,
-   "estimated_members": 1043.0,
-   "monthly_net_confirmed": 50203,
-   "monthly_net_estimated": 325226
+   "allocated_unknown": 864.0,
+   "estimated_members": 1020.0,
+   "monthly_net_confirmed": 48644,
+   "monthly_net_estimated": 318055
   }
  ],
  "revenue": {
-  "monthly_low": 325226,
-  "monthly_est": 325226,
+  "monthly_low": 318055,
+  "monthly_est": 318055,
   "gift_once": 3118,
-  "total_low": 328345,
-  "total_est": 328345,
-  "paying_members": 1043,
+  "total_low": 321173,
+  "total_est": 321173,
+  "paying_members": 1020,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -103,16 +103,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "FAEL6tMa2gQ",
-   "start": "2026-10-08 19:23",
-   "title": "【 Escape from Tarkov 】ひさロ。kappaアイテム＠５(´；ω；`)  Lv42~ w/れいーど 【ぶいすぽ/八雲べに】",
-   "kind": "配信",
-   "chatters": 621,
-   "member_chatters": 186,
-   "new_members": 5,
-   "gifted_total": 0
-  },
   {
    "video_id": "Rw-IMhdctu4",
    "start": "2026-10-10 20:05",
@@ -463,13 +453,14 @@
    },
    "avg_member_chatters": 182.2,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 06:44"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
    "streams_analyzed": 3,
    "streams_missed": 0,

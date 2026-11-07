@@ -2,54 +2,54 @@
  "channel": "光葉エニ",
  "channel_id": "UCdVYY2166hyjUAMHwp2almg",
  "handle": "@Mitsuba_Eni",
- "subscribers": 99800,
- "fetched_at": "2026-11-07 11:08",
- "generated_at": "2026-11-07 11:08",
+ "subscribers": 100000,
+ "fetched_at": "2026-11-08 06:49",
+ "generated_at": "2026-11-08 06:50",
  "period": {
-  "from": "2026-10-08 11:08",
-  "to": "2026-11-07 11:08",
+  "from": "2026-10-09 06:49",
+  "to": "2026-11-08 06:49",
   "days": 30
  },
- "streams_analyzed": 40,
- "streams_missed": 0,
- "unique_chatters": 1650,
- "members_confirmed": 125,
+ "streams_analyzed": 39,
+ "streams_missed": 1,
+ "unique_chatters": 1639,
+ "members_confirmed": 129,
  "member_classes": {
-  "known": 32,
-  "unknown": 73,
+  "known": 35,
+  "unknown": 74,
   "gift": 20
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 30
+   "members": 31
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 7
+   "members": 8
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 20
+   "members": 19
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 33
+   "members": 34
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 35
+   "members": 37
   }
  ],
  "events": {
-  "new_members": 5,
+  "new_members": 7,
   "rejoins": 0,
-  "milestones": 15,
+  "milestones": 17,
   "gift_purchases": 1,
   "gifted_total": 20,
   "gift_redemptions": 20
@@ -60,21 +60,21 @@
    "tier": "エニマニア",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 32,
+   "confirmed_members": 35,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 73.0,
-   "estimated_members": 105.0,
-   "monthly_net_confirmed": 9978,
-   "monthly_net_estimated": 32741
+   "allocated_unknown": 74.0,
+   "estimated_members": 109.0,
+   "monthly_net_confirmed": 10914,
+   "monthly_net_estimated": 33988
   }
  ],
  "revenue": {
-  "monthly_low": 32741,
-  "monthly_est": 32741,
+  "monthly_low": 33988,
+  "monthly_est": 33988,
   "gift_once": 6236,
-  "total_low": 38977,
-  "total_est": 38977,
-  "paying_members": 105,
+  "total_low": 40225,
+  "total_est": 40225,
+  "paying_members": 109,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,26 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "N5KYjN1QU0U",
-   "start": "2026-10-08 12:03",
-   "title": "【 マスターデュエル】リスナーさんにコーチング声出演してもらいます。烙印デッキ！【ネオポルテ / 光葉エニ】",
-   "kind": "配信",
-   "chatters": 141,
-   "member_chatters": 19,
-   "new_members": 0,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "uzZ5uAEcdnQ",
-   "start": "2026-10-08 22:21",
-   "title": "【 雑談 】今日は早く寝るんだにょ～【ネオポルテ / 光葉エニ】",
-   "kind": "配信",
-   "chatters": 80,
-   "member_chatters": 35,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "Ttf-1m2Kr-M",
    "start": "2026-10-09 12:03",
@@ -482,9 +462,32 @@
    "member_chatters": 15,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "BSuAJal_87g",
+   "start": "2026-11-07 20:02",
+   "title": "【 APEX 】お久しぶりエニめとレイドくん！w/レイドくん、めと【ネオポルテ / 光葉エニ】",
+   "kind": "配信",
+   "chatters": 75,
+   "member_chatters": 30,
+   "new_members": 2,
+   "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "15UahO6KOec",
+   "start": "2026-11-07 00:00",
+   "title": "【 遊戯王 】※実写！人生初、パック開封！【ネオポルテ / 光葉エニ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 1405,
+   "view_count": 139103
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -597,31 +600,32 @@
    },
    "avg_member_chatters": 20.7,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 06:50"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 7,
-   "streams_missed": 0,
-   "unique_chatters": 449,
-   "members_confirmed": 59,
+   "streams_analyzed": 8,
+   "streams_missed": 1,
+   "unique_chatters": 478,
+   "members_confirmed": 67,
    "member_classes": {
-    "unknown": 40,
-    "known": 19
+    "unknown": 45,
+    "known": 22
    },
-   "long_term_members": 24,
+   "long_term_members": 28,
    "badges": [
     {
      "months": 0,
-     "members": 4
+     "members": 5
     },
     {
      "months": 1,
-     "members": 4
+     "members": 6
     },
     {
      "months": 2,
@@ -629,33 +633,33 @@
     },
     {
      "months": 6,
-     "members": 16
+     "members": 17
     },
     {
      "months": 12,
-     "members": 24
+     "members": 28
     }
    ],
    "events": {
-    "new_members": 1,
+    "new_members": 3,
     "rejoins": 0,
-    "milestones": 1,
+    "milestones": 4,
     "gifted_total": 0
    },
    "tiers": [
     {
      "tier": "エニマニア",
      "price": 490,
-     "confirmed_members": 19,
-     "estimated_members": 59.0
+     "confirmed_members": 22,
+     "estimated_members": 67.0
     }
    ],
    "revenue": {
-    "monthly_low": 18397,
-    "monthly_est": 18397,
+    "monthly_low": 20892,
+    "monthly_est": 20892,
     "gift_once": 0
    },
-   "avg_member_chatters": 20.9,
+   "avg_member_chatters": 22,
    "partial": true,
    "finalized": false
   }

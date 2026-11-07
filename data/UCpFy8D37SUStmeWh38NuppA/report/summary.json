@@ -2,20 +2,20 @@
  "channel": "漆瀬レイ / Ray Nanase【ななしいんく】",
  "channel_id": "UCpFy8D37SUStmeWh38NuppA",
  "handle": "@Ray_Nanase",
- "subscribers": 13800,
- "fetched_at": "2026-11-07 11:04",
- "generated_at": "2026-11-07 11:04",
+ "subscribers": 13900,
+ "fetched_at": "2026-11-08 06:43",
+ "generated_at": "2026-11-08 06:43",
  "period": {
-  "from": "2026-10-08 11:04",
-  "to": "2026-11-07 11:04",
+  "from": "2026-10-09 06:43",
+  "to": "2026-11-08 06:43",
   "days": 30
  },
- "streams_analyzed": 29,
+ "streams_analyzed": 28,
  "streams_missed": 0,
- "unique_chatters": 1036,
- "members_confirmed": 137,
+ "unique_chatters": 1014,
+ "members_confirmed": 134,
  "member_classes": {
-  "unknown": 103,
+  "unknown": 100,
   "known": 21,
   "gift": 13
  },
@@ -33,13 +33,13 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 114
+   "members": 111
   }
  ],
  "events": {
   "new_members": 1,
   "rejoins": 2,
-  "milestones": 12,
+  "milestones": 11,
   "gift_purchases": 5,
   "gifted_total": 13,
   "gift_redemptions": 13
@@ -52,19 +52,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 21,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 103.0,
-   "estimated_members": 124.0,
+   "allocated_unknown": 100.0,
+   "estimated_members": 121.0,
    "monthly_net_confirmed": 6548,
-   "monthly_net_estimated": 38665
+   "monthly_net_estimated": 37730
   }
  ],
  "revenue": {
-  "monthly_low": 38665,
-  "monthly_est": 38665,
+  "monthly_low": 37730,
+  "monthly_est": 37730,
   "gift_once": 4054,
-  "total_low": 42719,
-  "total_est": 42719,
-  "paying_members": 124,
+  "total_low": 41784,
+  "total_est": 41784,
+  "paying_members": 121,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "fJzL_xwGO7k",
-   "start": "2026-10-08 20:00",
-   "title": "【 テストプレイをサボりすぎたＲＰＧ 】いやサボんなよ。【漆瀬レイ / ななしいんく】",
-   "kind": "配信",
-   "chatters": 123,
-   "member_chatters": 42,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "CV6yMwU8yXs",
    "start": "2026-10-10 22:00",
@@ -461,13 +451,14 @@
    },
    "avg_member_chatters": 35.3,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 06:43"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
    "streams_analyzed": 6,
    "streams_missed": 0,

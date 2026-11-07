@@ -2,21 +2,22 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-07"
+  "to": "2026-11-08"
  },
- "streams_analyzed": 3,
+ "streams_analyzed": 4,
  "streams_missed": 0,
- "unique_chatters": 141,
- "members_confirmed": 66,
+ "unique_chatters": 174,
+ "members_confirmed": 84,
  "member_classes": {
-  "unknown": 47,
-  "known": 19
+  "unknown": 61,
+  "known": 22,
+  "gift": 1
  },
- "long_term_members": 54,
+ "long_term_members": 68,
  "badges": [
   {
    "months": 0,
-   "members": 3
+   "members": 5
   },
   {
    "months": 1,
@@ -28,45 +29,45 @@
   },
   {
    "months": 6,
-   "members": 6
+   "members": 8
   },
   {
    "months": 12,
-   "members": 4
+   "members": 6
   },
   {
    "months": 24,
-   "members": 3
+   "members": 5
   },
   {
    "months": 36,
-   "members": 19
+   "members": 23
   },
   {
    "months": 48,
-   "members": 28
+   "members": 34
   }
  ],
  "events": {
-  "new_members": 0,
+  "new_members": 1,
   "rejoins": 0,
-  "milestones": 0,
-  "gifted_total": 0
+  "milestones": 5,
+  "gifted_total": 1
  },
  "tiers": [
   {
    "tier": "茜音色の絆",
    "price": 490,
-   "confirmed_members": 19,
-   "estimated_members": 66.0
+   "confirmed_members": 22,
+   "estimated_members": 83.0
   }
  ],
  "revenue": {
-  "monthly_low": 20580,
-  "monthly_est": 20580,
-  "gift_once": 0
+  "monthly_low": 25881,
+  "monthly_est": 25881,
+  "gift_once": 312
  },
- "avg_member_chatters": 41.7,
+ "avg_member_chatters": 48,
  "partial": true,
  "finalized": false
 }

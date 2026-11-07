@@ -3,15 +3,15 @@
  "channel_id": "UCD5W21JqNMv_tV9nfjvF9sw",
  "handle": "@shinomiyaruna",
  "subscribers": 479000,
- "fetched_at": "2026-11-07 11:04",
- "generated_at": "2026-11-07 11:04",
+ "fetched_at": "2026-11-08 06:44",
+ "generated_at": "2026-11-08 06:44",
  "period": {
-  "from": "2026-10-08 11:04",
-  "to": "2026-11-07 11:04",
+  "from": "2026-10-09 06:44",
+  "to": "2026-11-08 06:44",
   "days": 30
  },
  "streams_analyzed": 12,
- "streams_missed": 1,
+ "streams_missed": 2,
  "unique_chatters": 2078,
  "members_confirmed": 762,
  "member_classes": {
@@ -230,6 +230,18 @@
    "members_level": "",
    "like_count": 307,
    "view_count": null
+  },
+  {
+   "video_id": "qRFO_wTZIYY",
+   "start": "2026-11-07 00:00",
+   "title": "【 ドラゴンクエストⅪ 】寒いッ#１３【 ぶいすぽっ！/紫宮るな 】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 1507,
+   "view_count": 146216
   }
  ],
  "members_only_content": [
@@ -378,7 +390,8 @@
    },
    "avg_member_chatters": 195.5,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 06:44"
   }
  ],
  "no_streams": false,

@@ -3,20 +3,20 @@
  "channel_id": "UCCra1t-eIlO3ULyXQQMD9Xw",
  "handle": "@RemiaAotsuki",
  "subscribers": 81500,
- "fetched_at": "2026-11-07 11:05",
- "generated_at": "2026-11-07 11:05",
+ "fetched_at": "2026-11-08 06:45",
+ "generated_at": "2026-11-08 06:45",
  "period": {
-  "from": "2026-10-08 11:05",
-  "to": "2026-11-07 11:05",
+  "from": "2026-10-09 06:45",
+  "to": "2026-11-08 06:45",
   "days": 30
  },
  "streams_analyzed": 26,
  "streams_missed": 1,
- "unique_chatters": 589,
+ "unique_chatters": 588,
  "members_confirmed": 117,
  "member_classes": {
-  "unknown": 82,
   "known": 28,
+  "unknown": 82,
   "gift": 7
  },
  "badges": [
@@ -52,7 +52,7 @@
   }
  ],
  "events": {
-  "new_members": 4,
+  "new_members": 2,
   "rejoins": 5,
   "milestones": 17,
   "gift_purchases": 3,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "qM64VjD3bOM",
-   "start": "2026-10-09 01:00",
-   "title": "【Counter-Strike 2】 Co-op gaming with the girls! 【#VSPOEN #RemiaAotsuki】",
-   "kind": "配信",
-   "chatters": 58,
-   "member_chatters": 27,
-   "new_members": 2,
-   "gifted_total": 0
-  },
   {
    "video_id": "gLZk78lDTig",
    "start": "2026-10-10 06:03",
@@ -347,6 +337,16 @@
    "member_chatters": 28,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "oCNndmfSTz0",
+   "start": "2026-11-07 08:03",
+   "title": "【GTA V | #DISTRICTV2】  Finding the best and worst restaurants 🤮 【#VSPOEN #RemiaAotsuki】",
+   "kind": "配信",
+   "chatters": 54,
+   "member_chatters": 25,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -494,17 +494,18 @@
    },
    "avg_member_chatters": 34.6,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 06:45"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 6,
+   "streams_analyzed": 7,
    "streams_missed": 0,
-   "unique_chatters": 264,
+   "unique_chatters": 274,
    "members_confirmed": 72,
    "member_classes": {
     "known": 21,
@@ -552,7 +553,7 @@
     "monthly_est": 22451,
     "gift_once": 0
    },
-   "avg_member_chatters": 33.2,
+   "avg_member_chatters": 32,
    "partial": true,
    "finalized": false
   }

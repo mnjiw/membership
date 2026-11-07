@@ -2,18 +2,18 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-07"
+  "to": "2026-11-08"
  },
- "streams_analyzed": 4,
+ "streams_analyzed": 5,
  "streams_missed": 0,
- "unique_chatters": 86,
- "members_confirmed": 65,
+ "unique_chatters": 97,
+ "members_confirmed": 70,
  "member_classes": {
-  "unknown": 51,
-  "known": 4,
+  "unknown": 55,
+  "known": 5,
   "gift": 10
  },
- "long_term_members": 53,
+ "long_term_members": 58,
  "badges": [
   {
    "months": 0,
@@ -24,8 +24,12 @@
    "members": 1
   },
   {
+   "months": 12,
+   "members": 1
+  },
+  {
    "months": 24,
-   "members": 7
+   "members": 8
   },
   {
    "months": 36,
@@ -33,7 +37,7 @@
   },
   {
    "months": 48,
-   "members": 5
+   "members": 6
   },
   {
    "months": 60,
@@ -41,7 +45,7 @@
   },
   {
    "months": 72,
-   "members": 15
+   "members": 17
   }
  ],
  "events": {
@@ -54,16 +58,16 @@
   {
    "tier": "🐔KFC🍗",
    "price": 490,
-   "confirmed_members": 4,
-   "estimated_members": 55.0
+   "confirmed_members": 5,
+   "estimated_members": 60.0
   }
  ],
  "revenue": {
-  "monthly_low": 17150,
-  "monthly_est": 17150,
+  "monthly_low": 18709,
+  "monthly_est": 18709,
   "gift_once": 3118
  },
- "avg_member_chatters": 30.5,
+ "avg_member_chatters": 29.2,
  "partial": true,
  "finalized": false
 }

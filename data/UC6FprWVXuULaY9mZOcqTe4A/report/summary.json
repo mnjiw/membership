@@ -3,20 +3,20 @@
  "channel_id": "UC6FprWVXuULaY9mZOcqTe4A",
  "handle": "@Amu_amane",
  "subscribers": 82300,
- "fetched_at": "2026-11-07 11:07",
- "generated_at": "2026-11-07 11:07",
+ "fetched_at": "2026-11-08 06:49",
+ "generated_at": "2026-11-08 06:49",
  "period": {
-  "from": "2026-10-08 11:07",
-  "to": "2026-11-07 11:07",
+  "from": "2026-10-09 06:49",
+  "to": "2026-11-08 06:49",
   "days": 30
  },
- "streams_analyzed": 25,
+ "streams_analyzed": 24,
  "streams_missed": 1,
- "unique_chatters": 951,
- "members_confirmed": 249,
+ "unique_chatters": 946,
+ "members_confirmed": 248,
  "member_classes": {
-  "unknown": 95,
   "known": 104,
+  "unknown": 94,
   "gift": 50
  },
  "badges": [
@@ -38,7 +38,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 52
+   "members": 51
   },
   {
    "months": 12,
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 104,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 95.0,
-   "estimated_members": 199.0,
+   "allocated_unknown": 94.0,
+   "estimated_members": 198.0,
    "monthly_net_confirmed": 32429,
-   "monthly_net_estimated": 62052
+   "monthly_net_estimated": 61740
   }
  ],
  "revenue": {
-  "monthly_low": 62052,
-  "monthly_est": 62052,
+  "monthly_low": 61740,
+  "monthly_est": 61740,
   "gift_once": 15591,
-  "total_low": 77643,
-  "total_est": 77643,
-  "paying_members": 199,
+  "total_low": 77331,
+  "total_est": 77331,
+  "paying_members": 198,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "MN3l7ccTX2U",
-   "start": "2026-10-08 22:31",
-   "title": "【ほの暮しの庭】# 6 日本語勉強は続く！田舎暮らしも！【甘音あむ / ネオポルテ】",
-   "kind": "配信",
-   "chatters": 57,
-   "member_chatters": 29,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "XSlW6XiOGq0",
    "start": "2026-10-09 07:32",
@@ -483,13 +473,14 @@
    },
    "avg_member_chatters": 48.8,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 06:49"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
    "streams_analyzed": 6,
    "streams_missed": 0,

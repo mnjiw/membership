@@ -3,27 +3,27 @@
  "channel_id": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
  "handle": "@963Noah",
  "subscribers": 813000,
- "fetched_at": "2026-11-07 11:04",
- "generated_at": "2026-11-07 11:04",
+ "fetched_at": "2026-11-08 06:43",
+ "generated_at": "2026-11-08 06:44",
  "period": {
-  "from": "2026-10-08 11:04",
-  "to": "2026-11-07 11:04",
+  "from": "2026-10-09 06:43",
+  "to": "2026-11-08 06:43",
   "days": 30
  },
  "streams_analyzed": 36,
  "streams_missed": 0,
- "unique_chatters": 3957,
- "members_confirmed": 1746,
+ "unique_chatters": 4027,
+ "members_confirmed": 1757,
  "member_classes": {
-  "unknown": 1149,
-  "known": 86,
-  "gift": 511
+  "unknown": 1158,
+  "known": 89,
+  "gift": 510
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 568
+   "members": 569
   },
   {
    "months": 1,
@@ -33,12 +33,12 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 90
+   "members": 93
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 141
+   "members": 146
   },
   {
    "months": 12,
@@ -48,12 +48,12 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 216
+   "members": 213
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 165
+   "members": 169
   },
   {
    "months": 48,
@@ -63,16 +63,16 @@
   {
    "months": 60,
    "label": "5年",
-   "members": 99
+   "members": 100
   }
  ],
  "events": {
-  "new_members": 30,
-  "rejoins": 24,
+  "new_members": 33,
+  "rejoins": 25,
   "milestones": 0,
-  "gift_purchases": 35,
-  "gifted_total": 574,
-  "gift_redemptions": 512
+  "gift_purchases": 34,
+  "gifted_total": 573,
+  "gift_redemptions": 511
  },
  "tiers_configured": true,
  "tiers": [
@@ -80,21 +80,21 @@
    "tier": "963fam",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 86,
+   "confirmed_members": 89,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1149.0,
-   "estimated_members": 1235.0,
-   "monthly_net_confirmed": 26816,
-   "monthly_net_estimated": 385095
+   "allocated_unknown": 1158.0,
+   "estimated_members": 1247.0,
+   "monthly_net_confirmed": 27752,
+   "monthly_net_estimated": 388837
   }
  ],
  "revenue": {
-  "monthly_low": 385095,
-  "monthly_est": 385095,
-  "gift_once": 178984,
-  "total_low": 564079,
-  "total_est": 564079,
-  "paying_members": 1235,
+  "monthly_low": 388837,
+  "monthly_est": 388837,
+  "gift_once": 178672,
+  "total_low": 567509,
+  "total_est": 567509,
+  "paying_members": 1247,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -103,16 +103,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "Zyl7iBd0jqs",
-   "start": "2026-10-08 20:03",
-   "title": "【 APEX 】はせのあてとでオリンパス！ 【 ぶいすぽっ！胡桃のあ 】",
-   "kind": "配信",
-   "chatters": 294,
-   "member_chatters": 212,
-   "new_members": 0,
-   "gifted_total": 1
-  },
   {
    "video_id": "kBbuQu5mR5E",
    "start": "2026-10-09 19:00",
@@ -462,6 +452,16 @@
    "member_chatters": 141,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "UtzeWXfb7LI",
+   "start": "2026-11-07 23:01",
+   "title": "【 夜ふかし雑談 】#95 今週もおつかれさまでした🎶【ぶいすぽっ！胡桃のあ】",
+   "kind": "配信",
+   "chatters": 467,
+   "member_chatters": 273,
+   "new_members": 3,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -609,65 +609,66 @@
    },
    "avg_member_chatters": 232.1,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 06:44"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 7,
+   "streams_analyzed": 8,
    "streams_missed": 0,
-   "unique_chatters": 1218,
-   "members_confirmed": 520,
+   "unique_chatters": 1467,
+   "members_confirmed": 624,
    "member_classes": {
-    "unknown": 473,
-    "known": 36,
+    "unknown": 567,
+    "known": 46,
     "gift": 11
    },
-   "long_term_members": 392,
+   "long_term_members": 460,
    "badges": [
     {
      "months": 0,
-     "members": 37
+     "members": 47
     },
     {
      "months": 1,
-     "members": 14
+     "members": 17
     },
     {
      "months": 2,
-     "members": 29
+     "members": 37
     },
     {
      "months": 6,
-     "members": 48
+     "members": 63
     },
     {
      "months": 12,
-     "members": 99
+     "members": 118
     },
     {
      "months": 24,
-     "members": 88
+     "members": 104
     },
     {
      "months": 36,
-     "members": 74
+     "members": 95
     },
     {
      "months": 48,
-     "members": 84
+     "members": 89
     },
     {
      "months": 60,
-     "members": 47
+     "members": 54
     }
    ],
    "events": {
-    "new_members": 10,
-    "rejoins": 3,
+    "new_members": 13,
+    "rejoins": 4,
     "milestones": 0,
     "gifted_total": 11
    },
@@ -675,16 +676,16 @@
     {
      "tier": "963fam",
      "price": 490,
-     "confirmed_members": 36,
-     "estimated_members": 509.0
+     "confirmed_members": 46,
+     "estimated_members": 613.0
     }
    ],
    "revenue": {
-    "monthly_low": 158715,
-    "monthly_est": 158715,
+    "monthly_low": 191145,
+    "monthly_est": 191145,
     "gift_once": 3430
    },
-   "avg_member_chatters": 180,
+   "avg_member_chatters": 191.6,
    "partial": true,
    "finalized": false
   }

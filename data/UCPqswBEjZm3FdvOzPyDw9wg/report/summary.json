@@ -3,16 +3,16 @@
  "channel_id": "UCPqswBEjZm3FdvOzPyDw9wg",
  "handle": "@AnonRemu",
  "subscribers": 47100,
- "fetched_at": "2026-11-07 11:08",
- "generated_at": "2026-11-07 11:08",
+ "fetched_at": "2026-11-08 06:52",
+ "generated_at": "2026-11-08 06:52",
  "period": {
-  "from": "2026-10-08 11:08",
-  "to": "2026-11-07 11:08",
+  "from": "2026-10-09 06:52",
+  "to": "2026-11-08 06:52",
   "days": 30
  },
- "streams_analyzed": 10,
+ "streams_analyzed": 11,
  "streams_missed": 1,
- "unique_chatters": 777,
+ "unique_chatters": 789,
  "members_confirmed": 283,
  "member_classes": {
   "unknown": 148,
@@ -33,12 +33,12 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 55
+   "members": 54
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 33
+   "members": 34
   },
   {
    "months": 12,
@@ -215,20 +215,30 @@
    "member_chatters": 74,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "w_WSxRC-m9o",
+   "start": "2026-11-07 09:00",
+   "title": "[ Chatting ] Hope I can stream...ᐟ.ᐟ.ᐟ [ Remu Kine / Varium ]",
+   "kind": "配信",
+   "chatters": 132,
+   "member_chatters": 72,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
   {
-   "video_id": "w_WSxRC-m9o",
-   "start": "2026-11-07 00:00",
-   "title": "『 雑談 』配信できますように～.ᐟ.ᐟ.ᐟ『綺音れむ / Varium』",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
+   "video_id": "hJ5xnYoDFu0",
+   "start": "2026-10-22 20:00",
+   "title": "『 メンバー限定 』うたのれんしゅうテスト配信 .ᐟ.ᐟ『綺音れむ / Varium』",
+   "kind": "live",
+   "status": "no_chat",
+   "reason": "チャットリプレイなし（アーカイブ編集・チャット無効の可能性）",
    "members_only": false,
    "members_level": "",
-   "like_count": 339,
-   "view_count": 991
+   "like_count": 103,
+   "view_count": null
   }
  ],
  "members_only_content": [],
@@ -291,7 +301,7 @@
     "to": "2026-10-31"
    },
    "streams_analyzed": 9,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 761,
    "members_confirmed": 283,
    "member_classes": {
@@ -361,43 +371,44 @@
    },
    "avg_member_chatters": 96,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 06:52"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 1,
-   "streams_missed": 1,
-   "unique_chatters": 140,
-   "members_confirmed": 74,
+   "streams_analyzed": 2,
+   "streams_missed": 0,
+   "unique_chatters": 210,
+   "members_confirmed": 101,
    "member_classes": {
-    "unknown": 73,
-    "known": 1
+    "unknown": 98,
+    "known": 3
    },
-   "long_term_members": 48,
+   "long_term_members": 62,
    "badges": [
     {
      "months": 0,
-     "members": 2
+     "members": 3
     },
     {
      "months": 1,
-     "members": 2
+     "members": 4
     },
     {
      "months": 2,
-     "members": 12
+     "members": 16
     },
     {
      "months": 6,
-     "members": 10
+     "members": 16
     },
     {
      "months": 12,
-     "members": 48
+     "members": 62
     }
    ],
    "events": {
@@ -410,8 +421,8 @@
     {
      "tier": "だんしゃく",
      "price": 490,
-     "confirmed_members": 1,
-     "estimated_members": 74.0
+     "confirmed_members": 3,
+     "estimated_members": 101.0
     },
     {
      "tier": "ししゃく",
@@ -433,11 +444,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 23075,
-    "monthly_est": 23075,
+    "monthly_low": 31494,
+    "monthly_est": 31494,
     "gift_once": 0
    },
-   "avg_member_chatters": 74,
+   "avg_member_chatters": 73,
    "partial": true,
    "finalized": false
   }

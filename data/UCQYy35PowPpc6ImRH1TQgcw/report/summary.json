@@ -3,11 +3,11 @@
  "channel_id": "UCQYy35PowPpc6ImRH1TQgcw",
  "handle": "@nora_shitagai",
  "subscribers": 180000,
- "fetched_at": "2026-11-07 11:09",
- "generated_at": "2026-11-07 11:09",
+ "fetched_at": "2026-11-08 06:55",
+ "generated_at": "2026-11-08 06:55",
  "period": {
-  "from": "2026-10-08 11:09",
-  "to": "2026-11-07 11:09",
+  "from": "2026-10-09 06:55",
+  "to": "2026-11-08 06:55",
   "days": 30
  },
  "streams_analyzed": 3,
@@ -138,7 +138,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 121,
+   "like_count": 120,
    "view_count": null
   }
  ],
@@ -160,7 +160,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 121,
+   "like_count": 120,
    "view_count": null
   }
  ],
@@ -254,7 +254,8 @@
    },
    "avg_member_chatters": 59.5,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 06:55"
   }
  ],
  "no_streams": false,

@@ -3,42 +3,42 @@
  "channel_id": "UCV0YFbQEkDoWewu-LOlLwdA",
  "handle": "@MonicaMelodia",
  "subscribers": 28300,
- "fetched_at": "2026-11-07 11:08",
- "generated_at": "2026-11-07 11:08",
+ "fetched_at": "2026-11-08 06:52",
+ "generated_at": "2026-11-08 06:53",
  "period": {
-  "from": "2026-10-08 11:08",
-  "to": "2026-11-07 11:08",
+  "from": "2026-10-09 06:52",
+  "to": "2026-11-08 06:52",
   "days": 30
  },
  "streams_analyzed": 25,
  "streams_missed": 2,
- "unique_chatters": 1641,
+ "unique_chatters": 1672,
  "members_confirmed": 593,
  "member_classes": {
-  "unknown": 295,
-  "known": 17,
+  "unknown": 294,
+  "known": 18,
   "gift": 281
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 261
+   "members": 260
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 95
+   "members": 97
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 237
+   "members": 236
   }
  ],
  "events": {
-  "new_members": 9,
-  "rejoins": 3,
+  "new_members": 10,
+  "rejoins": 2,
   "milestones": 0,
   "gift_purchases": 14,
   "gifted_total": 281,
@@ -50,12 +50,12 @@
    "tier": "メロディア探偵事務所　探偵 Lv1",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 16,
-   "share_of_confirmed_pct": 94.1,
-   "allocated_unknown": 277.6,
-   "estimated_members": 293.6,
-   "monthly_net_confirmed": 4989,
-   "monthly_net_estimated": 91564
+   "confirmed_members": 17,
+   "share_of_confirmed_pct": 94.4,
+   "allocated_unknown": 277.7,
+   "estimated_members": 294.7,
+   "monthly_net_confirmed": 5301,
+   "monthly_net_estimated": 91882
   },
   {
    "tier": "メロディア探偵事務所　探偵 Lv50",
@@ -84,19 +84,19 @@
    "price": 14000,
    "net_per_member": 8909.1,
    "confirmed_members": 1,
-   "share_of_confirmed_pct": 5.9,
-   "allocated_unknown": 17.4,
-   "estimated_members": 18.4,
+   "share_of_confirmed_pct": 5.6,
+   "allocated_unknown": 16.3,
+   "estimated_members": 17.3,
    "monthly_net_confirmed": 8909,
-   "monthly_net_estimated": 163508
+   "monthly_net_estimated": 154424
   }
  ],
  "revenue": {
   "monthly_low": 105885,
-  "monthly_est": 255073,
+  "monthly_est": 246307,
   "gift_once": 87621,
   "total_low": 193505,
-  "total_est": 342693,
+  "total_est": 333928,
   "paying_members": 312,
   "single_tier": false,
   "tax_rate": 0.1,
@@ -106,16 +106,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "TkwRumUknZY",
-   "start": "2026-10-08 17:59",
-   "title": "【スーパーマリオRPG】#2 新たな仲間が加わりました.ᐟ.ᐟ 名作リメイクを初見プレイ.ᐟ.ᐟ.ᐟ.ᐟ 【モニカ・メロディア / Varium】",
-   "kind": "配信",
-   "chatters": 249,
-   "member_chatters": 104,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "4neoIMXSVwQ",
    "start": "2026-10-09 17:59",
@@ -355,6 +345,16 @@
    "member_chatters": 128,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "qeXWDL5t7ew",
+   "start": "2026-11-07 17:59",
+   "title": "【スーパーマリオブラザーズ3】 初見でどこまでいける！？ マリオ3に初挑戦っ.ᐟ.ᐟ.ᐟ.ᐟ.ᐟ 【モニカ・メロディア / Varium】",
+   "kind": "配信",
+   "chatters": 321,
+   "member_chatters": 109,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -518,32 +518,33 @@
    },
    "avg_member_chatters": 124.7,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 06:53"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 6,
    "streams_missed": 0,
-   "unique_chatters": 840,
-   "members_confirmed": 279,
+   "unique_chatters": 909,
+   "members_confirmed": 283,
    "member_classes": {
-    "unknown": 245,
-    "known": 14,
+    "unknown": 248,
+    "known": 15,
     "gift": 20
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 55
+     "members": 56
     },
     {
      "months": 1,
-     "members": 48
+     "members": 51
     },
     {
      "months": 2,
@@ -551,7 +552,7 @@
     }
    ],
    "events": {
-    "new_members": 3,
+    "new_members": 4,
     "rejoins": 1,
     "milestones": 0,
     "gifted_total": 20
@@ -560,8 +561,8 @@
     {
      "tier": "メロディア探偵事務所　探偵 Lv1",
      "price": 490,
-     "confirmed_members": 14,
-     "estimated_members": 259.0
+     "confirmed_members": 15,
+     "estimated_members": 263.0
     },
     {
      "tier": "メロディア探偵事務所　探偵 Lv50",
@@ -583,11 +584,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 80761,
-    "monthly_est": 80761,
+    "monthly_low": 82008,
+    "monthly_est": 82008,
     "gift_once": 6236
    },
-   "avg_member_chatters": 140.2,
+   "avg_member_chatters": 135,
    "partial": true,
    "finalized": false
   }

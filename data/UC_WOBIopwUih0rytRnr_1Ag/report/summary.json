@@ -3,11 +3,11 @@
  "channel_id": "UC_WOBIopwUih0rytRnr_1Ag",
  "handle": "@Rui_Seshima",
  "subscribers": 60000,
- "fetched_at": "2026-11-07 11:03",
- "generated_at": "2026-11-07 11:03",
+ "fetched_at": "2026-11-08 06:42",
+ "generated_at": "2026-11-08 06:43",
  "period": {
-  "from": "2026-10-08 11:03",
-  "to": "2026-11-07 11:03",
+  "from": "2026-10-09 06:42",
+  "to": "2026-11-08 06:42",
   "days": 30
  },
  "streams_analyzed": 23,
@@ -356,7 +356,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "ふぁみるい",
-   "like_count": 237,
+   "like_count": 238,
    "view_count": null
   }
  ],
@@ -378,7 +378,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "ふぁみるい",
-   "like_count": 237,
+   "like_count": 238,
    "view_count": null
   }
  ],
@@ -525,13 +525,14 @@
    },
    "avg_member_chatters": 38.4,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 06:43"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
    "streams_analyzed": 4,
    "streams_missed": 1,

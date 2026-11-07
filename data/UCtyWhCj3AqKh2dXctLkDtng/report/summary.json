@@ -3,66 +3,66 @@
  "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
  "handle": "@IchijouRirika",
  "subscribers": 757000,
- "fetched_at": "2026-11-07 11:01",
- "generated_at": "2026-11-07 11:01",
+ "fetched_at": "2026-11-08 06:31",
+ "generated_at": "2026-11-08 06:33",
  "period": {
-  "from": "2026-10-08 11:01",
-  "to": "2026-11-07 11:01",
+  "from": "2026-10-09 06:31",
+  "to": "2026-11-08 06:31",
   "days": 30
  },
  "streams_analyzed": 20,
  "streams_missed": 1,
- "unique_chatters": 11505,
- "members_confirmed": 2727,
+ "unique_chatters": 10274,
+ "members_confirmed": 2588,
  "member_classes": {
-  "unknown": 1206,
-  "known": 341,
-  "gift": 1180
+  "unknown": 1159,
+  "known": 338,
+  "gift": 1091
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 1258
+   "members": 1170
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 73
+   "members": 68
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 121
+   "members": 118
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 161
+   "members": 158
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 324
+   "members": 307
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 554
+   "members": 520
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 236
+   "members": 247
   }
  ],
  "events": {
-  "new_members": 44,
+  "new_members": 43,
   "rejoins": 29,
-  "milestones": 108,
-  "gift_purchases": 281,
-  "gifted_total": 1366,
-  "gift_redemptions": 1180
+  "milestones": 103,
+  "gift_purchases": 273,
+  "gifted_total": 1261,
+  "gift_redemptions": 1091
  },
  "tiers_configured": true,
  "tiers": [
@@ -70,21 +70,21 @@
    "tier": "一条Corp.",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 341,
+   "confirmed_members": 338,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1206.0,
-   "estimated_members": 1547.0,
-   "monthly_net_confirmed": 106330,
-   "monthly_net_estimated": 482383
+   "allocated_unknown": 1159.0,
+   "estimated_members": 1497.0,
+   "monthly_net_confirmed": 105395,
+   "monthly_net_estimated": 466792
   }
  ],
  "revenue": {
-  "monthly_low": 482383,
-  "monthly_est": 482383,
-  "gift_once": 425944,
-  "total_low": 908326,
-  "total_est": 908326,
-  "paying_members": 1547,
+  "monthly_low": 466792,
+  "monthly_est": 466792,
+  "gift_once": 393203,
+  "total_low": 859995,
+  "total_est": 859995,
+  "paying_members": 1497,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "trKttFgIY_0",
-   "start": "2026-10-08 21:01",
-   "title": "【らでんちゃん、ご在宅ですか？】儒烏風亭らでん限定凸待ち会場【一条莉々華/hololive ReGLOSS】",
-   "kind": "配信",
-   "chatters": 3517,
-   "member_chatters": 759,
-   "new_members": 2,
-   "gifted_total": 112
-  },
   {
    "video_id": "uVwJqZ69lmU",
    "start": "2026-10-09 21:01",
@@ -292,6 +282,16 @@
    "member_chatters": 494,
    "new_members": 1,
    "gifted_total": 43
+  },
+  {
+   "video_id": "nA_lh9jWGeE",
+   "start": "2026-11-07 19:01",
+   "title": "【完全初見】ハイラル城へ…！私たちの青春を取り戻そう。With ゼルダの伝説 時のオカリナ part2【一条莉々華/hololive ReGLOSS】",
+   "kind": "配信",
+   "chatters": 1214,
+   "member_chatters": 382,
+   "new_members": 1,
+   "gifted_total": 7
   }
  ],
  "missed_streams": [
@@ -454,28 +454,29 @@
    },
    "avg_member_chatters": 491,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 06:33"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 4,
    "streams_missed": 0,
-   "unique_chatters": 2344,
-   "members_confirmed": 718,
+   "unique_chatters": 2869,
+   "members_confirmed": 786,
    "member_classes": {
-    "unknown": 487,
-    "known": 176,
-    "gift": 55
+    "unknown": 532,
+    "known": 192,
+    "gift": 62
    },
-   "long_term_members": 511,
+   "long_term_members": 559,
    "badges": [
     {
      "months": 0,
-     "members": 82
+     "members": 93
     },
     {
      "months": 1,
@@ -483,45 +484,45 @@
     },
     {
      "months": 2,
-     "members": 36
+     "members": 38
     },
     {
      "months": 6,
-     "members": 62
+     "members": 69
     },
     {
      "months": 12,
-     "members": 126
+     "members": 142
     },
     {
      "months": 24,
-     "members": 192
+     "members": 206
     },
     {
      "months": 36,
-     "members": 193
+     "members": 211
     }
    ],
    "events": {
-    "new_members": 2,
+    "new_members": 3,
     "rejoins": 1,
-    "milestones": 2,
-    "gifted_total": 60
+    "milestones": 4,
+    "gifted_total": 67
    },
    "tiers": [
     {
      "tier": "一条Corp.",
      "price": 490,
-     "confirmed_members": 176,
-     "estimated_members": 663.0
+     "confirmed_members": 192,
+     "estimated_members": 724.0
     }
    ],
    "revenue": {
-    "monthly_low": 206735,
-    "monthly_est": 206735,
-    "gift_once": 18709
+    "monthly_low": 225756,
+    "monthly_est": 225756,
+    "gift_once": 20892
    },
-   "avg_member_chatters": 373.7,
+   "avg_member_chatters": 375.8,
    "partial": true,
    "finalized": false
   }

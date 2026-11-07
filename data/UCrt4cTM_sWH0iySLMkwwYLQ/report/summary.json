@@ -2,28 +2,28 @@
  "channel": "蛇宵ティア / Tier Channel【ななしいんく】",
  "channel_id": "UCrt4cTM_sWH0iySLMkwwYLQ",
  "handle": "@Tier_Hebiyoi",
- "subscribers": 94300,
- "fetched_at": "2026-11-07 11:03",
- "generated_at": "2026-11-07 11:04",
+ "subscribers": 94400,
+ "fetched_at": "2026-11-08 06:43",
+ "generated_at": "2026-11-08 06:43",
  "period": {
-  "from": "2026-10-08 11:03",
-  "to": "2026-11-07 11:03",
+  "from": "2026-10-09 06:43",
+  "to": "2026-11-08 06:43",
   "days": 30
  },
- "streams_analyzed": 34,
+ "streams_analyzed": 33,
  "streams_missed": 1,
- "unique_chatters": 825,
- "members_confirmed": 147,
+ "unique_chatters": 797,
+ "members_confirmed": 136,
  "member_classes": {
-  "unknown": 93,
   "known": 29,
-  "gift": 25
+  "unknown": 93,
+  "gift": 14
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 28
+   "members": 20
   },
   {
    "months": 1,
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 8
+   "members": 7
   },
   {
    "months": 6,
@@ -48,16 +48,16 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 84
+   "members": 82
   }
  ],
  "events": {
   "new_members": 2,
   "rejoins": 2,
-  "milestones": 8,
-  "gift_purchases": 8,
-  "gifted_total": 25,
-  "gift_redemptions": 25
+  "milestones": 7,
+  "gift_purchases": 6,
+  "gifted_total": 14,
+  "gift_redemptions": 14
  },
  "tiers_configured": true,
  "tiers": [
@@ -76,9 +76,9 @@
  "revenue": {
   "monthly_low": 38042,
   "monthly_est": 38042,
-  "gift_once": 7795,
-  "total_low": 45837,
-  "total_est": 45837,
+  "gift_once": 4365,
+  "total_low": 42407,
+  "total_est": 42407,
   "paying_members": 122,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -88,26 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "tI7XYn42Wic",
-   "start": "2026-10-08 19:00",
-   "title": "あの踊りのうまいVtuber蛇宵さんを檻に確保しました【 蛇宵ティア / ななしいんく 】",
-   "kind": "配信",
-   "chatters": 166,
-   "member_chatters": 66,
-   "new_members": 0,
-   "gifted_total": 11
-  },
-  {
-   "video_id": "nrGAWscqXnI",
-   "start": "2026-10-08 20:58",
-   "title": "【 Minecraft 】489(神話級)個鉄が取れるまでぎょん女でマイクラハードコア【 蛇宵ティア / ななしいんく 】",
-   "kind": "配信",
-   "chatters": 49,
-   "member_chatters": 22,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "Sv1s0_lRB3Q",
    "start": "2026-10-10 12:00",
@@ -427,6 +407,16 @@
    "member_chatters": 29,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "eTNWSW7JZDI",
+   "start": "2026-11-07 11:59",
+   "title": "【 ONEPIECE 海のごちそうレストラン🍽 #3 】もう誰が何だったかわからなくなってきましたがどんどん食べてくださいね～【 蛇宵ティア / ななしいんく 】",
+   "kind": "配信",
+   "chatters": 71,
+   "member_chatters": 28,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -574,24 +564,25 @@
    },
    "avg_member_chatters": 35.7,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 06:43"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 6,
+   "streams_analyzed": 7,
    "streams_missed": 0,
-   "unique_chatters": 356,
-   "members_confirmed": 91,
+   "unique_chatters": 367,
+   "members_confirmed": 93,
    "member_classes": {
-    "unknown": 63,
-    "known": 21,
+    "unknown": 64,
+    "known": 22,
     "gift": 7
    },
-   "long_term_members": 72,
+   "long_term_members": 74,
    "badges": [
     {
      "months": 0,
@@ -615,7 +606,7 @@
     },
     {
      "months": 24,
-     "members": 60
+     "members": 62
     }
    ],
    "events": {
@@ -628,16 +619,16 @@
     {
      "tier": "蛇宵幸福教団",
      "price": 490,
-     "confirmed_members": 21,
-     "estimated_members": 84.0
+     "confirmed_members": 22,
+     "estimated_members": 86.0
     }
    ],
    "revenue": {
-    "monthly_low": 26193,
-    "monthly_est": 26193,
+    "monthly_low": 26816,
+    "monthly_est": 26816,
     "gift_once": 2183
    },
-   "avg_member_chatters": 36.8,
+   "avg_member_chatters": 35.6,
    "partial": true,
    "finalized": false
   }

@@ -3,19 +3,19 @@
  "channel_id": "UCs-lYkwb-NYKE9_ssTRDK3Q",
  "handle": "@nekuro0412",
  "subscribers": 312000,
- "fetched_at": "2026-11-07 11:05",
- "generated_at": "2026-11-07 11:05",
+ "fetched_at": "2026-11-08 06:45",
+ "generated_at": "2026-11-08 06:45",
  "period": {
-  "from": "2026-10-08 11:05",
-  "to": "2026-11-07 11:05",
+  "from": "2026-10-09 06:45",
+  "to": "2026-11-08 06:45",
   "days": 30
  },
- "streams_analyzed": 20,
+ "streams_analyzed": 19,
  "streams_missed": 2,
- "unique_chatters": 1038,
- "members_confirmed": 218,
+ "unique_chatters": 955,
+ "members_confirmed": 204,
  "member_classes": {
-  "unknown": 200,
+  "unknown": 186,
   "known": 13,
   "gift": 5
  },
@@ -28,12 +28,12 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 6
+   "members": 4
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 25
+   "members": 24
   },
   {
    "months": 6,
@@ -48,27 +48,27 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 44
+   "members": 39
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 39
+   "members": 37
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 14
+   "members": 11
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 10
+   "members": 9
   }
  ],
  "events": {
   "new_members": 9,
-  "rejoins": 3,
+  "rejoins": 2,
   "milestones": 0,
   "gift_purchases": 1,
   "gifted_total": 5,
@@ -82,19 +82,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 13,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 200.0,
-   "estimated_members": 213.0,
+   "allocated_unknown": 186.0,
+   "estimated_members": 199.0,
    "monthly_net_confirmed": 4054,
-   "monthly_net_estimated": 66417
+   "monthly_net_estimated": 62052
   }
  ],
  "revenue": {
-  "monthly_low": 66417,
-  "monthly_est": 66417,
+  "monthly_low": 62052,
+  "monthly_est": 62052,
   "gift_once": 1559,
-  "total_low": 67976,
-  "total_est": 67976,
-  "paying_members": 213,
+  "total_low": 63611,
+  "total_est": 63611,
+  "paying_members": 199,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -103,16 +103,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "n0cjRbs82W0",
-   "start": "2026-10-08 20:34",
-   "title": "【初めてのApex】1キルするまで終われない【 あおぎり高校 / #山黒音玄 】",
-   "kind": "配信",
-   "chatters": 196,
-   "member_chatters": 90,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "Vi0sQfV3jnI",
    "start": "2026-10-09 07:30",
@@ -495,13 +485,14 @@
    },
    "avg_member_chatters": 62,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 06:45"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
    "streams_analyzed": 3,
    "streams_missed": 0,

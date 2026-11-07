@@ -3,27 +3,27 @@
  "channel_id": "UChXm-xAYPfygrbyLo2yCASQ",
  "handle": "@Anko_Kisaki",
  "subscribers": 48000,
- "fetched_at": "2026-11-07 11:03",
- "generated_at": "2026-11-07 11:03",
+ "fetched_at": "2026-11-08 06:42",
+ "generated_at": "2026-11-08 06:42",
  "period": {
-  "from": "2026-10-08 11:03",
-  "to": "2026-11-07 11:03",
+  "from": "2026-10-09 06:42",
+  "to": "2026-11-08 06:42",
   "days": 30
  },
- "streams_analyzed": 18,
+ "streams_analyzed": 19,
  "streams_missed": 0,
- "unique_chatters": 490,
- "members_confirmed": 159,
+ "unique_chatters": 494,
+ "members_confirmed": 160,
  "member_classes": {
   "known": 32,
   "unknown": 80,
-  "gift": 47
+  "gift": 48
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 47
+   "members": 48
   },
   {
    "months": 1,
@@ -55,9 +55,9 @@
   "new_members": 1,
   "rejoins": 0,
   "milestones": 26,
-  "gift_purchases": 20,
-  "gifted_total": 56,
-  "gift_redemptions": 47
+  "gift_purchases": 21,
+  "gifted_total": 57,
+  "gift_redemptions": 48
  },
  "tiers_configured": true,
  "tiers": [
@@ -76,9 +76,9 @@
  "revenue": {
   "monthly_low": 34924,
   "monthly_est": 34924,
-  "gift_once": 17462,
-  "total_low": 52385,
-  "total_est": 52385,
+  "gift_once": 17774,
+  "total_low": 52697,
+  "total_est": 52697,
   "paying_members": 112,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -267,6 +267,16 @@
    "member_chatters": 44,
    "new_members": 0,
    "gifted_total": 1
+  },
+  {
+   "video_id": "CQEHxkL2AMc",
+   "start": "2026-11-07 21:01",
+   "title": "【 ガチグラvol.2 】新しい街どんな出来事があるの～～！【 季咲あんこ / ななしいんく 】",
+   "kind": "配信",
+   "chatters": 61,
+   "member_chatters": 39,
+   "new_members": 0,
+   "gifted_total": 1
   }
  ],
  "missed_streams": [],
@@ -390,28 +400,29 @@
    },
    "avg_member_chatters": 39.6,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 06:42"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 6,
    "streams_missed": 0,
-   "unique_chatters": 166,
-   "members_confirmed": 75,
+   "unique_chatters": 179,
+   "members_confirmed": 81,
    "member_classes": {
     "known": 27,
-    "unknown": 43,
-    "gift": 5
+    "unknown": 48,
+    "gift": 6
    },
-   "long_term_members": 62,
+   "long_term_members": 67,
    "badges": [
     {
      "months": 0,
-     "members": 7
+     "members": 8
     },
     {
      "months": 1,
@@ -427,33 +438,33 @@
     },
     {
      "months": 12,
-     "members": 4
+     "members": 5
     },
     {
      "months": 24,
-     "members": 58
+     "members": 62
     }
    ],
    "events": {
     "new_members": 0,
     "rejoins": 0,
     "milestones": 1,
-    "gifted_total": 5
+    "gifted_total": 6
    },
    "tiers": [
     {
      "tier": "あんこふぁんくらぶ",
      "price": 490,
      "confirmed_members": 27,
-     "estimated_members": 70.0
+     "estimated_members": 75.0
     }
    ],
    "revenue": {
-    "monthly_low": 21827,
-    "monthly_est": 21827,
-    "gift_once": 1559
+    "monthly_low": 23386,
+    "monthly_est": 23386,
+    "gift_once": 1871
    },
-   "avg_member_chatters": 33.8,
+   "avg_member_chatters": 34.7,
    "partial": true,
    "finalized": false
   }

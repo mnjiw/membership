@@ -3,15 +3,15 @@
  "channel_id": "UCmiYJycZXBGc4s_zjIRUHhQ",
  "handle": "@urame0711",
  "subscribers": 290000,
- "fetched_at": "2026-11-07 11:05",
- "generated_at": "2026-11-07 11:05",
+ "fetched_at": "2026-11-08 06:45",
+ "generated_at": "2026-11-08 06:45",
  "period": {
-  "from": "2026-10-08 11:05",
-  "to": "2026-11-07 11:05",
+  "from": "2026-10-09 06:45",
+  "to": "2026-11-08 06:45",
   "days": 30
  },
  "streams_analyzed": 22,
- "streams_missed": 3,
+ "streams_missed": 4,
  "unique_chatters": 1565,
  "members_confirmed": 578,
  "member_classes": {
@@ -345,6 +345,18 @@
    "members_level": "うらめのつまみ会",
    "like_count": 193,
    "view_count": null
+  },
+  {
+   "video_id": "l_qr2H_lGJg",
+   "start": "2026-11-07 13:27",
+   "title": "【#実写 】休日の義務なので、昼から飲酒とさせていただきます【#春雨麗女 #あおぎり高校】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "うらめのつまみ会",
+   "like_count": 1158,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -366,6 +378,16 @@
    "status": "members_only",
    "members_level": "うらめのつまみ会",
    "like_count": 193,
+   "view_count": null
+  },
+  {
+   "video_id": "l_qr2H_lGJg",
+   "start": "2026-11-07 13:27",
+   "title": "【#実写 】休日の義務なので、昼から飲酒とさせていただきます【#春雨麗女 #あおぎり高校】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "うらめのつまみ会",
+   "like_count": 1158,
    "view_count": null
   }
  ],
@@ -488,16 +510,17 @@
    },
    "avg_member_chatters": 121.5,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 06:45"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
    "streams_analyzed": 4,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 680,
    "members_confirmed": 389,
    "member_classes": {

@@ -3,11 +3,11 @@
  "channel_id": "UCez6PoUm-tuIzHLXiXDGKWg",
  "handle": "@PlaneiHoshikuzu",
  "subscribers": 36800,
- "fetched_at": "2026-11-07 11:06",
- "generated_at": "2026-11-07 11:06",
+ "fetched_at": "2026-11-08 06:46",
+ "generated_at": "2026-11-08 06:46",
  "period": {
-  "from": "2026-10-08 11:06",
-  "to": "2026-11-07 11:06",
+  "from": "2026-10-09 06:46",
+  "to": "2026-11-08 06:46",
   "days": 30
  },
  "streams_analyzed": 20,
@@ -347,7 +347,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "ぷらねの侵略会議室",
-   "like_count": 53,
+   "like_count": 56,
    "view_count": null
   }
  ],
@@ -399,7 +399,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "ぷらねの侵略会議室",
-   "like_count": 53,
+   "like_count": 56,
    "view_count": null
   }
  ],
@@ -522,13 +522,14 @@
    },
    "avg_member_chatters": 47.1,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 06:46"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
    "streams_analyzed": 5,
    "streams_missed": 1,

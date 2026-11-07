@@ -3,27 +3,27 @@
  "channel_id": "UCkpqb53xiOvOgNYEbNpFSyw",
  "handle": "@Canna_Akane",
  "subscribers": 53900,
- "fetched_at": "2026-11-07 11:03",
- "generated_at": "2026-11-07 11:03",
+ "fetched_at": "2026-11-08 06:43",
+ "generated_at": "2026-11-08 06:43",
  "period": {
-  "from": "2026-10-08 11:03",
-  "to": "2026-11-07 11:03",
+  "from": "2026-10-09 06:43",
+  "to": "2026-11-08 06:43",
   "days": 30
  },
- "streams_analyzed": 11,
+ "streams_analyzed": 12,
  "streams_missed": 0,
- "unique_chatters": 443,
- "members_confirmed": 248,
+ "unique_chatters": 455,
+ "members_confirmed": 252,
  "member_classes": {
-  "known": 31,
-  "unknown": 97,
-  "gift": 120
+  "known": 33,
+  "unknown": 98,
+  "gift": 121
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 116
+   "members": 118
   },
   {
    "months": 1,
@@ -38,12 +38,12 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 13
+   "members": 14
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 12
+   "members": 13
   },
   {
    "months": 24,
@@ -53,21 +53,21 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 30
+   "members": 29
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 57
+   "members": 58
   }
  ],
  "events": {
-  "new_members": 3,
+  "new_members": 4,
   "rejoins": 0,
-  "milestones": 22,
-  "gift_purchases": 11,
-  "gifted_total": 120,
-  "gift_redemptions": 120
+  "milestones": 27,
+  "gift_purchases": 12,
+  "gifted_total": 121,
+  "gift_redemptions": 121
  },
  "tiers_configured": true,
  "tiers": [
@@ -75,21 +75,21 @@
    "tier": "茜音色の絆",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 31,
+   "confirmed_members": 33,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 97.0,
-   "estimated_members": 128.0,
-   "monthly_net_confirmed": 9666,
-   "monthly_net_estimated": 39913
+   "allocated_unknown": 98.0,
+   "estimated_members": 131.0,
+   "monthly_net_confirmed": 10290,
+   "monthly_net_estimated": 40848
   }
  ],
  "revenue": {
-  "monthly_low": 39913,
-  "monthly_est": 39913,
-  "gift_once": 37418,
-  "total_low": 77331,
-  "total_est": 77331,
-  "paying_members": 128,
+  "monthly_low": 40848,
+  "monthly_est": 40848,
+  "gift_once": 37730,
+  "total_low": 78578,
+  "total_est": 78578,
+  "paying_members": 131,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -207,6 +207,16 @@
    "member_chatters": 32,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "nCAQaa-yGI4",
+   "start": "2026-11-07 21:04",
+   "title": "【 雑談 】わんない！～定期お雑談配信～【茜音カンナ / ななしいんく】",
+   "kind": "配信",
+   "chatters": 112,
+   "member_chatters": 67,
+   "new_members": 1,
+   "gifted_total": 1
   }
  ],
  "missed_streams": [],
@@ -346,27 +356,29 @@
    },
    "avg_member_chatters": 73.9,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 06:43"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 4,
    "streams_missed": 0,
-   "unique_chatters": 141,
-   "members_confirmed": 66,
+   "unique_chatters": 174,
+   "members_confirmed": 84,
    "member_classes": {
-    "unknown": 47,
-    "known": 19
+    "unknown": 61,
+    "known": 22,
+    "gift": 1
    },
-   "long_term_members": 54,
+   "long_term_members": 68,
    "badges": [
     {
      "months": 0,
-     "members": 3
+     "members": 5
     },
     {
      "months": 1,
@@ -378,45 +390,45 @@
     },
     {
      "months": 6,
-     "members": 6
+     "members": 8
     },
     {
      "months": 12,
-     "members": 4
+     "members": 6
     },
     {
      "months": 24,
-     "members": 3
+     "members": 5
     },
     {
      "months": 36,
-     "members": 19
+     "members": 23
     },
     {
      "months": 48,
-     "members": 28
+     "members": 34
     }
    ],
    "events": {
-    "new_members": 0,
+    "new_members": 1,
     "rejoins": 0,
-    "milestones": 0,
-    "gifted_total": 0
+    "milestones": 5,
+    "gifted_total": 1
    },
    "tiers": [
     {
      "tier": "茜音色の絆",
      "price": 490,
-     "confirmed_members": 19,
-     "estimated_members": 66.0
+     "confirmed_members": 22,
+     "estimated_members": 83.0
     }
    ],
    "revenue": {
-    "monthly_low": 20580,
-    "monthly_est": 20580,
-    "gift_once": 0
+    "monthly_low": 25881,
+    "monthly_est": 25881,
+    "gift_once": 312
    },
-   "avg_member_chatters": 41.7,
+   "avg_member_chatters": 48,
    "partial": true,
    "finalized": false
   }

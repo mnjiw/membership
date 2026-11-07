@@ -2,49 +2,49 @@
  "channel": "Juno Umezono【VSPO! EN】",
  "channel_id": "UCRJV_1aV4aZjFAEUn6o5arw",
  "handle": "@JunoUmezono",
- "subscribers": 43200,
- "fetched_at": "2026-11-07 11:05",
- "generated_at": "2026-11-07 11:05",
+ "subscribers": 43300,
+ "fetched_at": "2026-11-08 06:45",
+ "generated_at": "2026-11-08 06:46",
  "period": {
-  "from": "2026-10-08 11:05",
-  "to": "2026-11-07 11:05",
+  "from": "2026-10-09 06:45",
+  "to": "2026-11-08 06:45",
   "days": 30
  },
- "streams_analyzed": 20,
+ "streams_analyzed": 21,
  "streams_missed": 2,
- "unique_chatters": 1786,
+ "unique_chatters": 1811,
  "members_confirmed": 424,
  "member_classes": {
-  "known": 106,
-  "unknown": 189,
+  "known": 107,
+  "unknown": 188,
   "gift": 129
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 185
+   "members": 183
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 50
+   "members": 52
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 129
+   "members": 124
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 60
+   "members": 65
   }
  ],
  "events": {
-  "new_members": 15,
+  "new_members": 16,
   "rejoins": 15,
-  "milestones": 59,
+  "milestones": 60,
   "gift_purchases": 13,
   "gifted_total": 131,
   "gift_redemptions": 131
@@ -55,11 +55,11 @@
    "tier": "nyomies",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 106,
+   "confirmed_members": 107,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 189.0,
+   "allocated_unknown": 188.0,
    "estimated_members": 295.0,
-   "monthly_net_confirmed": 33053,
+   "monthly_net_confirmed": 33365,
    "monthly_net_estimated": 91986
   }
  ],
@@ -277,6 +277,16 @@
    "member_chatters": 80,
    "new_members": 0,
    "gifted_total": 3
+  },
+  {
+   "video_id": "LwmdNTSE8Ok",
+   "start": "2026-11-07 11:03",
+   "title": "◤#DistrictV2 | Day 4◢ TIME TO MAKE SOME $$$ | #JunoUmezono #VSPOEN",
+   "kind": "配信",
+   "chatters": 250,
+   "member_chatters": 88,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -301,7 +311,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 75,
+   "like_count": 77,
    "view_count": null
   }
  ],
@@ -323,7 +333,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 75,
+   "like_count": 77,
    "view_count": null
   }
  ],
@@ -426,62 +436,63 @@
    },
    "avg_member_chatters": 111.4,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 06:46"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 6,
    "streams_missed": 1,
-   "unique_chatters": 712,
-   "members_confirmed": 215,
+   "unique_chatters": 764,
+   "members_confirmed": 219,
    "member_classes": {
-    "unknown": 91,
-    "known": 80,
+    "unknown": 93,
+    "known": 82,
     "gift": 44
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 60
+     "members": 58
     },
     {
      "months": 1,
-     "members": 26
+     "members": 28
     },
     {
      "months": 2,
-     "members": 73
+     "members": 72
     },
     {
      "months": 6,
-     "members": 56
+     "members": 61
     }
    ],
    "events": {
-    "new_members": 2,
+    "new_members": 3,
     "rejoins": 4,
-    "milestones": 13,
+    "milestones": 14,
     "gifted_total": 44
    },
    "tiers": [
     {
      "tier": "nyomies",
      "price": 490,
-     "confirmed_members": 80,
-     "estimated_members": 171.0
+     "confirmed_members": 82,
+     "estimated_members": 175.0
     }
    ],
    "revenue": {
-    "monthly_low": 53321,
-    "monthly_est": 53321,
+    "monthly_low": 54568,
+    "monthly_est": 54568,
     "gift_once": 13720
    },
-   "avg_member_chatters": 92.4,
+   "avg_member_chatters": 91.7,
    "partial": true,
    "finalized": false
   }

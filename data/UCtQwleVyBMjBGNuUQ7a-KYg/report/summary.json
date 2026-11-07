@@ -2,20 +2,20 @@
  "channel": "雨夜リズ / Amayo Liz",
  "channel_id": "UCtQwleVyBMjBGNuUQ7a-KYg",
  "handle": "@Amayo_liz",
- "subscribers": 234000,
- "fetched_at": "2026-11-07 11:08",
- "generated_at": "2026-11-07 11:08",
+ "subscribers": 235000,
+ "fetched_at": "2026-11-08 06:51",
+ "generated_at": "2026-11-08 06:51",
  "period": {
-  "from": "2026-10-08 11:08",
-  "to": "2026-11-07 11:08",
+  "from": "2026-10-09 06:51",
+  "to": "2026-11-08 06:51",
   "days": 30
  },
- "streams_analyzed": 9,
+ "streams_analyzed": 10,
  "streams_missed": 1,
- "unique_chatters": 912,
- "members_confirmed": 127,
+ "unique_chatters": 1007,
+ "members_confirmed": 128,
  "member_classes": {
-  "unknown": 88,
+  "unknown": 89,
   "known": 29,
   "gift": 10
  },
@@ -23,22 +23,22 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 20
+   "members": 18
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 13
+   "members": 12
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 40
+   "members": 42
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 25
+   "members": 27
   },
   {
    "months": 12,
@@ -49,7 +49,7 @@
  "events": {
   "new_members": 6,
   "rejoins": 1,
-  "milestones": 15,
+  "milestones": 17,
   "gift_purchases": 1,
   "gifted_total": 10,
   "gift_redemptions": 10
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 29,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 88.0,
-   "estimated_members": 117.0,
+   "allocated_unknown": 89.0,
+   "estimated_members": 118.0,
    "monthly_net_confirmed": 9043,
-   "monthly_net_estimated": 36483
+   "monthly_net_estimated": 36795
   }
  ],
  "revenue": {
-  "monthly_low": 36483,
-  "monthly_est": 36483,
+  "monthly_low": 36795,
+  "monthly_est": 36795,
   "gift_once": 3118,
-  "total_low": 39601,
-  "total_est": 39601,
-  "paying_members": 117,
+  "total_low": 39913,
+  "total_est": 39913,
+  "paying_members": 118,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -172,6 +172,16 @@
    "member_chatters": 48,
    "new_members": 4,
    "gifted_total": 0
+  },
+  {
+   "video_id": "Tka1c4DXly4",
+   "start": "2026-11-07 20:01",
+   "title": "【歌枠】久々の３D雨夜さんですよ🌂【雨夜リズ/ミリプロ】",
+   "kind": "配信",
+   "chatters": 207,
+   "member_chatters": 43,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -184,7 +194,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 55,
+   "like_count": 56,
    "view_count": null
   }
  ],
@@ -196,7 +206,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 55,
+   "like_count": 56,
    "view_count": null
   }
  ],
@@ -310,65 +320,66 @@
    },
    "avg_member_chatters": 47.3,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 06:51"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 0,
-   "unique_chatters": 155,
-   "members_confirmed": 48,
+   "unique_chatters": 328,
+   "members_confirmed": 67,
    "member_classes": {
-    "unknown": 35,
-    "known": 13
+    "unknown": 47,
+    "known": 20
    },
-   "long_term_members": 13,
+   "long_term_members": 16,
    "badges": [
     {
      "months": 0,
-     "members": 6
+     "members": 5
     },
     {
      "months": 1,
-     "members": 2
+     "members": 3
     },
     {
      "months": 2,
-     "members": 18
+     "members": 29
     },
     {
      "months": 6,
-     "members": 9
+     "members": 14
     },
     {
      "months": 12,
-     "members": 13
+     "members": 16
     }
    ],
    "events": {
     "new_members": 4,
     "rejoins": 0,
-    "milestones": 1,
+    "milestones": 3,
     "gifted_total": 0
    },
    "tiers": [
     {
      "tier": "雨夜騎士団",
      "price": 490,
-     "confirmed_members": 13,
-     "estimated_members": 48.0
+     "confirmed_members": 20,
+     "estimated_members": 67.0
     }
    ],
    "revenue": {
-    "monthly_low": 14967,
-    "monthly_est": 14967,
+    "monthly_low": 20892,
+    "monthly_est": 20892,
     "gift_once": 0
    },
-   "avg_member_chatters": 48,
+   "avg_member_chatters": 45.5,
    "partial": true,
    "finalized": false
   }

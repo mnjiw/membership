@@ -3,19 +3,19 @@
  "channel_id": "UCuk7vapXKckSw6yCGGDspDg",
  "handle": "@Hizuki_Yui_",
  "subscribers": 411000,
- "fetched_at": "2026-11-07 11:07",
- "generated_at": "2026-11-07 11:07",
+ "fetched_at": "2026-11-08 06:48",
+ "generated_at": "2026-11-08 06:48",
  "period": {
-  "from": "2026-10-08 11:07",
-  "to": "2026-11-07 11:07",
+  "from": "2026-10-09 06:48",
+  "to": "2026-11-08 06:48",
   "days": 30
  },
- "streams_analyzed": 36,
+ "streams_analyzed": 35,
  "streams_missed": 0,
- "unique_chatters": 4079,
- "members_confirmed": 805,
+ "unique_chatters": 4054,
+ "members_confirmed": 804,
  "member_classes": {
-  "unknown": 717,
+  "unknown": 716,
   "gift": 88
  },
  "badges": [
@@ -32,7 +32,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 92
+   "members": 91
   },
   {
    "months": 6,
@@ -76,19 +76,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 0,
    "share_of_confirmed_pct": "",
-   "allocated_unknown": 717.0,
-   "estimated_members": 717.0,
+   "allocated_unknown": 716.0,
+   "estimated_members": 716.0,
    "monthly_net_confirmed": 0,
-   "monthly_net_estimated": 223574
+   "monthly_net_estimated": 223262
   }
  ],
  "revenue": {
-  "monthly_low": 223574,
-  "monthly_est": 223574,
+  "monthly_low": 223262,
+  "monthly_est": 223262,
   "gift_once": 27440,
-  "total_low": 251014,
-  "total_est": 251014,
-  "paying_members": 717,
+  "total_low": 250702,
+  "total_est": 250702,
+  "paying_members": 716,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -97,16 +97,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "Y9SYA_7CheA",
-   "start": "2026-10-08 22:33",
-   "title": "【メタファー：リファンタジオ】#17 | 完全初見！過去を知り、より揺るぎない強さへ。【緋月ゆい/ネオポルテ】※ネタバレあり",
-   "kind": "配信",
-   "chatters": 121,
-   "member_chatters": 42,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "hdeicwyFBsw",
    "start": "2026-10-10 14:02",
@@ -593,13 +583,14 @@
    },
    "avg_member_chatters": 93.3,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 06:48"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
    "streams_analyzed": 6,
    "streams_missed": 0,

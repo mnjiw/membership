@@ -3,16 +3,16 @@
  "channel_id": "UC4Xuz67FNRr69ILv2b7ZRBA",
  "handle": "@eito_aogiri8",
  "subscribers": 50300,
- "fetched_at": "2026-11-07 11:07",
- "generated_at": "2026-11-07 11:07",
+ "fetched_at": "2026-11-08 06:49",
+ "generated_at": "2026-11-08 06:49",
  "period": {
-  "from": "2026-10-08 11:07",
-  "to": "2026-11-07 11:07",
+  "from": "2026-10-09 06:49",
+  "to": "2026-11-08 06:49",
   "days": 30
  },
- "streams_analyzed": 12,
+ "streams_analyzed": 13,
  "streams_missed": 0,
- "unique_chatters": 203,
+ "unique_chatters": 218,
  "members_confirmed": 72,
  "member_classes": {
   "unknown": 63,
@@ -201,6 +201,16 @@
    "member_chatters": 20,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "4ybVvcJvWxw",
+   "start": "2026-11-07 23:02",
+   "title": "【VALORANT】さすがに芋２は安定したい",
+   "kind": "配信",
+   "chatters": 43,
+   "member_chatters": 17,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -314,23 +324,24 @@
    },
    "avg_member_chatters": 26,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 06:49"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 4,
    "streams_missed": 0,
-   "unique_chatters": 74,
-   "members_confirmed": 36,
+   "unique_chatters": 94,
+   "members_confirmed": 37,
    "member_classes": {
-    "unknown": 32,
+    "unknown": 33,
     "known": 4
    },
-   "long_term_members": 27,
+   "long_term_members": 28,
    "badges": [
     {
      "months": 0,
@@ -346,7 +357,7 @@
     },
     {
      "months": 12,
-     "members": 10
+     "members": 11
     },
     {
      "months": 24,
@@ -364,15 +375,15 @@
      "tier": "8ジェント",
      "price": 490,
      "confirmed_members": 4,
-     "estimated_members": 36.0
+     "estimated_members": 37.0
     }
    ],
    "revenue": {
-    "monthly_low": 11225,
-    "monthly_est": 11225,
+    "monthly_low": 11537,
+    "monthly_est": 11537,
     "gift_once": 0
    },
-   "avg_member_chatters": 18.7,
+   "avg_member_chatters": 18.2,
    "partial": true,
    "finalized": false
   }

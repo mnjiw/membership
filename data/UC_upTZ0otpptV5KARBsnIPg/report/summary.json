@@ -3,11 +3,11 @@
  "channel_id": "UC_upTZ0otpptV5KARBsnIPg",
  "handle": "@komawarikoma",
  "subscribers": 437000,
- "fetched_at": "2026-11-07 11:08",
- "generated_at": "2026-11-07 11:08",
+ "fetched_at": "2026-11-08 06:50",
+ "generated_at": "2026-11-08 06:50",
  "period": {
-  "from": "2026-10-08 11:08",
-  "to": "2026-11-07 11:08",
+  "from": "2026-10-09 06:50",
+  "to": "2026-11-08 06:50",
   "days": 30
  },
  "streams_analyzed": 6,
@@ -166,7 +166,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 127,
+   "like_count": 132,
    "view_count": null
   }
  ],
@@ -188,7 +188,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 127,
+   "like_count": 132,
    "view_count": null
   }
  ],
@@ -303,13 +303,14 @@
    },
    "avg_member_chatters": 95.2,
    "partial": false,
-   "finalized": false
+   "finalized": true,
+   "finalized_at": "2026-11-08 06:50"
   },
   {
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-07"
+    "to": "2026-11-08"
    },
    "streams_analyzed": 1,
    "streams_missed": 1,

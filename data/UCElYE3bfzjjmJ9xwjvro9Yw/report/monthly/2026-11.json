@@ -2,37 +2,41 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-07"
+  "to": "2026-11-08"
  },
- "streams_analyzed": 4,
+ "streams_analyzed": 5,
  "streams_missed": 1,
- "unique_chatters": 35,
- "members_confirmed": 24,
+ "unique_chatters": 47,
+ "members_confirmed": 32,
  "member_classes": {
-  "unknown": 23,
+  "unknown": 31,
   "known": 1
  },
- "long_term_members": 15,
+ "long_term_members": 17,
  "badges": [
   {
    "months": 0,
    "members": 2
   },
   {
-   "months": 2,
+   "months": 1,
    "members": 1
   },
   {
-   "months": 6,
-   "members": 6
-  },
-  {
-   "months": 12,
+   "months": 2,
    "members": 4
   },
   {
+   "months": 6,
+   "members": 8
+  },
+  {
+   "months": 12,
+   "members": 5
+  },
+  {
    "months": 24,
-   "members": 11
+   "members": 12
   }
  ],
  "events": {
@@ -46,15 +50,15 @@
    "tier": "ワニ園",
    "price": 490,
    "confirmed_members": 1,
-   "estimated_members": 24.0
+   "estimated_members": 32.0
   }
  ],
  "revenue": {
-  "monthly_low": 7484,
-  "monthly_est": 7484,
+  "monthly_low": 9978,
+  "monthly_est": 9978,
   "gift_once": 0
  },
- "avg_member_chatters": 12.2,
+ "avg_member_chatters": 14,
  "partial": true,
  "finalized": false
 }
