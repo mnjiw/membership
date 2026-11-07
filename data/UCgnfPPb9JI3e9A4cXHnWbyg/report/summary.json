@@ -3,15 +3,15 @@
  "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
  "handle": "@ShioriNovella",
  "subscribers": 757000,
- "fetched_at": "2026-11-07 06:28",
- "generated_at": "2026-11-07 06:29",
+ "fetched_at": "2026-11-07 11:02",
+ "generated_at": "2026-11-07 11:03",
  "period": {
-  "from": "2026-10-08 06:28",
-  "to": "2026-11-07 06:28",
+  "from": "2026-10-08 11:02",
+  "to": "2026-11-07 11:02",
   "days": 30
  },
  "streams_analyzed": 13,
- "streams_missed": 2,
+ "streams_missed": 3,
  "unique_chatters": 5734,
  "members_confirmed": 1924,
  "member_classes": {
@@ -251,7 +251,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "Bookwyrm",
-   "like_count": 749,
+   "like_count": 750,
    "view_count": null
   },
   {
@@ -265,6 +265,18 @@
    "members_level": "Bookwyrm",
    "like_count": 411,
    "view_count": null
+  },
+  {
+   "video_id": "Fnb0XDRVjI4",
+   "start": "2026-11-07 00:00",
+   "title": "Studying Japanese with Food 【Handcam】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 5265,
+   "view_count": 6186
   }
  ],
  "members_only_content": [
@@ -275,7 +287,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "Bookwyrm",
-   "like_count": 749,
+   "like_count": 750,
    "view_count": null
   },
   {
@@ -429,7 +441,7 @@
     "to": "2026-11-07"
    },
    "streams_analyzed": 4,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 2395,
    "members_confirmed": 969,
    "member_classes": {

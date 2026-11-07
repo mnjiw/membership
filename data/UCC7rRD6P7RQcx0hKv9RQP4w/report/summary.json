@@ -3,20 +3,20 @@
  "channel_id": "UCC7rRD6P7RQcx0hKv9RQP4w",
  "handle": "@FuraKanato",
  "subscribers": 443000,
- "fetched_at": "2026-11-07 05:28",
- "generated_at": "2026-11-07 05:28",
+ "fetched_at": "2026-11-07 10:56",
+ "generated_at": "2026-11-07 10:57",
  "period": {
-  "from": "2026-10-08 05:28",
-  "to": "2026-11-07 05:28",
+  "from": "2026-10-08 10:56",
+  "to": "2026-11-07 10:56",
   "days": 30
  },
- "streams_analyzed": 19,
- "streams_missed": 1,
- "unique_chatters": 2394,
- "members_confirmed": 1554,
+ "streams_analyzed": 20,
+ "streams_missed": 0,
+ "unique_chatters": 2433,
+ "members_confirmed": 1566,
  "member_classes": {
-  "unknown": 1399,
-  "known": 145,
+  "unknown": 1410,
+  "known": 146,
   "gift": 10
  },
  "badges": [
@@ -28,22 +28,22 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 58
+   "members": 56
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 164
+   "members": 165
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 244
+   "members": 245
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 359
+   "members": 365
   },
   {
    "months": 24,
@@ -53,12 +53,12 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 379
+   "members": 385
   }
  ],
  "events": {
   "new_members": 26,
-  "rejoins": 21,
+  "rejoins": 22,
   "milestones": 76,
   "gift_purchases": 1,
   "gifted_total": 10,
@@ -70,21 +70,21 @@
    "tier": "Diner",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 145,
+   "confirmed_members": 146,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1399.0,
-   "estimated_members": 1544.0,
-   "monthly_net_confirmed": 45214,
-   "monthly_net_estimated": 481447
+   "allocated_unknown": 1410.0,
+   "estimated_members": 1556.0,
+   "monthly_net_confirmed": 45525,
+   "monthly_net_estimated": 485189
   }
  ],
  "revenue": {
-  "monthly_low": 481447,
-  "monthly_est": 481447,
+  "monthly_low": 485189,
+  "monthly_est": 485189,
   "gift_once": 3118,
-  "total_low": 484565,
-  "total_est": 484565,
-  "paying_members": 1544,
+  "total_low": 488307,
+  "total_est": 488307,
+  "paying_members": 1556,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -282,22 +282,19 @@
    "member_chatters": 348,
    "new_members": 0,
    "gifted_total": 0
-  }
- ],
- "missed_streams": [
+  },
   {
    "video_id": "zPObC5j6OeY",
-   "start": "2026-11-06 00:00",
+   "start": "2026-11-06 19:59",
    "title": "【#にじイカ祭り2026】～ 復活のF ～２１時半ごろからチム練【にじさんじ/風楽奏斗】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 1280,
-   "view_count": 63444
+   "kind": "配信",
+   "chatters": 553,
+   "member_chatters": 463,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -445,15 +442,15 @@
     "from": "2026-11-01",
     "to": "2026-11-07"
    },
-   "streams_analyzed": 4,
-   "streams_missed": 1,
-   "unique_chatters": 1097,
-   "members_confirmed": 823,
+   "streams_analyzed": 5,
+   "streams_missed": 0,
+   "unique_chatters": 1197,
+   "members_confirmed": 890,
    "member_classes": {
-    "unknown": 736,
-    "known": 87
+    "unknown": 799,
+    "known": 91
    },
-   "long_term_members": 565,
+   "long_term_members": 618,
    "badges": [
     {
      "months": 0,
@@ -461,32 +458,32 @@
     },
     {
      "months": 1,
-     "members": 28
+     "members": 27
     },
     {
      "months": 2,
-     "members": 79
+     "members": 86
     },
     {
      "months": 6,
-     "members": 131
+     "members": 139
     },
     {
      "months": 12,
-     "members": 186
+     "members": 213
     },
     {
      "months": 24,
-     "members": 140
+     "members": 148
     },
     {
      "months": 36,
-     "members": 239
+     "members": 257
     }
    ],
    "events": {
     "new_members": 5,
-    "rejoins": 7,
+    "rejoins": 8,
     "milestones": 9,
     "gifted_total": 0
    },
@@ -494,16 +491,16 @@
     {
      "tier": "Diner",
      "price": 490,
-     "confirmed_members": 87,
-     "estimated_members": 823.0
+     "confirmed_members": 91,
+     "estimated_members": 890.0
     }
    ],
    "revenue": {
-    "monthly_low": 256626,
-    "monthly_est": 256626,
+    "monthly_low": 277518,
+    "monthly_est": 277518,
     "gift_once": 0
    },
-   "avg_member_chatters": 437.5,
+   "avg_member_chatters": 442.6,
    "partial": true,
    "finalized": false
   }

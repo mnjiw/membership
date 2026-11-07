@@ -3,19 +3,19 @@
  "channel_id": "UCf-QRi_9sjik_BZBn7lFY_Q",
  "handle": "@neruko_kamitaba",
  "subscribers": 21100,
- "fetched_at": "2026-11-07 06:33",
- "generated_at": "2026-11-07 06:33",
+ "fetched_at": "2026-11-07 11:06",
+ "generated_at": "2026-11-07 11:07",
  "period": {
-  "from": "2026-10-08 06:33",
-  "to": "2026-11-07 06:33",
+  "from": "2026-10-08 11:06",
+  "to": "2026-11-07 11:06",
   "days": 30
  },
- "streams_analyzed": 24,
- "streams_missed": 9,
- "unique_chatters": 959,
- "members_confirmed": 328,
+ "streams_analyzed": 25,
+ "streams_missed": 8,
+ "unique_chatters": 993,
+ "members_confirmed": 330,
  "member_classes": {
-  "unknown": 234,
+  "unknown": 236,
   "known": 17,
   "gift": 77
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 80
+   "members": 81
   },
   {
    "months": 1,
@@ -33,17 +33,17 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 59
+   "members": 57
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 49
+   "members": 51
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 114
+   "members": 115
   }
  ],
  "events": {
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 17,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 234.0,
-   "estimated_members": 251.0,
+   "allocated_unknown": 236.0,
+   "estimated_members": 253.0,
    "monthly_net_confirmed": 5301,
-   "monthly_net_estimated": 78266
+   "monthly_net_estimated": 78890
   }
  ],
  "revenue": {
-  "monthly_low": 78266,
-  "monthly_est": 78266,
+  "monthly_low": 78890,
+  "monthly_est": 78890,
   "gift_once": 24010,
-  "total_low": 102276,
-  "total_est": 102276,
-  "paying_members": 251,
+  "total_low": 102900,
+  "total_est": 102900,
+  "paying_members": 253,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -322,6 +322,16 @@
    "member_chatters": 90,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "BgFTR7qlm-8",
+   "start": "2026-11-06 18:59",
+   "title": "【ポケモンチャンピオンズ】大会用のスカウトポケモン縛りでマスボ級目指す！23時からはロロ先生のコーチング！【紙束ねるこ/すぺしゃりて】#ポケチャン #ポケモンチャンピオンズ",
+   "kind": "配信",
+   "chatters": 211,
+   "member_chatters": 107,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -420,18 +430,6 @@
    "members_level": "",
    "like_count": 50,
    "view_count": null
-  },
-  {
-   "video_id": "BgFTR7qlm-8",
-   "start": "2026-11-06 00:00",
-   "title": "【ポケモンチャンピオンズ】大会用のスカウトポケモン縛りでマスボ級目指す！23時からはロロ先生のコーチング！【紙束ねるこ/すぺしゃりて】#ポケチャン #ポケモンチャンピオンズ",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 377,
-   "view_count": 13860
   }
  ],
  "members_only_content": [
@@ -651,35 +649,35 @@
     "from": "2026-11-01",
     "to": "2026-11-07"
    },
-   "streams_analyzed": 5,
-   "streams_missed": 4,
-   "unique_chatters": 360,
-   "members_confirmed": 183,
+   "streams_analyzed": 6,
+   "streams_missed": 3,
+   "unique_chatters": 424,
+   "members_confirmed": 197,
    "member_classes": {
-    "unknown": 173,
+    "unknown": 187,
     "known": 10
    },
-   "long_term_members": 75,
+   "long_term_members": 79,
    "badges": [
     {
      "months": 0,
-     "members": 23
+     "members": 28
     },
     {
      "months": 1,
-     "members": 13
+     "members": 14
     },
     {
      "months": 2,
-     "members": 36
+     "members": 37
     },
     {
      "months": 6,
-     "members": 36
+     "members": 39
     },
     {
      "months": 12,
-     "members": 75
+     "members": 79
     }
    ],
    "events": {
@@ -693,15 +691,15 @@
      "tier": "かーどねる",
      "price": 490,
      "confirmed_members": 10,
-     "estimated_members": 183.0
+     "estimated_members": 197.0
     }
    ],
    "revenue": {
-    "monthly_low": 57063,
-    "monthly_est": 57063,
+    "monthly_low": 61428,
+    "monthly_est": 61428,
     "gift_once": 0
    },
-   "avg_member_chatters": 90,
+   "avg_member_chatters": 92.8,
    "partial": true,
    "finalized": false
   }

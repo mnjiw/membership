@@ -3,16 +3,16 @@
  "channel_id": "UCIu-aUArYq_H84dBpCAokMA",
  "handle": "@Shirayuki_Reid",
  "subscribers": 422000,
- "fetched_at": "2026-11-07 06:34",
- "generated_at": "2026-11-07 06:34",
+ "fetched_at": "2026-11-07 11:07",
+ "generated_at": "2026-11-07 11:07",
  "period": {
-  "from": "2026-10-08 06:34",
-  "to": "2026-11-07 06:34",
+  "from": "2026-10-08 11:07",
+  "to": "2026-11-07 11:07",
   "days": 30
  },
- "streams_analyzed": 33,
- "streams_missed": 4,
- "unique_chatters": 3016,
+ "streams_analyzed": 34,
+ "streams_missed": 2,
+ "unique_chatters": 3082,
  "members_confirmed": 367,
  "member_classes": {
   "unknown": 350,
@@ -422,21 +422,19 @@
    "member_chatters": 62,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "jbksOuUfK28",
+   "start": "2026-11-06 22:16",
+   "title": "【#雀魂】アスナ、今までごめん。俺たちやり直せると思うんだ。 ー３連逆連帯強制終了ー【王座の間 ５分遅延】",
+   "kind": "配信",
+   "chatters": 281,
+   "member_chatters": 52,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
-  {
-   "video_id": "2Cn2nxiyNzQ",
-   "start": "2026-11-03 00:00",
-   "title": "[Mahjong Soul] Raid abandons the frog-turned Saber and reunites with his ex-girlfriend [Shirayuki...",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 596,
-   "view_count": 134692
-  },
   {
    "video_id": "5LeQg_-Y-qI",
    "start": "2026-11-04 00:00",
@@ -446,8 +444,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 282,
-   "view_count": 41454
+   "like_count": 284,
+   "view_count": 41716
   },
   {
    "video_id": "ltxr4L9Nbgg",
@@ -458,20 +456,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 306,
-   "view_count": 40548
-  },
-  {
-   "video_id": "jbksOuUfK28",
-   "start": "2026-11-06 00:00",
-   "title": "【#雀魂】アスナ、今までごめん。俺たちやり直せると思うんだ。 ー３連逆連帯強制終了ー【王座の間 ５分遅延】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 461,
-   "view_count": 87905
+   "like_count": 311,
+   "view_count": 41911
   }
  ],
  "members_only_content": [],
@@ -609,15 +595,15 @@
     "from": "2026-11-01",
     "to": "2026-11-07"
    },
-   "streams_analyzed": 5,
-   "streams_missed": 4,
-   "unique_chatters": 661,
-   "members_confirmed": 143,
+   "streams_analyzed": 6,
+   "streams_missed": 2,
+   "unique_chatters": 800,
+   "members_confirmed": 156,
    "member_classes": {
-    "unknown": 142,
+    "unknown": 155,
     "known": 1
    },
-   "long_term_members": 127,
+   "long_term_members": 138,
    "badges": [
     {
      "months": 0,
@@ -625,7 +611,7 @@
     },
     {
      "months": 1,
-     "members": 3
+     "members": 4
     },
     {
      "months": 2,
@@ -633,11 +619,11 @@
     },
     {
      "months": 6,
-     "members": 9
+     "members": 10
     },
     {
      "months": 12,
-     "members": 16
+     "members": 19
     },
     {
      "months": 24,
@@ -645,7 +631,7 @@
     },
     {
      "months": 36,
-     "members": 91
+     "members": 99
     }
    ],
    "events": {
@@ -659,15 +645,15 @@
      "tier": "ホワ民",
      "price": 490,
      "confirmed_members": 1,
-     "estimated_members": 143.0
+     "estimated_members": 156.0
     }
    ],
    "revenue": {
-    "monthly_low": 44590,
-    "monthly_est": 44590,
+    "monthly_low": 48644,
+    "monthly_est": 48644,
     "gift_once": 0
    },
-   "avg_member_chatters": 54,
+   "avg_member_chatters": 53.7,
    "partial": true,
    "finalized": false
   }

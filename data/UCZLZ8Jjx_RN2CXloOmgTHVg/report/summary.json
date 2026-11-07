@@ -3,27 +3,27 @@
  "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
  "handle": "@KaelaKovalskia",
  "subscribers": 924000,
- "fetched_at": "2026-11-07 06:27",
- "generated_at": "2026-11-07 06:28",
+ "fetched_at": "2026-11-07 11:02",
+ "generated_at": "2026-11-07 11:03",
  "period": {
-  "from": "2026-10-08 06:27",
-  "to": "2026-11-07 06:27",
+  "from": "2026-10-08 11:02",
+  "to": "2026-11-07 11:02",
   "days": 30
  },
- "streams_analyzed": 26,
- "streams_missed": 2,
- "unique_chatters": 8928,
- "members_confirmed": 1150,
+ "streams_analyzed": 27,
+ "streams_missed": 1,
+ "unique_chatters": 9162,
+ "members_confirmed": 1161,
  "member_classes": {
-  "known": 336,
-  "unknown": 744,
+  "known": 341,
+  "unknown": 750,
   "gift": 70
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 210
+   "members": 211
   },
   {
    "months": 1,
@@ -43,28 +43,28 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 214
+   "members": 217
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 172
+   "members": 176
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 192
+   "members": 193
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 141
+   "members": 143
   }
  ],
  "events": {
-  "new_members": 22,
-  "rejoins": 28,
-  "milestones": 198,
+  "new_members": 23,
+  "rejoins": 29,
+  "milestones": 205,
   "gift_purchases": 13,
   "gifted_total": 70,
   "gift_redemptions": 70
@@ -75,21 +75,21 @@
    "tier": "KAELUARGA",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 336,
+   "confirmed_members": 341,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 744.0,
-   "estimated_members": 1080.0,
-   "monthly_net_confirmed": 147535,
-   "monthly_net_estimated": 474218
+   "allocated_unknown": 750.0,
+   "estimated_members": 1091.0,
+   "monthly_net_confirmed": 149730,
+   "monthly_net_estimated": 479048
   }
  ],
  "revenue": {
-  "monthly_low": 474218,
-  "monthly_est": 474218,
+  "monthly_low": 479048,
+  "monthly_est": 479048,
   "gift_once": 30736,
-  "total_low": 504955,
-  "total_est": 504955,
-  "paying_members": 1080,
+  "total_low": 509785,
+  "total_est": 509785,
+  "paying_members": 1091,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -357,6 +357,16 @@
    "member_chatters": 223,
    "new_members": 0,
    "gifted_total": 20
+  },
+  {
+   "video_id": "GyFtjnX7fW0",
+   "start": "2026-11-06 22:56",
+   "title": "【Shoe it All!】fly high, shoe! adios",
+   "kind": "配信",
+   "chatters": 1126,
+   "member_chatters": 298,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -369,20 +379,8 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 445,
+   "like_count": 446,
    "view_count": null
-  },
-  {
-   "video_id": "GyFtjnX7fW0",
-   "start": "2026-11-06 00:00",
-   "title": "【Shoe it All!】fly high, shoe! adios",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 4666,
-   "view_count": 107926
   }
  ],
  "members_only_content": [
@@ -393,7 +391,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 445,
+   "like_count": 446,
    "view_count": null
   }
  ],
@@ -540,70 +538,70 @@
     "from": "2026-11-01",
     "to": "2026-11-07"
    },
-   "streams_analyzed": 4,
-   "streams_missed": 1,
-   "unique_chatters": 3307,
-   "members_confirmed": 651,
+   "streams_analyzed": 5,
+   "streams_missed": 0,
+   "unique_chatters": 3732,
+   "members_confirmed": 697,
    "member_classes": {
-    "known": 209,
-    "unknown": 404,
+    "known": 219,
+    "unknown": 440,
     "gift": 38
    },
-   "long_term_members": 415,
+   "long_term_members": 444,
    "badges": [
     {
      "months": 0,
-     "members": 118
-    },
-    {
-     "months": 1,
-     "members": 27
-    },
-    {
-     "months": 2,
-     "members": 44
-    },
-    {
-     "months": 6,
-     "members": 47
-    },
-    {
-     "months": 12,
      "members": 126
     },
     {
+     "months": 1,
+     "members": 29
+    },
+    {
+     "months": 2,
+     "members": 48
+    },
+    {
+     "months": 6,
+     "members": 50
+    },
+    {
+     "months": 12,
+     "members": 135
+    },
+    {
      "months": 24,
-     "members": 93
+     "members": 99
     },
     {
      "months": 36,
-     "members": 114
+     "members": 122
     },
     {
      "months": 48,
-     "members": 82
+     "members": 88
     }
    ],
    "events": {
-    "new_members": 3,
-    "rejoins": 6,
-    "milestones": 47,
+    "new_members": 4,
+    "rejoins": 7,
+    "milestones": 54,
     "gifted_total": 38
    },
    "tiers": [
     {
      "tier": "KAELUARGA",
      "price": 690,
-     "confirmed_members": 209,
-     "estimated_members": 613.0
+     "confirmed_members": 219,
+     "estimated_members": 659.0
     }
    ],
    "revenue": {
-    "monthly_low": 269163,
-    "monthly_est": 269163,
+    "monthly_low": 289361,
+    "monthly_est": 289361,
     "gift_once": 16685
    },
-   "avg_member_chatters": 310.8,
+   "avg_member_chatters": 308.2,
    "partial": true,
    "finalized": false
   }

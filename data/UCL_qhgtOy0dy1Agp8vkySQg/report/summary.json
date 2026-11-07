@@ -3,71 +3,71 @@
  "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
  "handle": "@MoriCalliope",
  "subscribers": 2660000,
- "fetched_at": "2026-11-07 06:27",
- "generated_at": "2026-11-07 06:28",
+ "fetched_at": "2026-11-07 11:02",
+ "generated_at": "2026-11-07 11:02",
  "period": {
-  "from": "2026-10-08 06:27",
-  "to": "2026-11-07 06:27",
+  "from": "2026-10-08 11:02",
+  "to": "2026-11-07 11:02",
   "days": 30
  },
- "streams_analyzed": 25,
+ "streams_analyzed": 24,
  "streams_missed": 3,
- "unique_chatters": 17341,
- "members_confirmed": 2880,
+ "unique_chatters": 16699,
+ "members_confirmed": 2793,
  "member_classes": {
-  "unknown": 1701,
-  "known": 599,
-  "gift": 580
+  "unknown": 1645,
+  "known": 595,
+  "gift": 553
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 668
+   "members": 637
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 51
+   "members": 49
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 154
+   "members": 147
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 245
+   "members": 239
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 462
+   "members": 451
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 313
+   "members": 302
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 268
+   "members": 264
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 719
+   "members": 704
   }
  ],
  "events": {
   "new_members": 24,
-  "rejoins": 35,
-  "milestones": 354,
-  "gift_purchases": 77,
-  "gifted_total": 608,
-  "gift_redemptions": 581
+  "rejoins": 31,
+  "milestones": 332,
+  "gift_purchases": 73,
+  "gifted_total": 581,
+  "gift_redemptions": 554
  },
  "tiers_configured": true,
  "tiers": [
@@ -76,33 +76,33 @@
    "price": 390,
    "net_per_member": 248.2,
    "confirmed_members": 51,
-   "share_of_confirmed_pct": 8.5,
-   "allocated_unknown": 144.8,
-   "estimated_members": 195.8,
+   "share_of_confirmed_pct": 8.6,
+   "allocated_unknown": 141.0,
+   "estimated_members": 192.0,
    "monthly_net_confirmed": 12657,
-   "monthly_net_estimated": 48601
+   "monthly_net_estimated": 47651
   },
   {
    "tier": "Dead Beat +",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 522,
+   "confirmed_members": 518,
    "share_of_confirmed_pct": 87.1,
-   "allocated_unknown": 1482.3,
-   "estimated_members": 2004.3,
-   "monthly_net_confirmed": 229205,
-   "monthly_net_estimated": 880088
+   "allocated_unknown": 1432.1,
+   "estimated_members": 1950.1,
+   "monthly_net_confirmed": 227449,
+   "monthly_net_estimated": 856279
   },
   {
    "tier": "Dead Beat ++",
    "price": 1990,
    "net_per_member": 1266.4,
    "confirmed_members": 14,
-   "share_of_confirmed_pct": 2.3,
-   "allocated_unknown": 39.8,
-   "estimated_members": 53.8,
+   "share_of_confirmed_pct": 2.4,
+   "allocated_unknown": 38.7,
+   "estimated_members": 52.7,
    "monthly_net_confirmed": 17729,
-   "monthly_net_estimated": 68075
+   "monthly_net_estimated": 66745
   },
   {
    "tier": "Dead Beat +++",
@@ -110,19 +110,19 @@
    "net_per_member": 2220.9,
    "confirmed_members": 12,
    "share_of_confirmed_pct": 2.0,
-   "allocated_unknown": 34.1,
-   "estimated_members": 46.1,
+   "allocated_unknown": 33.2,
+   "estimated_members": 45.2,
    "monthly_net_confirmed": 26651,
-   "monthly_net_estimated": 102332
+   "monthly_net_estimated": 100333
   }
  ],
  "revenue": {
-  "monthly_low": 708400,
-  "monthly_est": 1099096,
-  "gift_once": 150895,
-  "total_low": 859295,
-  "total_est": 1249990,
-  "paying_members": 2300,
+  "monthly_low": 692745,
+  "monthly_est": 1071007,
+  "gift_once": 144194,
+  "total_low": 836939,
+  "total_est": 1215201,
+  "paying_members": 2240,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -131,16 +131,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "pvoF6UyXYNI",
-   "start": "2026-10-08 09:00",
-   "title": "【ZELDA: OCARINA OF TIME】tater wemple (part 6) #calliolive",
-   "kind": "配信",
-   "chatters": 2690,
-   "member_chatters": 676,
-   "new_members": 0,
-   "gifted_total": 27
-  },
   {
    "video_id": "rYAixab3HZ0",
    "start": "2026-10-09 20:00",
@@ -416,7 +406,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "Dead Beat +",
-   "like_count": 802,
+   "like_count": 803,
    "view_count": null
   }
  ],
@@ -448,7 +438,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "Dead Beat +",
-   "like_count": 802,
+   "like_count": 803,
    "view_count": null
   }
  ],

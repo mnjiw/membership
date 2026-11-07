@@ -3,32 +3,32 @@
  "channel_id": "UCtC3B1n4XMiJmrDtu1Ni5qw",
  "handle": "@NanaseSuzuna",
  "subscribers": 321000,
- "fetched_at": "2026-11-07 05:34",
- "generated_at": "2026-11-07 05:35",
+ "fetched_at": "2026-11-07 10:59",
+ "generated_at": "2026-11-07 10:59",
  "period": {
-  "from": "2026-10-08 05:34",
-  "to": "2026-11-07 05:34",
+  "from": "2026-10-08 10:59",
+  "to": "2026-11-07 10:59",
   "days": 30
  },
  "streams_analyzed": 31,
- "streams_missed": 3,
- "unique_chatters": 10386,
- "members_confirmed": 1432,
+ "streams_missed": 2,
+ "unique_chatters": 10306,
+ "members_confirmed": 1420,
  "member_classes": {
-  "unknown": 1198,
-  "known": 148,
+  "unknown": 1187,
+  "known": 147,
   "gift": 86
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 302
+   "members": 297
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 298
+   "members": 300
   },
   {
    "months": 6,
@@ -38,18 +38,18 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 415
+   "members": 408
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 280
+   "members": 278
   }
  ],
  "events": {
   "new_members": 53,
   "rejoins": 6,
-  "milestones": 31,
+  "milestones": 30,
   "gift_purchases": 15,
   "gifted_total": 91,
   "gift_redemptions": 86
@@ -60,21 +60,21 @@
    "tier": "すずふぁーむ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 148,
+   "confirmed_members": 147,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1198.0,
-   "estimated_members": 1346.0,
-   "monthly_net_confirmed": 46149,
-   "monthly_net_estimated": 419707
+   "allocated_unknown": 1187.0,
+   "estimated_members": 1334.0,
+   "monthly_net_confirmed": 45837,
+   "monthly_net_estimated": 415965
   }
  ],
  "revenue": {
-  "monthly_low": 419707,
-  "monthly_est": 419707,
+  "monthly_low": 415965,
+  "monthly_est": 415965,
   "gift_once": 28375,
-  "total_low": 448083,
-  "total_est": 448083,
-  "paying_members": 1346,
+  "total_low": 444341,
+  "total_est": 444341,
+  "paying_members": 1334,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "TMxZmxWZcog",
-   "start": "2026-10-08 07:01",
-   "title": "【朝活】おはすず10月8日（木）＃596【七瀬すず菜/にじさんじ】",
-   "kind": "配信",
-   "chatters": 1230,
-   "member_chatters": 442,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "UzuNcX3cSf8",
    "start": "2026-10-09 07:01",
@@ -392,6 +382,16 @@
    "member_chatters": 363,
    "new_members": 0,
    "gifted_total": 5
+  },
+  {
+   "video_id": "Q4WOSPTQQSE",
+   "start": "2026-11-06 19:01",
+   "title": "【スプラトゥーン3】#にじイカ祭り2026 大会前日チーム練習🦑✨【七瀬すず菜/にじさんじ】",
+   "kind": "配信",
+   "chatters": 370,
+   "member_chatters": 175,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -418,18 +418,6 @@
    "members_level": "すずふぁーむ",
    "like_count": 237,
    "view_count": null
-  },
-  {
-   "video_id": "Q4WOSPTQQSE",
-   "start": "2026-11-06 00:00",
-   "title": "【スプラトゥーン3】#にじイカ祭り2026 大会前日チーム練習🦑✨【七瀬すず菜/にじさんじ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 1132,
-   "view_count": 94605
   }
  ],
  "members_only_content": [
@@ -584,28 +572,28 @@
     "from": "2026-11-01",
     "to": "2026-11-07"
    },
-   "streams_analyzed": 7,
-   "streams_missed": 1,
-   "unique_chatters": 2316,
-   "members_confirmed": 692,
+   "streams_analyzed": 8,
+   "streams_missed": 0,
+   "unique_chatters": 2409,
+   "members_confirmed": 701,
    "member_classes": {
-    "unknown": 604,
-    "known": 83,
+    "unknown": 612,
+    "known": 84,
     "gift": 5
    },
-   "long_term_members": 386,
+   "long_term_members": 388,
    "badges": [
     {
      "months": 0,
-     "members": 83
+     "members": 85
     },
     {
      "months": 2,
-     "members": 142
+     "members": 146
     },
     {
      "months": 6,
-     "members": 81
+     "members": 82
     },
     {
      "months": 12,
@@ -613,11 +601,11 @@
     },
     {
      "months": 24,
-     "members": 151
+     "members": 153
     }
    ],
    "events": {
-    "new_members": 8,
+    "new_members": 9,
     "rejoins": 1,
     "milestones": 1,
     "gifted_total": 5
@@ -626,16 +614,16 @@
     {
      "tier": "すずふぁーむ",
      "price": 490,
-     "confirmed_members": 83,
-     "estimated_members": 687.0
+     "confirmed_members": 84,
+     "estimated_members": 696.0
     }
    ],
    "revenue": {
-    "monthly_low": 214219,
-    "monthly_est": 214219,
+    "monthly_low": 217025,
+    "monthly_est": 217025,
     "gift_once": 1559
    },
-   "avg_member_chatters": 260.4,
+   "avg_member_chatters": 249.8,
    "partial": true,
    "finalized": false
   }

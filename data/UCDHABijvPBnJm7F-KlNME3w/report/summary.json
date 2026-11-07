@@ -3,15 +3,15 @@
  "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
  "handle": "@holoen_gigimurin",
  "subscribers": 618000,
- "fetched_at": "2026-11-07 06:28",
- "generated_at": "2026-11-07 06:29",
+ "fetched_at": "2026-11-07 11:03",
+ "generated_at": "2026-11-07 11:03",
  "period": {
-  "from": "2026-10-08 06:28",
-  "to": "2026-11-07 06:28",
+  "from": "2026-10-08 11:03",
+  "to": "2026-11-07 11:03",
   "days": 30
  },
  "streams_analyzed": 27,
- "streams_missed": 2,
+ "streams_missed": 3,
  "unique_chatters": 22242,
  "members_confirmed": 3245,
  "member_classes": {
@@ -391,7 +391,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "grem",
-   "like_count": 980,
+   "like_count": 981,
    "view_count": null
   },
   {
@@ -403,8 +403,20 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "grem",
-   "like_count": 811,
+   "like_count": 812,
    "view_count": null
+  },
+  {
+   "video_id": "ZEAKH1cHPzk",
+   "start": "2026-11-06 00:00",
+   "title": "【#WORLDS2026】FAKER DEMON KING",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 8296,
+   "view_count": 123749
   }
  ],
  "members_only_content": [
@@ -415,7 +427,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "grem",
-   "like_count": 980,
+   "like_count": 981,
    "view_count": null
   },
   {
@@ -425,7 +437,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "grem",
-   "like_count": 811,
+   "like_count": 812,
    "view_count": null
   }
  ],
@@ -569,7 +581,7 @@
     "to": "2026-11-07"
    },
    "streams_analyzed": 6,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 7528,
    "members_confirmed": 1469,
    "member_classes": {

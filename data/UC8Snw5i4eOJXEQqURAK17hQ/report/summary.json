@@ -3,16 +3,16 @@
  "channel_id": "UC8Snw5i4eOJXEQqURAK17hQ",
  "handle": "@RaiGalilei",
  "subscribers": 57900,
- "fetched_at": "2026-11-07 05:28",
- "generated_at": "2026-11-07 05:28",
+ "fetched_at": "2026-11-07 10:58",
+ "generated_at": "2026-11-07 10:58",
  "period": {
-  "from": "2026-10-08 05:28",
-  "to": "2026-11-07 05:28",
+  "from": "2026-10-08 10:58",
+  "to": "2026-11-07 10:58",
   "days": 30
  },
- "streams_analyzed": 18,
- "streams_missed": 1,
- "unique_chatters": 264,
+ "streams_analyzed": 19,
+ "streams_missed": 0,
+ "unique_chatters": 272,
  "members_confirmed": 84,
  "member_classes": {
   "unknown": 12,
@@ -267,22 +267,19 @@
    "member_chatters": 10,
    "new_members": 0,
    "gifted_total": 5
-  }
- ],
- "missed_streams": [
+  },
   {
    "video_id": "2m_bdB3574A",
-   "start": "2026-11-06 00:00",
+   "start": "2026-11-06 14:48",
    "title": "【GTAV #DistrictV2】 The OZ: \"Finds a way!\" (2) #3【NIJISANJI】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 138,
-   "view_count": 2346
+   "kind": "配信",
+   "chatters": 39,
+   "member_chatters": 6,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -422,9 +419,9 @@
     "from": "2026-11-01",
     "to": "2026-11-07"
    },
-   "streams_analyzed": 4,
-   "streams_missed": 1,
-   "unique_chatters": 95,
+   "streams_analyzed": 5,
+   "streams_missed": 0,
+   "unique_chatters": 108,
    "members_confirmed": 20,
    "member_classes": {
     "unknown": 9,
@@ -473,7 +470,7 @@
     "monthly_est": 3118,
     "gift_once": 3118
    },
-   "avg_member_chatters": 9.2,
+   "avg_member_chatters": 8.6,
    "partial": true,
    "finalized": false
   }

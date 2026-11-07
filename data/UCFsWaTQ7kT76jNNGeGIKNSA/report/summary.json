@@ -3,15 +3,15 @@
  "channel_id": "UCFsWaTQ7kT76jNNGeGIKNSA",
  "handle": "@Hikari_Hira",
  "subscribers": 118000,
- "fetched_at": "2026-11-07 06:29",
- "generated_at": "2026-11-07 06:29",
+ "fetched_at": "2026-11-07 11:03",
+ "generated_at": "2026-11-07 11:03",
  "period": {
-  "from": "2026-10-08 06:29",
-  "to": "2026-11-07 06:29",
+  "from": "2026-10-08 11:03",
+  "to": "2026-11-07 11:03",
   "days": 30
  },
  "streams_analyzed": 11,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 653,
  "members_confirmed": 77,
  "member_classes": {
@@ -203,7 +203,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "ELGivzNl5ok",
+   "start": "2026-11-06 00:00",
+   "title": "【Stray】イカ耳ねこじーにゃすが大冒険する！🐈‍⬛₎₎【飛良ひかり / ななしいんく】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 361,
+   "view_count": 4785
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -348,7 +361,7 @@
     "to": "2026-11-07"
    },
    "streams_analyzed": 2,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 127,
    "members_confirmed": 32,
    "member_classes": {

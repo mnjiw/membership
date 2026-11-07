@@ -3,27 +3,27 @@
  "channel_id": "UCClwIqTUn5LDpFucHyaAhHg",
  "handle": "@LeeRoha",
  "subscribers": 112000,
- "fetched_at": "2026-11-07 05:28",
- "generated_at": "2026-11-07 05:29",
+ "fetched_at": "2026-11-07 10:58",
+ "generated_at": "2026-11-07 10:58",
  "period": {
-  "from": "2026-10-08 05:28",
-  "to": "2026-11-07 05:28",
+  "from": "2026-10-08 10:58",
+  "to": "2026-11-07 10:58",
   "days": 30
  },
- "streams_analyzed": 15,
- "streams_missed": 1,
- "unique_chatters": 520,
- "members_confirmed": 43,
+ "streams_analyzed": 16,
+ "streams_missed": 0,
+ "unique_chatters": 547,
+ "members_confirmed": 48,
  "member_classes": {
   "unknown": 34,
   "known": 8,
-  "gift": 1
+  "gift": 6
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 3
+   "members": 8
   },
   {
    "months": 1,
@@ -55,9 +55,9 @@
   "new_members": 1,
   "rejoins": 0,
   "milestones": 6,
-  "gift_purchases": 1,
-  "gifted_total": 1,
-  "gift_redemptions": 1
+  "gift_purchases": 2,
+  "gifted_total": 6,
+  "gift_redemptions": 6
  },
  "tiers_configured": true,
  "tiers": [
@@ -87,9 +87,9 @@
  "revenue": {
   "monthly_low": 13733,
   "monthly_est": 16437,
-  "gift_once": 312,
-  "total_low": 14045,
-  "total_est": 16749,
+  "gift_once": 1871,
+  "total_low": 15604,
+  "total_est": 18308,
   "paying_members": 42,
   "single_tier": false,
   "tax_rate": 0.1,
@@ -248,22 +248,19 @@
    "member_chatters": 16,
    "new_members": 0,
    "gifted_total": 0
-  }
- ],
- "missed_streams": [
+  },
   {
    "video_id": "LDAYFoVAwok",
    "start": "2026-11-06 23:32",
    "title": "【#にじイカ祭り2026】チョア氏～ 練習会#4  [にじさんじ/イロハ]",
-   "kind": "live",
-   "status": "processing",
-   "reason": "アーカイブ処理中（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 415,
-   "view_count": 10814
+   "kind": "配信",
+   "chatters": 104,
+   "member_chatters": 22,
+   "new_members": 0,
+   "gifted_total": 5
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -415,16 +412,21 @@
     "from": "2026-11-01",
     "to": "2026-11-07"
    },
-   "streams_analyzed": 3,
-   "streams_missed": 1,
-   "unique_chatters": 278,
-   "members_confirmed": 23,
+   "streams_analyzed": 4,
+   "streams_missed": 0,
+   "unique_chatters": 310,
+   "members_confirmed": 28,
    "member_classes": {
     "unknown": 20,
-    "known": 3
+    "known": 3,
+    "gift": 5
    },
    "long_term_members": 17,
    "badges": [
+    {
+     "months": 0,
+     "members": 5
+    },
     {
      "months": 1,
      "members": 3
@@ -450,7 +452,7 @@
     "new_members": 0,
     "rejoins": 0,
     "milestones": 1,
-    "gifted_total": 0
+    "gifted_total": 5
    },
    "tiers": [
     {
@@ -469,9 +471,9 @@
    "revenue": {
     "monthly_low": 7426,
     "monthly_est": 9123,
-    "gift_once": 0
+    "gift_once": 1559
    },
-   "avg_member_chatters": 17.3,
+   "avg_member_chatters": 18.5,
    "partial": true,
    "finalized": false
   }

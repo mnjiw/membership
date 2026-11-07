@@ -3,16 +3,16 @@
  "channel_id": "UCo96eJdTpPOrxHFztYajbtg",
  "handle": "@ShinomiyaYuno",
  "subscribers": 115000,
- "fetched_at": "2026-11-07 05:36",
- "generated_at": "2026-11-07 05:36",
+ "fetched_at": "2026-11-07 10:59",
+ "generated_at": "2026-11-07 10:59",
  "period": {
-  "from": "2026-10-08 05:36",
-  "to": "2026-11-07 05:36",
+  "from": "2026-10-08 10:59",
+  "to": "2026-11-07 10:59",
   "days": 30
  },
- "streams_analyzed": 15,
- "streams_missed": 2,
- "unique_chatters": 1120,
+ "streams_analyzed": 16,
+ "streams_missed": 1,
+ "unique_chatters": 1124,
  "members_confirmed": 395,
  "member_classes": {
   "unknown": 353,
@@ -38,12 +38,12 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 85
+   "members": 84
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 117
+   "members": 118
   }
  ],
  "events": {
@@ -232,6 +232,16 @@
    "member_chatters": 72,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "PtPB-m3tDH4",
+   "start": "2026-11-06 22:41",
+   "title": "【 #にじイカ祭り2026 】♡決戦前夜♡アース2434♡ / スプラトゥーン3【 篠宮ゆの / すぷれあ / にじさんじ 】",
+   "kind": "配信",
+   "chatters": 93,
+   "member_chatters": 78,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -246,18 +256,6 @@
    "members_level": "しのみーるさん",
    "like_count": null,
    "view_count": null
-  },
-  {
-   "video_id": "PtPB-m3tDH4",
-   "start": "2026-11-06 00:00",
-   "title": "【 #にじイカ祭り2026 】♡決戦前夜♡アース2434♡ / スプラトゥーン3【 篠宮ゆの / すぷれあ / にじさんじ 】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 277,
-   "view_count": 10122
   }
  ],
  "members_only_content": [
@@ -398,35 +396,35 @@
     "from": "2026-11-01",
     "to": "2026-11-07"
    },
-   "streams_analyzed": 4,
-   "streams_missed": 1,
-   "unique_chatters": 464,
-   "members_confirmed": 216,
+   "streams_analyzed": 5,
+   "streams_missed": 0,
+   "unique_chatters": 476,
+   "members_confirmed": 223,
    "member_classes": {
-    "unknown": 198,
-    "known": 18
+    "unknown": 204,
+    "known": 19
    },
-   "long_term_members": 81,
+   "long_term_members": 84,
    "badges": [
     {
      "months": 0,
-     "members": 21
+     "members": 22
     },
     {
      "months": 1,
-     "members": 20
+     "members": 21
     },
     {
      "months": 2,
-     "members": 55
+     "members": 56
     },
     {
      "months": 6,
-     "members": 39
+     "members": 40
     },
     {
      "months": 12,
-     "members": 81
+     "members": 84
     }
    ],
    "events": {
@@ -439,16 +437,16 @@
     {
      "tier": "しのみーるさん",
      "price": 490,
-     "confirmed_members": 18,
-     "estimated_members": 216.0
+     "confirmed_members": 19,
+     "estimated_members": 223.0
     }
    ],
    "revenue": {
-    "monthly_low": 67353,
-    "monthly_est": 67353,
+    "monthly_low": 69535,
+    "monthly_est": 69535,
     "gift_once": 0
    },
-   "avg_member_chatters": 95.8,
+   "avg_member_chatters": 92.2,
    "partial": true,
    "finalized": false
   }

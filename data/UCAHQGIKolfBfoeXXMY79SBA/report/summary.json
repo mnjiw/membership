@@ -3,37 +3,37 @@
  "channel_id": "UCAHQGIKolfBfoeXXMY79SBA",
  "handle": "@ShironaShizuku",
  "subscribers": 150000,
- "fetched_at": "2026-11-07 06:35",
- "generated_at": "2026-11-07 06:35",
+ "fetched_at": "2026-11-07 11:07",
+ "generated_at": "2026-11-07 11:08",
  "period": {
-  "from": "2026-10-08 06:35",
-  "to": "2026-11-07 06:35",
+  "from": "2026-10-08 11:07",
+  "to": "2026-11-07 11:07",
   "days": 30
  },
- "streams_analyzed": 22,
- "streams_missed": 1,
- "unique_chatters": 1613,
- "members_confirmed": 253,
+ "streams_analyzed": 23,
+ "streams_missed": 0,
+ "unique_chatters": 1656,
+ "members_confirmed": 255,
  "member_classes": {
   "unknown": 154,
-  "known": 84,
+  "known": 86,
   "gift": 15
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 60
+   "members": 57
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 15
+   "members": 18
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 34
+   "members": 35
   },
   {
    "months": 6,
@@ -48,13 +48,13 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 57
+   "members": 58
   }
  ],
  "events": {
-  "new_members": 16,
-  "rejoins": 10,
-  "milestones": 13,
+  "new_members": 17,
+  "rejoins": 11,
+  "milestones": 14,
   "gift_purchases": 2,
   "gifted_total": 15,
   "gift_redemptions": 15
@@ -65,21 +65,21 @@
    "tier": "メンバーシップ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 84,
+   "confirmed_members": 86,
    "share_of_confirmed_pct": 100.0,
    "allocated_unknown": 154.0,
-   "estimated_members": 238.0,
-   "monthly_net_confirmed": 26193,
-   "monthly_net_estimated": 74213
+   "estimated_members": 240.0,
+   "monthly_net_confirmed": 26816,
+   "monthly_net_estimated": 74836
   }
  ],
  "revenue": {
-  "monthly_low": 74213,
-  "monthly_est": 74213,
+  "monthly_low": 74836,
+  "monthly_est": 74836,
   "gift_once": 4677,
-  "total_low": 78890,
-  "total_est": 78890,
-  "paying_members": 238,
+  "total_low": 79514,
+  "total_est": 79514,
+  "paying_members": 240,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -307,22 +307,19 @@
    "member_chatters": 46,
    "new_members": 1,
    "gifted_total": 0
-  }
- ],
- "missed_streams": [
+  },
   {
    "video_id": "h6yJ0Z6Rme8",
-   "start": "2026-11-06 00:00",
+   "start": "2026-11-06 15:26",
    "title": "【 League of Legends #LTK 】スクリムからの本番Day6 IT vs CC🔥【白那しずく / ネオポルテ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 421,
-   "view_count": 46002
+   "kind": "配信",
+   "chatters": 175,
+   "member_chatters": 67,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -450,61 +447,61 @@
     "from": "2026-11-01",
     "to": "2026-11-07"
    },
-   "streams_analyzed": 3,
-   "streams_missed": 1,
-   "unique_chatters": 310,
-   "members_confirmed": 95,
+   "streams_analyzed": 4,
+   "streams_missed": 0,
+   "unique_chatters": 390,
+   "members_confirmed": 110,
    "member_classes": {
-    "unknown": 56,
-    "known": 39
+    "unknown": 64,
+    "known": 46
    },
-   "long_term_members": 56,
+   "long_term_members": 63,
    "badges": [
     {
      "months": 0,
-     "members": 9
-    },
-    {
-     "months": 1,
-     "members": 7
-    },
-    {
-     "months": 2,
-     "members": 13
-    },
-    {
-     "months": 6,
      "members": 10
     },
     {
+     "months": 1,
+     "members": 11
+    },
+    {
+     "months": 2,
+     "members": 15
+    },
+    {
+     "months": 6,
+     "members": 11
+    },
+    {
      "months": 12,
-     "members": 29
+     "members": 32
     },
     {
      "months": 24,
-     "members": 27
+     "members": 31
     }
    ],
    "events": {
-    "new_members": 3,
-    "rejoins": 2,
-    "milestones": 2,
+    "new_members": 4,
+    "rejoins": 3,
+    "milestones": 3,
     "gifted_total": 0
    },
    "tiers": [
     {
      "tier": "メンバーシップ",
      "price": 490,
-     "confirmed_members": 39,
-     "estimated_members": 95.0
+     "confirmed_members": 46,
+     "estimated_members": 110.0
     }
    ],
    "revenue": {
-    "monthly_low": 29623,
-    "monthly_est": 29623,
+    "monthly_low": 34300,
+    "monthly_est": 34300,
     "gift_once": 0
    },
-   "avg_member_chatters": 55,
+   "avg_member_chatters": 58,
    "partial": true,
    "finalized": false
   }
