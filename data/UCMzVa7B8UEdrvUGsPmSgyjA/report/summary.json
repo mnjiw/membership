@@ -3,21 +3,21 @@
  "channel_id": "UCMzVa7B8UEdrvUGsPmSgyjA",
  "handle": "@DeremKado",
  "subscribers": 48400,
- "fetched_at": "2026-11-08 10:26",
- "generated_at": "2026-11-08 10:26",
+ "fetched_at": "2026-11-09 05:29",
+ "generated_at": "2026-11-09 05:29",
  "period": {
-  "from": "2026-10-09 10:26",
-  "to": "2026-11-08 10:26",
+  "from": "2026-10-10 05:29",
+  "to": "2026-11-09 05:29",
   "days": 30
  },
- "streams_analyzed": 19,
- "streams_missed": 0,
- "unique_chatters": 188,
- "members_confirmed": 87,
+ "streams_analyzed": 18,
+ "streams_missed": 1,
+ "unique_chatters": 180,
+ "members_confirmed": 86,
  "member_classes": {
   "unknown": 22,
   "known": 3,
-  "gift": 62
+  "gift": 61
  },
  "badges": [
   {
@@ -28,7 +28,7 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 3
+   "members": 2
   },
   {
    "months": 2,
@@ -65,9 +65,9 @@
   "new_members": 0,
   "rejoins": 0,
   "milestones": 3,
-  "gift_purchases": 15,
-  "gifted_total": 62,
-  "gift_redemptions": 62
+  "gift_purchases": 14,
+  "gifted_total": 61,
+  "gift_redemptions": 61
  },
  "tiers_configured": true,
  "tiers": [
@@ -86,9 +86,9 @@
  "revenue": {
   "monthly_low": 7795,
   "monthly_est": 7795,
-  "gift_once": 19333,
-  "total_low": 27128,
-  "total_est": 27128,
+  "gift_once": 19021,
+  "total_low": 26816,
+  "total_est": 26816,
   "paying_members": 25,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "_ROIajGmHdo",
-   "start": "2026-10-10 00:23",
-   "title": "【 FFXIV 】Refreshing my mind【 NIJISANJI | Derem Kado 】",
-   "kind": "配信",
-   "chatters": 24,
-   "member_chatters": 6,
-   "new_members": 0,
-   "gifted_total": 1
-  },
   {
    "video_id": "TVE_Lr94kWg",
    "start": "2026-10-10 10:46",
@@ -289,7 +279,20 @@
    "gifted_total": 1
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "dTHiLVzYGzc",
+   "start": "2026-11-07 00:00",
+   "title": "【 #DistrictV2 】 #5 Suddenly so many cases 【 NIJISANJI | Derem Kado 】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 215,
+   "view_count": 3286
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -444,10 +447,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-08"
+    "to": "2026-11-09"
    },
    "streams_analyzed": 8,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 104,
    "members_confirmed": 54,
    "member_classes": {

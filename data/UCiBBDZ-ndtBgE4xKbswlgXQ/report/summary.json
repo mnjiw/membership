@@ -3,20 +3,20 @@
  "channel_id": "UCiBBDZ-ndtBgE4xKbswlgXQ",
  "handle": "@ItsukiSakyo",
  "subscribers": 165000,
- "fetched_at": "2026-11-08 10:27",
- "generated_at": "2026-11-08 10:27",
+ "fetched_at": "2026-11-09 05:38",
+ "generated_at": "2026-11-09 05:38",
  "period": {
-  "from": "2026-10-09 10:27",
-  "to": "2026-11-08 10:27",
+  "from": "2026-10-10 05:38",
+  "to": "2026-11-09 05:38",
   "days": 30
  },
  "streams_analyzed": 22,
  "streams_missed": 1,
- "unique_chatters": 1092,
- "members_confirmed": 371,
+ "unique_chatters": 1125,
+ "members_confirmed": 372,
  "member_classes": {
+  "unknown": 315,
   "known": 51,
-  "unknown": 314,
   "gift": 6
  },
  "badges": [
@@ -28,7 +28,7 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 12
+   "members": 10
   },
   {
    "months": 2,
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 219
+   "members": 222
   }
  ],
  "events": {
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 51,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 314.0,
-   "estimated_members": 365.0,
+   "allocated_unknown": 315.0,
+   "estimated_members": 366.0,
    "monthly_net_confirmed": 15903,
-   "monthly_net_estimated": 113814
+   "monthly_net_estimated": 114125
   }
  ],
  "revenue": {
-  "monthly_low": 113814,
-  "monthly_est": 113814,
+  "monthly_low": 114125,
+  "monthly_est": 114125,
   "gift_once": 1871,
-  "total_low": 115685,
-  "total_est": 115685,
-  "paying_members": 365,
+  "total_low": 115996,
+  "total_est": 115996,
+  "paying_members": 366,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "P171UojtPsI",
-   "start": "2026-10-09 22:04",
-   "title": "【Japanese Ramen Simulator】スープが温まった日 w/すぷれあ&えりぶり【にじさんじ / 五木左京】",
-   "kind": "配信",
-   "chatters": 153,
-   "member_chatters": 119,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "DY0M-cl0KqQ",
    "start": "2026-10-11 18:00",
@@ -302,6 +292,16 @@
    "member_chatters": 127,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "9rlnysBDpJE",
+   "start": "2026-11-08 14:02",
+   "title": "【スプラトゥーン3】#ちきぎゃるWIN 愛羅武勇💖ちるきる☆ぎゃるず #にじイカ祭り2026【にじさんじ / 五木左京】",
+   "kind": "配信",
+   "chatters": 278,
+   "member_chatters": 169,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -459,21 +459,21 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-08"
+    "to": "2026-11-09"
    },
-   "streams_analyzed": 6,
+   "streams_analyzed": 7,
    "streams_missed": 0,
-   "unique_chatters": 432,
-   "members_confirmed": 225,
+   "unique_chatters": 510,
+   "members_confirmed": 246,
    "member_classes": {
     "known": 43,
-    "unknown": 182
+    "unknown": 203
    },
-   "long_term_members": 137,
+   "long_term_members": 151,
    "badges": [
     {
      "months": 0,
-     "members": 12
+     "members": 13
     },
     {
      "months": 1,
@@ -481,15 +481,15 @@
     },
     {
      "months": 2,
-     "members": 25
+     "members": 27
     },
     {
      "months": 6,
-     "members": 47
+     "members": 51
     },
     {
      "months": 12,
-     "members": 137
+     "members": 151
     }
    ],
    "events": {
@@ -503,15 +503,15 @@
      "tier": "うさ部員総会",
      "price": 490,
      "confirmed_members": 43,
-     "estimated_members": 225.0
+     "estimated_members": 246.0
     }
    ],
    "revenue": {
-    "monthly_low": 70159,
-    "monthly_est": 70159,
+    "monthly_low": 76707,
+    "monthly_est": 76707,
     "gift_once": 0
    },
-   "avg_member_chatters": 125.5,
+   "avg_member_chatters": 131.7,
    "partial": true,
    "finalized": false
   }

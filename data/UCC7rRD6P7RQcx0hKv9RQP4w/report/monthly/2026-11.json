@@ -2,67 +2,67 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-08"
+  "to": "2026-11-09"
  },
- "streams_analyzed": 6,
+ "streams_analyzed": 7,
  "streams_missed": 0,
- "unique_chatters": 1317,
- "members_confirmed": 980,
+ "unique_chatters": 1657,
+ "members_confirmed": 1130,
  "member_classes": {
-  "unknown": 882,
-  "known": 98
+  "unknown": 1022,
+  "known": 108
  },
- "long_term_members": 683,
+ "long_term_members": 786,
  "badges": [
   {
    "months": 0,
-   "members": 21
-  },
-  {
-   "months": 1,
    "members": 27
   },
   {
+   "months": 1,
+   "members": 33
+  },
+  {
    "months": 2,
-   "members": 99
+   "members": 113
   },
   {
    "months": 6,
-   "members": 150
+   "members": 171
   },
   {
    "months": 12,
-   "members": 236
+   "members": 263
   },
   {
    "months": 24,
-   "members": 165
+   "members": 194
   },
   {
    "months": 36,
-   "members": 282
+   "members": 329
   }
  ],
  "events": {
   "new_members": 6,
-  "rejoins": 9,
-  "milestones": 11,
+  "rejoins": 10,
+  "milestones": 18,
   "gifted_total": 0
  },
  "tiers": [
   {
    "tier": "Diner",
    "price": 490,
-   "confirmed_members": 98,
-   "estimated_members": 980.0
+   "confirmed_members": 108,
+   "estimated_members": 1130.0
   }
  ],
  "revenue": {
-  "monthly_low": 305582,
-  "monthly_est": 305582,
+  "monthly_low": 352355,
+  "monthly_est": 352355,
   "gift_once": 0
  },
- "avg_member_chatters": 447.5,
+ "avg_member_chatters": 483.3,
  "partial": true,
  "finalized": false
 }

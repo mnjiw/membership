@@ -3,32 +3,32 @@
  "channel_id": "UCyXBNgCulibV9pRm3ZKpmoQ",
  "handle": "@SakakiNess",
  "subscribers": 358000,
- "fetched_at": "2026-11-08 10:27",
- "generated_at": "2026-11-08 10:27",
+ "fetched_at": "2026-11-09 05:35",
+ "generated_at": "2026-11-09 05:36",
  "period": {
-  "from": "2026-10-09 10:27",
-  "to": "2026-11-08 10:27",
+  "from": "2026-10-10 05:35",
+  "to": "2026-11-09 05:35",
   "days": 30
  },
- "streams_analyzed": 25,
+ "streams_analyzed": 26,
  "streams_missed": 0,
- "unique_chatters": 4906,
- "members_confirmed": 1059,
+ "unique_chatters": 4933,
+ "members_confirmed": 1069,
  "member_classes": {
   "known": 186,
-  "unknown": 783,
-  "gift": 90
+  "unknown": 788,
+  "gift": 95
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 134
+   "members": 138
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 32
+   "members": 34
   },
   {
    "months": 2,
@@ -48,16 +48,16 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 340
+   "members": 344
   }
  ],
  "events": {
   "new_members": 42,
   "rejoins": 10,
-  "milestones": 133,
-  "gift_purchases": 5,
-  "gifted_total": 90,
-  "gift_redemptions": 90
+  "milestones": 134,
+  "gift_purchases": 6,
+  "gifted_total": 95,
+  "gift_redemptions": 95
  },
  "tiers_configured": true,
  "tiers": [
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 186,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 783.0,
-   "estimated_members": 969.0,
+   "allocated_unknown": 788.0,
+   "estimated_members": 974.0,
    "monthly_net_confirmed": 57998,
-   "monthly_net_estimated": 302152
+   "monthly_net_estimated": 303711
   }
  ],
  "revenue": {
-  "monthly_low": 302152,
-  "monthly_est": 302152,
-  "gift_once": 28064,
-  "total_low": 330215,
-  "total_est": 330215,
-  "paying_members": 969,
+  "monthly_low": 303711,
+  "monthly_est": 303711,
+  "gift_once": 29623,
+  "total_low": 333334,
+  "total_est": 333334,
+  "paying_members": 974,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -337,6 +337,16 @@
    "member_chatters": 290,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "sO_sqd1-Mso",
+   "start": "2026-11-08 15:53",
+   "title": "【#にじイカ祭り2026】本番DAY2 At高マイハウス【榊ネス/にじさんじ】",
+   "kind": "配信",
+   "chatters": 398,
+   "member_chatters": 271,
+   "new_members": 0,
+   "gifted_total": 5
   }
  ],
  "missed_streams": [],
@@ -477,64 +487,64 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-08"
+    "to": "2026-11-09"
    },
-   "streams_analyzed": 8,
+   "streams_analyzed": 9,
    "streams_missed": 0,
-   "unique_chatters": 3751,
-   "members_confirmed": 759,
+   "unique_chatters": 3790,
+   "members_confirmed": 776,
    "member_classes": {
-    "unknown": 598,
-    "known": 141,
-    "gift": 20
+    "unknown": 608,
+    "known": 143,
+    "gift": 25
    },
-   "long_term_members": 491,
+   "long_term_members": 498,
    "badges": [
     {
      "months": 0,
-     "members": 55
+     "members": 61
     },
     {
      "months": 1,
-     "members": 23
+     "members": 25
     },
     {
      "months": 2,
-     "members": 71
+     "members": 72
     },
     {
      "months": 6,
-     "members": 119
+     "members": 120
     },
     {
      "months": 12,
-     "members": 232
+     "members": 233
     },
     {
      "months": 24,
-     "members": 259
+     "members": 265
     }
    ],
    "events": {
     "new_members": 10,
     "rejoins": 2,
-    "milestones": 28,
-    "gifted_total": 20
+    "milestones": 29,
+    "gifted_total": 25
    },
    "tiers": [
     {
      "tier": "ネッシー",
      "price": 490,
-     "confirmed_members": 141,
-     "estimated_members": 739.0
+     "confirmed_members": 143,
+     "estimated_members": 751.0
     }
    ],
    "revenue": {
-    "monthly_low": 230434,
-    "monthly_est": 230434,
-    "gift_once": 6236
+    "monthly_low": 234175,
+    "monthly_est": 234175,
+    "gift_once": 7795
    },
-   "avg_member_chatters": 263.2,
+   "avg_member_chatters": 264.1,
    "partial": true,
    "finalized": false
   }

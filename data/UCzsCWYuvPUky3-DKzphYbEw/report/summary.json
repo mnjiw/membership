@@ -2,20 +2,20 @@
  "channel": "司賀りこ / Shiga Riko【にじさんじ】",
  "channel_id": "UCzsCWYuvPUky3-DKzphYbEw",
  "handle": "@ShigaRiko",
- "subscribers": 257000,
- "fetched_at": "2026-11-08 10:27",
- "generated_at": "2026-11-08 10:27",
+ "subscribers": 258000,
+ "fetched_at": "2026-11-09 05:35",
+ "generated_at": "2026-11-09 05:36",
  "period": {
-  "from": "2026-10-09 10:27",
-  "to": "2026-11-08 10:27",
+  "from": "2026-10-10 05:35",
+  "to": "2026-11-09 05:35",
   "days": 30
  },
  "streams_analyzed": 19,
  "streams_missed": 1,
- "unique_chatters": 2049,
- "members_confirmed": 314,
+ "unique_chatters": 2023,
+ "members_confirmed": 306,
  "member_classes": {
-  "unknown": 281,
+  "unknown": 273,
   "known": 32,
   "gift": 1
  },
@@ -28,22 +28,22 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 14
+   "members": 12
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 33
+   "members": 32
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 73
+   "members": 70
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 105
+   "members": 103
   },
   {
    "months": 24,
@@ -53,7 +53,7 @@
  ],
  "events": {
   "new_members": 14,
-  "rejoins": 3,
+  "rejoins": 2,
   "milestones": 13,
   "gift_purchases": 2,
   "gifted_total": 6,
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 32,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 281.0,
-   "estimated_members": 313.0,
+   "allocated_unknown": 273.0,
+   "estimated_members": 305.0,
    "monthly_net_confirmed": 9978,
-   "monthly_net_estimated": 97599
+   "monthly_net_estimated": 95105
   }
  ],
  "revenue": {
-  "monthly_low": 97599,
-  "monthly_est": 97599,
+  "monthly_low": 95105,
+  "monthly_est": 95105,
   "gift_once": 1871,
-  "total_low": 99470,
-  "total_est": 99470,
-  "paying_members": 313,
+  "total_low": 96975,
+  "total_est": 96975,
+  "paying_members": 305,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "7e8qAogdF8Q",
-   "start": "2026-10-09 23:59",
-   "title": "【タンポポは耐える。】しがりこが耐えるよ。【司賀りこ/にじさんじ】",
-   "kind": "配信",
-   "chatters": 161,
-   "member_chatters": 67,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "RNN7jN5IBbk",
    "start": "2026-10-12 19:02",
@@ -277,6 +267,16 @@
    "member_chatters": 87,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "KzJaXrUC_hE",
+   "start": "2026-11-08 13:30",
+   "title": "【#にじイカ祭り2026🦑】大会決勝✨️哀愁が勝つよ。【司賀りこ/にじさんじ】",
+   "kind": "配信",
+   "chatters": 115,
+   "member_chatters": 67,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -442,17 +442,17 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-08"
+    "to": "2026-11-09"
    },
-   "streams_analyzed": 6,
+   "streams_analyzed": 7,
    "streams_missed": 0,
-   "unique_chatters": 457,
-   "members_confirmed": 140,
+   "unique_chatters": 488,
+   "members_confirmed": 148,
    "member_classes": {
-    "unknown": 120,
-    "known": 20
+    "unknown": 127,
+    "known": 21
    },
-   "long_term_members": 80,
+   "long_term_members": 87,
    "badges": [
     {
      "months": 0,
@@ -468,37 +468,37 @@
     },
     {
      "months": 6,
-     "members": 38
+     "members": 39
     },
     {
      "months": 12,
-     "members": 48
+     "members": 52
     },
     {
      "months": 24,
-     "members": 32
+     "members": 35
     }
    ],
    "events": {
     "new_members": 6,
     "rejoins": 1,
-    "milestones": 0,
+    "milestones": 1,
     "gifted_total": 0
    },
    "tiers": [
     {
      "tier": "りこりすとさん",
      "price": 490,
-     "confirmed_members": 20,
-     "estimated_members": 140.0
+     "confirmed_members": 21,
+     "estimated_members": 148.0
     }
    ],
    "revenue": {
-    "monthly_low": 43655,
-    "monthly_est": 43655,
+    "monthly_low": 46149,
+    "monthly_est": 46149,
     "gift_once": 0
    },
-   "avg_member_chatters": 65.7,
+   "avg_member_chatters": 65.9,
    "partial": true,
    "finalized": false
   }

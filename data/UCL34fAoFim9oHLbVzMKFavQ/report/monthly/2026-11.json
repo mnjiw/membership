@@ -2,17 +2,17 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-08"
+  "to": "2026-11-09"
  },
- "streams_analyzed": 2,
- "streams_missed": 1,
- "unique_chatters": 411,
- "members_confirmed": 146,
+ "streams_analyzed": 3,
+ "streams_missed": 0,
+ "unique_chatters": 662,
+ "members_confirmed": 170,
  "member_classes": {
-  "unknown": 137,
+  "unknown": 161,
   "known": 9
  },
- "long_term_members": 135,
+ "long_term_members": 159,
  "badges": [
   {
    "months": 0,
@@ -28,23 +28,23 @@
   },
   {
    "months": 12,
-   "members": 16
+   "members": 21
   },
   {
    "months": 24,
-   "members": 10
-  },
-  {
-   "months": 36,
    "members": 12
   },
   {
+   "months": 36,
+   "members": 14
+  },
+  {
    "months": 48,
-   "members": 17
+   "members": 18
   },
   {
    "months": 60,
-   "members": 80
+   "members": 94
   }
  ],
  "events": {
@@ -58,15 +58,15 @@
    "tier": "夜見のひよこプラン",
    "price": 490,
    "confirmed_members": 9,
-   "estimated_members": 146.0
+   "estimated_members": 170.0
   }
  ],
  "revenue": {
-  "monthly_low": 45525,
-  "monthly_est": 45525,
+  "monthly_low": 53009,
+  "monthly_est": 53009,
   "gift_once": 0
  },
- "avg_member_chatters": 101,
+ "avg_member_chatters": 104,
  "partial": true,
  "finalized": false
 }

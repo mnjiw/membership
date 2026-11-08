@@ -2,75 +2,76 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-08"
+  "to": "2026-11-09"
  },
- "streams_analyzed": 8,
+ "streams_analyzed": 11,
  "streams_missed": 0,
- "unique_chatters": 1411,
- "members_confirmed": 764,
+ "unique_chatters": 2472,
+ "members_confirmed": 1126,
  "member_classes": {
-  "unknown": 630,
-  "known": 134
+  "unknown": 649,
+  "known": 472,
+  "gift": 5
  },
- "long_term_members": 622,
+ "long_term_members": 923,
  "badges": [
   {
    "months": 0,
-   "members": 12
+   "members": 25
   },
   {
    "months": 1,
-   "members": 13
+   "members": 21
   },
   {
    "months": 2,
-   "members": 50
+   "members": 69
   },
   {
    "months": 6,
-   "members": 67
+   "members": 88
   },
   {
    "months": 12,
-   "members": 108
+   "members": 177
   },
   {
    "months": 24,
-   "members": 514
+   "members": 746
   }
  ],
  "events": {
-  "new_members": 7,
-  "rejoins": 3,
-  "milestones": 1,
-  "gifted_total": 0
+  "new_members": 13,
+  "rejoins": 7,
+  "milestones": 396,
+  "gifted_total": 5
  },
  "tiers": [
   {
    "tier": "ゆうしきしゃ8GB",
    "price": 140,
-   "confirmed_members": 8,
-   "estimated_members": 45.6
+   "confirmed_members": 32,
+   "estimated_members": 76.0
   },
   {
    "tier": "ゆうしきしゃ16GB",
    "price": 490,
-   "confirmed_members": 36,
-   "estimated_members": 205.3
+   "confirmed_members": 184,
+   "estimated_members": 437.0
   },
   {
    "tier": "ゆうしきしゃ32GB",
    "price": 1990,
-   "confirmed_members": 90,
-   "estimated_members": 513.1
+   "confirmed_members": 256,
+   "estimated_members": 608.0
   }
  ],
  "revenue": {
-  "monthly_low": 182038,
-  "monthly_est": 717880,
-  "gift_once": 0
+  "monthly_low": 442235,
+  "monthly_est": 912985,
+  "gift_once": 445
  },
- "avg_member_chatters": 354.5,
+ "avg_member_chatters": 440.1,
  "partial": true,
  "finalized": false
 }

@@ -3,27 +3,27 @@
  "channel_id": "UC5dJFf4m-mEcoyJRfhBljoA",
  "handle": "@SeraphDazzlegarden",
  "subscribers": 428000,
- "fetched_at": "2026-11-08 10:26",
- "generated_at": "2026-11-08 10:26",
+ "fetched_at": "2026-11-09 05:28",
+ "generated_at": "2026-11-09 05:28",
  "period": {
-  "from": "2026-10-09 10:26",
-  "to": "2026-11-08 10:26",
+  "from": "2026-10-10 05:28",
+  "to": "2026-11-09 05:28",
   "days": 30
  },
- "streams_analyzed": 24,
+ "streams_analyzed": 23,
  "streams_missed": 3,
- "unique_chatters": 2859,
- "members_confirmed": 1409,
+ "unique_chatters": 2823,
+ "members_confirmed": 1383,
  "member_classes": {
+  "unknown": 1177,
   "known": 178,
-  "unknown": 1184,
-  "gift": 47
+  "gift": 28
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 141
+   "members": 123
   },
   {
    "months": 1,
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 180
+   "members": 179
   },
   {
    "months": 6,
@@ -43,16 +43,16 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 835
+   "members": 828
   }
  ],
  "events": {
   "new_members": 41,
   "rejoins": 21,
-  "milestones": 83,
-  "gift_purchases": 6,
-  "gifted_total": 48,
-  "gift_redemptions": 48
+  "milestones": 80,
+  "gift_purchases": 5,
+  "gifted_total": 28,
+  "gift_redemptions": 28
  },
  "tiers_configured": true,
  "tiers": [
@@ -62,10 +62,10 @@
    "net_per_member": 89.1,
    "confirmed_members": 16,
    "share_of_confirmed_pct": 9.0,
-   "allocated_unknown": 106.4,
-   "estimated_members": 122.4,
+   "allocated_unknown": 105.8,
+   "estimated_members": 121.8,
    "monthly_net_confirmed": 1425,
-   "monthly_net_estimated": 10907
+   "monthly_net_estimated": 10851
   },
   {
    "tier": "バディエージェント",
@@ -73,19 +73,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 162,
    "share_of_confirmed_pct": 91.0,
-   "allocated_unknown": 1077.6,
-   "estimated_members": 1239.6,
+   "allocated_unknown": 1071.2,
+   "estimated_members": 1233.2,
    "monthly_net_confirmed": 50515,
-   "monthly_net_estimated": 386521
+   "monthly_net_estimated": 384535
   }
  ],
  "revenue": {
-  "monthly_low": 157424,
-  "monthly_est": 397429,
-  "gift_once": 4276,
-  "total_low": 161700,
-  "total_est": 401705,
-  "paying_members": 1362,
+  "monthly_low": 156800,
+  "monthly_est": 395386,
+  "gift_once": 2495,
+  "total_low": 159295,
+  "total_est": 397881,
+  "paying_members": 1355,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -94,16 +94,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "dl5vZLKyRbs",
-   "start": "2026-10-09 21:33",
-   "title": "【タンポポは耐える。】どんな困難にも負けないタンポポのゲーム【セラフ・ダズルガーデン/にじさんじ】",
-   "kind": "配信",
-   "chatters": 425,
-   "member_chatters": 333,
-   "new_members": 0,
-   "gifted_total": 20
-  },
   {
    "video_id": "f38YzzFjfiA",
    "start": "2026-10-10 13:31",
@@ -345,7 +335,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "バディエージェント",
-   "like_count": 370,
+   "like_count": 371,
    "view_count": null
   },
   {
@@ -357,7 +347,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "バディエージェント",
-   "like_count": 376,
+   "like_count": 377,
    "view_count": null
   },
   {
@@ -369,7 +359,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "バディエージェント",
-   "like_count": 329,
+   "like_count": 330,
    "view_count": null
   }
  ],
@@ -381,7 +371,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "バディエージェント",
-   "like_count": 370,
+   "like_count": 371,
    "view_count": null
   },
   {
@@ -391,7 +381,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "バディエージェント",
-   "like_count": 376,
+   "like_count": 377,
    "view_count": null
   },
   {
@@ -401,7 +391,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "バディエージェント",
-   "like_count": 329,
+   "like_count": 330,
    "view_count": null
   }
  ],
@@ -546,7 +536,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-08"
+    "to": "2026-11-09"
    },
    "streams_analyzed": 7,
    "streams_missed": 0,

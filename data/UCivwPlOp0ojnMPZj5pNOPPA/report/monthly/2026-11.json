@@ -2,67 +2,68 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-08"
+  "to": "2026-11-09"
  },
- "streams_analyzed": 7,
+ "streams_analyzed": 10,
  "streams_missed": 1,
- "unique_chatters": 513,
- "members_confirmed": 201,
+ "unique_chatters": 724,
+ "members_confirmed": 272,
  "member_classes": {
-  "unknown": 192,
-  "known": 9
+  "unknown": 240,
+  "known": 12,
+  "gift": 20
  },
- "long_term_members": 154,
+ "long_term_members": 192,
  "badges": [
   {
    "months": 0,
-   "members": 7
+   "members": 28
   },
   {
    "months": 1,
-   "members": 6
+   "members": 7
   },
   {
    "months": 2,
-   "members": 11
+   "members": 15
   },
   {
    "months": 6,
-   "members": 23
+   "members": 30
   },
   {
    "months": 12,
-   "members": 40
+   "members": 52
   },
   {
    "months": 24,
-   "members": 31
+   "members": 38
   },
   {
    "months": 36,
-   "members": 83
+   "members": 102
   }
  ],
  "events": {
-  "new_members": 3,
-  "rejoins": 0,
+  "new_members": 4,
+  "rejoins": 1,
   "milestones": 0,
-  "gifted_total": 0
+  "gifted_total": 20
  },
  "tiers": [
   {
    "tier": "SOPHIAGENT",
    "price": 490,
-   "confirmed_members": 9,
-   "estimated_members": 201.0
+   "confirmed_members": 12,
+   "estimated_members": 252.0
   }
  ],
  "revenue": {
-  "monthly_low": 62675,
-  "monthly_est": 62675,
-  "gift_once": 0
+  "monthly_low": 78578,
+  "monthly_est": 78578,
+  "gift_once": 6236
  },
- "avg_member_chatters": 87,
+ "avg_member_chatters": 99.7,
  "partial": true,
  "finalized": false
 }

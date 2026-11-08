@@ -2,33 +2,33 @@
  "channel": "山田龍一郎 / Yamada Ryuichiro【にじさんじ】",
  "channel_id": "UCzHiiP2r1zyTr8A1-6HtQtw",
  "handle": "@YamadaRyuichiro",
- "subscribers": 175000,
- "fetched_at": "2026-11-08 10:28",
- "generated_at": "2026-11-08 10:28",
+ "subscribers": 176000,
+ "fetched_at": "2026-11-09 05:44",
+ "generated_at": "2026-11-09 05:45",
  "period": {
-  "from": "2026-10-09 10:28",
-  "to": "2026-11-08 10:28",
+  "from": "2026-10-10 05:44",
+  "to": "2026-11-09 05:44",
   "days": 30
  },
  "streams_analyzed": 36,
- "streams_missed": 2,
- "unique_chatters": 4027,
- "members_confirmed": 1482,
+ "streams_missed": 1,
+ "unique_chatters": 4046,
+ "members_confirmed": 1481,
  "member_classes": {
-  "unknown": 790,
-  "known": 527,
+  "unknown": 791,
+  "known": 525,
   "gift": 165
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 596
+   "members": 586
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 886
+   "members": 895
   }
  ],
  "events": {
@@ -45,21 +45,21 @@
    "tier": "山田のメンバー",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 527,
+   "confirmed_members": 525,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 790.0,
-   "estimated_members": 1317.0,
-   "monthly_net_confirmed": 164328,
-   "monthly_net_estimated": 410665
+   "allocated_unknown": 791.0,
+   "estimated_members": 1316.0,
+   "monthly_net_confirmed": 163705,
+   "monthly_net_estimated": 410353
   }
  ],
  "revenue": {
-  "monthly_low": 410665,
-  "monthly_est": 410665,
+  "monthly_low": 410353,
+  "monthly_est": 410353,
   "gift_once": 51762,
-  "total_low": 462426,
-  "total_est": 462426,
-  "paying_members": 1317,
+  "total_low": 462115,
+  "total_est": 462115,
+  "paying_members": 1316,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -68,16 +68,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "Psa2kFOSRmk",
-   "start": "2026-10-09 18:00",
-   "title": "【タンポポは耐える】音楽が良ければね、なんでも耐えられるんですよ。【にじさんじ / 山田龍一郎】",
-   "kind": "配信",
-   "chatters": 466,
-   "member_chatters": 332,
-   "new_members": 2,
-   "gifted_total": 0
-  },
   {
    "video_id": "XYeeVRPRuFA",
    "start": "2026-10-10 14:00",
@@ -427,21 +417,19 @@
    "member_chatters": 478,
    "new_members": 3,
    "gifted_total": 10
+  },
+  {
+   "video_id": "2FCeboip3Dc",
+   "start": "2026-11-08 15:06",
+   "title": "【スプラトゥーン３】#にじイカ祭り2026 本番 ただイカ、楽しむぞ。【にじさんじ / 山田龍一郎】",
+   "kind": "配信",
+   "chatters": 634,
+   "member_chatters": 421,
+   "new_members": 2,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
-  {
-   "video_id": "ty3DZao8KTY",
-   "start": "2026-10-09 19:44",
-   "title": "【メン限】これが音大生の「ガチ」カズー練習だ【にじさんじ / 山田龍一郎】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "山田のメンバー",
-   "like_count": 356,
-   "view_count": null
-  },
   {
    "video_id": "j8i2fMYcx1I",
    "start": "2026-10-17 18:22",
@@ -456,16 +444,6 @@
   }
  ],
  "members_only_content": [
-  {
-   "video_id": "ty3DZao8KTY",
-   "start": "2026-10-09 19:44",
-   "title": "【メン限】これが音大生の「ガチ」カズー練習だ【にじさんじ / 山田龍一郎】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "山田のメンバー",
-   "like_count": 356,
-   "view_count": null
-  },
   {
    "video_id": "j8i2fMYcx1I",
    "start": "2026-10-17 18:22",
@@ -578,30 +556,30 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-08"
+    "to": "2026-11-09"
    },
-   "streams_analyzed": 12,
+   "streams_analyzed": 13,
    "streams_missed": 0,
-   "unique_chatters": 1624,
-   "members_confirmed": 833,
+   "unique_chatters": 1714,
+   "members_confirmed": 854,
    "member_classes": {
-    "known": 323,
-    "unknown": 493,
+    "known": 334,
+    "unknown": 503,
     "gift": 17
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 122
+     "members": 124
     },
     {
      "months": 1,
-     "members": 711
+     "members": 730
     }
    ],
    "events": {
-    "new_members": 28,
+    "new_members": 30,
     "rejoins": 0,
     "milestones": 0,
     "gifted_total": 17
@@ -610,16 +588,16 @@
     {
      "tier": "山田のメンバー",
      "price": 490,
-     "confirmed_members": 323,
-     "estimated_members": 816.0
+     "confirmed_members": 334,
+     "estimated_members": 837.0
     }
    ],
    "revenue": {
-    "monthly_low": 254444,
-    "monthly_est": 254444,
+    "monthly_low": 260992,
+    "monthly_est": 260992,
     "gift_once": 5301
    },
-   "avg_member_chatters": 287.9,
+   "avg_member_chatters": 298.2,
    "partial": true,
    "finalized": false
   }

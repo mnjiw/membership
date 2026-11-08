@@ -2,21 +2,22 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-08"
+  "to": "2026-11-09"
  },
- "streams_analyzed": 8,
+ "streams_analyzed": 9,
  "streams_missed": 0,
- "unique_chatters": 446,
- "members_confirmed": 108,
+ "unique_chatters": 560,
+ "members_confirmed": 126,
  "member_classes": {
   "known": 15,
-  "unknown": 93
+  "unknown": 101,
+  "gift": 10
  },
- "long_term_members": 86,
+ "long_term_members": 95,
  "badges": [
   {
    "months": 0,
-   "members": 4
+   "members": 13
   },
   {
    "months": 1,
@@ -32,7 +33,7 @@
   },
   {
    "months": 12,
-   "members": 13
+   "members": 15
   },
   {
    "months": 24,
@@ -40,7 +41,7 @@
   },
   {
    "months": 36,
-   "members": 8
+   "members": 10
   },
   {
    "months": 48,
@@ -48,25 +49,25 @@
   },
   {
    "months": 60,
-   "members": 14
+   "members": 17
   },
   {
    "months": 72,
-   "members": 29
+   "members": 31
   }
  ],
  "events": {
   "new_members": 3,
   "rejoins": 1,
   "milestones": 1,
-  "gifted_total": 0
+  "gifted_total": 10
  },
  "tiers": [
   {
    "tier": "帝華学生",
    "price": 490,
    "confirmed_members": 13,
-   "estimated_members": 93.6
+   "estimated_members": 100.5
   },
   {
    "tier": "なんか真ん中らへんのメンバーでこれはガム代になる",
@@ -78,15 +79,15 @@
    "tier": "鰻コース　鰻食べるだけ",
    "price": 5600,
    "confirmed_members": 2,
-   "estimated_members": 14.4
+   "estimated_members": 15.5
   }
  ],
  "revenue": {
-  "monthly_low": 40180,
-  "monthly_est": 80503,
-  "gift_once": 0
+  "monthly_low": 42675,
+  "monthly_est": 86466,
+  "gift_once": 3118
  },
- "avg_member_chatters": 53,
+ "avg_member_chatters": 57,
  "partial": true,
  "finalized": false
 }

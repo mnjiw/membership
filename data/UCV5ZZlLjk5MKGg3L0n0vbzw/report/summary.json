@@ -3,26 +3,27 @@
  "channel_id": "UCV5ZZlLjk5MKGg3L0n0vbzw",
  "handle": "@TakamiyaRion",
  "subscribers": 560000,
- "fetched_at": "2026-11-08 10:25",
- "generated_at": "2026-11-08 10:25",
+ "fetched_at": "2026-11-09 05:20",
+ "generated_at": "2026-11-09 05:20",
  "period": {
-  "from": "2026-10-09 10:25",
-  "to": "2026-11-08 10:25",
+  "from": "2026-10-10 05:20",
+  "to": "2026-11-09 05:20",
   "days": 30
  },
  "streams_analyzed": 38,
  "streams_missed": 0,
- "unique_chatters": 2836,
- "members_confirmed": 229,
+ "unique_chatters": 2809,
+ "members_confirmed": 239,
  "member_classes": {
   "unknown": 197,
-  "known": 32
+  "known": 32,
+  "gift": 10
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 23
+   "members": 31
   },
   {
    "months": 1,
@@ -42,12 +43,12 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 29
+   "members": 31
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 30
+   "members": 29
   },
   {
    "months": 36,
@@ -62,7 +63,7 @@
   {
    "months": 60,
    "label": "5年",
-   "members": 27
+   "members": 28
   },
   {
    "months": 72,
@@ -72,11 +73,11 @@
  ],
  "events": {
   "new_members": 10,
-  "rejoins": 7,
+  "rejoins": 5,
   "milestones": 5,
-  "gift_purchases": 0,
-  "gifted_total": 0,
-  "gift_redemptions": 0
+  "gift_purchases": 1,
+  "gifted_total": 10,
+  "gift_redemptions": 10
  },
  "tiers_configured": true,
  "tiers": [
@@ -117,9 +118,9 @@
  "revenue": {
   "monthly_low": 78355,
   "monthly_est": 121136,
-  "gift_once": 0,
-  "total_low": 78355,
-  "total_est": 121136,
+  "gift_once": 3118,
+  "total_low": 81474,
+  "total_est": 124254,
   "paying_members": 229,
   "single_tier": false,
   "tax_rate": 0.1,
@@ -129,16 +130,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "VKvdc2_YSJ8",
-   "start": "2026-10-09 23:02",
-   "title": "【DARK SOULS III】死んだら即終了～35デス目～ #たかみや即終了ダクソ3【にじさんじ/鷹宮リオン】",
-   "kind": "配信",
-   "chatters": 514,
-   "member_chatters": 77,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "u2nsomPq9-c",
    "start": "2026-10-10 06:23",
@@ -508,6 +499,16 @@
    "member_chatters": 64,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "05cBMiKdedE",
+   "start": "2026-11-08 12:54",
+   "title": "【 #にじイカ祭り2026 】スプラ大会！決勝リーグ！【にじさんじ/鷹宮リオン オリバーエヴァンス 春崎エアル ぷりんららもーど】",
+   "kind": "配信",
+   "chatters": 266,
+   "member_chatters": 89,
+   "new_members": 0,
+   "gifted_total": 10
   }
  ],
  "missed_streams": [],
@@ -705,21 +706,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-08"
+    "to": "2026-11-09"
    },
-   "streams_analyzed": 8,
+   "streams_analyzed": 9,
    "streams_missed": 0,
-   "unique_chatters": 446,
-   "members_confirmed": 108,
+   "unique_chatters": 560,
+   "members_confirmed": 126,
    "member_classes": {
     "known": 15,
-    "unknown": 93
+    "unknown": 101,
+    "gift": 10
    },
-   "long_term_members": 86,
+   "long_term_members": 95,
    "badges": [
     {
      "months": 0,
-     "members": 4
+     "members": 13
     },
     {
      "months": 1,
@@ -735,7 +737,7 @@
     },
     {
      "months": 12,
-     "members": 13
+     "members": 15
     },
     {
      "months": 24,
@@ -743,7 +745,7 @@
     },
     {
      "months": 36,
-     "members": 8
+     "members": 10
     },
     {
      "months": 48,
@@ -751,25 +753,25 @@
     },
     {
      "months": 60,
-     "members": 14
+     "members": 17
     },
     {
      "months": 72,
-     "members": 29
+     "members": 31
     }
    ],
    "events": {
     "new_members": 3,
     "rejoins": 1,
     "milestones": 1,
-    "gifted_total": 0
+    "gifted_total": 10
    },
    "tiers": [
     {
      "tier": "帝華学生",
      "price": 490,
      "confirmed_members": 13,
-     "estimated_members": 93.6
+     "estimated_members": 100.5
     },
     {
      "tier": "なんか真ん中らへんのメンバーでこれはガム代になる",
@@ -781,15 +783,15 @@
      "tier": "鰻コース　鰻食べるだけ",
      "price": 5600,
      "confirmed_members": 2,
-     "estimated_members": 14.4
+     "estimated_members": 15.5
     }
    ],
    "revenue": {
-    "monthly_low": 40180,
-    "monthly_est": 80503,
-    "gift_once": 0
+    "monthly_low": 42675,
+    "monthly_est": 86466,
+    "gift_once": 3118
    },
-   "avg_member_chatters": 53,
+   "avg_member_chatters": 57,
    "partial": true,
    "finalized": false
   }
