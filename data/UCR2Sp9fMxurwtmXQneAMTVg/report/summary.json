@@ -3,21 +3,21 @@
  "channel_id": "UCR2Sp9fMxurwtmXQneAMTVg",
  "handle": "@magomo_magomori",
  "subscribers": 13700,
- "fetched_at": "2026-11-08 10:34",
- "generated_at": "2026-11-08 10:34",
+ "fetched_at": "2026-11-09 06:51",
+ "generated_at": "2026-11-09 06:51",
  "period": {
-  "from": "2026-10-09 10:34",
-  "to": "2026-11-08 10:34",
+  "from": "2026-10-10 06:51",
+  "to": "2026-11-09 06:51",
   "days": 30
  },
- "streams_analyzed": 29,
+ "streams_analyzed": 28,
  "streams_missed": 11,
- "unique_chatters": 1044,
+ "unique_chatters": 1038,
  "members_confirmed": 300,
  "member_classes": {
-  "unknown": 106,
+  "unknown": 107,
   "known": 27,
-  "gift": 167
+  "gift": 166
  },
  "badges": [
   {
@@ -48,11 +48,11 @@
  ],
  "events": {
   "new_members": 13,
-  "rejoins": 4,
+  "rejoins": 3,
   "milestones": 2,
-  "gift_purchases": 28,
-  "gifted_total": 172,
-  "gift_redemptions": 167
+  "gift_purchases": 26,
+  "gifted_total": 170,
+  "gift_redemptions": 166
  },
  "tiers_configured": true,
  "tiers": [
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 27,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 106.0,
-   "estimated_members": 133.0,
+   "allocated_unknown": 107.0,
+   "estimated_members": 134.0,
    "monthly_net_confirmed": 8419,
-   "monthly_net_estimated": 41472
+   "monthly_net_estimated": 41784
   }
  ],
  "revenue": {
-  "monthly_low": 41472,
-  "monthly_est": 41472,
-  "gift_once": 53633,
-  "total_low": 95105,
-  "total_est": 95105,
-  "paying_members": 133,
+  "monthly_low": 41784,
+  "monthly_est": 41784,
+  "gift_once": 53009,
+  "total_low": 94793,
+  "total_est": 94793,
+  "paying_members": 134,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "1kGtzhue5dU",
-   "start": "2026-10-09 19:58",
-   "title": "【全国一般人常識力テスト】常識？もちろん持ち合わせてるよ！【すぺしゃりて/孫守まごも】",
-   "kind": "配信",
-   "chatters": 84,
-   "member_chatters": 40,
-   "new_members": 0,
-   "gifted_total": 2
-  },
   {
    "video_id": "M7vRECmmxbs",
    "start": "2026-10-10 20:07",
@@ -492,7 +482,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 24,
+   "like_count": 25,
    "view_count": null
   },
   {
@@ -504,7 +494,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 43,
+   "like_count": 52,
    "view_count": null
   }
  ],
@@ -606,7 +596,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 24,
+   "like_count": 25,
    "view_count": null
   },
   {
@@ -616,7 +606,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 43,
+   "like_count": 52,
    "view_count": null
   }
  ],
@@ -734,7 +724,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-08"
+    "to": "2026-11-09"
    },
    "streams_analyzed": 7,
    "streams_missed": 3,

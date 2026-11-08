@@ -3,19 +3,19 @@
  "channel_id": "UCZYyhgoV314CM14zBD6vd4A",
  "handle": "@tenkaitsukasa",
  "subscribers": 366000,
- "fetched_at": "2026-11-08 10:36",
- "generated_at": "2026-11-08 10:36",
+ "fetched_at": "2026-11-09 06:56",
+ "generated_at": "2026-11-09 06:57",
  "period": {
-  "from": "2026-10-09 10:36",
-  "to": "2026-11-08 10:36",
+  "from": "2026-10-10 06:56",
+  "to": "2026-11-09 06:56",
   "days": 30
  },
- "streams_analyzed": 19,
- "streams_missed": 2,
- "unique_chatters": 2232,
- "members_confirmed": 151,
+ "streams_analyzed": 20,
+ "streams_missed": 1,
+ "unique_chatters": 2314,
+ "members_confirmed": 159,
  "member_classes": {
-  "unknown": 151
+  "unknown": 159
  },
  "badges": [
   {
@@ -31,7 +31,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 8
+   "members": 9
   },
   {
    "months": 12,
@@ -41,7 +41,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 116
+   "members": 123
   }
  ],
  "events": {
@@ -60,19 +60,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 0,
    "share_of_confirmed_pct": "",
-   "allocated_unknown": 151.0,
-   "estimated_members": 151.0,
+   "allocated_unknown": 159.0,
+   "estimated_members": 159.0,
    "monthly_net_confirmed": 0,
-   "monthly_net_estimated": 47085
+   "monthly_net_estimated": 49579
   }
  ],
  "revenue": {
-  "monthly_low": 47085,
-  "monthly_est": 47085,
+  "monthly_low": 49579,
+  "monthly_est": 49579,
   "gift_once": 0,
-  "total_low": 47085,
-  "total_est": 47085,
-  "paying_members": 151,
+  "total_low": 49579,
+  "total_est": 49579,
+  "paying_members": 159,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -270,21 +270,19 @@
    "member_chatters": 81,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "SUSWrRvA4lA",
+   "start": "2026-11-08 20:02",
+   "title": "[Tenkai Tsukasa Sandlot Baseball Owner Project] Former Pros and High School Ballplayers Showed Up...",
+   "kind": "プレミア",
+   "chatters": 229,
+   "member_chatters": 59,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
-  {
-   "video_id": "rDw6kj-8d90",
-   "start": "2026-11-05 00:00",
-   "title": "[Clip/Dragon Quest V] Tenkai Tsukasa proves why the board game was removed [VTuber]",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 424,
-   "view_count": 33812
-  },
   {
    "video_id": "aEgdSrGxsv8",
    "start": "2026-11-07 00:00",
@@ -294,8 +292,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 263,
-   "view_count": 14801
+   "like_count": 284,
+   "view_count": 16674
   }
  ],
  "members_only_content": [],
@@ -421,16 +419,16 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-08"
+    "to": "2026-11-09"
    },
-   "streams_analyzed": 6,
-   "streams_missed": 2,
-   "unique_chatters": 1369,
-   "members_confirmed": 117,
+   "streams_analyzed": 7,
+   "streams_missed": 1,
+   "unique_chatters": 1482,
+   "members_confirmed": 134,
    "member_classes": {
-    "unknown": 117
+    "unknown": 134
    },
-   "long_term_members": 98,
+   "long_term_members": 114,
    "badges": [
     {
      "months": 0,
@@ -442,15 +440,15 @@
     },
     {
      "months": 6,
-     "members": 8
-    },
-    {
-     "months": 12,
      "members": 9
     },
     {
+     "months": 12,
+     "members": 11
+    },
+    {
      "months": 24,
-     "members": 89
+     "members": 103
     }
    ],
    "events": {
@@ -464,15 +462,15 @@
      "tier": "メンバーシップ",
      "price": 490,
      "confirmed_members": 0,
-     "estimated_members": 117.0
+     "estimated_members": 134.0
     }
    ],
    "revenue": {
-    "monthly_low": 36483,
-    "monthly_est": 36483,
+    "monthly_low": 41784,
+    "monthly_est": 41784,
     "gift_once": 0
    },
-   "avg_member_chatters": 48.8,
+   "avg_member_chatters": 50.3,
    "partial": true,
    "finalized": false
   }

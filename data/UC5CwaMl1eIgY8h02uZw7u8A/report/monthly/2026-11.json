@@ -2,51 +2,52 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-08"
+  "to": "2026-11-09"
  },
- "streams_analyzed": 1,
+ "streams_analyzed": 2,
  "streams_missed": 0,
- "unique_chatters": 371,
- "members_confirmed": 231,
+ "unique_chatters": 3601,
+ "members_confirmed": 1929,
  "member_classes": {
-  "unknown": 228,
-  "known": 3
+  "unknown": 1881,
+  "known": 42,
+  "gift": 6
  },
- "long_term_members": 194,
+ "long_term_members": 1578,
  "badges": [
   {
    "months": 0,
-   "members": 3
+   "members": 54
   },
   {
    "months": 1,
-   "members": 1
+   "members": 21
   },
   {
    "months": 2,
-   "members": 9
+   "members": 77
   },
   {
    "months": 6,
-   "members": 24
+   "members": 199
   },
   {
    "months": 12,
-   "members": 194
+   "members": 1578
   }
  ],
  "events": {
-  "new_members": 0,
-  "rejoins": 0,
+  "new_members": 10,
+  "rejoins": 7,
   "milestones": 0,
-  "gifted_total": 0
+  "gifted_total": 16
  },
  "tiers": [
   {
    "tier": "コールをする！Lv1",
    "price": 390,
-   "confirmed_members": 3,
-   "estimated_members": 231.0
+   "confirmed_members": 40,
+   "estimated_members": 1831.4
   },
   {
    "tier": "サイリウムをふる！Lv2",
@@ -57,16 +58,16 @@
   {
    "tier": "フラスタをおくる！Lv3",
    "price": 3490,
-   "confirmed_members": 0,
-   "estimated_members": 0.0
+   "confirmed_members": 2,
+   "estimated_members": 91.6
   }
  ],
  "revenue": {
-  "monthly_low": 57330,
-  "monthly_est": 57330,
-  "gift_once": 0
+  "monthly_low": 481199,
+  "monthly_est": 657899,
+  "gift_once": 3971
  },
- "avg_member_chatters": 231,
+ "avg_member_chatters": 1026.5,
  "partial": true,
  "finalized": false
 }

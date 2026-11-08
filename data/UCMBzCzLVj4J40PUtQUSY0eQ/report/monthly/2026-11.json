@@ -2,51 +2,56 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-08"
+  "to": "2026-11-09"
  },
- "streams_analyzed": 4,
+ "streams_analyzed": 5,
  "streams_missed": 0,
- "unique_chatters": 1404,
- "members_confirmed": 407,
+ "unique_chatters": 1781,
+ "members_confirmed": 480,
  "member_classes": {
-  "unknown": 304,
-  "known": 103
+  "unknown": 338,
+  "known": 122,
+  "gift": 20
  },
  "long_term_members": 0,
  "badges": [
   {
    "months": 0,
-   "members": 14
+   "members": 41
   },
   {
    "months": 1,
-   "members": 12
+   "members": 13
   },
   {
    "months": 2,
-   "members": 381
+   "members": 251
+  },
+  {
+   "months": 6,
+   "members": 175
   }
  ],
  "events": {
-  "new_members": 1,
+  "new_members": 3,
   "rejoins": 0,
-  "milestones": 7,
-  "gifted_total": 0
+  "milestones": 33,
+  "gifted_total": 20
  },
  "tiers": [
   {
    "tier": "稚魚の水槽",
    "price": 490,
-   "confirmed_members": 103,
-   "estimated_members": 407.0
+   "confirmed_members": 122,
+   "estimated_members": 460.0
   }
  ],
  "revenue": {
-  "monthly_low": 126910,
-  "monthly_est": 126910,
-  "gift_once": 0
+  "monthly_low": 143436,
+  "monthly_est": 143436,
+  "gift_once": 6236
  },
- "avg_member_chatters": 206.2,
+ "avg_member_chatters": 219.6,
  "partial": true,
  "finalized": false
 }

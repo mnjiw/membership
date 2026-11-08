@@ -3,27 +3,27 @@
  "channel_id": "UCPqswBEjZm3FdvOzPyDw9wg",
  "handle": "@AnonRemu",
  "subscribers": 47100,
- "fetched_at": "2026-11-08 10:36",
- "generated_at": "2026-11-08 10:36",
+ "fetched_at": "2026-11-09 06:54",
+ "generated_at": "2026-11-09 06:55",
  "period": {
-  "from": "2026-10-09 10:36",
-  "to": "2026-11-08 10:36",
+  "from": "2026-10-10 06:54",
+  "to": "2026-11-09 06:54",
   "days": 30
  },
- "streams_analyzed": 11,
+ "streams_analyzed": 12,
  "streams_missed": 1,
- "unique_chatters": 789,
- "members_confirmed": 283,
+ "unique_chatters": 814,
+ "members_confirmed": 288,
  "member_classes": {
   "unknown": 148,
   "known": 6,
-  "gift": 129
+  "gift": 134
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 68
+   "members": 72
   },
   {
    "months": 1,
@@ -38,7 +38,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 34
+   "members": 35
   },
   {
    "months": 12,
@@ -50,9 +50,9 @@
   "new_members": 0,
   "rejoins": 2,
   "milestones": 0,
-  "gift_purchases": 18,
-  "gifted_total": 131,
-  "gift_redemptions": 129
+  "gift_purchases": 19,
+  "gifted_total": 136,
+  "gift_redemptions": 134
  },
  "tiers_configured": true,
  "tiers": [
@@ -104,9 +104,9 @@
  "revenue": {
   "monthly_low": 48020,
   "monthly_est": 48020,
-  "gift_once": 40848,
-  "total_low": 88868,
-  "total_est": 88868,
+  "gift_once": 42407,
+  "total_low": 90427,
+  "total_est": 90427,
   "paying_members": 154,
   "single_tier": false,
   "tax_rate": 0.1,
@@ -225,6 +225,16 @@
    "member_chatters": 72,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "XcW3I6nFTXU",
+   "start": "2026-11-08 14:00",
+   "title": "『 サンリオ パーティランド 』 とってもたのしみ～ .ᐟ.ᐟ 『綺音れむ / Varium』",
+   "kind": "配信",
+   "chatters": 177,
+   "member_chatters": 96,
+   "new_members": 0,
+   "gifted_total": 5
   }
  ],
  "missed_streams": [
@@ -378,51 +388,52 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-08"
+    "to": "2026-11-09"
    },
-   "streams_analyzed": 2,
+   "streams_analyzed": 3,
    "streams_missed": 0,
-   "unique_chatters": 210,
-   "members_confirmed": 101,
+   "unique_chatters": 290,
+   "members_confirmed": 134,
    "member_classes": {
-    "unknown": 98,
-    "known": 3
+    "unknown": 125,
+    "known": 4,
+    "gift": 5
    },
-   "long_term_members": 62,
+   "long_term_members": 75,
    "badges": [
     {
      "months": 0,
-     "members": 3
+     "members": 9
     },
     {
      "months": 1,
-     "members": 4
+     "members": 8
     },
     {
      "months": 2,
-     "members": 16
+     "members": 22
     },
     {
      "months": 6,
-     "members": 16
+     "members": 20
     },
     {
      "months": 12,
-     "members": 62
+     "members": 75
     }
    ],
    "events": {
     "new_members": 0,
     "rejoins": 0,
     "milestones": 0,
-    "gifted_total": 0
+    "gifted_total": 5
    },
    "tiers": [
     {
      "tier": "だんしゃく",
      "price": 490,
-     "confirmed_members": 3,
-     "estimated_members": 101.0
+     "confirmed_members": 4,
+     "estimated_members": 129.0
     },
     {
      "tier": "ししゃく",
@@ -444,11 +455,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 31494,
-    "monthly_est": 31494,
-    "gift_once": 0
+    "monthly_low": 40225,
+    "monthly_est": 40225,
+    "gift_once": 1559
    },
-   "avg_member_chatters": 73,
+   "avg_member_chatters": 80.7,
    "partial": true,
    "finalized": false
   }

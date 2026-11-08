@@ -3,27 +3,27 @@
  "channel_id": "UC5KnT0tNsYVVh44lQj-S1JQ",
  "handle": "@chitamu_omo",
  "subscribers": 15800,
- "fetched_at": "2026-11-08 10:33",
- "generated_at": "2026-11-08 10:34",
+ "fetched_at": "2026-11-09 06:50",
+ "generated_at": "2026-11-09 06:50",
  "period": {
-  "from": "2026-10-09 10:33",
-  "to": "2026-11-08 10:33",
+  "from": "2026-10-10 06:50",
+  "to": "2026-11-09 06:50",
   "days": 30
  },
  "streams_analyzed": 16,
  "streams_missed": 2,
- "unique_chatters": 616,
- "members_confirmed": 142,
+ "unique_chatters": 622,
+ "members_confirmed": 139,
  "member_classes": {
-  "unknown": 100,
-  "known": 16,
+  "known": 15,
+  "unknown": 98,
   "gift": 26
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 20
+   "members": 18
   },
   {
    "months": 1,
@@ -38,7 +38,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 28
+   "members": 27
   },
   {
    "months": 12,
@@ -60,21 +60,21 @@
    "tier": "おも軍団アジト",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 16,
+   "confirmed_members": 15,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 100.0,
-   "estimated_members": 116.0,
-   "monthly_net_confirmed": 4989,
-   "monthly_net_estimated": 36171
+   "allocated_unknown": 98.0,
+   "estimated_members": 113.0,
+   "monthly_net_confirmed": 4677,
+   "monthly_net_estimated": 35235
   }
  ],
  "revenue": {
-  "monthly_low": 36171,
-  "monthly_est": 36171,
+  "monthly_low": 35235,
+  "monthly_est": 35235,
   "gift_once": 8419,
-  "total_low": 44590,
-  "total_est": 44590,
-  "paying_members": 116,
+  "total_low": 43655,
+  "total_est": 43655,
+  "paying_members": 113,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "-OK3sBIZG-w",
-   "start": "2026-10-09 20:02",
-   "title": "【 Don't Drop The Cake 】絶対にケーキを落とすな！！さもなくば＿＿死！？【すぺしゃりて / 王猛ちたむ】",
-   "kind": "配信",
-   "chatters": 87,
-   "member_chatters": 46,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "KKZ29wHwKPA",
    "start": "2026-10-15 20:02",
@@ -240,6 +230,16 @@
    "kind": "配信",
    "chatters": 74,
    "member_chatters": 37,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "Ke-X5ITFi3M",
+   "start": "2026-11-08 20:04",
+   "title": "【 初代FC / 魔界村  】完全なる鬼畜ゲー！？最終ステージムズすぎるぞ・・・・・【すぺしゃりて / 王猛ちたむ】",
+   "kind": "配信",
+   "chatters": 122,
+   "member_chatters": 49,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -410,37 +410,37 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-08"
+    "to": "2026-11-09"
    },
-   "streams_analyzed": 4,
+   "streams_analyzed": 5,
    "streams_missed": 0,
-   "unique_chatters": 196,
-   "members_confirmed": 61,
+   "unique_chatters": 249,
+   "members_confirmed": 73,
    "member_classes": {
-    "unknown": 48,
+    "unknown": 60,
     "known": 13
    },
-   "long_term_members": 29,
+   "long_term_members": 31,
    "badges": [
     {
      "months": 0,
-     "members": 1
+     "members": 3
     },
     {
      "months": 1,
-     "members": 4
+     "members": 6
     },
     {
      "months": 2,
-     "members": 12
-    },
-    {
-     "months": 6,
      "members": 15
     },
     {
+     "months": 6,
+     "members": 18
+    },
+    {
      "months": 12,
-     "members": 29
+     "members": 31
     }
    ],
    "events": {
@@ -454,15 +454,15 @@
      "tier": "おも軍団アジト",
      "price": 490,
      "confirmed_members": 13,
-     "estimated_members": 61.0
+     "estimated_members": 73.0
     }
    ],
    "revenue": {
-    "monthly_low": 19021,
-    "monthly_est": 19021,
+    "monthly_low": 22763,
+    "monthly_est": 22763,
     "gift_once": 0
    },
-   "avg_member_chatters": 37.5,
+   "avg_member_chatters": 39.8,
    "partial": true,
    "finalized": false
   }

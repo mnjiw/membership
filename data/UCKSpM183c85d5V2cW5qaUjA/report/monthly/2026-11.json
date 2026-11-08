@@ -2,64 +2,64 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-08"
+  "to": "2026-11-09"
  },
- "streams_analyzed": 1,
+ "streams_analyzed": 2,
  "streams_missed": 1,
- "unique_chatters": 205,
- "members_confirmed": 118,
+ "unique_chatters": 440,
+ "members_confirmed": 208,
  "member_classes": {
-  "known": 47,
-  "unknown": 46,
-  "gift": 25
+  "known": 55,
+  "unknown": 78,
+  "gift": 75
  },
- "long_term_members": 74,
+ "long_term_members": 105,
  "badges": [
   {
    "months": 0,
-   "members": 29
+   "members": 78
   },
   {
    "months": 1,
-   "members": 2
+   "members": 7
   },
   {
    "months": 2,
-   "members": 5
-  },
-  {
-   "months": 6,
    "members": 8
   },
   {
+   "months": 6,
+   "members": 10
+  },
+  {
    "months": 12,
-   "members": 26
+   "members": 41
   },
   {
    "months": 24,
-   "members": 48
+   "members": 64
   }
  ],
  "events": {
-  "new_members": 4,
+  "new_members": 6,
   "rejoins": 1,
-  "milestones": 25,
-  "gifted_total": 25
+  "milestones": 30,
+  "gifted_total": 75
  },
  "tiers": [
   {
    "tier": "Kuremon",
    "price": 490,
-   "confirmed_members": 47,
-   "estimated_members": 93.0
+   "confirmed_members": 55,
+   "estimated_members": 133.0
   }
  ],
  "revenue": {
-  "monthly_low": 28999,
-  "monthly_est": 28999,
-  "gift_once": 7795
+  "monthly_low": 41472,
+  "monthly_est": 41472,
+  "gift_once": 23386
  },
- "avg_member_chatters": 118,
+ "avg_member_chatters": 138.5,
  "partial": true,
  "finalized": false
 }

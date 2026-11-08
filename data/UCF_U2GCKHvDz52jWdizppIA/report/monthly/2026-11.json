@@ -2,71 +2,72 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-08"
+  "to": "2026-11-09"
  },
- "streams_analyzed": 5,
+ "streams_analyzed": 6,
  "streams_missed": 0,
- "unique_chatters": 541,
- "members_confirmed": 240,
+ "unique_chatters": 1047,
+ "members_confirmed": 447,
  "member_classes": {
-  "unknown": 201,
-  "known": 39
+  "unknown": 352,
+  "known": 70,
+  "gift": 25
  },
- "long_term_members": 164,
+ "long_term_members": 285,
  "badges": [
   {
    "months": 0,
-   "members": 4
+   "members": 35
   },
   {
    "months": 1,
-   "members": 3
+   "members": 8
   },
   {
    "months": 2,
-   "members": 33
+   "members": 65
   },
   {
    "months": 6,
-   "members": 36
+   "members": 54
   },
   {
    "months": 12,
-   "members": 41
+   "members": 77
   },
   {
    "months": 24,
-   "members": 49
+   "members": 88
   },
   {
    "months": 36,
-   "members": 47
+   "members": 71
   },
   {
    "months": 48,
-   "members": 27
+   "members": 49
   }
  ],
  "events": {
-  "new_members": 3,
-  "rejoins": 2,
-  "milestones": 6,
-  "gifted_total": 0
+  "new_members": 9,
+  "rejoins": 7,
+  "milestones": 17,
+  "gifted_total": 25
  },
  "tiers": [
   {
    "tier": "空澄色 -ぽぐもん-",
    "price": 490,
-   "confirmed_members": 39,
-   "estimated_members": 240.0
+   "confirmed_members": 70,
+   "estimated_members": 422.0
   }
  ],
  "revenue": {
-  "monthly_low": 74836,
-  "monthly_est": 74836,
-  "gift_once": 0
+  "monthly_low": 131587,
+  "monthly_est": 131587,
+  "gift_once": 7795
  },
- "avg_member_chatters": 127.4,
+ "avg_member_chatters": 163.7,
  "partial": true,
  "finalized": false
 }

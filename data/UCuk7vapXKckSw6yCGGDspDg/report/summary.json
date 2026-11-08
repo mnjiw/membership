@@ -3,19 +3,19 @@
  "channel_id": "UCuk7vapXKckSw6yCGGDspDg",
  "handle": "@Hizuki_Yui_",
  "subscribers": 411000,
- "fetched_at": "2026-11-08 10:35",
- "generated_at": "2026-11-08 10:35",
+ "fetched_at": "2026-11-09 06:52",
+ "generated_at": "2026-11-09 06:52",
  "period": {
-  "from": "2026-10-09 10:35",
-  "to": "2026-11-08 10:35",
+  "from": "2026-10-10 06:52",
+  "to": "2026-11-09 06:52",
   "days": 30
  },
- "streams_analyzed": 35,
+ "streams_analyzed": 36,
  "streams_missed": 0,
- "unique_chatters": 4054,
- "members_confirmed": 804,
+ "unique_chatters": 4119,
+ "members_confirmed": 811,
  "member_classes": {
-  "unknown": 716,
+  "unknown": 723,
   "gift": 88
  },
  "badges": [
@@ -32,7 +32,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 91
+   "members": 93
   },
   {
    "months": 6,
@@ -42,12 +42,12 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 85
+   "members": 87
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 94
+   "members": 96
   },
   {
    "months": 36,
@@ -57,13 +57,13 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 184
+   "members": 185
   }
  ],
  "events": {
   "new_members": 27,
-  "rejoins": 12,
-  "milestones": 64,
+  "rejoins": 15,
+  "milestones": 65,
   "gift_purchases": 16,
   "gifted_total": 88,
   "gift_redemptions": 88
@@ -76,19 +76,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 0,
    "share_of_confirmed_pct": "",
-   "allocated_unknown": 716.0,
-   "estimated_members": 716.0,
+   "allocated_unknown": 723.0,
+   "estimated_members": 723.0,
    "monthly_net_confirmed": 0,
-   "monthly_net_estimated": 223262
+   "monthly_net_estimated": 225445
   }
  ],
  "revenue": {
-  "monthly_low": 223262,
-  "monthly_est": 223262,
+  "monthly_low": 225445,
+  "monthly_est": 225445,
   "gift_once": 27440,
-  "total_low": 250702,
-  "total_est": 250702,
-  "paying_members": 716,
+  "total_low": 252885,
+  "total_est": 252885,
+  "paying_members": 723,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -446,6 +446,16 @@
    "member_chatters": 99,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "YoSOR6uCSZA",
+   "start": "2026-11-08 06:30",
+   "title": "【VALORANT】寝起きふにゃふにゃゔぁろ【緋月ゆい/ネオポルテ】",
+   "kind": "配信",
+   "chatters": 300,
+   "member_chatters": 112,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -590,20 +600,20 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-08"
+    "to": "2026-11-09"
    },
-   "streams_analyzed": 6,
+   "streams_analyzed": 7,
    "streams_missed": 0,
-   "unique_chatters": 999,
-   "members_confirmed": 277,
+   "unique_chatters": 1123,
+   "members_confirmed": 299,
    "member_classes": {
-    "unknown": 277
+    "unknown": 299
    },
-   "long_term_members": 181,
+   "long_term_members": 196,
    "badges": [
     {
      "months": 0,
-     "members": 18
+     "members": 19
     },
     {
      "months": 1,
@@ -611,33 +621,33 @@
     },
     {
      "months": 2,
-     "members": 36
-    },
-    {
-     "months": 6,
-     "members": 32
-    },
-    {
-     "months": 12,
-     "members": 36
-    },
-    {
-     "months": 24,
      "members": 39
     },
     {
-     "months": 36,
+     "months": 6,
+     "members": 35
+    },
+    {
+     "months": 12,
      "members": 41
     },
     {
+     "months": 24,
+     "members": 41
+    },
+    {
+     "months": 36,
+     "members": 43
+    },
+    {
      "months": 48,
-     "members": 65
+     "members": 71
     }
    ],
    "events": {
     "new_members": 4,
-    "rejoins": 4,
-    "milestones": 6,
+    "rejoins": 7,
+    "milestones": 7,
     "gifted_total": 0
    },
    "tiers": [
@@ -645,15 +655,15 @@
      "tier": "メンバーシップ",
      "price": 490,
      "confirmed_members": 0,
-     "estimated_members": 277.0
+     "estimated_members": 299.0
     }
    ],
    "revenue": {
-    "monthly_low": 86374,
-    "monthly_est": 86374,
+    "monthly_low": 93234,
+    "monthly_est": 93234,
     "gift_once": 0
    },
-   "avg_member_chatters": 93.5,
+   "avg_member_chatters": 96.1,
    "partial": true,
    "finalized": false
   }

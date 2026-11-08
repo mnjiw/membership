@@ -2,48 +2,48 @@
  "channel": "Anya Melfissa Ch. hololive",
  "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
  "handle": "@AnyaMelfissa",
- "subscribers": 804000,
- "fetched_at": "2026-11-08 10:30",
- "generated_at": "2026-11-08 10:30",
+ "subscribers": 805000,
+ "fetched_at": "2026-11-09 06:42",
+ "generated_at": "2026-11-09 06:42",
  "period": {
-  "from": "2026-10-09 10:30",
-  "to": "2026-11-08 10:30",
+  "from": "2026-10-10 06:42",
+  "to": "2026-11-09 06:42",
   "days": 30
  },
  "streams_analyzed": 33,
  "streams_missed": 3,
- "unique_chatters": 4541,
- "members_confirmed": 587,
+ "unique_chatters": 4670,
+ "members_confirmed": 595,
  "member_classes": {
-  "known": 86,
-  "unknown": 264,
-  "gift": 237
+  "known": 88,
+  "unknown": 265,
+  "gift": 242
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 273
+   "members": 279
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 21
+   "members": 22
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 27
+   "members": 28
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 46
+   "members": 45
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 72
+   "members": 73
   },
   {
    "months": 24,
@@ -58,11 +58,11 @@
  ],
  "events": {
   "new_members": 16,
-  "rejoins": 12,
-  "milestones": 42,
-  "gift_purchases": 49,
-  "gifted_total": 248,
-  "gift_redemptions": 238
+  "rejoins": 13,
+  "milestones": 43,
+  "gift_purchases": 50,
+  "gifted_total": 253,
+  "gift_redemptions": 243
  },
  "tiers_configured": true,
  "tiers": [
@@ -70,21 +70,21 @@
    "tier": "Melhomies Den",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 86,
+   "confirmed_members": 88,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 264.0,
-   "estimated_members": 350.0,
-   "monthly_net_confirmed": 26816,
-   "monthly_net_estimated": 109136
+   "allocated_unknown": 265.0,
+   "estimated_members": 353.0,
+   "monthly_net_confirmed": 27440,
+   "monthly_net_estimated": 110072
   }
  ],
  "revenue": {
-  "monthly_low": 109136,
-  "monthly_est": 109136,
-  "gift_once": 77331,
-  "total_low": 186467,
-  "total_est": 186467,
-  "paying_members": 350,
+  "monthly_low": 110072,
+  "monthly_est": 110072,
+  "gift_once": 78890,
+  "total_low": 188962,
+  "total_est": 188962,
+  "paying_members": 353,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "OhVssU_z5lA",
-   "start": "2026-10-09 21:02",
-   "title": "【hololive Dreams ホロライブドリームス】Holodori With The Girls! NEW DRIP...?!【hololive holoro | Anya Melfissa】",
-   "kind": "配信",
-   "chatters": 248,
-   "member_chatters": 69,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "fHt1krJuNr4",
    "start": "2026-10-11 21:34",
@@ -422,6 +412,16 @@
    "member_chatters": 136,
    "new_members": 0,
    "gifted_total": 25
+  },
+  {
+   "video_id": "SRE2N2NK2Wo",
+   "start": "2026-11-08 18:01",
+   "title": "【Minecraft #ホロ1GP】HASHIREEEEEEEEEEEEE🏇【hololive holoro | Anya Melfissa】",
+   "kind": "配信",
+   "chatters": 513,
+   "member_chatters": 107,
+   "new_members": 1,
+   "gifted_total": 5
   }
  ],
  "missed_streams": [
@@ -446,7 +446,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 112,
+   "like_count": 113,
    "view_count": null
   },
   {
@@ -458,7 +458,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 163,
+   "like_count": 165,
    "view_count": null
   }
  ],
@@ -470,7 +470,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 112,
+   "like_count": 113,
    "view_count": null
   },
   {
@@ -480,7 +480,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 163,
+   "like_count": 165,
    "view_count": null
   }
  ],
@@ -629,68 +629,68 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-08"
+    "to": "2026-11-09"
    },
-   "streams_analyzed": 7,
+   "streams_analyzed": 8,
    "streams_missed": 0,
-   "unique_chatters": 1369,
-   "members_confirmed": 314,
+   "unique_chatters": 1633,
+   "members_confirmed": 327,
    "member_classes": {
-    "known": 69,
-    "unknown": 162,
-    "gift": 83
+    "known": 73,
+    "unknown": 166,
+    "gift": 88
    },
-   "long_term_members": 147,
+   "long_term_members": 151,
    "badges": [
     {
      "months": 0,
-     "members": 110
+     "members": 116
     },
     {
      "months": 1,
-     "members": 10
+     "members": 12
     },
     {
      "months": 2,
-     "members": 13
+     "members": 15
     },
     {
      "months": 6,
-     "members": 34
+     "members": 33
     },
     {
      "months": 12,
-     "members": 46
+     "members": 48
     },
     {
      "months": 24,
-     "members": 25
+     "members": 26
     },
     {
      "months": 36,
-     "members": 76
+     "members": 77
     }
    ],
    "events": {
-    "new_members": 9,
-    "rejoins": 3,
-    "milestones": 18,
-    "gifted_total": 93
+    "new_members": 10,
+    "rejoins": 4,
+    "milestones": 19,
+    "gifted_total": 98
    },
    "tiers": [
     {
      "tier": "Melhomies Den",
      "price": 490,
-     "confirmed_members": 69,
-     "estimated_members": 231.0
+     "confirmed_members": 73,
+     "estimated_members": 239.0
     }
    ],
    "revenue": {
-    "monthly_low": 72030,
-    "monthly_est": 72030,
-    "gift_once": 28999
+    "monthly_low": 74525,
+    "monthly_est": 74525,
+    "gift_once": 30558
    },
-   "avg_member_chatters": 98.6,
+   "avg_member_chatters": 99.6,
    "partial": true,
    "finalized": false
   }

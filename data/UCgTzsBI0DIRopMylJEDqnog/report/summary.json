@@ -3,71 +3,71 @@
  "channel_id": "UCgTzsBI0DIRopMylJEDqnog",
  "handle": "@totokogara",
  "subscribers": 308000,
- "fetched_at": "2026-11-08 10:31",
- "generated_at": "2026-11-08 10:32",
+ "fetched_at": "2026-11-09 06:46",
+ "generated_at": "2026-11-09 06:46",
  "period": {
-  "from": "2026-10-09 10:31",
-  "to": "2026-11-08 10:31",
+  "from": "2026-10-10 06:46",
+  "to": "2026-11-09 06:46",
   "days": 30
  },
- "streams_analyzed": 11,
+ "streams_analyzed": 10,
  "streams_missed": 0,
- "unique_chatters": 2199,
- "members_confirmed": 951,
+ "unique_chatters": 1821,
+ "members_confirmed": 671,
  "member_classes": {
-  "known": 443,
-  "unknown": 441,
-  "gift": 67
+  "unknown": 434,
+  "known": 180,
+  "gift": 57
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 244
+   "members": 148
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 99
+   "members": 42
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 176
+   "members": 94
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 94
+   "members": 71
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 112
+   "members": 97
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 86
+   "members": 82
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 66
+   "members": 65
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 74
+   "members": 72
   }
  ],
  "events": {
-  "new_members": 213,
-  "rejoins": 173,
-  "milestones": 56,
-  "gift_purchases": 5,
-  "gifted_total": 67,
-  "gift_redemptions": 67
+  "new_members": 45,
+  "rejoins": 29,
+  "milestones": 46,
+  "gift_purchases": 4,
+  "gifted_total": 57,
+  "gift_redemptions": 57
  },
  "tiers_configured": true,
  "tiers": [
@@ -75,43 +75,43 @@
    "tier": "金糸雀",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 402,
-   "share_of_confirmed_pct": 90.7,
-   "allocated_unknown": 400.2,
-   "estimated_members": 802.2,
-   "monthly_net_confirmed": 125351,
-   "monthly_net_estimated": 250136
+   "confirmed_members": 144,
+   "share_of_confirmed_pct": 80.0,
+   "allocated_unknown": 347.2,
+   "estimated_members": 491.2,
+   "monthly_net_confirmed": 44902,
+   "monthly_net_estimated": 153165
   },
   {
    "tier": "とりかご",
    "price": 1190,
    "net_per_member": 757.3,
-   "confirmed_members": 29,
-   "share_of_confirmed_pct": 6.5,
-   "allocated_unknown": 28.9,
-   "estimated_members": 57.9,
-   "monthly_net_confirmed": 21961,
-   "monthly_net_estimated": 43823
+   "confirmed_members": 24,
+   "share_of_confirmed_pct": 13.3,
+   "allocated_unknown": 57.9,
+   "estimated_members": 81.9,
+   "monthly_net_confirmed": 18175,
+   "monthly_net_estimated": 61995
   },
   {
    "tier": "ゴンザレス",
    "price": 6300,
    "net_per_member": 4009.1,
    "confirmed_members": 12,
-   "share_of_confirmed_pct": 2.7,
-   "allocated_unknown": 11.9,
-   "estimated_members": 23.9,
+   "share_of_confirmed_pct": 6.7,
+   "allocated_unknown": 28.9,
+   "estimated_members": 40.9,
    "monthly_net_confirmed": 48109,
-   "monthly_net_estimated": 96001
+   "monthly_net_estimated": 164105
   }
  ],
  "revenue": {
-  "monthly_low": 332933,
-  "monthly_est": 389960,
-  "gift_once": 20892,
-  "total_low": 353825,
-  "total_est": 410851,
-  "paying_members": 884,
+  "monthly_low": 246515,
+  "monthly_est": 379266,
+  "gift_once": 17774,
+  "total_low": 264288,
+  "total_est": 397040,
+  "paying_members": 614,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -120,16 +120,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "C8P_hvyCci0",
-   "start": "2026-10-09 19:00",
-   "title": "【 Lethal Company 】ぶいすぽりーさるかんぱに～【 ぶいすぽ / 小雀とと 】",
-   "kind": "配信",
-   "chatters": 682,
-   "member_chatters": 483,
-   "new_members": 168,
-   "gifted_total": 10
-  },
   {
    "video_id": "zpm1LqzOqgk",
    "start": "2026-10-10 18:57",
@@ -398,7 +388,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-08"
+    "to": "2026-11-09"
    },
    "streams_analyzed": 2,
    "streams_missed": 0,

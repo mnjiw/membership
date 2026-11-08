@@ -3,16 +3,16 @@
  "channel_id": "UCCra1t-eIlO3ULyXQQMD9Xw",
  "handle": "@RemiaAotsuki",
  "subscribers": 81500,
- "fetched_at": "2026-11-08 10:32",
- "generated_at": "2026-11-08 10:32",
+ "fetched_at": "2026-11-09 06:48",
+ "generated_at": "2026-11-09 06:48",
  "period": {
-  "from": "2026-10-09 10:32",
-  "to": "2026-11-08 10:32",
+  "from": "2026-10-10 06:48",
+  "to": "2026-11-09 06:48",
   "days": 30
  },
- "streams_analyzed": 26,
- "streams_missed": 1,
- "unique_chatters": 588,
+ "streams_analyzed": 25,
+ "streams_missed": 2,
+ "unique_chatters": 582,
  "members_confirmed": 117,
  "member_classes": {
   "known": 28,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "gLZk78lDTig",
-   "start": "2026-10-10 06:03",
-   "title": "【Final Part: A WAY OUT】 We made (it) out!!! 【#VSPOEN #RemiaAotsuki】",
-   "kind": "配信",
-   "chatters": 42,
-   "member_chatters": 20,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "I4_uSB6ZW0w",
    "start": "2026-10-11 23:03",
@@ -361,6 +351,18 @@
    "members_level": "",
    "like_count": 19,
    "view_count": null
+  },
+  {
+   "video_id": "eCIdX_rajeQ",
+   "start": "2026-11-09 00:25",
+   "title": "【REPO】 No Valheim today :3 【#VSPOEN #RemiaAotsuki】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 18,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -372,6 +374,16 @@
    "status": "members_only",
    "members_level": "",
    "like_count": 19,
+   "view_count": null
+  },
+  {
+   "video_id": "eCIdX_rajeQ",
+   "start": "2026-11-09 00:25",
+   "title": "【REPO】 No Valheim today :3 【#VSPOEN #RemiaAotsuki】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 18,
    "view_count": null
   }
  ],
@@ -501,10 +513,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-08"
+    "to": "2026-11-09"
    },
    "streams_analyzed": 7,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 274,
    "members_confirmed": 72,
    "member_classes": {

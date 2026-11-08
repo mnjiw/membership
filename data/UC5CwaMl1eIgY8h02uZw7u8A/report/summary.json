@@ -3,56 +3,56 @@
  "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
  "handle": "@HoshimachiSuisei",
  "subscribers": 2930000,
- "fetched_at": "2026-11-08 10:29",
- "generated_at": "2026-11-08 10:29",
+ "fetched_at": "2026-11-09 06:24",
+ "generated_at": "2026-11-09 06:27",
  "period": {
-  "from": "2026-10-09 10:29",
-  "to": "2026-11-08 10:29",
+  "from": "2026-10-10 06:24",
+  "to": "2026-11-09 06:24",
   "days": 30
  },
  "streams_analyzed": 9,
  "streams_missed": 0,
- "unique_chatters": 12560,
- "members_confirmed": 4561,
+ "unique_chatters": 12652,
+ "members_confirmed": 4722,
  "member_classes": {
-  "unknown": 4225,
-  "known": 98,
-  "gift": 238
+  "unknown": 4379,
+  "known": 112,
+  "gift": 231
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 344
+   "members": 354
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 84
+   "members": 85
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 165
+   "members": 166
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 452
+   "members": 470
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 3516
+   "members": 3647
   }
  ],
  "events": {
-  "new_members": 38,
-  "rejoins": 35,
+  "new_members": 43,
+  "rejoins": 40,
   "milestones": 0,
-  "gift_purchases": 18,
-  "gifted_total": 266,
-  "gift_redemptions": 238
+  "gift_purchases": 19,
+  "gifted_total": 267,
+  "gift_redemptions": 231
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,43 +60,43 @@
    "tier": "コールをする！Lv1",
    "price": 390,
    "net_per_member": 248.2,
-   "confirmed_members": 90,
-   "share_of_confirmed_pct": 91.8,
-   "allocated_unknown": 3880.1,
-   "estimated_members": 3970.1,
-   "monthly_net_confirmed": 22336,
-   "monthly_net_estimated": 985307
+   "confirmed_members": 104,
+   "share_of_confirmed_pct": 92.9,
+   "allocated_unknown": 4066.2,
+   "estimated_members": 4170.2,
+   "monthly_net_confirmed": 25811,
+   "monthly_net_estimated": 1034971
   },
   {
    "tier": "サイリウムをふる！Lv2",
    "price": 1190,
    "net_per_member": 757.3,
    "confirmed_members": 1,
-   "share_of_confirmed_pct": 1.0,
-   "allocated_unknown": 43.1,
-   "estimated_members": 44.1,
+   "share_of_confirmed_pct": 0.9,
+   "allocated_unknown": 39.1,
+   "estimated_members": 40.1,
    "monthly_net_confirmed": 757,
-   "monthly_net_estimated": 33405
+   "monthly_net_estimated": 30365
   },
   {
    "tier": "フラスタをおくる！Lv3",
    "price": 3490,
    "net_per_member": 2220.9,
    "confirmed_members": 7,
-   "share_of_confirmed_pct": 7.1,
-   "allocated_unknown": 301.8,
-   "estimated_members": 308.8,
+   "share_of_confirmed_pct": 6.2,
+   "allocated_unknown": 273.7,
+   "estimated_members": 280.7,
    "monthly_net_confirmed": 15546,
-   "monthly_net_estimated": 685785
+   "monthly_net_estimated": 623381
   }
  ],
  "revenue": {
-  "monthly_low": 1087208,
-  "monthly_est": 1704497,
-  "gift_once": 66016,
-  "total_low": 1153225,
-  "total_est": 1770514,
-  "paying_members": 4323,
+  "monthly_low": 1128903,
+  "monthly_est": 1688718,
+  "gift_once": 66265,
+  "total_low": 1195167,
+  "total_est": 1754983,
+  "paying_members": 4491,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -105,16 +105,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "xT_0sVK8lQU",
-   "start": "2026-10-09 19:01",
-   "title": "【雑談】雑談って……雑談って……雑談だね‼【星街すいせい / ＃ほしまちすたじお】",
-   "kind": "配信",
-   "chatters": 3334,
-   "member_chatters": 1506,
-   "new_members": 5,
-   "gifted_total": 15
-  },
   {
    "video_id": "RgKFjSCDADA",
    "start": "2026-10-13 19:04",
@@ -194,6 +184,16 @@
    "member_chatters": 231,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "auw-e6pt6BY",
+   "start": "2026-11-08 20:00",
+   "title": "【絶対遵守】ここはどこ……？？私はライブ会場にいたはずでは……？？【星街すいせい / ＃ほしまちすたじお】",
+   "kind": "配信",
+   "chatters": 3389,
+   "member_chatters": 1822,
+   "new_members": 10,
+   "gifted_total": 16
   }
  ],
  "missed_streams": [],
@@ -351,51 +351,52 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-08"
+    "to": "2026-11-09"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 0,
-   "unique_chatters": 371,
-   "members_confirmed": 231,
+   "unique_chatters": 3601,
+   "members_confirmed": 1929,
    "member_classes": {
-    "unknown": 228,
-    "known": 3
+    "unknown": 1881,
+    "known": 42,
+    "gift": 6
    },
-   "long_term_members": 194,
+   "long_term_members": 1578,
    "badges": [
     {
      "months": 0,
-     "members": 3
+     "members": 54
     },
     {
      "months": 1,
-     "members": 1
+     "members": 21
     },
     {
      "months": 2,
-     "members": 9
+     "members": 77
     },
     {
      "months": 6,
-     "members": 24
+     "members": 199
     },
     {
      "months": 12,
-     "members": 194
+     "members": 1578
     }
    ],
    "events": {
-    "new_members": 0,
-    "rejoins": 0,
+    "new_members": 10,
+    "rejoins": 7,
     "milestones": 0,
-    "gifted_total": 0
+    "gifted_total": 16
    },
    "tiers": [
     {
      "tier": "コールをする！Lv1",
      "price": 390,
-     "confirmed_members": 3,
-     "estimated_members": 231.0
+     "confirmed_members": 40,
+     "estimated_members": 1831.4
     },
     {
      "tier": "サイリウムをふる！Lv2",
@@ -406,16 +407,16 @@
     {
      "tier": "フラスタをおくる！Lv3",
      "price": 3490,
-     "confirmed_members": 0,
-     "estimated_members": 0.0
+     "confirmed_members": 2,
+     "estimated_members": 91.6
     }
    ],
    "revenue": {
-    "monthly_low": 57330,
-    "monthly_est": 57330,
-    "gift_once": 0
+    "monthly_low": 481199,
+    "monthly_est": 657899,
+    "gift_once": 3971
    },
-   "avg_member_chatters": 231,
+   "avg_member_chatters": 1026.5,
    "partial": true,
    "finalized": false
   }

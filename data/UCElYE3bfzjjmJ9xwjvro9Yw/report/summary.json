@@ -3,55 +3,55 @@
  "channel_id": "UCElYE3bfzjjmJ9xwjvro9Yw",
  "handle": "@HiuraKuro0914",
  "subscribers": 36300,
- "fetched_at": "2026-11-08 10:35",
- "generated_at": "2026-11-08 10:35",
+ "fetched_at": "2026-11-09 06:53",
+ "generated_at": "2026-11-09 06:53",
  "period": {
-  "from": "2026-10-09 10:35",
-  "to": "2026-11-08 10:35",
+  "from": "2026-10-10 06:53",
+  "to": "2026-11-09 06:53",
   "days": 30
  },
  "streams_analyzed": 29,
  "streams_missed": 2,
- "unique_chatters": 156,
+ "unique_chatters": 164,
  "members_confirmed": 57,
  "member_classes": {
-  "unknown": 54,
-  "known": 3
+  "unknown": 53,
+  "known": 4
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 3
+   "members": 4
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 7
+   "members": 6
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 10
+   "members": 8
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 11
+   "members": 13
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 11
+   "members": 10
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 15
+   "members": 16
   }
  ],
  "events": {
-  "new_members": 1,
+  "new_members": 2,
   "rejoins": 2,
   "milestones": 0,
   "gift_purchases": 0,
@@ -64,11 +64,11 @@
    "tier": "ワニ園",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 3,
+   "confirmed_members": 4,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 54.0,
+   "allocated_unknown": 53.0,
    "estimated_members": 57.0,
-   "monthly_net_confirmed": 935,
+   "monthly_net_confirmed": 1247,
    "monthly_net_estimated": 17774
   }
  ],
@@ -87,16 +87,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "lMMVA9FmDs0",
-   "start": "2026-10-09 22:00",
-   "title": "【ほの暮しの庭】深夜で歩けるようになったぞ！出たくない！#3【日裏クロ / ネオポルテ】",
-   "kind": "配信",
-   "chatters": 21,
-   "member_chatters": 17,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "UO325rIsSU0",
    "start": "2026-10-10 16:31",
@@ -376,6 +366,16 @@
    "member_chatters": 19,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "rAJi7NJ38fk",
+   "start": "2026-11-08 21:00",
+   "title": "【歌枠】週末なので歌って終わりましょう【日裏クロ / ネオポルテ】#shorts",
+   "kind": "配信",
+   "chatters": 51,
+   "member_chatters": 35,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -541,21 +541,21 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-08"
+    "to": "2026-11-09"
    },
-   "streams_analyzed": 6,
+   "streams_analyzed": 7,
    "streams_missed": 0,
-   "unique_chatters": 56,
-   "members_confirmed": 35,
+   "unique_chatters": 76,
+   "members_confirmed": 43,
    "member_classes": {
-    "unknown": 34,
-    "known": 1
+    "unknown": 40,
+    "known": 3
    },
-   "long_term_members": 18,
+   "long_term_members": 20,
    "badges": [
     {
      "months": 0,
-     "members": 2
+     "members": 3
     },
     {
      "months": 1,
@@ -563,23 +563,23 @@
     },
     {
      "months": 2,
-     "members": 5
+     "members": 7
     },
     {
      "months": 6,
-     "members": 9
+     "members": 12
     },
     {
      "months": 12,
-     "members": 5
+     "members": 6
     },
     {
      "months": 24,
-     "members": 13
+     "members": 14
     }
    ],
    "events": {
-    "new_members": 0,
+    "new_members": 1,
     "rejoins": 0,
     "milestones": 0,
     "gifted_total": 0
@@ -588,16 +588,16 @@
     {
      "tier": "ワニ園",
      "price": 490,
-     "confirmed_members": 1,
-     "estimated_members": 35.0
+     "confirmed_members": 3,
+     "estimated_members": 43.0
     }
    ],
    "revenue": {
-    "monthly_low": 10914,
-    "monthly_est": 10914,
+    "monthly_low": 13408,
+    "monthly_est": 13408,
     "gift_once": 0
    },
-   "avg_member_chatters": 14.8,
+   "avg_member_chatters": 17.7,
    "partial": true,
    "finalized": false
   }

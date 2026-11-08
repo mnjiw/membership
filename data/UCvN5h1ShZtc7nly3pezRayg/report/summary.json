@@ -3,56 +3,56 @@
  "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
  "handle": "@holoen_ceciliaimmergreen",
  "subscribers": 551000,
- "fetched_at": "2026-11-08 10:30",
- "generated_at": "2026-11-08 10:30",
+ "fetched_at": "2026-11-09 06:44",
+ "generated_at": "2026-11-09 06:44",
  "period": {
-  "from": "2026-10-09 10:30",
-  "to": "2026-11-08 10:30",
+  "from": "2026-10-10 06:44",
+  "to": "2026-11-09 06:44",
   "days": 30
  },
- "streams_analyzed": 16,
+ "streams_analyzed": 15,
  "streams_missed": 3,
- "unique_chatters": 15747,
- "members_confirmed": 2907,
+ "unique_chatters": 14979,
+ "members_confirmed": 2799,
  "member_classes": {
-  "known": 1176,
-  "unknown": 1441,
-  "gift": 290
+  "known": 1159,
+  "unknown": 1395,
+  "gift": 245
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 376
+   "members": 339
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 88
+   "members": 87
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 278
+   "members": 266
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 306
+   "members": 291
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 1859
+   "members": 1816
   }
  ],
  "events": {
-  "new_members": 39,
-  "rejoins": 29,
-  "milestones": 699,
-  "gift_purchases": 35,
-  "gifted_total": 302,
-  "gift_redemptions": 292
+  "new_members": 35,
+  "rejoins": 28,
+  "milestones": 660,
+  "gift_purchases": 28,
+  "gifted_total": 256,
+  "gift_redemptions": 246
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,32 +60,32 @@
    "tier": "otomems",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 1022,
+   "confirmed_members": 1007,
    "share_of_confirmed_pct": 86.9,
-   "allocated_unknown": 1252.3,
-   "estimated_members": 2274.3,
-   "monthly_net_confirmed": 448751,
-   "monthly_net_estimated": 998623
+   "allocated_unknown": 1212.0,
+   "estimated_members": 2219.0,
+   "monthly_net_confirmed": 442165,
+   "monthly_net_estimated": 974364
   },
   {
    "tier": "otocranks",
    "price": 1290,
    "net_per_member": 820.9,
-   "confirmed_members": 154,
+   "confirmed_members": 152,
    "share_of_confirmed_pct": 13.1,
-   "allocated_unknown": 188.7,
-   "estimated_members": 342.7,
-   "monthly_net_confirmed": 126420,
-   "monthly_net_estimated": 281327
+   "allocated_unknown": 183.0,
+   "estimated_members": 335.0,
+   "monthly_net_confirmed": 124778,
+   "monthly_net_estimated": 274964
   }
  ],
  "revenue": {
-  "monthly_low": 1207901,
-  "monthly_est": 1279951,
-  "gift_once": 132605,
-  "total_low": 1340506,
-  "total_est": 1412556,
-  "paying_members": 2617,
+  "monthly_low": 1179475,
+  "monthly_est": 1249328,
+  "gift_once": 112407,
+  "total_low": 1291882,
+  "total_est": 1361736,
+  "paying_members": 2554,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -94,16 +94,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "IDe8VLrT4zo",
-   "start": "2026-10-09 19:29",
-   "title": "【GUERILLA】JUST HANGING AROUND WITH MY NEW (old) FAVOURITE GAME",
-   "kind": "配信",
-   "chatters": 2559,
-   "member_chatters": 774,
-   "new_members": 4,
-   "gifted_total": 46
-  },
   {
    "video_id": "cXp659B2-gQ",
    "start": "2026-10-16 03:02",
@@ -289,7 +279,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "otomems",
-   "like_count": 872,
+   "like_count": 874,
    "view_count": null
   }
  ],
@@ -311,7 +301,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "otomems",
-   "like_count": 872,
+   "like_count": 874,
    "view_count": null
   }
  ],
@@ -439,7 +429,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-08"
+    "to": "2026-11-09"
    },
    "streams_analyzed": 4,
    "streams_missed": 0,

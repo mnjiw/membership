@@ -3,27 +3,27 @@
  "channel_id": "UCP03XuewcMC2DaSFDJhqJmA",
  "handle": "@HanamaeHaru",
  "subscribers": 45500,
- "fetched_at": "2026-11-08 10:36",
- "generated_at": "2026-11-08 10:36",
+ "fetched_at": "2026-11-09 06:56",
+ "generated_at": "2026-11-09 06:57",
  "period": {
-  "from": "2026-10-09 10:36",
-  "to": "2026-11-08 10:36",
+  "from": "2026-10-10 06:56",
+  "to": "2026-11-09 06:56",
   "days": 30
  },
  "streams_analyzed": 26,
  "streams_missed": 3,
- "unique_chatters": 1189,
- "members_confirmed": 201,
+ "unique_chatters": 1177,
+ "members_confirmed": 200,
  "member_classes": {
   "unknown": 119,
   "known": 38,
-  "gift": 44
+  "gift": 43
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 76
+   "members": 75
   },
   {
    "months": 1,
@@ -40,9 +40,9 @@
   "new_members": 24,
   "rejoins": 18,
   "milestones": 3,
-  "gift_purchases": 20,
-  "gifted_total": 44,
-  "gift_redemptions": 44
+  "gift_purchases": 19,
+  "gifted_total": 43,
+  "gift_redemptions": 43
  },
  "tiers_configured": true,
  "tiers": [
@@ -72,9 +72,9 @@
  "revenue": {
   "monthly_low": 50992,
   "monthly_est": 57369,
-  "gift_once": 13720,
-  "total_low": 64712,
-  "total_est": 71089,
+  "gift_once": 13408,
+  "total_low": 64400,
+  "total_est": 70777,
   "paying_members": 157,
   "single_tier": false,
   "tax_rate": 0.1,
@@ -84,16 +84,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "E9dqL4QZ0Fo",
-   "start": "2026-10-09 17:58",
-   "title": "【 STREET FIGHTER 6 】プラチナを目指して/Mエレナ【花前ハル/REJECT】",
-   "kind": "配信",
-   "chatters": 137,
-   "member_chatters": 42,
-   "new_members": 0,
-   "gifted_total": 1
-  },
   {
    "video_id": "oqswYtSfoTU",
    "start": "2026-10-10 11:59",
@@ -343,6 +333,16 @@
    "member_chatters": 42,
    "new_members": 0,
    "gifted_total": 2
+  },
+  {
+   "video_id": "6lJsX9SHars",
+   "start": "2026-11-08 20:14",
+   "title": "【モンスト】【七日杯】初めてのモンスターストライク❗️✨️大会本戦！【花前ハル/REJECT】",
+   "kind": "配信",
+   "chatters": 63,
+   "member_chatters": 30,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -379,7 +379,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 138,
+   "like_count": 139,
    "view_count": null
   }
  ],
@@ -411,7 +411,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 138,
+   "like_count": 139,
    "view_count": null
   }
  ],
@@ -523,11 +523,11 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-08"
+    "to": "2026-11-09"
    },
-   "streams_analyzed": 9,
+   "streams_analyzed": 10,
    "streams_missed": 1,
-   "unique_chatters": 562,
+   "unique_chatters": 570,
    "members_confirmed": 141,
    "member_classes": {
     "unknown": 88,
@@ -574,7 +574,7 @@
     "monthly_est": 41015,
     "gift_once": 6860
    },
-   "avg_member_chatters": 46,
+   "avg_member_chatters": 44.4,
    "partial": true,
    "finalized": false
   }
