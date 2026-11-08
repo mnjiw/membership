@@ -3,15 +3,15 @@
  "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
  "handle": "@MoriCalliope",
  "subscribers": 2660000,
- "fetched_at": "2026-11-08 06:38",
- "generated_at": "2026-11-08 06:39",
+ "fetched_at": "2026-11-08 10:30",
+ "generated_at": "2026-11-08 10:30",
  "period": {
-  "from": "2026-10-09 06:38",
-  "to": "2026-11-08 06:38",
+  "from": "2026-10-09 10:30",
+  "to": "2026-11-08 10:30",
   "days": 30
  },
  "streams_analyzed": 25,
- "streams_missed": 3,
+ "streams_missed": 2,
  "unique_chatters": 16934,
  "members_confirmed": 2835,
  "member_classes": {
@@ -384,18 +384,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "-K1l13cLRaU",
-   "start": "2026-10-09 10:00",
-   "title": "【member's only】chat and game as usual!! #calliolive",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "Dead Beat +",
-   "like_count": 818,
-   "view_count": null
-  },
-  {
    "video_id": "PmDRXL6CJkQ",
    "start": "2026-10-14 21:00",
    "title": "【member's only】look outside (don't though) #calliolive",
@@ -416,22 +404,12 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "Dead Beat +",
-   "like_count": 803,
+   "like_count": 804,
    "view_count": null
   }
  ],
  "members_only_content": [
   {
-   "video_id": "-K1l13cLRaU",
-   "start": "2026-10-09 10:00",
-   "title": "【member's only】chat and game as usual!! #calliolive",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "Dead Beat +",
-   "like_count": 818,
-   "view_count": null
-  },
-  {
    "video_id": "PmDRXL6CJkQ",
    "start": "2026-10-14 21:00",
    "title": "【member's only】look outside (don't though) #calliolive",
@@ -448,7 +426,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "Dead Beat +",
-   "like_count": 803,
+   "like_count": 804,
    "view_count": null
   }
  ],

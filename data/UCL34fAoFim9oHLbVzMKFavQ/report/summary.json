@@ -3,15 +3,15 @@
  "channel_id": "UCL34fAoFim9oHLbVzMKFavQ",
  "handle": "@YorumiRena",
  "subscribers": 606000,
- "fetched_at": "2026-11-08 05:24",
- "generated_at": "2026-11-08 05:24",
+ "fetched_at": "2026-11-08 10:25",
+ "generated_at": "2026-11-08 10:25",
  "period": {
-  "from": "2026-10-09 05:24",
-  "to": "2026-11-08 05:24",
+  "from": "2026-10-09 10:25",
+  "to": "2026-11-08 10:25",
   "days": 30
  },
  "streams_analyzed": 15,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 1578,
  "members_confirmed": 262,
  "member_classes": {
@@ -253,7 +253,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "LcVGytg2QR0",
+   "start": "2026-11-07 00:00",
+   "title": "【 ゼルダの伝説 時のオカリナ 】#01 始まりの勇者 【 にじさんじ / 夜見れな 】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 1830,
+   "view_count": 107526
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -417,7 +430,7 @@
     "to": "2026-11-08"
    },
    "streams_analyzed": 2,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 411,
    "members_confirmed": 146,
    "member_classes": {

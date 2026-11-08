@@ -3,16 +3,16 @@
  "channel_id": "UCElYE3bfzjjmJ9xwjvro9Yw",
  "handle": "@HiuraKuro0914",
  "subscribers": 36300,
- "fetched_at": "2026-11-08 06:49",
- "generated_at": "2026-11-08 06:49",
+ "fetched_at": "2026-11-08 10:35",
+ "generated_at": "2026-11-08 10:35",
  "period": {
-  "from": "2026-10-09 06:49",
-  "to": "2026-11-08 06:49",
+  "from": "2026-10-09 10:35",
+  "to": "2026-11-08 10:35",
   "days": 30
  },
- "streams_analyzed": 28,
- "streams_missed": 3,
- "unique_chatters": 154,
+ "streams_analyzed": 29,
+ "streams_missed": 2,
+ "unique_chatters": 156,
  "members_confirmed": 57,
  "member_classes": {
   "unknown": 54,
@@ -366,6 +366,16 @@
    "member_chatters": 21,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "1lmLiBUhnQ0",
+   "start": "2026-11-07 21:49",
+   "title": "【イモ剥き】イモの山消えるまでイモ剥きします【Potato Please】【日裏クロ / ネオポルテ】",
+   "kind": "配信",
+   "chatters": 29,
+   "member_chatters": 19,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -392,18 +402,6 @@
    "members_level": "",
    "like_count": 30,
    "view_count": null
-  },
-  {
-   "video_id": "1lmLiBUhnQ0",
-   "start": "2026-11-07 00:00",
-   "title": "【イモ剥き】イモの山消えるまでイモ剥きします【Potato Please】【日裏クロ / ネオポルテ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 93,
-   "view_count": 3871
   }
  ],
  "members_only_content": [
@@ -545,15 +543,15 @@
     "from": "2026-11-01",
     "to": "2026-11-08"
    },
-   "streams_analyzed": 5,
-   "streams_missed": 1,
-   "unique_chatters": 47,
-   "members_confirmed": 32,
+   "streams_analyzed": 6,
+   "streams_missed": 0,
+   "unique_chatters": 56,
+   "members_confirmed": 35,
    "member_classes": {
-    "unknown": 31,
+    "unknown": 34,
     "known": 1
    },
-   "long_term_members": 17,
+   "long_term_members": 18,
    "badges": [
     {
      "months": 0,
@@ -565,11 +563,11 @@
     },
     {
      "months": 2,
-     "members": 4
+     "members": 5
     },
     {
      "months": 6,
-     "members": 8
+     "members": 9
     },
     {
      "months": 12,
@@ -577,7 +575,7 @@
     },
     {
      "months": 24,
-     "members": 12
+     "members": 13
     }
    ],
    "events": {
@@ -591,15 +589,15 @@
      "tier": "ワニ園",
      "price": 490,
      "confirmed_members": 1,
-     "estimated_members": 32.0
+     "estimated_members": 35.0
     }
    ],
    "revenue": {
-    "monthly_low": 9978,
-    "monthly_est": 9978,
+    "monthly_low": 10914,
+    "monthly_est": 10914,
     "gift_once": 0
    },
-   "avg_member_chatters": 14,
+   "avg_member_chatters": 14.8,
    "partial": true,
    "finalized": false
   }
