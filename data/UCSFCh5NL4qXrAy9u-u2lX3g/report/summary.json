@@ -3,66 +3,66 @@
  "channel_id": "UCSFCh5NL4qXrAy9u-u2lX3g",
  "handle": "@Kuzuha",
  "subscribers": 2240000,
- "fetched_at": "2026-11-09 10:43",
- "generated_at": "2026-11-09 10:43",
+ "fetched_at": "2026-11-10 05:19",
+ "generated_at": "2026-11-10 05:21",
  "period": {
-  "from": "2026-10-10 10:43",
-  "to": "2026-11-09 10:43",
+  "from": "2026-10-11 05:19",
+  "to": "2026-11-10 05:19",
   "days": 30
  },
  "streams_analyzed": 27,
- "streams_missed": 2,
- "unique_chatters": 18397,
- "members_confirmed": 6015,
+ "streams_missed": 1,
+ "unique_chatters": 18311,
+ "members_confirmed": 6012,
  "member_classes": {
-  "unknown": 5568,
-  "known": 447
+  "unknown": 5567,
+  "known": 445
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 513
+   "members": 509
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 128
+   "members": 129
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 510
+   "members": 505
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 411
+   "members": 414
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 961
+   "members": 958
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 765
+   "members": 771
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 634
+   "members": 638
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 2093
+   "members": 2088
   }
  ],
  "events": {
   "new_members": 252,
-  "rejoins": 118,
+  "rejoins": 119,
   "milestones": 0,
   "gift_purchases": 0,
   "gifted_total": 0,
@@ -74,21 +74,21 @@
    "tier": "チャンネル メンバーシップ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 447,
+   "confirmed_members": 445,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 5568.0,
-   "estimated_members": 6015.0,
-   "monthly_net_confirmed": 139383,
-   "monthly_net_estimated": 1875586
+   "allocated_unknown": 5567.0,
+   "estimated_members": 6012.0,
+   "monthly_net_confirmed": 138759,
+   "monthly_net_estimated": 1874651
   }
  ],
  "revenue": {
-  "monthly_low": 1875586,
-  "monthly_est": 1875586,
+  "monthly_low": 1874651,
+  "monthly_est": 1874651,
   "gift_once": 0,
-  "total_low": 1875586,
-  "total_est": 1875586,
-  "paying_members": 6015,
+  "total_low": 1874651,
+  "total_est": 1874651,
+  "paying_members": 6012,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -97,16 +97,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "KyRE0qhFtb4",
-   "start": "2026-10-10 12:04",
-   "title": "【LOL】顔合わせ【LTK CCCCCCCCC】",
-   "kind": "配信",
-   "chatters": 2406,
-   "member_chatters": 1084,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "plc0Cz_y3rQ",
    "start": "2026-10-13 19:28",
@@ -366,21 +356,19 @@
    "member_chatters": 1520,
    "new_members": 2,
    "gifted_total": 0
+  },
+  {
+   "video_id": "eSlUcqpR2J0",
+   "start": "2026-11-09 17:24",
+   "title": "【LTK マスターズウォチパ】旧皇帝応援団【逆流】CC",
+   "kind": "配信",
+   "chatters": 2262,
+   "member_chatters": 1178,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
-  {
-   "video_id": "F0Eelrm6uEA",
-   "start": "2026-11-06 00:00",
-   "title": "【LTK】やうじの呪いによりちーたーまん陥落、残されたのは葛葉だけ【葛葉/にじさんじ/切り抜き】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 495,
-   "view_count": 47808
-  },
   {
    "video_id": "ZlfX6UQ13OA",
    "start": "2026-11-07 00:00",
@@ -390,8 +378,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 522,
-   "view_count": 66467
+   "like_count": 554,
+   "view_count": 74706
   }
  ],
  "members_only_content": [],
@@ -546,54 +534,54 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-09"
+    "to": "2026-11-10"
    },
-   "streams_analyzed": 5,
-   "streams_missed": 2,
-   "unique_chatters": 7027,
-   "members_confirmed": 2467,
+   "streams_analyzed": 6,
+   "streams_missed": 1,
+   "unique_chatters": 7466,
+   "members_confirmed": 2613,
    "member_classes": {
-    "unknown": 2353,
-    "known": 114
+    "unknown": 2495,
+    "known": 118
    },
-   "long_term_members": 1935,
+   "long_term_members": 2054,
    "badges": [
     {
      "months": 0,
-     "members": 110
+     "members": 114
     },
     {
      "months": 1,
-     "members": 37
+     "members": 42
     },
     {
      "months": 2,
-     "members": 202
+     "members": 207
     },
     {
      "months": 6,
-     "members": 183
+     "members": 196
     },
     {
      "months": 12,
-     "members": 400
+     "members": 423
     },
     {
      "months": 24,
-     "members": 319
+     "members": 346
     },
     {
      "months": 36,
-     "members": 276
+     "members": 296
     },
     {
      "months": 48,
-     "members": 940
+     "members": 989
     }
    ],
    "events": {
     "new_members": 21,
-    "rejoins": 18,
+    "rejoins": 19,
     "milestones": 0,
     "gifted_total": 0
    },
@@ -601,16 +589,16 @@
     {
      "tier": "チャンネル メンバーシップ",
      "price": 490,
-     "confirmed_members": 114,
-     "estimated_members": 2467.0
+     "confirmed_members": 118,
+     "estimated_members": 2613.0
     }
    ],
    "revenue": {
-    "monthly_low": 769255,
-    "monthly_est": 769255,
+    "monthly_low": 814781,
+    "monthly_est": 814781,
     "gift_once": 0
    },
-   "avg_member_chatters": 1304.4,
+   "avg_member_chatters": 1283.3,
    "partial": true,
    "finalized": false
   }

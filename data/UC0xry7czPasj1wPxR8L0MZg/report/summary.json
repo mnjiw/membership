@@ -2,58 +2,58 @@
  "channel": "早乙女 ベリー / Saotome Berry【にじさんじ】",
  "channel_id": "UC0xry7czPasj1wPxR8L0MZg",
  "handle": "@Saotomeberry",
- "subscribers": 331000,
- "fetched_at": "2026-11-09 10:46",
- "generated_at": "2026-11-09 10:46",
+ "subscribers": 332000,
+ "fetched_at": "2026-11-10 05:33",
+ "generated_at": "2026-11-10 05:33",
  "period": {
-  "from": "2026-10-10 10:46",
-  "to": "2026-11-09 10:46",
+  "from": "2026-10-11 05:33",
+  "to": "2026-11-10 05:33",
   "days": 30
  },
- "streams_analyzed": 32,
- "streams_missed": 1,
- "unique_chatters": 3568,
- "members_confirmed": 490,
+ "streams_analyzed": 31,
+ "streams_missed": 2,
+ "unique_chatters": 3468,
+ "members_confirmed": 477,
  "member_classes": {
-  "unknown": 428,
-  "known": 52,
+  "unknown": 417,
+  "known": 50,
   "gift": 10
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 73
+   "members": 70
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 20
+   "members": 19
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 94
+   "members": 91
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 90
+   "members": 89
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 145
+   "members": 142
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 68
+   "members": 66
   }
  ],
  "events": {
   "new_members": 34,
-  "rejoins": 7,
+  "rejoins": 6,
   "milestones": 0,
   "gift_purchases": 1,
   "gifted_total": 10,
@@ -65,21 +65,21 @@
    "tier": "べりーばたけ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 52,
+   "confirmed_members": 50,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 428.0,
-   "estimated_members": 480.0,
-   "monthly_net_confirmed": 16215,
-   "monthly_net_estimated": 149673
+   "allocated_unknown": 417.0,
+   "estimated_members": 467.0,
+   "monthly_net_confirmed": 15591,
+   "monthly_net_estimated": 145619
   }
  ],
  "revenue": {
-  "monthly_low": 149673,
-  "monthly_est": 149673,
+  "monthly_low": 145619,
+  "monthly_est": 145619,
   "gift_once": 3118,
-  "total_low": 152791,
-  "total_est": 152791,
-  "paying_members": 480,
+  "total_low": 148737,
+  "total_est": 148737,
+  "paying_members": 467,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "6CHUaGWiJlA",
-   "start": "2026-10-10 21:36",
-   "title": "【APEX】新デバイス、馴染ませろ！！【早乙女ベリー/にじさんじ】",
-   "kind": "配信",
-   "chatters": 311,
-   "member_chatters": 109,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "B767aNCev7U",
    "start": "2026-10-13 14:45",
@@ -421,6 +411,18 @@
    "members_level": "べりーばたけ",
    "like_count": 184,
    "view_count": null
+  },
+  {
+   "video_id": "Q1UFFysg6Fw",
+   "start": "2026-11-09 23:02",
+   "title": "【メン限】眠気と共にゆる～い雑談しちゃおっ！！【早乙女ベリー/にじさんじ】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "べりーばたけ",
+   "like_count": 31,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -432,6 +434,16 @@
    "status": "members_only",
    "members_level": "べりーばたけ",
    "like_count": 184,
+   "view_count": null
+  },
+  {
+   "video_id": "Q1UFFysg6Fw",
+   "start": "2026-11-09 23:02",
+   "title": "【メン限】眠気と共にゆる～い雑談しちゃおっ！！【早乙女ベリー/にじさんじ】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "べりーばたけ",
+   "like_count": 31,
    "view_count": null
   }
  ],
@@ -571,10 +583,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-09"
+    "to": "2026-11-10"
    },
    "streams_analyzed": 11,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 979,
    "members_confirmed": 252,
    "member_classes": {

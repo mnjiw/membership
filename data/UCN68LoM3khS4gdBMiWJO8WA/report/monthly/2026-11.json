@@ -2,26 +2,30 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-09"
+  "to": "2026-11-10"
  },
- "streams_analyzed": 7,
+ "streams_analyzed": 8,
  "streams_missed": 0,
- "unique_chatters": 363,
- "members_confirmed": 144,
+ "unique_chatters": 399,
+ "members_confirmed": 153,
  "member_classes": {
-  "known": 102,
-  "unknown": 33,
+  "known": 108,
+  "unknown": 36,
   "gift": 9
  },
- "long_term_members": 122,
+ "long_term_members": 129,
  "badges": [
   {
    "months": 0,
    "members": 8
   },
   {
+   "months": 1,
+   "members": 1
+  },
+  {
    "months": 2,
-   "members": 7
+   "members": 8
   },
   {
    "months": 6,
@@ -29,41 +33,41 @@
   },
   {
    "months": 12,
-   "members": 22
+   "members": 24
   },
   {
    "months": 24,
-   "members": 34
+   "members": 36
   },
   {
    "months": 36,
-   "members": 46
+   "members": 48
   },
   {
    "months": 48,
-   "members": 20
+   "members": 21
   }
  ],
  "events": {
   "new_members": 0,
-  "rejoins": 2,
-  "milestones": 25,
+  "rejoins": 3,
+  "milestones": 29,
   "gifted_total": 9
  },
  "tiers": [
   {
    "tier": "Maidenship",
    "price": 690,
-   "confirmed_members": 102,
-   "estimated_members": 135.0
+   "confirmed_members": 108,
+   "estimated_members": 144.0
   }
  ],
  "revenue": {
-  "monthly_low": 59277,
-  "monthly_est": 59277,
+  "monthly_low": 63229,
+  "monthly_est": 63229,
   "gift_once": 3952
  },
- "avg_member_chatters": 52.4,
+ "avg_member_chatters": 53.1,
  "partial": true,
  "finalized": false
 }

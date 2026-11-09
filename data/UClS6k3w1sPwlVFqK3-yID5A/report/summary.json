@@ -3,36 +3,36 @@
  "channel_id": "UClS6k3w1sPwlVFqK3-yID5A",
  "handle": "@RyuHari",
  "subscribers": 44900,
- "fetched_at": "2026-11-09 10:45",
- "generated_at": "2026-11-09 10:45",
+ "fetched_at": "2026-11-10 05:28",
+ "generated_at": "2026-11-10 05:28",
  "period": {
-  "from": "2026-10-10 10:45",
-  "to": "2026-11-09 10:45",
+  "from": "2026-10-11 05:28",
+  "to": "2026-11-10 05:28",
   "days": 30
  },
- "streams_analyzed": 14,
- "streams_missed": 1,
+ "streams_analyzed": 13,
+ "streams_missed": 2,
  "unique_chatters": 199,
- "members_confirmed": 128,
+ "members_confirmed": 127,
  "member_classes": {
   "unknown": 34,
   "known": 16,
-  "gift": 78
+  "gift": 77
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 128
+   "members": 127
   }
  ],
  "events": {
   "new_members": 5,
   "rejoins": 0,
   "milestones": 10,
-  "gift_purchases": 9,
-  "gifted_total": 79,
-  "gift_redemptions": 79
+  "gift_purchases": 7,
+  "gifted_total": 77,
+  "gift_redemptions": 77
  },
  "tiers_configured": true,
  "tiers": [
@@ -51,9 +51,9 @@
  "revenue": {
   "monthly_low": 15591,
   "monthly_est": 15591,
-  "gift_once": 24634,
-  "total_low": 40225,
-  "total_est": 40225,
+  "gift_once": 24010,
+  "total_low": 39601,
+  "total_est": 39601,
   "paying_members": 50,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -63,16 +63,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "SpLy_iOY9oE",
-   "start": "2026-10-10 22:19",
-   "title": "[SILENT HILL: Townfall] #7 ここから出たい　※ネタバレ注意　【にじさんじ／リュハリ】",
-   "kind": "配信",
-   "chatters": 22,
-   "member_chatters": 16,
-   "new_members": 0,
-   "gifted_total": 2
-  },
   {
    "video_id": "xg1L9h8tq7w",
    "start": "2026-10-13 22:30",
@@ -216,6 +206,18 @@
    "members_level": "",
    "like_count": 21,
    "view_count": null
+  },
+  {
+   "video_id": "8qNFMYLe-6w",
+   "start": "2026-11-09 22:01",
+   "title": "さむいっす",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 26,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -227,6 +229,16 @@
    "status": "members_only",
    "members_level": "",
    "like_count": 21,
+   "view_count": null
+  },
+  {
+   "video_id": "8qNFMYLe-6w",
+   "start": "2026-11-09 22:01",
+   "title": "さむいっす",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 26,
    "view_count": null
   }
  ],
@@ -327,10 +339,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-09"
+    "to": "2026-11-10"
    },
    "streams_analyzed": 5,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 76,
    "members_confirmed": 51,
    "member_classes": {

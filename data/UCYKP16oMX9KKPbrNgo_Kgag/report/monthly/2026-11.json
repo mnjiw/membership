@@ -2,17 +2,17 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-09"
+  "to": "2026-11-10"
  },
- "streams_analyzed": 9,
+ "streams_analyzed": 11,
  "streams_missed": 0,
- "unique_chatters": 819,
- "members_confirmed": 161,
+ "unique_chatters": 1109,
+ "members_confirmed": 195,
  "member_classes": {
-  "unknown": 134,
-  "known": 27
+  "unknown": 162,
+  "known": 33
  },
- "long_term_members": 137,
+ "long_term_members": 168,
  "badges": [
   {
    "months": 0,
@@ -24,49 +24,49 @@
   },
   {
    "months": 2,
-   "members": 1
+   "members": 2
   },
   {
    "months": 6,
-   "members": 13
+   "members": 15
   },
   {
    "months": 12,
-   "members": 26
-  },
-  {
-   "months": 24,
-   "members": 21
-  },
-  {
-   "months": 36,
    "members": 35
   },
   {
+   "months": 24,
+   "members": 27
+  },
+  {
+   "months": 36,
+   "members": 40
+  },
+  {
    "months": 48,
-   "members": 55
+   "members": 66
   }
  ],
  "events": {
   "new_members": 2,
   "rejoins": 0,
-  "milestones": 3,
+  "milestones": 11,
   "gifted_total": 0
  },
  "tiers": [
   {
    "tier": "エルフの森",
    "price": 490,
-   "confirmed_members": 27,
-   "estimated_members": 161.0
+   "confirmed_members": 33,
+   "estimated_members": 195.0
   }
  ],
  "revenue": {
-  "monthly_low": 50203,
-  "monthly_est": 50203,
+  "monthly_low": 60805,
+  "monthly_est": 60805,
   "gift_once": 0
  },
- "avg_member_chatters": 60.9,
+ "avg_member_chatters": 65.3,
  "partial": true,
  "finalized": false
 }

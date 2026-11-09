@@ -3,27 +3,27 @@
  "channel_id": "UC_4QF0dL-9XI9VajsNkMtmQ",
  "handle": "@Rei7_Y4T4",
  "subscribers": 179000,
- "fetched_at": "2026-11-09 10:46",
- "generated_at": "2026-11-09 10:47",
+ "fetched_at": "2026-11-10 05:35",
+ "generated_at": "2026-11-10 05:36",
  "period": {
-  "from": "2026-10-10 10:46",
-  "to": "2026-11-09 10:46",
+  "from": "2026-10-11 05:35",
+  "to": "2026-11-10 05:35",
   "days": 30
  },
  "streams_analyzed": 32,
  "streams_missed": 2,
- "unique_chatters": 5464,
- "members_confirmed": 712,
+ "unique_chatters": 5373,
+ "members_confirmed": 713,
  "member_classes": {
   "unknown": 621,
-  "known": 79,
+  "known": 80,
   "gift": 12
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 86
+   "members": 88
   },
   {
    "months": 1,
@@ -33,11 +33,11 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 569
+   "members": 568
   }
  ],
  "events": {
-  "new_members": 52,
+  "new_members": 53,
   "rejoins": 8,
   "milestones": 0,
   "gift_purchases": 4,
@@ -50,21 +50,21 @@
    "tier": "Ris7",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 79,
+   "confirmed_members": 80,
    "share_of_confirmed_pct": 100.0,
    "allocated_unknown": 621.0,
-   "estimated_members": 700.0,
-   "monthly_net_confirmed": 24634,
-   "monthly_net_estimated": 218273
+   "estimated_members": 701.0,
+   "monthly_net_confirmed": 24945,
+   "monthly_net_estimated": 218585
   }
  ],
  "revenue": {
-  "monthly_low": 218273,
-  "monthly_est": 218273,
+  "monthly_low": 218585,
+  "monthly_est": 218585,
   "gift_once": 3742,
-  "total_low": 222015,
-  "total_est": 222015,
-  "paying_members": 700,
+  "total_low": 222326,
+  "total_est": 222326,
+  "paying_members": 701,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "W5g-1HrAG-Q",
-   "start": "2026-10-10 20:00",
-   "title": "#2【 ドラゴンクエストモンスターズ　テリーのワンダーランドRETRO 】人生初ドラクエやるななよ【 Rei7 / にじさんじ 】",
-   "kind": "配信",
-   "chatters": 683,
-   "member_chatters": 119,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "o-kgBtPsclU",
    "start": "2026-10-11 19:01",
@@ -392,6 +382,16 @@
    "member_chatters": 72,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "25OymBPn-tw",
+   "start": "2026-11-09 21:05",
+   "title": "#6【 ドラゴンクエストモンスターズ　テリーのワンダーランドRETRO 】Sクラス後、その後の私【 Rei7 / にじさんじ 】",
+   "kind": "配信",
+   "chatters": 501,
+   "member_chatters": 132,
+   "new_members": 2,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -416,7 +416,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "Ris7",
-   "like_count": 243,
+   "like_count": 247,
    "view_count": null
   }
  ],
@@ -438,7 +438,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "Ris7",
-   "like_count": 243,
+   "like_count": 247,
    "view_count": null
   }
  ],
@@ -555,34 +555,34 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-09"
+    "to": "2026-11-10"
    },
-   "streams_analyzed": 9,
+   "streams_analyzed": 10,
    "streams_missed": 1,
-   "unique_chatters": 1901,
-   "members_confirmed": 414,
+   "unique_chatters": 2188,
+   "members_confirmed": 430,
    "member_classes": {
-    "unknown": 375,
-    "known": 38,
+    "unknown": 387,
+    "known": 42,
     "gift": 1
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 38
+     "members": 44
     },
     {
      "months": 1,
-     "members": 23
+     "members": 24
     },
     {
      "months": 2,
-     "members": 353
+     "members": 362
     }
    ],
    "events": {
-    "new_members": 16,
+    "new_members": 18,
     "rejoins": 2,
     "milestones": 0,
     "gifted_total": 1
@@ -591,16 +591,16 @@
     {
      "tier": "Ris7",
      "price": 490,
-     "confirmed_members": 38,
-     "estimated_members": 413.0
+     "confirmed_members": 42,
+     "estimated_members": 429.0
     }
    ],
    "revenue": {
-    "monthly_low": 128781,
-    "monthly_est": 128781,
+    "monthly_low": 133770,
+    "monthly_est": 133770,
     "gift_once": 312
    },
-   "avg_member_chatters": 133.2,
+   "avg_member_chatters": 133.1,
    "partial": true,
    "finalized": false
   }

@@ -3,19 +3,19 @@
  "channel_id": "UC0g1AE0DOjBYnLhkgoRWN1w",
  "handle": "@HonmaHimawari",
  "subscribers": 785000,
- "fetched_at": "2026-11-09 10:43",
- "generated_at": "2026-11-09 10:43",
+ "fetched_at": "2026-11-10 05:19",
+ "generated_at": "2026-11-10 05:19",
  "period": {
-  "from": "2026-10-10 10:43",
-  "to": "2026-11-09 10:43",
+  "from": "2026-10-11 05:19",
+  "to": "2026-11-10 05:19",
   "days": 30
  },
  "streams_analyzed": 26,
  "streams_missed": 1,
- "unique_chatters": 2171,
- "members_confirmed": 285,
+ "unique_chatters": 2162,
+ "members_confirmed": 286,
  "member_classes": {
-  "unknown": 266,
+  "unknown": 267,
   "known": 14,
   "gift": 5
  },
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 7
+   "members": 8
   },
   {
    "months": 6,
@@ -77,19 +77,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 14,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 266.0,
-   "estimated_members": 280.0,
+   "allocated_unknown": 267.0,
+   "estimated_members": 281.0,
    "monthly_net_confirmed": 4365,
-   "monthly_net_estimated": 87309
+   "monthly_net_estimated": 87621
   }
  ],
  "revenue": {
-  "monthly_low": 87309,
-  "monthly_est": 87309,
+  "monthly_low": 87621,
+  "monthly_est": 87621,
   "gift_once": 1559,
-  "total_low": 88868,
-  "total_est": 88868,
-  "paying_members": 280,
+  "total_low": 89180,
+  "total_est": 89180,
+  "paying_members": 281,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "SynjF8WumHY",
-   "start": "2026-10-10 12:23",
-   "title": "#2 ꒰FF1꒱　人生初FF🔥光の４人の戦士たち！　˹ 本間ひまわり にじさんじ ˼",
-   "kind": "配信",
-   "chatters": 266,
-   "member_chatters": 65,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "Fq5RR1ORQgc",
    "start": "2026-10-11 12:01",
@@ -357,6 +347,16 @@
    "member_chatters": 96,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "dAN8OKZEYMQ",
+   "start": "2026-11-09 20:31",
+   "title": "꒰スプラトゥーン3꒱　いか祭おつかれスプラ　ダイナモやりたいやろって～　　˹ 本間ひまわり にじさんじのみなさん ˼",
+   "kind": "配信",
+   "chatters": 276,
+   "member_chatters": 97,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -537,17 +537,17 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-09"
+    "to": "2026-11-10"
    },
-   "streams_analyzed": 7,
+   "streams_analyzed": 8,
    "streams_missed": 0,
-   "unique_chatters": 764,
-   "members_confirmed": 154,
+   "unique_chatters": 853,
+   "members_confirmed": 164,
    "member_classes": {
-    "unknown": 146,
+    "unknown": 156,
     "known": 8
    },
-   "long_term_members": 148,
+   "long_term_members": 156,
    "badges": [
     {
      "months": 1,
@@ -555,7 +555,7 @@
     },
     {
      "months": 2,
-     "members": 2
+     "members": 4
     },
     {
      "months": 6,
@@ -563,19 +563,19 @@
     },
     {
      "months": 12,
-     "members": 10
+     "members": 11
     },
     {
      "months": 24,
-     "members": 15
+     "members": 16
     },
     {
      "months": 36,
-     "members": 14
+     "members": 15
     },
     {
      "months": 48,
-     "members": 109
+     "members": 114
     }
    ],
    "events": {
@@ -589,15 +589,15 @@
      "tier": "ひまぐま",
      "price": 490,
      "confirmed_members": 8,
-     "estimated_members": 154.0
+     "estimated_members": 164.0
     }
    ],
    "revenue": {
-    "monthly_low": 48020,
-    "monthly_est": 48020,
+    "monthly_low": 51138,
+    "monthly_est": 51138,
     "gift_once": 0
    },
-   "avg_member_chatters": 84.3,
+   "avg_member_chatters": 85.9,
    "partial": true,
    "finalized": false
   }

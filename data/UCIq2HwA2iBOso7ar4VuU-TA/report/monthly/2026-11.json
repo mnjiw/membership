@@ -2,59 +2,60 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-09"
+  "to": "2026-11-10"
  },
- "streams_analyzed": 9,
+ "streams_analyzed": 10,
  "streams_missed": 0,
- "unique_chatters": 2508,
- "members_confirmed": 458,
+ "unique_chatters": 2722,
+ "members_confirmed": 514,
  "member_classes": {
-  "unknown": 439,
-  "known": 19
+  "unknown": 471,
+  "known": 23,
+  "gift": 20
  },
- "long_term_members": 220,
+ "long_term_members": 230,
  "badges": [
   {
    "months": 0,
-   "members": 27
+   "members": 50
   },
   {
    "months": 1,
-   "members": 29
+   "members": 34
   },
   {
    "months": 2,
-   "members": 78
+   "members": 85
   },
   {
    "months": 6,
-   "members": 104
+   "members": 115
   },
   {
    "months": 12,
-   "members": 220
+   "members": 230
   }
  ],
  "events": {
-  "new_members": 5,
+  "new_members": 8,
   "rejoins": 1,
   "milestones": 0,
-  "gifted_total": 0
+  "gifted_total": 20
  },
  "tiers": [
   {
    "tier": "かたつむり組",
    "price": 490,
-   "confirmed_members": 19,
-   "estimated_members": 458.0
+   "confirmed_members": 23,
+   "estimated_members": 494.0
   }
  ],
  "revenue": {
-  "monthly_low": 142813,
-  "monthly_est": 142813,
-  "gift_once": 0
+  "monthly_low": 154038,
+  "monthly_est": 154038,
+  "gift_once": 6236
  },
- "avg_member_chatters": 171.9,
+ "avg_member_chatters": 177.7,
  "partial": true,
  "finalized": false
 }
