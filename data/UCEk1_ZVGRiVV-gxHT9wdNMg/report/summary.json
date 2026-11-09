@@ -3,16 +3,16 @@
  "channel_id": "UCEk1_ZVGRiVV-gxHT9wdNMg",
  "handle": "@Kasukano_Utsuro",
  "subscribers": 73100,
- "fetched_at": "2026-11-09 10:51",
- "generated_at": "2026-11-09 10:51",
+ "fetched_at": "2026-11-10 06:34",
+ "generated_at": "2026-11-10 06:35",
  "period": {
-  "from": "2026-10-10 10:51",
-  "to": "2026-11-09 10:51",
+  "from": "2026-10-11 06:34",
+  "to": "2026-11-10 06:34",
   "days": 30
  },
  "streams_analyzed": 24,
  "streams_missed": 6,
- "unique_chatters": 395,
+ "unique_chatters": 392,
  "members_confirmed": 137,
  "member_classes": {
   "known": 31,
@@ -28,12 +28,12 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 2
+   "members": 1
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 5
+   "members": 6
   },
   {
    "months": 6,
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "u3OcgxiVgBY",
-   "start": "2026-10-10 21:30",
-   "title": "【 めっちゃカメレオン 】視聴者参加型 | レッツかくれんぼ【 幽乃うつろ / ネオポルテ 】",
-   "kind": "配信",
-   "chatters": 54,
-   "member_chatters": 36,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "erXaLIe5K0Q",
    "start": "2026-10-11 18:03",
@@ -330,6 +320,16 @@
    "kind": "配信",
    "chatters": 91,
    "member_chatters": 52,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "NOsFO16KCbk",
+   "start": "2026-11-09 22:52",
+   "title": "【 夢物語の街 】まったりchillなお片付け＆お部屋作り📦【 幽乃うつろ / ネオポルテ 】",
+   "kind": "配信",
+   "chatters": 49,
+   "member_chatters": 29,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -603,11 +603,11 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-09"
+    "to": "2026-11-10"
    },
-   "streams_analyzed": 8,
+   "streams_analyzed": 9,
    "streams_missed": 0,
-   "unique_chatters": 261,
+   "unique_chatters": 265,
    "members_confirmed": 109,
    "member_classes": {
     "unknown": 83,
@@ -622,11 +622,11 @@
     },
     {
      "months": 1,
-     "members": 2
+     "members": 1
     },
     {
      "months": 2,
-     "members": 1
+     "members": 2
     },
     {
      "months": 6,
@@ -664,7 +664,7 @@
     "monthly_est": 33676,
     "gift_once": 312
    },
-   "avg_member_chatters": 37.5,
+   "avg_member_chatters": 36.6,
    "partial": true,
    "finalized": false
   }

@@ -3,20 +3,20 @@
  "channel_id": "UCK_lMxHpJFGCGz3gXJgaoQw",
  "handle": "@lumi_yukime",
  "subscribers": 27400,
- "fetched_at": "2026-11-09 10:51",
- "generated_at": "2026-11-09 10:51",
+ "fetched_at": "2026-11-10 06:32",
+ "generated_at": "2026-11-10 06:32",
  "period": {
-  "from": "2026-10-10 10:51",
-  "to": "2026-11-09 10:51",
+  "from": "2026-10-11 06:32",
+  "to": "2026-11-10 06:32",
   "days": 30
  },
  "streams_analyzed": 26,
  "streams_missed": 1,
  "unique_chatters": 649,
- "members_confirmed": 290,
+ "members_confirmed": 289,
  "member_classes": {
+  "unknown": 53,
   "known": 10,
-  "unknown": 54,
   "gift": 226
  },
  "badges": [
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 44
+   "members": 43
   },
   {
    "months": 6,
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 10,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 54.0,
-   "estimated_members": 64.0,
+   "allocated_unknown": 53.0,
+   "estimated_members": 63.0,
    "monthly_net_confirmed": 3118,
-   "monthly_net_estimated": 19956
+   "monthly_net_estimated": 19645
   }
  ],
  "revenue": {
-  "monthly_low": 19956,
-  "monthly_est": 19956,
+  "monthly_low": 19645,
+  "monthly_est": 19645,
   "gift_once": 71095,
-  "total_low": 91051,
-  "total_est": 91051,
-  "paying_members": 64,
+  "total_low": 90739,
+  "total_est": 90739,
+  "paying_members": 63,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "vSFv8wuMpRM",
-   "start": "2026-10-10 18:46",
-   "title": "*❅ GTA5 #SURGECity┊金欠です。DAY2〖 雪芽るみ┊すぺしゃりて 〗",
-   "kind": "配信",
-   "chatters": 53,
-   "member_chatters": 22,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "9PTRzjLFnQY",
    "start": "2026-10-11 18:44",
@@ -347,6 +337,16 @@
    "member_chatters": 17,
    "new_members": 0,
    "gifted_total": 1
+  },
+  {
+   "video_id": "1h3vVCRaH34",
+   "start": "2026-11-09 19:45",
+   "title": "*❅ GTA5 #ガチグラ2┊車に乗れますように。DAY3〖 雪芽るみ┊すぺしゃりて 〗",
+   "kind": "配信",
+   "chatters": 34,
+   "member_chatters": 14,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -511,11 +511,11 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-09"
+    "to": "2026-11-10"
    },
-   "streams_analyzed": 7,
+   "streams_analyzed": 8,
    "streams_missed": 0,
-   "unique_chatters": 234,
+   "unique_chatters": 241,
    "members_confirmed": 65,
    "member_classes": {
     "known": 6,
@@ -568,7 +568,7 @@
     "monthly_est": 19956,
     "gift_once": 312
    },
-   "avg_member_chatters": 22.4,
+   "avg_member_chatters": 21.4,
    "partial": true,
    "finalized": false
   }

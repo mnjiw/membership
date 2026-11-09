@@ -3,27 +3,27 @@
  "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
  "handle": "@KosekiBijou",
  "subscribers": 1000000,
- "fetched_at": "2026-11-09 10:49",
- "generated_at": "2026-11-09 10:49",
+ "fetched_at": "2026-11-10 06:26",
+ "generated_at": "2026-11-10 06:28",
  "period": {
-  "from": "2026-10-10 10:49",
-  "to": "2026-11-09 10:49",
+  "from": "2026-10-11 06:26",
+  "to": "2026-11-10 06:26",
   "days": 30
  },
- "streams_analyzed": 30,
+ "streams_analyzed": 31,
  "streams_missed": 1,
- "unique_chatters": 26169,
- "members_confirmed": 3411,
+ "unique_chatters": 26581,
+ "members_confirmed": 3440,
  "member_classes": {
-  "known": 1074,
-  "unknown": 1589,
-  "gift": 748
+  "known": 1079,
+  "unknown": 1593,
+  "gift": 768
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 871
+   "members": 887
   },
   {
    "months": 1,
@@ -38,21 +38,21 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 233
+   "members": 236
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 2043
+   "members": 2053
   }
  ],
  "events": {
   "new_members": 36,
-  "rejoins": 45,
-  "milestones": 486,
-  "gift_purchases": 62,
-  "gifted_total": 753,
-  "gift_redemptions": 753
+  "rejoins": 46,
+  "milestones": 491,
+  "gift_purchases": 63,
+  "gifted_total": 773,
+  "gift_redemptions": 773
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,12 +60,12 @@
    "tier": "Gemlins",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 1050,
+   "confirmed_members": 1055,
    "share_of_confirmed_pct": 97.8,
-   "allocated_unknown": 1553.5,
-   "estimated_members": 2603.5,
-   "monthly_net_confirmed": 461045,
-   "monthly_net_estimated": 1143170
+   "allocated_unknown": 1557.6,
+   "estimated_members": 2612.6,
+   "monthly_net_confirmed": 463241,
+   "monthly_net_estimated": 1147155
   },
   {
    "tier": "The Boulders",
@@ -76,7 +76,7 @@
    "allocated_unknown": 8.9,
    "estimated_members": 14.9,
    "monthly_net_confirmed": 7598,
-   "monthly_net_estimated": 18840
+   "monthly_net_estimated": 18816
   },
   {
    "tier": "Moai Moai Kyun",
@@ -87,16 +87,16 @@
    "allocated_unknown": 26.6,
    "estimated_members": 44.6,
    "monthly_net_confirmed": 39976,
-   "monthly_net_estimated": 99122
+   "monthly_net_estimated": 98996
   }
  ],
  "revenue": {
-  "monthly_low": 1206335,
-  "monthly_est": 1261131,
-  "gift_once": 330635,
-  "total_low": 1536971,
-  "total_est": 1591767,
-  "paying_members": 2663,
+  "monthly_low": 1210287,
+  "monthly_est": 1264967,
+  "gift_once": 339417,
+  "total_low": 1549705,
+  "total_est": 1604384,
+  "paying_members": 2672,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -404,6 +404,16 @@
    "member_chatters": 632,
    "new_members": 0,
    "gifted_total": 22
+  },
+  {
+   "video_id": "X2guMrZF6_M",
+   "start": "2026-11-09 12:23",
+   "title": "【PEAK】Showing my kouhai what peak looks like",
+   "kind": "配信",
+   "chatters": 2307,
+   "member_chatters": 708,
+   "new_members": 0,
+   "gifted_total": 20
   }
  ],
  "missed_streams": [
@@ -416,7 +426,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 1094,
+   "like_count": 1095,
    "view_count": null
   }
  ],
@@ -428,7 +438,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 1094,
+   "like_count": 1095,
    "view_count": null
   }
  ],
@@ -562,72 +572,72 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-09"
+    "to": "2026-11-10"
    },
-   "streams_analyzed": 8,
+   "streams_analyzed": 9,
    "streams_missed": 0,
-   "unique_chatters": 13793,
-   "members_confirmed": 2294,
+   "unique_chatters": 14476,
+   "members_confirmed": 2362,
    "member_classes": {
-    "unknown": 1142,
-    "known": 890,
-    "gift": 262
+    "unknown": 1178,
+    "known": 902,
+    "gift": 282
    },
-   "long_term_members": 1575,
+   "long_term_members": 1610,
    "badges": [
     {
      "months": 0,
-     "members": 346
+     "members": 365
     },
     {
      "months": 1,
-     "members": 43
+     "members": 45
     },
     {
      "months": 2,
-     "members": 146
+     "members": 151
     },
     {
      "months": 6,
-     "members": 184
+     "members": 191
     },
     {
      "months": 12,
-     "members": 1575
+     "members": 1610
     }
    ],
    "events": {
     "new_members": 10,
-    "rejoins": 21,
-    "milestones": 291,
-    "gifted_total": 262
+    "rejoins": 22,
+    "milestones": 296,
+    "gifted_total": 282
    },
    "tiers": [
     {
      "tier": "Gemlins",
      "price": 690,
-     "confirmed_members": 870,
-     "estimated_members": 1986.3
+     "confirmed_members": 881,
+     "estimated_members": 2031.6
     },
     {
      "tier": "The Boulders",
      "price": 1990,
-     "confirmed_members": 3,
-     "estimated_members": 6.8
+     "confirmed_members": 4,
+     "estimated_members": 9.2
     },
     {
      "tier": "Moai Moai Kyun",
      "price": 3490,
      "confirmed_members": 17,
-     "estimated_members": 38.8
+     "estimated_members": 39.2
     }
    ],
    "revenue": {
-    "monthly_low": 925005,
-    "monthly_est": 967058,
-    "gift_once": 115042
+    "monthly_low": 946909,
+    "monthly_est": 990790,
+    "gift_once": 123824
    },
-   "avg_member_chatters": 789.6,
+   "avg_member_chatters": 780.6,
    "partial": true,
    "finalized": false
   }

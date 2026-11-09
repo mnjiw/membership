@@ -3,19 +3,19 @@
  "channel_id": "UCL9hJsdk9eQa0IlWbFB2oRg",
  "handle": "@HanabiChoya",
  "subscribers": 312000,
- "fetched_at": "2026-11-09 10:50",
- "generated_at": "2026-11-09 10:50",
+ "fetched_at": "2026-11-10 06:30",
+ "generated_at": "2026-11-10 06:30",
  "period": {
-  "from": "2026-10-10 10:50",
-  "to": "2026-11-09 10:50",
+  "from": "2026-10-11 06:30",
+  "to": "2026-11-10 06:30",
   "days": 30
  },
- "streams_analyzed": 24,
- "streams_missed": 1,
- "unique_chatters": 4596,
- "members_confirmed": 1129,
+ "streams_analyzed": 23,
+ "streams_missed": 2,
+ "unique_chatters": 4574,
+ "members_confirmed": 1124,
  "member_classes": {
-  "unknown": 768,
+  "unknown": 763,
   "known": 245,
   "gift": 116
  },
@@ -38,12 +38,12 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 211
+   "members": 210
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 466
+   "members": 462
   }
  ],
  "events": {
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 245,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 768.0,
-   "estimated_members": 1013.0,
+   "allocated_unknown": 763.0,
+   "estimated_members": 1008.0,
    "monthly_net_confirmed": 76395,
-   "monthly_net_estimated": 315872
+   "monthly_net_estimated": 314313
   }
  ],
  "revenue": {
-  "monthly_low": 315872,
-  "monthly_est": 315872,
+  "monthly_low": 314313,
+  "monthly_est": 314313,
   "gift_once": 36171,
-  "total_low": 352043,
-  "total_est": 352043,
-  "paying_members": 1013,
+  "total_low": 350484,
+  "total_est": 350484,
+  "paying_members": 1008,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "VoQ3gHwQaFg",
-   "start": "2026-10-10 13:30",
-   "title": "【 Tick Tock: A Tale for Two 】　もかとならどこいったって大丈夫だ！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-   "kind": "配信",
-   "chatters": 143,
-   "member_chatters": 82,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "ec-2kflMSRM",
    "start": "2026-10-11 19:01",
@@ -336,6 +326,18 @@
    "members_level": "",
    "like_count": 172,
    "view_count": null
+  },
+  {
+   "video_id": "YtSMBVLOulo",
+   "start": "2026-11-09 23:06",
+   "title": "【メン限】最近さむいねえ！！！！！！！【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 177,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -347,6 +349,16 @@
    "status": "members_only",
    "members_level": "",
    "like_count": 172,
+   "view_count": null
+  },
+  {
+   "video_id": "YtSMBVLOulo",
+   "start": "2026-11-09 23:06",
+   "title": "【メン限】最近さむいねえ！！！！！！！【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 177,
    "view_count": null
   }
  ],
@@ -468,10 +480,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-09"
+    "to": "2026-11-10"
    },
    "streams_analyzed": 7,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 2284,
    "members_confirmed": 969,
    "member_classes": {

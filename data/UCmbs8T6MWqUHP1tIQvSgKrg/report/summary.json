@@ -3,27 +3,27 @@
  "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
  "handle": "@OuroKronii",
  "subscribers": 1170000,
- "fetched_at": "2026-11-09 10:49",
- "generated_at": "2026-11-09 10:49",
+ "fetched_at": "2026-11-10 06:26",
+ "generated_at": "2026-11-10 06:26",
  "period": {
-  "from": "2026-10-10 10:49",
-  "to": "2026-11-09 10:49",
+  "from": "2026-10-11 06:26",
+  "to": "2026-11-10 06:26",
   "days": 30
  },
- "streams_analyzed": 12,
+ "streams_analyzed": 11,
  "streams_missed": 0,
- "unique_chatters": 12069,
- "members_confirmed": 2141,
+ "unique_chatters": 11523,
+ "members_confirmed": 2096,
  "member_classes": {
-  "known": 578,
-  "unknown": 1337,
-  "gift": 226
+  "unknown": 1307,
+  "known": 567,
+  "gift": 222
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 269
+   "members": 264
   },
   {
    "months": 1,
@@ -33,46 +33,46 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 158
+   "members": 155
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 215
+   "members": 211
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 391
+   "members": 383
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 242
+   "members": 241
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 177
+   "members": 171
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 263
+   "members": 255
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 386
+   "members": 376
   }
  ],
  "events": {
-  "new_members": 10,
-  "rejoins": 22,
-  "milestones": 442,
-  "gift_purchases": 91,
-  "gifted_total": 252,
-  "gift_redemptions": 227
+  "new_members": 8,
+  "rejoins": 20,
+  "milestones": 414,
+  "gift_purchases": 84,
+  "gifted_total": 245,
+  "gift_redemptions": 222
  },
  "tiers_configured": true,
  "tiers": [
@@ -80,43 +80,43 @@
    "tier": "Second",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 552,
-   "share_of_confirmed_pct": 95.5,
-   "allocated_unknown": 1276.9,
-   "estimated_members": 1828.9,
-   "monthly_net_confirmed": 242378,
-   "monthly_net_estimated": 803035
+   "confirmed_members": 542,
+   "share_of_confirmed_pct": 95.6,
+   "allocated_unknown": 1249.4,
+   "estimated_members": 1791.4,
+   "monthly_net_confirmed": 237987,
+   "monthly_net_estimated": 786575
   },
   {
    "tier": "Minute",
    "price": 1290,
    "net_per_member": 820.9,
    "confirmed_members": 13,
-   "share_of_confirmed_pct": 2.2,
-   "allocated_unknown": 30.1,
-   "estimated_members": 43.1,
+   "share_of_confirmed_pct": 2.3,
+   "allocated_unknown": 30.0,
+   "estimated_members": 43.0,
    "monthly_net_confirmed": 10672,
-   "monthly_net_estimated": 35357
+   "monthly_net_estimated": 35272
   },
   {
    "tier": "Hour",
    "price": 3490,
    "net_per_member": 2220.9,
-   "confirmed_members": 13,
-   "share_of_confirmed_pct": 2.2,
-   "allocated_unknown": 30.1,
-   "estimated_members": 43.1,
-   "monthly_net_confirmed": 28872,
-   "monthly_net_estimated": 95657
+   "confirmed_members": 12,
+   "share_of_confirmed_pct": 2.1,
+   "allocated_unknown": 27.7,
+   "estimated_members": 39.7,
+   "monthly_net_confirmed": 26651,
+   "monthly_net_estimated": 88084
   }
  ],
  "revenue": {
-  "monthly_low": 868986,
-  "monthly_est": 934049,
-  "gift_once": 110651,
-  "total_low": 979637,
-  "total_est": 1044700,
-  "paying_members": 1915,
+  "monthly_low": 849202,
+  "monthly_est": 909931,
+  "gift_once": 107577,
+  "total_low": 956779,
+  "total_est": 1017508,
+  "paying_members": 1874,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -125,16 +125,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "ww0nnMSWO7I",
-   "start": "2026-10-10 13:15",
-   "title": "【Hololive Dreams】First Time Playing #holodori",
-   "kind": "配信",
-   "chatters": 2009,
-   "member_chatters": 563,
-   "new_members": 2,
-   "gifted_total": 7
-  },
   {
    "video_id": "liHFYjCa2Dg",
    "start": "2026-10-11 13:03",

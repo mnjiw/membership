@@ -3,32 +3,32 @@
  "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
  "handle": "@VestiaZeta",
  "subscribers": 1060000,
- "fetched_at": "2026-11-09 10:48",
- "generated_at": "2026-11-09 10:49",
+ "fetched_at": "2026-11-10 06:25",
+ "generated_at": "2026-11-10 06:26",
  "period": {
-  "from": "2026-10-10 10:48",
-  "to": "2026-11-09 10:48",
+  "from": "2026-10-11 06:25",
+  "to": "2026-11-10 06:25",
   "days": 30
  },
  "streams_analyzed": 25,
  "streams_missed": 4,
- "unique_chatters": 9340,
- "members_confirmed": 1139,
+ "unique_chatters": 9453,
+ "members_confirmed": 1115,
  "member_classes": {
-  "unknown": 546,
+  "unknown": 548,
   "known": 311,
-  "gift": 282
+  "gift": 256
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 475
+   "members": 448
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 65
+   "members": 67
   },
   {
    "months": 2,
@@ -58,16 +58,16 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 101
+   "members": 102
   }
  ],
  "events": {
-  "new_members": 65,
-  "rejoins": 28,
-  "milestones": 182,
-  "gift_purchases": 51,
-  "gifted_total": 290,
-  "gift_redemptions": 285
+  "new_members": 64,
+  "rejoins": 29,
+  "milestones": 181,
+  "gift_purchases": 48,
+  "gifted_total": 264,
+  "gift_redemptions": 259
  },
  "tiers_configured": true,
  "tiers": [
@@ -77,19 +77,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 311,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 546.0,
-   "estimated_members": 857.0,
+   "allocated_unknown": 548.0,
+   "estimated_members": 859.0,
    "monthly_net_confirmed": 96975,
-   "monthly_net_estimated": 267228
+   "monthly_net_estimated": 267852
   }
  ],
  "revenue": {
-  "monthly_low": 267228,
-  "monthly_est": 267228,
-  "gift_once": 90427,
-  "total_low": 357655,
-  "total_est": 357655,
-  "paying_members": 857,
+  "monthly_low": 267852,
+  "monthly_est": 267852,
+  "gift_once": 82320,
+  "total_low": 350172,
+  "total_est": 350172,
+  "paying_members": 859,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "gwpNGfL9Pek",
-   "start": "2026-10-10 21:30",
-   "title": "【hololive Dreams】where's my fish..... #holodori #ホロドリ",
-   "kind": "配信",
-   "chatters": 292,
-   "member_chatters": 129,
-   "new_members": 1,
-   "gifted_total": 26
-  },
   {
    "video_id": "ak1Xc3TxJac",
    "start": "2026-10-11 21:31",
@@ -347,6 +337,16 @@
    "member_chatters": 378,
    "new_members": 5,
    "gifted_total": 15
+  },
+  {
+   "video_id": "d00W-TVA01U",
+   "start": "2026-11-09 23:10",
+   "title": "【Solo Shift! Karaoke】iya iya #bozet 👩‍🍳🍳",
+   "kind": "配信",
+   "chatters": 617,
+   "member_chatters": 132,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -371,8 +371,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 10064,
-   "view_count": 161774
+   "like_count": 11188,
+   "view_count": 192732
   },
   {
    "video_id": "V-qN-Hj4K2I",
@@ -383,8 +383,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 1470,
-   "view_count": 19497
+   "like_count": 1683,
+   "view_count": 24383
   },
   {
    "video_id": "Kkcm0vflYD8",
@@ -395,8 +395,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 2346,
-   "view_count": 38248
+   "like_count": 2609,
+   "view_count": 43336
   }
  ],
  "members_only_content": [],
@@ -542,26 +542,26 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-09"
+    "to": "2026-11-10"
    },
-   "streams_analyzed": 4,
+   "streams_analyzed": 5,
    "streams_missed": 3,
-   "unique_chatters": 7663,
-   "members_confirmed": 965,
+   "unique_chatters": 7846,
+   "members_confirmed": 973,
    "member_classes": {
-    "known": 283,
-    "unknown": 478,
+    "known": 284,
+    "unknown": 485,
     "gift": 204
    },
-   "long_term_members": 359,
+   "long_term_members": 362,
    "badges": [
     {
      "months": 0,
-     "members": 369
+     "members": 370
     },
     {
      "months": 1,
-     "members": 59
+     "members": 61
     },
     {
      "months": 2,
@@ -569,11 +569,11 @@
     },
     {
      "months": 6,
-     "members": 80
+     "members": 82
     },
     {
      "months": 12,
-     "members": 130
+     "members": 131
     },
     {
      "months": 24,
@@ -581,33 +581,33 @@
     },
     {
      "months": 36,
-     "members": 71
+     "members": 72
     },
     {
      "months": 48,
-     "members": 92
+     "members": 93
     }
    ],
    "events": {
     "new_members": 51,
-    "rejoins": 17,
-    "milestones": 145,
+    "rejoins": 18,
+    "milestones": 146,
     "gifted_total": 209
    },
    "tiers": [
     {
      "tier": "Secret Unit",
      "price": 490,
-     "confirmed_members": 283,
-     "estimated_members": 761.0
+     "confirmed_members": 284,
+     "estimated_members": 769.0
     }
    ],
    "revenue": {
-    "monthly_low": 237294,
-    "monthly_est": 237294,
+    "monthly_low": 239788,
+    "monthly_est": 239788,
     "gift_once": 65170
    },
-   "avg_member_chatters": 419.2,
+   "avg_member_chatters": 361.8,
    "partial": true,
    "finalized": false
   }

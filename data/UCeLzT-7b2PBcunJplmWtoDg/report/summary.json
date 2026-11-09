@@ -3,25 +3,25 @@
  "channel_id": "UCeLzT-7b2PBcunJplmWtoDg",
  "handle": "@Patra_Suou",
  "subscribers": 954000,
- "fetched_at": "2026-11-09 10:52",
- "generated_at": "2026-11-09 10:52",
+ "fetched_at": "2026-11-10 06:40",
+ "generated_at": "2026-11-10 06:40",
  "period": {
-  "from": "2026-10-10 10:52",
-  "to": "2026-11-09 10:52",
+  "from": "2026-10-11 06:40",
+  "to": "2026-11-10 06:40",
   "days": 30
  },
  "streams_analyzed": 28,
  "streams_missed": 3,
- "unique_chatters": 10836,
- "members_confirmed": 1808,
+ "unique_chatters": 10426,
+ "members_confirmed": 1810,
  "member_classes": {
-  "unknown": 1808
+  "unknown": 1810
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 235
+   "members": 240
   },
   {
    "months": 1,
@@ -31,22 +31,22 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 145
+   "members": 146
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 147
+   "members": 146
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 303
+   "members": 302
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 311
+   "members": 309
   },
   {
    "months": 36,
@@ -66,7 +66,7 @@
   {
    "months": 72,
    "label": "6年",
-   "members": 94
+   "members": 95
   },
   {
    "months": 84,
@@ -76,13 +76,13 @@
   {
    "months": 96,
    "label": "8年",
-   "members": 26
+   "members": 25
   }
  ],
  "events": {
-  "new_members": 190,
-  "rejoins": 71,
-  "milestones": 73,
+  "new_members": 193,
+  "rejoins": 72,
+  "milestones": 70,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -95,19 +95,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 0,
    "share_of_confirmed_pct": "",
-   "allocated_unknown": 1808.0,
-   "estimated_members": 1808.0,
+   "allocated_unknown": 1810.0,
+   "estimated_members": 1810.0,
    "monthly_net_confirmed": 0,
-   "monthly_net_estimated": 563767
+   "monthly_net_estimated": 564391
   }
  ],
  "revenue": {
-  "monthly_low": 563767,
-  "monthly_est": 563767,
+  "monthly_low": 564391,
+  "monthly_est": 564391,
   "gift_once": 0,
-  "total_low": 563767,
-  "total_est": 563767,
-  "paying_members": 1808,
+  "total_low": 564391,
+  "total_est": 564391,
+  "paying_members": 1810,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -116,16 +116,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "owXTLT5H_TI",
-   "start": "2026-10-10 13:00",
-   "title": "#3【ドラクエV】嫁はどっちだ？！はじめてのドラゴンクエストV 天空の花嫁をやってみる！DragonQuestⅤ【周防パトラ】",
-   "kind": "配信",
-   "chatters": 2641,
-   "member_chatters": 493,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "omNALUHAtBg",
    "start": "2026-10-11 13:01",
@@ -395,6 +385,16 @@
    "member_chatters": 500,
    "new_members": 8,
    "gifted_total": 0
+  },
+  {
+   "video_id": "2rgJVLG3iXo",
+   "start": "2026-11-10 00:00",
+   "title": "【ASMR】気づいたら朝までぐっすり！セロトニン溢れる至福の耳つぼ＆深部耳かき睡眠誘導。マッサージ・囁き・吐息   Ear Cleaning & Deep Sleep Relaxing 【周防パトラ】",
+   "kind": "配信",
+   "chatters": 406,
+   "member_chatters": 245,
+   "new_members": 3,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -407,7 +407,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 1117,
+   "like_count": 1119,
    "view_count": null
   },
   {
@@ -431,7 +431,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 1141,
+   "like_count": 1147,
    "view_count": null
   }
  ],
@@ -443,7 +443,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 1117,
+   "like_count": 1119,
    "view_count": null
   },
   {
@@ -463,7 +463,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 1141,
+   "like_count": 1147,
    "view_count": null
   }
  ],
@@ -637,56 +637,56 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-09"
+    "to": "2026-11-10"
    },
-   "streams_analyzed": 7,
+   "streams_analyzed": 8,
    "streams_missed": 0,
-   "unique_chatters": 4771,
-   "members_confirmed": 1160,
+   "unique_chatters": 4866,
+   "members_confirmed": 1191,
    "member_classes": {
-    "unknown": 1160
+    "unknown": 1191
    },
-   "long_term_members": 839,
+   "long_term_members": 857,
    "badges": [
     {
      "months": 0,
-     "members": 126
+     "members": 134
     },
     {
      "months": 1,
-     "members": 20
+     "members": 22
     },
     {
      "months": 2,
-     "members": 87
+     "members": 89
     },
     {
      "months": 6,
-     "members": 88
+     "members": 89
     },
     {
      "months": 12,
-     "members": 196
+     "members": 205
     },
     {
      "months": 24,
-     "members": 209
+     "members": 211
     },
     {
      "months": 36,
-     "members": 192
+     "members": 194
     },
     {
      "months": 48,
-     "members": 56
+     "members": 57
     },
     {
      "months": 60,
-     "members": 56
+     "members": 58
     },
     {
      "months": 72,
-     "members": 71
+     "members": 73
     },
     {
      "months": 84,
@@ -698,9 +698,9 @@
     }
    ],
    "events": {
-    "new_members": 93,
-    "rejoins": 19,
-    "milestones": 28,
+    "new_members": 96,
+    "rejoins": 22,
+    "milestones": 29,
     "gifted_total": 0
    },
    "tiers": [
@@ -708,15 +708,15 @@
      "tier": "メンバーシップ",
      "price": 490,
      "confirmed_members": 0,
-     "estimated_members": 1160.0
+     "estimated_members": 1191.0
     }
    ],
    "revenue": {
-    "monthly_low": 361709,
-    "monthly_est": 361709,
+    "monthly_low": 371375,
+    "monthly_est": 371375,
     "gift_once": 0
    },
-   "avg_member_chatters": 450,
+   "avg_member_chatters": 424.4,
    "partial": true,
    "finalized": false
   }

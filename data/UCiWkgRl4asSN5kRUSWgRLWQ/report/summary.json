@@ -3,27 +3,27 @@
  "channel_id": "UCiWkgRl4asSN5kRUSWgRLWQ",
  "handle": "@Rokusho_Kureha",
  "subscribers": 62200,
- "fetched_at": "2026-11-09 10:50",
- "generated_at": "2026-11-09 10:50",
+ "fetched_at": "2026-11-10 06:29",
+ "generated_at": "2026-11-10 06:29",
  "period": {
-  "from": "2026-10-10 10:50",
-  "to": "2026-11-09 10:50",
+  "from": "2026-10-11 06:29",
+  "to": "2026-11-10 06:29",
   "days": 30
  },
- "streams_analyzed": 14,
+ "streams_analyzed": 13,
  "streams_missed": 1,
- "unique_chatters": 782,
- "members_confirmed": 238,
+ "unique_chatters": 724,
+ "members_confirmed": 230,
  "member_classes": {
-  "known": 68,
-  "unknown": 115,
-  "gift": 55
+  "known": 67,
+  "unknown": 113,
+  "gift": 50
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 67
+   "members": 61
   },
   {
    "months": 1,
@@ -38,7 +38,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 51
+   "members": 49
   },
   {
    "months": 12,
@@ -52,12 +52,12 @@
   }
  ],
  "events": {
-  "new_members": 4,
+  "new_members": 3,
   "rejoins": 2,
-  "milestones": 44,
-  "gift_purchases": 8,
-  "gifted_total": 57,
-  "gift_redemptions": 56
+  "milestones": 41,
+  "gift_purchases": 7,
+  "gifted_total": 52,
+  "gift_redemptions": 51
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +65,21 @@
    "tier": "茶会の伴",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 68,
+   "confirmed_members": 67,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 115.0,
-   "estimated_members": 183.0,
-   "monthly_net_confirmed": 21204,
-   "monthly_net_estimated": 57063
+   "allocated_unknown": 113.0,
+   "estimated_members": 180.0,
+   "monthly_net_confirmed": 20892,
+   "monthly_net_estimated": 56127
   }
  ],
  "revenue": {
-  "monthly_low": 57063,
-  "monthly_est": 57063,
-  "gift_once": 17774,
-  "total_low": 74836,
-  "total_est": 74836,
-  "paying_members": 183,
+  "monthly_low": 56127,
+  "monthly_est": 56127,
+  "gift_once": 16215,
+  "total_low": 72342,
+  "total_est": 72342,
+  "paying_members": 180,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "DJ0ZBq_dOmU",
-   "start": "2026-10-10 17:59",
-   "title": "#2【星のカービィスーパーデラックス】完全初見❕大洞窟ですべてのお宝をコンプするぞッッ🍅🌟【緑青くれは / ななしいんく】",
-   "kind": "配信",
-   "chatters": 195,
-   "member_chatters": 64,
-   "new_members": 1,
-   "gifted_total": 5
-  },
   {
    "video_id": "YnIX4LLd1A0",
    "start": "2026-10-11 20:00",
@@ -239,7 +229,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 81,
+   "like_count": 82,
    "view_count": null
   }
  ],
@@ -251,7 +241,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 81,
+   "like_count": 82,
    "view_count": null
   }
  ],
@@ -381,7 +371,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-09"
+    "to": "2026-11-10"
    },
    "streams_analyzed": 4,
    "streams_missed": 0,

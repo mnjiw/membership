@@ -3,19 +3,19 @@
  "channel_id": "UCDh2bWI5EDu7PavqwICkVpA",
  "handle": "@Mico_Sekishiro",
  "subscribers": 112000,
- "fetched_at": "2026-11-09 10:49",
- "generated_at": "2026-11-09 10:49",
+ "fetched_at": "2026-11-10 06:27",
+ "generated_at": "2026-11-10 06:28",
  "period": {
-  "from": "2026-10-10 10:49",
-  "to": "2026-11-09 10:49",
+  "from": "2026-10-11 06:27",
+  "to": "2026-11-10 06:27",
   "days": 30
  },
- "streams_analyzed": 12,
+ "streams_analyzed": 13,
  "streams_missed": 1,
- "unique_chatters": 467,
- "members_confirmed": 155,
+ "unique_chatters": 497,
+ "members_confirmed": 158,
  "member_classes": {
-  "unknown": 146,
+  "unknown": 149,
   "known": 8,
   "gift": 1
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 3
+   "members": 2
   },
   {
    "months": 2,
@@ -33,12 +33,12 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 5
+   "members": 6
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 14
+   "members": 15
   },
   {
    "months": 24,
@@ -48,12 +48,12 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 13
+   "members": 14
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 97
+   "members": 98
   }
  ],
  "events": {
@@ -72,19 +72,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 8,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 146.0,
-   "estimated_members": 154.0,
+   "allocated_unknown": 149.0,
+   "estimated_members": 157.0,
    "monthly_net_confirmed": 2495,
-   "monthly_net_estimated": 48020
+   "monthly_net_estimated": 48955
   }
  ],
  "revenue": {
-  "monthly_low": 48020,
-  "monthly_est": 48020,
+  "monthly_low": 48955,
+  "monthly_est": 48955,
   "gift_once": 312,
-  "total_low": 48332,
-  "total_est": 48332,
-  "paying_members": 154,
+  "total_low": 49267,
+  "total_est": 49267,
+  "paying_members": 157,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -210,6 +210,16 @@
    "kind": "配信",
    "chatters": 122,
    "member_chatters": 71,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "1iadEeHuIE0",
+   "start": "2026-11-09 18:05",
+   "title": "【 雑談 】秋 い っ ち ゃ う の か な。【 堰代ミコ / ななしいんく 】",
+   "kind": "配信",
+   "chatters": 163,
+   "member_chatters": 91,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -374,17 +384,17 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-09"
+    "to": "2026-11-10"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 4,
    "streams_missed": 0,
-   "unique_chatters": 203,
-   "members_confirmed": 108,
+   "unique_chatters": 266,
+   "members_confirmed": 122,
    "member_classes": {
-    "unknown": 102,
+    "unknown": 116,
     "known": 6
    },
-   "long_term_members": 102,
+   "long_term_members": 114,
    "badges": [
     {
      "months": 0,
@@ -392,27 +402,27 @@
     },
     {
      "months": 2,
-     "members": 1
+     "members": 2
     },
     {
      "months": 6,
-     "members": 4
+     "members": 5
     },
     {
      "months": 12,
-     "members": 7
+     "members": 10
     },
     {
      "months": 24,
-     "members": 14
+     "members": 15
     },
     {
      "months": 36,
-     "members": 11
+     "members": 12
     },
     {
      "months": 48,
-     "members": 70
+     "members": 77
     }
    ],
    "events": {
@@ -426,15 +436,15 @@
      "tier": "༒ 惑わされし人間よ.....悪魔の宴 ༒",
      "price": 490,
      "confirmed_members": 6,
-     "estimated_members": 108.0
+     "estimated_members": 122.0
     }
    ],
    "revenue": {
-    "monthly_low": 33676,
-    "monthly_est": 33676,
+    "monthly_low": 38042,
+    "monthly_est": 38042,
     "gift_once": 0
    },
-   "avg_member_chatters": 73.7,
+   "avg_member_chatters": 78,
    "partial": true,
    "finalized": false
   }

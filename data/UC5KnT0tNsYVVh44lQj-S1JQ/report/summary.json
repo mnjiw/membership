@@ -3,32 +3,32 @@
  "channel_id": "UC5KnT0tNsYVVh44lQj-S1JQ",
  "handle": "@chitamu_omo",
  "subscribers": 15800,
- "fetched_at": "2026-11-09 10:51",
- "generated_at": "2026-11-09 10:51",
+ "fetched_at": "2026-11-10 06:32",
+ "generated_at": "2026-11-10 06:33",
  "period": {
-  "from": "2026-10-10 10:51",
-  "to": "2026-11-09 10:51",
+  "from": "2026-10-11 06:32",
+  "to": "2026-11-10 06:32",
   "days": 30
  },
- "streams_analyzed": 16,
- "streams_missed": 2,
- "unique_chatters": 622,
- "members_confirmed": 139,
+ "streams_analyzed": 17,
+ "streams_missed": 1,
+ "unique_chatters": 631,
+ "members_confirmed": 146,
  "member_classes": {
-  "known": 15,
-  "unknown": 98,
-  "gift": 26
+  "known": 16,
+  "unknown": 99,
+  "gift": 31
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 18
+   "members": 23
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 12
+   "members": 13
   },
   {
    "months": 2,
@@ -38,7 +38,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 27
+   "members": 28
   },
   {
    "months": 12,
@@ -47,12 +47,12 @@
   }
  ],
  "events": {
-  "new_members": 2,
+  "new_members": 3,
   "rejoins": 3,
   "milestones": 5,
-  "gift_purchases": 6,
-  "gifted_total": 27,
-  "gift_redemptions": 26
+  "gift_purchases": 7,
+  "gifted_total": 32,
+  "gift_redemptions": 31
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,21 +60,21 @@
    "tier": "おも軍団アジト",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 15,
+   "confirmed_members": 16,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 98.0,
-   "estimated_members": 113.0,
-   "monthly_net_confirmed": 4677,
-   "monthly_net_estimated": 35235
+   "allocated_unknown": 99.0,
+   "estimated_members": 115.0,
+   "monthly_net_confirmed": 4989,
+   "monthly_net_estimated": 35859
   }
  ],
  "revenue": {
-  "monthly_low": 35235,
-  "monthly_est": 35235,
-  "gift_once": 8419,
-  "total_low": 43655,
-  "total_est": 43655,
-  "paying_members": 113,
+  "monthly_low": 35859,
+  "monthly_est": 35859,
+  "gift_once": 9978,
+  "total_low": 45837,
+  "total_est": 45837,
+  "paying_members": 115,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -242,21 +242,19 @@
    "member_chatters": 49,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "l4dqNrbdBg4",
+   "start": "2026-11-09 20:16",
+   "title": "＃8【 初代FC / 魔界村  】完全なる鬼畜ゲー！？あの、２週目ってナニ！？！？【すぺしゃりて / 王猛ちたむ】",
+   "kind": "配信",
+   "chatters": 121,
+   "member_chatters": 65,
+   "new_members": 1,
+   "gifted_total": 5
   }
  ],
  "missed_streams": [
-  {
-   "video_id": "z5Rtypt9jzA",
-   "start": "2026-10-10 20:03",
-   "title": "【 メン限✦ ݁˖同時視聴 】チェンソーマン総集編をみるじょ！みさせてください！！！！【すぺしゃりて / 王猛ちたむ】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": null,
-   "view_count": null
-  },
   {
    "video_id": "sMiGnrYNXZo",
    "start": "2026-10-11 20:03",
@@ -271,16 +269,6 @@
   }
  ],
  "members_only_content": [
-  {
-   "video_id": "z5Rtypt9jzA",
-   "start": "2026-10-10 20:03",
-   "title": "【 メン限✦ ݁˖同時視聴 】チェンソーマン総集編をみるじょ！みさせてください！！！！【すぺしゃりて / 王猛ちたむ】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": null,
-   "view_count": null
-  },
   {
    "video_id": "sMiGnrYNXZo",
    "start": "2026-10-11 20:03",
@@ -410,59 +398,60 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-09"
+    "to": "2026-11-10"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 6,
    "streams_missed": 0,
-   "unique_chatters": 249,
-   "members_confirmed": 73,
+   "unique_chatters": 276,
+   "members_confirmed": 88,
    "member_classes": {
-    "unknown": 60,
-    "known": 13
+    "unknown": 69,
+    "known": 14,
+    "gift": 5
    },
-   "long_term_members": 31,
+   "long_term_members": 35,
    "badges": [
     {
      "months": 0,
-     "members": 3
+     "members": 9
     },
     {
      "months": 1,
-     "members": 6
+     "members": 7
     },
     {
      "months": 2,
-     "members": 15
+     "members": 17
     },
     {
      "months": 6,
-     "members": 18
+     "members": 20
     },
     {
      "months": 12,
-     "members": 31
+     "members": 35
     }
    ],
    "events": {
-    "new_members": 0,
+    "new_members": 1,
     "rejoins": 2,
     "milestones": 0,
-    "gifted_total": 0
+    "gifted_total": 5
    },
    "tiers": [
     {
      "tier": "おも軍団アジト",
      "price": 490,
-     "confirmed_members": 13,
-     "estimated_members": 73.0
+     "confirmed_members": 14,
+     "estimated_members": 83.0
     }
    ],
    "revenue": {
-    "monthly_low": 22763,
-    "monthly_est": 22763,
-    "gift_once": 0
+    "monthly_low": 25881,
+    "monthly_est": 25881,
+    "gift_once": 1559
    },
-   "avg_member_chatters": 39.8,
+   "avg_member_chatters": 44,
    "partial": true,
    "finalized": false
   }

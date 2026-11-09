@@ -3,16 +3,16 @@
  "channel_id": "UCrt4cTM_sWH0iySLMkwwYLQ",
  "handle": "@Tier_Hebiyoi",
  "subscribers": 94500,
- "fetched_at": "2026-11-09 10:49",
- "generated_at": "2026-11-09 10:49",
+ "fetched_at": "2026-11-10 06:28",
+ "generated_at": "2026-11-10 06:28",
  "period": {
-  "from": "2026-10-10 10:49",
-  "to": "2026-11-09 10:49",
+  "from": "2026-10-11 06:28",
+  "to": "2026-11-10 06:28",
   "days": 30
  },
- "streams_analyzed": 35,
+ "streams_analyzed": 34,
  "streams_missed": 1,
- "unique_chatters": 822,
+ "unique_chatters": 817,
  "members_confirmed": 140,
  "member_classes": {
   "known": 29,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "Sv1s0_lRB3Q",
-   "start": "2026-10-10 12:00",
-   "title": "【 Alchemy Factory #3 】とうとうセージ地獄やってきましたか【 蛇宵ティア / ななしいんく 】",
-   "kind": "配信",
-   "chatters": 64,
-   "member_chatters": 22,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "CcbA6qDa0pc",
    "start": "2026-10-11 07:01",
@@ -441,30 +431,19 @@
  ],
  "missed_streams": [
   {
-   "video_id": "rK29tMqXnQI",
-   "start": "2026-10-10 21:39",
-   "title": "【 #メン限 】私の作業通話に付き合ってもらいますよ【 蛇宵ティア / ななしいんく 】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
+   "video_id": "7WKZqHhwj98",
+   "start": "2026-11-09 00:00",
+   "title": "【 GTA5 #ガチグラ2 】フロガーを買えるまでお金を貯める💪【 蛇宵ティア / ななしいんく 】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
    "members_level": "",
-   "like_count": 89,
-   "view_count": null
+   "like_count": 435,
+   "view_count": 8625
   }
  ],
- "members_only_content": [
-  {
-   "video_id": "rK29tMqXnQI",
-   "start": "2026-10-10 21:39",
-   "title": "【 #メン限 】私の作業通話に付き合ってもらいますよ【 蛇宵ティア / ななしいんく 】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 89,
-   "view_count": null
-  }
- ],
+ "members_only_content": [],
  "history": [
   {
    "month": "2026-09",
@@ -591,10 +570,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-09"
+    "to": "2026-11-10"
    },
    "streams_analyzed": 9,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 416,
    "members_confirmed": 100,
    "member_classes": {

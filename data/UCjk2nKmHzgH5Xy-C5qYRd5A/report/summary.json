@@ -3,27 +3,27 @@
  "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
  "handle": "@MizumiyaSu",
  "subscribers": 755000,
- "fetched_at": "2026-11-09 10:48",
- "generated_at": "2026-11-09 10:48",
+ "fetched_at": "2026-11-10 06:23",
+ "generated_at": "2026-11-10 06:23",
  "period": {
-  "from": "2026-10-10 10:48",
-  "to": "2026-11-09 10:48",
+  "from": "2026-10-11 06:23",
+  "to": "2026-11-10 06:23",
   "days": 30
  },
- "streams_analyzed": 34,
- "streams_missed": 1,
- "unique_chatters": 17949,
- "members_confirmed": 3742,
+ "streams_analyzed": 33,
+ "streams_missed": 2,
+ "unique_chatters": 17813,
+ "members_confirmed": 3719,
  "member_classes": {
-  "known": 615,
-  "unknown": 2069,
-  "gift": 1058
+  "unknown": 2059,
+  "known": 613,
+  "gift": 1047
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 1273
+   "members": 1257
   },
   {
    "months": 1,
@@ -33,26 +33,26 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 470
+   "members": 469
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 662
+   "members": 660
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 1214
+   "members": 1210
   }
  ],
  "events": {
-  "new_members": 139,
+  "new_members": 138,
   "rejoins": 44,
-  "milestones": 388,
-  "gift_purchases": 188,
-  "gifted_total": 1197,
-  "gift_redemptions": 1060
+  "milestones": 387,
+  "gift_purchases": 185,
+  "gifted_total": 1186,
+  "gift_redemptions": 1049
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,21 +60,21 @@
    "tier": "しゅぴ通信",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 615,
+   "confirmed_members": 613,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2069.0,
-   "estimated_members": 2684.0,
-   "monthly_net_confirmed": 191768,
-   "monthly_net_estimated": 836920
+   "allocated_unknown": 2059.0,
+   "estimated_members": 2672.0,
+   "monthly_net_confirmed": 191145,
+   "monthly_net_estimated": 833178
   }
  ],
  "revenue": {
-  "monthly_low": 836920,
-  "monthly_est": 836920,
-  "gift_once": 373246,
-  "total_low": 1210166,
-  "total_est": 1210166,
-  "paying_members": 2684,
+  "monthly_low": 833178,
+  "monthly_est": 833178,
+  "gift_once": 369816,
+  "total_low": 1202995,
+  "total_est": 1202995,
+  "paying_members": 2672,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "MfUlg9FWdx4",
-   "start": "2026-10-10 22:37",
-   "title": "【#2】LOST JUDGMENT：裁かれざる記憶 ※ネタバレ有【水宮枢／ホロライブ】",
-   "kind": "配信",
-   "chatters": 1276,
-   "member_chatters": 453,
-   "new_members": 1,
-   "gifted_total": 11
-  },
   {
    "video_id": "RSQe2OoIV2Q",
    "start": "2026-10-11 22:32",
@@ -434,7 +424,19 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 869,
+   "like_count": 870,
+   "view_count": null
+  },
+  {
+   "video_id": "gAihkZHpXko",
+   "start": "2026-11-09 23:30",
+   "title": "【メン限】2周年ライブどうだった〜？話そ❕💙【水宮枢／ホロライブ】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 818,
    "view_count": null
   }
  ],
@@ -446,7 +448,17 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 869,
+   "like_count": 870,
+   "view_count": null
+  },
+  {
+   "video_id": "gAihkZHpXko",
+   "start": "2026-11-09 23:30",
+   "title": "【メン限】2周年ライブどうだった〜？話そ❕💙【水宮枢／ホロライブ】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 818,
    "view_count": null
   }
  ],
@@ -579,10 +591,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-09"
+    "to": "2026-11-10"
    },
    "streams_analyzed": 8,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 6634,
    "members_confirmed": 1876,
    "member_classes": {

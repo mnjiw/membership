@@ -2,28 +2,28 @@
  "channel": "夕霧レイ / YugiriRay",
  "channel_id": "UCqfXdQpIDb6nuTU_ZXd1NnA",
  "handle": "@YugiriRay",
- "subscribers": 147000,
- "fetched_at": "2026-11-09 10:52",
- "generated_at": "2026-11-09 10:52",
+ "subscribers": 148000,
+ "fetched_at": "2026-11-10 06:36",
+ "generated_at": "2026-11-10 06:36",
  "period": {
-  "from": "2026-10-10 10:52",
-  "to": "2026-11-09 10:52",
+  "from": "2026-10-11 06:36",
+  "to": "2026-11-10 06:36",
   "days": 30
  },
  "streams_analyzed": 12,
  "streams_missed": 1,
- "unique_chatters": 1560,
- "members_confirmed": 221,
+ "unique_chatters": 1549,
+ "members_confirmed": 220,
  "member_classes": {
-  "unknown": 201,
-  "known": 15,
+  "unknown": 199,
+  "known": 16,
   "gift": 5
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 20
+   "members": 21
   },
   {
    "months": 1,
@@ -33,11 +33,11 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 180
+   "members": 178
   }
  ],
  "events": {
-  "new_members": 7,
+  "new_members": 8,
   "rejoins": 3,
   "milestones": 0,
   "gift_purchases": 1,
@@ -50,21 +50,21 @@
    "tier": "ターゲットのみなさん",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 15,
+   "confirmed_members": 16,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 201.0,
-   "estimated_members": 216.0,
-   "monthly_net_confirmed": 4677,
-   "monthly_net_estimated": 67353
+   "allocated_unknown": 199.0,
+   "estimated_members": 215.0,
+   "monthly_net_confirmed": 4989,
+   "monthly_net_estimated": 67041
   }
  ],
  "revenue": {
-  "monthly_low": 67353,
-  "monthly_est": 67353,
+  "monthly_low": 67041,
+  "monthly_est": 67041,
   "gift_once": 1559,
-  "total_low": 68912,
-  "total_est": 68912,
-  "paying_members": 216,
+  "total_low": 68600,
+  "total_est": 68600,
+  "paying_members": 215,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "NL0SS2p9y84",
-   "start": "2026-10-10 20:00",
-   "title": "【 BOMBANANA! 】ミリプロUNIで爆弾解除…？！ ⟡.· 【 夕霧レイ/ミリプロ 】",
-   "kind": "配信",
-   "chatters": 151,
-   "member_chatters": 56,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "LDMdVrQbg5Q",
    "start": "2026-10-16 21:31",
@@ -190,6 +180,16 @@
    "kind": "配信",
    "chatters": 96,
    "member_chatters": 36,
+   "new_members": 1,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "fMJHBB-soDg",
+   "start": "2026-11-09 19:59",
+   "title": "【 どろぼうノーム 】告知アリ！こまレイで家を荒らします。 ⟡.· 【 夕霧レイ/ミリプロ 】",
+   "kind": "配信",
+   "chatters": 136,
+   "member_chatters": 57,
    "new_members": 1,
    "gifted_total": 0
   }
@@ -322,33 +322,33 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-09"
+    "to": "2026-11-10"
    },
-   "streams_analyzed": 1,
+   "streams_analyzed": 2,
    "streams_missed": 0,
-   "unique_chatters": 96,
-   "members_confirmed": 36,
+   "unique_chatters": 180,
+   "members_confirmed": 66,
    "member_classes": {
-    "unknown": 33,
-    "known": 3
+    "unknown": 60,
+    "known": 6
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 5
+     "members": 8
     },
     {
      "months": 1,
-     "members": 3
+     "members": 5
     },
     {
      "months": 2,
-     "members": 28
+     "members": 53
     }
    ],
    "events": {
-    "new_members": 1,
+    "new_members": 2,
     "rejoins": 0,
     "milestones": 0,
     "gifted_total": 0
@@ -357,16 +357,16 @@
     {
      "tier": "ターゲットのみなさん",
      "price": 490,
-     "confirmed_members": 3,
-     "estimated_members": 36.0
+     "confirmed_members": 6,
+     "estimated_members": 66.0
     }
    ],
    "revenue": {
-    "monthly_low": 11225,
-    "monthly_est": 11225,
+    "monthly_low": 20580,
+    "monthly_est": 20580,
     "gift_once": 0
    },
-   "avg_member_chatters": 36,
+   "avg_member_chatters": 46.5,
    "partial": true,
    "finalized": false
   }

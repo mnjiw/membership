@@ -3,37 +3,37 @@
  "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
  "handle": "@HakosBaelz",
  "subscribers": 1230000,
- "fetched_at": "2026-11-09 10:49",
- "generated_at": "2026-11-09 10:49",
+ "fetched_at": "2026-11-10 06:26",
+ "generated_at": "2026-11-10 06:27",
  "period": {
-  "from": "2026-10-10 10:49",
-  "to": "2026-11-09 10:49",
+  "from": "2026-10-11 06:26",
+  "to": "2026-11-10 06:26",
   "days": 30
  },
  "streams_analyzed": 20,
  "streams_missed": 2,
- "unique_chatters": 12837,
- "members_confirmed": 1871,
+ "unique_chatters": 12938,
+ "members_confirmed": 1880,
  "member_classes": {
-  "unknown": 1298,
-  "known": 441,
-  "gift": 132
+  "known": 443,
+  "unknown": 1295,
+  "gift": 142
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 224
+   "members": 236
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 45
+   "members": 42
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 103
+   "members": 102
   },
   {
    "months": 6,
@@ -43,12 +43,12 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 354
+   "members": 352
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 320
+   "members": 322
   },
   {
    "months": 36,
@@ -63,16 +63,16 @@
   {
    "months": 60,
    "label": "5年",
-   "members": 168
+   "members": 169
   }
  ],
  "events": {
-  "new_members": 28,
-  "rejoins": 18,
-  "milestones": 331,
-  "gift_purchases": 27,
-  "gifted_total": 151,
-  "gift_redemptions": 133
+  "new_members": 30,
+  "rejoins": 17,
+  "milestones": 330,
+  "gift_purchases": 28,
+  "gifted_total": 161,
+  "gift_redemptions": 143
  },
  "tiers_configured": true,
  "tiers": [
@@ -80,12 +80,12 @@
    "tier": "Rat Bro",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 413,
+   "confirmed_members": 415,
    "share_of_confirmed_pct": 93.7,
-   "allocated_unknown": 1215.6,
-   "estimated_members": 1628.6,
-   "monthly_net_confirmed": 181345,
-   "monthly_net_estimated": 715098
+   "allocated_unknown": 1213.1,
+   "estimated_members": 1628.1,
+   "monthly_net_confirmed": 182223,
+   "monthly_net_estimated": 714905
   },
   {
    "tier": "Rat Boss!",
@@ -93,10 +93,10 @@
    "net_per_member": 820.9,
    "confirmed_members": 9,
    "share_of_confirmed_pct": 2.0,
-   "allocated_unknown": 26.5,
-   "estimated_members": 35.5,
+   "allocated_unknown": 26.3,
+   "estimated_members": 35.3,
    "monthly_net_confirmed": 7388,
-   "monthly_net_estimated": 29134
+   "monthly_net_estimated": 28986
   },
   {
    "tier": "Rat GOD!!",
@@ -104,19 +104,19 @@
    "net_per_member": 1775.5,
    "confirmed_members": 19,
    "share_of_confirmed_pct": 4.3,
-   "allocated_unknown": 55.9,
-   "estimated_members": 74.9,
+   "allocated_unknown": 55.5,
+   "estimated_members": 74.5,
    "monthly_net_confirmed": 33734,
-   "monthly_net_estimated": 133022
+   "monthly_net_estimated": 132346
   }
  ],
  "revenue": {
-  "monthly_low": 792406,
-  "monthly_est": 877254,
-  "gift_once": 66303,
-  "total_low": 858709,
-  "total_est": 943557,
-  "paying_members": 1739,
+  "monthly_low": 791967,
+  "monthly_est": 876237,
+  "gift_once": 70694,
+  "total_low": 862661,
+  "total_est": 946930,
+  "paying_members": 1738,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -125,16 +125,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "T8b_jMkiQcQ",
-   "start": "2026-10-10 22:00",
-   "title": "≪hololive Dreams≫ feesh #2 #holodori",
-   "kind": "配信",
-   "chatters": 697,
-   "member_chatters": 266,
-   "new_members": 0,
-   "gifted_total": 1
-  },
   {
    "video_id": "5pc_-YAwKAE",
    "start": "2026-10-11 10:30",
@@ -324,6 +314,16 @@
    "member_chatters": 336,
    "new_members": 3,
    "gifted_total": 0
+  },
+  {
+   "video_id": "6uFTFwee0bA",
+   "start": "2026-11-09 10:39",
+   "title": "≪Yakuza 7: Like a Dragon≫ what even is yakuza 7...First Playthrough #9【SPOILER WARNING】",
+   "kind": "配信",
+   "chatters": 965,
+   "member_chatters": 293,
+   "new_members": 2,
+   "gifted_total": 11
   }
  ],
  "missed_streams": [
@@ -336,7 +336,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 541,
+   "like_count": 543,
    "view_count": null
   },
   {
@@ -348,8 +348,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 5010,
-   "view_count": 101827
+   "like_count": 5372,
+   "view_count": 111778
   }
  ],
  "members_only_content": [
@@ -360,7 +360,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 541,
+   "like_count": 543,
    "view_count": null
   }
  ],
@@ -522,22 +522,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-09"
+    "to": "2026-11-10"
    },
-   "streams_analyzed": 6,
+   "streams_analyzed": 7,
    "streams_missed": 1,
-   "unique_chatters": 6972,
-   "members_confirmed": 1270,
+   "unique_chatters": 7441,
+   "members_confirmed": 1319,
    "member_classes": {
-    "known": 336,
-    "unknown": 891,
-    "gift": 43
+    "known": 345,
+    "unknown": 920,
+    "gift": 54
    },
-   "long_term_members": 949,
+   "long_term_members": 982,
    "badges": [
     {
      "months": 0,
-     "members": 107
+     "members": 121
     },
     {
      "months": 1,
@@ -549,41 +549,41 @@
     },
     {
      "months": 6,
-     "members": 115
+     "members": 117
     },
     {
      "months": 12,
-     "members": 244
+     "members": 249
     },
     {
      "months": 24,
-     "members": 238
+     "members": 246
     },
     {
      "months": 36,
-     "members": 178
+     "members": 183
     },
     {
      "months": 48,
-     "members": 165
+     "members": 175
     },
     {
      "months": 60,
-     "members": 124
+     "members": 129
     }
    ],
    "events": {
-    "new_members": 16,
+    "new_members": 18,
     "rejoins": 11,
-    "milestones": 157,
-    "gifted_total": 49
+    "milestones": 162,
+    "gifted_total": 60
    },
    "tiers": [
     {
      "tier": "Rat Bro",
      "price": 690,
-     "confirmed_members": 317,
-     "estimated_members": 1157.6
+     "confirmed_members": 326,
+     "estimated_members": 1195.3
     },
     {
      "tier": "Rat Boss!",
@@ -595,15 +595,15 @@
      "tier": "Rat GOD!!",
      "price": 2790,
      "confirmed_members": 14,
-     "estimated_members": 51.1
+     "estimated_members": 51.3
     }
    ],
    "revenue": {
-    "monthly_low": 559383,
-    "monthly_est": 614058,
-    "gift_once": 21515
+    "monthly_low": 576068,
+    "monthly_est": 631050,
+    "gift_once": 26345
    },
-   "avg_member_chatters": 449.2,
+   "avg_member_chatters": 426.9,
    "partial": true,
    "finalized": false
   }
