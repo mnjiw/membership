@@ -3,16 +3,16 @@
  "channel_id": "UC8Snw5i4eOJXEQqURAK17hQ",
  "handle": "@RaiGalilei",
  "subscribers": 57900,
- "fetched_at": "2026-11-09 05:29",
- "generated_at": "2026-11-09 05:29",
+ "fetched_at": "2026-11-09 10:45",
+ "generated_at": "2026-11-09 10:45",
  "period": {
-  "from": "2026-10-10 05:29",
-  "to": "2026-11-09 05:29",
+  "from": "2026-10-10 10:45",
+  "to": "2026-11-09 10:45",
   "days": 30
  },
- "streams_analyzed": 22,
- "streams_missed": 1,
- "unique_chatters": 290,
+ "streams_analyzed": 23,
+ "streams_missed": 0,
+ "unique_chatters": 293,
  "members_confirmed": 90,
  "member_classes": {
   "unknown": 13,
@@ -307,22 +307,19 @@
    "member_chatters": 11,
    "new_members": 0,
    "gifted_total": 5
-  }
- ],
- "missed_streams": [
+  },
   {
    "video_id": "dnB1dqQvj60",
-   "start": "2026-11-08 00:00",
+   "start": "2026-11-08 14:03",
    "title": "【GTAV #DistrictV2】 The OZ: \"How do one make a carnival?\" (2) #5【NIJISANJI】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 109,
-   "view_count": 1742
+   "kind": "配信",
+   "chatters": 30,
+   "member_chatters": 6,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -463,9 +460,9 @@
     "from": "2026-11-01",
     "to": "2026-11-09"
    },
-   "streams_analyzed": 8,
-   "streams_missed": 1,
-   "unique_chatters": 129,
+   "streams_analyzed": 9,
+   "streams_missed": 0,
+   "unique_chatters": 134,
    "members_confirmed": 27,
    "member_classes": {
     "unknown": 11,
@@ -514,7 +511,7 @@
     "monthly_est": 3742,
     "gift_once": 4677
    },
-   "avg_member_chatters": 8.2,
+   "avg_member_chatters": 8,
    "partial": true,
    "finalized": false
   }

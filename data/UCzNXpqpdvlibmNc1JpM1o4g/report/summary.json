@@ -3,57 +3,57 @@
  "channel_id": "UCzNXpqpdvlibmNc1JpM1o4g",
  "handle": "@Lunlun_nijisanji",
  "subscribers": 927000,
- "fetched_at": "2026-11-09 05:36",
- "generated_at": "2026-11-09 05:37",
+ "fetched_at": "2026-11-09 10:46",
+ "generated_at": "2026-11-09 10:46",
  "period": {
-  "from": "2026-10-10 05:36",
-  "to": "2026-11-09 05:36",
+  "from": "2026-10-10 10:46",
+  "to": "2026-11-09 10:46",
   "days": 30
  },
- "streams_analyzed": 13,
+ "streams_analyzed": 14,
  "streams_missed": 0,
- "unique_chatters": 5497,
- "members_confirmed": 1469,
+ "unique_chatters": 5903,
+ "members_confirmed": 1509,
  "member_classes": {
-  "known": 337,
-  "unknown": 1132
+  "known": 341,
+  "unknown": 1168
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 31
+   "members": 30
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 49
+   "members": 48
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 130
+   "members": 134
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 185
+   "members": 190
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 512
+   "members": 526
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 562
+   "members": 581
   }
  ],
  "events": {
   "new_members": 5,
-  "rejoins": 1,
-  "milestones": 92,
+  "rejoins": 2,
+  "milestones": 97,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -64,21 +64,21 @@
    "tier": "おちょまだち",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 337,
+   "confirmed_members": 341,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1132.0,
-   "estimated_members": 1469.0,
-   "monthly_net_confirmed": 105083,
-   "monthly_net_estimated": 458061
+   "allocated_unknown": 1168.0,
+   "estimated_members": 1509.0,
+   "monthly_net_confirmed": 106330,
+   "monthly_net_estimated": 470534
   }
  ],
  "revenue": {
-  "monthly_low": 458061,
-  "monthly_est": 458061,
+  "monthly_low": 470534,
+  "monthly_est": 470534,
   "gift_once": 0,
-  "total_low": 458061,
-  "total_est": 458061,
-  "paying_members": 1469,
+  "total_low": 470534,
+  "total_est": 470534,
+  "paying_members": 1509,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -214,6 +214,16 @@
    "kind": "配信",
    "chatters": 1074,
    "member_chatters": 454,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "okvztEISuEY",
+   "start": "2026-11-09 06:01",
+   "title": "【朝雑】朝のごとくやってくる獣【ルンルン/にじさんじ】",
+   "kind": "配信",
+   "chatters": 982,
+   "member_chatters": 325,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -355,15 +365,15 @@
     "from": "2026-11-01",
     "to": "2026-11-09"
    },
-   "streams_analyzed": 6,
+   "streams_analyzed": 7,
    "streams_missed": 0,
-   "unique_chatters": 2548,
-   "members_confirmed": 880,
+   "unique_chatters": 3163,
+   "members_confirmed": 990,
    "member_classes": {
-    "unknown": 645,
-    "known": 235
+    "unknown": 733,
+    "known": 257
    },
-   "long_term_members": 652,
+   "long_term_members": 737,
    "badges": [
     {
      "months": 0,
@@ -371,45 +381,45 @@
     },
     {
      "months": 1,
-     "members": 13
+     "members": 14
     },
     {
      "months": 2,
-     "members": 84
+     "members": 95
     },
     {
      "months": 6,
-     "members": 116
+     "members": 129
     },
     {
      "months": 12,
-     "members": 298
+     "members": 337
     },
     {
      "months": 24,
-     "members": 354
+     "members": 400
     }
    ],
    "events": {
     "new_members": 3,
-    "rejoins": 0,
-    "milestones": 41,
+    "rejoins": 1,
+    "milestones": 46,
     "gifted_total": 0
    },
    "tiers": [
     {
      "tier": "おちょまだち",
      "price": 490,
-     "confirmed_members": 235,
-     "estimated_members": 880.0
+     "confirmed_members": 257,
+     "estimated_members": 990.0
     }
    ],
    "revenue": {
-    "monthly_low": 274400,
-    "monthly_est": 274400,
+    "monthly_low": 308700,
+    "monthly_est": 308700,
     "gift_once": 0
    },
-   "avg_member_chatters": 355.5,
+   "avg_member_chatters": 351.1,
    "partial": true,
    "finalized": false
   }

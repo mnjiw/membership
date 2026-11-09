@@ -3,19 +3,19 @@
  "channel_id": "UCL34fAoFim9oHLbVzMKFavQ",
  "handle": "@YorumiRena",
  "subscribers": 606000,
- "fetched_at": "2026-11-09 05:23",
- "generated_at": "2026-11-09 05:23",
+ "fetched_at": "2026-11-09 10:44",
+ "generated_at": "2026-11-09 10:44",
  "period": {
-  "from": "2026-10-10 05:23",
-  "to": "2026-11-09 05:23",
+  "from": "2026-10-10 10:44",
+  "to": "2026-11-09 10:44",
   "days": 30
  },
- "streams_analyzed": 15,
+ "streams_analyzed": 16,
  "streams_missed": 0,
- "unique_chatters": 1658,
- "members_confirmed": 259,
+ "unique_chatters": 1725,
+ "members_confirmed": 262,
  "member_classes": {
-  "unknown": 243,
+  "unknown": 246,
   "known": 16
  },
  "badges": [
@@ -32,7 +32,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 10
+   "members": 11
   },
   {
    "months": 6,
@@ -47,12 +47,12 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 20
+   "members": 19
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 31
+   "members": 33
   },
   {
    "months": 48,
@@ -62,7 +62,7 @@
   {
    "months": 60,
    "label": "5年",
-   "members": 126
+   "members": 127
   }
  ],
  "events": {
@@ -81,19 +81,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 16,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 243.0,
-   "estimated_members": 259.0,
+   "allocated_unknown": 246.0,
+   "estimated_members": 262.0,
    "monthly_net_confirmed": 4989,
-   "monthly_net_estimated": 80761
+   "monthly_net_estimated": 81696
   }
  ],
  "revenue": {
-  "monthly_low": 80761,
-  "monthly_est": 80761,
+  "monthly_low": 81696,
+  "monthly_est": 81696,
   "gift_once": 0,
-  "total_low": 80761,
-  "total_est": 80761,
-  "paying_members": 259,
+  "total_low": 81696,
+  "total_est": 81696,
+  "paying_members": 262,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -249,6 +249,16 @@
    "kind": "配信",
    "chatters": 400,
    "member_chatters": 110,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "m2pjQGhYZJY",
+   "start": "2026-11-09 00:01",
+   "title": "【 ゼルダの伝説 時のオカリナ 】#02 デスマウンテンに行くゴロ！ 【 にじさんじ / 夜見れな 】",
+   "kind": "配信",
+   "chatters": 280,
+   "member_chatters": 83,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -416,15 +426,15 @@
     "from": "2026-11-01",
     "to": "2026-11-09"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 4,
    "streams_missed": 0,
-   "unique_chatters": 662,
-   "members_confirmed": 170,
+   "unique_chatters": 772,
+   "members_confirmed": 178,
    "member_classes": {
-    "unknown": 161,
+    "unknown": 169,
     "known": 9
    },
-   "long_term_members": 159,
+   "long_term_members": 166,
    "badges": [
     {
      "months": 0,
@@ -432,7 +442,7 @@
     },
     {
      "months": 2,
-     "members": 4
+     "members": 5
     },
     {
      "months": 6,
@@ -444,11 +454,11 @@
     },
     {
      "months": 24,
-     "members": 12
+     "members": 14
     },
     {
      "months": 36,
-     "members": 14
+     "members": 17
     },
     {
      "months": 48,
@@ -456,7 +466,7 @@
     },
     {
      "months": 60,
-     "members": 94
+     "members": 96
     }
    ],
    "events": {
@@ -470,15 +480,15 @@
      "tier": "夜見のひよこプラン",
      "price": 490,
      "confirmed_members": 9,
-     "estimated_members": 170.0
+     "estimated_members": 178.0
     }
    ],
    "revenue": {
-    "monthly_low": 53009,
-    "monthly_est": 53009,
+    "monthly_low": 55504,
+    "monthly_est": 55504,
     "gift_once": 0
    },
-   "avg_member_chatters": 104,
+   "avg_member_chatters": 98.8,
    "partial": true,
    "finalized": false
   }

@@ -3,27 +3,27 @@
  "channel_id": "UCMzVa7B8UEdrvUGsPmSgyjA",
  "handle": "@DeremKado",
  "subscribers": 48400,
- "fetched_at": "2026-11-09 05:29",
- "generated_at": "2026-11-09 05:29",
+ "fetched_at": "2026-11-09 10:45",
+ "generated_at": "2026-11-09 10:45",
  "period": {
-  "from": "2026-10-10 05:29",
-  "to": "2026-11-09 05:29",
+  "from": "2026-10-10 10:45",
+  "to": "2026-11-09 10:45",
   "days": 30
  },
- "streams_analyzed": 18,
- "streams_missed": 1,
- "unique_chatters": 180,
- "members_confirmed": 86,
+ "streams_analyzed": 19,
+ "streams_missed": 0,
+ "unique_chatters": 184,
+ "members_confirmed": 93,
  "member_classes": {
-  "unknown": 22,
+  "unknown": 23,
   "known": 3,
-  "gift": 61
+  "gift": 67
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 59
+   "members": 65
   },
   {
    "months": 1,
@@ -58,16 +58,16 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 7
+   "members": 8
   }
  ],
  "events": {
   "new_members": 0,
   "rejoins": 0,
   "milestones": 3,
-  "gift_purchases": 14,
-  "gifted_total": 61,
-  "gift_redemptions": 61
+  "gift_purchases": 16,
+  "gifted_total": 67,
+  "gift_redemptions": 67
  },
  "tiers_configured": true,
  "tiers": [
@@ -77,19 +77,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 3,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 22.0,
-   "estimated_members": 25.0,
+   "allocated_unknown": 23.0,
+   "estimated_members": 26.0,
    "monthly_net_confirmed": 935,
-   "monthly_net_estimated": 7795
+   "monthly_net_estimated": 8107
   }
  ],
  "revenue": {
-  "monthly_low": 7795,
-  "monthly_est": 7795,
-  "gift_once": 19021,
-  "total_low": 26816,
-  "total_est": 26816,
-  "paying_members": 25,
+  "monthly_low": 8107,
+  "monthly_est": 8107,
+  "gift_once": 20892,
+  "total_low": 28999,
+  "total_est": 28999,
+  "paying_members": 26,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -277,22 +277,19 @@
    "member_chatters": 7,
    "new_members": 0,
    "gifted_total": 1
-  }
- ],
- "missed_streams": [
+  },
   {
    "video_id": "dTHiLVzYGzc",
-   "start": "2026-11-07 00:00",
+   "start": "2026-11-08 08:08",
    "title": "【 #DistrictV2 】 #5 Suddenly so many cases 【 NIJISANJI | Derem Kado 】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 215,
-   "view_count": 3286
+   "kind": "配信",
+   "chatters": 37,
+   "member_chatters": 13,
+   "new_members": 0,
+   "gifted_total": 6
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -449,20 +446,20 @@
     "from": "2026-11-01",
     "to": "2026-11-09"
    },
-   "streams_analyzed": 8,
-   "streams_missed": 1,
-   "unique_chatters": 104,
-   "members_confirmed": 54,
+   "streams_analyzed": 9,
+   "streams_missed": 0,
+   "unique_chatters": 111,
+   "members_confirmed": 61,
    "member_classes": {
     "known": 3,
-    "unknown": 12,
-    "gift": 39
+    "unknown": 13,
+    "gift": 45
    },
-   "long_term_members": 13,
+   "long_term_members": 14,
    "badges": [
     {
      "months": 0,
-     "members": 38
+     "members": 44
     },
     {
      "months": 1,
@@ -486,29 +483,29 @@
     },
     {
      "months": 48,
-     "members": 5
+     "members": 6
     }
    ],
    "events": {
     "new_members": 0,
     "rejoins": 0,
     "milestones": 2,
-    "gifted_total": 39
+    "gifted_total": 45
    },
    "tiers": [
     {
      "tier": "Magical Domikado",
      "price": 490,
      "confirmed_members": 3,
-     "estimated_members": 15.0
+     "estimated_members": 16.0
     }
    ],
    "revenue": {
-    "monthly_low": 4677,
-    "monthly_est": 4677,
-    "gift_once": 12161
+    "monthly_low": 4989,
+    "monthly_est": 4989,
+    "gift_once": 14032
    },
-   "avg_member_chatters": 9.5,
+   "avg_member_chatters": 9.9,
    "partial": true,
    "finalized": false
   }

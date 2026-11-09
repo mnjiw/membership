@@ -3,19 +3,19 @@
  "channel_id": "UCwePpiw1ocZRSNSkpKvVISw",
  "handle": "@Mary_Saionji",
  "subscribers": 280000,
- "fetched_at": "2026-11-09 06:44",
- "generated_at": "2026-11-09 06:44",
+ "fetched_at": "2026-11-09 10:49",
+ "generated_at": "2026-11-09 10:49",
  "period": {
-  "from": "2026-10-10 06:44",
-  "to": "2026-11-09 06:44",
+  "from": "2026-10-10 10:49",
+  "to": "2026-11-09 10:49",
   "days": 30
  },
- "streams_analyzed": 16,
+ "streams_analyzed": 17,
  "streams_missed": 2,
- "unique_chatters": 718,
- "members_confirmed": 163,
+ "unique_chatters": 733,
+ "members_confirmed": 166,
  "member_classes": {
-  "unknown": 142,
+  "unknown": 145,
   "known": 11,
   "gift": 10
  },
@@ -28,7 +28,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 4
+   "members": 5
   },
   {
    "months": 6,
@@ -53,7 +53,7 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 99
+   "members": 101
   }
  ],
  "events": {
@@ -72,19 +72,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 11,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 142.0,
-   "estimated_members": 153.0,
+   "allocated_unknown": 145.0,
+   "estimated_members": 156.0,
    "monthly_net_confirmed": 3430,
-   "monthly_net_estimated": 47708
+   "monthly_net_estimated": 48644
   }
  ],
  "revenue": {
-  "monthly_low": 47708,
-  "monthly_est": 47708,
+  "monthly_low": 48644,
+  "monthly_est": 48644,
   "gift_once": 3118,
-  "total_low": 50826,
-  "total_est": 50826,
-  "paying_members": 153,
+  "total_low": 51762,
+  "total_est": 51762,
+  "paying_members": 156,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -250,6 +250,16 @@
    "kind": "配信",
    "chatters": 125,
    "member_chatters": 58,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "gfzigKdwiFg",
+   "start": "2026-11-09 07:03",
+   "title": "【朝活】癒しと元気をお届け！いってらっしゃいラジオ！【西園寺メアリ / ななしいんく】",
+   "kind": "配信",
+   "chatters": 131,
+   "member_chatters": 54,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -433,15 +443,15 @@
     "from": "2026-11-01",
     "to": "2026-11-09"
    },
-   "streams_analyzed": 4,
+   "streams_analyzed": 5,
    "streams_missed": 0,
-   "unique_chatters": 262,
-   "members_confirmed": 94,
+   "unique_chatters": 297,
+   "members_confirmed": 103,
    "member_classes": {
-    "unknown": 90,
+    "unknown": 99,
     "known": 4
    },
-   "long_term_members": 87,
+   "long_term_members": 94,
    "badges": [
     {
      "months": 0,
@@ -449,15 +459,15 @@
     },
     {
      "months": 2,
-     "members": 3
+     "members": 4
     },
     {
      "months": 6,
-     "members": 2
+     "members": 3
     },
     {
      "months": 12,
-     "members": 9
+     "members": 10
     },
     {
      "months": 24,
@@ -469,7 +479,7 @@
     },
     {
      "months": 48,
-     "members": 62
+     "members": 68
     }
    ],
    "events": {
@@ -483,15 +493,15 @@
      "tier": "メアリのお部屋",
      "price": 490,
      "confirmed_members": 4,
-     "estimated_members": 94.0
+     "estimated_members": 103.0
     }
    ],
    "revenue": {
-    "monthly_low": 29311,
-    "monthly_est": 29311,
+    "monthly_low": 32117,
+    "monthly_est": 32117,
     "gift_once": 0
    },
-   "avg_member_chatters": 46.5,
+   "avg_member_chatters": 48,
    "partial": true,
    "finalized": false
   }

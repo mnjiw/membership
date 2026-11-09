@@ -3,19 +3,19 @@
  "channel_id": "UCdh-YF2gTzqDNu0VU9lwPPw",
  "handle": "@ClaudeClawmark",
  "subscribers": 161000,
- "fetched_at": "2026-11-09 05:43",
- "generated_at": "2026-11-09 05:43",
+ "fetched_at": "2026-11-09 10:47",
+ "generated_at": "2026-11-09 10:47",
  "period": {
-  "from": "2026-10-10 05:43",
-  "to": "2026-11-09 05:43",
+  "from": "2026-10-10 10:47",
+  "to": "2026-11-09 10:47",
   "days": 30
  },
- "streams_analyzed": 18,
+ "streams_analyzed": 19,
  "streams_missed": 2,
- "unique_chatters": 2004,
- "members_confirmed": 923,
+ "unique_chatters": 2032,
+ "members_confirmed": 924,
  "member_classes": {
-  "known": 305,
+  "known": 306,
   "unknown": 259,
   "gift": 359
  },
@@ -23,12 +23,12 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 363
+   "members": 362
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 95
+   "members": 97
   },
   {
    "months": 6,
@@ -49,7 +49,7 @@
  "events": {
   "new_members": 19,
   "rejoins": 10,
-  "milestones": 254,
+  "milestones": 255,
   "gift_purchases": 36,
   "gifted_total": 365,
   "gift_redemptions": 360
@@ -60,21 +60,21 @@
    "tier": "Outclaws",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 305,
+   "confirmed_members": 306,
    "share_of_confirmed_pct": 100.0,
    "allocated_unknown": 259.0,
-   "estimated_members": 564.0,
-   "monthly_net_confirmed": 133923,
-   "monthly_net_estimated": 247647
+   "estimated_members": 565.0,
+   "monthly_net_confirmed": 134362,
+   "monthly_net_estimated": 248086
   }
  ],
  "revenue": {
-  "monthly_low": 247647,
-  "monthly_est": 247647,
+  "monthly_low": 248086,
+  "monthly_est": 248086,
   "gift_once": 160268,
-  "total_low": 407915,
-  "total_est": 407915,
-  "paying_members": 564,
+  "total_low": 408355,
+  "total_est": 408355,
+  "paying_members": 565,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -262,6 +262,16 @@
    "member_chatters": 160,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "h05SFymjk3E",
+   "start": "2026-11-09 01:21",
+   "title": "【DEADLOCK】guerilla until my carpal tunnel flares up",
+   "kind": "配信",
+   "chatters": 143,
+   "member_chatters": 83,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -433,16 +443,16 @@
     "from": "2026-11-01",
     "to": "2026-11-09"
    },
-   "streams_analyzed": 4,
+   "streams_analyzed": 5,
    "streams_missed": 0,
-   "unique_chatters": 854,
-   "members_confirmed": 370,
+   "unique_chatters": 899,
+   "members_confirmed": 375,
    "member_classes": {
-    "known": 209,
-    "unknown": 156,
+    "known": 212,
+    "unknown": 158,
     "gift": 5
    },
-   "long_term_members": 225,
+   "long_term_members": 226,
    "badges": [
     {
      "months": 0,
@@ -450,7 +460,7 @@
     },
     {
      "months": 1,
-     "members": 58
+     "members": 62
     },
     {
      "months": 6,
@@ -462,29 +472,29 @@
     },
     {
      "months": 24,
-     "members": 125
+     "members": 126
     }
    ],
    "events": {
     "new_members": 2,
     "rejoins": 2,
-    "milestones": 43,
+    "milestones": 44,
     "gifted_total": 6
    },
    "tiers": [
     {
      "tier": "Outclaws",
      "price": 690,
-     "confirmed_members": 209,
-     "estimated_members": 365.0
+     "confirmed_members": 212,
+     "estimated_members": 370.0
     }
    ],
    "revenue": {
-    "monthly_low": 160268,
-    "monthly_est": 160268,
+    "monthly_low": 162464,
+    "monthly_est": 162464,
     "gift_once": 2635
    },
-   "avg_member_chatters": 169.2,
+   "avg_member_chatters": 152,
    "partial": true,
    "finalized": false
   }
