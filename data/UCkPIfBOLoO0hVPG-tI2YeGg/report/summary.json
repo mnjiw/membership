@@ -3,19 +3,19 @@
  "channel_id": "UCkPIfBOLoO0hVPG-tI2YeGg",
  "handle": "@TOMARI_MARI",
  "subscribers": 511000,
- "fetched_at": "2026-11-10 13:14",
- "generated_at": "2026-11-10 13:14",
+ "fetched_at": "2026-11-11 06:40",
+ "generated_at": "2026-11-11 06:41",
  "period": {
-  "from": "2026-10-11 13:14",
-  "to": "2026-11-10 13:14",
+  "from": "2026-10-12 06:40",
+  "to": "2026-11-11 06:40",
   "days": 30
  },
- "streams_analyzed": 31,
+ "streams_analyzed": 32,
  "streams_missed": 1,
- "unique_chatters": 1724,
- "members_confirmed": 737,
+ "unique_chatters": 1760,
+ "members_confirmed": 739,
  "member_classes": {
-  "unknown": 379,
+  "unknown": 381,
   "known": 14,
   "gift": 344
  },
@@ -48,7 +48,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 35
+   "members": 36
   },
   {
    "months": 36,
@@ -58,7 +58,7 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 239
+   "members": 240
   }
  ],
  "events": {
@@ -77,19 +77,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 14,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 379.0,
-   "estimated_members": 393.0,
+   "allocated_unknown": 381.0,
+   "estimated_members": 395.0,
    "monthly_net_confirmed": 4365,
-   "monthly_net_estimated": 122545
+   "monthly_net_estimated": 123168
   }
  ],
  "revenue": {
-  "monthly_low": 122545,
-  "monthly_est": 122545,
+  "monthly_low": 123168,
+  "monthly_est": 123168,
   "gift_once": 110695,
-  "total_low": 233240,
-  "total_est": 233240,
-  "paying_members": 393,
+  "total_low": 233864,
+  "total_est": 233864,
+  "paying_members": 395,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "TPtk0k2aunE",
-   "start": "2026-10-11 21:02",
-   "title": "【GRAIN ROT】協力型ホラー脱出系建築ゲーム！今日も深く潜るぞ～！【#とまライブ】",
-   "kind": "配信",
-   "chatters": 124,
-   "member_chatters": 81,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "ugxwVclHRjY",
    "start": "2026-10-12 20:00",
@@ -407,6 +397,26 @@
    "member_chatters": 125,
    "new_members": 0,
    "gifted_total": 5
+  },
+  {
+   "video_id": "aGLyUZADU2Y",
+   "start": "2026-11-10 00:00",
+   "title": "#3.5 人生で初めての『ゼルダの伝説 時のオカリナ』実況プレイする！！！【#とまライブ】",
+   "kind": "配信",
+   "chatters": 182,
+   "member_chatters": 90,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "G4gH5Kdi5RI",
+   "start": "2026-11-10 20:00",
+   "title": "#3 人生で初めての『ゼルダの伝説 時のオカリナ』実況プレイする！！！【#とまライブ】",
+   "kind": "配信",
+   "chatters": 266,
+   "member_chatters": 115,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -419,7 +429,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 146,
+   "like_count": 147,
    "view_count": null
   }
  ],
@@ -431,7 +441,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 146,
+   "like_count": 147,
    "view_count": null
   }
  ],
@@ -577,18 +587,18 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-10"
+    "to": "2026-11-11"
    },
-   "streams_analyzed": 10,
+   "streams_analyzed": 12,
    "streams_missed": 0,
-   "unique_chatters": 1048,
-   "members_confirmed": 600,
+   "unique_chatters": 1109,
+   "members_confirmed": 608,
    "member_classes": {
-    "unknown": 323,
+    "unknown": 331,
     "known": 10,
     "gift": 267
    },
-   "long_term_members": 309,
+   "long_term_members": 316,
    "badges": [
     {
      "months": 0,
@@ -604,7 +614,7 @@
     },
     {
      "months": 6,
-     "members": 13
+     "members": 14
     },
     {
      "months": 12,
@@ -612,15 +622,15 @@
     },
     {
      "months": 24,
-     "members": 29
+     "members": 32
     },
     {
      "months": 36,
-     "members": 40
+     "members": 41
     },
     {
      "months": 48,
-     "members": 207
+     "members": 210
     }
    ],
    "events": {
@@ -634,15 +644,15 @@
      "tier": "にんじんども",
      "price": 490,
      "confirmed_members": 10,
-     "estimated_members": 333.0
+     "estimated_members": 341.0
     }
    ],
    "revenue": {
-    "monthly_low": 103835,
-    "monthly_est": 103835,
+    "monthly_low": 106330,
+    "monthly_est": 106330,
     "gift_once": 86374
    },
-   "avg_member_chatters": 153.7,
+   "avg_member_chatters": 145.2,
    "partial": true,
    "finalized": false
   }

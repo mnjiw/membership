@@ -3,19 +3,19 @@
  "channel_id": "UCW8WKciBixmaqaGqrlTITRQ",
  "handle": "@Izumi_Yunohara",
  "subscribers": 132000,
- "fetched_at": "2026-11-10 13:11",
- "generated_at": "2026-11-10 13:11",
+ "fetched_at": "2026-11-11 06:29",
+ "generated_at": "2026-11-11 06:30",
  "period": {
-  "from": "2026-10-11 13:11",
-  "to": "2026-11-10 13:11",
+  "from": "2026-10-12 06:29",
+  "to": "2026-11-11 06:29",
   "days": 30
  },
- "streams_analyzed": 26,
- "streams_missed": 1,
- "unique_chatters": 428,
- "members_confirmed": 86,
+ "streams_analyzed": 25,
+ "streams_missed": 2,
+ "unique_chatters": 423,
+ "members_confirmed": 85,
  "member_classes": {
-  "unknown": 82,
+  "unknown": 81,
   "known": 4
  },
  "badges": [
@@ -37,7 +37,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 64
+   "members": 63
   }
  ],
  "events": {
@@ -56,19 +56,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 4,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 82.0,
-   "estimated_members": 86.0,
+   "allocated_unknown": 81.0,
+   "estimated_members": 85.0,
    "monthly_net_confirmed": 1247,
-   "monthly_net_estimated": 26816
+   "monthly_net_estimated": 26505
   }
  ],
  "revenue": {
-  "monthly_low": 26816,
-  "monthly_est": 26816,
+  "monthly_low": 26505,
+  "monthly_est": 26505,
   "gift_once": 0,
-  "total_low": 26816,
-  "total_est": 26816,
-  "paying_members": 86,
+  "total_low": 26505,
+  "total_est": 26505,
+  "paying_members": 85,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -77,16 +77,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "BFipGPBBdmo",
-   "start": "2026-10-11 22:00",
-   "title": "【#ストグラ】#ストグラSeason2 柚乃いずみの日常～167日目～【柚原いづみ / ななしいんく】",
-   "kind": "配信",
-   "chatters": 41,
-   "member_chatters": 23,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "9R7E6ef6gx0",
    "start": "2026-10-12 23:00",
@@ -350,6 +340,18 @@
    "members_level": "柚原温泉街♨🐾",
    "like_count": 64,
    "view_count": null
+  },
+  {
+   "video_id": "SuhrYfVQr-0",
+   "start": "2026-11-10 00:00",
+   "title": "【#えるすりー12】めにしゅき♡ラッシュっしゅ / covered by 柚原いづみ",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 257,
+   "view_count": 3777
   }
  ],
  "members_only_content": [
@@ -481,10 +483,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-10"
+    "to": "2026-11-11"
    },
    "streams_analyzed": 8,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 207,
    "members_confirmed": 62,
    "member_classes": {

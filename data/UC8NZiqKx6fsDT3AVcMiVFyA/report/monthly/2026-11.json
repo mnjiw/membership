@@ -2,41 +2,41 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-10"
+  "to": "2026-11-11"
  },
- "streams_analyzed": 2,
+ "streams_analyzed": 3,
  "streams_missed": 7,
- "unique_chatters": 1258,
- "members_confirmed": 386,
+ "unique_chatters": 1749,
+ "members_confirmed": 502,
  "member_classes": {
-  "unknown": 368,
-  "known": 18
+  "unknown": 481,
+  "known": 21
  },
- "long_term_members": 143,
+ "long_term_members": 177,
  "badges": [
   {
    "months": 0,
-   "members": 30
+   "members": 37
   },
   {
    "months": 1,
-   "members": 23
+   "members": 32
   },
   {
    "months": 2,
-   "members": 104
+   "members": 141
   },
   {
    "months": 6,
-   "members": 86
+   "members": 115
   },
   {
    "months": 12,
-   "members": 94
+   "members": 119
   },
   {
    "months": 24,
-   "members": 20
+   "members": 26
   },
   {
    "months": 36,
@@ -44,7 +44,7 @@
   },
   {
    "months": 48,
-   "members": 5
+   "members": 7
   },
   {
    "months": 60,
@@ -53,10 +53,14 @@
   {
    "months": 72,
    "members": 14
+  },
+  {
+   "months": 84,
+   "members": 1
   }
  ],
  "events": {
-  "new_members": 7,
+  "new_members": 9,
   "rejoins": 3,
   "milestones": 0,
   "gifted_total": 0
@@ -65,20 +69,20 @@
   {
    "tier": "たまき塾【限定】プラン",
    "price": 490,
-   "confirmed_members": 15,
-   "estimated_members": 321.7
+   "confirmed_members": 17,
+   "estimated_members": 406.4
   },
   {
    "tier": "たまき塾【プレミア】プラン",
    "price": 1190,
-   "confirmed_members": 2,
-   "estimated_members": 42.9
+   "confirmed_members": 3,
+   "estimated_members": 71.7
   },
   {
    "tier": "たまき塾【歴史】プラン",
    "price": 3490,
    "confirmed_members": 1,
-   "estimated_members": 21.4
+   "estimated_members": 23.9
   },
   {
    "tier": "活動支援プラン🎁",
@@ -88,11 +92,11 @@
   }
  ],
  "revenue": {
-  "monthly_low": 123162,
-  "monthly_est": 180406,
+  "monthly_low": 159778,
+  "monthly_est": 234115,
   "gift_once": 0
  },
- "avg_member_chatters": 253.5,
+ "avg_member_chatters": 265,
  "partial": true,
  "finalized": false
 }

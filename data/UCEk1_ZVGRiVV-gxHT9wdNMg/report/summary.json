@@ -3,20 +3,20 @@
  "channel_id": "UCEk1_ZVGRiVV-gxHT9wdNMg",
  "handle": "@Kasukano_Utsuro",
  "subscribers": 73100,
- "fetched_at": "2026-11-10 13:13",
- "generated_at": "2026-11-10 13:13",
+ "fetched_at": "2026-11-11 06:36",
+ "generated_at": "2026-11-11 06:36",
  "period": {
-  "from": "2026-10-11 13:13",
-  "to": "2026-11-10 13:13",
+  "from": "2026-10-12 06:36",
+  "to": "2026-11-11 06:36",
   "days": 30
  },
  "streams_analyzed": 24,
- "streams_missed": 6,
- "unique_chatters": 392,
- "members_confirmed": 137,
+ "streams_missed": 5,
+ "unique_chatters": 390,
+ "members_confirmed": 134,
  "member_classes": {
+  "unknown": 95,
   "known": 31,
-  "unknown": 98,
   "gift": 8
  },
  "badges": [
@@ -33,12 +33,12 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 6
+   "members": 4
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 23
+   "members": 22
   },
   {
    "months": 12,
@@ -72,19 +72,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 31,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 98.0,
-   "estimated_members": 129.0,
+   "allocated_unknown": 95.0,
+   "estimated_members": 126.0,
    "monthly_net_confirmed": 9666,
-   "monthly_net_estimated": 40225
+   "monthly_net_estimated": 39289
   }
  ],
  "revenue": {
-  "monthly_low": 40225,
-  "monthly_est": 40225,
+  "monthly_low": 39289,
+  "monthly_est": 39289,
   "gift_once": 2495,
-  "total_low": 42719,
-  "total_est": 42719,
-  "paying_members": 129,
+  "total_low": 41784,
+  "total_est": 41784,
+  "paying_members": 126,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "erXaLIe5K0Q",
-   "start": "2026-10-11 18:03",
-   "title": "【 MACHINE PARTY 】命がけのパーティゲーム 【 幽乃うつろ / ネオポルテ 】",
-   "kind": "配信",
-   "chatters": 51,
-   "member_chatters": 33,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "XpPR2O3n0Is",
    "start": "2026-10-12 23:16",
@@ -332,21 +322,19 @@
    "member_chatters": 29,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "Vy_80eSU6NQ",
+   "start": "2026-11-10 00:00",
+   "title": "【 OW 】プラチナにッもどりたいんだよォーーーッ【 幽乃うつろ / ネオポルテ 】",
+   "kind": "配信",
+   "chatters": 55,
+   "member_chatters": 31,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
-  {
-   "video_id": "9y68X0AoYVA",
-   "start": "2026-10-11 21:02",
-   "title": "いっしょに『プロジェクト・ヘイル・メアリー』みる",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "ひょういたいしょう",
-   "like_count": 25,
-   "view_count": null
-  },
   {
    "video_id": "RcHMh-1WwNE",
    "start": "2026-10-18 22:34",
@@ -409,16 +397,6 @@
   }
  ],
  "members_only_content": [
-  {
-   "video_id": "9y68X0AoYVA",
-   "start": "2026-10-11 21:02",
-   "title": "いっしょに『プロジェクト・ヘイル・メアリー』みる",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "ひょういたいしょう",
-   "like_count": 25,
-   "view_count": null
-  },
   {
    "video_id": "RcHMh-1WwNE",
    "start": "2026-10-18 22:34",
@@ -603,11 +581,11 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-10"
+    "to": "2026-11-11"
    },
-   "streams_analyzed": 9,
+   "streams_analyzed": 10,
    "streams_missed": 0,
-   "unique_chatters": 265,
+   "unique_chatters": 274,
    "members_confirmed": 109,
    "member_classes": {
     "unknown": 83,
@@ -664,7 +642,7 @@
     "monthly_est": 33676,
     "gift_once": 312
    },
-   "avg_member_chatters": 36.6,
+   "avg_member_chatters": 36,
    "partial": true,
    "finalized": false
   }

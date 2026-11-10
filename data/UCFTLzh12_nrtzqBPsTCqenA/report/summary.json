@@ -3,66 +3,66 @@
  "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
  "handle": "@AkiRosenthal",
  "subscribers": 1040000,
- "fetched_at": "2026-11-10 13:09",
- "generated_at": "2026-11-10 13:09",
+ "fetched_at": "2026-11-11 06:18",
+ "generated_at": "2026-11-11 06:18",
  "period": {
-  "from": "2026-10-11 13:09",
-  "to": "2026-11-10 13:09",
+  "from": "2026-10-12 06:18",
+  "to": "2026-11-11 06:18",
   "days": 30
  },
- "streams_analyzed": 28,
- "streams_missed": 1,
- "unique_chatters": 6073,
- "members_confirmed": 1362,
+ "streams_analyzed": 25,
+ "streams_missed": 0,
+ "unique_chatters": 5632,
+ "members_confirmed": 1281,
  "member_classes": {
-  "unknown": 1023,
-  "known": 75,
-  "gift": 264
+  "unknown": 977,
+  "known": 74,
+  "gift": 230
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 297
+   "members": 261
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 27
+   "members": 25
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 42
+   "members": 38
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 86
+   "members": 79
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 216
+   "members": 209
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 286
+   "members": 277
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 408
+   "members": 392
   }
  ],
  "events": {
-  "new_members": 8,
+  "new_members": 7,
   "rejoins": 5,
-  "milestones": 27,
-  "gift_purchases": 81,
-  "gifted_total": 322,
-  "gift_redemptions": 264
+  "milestones": 24,
+  "gift_purchases": 69,
+  "gifted_total": 278,
+  "gift_redemptions": 230
  },
  "tiers_configured": true,
  "tiers": [
@@ -70,21 +70,21 @@
    "tier": "ロゼ隊の宿付き酒場",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 75,
+   "confirmed_members": 74,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1023.0,
-   "estimated_members": 1098.0,
-   "monthly_net_confirmed": 23386,
-   "monthly_net_estimated": 342376
+   "allocated_unknown": 977.0,
+   "estimated_members": 1051.0,
+   "monthly_net_confirmed": 23075,
+   "monthly_net_estimated": 327721
   }
  ],
  "revenue": {
-  "monthly_low": 342376,
-  "monthly_est": 342376,
-  "gift_once": 100405,
-  "total_low": 442782,
-  "total_est": 442782,
-  "paying_members": 1098,
+  "monthly_low": 327721,
+  "monthly_est": 327721,
+  "gift_once": 86685,
+  "total_low": 414406,
+  "total_est": 414406,
+  "paying_members": 1051,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -93,36 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "PPOAqpd6Pz4",
-   "start": "2026-10-11 17:02",
-   "title": "【ホロライブドリームス】釣り雑談～図鑑コンプへの道！ #ホロドリ【ホロライブ/アキロゼ】",
-   "kind": "配信",
-   "chatters": 366,
-   "member_chatters": 221,
-   "new_members": 1,
-   "gifted_total": 21
-  },
-  {
-   "video_id": "me_Pq47Plxg",
-   "start": "2026-10-11 20:01",
-   "title": "【 Big Walk 】4人で協力謎解きできる！？#ちくまろ /ひまちゃん、べにちゃん、ちょこせん【アキロゼ/ホロライブ】",
-   "kind": "配信",
-   "chatters": 498,
-   "member_chatters": 287,
-   "new_members": 0,
-   "gifted_total": 6
-  },
-  {
-   "video_id": "dbMiQqtqP_Y",
-   "start": "2026-10-11 22:37",
-   "title": "【 #ホロ鯖ARK 】DAY3│原始生活セット🦖テイム！ドレイクリング冬ちゃんも！【ホロライブ/アキロゼ】",
-   "kind": "配信",
-   "chatters": 1566,
-   "member_chatters": 487,
-   "new_members": 0,
-   "gifted_total": 17
-  },
   {
    "video_id": "fID7HLF0LJY",
    "start": "2026-10-12 17:03",
@@ -374,32 +344,8 @@
    "gifted_total": 6
   }
  ],
- "missed_streams": [
-  {
-   "video_id": "tOIdBJ9Dm3E",
-   "start": "2026-10-11 18:10",
-   "title": "【ホロライブドリームス】釣り雑談～図鑑コンプへの道！ #ホロドリ【ホロライブ/アキロゼ】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 373,
-   "view_count": null
-  }
- ],
- "members_only_content": [
-  {
-   "video_id": "tOIdBJ9Dm3E",
-   "start": "2026-10-11 18:10",
-   "title": "【ホロライブドリームス】釣り雑談～図鑑コンプへの道！ #ホロドリ【ホロライブ/アキロゼ】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 373,
-   "view_count": null
-  }
- ],
+ "missed_streams": [],
+ "members_only_content": [],
  "history": [
   {
    "month": "2026-09",
@@ -545,7 +491,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-10"
+    "to": "2026-11-11"
    },
    "streams_analyzed": 2,
    "streams_missed": 0,

@@ -3,41 +3,41 @@
  "channel_id": "UC4oIghT3W9Y99nyiNCTXwlg",
  "handle": "@Azri_0822",
  "subscribers": 14400,
- "fetched_at": "2026-11-10 13:11",
- "generated_at": "2026-11-10 13:11",
+ "fetched_at": "2026-11-11 06:30",
+ "generated_at": "2026-11-11 06:30",
  "period": {
-  "from": "2026-10-11 13:11",
-  "to": "2026-11-10 13:11",
+  "from": "2026-10-12 06:30",
+  "to": "2026-11-11 06:30",
   "days": 30
  },
  "streams_analyzed": 18,
  "streams_missed": 1,
- "unique_chatters": 533,
- "members_confirmed": 203,
+ "unique_chatters": 539,
+ "members_confirmed": 206,
  "member_classes": {
-  "unknown": 174,
-  "known": 14,
+  "unknown": 176,
+  "known": 15,
   "gift": 15
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 20
+   "members": 21
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 17
+   "members": 18
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 166
+   "members": 167
   }
  ],
  "events": {
-  "new_members": 2,
+  "new_members": 3,
   "rejoins": 0,
   "milestones": 5,
   "gift_purchases": 8,
@@ -50,21 +50,21 @@
    "tier": "あずりのえでん",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 14,
+   "confirmed_members": 15,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 174.0,
-   "estimated_members": 188.0,
-   "monthly_net_confirmed": 4365,
-   "monthly_net_estimated": 58622
+   "allocated_unknown": 176.0,
+   "estimated_members": 191.0,
+   "monthly_net_confirmed": 4677,
+   "monthly_net_estimated": 59557
   }
  ],
  "revenue": {
-  "monthly_low": 58622,
-  "monthly_est": 58622,
+  "monthly_low": 59557,
+  "monthly_est": 59557,
   "gift_once": 4989,
-  "total_low": 63611,
-  "total_est": 63611,
-  "paying_members": 188,
+  "total_low": 64546,
+  "total_est": 64546,
+  "paying_members": 191,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "nAmLLpKKGDg",
-   "start": "2026-10-11 21:58",
-   "title": "第二章ゾーイ 仕事を辞めたい看護師　-SILENT HILL: Townfall【ななしいんく/アズリ】",
-   "kind": "配信",
-   "chatters": 92,
-   "member_chatters": 63,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "OuluxupXIZw",
    "start": "2026-10-12 22:00",
@@ -252,6 +242,16 @@
    "member_chatters": 69,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "LyWfaHr8PbY",
+   "start": "2026-11-10 20:58",
+   "title": "圧倒的好評97%!!実力派鬱ゲー   -#MOLE【ななしいんく/アズリ】",
+   "kind": "配信",
+   "chatters": 105,
+   "member_chatters": 74,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -382,34 +382,34 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-10"
+    "to": "2026-11-11"
    },
-   "streams_analyzed": 4,
+   "streams_analyzed": 5,
    "streams_missed": 0,
-   "unique_chatters": 249,
-   "members_confirmed": 125,
+   "unique_chatters": 268,
+   "members_confirmed": 134,
    "member_classes": {
-    "unknown": 107,
-    "known": 10,
+    "unknown": 115,
+    "known": 11,
     "gift": 8
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 12
+     "members": 13
     },
     {
      "months": 1,
-     "members": 8
+     "members": 9
     },
     {
      "months": 2,
-     "members": 105
+     "members": 112
     }
    ],
    "events": {
-    "new_members": 0,
+    "new_members": 1,
     "rejoins": 0,
     "milestones": 1,
     "gifted_total": 9
@@ -418,16 +418,16 @@
     {
      "tier": "あずりのえでん",
      "price": 490,
-     "confirmed_members": 10,
-     "estimated_members": 117.0
+     "confirmed_members": 11,
+     "estimated_members": 126.0
     }
    ],
    "revenue": {
-    "monthly_low": 36483,
-    "monthly_est": 36483,
+    "monthly_low": 39289,
+    "monthly_est": 39289,
     "gift_once": 2806
    },
-   "avg_member_chatters": 72.8,
+   "avg_member_chatters": 73,
    "partial": true,
    "finalized": false
   }

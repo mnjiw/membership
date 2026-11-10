@@ -3,27 +3,27 @@
  "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
  "handle": "@TakaneLui",
  "subscribers": 1130000,
- "fetched_at": "2026-11-10 13:10",
- "generated_at": "2026-11-10 13:10",
+ "fetched_at": "2026-11-11 06:22",
+ "generated_at": "2026-11-11 06:24",
  "period": {
-  "from": "2026-10-11 13:10",
-  "to": "2026-11-10 13:10",
+  "from": "2026-10-12 06:22",
+  "to": "2026-11-11 06:22",
   "days": 30
  },
  "streams_analyzed": 23,
  "streams_missed": 0,
- "unique_chatters": 10250,
- "members_confirmed": 1403,
+ "unique_chatters": 11388,
+ "members_confirmed": 1427,
  "member_classes": {
-  "unknown": 1193,
+  "unknown": 1216,
   "known": 137,
-  "gift": 73
+  "gift": 74
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 110
+   "members": 112
   },
   {
    "months": 1,
@@ -33,41 +33,41 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 77
+   "members": 79
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 79
+   "members": 81
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 253
+   "members": 258
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 243
+   "members": 246
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 225
+   "members": 228
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 401
+   "members": 408
   }
  ],
  "events": {
   "new_members": 19,
   "rejoins": 9,
-  "milestones": 63,
-  "gift_purchases": 24,
-  "gifted_total": 146,
-  "gift_redemptions": 73
+  "milestones": 64,
+  "gift_purchases": 25,
+  "gifted_total": 147,
+  "gift_redemptions": 74
  },
  "tiers_configured": true,
  "tiers": [
@@ -77,19 +77,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 137,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1193.0,
-   "estimated_members": 1330.0,
+   "allocated_unknown": 1216.0,
+   "estimated_members": 1353.0,
    "monthly_net_confirmed": 42719,
-   "monthly_net_estimated": 414718
+   "monthly_net_estimated": 421890
   }
  ],
  "revenue": {
-  "monthly_low": 414718,
-  "monthly_est": 414718,
-  "gift_once": 45525,
-  "total_low": 460244,
-  "total_est": 460244,
-  "paying_members": 1330,
+  "monthly_low": 421890,
+  "monthly_est": 421890,
+  "gift_once": 45837,
+  "total_low": 467727,
+  "total_est": 467727,
+  "paying_members": 1353,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "4C445UFekBw",
-   "start": "2026-10-11 18:00",
-   "title": "【全力オタ活！】コードギアス20周年展示会に大興奮＆爆買い！【ルイ姉、今日なにする？】#6",
-   "kind": "プレミア",
-   "chatters": 189,
-   "member_chatters": 100,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "lZd_bHhNB68",
    "start": "2026-10-12 22:02",
@@ -327,10 +317,31 @@
    "member_chatters": 633,
    "new_members": 0,
    "gifted_total": 49
+  },
+  {
+   "video_id": "BYMnrRjbZAQ",
+   "start": "2026-11-10 21:03",
+   "title": "【 オフコラボ 】ユニバで買ってきた例のグミなら、さすがに怖がるやろ！【#いぬたかししの怖がらせ隊/ホロライブ】",
+   "kind": "配信",
+   "chatters": 2299,
+   "member_chatters": 378,
+   "new_members": 0,
+   "gifted_total": 1
   }
  ],
  "missed_streams": [],
- "members_only_content": [],
+ "members_only_content": [
+  {
+   "video_id": "BA2UlNBUHZo",
+   "start": "2026-11-11 01:52",
+   "title": "【Membership Only】get lucky ～オルゴールver.～【作業用BGM】",
+   "kind": "video",
+   "status": "members_only_video",
+   "members_level": "",
+   "like_count": 85,
+   "view_count": null
+  }
+ ],
  "history": [
   {
    "month": "2026-09",
@@ -484,72 +495,72 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-10"
+    "to": "2026-11-11"
    },
-   "streams_analyzed": 11,
+   "streams_analyzed": 12,
    "streams_missed": 0,
-   "unique_chatters": 7878,
-   "members_confirmed": 1114,
+   "unique_chatters": 9222,
+   "members_confirmed": 1159,
    "member_classes": {
-    "known": 108,
-    "unknown": 970,
-    "gift": 36
+    "known": 110,
+    "unknown": 1012,
+    "gift": 37
    },
-   "long_term_members": 927,
+   "long_term_members": 964,
    "badges": [
     {
      "months": 0,
-     "members": 59
+     "members": 61
     },
     {
      "months": 1,
-     "members": 10
+     "members": 11
     },
     {
      "months": 2,
-     "members": 58
-    },
-    {
-     "months": 6,
      "members": 60
     },
     {
+     "months": 6,
+     "members": 63
+    },
+    {
      "months": 12,
-     "members": 218
+     "members": 225
     },
     {
      "months": 24,
-     "members": 192
+     "members": 200
     },
     {
      "months": 36,
-     "members": 185
+     "members": 192
     },
     {
      "months": 48,
-     "members": 332
+     "members": 347
     }
    ],
    "events": {
     "new_members": 7,
     "rejoins": 7,
-    "milestones": 31,
-    "gifted_total": 76
+    "milestones": 32,
+    "gifted_total": 77
    },
    "tiers": [
     {
      "tier": "幹部PONs'",
      "price": 490,
-     "confirmed_members": 108,
-     "estimated_members": 1078.0
+     "confirmed_members": 110,
+     "estimated_members": 1122.0
     }
    ],
    "revenue": {
-    "monthly_low": 336140,
-    "monthly_est": 336140,
-    "gift_once": 23698
+    "monthly_low": 349860,
+    "monthly_est": 349860,
+    "gift_once": 24010
    },
-   "avg_member_chatters": 289.7,
+   "avg_member_chatters": 297.1,
    "partial": true,
    "finalized": false
   }

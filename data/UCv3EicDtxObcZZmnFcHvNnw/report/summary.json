@@ -3,20 +3,20 @@
  "channel_id": "UCv3EicDtxObcZZmnFcHvNnw",
  "handle": "@onigayaten0512",
  "subscribers": 87800,
- "fetched_at": "2026-11-10 13:13",
- "generated_at": "2026-11-10 13:13",
+ "fetched_at": "2026-11-11 06:36",
+ "generated_at": "2026-11-11 06:37",
  "period": {
-  "from": "2026-10-11 13:13",
-  "to": "2026-11-10 13:13",
+  "from": "2026-10-12 06:36",
+  "to": "2026-11-11 06:36",
   "days": 30
  },
  "streams_analyzed": 40,
  "streams_missed": 5,
- "unique_chatters": 587,
- "members_confirmed": 222,
+ "unique_chatters": 580,
+ "members_confirmed": 221,
  "member_classes": {
+  "unknown": 136,
   "known": 15,
-  "unknown": 137,
   "gift": 70
  },
  "badges": [
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 60
+   "members": 59
   },
   {
    "months": 24,
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 15,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 137.0,
-   "estimated_members": 152.0,
+   "allocated_unknown": 136.0,
+   "estimated_members": 151.0,
    "monthly_net_confirmed": 4677,
-   "monthly_net_estimated": 47396
+   "monthly_net_estimated": 47085
   }
  ],
  "revenue": {
-  "monthly_low": 47396,
-  "monthly_est": 47396,
+  "monthly_low": 47085,
+  "monthly_est": 47085,
   "gift_once": 21827,
-  "total_low": 69224,
-  "total_est": 69224,
-  "paying_members": 152,
+  "total_low": 68912,
+  "total_est": 68912,
+  "paying_members": 151,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "nFQXtkGBtNU",
-   "start": "2026-10-11 23:11",
-   "title": "【雑談】秋どこいった？な夜雑談です【鬼ヶ谷テン/ネオポルテ】",
-   "kind": "配信",
-   "chatters": 74,
-   "member_chatters": 42,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "h4tqE8EIVmY",
    "start": "2026-10-12 14:06",
@@ -487,6 +477,16 @@
    "member_chatters": 28,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "-5VNT4OkvzA",
+   "start": "2026-11-10 22:00",
+   "title": "【スト6】SCARZ CUP キャラ対カスタム！【鬼ヶ谷テン/ネオポルテ】",
+   "kind": "配信",
+   "chatters": 31,
+   "member_chatters": 17,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -719,11 +719,11 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-10"
+    "to": "2026-11-11"
    },
-   "streams_analyzed": 12,
+   "streams_analyzed": 13,
    "streams_missed": 1,
-   "unique_chatters": 232,
+   "unique_chatters": 239,
    "members_confirmed": 97,
    "member_classes": {
     "unknown": 78,
@@ -776,7 +776,7 @@
     "monthly_est": 27128,
     "gift_once": 3118
    },
-   "avg_member_chatters": 28,
+   "avg_member_chatters": 27.2,
    "partial": true,
    "finalized": false
   }

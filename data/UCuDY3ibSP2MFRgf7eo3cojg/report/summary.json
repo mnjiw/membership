@@ -3,27 +3,27 @@
  "channel_id": "UCuDY3ibSP2MFRgf7eo3cojg",
  "handle": "@SendoYuuhi",
  "subscribers": 391000,
- "fetched_at": "2026-11-10 13:12",
- "generated_at": "2026-11-10 13:12",
+ "fetched_at": "2026-11-11 06:32",
+ "generated_at": "2026-11-11 06:32",
  "period": {
-  "from": "2026-10-11 13:12",
-  "to": "2026-11-10 13:12",
+  "from": "2026-10-12 06:32",
+  "to": "2026-11-11 06:32",
   "days": 30
  },
- "streams_analyzed": 42,
+ "streams_analyzed": 41,
  "streams_missed": 1,
- "unique_chatters": 7310,
- "members_confirmed": 1164,
+ "unique_chatters": 7285,
+ "members_confirmed": 1111,
  "member_classes": {
-  "unknown": 878,
-  "known": 105,
-  "gift": 181
+  "unknown": 877,
+  "known": 104,
+  "gift": 130
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 203
+   "members": 156
   },
   {
    "months": 1,
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 110
+   "members": 108
   },
   {
    "months": 6,
@@ -43,21 +43,21 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 328
+   "members": 325
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 345
+   "members": 344
   }
  ],
  "events": {
   "new_members": 24,
   "rejoins": 18,
   "milestones": 49,
-  "gift_purchases": 43,
-  "gifted_total": 181,
-  "gift_redemptions": 181
+  "gift_purchases": 41,
+  "gifted_total": 130,
+  "gift_redemptions": 130
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +65,21 @@
    "tier": "てんとうむし🐞",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 105,
+   "confirmed_members": 104,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 878.0,
-   "estimated_members": 983.0,
-   "monthly_net_confirmed": 32741,
-   "monthly_net_estimated": 306517
+   "allocated_unknown": 877.0,
+   "estimated_members": 981.0,
+   "monthly_net_confirmed": 32429,
+   "monthly_net_estimated": 305894
   }
  ],
  "revenue": {
-  "monthly_low": 306517,
-  "monthly_est": 306517,
-  "gift_once": 56439,
-  "total_low": 362956,
-  "total_est": 362956,
-  "paying_members": 983,
+  "monthly_low": 305894,
+  "monthly_est": 305894,
+  "gift_once": 40536,
+  "total_low": 346430,
+  "total_est": 346430,
+  "paying_members": 981,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "2cCO2xtJ6sc",
-   "start": "2026-10-11 19:01",
-   "title": "【#LTK】つづき！2v2練習【 ぶいすぽっ！ / 千燈ゆうひ 】",
-   "kind": "配信",
-   "chatters": 359,
-   "member_chatters": 280,
-   "new_members": 0,
-   "gifted_total": 51
-  },
   {
    "video_id": "J2LTHmiDIVw",
    "start": "2026-10-14 19:56",
@@ -519,7 +509,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 182,
+   "like_count": 183,
    "view_count": null
   }
  ],
@@ -531,7 +521,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 182,
+   "like_count": 183,
    "view_count": null
   }
  ],
@@ -661,7 +651,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-10"
+    "to": "2026-11-11"
    },
    "streams_analyzed": 13,
    "streams_missed": 1,

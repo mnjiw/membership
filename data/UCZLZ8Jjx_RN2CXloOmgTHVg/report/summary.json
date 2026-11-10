@@ -2,38 +2,38 @@
  "channel": "Kaela Kovalskia Ch. hololive",
  "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
  "handle": "@KaelaKovalskia",
- "subscribers": 925000,
- "fetched_at": "2026-11-10 13:10",
- "generated_at": "2026-11-10 13:10",
+ "subscribers": 926000,
+ "fetched_at": "2026-11-11 06:27",
+ "generated_at": "2026-11-11 06:28",
  "period": {
-  "from": "2026-10-11 13:10",
-  "to": "2026-11-10 13:10",
+  "from": "2026-10-12 06:27",
+  "to": "2026-11-11 06:27",
   "days": 30
  },
  "streams_analyzed": 27,
  "streams_missed": 1,
- "unique_chatters": 9990,
- "members_confirmed": 1165,
+ "unique_chatters": 10072,
+ "members_confirmed": 1248,
  "member_classes": {
-  "known": 348,
-  "unknown": 757,
-  "gift": 60
+  "unknown": 753,
+  "known": 362,
+  "gift": 133
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 207
+   "members": 277
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 55
+   "members": 58
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 82
+   "members": 86
   },
   {
    "months": 6,
@@ -43,12 +43,12 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 220
+   "members": 221
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 177
+   "members": 178
   },
   {
    "months": 36,
@@ -58,16 +58,16 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 143
+   "members": 147
   }
  ],
  "events": {
-  "new_members": 22,
-  "rejoins": 28,
-  "milestones": 217,
-  "gift_purchases": 12,
-  "gifted_total": 60,
-  "gift_redemptions": 60
+  "new_members": 23,
+  "rejoins": 32,
+  "milestones": 228,
+  "gift_purchases": 22,
+  "gifted_total": 133,
+  "gift_redemptions": 133
  },
  "tiers_configured": true,
  "tiers": [
@@ -75,21 +75,21 @@
    "tier": "KAELUARGA",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 348,
+   "confirmed_members": 362,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 757.0,
-   "estimated_members": 1105.0,
-   "monthly_net_confirmed": 152804,
-   "monthly_net_estimated": 485195
+   "allocated_unknown": 753.0,
+   "estimated_members": 1115.0,
+   "monthly_net_confirmed": 158951,
+   "monthly_net_estimated": 489586
   }
  ],
  "revenue": {
-  "monthly_low": 485195,
-  "monthly_est": 485195,
-  "gift_once": 26345,
-  "total_low": 511541,
-  "total_est": 511541,
-  "paying_members": 1105,
+  "monthly_low": 489586,
+  "monthly_est": 489586,
+  "gift_once": 58399,
+  "total_low": 547985,
+  "total_est": 547985,
+  "paying_members": 1115,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "624XMrg3l64",
-   "start": "2026-10-11 23:00",
-   "title": "【hololive Dreams】MoonKae and its the daily holodori🎮【#holodori】",
-   "kind": "配信",
-   "chatters": 772,
-   "member_chatters": 247,
-   "new_members": 2,
-   "gifted_total": 0
-  },
   {
    "video_id": "facS93pFVgM",
    "start": "2026-10-12 14:11",
@@ -367,6 +357,16 @@
    "member_chatters": 330,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "CVVyTYmmgN8",
+   "start": "2026-11-10 13:44",
+   "title": "【Shroom and Gloom】checking map 2!! hmm what now",
+   "kind": "配信",
+   "chatters": 1111,
+   "member_chatters": 328,
+   "new_members": 3,
+   "gifted_total": 73
   }
  ],
  "missed_streams": [
@@ -379,7 +379,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 447,
+   "like_count": 446,
    "view_count": null
   }
  ],
@@ -391,7 +391,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 447,
+   "like_count": 446,
    "view_count": null
   }
  ],
@@ -537,72 +537,72 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-10"
+    "to": "2026-11-11"
    },
-   "streams_analyzed": 8,
+   "streams_analyzed": 9,
    "streams_missed": 0,
-   "unique_chatters": 6014,
-   "members_confirmed": 841,
+   "unique_chatters": 6322,
+   "members_confirmed": 943,
    "member_classes": {
-    "known": 260,
-    "unknown": 543,
-    "gift": 38
+    "known": 281,
+    "unknown": 551,
+    "gift": 111
    },
-   "long_term_members": 532,
+   "long_term_members": 552,
    "badges": [
     {
      "months": 0,
-     "members": 147
+     "members": 219
     },
     {
      "months": 1,
-     "members": 34
+     "members": 37
     },
     {
      "months": 2,
-     "members": 62
+     "members": 67
     },
     {
      "months": 6,
-     "members": 66
+     "members": 68
     },
     {
      "months": 12,
-     "members": 162
+     "members": 169
     },
     {
      "months": 24,
-     "members": 113
+     "members": 120
     },
     {
      "months": 36,
-     "members": 152
+     "members": 153
     },
     {
      "months": 48,
-     "members": 105
+     "members": 110
     }
    ],
    "events": {
-    "new_members": 5,
-    "rejoins": 11,
-    "milestones": 93,
-    "gifted_total": 38
+    "new_members": 8,
+    "rejoins": 19,
+    "milestones": 112,
+    "gifted_total": 111
    },
    "tiers": [
     {
      "tier": "KAELUARGA",
      "price": 690,
-     "confirmed_members": 260,
-     "estimated_members": 803.0
+     "confirmed_members": 281,
+     "estimated_members": 832.0
     }
    ],
    "revenue": {
-    "monthly_low": 352590,
-    "monthly_est": 352590,
-    "gift_once": 16685
+    "monthly_low": 365324,
+    "monthly_est": 365324,
+    "gift_once": 48739
    },
-   "avg_member_chatters": 311.8,
+   "avg_member_chatters": 313.6,
    "partial": true,
    "finalized": false
   }

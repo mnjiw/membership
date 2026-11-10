@@ -3,19 +3,19 @@
  "channel_id": "UCYTz3uIgwVY3ZU-IQJS8r3A",
  "handle": "@Charlotte_Shimamura",
  "subscribers": 98400,
- "fetched_at": "2026-11-10 13:11",
- "generated_at": "2026-11-10 13:11",
+ "fetched_at": "2026-11-11 06:29",
+ "generated_at": "2026-11-11 06:29",
  "period": {
-  "from": "2026-10-11 13:11",
-  "to": "2026-11-10 13:11",
+  "from": "2026-10-12 06:29",
+  "to": "2026-11-11 06:29",
   "days": 30
  },
  "streams_analyzed": 17,
  "streams_missed": 1,
- "unique_chatters": 379,
- "members_confirmed": 104,
+ "unique_chatters": 373,
+ "members_confirmed": 101,
  "member_classes": {
-  "unknown": 86,
+  "unknown": 83,
   "known": 8,
   "gift": 10
  },
@@ -24,11 +24,6 @@
    "months": 0,
    "label": "新規(1ヶ月未満)",
    "members": 9
-  },
-  {
-   "months": 1,
-   "label": "1ヶ月",
-   "members": 1
   },
   {
    "months": 2,
@@ -58,7 +53,7 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 64
+   "members": 62
   }
  ],
  "events": {
@@ -77,19 +72,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 8,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 86.0,
-   "estimated_members": 94.0,
+   "allocated_unknown": 83.0,
+   "estimated_members": 91.0,
    "monthly_net_confirmed": 2495,
-   "monthly_net_estimated": 29311
+   "monthly_net_estimated": 28375
   }
  ],
  "revenue": {
-  "monthly_low": 29311,
-  "monthly_est": 29311,
+  "monthly_low": 28375,
+  "monthly_est": 28375,
   "gift_once": 3118,
-  "total_low": 32429,
-  "total_est": 32429,
-  "paying_members": 94,
+  "total_low": 31494,
+  "total_est": 31494,
+  "paying_members": 91,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "OiTPcH6_gHI",
-   "start": "2026-10-11 15:02",
-   "title": "【ELDENRING Shadow of the Erdtree】#5　すみません、時間がまた空いて怖さマシマシなのですが・・・　#シャルのひつじ【島村シャルロット / ななしいんく】",
-   "kind": "配信",
-   "chatters": 47,
-   "member_chatters": 21,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "kFvDLIh_1f8",
    "start": "2026-10-13 23:07",
@@ -267,6 +252,16 @@
    "member_chatters": 28,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "jrDeGJDU-bo",
+   "start": "2026-11-10 00:00",
+   "title": "【Minecraft】ワールド統一化計画「植林場をアパート」　ついに完成！？　#572　#シャルのひつじ【島村シャルロット / ななしいんく】",
+   "kind": "配信",
+   "chatters": 54,
+   "member_chatters": 29,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -279,7 +274,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 78,
+   "like_count": 79,
    "view_count": null
   }
  ],
@@ -291,7 +286,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 78,
+   "like_count": 79,
    "view_count": null
   }
  ],
@@ -437,17 +432,17 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-10"
+    "to": "2026-11-11"
    },
-   "streams_analyzed": 4,
+   "streams_analyzed": 5,
    "streams_missed": 1,
-   "unique_chatters": 227,
-   "members_confirmed": 73,
+   "unique_chatters": 235,
+   "members_confirmed": 74,
    "member_classes": {
-    "unknown": 66,
+    "unknown": 67,
     "known": 7
    },
-   "long_term_members": 72,
+   "long_term_members": 73,
    "badges": [
     {
      "months": 6,
@@ -459,7 +454,7 @@
     },
     {
      "months": 24,
-     "members": 7
+     "members": 8
     },
     {
      "months": 36,
@@ -481,15 +476,15 @@
      "tier": "♣️島村建設のひろば",
      "price": 490,
      "confirmed_members": 7,
-     "estimated_members": 73.0
+     "estimated_members": 74.0
     }
    ],
    "revenue": {
-    "monthly_low": 22763,
-    "monthly_est": 22763,
+    "monthly_low": 23075,
+    "monthly_est": 23075,
     "gift_once": 0
    },
-   "avg_member_chatters": 38.2,
+   "avg_member_chatters": 36.4,
    "partial": true,
    "finalized": false
   }

@@ -3,27 +3,27 @@
  "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
  "handle": "@ayundarisu",
  "subscribers": 1020000,
- "fetched_at": "2026-11-10 13:10",
- "generated_at": "2026-11-10 13:10",
+ "fetched_at": "2026-11-11 06:26",
+ "generated_at": "2026-11-11 06:27",
  "period": {
-  "from": "2026-10-11 13:10",
-  "to": "2026-11-10 13:10",
+  "from": "2026-10-12 06:26",
+  "to": "2026-11-11 06:26",
   "days": 30
  },
- "streams_analyzed": 22,
- "streams_missed": 6,
- "unique_chatters": 5016,
- "members_confirmed": 857,
+ "streams_analyzed": 21,
+ "streams_missed": 7,
+ "unique_chatters": 4934,
+ "members_confirmed": 845,
  "member_classes": {
   "unknown": 419,
   "known": 202,
-  "gift": 236
+  "gift": 224
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 312
+   "members": 301
   },
   {
    "months": 1,
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 136
+   "members": 135
   },
   {
    "months": 24,
@@ -75,9 +75,9 @@
   "new_members": 19,
   "rejoins": 38,
   "milestones": 96,
-  "gift_purchases": 47,
-  "gifted_total": 243,
-  "gift_redemptions": 238
+  "gift_purchases": 42,
+  "gifted_total": 230,
+  "gift_redemptions": 225
  },
  "tiers_configured": true,
  "tiers": [
@@ -96,9 +96,9 @@
  "revenue": {
   "monthly_low": 193639,
   "monthly_est": 193639,
-  "gift_once": 75772,
-  "total_low": 269411,
-  "total_est": 269411,
+  "gift_once": 71718,
+  "total_low": 265357,
+  "total_est": 265357,
   "paying_members": 621,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -108,16 +108,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "z3DPrfBGFqA",
-   "start": "2026-10-11 13:19",
-   "title": "#8 DINKUM HALLOWEEN EVENT w/ @sammybollivienn & @sayaayaaulya",
-   "kind": "配信",
-   "chatters": 272,
-   "member_chatters": 86,
-   "new_members": 0,
-   "gifted_total": 13
-  },
   {
    "video_id": "O8k6ryullSY",
    "start": "2026-10-13 17:59",
@@ -399,7 +389,19 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 262,
+   "like_count": 263,
+   "view_count": null
+  },
+  {
+   "video_id": "_-9IdnbWJck",
+   "start": "2026-11-10 23:15",
+   "title": "HOMEWORK (pen emoji)",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 174,
    "view_count": null
   }
  ],
@@ -441,7 +443,17 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 262,
+   "like_count": 263,
+   "view_count": null
+  },
+  {
+   "video_id": "_-9IdnbWJck",
+   "start": "2026-11-10 23:15",
+   "title": "HOMEWORK (pen emoji)",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 174,
    "view_count": null
   }
  ],
@@ -614,10 +626,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-10"
+    "to": "2026-11-11"
    },
    "streams_analyzed": 4,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 2044,
    "members_confirmed": 453,
    "member_classes": {

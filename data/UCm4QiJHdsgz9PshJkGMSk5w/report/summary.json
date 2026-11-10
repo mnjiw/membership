@@ -3,19 +3,19 @@
  "channel_id": "UCm4QiJHdsgz9PshJkGMSk5w",
  "handle": "@minya_scott",
  "subscribers": 13800,
- "fetched_at": "2026-11-10 13:12",
- "generated_at": "2026-11-10 13:12",
+ "fetched_at": "2026-11-11 06:33",
+ "generated_at": "2026-11-11 06:34",
  "period": {
-  "from": "2026-10-11 13:12",
-  "to": "2026-11-10 13:12",
+  "from": "2026-10-12 06:33",
+  "to": "2026-11-11 06:33",
   "days": 30
  },
  "streams_analyzed": 6,
  "streams_missed": 1,
- "unique_chatters": 371,
- "members_confirmed": 62,
+ "unique_chatters": 368,
+ "members_confirmed": 64,
  "member_classes": {
-  "unknown": 35,
+  "unknown": 37,
   "known": 6,
   "gift": 21
  },
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 11
+   "members": 12
   },
   {
    "months": 6,
@@ -48,7 +48,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 7
+   "members": 8
   }
  ],
  "events": {
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 6,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 35.0,
-   "estimated_members": 41.0,
+   "allocated_unknown": 37.0,
+   "estimated_members": 43.0,
    "monthly_net_confirmed": 1871,
-   "monthly_net_estimated": 12785
+   "monthly_net_estimated": 13408
   }
  ],
  "revenue": {
-  "monthly_low": 12785,
-  "monthly_est": 12785,
+  "monthly_low": 13408,
+  "monthly_est": 13408,
   "gift_once": 6548,
-  "total_low": 19333,
-  "total_est": 19333,
-  "paying_members": 41,
+  "total_low": 19956,
+  "total_est": 19956,
+  "paying_members": 43,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "IKDiNIkl3Bg",
-   "start": "2026-10-11 22:29",
-   "title": "インフルエンザ経過報告会※ヤバ声注意【 すぺしゃりて  / ミーニャ・スコット 】",
-   "kind": "配信",
-   "chatters": 72,
-   "member_chatters": 20,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "axapRE2HxmU",
    "start": "2026-10-28 23:02",
@@ -145,6 +135,16 @@
    "kind": "配信",
    "chatters": 43,
    "member_chatters": 21,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "Z0OxAZHU8P4",
+   "start": "2026-11-10 21:02",
+   "title": "【 雑談 】新PC配信テスト兼ざつだん【 すぺしゃりて  / ミーニャ・スコット 】",
+   "kind": "配信",
+   "chatters": 84,
+   "member_chatters": 35,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -295,41 +295,41 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-10"
+    "to": "2026-11-11"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 4,
    "streams_missed": 0,
-   "unique_chatters": 142,
-   "members_confirmed": 36,
+   "unique_chatters": 186,
+   "members_confirmed": 47,
    "member_classes": {
-    "unknown": 31,
+    "unknown": 42,
     "known": 5
    },
-   "long_term_members": 11,
+   "long_term_members": 14,
    "badges": [
     {
      "months": 0,
-     "members": 8
+     "members": 9
     },
     {
      "months": 1,
-     "members": 4
+     "members": 5
     },
     {
      "months": 2,
-     "members": 6
+     "members": 10
     },
     {
      "months": 6,
-     "members": 7
+     "members": 9
     },
     {
      "months": 12,
-     "members": 7
+     "members": 9
     },
     {
      "months": 24,
-     "members": 4
+     "members": 5
     }
    ],
    "events": {
@@ -343,15 +343,15 @@
      "tier": "みにゃ好こ",
      "price": 490,
      "confirmed_members": 5,
-     "estimated_members": 36.0
+     "estimated_members": 47.0
     }
    ],
    "revenue": {
-    "monthly_low": 11225,
-    "monthly_est": 11225,
+    "monthly_low": 14655,
+    "monthly_est": 14655,
     "gift_once": 0
    },
-   "avg_member_chatters": 22.7,
+   "avg_member_chatters": 25.8,
    "partial": true,
    "finalized": false
   }

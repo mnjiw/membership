@@ -3,19 +3,19 @@
  "channel_id": "UCZYyhgoV314CM14zBD6vd4A",
  "handle": "@tenkaitsukasa",
  "subscribers": 366000,
- "fetched_at": "2026-11-10 13:13",
- "generated_at": "2026-11-10 13:14",
+ "fetched_at": "2026-11-11 06:39",
+ "generated_at": "2026-11-11 06:40",
  "period": {
-  "from": "2026-10-11 13:13",
-  "to": "2026-11-10 13:13",
+  "from": "2026-10-12 06:39",
+  "to": "2026-11-11 06:39",
   "days": 30
  },
- "streams_analyzed": 20,
+ "streams_analyzed": 21,
  "streams_missed": 2,
- "unique_chatters": 2314,
- "members_confirmed": 159,
+ "unique_chatters": 2383,
+ "members_confirmed": 160,
  "member_classes": {
-  "unknown": 159
+  "unknown": 160
  },
  "badges": [
   {
@@ -26,12 +26,12 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 7
+   "members": 6
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 9
+   "members": 10
   },
   {
    "months": 12,
@@ -41,7 +41,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 123
+   "members": 124
   }
  ],
  "events": {
@@ -60,19 +60,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 0,
    "share_of_confirmed_pct": "",
-   "allocated_unknown": 159.0,
-   "estimated_members": 159.0,
+   "allocated_unknown": 160.0,
+   "estimated_members": 160.0,
    "monthly_net_confirmed": 0,
-   "monthly_net_estimated": 49579
+   "monthly_net_estimated": 49891
   }
  ],
  "revenue": {
-  "monthly_low": 49579,
-  "monthly_est": 49579,
+  "monthly_low": 49891,
+  "monthly_est": 49891,
   "gift_once": 0,
-  "total_low": 49579,
-  "total_est": 49579,
-  "paying_members": 159,
+  "total_low": 49891,
+  "total_est": 49891,
+  "paying_members": 160,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -280,6 +280,16 @@
    "member_chatters": 59,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "3B7eqF6IiAU",
+   "start": "2026-11-10 19:00",
+   "title": "【ドラゴンクエストⅤ/完全初見】クソかっこいい名前の故郷に里帰り【天開司/Vtuber】",
+   "kind": "配信",
+   "chatters": 455,
+   "member_chatters": 61,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -292,8 +302,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 304,
-   "view_count": 18719
+   "like_count": 308,
+   "view_count": 19301
   },
   {
    "video_id": "SSUreSjEvzs",
@@ -304,8 +314,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 83,
-   "view_count": 1031
+   "like_count": 242,
+   "view_count": 16036
   }
  ],
  "members_only_content": [],
@@ -431,16 +441,16 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-10"
+    "to": "2026-11-11"
    },
-   "streams_analyzed": 7,
+   "streams_analyzed": 8,
    "streams_missed": 2,
-   "unique_chatters": 1482,
-   "members_confirmed": 134,
+   "unique_chatters": 1608,
+   "members_confirmed": 136,
    "member_classes": {
-    "unknown": 134
+    "unknown": 136
    },
-   "long_term_members": 114,
+   "long_term_members": 116,
    "badges": [
     {
      "months": 0,
@@ -448,11 +458,11 @@
     },
     {
      "months": 2,
-     "members": 5
+     "members": 4
     },
     {
      "months": 6,
-     "members": 9
+     "members": 10
     },
     {
      "months": 12,
@@ -460,7 +470,7 @@
     },
     {
      "months": 24,
-     "members": 103
+     "members": 105
     }
    ],
    "events": {
@@ -474,15 +484,15 @@
      "tier": "メンバーシップ",
      "price": 490,
      "confirmed_members": 0,
-     "estimated_members": 134.0
+     "estimated_members": 136.0
     }
    ],
    "revenue": {
-    "monthly_low": 41784,
-    "monthly_est": 41784,
+    "monthly_low": 42407,
+    "monthly_est": 42407,
     "gift_once": 0
    },
-   "avg_member_chatters": 50.3,
+   "avg_member_chatters": 51.6,
    "partial": true,
    "finalized": false
   }

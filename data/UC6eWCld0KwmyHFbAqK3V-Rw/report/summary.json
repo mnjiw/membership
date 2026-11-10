@@ -3,71 +3,71 @@
  "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
  "handle": "@HakuiKoyori",
  "subscribers": 1380000,
- "fetched_at": "2026-11-10 13:10",
- "generated_at": "2026-11-10 13:11",
+ "fetched_at": "2026-11-11 06:22",
+ "generated_at": "2026-11-11 06:22",
  "period": {
-  "from": "2026-10-11 13:10",
-  "to": "2026-11-10 13:10",
+  "from": "2026-10-12 06:22",
+  "to": "2026-11-11 06:22",
   "days": 30
  },
- "streams_analyzed": 36,
+ "streams_analyzed": 34,
  "streams_missed": 1,
- "unique_chatters": 25339,
- "members_confirmed": 4542,
+ "unique_chatters": 24516,
+ "members_confirmed": 4307,
  "member_classes": {
-  "unknown": 2888,
-  "known": 912,
-  "gift": 742
+  "unknown": 2779,
+  "known": 893,
+  "gift": 635
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 834
+   "members": 724
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 84
+   "members": 81
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 209
+   "members": 201
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 341
+   "members": 337
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 624
+   "members": 601
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 546
+   "members": 534
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 771
+   "members": 744
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 1133
+   "members": 1085
   }
  ],
  "events": {
-  "new_members": 47,
-  "rejoins": 53,
-  "milestones": 353,
-  "gift_purchases": 153,
-  "gifted_total": 881,
-  "gift_redemptions": 742
+  "new_members": 45,
+  "rejoins": 49,
+  "milestones": 263,
+  "gift_purchases": 131,
+  "gifted_total": 764,
+  "gift_redemptions": 635
  },
  "tiers_configured": true,
  "tiers": [
@@ -75,21 +75,21 @@
    "tier": "こよりの研究室",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 912,
+   "confirmed_members": 893,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2888.0,
-   "estimated_members": 3800.0,
-   "monthly_net_confirmed": 284378,
-   "monthly_net_estimated": 1184909
+   "allocated_unknown": 2779.0,
+   "estimated_members": 3672.0,
+   "monthly_net_confirmed": 278454,
+   "monthly_net_estimated": 1144996
   }
  ],
  "revenue": {
-  "monthly_low": 1184909,
-  "monthly_est": 1184909,
-  "gift_once": 274712,
-  "total_low": 1459621,
-  "total_est": 1459621,
-  "paying_members": 3800,
+  "monthly_low": 1144996,
+  "monthly_est": 1144996,
+  "gift_once": 238229,
+  "total_low": 1383225,
+  "total_est": 1383225,
+  "paying_members": 3672,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,26 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "bkuQTaGvLSM",
-   "start": "2026-10-11 19:57",
-   "title": "【 3D Live 】ソロライブ情報解禁‼️初の3D新衣装お披露目ライブ＆告知アリ‼️こよりわかり手選手権👑 #夢煌めけこより 【宝鐘マリン/尾丸ポルカ/ラプラス・ダークネス/博衣こより／ホロライブ】",
-   "kind": "配信",
-   "chatters": 4431,
-   "member_chatters": 1672,
-   "new_members": 2,
-   "gifted_total": 116
-  },
-  {
-   "video_id": "WOZTqdQ6bnE",
-   "start": "2026-10-11 21:03",
-   "title": "RISING 酸 / 博衣こより【 ケンモチヒデフミ 】(Official)",
-   "kind": "プレミア",
-   "chatters": 1104,
-   "member_chatters": 732,
-   "new_members": 0,
-   "gifted_total": 1
-  },
   {
    "video_id": "Uv-Kc2uBKlM",
    "start": "2026-10-12 12:00",
@@ -469,7 +449,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 1565,
+   "like_count": 1566,
    "view_count": null
   }
  ],
@@ -481,7 +461,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 1565,
+   "like_count": 1566,
    "view_count": null
   }
  ],
@@ -638,7 +618,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-10"
+    "to": "2026-11-11"
    },
    "streams_analyzed": 11,
    "streams_missed": 0,

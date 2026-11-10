@@ -3,16 +3,16 @@
  "channel_id": "UCIu-aUArYq_H84dBpCAokMA",
  "handle": "@Shirayuki_Reid",
  "subscribers": 422000,
- "fetched_at": "2026-11-10 13:12",
- "generated_at": "2026-11-10 13:12",
+ "fetched_at": "2026-11-11 06:35",
+ "generated_at": "2026-11-11 06:36",
  "period": {
-  "from": "2026-10-11 13:12",
-  "to": "2026-11-10 13:12",
+  "from": "2026-10-12 06:35",
+  "to": "2026-11-11 06:35",
   "days": 30
  },
- "streams_analyzed": 33,
- "streams_missed": 1,
- "unique_chatters": 3026,
+ "streams_analyzed": 34,
+ "streams_missed": 2,
+ "unique_chatters": 2989,
  "members_confirmed": 361,
  "member_classes": {
   "unknown": 348,
@@ -33,12 +33,12 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 12
+   "members": 11
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 25
+   "members": 24
   },
   {
    "months": 12,
@@ -53,7 +53,7 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 221
+   "members": 223
   }
  ],
  "events": {
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "weNfEEd5iuA",
-   "start": "2026-10-11 18:02",
-   "title": "【Escape From Tarkov】ボーダーギリギリマン lv58~【白雪レイド】",
-   "kind": "配信",
-   "chatters": 220,
-   "member_chatters": 51,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "SXowBFW6Y-0",
    "start": "2026-10-13 23:56",
@@ -422,6 +412,26 @@
    "member_chatters": 57,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "G9vtx31-vws",
+   "start": "2026-11-10 17:30",
+   "title": "【APEX】最近このゲムはまっています【白雪レイド 英リサ 一ノ瀬うるは】",
+   "kind": "配信",
+   "chatters": 118,
+   "member_chatters": 51,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "bMRoHamIBzE",
+   "start": "2026-11-10 21:33",
+   "title": "【VALORANT】数年ぶりです【白雪レイド 英リサ 一ノ瀬うるは うるか yue】",
+   "kind": "配信",
+   "chatters": 57,
+   "member_chatters": 37,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -434,8 +444,20 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 331,
-   "view_count": 44160
+   "like_count": 349,
+   "view_count": 49517
+  },
+  {
+   "video_id": "6HEf_-J2PCU",
+   "start": "2026-11-10 00:00",
+   "title": "[APEX] Ichinose Uruha is a menace who never lets ShibuyaHAL’s lame jokes slide [Shirayuki Raid / ...",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 204,
+   "view_count": 28413
   }
  ],
  "members_only_content": [],
@@ -572,17 +594,17 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-10"
+    "to": "2026-11-11"
    },
-   "streams_analyzed": 9,
-   "streams_missed": 1,
-   "unique_chatters": 1002,
-   "members_confirmed": 194,
+   "streams_analyzed": 11,
+   "streams_missed": 2,
+   "unique_chatters": 1051,
+   "members_confirmed": 203,
    "member_classes": {
-    "unknown": 192,
+    "unknown": 201,
     "known": 2
    },
-   "long_term_members": 173,
+   "long_term_members": 182,
    "badges": [
     {
      "months": 0,
@@ -602,15 +624,15 @@
     },
     {
      "months": 12,
-     "members": 22
+     "members": 24
     },
     {
      "months": 24,
-     "members": 23
+     "members": 24
     },
     {
      "months": 36,
-     "members": 128
+     "members": 134
     }
    ],
    "events": {
@@ -624,15 +646,15 @@
      "tier": "ホワ民",
      "price": 490,
      "confirmed_members": 2,
-     "estimated_members": 194.0
+     "estimated_members": 203.0
     }
    ],
    "revenue": {
-    "monthly_low": 60493,
-    "monthly_est": 60493,
+    "monthly_low": 63299,
+    "monthly_est": 63299,
     "gift_once": 0
    },
-   "avg_member_chatters": 55.7,
+   "avg_member_chatters": 53.5,
    "partial": true,
    "finalized": false
   }

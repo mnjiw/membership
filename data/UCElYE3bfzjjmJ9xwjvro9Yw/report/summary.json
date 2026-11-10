@@ -3,26 +3,26 @@
  "channel_id": "UCElYE3bfzjjmJ9xwjvro9Yw",
  "handle": "@HiuraKuro0914",
  "subscribers": 36300,
- "fetched_at": "2026-11-10 13:13",
- "generated_at": "2026-11-10 13:13",
+ "fetched_at": "2026-11-11 06:36",
+ "generated_at": "2026-11-11 06:37",
  "period": {
-  "from": "2026-10-11 13:13",
-  "to": "2026-11-10 13:13",
+  "from": "2026-10-12 06:36",
+  "to": "2026-11-11 06:36",
   "days": 30
  },
- "streams_analyzed": 27,
- "streams_missed": 2,
- "unique_chatters": 159,
- "members_confirmed": 57,
+ "streams_analyzed": 26,
+ "streams_missed": 3,
+ "unique_chatters": 149,
+ "members_confirmed": 54,
  "member_classes": {
-  "unknown": 53,
+  "unknown": 50,
   "known": 4
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 4
+   "members": 3
   },
   {
    "months": 1,
@@ -37,12 +37,12 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 13
+   "members": 12
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 10
+   "members": 9
   },
   {
    "months": 24,
@@ -66,19 +66,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 4,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 53.0,
-   "estimated_members": 57.0,
+   "allocated_unknown": 50.0,
+   "estimated_members": 54.0,
    "monthly_net_confirmed": 1247,
-   "monthly_net_estimated": 17774
+   "monthly_net_estimated": 16838
   }
  ],
  "revenue": {
-  "monthly_low": 17774,
-  "monthly_est": 17774,
+  "monthly_low": 16838,
+  "monthly_est": 16838,
   "gift_once": 0,
-  "total_low": 17774,
-  "total_est": 17774,
-  "paying_members": 57,
+  "total_low": 16838,
+  "total_est": 16838,
+  "paying_members": 54,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -87,16 +87,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "08kQz5tptpg",
-   "start": "2026-10-11 20:30",
-   "title": "【歌枠】まだまだ歌うには暑い季節【日裏クロ / ネオポルテ】#shorts",
-   "kind": "配信",
-   "chatters": 45,
-   "member_chatters": 29,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "R8sT8fTlQmk",
    "start": "2026-10-13 16:30",
@@ -382,6 +372,18 @@
    "members_level": "",
    "like_count": 30,
    "view_count": null
+  },
+  {
+   "video_id": "27bLdYv2UUk",
+   "start": "2026-11-10 00:00",
+   "title": "【雑談】これって重い？判定シート記入させていただく【日裏クロ / ネオポルテ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 73,
+   "view_count": 1590
   }
  ],
  "members_only_content": [
@@ -521,10 +523,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-10"
+    "to": "2026-11-11"
    },
    "streams_analyzed": 7,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 76,
    "members_confirmed": 43,
    "member_classes": {

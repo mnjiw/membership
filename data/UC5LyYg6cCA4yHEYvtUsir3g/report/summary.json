@@ -3,67 +3,67 @@
  "channel_id": "UC5LyYg6cCA4yHEYvtUsir3g",
  "handle": "@uruhaichinose",
  "subscribers": 774000,
- "fetched_at": "2026-11-10 13:11",
- "generated_at": "2026-11-10 13:11",
+ "fetched_at": "2026-11-11 06:30",
+ "generated_at": "2026-11-11 06:31",
  "period": {
-  "from": "2026-10-11 13:11",
-  "to": "2026-11-10 13:11",
+  "from": "2026-10-12 06:30",
+  "to": "2026-11-11 06:30",
   "days": 30
  },
- "streams_analyzed": 19,
+ "streams_analyzed": 21,
  "streams_missed": 4,
- "unique_chatters": 6350,
- "members_confirmed": 1675,
+ "unique_chatters": 6519,
+ "members_confirmed": 1734,
  "member_classes": {
-  "unknown": 1553,
-  "known": 96,
+  "unknown": 1592,
+  "known": 116,
   "gift": 26
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 125
+   "members": 139
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 36
+   "members": 38
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 110
+   "members": 113
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 182
+   "members": 187
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 353
+   "members": 361
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 248
+   "members": 260
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 220
+   "members": 227
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 401
+   "members": 409
   }
  ],
  "events": {
-  "new_members": 50,
-  "rejoins": 23,
+  "new_members": 65,
+  "rejoins": 28,
   "milestones": 0,
   "gift_purchases": 7,
   "gifted_total": 41,
@@ -75,21 +75,21 @@
    "tier": "ぽたく",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 96,
+   "confirmed_members": 116,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1553.0,
-   "estimated_members": 1649.0,
-   "monthly_net_confirmed": 29935,
-   "monthly_net_estimated": 514188
+   "allocated_unknown": 1592.0,
+   "estimated_members": 1708.0,
+   "monthly_net_confirmed": 36171,
+   "monthly_net_estimated": 532585
   }
  ],
  "revenue": {
-  "monthly_low": 514188,
-  "monthly_est": 514188,
+  "monthly_low": 532585,
+  "monthly_est": 532585,
   "gift_once": 12785,
-  "total_low": 526973,
-  "total_est": 526973,
-  "paying_members": 1649,
+  "total_low": 545370,
+  "total_est": 545370,
+  "paying_members": 1708,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -287,6 +287,26 @@
    "member_chatters": 353,
    "new_members": 5,
    "gifted_total": 0
+  },
+  {
+   "video_id": "UvSm_mMU8ow",
+   "start": "2026-11-10 00:00",
+   "title": "【VALORANT】ヴァロくんまた会えたね【ぶいすぽ/一ノ瀬うるは】",
+   "kind": "配信",
+   "chatters": 364,
+   "member_chatters": 252,
+   "new_members": 1,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "6FEjSqOjN2c",
+   "start": "2026-11-10 17:31",
+   "title": "【APEX】今日も今日とて～A【ぶいすぽ/一ノ瀬うるは】",
+   "kind": "配信",
+   "chatters": 638,
+   "member_chatters": 362,
+   "new_members": 14,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -299,7 +319,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 904,
+   "like_count": 905,
    "view_count": null
   },
   {
@@ -311,7 +331,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 868,
+   "like_count": 869,
    "view_count": null
   },
   {
@@ -323,7 +343,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 423,
+   "like_count": 426,
    "view_count": null
   },
   {
@@ -335,7 +355,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 246,
+   "like_count": 288,
    "view_count": null
   }
  ],
@@ -347,7 +367,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 904,
+   "like_count": 905,
    "view_count": null
   },
   {
@@ -357,7 +377,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 868,
+   "like_count": 869,
    "view_count": null
   },
   {
@@ -367,7 +387,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 423,
+   "like_count": 426,
    "view_count": null
   },
   {
@@ -377,7 +397,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 246,
+   "like_count": 288,
    "view_count": null
   }
  ],
@@ -523,54 +543,54 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-10"
+    "to": "2026-11-11"
    },
-   "streams_analyzed": 7,
+   "streams_analyzed": 9,
    "streams_missed": 1,
-   "unique_chatters": 3677,
-   "members_confirmed": 1034,
+   "unique_chatters": 3925,
+   "members_confirmed": 1126,
    "member_classes": {
-    "unknown": 985,
-    "known": 49
+    "unknown": 1056,
+    "known": 70
    },
-   "long_term_members": 785,
+   "long_term_members": 846,
    "badges": [
     {
      "months": 0,
-     "members": 57
+     "members": 72
     },
     {
      "months": 1,
-     "members": 22
+     "members": 24
     },
     {
      "months": 2,
-     "members": 56
+     "members": 61
     },
     {
      "months": 6,
-     "members": 114
+     "members": 123
     },
     {
      "months": 12,
-     "members": 215
+     "members": 232
     },
     {
      "months": 24,
-     "members": 149
+     "members": 168
     },
     {
      "months": 36,
-     "members": 148
+     "members": 157
     },
     {
      "months": 48,
-     "members": 273
+     "members": 289
     }
    ],
    "events": {
-    "new_members": 17,
-    "rejoins": 12,
+    "new_members": 32,
+    "rejoins": 17,
     "milestones": 0,
     "gifted_total": 0
    },
@@ -578,16 +598,16 @@
     {
      "tier": "ぽたく",
      "price": 490,
-     "confirmed_members": 49,
-     "estimated_members": 1034.0
+     "confirmed_members": 70,
+     "estimated_members": 1126.0
     }
    ],
    "revenue": {
-    "monthly_low": 322420,
-    "monthly_est": 322420,
+    "monthly_low": 351107,
+    "monthly_est": 351107,
     "gift_once": 0
    },
-   "avg_member_chatters": 431.3,
+   "avg_member_chatters": 403.7,
    "partial": true,
    "finalized": false
   }

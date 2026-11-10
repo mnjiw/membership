@@ -3,27 +3,27 @@
  "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
  "handle": "@ShishiroBotan",
  "subscribers": 1590000,
- "fetched_at": "2026-11-10 13:10",
- "generated_at": "2026-11-10 13:10",
+ "fetched_at": "2026-11-11 06:22",
+ "generated_at": "2026-11-11 06:22",
  "period": {
-  "from": "2026-10-11 13:10",
-  "to": "2026-11-10 13:10",
+  "from": "2026-10-12 06:22",
+  "to": "2026-11-11 06:22",
   "days": 30
  },
- "streams_analyzed": 15,
+ "streams_analyzed": 14,
  "streams_missed": 1,
- "unique_chatters": 11574,
- "members_confirmed": 1751,
+ "unique_chatters": 10768,
+ "members_confirmed": 1692,
  "member_classes": {
-  "unknown": 1512,
-  "known": 142,
-  "gift": 97
+  "unknown": 1463,
+  "known": 138,
+  "gift": 91
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 174
+   "members": 165
   },
   {
    "months": 1,
@@ -33,46 +33,46 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 79
+   "members": 77
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 113
+   "members": 109
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 235
+   "members": 226
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 201
+   "members": 194
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 230
+   "members": 224
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 251
+   "members": 241
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 419
+   "members": 407
   }
  ],
  "events": {
-  "new_members": 65,
-  "rejoins": 46,
+  "new_members": 64,
+  "rejoins": 44,
   "milestones": 0,
-  "gift_purchases": 33,
-  "gifted_total": 122,
-  "gift_redemptions": 97
+  "gift_purchases": 31,
+  "gifted_total": 116,
+  "gift_redemptions": 91
  },
  "tiers_configured": true,
  "tiers": [
@@ -80,21 +80,21 @@
    "tier": "ししろぼ団【SSRB】",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 142,
+   "confirmed_members": 138,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1512.0,
-   "estimated_members": 1654.0,
-   "monthly_net_confirmed": 44278,
-   "monthly_net_estimated": 515747
+   "allocated_unknown": 1463.0,
+   "estimated_members": 1601.0,
+   "monthly_net_confirmed": 43031,
+   "monthly_net_estimated": 499221
   }
  ],
  "revenue": {
-  "monthly_low": 515747,
-  "monthly_est": 515747,
-  "gift_once": 38042,
-  "total_low": 553789,
-  "total_est": 553789,
-  "paying_members": 1654,
+  "monthly_low": 499221,
+  "monthly_est": 499221,
+  "gift_once": 36171,
+  "total_low": 535392,
+  "total_est": 535392,
+  "paying_members": 1601,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -103,16 +103,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "-OGDiq0kQz8",
-   "start": "2026-10-11 21:01",
-   "title": "ワンオペで挑むJapanese Ramen Simulator【獅白ぼたん/ホロライブ】",
-   "kind": "配信",
-   "chatters": 2469,
-   "member_chatters": 629,
-   "new_members": 1,
-   "gifted_total": 6
-  },
   {
    "video_id": "_0H5isyZHEY",
    "start": "2026-10-12 20:01",
@@ -264,7 +254,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 945,
+   "like_count": 947,
    "view_count": null
   }
  ],
@@ -276,7 +266,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 945,
+   "like_count": 947,
    "view_count": null
   }
  ],
@@ -441,7 +431,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-10"
+    "to": "2026-11-11"
    },
    "streams_analyzed": 4,
    "streams_missed": 0,
