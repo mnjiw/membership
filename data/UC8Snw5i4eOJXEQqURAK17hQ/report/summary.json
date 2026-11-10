@@ -3,15 +3,15 @@
  "channel_id": "UC8Snw5i4eOJXEQqURAK17hQ",
  "handle": "@RaiGalilei",
  "subscribers": 57900,
- "fetched_at": "2026-11-10 05:28",
- "generated_at": "2026-11-10 05:28",
+ "fetched_at": "2026-11-10 13:07",
+ "generated_at": "2026-11-10 13:07",
  "period": {
-  "from": "2026-10-11 05:28",
-  "to": "2026-11-10 05:28",
+  "from": "2026-10-11 13:07",
+  "to": "2026-11-10 13:07",
   "days": 30
  },
  "streams_analyzed": 23,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 274,
  "members_confirmed": 89,
  "member_classes": {
@@ -319,7 +319,20 @@
    "gifted_total": 5
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "G4wJqRrGCUE",
+   "start": "2026-11-10 00:00",
+   "title": "【GTAV #DistrictV2】 Lou: \"Why am i here again..?\" #7【NIJISANJI】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 115,
+   "view_count": 990
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -461,7 +474,7 @@
     "to": "2026-11-10"
    },
    "streams_analyzed": 10,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 138,
    "members_confirmed": 33,
    "member_classes": {

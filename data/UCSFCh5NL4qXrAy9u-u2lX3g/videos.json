@@ -2042,18 +2042,14 @@
    "kind": "video",
    "start_ts": 1793977200.0,
    "start_jst": "2026-11-07 00:00",
-   "duration_sec": null,
-   "view_count": 74706,
-   "like_count": 554,
-   "live_status": null,
+   "duration_sec": 957,
+   "view_count": 75556,
+   "like_count": 563,
+   "live_status": "not_live",
    "members_only": false,
    "has_chat": false,
-   "checked_at": "2026-11-10 05:21",
-   "info_limited": true,
-   "error": "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)",
-   "tab": "video",
-   "status": "error",
-   "failed_since_ts": 1794082789.369365
+   "checked_at": "2026-11-10 13:06",
+   "status": "skip_not_stream"
   },
   "eSlUcqpR2J0": {
    "id": "eSlUcqpR2J0",
@@ -2077,8 +2073,8 @@
  "channel_id": "UCSFCh5NL4qXrAy9u-u2lX3g",
  "handle": "@Kuzuha",
  "subscribers": 2240000,
- "fetched_at": "2026-11-10 05:19",
- "fetched_at_ts": 1794255568.1126196,
- "checked_from": "2026-11-03 05:19",
+ "fetched_at": "2026-11-10 13:06",
+ "fetched_at_ts": 1794283565.3295674,
+ "checked_from": "2026-11-03 13:06",
  "initial_fetch_done": true
 }

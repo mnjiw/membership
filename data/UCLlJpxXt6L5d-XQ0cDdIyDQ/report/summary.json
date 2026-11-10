@@ -3,19 +3,19 @@
  "channel_id": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
  "handle": "@AryaKuroha",
  "subscribers": 102000,
- "fetched_at": "2026-11-10 06:31",
- "generated_at": "2026-11-10 06:31",
+ "fetched_at": "2026-11-10 13:12",
+ "generated_at": "2026-11-10 13:12",
  "period": {
-  "from": "2026-10-11 06:31",
-  "to": "2026-11-10 06:31",
+  "from": "2026-10-11 13:12",
+  "to": "2026-11-10 13:12",
   "days": 30
  },
- "streams_analyzed": 24,
+ "streams_analyzed": 23,
  "streams_missed": 4,
- "unique_chatters": 950,
- "members_confirmed": 181,
+ "unique_chatters": 934,
+ "members_confirmed": 180,
  "member_classes": {
-  "known": 75,
+  "known": 74,
   "unknown": 67,
   "gift": 39
  },
@@ -48,13 +48,13 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 76
+   "members": 75
   }
  ],
  "events": {
   "new_members": 3,
   "rejoins": 5,
-  "milestones": 40,
+  "milestones": 39,
   "gift_purchases": 4,
   "gifted_total": 40,
   "gift_redemptions": 39
@@ -65,21 +65,21 @@
    "tier": "✦ Wingmen",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 75,
+   "confirmed_members": 74,
    "share_of_confirmed_pct": 100.0,
    "allocated_unknown": 67.0,
-   "estimated_members": 142.0,
-   "monthly_net_confirmed": 23386,
-   "monthly_net_estimated": 44278
+   "estimated_members": 141.0,
+   "monthly_net_confirmed": 23075,
+   "monthly_net_estimated": 43966
   }
  ],
  "revenue": {
-  "monthly_low": 44278,
-  "monthly_est": 44278,
+  "monthly_low": 43966,
+  "monthly_est": 43966,
   "gift_once": 12473,
-  "total_low": 56751,
-  "total_est": 56751,
-  "paying_members": 142,
+  "total_low": 56439,
+  "total_est": 56439,
+  "paying_members": 141,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "QAIUWy_iSBI",
-   "start": "2026-10-11 10:02",
-   "title": "【SILENT HILL 2】trying to find my way around this weird town !!【#VSPOEN #AryaKuroha】",
-   "kind": "配信",
-   "chatters": 88,
-   "member_chatters": 38,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "XjLDG6-OX6c",
    "start": "2026-10-15 07:02",
@@ -370,13 +360,13 @@
    "video_id": "znoTU-sOhm0",
    "start": "2026-11-07 00:00",
    "title": "【THE LEGEND OF ZELDA: OCARINA OF TIME】SAVING HYRULE ! (FINALE)【#VSPOEN #AryaKuroha】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
+   "kind": "live",
+   "status": "no_chat",
+   "reason": "チャットリプレイなし（アーカイブ編集・チャット無効の可能性）",
    "members_only": false,
    "members_level": "",
-   "like_count": 678,
-   "view_count": 14417
+   "like_count": 682,
+   "view_count": 15298
   }
  ],
  "members_only_content": [

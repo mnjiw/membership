@@ -3,27 +3,27 @@
  "channel_id": "UCP03XuewcMC2DaSFDJhqJmA",
  "handle": "@HanamaeHaru",
  "subscribers": 45500,
- "fetched_at": "2026-11-10 06:39",
- "generated_at": "2026-11-10 06:39",
+ "fetched_at": "2026-11-10 13:13",
+ "generated_at": "2026-11-10 13:14",
  "period": {
-  "from": "2026-10-11 06:39",
-  "to": "2026-11-10 06:39",
+  "from": "2026-10-11 13:13",
+  "to": "2026-11-10 13:13",
   "days": 30
  },
- "streams_analyzed": 25,
- "streams_missed": 4,
- "unique_chatters": 1110,
- "members_confirmed": 196,
+ "streams_analyzed": 26,
+ "streams_missed": 3,
+ "unique_chatters": 1135,
+ "members_confirmed": 198,
  "member_classes": {
-  "known": 38,
+  "known": 39,
   "unknown": 115,
-  "gift": 43
+  "gift": 44
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 74
+   "members": 76
   },
   {
    "months": 1,
@@ -37,12 +37,12 @@
   }
  ],
  "events": {
-  "new_members": 23,
+  "new_members": 24,
   "rejoins": 18,
   "milestones": 3,
-  "gift_purchases": 19,
-  "gifted_total": 43,
-  "gift_redemptions": 43
+  "gift_purchases": 20,
+  "gifted_total": 44,
+  "gift_redemptions": 44
  },
  "tiers_configured": true,
  "tiers": [
@@ -50,32 +50,32 @@
    "tier": "086Hz",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 34,
-   "share_of_confirmed_pct": 89.5,
-   "allocated_unknown": 102.9,
-   "estimated_members": 136.9,
-   "monthly_net_confirmed": 10602,
-   "monthly_net_estimated": 42686
+   "confirmed_members": 35,
+   "share_of_confirmed_pct": 89.7,
+   "allocated_unknown": 103.2,
+   "estimated_members": 138.2,
+   "monthly_net_confirmed": 10914,
+   "monthly_net_estimated": 43095
   },
   {
    "tier": "870Hz",
    "price": 1290,
    "net_per_member": 820.9,
    "confirmed_members": 4,
-   "share_of_confirmed_pct": 10.5,
-   "allocated_unknown": 12.1,
-   "estimated_members": 16.1,
+   "share_of_confirmed_pct": 10.3,
+   "allocated_unknown": 11.8,
+   "estimated_members": 15.8,
    "monthly_net_confirmed": 3284,
-   "monthly_net_estimated": 13221
+   "monthly_net_estimated": 12966
   }
  ],
  "revenue": {
-  "monthly_low": 49745,
-  "monthly_est": 55907,
-  "gift_once": 13408,
-  "total_low": 63153,
-  "total_est": 69315,
-  "paying_members": 153,
+  "monthly_low": 50056,
+  "monthly_est": 56061,
+  "gift_once": 13720,
+  "total_low": 63776,
+  "total_est": 69781,
+  "paying_members": 154,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -333,6 +333,16 @@
    "member_chatters": 30,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "3PPE9Xx3pkU",
+   "start": "2026-11-09 00:00",
+   "title": "【ゼルダの伝説 時のオカリナ】完全初見❗️3つめの精霊石の回収から！#2【花前ハル/REJECT】",
+   "kind": "配信",
+   "chatters": 92,
+   "member_chatters": 36,
+   "new_members": 1,
+   "gifted_total": 1
   }
  ],
  "missed_streams": [
@@ -371,18 +381,6 @@
    "members_level": "",
    "like_count": 141,
    "view_count": null
-  },
-  {
-   "video_id": "3PPE9Xx3pkU",
-   "start": "2026-11-09 00:00",
-   "title": "【ゼルダの伝説 時のオカリナ】完全初見❗️3つめの精霊石の回収から！#2【花前ハル/REJECT】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 560,
-   "view_count": 12163
   }
  ],
  "members_only_content": [
@@ -527,20 +525,20 @@
     "from": "2026-11-01",
     "to": "2026-11-10"
    },
-   "streams_analyzed": 10,
-   "streams_missed": 2,
-   "unique_chatters": 570,
-   "members_confirmed": 141,
+   "streams_analyzed": 11,
+   "streams_missed": 1,
+   "unique_chatters": 602,
+   "members_confirmed": 143,
    "member_classes": {
     "unknown": 88,
-    "known": 31,
-    "gift": 22
+    "known": 32,
+    "gift": 23
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 40
+     "members": 42
     },
     {
      "months": 1,
@@ -552,31 +550,31 @@
     }
    ],
    "events": {
-    "new_members": 16,
+    "new_members": 17,
     "rejoins": 15,
     "milestones": 1,
-    "gifted_total": 22
+    "gifted_total": 23
    },
    "tiers": [
     {
      "tier": "086Hz",
      "price": 490,
-     "confirmed_members": 29,
-     "estimated_members": 111.3
+     "confirmed_members": 30,
+     "estimated_members": 112.5
     },
     {
      "tier": "870Hz",
      "price": 1290,
      "confirmed_members": 2,
-     "estimated_members": 7.7
+     "estimated_members": 7.5
     }
    ],
    "revenue": {
-    "monthly_low": 38125,
-    "monthly_est": 41015,
-    "gift_once": 6860
+    "monthly_low": 38436,
+    "monthly_est": 41236,
+    "gift_once": 7172
    },
-   "avg_member_chatters": 44.4,
+   "avg_member_chatters": 43.6,
    "partial": true,
    "finalized": false
   }

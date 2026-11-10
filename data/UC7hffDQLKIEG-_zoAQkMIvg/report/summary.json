@@ -3,19 +3,19 @@
  "channel_id": "UC7hffDQLKIEG-_zoAQkMIvg",
  "handle": "@AkiraRay",
  "subscribers": 59500,
- "fetched_at": "2026-11-10 05:28",
- "generated_at": "2026-11-10 05:28",
+ "fetched_at": "2026-11-10 13:07",
+ "generated_at": "2026-11-10 13:07",
  "period": {
-  "from": "2026-10-11 05:28",
-  "to": "2026-11-10 05:28",
+  "from": "2026-10-11 13:07",
+  "to": "2026-11-10 13:07",
   "days": 30
  },
- "streams_analyzed": 5,
+ "streams_analyzed": 6,
  "streams_missed": 1,
- "unique_chatters": 213,
- "members_confirmed": 42,
+ "unique_chatters": 229,
+ "members_confirmed": 43,
  "member_classes": {
-  "unknown": 39,
+  "unknown": 40,
   "known": 2,
   "gift": 1
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 42
+   "members": 43
   }
  ],
  "events": {
@@ -53,10 +53,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 2,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 39.0,
-   "estimated_members": 41.0,
+   "allocated_unknown": 40.0,
+   "estimated_members": 42.0,
    "monthly_net_confirmed": 624,
-   "monthly_net_estimated": 12785
+   "monthly_net_estimated": 13096
   },
   {
    "tier": "💙クラス明ト💙",
@@ -71,12 +71,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 7821,
-  "monthly_est": 12785,
+  "monthly_low": 8005,
+  "monthly_est": 13096,
   "gift_once": 185,
-  "total_low": 8005,
-  "total_est": 12969,
-  "paying_members": 41,
+  "total_low": 8190,
+  "total_est": 13281,
+  "paying_members": 42,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -134,6 +134,16 @@
    "member_chatters": 19,
    "new_members": 0,
    "gifted_total": 1
+  },
+  {
+   "video_id": "v7Lx7rbFaHc",
+   "start": "2026-11-10 07:30",
+   "title": "【朝勝】火曜日！おきた【明楽レイ/にじさんじ】",
+   "kind": "配信",
+   "chatters": 61,
+   "member_chatters": 19,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -285,12 +295,12 @@
     "from": "2026-11-01",
     "to": "2026-11-10"
    },
-   "streams_analyzed": 4,
+   "streams_analyzed": 5,
    "streams_missed": 1,
-   "unique_chatters": 161,
-   "members_confirmed": 33,
+   "unique_chatters": 182,
+   "members_confirmed": 35,
    "member_classes": {
-    "unknown": 30,
+    "unknown": 32,
     "known": 2,
     "gift": 1
    },
@@ -298,7 +308,7 @@
    "badges": [
     {
      "months": 0,
-     "members": 33
+     "members": 35
     }
    ],
    "events": {
@@ -318,7 +328,7 @@
      "tier": "クラス明ト💙💙",
      "price": 490,
      "confirmed_members": 2,
-     "estimated_members": 32.0
+     "estimated_members": 34.0
     },
     {
      "tier": "💙クラス明ト💙",
@@ -328,11 +338,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 6160,
-    "monthly_est": 9978,
+    "monthly_low": 6529,
+    "monthly_est": 10602,
     "gift_once": 185
    },
-   "avg_member_chatters": 18,
+   "avg_member_chatters": 18.2,
    "partial": true,
    "finalized": false
   }

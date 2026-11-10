@@ -1786,18 +1786,14 @@
    "kind": "video",
    "start_ts": 1793977200.0,
    "start_jst": "2026-11-07 00:00",
-   "duration_sec": null,
-   "view_count": 37048,
-   "like_count": 792,
-   "live_status": null,
+   "duration_sec": 1383,
+   "view_count": 37844,
+   "like_count": 802,
+   "live_status": "not_live",
    "members_only": false,
    "has_chat": false,
-   "checked_at": "2026-11-10 05:20",
-   "info_limited": true,
-   "error": "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)",
-   "tab": "video",
-   "status": "error",
-   "failed_since_ts": 1794082761.3774521
+   "checked_at": "2026-11-10 13:06",
+   "status": "skip_not_stream"
   },
   "rRfeKWF_D-A": {
    "id": "rRfeKWF_D-A",
@@ -1821,8 +1817,8 @@
  "channel_id": "UCspv01oxUFf_MTSipURRhkA",
  "handle": "@Kanae",
  "subscribers": 1650000,
- "fetched_at": "2026-11-10 05:19",
- "fetched_at_ts": 1794255550.7108822,
- "checked_from": "2026-11-03 05:19",
+ "fetched_at": "2026-11-10 13:06",
+ "fetched_at_ts": 1794283560.4533918,
+ "checked_from": "2026-11-03 13:06",
  "initial_fetch_done": true
 }
