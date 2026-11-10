@@ -875,29 +875,34 @@
   "G4wJqRrGCUE": {
    "id": "G4wJqRrGCUE",
    "title": "【GTAV #DistrictV2】 Lou: \"Why am i here again..?\" #7【NIJISANJI】",
-   "kind": "video",
-   "start_ts": 1794236400.0,
-   "start_jst": "2026-11-10 00:00",
-   "duration_sec": null,
-   "view_count": 990,
-   "like_count": 115,
+   "kind": "live",
+   "start_ts": 1794268499.893749,
+   "start_jst": "2026-11-10 08:54",
+   "duration_sec": 15050,
+   "view_count": 1601,
+   "like_count": 123,
    "live_status": null,
    "members_only": false,
-   "has_chat": false,
-   "checked_at": "2026-11-10 13:07",
+   "has_chat": true,
+   "checked_at": "2026-11-11 05:28",
    "info_limited": true,
-   "error": "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)",
-   "tab": "live",
+   "start_from_chat": true,
+   "status": "ok"
+  },
+  "MyitUiRIs7k": {
+   "id": "MyitUiRIs7k",
+   "title": "【GTAV #DistrictV2】 Lou: \"Why am i here again..?\" (2) #7【NIJISANJI】",
    "status": "error",
-   "failed_since_ts": 1794283654.079718
+   "error": "ERROR: Unable to download video subtitles for 'live_chat': ERROR: The downloaded file is empty",
+   "failed_since_ts": 1794342522.5044863
   }
  },
  "channel": "Rai Galilei【NIJISANJI / にじさんじ】",
  "channel_id": "UC8Snw5i4eOJXEQqURAK17hQ",
  "handle": "@RaiGalilei",
  "subscribers": 57900,
- "fetched_at": "2026-11-10 13:07",
- "fetched_at_ts": 1794283654.079718,
- "checked_from": "2026-11-03 13:07",
+ "fetched_at": "2026-11-11 05:28",
+ "fetched_at_ts": 1794342522.5044863,
+ "checked_from": "2026-11-04 05:28",
  "initial_fetch_done": true
 }

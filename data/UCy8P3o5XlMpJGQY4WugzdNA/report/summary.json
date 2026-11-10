@@ -3,61 +3,61 @@
  "channel_id": "UCy8P3o5XlMpJGQY4WugzdNA",
  "handle": "@SaikiIttetsu",
  "subscribers": 412000,
- "fetched_at": "2026-11-10 13:08",
- "generated_at": "2026-11-10 13:08",
+ "fetched_at": "2026-11-11 05:30",
+ "generated_at": "2026-11-11 05:30",
  "period": {
-  "from": "2026-10-11 13:08",
-  "to": "2026-11-10 13:08",
+  "from": "2026-10-12 05:30",
+  "to": "2026-11-11 05:30",
   "days": 30
  },
- "streams_analyzed": 17,
+ "streams_analyzed": 16,
  "streams_missed": 3,
- "unique_chatters": 6237,
- "members_confirmed": 2620,
+ "unique_chatters": 5908,
+ "members_confirmed": 2528,
  "member_classes": {
-  "unknown": 2447,
-  "known": 108,
-  "gift": 65
+  "unknown": 2363,
+  "known": 106,
+  "gift": 59
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 234
+   "members": 219
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 66
+   "members": 63
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 316
+   "members": 303
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 363
+   "members": 354
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 921
+   "members": 894
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 720
+   "members": 695
   }
  ],
  "events": {
-  "new_members": 51,
-  "rejoins": 17,
+  "new_members": 47,
+  "rejoins": 14,
   "milestones": 0,
-  "gift_purchases": 43,
-  "gifted_total": 72,
-  "gift_redemptions": 65
+  "gift_purchases": 41,
+  "gifted_total": 66,
+  "gift_redemptions": 59
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +65,21 @@
    "tier": "仲磨強化プログラム🤝",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 108,
+   "confirmed_members": 106,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2447.0,
-   "estimated_members": 2555.0,
-   "monthly_net_confirmed": 33676,
-   "monthly_net_estimated": 796695
+   "allocated_unknown": 2363.0,
+   "estimated_members": 2469.0,
+   "monthly_net_confirmed": 33053,
+   "monthly_net_estimated": 769879
   }
  ],
  "revenue": {
-  "monthly_low": 796695,
-  "monthly_est": 796695,
-  "gift_once": 22451,
-  "total_low": 819146,
-  "total_est": 819146,
-  "paying_members": 2555,
+  "monthly_low": 769879,
+  "monthly_est": 769879,
+  "gift_once": 20580,
+  "total_low": 790459,
+  "total_est": 790459,
+  "paying_members": 2469,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "IBXtxc9Jdr4",
-   "start": "2026-10-11 22:14",
-   "title": "【タンポポは耐える。】ダンデライオンのライオンの部分を見せる【にじさんじ／佐伯イッテツ】",
-   "kind": "配信",
-   "chatters": 1758,
-   "member_chatters": 1128,
-   "new_members": 4,
-   "gifted_total": 6
-  },
   {
    "video_id": "aRxV4oIE8OM",
    "start": "2026-10-13 01:12",
@@ -269,7 +259,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "仲磨強化プログラム🤝",
-   "like_count": 637,
+   "like_count": 638,
    "view_count": null
   },
   {
@@ -293,7 +283,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "仲磨強化プログラム🤝",
-   "like_count": 603,
+   "like_count": 604,
    "view_count": null
   }
  ],
@@ -305,7 +295,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "仲磨強化プログラム🤝",
-   "like_count": 637,
+   "like_count": 638,
    "view_count": null
   },
   {
@@ -325,7 +315,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "仲磨強化プログラム🤝",
-   "like_count": 603,
+   "like_count": 604,
    "view_count": null
   }
  ],
@@ -466,7 +456,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-10"
+    "to": "2026-11-11"
    },
    "streams_analyzed": 8,
    "streams_missed": 0,

@@ -3,27 +3,27 @@
  "channel_id": "UCN68LoM3khS4gdBMiWJO8WA",
  "handle": "@AiaAmare",
  "subscribers": 283000,
- "fetched_at": "2026-11-10 13:09",
- "generated_at": "2026-11-10 13:09",
+ "fetched_at": "2026-11-11 05:36",
+ "generated_at": "2026-11-11 05:37",
  "period": {
-  "from": "2026-10-11 13:09",
-  "to": "2026-11-10 13:09",
+  "from": "2026-10-12 05:36",
+  "to": "2026-11-11 05:36",
   "days": 30
  },
- "streams_analyzed": 28,
+ "streams_analyzed": 29,
  "streams_missed": 1,
- "unique_chatters": 1204,
- "members_confirmed": 303,
+ "unique_chatters": 1215,
+ "members_confirmed": 305,
  "member_classes": {
   "known": 158,
   "unknown": 75,
-  "gift": 70
+  "gift": 72
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 67
+   "members": 69
   },
   {
    "months": 1,
@@ -64,10 +64,10 @@
  "events": {
   "new_members": 4,
   "rejoins": 7,
-  "milestones": 118,
-  "gift_purchases": 38,
-  "gifted_total": 70,
-  "gift_redemptions": 70
+  "milestones": 121,
+  "gift_purchases": 40,
+  "gifted_total": 72,
+  "gift_redemptions": 72
  },
  "tiers_configured": true,
  "tiers": [
@@ -86,9 +86,9 @@
  "revenue": {
   "monthly_low": 102308,
   "monthly_est": 102308,
-  "gift_once": 30736,
-  "total_low": 133045,
-  "total_est": 133045,
+  "gift_once": 31615,
+  "total_low": 133923,
+  "total_est": 133923,
   "paying_members": 233,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -377,6 +377,16 @@
    "member_chatters": 58,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "ThmbBbOxXVY",
+   "start": "2026-11-10 09:37",
+   "title": "【WARHAMMER 40K BOLTGUN 2】 GET MELTA'D, IDIOT!!! (PT 3)",
+   "kind": "配信",
+   "chatters": 85,
+   "member_chatters": 44,
+   "new_members": 0,
+   "gifted_total": 2
   }
  ],
  "missed_streams": [
@@ -558,22 +568,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-10"
+    "to": "2026-11-11"
    },
-   "streams_analyzed": 8,
+   "streams_analyzed": 9,
    "streams_missed": 0,
-   "unique_chatters": 399,
-   "members_confirmed": 153,
+   "unique_chatters": 419,
+   "members_confirmed": 158,
    "member_classes": {
-    "known": 108,
-    "unknown": 36,
-    "gift": 9
+    "known": 109,
+    "unknown": 38,
+    "gift": 11
    },
-   "long_term_members": 129,
+   "long_term_members": 130,
    "badges": [
     {
      "months": 0,
-     "members": 8
+     "members": 10
     },
     {
      "months": 1,
@@ -581,11 +591,11 @@
     },
     {
      "months": 2,
-     "members": 8
+     "members": 9
     },
     {
      "months": 6,
-     "members": 7
+     "members": 8
     },
     {
      "months": 12,
@@ -597,7 +607,7 @@
     },
     {
      "months": 36,
-     "members": 48
+     "members": 49
     },
     {
      "months": 48,
@@ -607,23 +617,23 @@
    "events": {
     "new_members": 0,
     "rejoins": 3,
-    "milestones": 29,
-    "gifted_total": 9
+    "milestones": 32,
+    "gifted_total": 11
    },
    "tiers": [
     {
      "tier": "Maidenship",
      "price": 690,
-     "confirmed_members": 108,
-     "estimated_members": 144.0
+     "confirmed_members": 109,
+     "estimated_members": 147.0
     }
    ],
    "revenue": {
-    "monthly_low": 63229,
-    "monthly_est": 63229,
-    "gift_once": 3952
+    "monthly_low": 64546,
+    "monthly_est": 64546,
+    "gift_once": 4830
    },
-   "avg_member_chatters": 53.1,
+   "avg_member_chatters": 52.1,
    "partial": true,
    "finalized": false
   }

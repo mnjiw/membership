@@ -2,75 +2,76 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-10"
+  "to": "2026-11-11"
  },
- "streams_analyzed": 7,
+ "streams_analyzed": 8,
  "streams_missed": 0,
- "unique_chatters": 1150,
- "members_confirmed": 475,
+ "unique_chatters": 1291,
+ "members_confirmed": 524,
  "member_classes": {
-  "known": 9,
-  "unknown": 466
+  "known": 11,
+  "unknown": 493,
+  "gift": 20
  },
- "long_term_members": 378,
+ "long_term_members": 398,
  "badges": [
   {
    "months": 0,
-   "members": 4
+   "members": 25
   },
   {
    "months": 1,
-   "members": 7
+   "members": 8
   },
   {
    "months": 2,
-   "members": 46
+   "members": 50
   },
   {
    "months": 6,
-   "members": 40
+   "members": 43
   },
   {
    "months": 12,
-   "members": 61
+   "members": 64
   },
   {
    "months": 24,
-   "members": 89
+   "members": 92
   },
   {
    "months": 36,
-   "members": 134
+   "members": 138
   },
   {
    "months": 48,
-   "members": 80
+   "members": 89
   },
   {
    "months": 60,
-   "members": 14
+   "members": 15
   }
  ],
  "events": {
   "new_members": 1,
-  "rejoins": 5,
+  "rejoins": 7,
   "milestones": 0,
-  "gifted_total": 0
+  "gifted_total": 20
  },
  "tiers": [
   {
    "tier": "옆집 양📌おとなり羊",
    "price": 490,
-   "confirmed_members": 9,
-   "estimated_members": 475.0
+   "confirmed_members": 11,
+   "estimated_members": 504.0
   }
  ],
  "revenue": {
-  "monthly_low": 148114,
-  "monthly_est": 148114,
-  "gift_once": 0
+  "monthly_low": 157156,
+  "monthly_est": 157156,
+  "gift_once": 6236
  },
- "avg_member_chatters": 200.7,
+ "avg_member_chatters": 205.6,
  "partial": true,
  "finalized": false
 }

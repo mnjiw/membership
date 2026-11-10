@@ -3,42 +3,42 @@
  "channel_id": "UCFimqykDM5g9a5KxlW_e7ZQ",
  "handle": "@Onotora_Y4T4",
  "subscribers": 128000,
- "fetched_at": "2026-11-10 13:08",
- "generated_at": "2026-11-10 13:09",
+ "fetched_at": "2026-11-11 05:34",
+ "generated_at": "2026-11-11 05:35",
  "period": {
-  "from": "2026-10-11 13:08",
-  "to": "2026-11-10 13:08",
+  "from": "2026-10-12 05:34",
+  "to": "2026-11-11 05:34",
   "days": 30
  },
- "streams_analyzed": 24,
+ "streams_analyzed": 25,
  "streams_missed": 3,
- "unique_chatters": 2257,
- "members_confirmed": 361,
+ "unique_chatters": 2413,
+ "members_confirmed": 383,
  "member_classes": {
-  "unknown": 296,
-  "known": 44,
+  "known": 52,
+  "unknown": 310,
   "gift": 21
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 83
+   "members": 92
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 25
+   "members": 26
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 253
+   "members": 265
   }
  ],
  "events": {
-  "new_members": 33,
-  "rejoins": 5,
+  "new_members": 40,
+  "rejoins": 6,
   "milestones": 0,
   "gift_purchases": 2,
   "gifted_total": 21,
@@ -50,21 +50,21 @@
    "tier": "オノヘッズ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 44,
+   "confirmed_members": 52,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 296.0,
-   "estimated_members": 340.0,
-   "monthly_net_confirmed": 13720,
-   "monthly_net_estimated": 106018
+   "allocated_unknown": 310.0,
+   "estimated_members": 362.0,
+   "monthly_net_confirmed": 16215,
+   "monthly_net_estimated": 112878
   }
  ],
  "revenue": {
-  "monthly_low": 106018,
-  "monthly_est": 106018,
+  "monthly_low": 112878,
+  "monthly_est": 112878,
   "gift_once": 6548,
-  "total_low": 112566,
-  "total_est": 112566,
-  "paying_members": 340,
+  "total_low": 119426,
+  "total_est": 119426,
+  "paying_members": 362,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "zC9PSkhVjNA",
-   "start": "2026-10-11 18:59",
-   "title": "【闇鍋人狼】人狼？闇鍋？やろうや【 にじさんじ / 男虎】",
-   "kind": "配信",
-   "chatters": 123,
-   "member_chatters": 64,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "vpAS6TPWJa4",
    "start": "2026-10-14 14:29",
@@ -312,6 +302,26 @@
    "member_chatters": 97,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "Me559QByfvw",
+   "start": "2026-11-10 17:00",
+   "title": "【雑談】大会お疲れさまでした！＆歌ってみた投稿＆普通に雑談【にじさんじ】",
+   "kind": "配信",
+   "chatters": 405,
+   "member_chatters": 134,
+   "new_members": 4,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "tBoIfaF4Wzs",
+   "start": "2026-11-10 21:03",
+   "title": "【Cursed Companions 】 わんおぺ再集結！ガチガチの初見ゲーやります【 にじさんじ / 男虎】",
+   "kind": "配信",
+   "chatters": 207,
+   "member_chatters": 125,
+   "new_members": 3,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -348,7 +358,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "オノヘッズ",
-   "like_count": 127,
+   "like_count": 128,
    "view_count": null
   }
  ],
@@ -380,7 +390,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "オノヘッズ",
-   "like_count": 127,
+   "like_count": 128,
    "view_count": null
   }
  ],
@@ -497,35 +507,35 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-10"
+    "to": "2026-11-11"
    },
-   "streams_analyzed": 10,
+   "streams_analyzed": 12,
    "streams_missed": 1,
-   "unique_chatters": 1197,
-   "members_confirmed": 245,
+   "unique_chatters": 1430,
+   "members_confirmed": 283,
    "member_classes": {
-    "unknown": 212,
-    "known": 32,
+    "unknown": 240,
+    "known": 42,
     "gift": 1
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 51
+     "members": 63
     },
     {
      "months": 1,
-     "members": 15
+     "members": 18
     },
     {
      "months": 2,
-     "members": 179
+     "members": 202
     }
    ],
    "events": {
-    "new_members": 18,
-    "rejoins": 1,
+    "new_members": 25,
+    "rejoins": 2,
     "milestones": 0,
     "gifted_total": 1
    },
@@ -533,16 +543,16 @@
     {
      "tier": "オノヘッズ",
      "price": 490,
-     "confirmed_members": 32,
-     "estimated_members": 244.0
+     "confirmed_members": 42,
+     "estimated_members": 282.0
     }
    ],
    "revenue": {
-    "monthly_low": 76084,
-    "monthly_est": 76084,
+    "monthly_low": 87933,
+    "monthly_est": 87933,
     "gift_once": 312
    },
-   "avg_member_chatters": 103.9,
+   "avg_member_chatters": 108.2,
    "partial": true,
    "finalized": false
   }

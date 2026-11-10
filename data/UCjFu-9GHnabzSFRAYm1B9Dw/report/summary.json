@@ -3,27 +3,27 @@
  "channel_id": "UCjFu-9GHnabzSFRAYm1B9Dw",
  "handle": "@EtnaCrimson",
  "subscribers": 60400,
- "fetched_at": "2026-11-10 13:07",
- "generated_at": "2026-11-10 13:07",
+ "fetched_at": "2026-11-11 05:28",
+ "generated_at": "2026-11-11 05:29",
  "period": {
-  "from": "2026-10-11 13:07",
-  "to": "2026-11-10 13:07",
+  "from": "2026-10-12 05:28",
+  "to": "2026-11-11 05:28",
   "days": 30
  },
- "streams_analyzed": 5,
+ "streams_analyzed": 6,
  "streams_missed": 0,
- "unique_chatters": 240,
- "members_confirmed": 18,
+ "unique_chatters": 364,
+ "members_confirmed": 41,
  "member_classes": {
-  "known": 3,
-  "unknown": 9,
-  "gift": 6
+  "known": 9,
+  "unknown": 10,
+  "gift": 22
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 5
+   "members": 18
   },
   {
    "months": 1,
@@ -31,28 +31,33 @@
    "members": 1
   },
   {
+   "months": 2,
+   "label": "2ヶ月",
+   "members": 3
+  },
+  {
    "months": 6,
    "label": "6ヶ月",
-   "members": 3
+   "members": 5
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 2
+   "members": 4
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 7
+   "members": 10
   }
  ],
  "events": {
-  "new_members": 1,
-  "rejoins": 0,
-  "milestones": 2,
-  "gift_purchases": 2,
-  "gifted_total": 6,
-  "gift_redemptions": 6
+  "new_members": 3,
+  "rejoins": 1,
+  "milestones": 5,
+  "gift_purchases": 5,
+  "gifted_total": 22,
+  "gift_redemptions": 22
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,21 +65,21 @@
    "tier": "HENSIMP",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 3,
+   "confirmed_members": 9,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 9.0,
-   "estimated_members": 12.0,
-   "monthly_net_confirmed": 935,
-   "monthly_net_estimated": 3742
+   "allocated_unknown": 10.0,
+   "estimated_members": 19.0,
+   "monthly_net_confirmed": 2806,
+   "monthly_net_estimated": 5925
   }
  ],
  "revenue": {
-  "monthly_low": 3742,
-  "monthly_est": 3742,
-  "gift_once": 1871,
-  "total_low": 5613,
-  "total_est": 5613,
-  "paying_members": 12,
+  "monthly_low": 5925,
+  "monthly_est": 5925,
+  "gift_once": 6860,
+  "total_low": 12785,
+  "total_est": 12785,
+  "paying_members": 19,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -132,6 +137,16 @@
    "member_chatters": 9,
    "new_members": 0,
    "gifted_total": 5
+  },
+  {
+   "video_id": "fW4wMw25Jkc",
+   "start": "2026-11-10 22:01",
+   "title": "HAPPY BIRTHDAY TO ME (ETNA CRIMSON)!!!!! YOU (HENSIMP) ARE OLD NOW!!!",
+   "kind": "配信",
+   "chatters": 195,
+   "member_chatters": 34,
+   "new_members": 2,
+   "gifted_total": 16
   }
  ],
  "missed_streams": [],
@@ -198,6 +213,67 @@
    "partial": true,
    "finalized": true,
    "finalized_at": "2026-11-08 05:29"
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-11"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 195,
+   "members_confirmed": 34,
+   "member_classes": {
+    "unknown": 12,
+    "known": 6,
+    "gift": 16
+   },
+   "long_term_members": 12,
+   "badges": [
+    {
+     "months": 0,
+     "members": 15
+    },
+    {
+     "months": 2,
+     "members": 3
+    },
+    {
+     "months": 6,
+     "members": 4
+    },
+    {
+     "months": 12,
+     "members": 3
+    },
+    {
+     "months": 24,
+     "members": 9
+    }
+   ],
+   "events": {
+    "new_members": 2,
+    "rejoins": 1,
+    "milestones": 3,
+    "gifted_total": 16
+   },
+   "tiers": [
+    {
+     "tier": "HENSIMP",
+     "price": 490,
+     "confirmed_members": 6,
+     "estimated_members": 18.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 5613,
+    "monthly_est": 5613,
+    "gift_once": 4989
+   },
+   "avg_member_chatters": 34,
+   "partial": true,
+   "finalized": false
   }
  ],
  "no_streams": false,

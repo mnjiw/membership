@@ -960,7 +960,7 @@
    "start_jst": "2026-11-02 10:04",
    "duration_sec": 19929,
    "view_count": null,
-   "like_count": 195,
+   "like_count": 196,
    "live_status": "was_live",
    "members_only": true,
    "has_chat": false,
@@ -969,8 +969,8 @@
    "was_public_when_live": false,
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1794256704.9876103,
-   "likes_checked_at": "2026-11-10 05:38"
+   "likes_checked_ts": 1794343041.0272374,
+   "likes_checked_at": "2026-11-11 05:37"
   },
   "nHHU3V5rOx4": {
    "id": "nHHU3V5rOx4",
@@ -1108,17 +1108,29 @@
   "UHbY5gHkozw": {
    "id": "UHbY5gHkozw",
    "title": "【#DISTRICTV2】NO TIME TO DIE【NIJISANJI EN | Yu Q. Wilson】",
-   "status": "live_now",
+   "kind": "live",
+   "start_ts": 1794271292.572695,
+   "start_jst": "2026-11-10 09:41",
+   "duration_sec": 34524,
+   "view_count": 26587,
+   "like_count": 831,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-11 05:37",
+   "info_limited": true,
    "seen_live_at": "2026-11-10 13:09",
-   "was_public_when_live": true
+   "was_public_when_live": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "Yu Q. Wilson 【NIJISANJI EN】",
  "channel_id": "UCKpKC3M5fkcEvtOr06dmYlA",
  "handle": "@YuQ.Wilson",
  "subscribers": 246000,
- "fetched_at": "2026-11-10 13:09",
- "fetched_at_ts": 1794283763.72662,
- "checked_from": "2026-11-03 13:09",
+ "fetched_at": "2026-11-11 05:37",
+ "fetched_at_ts": 1794343041.0272374,
+ "checked_from": "2026-11-04 05:37",
  "initial_fetch_done": true
 }
