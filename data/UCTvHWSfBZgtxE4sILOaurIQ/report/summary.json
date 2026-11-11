@@ -3,27 +3,27 @@
  "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
  "handle": "@VestiaZeta",
  "subscribers": 1060000,
- "fetched_at": "2026-11-11 06:27",
- "generated_at": "2026-11-11 06:28",
+ "fetched_at": "2026-11-11 11:00",
+ "generated_at": "2026-11-11 11:00",
  "period": {
-  "from": "2026-10-12 06:27",
-  "to": "2026-11-11 06:27",
+  "from": "2026-10-12 11:00",
+  "to": "2026-11-11 11:00",
   "days": 30
  },
- "streams_analyzed": 24,
- "streams_missed": 4,
- "unique_chatters": 9417,
- "members_confirmed": 1104,
+ "streams_analyzed": 23,
+ "streams_missed": 1,
+ "unique_chatters": 9288,
+ "members_confirmed": 1096,
  "member_classes": {
+  "unknown": 541,
   "known": 310,
-  "unknown": 544,
-  "gift": 250
+  "gift": 245
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 441
+   "members": 436
   },
   {
    "months": 1,
@@ -33,12 +33,12 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 105
+   "members": 104
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 89
+   "members": 88
   },
   {
    "months": 12,
@@ -58,16 +58,16 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 102
+   "members": 101
   }
  ],
  "events": {
   "new_members": 64,
   "rejoins": 28,
   "milestones": 181,
-  "gift_purchases": 46,
-  "gifted_total": 258,
-  "gift_redemptions": 253
+  "gift_purchases": 45,
+  "gifted_total": 253,
+  "gift_redemptions": 248
  },
  "tiers_configured": true,
  "tiers": [
@@ -77,19 +77,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 310,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 544.0,
-   "estimated_members": 854.0,
+   "allocated_unknown": 541.0,
+   "estimated_members": 851.0,
    "monthly_net_confirmed": 96664,
-   "monthly_net_estimated": 266293
+   "monthly_net_estimated": 265357
   }
  ],
  "revenue": {
-  "monthly_low": 266293,
-  "monthly_est": 266293,
-  "gift_once": 80449,
-  "total_low": 346742,
-  "total_est": 346742,
-  "paying_members": 854,
+  "monthly_low": 265357,
+  "monthly_est": 265357,
+  "gift_once": 78890,
+  "total_low": 344247,
+  "total_est": 344247,
+  "paying_members": 851,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "M8Ld87b-bfI",
-   "start": "2026-10-12 10:02",
-   "title": "【#ホロドリ】リオナちゃんと一緒に遊ぶぞ～～！！✨ #holodori #hololivedreams",
-   "kind": "配信",
-   "chatters": 409,
-   "member_chatters": 104,
-   "new_members": 0,
-   "gifted_total": 5
-  },
   {
    "video_id": "OcGc05mERBY",
    "start": "2026-10-13 13:02",
@@ -351,42 +341,6 @@
    "members_level": "",
    "like_count": 2386,
    "view_count": 25401
-  },
-  {
-   "video_id": "uZ4PYIbkQ5o",
-   "start": "2026-11-07 00:00",
-   "title": "【3D LIVE】愛猫 by bizxZERA 【Cover/Vestia Zeta】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 12117,
-   "view_count": 223031
-  },
-  {
-   "video_id": "V-qN-Hj4K2I",
-   "start": "2026-11-08 00:00",
-   "title": "【Vestia Zeta 1st EP】『 V/Z』 Tracklist",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 1755,
-   "view_count": 25923
-  },
-  {
-   "video_id": "Kkcm0vflYD8",
-   "start": "2026-11-08 00:00",
-   "title": "【3D LIVE】Zero Gravity (Performance)【Vestia Zeta】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 2768,
-   "view_count": 47580
   }
  ],
  "members_only_content": [],
@@ -535,7 +489,7 @@
     "to": "2026-11-11"
    },
    "streams_analyzed": 5,
-   "streams_missed": 3,
+   "streams_missed": 0,
    "unique_chatters": 7846,
    "members_confirmed": 973,
    "member_classes": {

@@ -3,15 +3,15 @@
  "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
  "handle": "@ShioriNovella",
  "subscribers": 758000,
- "fetched_at": "2026-11-11 06:28",
- "generated_at": "2026-11-11 06:28",
+ "fetched_at": "2026-11-11 11:00",
+ "generated_at": "2026-11-11 11:00",
  "period": {
-  "from": "2026-10-12 06:28",
-  "to": "2026-11-11 06:28",
+  "from": "2026-10-12 11:00",
+  "to": "2026-11-11 11:00",
   "days": 30
  },
  "streams_analyzed": 15,
- "streams_missed": 2,
+ "streams_missed": 3,
  "unique_chatters": 6108,
  "members_confirmed": 1997,
  "member_classes": {
@@ -285,6 +285,18 @@
    "members_level": "Bookwyrm",
    "like_count": 412,
    "view_count": null
+  },
+  {
+   "video_id": "4JM6zH5pTsw",
+   "start": "2026-11-11 06:57",
+   "title": "Shiori Correction Stream Where You Force Me to Work 【Members Only】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "Bookwyrm",
+   "like_count": 644,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -316,6 +328,16 @@
    "status": "members_only_video",
    "members_level": "Novelknights",
    "like_count": 211,
+   "view_count": null
+  },
+  {
+   "video_id": "4JM6zH5pTsw",
+   "start": "2026-11-11 06:57",
+   "title": "Shiori Correction Stream Where You Force Me to Work 【Members Only】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "Bookwyrm",
+   "like_count": 644,
    "view_count": null
   }
  ],
@@ -460,7 +482,7 @@
     "to": "2026-11-11"
    },
    "streams_analyzed": 6,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 2974,
    "members_confirmed": 1103,
    "member_classes": {
