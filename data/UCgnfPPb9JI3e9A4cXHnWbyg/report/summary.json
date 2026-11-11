@@ -3,61 +3,61 @@
  "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
  "handle": "@ShioriNovella",
  "subscribers": 758000,
- "fetched_at": "2026-11-11 11:00",
- "generated_at": "2026-11-11 11:00",
+ "fetched_at": "2026-11-12 06:27",
+ "generated_at": "2026-11-12 06:29",
  "period": {
-  "from": "2026-10-12 11:00",
-  "to": "2026-11-11 11:00",
+  "from": "2026-10-13 06:27",
+  "to": "2026-11-12 06:27",
   "days": 30
  },
- "streams_analyzed": 15,
+ "streams_analyzed": 16,
  "streams_missed": 3,
- "unique_chatters": 6108,
- "members_confirmed": 1997,
+ "unique_chatters": 6712,
+ "members_confirmed": 2130,
  "member_classes": {
-  "known": 592,
-  "unknown": 823,
-  "gift": 582
+  "known": 615,
+  "unknown": 868,
+  "gift": 647
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 640
+   "members": 704
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 55
+   "members": 58
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 158
+   "members": 171
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 160
+   "members": 166
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 314
+   "members": 329
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 670
+   "members": 702
   }
  ],
  "events": {
-  "new_members": 29,
-  "rejoins": 19,
-  "milestones": 445,
-  "gift_purchases": 180,
-  "gifted_total": 1052,
-  "gift_redemptions": 584
+  "new_members": 31,
+  "rejoins": 24,
+  "milestones": 464,
+  "gift_purchases": 197,
+  "gifted_total": 1117,
+  "gift_redemptions": 649
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,43 +65,43 @@
    "tier": "Page",
    "price": 390,
    "net_per_member": 248.2,
-   "confirmed_members": 61,
-   "share_of_confirmed_pct": 10.3,
-   "allocated_unknown": 84.8,
-   "estimated_members": 145.8,
-   "monthly_net_confirmed": 15139,
-   "monthly_net_estimated": 36185
+   "confirmed_members": 63,
+   "share_of_confirmed_pct": 10.2,
+   "allocated_unknown": 88.9,
+   "estimated_members": 151.9,
+   "monthly_net_confirmed": 15635,
+   "monthly_net_estimated": 37703
   },
   {
    "tier": "Bookwyrm",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 267,
-   "share_of_confirmed_pct": 45.1,
-   "allocated_unknown": 371.2,
-   "estimated_members": 638.2,
-   "monthly_net_confirmed": 117237,
-   "monthly_net_estimated": 280221
+   "confirmed_members": 280,
+   "share_of_confirmed_pct": 45.5,
+   "allocated_unknown": 395.2,
+   "estimated_members": 675.2,
+   "monthly_net_confirmed": 122945,
+   "monthly_net_estimated": 296468
   },
   {
    "tier": "Novelknights",
    "price": 1290,
    "net_per_member": 820.9,
-   "confirmed_members": 264,
-   "share_of_confirmed_pct": 44.6,
-   "allocated_unknown": 367.0,
-   "estimated_members": 631.0,
-   "monthly_net_confirmed": 216720,
-   "monthly_net_estimated": 518005
+   "confirmed_members": 272,
+   "share_of_confirmed_pct": 44.2,
+   "allocated_unknown": 383.9,
+   "estimated_members": 655.9,
+   "monthly_net_confirmed": 223287,
+   "monthly_net_estimated": 538431
   }
  ],
  "revenue": {
-  "monthly_low": 553350,
-  "monthly_est": 834411,
-  "gift_once": 261087,
-  "total_low": 814437,
-  "total_est": 1095498,
-  "paying_members": 1415,
+  "monthly_low": 577290,
+  "monthly_est": 872602,
+  "gift_once": 277219,
+  "total_low": 854509,
+  "total_est": 1149822,
+  "paying_members": 1483,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -259,6 +259,16 @@
    "member_chatters": 202,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "I-gZeuWTNsg",
+   "start": "2026-11-11 00:00",
+   "title": "44th Annual Golden Joystick Awards (2026)",
+   "kind": "配信",
+   "chatters": 1399,
+   "member_chatters": 533,
+   "new_members": 2,
+   "gifted_total": 65
   }
  ],
  "missed_streams": [
@@ -271,7 +281,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "Bookwyrm",
-   "like_count": 750,
+   "like_count": 751,
    "view_count": null
   },
   {
@@ -283,7 +293,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "Bookwyrm",
-   "like_count": 412,
+   "like_count": 414,
    "view_count": null
   },
   {
@@ -307,7 +317,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "Bookwyrm",
-   "like_count": 750,
+   "like_count": 751,
    "view_count": null
   },
   {
@@ -317,7 +327,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "Bookwyrm",
-   "like_count": 412,
+   "like_count": 414,
    "view_count": null
   },
   {
@@ -327,7 +337,7 @@
    "kind": "video",
    "status": "members_only_video",
    "members_level": "Novelknights",
-   "like_count": 211,
+   "like_count": 231,
    "view_count": null
   },
   {
@@ -479,76 +489,76 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-11"
+    "to": "2026-11-12"
    },
-   "streams_analyzed": 6,
+   "streams_analyzed": 7,
    "streams_missed": 1,
-   "unique_chatters": 2974,
-   "members_confirmed": 1103,
+   "unique_chatters": 3776,
+   "members_confirmed": 1303,
    "member_classes": {
-    "unknown": 521,
-    "known": 432,
-    "gift": 150
+    "unknown": 609,
+    "known": 479,
+    "gift": 215
    },
-   "long_term_members": 676,
+   "long_term_members": 770,
    "badges": [
     {
      "months": 0,
-     "members": 184
+     "members": 250
     },
     {
      "months": 1,
-     "members": 35
+     "members": 40
     },
     {
      "months": 2,
-     "members": 108
+     "members": 128
     },
     {
      "months": 6,
-     "members": 100
+     "members": 115
     },
     {
      "months": 12,
-     "members": 200
+     "members": 231
     },
     {
      "months": 24,
-     "members": 476
+     "members": 539
     }
    ],
    "events": {
-    "new_members": 9,
-    "rejoins": 5,
-    "milestones": 144,
-    "gifted_total": 305
+    "new_members": 11,
+    "rejoins": 10,
+    "milestones": 163,
+    "gifted_total": 370
    },
    "tiers": [
     {
      "tier": "Page",
      "price": 390,
-     "confirmed_members": 42,
-     "estimated_members": 92.7
+     "confirmed_members": 45,
+     "estimated_members": 102.2
     },
     {
      "tier": "Bookwyrm",
      "price": 690,
-     "confirmed_members": 179,
-     "estimated_members": 394.9
+     "confirmed_members": 205,
+     "estimated_members": 465.6
     },
     {
      "tier": "Novelknights",
      "price": 1290,
-     "confirmed_members": 211,
-     "estimated_members": 465.5
+     "confirmed_members": 229,
+     "estimated_members": 520.2
     }
    ],
    "revenue": {
-    "monthly_low": 391535,
-    "monthly_est": 578490,
-    "gift_once": 75695
+    "monthly_low": 440313,
+    "monthly_est": 656820,
+    "gift_once": 91827
    },
-   "avg_member_chatters": 421.5,
+   "avg_member_chatters": 437.4,
    "partial": true,
    "finalized": false
   }

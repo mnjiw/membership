@@ -2,76 +2,76 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-11"
+  "to": "2026-11-12"
  },
- "streams_analyzed": 6,
+ "streams_analyzed": 7,
  "streams_missed": 1,
- "unique_chatters": 2974,
- "members_confirmed": 1103,
+ "unique_chatters": 3776,
+ "members_confirmed": 1303,
  "member_classes": {
-  "unknown": 521,
-  "known": 432,
-  "gift": 150
+  "unknown": 609,
+  "known": 479,
+  "gift": 215
  },
- "long_term_members": 676,
+ "long_term_members": 770,
  "badges": [
   {
    "months": 0,
-   "members": 184
+   "members": 250
   },
   {
    "months": 1,
-   "members": 35
+   "members": 40
   },
   {
    "months": 2,
-   "members": 108
+   "members": 128
   },
   {
    "months": 6,
-   "members": 100
+   "members": 115
   },
   {
    "months": 12,
-   "members": 200
+   "members": 231
   },
   {
    "months": 24,
-   "members": 476
+   "members": 539
   }
  ],
  "events": {
-  "new_members": 9,
-  "rejoins": 5,
-  "milestones": 144,
-  "gifted_total": 305
+  "new_members": 11,
+  "rejoins": 10,
+  "milestones": 163,
+  "gifted_total": 370
  },
  "tiers": [
   {
    "tier": "Page",
    "price": 390,
-   "confirmed_members": 42,
-   "estimated_members": 92.7
+   "confirmed_members": 45,
+   "estimated_members": 102.2
   },
   {
    "tier": "Bookwyrm",
    "price": 690,
-   "confirmed_members": 179,
-   "estimated_members": 394.9
+   "confirmed_members": 205,
+   "estimated_members": 465.6
   },
   {
    "tier": "Novelknights",
    "price": 1290,
-   "confirmed_members": 211,
-   "estimated_members": 465.5
+   "confirmed_members": 229,
+   "estimated_members": 520.2
   }
  ],
  "revenue": {
-  "monthly_low": 391535,
-  "monthly_est": 578490,
-  "gift_once": 75695
+  "monthly_low": 440313,
+  "monthly_est": 656820,
+  "gift_once": 91827
  },
- "avg_member_chatters": 421.5,
+ "avg_member_chatters": 437.4,
  "partial": true,
  "finalized": false
 }

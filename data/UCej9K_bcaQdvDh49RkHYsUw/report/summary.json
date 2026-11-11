@@ -3,19 +3,19 @@
  "channel_id": "UCej9K_bcaQdvDh49RkHYsUw",
  "handle": "@nano_kozuya",
  "subscribers": 35300,
- "fetched_at": "2026-11-11 11:02",
- "generated_at": "2026-11-11 11:02",
+ "fetched_at": "2026-11-12 06:33",
+ "generated_at": "2026-11-12 06:33",
  "period": {
-  "from": "2026-10-12 11:02",
-  "to": "2026-11-11 11:02",
+  "from": "2026-10-13 06:33",
+  "to": "2026-11-12 06:33",
   "days": 30
  },
  "streams_analyzed": 31,
  "streams_missed": 4,
- "unique_chatters": 1544,
- "members_confirmed": 296,
+ "unique_chatters": 1522,
+ "members_confirmed": 298,
  "member_classes": {
-  "unknown": 227,
+  "unknown": 229,
   "known": 23,
   "gift": 46
  },
@@ -23,17 +23,17 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 58
+   "members": 59
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 26
+   "members": 27
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 45
+   "members": 44
   },
   {
    "months": 6,
@@ -43,11 +43,11 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 126
+   "members": 127
   }
  ],
  "events": {
-  "new_members": 10,
+  "new_members": 11,
   "rejoins": 1,
   "milestones": 0,
   "gift_purchases": 14,
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 23,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 227.0,
-   "estimated_members": 250.0,
+   "allocated_unknown": 229.0,
+   "estimated_members": 252.0,
    "monthly_net_confirmed": 7172,
-   "monthly_net_estimated": 77955
+   "monthly_net_estimated": 78578
   }
  ],
  "revenue": {
-  "monthly_low": 77955,
-  "monthly_est": 77955,
+  "monthly_low": 78578,
+  "monthly_est": 78578,
   "gift_once": 14967,
-  "total_low": 92922,
-  "total_est": 92922,
-  "paying_members": 250,
+  "total_low": 93545,
+  "total_est": 93545,
+  "paying_members": 252,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "pFmPl0C-_04",
-   "start": "2026-10-12 12:01",
-   "title": "〖 トルネコの大冒険 ちょっとステキなリマスター  〗＃02 シリーズ初見！！成長期だ！！※ネタバレ注意〖 小鳥谷なの / すぺしゃりて 〗",
-   "kind": "配信",
-   "chatters": 323,
-   "member_chatters": 102,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "pff1fhVcMPQ",
    "start": "2026-10-13 08:01",
@@ -392,6 +382,16 @@
    "member_chatters": 112,
    "new_members": 0,
    "gifted_total": 2
+  },
+  {
+   "video_id": "_q3ilvOjM_I",
+   "start": "2026-11-11 00:00",
+   "title": "〖 ポケモンチャンピオンズ  〗トレーニング解禁✨スカウト大会で優勝した子たちの本来の力を見たい！！〖 小鳥谷なの / すぺしゃりて 〗",
+   "kind": "配信",
+   "chatters": 182,
+   "member_chatters": 67,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -440,7 +440,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "こずや大好きっ子クラブ",
-   "like_count": 112,
+   "like_count": 115,
    "view_count": null
   }
  ],
@@ -482,7 +482,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "こずや大好きっ子クラブ",
-   "like_count": 112,
+   "like_count": 115,
    "view_count": null
   }
  ],
@@ -604,30 +604,30 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-11"
+    "to": "2026-11-12"
    },
-   "streams_analyzed": 14,
+   "streams_analyzed": 15,
    "streams_missed": 2,
-   "unique_chatters": 871,
-   "members_confirmed": 209,
+   "unique_chatters": 904,
+   "members_confirmed": 213,
    "member_classes": {
-    "unknown": 190,
-    "known": 17,
+    "unknown": 193,
+    "known": 18,
     "gift": 2
    },
-   "long_term_members": 97,
+   "long_term_members": 98,
    "badges": [
     {
      "months": 0,
-     "members": 31
+     "members": 32
     },
     {
      "months": 1,
-     "members": 15
+     "members": 16
     },
     {
      "months": 2,
-     "members": 33
+     "members": 34
     },
     {
      "months": 6,
@@ -635,11 +635,11 @@
     },
     {
      "months": 12,
-     "members": 97
+     "members": 98
     }
    ],
    "events": {
-    "new_members": 6,
+    "new_members": 7,
     "rejoins": 1,
     "milestones": 0,
     "gifted_total": 3
@@ -648,16 +648,16 @@
     {
      "tier": "こずや大好きっ子クラブ",
      "price": 490,
-     "confirmed_members": 17,
-     "estimated_members": 207.0
+     "confirmed_members": 18,
+     "estimated_members": 211.0
     }
    ],
    "revenue": {
-    "monthly_low": 64546,
-    "monthly_est": 64546,
+    "monthly_low": 65794,
+    "monthly_est": 65794,
     "gift_once": 935
    },
-   "avg_member_chatters": 86.7,
+   "avg_member_chatters": 85.4,
    "partial": true,
    "finalized": false
   }

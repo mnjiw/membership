@@ -3,20 +3,20 @@
  "channel_id": "UC_hjHmi-ODGhHlSzD16p5Pw",
  "handle": "@Popo_Ieiri",
  "subscribers": 131000,
- "fetched_at": "2026-11-11 11:01",
- "generated_at": "2026-11-11 11:01",
+ "fetched_at": "2026-11-12 06:29",
+ "generated_at": "2026-11-12 06:29",
  "period": {
-  "from": "2026-10-12 11:01",
-  "to": "2026-11-11 11:01",
+  "from": "2026-10-13 06:29",
+  "to": "2026-11-12 06:29",
   "days": 30
  },
- "streams_analyzed": 28,
- "streams_missed": 1,
- "unique_chatters": 1045,
+ "streams_analyzed": 27,
+ "streams_missed": 2,
+ "unique_chatters": 1037,
  "members_confirmed": 140,
  "member_classes": {
-  "unknown": 117,
   "known": 13,
+  "unknown": 117,
   "gift": 10
  },
  "badges": [
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "wvH6_OzKKqo",
-   "start": "2026-10-12 18:04",
-   "title": "【SILENT HILL: Townfall #1】霧に包まれた孤島が舞台のサイレントヒル最新作！！【家入ポポ / ななしいんく】",
-   "kind": "配信",
-   "chatters": 77,
-   "member_chatters": 32,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "DOqG7MQS3aQ",
    "start": "2026-10-13 21:00",
@@ -386,6 +376,18 @@
    "members_level": "",
    "like_count": 45,
    "view_count": null
+  },
+  {
+   "video_id": "sK3zpk6x8SE",
+   "start": "2026-11-11 00:00",
+   "title": "【#ガチグラ2 / 4日目】悪魔分隊副隊長となったポポォ！？【家入ポポ / ななしいんく】",
+   "kind": "live",
+   "status": "processing",
+   "reason": "アーカイブ処理中（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 289,
+   "view_count": 10109
   }
  ],
  "members_only_content": [
@@ -533,10 +535,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-11"
+    "to": "2026-11-12"
    },
    "streams_analyzed": 12,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 674,
    "members_confirmed": 116,
    "member_classes": {

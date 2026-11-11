@@ -3,27 +3,27 @@
  "channel_id": "UC6FprWVXuULaY9mZOcqTe4A",
  "handle": "@Amu_amane",
  "subscribers": 82400,
- "fetched_at": "2026-11-11 11:03",
- "generated_at": "2026-11-11 11:03",
+ "fetched_at": "2026-11-12 06:36",
+ "generated_at": "2026-11-12 06:36",
  "period": {
-  "from": "2026-10-12 11:03",
-  "to": "2026-11-11 11:03",
+  "from": "2026-10-13 06:36",
+  "to": "2026-11-12 06:36",
   "days": 30
  },
- "streams_analyzed": 22,
+ "streams_analyzed": 21,
  "streams_missed": 1,
- "unique_chatters": 896,
- "members_confirmed": 238,
+ "unique_chatters": 875,
+ "members_confirmed": 206,
  "member_classes": {
-  "unknown": 94,
-  "known": 104,
-  "gift": 40
+  "unknown": 98,
+  "known": 103,
+  "gift": 5
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 62
+   "members": 32
   },
   {
    "months": 1,
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 32
+   "members": 31
   },
   {
    "months": 6,
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 43
+   "members": 42
   },
   {
    "months": 24,
@@ -53,11 +53,11 @@
  ],
  "events": {
   "new_members": 13,
-  "rejoins": 5,
-  "milestones": 47,
-  "gift_purchases": 5,
-  "gifted_total": 40,
-  "gift_redemptions": 40
+  "rejoins": 4,
+  "milestones": 41,
+  "gift_purchases": 1,
+  "gifted_total": 5,
+  "gift_redemptions": 5
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +65,21 @@
    "tier": "あむ党",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 104,
+   "confirmed_members": 103,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 94.0,
-   "estimated_members": 198.0,
-   "monthly_net_confirmed": 32429,
-   "monthly_net_estimated": 61740
+   "allocated_unknown": 98.0,
+   "estimated_members": 201.0,
+   "monthly_net_confirmed": 32117,
+   "monthly_net_estimated": 62675
   }
  ],
  "revenue": {
-  "monthly_low": 61740,
-  "monthly_est": 61740,
-  "gift_once": 12473,
-  "total_low": 74213,
-  "total_est": 74213,
-  "paying_members": 198,
+  "monthly_low": 62675,
+  "monthly_est": 62675,
+  "gift_once": 1559,
+  "total_low": 64235,
+  "total_est": 64235,
+  "paying_members": 201,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "dx8ccNZYyEs",
-   "start": "2026-10-12 18:37",
-   "title": "【歌枠】がんばれ！歌練習モード甘音あむ🤖 【甘音あむ / ネオポルテ】",
-   "kind": "配信",
-   "chatters": 111,
-   "member_chatters": 95,
-   "new_members": 0,
-   "gifted_total": 35
-  },
   {
    "video_id": "rSPB6H6S7y0",
    "start": "2026-10-13 23:58",
@@ -460,7 +450,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-11"
+    "to": "2026-11-12"
    },
    "streams_analyzed": 6,
    "streams_missed": 0,

@@ -3,32 +3,32 @@
  "channel_id": "UCCra1t-eIlO3ULyXQQMD9Xw",
  "handle": "@RemiaAotsuki",
  "subscribers": 81500,
- "fetched_at": "2026-11-11 11:01",
- "generated_at": "2026-11-11 11:02",
+ "fetched_at": "2026-11-12 06:32",
+ "generated_at": "2026-11-12 06:32",
  "period": {
-  "from": "2026-10-12 11:01",
-  "to": "2026-11-11 11:01",
+  "from": "2026-10-13 06:32",
+  "to": "2026-11-12 06:32",
   "days": 30
  },
  "streams_analyzed": 25,
  "streams_missed": 2,
- "unique_chatters": 570,
- "members_confirmed": 116,
+ "unique_chatters": 540,
+ "members_confirmed": 112,
  "member_classes": {
-  "unknown": 81,
   "known": 28,
+  "unknown": 77,
   "gift": 7
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 12
+   "members": 11
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 3
+   "members": 1
   },
   {
    "months": 2,
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 29
+   "members": 28
   },
   {
    "months": 24,
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 28,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 81.0,
-   "estimated_members": 109.0,
+   "allocated_unknown": 77.0,
+   "estimated_members": 105.0,
    "monthly_net_confirmed": 8731,
-   "monthly_net_estimated": 33988
+   "monthly_net_estimated": 32741
   }
  ],
  "revenue": {
-  "monthly_low": 33988,
-  "monthly_est": 33988,
+  "monthly_low": 32741,
+  "monthly_est": 32741,
   "gift_once": 2183,
-  "total_low": 36171,
-  "total_est": 36171,
-  "paying_members": 109,
+  "total_low": 34924,
+  "total_est": 34924,
+  "paying_members": 105,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "yklAo9pHOio",
-   "start": "2026-10-12 23:04",
-   "title": "【VALORANT】  EU CS2 player tries edating.. 【#VSPOEN #RemiaAotsuki】",
-   "kind": "配信",
-   "chatters": 125,
-   "member_chatters": 44,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "_mZcYU_l9C4",
    "start": "2026-10-13 23:01",
@@ -337,6 +327,16 @@
    "member_chatters": 25,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "4TOLRO_dNj0",
+   "start": "2026-11-11 07:58",
+   "title": "【GTA V | #DISTRICTV2】  criminal activities detected 【#VSPOEN #RemiaAotsuki】",
+   "kind": "配信",
+   "chatters": 64,
+   "member_chatters": 33,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -361,7 +361,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 20,
+   "like_count": 22,
    "view_count": null
   }
  ],
@@ -383,7 +383,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 20,
+   "like_count": 22,
    "view_count": null
   }
  ],
@@ -513,11 +513,11 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-11"
+    "to": "2026-11-12"
    },
-   "streams_analyzed": 8,
+   "streams_analyzed": 9,
    "streams_missed": 1,
-   "unique_chatters": 277,
+   "unique_chatters": 287,
    "members_confirmed": 72,
    "member_classes": {
     "known": 21,
@@ -565,7 +565,7 @@
     "monthly_est": 22451,
     "gift_once": 0
    },
-   "avg_member_chatters": 31.1,
+   "avg_member_chatters": 31.3,
    "partial": true,
    "finalized": false
   }

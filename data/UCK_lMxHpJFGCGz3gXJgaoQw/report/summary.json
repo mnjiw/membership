@@ -3,16 +3,16 @@
  "channel_id": "UCK_lMxHpJFGCGz3gXJgaoQw",
  "handle": "@lumi_yukime",
  "subscribers": 27400,
- "fetched_at": "2026-11-11 11:02",
- "generated_at": "2026-11-11 11:03",
+ "fetched_at": "2026-11-12 06:33",
+ "generated_at": "2026-11-12 06:33",
  "period": {
-  "from": "2026-10-12 11:02",
-  "to": "2026-11-11 11:02",
+  "from": "2026-10-13 06:33",
+  "to": "2026-11-12 06:33",
   "days": 30
  },
- "streams_analyzed": 26,
- "streams_missed": 1,
- "unique_chatters": 644,
+ "streams_analyzed": 25,
+ "streams_missed": 2,
+ "unique_chatters": 639,
  "members_confirmed": 288,
  "member_classes": {
   "known": 10,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "Ek9Hwjc7JXA",
-   "start": "2026-10-12 21:04",
-   "title": "*❅ GTA5 #SURGECity┊ギャングなる。DAY4〖 雪芽るみ┊すぺしゃりて 〗",
-   "kind": "配信",
-   "chatters": 35,
-   "member_chatters": 12,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "u9vbcGwX3Ww",
    "start": "2026-10-13 18:46",
@@ -361,6 +351,18 @@
    "members_level": "",
    "like_count": 28,
    "view_count": null
+  },
+  {
+   "video_id": "XuCnRxAHtk8",
+   "start": "2026-11-11 00:00",
+   "title": "*❅ GTA5 #ガチグラ2┊大型はじまる。DAY5〖 雪芽るみ┊すぺしゃりて 〗",
+   "kind": "live",
+   "status": "processing",
+   "reason": "アーカイブ処理中（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 207,
+   "view_count": 6250
   }
  ],
  "members_only_content": [
@@ -511,10 +513,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-11"
+    "to": "2026-11-12"
    },
    "streams_analyzed": 9,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 254,
    "members_confirmed": 67,
    "member_classes": {

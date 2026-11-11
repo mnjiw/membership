@@ -3,20 +3,20 @@
  "channel_id": "UCEk1_ZVGRiVV-gxHT9wdNMg",
  "handle": "@Kasukano_Utsuro",
  "subscribers": 73100,
- "fetched_at": "2026-11-11 11:03",
- "generated_at": "2026-11-11 11:03",
+ "fetched_at": "2026-11-12 06:36",
+ "generated_at": "2026-11-12 06:36",
  "period": {
-  "from": "2026-10-12 11:03",
-  "to": "2026-11-11 11:03",
+  "from": "2026-10-13 06:36",
+  "to": "2026-11-12 06:36",
   "days": 30
  },
- "streams_analyzed": 24,
- "streams_missed": 5,
- "unique_chatters": 390,
+ "streams_analyzed": 23,
+ "streams_missed": 6,
+ "unique_chatters": 375,
  "members_confirmed": 134,
  "member_classes": {
-  "unknown": 95,
   "known": 31,
+  "unknown": 95,
   "gift": 8
  },
  "badges": [
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "XpPR2O3n0Is",
-   "start": "2026-10-12 23:16",
-   "title": "【 OW 】ドクトリン上手になりたい【 幽乃うつろ / ネオポルテ 】",
-   "kind": "配信",
-   "chatters": 69,
-   "member_chatters": 28,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "Ai7CEp3lcs0",
    "start": "2026-10-13 12:16",
@@ -394,6 +384,18 @@
    "members_level": "ひょういたいしょう",
    "like_count": 49,
    "view_count": null
+  },
+  {
+   "video_id": "WSl_ZoCj_bY",
+   "start": "2026-11-11 22:03",
+   "title": "ゆるーーざつ",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "ひょういたいしょう",
+   "like_count": 40,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -445,6 +447,16 @@
    "status": "members_only",
    "members_level": "ひょういたいしょう",
    "like_count": 49,
+   "view_count": null
+  },
+  {
+   "video_id": "WSl_ZoCj_bY",
+   "start": "2026-11-11 22:03",
+   "title": "ゆるーーざつ",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "ひょういたいしょう",
+   "like_count": 40,
    "view_count": null
   }
  ],
@@ -581,10 +593,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-11"
+    "to": "2026-11-12"
    },
    "streams_analyzed": 10,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 274,
    "members_confirmed": 109,
    "member_classes": {

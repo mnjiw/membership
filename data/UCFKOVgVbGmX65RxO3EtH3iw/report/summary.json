@@ -3,73 +3,73 @@
  "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
  "handle": "@YukihanaLamy",
  "subscribers": 1380000,
- "fetched_at": "2026-11-11 10:59",
- "generated_at": "2026-11-11 10:59",
+ "fetched_at": "2026-11-12 06:21",
+ "generated_at": "2026-11-12 06:21",
  "period": {
-  "from": "2026-10-12 10:59",
-  "to": "2026-11-11 10:59",
+  "from": "2026-10-13 06:21",
+  "to": "2026-11-12 06:21",
   "days": 30
  },
- "streams_analyzed": 5,
+ "streams_analyzed": 4,
  "streams_missed": 2,
- "unique_chatters": 8705,
- "members_confirmed": 3200,
+ "unique_chatters": 7688,
+ "members_confirmed": 2993,
  "member_classes": {
-  "unknown": 1696,
-  "known": 1330,
+  "known": 1308,
+  "unknown": 1511,
   "gift": 174
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 267
+   "members": 260
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 43
+   "members": 39
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 270
+   "members": 245
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 384
+   "members": 359
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 564
+   "members": 529
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 347
+   "members": 317
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 320
+   "members": 295
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 421
+   "members": 400
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 584
+   "members": 549
   }
  ],
  "events": {
   "new_members": 42,
-  "rejoins": 20,
-  "milestones": 1152,
+  "rejoins": 17,
+  "milestones": 1130,
   "gift_purchases": 48,
   "gifted_total": 176,
   "gift_redemptions": 174
@@ -80,21 +80,21 @@
    "tier": "もちもちだいふく",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 1330,
+   "confirmed_members": 1308,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1696.0,
-   "estimated_members": 3026.0,
-   "monthly_net_confirmed": 414718,
-   "monthly_net_estimated": 943562
+   "allocated_unknown": 1511.0,
+   "estimated_members": 2819.0,
+   "monthly_net_confirmed": 407858,
+   "monthly_net_estimated": 879015
   }
  ],
  "revenue": {
-  "monthly_low": 943562,
-  "monthly_est": 943562,
+  "monthly_low": 879015,
+  "monthly_est": 879015,
   "gift_once": 54880,
-  "total_low": 998442,
-  "total_est": 998442,
-  "paying_members": 3026,
+  "total_low": 933895,
+  "total_est": 933895,
+  "paying_members": 2819,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -103,16 +103,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "3Chh3w4q9Yo",
-   "start": "2026-10-12 12:00",
-   "title": "【昼雑談】祝日！！最近のお話しのんびりしよう～！！【​雪花ラミィ /ホロライブ】",
-   "kind": "配信",
-   "chatters": 2631,
-   "member_chatters": 1215,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "o4k31asQPGI",
    "start": "2026-10-17 15:00",
@@ -164,7 +154,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 1950,
+   "like_count": 1952,
    "view_count": null
   },
   {
@@ -176,7 +166,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 2052,
+   "like_count": 2056,
    "view_count": null
   }
  ],
@@ -188,7 +178,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 1950,
+   "like_count": 1952,
    "view_count": null
   },
   {
@@ -198,7 +188,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 2052,
+   "like_count": 2056,
    "view_count": null
   }
  ],
@@ -363,7 +353,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-11"
+    "to": "2026-11-12"
    },
    "streams_analyzed": 1,
    "streams_missed": 1,

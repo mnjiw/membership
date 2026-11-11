@@ -3,56 +3,56 @@
  "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
  "handle": "@MizumiyaSu",
  "subscribers": 756000,
- "fetched_at": "2026-11-11 10:59",
- "generated_at": "2026-11-11 10:59",
+ "fetched_at": "2026-11-12 06:22",
+ "generated_at": "2026-11-12 06:25",
  "period": {
-  "from": "2026-10-12 10:59",
-  "to": "2026-11-11 10:59",
+  "from": "2026-10-13 06:22",
+  "to": "2026-11-12 06:22",
   "days": 30
  },
  "streams_analyzed": 34,
  "streams_missed": 2,
- "unique_chatters": 18482,
- "members_confirmed": 3834,
+ "unique_chatters": 18424,
+ "members_confirmed": 3821,
  "member_classes": {
-  "unknown": 2109,
   "known": 633,
-  "gift": 1092
+  "unknown": 2094,
+  "gift": 1094
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 1308
+   "members": 1313
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 130
+   "members": 123
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 469
+   "members": 464
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 689
+   "members": 686
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 1238
+   "members": 1235
   }
  ],
  "events": {
-  "new_members": 145,
-  "rejoins": 45,
-  "milestones": 396,
-  "gift_purchases": 188,
-  "gifted_total": 1242,
-  "gift_redemptions": 1094
+  "new_members": 146,
+  "rejoins": 44,
+  "milestones": 395,
+  "gift_purchases": 186,
+  "gifted_total": 1244,
+  "gift_redemptions": 1096
  },
  "tiers_configured": true,
  "tiers": [
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 633,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2109.0,
-   "estimated_members": 2742.0,
+   "allocated_unknown": 2094.0,
+   "estimated_members": 2727.0,
    "monthly_net_confirmed": 197381,
-   "monthly_net_estimated": 855005
+   "monthly_net_estimated": 850328
   }
  ],
  "revenue": {
-  "monthly_low": 855005,
-  "monthly_est": 855005,
-  "gift_once": 387278,
-  "total_low": 1242284,
-  "total_est": 1242284,
-  "paying_members": 2742,
+  "monthly_low": 850328,
+  "monthly_est": 850328,
+  "gift_once": 387902,
+  "total_low": 1238230,
+  "total_est": 1238230,
+  "paying_members": 2727,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "B8uQ19SjIVQ",
-   "start": "2026-10-12 22:32",
-   "title": "【dressmaker】Chill🩵センス◎をみせます【水宮枢／ホロライブ】",
-   "kind": "配信",
-   "chatters": 1192,
-   "member_chatters": 550,
-   "new_members": 6,
-   "gifted_total": 9
-  },
   {
    "video_id": "DjNZh4y9Qkk",
    "start": "2026-10-13 23:14",
@@ -422,6 +412,16 @@
    "member_chatters": 465,
    "new_members": 8,
    "gifted_total": 12
+  },
+  {
+   "video_id": "FYeElr0BDi0",
+   "start": "2026-11-11 00:00",
+   "title": "【#9】LOST JUDGMENT：裁かれざる記憶 ※ネタバレ有【水宮枢／ホロライブ】",
+   "kind": "配信",
+   "chatters": 1262,
+   "member_chatters": 492,
+   "new_members": 7,
+   "gifted_total": 11
   }
  ],
  "missed_streams": [
@@ -434,7 +434,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 870,
+   "like_count": 872,
    "view_count": null
   },
   {
@@ -446,7 +446,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 885,
+   "like_count": 897,
    "view_count": null
   }
  ],
@@ -458,7 +458,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 870,
+   "like_count": 872,
    "view_count": null
   },
   {
@@ -468,7 +468,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 885,
+   "like_count": 897,
    "view_count": null
   }
  ],
@@ -601,22 +601,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-11"
+    "to": "2026-11-12"
    },
-   "streams_analyzed": 10,
+   "streams_analyzed": 11,
    "streams_missed": 1,
-   "unique_chatters": 8092,
-   "members_confirmed": 2134,
+   "unique_chatters": 8392,
+   "members_confirmed": 2177,
    "member_classes": {
-    "unknown": 1351,
-    "known": 502,
-    "gift": 281
+    "unknown": 1372,
+    "known": 513,
+    "gift": 292
    },
-   "long_term_members": 881,
+   "long_term_members": 892,
    "badges": [
     {
      "months": 0,
-     "members": 421
+     "members": 441
     },
     {
      "months": 1,
@@ -624,37 +624,37 @@
     },
     {
      "months": 2,
-     "members": 278
+     "members": 284
     },
     {
      "months": 6,
-     "members": 478
+     "members": 484
     },
     {
      "months": 12,
-     "members": 881
+     "members": 892
     }
    ],
    "events": {
-    "new_members": 68,
-    "rejoins": 16,
-    "milestones": 313,
-    "gifted_total": 297
+    "new_members": 75,
+    "rejoins": 18,
+    "milestones": 315,
+    "gifted_total": 308
    },
    "tiers": [
     {
      "tier": "しゅぴ通信",
      "price": 490,
-     "confirmed_members": 502,
-     "estimated_members": 1853.0
+     "confirmed_members": 513,
+     "estimated_members": 1885.0
     }
    ],
    "revenue": {
-    "monthly_low": 577799,
-    "monthly_est": 577799,
-    "gift_once": 92610
+    "monthly_low": 587777,
+    "monthly_est": 587777,
+    "gift_once": 96040
    },
-   "avg_member_chatters": 595.4,
+   "avg_member_chatters": 586,
    "partial": true,
    "finalized": false
   }

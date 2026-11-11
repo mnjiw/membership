@@ -3,32 +3,32 @@
  "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
  "handle": "@HakosBaelz",
  "subscribers": 1230000,
- "fetched_at": "2026-11-11 11:00",
- "generated_at": "2026-11-11 11:00",
+ "fetched_at": "2026-11-12 06:27",
+ "generated_at": "2026-11-12 06:27",
  "period": {
-  "from": "2026-10-12 11:00",
-  "to": "2026-11-11 11:00",
+  "from": "2026-10-13 06:27",
+  "to": "2026-11-12 06:27",
   "days": 30
  },
- "streams_analyzed": 17,
- "streams_missed": 2,
- "unique_chatters": 12172,
- "members_confirmed": 1817,
+ "streams_analyzed": 16,
+ "streams_missed": 1,
+ "unique_chatters": 12089,
+ "members_confirmed": 1808,
  "member_classes": {
-  "known": 433,
-  "unknown": 1248,
+  "unknown": 1240,
+  "known": 432,
   "gift": 136
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 227
+   "members": 224
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 40
+   "members": 39
   },
   {
    "months": 2,
@@ -38,17 +38,17 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 156
+   "members": 155
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 342
+   "members": 341
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 307
+   "members": 305
   },
   {
    "months": 36,
@@ -63,13 +63,13 @@
   {
    "months": 60,
    "label": "5年",
-   "members": 160
+   "members": 159
   }
  ],
  "events": {
-  "new_members": 27,
+  "new_members": 26,
   "rejoins": 17,
-  "milestones": 313,
+  "milestones": 310,
   "gift_purchases": 26,
   "gifted_total": 155,
   "gift_redemptions": 137
@@ -80,12 +80,12 @@
    "tier": "Rat Bro",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 405,
+   "confirmed_members": 404,
    "share_of_confirmed_pct": 93.5,
-   "allocated_unknown": 1167.3,
-   "estimated_members": 1572.3,
-   "monthly_net_confirmed": 177832,
-   "monthly_net_estimated": 690382
+   "allocated_unknown": 1159.6,
+   "estimated_members": 1563.6,
+   "monthly_net_confirmed": 177393,
+   "monthly_net_estimated": 686576
   },
   {
    "tier": "Rat Boss!",
@@ -93,10 +93,10 @@
    "net_per_member": 820.9,
    "confirmed_members": 9,
    "share_of_confirmed_pct": 2.1,
-   "allocated_unknown": 25.9,
-   "estimated_members": 34.9,
+   "allocated_unknown": 25.8,
+   "estimated_members": 34.8,
    "monthly_net_confirmed": 7388,
-   "monthly_net_estimated": 28683
+   "monthly_net_estimated": 28595
   },
   {
    "tier": "Rat GOD!!",
@@ -104,19 +104,19 @@
    "net_per_member": 1775.5,
    "confirmed_members": 19,
    "share_of_confirmed_pct": 4.4,
-   "allocated_unknown": 54.8,
-   "estimated_members": 73.8,
+   "allocated_unknown": 54.5,
+   "estimated_members": 73.5,
    "monthly_net_confirmed": 33734,
-   "monthly_net_estimated": 130961
+   "monthly_net_estimated": 130562
   }
  ],
  "revenue": {
-  "monthly_low": 766939,
-  "monthly_est": 850026,
+  "monthly_low": 762987,
+  "monthly_est": 845732,
   "gift_once": 68059,
-  "total_low": 834998,
-  "total_est": 918085,
-  "paying_members": 1681,
+  "total_low": 831046,
+  "total_est": 913791,
+  "paying_members": 1672,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -125,16 +125,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "Ppn_FqhuiLw",
-   "start": "2026-10-12 23:00",
-   "title": "≪hololive Dreams≫ gotta catch them all w/ Calli #4 #holodori",
-   "kind": "配信",
-   "chatters": 487,
-   "member_chatters": 210,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "z3qd7Kj8Shk",
    "start": "2026-10-13 21:05",
@@ -308,18 +298,6 @@
    "members_level": "",
    "like_count": 544,
    "view_count": null
-  },
-  {
-   "video_id": "SBvd5v98G6A",
-   "start": "2026-11-08 00:00",
-   "title": "Making of 【HEADSHOT】- BTS Bonus Reel!",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 5784,
-   "view_count": 123712
   }
  ],
  "members_only_content": [
@@ -492,10 +470,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-11"
+    "to": "2026-11-12"
    },
    "streams_analyzed": 7,
-   "streams_missed": 1,
+   "streams_missed": 0,
    "unique_chatters": 7441,
    "members_confirmed": 1319,
    "member_classes": {

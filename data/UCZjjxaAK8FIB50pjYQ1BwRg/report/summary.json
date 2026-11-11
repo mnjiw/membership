@@ -2,47 +2,47 @@
  "channel": "Shuri Ch. 紅愛しゅり",
  "channel_id": "UCZjjxaAK8FIB50pjYQ1BwRg",
  "handle": "@KureaShuri",
- "subscribers": 35200,
- "fetched_at": "2026-11-11 11:04",
- "generated_at": "2026-11-11 11:04",
+ "subscribers": 35300,
+ "fetched_at": "2026-11-12 06:38",
+ "generated_at": "2026-11-12 06:38",
  "period": {
-  "from": "2026-10-12 11:04",
-  "to": "2026-11-11 11:04",
+  "from": "2026-10-13 06:38",
+  "to": "2026-11-12 06:38",
   "days": 30
  },
  "streams_analyzed": 33,
  "streams_missed": 3,
- "unique_chatters": 2113,
- "members_confirmed": 1079,
+ "unique_chatters": 2070,
+ "members_confirmed": 1058,
  "member_classes": {
-  "unknown": 389,
+  "unknown": 399,
   "known": 28,
-  "gift": 662
+  "gift": 631
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 658
+   "members": 640
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 172
+   "members": 171
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 249
+   "members": 247
   }
  ],
  "events": {
   "new_members": 18,
   "rejoins": 1,
   "milestones": 0,
-  "gift_purchases": 31,
-  "gifted_total": 670,
-  "gift_redemptions": 664
+  "gift_purchases": 27,
+  "gifted_total": 639,
+  "gift_redemptions": 633
  },
  "tiers_configured": true,
  "tiers": [
@@ -52,10 +52,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 28,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 389.0,
-   "estimated_members": 417.0,
+   "allocated_unknown": 399.0,
+   "estimated_members": 427.0,
    "monthly_net_confirmed": 8731,
-   "monthly_net_estimated": 130028
+   "monthly_net_estimated": 133146
   },
   {
    "tier": "おにがしま -たけ-",
@@ -92,12 +92,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 130028,
-  "monthly_est": 130028,
-  "gift_once": 208918,
-  "total_low": 338946,
-  "total_est": 338946,
-  "paying_members": 417,
+  "monthly_low": 133146,
+  "monthly_est": 133146,
+  "gift_once": 199252,
+  "total_low": 332398,
+  "total_est": 332398,
+  "paying_members": 427,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -106,16 +106,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "fF4hxGUlKM0",
-   "start": "2026-10-12 17:00",
-   "title": "【 福袋 】ファミコン・PS・PS2のゲームソフトの福袋を開封するよ！✨【紅愛しゅり/Varium】",
-   "kind": "配信",
-   "chatters": 470,
-   "member_chatters": 206,
-   "new_members": 0,
-   "gifted_total": 31
-  },
   {
    "video_id": "YH8g4FHR_3Y",
    "start": "2026-10-13 07:00",
@@ -435,6 +425,16 @@
    "member_chatters": 126,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "IiIbESVgS30",
+   "start": "2026-11-11 16:00",
+   "title": "【 ロックマン4 】# 1 完全初見！新たなる野望とは一体…！？【紅愛しゅり/Varium】",
+   "kind": "配信",
+   "chatters": 248,
+   "member_chatters": 102,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -471,7 +471,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 205,
+   "like_count": 206,
    "view_count": null
   }
  ],
@@ -503,7 +503,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 205,
+   "like_count": 206,
    "view_count": null
   }
  ],
@@ -627,14 +627,14 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-11"
+    "to": "2026-11-12"
    },
-   "streams_analyzed": 11,
+   "streams_analyzed": 12,
    "streams_missed": 0,
-   "unique_chatters": 1195,
-   "members_confirmed": 473,
+   "unique_chatters": 1252,
+   "members_confirmed": 476,
    "member_classes": {
-    "unknown": 343,
+    "unknown": 346,
     "known": 19,
     "gift": 111
    },
@@ -646,11 +646,11 @@
     },
     {
      "months": 1,
-     "members": 95
+     "members": 96
     },
     {
      "months": 2,
-     "members": 184
+     "members": 186
     }
    ],
    "events": {
@@ -664,7 +664,7 @@
      "tier": "おにがしま -うめ-",
      "price": 490,
      "confirmed_members": 19,
-     "estimated_members": 362.0
+     "estimated_members": 365.0
     },
     {
      "tier": "おにがしま -たけ-",
@@ -686,11 +686,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 112878,
-    "monthly_est": 112878,
+    "monthly_low": 113814,
+    "monthly_est": 113814,
     "gift_once": 34924
    },
-   "avg_member_chatters": 123.9,
+   "avg_member_chatters": 122.1,
    "partial": true,
    "finalized": false
   }

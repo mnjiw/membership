@@ -2,80 +2,80 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-11"
+  "to": "2026-11-12"
  },
- "streams_analyzed": 4,
+ "streams_analyzed": 5,
  "streams_missed": 2,
- "unique_chatters": 2044,
- "members_confirmed": 453,
+ "unique_chatters": 2182,
+ "members_confirmed": 500,
  "member_classes": {
-  "known": 150,
-  "unknown": 240,
-  "gift": 63
+  "known": 159,
+  "unknown": 256,
+  "gift": 85
  },
- "long_term_members": 210,
+ "long_term_members": 225,
  "badges": [
   {
    "months": 0,
-   "members": 118
+   "members": 144
   },
   {
    "months": 1,
-   "members": 20
-  },
-  {
-   "months": 2,
-   "members": 55
-  },
-  {
-   "months": 6,
-   "members": 50
-  },
-  {
-   "months": 12,
-   "members": 89
-  },
-  {
-   "months": 24,
-   "members": 45
-  },
-  {
-   "months": 36,
-   "members": 30
-  },
-  {
-   "months": 48,
    "members": 21
   },
   {
+   "months": 2,
+   "members": 56
+  },
+  {
+   "months": 6,
+   "members": 54
+  },
+  {
+   "months": 12,
+   "members": 97
+  },
+  {
+   "months": 24,
+   "members": 46
+  },
+  {
+   "months": 36,
+   "members": 31
+  },
+  {
+   "months": 48,
+   "members": 25
+  },
+  {
    "months": 60,
-   "members": 17
+   "members": 16
   },
   {
    "months": 72,
-   "members": 8
+   "members": 10
   }
  ],
  "events": {
-  "new_members": 10,
-  "rejoins": 22,
-  "milestones": 35,
-  "gifted_total": 63
+  "new_members": 11,
+  "rejoins": 24,
+  "milestones": 40,
+  "gifted_total": 85
  },
  "tiers": [
   {
    "tier": "Prisuners",
    "price": 490,
-   "confirmed_members": 150,
-   "estimated_members": 390.0
+   "confirmed_members": 159,
+   "estimated_members": 415.0
   }
  ],
  "revenue": {
-  "monthly_low": 121609,
-  "monthly_est": 121609,
-  "gift_once": 19645
+  "monthly_low": 129405,
+  "monthly_est": 129405,
+  "gift_once": 26505
  },
- "avg_member_chatters": 210.2,
+ "avg_member_chatters": 202.8,
  "partial": true,
  "finalized": false
 }

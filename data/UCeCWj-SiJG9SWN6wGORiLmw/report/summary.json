@@ -3,15 +3,15 @@
  "channel_id": "UCeCWj-SiJG9SWN6wGORiLmw",
  "handle": "@jirajisaki",
  "subscribers": 66600,
- "fetched_at": "2026-11-11 11:02",
- "generated_at": "2026-11-11 11:02",
+ "fetched_at": "2026-11-12 06:32",
+ "generated_at": "2026-11-12 06:32",
  "period": {
-  "from": "2026-10-12 11:02",
-  "to": "2026-11-11 11:02",
+  "from": "2026-10-13 06:32",
+  "to": "2026-11-12 06:32",
   "days": 30
  },
  "streams_analyzed": 13,
- "streams_missed": 1,
+ "streams_missed": 0,
  "unique_chatters": 350,
  "members_confirmed": 106,
  "member_classes": {
@@ -219,32 +219,8 @@
    "gifted_total": 2
   }
  ],
- "missed_streams": [
-  {
-   "video_id": "B-f1L1yCBgI",
-   "start": "2026-10-12 12:14",
-   "title": "【Members】Marvel's Daredevil S3: ep. 12 - 13【#VSPOEN #JiraJisaki】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 13,
-   "view_count": null
-  }
- ],
- "members_only_content": [
-  {
-   "video_id": "B-f1L1yCBgI",
-   "start": "2026-10-12 12:14",
-   "title": "【Members】Marvel's Daredevil S3: ep. 12 - 13【#VSPOEN #JiraJisaki】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 13,
-   "view_count": null
-  }
- ],
+ "missed_streams": [],
+ "members_only_content": [],
  "history": [
   {
    "month": "2026-09",
@@ -371,7 +347,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-11"
+    "to": "2026-11-12"
    },
    "streams_analyzed": 6,
    "streams_missed": 0,

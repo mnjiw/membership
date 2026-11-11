@@ -3,32 +3,32 @@
  "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
  "handle": "@Robocosan",
  "subscribers": 1200000,
- "fetched_at": "2026-11-11 10:58",
- "generated_at": "2026-11-11 10:58",
+ "fetched_at": "2026-11-12 06:18",
+ "generated_at": "2026-11-12 06:18",
  "period": {
-  "from": "2026-10-12 10:58",
-  "to": "2026-11-11 10:58",
+  "from": "2026-10-13 06:18",
+  "to": "2026-11-12 06:18",
   "days": 30
  },
- "streams_analyzed": 21,
+ "streams_analyzed": 20,
  "streams_missed": 1,
- "unique_chatters": 4660,
- "members_confirmed": 1177,
+ "unique_chatters": 4612,
+ "members_confirmed": 1168,
  "member_classes": {
-  "unknown": 618,
-  "known": 237,
-  "gift": 322
+  "known": 236,
+  "unknown": 615,
+  "gift": 317
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 386
+   "members": 381
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 39
+   "members": 38
   },
   {
    "months": 2,
@@ -43,12 +43,12 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 200
+   "members": 199
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 96
+   "members": 94
   },
   {
    "months": 36,
@@ -67,12 +67,12 @@
   }
  ],
  "events": {
-  "new_members": 21,
+  "new_members": 19,
   "rejoins": 13,
   "milestones": 37,
-  "gift_purchases": 144,
-  "gifted_total": 324,
-  "gift_redemptions": 324
+  "gift_purchases": 143,
+  "gifted_total": 319,
+  "gift_redemptions": 319
  },
  "tiers_configured": true,
  "tiers": [
@@ -81,31 +81,31 @@
    "price": 490,
    "net_per_member": 311.8,
    "confirmed_members": 169,
-   "share_of_confirmed_pct": 71.3,
-   "allocated_unknown": 440.7,
-   "estimated_members": 609.7,
+   "share_of_confirmed_pct": 71.6,
+   "allocated_unknown": 440.4,
+   "estimated_members": 609.4,
    "monthly_net_confirmed": 52697,
-   "monthly_net_estimated": 190110
+   "monthly_net_estimated": 190023
   },
   {
    "tier": "★高性能ろぼさ～へ★",
    "price": 1190,
    "net_per_member": 757.3,
-   "confirmed_members": 68,
-   "share_of_confirmed_pct": 28.7,
-   "allocated_unknown": 177.3,
-   "estimated_members": 245.3,
-   "monthly_net_confirmed": 51495,
-   "monthly_net_estimated": 185771
+   "confirmed_members": 67,
+   "share_of_confirmed_pct": 28.4,
+   "allocated_unknown": 174.6,
+   "estimated_members": 241.6,
+   "monthly_net_confirmed": 50737,
+   "monthly_net_estimated": 182955
   }
  ],
  "revenue": {
-  "monthly_low": 296895,
-  "monthly_est": 375882,
-  "gift_once": 101029,
-  "total_low": 397925,
-  "total_est": 476911,
-  "paying_members": 855,
+  "monthly_low": 295203,
+  "monthly_est": 372978,
+  "gift_once": 99470,
+  "total_low": 394673,
+  "total_est": 472448,
+  "paying_members": 851,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -114,16 +114,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "yglkhvNfWnE",
-   "start": "2026-10-12 17:03",
-   "title": "【 ＃ホロドリ 】＃ロボタール の釣り　ここ釣れてますか？？【ホロライブ/ ロボ子さん 】",
-   "kind": "配信",
-   "chatters": 341,
-   "member_chatters": 177,
-   "new_members": 2,
-   "gifted_total": 5
-  },
   {
    "video_id": "BIcjMaeqUO8",
    "start": "2026-10-13 12:00",
@@ -335,7 +325,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 472,
+   "like_count": 478,
    "view_count": null
   }
  ],
@@ -347,7 +337,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 472,
+   "like_count": 478,
    "view_count": null
   }
  ],
@@ -524,7 +514,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-11"
+    "to": "2026-11-12"
    },
    "streams_analyzed": 4,
    "streams_missed": 1,

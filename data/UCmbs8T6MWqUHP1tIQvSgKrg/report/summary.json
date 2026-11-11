@@ -3,76 +3,76 @@
  "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
  "handle": "@OuroKronii",
  "subscribers": 1170000,
- "fetched_at": "2026-11-11 11:00",
- "generated_at": "2026-11-11 11:00",
+ "fetched_at": "2026-11-12 06:26",
+ "generated_at": "2026-11-12 06:27",
  "period": {
-  "from": "2026-10-12 11:00",
-  "to": "2026-11-11 11:00",
+  "from": "2026-10-13 06:26",
+  "to": "2026-11-12 06:26",
   "days": 30
  },
  "streams_analyzed": 10,
  "streams_missed": 0,
- "unique_chatters": 11215,
- "members_confirmed": 2060,
+ "unique_chatters": 11970,
+ "members_confirmed": 2110,
  "member_classes": {
-  "known": 559,
-  "unknown": 1291,
-  "gift": 210
+  "unknown": 1331,
+  "known": 577,
+  "gift": 202
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 254
+   "members": 245
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 40
+   "members": 39
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 152
+   "members": 156
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 210
+   "members": 224
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 376
+   "members": 384
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 236
+   "members": 243
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 170
+   "members": 179
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 249
+   "members": 257
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 373
+   "members": 383
   }
  ],
  "events": {
-  "new_members": 8,
-  "rejoins": 19,
-  "milestones": 399,
-  "gift_purchases": 76,
-  "gifted_total": 233,
-  "gift_redemptions": 210
+  "new_members": 9,
+  "rejoins": 20,
+  "milestones": 417,
+  "gift_purchases": 73,
+  "gifted_total": 230,
+  "gift_redemptions": 202
  },
  "tiers_configured": true,
  "tiers": [
@@ -80,43 +80,43 @@
    "tier": "Second",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 535,
+   "confirmed_members": 552,
    "share_of_confirmed_pct": 95.7,
-   "allocated_unknown": 1235.6,
-   "estimated_members": 1770.6,
-   "monthly_net_confirmed": 234914,
-   "monthly_net_estimated": 777442
+   "allocated_unknown": 1273.3,
+   "estimated_members": 1825.3,
+   "monthly_net_confirmed": 242378,
+   "monthly_net_estimated": 801486
   },
   {
    "tier": "Minute",
    "price": 1290,
    "net_per_member": 820.9,
-   "confirmed_members": 13,
-   "share_of_confirmed_pct": 2.3,
-   "allocated_unknown": 30.0,
-   "estimated_members": 43.0,
-   "monthly_net_confirmed": 10672,
-   "monthly_net_estimated": 35318
+   "confirmed_members": 14,
+   "share_of_confirmed_pct": 2.4,
+   "allocated_unknown": 32.3,
+   "estimated_members": 46.3,
+   "monthly_net_confirmed": 11493,
+   "monthly_net_estimated": 38004
   },
   {
    "tier": "Hour",
    "price": 3490,
    "net_per_member": 2220.9,
    "confirmed_members": 11,
-   "share_of_confirmed_pct": 2.0,
+   "share_of_confirmed_pct": 1.9,
    "allocated_unknown": 25.4,
    "estimated_members": 36.4,
    "monthly_net_confirmed": 24430,
-   "monthly_net_estimated": 80851
+   "monthly_net_estimated": 80784
   }
  ],
  "revenue": {
-  "monthly_low": 836882,
-  "monthly_est": 893611,
-  "gift_once": 102308,
-  "total_low": 939190,
-  "total_est": 995919,
-  "paying_members": 1850,
+  "monthly_low": 862731,
+  "monthly_est": 920274,
+  "gift_once": 100991,
+  "total_low": 963722,
+  "total_est": 1021265,
+  "paying_members": 1908,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -125,16 +125,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "oyOFxOhcXCQ",
-   "start": "2026-10-12 14:02",
-   "title": "【Hololive Dreams】We're CATCHING UP #holodori",
-   "kind": "配信",
-   "chatters": 1797,
-   "member_chatters": 559,
-   "new_members": 0,
-   "gifted_total": 9
-  },
   {
    "video_id": "GK37bRFmm2c",
    "start": "2026-10-13 11:05",
@@ -223,6 +213,16 @@
    "chatters": 3178,
    "member_chatters": 684,
    "new_members": 0,
+   "gifted_total": 6
+  },
+  {
+   "video_id": "1sVm1G6hrVs",
+   "start": "2026-11-12 02:56",
+   "title": "【Golden Joystick Awards】Watchalong Grab Your Popcorn",
+   "kind": "配信",
+   "chatters": 2443,
+   "member_chatters": 567,
+   "new_members": 1,
    "gifted_total": 6
   }
  ],
@@ -385,6 +385,95 @@
    "partial": false,
    "finalized": true,
    "finalized_at": "2026-11-08 06:38"
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-12"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 2443,
+   "members_confirmed": 567,
+   "member_classes": {
+    "known": 194,
+    "unknown": 372,
+    "gift": 1
+   },
+   "long_term_members": 433,
+   "badges": [
+    {
+     "months": 0,
+     "members": 11
+    },
+    {
+     "months": 1,
+     "members": 7
+    },
+    {
+     "months": 2,
+     "members": 44
+    },
+    {
+     "months": 6,
+     "members": 72
+    },
+    {
+     "months": 12,
+     "members": 112
+    },
+    {
+     "months": 24,
+     "members": 70
+    },
+    {
+     "months": 36,
+     "members": 56
+    },
+    {
+     "months": 48,
+     "members": 77
+    },
+    {
+     "months": 60,
+     "members": 118
+    }
+   ],
+   "events": {
+    "new_members": 1,
+    "rejoins": 1,
+    "milestones": 38,
+    "gifted_total": 6
+   },
+   "tiers": [
+    {
+     "tier": "Second",
+     "price": 690,
+     "confirmed_members": 177,
+     "estimated_members": 516.4
+    },
+    {
+     "tier": "Minute",
+     "price": 1290,
+     "confirmed_members": 8,
+     "estimated_members": 23.3
+    },
+    {
+     "tier": "Hour",
+     "price": 3490,
+     "confirmed_members": 9,
+     "estimated_members": 26.3
+    }
+   ],
+   "revenue": {
+    "monthly_low": 267616,
+    "monthly_est": 304224,
+    "gift_once": 2635
+   },
+   "avg_member_chatters": 567,
+   "partial": true,
+   "finalized": false
   }
  ],
  "no_streams": false,

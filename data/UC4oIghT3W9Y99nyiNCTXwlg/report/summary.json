@@ -3,46 +3,46 @@
  "channel_id": "UC4oIghT3W9Y99nyiNCTXwlg",
  "handle": "@Azri_0822",
  "subscribers": 14400,
- "fetched_at": "2026-11-11 11:01",
- "generated_at": "2026-11-11 11:01",
+ "fetched_at": "2026-11-12 06:29",
+ "generated_at": "2026-11-12 06:30",
  "period": {
-  "from": "2026-10-12 11:01",
-  "to": "2026-11-11 11:01",
+  "from": "2026-10-13 06:29",
+  "to": "2026-11-12 06:29",
   "days": 30
  },
  "streams_analyzed": 18,
  "streams_missed": 1,
- "unique_chatters": 539,
+ "unique_chatters": 540,
  "members_confirmed": 206,
  "member_classes": {
-  "unknown": 176,
-  "known": 15,
-  "gift": 15
+  "unknown": 174,
+  "known": 16,
+  "gift": 16
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 21
+   "members": 24
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 18
+   "members": 17
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 167
+   "members": 165
   }
  ],
  "events": {
-  "new_members": 3,
+  "new_members": 4,
   "rejoins": 0,
-  "milestones": 5,
-  "gift_purchases": 8,
-  "gifted_total": 16,
-  "gift_redemptions": 16
+  "milestones": 6,
+  "gift_purchases": 9,
+  "gifted_total": 17,
+  "gift_redemptions": 17
  },
  "tiers_configured": true,
  "tiers": [
@@ -50,21 +50,21 @@
    "tier": "あずりのえでん",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 15,
+   "confirmed_members": 16,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 176.0,
-   "estimated_members": 191.0,
-   "monthly_net_confirmed": 4677,
-   "monthly_net_estimated": 59557
+   "allocated_unknown": 174.0,
+   "estimated_members": 190.0,
+   "monthly_net_confirmed": 4989,
+   "monthly_net_estimated": 59245
   }
  ],
  "revenue": {
-  "monthly_low": 59557,
-  "monthly_est": 59557,
-  "gift_once": 4989,
+  "monthly_low": 59245,
+  "monthly_est": 59245,
+  "gift_once": 5301,
   "total_low": 64546,
   "total_est": 64546,
-  "paying_members": 191,
+  "paying_members": 190,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "OuluxupXIZw",
-   "start": "2026-10-12 22:00",
-   "title": "へんな生き物と森のちいさなレストラン -Creature Kitchen【ななしいんく/アズリ】",
-   "kind": "配信",
-   "chatters": 148,
-   "member_chatters": 95,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "OMCUr5S_EQk",
    "start": "2026-10-13 11:59",
@@ -252,6 +242,16 @@
    "member_chatters": 74,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "p6wTtUdW-dw",
+   "start": "2026-11-11 19:59",
+   "title": "#2 #eldenring  DLC  ミケラ様ッどこにいるのですか!!!!【ななしいんく/アズリ】",
+   "kind": "配信",
+   "chatters": 122,
+   "member_chatters": 68,
+   "new_members": 1,
+   "gifted_total": 1
   }
  ],
  "missed_streams": [
@@ -264,7 +264,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 132,
+   "like_count": 134,
    "view_count": null
   }
  ],
@@ -276,7 +276,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 132,
+   "like_count": 134,
    "view_count": null
   }
  ],
@@ -382,52 +382,52 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-11"
+    "to": "2026-11-12"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 6,
    "streams_missed": 0,
-   "unique_chatters": 268,
-   "members_confirmed": 134,
+   "unique_chatters": 286,
+   "members_confirmed": 140,
    "member_classes": {
-    "unknown": 115,
-    "known": 11,
-    "gift": 8
+    "unknown": 119,
+    "known": 12,
+    "gift": 9
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 13
+     "members": 16
     },
     {
      "months": 1,
-     "members": 9
+     "members": 10
     },
     {
      "months": 2,
-     "members": 112
+     "members": 114
     }
    ],
    "events": {
-    "new_members": 1,
+    "new_members": 2,
     "rejoins": 0,
-    "milestones": 1,
-    "gifted_total": 9
+    "milestones": 2,
+    "gifted_total": 10
    },
    "tiers": [
     {
      "tier": "あずりのえでん",
      "price": 490,
-     "confirmed_members": 11,
-     "estimated_members": 126.0
+     "confirmed_members": 12,
+     "estimated_members": 131.0
     }
    ],
    "revenue": {
-    "monthly_low": 39289,
-    "monthly_est": 39289,
-    "gift_once": 2806
+    "monthly_low": 40848,
+    "monthly_est": 40848,
+    "gift_once": 3118
    },
-   "avg_member_chatters": 73,
+   "avg_member_chatters": 72.2,
    "partial": true,
    "finalized": false
   }

@@ -3,27 +3,27 @@
  "channel_id": "UC2f11iZvrPBtA_S1LE2soeA",
  "handle": "@SidenLime",
  "subscribers": 71200,
- "fetched_at": "2026-11-11 11:04",
- "generated_at": "2026-11-11 11:04",
+ "fetched_at": "2026-11-12 06:37",
+ "generated_at": "2026-11-12 06:38",
  "period": {
-  "from": "2026-10-12 11:04",
-  "to": "2026-11-11 11:04",
+  "from": "2026-10-13 06:37",
+  "to": "2026-11-12 06:37",
   "days": 30
  },
- "streams_analyzed": 12,
+ "streams_analyzed": 13,
  "streams_missed": 3,
- "unique_chatters": 721,
- "members_confirmed": 196,
+ "unique_chatters": 737,
+ "members_confirmed": 201,
  "member_classes": {
   "unknown": 114,
-  "gift": 81,
+  "gift": 86,
   "known": 1
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 42
+   "members": 46
   },
   {
    "months": 1,
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 61
+   "members": 62
   },
   {
    "months": 6,
@@ -55,9 +55,9 @@
   "new_members": 1,
   "rejoins": 0,
   "milestones": 0,
-  "gift_purchases": 10,
-  "gifted_total": 81,
-  "gift_redemptions": 81
+  "gift_purchases": 11,
+  "gifted_total": 86,
+  "gift_redemptions": 86
  },
  "tiers_configured": true,
  "tiers": [
@@ -109,9 +109,9 @@
  "revenue": {
   "monthly_low": 35859,
   "monthly_est": 35859,
-  "gift_once": 25257,
-  "total_low": 61116,
-  "total_est": 61116,
+  "gift_once": 26816,
+  "total_low": 62675,
+  "total_est": 62675,
   "paying_members": 115,
   "single_tier": false,
   "tax_rate": 0.1,
@@ -240,6 +240,16 @@
    "member_chatters": 29,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "jRqR-L7av2w",
+   "start": "2026-11-11 20:59",
+   "title": "〘 カメラ配信 〙いろんな棒状の食べ物をポッキーにしてやります〘 紫電ライム /Varium 〙",
+   "kind": "配信",
+   "chatters": 120,
+   "member_chatters": 43,
+   "new_members": 0,
+   "gifted_total": 5
   }
  ],
  "missed_streams": [
@@ -401,33 +411,34 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-11"
+    "to": "2026-11-12"
    },
-   "streams_analyzed": 6,
+   "streams_analyzed": 7,
    "streams_missed": 1,
-   "unique_chatters": 284,
-   "members_confirmed": 87,
+   "unique_chatters": 322,
+   "members_confirmed": 96,
    "member_classes": {
-    "unknown": 86,
-    "known": 1
+    "unknown": 90,
+    "known": 1,
+    "gift": 5
    },
    "long_term_members": 38,
    "badges": [
     {
      "months": 0,
-     "members": 9
+     "members": 13
     },
     {
      "months": 1,
-     "members": 4
+     "members": 5
     },
     {
      "months": 2,
-     "members": 22
+     "members": 25
     },
     {
      "months": 6,
-     "members": 14
+     "members": 15
     },
     {
      "months": 12,
@@ -442,14 +453,14 @@
     "new_members": 0,
     "rejoins": 0,
     "milestones": 0,
-    "gifted_total": 0
+    "gifted_total": 5
    },
    "tiers": [
     {
      "tier": "みかんミン🍊",
      "price": 490,
      "confirmed_members": 1,
-     "estimated_members": 87.0
+     "estimated_members": 91.0
     },
     {
      "tier": "かぼすミン🍋‍🟩",
@@ -471,11 +482,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 27128,
-    "monthly_est": 27128,
-    "gift_once": 0
+    "monthly_low": 28375,
+    "monthly_est": 28375,
+    "gift_once": 1559
    },
-   "avg_member_chatters": 38.8,
+   "avg_member_chatters": 39.4,
    "partial": true,
    "finalized": false
   }

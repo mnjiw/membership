@@ -3,52 +3,52 @@
  "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
  "handle": "@IchijouRirika",
  "subscribers": 757000,
- "fetched_at": "2026-11-11 10:59",
- "generated_at": "2026-11-11 10:59",
+ "fetched_at": "2026-11-12 06:22",
+ "generated_at": "2026-11-12 06:22",
  "period": {
-  "from": "2026-10-12 10:59",
-  "to": "2026-11-11 10:59",
+  "from": "2026-10-13 06:22",
+  "to": "2026-11-12 06:22",
   "days": 30
  },
- "streams_analyzed": 18,
+ "streams_analyzed": 17,
  "streams_missed": 1,
- "unique_chatters": 9015,
- "members_confirmed": 2420,
+ "unique_chatters": 8731,
+ "members_confirmed": 2305,
  "member_classes": {
-  "unknown": 1107,
-  "known": 331,
-  "gift": 982
+  "known": 327,
+  "unknown": 1071,
+  "gift": 907
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 1071
+   "members": 992
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 64
+   "members": 62
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 109
+   "members": 105
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 154
+   "members": 149
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 290
+   "members": 278
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 478
+   "members": 465
   },
   {
    "months": 36,
@@ -58,11 +58,11 @@
  ],
  "events": {
   "new_members": 41,
-  "rejoins": 28,
-  "milestones": 88,
-  "gift_purchases": 248,
-  "gifted_total": 1146,
-  "gift_redemptions": 982
+  "rejoins": 27,
+  "milestones": 85,
+  "gift_purchases": 228,
+  "gifted_total": 1070,
+  "gift_redemptions": 907
  },
  "tiers_configured": true,
  "tiers": [
@@ -70,21 +70,21 @@
    "tier": "一条Corp.",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 331,
+   "confirmed_members": 327,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1107.0,
-   "estimated_members": 1438.0,
-   "monthly_net_confirmed": 103212,
-   "monthly_net_estimated": 448395
+   "allocated_unknown": 1071.0,
+   "estimated_members": 1398.0,
+   "monthly_net_confirmed": 101965,
+   "monthly_net_estimated": 435922
   }
  ],
  "revenue": {
-  "monthly_low": 448395,
-  "monthly_est": 448395,
-  "gift_once": 357344,
-  "total_low": 805738,
-  "total_est": 805738,
-  "paying_members": 1438,
+  "monthly_low": 435922,
+  "monthly_est": 435922,
+  "gift_once": 333645,
+  "total_low": 769567,
+  "total_est": 769567,
+  "paying_members": 1398,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "s26NJKTd-qI",
-   "start": "2026-10-12 22:00",
-   "title": "油はアチアチだし、足はパンパンだし、プンプン！！【一条莉々華/hololive ReGLOSS】",
-   "kind": "配信",
-   "chatters": 1214,
-   "member_chatters": 596,
-   "new_members": 0,
-   "gifted_total": 76
-  },
   {
    "video_id": "xRlvKp55xIs",
    "start": "2026-10-13 22:01",
@@ -284,7 +274,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 1016,
+   "like_count": 1017,
    "view_count": null
   }
  ],
@@ -296,7 +286,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 1016,
+   "like_count": 1017,
    "view_count": null
   }
  ],
@@ -441,7 +431,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-11"
+    "to": "2026-11-12"
    },
    "streams_analyzed": 5,
    "streams_missed": 0,

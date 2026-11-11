@@ -3,20 +3,20 @@
  "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
  "handle": "@TakaneLui",
  "subscribers": 1130000,
- "fetched_at": "2026-11-11 10:59",
- "generated_at": "2026-11-11 10:59",
+ "fetched_at": "2026-11-12 06:22",
+ "generated_at": "2026-11-12 06:22",
  "period": {
-  "from": "2026-10-12 10:59",
-  "to": "2026-11-11 10:59",
+  "from": "2026-10-13 06:22",
+  "to": "2026-11-12 06:22",
   "days": 30
  },
- "streams_analyzed": 23,
- "streams_missed": 0,
- "unique_chatters": 11388,
- "members_confirmed": 1427,
+ "streams_analyzed": 22,
+ "streams_missed": 1,
+ "unique_chatters": 11290,
+ "members_confirmed": 1412,
  "member_classes": {
-  "unknown": 1216,
-  "known": 137,
+  "unknown": 1202,
+  "known": 136,
   "gift": 74
  },
  "badges": [
@@ -33,38 +33,38 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 79
+   "members": 78
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 81
+   "members": 78
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 258
+   "members": 257
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 246
+   "members": 245
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 228
+   "members": 222
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 408
+   "members": 405
   }
  ],
  "events": {
   "new_members": 19,
   "rejoins": 9,
-  "milestones": 64,
+  "milestones": 63,
   "gift_purchases": 25,
   "gifted_total": 147,
   "gift_redemptions": 74
@@ -75,21 +75,21 @@
    "tier": "幹部PONs'",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 137,
+   "confirmed_members": 136,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1216.0,
-   "estimated_members": 1353.0,
-   "monthly_net_confirmed": 42719,
-   "monthly_net_estimated": 421890
+   "allocated_unknown": 1202.0,
+   "estimated_members": 1338.0,
+   "monthly_net_confirmed": 42407,
+   "monthly_net_estimated": 417213
   }
  ],
  "revenue": {
-  "monthly_low": 421890,
-  "monthly_est": 421890,
+  "monthly_low": 417213,
+  "monthly_est": 417213,
   "gift_once": 45837,
-  "total_low": 467727,
-  "total_est": 467727,
-  "paying_members": 1353,
+  "total_low": 463050,
+  "total_est": 463050,
+  "paying_members": 1338,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "lZd_bHhNB68",
-   "start": "2026-10-12 22:02",
-   "title": "【 #ホロドリ 】ホロトリでホロドリ！？！？！？！？！？【鷹嶺ルイ/ホロライブ】",
-   "kind": "配信",
-   "chatters": 535,
-   "member_chatters": 292,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "ZNlovMQZ83g",
    "start": "2026-10-15 18:00",
@@ -329,7 +319,20 @@
    "gifted_total": 1
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "txxqDL6L_hA",
+   "start": "2026-11-11 23:06",
+   "title": "【メンバーシップ限定】最近いろいろあったぜ 【鷹嶺ルイ/ホロライブ】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 726,
+   "view_count": null
+  }
+ ],
  "members_only_content": [
   {
    "video_id": "BA2UlNBUHZo",
@@ -338,7 +341,17 @@
    "kind": "video",
    "status": "members_only_video",
    "members_level": "",
-   "like_count": 85,
+   "like_count": 181,
+   "view_count": null
+  },
+  {
+   "video_id": "txxqDL6L_hA",
+   "start": "2026-11-11 23:06",
+   "title": "【メンバーシップ限定】最近いろいろあったぜ 【鷹嶺ルイ/ホロライブ】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 726,
    "view_count": null
   }
  ],
@@ -495,10 +508,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-11"
+    "to": "2026-11-12"
    },
    "streams_analyzed": 12,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 9222,
    "members_confirmed": 1159,
    "member_classes": {

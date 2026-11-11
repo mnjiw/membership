@@ -2,22 +2,22 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-11"
+  "to": "2026-11-12"
  },
- "streams_analyzed": 8,
+ "streams_analyzed": 9,
  "streams_missed": 0,
- "unique_chatters": 8025,
- "members_confirmed": 1161,
+ "unique_chatters": 8120,
+ "members_confirmed": 1175,
  "member_classes": {
-  "unknown": 622,
-  "known": 210,
-  "gift": 329
+  "unknown": 629,
+  "known": 212,
+  "gift": 334
  },
- "long_term_members": 517,
+ "long_term_members": 523,
  "badges": [
   {
    "months": 0,
-   "members": 403
+   "members": 409
   },
   {
    "months": 1,
@@ -25,15 +25,15 @@
   },
   {
    "months": 2,
-   "members": 122
+   "members": 123
   },
   {
    "months": 6,
-   "members": 83
+   "members": 84
   },
   {
    "months": 12,
-   "members": 132
+   "members": 134
   },
   {
    "months": 24,
@@ -41,7 +41,7 @@
   },
   {
    "months": 36,
-   "members": 82
+   "members": 85
   },
   {
    "months": 48,
@@ -49,7 +49,7 @@
   },
   {
    "months": 60,
-   "members": 74
+   "members": 75
   },
   {
    "months": 72,
@@ -61,23 +61,23 @@
   }
  ],
  "events": {
-  "new_members": 57,
-  "rejoins": 28,
+  "new_members": 58,
+  "rejoins": 29,
   "milestones": 64,
-  "gifted_total": 394
+  "gifted_total": 399
  },
  "tiers": [
   {
    "tier": "うどん",
    "price": 490,
-   "confirmed_members": 191,
-   "estimated_members": 756.7
+   "confirmed_members": 193,
+   "estimated_members": 765.6
   },
   {
    "tier": "ハンバーグ",
    "price": 790,
    "confirmed_members": 15,
-   "estimated_members": 59.4
+   "estimated_members": 59.5
   },
   {
    "tier": "焼き肉",
@@ -93,11 +93,11 @@
   }
  ],
  "revenue": {
-  "monthly_low": 276621,
-  "monthly_est": 327531,
-  "gift_once": 122856
+  "monthly_low": 279427,
+  "monthly_est": 330424,
+  "gift_once": 124415
  },
- "avg_member_chatters": 288.2,
+ "avg_member_chatters": 271.6,
  "partial": true,
  "finalized": false
 }
