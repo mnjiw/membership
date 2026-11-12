@@ -3,19 +3,19 @@
  "channel_id": "UCeGendL8CO5RkffB6IFwHow",
  "handle": "@Seffyna",
  "subscribers": 238000,
- "fetched_at": "2026-11-11 10:56",
- "generated_at": "2026-11-11 10:56",
+ "fetched_at": "2026-11-12 12:09",
+ "generated_at": "2026-11-12 12:10",
  "period": {
-  "from": "2026-10-12 10:56",
-  "to": "2026-11-11 10:56",
+  "from": "2026-10-13 12:09",
+  "to": "2026-11-12 12:09",
   "days": 30
  },
  "streams_analyzed": 18,
  "streams_missed": 1,
- "unique_chatters": 391,
- "members_confirmed": 70,
+ "unique_chatters": 397,
+ "members_confirmed": 65,
  "member_classes": {
-  "unknown": 59,
+  "unknown": 54,
   "known": 11
  },
  "badges": [
@@ -27,32 +27,32 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 5
+   "members": 4
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 11
+   "members": 10
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 9
+   "members": 10
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 9
+   "members": 8
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 12
+   "members": 10
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 22
+   "members": 21
   }
  ],
  "events": {
@@ -71,19 +71,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 11,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 59.0,
-   "estimated_members": 70.0,
+   "allocated_unknown": 54.0,
+   "estimated_members": 65.0,
    "monthly_net_confirmed": 3430,
-   "monthly_net_estimated": 21827
+   "monthly_net_estimated": 20268
   }
  ],
  "revenue": {
-  "monthly_low": 21827,
-  "monthly_est": 21827,
+  "monthly_low": 20268,
+  "monthly_est": 20268,
   "gift_once": 0,
-  "total_low": 21827,
-  "total_est": 21827,
-  "paying_members": 70,
+  "total_low": 20268,
+  "total_est": 20268,
+  "paying_members": 65,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -92,16 +92,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "_ZPae33-p-k",
-   "start": "2026-10-12 20:01",
-   "title": "【雑談】ただキーキャップ入れ替え(コーヒーも飲みながら)【にじさんじ | セフィナ】",
-   "kind": "配信",
-   "chatters": 55,
-   "member_chatters": 22,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "n2k7HxTMfKQ",
    "start": "2026-10-14 14:40",
@@ -269,6 +259,16 @@
    "kind": "配信",
    "chatters": 69,
    "member_chatters": 24,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "HUUe6OA-KQg",
+   "start": "2026-11-11 14:58",
+   "title": "【雑談】最近のお話💭スプラとか歌ってみたとかペンタブとか【にじさんじ | セフィナ】",
+   "kind": "配信",
+   "chatters": 64,
+   "member_chatters": 17,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -442,17 +442,17 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-11"
+    "to": "2026-11-12"
    },
-   "streams_analyzed": 8,
+   "streams_analyzed": 9,
    "streams_missed": 0,
-   "unique_chatters": 208,
-   "members_confirmed": 46,
+   "unique_chatters": 243,
+   "members_confirmed": 49,
    "member_classes": {
-    "unknown": 39,
+    "unknown": 42,
     "known": 7
    },
-   "long_term_members": 31,
+   "long_term_members": 34,
    "badges": [
     {
      "months": 0,
@@ -468,7 +468,7 @@
     },
     {
      "months": 12,
-     "members": 7
+     "members": 9
     },
     {
      "months": 24,
@@ -480,7 +480,7 @@
     },
     {
      "months": 48,
-     "members": 13
+     "members": 14
     }
    ],
    "events": {
@@ -494,15 +494,15 @@
      "tier": "セフィナイトの温室",
      "price": 490,
      "confirmed_members": 7,
-     "estimated_members": 46.0
+     "estimated_members": 49.0
     }
    ],
    "revenue": {
-    "monthly_low": 14344,
-    "monthly_est": 14344,
+    "monthly_low": 15279,
+    "monthly_est": 15279,
     "gift_once": 0
    },
-   "avg_member_chatters": 20,
+   "avg_member_chatters": 19.7,
    "partial": true,
    "finalized": false
   }

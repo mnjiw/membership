@@ -3,21 +3,21 @@
  "channel_id": "UCu-J8uIXuLZh16gG-cT1naw",
  "handle": "@FinanaRyugu",
  "subscribers": 474000,
- "fetched_at": "2026-11-11 10:58",
- "generated_at": "2026-11-11 10:58",
+ "fetched_at": "2026-11-12 12:19",
+ "generated_at": "2026-11-12 12:19",
  "period": {
-  "from": "2026-10-12 10:58",
-  "to": "2026-11-11 10:58",
+  "from": "2026-10-13 12:19",
+  "to": "2026-11-12 12:19",
   "days": 30
  },
  "streams_analyzed": 23,
  "streams_missed": 3,
- "unique_chatters": 672,
- "members_confirmed": 145,
+ "unique_chatters": 665,
+ "members_confirmed": 144,
  "member_classes": {
-  "unknown": 73,
   "known": 21,
-  "gift": 51
+  "unknown": 73,
+  "gift": 50
  },
  "badges": [
   {
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 17
+   "members": 16
   },
   {
    "months": 24,
@@ -55,9 +55,9 @@
   "new_members": 1,
   "rejoins": 2,
   "milestones": 12,
-  "gift_purchases": 31,
-  "gifted_total": 51,
-  "gift_redemptions": 51
+  "gift_purchases": 30,
+  "gifted_total": 50,
+  "gift_redemptions": 50
  },
  "tiers_configured": true,
  "tiers": [
@@ -76,9 +76,9 @@
  "revenue": {
   "monthly_low": 41275,
   "monthly_est": 41275,
-  "gift_once": 22394,
-  "total_low": 63668,
-  "total_est": 63668,
+  "gift_once": 21955,
+  "total_low": 63229,
+  "total_est": 63229,
   "paying_members": 94,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "r8udUpA8t_w",
-   "start": "2026-10-13 05:01",
-   "title": "【Staffer Case】A Supernatural Mystery Adventure starts today! [1]",
-   "kind": "配信",
-   "chatters": 93,
-   "member_chatters": 29,
-   "new_members": 0,
-   "gifted_total": 3
-  },
   {
    "video_id": "eTPiBvwBWEY",
    "start": "2026-10-14 05:03",
@@ -317,6 +307,16 @@
    "member_chatters": 39,
    "new_members": 0,
    "gifted_total": 1
+  },
+  {
+   "video_id": "m9QvPqmTB_k",
+   "start": "2026-11-11 08:09",
+   "title": "【#DistrictV2 GTA V RP】 PATROLLING THE DATING SHOW 🚓",
+   "kind": "配信",
+   "chatters": 129,
+   "member_chatters": 36,
+   "new_members": 0,
+   "gifted_total": 2
   }
  ],
  "missed_streams": [
@@ -526,22 +526,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-11"
+    "to": "2026-11-12"
    },
-   "streams_analyzed": 8,
+   "streams_analyzed": 9,
    "streams_missed": 1,
-   "unique_chatters": 447,
-   "members_confirmed": 94,
+   "unique_chatters": 472,
+   "members_confirmed": 97,
    "member_classes": {
-    "unknown": 61,
+    "unknown": 62,
     "known": 15,
-    "gift": 18
+    "gift": 20
    },
-   "long_term_members": 62,
+   "long_term_members": 63,
    "badges": [
     {
      "months": 0,
-     "members": 20
+     "members": 22
     },
     {
      "months": 1,
@@ -561,29 +561,29 @@
     },
     {
      "months": 24,
-     "members": 49
+     "members": 50
     }
    ],
    "events": {
     "new_members": 0,
     "rejoins": 2,
     "milestones": 5,
-    "gifted_total": 18
+    "gifted_total": 20
    },
    "tiers": [
     {
      "tier": "Ryuguard",
      "price": 690,
      "confirmed_members": 15,
-     "estimated_members": 76.0
+     "estimated_members": 77.0
     }
    ],
    "revenue": {
-    "monthly_low": 33371,
-    "monthly_est": 33371,
-    "gift_once": 7904
+    "monthly_low": 33810,
+    "monthly_est": 33810,
+    "gift_once": 8782
    },
-   "avg_member_chatters": 36.4,
+   "avg_member_chatters": 36.3,
    "partial": true,
    "finalized": false
   }

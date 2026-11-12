@@ -3,27 +3,27 @@
  "channel_id": "UC9Vq5c7FKEHLstvmSAsogXQ",
  "handle": "@aisaka_siu",
  "subscribers": 68900,
- "fetched_at": "2026-11-12 06:33",
- "generated_at": "2026-11-12 06:33",
+ "fetched_at": "2026-11-12 12:28",
+ "generated_at": "2026-11-12 12:28",
  "period": {
-  "from": "2026-10-13 06:33",
-  "to": "2026-11-12 06:33",
+  "from": "2026-10-13 12:28",
+  "to": "2026-11-12 12:28",
   "days": 30
  },
- "streams_analyzed": 18,
+ "streams_analyzed": 19,
  "streams_missed": 0,
- "unique_chatters": 759,
- "members_confirmed": 109,
+ "unique_chatters": 788,
+ "members_confirmed": 111,
  "member_classes": {
-  "unknown": 50,
-  "known": 14,
-  "gift": 45
+  "unknown": 49,
+  "known": 16,
+  "gift": 46
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 46
+   "members": 47
   },
   {
    "months": 1,
@@ -33,12 +33,12 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 14
+   "members": 13
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 7
+   "members": 9
   },
   {
    "months": 12,
@@ -49,10 +49,10 @@
  "events": {
   "new_members": 4,
   "rejoins": 1,
-  "milestones": 2,
-  "gift_purchases": 9,
-  "gifted_total": 47,
-  "gift_redemptions": 46
+  "milestones": 6,
+  "gift_purchases": 10,
+  "gifted_total": 48,
+  "gift_redemptions": 47
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,21 +60,21 @@
    "tier": "せんぱいぼしうちう",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 14,
+   "confirmed_members": 16,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 50.0,
-   "estimated_members": 64.0,
-   "monthly_net_confirmed": 4365,
-   "monthly_net_estimated": 19956
+   "allocated_unknown": 49.0,
+   "estimated_members": 65.0,
+   "monthly_net_confirmed": 4989,
+   "monthly_net_estimated": 20268
   }
  ],
  "revenue": {
-  "monthly_low": 19956,
-  "monthly_est": 19956,
-  "gift_once": 14655,
-  "total_low": 34612,
-  "total_est": 34612,
-  "paying_members": 64,
+  "monthly_low": 20268,
+  "monthly_est": 20268,
+  "gift_once": 14967,
+  "total_low": 35235,
+  "total_est": 35235,
+  "paying_members": 65,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -262,6 +262,16 @@
    "member_chatters": 12,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "fCBv1A9Q7Sk",
+   "start": "2026-11-12 06:31",
+   "title": "【 朝活 / 雑談 】離脱コメ歓迎！いってきますを待っています。何年かぶりの朝雑談です。何話してたんだっけ。【すぺしゃりて/藍坂しう】",
+   "kind": "配信",
+   "chatters": 101,
+   "member_chatters": 28,
+   "new_members": 0,
+   "gifted_total": 1
   }
  ],
  "missed_streams": [],
@@ -386,19 +396,20 @@
     "from": "2026-11-01",
     "to": "2026-11-12"
    },
-   "streams_analyzed": 7,
+   "streams_analyzed": 8,
    "streams_missed": 0,
-   "unique_chatters": 241,
-   "members_confirmed": 39,
+   "unique_chatters": 304,
+   "members_confirmed": 50,
    "member_classes": {
-    "unknown": 29,
-    "known": 10
+    "unknown": 36,
+    "known": 13,
+    "gift": 1
    },
-   "long_term_members": 17,
+   "long_term_members": 21,
    "badges": [
     {
      "months": 0,
-     "members": 6
+     "members": 11
     },
     {
      "months": 1,
@@ -406,37 +417,37 @@
     },
     {
      "months": 2,
-     "members": 9
+     "members": 8
     },
     {
      "months": 6,
-     "members": 2
+     "members": 5
     },
     {
      "months": 12,
-     "members": 17
+     "members": 21
     }
    ],
    "events": {
     "new_members": 2,
     "rejoins": 1,
-    "milestones": 0,
-    "gifted_total": 0
+    "milestones": 4,
+    "gifted_total": 1
    },
    "tiers": [
     {
      "tier": "せんぱいぼしうちう",
      "price": 490,
-     "confirmed_members": 10,
-     "estimated_members": 39.0
+     "confirmed_members": 13,
+     "estimated_members": 49.0
     }
    ],
    "revenue": {
-    "monthly_low": 12161,
-    "monthly_est": 12161,
-    "gift_once": 0
+    "monthly_low": 15279,
+    "monthly_est": 15279,
+    "gift_once": 312
    },
-   "avg_member_chatters": 14.9,
+   "avg_member_chatters": 16.5,
    "partial": true,
    "finalized": false
   }

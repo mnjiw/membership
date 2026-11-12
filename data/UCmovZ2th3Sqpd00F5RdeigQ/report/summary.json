@@ -3,32 +3,32 @@
  "channel_id": "UCmovZ2th3Sqpd00F5RdeigQ",
  "handle": "@KagamiHayato",
  "subscribers": 964000,
- "fetched_at": "2026-11-11 10:55",
- "generated_at": "2026-11-11 10:55",
+ "fetched_at": "2026-11-12 12:01",
+ "generated_at": "2026-11-12 12:04",
  "period": {
-  "from": "2026-10-12 10:55",
-  "to": "2026-11-11 10:55",
+  "from": "2026-10-13 12:01",
+  "to": "2026-11-12 12:01",
   "days": 30
  },
- "streams_analyzed": 18,
+ "streams_analyzed": 19,
  "streams_missed": 2,
- "unique_chatters": 9229,
- "members_confirmed": 3410,
+ "unique_chatters": 9781,
+ "members_confirmed": 3462,
  "member_classes": {
-  "unknown": 3229,
-  "known": 56,
-  "gift": 125
+  "unknown": 3278,
+  "known": 58,
+  "gift": 126
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 197
+   "members": 199
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 78
+   "members": 77
   },
   {
    "months": 2,
@@ -38,26 +38,26 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 501
+   "members": 512
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 764
+   "members": 774
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 1637
+   "members": 1667
   }
  ],
  "events": {
-  "new_members": 25,
-  "rejoins": 19,
+  "new_members": 26,
+  "rejoins": 20,
   "milestones": 0,
-  "gift_purchases": 11,
-  "gifted_total": 130,
-  "gift_redemptions": 125
+  "gift_purchases": 12,
+  "gifted_total": 131,
+  "gift_redemptions": 126
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +65,21 @@
    "tier": "加賀美ハヤトのメンバーシップ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 56,
+   "confirmed_members": 58,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 3229.0,
-   "estimated_members": 3285.0,
-   "monthly_net_confirmed": 17462,
-   "monthly_net_estimated": 1024323
+   "allocated_unknown": 3278.0,
+   "estimated_members": 3336.0,
+   "monthly_net_confirmed": 18085,
+   "monthly_net_estimated": 1040225
   }
  ],
  "revenue": {
-  "monthly_low": 1024323,
-  "monthly_est": 1024323,
-  "gift_once": 40536,
-  "total_low": 1064859,
-  "total_est": 1064859,
-  "paying_members": 3285,
+  "monthly_low": 1040225,
+  "monthly_est": 1040225,
+  "gift_once": 40848,
+  "total_low": 1081074,
+  "total_est": 1081074,
+  "paying_members": 3336,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -267,6 +267,16 @@
    "member_chatters": 1007,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "sFg_RqKhmeM",
+   "start": "2026-11-11 00:00",
+   "title": "【気のせいすぎるＲＰＧ】神ゲーの気がしています【にじさんじ/加賀美ハヤト】",
+   "kind": "配信",
+   "chatters": 2180,
+   "member_chatters": 1084,
+   "new_members": 1,
+   "gifted_total": 1
   }
  ],
  "missed_streams": [
@@ -291,7 +301,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 992,
+   "like_count": 995,
    "view_count": null
   }
  ],
@@ -313,7 +323,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 992,
+   "like_count": 995,
    "view_count": null
   }
  ],
@@ -454,63 +464,64 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-11"
+    "to": "2026-11-12"
    },
-   "streams_analyzed": 7,
+   "streams_analyzed": 8,
    "streams_missed": 1,
-   "unique_chatters": 3593,
-   "members_confirmed": 1798,
+   "unique_chatters": 4512,
+   "members_confirmed": 1978,
    "member_classes": {
-    "unknown": 1765,
-    "known": 33
+    "unknown": 1942,
+    "known": 35,
+    "gift": 1
    },
-   "long_term_members": 1306,
+   "long_term_members": 1448,
    "badges": [
     {
      "months": 0,
-     "members": 31
+     "members": 33
     },
     {
      "months": 1,
-     "members": 43
+     "members": 44
     },
     {
      "months": 2,
-     "members": 121
+     "members": 128
     },
     {
      "months": 6,
-     "members": 297
+     "members": 325
     },
     {
      "months": 12,
-     "members": 449
+     "members": 483
     },
     {
      "months": 24,
-     "members": 857
+     "members": 965
     }
    ],
    "events": {
-    "new_members": 9,
-    "rejoins": 7,
+    "new_members": 10,
+    "rejoins": 8,
     "milestones": 0,
-    "gifted_total": 0
+    "gifted_total": 1
    },
    "tiers": [
     {
      "tier": "加賀美ハヤトのメンバーシップ",
      "price": 490,
-     "confirmed_members": 33,
-     "estimated_members": 1798.0
+     "confirmed_members": 35,
+     "estimated_members": 1977.0
     }
    ],
    "revenue": {
-    "monthly_low": 560649,
-    "monthly_est": 560649,
-    "gift_once": 0
+    "monthly_low": 616465,
+    "monthly_est": 616465,
+    "gift_once": 312
    },
-   "avg_member_chatters": 828.6,
+   "avg_member_chatters": 860.5,
    "partial": true,
    "finalized": false
   }

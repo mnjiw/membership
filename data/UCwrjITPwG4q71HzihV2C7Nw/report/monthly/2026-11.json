@@ -2,21 +2,22 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-11"
+  "to": "2026-11-12"
  },
- "streams_analyzed": 7,
+ "streams_analyzed": 9,
  "streams_missed": 0,
- "unique_chatters": 429,
- "members_confirmed": 89,
+ "unique_chatters": 628,
+ "members_confirmed": 120,
  "member_classes": {
-  "unknown": 87,
-  "known": 2
+  "unknown": 112,
+  "known": 3,
+  "gift": 5
  },
- "long_term_members": 76,
+ "long_term_members": 98,
  "badges": [
   {
    "months": 0,
-   "members": 1
+   "members": 6
   },
   {
    "months": 1,
@@ -24,45 +25,45 @@
   },
   {
    "months": 2,
-   "members": 5
+   "members": 6
   },
   {
    "months": 6,
-   "members": 5
+   "members": 8
   },
   {
    "months": 12,
-   "members": 12
+   "members": 16
   },
   {
    "months": 24,
-   "members": 64
+   "members": 82
   }
  ],
  "events": {
   "new_members": 0,
   "rejoins": 0,
   "milestones": 0,
-  "gifted_total": 0
+  "gifted_total": 5
  },
  "tiers": [
   {
    "tier": "スサノオ",
    "price": 290,
-   "confirmed_members": 0,
-   "estimated_members": 0.0
+   "confirmed_members": 1,
+   "estimated_members": 38.3
   },
   {
    "tier": "ツクヨミ",
    "price": 390,
    "confirmed_members": 1,
-   "estimated_members": 44.5
+   "estimated_members": 38.3
   },
   {
    "tier": "ワダツミ",
    "price": 490,
    "confirmed_members": 1,
-   "estimated_members": 44.5
+   "estimated_members": 38.3
   },
   {
    "tier": "アマテラス",
@@ -72,11 +73,11 @@
   }
  ],
  "revenue": {
-  "monthly_low": 16615,
-  "monthly_est": 24920,
-  "gift_once": 0
+  "monthly_low": 21414,
+  "monthly_est": 28541,
+  "gift_once": 923
  },
- "avg_member_chatters": 44.9,
+ "avg_member_chatters": 48.4,
  "partial": true,
  "finalized": false
 }

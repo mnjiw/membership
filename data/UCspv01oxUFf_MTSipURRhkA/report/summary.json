@@ -3,37 +3,37 @@
  "channel_id": "UCspv01oxUFf_MTSipURRhkA",
  "handle": "@Kanae",
  "subscribers": 1650000,
- "fetched_at": "2026-11-11 10:54",
- "generated_at": "2026-11-11 10:55",
+ "fetched_at": "2026-11-12 11:57",
+ "generated_at": "2026-11-12 11:57",
  "period": {
-  "from": "2026-10-12 10:54",
-  "to": "2026-11-11 10:54",
+  "from": "2026-10-13 11:57",
+  "to": "2026-11-12 11:57",
   "days": 30
  },
  "streams_analyzed": 25,
  "streams_missed": 0,
- "unique_chatters": 6114,
- "members_confirmed": 2794,
+ "unique_chatters": 5931,
+ "members_confirmed": 2777,
  "member_classes": {
-  "unknown": 2692,
-  "known": 81,
+  "unknown": 2673,
+  "known": 83,
   "gift": 21
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 64
+   "members": 65
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 51
+   "members": 49
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 346
+   "members": 342
   },
   {
    "months": 6,
@@ -43,16 +43,16 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 479
+   "members": 475
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 1594
+   "members": 1586
   }
  ],
  "events": {
-  "new_members": 30,
+  "new_members": 31,
   "rejoins": 20,
   "milestones": 0,
   "gift_purchases": 3,
@@ -65,21 +65,21 @@
    "tier": "叶え隊",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 81,
+   "confirmed_members": 83,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2692.0,
-   "estimated_members": 2773.0,
-   "monthly_net_confirmed": 25257,
-   "monthly_net_estimated": 864672
+   "allocated_unknown": 2673.0,
+   "estimated_members": 2756.0,
+   "monthly_net_confirmed": 25881,
+   "monthly_net_estimated": 859371
   }
  ],
  "revenue": {
-  "monthly_low": 864672,
-  "monthly_est": 864672,
+  "monthly_low": 859371,
+  "monthly_est": 859371,
   "gift_once": 6548,
-  "total_low": 871220,
-  "total_est": 871220,
-  "paying_members": 2773,
+  "total_low": 865919,
+  "total_est": 865919,
+  "paying_members": 2756,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "LloBmiYxu00",
-   "start": "2026-10-12 15:09",
-   "title": "顔合わせだ～！！！  | LTK 練習【にじさんじ/叶】",
-   "kind": "配信",
-   "chatters": 1293,
-   "member_chatters": 784,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "SBx_QDq2twE",
    "start": "2026-10-13 20:10",
@@ -337,6 +327,16 @@
    "member_chatters": 813,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "reP_w1D1CPQ",
+   "start": "2026-11-11 19:12",
+   "title": "なんだか久しぶりな気がするチーム練習  | LTK練習【にじさんじ/叶】",
+   "kind": "配信",
+   "chatters": 1030,
+   "member_chatters": 794,
+   "new_members": 2,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -478,21 +478,21 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-11"
+    "to": "2026-11-12"
    },
-   "streams_analyzed": 9,
+   "streams_analyzed": 10,
    "streams_missed": 0,
-   "unique_chatters": 4096,
-   "members_confirmed": 2178,
+   "unique_chatters": 4187,
+   "members_confirmed": 2209,
    "member_classes": {
-    "unknown": 2132,
-    "known": 46
+    "unknown": 2157,
+    "known": 52
    },
-   "long_term_members": 1660,
+   "long_term_members": 1685,
    "badges": [
     {
      "months": 0,
-     "members": 20
+     "members": 22
     },
     {
      "months": 1,
@@ -500,24 +500,24 @@
     },
     {
      "months": 2,
-     "members": 253
+     "members": 255
     },
     {
      "months": 6,
-     "members": 211
+     "members": 213
     },
     {
      "months": 12,
-     "members": 394
+     "members": 400
     },
     {
      "months": 24,
-     "members": 1266
+     "members": 1285
     }
    ],
    "events": {
-    "new_members": 8,
-    "rejoins": 7,
+    "new_members": 10,
+    "rejoins": 9,
     "milestones": 0,
     "gifted_total": 0
    },
@@ -525,16 +525,16 @@
     {
      "tier": "叶え隊",
      "price": 490,
-     "confirmed_members": 46,
-     "estimated_members": 2178.0
+     "confirmed_members": 52,
+     "estimated_members": 2209.0
     }
    ],
    "revenue": {
-    "monthly_low": 679140,
-    "monthly_est": 679140,
+    "monthly_low": 688806,
+    "monthly_est": 688806,
     "gift_once": 0
    },
-   "avg_member_chatters": 862.9,
+   "avg_member_chatters": 856,
    "partial": true,
    "finalized": false
   }

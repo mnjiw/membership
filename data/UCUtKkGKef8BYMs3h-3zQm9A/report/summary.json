@@ -3,15 +3,15 @@
  "channel_id": "UCUtKkGKef8BYMs3h-3zQm9A",
  "handle": "@MinSuha",
  "subscribers": 186000,
- "fetched_at": "2026-11-11 10:56",
- "generated_at": "2026-11-11 10:56",
+ "fetched_at": "2026-11-12 12:09",
+ "generated_at": "2026-11-12 12:09",
  "period": {
-  "from": "2026-10-12 10:56",
-  "to": "2026-11-11 10:56",
+  "from": "2026-10-13 12:09",
+  "to": "2026-11-12 12:09",
   "days": 30
  },
  "streams_analyzed": 11,
- "streams_missed": 1,
+ "streams_missed": 0,
  "unique_chatters": 494,
  "members_confirmed": 137,
  "member_classes": {
@@ -213,32 +213,8 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [
-  {
-   "video_id": "qHmQfIKOX7Y",
-   "start": "2026-10-12 19:02",
-   "title": "【Membership】Good evening🤗【】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "수하쿠아(Suhaqua)",
-   "like_count": 57,
-   "view_count": null
-  }
- ],
- "members_only_content": [
-  {
-   "video_id": "qHmQfIKOX7Y",
-   "start": "2026-10-12 19:02",
-   "title": "【Membership】Good evening🤗【】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "수하쿠아(Suhaqua)",
-   "like_count": 57,
-   "view_count": null
-  }
- ],
+ "missed_streams": [],
+ "members_only_content": [],
  "history": [
   {
    "month": "2026-09",
@@ -398,7 +374,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-11"
+    "to": "2026-11-12"
    },
    "streams_analyzed": 5,
    "streams_missed": 0,

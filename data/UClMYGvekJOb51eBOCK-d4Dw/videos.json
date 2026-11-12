@@ -859,8 +859,8 @@
    "was_public_when_live": false,
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1794343090.9973898,
-   "likes_checked_at": "2026-11-11 05:38"
+   "likes_checked_ts": 1794453793.2282608,
+   "likes_checked_at": "2026-11-12 12:23"
   },
   "O8ZZo0Nbvws": {
    "id": "O8ZZo0Nbvws",
@@ -877,8 +877,8 @@
    "checked_at": "2026-10-21 05:33",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1794343090.9973898,
-   "likes_checked_at": "2026-11-11 05:38"
+   "likes_checked_ts": 1794453793.2282608,
+   "likes_checked_at": "2026-11-12 12:23"
   },
   "yNCqH3Tk9Ys": {
    "id": "yNCqH3Tk9Ys",
@@ -1184,17 +1184,53 @@
   "eoEdqJcine4": {
    "id": "eoEdqJcine4",
    "title": "Let's Chat",
-   "status": "live_now",
+   "kind": "live",
+   "start_ts": 1794358699.370082,
+   "start_jst": "2026-11-11 09:58",
+   "duration_sec": 6691,
+   "view_count": 5150,
+   "like_count": 359,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-12 12:23",
+   "info_limited": true,
    "seen_live_at": "2026-11-11 10:58",
+   "was_public_when_live": true,
+   "start_from_chat": true,
+   "status": "ok"
+  },
+  "u75m9t6G1f4": {
+   "id": "u75m9t6G1f4",
+   "title": "【Ocarina of Time】 Eh? (3)【NIJISANJI EN | Zeal Ginjoka】",
+   "status": "live_now",
+   "seen_live_at": "2026-11-12 12:23",
    "was_public_when_live": true
+  },
+  "V2YgAQIM1F8": {
+   "id": "V2YgAQIM1F8",
+   "title": "Hey There",
+   "kind": "live",
+   "start_ts": 1794441369.3867931,
+   "start_jst": "2026-11-12 08:56",
+   "duration_sec": 4151,
+   "view_count": 2441,
+   "like_count": 305,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-12 12:23",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "Zeal Ginjoka【NIJISANJI EN】",
  "channel_id": "UClMYGvekJOb51eBOCK-d4Dw",
  "handle": "@ZealGinjoka",
  "subscribers": 191000,
- "fetched_at": "2026-11-11 10:58",
- "fetched_at_ts": 1794362314.043325,
- "checked_from": "2026-11-04 10:58",
+ "fetched_at": "2026-11-12 12:23",
+ "fetched_at_ts": 1794453793.2282608,
+ "checked_from": "2026-11-05 12:23",
  "initial_fetch_done": true
 }

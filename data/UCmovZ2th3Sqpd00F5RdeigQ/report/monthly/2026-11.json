@@ -2,63 +2,64 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-11"
+  "to": "2026-11-12"
  },
- "streams_analyzed": 7,
+ "streams_analyzed": 8,
  "streams_missed": 1,
- "unique_chatters": 3593,
- "members_confirmed": 1798,
+ "unique_chatters": 4512,
+ "members_confirmed": 1978,
  "member_classes": {
-  "unknown": 1765,
-  "known": 33
+  "unknown": 1942,
+  "known": 35,
+  "gift": 1
  },
- "long_term_members": 1306,
+ "long_term_members": 1448,
  "badges": [
   {
    "months": 0,
-   "members": 31
+   "members": 33
   },
   {
    "months": 1,
-   "members": 43
+   "members": 44
   },
   {
    "months": 2,
-   "members": 121
+   "members": 128
   },
   {
    "months": 6,
-   "members": 297
+   "members": 325
   },
   {
    "months": 12,
-   "members": 449
+   "members": 483
   },
   {
    "months": 24,
-   "members": 857
+   "members": 965
   }
  ],
  "events": {
-  "new_members": 9,
-  "rejoins": 7,
+  "new_members": 10,
+  "rejoins": 8,
   "milestones": 0,
-  "gifted_total": 0
+  "gifted_total": 1
  },
  "tiers": [
   {
    "tier": "加賀美ハヤトのメンバーシップ",
    "price": 490,
-   "confirmed_members": 33,
-   "estimated_members": 1798.0
+   "confirmed_members": 35,
+   "estimated_members": 1977.0
   }
  ],
  "revenue": {
-  "monthly_low": 560649,
-  "monthly_est": 560649,
-  "gift_once": 0
+  "monthly_low": 616465,
+  "monthly_est": 616465,
+  "gift_once": 312
  },
- "avg_member_chatters": 828.6,
+ "avg_member_chatters": 860.5,
  "partial": true,
  "finalized": false
 }

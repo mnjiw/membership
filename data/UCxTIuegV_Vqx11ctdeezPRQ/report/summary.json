@@ -3,31 +3,31 @@
  "channel_id": "UCxTIuegV_Vqx11ctdeezPRQ",
  "handle": "@KaminagaTaiga",
  "subscribers": 208000,
- "fetched_at": "2026-11-11 10:58",
- "generated_at": "2026-11-11 10:59",
+ "fetched_at": "2026-11-12 12:23",
+ "generated_at": "2026-11-12 12:24",
  "period": {
-  "from": "2026-10-12 10:58",
-  "to": "2026-11-11 10:58",
+  "from": "2026-10-13 12:23",
+  "to": "2026-11-12 12:23",
   "days": 30
  },
  "streams_analyzed": 32,
  "streams_missed": 2,
- "unique_chatters": 8030,
- "members_confirmed": 2227,
+ "unique_chatters": 8021,
+ "members_confirmed": 2243,
  "member_classes": {
-  "known": 1739,
-  "unknown": 428,
+  "known": 1743,
+  "unknown": 440,
   "gift": 60
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 2227
+   "members": 2243
   }
  ],
  "events": {
-  "new_members": 1742,
+  "new_members": 1746,
   "rejoins": 0,
   "milestones": 0,
   "gift_purchases": 9,
@@ -40,21 +40,21 @@
    "tier": "虎っ子部",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 1739,
+   "confirmed_members": 1743,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 428.0,
-   "estimated_members": 2167.0,
-   "monthly_net_confirmed": 542252,
-   "monthly_net_estimated": 675710
+   "allocated_unknown": 440.0,
+   "estimated_members": 2183.0,
+   "monthly_net_confirmed": 543499,
+   "monthly_net_estimated": 680699
   }
  ],
  "revenue": {
-  "monthly_low": 675710,
-  "monthly_est": 675710,
+  "monthly_low": 680699,
+  "monthly_est": 680699,
   "gift_once": 19021,
-  "total_low": 694731,
-  "total_est": 694731,
-  "paying_members": 2167,
+  "total_low": 699720,
+  "total_est": 699720,
+  "paying_members": 2183,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -63,16 +63,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "07OlZ9HOl_k",
-   "start": "2026-10-12 11:00",
-   "title": "【朝活#１５】ブランチ配信！～10月12日(月・祝)～　# ０２【神永タイガ / にじさんじ】",
-   "kind": "配信",
-   "chatters": 563,
-   "member_chatters": 0,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "llUmnUkvSy4",
    "start": "2026-10-13 19:00",
@@ -382,6 +372,16 @@
    "member_chatters": 519,
    "new_members": 8,
    "gifted_total": 10
+  },
+  {
+   "video_id": "4tL0luwFqK8",
+   "start": "2026-11-12 07:00",
+   "title": "【朝活#２８】朝活配信！✉〜11月12日(木)〜　# ０２【神永タイガ / にじさんじ】",
+   "kind": "配信",
+   "chatters": 640,
+   "member_chatters": 398,
+   "new_members": 4,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -394,7 +394,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "虎っ子部",
-   "like_count": 725,
+   "like_count": 731,
    "view_count": null
   },
   {
@@ -406,7 +406,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 895,
+   "like_count": 906,
    "view_count": null
   }
  ],
@@ -418,7 +418,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "虎っ子部",
-   "like_count": 725,
+   "like_count": 731,
    "view_count": null
   },
   {
@@ -428,7 +428,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 895,
+   "like_count": 906,
    "view_count": null
   }
  ],
@@ -509,26 +509,26 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-11"
+    "to": "2026-11-12"
    },
-   "streams_analyzed": 11,
+   "streams_analyzed": 12,
    "streams_missed": 1,
-   "unique_chatters": 4425,
-   "members_confirmed": 1593,
+   "unique_chatters": 4523,
+   "members_confirmed": 1616,
    "member_classes": {
-    "known": 1141,
-    "unknown": 428,
+    "known": 1152,
+    "unknown": 440,
     "gift": 24
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 1593
+     "members": 1616
     }
    ],
    "events": {
-    "new_members": 217,
+    "new_members": 221,
     "rejoins": 0,
     "milestones": 0,
     "gifted_total": 25
@@ -537,16 +537,16 @@
     {
      "tier": "虎っ子部",
      "price": 490,
-     "confirmed_members": 1141,
-     "estimated_members": 1569.0
+     "confirmed_members": 1152,
+     "estimated_members": 1592.0
     }
    ],
    "revenue": {
-    "monthly_low": 489243,
-    "monthly_est": 489243,
+    "monthly_low": 496415,
+    "monthly_est": 496415,
     "gift_once": 7795
    },
-   "avg_member_chatters": 494.5,
+   "avg_member_chatters": 486.4,
    "partial": true,
    "finalized": false
   }

@@ -2,17 +2,17 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-11"
+  "to": "2026-11-12"
  },
- "streams_analyzed": 4,
+ "streams_analyzed": 5,
  "streams_missed": 0,
- "unique_chatters": 57,
- "members_confirmed": 30,
+ "unique_chatters": 67,
+ "members_confirmed": 35,
  "member_classes": {
   "known": 7,
-  "unknown": 23
+  "unknown": 28
  },
- "long_term_members": 25,
+ "long_term_members": 29,
  "badges": [
   {
    "months": 0,
@@ -24,7 +24,7 @@
   },
   {
    "months": 2,
-   "members": 3
+   "members": 4
   },
   {
    "months": 12,
@@ -32,7 +32,7 @@
   },
   {
    "months": 24,
-   "members": 20
+   "members": 24
   }
  ],
  "events": {
@@ -46,13 +46,13 @@
    "tier": "안내소 案内所",
    "price": 290,
    "confirmed_members": 1,
-   "estimated_members": 4.3
+   "estimated_members": 5.0
   },
   {
    "tier": "Gaide🚩취업센터 就業センター",
    "price": 490,
    "confirmed_members": 6,
-   "estimated_members": 25.7
+   "estimated_members": 30.0
   },
   {
    "tier": "Gaide🚩인턴쉽 インターンシップ",
@@ -62,11 +62,11 @@
   }
  ],
  "revenue": {
-  "monthly_low": 6300,
-  "monthly_est": 8809,
+  "monthly_low": 7223,
+  "monthly_est": 10277,
   "gift_once": 0
  },
- "avg_member_chatters": 16.8,
+ "avg_member_chatters": 17.4,
  "partial": true,
  "finalized": false
 }

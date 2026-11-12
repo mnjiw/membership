@@ -3,19 +3,19 @@
  "channel_id": "UCsxs_R8xnsQN4t-F_3qQ8PQ",
  "handle": "@Rayon_Y4T4",
  "subscribers": 105000,
- "fetched_at": "2026-11-11 10:58",
- "generated_at": "2026-11-11 10:58",
+ "fetched_at": "2026-11-12 12:19",
+ "generated_at": "2026-11-12 12:19",
  "period": {
-  "from": "2026-10-12 10:58",
-  "to": "2026-11-11 10:58",
+  "from": "2026-10-13 12:19",
+  "to": "2026-11-12 12:19",
   "days": 30
  },
  "streams_analyzed": 24,
  "streams_missed": 0,
- "unique_chatters": 1489,
- "members_confirmed": 178,
+ "unique_chatters": 1494,
+ "members_confirmed": 177,
  "member_classes": {
-  "unknown": 148,
+  "unknown": 147,
   "known": 29,
   "gift": 1
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 40
+   "members": 39
   },
   {
    "months": 1,
@@ -52,19 +52,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 29,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 148.0,
-   "estimated_members": 177.0,
+   "allocated_unknown": 147.0,
+   "estimated_members": 176.0,
    "monthly_net_confirmed": 9043,
-   "monthly_net_estimated": 55192
+   "monthly_net_estimated": 54880
   }
  ],
  "revenue": {
-  "monthly_low": 55192,
-  "monthly_est": 55192,
+  "monthly_low": 54880,
+  "monthly_est": 54880,
   "gift_once": 312,
-  "total_low": 55504,
-  "total_est": 55504,
-  "paying_members": 177,
+  "total_low": 55192,
+  "total_est": 55192,
+  "paying_members": 176,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "LYdCs1C_vYY",
-   "start": "2026-10-12 20:02",
-   "title": "【Dead by Daylight】今宵伝説が帰ってくる。",
-   "kind": "配信",
-   "chatters": 114,
-   "member_chatters": 40,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "AQqpU1WVSUY",
    "start": "2026-10-13 21:31",
@@ -312,6 +302,16 @@
    "member_chatters": 19,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "F9d3tiGDfw4",
+   "start": "2026-11-11 21:06",
+   "title": "【スプラトゥーン3】ヤグラ XP1745から",
+   "kind": "配信",
+   "chatters": 128,
+   "member_chatters": 27,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -428,11 +428,11 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-11"
+    "to": "2026-11-12"
    },
-   "streams_analyzed": 12,
+   "streams_analyzed": 13,
    "streams_missed": 0,
-   "unique_chatters": 681,
+   "unique_chatters": 726,
    "members_confirmed": 100,
    "member_classes": {
     "unknown": 83,
@@ -473,7 +473,7 @@
     "monthly_est": 30870,
     "gift_once": 312
    },
-   "avg_member_chatters": 34.9,
+   "avg_member_chatters": 34.3,
    "partial": true,
    "finalized": false
   }

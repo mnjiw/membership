@@ -3,60 +3,61 @@
  "channel_id": "UCzNXpqpdvlibmNc1JpM1o4g",
  "handle": "@Lunlun_nijisanji",
  "subscribers": 928000,
- "fetched_at": "2026-11-11 10:57",
- "generated_at": "2026-11-11 10:57",
+ "fetched_at": "2026-11-12 12:15",
+ "generated_at": "2026-11-12 12:16",
  "period": {
-  "from": "2026-10-12 10:57",
-  "to": "2026-11-11 10:57",
+  "from": "2026-10-13 12:15",
+  "to": "2026-11-12 12:15",
   "days": 30
  },
- "streams_analyzed": 14,
+ "streams_analyzed": 16,
  "streams_missed": 0,
- "unique_chatters": 5903,
- "members_confirmed": 1509,
+ "unique_chatters": 6476,
+ "members_confirmed": 1576,
  "member_classes": {
-  "known": 341,
-  "unknown": 1168
+  "known": 350,
+  "unknown": 1216,
+  "gift": 10
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 30
+   "members": 41
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 48
+   "members": 44
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 134
+   "members": 142
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 190
+   "members": 193
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 526
+   "members": 554
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 581
+   "members": 602
   }
  ],
  "events": {
-  "new_members": 5,
+  "new_members": 6,
   "rejoins": 2,
-  "milestones": 97,
-  "gift_purchases": 0,
-  "gifted_total": 0,
-  "gift_redemptions": 0
+  "milestones": 117,
+  "gift_purchases": 1,
+  "gifted_total": 10,
+  "gift_redemptions": 10
  },
  "tiers_configured": true,
  "tiers": [
@@ -64,21 +65,21 @@
    "tier": "おちょまだち",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 341,
+   "confirmed_members": 350,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1168.0,
-   "estimated_members": 1509.0,
-   "monthly_net_confirmed": 106330,
-   "monthly_net_estimated": 470534
+   "allocated_unknown": 1216.0,
+   "estimated_members": 1566.0,
+   "monthly_net_confirmed": 109136,
+   "monthly_net_estimated": 488307
   }
  ],
  "revenue": {
-  "monthly_low": 470534,
-  "monthly_est": 470534,
-  "gift_once": 0,
-  "total_low": 470534,
-  "total_est": 470534,
-  "paying_members": 1509,
+  "monthly_low": 488307,
+  "monthly_est": 488307,
+  "gift_once": 3118,
+  "total_low": 491425,
+  "total_est": 491425,
+  "paying_members": 1566,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -226,6 +227,26 @@
    "member_chatters": 325,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "Ed5JC4ioqAQ",
+   "start": "2026-11-11 19:01",
+   "title": "【Dressmaker】けもどれす【ルンルン/にじさんじ】",
+   "kind": "配信",
+   "chatters": 536,
+   "member_chatters": 294,
+   "new_members": 1,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "vbW4CT8Ev2Q",
+   "start": "2026-11-12 06:01",
+   "title": "【朝雑】しあわせ　まんまる【ルンルン/にじさんじ】",
+   "kind": "配信",
+   "chatters": 1281,
+   "member_chatters": 419,
+   "new_members": 0,
+   "gifted_total": 10
   }
  ],
  "missed_streams": [],
@@ -363,21 +384,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-11"
+    "to": "2026-11-12"
    },
-   "streams_analyzed": 7,
+   "streams_analyzed": 9,
    "streams_missed": 0,
-   "unique_chatters": 3163,
-   "members_confirmed": 990,
+   "unique_chatters": 4002,
+   "members_confirmed": 1140,
    "member_classes": {
-    "unknown": 733,
-    "known": 257
+    "unknown": 842,
+    "known": 288,
+    "gift": 10
    },
-   "long_term_members": 737,
+   "long_term_members": 847,
    "badges": [
     {
      "months": 0,
-     "members": 15
+     "members": 26
     },
     {
      "months": 1,
@@ -385,41 +407,41 @@
     },
     {
      "months": 2,
-     "members": 95
+     "members": 111
     },
     {
      "months": 6,
-     "members": 129
+     "members": 142
     },
     {
      "months": 12,
-     "members": 337
+     "members": 398
     },
     {
      "months": 24,
-     "members": 400
+     "members": 449
     }
    ],
    "events": {
-    "new_members": 3,
+    "new_members": 4,
     "rejoins": 1,
-    "milestones": 46,
-    "gifted_total": 0
+    "milestones": 66,
+    "gifted_total": 10
    },
    "tiers": [
     {
      "tier": "おちょまだち",
      "price": 490,
-     "confirmed_members": 257,
-     "estimated_members": 990.0
+     "confirmed_members": 288,
+     "estimated_members": 1130.0
     }
    ],
    "revenue": {
-    "monthly_low": 308700,
-    "monthly_est": 308700,
-    "gift_once": 0
+    "monthly_low": 352355,
+    "monthly_est": 352355,
+    "gift_once": 3118
    },
-   "avg_member_chatters": 351.1,
+   "avg_member_chatters": 352.3,
    "partial": true,
    "finalized": false
   }

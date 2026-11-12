@@ -3,16 +3,16 @@
  "channel_id": "UCrhhJPNsOqzNIkUfTABoSpg",
  "handle": "@HaYun",
  "subscribers": 135000,
- "fetched_at": "2026-11-11 10:56",
- "generated_at": "2026-11-11 10:56",
+ "fetched_at": "2026-11-12 12:09",
+ "generated_at": "2026-11-12 12:10",
  "period": {
-  "from": "2026-10-12 10:56",
-  "to": "2026-11-11 10:56",
+  "from": "2026-10-13 12:09",
+  "to": "2026-11-12 12:09",
   "days": 30
  },
- "streams_analyzed": 17,
- "streams_missed": 0,
- "unique_chatters": 711,
+ "streams_analyzed": 16,
+ "streams_missed": 1,
+ "unique_chatters": 708,
  "members_confirmed": 208,
  "member_classes": {
   "known": 37,
@@ -54,7 +54,7 @@
  "events": {
   "new_members": 3,
   "rejoins": 4,
-  "milestones": 27,
+  "milestones": 26,
   "gift_purchases": 15,
   "gifted_total": 100,
   "gift_redemptions": 100
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "6ciAEA6Qdw8",
-   "start": "2026-10-12 20:32",
-   "title": "【APEX】  ランク  ! 【ハユン/にじさんじ】",
-   "kind": "配信",
-   "chatters": 34,
-   "member_chatters": 23,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "UgC_Dj-U_U0",
    "start": "2026-10-19 19:08",
@@ -259,7 +249,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "c1pHfnKuAA0",
+   "start": "2026-11-11 00:00",
+   "title": "【APEX】 ランクです 【ハユン/にじさんじ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 223,
+   "view_count": 6388
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -394,10 +397,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-11"
+    "to": "2026-11-12"
    },
    "streams_analyzed": 7,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 659,
    "members_confirmed": 195,
    "member_classes": {

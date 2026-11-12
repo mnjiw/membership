@@ -3,15 +3,15 @@
  "channel_id": "UChLfthKoUV502J7gU9STArg",
  "handle": "@ShibuyaHAL",
  "subscribers": 902000,
- "fetched_at": "2026-11-12 06:34",
- "generated_at": "2026-11-12 06:35",
+ "fetched_at": "2026-11-12 12:28",
+ "generated_at": "2026-11-12 12:28",
  "period": {
-  "from": "2026-10-13 06:34",
-  "to": "2026-11-12 06:34",
+  "from": "2026-10-13 12:28",
+  "to": "2026-11-12 12:28",
   "days": 30
  },
  "streams_analyzed": 32,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 2024,
  "members_confirmed": 262,
  "member_classes": {
@@ -452,7 +452,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "XFyjPd2b_ts",
+   "start": "2026-11-12 00:00",
+   "title": "【APEX LEGENDS】APEXのバグが発生し、困惑している一ノ瀬うるはに対して声をかけるも辛辣な返答をされる渋ハル【渋谷ハル/白雪レイド/一ノ瀬うるは/ぶいすぽっ！/ネオポルテ/切り抜き】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 38,
+   "view_count": 776
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -613,7 +626,7 @@
     "to": "2026-11-12"
    },
    "streams_analyzed": 15,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 1328,
    "members_confirmed": 201,
    "member_classes": {
