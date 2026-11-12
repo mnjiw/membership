@@ -2,22 +2,22 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-12"
+  "to": "2026-11-13"
  },
- "streams_analyzed": 5,
+ "streams_analyzed": 6,
  "streams_missed": 2,
- "unique_chatters": 2182,
- "members_confirmed": 500,
+ "unique_chatters": 2318,
+ "members_confirmed": 534,
  "member_classes": {
-  "known": 159,
-  "unknown": 256,
-  "gift": 85
+  "known": 161,
+  "unknown": 262,
+  "gift": 111
  },
- "long_term_members": 225,
+ "long_term_members": 227,
  "badges": [
   {
    "months": 0,
-   "members": 144
+   "members": 172
   },
   {
    "months": 1,
@@ -25,15 +25,15 @@
   },
   {
    "months": 2,
-   "members": 56
+   "members": 58
   },
   {
    "months": 6,
-   "members": 54
+   "members": 56
   },
   {
    "months": 12,
-   "members": 97
+   "members": 99
   },
   {
    "months": 24,
@@ -57,25 +57,25 @@
   }
  ],
  "events": {
-  "new_members": 11,
-  "rejoins": 24,
-  "milestones": 40,
-  "gifted_total": 85
+  "new_members": 12,
+  "rejoins": 25,
+  "milestones": 41,
+  "gifted_total": 111
  },
  "tiers": [
   {
    "tier": "Prisuners",
    "price": 490,
-   "confirmed_members": 159,
-   "estimated_members": 415.0
+   "confirmed_members": 161,
+   "estimated_members": 423.0
   }
  ],
  "revenue": {
-  "monthly_low": 129405,
-  "monthly_est": 129405,
-  "gift_once": 26505
+  "monthly_low": 131899,
+  "monthly_est": 131899,
+  "gift_once": 34612
  },
- "avg_member_chatters": 202.8,
+ "avg_member_chatters": 191.3,
  "partial": true,
  "finalized": false
 }

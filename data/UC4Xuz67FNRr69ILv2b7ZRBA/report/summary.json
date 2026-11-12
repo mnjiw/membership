@@ -3,15 +3,15 @@
  "channel_id": "UC4Xuz67FNRr69ILv2b7ZRBA",
  "handle": "@eito_aogiri8",
  "subscribers": 50300,
- "fetched_at": "2026-11-12 12:29",
- "generated_at": "2026-11-12 12:29",
+ "fetched_at": "2026-11-13 06:39",
+ "generated_at": "2026-11-13 06:39",
  "period": {
-  "from": "2026-10-13 12:29",
-  "to": "2026-11-12 12:29",
+  "from": "2026-10-14 06:39",
+  "to": "2026-11-13 06:39",
   "days": 30
  },
  "streams_analyzed": 15,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 225,
  "members_confirmed": 75,
  "member_classes": {
@@ -233,7 +233,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "gG0t6baVlLg",
+   "start": "2026-11-12 00:00",
+   "title": "【VALORANT】強くなるため毎日ランク",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 102,
+   "view_count": 5666
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -351,10 +364,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-12"
+    "to": "2026-11-13"
    },
    "streams_analyzed": 6,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 107,
    "members_confirmed": 43,
    "member_classes": {

@@ -3,19 +3,19 @@
  "channel_id": "UCZYyhgoV314CM14zBD6vd4A",
  "handle": "@tenkaitsukasa",
  "subscribers": 367000,
- "fetched_at": "2026-11-12 12:30",
- "generated_at": "2026-11-12 12:30",
+ "fetched_at": "2026-11-13 06:43",
+ "generated_at": "2026-11-13 06:43",
  "period": {
-  "from": "2026-10-13 12:30",
-  "to": "2026-11-12 12:30",
+  "from": "2026-10-14 06:43",
+  "to": "2026-11-13 06:43",
   "days": 30
  },
- "streams_analyzed": 22,
+ "streams_analyzed": 23,
  "streams_missed": 2,
- "unique_chatters": 2874,
- "members_confirmed": 158,
+ "unique_chatters": 2968,
+ "members_confirmed": 160,
  "member_classes": {
-  "unknown": 158
+  "unknown": 160
  },
  "badges": [
   {
@@ -26,12 +26,12 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 5
+   "members": 4
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 10
+   "members": 11
   },
   {
    "months": 12,
@@ -41,7 +41,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 123
+   "members": 125
   }
  ],
  "events": {
@@ -60,19 +60,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 0,
    "share_of_confirmed_pct": "",
-   "allocated_unknown": 158.0,
-   "estimated_members": 158.0,
+   "allocated_unknown": 160.0,
+   "estimated_members": 160.0,
    "monthly_net_confirmed": 0,
-   "monthly_net_estimated": 49267
+   "monthly_net_estimated": 49891
   }
  ],
  "revenue": {
-  "monthly_low": 49267,
-  "monthly_est": 49267,
+  "monthly_low": 49891,
+  "monthly_est": 49891,
   "gift_once": 0,
-  "total_low": 49267,
-  "total_est": 49267,
-  "paying_members": 158,
+  "total_low": 49891,
+  "total_est": 49891,
+  "paying_members": 160,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -300,6 +300,16 @@
    "member_chatters": 14,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "4tdcb4XoeBQ",
+   "start": "2026-11-12 20:00",
+   "title": "【ONE PIECE 海のごちそうレストラン】ワンピ大好きおじさんがヘボイモおそれ入ります【天開司/Vtuber】",
+   "kind": "配信",
+   "chatters": 240,
+   "member_chatters": 46,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -312,8 +322,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 279,
-   "view_count": 22038
+   "like_count": 285,
+   "view_count": 23573
   },
   {
    "video_id": "Eh439b_seKQ",
@@ -324,8 +334,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 56,
-   "view_count": 486
+   "like_count": 237,
+   "view_count": 18449
   }
  ],
  "members_only_content": [],
@@ -451,16 +461,16 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-12"
+    "to": "2026-11-13"
    },
-   "streams_analyzed": 10,
+   "streams_analyzed": 11,
    "streams_missed": 2,
-   "unique_chatters": 2181,
-   "members_confirmed": 137,
+   "unique_chatters": 2295,
+   "members_confirmed": 141,
    "member_classes": {
-    "unknown": 137
+    "unknown": 141
    },
-   "long_term_members": 117,
+   "long_term_members": 120,
    "badges": [
     {
      "months": 0,
@@ -472,7 +482,7 @@
     },
     {
      "months": 6,
-     "members": 10
+     "members": 11
     },
     {
      "months": 12,
@@ -480,7 +490,7 @@
     },
     {
      "months": 24,
-     "members": 106
+     "members": 109
     }
    ],
    "events": {
@@ -494,15 +504,15 @@
      "tier": "メンバーシップ",
      "price": 490,
      "confirmed_members": 0,
-     "estimated_members": 137.0
+     "estimated_members": 141.0
     }
    ],
    "revenue": {
-    "monthly_low": 42719,
-    "monthly_est": 42719,
+    "monthly_low": 43966,
+    "monthly_est": 43966,
     "gift_once": 0
    },
-   "avg_member_chatters": 45.4,
+   "avg_member_chatters": 45.5,
    "partial": true,
    "finalized": false
   }

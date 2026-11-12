@@ -3,27 +3,27 @@
  "channel_id": "UC9Vq5c7FKEHLstvmSAsogXQ",
  "handle": "@aisaka_siu",
  "subscribers": 68900,
- "fetched_at": "2026-11-12 12:28",
- "generated_at": "2026-11-12 12:28",
+ "fetched_at": "2026-11-13 06:36",
+ "generated_at": "2026-11-13 06:36",
  "period": {
-  "from": "2026-10-13 12:28",
-  "to": "2026-11-12 12:28",
+  "from": "2026-10-14 06:36",
+  "to": "2026-11-13 06:36",
   "days": 30
  },
- "streams_analyzed": 19,
+ "streams_analyzed": 20,
  "streams_missed": 0,
- "unique_chatters": 788,
- "members_confirmed": 111,
+ "unique_chatters": 804,
+ "members_confirmed": 112,
  "member_classes": {
   "unknown": 49,
-  "known": 16,
+  "known": 17,
   "gift": 46
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 47
+   "members": 48
   },
   {
    "months": 1,
@@ -47,9 +47,9 @@
   }
  ],
  "events": {
-  "new_members": 4,
-  "rejoins": 1,
-  "milestones": 6,
+  "new_members": 5,
+  "rejoins": 2,
+  "milestones": 7,
   "gift_purchases": 10,
   "gifted_total": 48,
   "gift_redemptions": 47
@@ -60,21 +60,21 @@
    "tier": "せんぱいぼしうちう",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 16,
+   "confirmed_members": 17,
    "share_of_confirmed_pct": 100.0,
    "allocated_unknown": 49.0,
-   "estimated_members": 65.0,
-   "monthly_net_confirmed": 4989,
-   "monthly_net_estimated": 20268
+   "estimated_members": 66.0,
+   "monthly_net_confirmed": 5301,
+   "monthly_net_estimated": 20580
   }
  ],
  "revenue": {
-  "monthly_low": 20268,
-  "monthly_est": 20268,
+  "monthly_low": 20580,
+  "monthly_est": 20580,
   "gift_once": 14967,
-  "total_low": 35235,
-  "total_est": 35235,
-  "paying_members": 65,
+  "total_low": 35547,
+  "total_est": 35547,
+  "paying_members": 66,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -272,6 +272,16 @@
    "member_chatters": 28,
    "new_members": 0,
    "gifted_total": 1
+  },
+  {
+   "video_id": "oB0Nuzc4Ge8",
+   "start": "2026-11-12 17:06",
+   "title": "【雑談】おかえりなさいませ。あなたの後輩、自宅警備員です。【すぺしゃりて/藍坂しう】",
+   "kind": "配信",
+   "chatters": 95,
+   "member_chatters": 19,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -394,22 +404,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-12"
+    "to": "2026-11-13"
    },
-   "streams_analyzed": 8,
+   "streams_analyzed": 9,
    "streams_missed": 0,
-   "unique_chatters": 304,
-   "members_confirmed": 50,
+   "unique_chatters": 341,
+   "members_confirmed": 51,
    "member_classes": {
     "unknown": 36,
-    "known": 13,
+    "known": 14,
     "gift": 1
    },
    "long_term_members": 21,
    "badges": [
     {
      "months": 0,
-     "members": 11
+     "members": 12
     },
     {
      "months": 1,
@@ -429,25 +439,25 @@
     }
    ],
    "events": {
-    "new_members": 2,
-    "rejoins": 1,
-    "milestones": 4,
+    "new_members": 3,
+    "rejoins": 2,
+    "milestones": 5,
     "gifted_total": 1
    },
    "tiers": [
     {
      "tier": "せんぱいぼしうちう",
      "price": 490,
-     "confirmed_members": 13,
-     "estimated_members": 49.0
+     "confirmed_members": 14,
+     "estimated_members": 50.0
     }
    ],
    "revenue": {
-    "monthly_low": 15279,
-    "monthly_est": 15279,
+    "monthly_low": 15591,
+    "monthly_est": 15591,
     "gift_once": 312
    },
-   "avg_member_chatters": 16.5,
+   "avg_member_chatters": 16.8,
    "partial": true,
    "finalized": false
   }

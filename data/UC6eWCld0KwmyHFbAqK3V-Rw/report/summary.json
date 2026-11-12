@@ -3,27 +3,27 @@
  "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
  "handle": "@HakuiKoyori",
  "subscribers": 1380000,
- "fetched_at": "2026-11-12 12:25",
- "generated_at": "2026-11-12 12:25",
+ "fetched_at": "2026-11-13 06:22",
+ "generated_at": "2026-11-13 06:26",
  "period": {
-  "from": "2026-10-13 12:25",
-  "to": "2026-11-12 12:25",
+  "from": "2026-10-14 06:22",
+  "to": "2026-11-13 06:22",
   "days": 30
  },
  "streams_analyzed": 32,
  "streams_missed": 1,
- "unique_chatters": 24093,
- "members_confirmed": 4240,
+ "unique_chatters": 24336,
+ "members_confirmed": 4263,
  "member_classes": {
-  "unknown": 2722,
-  "known": 885,
-  "gift": 633
+  "unknown": 2741,
+  "known": 888,
+  "gift": 634
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 716
+   "members": 717
   },
   {
    "months": 1,
@@ -33,41 +33,41 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 198
+   "members": 195
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 325
+   "members": 333
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 590
+   "members": 588
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 529
+   "members": 533
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 728
+   "members": 732
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 1073
+   "members": 1084
   }
  ],
  "events": {
-  "new_members": 43,
+  "new_members": 44,
   "rejoins": 49,
-  "milestones": 259,
-  "gift_purchases": 129,
-  "gifted_total": 762,
-  "gift_redemptions": 633
+  "milestones": 263,
+  "gift_purchases": 130,
+  "gifted_total": 763,
+  "gift_redemptions": 634
  },
  "tiers_configured": true,
  "tiers": [
@@ -75,21 +75,21 @@
    "tier": "こよりの研究室",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 885,
+   "confirmed_members": 888,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2722.0,
-   "estimated_members": 3607.0,
-   "monthly_net_confirmed": 275959,
-   "monthly_net_estimated": 1124728
+   "allocated_unknown": 2741.0,
+   "estimated_members": 3629.0,
+   "monthly_net_confirmed": 276895,
+   "monthly_net_estimated": 1131588
   }
  ],
  "revenue": {
-  "monthly_low": 1124728,
-  "monthly_est": 1124728,
-  "gift_once": 237605,
-  "total_low": 1362334,
-  "total_est": 1362334,
-  "paying_members": 3607,
+  "monthly_low": 1131588,
+  "monthly_est": 1131588,
+  "gift_once": 237917,
+  "total_low": 1369505,
+  "total_est": 1369505,
+  "paying_members": 3629,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "9O6d2-LDskY",
-   "start": "2026-10-13 18:01",
-   "title": "【 #ホロドリ 】限界ホロドリ🔥新水着イベントラストスパート！ドリーム級なスコアを目指せ！！！【博衣こより/ホロライブ】",
-   "kind": "配信",
-   "chatters": 1025,
-   "member_chatters": 640,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "d2PZqRobHZ8",
    "start": "2026-10-14 17:59",
@@ -417,6 +407,16 @@
    "member_chatters": 896,
    "new_members": 1,
    "gifted_total": 6
+  },
+  {
+   "video_id": "oGrYP8AILrI",
+   "start": "2026-11-12 18:59",
+   "title": "【気のせいすぎるRPG】すぎるRPGの新作がきたあああああああああああああ気がする。【博衣こより/ホロライブ】",
+   "kind": "配信",
+   "chatters": 2088,
+   "member_chatters": 999,
+   "new_members": 2,
+   "gifted_total": 1
   }
  ],
  "missed_streams": [
@@ -429,7 +429,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 1566,
+   "like_count": 1568,
    "view_count": null
   }
  ],
@@ -441,7 +441,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 1566,
+   "like_count": 1568,
    "view_count": null
   }
  ],
@@ -598,72 +598,72 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-12"
+    "to": "2026-11-13"
    },
-   "streams_analyzed": 11,
+   "streams_analyzed": 12,
    "streams_missed": 0,
-   "unique_chatters": 11541,
-   "members_confirmed": 2746,
+   "unique_chatters": 12065,
+   "members_confirmed": 2824,
    "member_classes": {
-    "unknown": 1947,
-    "known": 717,
-    "gift": 82
+    "unknown": 2011,
+    "known": 730,
+    "gift": 83
    },
-   "long_term_members": 2197,
+   "long_term_members": 2256,
    "badges": [
     {
      "months": 0,
-     "members": 147
+     "members": 152
     },
     {
      "months": 1,
-     "members": 53
+     "members": 54
     },
     {
      "months": 2,
-     "members": 123
+     "members": 124
     },
     {
      "months": 6,
-     "members": 226
+     "members": 238
     },
     {
      "months": 12,
-     "members": 438
+     "members": 442
     },
     {
      "months": 24,
-     "members": 402
+     "members": 420
     },
     {
      "months": 36,
-     "members": 550
+     "members": 568
     },
     {
      "months": 48,
-     "members": 807
+     "members": 826
     }
    ],
    "events": {
-    "new_members": 20,
+    "new_members": 22,
     "rejoins": 24,
-    "milestones": 38,
-    "gifted_total": 159
+    "milestones": 42,
+    "gifted_total": 160
    },
    "tiers": [
     {
      "tier": "こよりの研究室",
      "price": 490,
-     "confirmed_members": 717,
-     "estimated_members": 2664.0
+     "confirmed_members": 730,
+     "estimated_members": 2741.0
     }
    ],
    "revenue": {
-    "monthly_low": 830684,
-    "monthly_est": 830684,
-    "gift_once": 49579
+    "monthly_low": 854694,
+    "monthly_est": 854694,
+    "gift_once": 49891
    },
-   "avg_member_chatters": 923.7,
+   "avg_member_chatters": 930,
    "partial": true,
    "finalized": false
   }

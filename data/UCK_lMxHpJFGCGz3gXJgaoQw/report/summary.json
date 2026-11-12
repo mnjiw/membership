@@ -3,27 +3,27 @@
  "channel_id": "UCK_lMxHpJFGCGz3gXJgaoQw",
  "handle": "@lumi_yukime",
  "subscribers": 27400,
- "fetched_at": "2026-11-12 12:28",
- "generated_at": "2026-11-12 12:28",
+ "fetched_at": "2026-11-13 06:36",
+ "generated_at": "2026-11-13 06:37",
  "period": {
-  "from": "2026-10-13 12:28",
-  "to": "2026-11-12 12:28",
+  "from": "2026-10-14 06:36",
+  "to": "2026-11-13 06:36",
   "days": 30
  },
- "streams_analyzed": 26,
- "streams_missed": 1,
- "unique_chatters": 643,
- "members_confirmed": 288,
+ "streams_analyzed": 25,
+ "streams_missed": 2,
+ "unique_chatters": 639,
+ "members_confirmed": 269,
  "member_classes": {
+  "unknown": 53,
   "known": 10,
-  "unknown": 52,
-  "gift": 226
+  "gift": 206
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 185
+   "members": 166
   },
   {
    "months": 1,
@@ -52,12 +52,12 @@
   }
  ],
  "events": {
-  "new_members": 5,
+  "new_members": 4,
   "rejoins": 0,
   "milestones": 2,
-  "gift_purchases": 24,
-  "gifted_total": 228,
-  "gift_redemptions": 226
+  "gift_purchases": 21,
+  "gifted_total": 208,
+  "gift_redemptions": 206
  },
  "tiers_configured": true,
  "tiers": [
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 10,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 52.0,
-   "estimated_members": 62.0,
+   "allocated_unknown": 53.0,
+   "estimated_members": 63.0,
    "monthly_net_confirmed": 3118,
-   "monthly_net_estimated": 19333
+   "monthly_net_estimated": 19645
   }
  ],
  "revenue": {
-  "monthly_low": 19333,
-  "monthly_est": 19333,
-  "gift_once": 71095,
-  "total_low": 90427,
-  "total_est": 90427,
-  "paying_members": 62,
+  "monthly_low": 19645,
+  "monthly_est": 19645,
+  "gift_once": 64858,
+  "total_low": 84503,
+  "total_est": 84503,
+  "paying_members": 63,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "u9vbcGwX3Ww",
-   "start": "2026-10-13 18:46",
-   "title": "*❅ GTA5 #SURGECity┊˚*.✦ YOUtopia ✦.*˚ DAY5〖 雪芽るみ┊すぺしゃりて 〗",
-   "kind": "配信",
-   "chatters": 42,
-   "member_chatters": 36,
-   "new_members": 1,
-   "gifted_total": 20
-  },
   {
    "video_id": "GdkYcBOyaj0",
    "start": "2026-10-14 18:43",
@@ -359,8 +349,20 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 28,
+   "like_count": 29,
    "view_count": null
+  },
+  {
+   "video_id": "aPE8hMVm61Y",
+   "start": "2026-11-12 00:00",
+   "title": "*❅ 歌枠┊まったりお歌♪🎤 Singing stream〖 雪芽るみ┊すぺしゃりて 〗",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 260,
+   "view_count": 3522
   }
  ],
  "members_only_content": [
@@ -371,7 +373,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 28,
+   "like_count": 29,
    "view_count": null
   },
   {
@@ -381,7 +383,7 @@
    "kind": "video",
    "status": "members_only_video",
    "members_level": "",
-   "like_count": 48,
+   "like_count": 50,
    "view_count": null
   }
  ],
@@ -511,10 +513,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-12"
+    "to": "2026-11-13"
    },
    "streams_analyzed": 10,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 263,
    "members_confirmed": 69,
    "member_classes": {

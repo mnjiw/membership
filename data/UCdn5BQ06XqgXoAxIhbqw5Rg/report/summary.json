@@ -3,86 +3,86 @@
  "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
  "handle": "@ShirakamiFubuki",
  "subscribers": 2690000,
- "fetched_at": "2026-11-12 12:24",
- "generated_at": "2026-11-12 12:24",
+ "fetched_at": "2026-11-13 06:18",
+ "generated_at": "2026-11-13 06:20",
  "period": {
-  "from": "2026-10-13 12:24",
-  "to": "2026-11-12 12:24",
+  "from": "2026-10-14 06:18",
+  "to": "2026-11-13 06:18",
   "days": 30
  },
- "streams_analyzed": 21,
- "streams_missed": 2,
- "unique_chatters": 19099,
- "members_confirmed": 5015,
+ "streams_analyzed": 22,
+ "streams_missed": 3,
+ "unique_chatters": 19453,
+ "members_confirmed": 5086,
  "member_classes": {
-  "unknown": 2929,
-  "known": 1893,
-  "gift": 193
+  "unknown": 2974,
+  "known": 1909,
+  "gift": 203
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 476
+   "members": 490
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 160
+   "members": 167
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 411
+   "members": 414
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 438
+   "members": 444
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 919
+   "members": 925
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 859
+   "members": 870
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 577
+   "members": 588
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 497
+   "members": 503
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 364
+   "members": 367
   },
   {
    "months": 72,
    "label": "6年",
-   "members": 208
+   "members": 210
   },
   {
    "months": 84,
    "label": "7年",
-   "members": 106
+   "members": 108
   }
  ],
  "events": {
-  "new_members": 72,
+  "new_members": 75,
   "rejoins": 58,
-  "milestones": 124,
-  "gift_purchases": 33,
-  "gifted_total": 307,
-  "gift_redemptions": 194
+  "milestones": 128,
+  "gift_purchases": 35,
+  "gifted_total": 337,
+  "gift_redemptions": 204
  },
  "tiers_configured": true,
  "tiers": [
@@ -90,21 +90,21 @@
    "tier": "フブキングダム総会への参加を確認致しました👑",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 1893,
+   "confirmed_members": 1909,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2929.0,
-   "estimated_members": 4822.0,
-   "monthly_net_confirmed": 590272,
-   "monthly_net_estimated": 1503587
+   "allocated_unknown": 2974.0,
+   "estimated_members": 4883.0,
+   "monthly_net_confirmed": 595261,
+   "monthly_net_estimated": 1522608
   }
  ],
  "revenue": {
-  "monthly_low": 1503587,
-  "monthly_est": 1503587,
-  "gift_once": 95728,
-  "total_low": 1599315,
-  "total_est": 1599315,
-  "paying_members": 4822,
+  "monthly_low": 1522608,
+  "monthly_est": 1522608,
+  "gift_once": 105083,
+  "total_low": 1627691,
+  "total_est": 1627691,
+  "paying_members": 4883,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -322,6 +322,16 @@
    "member_chatters": 1661,
    "new_members": 4,
    "gifted_total": 5
+  },
+  {
+   "video_id": "0dla05cbNY8",
+   "start": "2026-11-12 20:08",
+   "title": "【FINAL FANTASY XIV】続✕3!! 極マウント周回で阿鼻叫喚しよう　※ネタバレあり※【ホロライブ/白上フブ/風真いろは】",
+   "kind": "配信",
+   "chatters": 1612,
+   "member_chatters": 873,
+   "new_members": 3,
+   "gifted_total": 30
   }
  ],
  "missed_streams": [
@@ -348,6 +358,18 @@
    "members_level": "フブキングダム総会への参加を確認致しました👑",
    "like_count": 2764,
    "view_count": null
+  },
+  {
+   "video_id": "cNoh00Q44b8",
+   "start": "2026-11-12 00:00",
+   "title": "【3D LIVE】Kamuragiku / Instrumental Ver.【hololive / Shirakami Fubuki / Nakiri Ayame / Ookami Mio】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 3186,
+   "view_count": 59672
   }
  ],
  "members_only_content": [
@@ -539,84 +561,84 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-12"
+    "to": "2026-11-13"
    },
-   "streams_analyzed": 5,
-   "streams_missed": 0,
-   "unique_chatters": 6001,
-   "members_confirmed": 2628,
+   "streams_analyzed": 6,
+   "streams_missed": 1,
+   "unique_chatters": 6652,
+   "members_confirmed": 2767,
    "member_classes": {
-    "unknown": 1445,
-    "known": 1166,
-    "gift": 17
+    "unknown": 1535,
+    "known": 1205,
+    "gift": 27
    },
-   "long_term_members": 1971,
+   "long_term_members": 2063,
    "badges": [
     {
      "months": 0,
-     "members": 112
+     "members": 131
     },
     {
      "months": 1,
-     "members": 101
+     "members": 109
     },
     {
      "months": 2,
-     "members": 211
+     "members": 220
     },
     {
      "months": 6,
-     "members": 233
+     "members": 244
     },
     {
      "months": 12,
-     "members": 491
+     "members": 507
     },
     {
      "months": 24,
-     "members": 485
+     "members": 506
     },
     {
      "months": 36,
-     "members": 336
+     "members": 360
     },
     {
      "months": 48,
-     "members": 282
+     "members": 296
     },
     {
      "months": 60,
-     "members": 189
+     "members": 199
     },
     {
      "months": 72,
-     "members": 122
+     "members": 126
     },
     {
      "months": 84,
-     "members": 66
+     "members": 69
     }
    ],
    "events": {
-    "new_members": 24,
+    "new_members": 27,
     "rejoins": 16,
-    "milestones": 42,
-    "gifted_total": 23
+    "milestones": 46,
+    "gifted_total": 53
    },
    "tiers": [
     {
      "tier": "フブキングダム総会への参加を確認致しました👑",
      "price": 490,
-     "confirmed_members": 1166,
-     "estimated_members": 2611.0
+     "confirmed_members": 1205,
+     "estimated_members": 2740.0
     }
    ],
    "revenue": {
-    "monthly_low": 814157,
-    "monthly_est": 814157,
-    "gift_once": 7172
+    "monthly_low": 854382,
+    "monthly_est": 854382,
+    "gift_once": 16526
    },
-   "avg_member_chatters": 1189,
+   "avg_member_chatters": 1136.3,
    "partial": true,
    "finalized": false
   }

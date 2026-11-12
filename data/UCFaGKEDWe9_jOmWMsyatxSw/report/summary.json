@@ -3,16 +3,16 @@
  "channel_id": "UCFaGKEDWe9_jOmWMsyatxSw",
  "handle": "@MukuroOwarino",
  "subscribers": 34400,
- "fetched_at": "2026-11-12 12:28",
- "generated_at": "2026-11-12 12:28",
+ "fetched_at": "2026-11-13 06:36",
+ "generated_at": "2026-11-13 06:36",
  "period": {
-  "from": "2026-10-13 12:28",
-  "to": "2026-11-12 12:28",
+  "from": "2026-10-14 06:36",
+  "to": "2026-11-13 06:36",
   "days": 30
  },
  "streams_analyzed": 25,
  "streams_missed": 1,
- "unique_chatters": 840,
+ "unique_chatters": 832,
  "members_confirmed": 199,
  "member_classes": {
   "unknown": 134,
@@ -52,7 +52,7 @@
   }
  ],
  "events": {
-  "new_members": 5,
+  "new_members": 4,
   "rejoins": 1,
   "milestones": 5,
   "gift_purchases": 12,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "Ejga_Ds6ZWI",
-   "start": "2026-10-13 18:58",
-   "title": "♰ #SURGECity ♰ 緑ギャングとして今日も頑張るぞ♩4日目いくぞー！【 #終末むくろ / #すぺしゃりて 】",
-   "kind": "配信",
-   "chatters": 67,
-   "member_chatters": 33,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "U_P2NZVD3qU",
    "start": "2026-10-14 19:00",
@@ -337,6 +327,16 @@
    "member_chatters": 28,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "Nwop-qkqJDk",
+   "start": "2026-11-12 20:58",
+   "title": "♰ Finals Week ♰ あやぴか打ち上げ！みんなで協力してカンニングしろ！？【 #終末むくろ / #すぺしゃりて 】",
+   "kind": "配信",
+   "chatters": 52,
+   "member_chatters": 34,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -487,11 +487,11 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-12"
+    "to": "2026-11-13"
    },
-   "streams_analyzed": 12,
+   "streams_analyzed": 13,
    "streams_missed": 0,
-   "unique_chatters": 545,
+   "unique_chatters": 546,
    "members_confirmed": 163,
    "member_classes": {
     "unknown": 115,
@@ -544,7 +544,7 @@
     "monthly_est": 39289,
     "gift_once": 47085
    },
-   "avg_member_chatters": 46.5,
+   "avg_member_chatters": 45.5,
    "partial": true,
    "finalized": false
   }

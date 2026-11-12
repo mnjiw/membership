@@ -3,15 +3,15 @@
  "channel_id": "UCLS28fzx6TqoccWmjzrG2YA",
  "handle": "@amemochinina",
  "subscribers": 106000,
- "fetched_at": "2026-11-12 12:29",
- "generated_at": "2026-11-12 12:29",
+ "fetched_at": "2026-11-13 06:41",
+ "generated_at": "2026-11-13 06:41",
  "period": {
-  "from": "2026-10-13 12:29",
-  "to": "2026-11-12 12:29",
+  "from": "2026-10-14 06:41",
+  "to": "2026-11-13 06:41",
   "days": 30
  },
  "streams_analyzed": 23,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 1639,
  "members_confirmed": 1151,
  "member_classes": {
@@ -352,8 +352,32 @@
    "gifted_total": 1
   }
  ],
- "missed_streams": [],
- "members_only_content": [],
+ "missed_streams": [
+  {
+   "video_id": "HmBngD9DLyA",
+   "start": "2026-11-12 22:02",
+   "title": "￤メンバー限定ASMR￤寒くなったしいっしょに添い寝したい♡【飴望にぃな/ Varium】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 275,
+   "view_count": null
+  }
+ ],
+ "members_only_content": [
+  {
+   "video_id": "HmBngD9DLyA",
+   "start": "2026-11-12 22:02",
+   "title": "￤メンバー限定ASMR￤寒くなったしいっしょに添い寝したい♡【飴望にぃな/ Varium】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 275,
+   "view_count": null
+  }
+ ],
  "history": [
   {
    "month": "2026-09",
@@ -498,10 +522,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-12"
+    "to": "2026-11-13"
    },
    "streams_analyzed": 9,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 1025,
    "members_confirmed": 356,
    "member_classes": {

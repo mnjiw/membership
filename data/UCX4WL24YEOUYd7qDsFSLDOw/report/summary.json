@@ -3,61 +3,61 @@
  "channel_id": "UCX4WL24YEOUYd7qDsFSLDOw",
  "handle": "@YanoKuromu",
  "subscribers": 630000,
- "fetched_at": "2026-11-12 12:27",
- "generated_at": "2026-11-12 12:27",
+ "fetched_at": "2026-11-13 06:34",
+ "generated_at": "2026-11-13 06:34",
  "period": {
-  "from": "2026-10-13 12:27",
-  "to": "2026-11-12 12:27",
+  "from": "2026-10-14 06:34",
+  "to": "2026-11-13 06:34",
   "days": 30
  },
- "streams_analyzed": 14,
+ "streams_analyzed": 13,
  "streams_missed": 4,
- "unique_chatters": 4499,
- "members_confirmed": 1206,
+ "unique_chatters": 3880,
+ "members_confirmed": 1100,
  "member_classes": {
-  "known": 320,
-  "unknown": 874,
-  "gift": 12
+  "known": 292,
+  "unknown": 807,
+  "gift": 1
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 131
+   "members": 102
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 80
+   "members": 67
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 269
+   "members": 244
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 326
+   "members": 304
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 182
+   "members": 175
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 218
+   "members": 208
   }
  ],
  "events": {
-  "new_members": 33,
-  "rejoins": 16,
-  "milestones": 136,
-  "gift_purchases": 3,
-  "gifted_total": 12,
-  "gift_redemptions": 12
+  "new_members": 25,
+  "rejoins": 15,
+  "milestones": 98,
+  "gift_purchases": 1,
+  "gifted_total": 1,
+  "gift_redemptions": 1
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +65,21 @@
    "tier": "ほね組",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 320,
+   "confirmed_members": 292,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 874.0,
-   "estimated_members": 1194.0,
-   "monthly_net_confirmed": 99782,
-   "monthly_net_estimated": 372311
+   "allocated_unknown": 807.0,
+   "estimated_members": 1099.0,
+   "monthly_net_confirmed": 91051,
+   "monthly_net_estimated": 342688
   }
  ],
  "revenue": {
-  "monthly_low": 372311,
-  "monthly_est": 372311,
-  "gift_once": 3742,
-  "total_low": 376053,
-  "total_est": 376053,
-  "paying_members": 1194,
+  "monthly_low": 342688,
+  "monthly_est": 342688,
+  "gift_once": 312,
+  "total_low": 343000,
+  "total_est": 343000,
+  "paying_members": 1099,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "-HUd58ZJrvs",
-   "start": "2026-10-13 18:53",
-   "title": "🐸10月の美容トーク🐸",
-   "kind": "配信",
-   "chatters": 1009,
-   "member_chatters": 347,
-   "new_members": 8,
-   "gifted_total": 11
-  },
   {
    "video_id": "-Xt4R3KCPyY",
    "start": "2026-10-16 13:58",
@@ -263,7 +253,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "ほね組",
-   "like_count": 247,
+   "like_count": 248,
    "view_count": null
   },
   {
@@ -275,7 +265,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "ほね組",
-   "like_count": 229,
+   "like_count": 237,
    "view_count": null
   }
  ],
@@ -307,7 +297,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "ほね組",
-   "like_count": 247,
+   "like_count": 248,
    "view_count": null
   },
   {
@@ -317,7 +307,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "ほね組",
-   "like_count": 229,
+   "like_count": 237,
    "view_count": null
   }
  ],
@@ -447,7 +437,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-12"
+    "to": "2026-11-13"
    },
    "streams_analyzed": 5,
    "streams_missed": 2,

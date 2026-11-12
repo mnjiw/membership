@@ -3,37 +3,37 @@
  "channel_id": "UCj63OWl-HQ-I6ORzUWF1EDg",
  "handle": "@NijipukaNuhu",
  "subscribers": 430000,
- "fetched_at": "2026-11-12 12:29",
- "generated_at": "2026-11-12 12:29",
+ "fetched_at": "2026-11-13 06:40",
+ "generated_at": "2026-11-13 06:41",
  "period": {
-  "from": "2026-10-13 12:29",
-  "to": "2026-11-12 12:29",
+  "from": "2026-10-14 06:40",
+  "to": "2026-11-13 06:40",
   "days": 30
  },
- "streams_analyzed": 10,
+ "streams_analyzed": 12,
  "streams_missed": 2,
- "unique_chatters": 1201,
- "members_confirmed": 176,
+ "unique_chatters": 1336,
+ "members_confirmed": 177,
  "member_classes": {
   "known": 19,
   "unknown": 138,
-  "gift": 19
+  "gift": 20
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 38
+   "members": 39
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 17
+   "members": 15
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 55
+   "members": 57
   },
   {
    "months": 6,
@@ -55,9 +55,9 @@
   "new_members": 11,
   "rejoins": 4,
   "milestones": 0,
-  "gift_purchases": 11,
-  "gifted_total": 19,
-  "gift_redemptions": 19
+  "gift_purchases": 12,
+  "gifted_total": 20,
+  "gift_redemptions": 20
  },
  "tiers_configured": true,
  "tiers": [
@@ -76,9 +76,9 @@
  "revenue": {
   "monthly_low": 48955,
   "monthly_est": 48955,
-  "gift_once": 5925,
-  "total_low": 54880,
-  "total_est": 54880,
+  "gift_once": 6236,
+  "total_low": 55192,
+  "total_est": 55192,
   "paying_members": 157,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -185,6 +185,26 @@
    "kind": "配信",
    "chatters": 69,
    "member_chatters": 30,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "r9nFT4An-Yk",
+   "start": "2026-11-12 18:09",
+   "title": "【お絵描き雑談】今日もショート作るよどこまでも【虹深°ぬふ/ミリプロ】",
+   "kind": "配信",
+   "chatters": 285,
+   "member_chatters": 50,
+   "new_members": 0,
+   "gifted_total": 1
+  },
+  {
+   "video_id": "uWQFplpFYww",
+   "start": "2026-11-12 21:02",
+   "title": "【Goose Goose Duck】いっぱい人がいるぜ🔥",
+   "kind": "配信",
+   "chatters": 92,
+   "member_chatters": 37,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -363,30 +383,30 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-12"
+    "to": "2026-11-13"
    },
-   "streams_analyzed": 7,
+   "streams_analyzed": 9,
    "streams_missed": 1,
-   "unique_chatters": 902,
-   "members_confirmed": 137,
+   "unique_chatters": 1049,
+   "members_confirmed": 140,
    "member_classes": {
-    "unknown": 112,
+    "unknown": 114,
     "known": 16,
-    "gift": 9
+    "gift": 10
    },
    "long_term_members": 30,
    "badges": [
     {
      "months": 0,
-     "members": 26
+     "members": 28
     },
     {
      "months": 1,
-     "members": 13
+     "members": 11
     },
     {
      "months": 2,
-     "members": 41
+     "members": 44
     },
     {
      "months": 6,
@@ -405,22 +425,22 @@
     "new_members": 8,
     "rejoins": 2,
     "milestones": 0,
-    "gifted_total": 9
+    "gifted_total": 10
    },
    "tiers": [
     {
      "tier": "ぬふぃーず",
      "price": 490,
      "confirmed_members": 16,
-     "estimated_members": 128.0
+     "estimated_members": 130.0
     }
    ],
    "revenue": {
-    "monthly_low": 39913,
-    "monthly_est": 39913,
-    "gift_once": 2806
+    "monthly_low": 40536,
+    "monthly_est": 40536,
+    "gift_once": 3118
    },
-   "avg_member_chatters": 56.1,
+   "avg_member_chatters": 53.3,
    "partial": true,
    "finalized": false
   }

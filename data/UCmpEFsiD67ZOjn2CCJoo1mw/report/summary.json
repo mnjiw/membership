@@ -3,27 +3,27 @@
  "channel_id": "UCmpEFsiD67ZOjn2CCJoo1mw",
  "handle": "@kugaleo_Q",
  "subscribers": 92200,
- "fetched_at": "2026-11-12 12:28",
- "generated_at": "2026-11-12 12:28",
+ "fetched_at": "2026-11-13 06:39",
+ "generated_at": "2026-11-13 06:39",
  "period": {
-  "from": "2026-10-13 12:28",
-  "to": "2026-11-12 12:28",
+  "from": "2026-10-14 06:39",
+  "to": "2026-11-13 06:39",
   "days": 30
  },
- "streams_analyzed": 12,
+ "streams_analyzed": 13,
  "streams_missed": 0,
- "unique_chatters": 978,
- "members_confirmed": 320,
+ "unique_chatters": 1033,
+ "members_confirmed": 321,
  "member_classes": {
-  "unknown": 97,
-  "known": 66,
+  "unknown": 96,
+  "known": 68,
   "gift": 157
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 155
+   "members": 156
   },
   {
    "months": 1,
@@ -58,8 +58,8 @@
  ],
  "events": {
   "new_members": 3,
-  "rejoins": 3,
-  "milestones": 40,
+  "rejoins": 4,
+  "milestones": 41,
   "gift_purchases": 14,
   "gifted_total": 161,
   "gift_redemptions": 161
@@ -70,32 +70,32 @@
    "tier": "久我ゼミ",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 57,
-   "share_of_confirmed_pct": 86.4,
-   "allocated_unknown": 83.8,
-   "estimated_members": 140.8,
-   "monthly_net_confirmed": 25028,
-   "monthly_net_estimated": 61812
+   "confirmed_members": 59,
+   "share_of_confirmed_pct": 86.8,
+   "allocated_unknown": 83.3,
+   "estimated_members": 142.3,
+   "monthly_net_confirmed": 25906,
+   "monthly_net_estimated": 62480
   },
   {
    "tier": "久我ゼミ放課後",
    "price": 1190,
    "net_per_member": 757.3,
    "confirmed_members": 9,
-   "share_of_confirmed_pct": 13.6,
-   "allocated_unknown": 13.2,
-   "estimated_members": 22.2,
+   "share_of_confirmed_pct": 13.2,
+   "allocated_unknown": 12.7,
+   "estimated_members": 21.7,
    "monthly_net_confirmed": 6815,
-   "monthly_net_estimated": 16832
+   "monthly_net_estimated": 16437
   }
  ],
  "revenue": {
-  "monthly_low": 74435,
-  "monthly_est": 78644,
+  "monthly_low": 74875,
+  "monthly_est": 78917,
   "gift_once": 70694,
-  "total_low": 145129,
-  "total_est": 149338,
-  "paying_members": 163,
+  "total_low": 145568,
+  "total_est": 149611,
+  "paying_members": 164,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -221,6 +221,16 @@
    "kind": "配信",
    "chatters": 290,
    "member_chatters": 58,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "L6wZyAaxQfg",
+   "start": "2026-11-12 08:20",
+   "title": "【#DISTRICTV2】 #9 |  No. 1 GANG PINKY PROMISES!🪾 #PPRISEUP 【Leo Kuga / Neo-Porte】",
+   "kind": "配信",
+   "chatters": 246,
+   "member_chatters": 63,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -367,22 +377,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-12"
+    "to": "2026-11-13"
    },
-   "streams_analyzed": 10,
+   "streams_analyzed": 11,
    "streams_missed": 0,
-   "unique_chatters": 840,
-   "members_confirmed": 222,
+   "unique_chatters": 897,
+   "members_confirmed": 223,
    "member_classes": {
-    "known": 62,
-    "unknown": 83,
+    "known": 64,
+    "unknown": 82,
     "gift": 77
    },
    "long_term_members": 76,
    "badges": [
     {
      "months": 0,
-     "members": 79
+     "members": 80
     },
     {
      "months": 1,
@@ -411,30 +421,30 @@
    ],
    "events": {
     "new_members": 3,
-    "rejoins": 3,
-    "milestones": 25,
+    "rejoins": 4,
+    "milestones": 26,
     "gifted_total": 80
    },
    "tiers": [
     {
      "tier": "久我ゼミ",
      "price": 690,
-     "confirmed_members": 53,
-     "estimated_members": 124.0
+     "confirmed_members": 55,
+     "estimated_members": 125.5
     },
     {
      "tier": "久我ゼミ放課後",
      "price": 1190,
      "confirmed_members": 9,
-     "estimated_members": 21.0
+     "estimated_members": 20.5
     }
    ],
    "revenue": {
-    "monthly_low": 66532,
-    "monthly_est": 70365,
+    "monthly_low": 66971,
+    "monthly_est": 70640,
     "gift_once": 35127
    },
-   "avg_member_chatters": 76.8,
+   "avg_member_chatters": 75.5,
    "partial": true,
    "finalized": false
   }

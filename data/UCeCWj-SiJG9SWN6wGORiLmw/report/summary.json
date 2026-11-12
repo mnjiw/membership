@@ -3,15 +3,15 @@
  "channel_id": "UCeCWj-SiJG9SWN6wGORiLmw",
  "handle": "@jirajisaki",
  "subscribers": 66600,
- "fetched_at": "2026-11-12 12:27",
- "generated_at": "2026-11-12 12:27",
+ "fetched_at": "2026-11-13 06:35",
+ "generated_at": "2026-11-13 06:35",
  "period": {
-  "from": "2026-10-13 12:27",
-  "to": "2026-11-12 12:27",
+  "from": "2026-10-14 06:35",
+  "to": "2026-11-13 06:35",
   "days": 30
  },
  "streams_analyzed": 13,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 350,
  "members_confirmed": 106,
  "member_classes": {
@@ -219,8 +219,32 @@
    "gifted_total": 2
   }
  ],
- "missed_streams": [],
- "members_only_content": [],
+ "missed_streams": [
+  {
+   "video_id": "hRftScWJgBs",
+   "start": "2026-11-12 11:06",
+   "title": "【Members】Marvel's Daredevil Born Again: ep. 1 - 3【#VSPOEN #JiraJisaki】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 15,
+   "view_count": null
+  }
+ ],
+ "members_only_content": [
+  {
+   "video_id": "hRftScWJgBs",
+   "start": "2026-11-12 11:06",
+   "title": "【Members】Marvel's Daredevil Born Again: ep. 1 - 3【#VSPOEN #JiraJisaki】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 15,
+   "view_count": null
+  }
+ ],
  "history": [
   {
    "month": "2026-09",
@@ -347,10 +371,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-12"
+    "to": "2026-11-13"
    },
    "streams_analyzed": 6,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 252,
    "members_confirmed": 90,
    "member_classes": {

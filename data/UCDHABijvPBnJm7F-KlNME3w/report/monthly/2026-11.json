@@ -2,22 +2,22 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-12"
+  "to": "2026-11-13"
  },
- "streams_analyzed": 9,
+ "streams_analyzed": 10,
  "streams_missed": 1,
- "unique_chatters": 11482,
- "members_confirmed": 1745,
+ "unique_chatters": 12590,
+ "members_confirmed": 1911,
  "member_classes": {
-  "known": 500,
-  "unknown": 1224,
+  "known": 550,
+  "unknown": 1340,
   "gift": 21
  },
- "long_term_members": 1215,
+ "long_term_members": 1335,
  "badges": [
   {
    "months": 0,
-   "members": 111
+   "members": 123
   },
   {
    "months": 1,
@@ -25,53 +25,53 @@
   },
   {
    "months": 2,
-   "members": 172
+   "members": 191
   },
   {
    "months": 6,
-   "members": 164
+   "members": 179
   },
   {
    "months": 12,
-   "members": 689
+   "members": 765
   },
   {
    "months": 24,
-   "members": 526
+   "members": 570
   }
  ],
  "events": {
-  "new_members": 12,
-  "rejoins": 10,
-  "milestones": 100,
+  "new_members": 14,
+  "rejoins": 12,
+  "milestones": 132,
   "gifted_total": 30
  },
  "tiers": [
   {
    "tier": "gregg",
    "price": 390,
-   "confirmed_members": 59,
-   "estimated_members": 203.4
+   "confirmed_members": 67,
+   "estimated_members": 230.2
   },
   {
    "tier": "grem",
    "price": 690,
-   "confirmed_members": 422,
-   "estimated_members": 1455.1
+   "confirmed_members": 463,
+   "estimated_members": 1591.0
   },
   {
    "tier": "gigremurins",
    "price": 1990,
-   "confirmed_members": 19,
-   "estimated_members": 65.5
+   "confirmed_members": 20,
+   "estimated_members": 68.7
   }
  ],
  "revenue": {
-  "monthly_low": 527775,
-  "monthly_est": 772352,
+  "monthly_low": 577818,
+  "monthly_est": 842784,
   "gift_once": 7445
  },
- "avg_member_chatters": 528,
+ "avg_member_chatters": 551.1,
  "partial": true,
  "finalized": false
 }

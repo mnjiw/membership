@@ -3,19 +3,19 @@
  "channel_id": "UCP03XuewcMC2DaSFDJhqJmA",
  "handle": "@HanamaeHaru",
  "subscribers": 45500,
- "fetched_at": "2026-11-12 12:30",
- "generated_at": "2026-11-12 12:30",
+ "fetched_at": "2026-11-13 06:43",
+ "generated_at": "2026-11-13 06:43",
  "period": {
-  "from": "2026-10-13 12:30",
-  "to": "2026-11-12 12:30",
+  "from": "2026-10-14 06:43",
+  "to": "2026-11-13 06:43",
   "days": 30
  },
  "streams_analyzed": 24,
  "streams_missed": 4,
- "unique_chatters": 1082,
- "members_confirmed": 193,
+ "unique_chatters": 1065,
+ "members_confirmed": 192,
  "member_classes": {
-  "unknown": 111,
+  "unknown": 110,
   "known": 38,
   "gift": 44
  },
@@ -28,7 +28,7 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 15
+   "members": 14
   },
   {
    "months": 2,
@@ -52,10 +52,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 34,
    "share_of_confirmed_pct": 89.5,
-   "allocated_unknown": 99.3,
-   "estimated_members": 133.3,
+   "allocated_unknown": 98.4,
+   "estimated_members": 132.4,
    "monthly_net_confirmed": 10602,
-   "monthly_net_estimated": 41570
+   "monthly_net_estimated": 41291
   },
   {
    "tier": "870Hz",
@@ -63,19 +63,19 @@
    "net_per_member": 820.9,
    "confirmed_members": 4,
    "share_of_confirmed_pct": 10.5,
-   "allocated_unknown": 11.7,
-   "estimated_members": 15.7,
+   "allocated_unknown": 11.6,
+   "estimated_members": 15.6,
    "monthly_net_confirmed": 3284,
-   "monthly_net_estimated": 12875
+   "monthly_net_estimated": 12789
   }
  ],
  "revenue": {
-  "monthly_low": 48497,
-  "monthly_est": 54446,
+  "monthly_low": 48185,
+  "monthly_est": 54080,
   "gift_once": 13720,
-  "total_low": 62217,
-  "total_est": 68166,
-  "paying_members": 149,
+  "total_low": 61905,
+  "total_est": 67800,
+  "paying_members": 148,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -84,16 +84,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "EEojOwbiafE",
-   "start": "2026-10-13 18:01",
-   "title": "【 STREET FIGHTER 6 】エレジュンとプラチナ目指す【花前ハル/REJECT】",
-   "kind": "配信",
-   "chatters": 125,
-   "member_chatters": 36,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "2aV1tWtrOjU",
    "start": "2026-10-15 18:00",
@@ -323,6 +313,16 @@
    "member_chatters": 36,
    "new_members": 1,
    "gifted_total": 1
+  },
+  {
+   "video_id": "jgQ5gNe75_o",
+   "start": "2026-11-11 19:00",
+   "title": "【Minecraft】Hardcore Revenge with Haru, Rira, and Tia❗️✨️【Haru Hanasaki / Rira Kokuyo / Tia Heiyoi...",
+   "kind": "配信",
+   "chatters": 33,
+   "member_chatters": 22,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -363,16 +363,16 @@
    "view_count": null
   },
   {
-   "video_id": "jgQ5gNe75_o",
-   "start": "2026-11-11 00:00",
-   "title": "【Minecraft】ハルリラティアにめでハードコアリベンジ❗️✨️【花前ハル/黒燿リラ/蛇宵ティア/佐藤あにめ】",
+   "video_id": "5SWgw6C8UBE",
+   "start": "2026-11-12 00:00",
+   "title": "【ゼルダの伝説 時のオカリナ】完全初見❗️賢者を探し求めて#3【花前ハル/REJECT】",
    "kind": "video",
    "status": "error",
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 333,
-   "view_count": 4693
+   "like_count": 587,
+   "view_count": 10417
   }
  ],
  "members_only_content": [
@@ -515,11 +515,11 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-12"
+    "to": "2026-11-13"
    },
-   "streams_analyzed": 11,
+   "streams_analyzed": 12,
    "streams_missed": 2,
-   "unique_chatters": 602,
+   "unique_chatters": 603,
    "members_confirmed": 143,
    "member_classes": {
     "unknown": 88,
@@ -566,7 +566,7 @@
     "monthly_est": 41236,
     "gift_once": 7172
    },
-   "avg_member_chatters": 43.6,
+   "avg_member_chatters": 41.8,
    "partial": true,
    "finalized": false
   }

@@ -3,27 +3,27 @@
  "channel_id": "UCsABPC_SPKUaf7BkZGs4wbQ",
  "handle": "@KanaeVCriminologist",
  "subscribers": 405000,
- "fetched_at": "2026-11-12 12:30",
- "generated_at": "2026-11-12 12:30",
+ "fetched_at": "2026-11-13 06:43",
+ "generated_at": "2026-11-13 06:45",
  "period": {
-  "from": "2026-10-13 12:30",
-  "to": "2026-11-12 12:30",
+  "from": "2026-10-14 06:43",
+  "to": "2026-11-13 06:43",
   "days": 30
  },
- "streams_analyzed": 38,
- "streams_missed": 7,
- "unique_chatters": 8385,
- "members_confirmed": 1852,
+ "streams_analyzed": 39,
+ "streams_missed": 6,
+ "unique_chatters": 8677,
+ "members_confirmed": 1895,
  "member_classes": {
-  "unknown": 1774,
-  "known": 45,
-  "gift": 33
+  "unknown": 1810,
+  "known": 47,
+  "gift": 38
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 80
+   "members": 89
   },
   {
    "months": 1,
@@ -33,31 +33,31 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 161
+   "members": 165
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 311
+   "members": 320
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 884
+   "members": 895
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 383
+   "members": 393
   }
  ],
  "events": {
-  "new_members": 23,
+  "new_members": 25,
   "rejoins": 15,
   "milestones": 0,
-  "gift_purchases": 8,
-  "gifted_total": 33,
-  "gift_redemptions": 33
+  "gift_purchases": 9,
+  "gifted_total": 38,
+  "gift_redemptions": 38
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,43 +65,43 @@
    "tier": "Youtubeプレミアプラン【先生の生活観察】",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 27,
-   "share_of_confirmed_pct": 60.0,
-   "allocated_unknown": 1064.4,
-   "estimated_members": 1091.4,
-   "monthly_net_confirmed": 8419,
-   "monthly_net_estimated": 340318
+   "confirmed_members": 29,
+   "share_of_confirmed_pct": 61.7,
+   "allocated_unknown": 1116.8,
+   "estimated_members": 1145.8,
+   "monthly_net_confirmed": 9043,
+   "monthly_net_estimated": 357284
   },
   {
    "tier": "Barプラン【削除危機の動画＆豪華無料特典】",
    "price": 790,
    "net_per_member": 502.7,
    "confirmed_members": 16,
-   "share_of_confirmed_pct": 35.6,
-   "allocated_unknown": 630.8,
-   "estimated_members": 646.8,
+   "share_of_confirmed_pct": 34.0,
+   "allocated_unknown": 616.2,
+   "estimated_members": 632.2,
    "monthly_net_confirmed": 8044,
-   "monthly_net_estimated": 325142
+   "monthly_net_estimated": 317809
   },
   {
    "tier": "やれるものならやってみろ（石油王プラン）",
    "price": 14000,
    "net_per_member": 8909.1,
    "confirmed_members": 2,
-   "share_of_confirmed_pct": 4.4,
-   "allocated_unknown": 78.8,
-   "estimated_members": 80.8,
+   "share_of_confirmed_pct": 4.3,
+   "allocated_unknown": 77.0,
+   "estimated_members": 79.0,
    "monthly_net_confirmed": 17818,
-   "monthly_net_estimated": 720251
+   "monthly_net_estimated": 704008
   }
  ],
  "revenue": {
-  "monthly_low": 587446,
-  "monthly_est": 1385711,
-  "gift_once": 10290,
-  "total_low": 597736,
-  "total_est": 1396001,
-  "paying_members": 1819,
+  "monthly_low": 599295,
+  "monthly_est": 1379101,
+  "gift_once": 11849,
+  "total_low": 611145,
+  "total_est": 1390950,
+  "paying_members": 1857,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -489,21 +489,19 @@
    "member_chatters": 261,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "G3KWRNFcxZY",
+   "start": "2026-11-12 22:00",
+   "title": "【鳥取フードフェス】5万人来場予定が500人⁉…主催逃亡や未入金などのトラブルに注意喚起します【かなえ先生の雑談】",
+   "kind": "配信",
+   "chatters": 1333,
+   "member_chatters": 442,
+   "new_members": 2,
+   "gifted_total": 5
   }
  ],
  "missed_streams": [
-  {
-   "video_id": "1pL3oZ6GRIA",
-   "start": "2026-10-13 22:00",
-   "title": "【メン限】リアルイベントお疲れ様でしたとバタバタの裏側【かなえ先生】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "Youtubeプレミアプラン【先生の生活観察】",
-   "like_count": 741,
-   "view_count": null
-  },
   {
    "video_id": "WjwFqNlCRTU",
    "start": "2026-10-20 22:00",
@@ -525,7 +523,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "Youtubeプレミアプラン【先生の生活観察】",
-   "like_count": 751,
+   "like_count": 753,
    "view_count": null
   },
   {
@@ -537,7 +535,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "Youtubeプレミアプラン【先生の生活観察】",
-   "like_count": 759,
+   "like_count": 760,
    "view_count": null
   },
   {
@@ -549,7 +547,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "Youtubeプレミアプラン【先生の生活観察】",
-   "like_count": 650,
+   "like_count": 652,
    "view_count": null
   },
   {
@@ -573,22 +571,12 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "Youtubeプレミアプラン【先生の生活観察】",
-   "like_count": 535,
+   "like_count": 555,
    "view_count": null
   }
  ],
  "members_only_content": [
   {
-   "video_id": "1pL3oZ6GRIA",
-   "start": "2026-10-13 22:00",
-   "title": "【メン限】リアルイベントお疲れ様でしたとバタバタの裏側【かなえ先生】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "Youtubeプレミアプラン【先生の生活観察】",
-   "like_count": 741,
-   "view_count": null
-  },
-  {
    "video_id": "WjwFqNlCRTU",
    "start": "2026-10-20 22:00",
    "title": "【メン限】コラボとパリはなぜ燃えているのか【かなえ先生】",
@@ -605,7 +593,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "Youtubeプレミアプラン【先生の生活観察】",
-   "like_count": 751,
+   "like_count": 753,
    "view_count": null
   },
   {
@@ -615,7 +603,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "Youtubeプレミアプラン【先生の生活観察】",
-   "like_count": 759,
+   "like_count": 760,
    "view_count": null
   },
   {
@@ -625,7 +613,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "Youtubeプレミアプラン【先生の生活観察】",
-   "like_count": 650,
+   "like_count": 652,
    "view_count": null
   },
   {
@@ -645,7 +633,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "Youtubeプレミアプラン【先生の生活観察】",
-   "like_count": 535,
+   "like_count": 555,
    "view_count": null
   }
  ],
@@ -787,22 +775,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-12"
+    "to": "2026-11-13"
    },
-   "streams_analyzed": 14,
+   "streams_analyzed": 15,
    "streams_missed": 4,
-   "unique_chatters": 5303,
-   "members_confirmed": 1353,
+   "unique_chatters": 5725,
+   "members_confirmed": 1422,
    "member_classes": {
-    "unknown": 1310,
-    "known": 32,
-    "gift": 11
+    "unknown": 1372,
+    "known": 34,
+    "gift": 16
    },
-   "long_term_members": 952,
+   "long_term_members": 991,
    "badges": [
     {
      "months": 0,
-     "members": 45
+     "members": 54
     },
     {
      "months": 1,
@@ -810,53 +798,53 @@
     },
     {
      "months": 2,
-     "members": 115
+     "members": 122
     },
     {
      "months": 6,
-     "members": 222
+     "members": 236
     },
     {
      "months": 12,
-     "members": 651
+     "members": 677
     },
     {
      "months": 24,
-     "members": 301
+     "members": 314
     }
    ],
    "events": {
-    "new_members": 14,
+    "new_members": 16,
     "rejoins": 8,
     "milestones": 0,
-    "gifted_total": 11
+    "gifted_total": 16
    },
    "tiers": [
     {
      "tier": "Youtubeプレミアプラン【先生の生活観察】",
      "price": 490,
-     "confirmed_members": 18,
-     "estimated_members": 754.9
+     "confirmed_members": 20,
+     "estimated_members": 827.1
     },
     {
      "tier": "Barプラン【削除危機の動画＆豪華無料特典】",
      "price": 790,
      "confirmed_members": 12,
-     "estimated_members": 503.2
+     "estimated_members": 496.2
     },
     {
      "tier": "やれるものならやってみろ（石油王プラン）",
      "price": 14000,
      "confirmed_members": 2,
-     "estimated_members": 83.9
+     "estimated_members": 82.7
     }
    ],
    "revenue": {
-    "monthly_low": 437945,
-    "monthly_est": 1235631,
-    "gift_once": 3430
+    "monthly_low": 457902,
+    "monthly_est": 1244197,
+    "gift_once": 4989
    },
-   "avg_member_chatters": 349.9,
+   "avg_member_chatters": 356,
    "partial": true,
    "finalized": false
   }
