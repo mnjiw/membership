@@ -2,60 +2,64 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-12"
+  "to": "2026-11-13"
  },
- "streams_analyzed": 1,
+ "streams_analyzed": 2,
  "streams_missed": 0,
- "unique_chatters": 135,
- "members_confirmed": 65,
+ "unique_chatters": 219,
+ "members_confirmed": 94,
  "member_classes": {
-  "known": 24,
-  "unknown": 31,
-  "gift": 10
+  "known": 34,
+  "unknown": 40,
+  "gift": 20
  },
- "long_term_members": 47,
+ "long_term_members": 62,
  "badges": [
   {
    "months": 0,
-   "members": 10
+   "members": 19
+  },
+  {
+   "months": 1,
+   "members": 2
   },
   {
    "months": 2,
-   "members": 5
+   "members": 7
   },
   {
    "months": 6,
-   "members": 3
+   "members": 4
   },
   {
    "months": 12,
-   "members": 10
+   "members": 14
   },
   {
    "months": 24,
-   "members": 37
+   "members": 48
   }
  ],
  "events": {
-  "new_members": 0,
+  "new_members": 1,
   "rejoins": 1,
-  "milestones": 9,
-  "gifted_total": 10
+  "milestones": 22,
+  "gifted_total": 20
  },
  "tiers": [
   {
    "tier": "Villionship🐯",
    "price": 690,
-   "confirmed_members": 24,
-   "estimated_members": 55.0
+   "confirmed_members": 34,
+   "estimated_members": 74.0
   }
  ],
  "revenue": {
-  "monthly_low": 24150,
-  "monthly_est": 24150,
-  "gift_once": 4391
+  "monthly_low": 32493,
+  "monthly_est": 32493,
+  "gift_once": 8782
  },
- "avg_member_chatters": 65,
+ "avg_member_chatters": 64,
  "partial": true,
  "finalized": false
 }

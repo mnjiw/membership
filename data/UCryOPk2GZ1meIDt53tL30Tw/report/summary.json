@@ -3,16 +3,16 @@
  "channel_id": "UCryOPk2GZ1meIDt53tL30Tw",
  "handle": "@SuzukiMasaru",
  "subscribers": 332000,
- "fetched_at": "2026-11-12 11:59",
- "generated_at": "2026-11-12 11:59",
+ "fetched_at": "2026-11-13 05:19",
+ "generated_at": "2026-11-13 05:19",
  "period": {
-  "from": "2026-10-13 11:59",
-  "to": "2026-11-12 11:59",
+  "from": "2026-10-14 05:19",
+  "to": "2026-11-13 05:19",
   "days": 30
  },
- "streams_analyzed": 10,
+ "streams_analyzed": 9,
  "streams_missed": 5,
- "unique_chatters": 537,
+ "unique_chatters": 477,
  "members_confirmed": 182,
  "member_classes": {
   "unknown": 177,
@@ -32,12 +32,12 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 7
+   "members": 6
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 172
+   "members": 173
   }
  ],
  "events": {
@@ -77,26 +77,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "gOzgA_pFUJY",
-   "start": "2026-10-13 21:03",
-   "title": "【#にじクラおにごっこ】皆とにじ鯖を駆け回れ！！！【鈴木勝/にじさんじ】",
-   "kind": "配信",
-   "chatters": 84,
-   "member_chatters": 64,
-   "new_members": 0,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "zxRYN5DGaGc",
-   "start": "2026-10-14 00:04",
-   "title": "🛑【Binaural/黒3Dio】本気で眠りたい人のための爽やか泡シャンプー 2026.10.14【にじさんじ/鈴木勝】",
-   "kind": "配信",
-   "chatters": 163,
-   "member_chatters": 66,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "DPNvbo_xVj8",
    "start": "2026-10-15 22:03",
@@ -174,6 +154,16 @@
    "kind": "配信",
    "chatters": 177,
    "member_chatters": 80,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "igT3mN46_8c",
+   "start": "2026-11-12 22:03",
+   "title": "【Japanese Ramen Simulator】麺屋勝、開店【鈴木勝/にじさんじ】",
+   "kind": "配信",
+   "chatters": 113,
+   "member_chatters": 81,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -397,14 +387,14 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-12"
+    "to": "2026-11-13"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 4,
    "streams_missed": 2,
-   "unique_chatters": 308,
-   "members_confirmed": 126,
+   "unique_chatters": 344,
+   "members_confirmed": 143,
    "member_classes": {
-    "unknown": 124,
+    "unknown": 141,
     "known": 2
    },
    "long_term_members": 0,
@@ -423,7 +413,7 @@
     },
     {
      "months": 6,
-     "members": 120
+     "members": 137
     }
    ],
    "events": {
@@ -437,15 +427,15 @@
      "tier": "特別観測者",
      "price": 490,
      "confirmed_members": 2,
-     "estimated_members": 126.0
+     "estimated_members": 143.0
     }
    ],
    "revenue": {
-    "monthly_low": 39289,
-    "monthly_est": 39289,
+    "monthly_low": 44590,
+    "monthly_est": 44590,
     "gift_once": 0
    },
-   "avg_member_chatters": 77.3,
+   "avg_member_chatters": 78.2,
    "partial": true,
    "finalized": false
   }

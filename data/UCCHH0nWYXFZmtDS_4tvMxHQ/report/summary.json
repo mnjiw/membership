@@ -3,15 +3,15 @@
  "channel_id": "UCCHH0nWYXFZmtDS_4tvMxHQ",
  "handle": "@YangNari",
  "subscribers": 338000,
- "fetched_at": "2026-11-12 12:09",
- "generated_at": "2026-11-12 12:09",
+ "fetched_at": "2026-11-13 05:25",
+ "generated_at": "2026-11-13 05:25",
  "period": {
-  "from": "2026-10-13 12:09",
-  "to": "2026-11-12 12:09",
+  "from": "2026-10-14 05:25",
+  "to": "2026-11-13 05:25",
   "days": 30
  },
  "streams_analyzed": 10,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 1605,
  "members_confirmed": 605,
  "member_classes": {
@@ -204,8 +204,32 @@
    "gifted_total": 20
   }
  ],
- "missed_streams": [],
- "members_only_content": [],
+ "missed_streams": [
+  {
+   "video_id": "YAo-VlmMnd4",
+   "start": "2026-11-12 20:00",
+   "title": "世界が寒い理由は魔王様がアイス食べたいから",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "옆집 양📌おとなり羊",
+   "like_count": 221,
+   "view_count": null
+  }
+ ],
+ "members_only_content": [
+  {
+   "video_id": "YAo-VlmMnd4",
+   "start": "2026-11-12 20:00",
+   "title": "世界が寒い理由は魔王様がアイス食べたいから",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "옆집 양📌おとなり羊",
+   "like_count": 221,
+   "view_count": null
+  }
+ ],
  "history": [
   {
    "month": "2026-10",
@@ -289,10 +313,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-12"
+    "to": "2026-11-13"
    },
    "streams_analyzed": 8,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 1291,
    "members_confirmed": 524,
    "member_classes": {

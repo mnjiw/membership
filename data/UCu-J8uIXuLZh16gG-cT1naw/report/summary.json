@@ -3,27 +3,27 @@
  "channel_id": "UCu-J8uIXuLZh16gG-cT1naw",
  "handle": "@FinanaRyugu",
  "subscribers": 474000,
- "fetched_at": "2026-11-12 12:19",
- "generated_at": "2026-11-12 12:19",
+ "fetched_at": "2026-11-13 05:30",
+ "generated_at": "2026-11-13 05:30",
  "period": {
-  "from": "2026-10-13 12:19",
-  "to": "2026-11-12 12:19",
+  "from": "2026-10-14 05:30",
+  "to": "2026-11-13 05:30",
   "days": 30
  },
  "streams_analyzed": 23,
  "streams_missed": 3,
- "unique_chatters": 665,
- "members_confirmed": 144,
+ "unique_chatters": 682,
+ "members_confirmed": 151,
  "member_classes": {
-  "known": 21,
-  "unknown": 73,
-  "gift": 50
+  "unknown": 72,
+  "known": 22,
+  "gift": 57
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 52
+   "members": 60
   },
   {
    "months": 1,
@@ -48,16 +48,16 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 60
+   "members": 59
   }
  ],
  "events": {
   "new_members": 1,
   "rejoins": 2,
   "milestones": 12,
-  "gift_purchases": 30,
-  "gifted_total": 50,
-  "gift_redemptions": 50
+  "gift_purchases": 33,
+  "gifted_total": 57,
+  "gift_redemptions": 57
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,20 +65,20 @@
    "tier": "Ryuguard",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 21,
+   "confirmed_members": 22,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 73.0,
+   "allocated_unknown": 72.0,
    "estimated_members": 94.0,
-   "monthly_net_confirmed": 9221,
+   "monthly_net_confirmed": 9660,
    "monthly_net_estimated": 41275
   }
  ],
  "revenue": {
   "monthly_low": 41275,
   "monthly_est": 41275,
-  "gift_once": 21955,
-  "total_low": 63229,
-  "total_est": 63229,
+  "gift_once": 25028,
+  "total_low": 66303,
+  "total_est": 66303,
   "paying_members": 94,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "eTPiBvwBWEY",
-   "start": "2026-10-14 05:03",
-   "title": "GETTING A HEAD START ! 📖 (にじさんじ勉強クラブ NIJI Study Club ASMR)",
-   "kind": "配信",
-   "chatters": 48,
-   "member_chatters": 20,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "u2edAAk-xhI",
    "start": "2026-10-15 05:00",
@@ -317,6 +307,16 @@
    "member_chatters": 36,
    "new_members": 0,
    "gifted_total": 2
+  },
+  {
+   "video_id": "805oBX9kQug",
+   "start": "2026-11-12 08:11",
+   "title": "【#DistrictV2 GTA V RP】 I can never catch a break 🚓",
+   "kind": "配信",
+   "chatters": 142,
+   "member_chatters": 43,
+   "new_members": 1,
+   "gifted_total": 7
   }
  ],
  "missed_streams": [
@@ -526,22 +526,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-12"
+    "to": "2026-11-13"
    },
-   "streams_analyzed": 9,
+   "streams_analyzed": 10,
    "streams_missed": 1,
-   "unique_chatters": 472,
-   "members_confirmed": 97,
+   "unique_chatters": 499,
+   "members_confirmed": 105,
    "member_classes": {
     "unknown": 62,
-    "known": 15,
-    "gift": 20
+    "known": 16,
+    "gift": 27
    },
    "long_term_members": 63,
    "badges": [
     {
      "months": 0,
-     "members": 22
+     "members": 30
     },
     {
      "months": 1,
@@ -565,25 +565,25 @@
     }
    ],
    "events": {
-    "new_members": 0,
+    "new_members": 1,
     "rejoins": 2,
     "milestones": 5,
-    "gifted_total": 20
+    "gifted_total": 27
    },
    "tiers": [
     {
      "tier": "Ryuguard",
      "price": 690,
-     "confirmed_members": 15,
-     "estimated_members": 77.0
+     "confirmed_members": 16,
+     "estimated_members": 78.0
     }
    ],
    "revenue": {
-    "monthly_low": 33810,
-    "monthly_est": 33810,
-    "gift_once": 8782
+    "monthly_low": 34249,
+    "monthly_est": 34249,
+    "gift_once": 11855
    },
-   "avg_member_chatters": 36.3,
+   "avg_member_chatters": 37,
    "partial": true,
    "finalized": false
   }

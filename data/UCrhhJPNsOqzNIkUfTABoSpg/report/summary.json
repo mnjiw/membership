@@ -3,27 +3,27 @@
  "channel_id": "UCrhhJPNsOqzNIkUfTABoSpg",
  "handle": "@HaYun",
  "subscribers": 135000,
- "fetched_at": "2026-11-12 12:09",
- "generated_at": "2026-11-12 12:10",
+ "fetched_at": "2026-11-13 05:25",
+ "generated_at": "2026-11-13 05:25",
  "period": {
-  "from": "2026-10-13 12:09",
-  "to": "2026-11-12 12:09",
+  "from": "2026-10-14 05:25",
+  "to": "2026-11-13 05:25",
   "days": 30
  },
- "streams_analyzed": 16,
- "streams_missed": 1,
- "unique_chatters": 708,
- "members_confirmed": 208,
+ "streams_analyzed": 17,
+ "streams_missed": 0,
+ "unique_chatters": 714,
+ "members_confirmed": 214,
  "member_classes": {
   "known": 37,
-  "unknown": 71,
-  "gift": 100
+  "unknown": 72,
+  "gift": 105
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 99
+   "members": 104
   },
   {
    "months": 1,
@@ -48,16 +48,16 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 61
+   "members": 62
   }
  ],
  "events": {
   "new_members": 3,
   "rejoins": 4,
   "milestones": 26,
-  "gift_purchases": 15,
-  "gifted_total": 100,
-  "gift_redemptions": 100
+  "gift_purchases": 16,
+  "gifted_total": 105,
+  "gift_redemptions": 105
  },
  "tiers_configured": true,
  "tiers": [
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 37,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 71.0,
-   "estimated_members": 108.0,
+   "allocated_unknown": 72.0,
+   "estimated_members": 109.0,
    "monthly_net_confirmed": 11537,
-   "monthly_net_estimated": 33676
+   "monthly_net_estimated": 33988
   }
  ],
  "revenue": {
-  "monthly_low": 33676,
-  "monthly_est": 33676,
-  "gift_once": 31182,
-  "total_low": 64858,
-  "total_est": 64858,
-  "paying_members": 108,
+  "monthly_low": 33988,
+  "monthly_est": 33988,
+  "gift_once": 32741,
+  "total_low": 66729,
+  "total_est": 66729,
+  "paying_members": 109,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -247,22 +247,19 @@
    "member_chatters": 31,
    "new_members": 0,
    "gifted_total": 0
-  }
- ],
- "missed_streams": [
+  },
   {
    "video_id": "c1pHfnKuAA0",
-   "start": "2026-11-11 00:00",
+   "start": "2026-11-11 15:12",
    "title": "【APEX】 ランクです 【ハユン/にじさんじ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 223,
-   "view_count": 6388
+   "kind": "配信",
+   "chatters": 43,
+   "member_chatters": 37,
+   "new_members": 0,
+   "gifted_total": 5
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -397,22 +394,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-12"
+    "to": "2026-11-13"
    },
-   "streams_analyzed": 7,
-   "streams_missed": 1,
-   "unique_chatters": 659,
-   "members_confirmed": 195,
+   "streams_analyzed": 8,
+   "streams_missed": 0,
+   "unique_chatters": 665,
+   "members_confirmed": 201,
    "member_classes": {
     "known": 35,
-    "unknown": 70,
-    "gift": 90
+    "unknown": 71,
+    "gift": 95
    },
-   "long_term_members": 78,
+   "long_term_members": 79,
    "badges": [
     {
      "months": 0,
-     "members": 90
+     "members": 95
     },
     {
      "months": 1,
@@ -432,29 +429,29 @@
     },
     {
      "months": 24,
-     "members": 60
+     "members": 61
     }
    ],
    "events": {
     "new_members": 2,
     "rejoins": 3,
     "milestones": 17,
-    "gifted_total": 90
+    "gifted_total": 95
    },
    "tiers": [
     {
      "tier": "HaYun Membership",
      "price": 490,
      "confirmed_members": 35,
-     "estimated_members": 105.0
+     "estimated_members": 106.0
     }
    ],
    "revenue": {
-    "monthly_low": 32741,
-    "monthly_est": 32741,
-    "gift_once": 28064
+    "monthly_low": 33053,
+    "monthly_est": 33053,
+    "gift_once": 29623
    },
-   "avg_member_chatters": 57.7,
+   "avg_member_chatters": 55.1,
    "partial": true,
    "finalized": false
   }

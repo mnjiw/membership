@@ -3,19 +3,19 @@
  "channel_id": "UCu-rV2gPtJ-CsGxe71z_BrQ",
  "handle": "@IgarashiRika",
  "subscribers": 363000,
- "fetched_at": "2026-11-12 12:10",
- "generated_at": "2026-11-12 12:11",
+ "fetched_at": "2026-11-13 05:25",
+ "generated_at": "2026-11-13 05:26",
  "period": {
-  "from": "2026-10-13 12:10",
-  "to": "2026-11-12 12:10",
+  "from": "2026-10-14 05:25",
+  "to": "2026-11-13 05:25",
   "days": 30
  },
  "streams_analyzed": 28,
  "streams_missed": 1,
- "unique_chatters": 4499,
- "members_confirmed": 775,
+ "unique_chatters": 4219,
+ "members_confirmed": 762,
  "member_classes": {
-  "unknown": 683,
+  "unknown": 670,
   "known": 41,
   "gift": 51
  },
@@ -23,12 +23,12 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 88
+   "members": 87
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 25
+   "members": 26
   },
   {
    "months": 2,
@@ -38,12 +38,12 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 115
+   "members": 112
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 505
+   "members": 495
   }
  ],
  "events": {
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 41,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 683.0,
-   "estimated_members": 724.0,
+   "allocated_unknown": 670.0,
+   "estimated_members": 711.0,
    "monthly_net_confirmed": 12785,
-   "monthly_net_estimated": 225756
+   "monthly_net_estimated": 221703
   }
  ],
  "revenue": {
-  "monthly_low": 225756,
-  "monthly_est": 225756,
+  "monthly_low": 221703,
+  "monthly_est": 221703,
   "gift_once": 15903,
-  "total_low": 241659,
-  "total_est": 241659,
-  "paying_members": 724,
+  "total_low": 237605,
+  "total_est": 237605,
+  "paying_members": 711,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "6t_lzVQ0434",
-   "start": "2026-10-13 19:00",
-   "title": "これって浮気？┊︎ぷぎゃりてで浮気判定シートやってみた w/先斗寧,立伝都々【 にじさんじ / 五十嵐梨花 】",
-   "kind": "配信",
-   "chatters": 844,
-   "member_chatters": 219,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "N4ekxcXYJ6g",
    "start": "2026-10-15 21:05",
@@ -362,6 +352,16 @@
    "member_chatters": 181,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "-xgb8HqM6OA",
+   "start": "2026-11-12 20:06",
+   "title": "魔法少女ノ魔女裁判┊︎#12 第10話~ みんなを信じる【 にじさんじ / 五十嵐梨花 】",
+   "kind": "配信",
+   "chatters": 699,
+   "member_chatters": 214,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -517,18 +517,18 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-12"
+    "to": "2026-11-13"
    },
-   "streams_analyzed": 10,
+   "streams_analyzed": 11,
    "streams_missed": 1,
-   "unique_chatters": 2250,
-   "members_confirmed": 591,
+   "unique_chatters": 2481,
+   "members_confirmed": 599,
    "member_classes": {
-    "unknown": 511,
-    "known": 29,
+    "unknown": 517,
+    "known": 31,
     "gift": 51
    },
-   "long_term_members": 389,
+   "long_term_members": 391,
    "badges": [
     {
      "months": 0,
@@ -536,19 +536,19 @@
     },
     {
      "months": 1,
-     "members": 20
+     "members": 21
     },
     {
      "months": 2,
-     "members": 25
+     "members": 26
     },
     {
      "months": 6,
-     "members": 83
+     "members": 87
     },
     {
      "months": 12,
-     "members": 389
+     "members": 391
     }
    ],
    "events": {
@@ -561,16 +561,16 @@
     {
      "tier": "五十嵐の監督さんたち",
      "price": 490,
-     "confirmed_members": 29,
-     "estimated_members": 540.0
+     "confirmed_members": 31,
+     "estimated_members": 548.0
     }
    ],
    "revenue": {
-    "monthly_low": 168382,
-    "monthly_est": 168382,
+    "monthly_low": 170876,
+    "monthly_est": 170876,
     "gift_once": 15903
    },
-   "avg_member_chatters": 257.8,
+   "avg_member_chatters": 253.8,
    "partial": true,
    "finalized": false
   }

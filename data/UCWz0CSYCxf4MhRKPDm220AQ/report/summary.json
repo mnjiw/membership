@@ -3,19 +3,19 @@
  "channel_id": "UCWz0CSYCxf4MhRKPDm220AQ",
  "handle": "@KandaShoichi",
  "subscribers": 268000,
- "fetched_at": "2026-11-12 11:59",
- "generated_at": "2026-11-12 11:59",
+ "fetched_at": "2026-11-13 05:19",
+ "generated_at": "2026-11-13 05:19",
  "period": {
-  "from": "2026-10-13 11:59",
-  "to": "2026-11-12 11:59",
+  "from": "2026-10-14 05:19",
+  "to": "2026-11-13 05:19",
   "days": 30
  },
  "streams_analyzed": 20,
  "streams_missed": 0,
- "unique_chatters": 870,
- "members_confirmed": 62,
+ "unique_chatters": 853,
+ "members_confirmed": 57,
  "member_classes": {
-  "unknown": 58,
+  "unknown": 53,
   "known": 4
  },
  "badges": [
@@ -27,7 +27,7 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 4
+   "members": 3
   },
   {
    "months": 2,
@@ -37,7 +37,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 55
+   "members": 51
   }
  ],
  "events": {
@@ -56,19 +56,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 4,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 58.0,
-   "estimated_members": 62.0,
+   "allocated_unknown": 53.0,
+   "estimated_members": 57.0,
    "monthly_net_confirmed": 1247,
-   "monthly_net_estimated": 19333
+   "monthly_net_estimated": 17774
   }
  ],
  "revenue": {
-  "monthly_low": 19333,
-  "monthly_est": 19333,
+  "monthly_low": 17774,
+  "monthly_est": 17774,
   "gift_once": 0,
-  "total_low": 19333,
-  "total_est": 19333,
-  "paying_members": 62,
+  "total_low": 17774,
+  "total_est": 17774,
+  "paying_members": 57,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -77,16 +77,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "9kQEufXTwFQ",
-   "start": "2026-10-13 21:10",
-   "title": "【 #にじクラ鬼ごっこ 】 逃げるな卑怯者！！！逃げるなァ！！！ 【 Minecraft / にじさんじ / 神田笑一 】",
-   "kind": "配信",
-   "chatters": 73,
-   "member_chatters": 34,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "dsdrLg4b__I",
    "start": "2026-10-14 21:00",
@@ -276,6 +266,16 @@
    "member_chatters": 14,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "FLWp3yU6Xi4",
+   "start": "2026-11-12 22:00",
+   "title": "【 #15 FE万紫千紅 】 セオドラ編1部9章！コンロンの里を救え！ 【 ファイアーエムブレム万紫千紅 / 神田笑一 / にじさんじ 】",
+   "kind": "配信",
+   "chatters": 30,
+   "member_chatters": 14,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -399,14 +399,14 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-12"
+    "to": "2026-11-13"
    },
-   "streams_analyzed": 4,
+   "streams_analyzed": 5,
    "streams_missed": 0,
-   "unique_chatters": 247,
-   "members_confirmed": 28,
+   "unique_chatters": 258,
+   "members_confirmed": 31,
    "member_classes": {
-    "unknown": 27,
+    "unknown": 30,
     "known": 1
    },
    "long_term_members": 0,
@@ -421,7 +421,7 @@
     },
     {
      "months": 6,
-     "members": 25
+     "members": 28
     }
    ],
    "events": {
@@ -435,15 +435,15 @@
      "tier": "奇特なトマト",
      "price": 490,
      "confirmed_members": 1,
-     "estimated_members": 28.0
+     "estimated_members": 31.0
     }
    ],
    "revenue": {
-    "monthly_low": 8731,
-    "monthly_est": 8731,
+    "monthly_low": 9666,
+    "monthly_est": 9666,
     "gift_once": 0
    },
-   "avg_member_chatters": 11.2,
+   "avg_member_chatters": 11.8,
    "partial": true,
    "finalized": false
   }

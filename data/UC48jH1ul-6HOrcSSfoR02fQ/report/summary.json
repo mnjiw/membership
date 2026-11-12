@@ -3,26 +3,26 @@
  "channel_id": "UC48jH1ul-6HOrcSSfoR02fQ",
  "handle": "@YuhiRiri",
  "subscribers": 426000,
- "fetched_at": "2026-11-12 11:56",
- "generated_at": "2026-11-12 11:56",
+ "fetched_at": "2026-11-13 05:18",
+ "generated_at": "2026-11-13 05:18",
  "period": {
-  "from": "2026-10-13 11:56",
-  "to": "2026-11-12 11:56",
+  "from": "2026-10-14 05:18",
+  "to": "2026-11-13 05:18",
   "days": 30
  },
- "streams_analyzed": 22,
- "streams_missed": 0,
- "unique_chatters": 931,
- "members_confirmed": 222,
+ "streams_analyzed": 20,
+ "streams_missed": 1,
+ "unique_chatters": 849,
+ "members_confirmed": 216,
  "member_classes": {
-  "unknown": 210,
-  "known": 12
+  "unknown": 206,
+  "known": 10
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 13
+   "members": 11
   },
   {
    "months": 1,
@@ -37,7 +37,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 25
+   "members": 24
   },
   {
    "months": 12,
@@ -47,11 +47,11 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 141
+   "members": 138
   }
  ],
  "events": {
-  "new_members": 5,
+  "new_members": 3,
   "rejoins": 3,
   "milestones": 1,
   "gift_purchases": 0,
@@ -64,21 +64,21 @@
    "tier": "Level5",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 12,
+   "confirmed_members": 10,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 210.0,
-   "estimated_members": 222.0,
-   "monthly_net_confirmed": 3742,
-   "monthly_net_estimated": 69224
+   "allocated_unknown": 206.0,
+   "estimated_members": 216.0,
+   "monthly_net_confirmed": 3118,
+   "monthly_net_estimated": 67353
   }
  ],
  "revenue": {
-  "monthly_low": 69224,
-  "monthly_est": 69224,
+  "monthly_low": 67353,
+  "monthly_est": 67353,
   "gift_once": 0,
-  "total_low": 69224,
-  "total_est": 69224,
-  "paying_members": 222,
+  "total_low": 67353,
+  "total_est": 67353,
+  "paying_members": 216,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -87,26 +87,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "sywRqgo9uCA",
-   "start": "2026-10-13 14:11",
-   "title": "▶︎▷ OVERWATCH ｜ 猫ってやつはさあ ｜ 夕陽リリ ￤ にじさんじ",
-   "kind": "配信",
-   "chatters": 120,
-   "member_chatters": 48,
-   "new_members": 1,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "TfO4brNjdoU",
-   "start": "2026-10-13 21:31",
-   "title": "▶︎▷ OVERWATCH ｜ 味方に好かれようとしてない！？ ｜ 夕陽リリ ￤ にじさんじ",
-   "kind": "配信",
-   "chatters": 119,
-   "member_chatters": 58,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "QTdF4OiIy-M",
    "start": "2026-10-14 12:00",
@@ -308,8 +288,32 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
- "members_only_content": [],
+ "missed_streams": [
+  {
+   "video_id": "DAr69-AD3Mk",
+   "start": "2026-11-12 22:00",
+   "title": "💙限20261112",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 131,
+   "view_count": null
+  }
+ ],
+ "members_only_content": [
+  {
+   "video_id": "DAr69-AD3Mk",
+   "start": "2026-11-12 22:00",
+   "title": "💙限20261112",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 131,
+   "view_count": null
+  }
+ ],
  "history": [
   {
    "month": "2026-09",
@@ -446,10 +450,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-12"
+    "to": "2026-11-13"
    },
    "streams_analyzed": 8,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 301,
    "members_confirmed": 138,
    "member_classes": {

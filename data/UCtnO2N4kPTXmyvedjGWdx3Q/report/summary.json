@@ -3,16 +3,16 @@
  "channel_id": "UCtnO2N4kPTXmyvedjGWdx3Q",
  "handle": "@LeviElipha",
  "subscribers": 375000,
- "fetched_at": "2026-11-12 12:00",
- "generated_at": "2026-11-12 12:00",
+ "fetched_at": "2026-11-13 05:20",
+ "generated_at": "2026-11-13 05:20",
  "period": {
-  "from": "2026-10-13 12:00",
-  "to": "2026-11-12 12:00",
+  "from": "2026-10-14 05:20",
+  "to": "2026-11-13 05:20",
   "days": 30
  },
  "streams_analyzed": 22,
  "streams_missed": 0,
- "unique_chatters": 639,
+ "unique_chatters": 646,
  "members_confirmed": 109,
  "member_classes": {
   "known": 18,
@@ -105,16 +105,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "Pv3J6PY2FKs",
-   "start": "2026-10-13 22:02",
-   "title": "#13【大逆転裁判】第5話‼まだまだ現場を調査するゾウ🐘【にじさんじ/レヴィ・エリファ】",
-   "kind": "配信",
-   "chatters": 45,
-   "member_chatters": 20,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "6wS91D2gC64",
    "start": "2026-10-15 22:30",
@@ -324,6 +314,16 @@
    "member_chatters": 18,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "QLEK39nJLtQ",
+   "start": "2026-11-12 22:09",
+   "title": "#09【FINAL FANTASY X | X-2 HD Remaster】シン・・・まっててネ・・・‼‼※ネタバレあり【にじさんじ/レヴィ・エリファ】",
+   "kind": "配信",
+   "chatters": 72,
+   "member_chatters": 24,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -481,21 +481,21 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-12"
+    "to": "2026-11-13"
    },
-   "streams_analyzed": 11,
+   "streams_analyzed": 12,
    "streams_missed": 0,
-   "unique_chatters": 311,
-   "members_confirmed": 58,
+   "unique_chatters": 329,
+   "members_confirmed": 59,
    "member_classes": {
     "unknown": 43,
-    "known": 15
+    "known": 16
    },
    "long_term_members": 47,
    "badges": [
     {
      "months": 0,
-     "members": 4
+     "members": 5
     },
     {
      "months": 1,
@@ -524,28 +524,28 @@
     {
      "tier": "バイ",
      "price": 490,
-     "confirmed_members": 9,
-     "estimated_members": 34.8
+     "confirmed_members": 10,
+     "estimated_members": 36.9
     },
     {
      "tier": "チク",
      "price": 1190,
      "confirmed_members": 4,
-     "estimated_members": 15.5
+     "estimated_members": 14.8
     },
     {
      "tier": "ショー",
      "price": 3490,
      "confirmed_members": 2,
-     "estimated_members": 7.7
+     "estimated_members": 7.4
     }
    ],
    "revenue": {
-    "monthly_low": 23685,
-    "monthly_est": 39739,
+    "monthly_low": 23997,
+    "monthly_est": 39047,
     "gift_once": 0
    },
-   "avg_member_chatters": 26.1,
+   "avg_member_chatters": 25.9,
    "partial": true,
    "finalized": false
   }

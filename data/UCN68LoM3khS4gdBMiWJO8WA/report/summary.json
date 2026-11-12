@@ -3,27 +3,27 @@
  "channel_id": "UCN68LoM3khS4gdBMiWJO8WA",
  "handle": "@AiaAmare",
  "subscribers": 283000,
- "fetched_at": "2026-11-12 12:20",
- "generated_at": "2026-11-12 12:21",
+ "fetched_at": "2026-11-13 05:31",
+ "generated_at": "2026-11-13 05:31",
  "period": {
-  "from": "2026-10-13 12:20",
-  "to": "2026-11-12 12:20",
+  "from": "2026-10-14 05:31",
+  "to": "2026-11-13 05:31",
   "days": 30
  },
- "streams_analyzed": 28,
+ "streams_analyzed": 29,
  "streams_missed": 1,
- "unique_chatters": 1169,
- "members_confirmed": 291,
+ "unique_chatters": 1184,
+ "members_confirmed": 297,
  "member_classes": {
-  "known": 154,
+  "known": 155,
   "unknown": 71,
-  "gift": 66
+  "gift": 71
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 61
+   "members": 66
   },
   {
    "months": 1,
@@ -48,7 +48,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 55
+   "members": 56
   },
   {
    "months": 36,
@@ -63,11 +63,11 @@
  ],
  "events": {
   "new_members": 3,
-  "rejoins": 7,
-  "milestones": 102,
-  "gift_purchases": 38,
-  "gifted_total": 66,
-  "gift_redemptions": 66
+  "rejoins": 8,
+  "milestones": 103,
+  "gift_purchases": 39,
+  "gifted_total": 71,
+  "gift_redemptions": 71
  },
  "tiers_configured": true,
  "tiers": [
@@ -75,21 +75,21 @@
    "tier": "Maidenship",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 154,
+   "confirmed_members": 155,
    "share_of_confirmed_pct": 100.0,
    "allocated_unknown": 71.0,
-   "estimated_members": 225.0,
-   "monthly_net_confirmed": 67620,
-   "monthly_net_estimated": 98795
+   "estimated_members": 226.0,
+   "monthly_net_confirmed": 68059,
+   "monthly_net_estimated": 99235
   }
  ],
  "revenue": {
-  "monthly_low": 98795,
-  "monthly_est": 98795,
-  "gift_once": 28980,
-  "total_low": 127775,
-  "total_est": 127775,
-  "paying_members": 225,
+  "monthly_low": 99235,
+  "monthly_est": 99235,
+  "gift_once": 31175,
+  "total_low": 130410,
+  "total_est": 130410,
+  "paying_members": 226,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -377,6 +377,16 @@
    "member_chatters": 37,
    "new_members": 0,
    "gifted_total": 1
+  },
+  {
+   "video_id": "zN1QpTHOXms",
+   "start": "2026-11-12 09:40",
+   "title": "【WOLFENSTEIN: THE NEW ORDER】 TO THE MOON! (part 6)",
+   "kind": "配信",
+   "chatters": 91,
+   "member_chatters": 51,
+   "new_members": 0,
+   "gifted_total": 5
   }
  ],
  "missed_streams": [
@@ -558,22 +568,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-12"
+    "to": "2026-11-13"
    },
-   "streams_analyzed": 10,
+   "streams_analyzed": 11,
    "streams_missed": 0,
-   "unique_chatters": 422,
-   "members_confirmed": 161,
+   "unique_chatters": 441,
+   "members_confirmed": 168,
    "member_classes": {
-    "known": 111,
+    "known": 113,
     "unknown": 38,
-    "gift": 12
+    "gift": 17
    },
-   "long_term_members": 132,
+   "long_term_members": 134,
    "badges": [
     {
      "months": 0,
-     "members": 11
+     "members": 16
     },
     {
      "months": 1,
@@ -593,7 +603,7 @@
     },
     {
      "months": 24,
-     "members": 37
+     "members": 38
     },
     {
      "months": 36,
@@ -601,27 +611,27 @@
     },
     {
      "months": 48,
-     "members": 21
+     "members": 22
     }
    ],
    "events": {
     "new_members": 0,
-    "rejoins": 3,
-    "milestones": 33,
-    "gifted_total": 12
+    "rejoins": 4,
+    "milestones": 34,
+    "gifted_total": 17
    },
    "tiers": [
     {
      "tier": "Maidenship",
      "price": 690,
-     "confirmed_members": 111,
-     "estimated_members": 149.0
+     "confirmed_members": 113,
+     "estimated_members": 151.0
     }
    ],
    "revenue": {
-    "monthly_low": 65425,
-    "monthly_est": 65425,
-    "gift_once": 5269
+    "monthly_low": 66303,
+    "monthly_est": 66303,
+    "gift_once": 7465
    },
    "avg_member_chatters": 50.6,
    "partial": true,

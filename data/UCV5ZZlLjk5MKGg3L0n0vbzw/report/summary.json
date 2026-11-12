@@ -3,16 +3,16 @@
  "channel_id": "UCV5ZZlLjk5MKGg3L0n0vbzw",
  "handle": "@TakamiyaRion",
  "subscribers": 560000,
- "fetched_at": "2026-11-12 11:59",
- "generated_at": "2026-11-12 11:59",
+ "fetched_at": "2026-11-13 05:19",
+ "generated_at": "2026-11-13 05:19",
  "period": {
-  "from": "2026-10-13 11:59",
-  "to": "2026-11-12 11:59",
+  "from": "2026-10-14 05:19",
+  "to": "2026-11-13 05:19",
   "days": 30
  },
  "streams_analyzed": 36,
  "streams_missed": 0,
- "unique_chatters": 2597,
+ "unique_chatters": 2602,
  "members_confirmed": 232,
  "member_classes": {
   "unknown": 189,
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 13
+   "members": 14
   },
   {
    "months": 6,
@@ -63,12 +63,12 @@
   {
    "months": 60,
    "label": "5年",
-   "members": 28
+   "members": 26
   },
   {
    "months": 72,
    "label": "6年",
-   "members": 49
+   "members": 50
   }
  ],
  "events": {
@@ -130,16 +130,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "IRhNGZ_c9ps",
-   "start": "2026-10-13 20:06",
-   "title": "【LTK4】CC nextスクリム【にじさんじ/鷹宮リオン 叶 ゆふな 空澄セナ 獅子堂あかり Yuhi】",
-   "kind": "配信",
-   "chatters": 125,
-   "member_chatters": 52,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "r6x1mTMq8jY",
    "start": "2026-10-14 18:05",
@@ -489,6 +479,16 @@
    "member_chatters": 40,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "t9M7-s5S2U4",
+   "start": "2026-11-12 22:02",
+   "title": "【たすかみ】インボキアで呪いのゲーム！？【にじさんじ/鷹宮リオン】",
+   "kind": "配信",
+   "chatters": 102,
+   "member_chatters": 46,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -686,18 +686,18 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-12"
+    "to": "2026-11-13"
    },
-   "streams_analyzed": 13,
+   "streams_analyzed": 14,
    "streams_missed": 0,
-   "unique_chatters": 925,
-   "members_confirmed": 150,
+   "unique_chatters": 950,
+   "members_confirmed": 153,
    "member_classes": {
     "known": 21,
-    "unknown": 119,
+    "unknown": 122,
     "gift": 10
    },
-   "long_term_members": 113,
+   "long_term_members": 115,
    "badges": [
     {
      "months": 0,
@@ -709,7 +709,7 @@
     },
     {
      "months": 2,
-     "members": 8
+     "members": 9
     },
     {
      "months": 6,
@@ -729,7 +729,7 @@
     },
     {
      "months": 48,
-     "members": 7
+     "members": 8
     },
     {
      "months": 60,
@@ -737,7 +737,7 @@
     },
     {
      "months": 72,
-     "members": 38
+     "members": 39
     }
    ],
    "events": {
@@ -751,7 +751,7 @@
      "tier": "帝華学生",
      "price": 490,
      "confirmed_members": 19,
-     "estimated_members": 126.7
+     "estimated_members": 129.4
     },
     {
      "tier": "なんか真ん中らへんのメンバーでこれはガム代になる",
@@ -763,15 +763,15 @@
      "tier": "鰻コース　鰻食べるだけ",
      "price": 5600,
      "confirmed_members": 2,
-     "estimated_members": 13.3
+     "estimated_members": 13.6
     }
    ],
    "revenue": {
-    "monthly_low": 50158,
-    "monthly_est": 87012,
+    "monthly_low": 51094,
+    "monthly_est": 88877,
     "gift_once": 3118
    },
-   "avg_member_chatters": 51.8,
+   "avg_member_chatters": 51.4,
    "partial": true,
    "finalized": false
   }
