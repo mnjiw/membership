@@ -3,15 +3,15 @@
  "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
  "handle": "@ShioriNovella",
  "subscribers": 758000,
- "fetched_at": "2026-11-13 06:30",
- "generated_at": "2026-11-13 06:30",
+ "fetched_at": "2026-11-13 11:45",
+ "generated_at": "2026-11-13 11:45",
  "period": {
-  "from": "2026-10-14 06:30",
-  "to": "2026-11-13 06:30",
+  "from": "2026-10-14 11:45",
+  "to": "2026-11-13 11:45",
   "days": 30
  },
  "streams_analyzed": 16,
- "streams_missed": 3,
+ "streams_missed": 2,
  "unique_chatters": 6712,
  "members_confirmed": 2130,
  "member_classes": {
@@ -273,18 +273,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "OzxDa5_Njco",
-   "start": "2026-10-14 09:02",
-   "title": "I am sick in a way that the world is sick and it sickens me 【Members Only】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "Bookwyrm",
-   "like_count": 752,
-   "view_count": null
-  },
-  {
    "video_id": "DM0MdypalO4",
    "start": "2026-10-30 09:57",
    "title": "Willy's Wonderland (2021) Watchalong【Members Only】",
@@ -305,21 +293,11 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "Bookwyrm",
-   "like_count": 688,
+   "like_count": 703,
    "view_count": null
   }
  ],
  "members_only_content": [
-  {
-   "video_id": "OzxDa5_Njco",
-   "start": "2026-10-14 09:02",
-   "title": "I am sick in a way that the world is sick and it sickens me 【Members Only】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "Bookwyrm",
-   "like_count": 752,
-   "view_count": null
-  },
   {
    "video_id": "DM0MdypalO4",
    "start": "2026-10-30 09:57",
@@ -347,7 +325,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "Bookwyrm",
-   "like_count": 688,
+   "like_count": 703,
    "view_count": null
   }
  ],

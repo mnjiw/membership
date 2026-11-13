@@ -3,15 +3,15 @@
  "channel_id": "UCKuwxopq9c3cldzSOo4ceSA",
  "handle": "@tsukumo_yagami",
  "subscribers": 46300,
- "fetched_at": "2026-11-13 06:39",
- "generated_at": "2026-11-13 06:39",
+ "fetched_at": "2026-11-13 11:48",
+ "generated_at": "2026-11-13 11:48",
  "period": {
-  "from": "2026-10-14 06:39",
-  "to": "2026-11-13 06:39",
+  "from": "2026-10-14 11:48",
+  "to": "2026-11-13 11:48",
   "days": 30
  },
  "streams_analyzed": 7,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 102,
  "members_confirmed": 79,
  "member_classes": {
@@ -154,7 +154,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "GK9Zsad-z1U",
+   "start": "2026-11-12 00:00",
+   "title": "【VALORANT】　ヴァアアアアアアアアアアアアアア　【八神ツクモ／ネオポルテ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 57,
+   "view_count": 2207
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -283,7 +296,7 @@
     "to": "2026-11-13"
    },
    "streams_analyzed": 3,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 64,
    "members_confirmed": 57,
    "member_classes": {

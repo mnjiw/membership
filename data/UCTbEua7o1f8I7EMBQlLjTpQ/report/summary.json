@@ -3,16 +3,16 @@
  "channel_id": "UCTbEua7o1f8I7EMBQlLjTpQ",
  "handle": "@Shino_Kasukane",
  "subscribers": 30500,
- "fetched_at": "2026-11-13 06:33",
- "generated_at": "2026-11-13 06:33",
+ "fetched_at": "2026-11-13 11:46",
+ "generated_at": "2026-11-13 11:46",
  "period": {
-  "from": "2026-10-14 06:33",
-  "to": "2026-11-13 06:33",
+  "from": "2026-10-14 11:46",
+  "to": "2026-11-13 11:46",
   "days": 30
  },
- "streams_analyzed": 15,
- "streams_missed": 2,
- "unique_chatters": 560,
+ "streams_analyzed": 16,
+ "streams_missed": 1,
+ "unique_chatters": 563,
  "members_confirmed": 212,
  "member_classes": {
   "unknown": 123,
@@ -38,18 +38,18 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 23
+   "members": 22
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 112
+   "members": 113
   }
  ],
  "events": {
   "new_members": 1,
   "rejoins": 1,
-  "milestones": 15,
+  "milestones": 16,
   "gift_purchases": 3,
   "gifted_total": 30,
   "gift_redemptions": 40
@@ -232,6 +232,16 @@
    "member_chatters": 72,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "RI4Oqf8WxGI",
+   "start": "2026-11-12 23:05",
+   "title": "【#apexlegends 】にこつんと潜るエペの世界！【幽音しの:ななしいんく】",
+   "kind": "配信",
+   "chatters": 47,
+   "member_chatters": 35,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -246,18 +256,6 @@
    "members_level": "",
    "like_count": 521,
    "view_count": 7069
-  },
-  {
-   "video_id": "RI4Oqf8WxGI",
-   "start": "2026-11-12 00:00",
-   "title": "【#apexlegends 】にこつんと潜るエペの世界！【幽音しの:ななしいんく】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 305,
-   "view_count": 3681
   }
  ],
  "members_only_content": [],
@@ -381,20 +379,20 @@
     "from": "2026-11-01",
     "to": "2026-11-13"
    },
-   "streams_analyzed": 7,
-   "streams_missed": 2,
-   "unique_chatters": 342,
-   "members_confirmed": 146,
+   "streams_analyzed": 8,
+   "streams_missed": 1,
+   "unique_chatters": 348,
+   "members_confirmed": 147,
    "member_classes": {
-    "unknown": 91,
+    "unknown": 92,
     "known": 45,
     "gift": 10
    },
-   "long_term_members": 90,
+   "long_term_members": 91,
    "badges": [
     {
      "months": 0,
-     "members": 9
+     "members": 10
     },
     {
      "months": 1,
@@ -406,17 +404,17 @@
     },
     {
      "months": 6,
-     "members": 20
+     "members": 19
     },
     {
      "months": 12,
-     "members": 90
+     "members": 91
     }
    ],
    "events": {
     "new_members": 0,
     "rejoins": 0,
-    "milestones": 2,
+    "milestones": 3,
     "gifted_total": 0
    },
    "tiers": [
@@ -424,15 +422,15 @@
      "tier": "しののヒトダマ",
      "price": 490,
      "confirmed_members": 45,
-     "estimated_members": 136.0
+     "estimated_members": 137.0
     }
    ],
    "revenue": {
-    "monthly_low": 42407,
-    "monthly_est": 42407,
+    "monthly_low": 42719,
+    "monthly_est": 42719,
     "gift_once": 0
    },
-   "avg_member_chatters": 58.6,
+   "avg_member_chatters": 55.6,
    "partial": true,
    "finalized": false
   }
