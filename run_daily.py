@@ -18,6 +18,8 @@ GitHub Actions からも、手元のPCからも同じように動く。
     logs/run_<日時>.md に、チャンネルごとの結果 (新規取得数・エラー) を書く。
     GitHub Actions では、同じ内容を実行結果のページ (Summary) にも出し、エラーは注釈 (::error::) にする。
     エラーがあったときは終了コード 1 で終わる → GitHub Actions の実行が「失敗」になり、メールで通知される。
+    その日2回目以降の取得 (予備の実行など) で、時刻のほかに何も変わらなかったチャンネルは、
+    videos.json を取得前のまま戻して集計もしない (GitHub の履歴が無駄に増えないようにするため)。
 
 エラーの扱い:
     ブロック   … チャンネルの一覧すら取れない (fetch_chats.py が終了コード 2)。YouTube にアクセスを止められた可能性
@@ -56,6 +58,7 @@ NOT_FOUND_HINTS = ("does not exist", "HTTP Error 404", "This channel is not avai
 RETRY_STATUSES = {"error", "chat_failed"}
 PENDING_ALERT_DAYS = 7    # 再確認待ちがこの日数を超えたら異常とする
 MIN_NEW_FIRST_RUN = 10    # その日最初の実行 (--groups の範囲ごと) で、新しく取得した配信がこれ未満なら異常とする
+VOLATILE_KEYS = ("fetched_at", "fetched_at_ts", "checked_from")   # 取得のたびに変わる時刻 (中身の変化ではない)
 PARTIAL_MARK = "- 対象: 一部のチャンネル"   # 一部のチャンネルだけの実行 (テスト・手動) のレポートにつける
 GROUPS_MARK = "- 対象グループ: "   # --groups で範囲を決めた実行 (毎朝の分割実行) のレポートにつける
 
@@ -77,6 +80,34 @@ def initial_done(cid: str) -> bool:
     return vp.exists() and bool(json.loads(vp.read_text(encoding="utf-8")).get("initial_fetch_done"))
 
 
+def snapshot(data_dir: Path):
+    """取得の前の状態: videos.json の中身と、元のチャットファイルの一覧"""
+    vp, chats = data_dir / "videos.json", data_dir / "chats"
+    return (vp.read_bytes() if vp.exists() else None,
+            {p.name for p in chats.glob("*.live_chat.json")} if chats.exists() else set())
+
+
+def keep_if_unchanged(data_dir: Path, before) -> bool:
+    """今日すでに取得・集計したチャンネルで、今回の取得で時刻のほかに何も変わらなかったら、
+    videos.json を取得前のまま戻して True を返す (集計とサイトのデータも書き換えずに済み、GitHub の履歴が増えない)。
+    その日最初の取得では、集計期間 (直近30日) を進めるために必ず書き換える"""
+    old_bytes, old_chats = before
+    vp, sp = data_dir / "videos.json", data_dir / "report" / "summary.json"
+    if old_bytes is None or not vp.exists() or not sp.exists():
+        return False
+    old = json.loads(old_bytes.decode("utf-8"))
+    if not str(old.get("fetched_at", "")).startswith(datetime.now(JST).strftime("%Y-%m-%d")):
+        return False   # 今日最初の取得
+    if json.loads(sp.read_text(encoding="utf-8")).get("fetched_at") != old.get("fetched_at"):
+        return False   # 集計が取得前の状態と合っていない
+    new = json.loads(vp.read_text(encoding="utf-8"))
+    strip = lambda s: {k: v for k, v in s.items() if k not in VOLATILE_KEYS}
+    if strip(old) != strip(new) or snapshot(data_dir)[1] != old_chats:
+        return False
+    vp.write_bytes(old_bytes)
+    return True
+
+
 def process(ch: dict, args) -> dict:
     """1チャンネル分: 取得 → 集計"""
     cid = ch["channel_id"]
@@ -93,6 +124,7 @@ def process(ch: dict, args) -> dict:
         res["errors"].append("初回取得がまだです (手元で `python run_daily.py --initial --only " + cid + "` を実行してください)")
         return res
 
+    before = snapshot(data_dir)
     if not args.skip_fetch:
         code, out = run([sys.executable, "fetch_chats.py", cid, "--sleep", str(args.sleep)], args.timeout)
         lm = re.search(r"⚠ (\d+) 枠で、YouTube から欠けた情報", out)
@@ -120,7 +152,12 @@ def process(ch: dict, args) -> dict:
             res["errors"] += failed_lines[:5]
         res["log"] = out[-4000:]
 
-    if res["status"] not in ("blocked", "crashed", "not_found") or (data_dir / "videos.json").exists():
+    if not args.skip_fetch and keep_if_unchanged(data_dir, before):
+        res["kept"] = True   # 時刻のほかに変化がないので、集計もしない (今日の前の実行の結果をそのまま使う)
+        sj = json.loads((data_dir / "report" / "summary.json").read_text(encoding="utf-8"))
+        if sj.get("no_streams") and res["status"] == "ok":
+            res["status"] = "no_streams"
+    elif res["status"] not in ("blocked", "crashed", "not_found") or (data_dir / "videos.json").exists():
         code, out = run([sys.executable, "analyze_badges.py", str(data_dir), "--channels", args.channels], args.timeout)
         if code == 0 and "配信なし:" in out and res["status"] == "ok":
             res["status"] = "no_streams"   # 直近30日に配信がない (エラーではない)
@@ -231,6 +268,9 @@ def write_report(results, started, finished, build_msg, alerts, partial, groups=
              + ("（開始時刻と配信時間はチャットから計算して補っています。"
                 "「新しく取得した配信」が0本に近い日が続く場合だけ、取得自体が止められていないか確認してください）"
                 if limited or warned else ""))
+    kept = sum(1 for r in results if r.get("kept"))
+    if kept:
+        L.append(f"- 変化がなく書き換えなかったチャンネル: {kept} 件 (今日の前の実行の集計をそのまま使っています)")
     L.append(f"- サイト: {build_msg}")
     L.append(f"- 点検: " + (f"異常 {len(alerts)} 件 (下の「点検で見つかった異常」を確認してください)" if alerts else "異常なし"))
     if partial:

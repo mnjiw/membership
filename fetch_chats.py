@@ -474,7 +474,7 @@ def refresh_members_only(args, store: dict, now: float) -> int:
         if v["start_ts"] < now - LIKES_REFRESH_DAYS * 86400:
             continue
         last = v.get("likes_checked_ts") or 0
-        if now - last < 20 * 3600:   # 1日1回で十分
+        if last and fmt_ts(last)[:10] == fmt_ts(now)[:10]:   # 1日1回 (その日最初の取得) で十分
             continue
         try:
             with yt_dlp.YoutubeDL(base_ydl_opts(args)) as ydl:
