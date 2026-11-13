@@ -2,38 +2,38 @@
  "channel": "魁星 / Kaisei【にじさんじ】",
  "channel_id": "UC8SJPcLpIM3x8RdBJFfiluw",
  "handle": "@Kaisei_nijisanji",
- "subscribers": 365000,
- "fetched_at": "2026-11-13 11:42",
- "generated_at": "2026-11-13 11:42",
+ "subscribers": 366000,
+ "fetched_at": "2026-11-14 05:27",
+ "generated_at": "2026-11-14 05:28",
  "period": {
-  "from": "2026-10-14 11:42",
-  "to": "2026-11-13 11:42",
+  "from": "2026-10-15 05:27",
+  "to": "2026-11-14 05:27",
   "days": 30
  },
- "streams_analyzed": 25,
+ "streams_analyzed": 26,
  "streams_missed": 2,
- "unique_chatters": 3262,
+ "unique_chatters": 3272,
  "members_confirmed": 1287,
  "member_classes": {
   "unknown": 1123,
-  "known": 55,
-  "gift": 109
+  "known": 54,
+  "gift": 110
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 168
+   "members": 169
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 50
+   "members": 47
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 143
+   "members": 142
   },
   {
    "months": 6,
@@ -43,16 +43,16 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 739
+   "members": 742
   }
  ],
  "events": {
-  "new_members": 24,
-  "rejoins": 11,
+  "new_members": 23,
+  "rejoins": 12,
   "milestones": 0,
-  "gift_purchases": 5,
-  "gifted_total": 115,
-  "gift_redemptions": 109
+  "gift_purchases": 6,
+  "gifted_total": 116,
+  "gift_redemptions": 110
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,21 +60,21 @@
    "tier": "ファンキーな錠連",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 55,
+   "confirmed_members": 54,
    "share_of_confirmed_pct": 100.0,
    "allocated_unknown": 1123.0,
-   "estimated_members": 1178.0,
-   "monthly_net_confirmed": 17150,
-   "monthly_net_estimated": 367322
+   "estimated_members": 1177.0,
+   "monthly_net_confirmed": 16838,
+   "monthly_net_estimated": 367010
   }
  ],
  "revenue": {
-  "monthly_low": 367322,
-  "monthly_est": 367322,
-  "gift_once": 35859,
+  "monthly_low": 367010,
+  "monthly_est": 367010,
+  "gift_once": 36171,
   "total_low": 403181,
   "total_est": 403181,
-  "paying_members": 1178,
+  "paying_members": 1177,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "NX0-y-fLvhg",
-   "start": "2026-10-14 22:01",
-   "title": "【 Japanese Ramen Simulator 】魂の一杯を創り上げる漢【魁星/にじさんじ】",
-   "kind": "配信",
-   "chatters": 463,
-   "member_chatters": 344,
-   "new_members": 2,
-   "gifted_total": 0
-  },
   {
    "video_id": "WeW3dgFexQM",
    "start": "2026-10-18 22:00",
@@ -332,6 +322,26 @@
    "member_chatters": 307,
    "new_members": 2,
    "gifted_total": 0
+  },
+  {
+   "video_id": "oQJyj6F0TvY",
+   "start": "2026-11-13 23:05",
+   "title": "Chilling and Tidying Up Dinosaur Skeletons 2: DinoBones: Tidy Up the Museum【Kaisei/NIJISANJI】",
+   "kind": "配信",
+   "chatters": 311,
+   "member_chatters": 247,
+   "new_members": 1,
+   "gifted_total": 1
+  },
+  {
+   "video_id": "GDia-Y3AHFI",
+   "start": "2026-11-14 01:02",
+   "title": "【スプラトゥーン3】ランクに潜ってみる！！まずはC帯！！【魁星/にじさんじ】",
+   "kind": "配信",
+   "chatters": 297,
+   "member_chatters": 202,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -356,7 +366,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 412,
+   "like_count": 413,
    "view_count": null
   }
  ],
@@ -378,7 +388,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 412,
+   "like_count": 413,
    "view_count": null
   }
  ],
@@ -511,59 +521,60 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-13"
+    "to": "2026-11-14"
    },
-   "streams_analyzed": 14,
+   "streams_analyzed": 16,
    "streams_missed": 1,
-   "unique_chatters": 2002,
-   "members_confirmed": 857,
+   "unique_chatters": 2089,
+   "members_confirmed": 889,
    "member_classes": {
-    "unknown": 817,
-    "known": 40
+    "unknown": 846,
+    "known": 42,
+    "gift": 1
    },
-   "long_term_members": 560,
+   "long_term_members": 580,
    "badges": [
     {
      "months": 0,
-     "members": 41
+     "members": 46
     },
     {
      "months": 1,
-     "members": 23
+     "members": 24
     },
     {
      "months": 2,
-     "members": 98
+     "members": 101
     },
     {
      "months": 6,
-     "members": 135
+     "members": 138
     },
     {
      "months": 12,
-     "members": 560
+     "members": 580
     }
    ],
    "events": {
-    "new_members": 13,
-    "rejoins": 8,
+    "new_members": 14,
+    "rejoins": 9,
     "milestones": 0,
-    "gifted_total": 0
+    "gifted_total": 1
    },
    "tiers": [
     {
      "tier": "ファンキーな錠連",
      "price": 490,
-     "confirmed_members": 40,
-     "estimated_members": 857.0
+     "confirmed_members": 42,
+     "estimated_members": 888.0
     }
    ],
    "revenue": {
-    "monthly_low": 267228,
-    "monthly_est": 267228,
-    "gift_once": 0
+    "monthly_low": 276895,
+    "monthly_est": 276895,
+    "gift_once": 312
    },
-   "avg_member_chatters": 265.9,
+   "avg_member_chatters": 260.8,
    "partial": true,
    "finalized": false
   }

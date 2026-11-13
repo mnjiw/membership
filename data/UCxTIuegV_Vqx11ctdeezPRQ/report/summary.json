@@ -3,31 +3,31 @@
  "channel_id": "UCxTIuegV_Vqx11ctdeezPRQ",
  "handle": "@KaminagaTaiga",
  "subscribers": 209000,
- "fetched_at": "2026-11-13 11:44",
- "generated_at": "2026-11-13 11:44",
+ "fetched_at": "2026-11-14 05:35",
+ "generated_at": "2026-11-14 05:36",
  "period": {
-  "from": "2026-10-14 11:44",
-  "to": "2026-11-13 11:44",
+  "from": "2026-10-15 05:35",
+  "to": "2026-11-14 05:35",
   "days": 30
  },
  "streams_analyzed": 31,
  "streams_missed": 2,
- "unique_chatters": 7956,
- "members_confirmed": 2270,
+ "unique_chatters": 8052,
+ "members_confirmed": 2316,
  "member_classes": {
-  "known": 1745,
-  "unknown": 465,
+  "known": 1760,
+  "unknown": 496,
   "gift": 60
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 2270
+   "members": 2316
   }
  ],
  "events": {
-  "new_members": 1748,
+  "new_members": 1763,
   "rejoins": 0,
   "milestones": 0,
   "gift_purchases": 9,
@@ -40,21 +40,21 @@
    "tier": "虎っ子部",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 1745,
+   "confirmed_members": 1760,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 465.0,
-   "estimated_members": 2210.0,
-   "monthly_net_confirmed": 544123,
-   "monthly_net_estimated": 689118
+   "allocated_unknown": 496.0,
+   "estimated_members": 2256.0,
+   "monthly_net_confirmed": 548800,
+   "monthly_net_estimated": 703462
   }
  ],
  "revenue": {
-  "monthly_low": 689118,
-  "monthly_est": 689118,
+  "monthly_low": 703462,
+  "monthly_est": 703462,
   "gift_once": 19021,
-  "total_low": 708139,
-  "total_est": 708139,
-  "paying_members": 2210,
+  "total_low": 722483,
+  "total_est": 722483,
+  "paying_members": 2256,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -63,16 +63,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "M-LJdXxkH-Y",
-   "start": "2026-10-14 21:30",
-   "title": "【あつまれどうぶつの森#７】ごっ島進化させてくぞー！～平日夜のまったり時間～　# ０１【神永タイガ / にじさんじ】",
-   "kind": "配信",
-   "chatters": 414,
-   "member_chatters": 0,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "j0hDzVZezhU",
    "start": "2026-10-15 07:00",
@@ -372,6 +362,16 @@
    "member_chatters": 454,
    "new_members": 2,
    "gifted_total": 0
+  },
+  {
+   "video_id": "ubPSUxkYip4",
+   "start": "2026-11-13 23:00",
+   "title": "【夜チル】演奏＆雑談配信🎻するな！！！　# ０２【神永タイガ / にじさんじ】",
+   "kind": "配信",
+   "chatters": 1000,
+   "member_chatters": 731,
+   "new_members": 15,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -384,7 +384,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "虎っ子部",
-   "like_count": 733,
+   "like_count": 735,
    "view_count": null
   },
   {
@@ -396,7 +396,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 914,
+   "like_count": 920,
    "view_count": null
   }
  ],
@@ -408,7 +408,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "虎っ子部",
-   "like_count": 733,
+   "like_count": 735,
    "view_count": null
   },
   {
@@ -418,7 +418,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 914,
+   "like_count": 920,
    "view_count": null
   }
  ],
@@ -499,26 +499,26 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-13"
+    "to": "2026-11-14"
    },
-   "streams_analyzed": 13,
+   "streams_analyzed": 14,
    "streams_missed": 1,
-   "unique_chatters": 4633,
-   "members_confirmed": 1650,
+   "unique_chatters": 4834,
+   "members_confirmed": 1731,
    "member_classes": {
-    "known": 1161,
-    "unknown": 465,
+    "known": 1211,
+    "unknown": 496,
     "gift": 24
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 1650
+     "members": 1731
     }
    ],
    "events": {
-    "new_members": 223,
+    "new_members": 238,
     "rejoins": 0,
     "milestones": 0,
     "gifted_total": 25
@@ -527,16 +527,16 @@
     {
      "tier": "虎っ子部",
      "price": 490,
-     "confirmed_members": 1161,
-     "estimated_members": 1626.0
+     "confirmed_members": 1211,
+     "estimated_members": 1707.0
     }
    ],
    "revenue": {
-    "monthly_low": 507016,
-    "monthly_est": 507016,
+    "monthly_low": 532274,
+    "monthly_est": 532274,
     "gift_once": 7795
    },
-   "avg_member_chatters": 483.9,
+   "avg_member_chatters": 501.6,
    "partial": true,
    "finalized": false
   }

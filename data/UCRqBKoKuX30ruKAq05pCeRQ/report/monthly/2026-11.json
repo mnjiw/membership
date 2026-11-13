@@ -2,49 +2,53 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-13"
+  "to": "2026-11-14"
  },
- "streams_analyzed": 4,
+ "streams_analyzed": 5,
  "streams_missed": 1,
- "unique_chatters": 117,
- "members_confirmed": 69,
+ "unique_chatters": 164,
+ "members_confirmed": 83,
  "member_classes": {
-  "unknown": 65,
-  "known": 4
+  "unknown": 78,
+  "known": 5
  },
  "long_term_members": 0,
  "badges": [
   {
    "months": 0,
-   "members": 2
+   "members": 1
+  },
+  {
+   "months": 1,
+   "members": 1
   },
   {
    "months": 2,
-   "members": 9
+   "members": 10
   },
   {
    "months": 6,
-   "members": 58
+   "members": 71
   }
  ],
  "events": {
   "new_members": 0,
   "rejoins": 0,
-  "milestones": 1,
+  "milestones": 2,
   "gifted_total": 0
  },
  "tiers": [
   {
    "tier": "ひみつの部屋🦈",
    "price": 490,
-   "confirmed_members": 3,
-   "estimated_members": 51.8
+   "confirmed_members": 4,
+   "estimated_members": 66.4
   },
   {
    "tier": "ひみつの部屋のクローゼット🦈",
    "price": 3490,
    "confirmed_members": 1,
-   "estimated_members": 17.2
+   "estimated_members": 16.6
   },
   {
    "tier": "わたしの部屋❇",
@@ -54,11 +58,11 @@
   }
  ],
  "revenue": {
-  "monthly_low": 23425,
-  "monthly_est": 54447,
+  "monthly_low": 27790,
+  "monthly_est": 57572,
   "gift_once": 0
  },
- "avg_member_chatters": 40.5,
+ "avg_member_chatters": 43,
  "partial": true,
  "finalized": false
 }

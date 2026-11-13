@@ -3,19 +3,19 @@
  "channel_id": "UC_4QF0dL-9XI9VajsNkMtmQ",
  "handle": "@Rei7_Y4T4",
  "subscribers": 180000,
- "fetched_at": "2026-11-13 11:43",
- "generated_at": "2026-11-13 11:43",
+ "fetched_at": "2026-11-14 05:30",
+ "generated_at": "2026-11-14 05:31",
  "period": {
-  "from": "2026-10-14 11:43",
-  "to": "2026-11-13 11:43",
+  "from": "2026-10-15 05:30",
+  "to": "2026-11-14 05:30",
   "days": 30
  },
- "streams_analyzed": 30,
- "streams_missed": 2,
- "unique_chatters": 5295,
- "members_confirmed": 711,
+ "streams_analyzed": 29,
+ "streams_missed": 3,
+ "unique_chatters": 5256,
+ "members_confirmed": 710,
  "member_classes": {
-  "unknown": 620,
+  "unknown": 619,
   "known": 79,
   "gift": 12
  },
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 572
+   "members": 571
   }
  ],
  "events": {
@@ -52,19 +52,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 79,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 620.0,
-   "estimated_members": 699.0,
+   "allocated_unknown": 619.0,
+   "estimated_members": 698.0,
    "monthly_net_confirmed": 24634,
-   "monthly_net_estimated": 217961
+   "monthly_net_estimated": 217649
   }
  ],
  "revenue": {
-  "monthly_low": 217961,
-  "monthly_est": 217961,
+  "monthly_low": 217649,
+  "monthly_est": 217649,
   "gift_once": 3742,
-  "total_low": 221703,
-  "total_est": 221703,
-  "paying_members": 699,
+  "total_low": 221391,
+  "total_est": 221391,
+  "paying_members": 698,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "Y8ZJcPlaA1U",
-   "start": "2026-10-14 19:30",
-   "title": "【 Overwatch 】ｿﾛﾗﾝ【 Rei7 / にじさんじ 】",
-   "kind": "配信",
-   "chatters": 208,
-   "member_chatters": 93,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "IYZ64k3Ts-w",
    "start": "2026-10-16 20:00",
@@ -398,6 +388,18 @@
    "members_level": "Ris7",
    "like_count": 249,
    "view_count": null
+  },
+  {
+   "video_id": "6iIrxSzrmzc",
+   "start": "2026-11-13 00:00",
+   "title": "[ Chat ] Rei7 asks an AI if she's a gyaru, talks about how she's too guarded in public, and intro...",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 913,
+   "view_count": 44272
   }
  ],
  "members_only_content": [
@@ -535,10 +537,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-13"
+    "to": "2026-11-14"
    },
    "streams_analyzed": 11,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 2637,
    "members_confirmed": 464,
    "member_classes": {

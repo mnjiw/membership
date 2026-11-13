@@ -2,59 +2,60 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-13"
+  "to": "2026-11-14"
  },
- "streams_analyzed": 14,
+ "streams_analyzed": 16,
  "streams_missed": 1,
- "unique_chatters": 2002,
- "members_confirmed": 857,
+ "unique_chatters": 2089,
+ "members_confirmed": 889,
  "member_classes": {
-  "unknown": 817,
-  "known": 40
+  "unknown": 846,
+  "known": 42,
+  "gift": 1
  },
- "long_term_members": 560,
+ "long_term_members": 580,
  "badges": [
   {
    "months": 0,
-   "members": 41
+   "members": 46
   },
   {
    "months": 1,
-   "members": 23
+   "members": 24
   },
   {
    "months": 2,
-   "members": 98
+   "members": 101
   },
   {
    "months": 6,
-   "members": 135
+   "members": 138
   },
   {
    "months": 12,
-   "members": 560
+   "members": 580
   }
  ],
  "events": {
-  "new_members": 13,
-  "rejoins": 8,
+  "new_members": 14,
+  "rejoins": 9,
   "milestones": 0,
-  "gifted_total": 0
+  "gifted_total": 1
  },
  "tiers": [
   {
    "tier": "ファンキーな錠連",
    "price": 490,
-   "confirmed_members": 40,
-   "estimated_members": 857.0
+   "confirmed_members": 42,
+   "estimated_members": 888.0
   }
  ],
  "revenue": {
-  "monthly_low": 267228,
-  "monthly_est": 267228,
-  "gift_once": 0
+  "monthly_low": 276895,
+  "monthly_est": 276895,
+  "gift_once": 312
  },
- "avg_member_chatters": 265.9,
+ "avg_member_chatters": 260.8,
  "partial": true,
  "finalized": false
 }

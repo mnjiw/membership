@@ -3,16 +3,16 @@
  "channel_id": "UCWz0CSYCxf4MhRKPDm220AQ",
  "handle": "@KandaShoichi",
  "subscribers": 268000,
- "fetched_at": "2026-11-13 11:37",
- "generated_at": "2026-11-13 11:37",
+ "fetched_at": "2026-11-14 05:19",
+ "generated_at": "2026-11-14 05:20",
  "period": {
-  "from": "2026-10-14 11:37",
-  "to": "2026-11-13 11:37",
+  "from": "2026-10-15 05:19",
+  "to": "2026-11-14 05:19",
   "days": 30
  },
  "streams_analyzed": 20,
  "streams_missed": 0,
- "unique_chatters": 853,
+ "unique_chatters": 1159,
  "members_confirmed": 57,
  "member_classes": {
   "unknown": 53,
@@ -77,16 +77,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "dsdrLg4b__I",
-   "start": "2026-10-14 21:00",
-   "title": "【 #7 FE万紫千紅 】 ディートリヒ編 第1部10章！早く続きをやらせてくれ！！！！！！！！！ 【 ファイアーエムブレム万紫千紅 / 神田笑一 / にじさんじ 】",
-   "kind": "配信",
-   "chatters": 54,
-   "member_chatters": 18,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "VodVmyxrJ34",
    "start": "2026-10-15 21:01",
@@ -276,6 +266,16 @@
    "member_chatters": 14,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "twJxclpr6bc",
+   "start": "2026-11-13 18:59",
+   "title": "『 推しメシNo.1決定戦 ~ モスバーガー編 ~ 』今夜のNo.1は！？ 【 にじさんじ / 神田笑一 / える / 文野環 / ドーラ / イ・ロハ / Petra Gurin / 白砂あやね 】",
+   "kind": "配信",
+   "chatters": 371,
+   "member_chatters": 23,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -399,18 +399,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-13"
+    "to": "2026-11-14"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 6,
    "streams_missed": 0,
-   "unique_chatters": 258,
-   "members_confirmed": 31,
+   "unique_chatters": 603,
+   "members_confirmed": 39,
    "member_classes": {
-    "unknown": 30,
-    "known": 1
+    "unknown": 37,
+    "known": 2
    },
    "long_term_members": 0,
    "badges": [
+    {
+     "months": 0,
+     "members": 1
+    },
     {
      "months": 1,
      "members": 2
@@ -421,7 +425,7 @@
     },
     {
      "months": 6,
-     "members": 28
+     "members": 35
     }
    ],
    "events": {
@@ -434,16 +438,16 @@
     {
      "tier": "奇特なトマト",
      "price": 490,
-     "confirmed_members": 1,
-     "estimated_members": 31.0
+     "confirmed_members": 2,
+     "estimated_members": 39.0
     }
    ],
    "revenue": {
-    "monthly_low": 9666,
-    "monthly_est": 9666,
+    "monthly_low": 12161,
+    "monthly_est": 12161,
     "gift_once": 0
    },
-   "avg_member_chatters": 11.8,
+   "avg_member_chatters": 13.7,
    "partial": true,
    "finalized": false
   }

@@ -3,32 +3,32 @@
  "channel_id": "UC_GCs6GARLxEHxy1w40d6VQ",
  "handle": "@IenagaMugi",
  "subscribers": 309000,
- "fetched_at": "2026-11-13 11:36",
- "generated_at": "2026-11-13 11:37",
+ "fetched_at": "2026-11-14 05:18",
+ "generated_at": "2026-11-14 05:19",
  "period": {
-  "from": "2026-10-14 11:36",
-  "to": "2026-11-13 11:36",
+  "from": "2026-10-15 05:18",
+  "to": "2026-11-14 05:18",
   "days": 30
  },
  "streams_analyzed": 10,
  "streams_missed": 3,
- "unique_chatters": 2442,
+ "unique_chatters": 2356,
  "members_confirmed": 370,
  "member_classes": {
+  "known": 34,
   "unknown": 271,
-  "known": 33,
-  "gift": 66
+  "gift": 65
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 81
+   "members": 82
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 12
+   "members": 11
   },
   {
    "months": 2,
@@ -62,12 +62,12 @@
   }
  ],
  "events": {
-  "new_members": 12,
+  "new_members": 13,
   "rejoins": 1,
   "milestones": 17,
-  "gift_purchases": 14,
-  "gifted_total": 66,
-  "gift_redemptions": 66
+  "gift_purchases": 13,
+  "gifted_total": 65,
+  "gift_redemptions": 65
  },
  "tiers_configured": true,
  "tiers": [
@@ -75,21 +75,21 @@
    "tier": "もっといっぱい家長むぎ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 33,
+   "confirmed_members": 34,
    "share_of_confirmed_pct": 100.0,
    "allocated_unknown": 271.0,
-   "estimated_members": 304.0,
-   "monthly_net_confirmed": 10290,
-   "monthly_net_estimated": 94793
+   "estimated_members": 305.0,
+   "monthly_net_confirmed": 10602,
+   "monthly_net_estimated": 95105
   }
  ],
  "revenue": {
-  "monthly_low": 94793,
-  "monthly_est": 94793,
-  "gift_once": 20580,
+  "monthly_low": 95105,
+  "monthly_est": 95105,
+  "gift_once": 20268,
   "total_low": 115373,
   "total_est": 115373,
-  "paying_members": 304,
+  "paying_members": 305,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "ZV0sYgEEb2U",
-   "start": "2026-10-14 20:00",
-   "title": "【 Study with me 】3h🌜いっしょに勉強&作業 / 30min+5min【 にじさんじ / 家長むぎ 】",
-   "kind": "配信",
-   "chatters": 473,
-   "member_chatters": 42,
-   "new_members": 0,
-   "gifted_total": 1
-  },
   {
    "video_id": "5Vj5EWFjqDk",
    "start": "2026-10-18 20:00",
@@ -197,6 +187,16 @@
    "member_chatters": 142,
    "new_members": 0,
    "gifted_total": 6
+  },
+  {
+   "video_id": "3SC_9oMAcQc",
+   "start": "2026-11-13 13:00",
+   "title": "【 Study with me 】3h☕いっしょに勉強&作業 / 30min+5min【 にじさんじ / 家長むぎ 】",
+   "kind": "配信",
+   "chatters": 227,
+   "member_chatters": 26,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -221,7 +221,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 57,
+   "like_count": 58,
    "view_count": null
   },
   {
@@ -255,7 +255,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 57,
+   "like_count": 58,
    "view_count": null
   },
   {
@@ -422,30 +422,30 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-13"
+    "to": "2026-11-14"
    },
-   "streams_analyzed": 4,
+   "streams_analyzed": 5,
    "streams_missed": 1,
-   "unique_chatters": 1316,
-   "members_confirmed": 307,
+   "unique_chatters": 1460,
+   "members_confirmed": 311,
    "member_classes": {
-    "unknown": 237,
-    "known": 29,
+    "unknown": 240,
+    "known": 30,
     "gift": 41
    },
    "long_term_members": 185,
    "badges": [
     {
      "months": 0,
-     "members": 52
+     "members": 55
     },
     {
      "months": 1,
-     "members": 10
+     "members": 9
     },
     {
      "months": 2,
-     "members": 19
+     "members": 21
     },
     {
      "months": 6,
@@ -469,7 +469,7 @@
     }
    ],
    "events": {
-    "new_members": 7,
+    "new_members": 8,
     "rejoins": 1,
     "milestones": 13,
     "gifted_total": 41
@@ -478,16 +478,16 @@
     {
      "tier": "もっといっぱい家長むぎ",
      "price": 490,
-     "confirmed_members": 29,
-     "estimated_members": 266.0
+     "confirmed_members": 30,
+     "estimated_members": 270.0
     }
    ],
    "revenue": {
-    "monthly_low": 82944,
-    "monthly_est": 82944,
+    "monthly_low": 84191,
+    "monthly_est": 84191,
     "gift_once": 12785
    },
-   "avg_member_chatters": 126.5,
+   "avg_member_chatters": 106.4,
    "partial": true,
    "finalized": false
   }

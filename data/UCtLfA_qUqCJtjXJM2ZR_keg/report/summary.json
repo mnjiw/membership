@@ -3,11 +3,11 @@
  "channel_id": "UCtLfA_qUqCJtjXJM2ZR_keg",
  "handle": "@IshigamiNozomi",
  "subscribers": 443000,
- "fetched_at": "2026-11-13 11:41",
- "generated_at": "2026-11-13 11:41",
+ "fetched_at": "2026-11-14 05:25",
+ "generated_at": "2026-11-14 05:26",
  "period": {
-  "from": "2026-10-14 11:41",
-  "to": "2026-11-13 11:41",
+  "from": "2026-10-15 05:25",
+  "to": "2026-11-14 05:25",
   "days": 30
  },
  "streams_analyzed": 16,
@@ -251,19 +251,30 @@
  ],
  "missed_streams": [
   {
-   "video_id": "Jeb_tqHulXw",
-   "start": "2026-11-10 00:00",
-   "title": "時オカリメイクでも小さくて丸いやつを発見して爆笑する石神【 時オカリメイク / 石神のぞみ #石神のぞみ切り抜き 】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
+   "video_id": "-hs6IQ8QEnU",
+   "start": "2026-11-14 00:03",
+   "title": "【 メン限 】冬だァ…？",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
    "members_level": "",
-   "like_count": 1446,
-   "view_count": 124241
+   "like_count": 529,
+   "view_count": null
   }
  ],
- "members_only_content": [],
+ "members_only_content": [
+  {
+   "video_id": "-hs6IQ8QEnU",
+   "start": "2026-11-14 00:03",
+   "title": "【 メン限 】冬だァ…？",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 529,
+   "view_count": null
+  }
+ ],
  "history": [
   {
    "month": "2026-09",
@@ -400,7 +411,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-13"
+    "to": "2026-11-14"
    },
    "streams_analyzed": 6,
    "streams_missed": 1,

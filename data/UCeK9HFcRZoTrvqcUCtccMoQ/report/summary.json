@@ -3,19 +3,19 @@
  "channel_id": "UCeK9HFcRZoTrvqcUCtccMoQ",
  "handle": "@ShibuyaHajime",
  "subscribers": 161000,
- "fetched_at": "2026-11-13 11:36",
- "generated_at": "2026-11-13 11:36",
+ "fetched_at": "2026-11-14 05:18",
+ "generated_at": "2026-11-14 05:18",
  "period": {
-  "from": "2026-10-14 11:36",
-  "to": "2026-11-13 11:36",
+  "from": "2026-10-15 05:18",
+  "to": "2026-11-14 05:18",
   "days": 30
  },
  "streams_analyzed": 17,
  "streams_missed": 0,
- "unique_chatters": 256,
- "members_confirmed": 52,
+ "unique_chatters": 242,
+ "members_confirmed": 54,
  "member_classes": {
-  "unknown": 52
+  "unknown": 54
  },
  "badges": [
   {
@@ -36,7 +36,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 3
+   "members": 4
   },
   {
    "months": 12,
@@ -46,13 +46,13 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 34
+   "members": 35
   }
  ],
  "events": {
   "new_members": 3,
-  "rejoins": 1,
-  "milestones": 17,
+  "rejoins": 2,
+  "milestones": 15,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -65,19 +65,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 0,
    "share_of_confirmed_pct": "",
-   "allocated_unknown": 52.0,
-   "estimated_members": 52.0,
+   "allocated_unknown": 54.0,
+   "estimated_members": 54.0,
    "monthly_net_confirmed": 0,
-   "monthly_net_estimated": 16215
+   "monthly_net_estimated": 16838
   }
  ],
  "revenue": {
-  "monthly_low": 16215,
-  "monthly_est": 16215,
+  "monthly_low": 16838,
+  "monthly_est": 16838,
   "gift_once": 0,
-  "total_low": 16215,
-  "total_est": 16215,
-  "paying_members": 52,
+  "total_low": 16838,
+  "total_est": 16838,
+  "paying_members": 54,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -86,16 +86,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "nH65TKt9mpw",
-   "start": "2026-10-14 23:01",
-   "title": "【雑談】話題を下さい。【にじさんじ/渋谷ハジメ】",
-   "kind": "配信",
-   "chatters": 62,
-   "member_chatters": 20,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "JvgUnx5nH5w",
    "start": "2026-10-15 18:29",
@@ -255,6 +245,16 @@
    "member_chatters": 20,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "Vfkbr3fUVCA",
+   "start": "2026-11-13 22:11",
+   "title": "【雑談】なんなんなんなんなん【にじさんじ/渋谷ハジメ】",
+   "kind": "配信",
+   "chatters": 45,
+   "member_chatters": 24,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -392,16 +392,16 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-13"
+    "to": "2026-11-14"
    },
-   "streams_analyzed": 6,
+   "streams_analyzed": 7,
    "streams_missed": 0,
-   "unique_chatters": 104,
-   "members_confirmed": 38,
+   "unique_chatters": 118,
+   "members_confirmed": 43,
    "member_classes": {
-    "unknown": 38
+    "unknown": 43
    },
-   "long_term_members": 28,
+   "long_term_members": 32,
    "badges": [
     {
      "months": 0,
@@ -417,7 +417,7 @@
     },
     {
      "months": 6,
-     "members": 3
+     "members": 4
     },
     {
      "months": 12,
@@ -425,13 +425,13 @@
     },
     {
      "months": 24,
-     "members": 22
+     "members": 26
     }
    ],
    "events": {
     "new_members": 1,
-    "rejoins": 1,
-    "milestones": 3,
+    "rejoins": 2,
+    "milestones": 4,
     "gifted_total": 0
    },
    "tiers": [
@@ -439,15 +439,15 @@
      "tier": "メンバーシップ",
      "price": 490,
      "confirmed_members": 0,
-     "estimated_members": 38.0
+     "estimated_members": 43.0
     }
    ],
    "revenue": {
-    "monthly_low": 11849,
-    "monthly_est": 11849,
+    "monthly_low": 13408,
+    "monthly_est": 13408,
     "gift_once": 0
    },
-   "avg_member_chatters": 19.2,
+   "avg_member_chatters": 19.9,
    "partial": true,
    "finalized": false
   }

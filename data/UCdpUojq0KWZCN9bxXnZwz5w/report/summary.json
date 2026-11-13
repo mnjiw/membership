@@ -3,26 +3,26 @@
  "channel_id": "UCdpUojq0KWZCN9bxXnZwz5w",
  "handle": "@ArsAlmal",
  "subscribers": 866000,
- "fetched_at": "2026-11-13 11:39",
- "generated_at": "2026-11-13 11:39",
+ "fetched_at": "2026-11-14 05:22",
+ "generated_at": "2026-11-14 05:22",
  "period": {
-  "from": "2026-10-14 11:39",
-  "to": "2026-11-13 11:39",
+  "from": "2026-10-15 05:22",
+  "to": "2026-11-14 05:22",
   "days": 30
  },
- "streams_analyzed": 6,
+ "streams_analyzed": 5,
  "streams_missed": 3,
- "unique_chatters": 1060,
- "members_confirmed": 228,
+ "unique_chatters": 961,
+ "members_confirmed": 223,
  "member_classes": {
-  "unknown": 207,
-  "known": 21
+  "known": 21,
+  "unknown": 202
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 6
+   "members": 5
   },
   {
    "months": 1,
@@ -37,17 +37,17 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 16
+   "members": 15
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 99
+   "members": 97
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 101
+   "members": 100
   }
  ],
  "events": {
@@ -66,10 +66,10 @@
    "net_per_member": 184.5,
    "confirmed_members": 2,
    "share_of_confirmed_pct": 9.5,
-   "allocated_unknown": 19.7,
-   "estimated_members": 21.7,
+   "allocated_unknown": 19.2,
+   "estimated_members": 21.2,
    "monthly_net_confirmed": 369,
-   "monthly_net_estimated": 4007
+   "monthly_net_estimated": 3919
   },
   {
    "tier": "トゲ丸",
@@ -77,19 +77,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 19,
    "share_of_confirmed_pct": 90.5,
-   "allocated_unknown": 187.3,
-   "estimated_members": 206.3,
+   "allocated_unknown": 182.8,
+   "estimated_members": 201.8,
    "monthly_net_confirmed": 5925,
-   "monthly_net_estimated": 64324
+   "monthly_net_estimated": 62913
   }
  ],
  "revenue": {
-  "monthly_low": 44495,
-  "monthly_est": 68331,
+  "monthly_low": 43572,
+  "monthly_est": 66832,
   "gift_once": 0,
-  "total_low": 44495,
-  "total_est": 68331,
-  "paying_members": 228,
+  "total_low": 43572,
+  "total_est": 66832,
+  "paying_members": 223,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "M1dnflBkPBA",
-   "start": "2026-10-15 00:21",
-   "title": "＃04【ゼルダの伝説 風のタクト HD】魔獣の島～大地の神殿【アルス・アルマル/にじさんじ】",
-   "kind": "配信",
-   "chatters": 348,
-   "member_chatters": 66,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "1d7PI3YK-BQ",
    "start": "2026-10-16 00:02",
@@ -181,7 +171,7 @@
    "reason": "配信後にメンバー限定に変更",
    "members_only": true,
    "members_level": "トゲ丸",
-   "like_count": 1494,
+   "like_count": 1493,
    "view_count": null
   },
   {
@@ -215,7 +205,7 @@
    "kind": "live",
    "status": "became_members_only",
    "members_level": "トゲ丸",
-   "like_count": 1494,
+   "like_count": 1493,
    "view_count": null
   },
   {
@@ -373,7 +363,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-13"
+    "to": "2026-11-14"
    },
    "streams_analyzed": 2,
    "streams_missed": 0,

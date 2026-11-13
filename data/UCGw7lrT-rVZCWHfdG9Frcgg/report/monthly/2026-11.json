@@ -2,81 +2,82 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-13"
+  "to": "2026-11-14"
  },
- "streams_analyzed": 13,
+ "streams_analyzed": 14,
  "streams_missed": 0,
- "unique_chatters": 724,
- "members_confirmed": 307,
+ "unique_chatters": 952,
+ "members_confirmed": 382,
  "member_classes": {
-  "unknown": 298,
-  "known": 9
+  "unknown": 356,
+  "known": 11,
+  "gift": 15
  },
- "long_term_members": 228,
+ "long_term_members": 274,
  "badges": [
   {
    "months": 0,
-   "members": 7
+   "members": 23
   },
   {
    "months": 1,
-   "members": 6
+   "members": 9
   },
   {
    "months": 2,
-   "members": 27
+   "members": 36
   },
   {
    "months": 6,
-   "members": 39
+   "members": 40
   },
   {
    "months": 12,
-   "members": 72
+   "members": 85
   },
   {
    "months": 24,
-   "members": 32
+   "members": 39
   },
   {
    "months": 36,
-   "members": 42
+   "members": 52
   },
   {
    "months": 48,
-   "members": 82
+   "members": 98
   }
  ],
  "events": {
-  "new_members": 4,
+  "new_members": 5,
   "rejoins": 3,
   "milestones": 0,
-  "gifted_total": 0
+  "gifted_total": 15
  },
  "tiers": [
   {
    "tier": "弦月さん家の魔を愛でよ！",
    "price": 290,
-   "confirmed_members": 0,
-   "estimated_members": 0.0
+   "confirmed_members": 1,
+   "estimated_members": 33.4
   },
   {
    "tier": "弦月さん家の魔と歩こ！",
    "price": 390,
-   "confirmed_members": 1,
-   "estimated_members": 34.1
+   "confirmed_members": 2,
+   "estimated_members": 66.7
   },
   {
    "tier": "弦月さん家の魔と遊ぼ！",
    "price": 490,
    "confirmed_members": 7,
-   "estimated_members": 238.8
+   "estimated_members": 233.5
   },
   {
    "tier": "弦月さん家の魔と暮らそ！",
    "price": 1190,
    "confirmed_members": 1,
-   "estimated_members": 34.1
+   "estimated_members": 33.4
   },
   {
    "tier": "弦月さん家の魔を知ろ！",
@@ -86,11 +87,11 @@
   }
  ],
  "revenue": {
-  "monthly_low": 58183,
-  "monthly_est": 108752,
-  "gift_once": 0
+  "monthly_low": 69319,
+  "monthly_est": 120807,
+  "gift_once": 2768
  },
- "avg_member_chatters": 87.5,
+ "avg_member_chatters": 98.1,
  "partial": true,
  "finalized": false
 }

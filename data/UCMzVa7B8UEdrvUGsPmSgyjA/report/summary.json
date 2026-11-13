@@ -3,27 +3,27 @@
  "channel_id": "UCMzVa7B8UEdrvUGsPmSgyjA",
  "handle": "@DeremKado",
  "subscribers": 48400,
- "fetched_at": "2026-11-13 11:41",
- "generated_at": "2026-11-13 11:41",
+ "fetched_at": "2026-11-14 05:24",
+ "generated_at": "2026-11-14 05:25",
  "period": {
-  "from": "2026-10-14 11:41",
-  "to": "2026-11-13 11:41",
+  "from": "2026-10-15 05:24",
+  "to": "2026-11-14 05:24",
   "days": 30
  },
- "streams_analyzed": 20,
- "streams_missed": 1,
- "unique_chatters": 187,
- "members_confirmed": 119,
+ "streams_analyzed": 22,
+ "streams_missed": 0,
+ "unique_chatters": 199,
+ "members_confirmed": 124,
  "member_classes": {
-  "unknown": 23,
-  "known": 3,
-  "gift": 93
+  "unknown": 22,
+  "known": 4,
+  "gift": 98
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 91
+   "members": 96
   },
   {
    "months": 1,
@@ -64,10 +64,10 @@
  "events": {
   "new_members": 0,
   "rejoins": 0,
-  "milestones": 3,
-  "gift_purchases": 19,
-  "gifted_total": 93,
-  "gift_redemptions": 93
+  "milestones": 4,
+  "gift_purchases": 20,
+  "gifted_total": 98,
+  "gift_redemptions": 98
  },
  "tiers_configured": true,
  "tiers": [
@@ -75,20 +75,20 @@
    "tier": "Magical Domikado",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 3,
+   "confirmed_members": 4,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 23.0,
+   "allocated_unknown": 22.0,
    "estimated_members": 26.0,
-   "monthly_net_confirmed": 935,
+   "monthly_net_confirmed": 1247,
    "monthly_net_estimated": 8107
   }
  ],
  "revenue": {
   "monthly_low": 8107,
   "monthly_est": 8107,
-  "gift_once": 28999,
-  "total_low": 37106,
-  "total_est": 37106,
+  "gift_once": 30558,
+  "total_low": 38665,
+  "total_est": 38665,
   "paying_members": 26,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -297,22 +297,29 @@
    "member_chatters": 27,
    "new_members": 0,
    "gifted_total": 21
-  }
- ],
- "missed_streams": [
+  },
   {
    "video_id": "jPmOQrAeh-g",
-   "start": "2026-11-11 00:00",
+   "start": "2026-11-12 08:05",
    "title": "【 #DistrictV2 】 #9 【 NIJISANJI | Derem Kado 】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 156,
-   "view_count": 1799
+   "kind": "配信",
+   "chatters": 39,
+   "member_chatters": 12,
+   "new_members": 0,
+   "gifted_total": 5
+  },
+  {
+   "video_id": "Q72bHdAl5-0",
+   "start": "2026-11-13 08:04",
+   "title": "【 #DistrictV2 】 #10 【 NIJISANJI | Derem Kado 】",
+   "kind": "配信",
+   "chatters": 37,
+   "member_chatters": 7,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -467,22 +474,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-13"
+    "to": "2026-11-14"
    },
-   "streams_analyzed": 11,
-   "streams_missed": 1,
-   "unique_chatters": 128,
-   "members_confirmed": 89,
+   "streams_analyzed": 13,
+   "streams_missed": 0,
+   "unique_chatters": 140,
+   "members_confirmed": 95,
    "member_classes": {
-    "known": 3,
+    "known": 4,
     "unknown": 15,
-    "gift": 71
+    "gift": 76
    },
    "long_term_members": 16,
    "badges": [
     {
      "months": 0,
-     "members": 70
+     "members": 75
     },
     {
      "months": 1,
@@ -490,7 +497,7 @@
     },
     {
      "months": 2,
-     "members": 2
+     "members": 3
     },
     {
      "months": 12,
@@ -512,23 +519,23 @@
    "events": {
     "new_members": 0,
     "rejoins": 0,
-    "milestones": 2,
-    "gifted_total": 71
+    "milestones": 3,
+    "gifted_total": 76
    },
    "tiers": [
     {
      "tier": "Magical Domikado",
      "price": 490,
-     "confirmed_members": 3,
-     "estimated_members": 18.0
+     "confirmed_members": 4,
+     "estimated_members": 19.0
     }
    ],
    "revenue": {
-    "monthly_low": 5613,
-    "monthly_est": 5613,
-    "gift_once": 22139
+    "monthly_low": 5925,
+    "monthly_est": 5925,
+    "gift_once": 23698
    },
-   "avg_member_chatters": 11.8,
+   "avg_member_chatters": 11.5,
    "partial": true,
    "finalized": false
   }

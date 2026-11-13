@@ -3,20 +3,20 @@
  "channel_id": "UCz89MGFBrAqwJ5xMr5weSuA",
  "handle": "@InamiRai",
  "subscribers": 426000,
- "fetched_at": "2026-11-13 11:42",
- "generated_at": "2026-11-13 11:42",
+ "fetched_at": "2026-11-14 05:27",
+ "generated_at": "2026-11-14 05:27",
  "period": {
-  "from": "2026-10-14 11:42",
-  "to": "2026-11-13 11:42",
+  "from": "2026-10-15 05:27",
+  "to": "2026-11-14 05:27",
   "days": 30
  },
  "streams_analyzed": 33,
  "streams_missed": 1,
- "unique_chatters": 8059,
- "members_confirmed": 3155,
+ "unique_chatters": 7990,
+ "members_confirmed": 3148,
  "member_classes": {
-  "unknown": 2292,
-  "known": 796,
+  "unknown": 2286,
+  "known": 795,
   "gift": 67
  },
  "badges": [
@@ -28,22 +28,22 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 115
+   "members": 116
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 434
+   "members": 432
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 437
+   "members": 435
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 1073
+   "members": 1069
   },
   {
    "months": 24,
@@ -57,8 +57,8 @@
   }
  ],
  "events": {
-  "new_members": 251,
-  "rejoins": 47,
+  "new_members": 248,
+  "rejoins": 46,
   "milestones": 336,
   "gift_purchases": 11,
   "gifted_total": 68,
@@ -70,21 +70,21 @@
    "tier": "伊波すたじお",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 796,
+   "confirmed_members": 795,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2292.0,
-   "estimated_members": 3088.0,
-   "monthly_net_confirmed": 248207,
-   "monthly_net_estimated": 962895
+   "allocated_unknown": 2286.0,
+   "estimated_members": 3081.0,
+   "monthly_net_confirmed": 247895,
+   "monthly_net_estimated": 960712
   }
  ],
  "revenue": {
-  "monthly_low": 962895,
-  "monthly_est": 962895,
+  "monthly_low": 960712,
+  "monthly_est": 960712,
   "gift_once": 21204,
-  "total_low": 984098,
-  "total_est": 984098,
-  "paying_members": 3088,
+  "total_low": 981915,
+  "total_est": 981915,
+  "paying_members": 3081,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "u9no3aJC3XM",
-   "start": "2026-10-14 23:02",
-   "title": "【 スプラ３ 】練習うおおおおおおおおお【 伊波ライ / にじさんじ 】",
-   "kind": "配信",
-   "chatters": 902,
-   "member_chatters": 664,
-   "new_members": 4,
-   "gifted_total": 0
-  },
   {
    "video_id": "Hp7sFrW2JF4",
    "start": "2026-10-15 23:03",
@@ -422,6 +412,16 @@
    "member_chatters": 622,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "hwBwBrZKNFM",
+   "start": "2026-11-13 22:18",
+   "title": "【 スプラ3 】哀愁による2次会サーモンラン【 伊波ライ / にじさんじ 】",
+   "kind": "配信",
+   "chatters": 578,
+   "member_chatters": 514,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -590,25 +590,25 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-13"
+    "to": "2026-11-14"
    },
-   "streams_analyzed": 13,
+   "streams_analyzed": 14,
    "streams_missed": 0,
-   "unique_chatters": 2898,
-   "members_confirmed": 1720,
+   "unique_chatters": 2927,
+   "members_confirmed": 1731,
    "member_classes": {
-    "unknown": 1329,
-    "known": 391
+    "unknown": 1337,
+    "known": 394
    },
-   "long_term_members": 965,
+   "long_term_members": 971,
    "badges": [
     {
      "months": 0,
-     "members": 194
+     "members": 197
     },
     {
      "months": 1,
-     "members": 57
+     "members": 59
     },
     {
      "months": 2,
@@ -620,11 +620,11 @@
     },
     {
      "months": 12,
-     "members": 608
+     "members": 613
     },
     {
      "months": 24,
-     "members": 229
+     "members": 230
     },
     {
      "months": 36,
@@ -632,7 +632,7 @@
     }
    ],
    "events": {
-    "new_members": 19,
+    "new_members": 20,
     "rejoins": 8,
     "milestones": 6,
     "gifted_total": 0
@@ -641,16 +641,16 @@
     {
      "tier": "伊波すたじお",
      "price": 490,
-     "confirmed_members": 391,
-     "estimated_members": 1720.0
+     "confirmed_members": 394,
+     "estimated_members": 1731.0
     }
    ],
    "revenue": {
-    "monthly_low": 536327,
-    "monthly_est": 536327,
+    "monthly_low": 539757,
+    "monthly_est": 539757,
     "gift_once": 0
    },
-   "avg_member_chatters": 630.2,
+   "avg_member_chatters": 621.9,
    "partial": true,
    "finalized": false
   }

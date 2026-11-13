@@ -3,20 +3,20 @@
  "channel_id": "UCTIE7LM5X15NVugV7Krp9Hw",
  "handle": "@YumeoiKakeru",
  "subscribers": 389000,
- "fetched_at": "2026-11-13 11:38",
- "generated_at": "2026-11-13 11:38",
+ "fetched_at": "2026-11-14 05:20",
+ "generated_at": "2026-11-14 05:21",
  "period": {
-  "from": "2026-10-14 11:38",
-  "to": "2026-11-13 11:38",
+  "from": "2026-10-15 05:20",
+  "to": "2026-11-14 05:20",
   "days": 30
  },
- "streams_analyzed": 10,
+ "streams_analyzed": 11,
  "streams_missed": 0,
- "unique_chatters": 1025,
- "members_confirmed": 419,
+ "unique_chatters": 1042,
+ "members_confirmed": 423,
  "member_classes": {
-  "unknown": 353,
-  "known": 66
+  "unknown": 356,
+  "known": 67
  },
  "badges": [
   {
@@ -42,13 +42,13 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 331
+   "members": 335
   }
  ],
  "events": {
   "new_members": 4,
-  "rejoins": 2,
-  "milestones": 8,
+  "rejoins": 3,
+  "milestones": 9,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -59,21 +59,21 @@
    "tier": "追っ翔メンバーシップ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 66,
+   "confirmed_members": 67,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 353.0,
-   "estimated_members": 419.0,
-   "monthly_net_confirmed": 20580,
-   "monthly_net_estimated": 130652
+   "allocated_unknown": 356.0,
+   "estimated_members": 423.0,
+   "monthly_net_confirmed": 20892,
+   "monthly_net_estimated": 131899
   }
  ],
  "revenue": {
-  "monthly_low": 130652,
-  "monthly_est": 130652,
+  "monthly_low": 131899,
+  "monthly_est": 131899,
   "gift_once": 0,
-  "total_low": 130652,
-  "total_est": 130652,
-  "paying_members": 419,
+  "total_low": 131899,
+  "total_est": 131899,
+  "paying_members": 423,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -179,6 +179,16 @@
    "kind": "配信",
    "chatters": 155,
    "member_chatters": 88,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "fZB-lt2J7us",
+   "start": "2026-11-13 22:18",
+   "title": "チーム哀愁メンバーでシャケをシバく | Splatoon3【にじさんじ/夢追翔/天宮こころ/伊波ライ/司賀りこ】",
+   "kind": "配信",
+   "chatters": 210,
+   "member_chatters": 134,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -313,17 +323,17 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-13"
+    "to": "2026-11-14"
    },
-   "streams_analyzed": 9,
+   "streams_analyzed": 10,
    "streams_missed": 0,
-   "unique_chatters": 922,
-   "members_confirmed": 402,
+   "unique_chatters": 939,
+   "members_confirmed": 406,
    "member_classes": {
-    "unknown": 336,
-    "known": 66
+    "unknown": 339,
+    "known": 67
    },
-   "long_term_members": 322,
+   "long_term_members": 326,
    "badges": [
     {
      "months": 0,
@@ -343,29 +353,29 @@
     },
     {
      "months": 12,
-     "members": 322
+     "members": 326
     }
    ],
    "events": {
     "new_members": 4,
-    "rejoins": 2,
-    "milestones": 8,
+    "rejoins": 3,
+    "milestones": 9,
     "gifted_total": 0
    },
    "tiers": [
     {
      "tier": "追っ翔メンバーシップ",
      "price": 490,
-     "confirmed_members": 66,
-     "estimated_members": 402.0
+     "confirmed_members": 67,
+     "estimated_members": 406.0
     }
    ],
    "revenue": {
-    "monthly_low": 125351,
-    "monthly_est": 125351,
+    "monthly_low": 126598,
+    "monthly_est": 126598,
     "gift_once": 0
    },
-   "avg_member_chatters": 169.7,
+   "avg_member_chatters": 166.1,
    "partial": true,
    "finalized": false
   }
