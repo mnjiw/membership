@@ -3,20 +3,20 @@
  "channel_id": "UCv3EicDtxObcZZmnFcHvNnw",
  "handle": "@onigayaten0512",
  "subscribers": 87800,
- "fetched_at": "2026-11-13 11:48",
- "generated_at": "2026-11-13 11:48",
+ "fetched_at": "2026-11-14 06:46",
+ "generated_at": "2026-11-14 06:47",
  "period": {
-  "from": "2026-10-14 11:48",
-  "to": "2026-11-13 11:48",
+  "from": "2026-10-15 06:46",
+  "to": "2026-11-14 06:46",
   "days": 30
  },
- "streams_analyzed": 40,
- "streams_missed": 5,
- "unique_chatters": 568,
- "members_confirmed": 207,
+ "streams_analyzed": 42,
+ "streams_missed": 4,
+ "unique_chatters": 585,
+ "members_confirmed": 210,
  "member_classes": {
   "unknown": 131,
-  "known": 16,
+  "known": 19,
   "gift": 60
  },
  "badges": [
@@ -28,12 +28,12 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 6
+   "members": 7
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 25
+   "members": 24
   },
   {
    "months": 6,
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 59
+   "members": 62
   },
   {
    "months": 24,
@@ -53,8 +53,8 @@
  ],
  "events": {
   "new_members": 5,
-  "rejoins": 4,
-  "milestones": 3,
+  "rejoins": 5,
+  "milestones": 6,
   "gift_purchases": 5,
   "gifted_total": 60,
   "gift_redemptions": 60
@@ -65,21 +65,21 @@
    "tier": "鬼組",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 16,
+   "confirmed_members": 19,
    "share_of_confirmed_pct": 100.0,
    "allocated_unknown": 131.0,
-   "estimated_members": 147.0,
-   "monthly_net_confirmed": 4989,
-   "monthly_net_estimated": 45837
+   "estimated_members": 150.0,
+   "monthly_net_confirmed": 5925,
+   "monthly_net_estimated": 46773
   }
  ],
  "revenue": {
-  "monthly_low": 45837,
-  "monthly_est": 45837,
+  "monthly_low": 46773,
+  "monthly_est": 46773,
   "gift_once": 18709,
-  "total_low": 64546,
-  "total_est": 64546,
-  "paying_members": 147,
+  "total_low": 65482,
+  "total_est": 65482,
+  "paying_members": 150,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "kpqFewMBylU",
-   "start": "2026-10-14 19:59",
-   "title": "【タンポポは耐える。】テンポポ開花。【鬼ヶ谷テン/ネオポルテ】",
-   "kind": "配信",
-   "chatters": 38,
-   "member_chatters": 25,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "QcxPU70Om0I",
    "start": "2026-10-15 22:02",
@@ -487,21 +477,39 @@
    "member_chatters": 24,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "VZgw0I-pUS0",
+   "start": "2026-11-13 19:01",
+   "title": "【歌枠 】1時間ほど軽～く歌枠【鬼ヶ谷テン/ネオポルテ】",
+   "kind": "配信",
+   "chatters": 54,
+   "member_chatters": 38,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "qiQBGWCfxDQ",
+   "start": "2026-11-13 20:02",
+   "title": "【鬼ヶ谷テン】鳥 歌ってみた【ネオポルテ】",
+   "kind": "プレミア",
+   "chatters": 35,
+   "member_chatters": 28,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "mqGcwfk7NhE",
+   "start": "2026-11-13 22:01",
+   "title": "【スト6】明日はスクリム！キャラ対カスタム！【鬼ヶ谷テン/ネオポルテ】",
+   "kind": "配信",
+   "chatters": 33,
+   "member_chatters": 21,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
-  {
-   "video_id": "E0yUSutIq1g",
-   "start": "2026-10-14 22:00",
-   "title": "【メン限歌枠 】覚えたい曲を練習する【鬼ヶ谷テン/ネオポルテ】",
-   "kind": "live",
-   "status": "no_chat",
-   "reason": "チャットリプレイなし（アーカイブ編集・チャット無効の可能性）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 36,
-   "view_count": null
-  },
   {
    "video_id": "b2wovrTKkI8",
    "start": "2026-10-21 22:19",
@@ -719,18 +727,18 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-13"
+    "to": "2026-11-14"
    },
-   "streams_analyzed": 18,
+   "streams_analyzed": 21,
    "streams_missed": 1,
-   "unique_chatters": 299,
-   "members_confirmed": 114,
+   "unique_chatters": 329,
+   "members_confirmed": 124,
    "member_classes": {
-    "unknown": 92,
-    "known": 12,
+    "unknown": 99,
+    "known": 15,
     "gift": 10
    },
-   "long_term_members": 47,
+   "long_term_members": 55,
    "badges": [
     {
      "months": 0,
@@ -738,7 +746,7 @@
     },
     {
      "months": 1,
-     "members": 4
+     "members": 5
     },
     {
      "months": 2,
@@ -746,37 +754,37 @@
     },
     {
      "months": 6,
-     "members": 28
+     "members": 29
     },
     {
      "months": 12,
-     "members": 42
+     "members": 47
     },
     {
      "months": 24,
-     "members": 5
+     "members": 8
     }
    ],
    "events": {
     "new_members": 2,
-    "rejoins": 1,
-    "milestones": 0,
+    "rejoins": 2,
+    "milestones": 3,
     "gifted_total": 10
    },
    "tiers": [
     {
      "tier": "鬼組",
      "price": 490,
-     "confirmed_members": 12,
-     "estimated_members": 104.0
+     "confirmed_members": 15,
+     "estimated_members": 114.0
     }
    ],
    "revenue": {
-    "monthly_low": 32429,
-    "monthly_est": 32429,
+    "monthly_low": 35547,
+    "monthly_est": 35547,
     "gift_once": 3118
    },
-   "avg_member_chatters": 26.6,
+   "avg_member_chatters": 27.0,
    "partial": true,
    "finalized": false
   }

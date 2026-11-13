@@ -3,16 +3,16 @@
  "channel_id": "UCW98GVLrx8lG_ddOts3cl4g",
  "handle": "@Amaui",
  "subscribers": 56000,
- "fetched_at": "2026-11-13 11:46",
- "generated_at": "2026-11-13 11:46",
+ "fetched_at": "2026-11-14 06:39",
+ "generated_at": "2026-11-14 06:39",
  "period": {
-  "from": "2026-10-14 11:46",
-  "to": "2026-11-13 11:46",
+  "from": "2026-10-15 06:39",
+  "to": "2026-11-14 06:39",
   "days": 30
  },
- "streams_analyzed": 29,
- "streams_missed": 1,
- "unique_chatters": 1170,
+ "streams_analyzed": 28,
+ "streams_missed": 0,
+ "unique_chatters": 1142,
  "members_confirmed": 163,
  "member_classes": {
   "unknown": 129,
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "1kl-6lmX3s0",
-   "start": "2026-10-15 00:02",
-   "title": "☾ ໋ #12〖 トルネコの大冒険 〗深夜チルで完全初見トルネコです .ᐟ.ᐟ🗡#トルネコの大冒険不思議のダンジョンちょっとステキなリマスター〖 天羽衣┊ななしいんく 〗",
-   "kind": "配信",
-   "chatters": 217,
-   "member_chatters": 49,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "PAOBIYDRW8w",
    "start": "2026-10-16 00:01",
@@ -384,32 +374,8 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [
-  {
-   "video_id": "BTAXnudBJjQ",
-   "start": "2026-10-14 21:00",
-   "title": "☾ ໋ 〖 10月メン限 〗マッシュルームワッパーを食べながら雑談です .ᐟ.ᐟ 🚌〖 天羽衣┊ななしいんく 〗",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 61,
-   "view_count": null
-  }
- ],
- "members_only_content": [
-  {
-   "video_id": "BTAXnudBJjQ",
-   "start": "2026-10-14 21:00",
-   "title": "☾ ໋ 〖 10月メン限 〗マッシュルームワッパーを食べながら雑談です .ᐟ.ᐟ 🚌〖 天羽衣┊ななしいんく 〗",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 61,
-   "view_count": null
-  }
- ],
+ "missed_streams": [],
+ "members_only_content": [],
  "history": [
   {
    "month": "2026-09",
@@ -544,7 +510,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-13"
+    "to": "2026-11-14"
    },
    "streams_analyzed": 12,
    "streams_missed": 0,

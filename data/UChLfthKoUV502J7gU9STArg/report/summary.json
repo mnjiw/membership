@@ -3,19 +3,19 @@
  "channel_id": "UChLfthKoUV502J7gU9STArg",
  "handle": "@ShibuyaHAL",
  "subscribers": 902000,
- "fetched_at": "2026-11-13 11:48",
- "generated_at": "2026-11-13 11:48",
+ "fetched_at": "2026-11-14 06:45",
+ "generated_at": "2026-11-14 06:45",
  "period": {
-  "from": "2026-10-14 11:48",
-  "to": "2026-11-13 11:48",
+  "from": "2026-10-15 06:45",
+  "to": "2026-11-14 06:45",
   "days": 30
  },
- "streams_analyzed": 31,
- "streams_missed": 1,
- "unique_chatters": 1995,
- "members_confirmed": 261,
+ "streams_analyzed": 30,
+ "streams_missed": 2,
+ "unique_chatters": 1959,
+ "members_confirmed": 255,
  "member_classes": {
-  "unknown": 235,
+  "unknown": 229,
   "known": 6,
   "gift": 20
  },
@@ -48,7 +48,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 48
+   "members": 45
   },
   {
    "months": 36,
@@ -58,7 +58,7 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 102
+   "members": 99
   }
  ],
  "events": {
@@ -77,10 +77,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 5,
    "share_of_confirmed_pct": 83.3,
-   "allocated_unknown": 195.8,
-   "estimated_members": 200.8,
+   "allocated_unknown": 190.8,
+   "estimated_members": 195.8,
    "monthly_net_confirmed": 1559,
-   "monthly_net_estimated": 62623
+   "monthly_net_estimated": 61064
   },
   {
    "tier": "バイトリーダー",
@@ -88,10 +88,10 @@
    "net_per_member": 757.3,
    "confirmed_members": 1,
    "share_of_confirmed_pct": 16.7,
-   "allocated_unknown": 39.2,
-   "estimated_members": 40.2,
+   "allocated_unknown": 38.2,
+   "estimated_members": 39.2,
    "monthly_net_confirmed": 757,
-   "monthly_net_estimated": 30417
+   "monthly_net_estimated": 29660
   },
   {
    "tier": "店長",
@@ -117,12 +117,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 75594,
-  "monthly_est": 93041,
+  "monthly_low": 73723,
+  "monthly_est": 90724,
   "gift_once": 6236,
-  "total_low": 81830,
-  "total_est": 99277,
-  "paying_members": 241,
+  "total_low": 79959,
+  "total_est": 96961,
+  "paying_members": 235,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -131,16 +131,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "JpzvJ9zinBA",
-   "start": "2026-10-14 23:02",
-   "title": "【風来のシレン6】お前らで最強の風来人を作ってくれないか？",
-   "kind": "配信",
-   "chatters": 181,
-   "member_chatters": 64,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "OXh1ZjvADvg",
    "start": "2026-10-16 17:21",
@@ -452,8 +442,20 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 269,
-   "view_count": 35558
+   "like_count": 290,
+   "view_count": 39085
+  },
+  {
+   "video_id": "uagcsxC2yH8",
+   "start": "2026-11-13 00:00",
+   "title": "【クロスタTCG】弊社式転売対策に疑問を持ちつつも、神引きを連発する渋ハル【渋谷ハル/ネオポルテ/切り抜き】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 305,
+   "view_count": 38443
   }
  ],
  "members_only_content": [],
@@ -613,10 +615,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-13"
+    "to": "2026-11-14"
    },
    "streams_analyzed": 15,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 1328,
    "members_confirmed": 201,
    "member_classes": {

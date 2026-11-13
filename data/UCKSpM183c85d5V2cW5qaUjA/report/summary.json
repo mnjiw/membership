@@ -3,27 +3,27 @@
  "channel_id": "UCKSpM183c85d5V2cW5qaUjA",
  "handle": "@narinmikure",
  "subscribers": 66800,
- "fetched_at": "2026-11-13 11:47",
- "generated_at": "2026-11-13 11:47",
+ "fetched_at": "2026-11-14 06:42",
+ "generated_at": "2026-11-14 06:42",
  "period": {
-  "from": "2026-10-14 11:47",
-  "to": "2026-11-13 11:47",
+  "from": "2026-10-15 06:42",
+  "to": "2026-11-14 06:42",
   "days": 30
  },
- "streams_analyzed": 3,
+ "streams_analyzed": 4,
  "streams_missed": 1,
- "unique_chatters": 477,
- "members_confirmed": 227,
+ "unique_chatters": 528,
+ "members_confirmed": 231,
  "member_classes": {
-  "known": 57,
+  "known": 60,
   "unknown": 83,
-  "gift": 87
+  "gift": 88
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 90
+   "members": 92
   },
   {
    "months": 1,
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 8
+   "members": 10
   },
   {
    "months": 6,
@@ -52,12 +52,12 @@
   }
  ],
  "events": {
-  "new_members": 7,
-  "rejoins": 1,
-  "milestones": 52,
-  "gift_purchases": 8,
-  "gifted_total": 135,
-  "gift_redemptions": 87
+  "new_members": 8,
+  "rejoins": 2,
+  "milestones": 54,
+  "gift_purchases": 9,
+  "gifted_total": 136,
+  "gift_redemptions": 88
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +65,21 @@
    "tier": "Kuremon",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 57,
+   "confirmed_members": 60,
    "share_of_confirmed_pct": 100.0,
    "allocated_unknown": 83.0,
-   "estimated_members": 140.0,
-   "monthly_net_confirmed": 17774,
-   "monthly_net_estimated": 43655
+   "estimated_members": 143.0,
+   "monthly_net_confirmed": 18709,
+   "monthly_net_estimated": 44590
   }
  ],
  "revenue": {
-  "monthly_low": 43655,
-  "monthly_est": 43655,
-  "gift_once": 42095,
-  "total_low": 85750,
-  "total_est": 85750,
-  "paying_members": 140,
+  "monthly_low": 44590,
+  "monthly_est": 44590,
+  "gift_once": 42407,
+  "total_low": 86997,
+  "total_est": 86997,
+  "paying_members": 143,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -117,6 +117,16 @@
    "member_chatters": 159,
    "new_members": 2,
    "gifted_total": 50
+  },
+  {
+   "video_id": "z1tmBGpLqkQ",
+   "start": "2026-11-13 11:46",
+   "title": "【VALORANT】 asc 2 something rr 【#VSPOEN #NarinMikure】",
+   "kind": "配信",
+   "chatters": 149,
+   "member_chatters": 57,
+   "new_members": 1,
+   "gifted_total": 1
   }
  ],
  "missed_streams": [
@@ -258,22 +268,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-13"
+    "to": "2026-11-14"
    },
-   "streams_analyzed": 2,
+   "streams_analyzed": 3,
    "streams_missed": 1,
-   "unique_chatters": 440,
-   "members_confirmed": 208,
+   "unique_chatters": 493,
+   "members_confirmed": 213,
    "member_classes": {
-    "known": 55,
-    "unknown": 78,
-    "gift": 75
+    "known": 58,
+    "unknown": 79,
+    "gift": 76
    },
-   "long_term_members": 105,
+   "long_term_members": 106,
    "badges": [
     {
      "months": 0,
-     "members": 78
+     "members": 80
     },
     {
      "months": 1,
@@ -281,7 +291,7 @@
     },
     {
      "months": 2,
-     "members": 8
+     "members": 10
     },
     {
      "months": 6,
@@ -289,7 +299,7 @@
     },
     {
      "months": 12,
-     "members": 41
+     "members": 42
     },
     {
      "months": 24,
@@ -297,25 +307,25 @@
     }
    ],
    "events": {
-    "new_members": 6,
-    "rejoins": 1,
-    "milestones": 30,
-    "gifted_total": 75
+    "new_members": 7,
+    "rejoins": 2,
+    "milestones": 32,
+    "gifted_total": 76
    },
    "tiers": [
     {
      "tier": "Kuremon",
      "price": 490,
-     "confirmed_members": 55,
-     "estimated_members": 133.0
+     "confirmed_members": 58,
+     "estimated_members": 137.0
     }
    ],
    "revenue": {
-    "monthly_low": 41472,
-    "monthly_est": 41472,
-    "gift_once": 23386
+    "monthly_low": 42719,
+    "monthly_est": 42719,
+    "gift_once": 23698
    },
-   "avg_member_chatters": 138.5,
+   "avg_member_chatters": 111.3,
    "partial": true,
    "finalized": false
   }

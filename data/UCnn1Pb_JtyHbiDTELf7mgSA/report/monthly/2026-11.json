@@ -2,22 +2,22 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-13"
+  "to": "2026-11-14"
  },
- "streams_analyzed": 3,
+ "streams_analyzed": 4,
  "streams_missed": 0,
- "unique_chatters": 562,
- "members_confirmed": 164,
+ "unique_chatters": 624,
+ "members_confirmed": 183,
  "member_classes": {
-  "unknown": 146,
-  "known": 3,
-  "gift": 15
+  "unknown": 159,
+  "known": 4,
+  "gift": 20
  },
- "long_term_members": 123,
+ "long_term_members": 136,
  "badges": [
   {
    "months": 0,
-   "members": 16
+   "members": 21
   },
   {
    "months": 1,
@@ -25,7 +25,7 @@
   },
   {
    "months": 2,
-   "members": 6
+   "members": 7
   },
   {
    "months": 6,
@@ -33,33 +33,33 @@
   },
   {
    "months": 12,
-   "members": 123
+   "members": 136
   }
  ],
  "events": {
   "new_members": 0,
-  "rejoins": 1,
+  "rejoins": 2,
   "milestones": 0,
-  "gifted_total": 20
+  "gifted_total": 25
  },
  "tiers": [
   {
    "tier": "ようこそブレンド",
    "price": 390,
    "confirmed_members": 2,
-   "estimated_members": 99.3
+   "estimated_members": 81.5
   },
   {
    "tier": "ゆうばりブレンド",
    "price": 690,
    "confirmed_members": 1,
-   "estimated_members": 49.7
+   "estimated_members": 40.8
   },
   {
    "tier": "ゆうばりご支援ブレンド",
    "price": 1290,
-   "confirmed_members": 0,
-   "estimated_members": 0.0
+   "confirmed_members": 1,
+   "estimated_members": 40.8
   },
   {
    "tier": "プレミアムご支援ブレンド",
@@ -69,11 +69,11 @@
   }
  ],
  "revenue": {
-  "monthly_low": 37170,
-  "monthly_est": 46461,
-  "gift_once": 4964
+  "monthly_low": 41217,
+  "monthly_est": 71572,
+  "gift_once": 6205
  },
- "avg_member_chatters": 90,
+ "avg_member_chatters": 89.2,
  "partial": true,
  "finalized": false
 }

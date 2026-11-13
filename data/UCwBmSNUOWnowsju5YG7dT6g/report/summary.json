@@ -3,19 +3,19 @@
  "channel_id": "UCwBmSNUOWnowsju5YG7dT6g",
  "handle": "@tsukasa_ryogoku",
  "subscribers": 100000,
- "fetched_at": "2026-11-13 11:47",
- "generated_at": "2026-11-13 11:47",
+ "fetched_at": "2026-11-14 06:43",
+ "generated_at": "2026-11-14 06:43",
  "period": {
-  "from": "2026-10-14 11:47",
-  "to": "2026-11-13 11:47",
+  "from": "2026-10-15 06:43",
+  "to": "2026-11-14 06:43",
   "days": 30
  },
- "streams_analyzed": 19,
- "streams_missed": 3,
- "unique_chatters": 1904,
- "members_confirmed": 559,
+ "streams_analyzed": 18,
+ "streams_missed": 4,
+ "unique_chatters": 1877,
+ "members_confirmed": 557,
  "member_classes": {
-  "unknown": 397,
+  "unknown": 395,
   "known": 19,
   "gift": 143
  },
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 168
+   "members": 166
   },
   {
    "months": 24,
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 19,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 397.0,
-   "estimated_members": 416.0,
+   "allocated_unknown": 395.0,
+   "estimated_members": 414.0,
    "monthly_net_confirmed": 5925,
-   "monthly_net_estimated": 129716
+   "monthly_net_estimated": 129093
   }
  ],
  "revenue": {
-  "monthly_low": 129716,
-  "monthly_est": 129716,
+  "monthly_low": 129093,
+  "monthly_est": 129093,
   "gift_once": 44590,
-  "total_low": 174306,
-  "total_est": 174306,
-  "paying_members": 416,
+  "total_low": 173683,
+  "total_est": 173683,
+  "paying_members": 414,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "K7tSBIjen08",
-   "start": "2026-10-14 21:33",
-   "title": "【 狂い咲き 】不気味な住民、田舎、怪現象に見舞われるホラーゲーム【 領国つかさ / すぺしゃりて 】",
-   "kind": "配信",
-   "chatters": 294,
-   "member_chatters": 168,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "CbgEkcB1Txw",
    "start": "2026-10-17 21:01",
@@ -315,6 +305,18 @@
    "members_level": "",
    "like_count": 221,
    "view_count": null
+  },
+  {
+   "video_id": "1ywkq3dx5XM",
+   "start": "2026-11-13 21:01",
+   "title": "【 メン限 】中学生と秘密の時間♡【 領国つかさ / すぺしゃりて 】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 205,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -346,6 +348,16 @@
    "status": "members_only",
    "members_level": "",
    "like_count": 221,
+   "view_count": null
+  },
+  {
+   "video_id": "1ywkq3dx5XM",
+   "start": "2026-11-13 21:01",
+   "title": "【 メン限 】中学生と秘密の時間♡【 領国つかさ / すぺしゃりて 】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 205,
    "view_count": null
   }
  ],
@@ -475,10 +487,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-13"
+    "to": "2026-11-14"
    },
    "streams_analyzed": 7,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 885,
    "members_confirmed": 323,
    "member_classes": {

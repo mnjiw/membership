@@ -3,58 +3,58 @@
  "channel_id": "UC6FprWVXuULaY9mZOcqTe4A",
  "handle": "@Amu_amane",
  "subscribers": 82400,
- "fetched_at": "2026-11-13 11:48",
- "generated_at": "2026-11-13 11:48",
+ "fetched_at": "2026-11-14 06:46",
+ "generated_at": "2026-11-14 06:46",
  "period": {
-  "from": "2026-10-14 11:48",
-  "to": "2026-11-13 11:48",
+  "from": "2026-10-15 06:46",
+  "to": "2026-11-14 06:46",
   "days": 30
  },
- "streams_analyzed": 20,
+ "streams_analyzed": 21,
  "streams_missed": 1,
- "unique_chatters": 850,
- "members_confirmed": 199,
+ "unique_chatters": 869,
+ "members_confirmed": 204,
  "member_classes": {
-  "unknown": 94,
-  "known": 100,
+  "known": 103,
+  "unknown": 96,
   "gift": 5
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 30
+   "members": 27
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 9
+   "members": 13
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 31
+   "members": 32
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 50
+   "members": 51
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 39
+   "members": 38
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 40
+   "members": 43
   }
  ],
  "events": {
-  "new_members": 12,
+  "new_members": 13,
   "rejoins": 3,
-  "milestones": 31,
+  "milestones": 43,
   "gift_purchases": 1,
   "gifted_total": 5,
   "gift_redemptions": 5
@@ -65,21 +65,21 @@
    "tier": "あむ党",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 100,
+   "confirmed_members": 103,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 94.0,
-   "estimated_members": 194.0,
-   "monthly_net_confirmed": 31182,
-   "monthly_net_estimated": 60493
+   "allocated_unknown": 96.0,
+   "estimated_members": 199.0,
+   "monthly_net_confirmed": 32117,
+   "monthly_net_estimated": 62052
   }
  ],
  "revenue": {
-  "monthly_low": 60493,
-  "monthly_est": 60493,
+  "monthly_low": 62052,
+  "monthly_est": 62052,
   "gift_once": 1559,
-  "total_low": 62052,
-  "total_est": 62052,
-  "paying_members": 194,
+  "total_low": 63611,
+  "total_est": 63611,
+  "paying_members": 199,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -287,6 +287,16 @@
    "member_chatters": 52,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "MekczGGahNI",
+   "start": "2026-11-13 22:01",
+   "title": "ただいま【甘音あむ / ネオポルテ】",
+   "kind": "配信",
+   "chatters": 129,
+   "member_chatters": 67,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -440,17 +450,17 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-13"
+    "to": "2026-11-14"
    },
-   "streams_analyzed": 6,
+   "streams_analyzed": 7,
    "streams_missed": 0,
-   "unique_chatters": 348,
-   "members_confirmed": 107,
+   "unique_chatters": 401,
+   "members_confirmed": 131,
    "member_classes": {
-    "known": 58,
-    "unknown": 49
+    "known": 74,
+    "unknown": 57
    },
-   "long_term_members": 47,
+   "long_term_members": 58,
    "badges": [
     {
      "months": 0,
@@ -458,45 +468,45 @@
     },
     {
      "months": 1,
-     "members": 5
+     "members": 9
     },
     {
      "months": 2,
-     "members": 15
+     "members": 20
     },
     {
      "months": 6,
-     "members": 25
+     "members": 29
     },
     {
      "months": 12,
-     "members": 21
+     "members": 24
     },
     {
      "months": 24,
-     "members": 26
+     "members": 34
     }
    ],
    "events": {
-    "new_members": 3,
+    "new_members": 4,
     "rejoins": 2,
-    "milestones": 3,
+    "milestones": 15,
     "gifted_total": 0
    },
    "tiers": [
     {
      "tier": "あむ党",
      "price": 490,
-     "confirmed_members": 58,
-     "estimated_members": 107.0
+     "confirmed_members": 74,
+     "estimated_members": 131.0
     }
    ],
    "revenue": {
-    "monthly_low": 33365,
-    "monthly_est": 33365,
+    "monthly_low": 40848,
+    "monthly_est": 40848,
     "gift_once": 0
    },
-   "avg_member_chatters": 34.3,
+   "avg_member_chatters": 39,
    "partial": true,
    "finalized": false
   }

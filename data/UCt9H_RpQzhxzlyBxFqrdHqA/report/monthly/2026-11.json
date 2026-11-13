@@ -2,76 +2,76 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-13"
+  "to": "2026-11-14"
  },
- "streams_analyzed": 1,
+ "streams_analyzed": 2,
  "streams_missed": 0,
- "unique_chatters": 2306,
- "members_confirmed": 757,
+ "unique_chatters": 2748,
+ "members_confirmed": 901,
  "member_classes": {
-  "known": 210,
-  "unknown": 526,
-  "gift": 21
+  "known": 264,
+  "unknown": 611,
+  "gift": 26
  },
- "long_term_members": 616,
+ "long_term_members": 715,
  "badges": [
   {
    "months": 0,
-   "members": 40
+   "members": 50
   },
   {
    "months": 1,
-   "members": 9
+   "members": 14
   },
   {
    "months": 2,
-   "members": 39
+   "members": 54
   },
   {
    "months": 6,
-   "members": 53
+   "members": 68
   },
   {
    "months": 12,
-   "members": 158
+   "members": 186
   },
   {
    "months": 24,
-   "members": 458
+   "members": 529
   }
  ],
  "events": {
-  "new_members": 1,
-  "rejoins": 0,
-  "milestones": 82,
-  "gifted_total": 21
+  "new_members": 3,
+  "rejoins": 1,
+  "milestones": 112,
+  "gifted_total": 26
  },
  "tiers": [
   {
    "tier": "Doggy",
    "price": 690,
-   "confirmed_members": 195,
-   "estimated_members": 683.4
+   "confirmed_members": 248,
+   "estimated_members": 822.0
   },
   {
    "tier": "Hot Dog",
    "price": 1990,
    "confirmed_members": 4,
-   "estimated_members": 14.0
+   "estimated_members": 13.3
   },
   {
    "tier": "Mad Dog",
    "price": 3490,
-   "confirmed_members": 11,
-   "estimated_members": 38.6
+   "confirmed_members": 12,
+   "estimated_members": 39.8
   }
  ],
  "revenue": {
-  "monthly_low": 346080,
-  "monthly_est": 403462,
-  "gift_once": 9221
+  "monthly_low": 408895,
+  "monthly_est": 466040,
+  "gift_once": 11416
  },
- "avg_member_chatters": 757,
+ "avg_member_chatters": 590.5,
  "partial": true,
  "finalized": false
 }

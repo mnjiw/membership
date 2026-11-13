@@ -3,32 +3,32 @@
  "channel_id": "UCR2Sp9fMxurwtmXQneAMTVg",
  "handle": "@magomo_magomori",
  "subscribers": 13700,
- "fetched_at": "2026-11-13 11:48",
- "generated_at": "2026-11-13 11:48",
+ "fetched_at": "2026-11-14 06:44",
+ "generated_at": "2026-11-14 06:45",
  "period": {
-  "from": "2026-10-14 11:48",
-  "to": "2026-11-13 11:48",
+  "from": "2026-10-15 06:44",
+  "to": "2026-11-14 06:44",
   "days": 30
  },
  "streams_analyzed": 29,
- "streams_missed": 15,
- "unique_chatters": 703,
- "members_confirmed": 237,
+ "streams_missed": 16,
+ "unique_chatters": 688,
+ "members_confirmed": 227,
  "member_classes": {
-  "unknown": 148,
+  "unknown": 143,
   "known": 23,
-  "gift": 66
+  "gift": 61
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 136
+   "members": 125
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 32
+   "members": 33
   },
   {
    "months": 2,
@@ -49,10 +49,10 @@
  "events": {
   "new_members": 5,
   "rejoins": 1,
-  "milestones": 1,
-  "gift_purchases": 13,
-  "gifted_total": 68,
-  "gift_redemptions": 66
+  "milestones": 0,
+  "gift_purchases": 12,
+  "gifted_total": 63,
+  "gift_redemptions": 61
  },
  "tiers_configured": true,
  "tiers": [
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 23,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 148.0,
-   "estimated_members": 171.0,
+   "allocated_unknown": 143.0,
+   "estimated_members": 166.0,
    "monthly_net_confirmed": 7172,
-   "monthly_net_estimated": 53321
+   "monthly_net_estimated": 51762
   }
  ],
  "revenue": {
-  "monthly_low": 53321,
-  "monthly_est": 53321,
-  "gift_once": 21204,
-  "total_low": 74525,
-  "total_est": 74525,
-  "paying_members": 171,
+  "monthly_low": 51762,
+  "monthly_est": 51762,
+  "gift_once": 19645,
+  "total_low": 71406,
+  "total_est": 71406,
+  "paying_members": 166,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "jV7RQeIRHho",
-   "start": "2026-10-14 21:01",
-   "title": "3Dお披露目をみんなのスクショ見ながら振り返るぞ～～【孫守まごも/すぺしゃりて】",
-   "kind": "配信",
-   "chatters": 106,
-   "member_chatters": 73,
-   "new_members": 0,
-   "gifted_total": 5
-  },
   {
    "video_id": "hhtlPvkTJdg",
    "start": "2026-10-15 21:01",
@@ -372,6 +362,16 @@
    "member_chatters": 23,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "N6hJ496ULRo",
+   "start": "2026-11-13 20:58",
+   "title": "【XP3122】隠密型ヒッセンで28達成するぞ💪【すぺしゃりて  / 新人vtuber  孫守まごも】スプラトゥーン3",
+   "kind": "配信",
+   "chatters": 48,
+   "member_chatters": 23,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -540,8 +540,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 116,
-   "view_count": 2076
+   "like_count": 136,
+   "view_count": 3950
   },
   {
    "video_id": "Kp7FdEmKtVA",
@@ -552,7 +552,19 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 27,
+   "like_count": 29,
+   "view_count": null
+  },
+  {
+   "video_id": "ei8u88rKDXk",
+   "start": "2026-11-13 23:05",
+   "title": "【らぢお】おーるないとまごも　お気に入りのラーメンは？【#すぺしゃりて  / #新人vtuber  】#孫守まごも",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 18,
    "view_count": null
   }
  ],
@@ -684,7 +696,17 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 27,
+   "like_count": 29,
+   "view_count": null
+  },
+  {
+   "video_id": "ei8u88rKDXk",
+   "start": "2026-11-13 23:05",
+   "title": "【らぢお】おーるないとまごも　お気に入りのラーメンは？【#すぺしゃりて  / #新人vtuber  】#孫守まごも",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 18,
    "view_count": null
   }
  ],
@@ -802,14 +824,14 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-13"
+    "to": "2026-11-14"
    },
-   "streams_analyzed": 11,
-   "streams_missed": 8,
-   "unique_chatters": 304,
-   "members_confirmed": 103,
+   "streams_analyzed": 12,
+   "streams_missed": 9,
+   "unique_chatters": 310,
+   "members_confirmed": 104,
    "member_classes": {
-    "unknown": 81,
+    "unknown": 82,
     "known": 15,
     "gift": 7
    },
@@ -821,7 +843,7 @@
     },
     {
      "months": 1,
-     "members": 15
+     "members": 16
     },
     {
      "months": 2,
@@ -847,15 +869,15 @@
      "tier": "まごもをさらにかわいがる会",
      "price": 490,
      "confirmed_members": 15,
-     "estimated_members": 96.0
+     "estimated_members": 97.0
     }
    ],
    "revenue": {
-    "monthly_low": 29935,
-    "monthly_est": 29935,
+    "monthly_low": 30246,
+    "monthly_est": 30246,
     "gift_once": 2183
    },
-   "avg_member_chatters": 32.1,
+   "avg_member_chatters": 31.3,
    "partial": true,
    "finalized": false
   }

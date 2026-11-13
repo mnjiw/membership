@@ -3,81 +3,81 @@
  "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
  "handle": "@TakanashiKiara",
  "subscribers": 1650000,
- "fetched_at": "2026-11-13 11:45",
- "generated_at": "2026-11-13 11:45",
+ "fetched_at": "2026-11-14 06:35",
+ "generated_at": "2026-11-14 06:35",
  "period": {
-  "from": "2026-10-14 11:45",
-  "to": "2026-11-13 11:45",
+  "from": "2026-10-15 06:35",
+  "to": "2026-11-14 06:35",
   "days": 30
  },
- "streams_analyzed": 5,
- "streams_missed": 1,
- "unique_chatters": 2580,
- "members_confirmed": 780,
+ "streams_analyzed": 4,
+ "streams_missed": 0,
+ "unique_chatters": 2300,
+ "members_confirmed": 711,
  "member_classes": {
-  "unknown": 522,
-  "known": 246,
-  "gift": 12
+  "known": 229,
+  "unknown": 475,
+  "gift": 7
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 18
+   "members": 11
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 22
+   "members": 20
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 33
+   "members": 27
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 45
+   "members": 40
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 91
+   "members": 81
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 81
+   "members": 75
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 64
+   "members": 58
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 112
+   "members": 106
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 227
+   "members": 217
   },
   {
    "months": 72,
    "label": "6年",
-   "members": 87
+   "members": 76
   }
  ],
  "events": {
   "new_members": 2,
   "rejoins": 1,
-  "milestones": 96,
-  "gift_purchases": 4,
-  "gifted_total": 12,
-  "gift_redemptions": 12
+  "milestones": 89,
+  "gift_purchases": 3,
+  "gifted_total": 7,
+  "gift_redemptions": 7
  },
  "tiers_configured": true,
  "tiers": [
@@ -85,21 +85,21 @@
    "tier": "KFP (Kiara Fried Phoenix)",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 246,
+   "confirmed_members": 229,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 522.0,
-   "estimated_members": 768.0,
-   "monthly_net_confirmed": 108016,
-   "monthly_net_estimated": 337222
+   "allocated_unknown": 475.0,
+   "estimated_members": 704.0,
+   "monthly_net_confirmed": 100552,
+   "monthly_net_estimated": 309120
   }
  ],
  "revenue": {
-  "monthly_low": 337222,
-  "monthly_est": 337222,
-  "gift_once": 5269,
-  "total_low": 342491,
-  "total_est": 342491,
-  "paying_members": 768,
+  "monthly_low": 309120,
+  "monthly_est": 309120,
+  "gift_once": 3074,
+  "total_low": 312194,
+  "total_est": 312194,
+  "paying_members": 704,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -108,16 +108,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "24p_2T3-Z0w",
-   "start": "2026-10-14 18:57",
-   "title": "【BOMBANANA!】wawa and her korean wifes save lifes 【IRISÉ】 #kfp #キアライブ",
-   "kind": "配信",
-   "chatters": 620,
-   "member_chatters": 258,
-   "new_members": 0,
-   "gifted_total": 5
-  },
   {
    "video_id": "l6vV2reCUeE",
    "start": "2026-10-15 20:59",
@@ -159,32 +149,8 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [
-  {
-   "video_id": "zvZl-BCHFak",
-   "start": "2026-10-15 03:00",
-   "title": "【MEMBERS ONLY】wawa play and chill with kfp before break",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 563,
-   "view_count": null
-  }
- ],
- "members_only_content": [
-  {
-   "video_id": "zvZl-BCHFak",
-   "start": "2026-10-15 03:00",
-   "title": "【MEMBERS ONLY】wawa play and chill with kfp before break",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 563,
-   "view_count": null
-  }
- ],
+ "missed_streams": [],
+ "members_only_content": [],
  "history": [
   {
    "month": "2026-09",

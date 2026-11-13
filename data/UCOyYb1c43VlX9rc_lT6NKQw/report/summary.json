@@ -3,11 +3,11 @@
  "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
  "handle": "@ayundarisu",
  "subscribers": 1020000,
- "fetched_at": "2026-11-13 11:45",
- "generated_at": "2026-11-13 11:45",
+ "fetched_at": "2026-11-14 06:34",
+ "generated_at": "2026-11-14 06:34",
  "period": {
-  "from": "2026-10-14 11:45",
-  "to": "2026-11-13 11:45",
+  "from": "2026-10-15 06:34",
+  "to": "2026-11-14 06:34",
   "days": 30
  },
  "streams_analyzed": 21,
@@ -321,18 +321,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "J7X_-Z37pt4",
-   "start": "2026-10-14 21:05",
-   "title": "【hololive Dreams】 PRACTICING RHYTHM LIVE SKILL【#holodori #ホロドリ】",
-   "kind": "live",
-   "status": "no_chat",
-   "reason": "チャットリプレイなし（アーカイブ編集・チャット無効の可能性）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 2355,
-   "view_count": 26057
-  },
-  {
    "video_id": "iHEo94t6jIU",
    "start": "2026-10-15 23:14",
    "title": "PRISUNERS Talk (grin emoji)",
@@ -389,7 +377,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 263,
+   "like_count": 264,
    "view_count": null
   },
   {
@@ -401,7 +389,19 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 188,
+   "like_count": 189,
+   "view_count": null
+  },
+  {
+   "video_id": "MEshahbfI4I",
+   "start": "2026-11-13 23:14",
+   "title": "PRISUNERS NIGHT (eggplant emoji)",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 180,
    "view_count": null
   }
  ],
@@ -443,7 +443,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 263,
+   "like_count": 264,
    "view_count": null
   },
   {
@@ -453,7 +453,17 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 188,
+   "like_count": 189,
+   "view_count": null
+  },
+  {
+   "video_id": "MEshahbfI4I",
+   "start": "2026-11-13 23:14",
+   "title": "PRISUNERS NIGHT (eggplant emoji)",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 180,
    "view_count": null
   }
  ],
@@ -626,10 +636,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-13"
+    "to": "2026-11-14"
    },
    "streams_analyzed": 6,
-   "streams_missed": 2,
+   "streams_missed": 3,
    "unique_chatters": 2318,
    "members_confirmed": 534,
    "member_classes": {

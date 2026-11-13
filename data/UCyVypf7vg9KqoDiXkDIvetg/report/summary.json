@@ -3,27 +3,27 @@
  "channel_id": "UCyVypf7vg9KqoDiXkDIvetg",
  "handle": "@mishiomolf",
  "subscribers": 49100,
- "fetched_at": "2026-11-13 11:49",
- "generated_at": "2026-11-13 11:49",
+ "fetched_at": "2026-11-14 06:48",
+ "generated_at": "2026-11-14 06:48",
  "period": {
-  "from": "2026-10-14 11:49",
-  "to": "2026-11-13 11:49",
+  "from": "2026-10-15 06:48",
+  "to": "2026-11-14 06:48",
   "days": 30
  },
  "streams_analyzed": 20,
- "streams_missed": 4,
- "unique_chatters": 776,
- "members_confirmed": 529,
+ "streams_missed": 3,
+ "unique_chatters": 783,
+ "members_confirmed": 534,
  "member_classes": {
   "unknown": 119,
   "known": 4,
-  "gift": 406
+  "gift": 411
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 316
+   "members": 319
   },
   {
    "months": 1,
@@ -38,12 +38,12 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 33
+   "members": 34
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 46
+   "members": 47
   },
   {
    "months": 24,
@@ -55,9 +55,9 @@
   "new_members": 0,
   "rejoins": 2,
   "milestones": 0,
-  "gift_purchases": 28,
-  "gifted_total": 411,
-  "gift_redemptions": 406
+  "gift_purchases": 29,
+  "gifted_total": 416,
+  "gift_redemptions": 411
  },
  "tiers_configured": true,
  "tiers": [
@@ -109,9 +109,9 @@
  "revenue": {
   "monthly_low": 38354,
   "monthly_est": 38354,
-  "gift_once": 128157,
-  "total_low": 166511,
-  "total_est": 166511,
+  "gift_once": 129716,
+  "total_low": 168070,
+  "total_est": 168070,
   "paying_members": 123,
   "single_tier": false,
   "tax_rate": 0.1,
@@ -121,16 +121,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "P9Ul9ISFd_E",
-   "start": "2026-10-14 16:00",
-   "title": "【#雀魂 雀豪1】なんとか生き延びています... #段位戦 【海汐もるふ/Varium】",
-   "kind": "配信",
-   "chatters": 31,
-   "member_chatters": 16,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "UdPBgL7ORwg",
    "start": "2026-10-17 12:00",
@@ -320,21 +310,19 @@
    "member_chatters": 38,
    "new_members": 0,
    "gifted_total": 1
+  },
+  {
+   "video_id": "iNclSqkyM4I",
+   "start": "2026-11-13 20:00",
+   "title": "【飲酒】ただいま！！！！とお酒🍶【海汐もるふ/Varium】",
+   "kind": "配信",
+   "chatters": 77,
+   "member_chatters": 59,
+   "new_members": 0,
+   "gifted_total": 5
   }
  ],
  "missed_streams": [
-  {
-   "video_id": "sbnFKNu33h8",
-   "start": "2026-10-14 19:53",
-   "title": "【メン限】ひさしぶりにメン限でいっしょに乾杯～🍻【海汐もるふ/Varium】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 71,
-   "view_count": null
-  },
   {
    "video_id": "LjckG7qurEE",
    "start": "2026-10-21 23:00",
@@ -368,22 +356,12 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 105,
+   "like_count": 106,
    "view_count": null
   }
  ],
  "members_only_content": [
   {
-   "video_id": "sbnFKNu33h8",
-   "start": "2026-10-14 19:53",
-   "title": "【メン限】ひさしぶりにメン限でいっしょに乾杯～🍻【海汐もるふ/Varium】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 71,
-   "view_count": null
-  },
-  {
    "video_id": "LjckG7qurEE",
    "start": "2026-10-21 23:00",
    "title": "【メン限ASMR】深夜のお茶会マウスサウンドASMR♡ #マウスサウンド 【海汐もるふ/Varium】",
@@ -410,7 +388,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 105,
+   "like_count": 106,
    "view_count": null
   }
  ],
@@ -558,22 +536,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-13"
+    "to": "2026-11-14"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 6,
    "streams_missed": 1,
-   "unique_chatters": 185,
-   "members_confirmed": 114,
+   "unique_chatters": 213,
+   "members_confirmed": 133,
    "member_classes": {
     "known": 2,
-    "unknown": 81,
-    "gift": 31
+    "unknown": 95,
+    "gift": 36
    },
-   "long_term_members": 47,
+   "long_term_members": 57,
    "badges": [
     {
      "months": 0,
-     "members": 36
+     "members": 41
     },
     {
      "months": 1,
@@ -581,33 +559,33 @@
     },
     {
      "months": 2,
-     "members": 11
+     "members": 13
     },
     {
      "months": 6,
-     "members": 11
+     "members": 13
     },
     {
      "months": 12,
-     "members": 24
+     "members": 29
     },
     {
      "months": 24,
-     "members": 23
+     "members": 28
     }
    ],
    "events": {
     "new_members": 0,
     "rejoins": 1,
     "milestones": 0,
-    "gifted_total": 31
+    "gifted_total": 36
    },
    "tiers": [
     {
      "tier": "海汐海賊団　見習い",
      "price": 490,
      "confirmed_members": 2,
-     "estimated_members": 83.0
+     "estimated_members": 97.0
     },
     {
      "tier": "海汐海賊団　お掃除係",
@@ -629,11 +607,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 25881,
-    "monthly_est": 25881,
-    "gift_once": 9666
+    "monthly_low": 30246,
+    "monthly_est": 30246,
+    "gift_once": 11225
    },
-   "avg_member_chatters": 44.4,
+   "avg_member_chatters": 46.8,
    "partial": true,
    "finalized": false
   }

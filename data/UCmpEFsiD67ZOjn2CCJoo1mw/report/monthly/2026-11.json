@@ -2,22 +2,22 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-13"
+  "to": "2026-11-14"
  },
- "streams_analyzed": 11,
+ "streams_analyzed": 12,
  "streams_missed": 0,
- "unique_chatters": 897,
- "members_confirmed": 223,
+ "unique_chatters": 924,
+ "members_confirmed": 264,
  "member_classes": {
-  "known": 64,
-  "unknown": 82,
-  "gift": 77
+  "known": 65,
+  "unknown": 83,
+  "gift": 116
  },
- "long_term_members": 76,
+ "long_term_members": 77,
  "badges": [
   {
    "months": 0,
-   "members": 80
+   "members": 120
   },
   {
    "months": 1,
@@ -25,15 +25,15 @@
   },
   {
    "months": 2,
-   "members": 31
-  },
-  {
-   "months": 6,
    "members": 32
   },
   {
+   "months": 6,
+   "members": 31
+  },
+  {
    "months": 12,
-   "members": 53
+   "members": 54
   },
   {
    "months": 24,
@@ -47,15 +47,15 @@
  "events": {
   "new_members": 3,
   "rejoins": 4,
-  "milestones": 26,
-  "gifted_total": 80
+  "milestones": 29,
+  "gifted_total": 120
  },
  "tiers": [
   {
    "tier": "久我ゼミ",
    "price": 690,
-   "confirmed_members": 55,
-   "estimated_members": 125.5
+   "confirmed_members": 56,
+   "estimated_members": 127.5
   },
   {
    "tier": "久我ゼミ放課後",
@@ -65,11 +65,11 @@
   }
  ],
  "revenue": {
-  "monthly_low": 66971,
-  "monthly_est": 70640,
-  "gift_once": 35127
+  "monthly_low": 67849,
+  "monthly_est": 71506,
+  "gift_once": 52691
  },
- "avg_member_chatters": 75.5,
+ "avg_member_chatters": 77.4,
  "partial": true,
  "finalized": false
 }

@@ -538,7 +538,7 @@
    "start_jst": "2026-10-21 15:16",
    "duration_sec": 10038,
    "view_count": null,
-   "like_count": 259,
+   "like_count": 260,
    "live_status": "was_live",
    "members_only": true,
    "has_chat": false,
@@ -547,8 +547,8 @@
    "was_public_when_live": false,
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1794519260.1484203,
-   "likes_checked_at": "2026-11-13 06:34"
+   "likes_checked_ts": 1794606044.473506,
+   "likes_checked_at": "2026-11-14 06:40"
   },
   "C5RytkAGCt8": {
    "id": "C5RytkAGCt8",
@@ -743,17 +743,29 @@
   "iUROBIKRPIQ": {
    "id": "iUROBIKRPIQ",
    "title": "hayaoki【 ぶいすぽっ！ / 小森めと 】",
-   "status": "live_now",
+   "kind": "live",
+   "start_ts": 1794528986.531991,
+   "start_jst": "2026-11-13 09:16",
+   "duration_sec": 14256,
+   "view_count": 126573,
+   "like_count": 2308,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-14 06:40",
+   "info_limited": true,
    "seen_live_at": "2026-11-13 11:46",
-   "was_public_when_live": true
+   "was_public_when_live": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "Met Channel / 小森めと ",
  "channel_id": "UCzUNASdzI4PV5SlqtYwAkKQ",
  "handle": "@Met_Komori",
  "subscribers": 850000,
- "fetched_at": "2026-11-13 11:46",
- "fetched_at_ts": 1794538014.649374,
- "checked_from": "2026-11-06 11:46",
+ "fetched_at": "2026-11-14 06:40",
+ "fetched_at_ts": 1794606044.473506,
+ "checked_from": "2026-11-07 06:40",
  "initial_fetch_done": true
 }

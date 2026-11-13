@@ -3,32 +3,32 @@
  "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
  "handle": "@AnyaMelfissa",
  "subscribers": 805000,
- "fetched_at": "2026-11-13 11:45",
- "generated_at": "2026-11-13 11:45",
+ "fetched_at": "2026-11-14 06:34",
+ "generated_at": "2026-11-14 06:34",
  "period": {
-  "from": "2026-10-14 11:45",
-  "to": "2026-11-13 11:45",
+  "from": "2026-10-15 06:34",
+  "to": "2026-11-14 06:34",
   "days": 30
  },
  "streams_analyzed": 30,
  "streams_missed": 2,
- "unique_chatters": 4253,
- "members_confirmed": 568,
+ "unique_chatters": 4225,
+ "members_confirmed": 565,
  "member_classes": {
-  "known": 88,
+  "known": 89,
   "unknown": 251,
-  "gift": 229
+  "gift": 225
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 264
+   "members": 262
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 24
+   "members": 23
   },
   {
    "months": 2,
@@ -57,12 +57,12 @@
   }
  ],
  "events": {
-  "new_members": 16,
+  "new_members": 15,
   "rejoins": 14,
-  "milestones": 40,
-  "gift_purchases": 45,
-  "gifted_total": 240,
-  "gift_redemptions": 230
+  "milestones": 41,
+  "gift_purchases": 44,
+  "gifted_total": 235,
+  "gift_redemptions": 225
  },
  "tiers_configured": true,
  "tiers": [
@@ -70,21 +70,21 @@
    "tier": "Melhomies Den",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 88,
+   "confirmed_members": 89,
    "share_of_confirmed_pct": 100.0,
    "allocated_unknown": 251.0,
-   "estimated_members": 339.0,
-   "monthly_net_confirmed": 27440,
-   "monthly_net_estimated": 105706
+   "estimated_members": 340.0,
+   "monthly_net_confirmed": 27752,
+   "monthly_net_estimated": 106018
   }
  ],
  "revenue": {
-  "monthly_low": 105706,
-  "monthly_est": 105706,
-  "gift_once": 74836,
-  "total_low": 180543,
-  "total_est": 180543,
-  "paying_members": 339,
+  "monthly_low": 106018,
+  "monthly_est": 106018,
+  "gift_once": 73277,
+  "total_low": 179295,
+  "total_est": 179295,
+  "paying_members": 340,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "1kN3r2ME5HA",
-   "start": "2026-10-14 21:02",
-   "title": "【hololive Dreams ホロライブドリームス】Let's Improve Everyone's Rhythm Skill!~【hololive holoro | Anya Melfissa】",
-   "kind": "配信",
-   "chatters": 294,
-   "member_chatters": 73,
-   "new_members": 1,
-   "gifted_total": 5
-  },
   {
    "video_id": "ByLWsCXuUBY",
    "start": "2026-10-15 20:03",
@@ -392,6 +382,16 @@
    "member_chatters": 50,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "D1O7D1qyqEA",
+   "start": "2026-11-13 22:00",
+   "title": "【Meccha Chameleon】BIG CHAMELEON COLLAB! みんなとめっちゃカメレオン！【hololive holoro | Anya Melfissa】",
+   "kind": "配信",
+   "chatters": 205,
+   "member_chatters": 67,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -587,22 +587,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-13"
+    "to": "2026-11-14"
    },
-   "streams_analyzed": 10,
+   "streams_analyzed": 11,
    "streams_missed": 0,
-   "unique_chatters": 1846,
-   "members_confirmed": 342,
+   "unique_chatters": 1905,
+   "members_confirmed": 345,
    "member_classes": {
-    "known": 74,
-    "unknown": 175,
+    "known": 75,
+    "unknown": 177,
     "gift": 93
    },
-   "long_term_members": 157,
+   "long_term_members": 158,
    "badges": [
     {
      "months": 0,
-     "members": 120
+     "members": 122
     },
     {
      "months": 1,
@@ -626,29 +626,29 @@
     },
     {
      "months": 36,
-     "members": 80
+     "members": 81
     }
    ],
    "events": {
     "new_members": 10,
     "rejoins": 5,
-    "milestones": 20,
+    "milestones": 21,
     "gifted_total": 103
    },
    "tiers": [
     {
      "tier": "Melhomies Den",
      "price": 490,
-     "confirmed_members": 74,
-     "estimated_members": 249.0
+     "confirmed_members": 75,
+     "estimated_members": 252.0
     }
    ],
    "revenue": {
-    "monthly_low": 77643,
-    "monthly_est": 77643,
+    "monthly_low": 78578,
+    "monthly_est": 78578,
     "gift_once": 32117
    },
-   "avg_member_chatters": 92.1,
+   "avg_member_chatters": 89.8,
    "partial": true,
    "finalized": false
   }

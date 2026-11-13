@@ -3,52 +3,52 @@
  "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
  "handle": "@AiraniIofifteen",
  "subscribers": 836000,
- "fetched_at": "2026-11-13 11:45",
- "generated_at": "2026-11-13 11:45",
+ "fetched_at": "2026-11-14 06:34",
+ "generated_at": "2026-11-14 06:34",
  "period": {
-  "from": "2026-10-14 11:45",
-  "to": "2026-11-13 11:45",
+  "from": "2026-10-15 06:34",
+  "to": "2026-11-14 06:34",
   "days": 30
  },
- "streams_analyzed": 27,
+ "streams_analyzed": 23,
  "streams_missed": 2,
- "unique_chatters": 3747,
- "members_confirmed": 428,
+ "unique_chatters": 3401,
+ "members_confirmed": 414,
  "member_classes": {
-  "unknown": 231,
-  "known": 95,
+  "unknown": 222,
+  "known": 90,
   "gift": 102
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 155
+   "members": 151
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 23
+   "members": 21
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 30
+   "members": 29
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 32
+   "members": 31
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 72
+   "members": 70
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 35
+   "members": 32
   },
   {
    "months": 36,
@@ -58,13 +58,13 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 63
+   "members": 62
   }
  ],
  "events": {
-  "new_members": 14,
-  "rejoins": 12,
-  "milestones": 34,
+  "new_members": 11,
+  "rejoins": 10,
+  "milestones": 33,
   "gift_purchases": 16,
   "gifted_total": 103,
   "gift_redemptions": 103
@@ -75,21 +75,21 @@
    "tier": "Kira Kira Club",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 95,
+   "confirmed_members": 90,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 231.0,
-   "estimated_members": 326.0,
-   "monthly_net_confirmed": 29623,
-   "monthly_net_estimated": 101653
+   "allocated_unknown": 222.0,
+   "estimated_members": 312.0,
+   "monthly_net_confirmed": 28064,
+   "monthly_net_estimated": 97287
   }
  ],
  "revenue": {
-  "monthly_low": 101653,
-  "monthly_est": 101653,
+  "monthly_low": 97287,
+  "monthly_est": 97287,
   "gift_once": 32117,
-  "total_low": 133770,
-  "total_est": 133770,
-  "paying_members": 326,
+  "total_low": 129405,
+  "total_est": 129405,
+  "paying_members": 312,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,46 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "xkUVLMBAJXo",
-   "start": "2026-10-14 14:01",
-   "title": "【#holodori 】Fishing and Yapping【 iofi / hololive】",
-   "kind": "配信",
-   "chatters": 231,
-   "member_chatters": 51,
-   "new_members": 0,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "TMiZVgLDQi8",
-   "start": "2026-10-14 17:04",
-   "title": "【 #holoctober 】DAY 14 : SPORTS【 iofi / hololive】",
-   "kind": "配信",
-   "chatters": 281,
-   "member_chatters": 54,
-   "new_members": 0,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "UR30LZ0vm5Q",
-   "start": "2026-10-14 21:04",
-   "title": "【 Rebo Nyunda】Aksara Sunda【 iofi / hololive】",
-   "kind": "配信",
-   "chatters": 438,
-   "member_chatters": 71,
-   "new_members": 1,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "BshwrRG38BU",
-   "start": "2026-10-14 23:01",
-   "title": "【Moonfrost】New Adventure in Moonfrost!【 iofi / hololive】",
-   "kind": "配信",
-   "chatters": 193,
-   "member_chatters": 62,
-   "new_members": 2,
-   "gifted_total": 0
-  },
   {
    "video_id": "WBoi6qduQlY",
    "start": "2026-10-15 17:03",
@@ -391,7 +351,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 121,
+   "like_count": 122,
    "view_count": null
   }
  ],
@@ -413,7 +373,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 121,
+   "like_count": 122,
    "view_count": null
   }
  ],
@@ -570,7 +530,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-13"
+    "to": "2026-11-14"
    },
    "streams_analyzed": 4,
    "streams_missed": 0,

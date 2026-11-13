@@ -2,21 +2,21 @@
  "channel": "Remia Aotsuki 【VSPO! EN】",
  "channel_id": "UCCra1t-eIlO3ULyXQQMD9Xw",
  "handle": "@RemiaAotsuki",
- "subscribers": 81500,
- "fetched_at": "2026-11-13 11:47",
- "generated_at": "2026-11-13 11:47",
+ "subscribers": 81600,
+ "fetched_at": "2026-11-14 06:41",
+ "generated_at": "2026-11-14 06:42",
  "period": {
-  "from": "2026-10-14 11:47",
-  "to": "2026-11-13 11:47",
+  "from": "2026-10-15 06:41",
+  "to": "2026-11-14 06:41",
   "days": 30
  },
  "streams_analyzed": 24,
  "streams_missed": 2,
- "unique_chatters": 533,
- "members_confirmed": 112,
+ "unique_chatters": 535,
+ "members_confirmed": 113,
  "member_classes": {
-  "unknown": 77,
-  "known": 28,
+  "known": 30,
+  "unknown": 76,
   "gift": 7
  },
  "badges": [
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 11
+   "members": 10
   },
   {
    "months": 6,
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 28
+   "members": 30
   },
   {
    "months": 24,
@@ -54,7 +54,7 @@
  "events": {
   "new_members": 2,
   "rejoins": 5,
-  "milestones": 17,
+  "milestones": 19,
   "gift_purchases": 3,
   "gifted_total": 7,
   "gift_redemptions": 7
@@ -65,21 +65,21 @@
    "tier": "BOTchis",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 28,
+   "confirmed_members": 30,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 77.0,
-   "estimated_members": 105.0,
-   "monthly_net_confirmed": 8731,
-   "monthly_net_estimated": 32741
+   "allocated_unknown": 76.0,
+   "estimated_members": 106.0,
+   "monthly_net_confirmed": 9355,
+   "monthly_net_estimated": 33053
   }
  ],
  "revenue": {
-  "monthly_low": 32741,
-  "monthly_est": 32741,
+  "monthly_low": 33053,
+  "monthly_est": 33053,
   "gift_once": 2183,
-  "total_low": 34924,
-  "total_est": 34924,
-  "paying_members": 105,
+  "total_low": 35235,
+  "total_est": 35235,
+  "paying_members": 106,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "W0mzlrXIqYc",
-   "start": "2026-10-14 21:02",
-   "title": "【HOW TO FISH】  fish gamba gimme karambit!!! 【#VSPOEN #RemiaAotsuki】",
-   "kind": "配信",
-   "chatters": 64,
-   "member_chatters": 35,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "zB6gg1XY0lY",
    "start": "2026-10-16 02:59",
@@ -327,6 +317,16 @@
    "member_chatters": 33,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "dihrWpmw_yc",
+   "start": "2026-11-13 07:08",
+   "title": "【Counter-Strike 2】  Backseating @SinisterDoodle  :3  【#VSPOEN #RemiaAotsuki】",
+   "kind": "配信",
+   "chatters": 57,
+   "member_chatters": 35,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -503,17 +503,17 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-13"
+    "to": "2026-11-14"
    },
-   "streams_analyzed": 9,
+   "streams_analyzed": 10,
    "streams_missed": 1,
-   "unique_chatters": 287,
-   "members_confirmed": 72,
+   "unique_chatters": 299,
+   "members_confirmed": 74,
    "member_classes": {
-    "known": 21,
+    "known": 23,
     "unknown": 51
    },
-   "long_term_members": 45,
+   "long_term_members": 47,
    "badges": [
     {
      "months": 0,
@@ -529,7 +529,7 @@
     },
     {
      "months": 12,
-     "members": 22
+     "members": 24
     },
     {
      "months": 24,
@@ -539,23 +539,23 @@
    "events": {
     "new_members": 0,
     "rejoins": 1,
-    "milestones": 1,
+    "milestones": 3,
     "gifted_total": 0
    },
    "tiers": [
     {
      "tier": "BOTchis",
      "price": 490,
-     "confirmed_members": 21,
-     "estimated_members": 72.0
+     "confirmed_members": 23,
+     "estimated_members": 74.0
     }
    ],
    "revenue": {
-    "monthly_low": 22451,
-    "monthly_est": 22451,
+    "monthly_low": 23075,
+    "monthly_est": 23075,
     "gift_once": 0
    },
-   "avg_member_chatters": 31.3,
+   "avg_member_chatters": 31.7,
    "partial": true,
    "finalized": false
   }

@@ -3,31 +3,31 @@
  "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
  "handle": "@kazamairoha",
  "subscribers": 1150000,
- "fetched_at": "2026-11-13 11:45",
- "generated_at": "2026-11-13 11:45",
+ "fetched_at": "2026-11-14 06:29",
+ "generated_at": "2026-11-14 06:29",
  "period": {
-  "from": "2026-10-14 11:45",
-  "to": "2026-11-13 11:45",
+  "from": "2026-10-15 06:29",
+  "to": "2026-11-14 06:29",
   "days": 30
  },
- "streams_analyzed": 34,
+ "streams_analyzed": 33,
  "streams_missed": 4,
- "unique_chatters": 11088,
- "members_confirmed": 2823,
+ "unique_chatters": 11001,
+ "members_confirmed": 2807,
  "member_classes": {
-  "known": 540,
-  "unknown": 2283
+  "known": 537,
+  "unknown": 2270
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 94
+   "members": 93
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 50
+   "members": 49
   },
   {
    "months": 2,
@@ -37,28 +37,28 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 263
+   "members": 261
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 634
+   "members": 631
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 380
+   "members": 377
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 1190
+   "members": 1184
   }
  ],
  "events": {
-  "new_members": 46,
+  "new_members": 45,
   "rejoins": 28,
-  "milestones": 187,
+  "milestones": 184,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -69,21 +69,21 @@
    "tier": "かざま隊",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 540,
+   "confirmed_members": 537,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2283.0,
-   "estimated_members": 2823.0,
-   "monthly_net_confirmed": 168382,
-   "monthly_net_estimated": 880263
+   "allocated_unknown": 2270.0,
+   "estimated_members": 2807.0,
+   "monthly_net_confirmed": 167446,
+   "monthly_net_estimated": 875274
   }
  ],
  "revenue": {
-  "monthly_low": 880263,
-  "monthly_est": 880263,
+  "monthly_low": 875274,
+  "monthly_est": 875274,
   "gift_once": 0,
-  "total_low": 880263,
-  "total_est": 880263,
-  "paying_members": 2823,
+  "total_low": 875274,
+  "total_est": 875274,
+  "paying_members": 2807,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -92,16 +92,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "X3ukSC1inr8",
-   "start": "2026-10-14 19:11",
-   "title": "【#ホロARK】空をなんとしても飛びたいDAY🏝【風真いろは/ホロライブ】",
-   "kind": "配信",
-   "chatters": 838,
-   "member_chatters": 486,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "C93-V8yu8wE",
    "start": "2026-10-15 07:00",
@@ -467,7 +457,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "かざま隊",
-   "like_count": 1340,
+   "like_count": 1343,
    "view_count": null
   },
   {
@@ -501,7 +491,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "かざま隊",
-   "like_count": 1340,
+   "like_count": 1343,
    "view_count": null
   },
   {
@@ -658,7 +648,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-13"
+    "to": "2026-11-14"
    },
    "streams_analyzed": 11,
    "streams_missed": 2,

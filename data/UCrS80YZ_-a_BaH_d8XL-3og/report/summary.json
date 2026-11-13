@@ -3,41 +3,41 @@
  "channel_id": "UCrS80YZ_-a_BaH_d8XL-3og",
  "handle": "@HimamoriPota",
  "subscribers": 44000,
- "fetched_at": "2026-11-13 11:49",
- "generated_at": "2026-11-13 11:49",
+ "fetched_at": "2026-11-14 06:49",
+ "generated_at": "2026-11-14 06:50",
  "period": {
-  "from": "2026-10-14 11:49",
-  "to": "2026-11-13 11:49",
+  "from": "2026-10-15 06:49",
+  "to": "2026-11-14 06:49",
   "days": 30
  },
  "streams_analyzed": 31,
  "streams_missed": 3,
- "unique_chatters": 1807,
+ "unique_chatters": 1821,
  "members_confirmed": 859,
  "member_classes": {
-  "unknown": 426,
-  "known": 29,
+  "unknown": 427,
+  "known": 28,
   "gift": 404
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 381
+   "members": 378
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 132
+   "members": 130
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 346
+   "members": 351
   }
  ],
  "events": {
-  "new_members": 12,
+  "new_members": 11,
   "rejoins": 5,
   "milestones": 0,
   "gift_purchases": 51,
@@ -50,11 +50,11 @@
    "tier": "シルバー",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 29,
+   "confirmed_members": 28,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 426.0,
+   "allocated_unknown": 427.0,
    "estimated_members": 455.0,
-   "monthly_net_confirmed": 9043,
+   "monthly_net_confirmed": 8731,
    "monthly_net_estimated": 141877
   },
   {
@@ -106,16 +106,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "1aaZgziTi34",
-   "start": "2026-10-14 19:00",
-   "title": "#03【 絶体絶命都市2 】完全初見.ᐟ 自分の選択で生き延びたい.ᐟ.ᐟ #柘植編#西崎編 ※ネタバレ注意.ᐟ【向日守ぽた/ Varium】",
-   "kind": "配信",
-   "chatters": 271,
-   "member_chatters": 154,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "WjhI8yKqsVM",
    "start": "2026-10-15 19:00",
@@ -415,6 +405,16 @@
    "member_chatters": 206,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "9sqkjdMArxs",
+   "start": "2026-11-13 19:00",
+   "title": "【 利用規約に同意したい 】完全初見！同意させてくれーーーーーー！【向日守ぽた/ Varium】",
+   "kind": "配信",
+   "chatters": 349,
+   "member_chatters": 209,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -607,30 +607,30 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-13"
+    "to": "2026-11-14"
    },
-   "streams_analyzed": 11,
+   "streams_analyzed": 12,
    "streams_missed": 1,
-   "unique_chatters": 1041,
-   "members_confirmed": 481,
+   "unique_chatters": 1103,
+   "members_confirmed": 498,
    "member_classes": {
-    "unknown": 432,
-    "known": 19,
+    "unknown": 448,
+    "known": 20,
     "gift": 30
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 109
+     "members": 110
     },
     {
      "months": 1,
-     "members": 93
+     "members": 95
     },
     {
      "months": 2,
-     "members": 279
+     "members": 293
     }
    ],
    "events": {
@@ -643,8 +643,8 @@
     {
      "tier": "シルバー",
      "price": 490,
-     "confirmed_members": 19,
-     "estimated_members": 451.0
+     "confirmed_members": 20,
+     "estimated_members": 468.0
     },
     {
      "tier": "ゴールド",
@@ -666,11 +666,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 140630,
-    "monthly_est": 140630,
+    "monthly_low": 145931,
+    "monthly_est": 145931,
     "gift_once": 9355
    },
-   "avg_member_chatters": 206.4,
+   "avg_member_chatters": 206.6,
    "partial": true,
    "finalized": false
   }

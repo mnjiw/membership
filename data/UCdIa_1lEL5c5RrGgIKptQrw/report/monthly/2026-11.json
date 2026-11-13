@@ -2,33 +2,34 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-13"
+  "to": "2026-11-14"
  },
- "streams_analyzed": 6,
+ "streams_analyzed": 7,
  "streams_missed": 1,
- "unique_chatters": 727,
- "members_confirmed": 245,
+ "unique_chatters": 778,
+ "members_confirmed": 254,
  "member_classes": {
-  "known": 73,
-  "unknown": 172
+  "known": 77,
+  "unknown": 175,
+  "gift": 2
  },
- "long_term_members": 71,
+ "long_term_members": 72,
  "badges": [
   {
    "months": 0,
-   "members": 79
+   "members": 80
   },
   {
    "months": 1,
-   "members": 38
+   "members": 42
   },
   {
    "months": 2,
-   "members": 40
+   "members": 42
   },
   {
    "months": 6,
-   "members": 17
+   "members": 18
   },
   {
    "months": 12,
@@ -36,35 +37,35 @@
   },
   {
    "months": 24,
-   "members": 56
+   "members": 57
   }
  ],
  "events": {
-  "new_members": 7,
+  "new_members": 9,
   "rejoins": 1,
-  "milestones": 6,
-  "gifted_total": 0
+  "milestones": 8,
+  "gifted_total": 2
  },
  "tiers": [
   {
    "tier": "あまこも超親衛隊",
    "price": 490,
-   "confirmed_members": 63,
-   "estimated_members": 211.4
+   "confirmed_members": 67,
+   "estimated_members": 219.3
   },
   {
    "tier": "あまこも超絶親衛隊",
    "price": 3490,
    "confirmed_members": 10,
-   "estimated_members": 33.6
+   "estimated_members": 32.7
   }
  ],
  "revenue": {
-  "monthly_low": 95486,
-  "monthly_est": 140468,
-  "gift_once": 0
+  "monthly_low": 97669,
+  "monthly_est": 141058,
+  "gift_once": 624
  },
- "avg_member_chatters": 115.5,
+ "avg_member_chatters": 115.4,
  "partial": true,
  "finalized": false
 }

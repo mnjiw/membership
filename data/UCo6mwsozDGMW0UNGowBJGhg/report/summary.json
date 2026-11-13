@@ -3,27 +3,27 @@
  "channel_id": "UCo6mwsozDGMW0UNGowBJGhg",
  "handle": "@KonkonAria",
  "subscribers": 160000,
- "fetched_at": "2026-11-13 11:48",
- "generated_at": "2026-11-13 11:48",
+ "fetched_at": "2026-11-14 06:46",
+ "generated_at": "2026-11-14 06:46",
  "period": {
-  "from": "2026-10-14 11:48",
-  "to": "2026-11-13 11:48",
+  "from": "2026-10-15 06:46",
+  "to": "2026-11-14 06:46",
   "days": 30
  },
  "streams_analyzed": 25,
  "streams_missed": 1,
- "unique_chatters": 4595,
- "members_confirmed": 783,
+ "unique_chatters": 4604,
+ "members_confirmed": 780,
  "member_classes": {
-  "unknown": 361,
+  "unknown": 359,
   "known": 151,
-  "gift": 271
+  "gift": 270
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 325
+   "members": 324
   },
   {
    "months": 1,
@@ -33,31 +33,31 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 83
+   "members": 82
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 78
+   "members": 79
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 141
+   "members": 140
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 115
+   "members": 114
   }
  ],
  "events": {
   "new_members": 60,
-  "rejoins": 21,
-  "milestones": 52,
-  "gift_purchases": 75,
-  "gifted_total": 273,
-  "gift_redemptions": 271
+  "rejoins": 20,
+  "milestones": 53,
+  "gift_purchases": 74,
+  "gifted_total": 272,
+  "gift_redemptions": 270
  },
  "tiers_configured": true,
  "tiers": [
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 151,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 361.0,
-   "estimated_members": 512.0,
+   "allocated_unknown": 359.0,
+   "estimated_members": 510.0,
    "monthly_net_confirmed": 47085,
-   "monthly_net_estimated": 159651
+   "monthly_net_estimated": 159027
   }
  ],
  "revenue": {
-  "monthly_low": 159651,
-  "monthly_est": 159651,
-  "gift_once": 85126,
-  "total_low": 244777,
-  "total_est": 244777,
-  "paying_members": 512,
+  "monthly_low": 159027,
+  "monthly_est": 159027,
+  "gift_once": 84815,
+  "total_low": 243842,
+  "total_est": 243842,
+  "paying_members": 510,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "SHpRzTIWFYM",
-   "start": "2026-10-14 20:03",
-   "title": "【 #LTK 】CC COREスクリム【昏昏アリア/ネオポルテ】",
-   "kind": "配信",
-   "chatters": 309,
-   "member_chatters": 149,
-   "new_members": 0,
-   "gifted_total": 1
-  },
   {
    "video_id": "AY1qGUWvlZo",
    "start": "2026-10-15 16:04",
@@ -337,6 +327,16 @@
    "member_chatters": 155,
    "new_members": 0,
    "gifted_total": 15
+  },
+  {
+   "video_id": "Lz6ftSnlWZ4",
+   "start": "2026-11-13 22:12",
+   "title": "【 LoL 】BOT組で練習！ #LTK【昏昏アリア/ネオポルテ】",
+   "kind": "配信",
+   "chatters": 335,
+   "member_chatters": 138,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -491,15 +491,15 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-13"
+    "to": "2026-11-14"
    },
-   "streams_analyzed": 10,
+   "streams_analyzed": 11,
    "streams_missed": 0,
-   "unique_chatters": 3268,
-   "members_confirmed": 539,
+   "unique_chatters": 3296,
+   "members_confirmed": 541,
    "member_classes": {
-    "unknown": 299,
-    "known": 133,
+    "unknown": 300,
+    "known": 134,
     "gift": 107
    },
    "long_term_members": 195,
@@ -514,11 +514,11 @@
     },
     {
      "months": 2,
-     "members": 64
+     "members": 65
     },
     {
      "months": 6,
-     "members": 63
+     "members": 64
     },
     {
      "months": 12,
@@ -532,23 +532,23 @@
    "events": {
     "new_members": 48,
     "rejoins": 13,
-    "milestones": 18,
+    "milestones": 19,
     "gifted_total": 107
    },
    "tiers": [
     {
      "tier": "メンバーシップ",
      "price": 490,
-     "confirmed_members": 133,
-     "estimated_members": 432.0
+     "confirmed_members": 134,
+     "estimated_members": 434.0
     }
    ],
    "revenue": {
-    "monthly_low": 134705,
-    "monthly_est": 134705,
+    "monthly_low": 135329,
+    "monthly_est": 135329,
     "gift_once": 33365
    },
-   "avg_member_chatters": 212.7,
+   "avg_member_chatters": 205.9,
    "partial": true,
    "finalized": false
   }

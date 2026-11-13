@@ -3,19 +3,19 @@
  "channel_id": "UC_hjHmi-ODGhHlSzD16p5Pw",
  "handle": "@Popo_Ieiri",
  "subscribers": 131000,
- "fetched_at": "2026-11-13 11:46",
- "generated_at": "2026-11-13 11:46",
+ "fetched_at": "2026-11-14 06:39",
+ "generated_at": "2026-11-14 06:39",
  "period": {
-  "from": "2026-10-14 11:46",
-  "to": "2026-11-13 11:46",
+  "from": "2026-10-15 06:39",
+  "to": "2026-11-14 06:39",
   "days": 30
  },
  "streams_analyzed": 27,
  "streams_missed": 1,
- "unique_chatters": 1037,
- "members_confirmed": 140,
+ "unique_chatters": 1031,
+ "members_confirmed": 141,
  "member_classes": {
-  "unknown": 117,
+  "unknown": 118,
   "known": 13,
   "gift": 10
  },
@@ -38,7 +38,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 20
+   "members": 21
   },
   {
    "months": 12,
@@ -72,19 +72,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 13,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 117.0,
-   "estimated_members": 130.0,
+   "allocated_unknown": 118.0,
+   "estimated_members": 131.0,
    "monthly_net_confirmed": 4054,
-   "monthly_net_estimated": 40536
+   "monthly_net_estimated": 40848
   }
  ],
  "revenue": {
-  "monthly_low": 40536,
-  "monthly_est": 40536,
+  "monthly_low": 40848,
+  "monthly_est": 40848,
   "gift_once": 3118,
-  "total_low": 43655,
-  "total_est": 43655,
-  "paying_members": 130,
+  "total_low": 43966,
+  "total_est": 43966,
+  "paying_members": 131,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "k8vfa6LwJew",
-   "start": "2026-10-14 21:01",
-   "title": "【SILENT HILL: Townfall #2】謎解き自信ネキとセントアメリア観光【家入ポポ / ななしいんく】",
-   "kind": "配信",
-   "chatters": 53,
-   "member_chatters": 27,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "UvoGvmueab0",
    "start": "2026-10-15 22:02",
@@ -362,6 +352,16 @@
    "member_chatters": 19,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "rJdptgPRQcc",
+   "start": "2026-11-13 20:03",
+   "title": "【#ガチグラ2 / 5日目】ヘリの女王となるべく……【家入ポポ / ななしいんく】",
+   "kind": "配信",
+   "chatters": 41,
+   "member_chatters": 25,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -523,14 +523,14 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-13"
+    "to": "2026-11-14"
    },
-   "streams_analyzed": 13,
+   "streams_analyzed": 14,
    "streams_missed": 0,
-   "unique_chatters": 676,
-   "members_confirmed": 116,
+   "unique_chatters": 680,
+   "members_confirmed": 118,
    "member_classes": {
-    "unknown": 100,
+    "unknown": 102,
     "known": 11,
     "gift": 5
    },
@@ -550,7 +550,7 @@
     },
     {
      "months": 6,
-     "members": 15
+     "members": 17
     },
     {
      "months": 12,
@@ -576,15 +576,15 @@
      "tier": "ポポパーク",
      "price": 490,
      "confirmed_members": 11,
-     "estimated_members": 111.0
+     "estimated_members": 113.0
     }
    ],
    "revenue": {
-    "monthly_low": 34612,
-    "monthly_est": 34612,
+    "monthly_low": 35235,
+    "monthly_est": 35235,
     "gift_once": 1559
    },
-   "avg_member_chatters": 35.5,
+   "avg_member_chatters": 34.7,
    "partial": true,
    "finalized": false
   }

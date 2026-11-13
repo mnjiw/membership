@@ -2,28 +2,28 @@
  "channel": "Haru Ch. 花前ハル",
  "channel_id": "UCP03XuewcMC2DaSFDJhqJmA",
  "handle": "@HanamaeHaru",
- "subscribers": 45500,
- "fetched_at": "2026-11-13 11:49",
- "generated_at": "2026-11-13 11:49",
+ "subscribers": 45600,
+ "fetched_at": "2026-11-14 06:50",
+ "generated_at": "2026-11-14 06:51",
  "period": {
-  "from": "2026-10-14 11:49",
-  "to": "2026-11-13 11:49",
+  "from": "2026-10-15 06:50",
+  "to": "2026-11-14 06:50",
   "days": 30
  },
- "streams_analyzed": 24,
- "streams_missed": 4,
- "unique_chatters": 1065,
- "members_confirmed": 192,
+ "streams_analyzed": 26,
+ "streams_missed": 3,
+ "unique_chatters": 1109,
+ "members_confirmed": 203,
  "member_classes": {
-  "unknown": 110,
-  "known": 38,
-  "gift": 44
+  "unknown": 112,
+  "known": 39,
+  "gift": 52
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 75
+   "members": 86
   },
   {
    "months": 1,
@@ -37,12 +37,12 @@
   }
  ],
  "events": {
-  "new_members": 23,
+  "new_members": 24,
   "rejoins": 18,
   "milestones": 3,
-  "gift_purchases": 20,
-  "gifted_total": 44,
-  "gift_redemptions": 44
+  "gift_purchases": 24,
+  "gifted_total": 52,
+  "gift_redemptions": 52
  },
  "tiers_configured": true,
  "tiers": [
@@ -50,32 +50,32 @@
    "tier": "086Hz",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 34,
-   "share_of_confirmed_pct": 89.5,
-   "allocated_unknown": 98.4,
-   "estimated_members": 132.4,
-   "monthly_net_confirmed": 10602,
-   "monthly_net_estimated": 41291
+   "confirmed_members": 35,
+   "share_of_confirmed_pct": 89.7,
+   "allocated_unknown": 100.5,
+   "estimated_members": 135.5,
+   "monthly_net_confirmed": 10914,
+   "monthly_net_estimated": 42255
   },
   {
    "tier": "870Hz",
    "price": 1290,
    "net_per_member": 820.9,
    "confirmed_members": 4,
-   "share_of_confirmed_pct": 10.5,
-   "allocated_unknown": 11.6,
-   "estimated_members": 15.6,
+   "share_of_confirmed_pct": 10.3,
+   "allocated_unknown": 11.5,
+   "estimated_members": 15.5,
    "monthly_net_confirmed": 3284,
-   "monthly_net_estimated": 12789
+   "monthly_net_estimated": 12714
   }
  ],
  "revenue": {
-  "monthly_low": 48185,
-  "monthly_est": 54080,
-  "gift_once": 13720,
-  "total_low": 61905,
-  "total_est": 67800,
-  "paying_members": 148,
+  "monthly_low": 49121,
+  "monthly_est": 54969,
+  "gift_once": 16215,
+  "total_low": 65335,
+  "total_est": 71183,
+  "paying_members": 151,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -323,6 +323,26 @@
    "member_chatters": 22,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "5SWgw6C8UBE",
+   "start": "2026-11-12 17:59",
+   "title": "【ゼルダの伝説 時のオカリナ】完全初見❗️賢者を探し求めて#3【花前ハル/REJECT】",
+   "kind": "配信",
+   "chatters": 83,
+   "member_chatters": 37,
+   "new_members": 1,
+   "gifted_total": 2
+  },
+  {
+   "video_id": "nZtlliRMueI",
+   "start": "2026-11-13 18:00",
+   "title": "【歌枠】初見さん歓迎！今日もたくさん歌います【花前ハル/REJECT】",
+   "kind": "配信",
+   "chatters": 110,
+   "member_chatters": 48,
+   "new_members": 0,
+   "gifted_total": 6
   }
  ],
  "missed_streams": [
@@ -359,20 +379,8 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 142,
+   "like_count": 143,
    "view_count": null
-  },
-  {
-   "video_id": "5SWgw6C8UBE",
-   "start": "2026-11-12 00:00",
-   "title": "【ゼルダの伝説 時のオカリナ】完全初見❗️賢者を探し求めて#3【花前ハル/REJECT】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 589,
-   "view_count": 10680
   }
  ],
  "members_only_content": [
@@ -403,7 +411,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 142,
+   "like_count": 143,
    "view_count": null
   }
  ],
@@ -515,22 +523,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-13"
+    "to": "2026-11-14"
    },
-   "streams_analyzed": 12,
-   "streams_missed": 2,
-   "unique_chatters": 603,
-   "members_confirmed": 143,
+   "streams_analyzed": 14,
+   "streams_missed": 1,
+   "unique_chatters": 661,
+   "members_confirmed": 156,
    "member_classes": {
-    "unknown": 88,
-    "known": 32,
-    "gift": 23
+    "unknown": 92,
+    "known": 33,
+    "gift": 31
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 42
+     "members": 54
     },
     {
      "months": 1,
@@ -538,35 +546,35 @@
     },
     {
      "months": 2,
-     "members": 92
+     "members": 93
     }
    ],
    "events": {
-    "new_members": 17,
+    "new_members": 18,
     "rejoins": 15,
     "milestones": 1,
-    "gifted_total": 23
+    "gifted_total": 31
    },
    "tiers": [
     {
      "tier": "086Hz",
      "price": 490,
-     "confirmed_members": 30,
-     "estimated_members": 112.5
+     "confirmed_members": 31,
+     "estimated_members": 117.4
     },
     {
      "tier": "870Hz",
      "price": 1290,
      "confirmed_members": 2,
-     "estimated_members": 7.5
+     "estimated_members": 7.6
     }
    ],
    "revenue": {
-    "monthly_low": 38436,
-    "monthly_est": 41236,
-    "gift_once": 7172
+    "monthly_low": 39995,
+    "monthly_est": 42834,
+    "gift_once": 9666
    },
-   "avg_member_chatters": 41.8,
+   "avg_member_chatters": 41.9,
    "partial": true,
    "finalized": false
   }

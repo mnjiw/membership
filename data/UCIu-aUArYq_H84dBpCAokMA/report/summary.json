@@ -3,16 +3,16 @@
  "channel_id": "UCIu-aUArYq_H84dBpCAokMA",
  "handle": "@Shirayuki_Reid",
  "subscribers": 422000,
- "fetched_at": "2026-11-13 11:48",
- "generated_at": "2026-11-13 11:48",
+ "fetched_at": "2026-11-14 06:45",
+ "generated_at": "2026-11-14 06:45",
  "period": {
-  "from": "2026-10-14 11:48",
-  "to": "2026-11-13 11:48",
+  "from": "2026-10-15 06:45",
+  "to": "2026-11-14 06:45",
   "days": 30
  },
  "streams_analyzed": 36,
  "streams_missed": 2,
- "unique_chatters": 3299,
+ "unique_chatters": 3294,
  "members_confirmed": 379,
  "member_classes": {
   "unknown": 365,
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "SSk2Ue2sg3k",
-   "start": "2026-10-14 19:54",
-   "title": "【#雀魂】４位になったら即終了 ～今日も抑えめで～【王座の間 ５分遅延】",
-   "kind": "配信",
-   "chatters": 252,
-   "member_chatters": 61,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "4lNRd13C-14",
    "start": "2026-10-15 16:56",
@@ -452,6 +442,16 @@
    "member_chatters": 36,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "HRv0M7Mlalo",
+   "start": "2026-11-13 22:32",
+   "title": "【#雀魂】やりましょう。 ー３連逆連帯強制終了ー【王座の間 ５分遅延】",
+   "kind": "配信",
+   "chatters": 212,
+   "member_chatters": 44,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -464,8 +464,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 312,
-   "view_count": 43545
+   "like_count": 343,
+   "view_count": 47261
   },
   {
    "video_id": "rHOz3uLEhQw",
@@ -476,8 +476,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 520,
-   "view_count": 83986
+   "like_count": 593,
+   "view_count": 104438
   }
  ],
  "members_only_content": [],
@@ -614,17 +614,17 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-13"
+    "to": "2026-11-14"
    },
-   "streams_analyzed": 14,
+   "streams_analyzed": 15,
    "streams_missed": 2,
-   "unique_chatters": 1522,
-   "members_confirmed": 252,
+   "unique_chatters": 1581,
+   "members_confirmed": 253,
    "member_classes": {
-    "unknown": 249,
+    "unknown": 250,
     "known": 3
    },
-   "long_term_members": 228,
+   "long_term_members": 229,
    "badges": [
     {
      "months": 0,
@@ -652,7 +652,7 @@
     },
     {
      "months": 36,
-     "members": 166
+     "members": 167
     }
    ],
    "events": {
@@ -666,15 +666,15 @@
      "tier": "ホワ民",
      "price": 490,
      "confirmed_members": 3,
-     "estimated_members": 252.0
+     "estimated_members": 253.0
     }
    ],
    "revenue": {
-    "monthly_low": 78578,
-    "monthly_est": 78578,
+    "monthly_low": 78890,
+    "monthly_est": 78890,
     "gift_once": 0
    },
-   "avg_member_chatters": 58.6,
+   "avg_member_chatters": 57.7,
    "partial": true,
    "finalized": false
   }

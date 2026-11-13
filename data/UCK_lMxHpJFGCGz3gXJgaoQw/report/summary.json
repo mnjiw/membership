@@ -3,27 +3,27 @@
  "channel_id": "UCK_lMxHpJFGCGz3gXJgaoQw",
  "handle": "@lumi_yukime",
  "subscribers": 27400,
- "fetched_at": "2026-11-13 11:47",
- "generated_at": "2026-11-13 11:48",
+ "fetched_at": "2026-11-14 06:43",
+ "generated_at": "2026-11-14 06:44",
  "period": {
-  "from": "2026-10-14 11:47",
-  "to": "2026-11-13 11:47",
+  "from": "2026-10-15 06:43",
+  "to": "2026-11-14 06:43",
   "days": 30
  },
  "streams_analyzed": 26,
  "streams_missed": 1,
- "unique_chatters": 653,
- "members_confirmed": 280,
+ "unique_chatters": 647,
+ "members_confirmed": 275,
  "member_classes": {
   "unknown": 54,
   "known": 10,
-  "gift": 216
+  "gift": 211
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 175
+   "members": 170
   },
   {
    "months": 1,
@@ -52,12 +52,12 @@
   }
  ],
  "events": {
-  "new_members": 4,
+  "new_members": 2,
   "rejoins": 0,
   "milestones": 2,
-  "gift_purchases": 23,
-  "gifted_total": 218,
-  "gift_redemptions": 216
+  "gift_purchases": 22,
+  "gifted_total": 213,
+  "gift_redemptions": 211
  },
  "tiers_configured": true,
  "tiers": [
@@ -76,9 +76,9 @@
  "revenue": {
   "monthly_low": 19956,
   "monthly_est": 19956,
-  "gift_once": 67976,
-  "total_low": 87933,
-  "total_est": 87933,
+  "gift_once": 66417,
+  "total_low": 86374,
+  "total_est": 86374,
   "paying_members": 64,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "GdkYcBOyaj0",
-   "start": "2026-10-14 18:43",
-   "title": "*❅ GTA5 #SURGECity┊力になりたい。DAY6〖 雪芽るみ┊すぺしゃりて 〗",
-   "kind": "配信",
-   "chatters": 42,
-   "member_chatters": 21,
-   "new_members": 2,
-   "gifted_total": 5
-  },
   {
    "video_id": "4XdzWNPEGqc",
    "start": "2026-10-15 18:47",
@@ -347,6 +337,16 @@
    "member_chatters": 36,
    "new_members": 0,
    "gifted_total": 10
+  },
+  {
+   "video_id": "NkwoSFEvpUk",
+   "start": "2026-11-13 19:49",
+   "title": "*❅ GTA5 #ガチグラ2┊悪に負けない。DAY6〖 雪芽るみ┊すぺしゃりて 〗",
+   "kind": "配信",
+   "chatters": 35,
+   "member_chatters": 15,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -511,11 +511,11 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-13"
+    "to": "2026-11-14"
    },
-   "streams_analyzed": 11,
+   "streams_analyzed": 12,
    "streams_missed": 0,
-   "unique_chatters": 289,
+   "unique_chatters": 292,
    "members_confirmed": 81,
    "member_classes": {
     "known": 7,
@@ -568,7 +568,7 @@
     "monthly_est": 21827,
     "gift_once": 3430
    },
-   "avg_member_chatters": 22,
+   "avg_member_chatters": 21.4,
    "partial": true,
    "finalized": false
   }

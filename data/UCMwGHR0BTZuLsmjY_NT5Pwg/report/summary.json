@@ -3,67 +3,67 @@
  "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
  "handle": "@NinomaeInanis",
  "subscribers": 1680000,
- "fetched_at": "2026-11-13 11:45",
- "generated_at": "2026-11-13 11:45",
+ "fetched_at": "2026-11-14 06:35",
+ "generated_at": "2026-11-14 06:35",
  "period": {
-  "from": "2026-10-14 11:45",
-  "to": "2026-11-13 11:45",
+  "from": "2026-10-15 06:35",
+  "to": "2026-11-14 06:35",
   "days": 30
  },
- "streams_analyzed": 8,
+ "streams_analyzed": 7,
  "streams_missed": 2,
- "unique_chatters": 5874,
- "members_confirmed": 1942,
+ "unique_chatters": 5438,
+ "members_confirmed": 1817,
  "member_classes": {
-  "gift": 50,
-  "unknown": 1374,
-  "known": 518
+  "unknown": 1289,
+  "known": 503,
+  "gift": 25
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 89
+   "members": 65
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 27
+   "members": 24
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 77
+   "members": 71
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 97
+   "members": 92
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 261
+   "members": 244
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 192
+   "members": 180
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 221
+   "members": 204
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 306
+   "members": 288
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 482
+   "members": 459
   },
   {
    "months": 72,
@@ -72,12 +72,12 @@
   }
  ],
  "events": {
-  "new_members": 10,
-  "rejoins": 14,
-  "milestones": 197,
-  "gift_purchases": 6,
-  "gifted_total": 51,
-  "gift_redemptions": 51
+  "new_members": 9,
+  "rejoins": 13,
+  "milestones": 185,
+  "gift_purchases": 4,
+  "gifted_total": 26,
+  "gift_redemptions": 26
  },
  "tiers_configured": true,
  "tiers": [
@@ -85,23 +85,23 @@
    "tier": "Takoling",
    "price": 390,
    "net_per_member": 248.2,
-   "confirmed_members": 70,
-   "share_of_confirmed_pct": 13.5,
-   "allocated_unknown": 185.7,
-   "estimated_members": 255.7,
-   "monthly_net_confirmed": 17373,
-   "monthly_net_estimated": 63454
+   "confirmed_members": 67,
+   "share_of_confirmed_pct": 13.3,
+   "allocated_unknown": 171.7,
+   "estimated_members": 238.7,
+   "monthly_net_confirmed": 16628,
+   "monthly_net_estimated": 59240
   },
   {
    "tier": "Otako",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 435,
-   "share_of_confirmed_pct": 84.0,
-   "allocated_unknown": 1153.8,
-   "estimated_members": 1588.8,
-   "monthly_net_confirmed": 191005,
-   "monthly_net_estimated": 697646
+   "confirmed_members": 423,
+   "share_of_confirmed_pct": 84.1,
+   "allocated_unknown": 1084.0,
+   "estimated_members": 1507.0,
+   "monthly_net_confirmed": 185735,
+   "monthly_net_estimated": 661706
   },
   {
    "tier": "Tentacultist",
@@ -109,10 +109,10 @@
    "net_per_member": 1266.4,
    "confirmed_members": 6,
    "share_of_confirmed_pct": 1.2,
-   "allocated_unknown": 15.9,
-   "estimated_members": 21.9,
+   "allocated_unknown": 15.4,
+   "estimated_members": 21.4,
    "monthly_net_confirmed": 7598,
-   "monthly_net_estimated": 27752
+   "monthly_net_estimated": 27069
   },
   {
    "tier": "AO-chan's Food",
@@ -120,19 +120,19 @@
    "net_per_member": 2220.9,
    "confirmed_members": 7,
    "share_of_confirmed_pct": 1.4,
-   "allocated_unknown": 18.6,
-   "estimated_members": 25.6,
+   "allocated_unknown": 17.9,
+   "estimated_members": 24.9,
    "monthly_net_confirmed": 15546,
-   "monthly_net_estimated": 56783
+   "monthly_net_estimated": 55386
   }
  ],
  "revenue": {
-  "monthly_low": 572524,
-  "monthly_est": 845636,
-  "gift_once": 12657,
-  "total_low": 585181,
-  "total_est": 858293,
-  "paying_members": 1892,
+  "monthly_low": 545415,
+  "monthly_est": 803401,
+  "gift_once": 6453,
+  "total_low": 551867,
+  "total_est": 809854,
+  "paying_members": 1792,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -141,16 +141,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "1u4n2v-kM_E",
-   "start": "2026-10-14 12:02",
-   "title": "【hololive Dreams】Playing With VIVIIIIITAAAANNNNNNN!!!!!!! @KikiraraVivi",
-   "kind": "配信",
-   "chatters": 1170,
-   "member_chatters": 536,
-   "new_members": 1,
-   "gifted_total": 25
-  },
   {
    "video_id": "4k4Wr7JMQVo",
    "start": "2026-10-16 20:02",
@@ -442,7 +432,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-13"
+    "to": "2026-11-14"
    },
    "streams_analyzed": 2,
    "streams_missed": 0,
