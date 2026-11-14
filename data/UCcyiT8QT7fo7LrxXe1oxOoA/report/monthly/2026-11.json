@@ -2,15 +2,16 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-14"
+  "to": "2026-11-15"
  },
- "streams_analyzed": 5,
+ "streams_analyzed": 6,
  "streams_missed": 1,
- "unique_chatters": 1007,
- "members_confirmed": 299,
+ "unique_chatters": 1046,
+ "members_confirmed": 303,
  "member_classes": {
-  "unknown": 289,
-  "gift": 10
+  "unknown": 292,
+  "gift": 10,
+  "known": 1
  },
  "long_term_members": 0,
  "badges": [
@@ -28,12 +29,12 @@
   },
   {
    "months": 6,
-   "members": 270
+   "members": 274
   }
  ],
  "events": {
   "new_members": 0,
-  "rejoins": 0,
+  "rejoins": 1,
   "milestones": 0,
   "gifted_total": 10
  },
@@ -41,16 +42,16 @@
   {
    "tier": "麺バー",
    "price": 490,
-   "confirmed_members": 0,
-   "estimated_members": 289.0
+   "confirmed_members": 1,
+   "estimated_members": 293.0
   }
  ],
  "revenue": {
-  "monthly_low": 90115,
-  "monthly_est": 90115,
+  "monthly_low": 91363,
+  "monthly_est": 91363,
   "gift_once": 3118
  },
- "avg_member_chatters": 136.6,
+ "avg_member_chatters": 127.3,
  "partial": true,
  "finalized": false
 }

@@ -3,19 +3,19 @@
  "channel_id": "UCFtyinR2ZdvKK_Xgy07qXUg",
  "handle": "@MilanKestrel",
  "subscribers": 314000,
- "fetched_at": "2026-11-14 05:27",
- "generated_at": "2026-11-14 05:28",
+ "fetched_at": "2026-11-15 05:33",
+ "generated_at": "2026-11-15 05:34",
  "period": {
-  "from": "2026-10-15 05:27",
-  "to": "2026-11-14 05:27",
+  "from": "2026-10-16 05:33",
+  "to": "2026-11-15 05:33",
   "days": 30
  },
- "streams_analyzed": 23,
+ "streams_analyzed": 24,
  "streams_missed": 0,
- "unique_chatters": 3841,
- "members_confirmed": 905,
+ "unique_chatters": 3883,
+ "members_confirmed": 906,
  "member_classes": {
-  "unknown": 842,
+  "unknown": 843,
   "known": 58,
   "gift": 5
  },
@@ -23,27 +23,27 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 65
+   "members": 64
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 44
+   "members": 45
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 129
+   "members": 130
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 226
+   "members": 225
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 441
+   "members": 442
   }
  ],
  "events": {
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 58,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 842.0,
-   "estimated_members": 900.0,
+   "allocated_unknown": 843.0,
+   "estimated_members": 901.0,
    "monthly_net_confirmed": 18085,
-   "monthly_net_estimated": 280636
+   "monthly_net_estimated": 280948
   }
  ],
  "revenue": {
-  "monthly_low": 280636,
-  "monthly_est": 280636,
+  "monthly_low": 280948,
+  "monthly_est": 280948,
   "gift_once": 1559,
-  "total_low": 282195,
-  "total_est": 282195,
-  "paying_members": 900,
+  "total_low": 282507,
+  "total_est": 282507,
+  "paying_members": 901,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -312,6 +312,16 @@
    "member_chatters": 324,
    "new_members": 3,
    "gifted_total": 0
+  },
+  {
+   "video_id": "hfRuiaxKiLc",
+   "start": "2026-11-14 12:33",
+   "title": "【ACE COMBAT 8】シリーズ最新作！！　#4｜空よ、教えてくれ。 【にじさんじ/ミラン・ケストレル】　※ネバタレあり",
+   "kind": "配信",
+   "chatters": 217,
+   "member_chatters": 116,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -445,37 +455,37 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-14"
+    "to": "2026-11-15"
    },
-   "streams_analyzed": 12,
+   "streams_analyzed": 13,
    "streams_missed": 0,
-   "unique_chatters": 1534,
-   "members_confirmed": 734,
+   "unique_chatters": 1612,
+   "members_confirmed": 735,
    "member_classes": {
-    "unknown": 689,
+    "unknown": 690,
     "known": 45
    },
-   "long_term_members": 352,
+   "long_term_members": 353,
    "badges": [
     {
      "months": 0,
-     "members": 45
+     "members": 44
     },
     {
      "months": 1,
-     "members": 35
+     "members": 36
     },
     {
      "months": 2,
-     "members": 103
+     "members": 104
     },
     {
      "months": 6,
-     "members": 199
+     "members": 198
     },
     {
      "months": 12,
-     "members": 352
+     "members": 353
     }
    ],
    "events": {
@@ -489,15 +499,15 @@
      "tier": "魔道の入門書",
      "price": 490,
      "confirmed_members": 45,
-     "estimated_members": 734.0
+     "estimated_members": 735.0
     }
    ],
    "revenue": {
-    "monthly_low": 228875,
-    "monthly_est": 228875,
+    "monthly_low": 229186,
+    "monthly_est": 229186,
     "gift_once": 0
    },
-   "avg_member_chatters": 236.8,
+   "avg_member_chatters": 227.5,
    "partial": true,
    "finalized": false
   }

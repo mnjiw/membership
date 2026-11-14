@@ -2,12 +2,12 @@
  "channel": "小々波いるか / Kokonami Iruka【にじさんじ】",
  "channel_id": "UCGGIGlgxXoVu1ZzbQ2XBxqQ",
  "handle": "@KokonamiIruka_Y4T4",
- "subscribers": 93500,
- "fetched_at": "2026-11-14 05:30",
- "generated_at": "2026-11-14 05:31",
+ "subscribers": 93600,
+ "fetched_at": "2026-11-15 05:37",
+ "generated_at": "2026-11-15 05:37",
  "period": {
-  "from": "2026-10-15 05:30",
-  "to": "2026-11-14 05:30",
+  "from": "2026-10-16 05:37",
+  "to": "2026-11-15 05:37",
   "days": 30
  },
  "streams_analyzed": 26,
@@ -336,18 +336,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "oodYRn4EREA",
-   "start": "2026-10-15 21:48",
-   "title": "【 メン限 】ほっとひといき【 にじさんじ  / 小々波いるか 】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 59,
-   "view_count": null
-  },
-  {
    "video_id": "Nf6gMK2NoYg",
    "start": "2026-10-21 22:34",
    "title": "【 メン限 】のんびりめんげん【 にじさんじ  / 小々波いるか 】",
@@ -369,21 +357,23 @@
    "members_only": true,
    "members_level": "",
    "like_count": 77,
+   "view_count": null
+  },
+  {
+   "video_id": "g8jUg5JQErE",
+   "start": "2026-11-14 22:02",
+   "title": "【 メン限 】同時視聴 / それいけ！アンパンマン いのちの星のドーリィ【 にじさんじ  / 小々波いるか 】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 40,
    "view_count": null
   }
  ],
  "members_only_content": [
   {
-   "video_id": "oodYRn4EREA",
-   "start": "2026-10-15 21:48",
-   "title": "【 メン限 】ほっとひといき【 にじさんじ  / 小々波いるか 】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 59,
-   "view_count": null
-  },
-  {
    "video_id": "Nf6gMK2NoYg",
    "start": "2026-10-21 22:34",
    "title": "【 メン限 】のんびりめんげん【 にじさんじ  / 小々波いるか 】",
@@ -401,6 +391,16 @@
    "status": "members_only",
    "members_level": "",
    "like_count": 77,
+   "view_count": null
+  },
+  {
+   "video_id": "g8jUg5JQErE",
+   "start": "2026-11-14 22:02",
+   "title": "【 メン限 】同時視聴 / それいけ！アンパンマン いのちの星のドーリィ【 にじさんじ  / 小々波いるか 】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 40,
    "view_count": null
   }
  ],
@@ -517,10 +517,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-14"
+    "to": "2026-11-15"
    },
    "streams_analyzed": 12,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 950,
    "members_confirmed": 153,
    "member_classes": {

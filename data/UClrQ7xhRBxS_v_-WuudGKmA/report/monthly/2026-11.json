@@ -2,67 +2,68 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-14"
+  "to": "2026-11-15"
  },
- "streams_analyzed": 12,
+ "streams_analyzed": 13,
  "streams_missed": 1,
- "unique_chatters": 2058,
- "members_confirmed": 490,
+ "unique_chatters": 2476,
+ "members_confirmed": 529,
  "member_classes": {
-  "unknown": 463,
-  "known": 27
+  "unknown": 498,
+  "known": 30,
+  "gift": 1
  },
- "long_term_members": 319,
+ "long_term_members": 341,
  "badges": [
   {
    "months": 0,
-   "members": 44
-  },
-  {
-   "months": 1,
-   "members": 15
-  },
-  {
-   "months": 2,
    "members": 49
   },
   {
+   "months": 1,
+   "members": 18
+  },
+  {
+   "months": 2,
+   "members": 51
+  },
+  {
    "months": 6,
-   "members": 63
+   "members": 70
   },
   {
    "months": 12,
-   "members": 112
+   "members": 117
   },
   {
    "months": 24,
-   "members": 90
+   "members": 97
   },
   {
    "months": 36,
-   "members": 117
+   "members": 127
   }
  ],
  "events": {
-  "new_members": 12,
+  "new_members": 15,
   "rejoins": 2,
   "milestones": 0,
-  "gifted_total": 0
+  "gifted_total": 1
  },
  "tiers": [
   {
    "tier": "鏑木ろこのメンバーシップ",
    "price": 490,
-   "confirmed_members": 27,
-   "estimated_members": 490.0
+   "confirmed_members": 30,
+   "estimated_members": 528.0
   }
  ],
  "revenue": {
-  "monthly_low": 152791,
-  "monthly_est": 152791,
-  "gift_once": 0
+  "monthly_low": 164640,
+  "monthly_est": 164640,
+  "gift_once": 312
  },
- "avg_member_chatters": 174,
+ "avg_member_chatters": 181,
  "partial": true,
  "finalized": false
 }

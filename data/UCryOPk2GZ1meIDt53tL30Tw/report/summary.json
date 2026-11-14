@@ -3,20 +3,20 @@
  "channel_id": "UCryOPk2GZ1meIDt53tL30Tw",
  "handle": "@SuzukiMasaru",
  "subscribers": 332000,
- "fetched_at": "2026-11-14 05:19",
- "generated_at": "2026-11-14 05:19",
+ "fetched_at": "2026-11-15 05:21",
+ "generated_at": "2026-11-15 05:22",
  "period": {
-  "from": "2026-10-15 05:19",
-  "to": "2026-11-14 05:19",
+  "from": "2026-10-16 05:21",
+  "to": "2026-11-15 05:21",
   "days": 30
  },
  "streams_analyzed": 9,
  "streams_missed": 5,
- "unique_chatters": 477,
- "members_confirmed": 182,
+ "unique_chatters": 624,
+ "members_confirmed": 181,
  "member_classes": {
   "unknown": 177,
-  "known": 5
+  "known": 4
  },
  "badges": [
   {
@@ -32,7 +32,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 6
+   "members": 5
   },
   {
    "months": 6,
@@ -42,7 +42,7 @@
  ],
  "events": {
   "new_members": 0,
-  "rejoins": 4,
+  "rejoins": 3,
   "milestones": 0,
   "gift_purchases": 0,
   "gifted_total": 0,
@@ -54,21 +54,21 @@
    "tier": "特別観測者",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 5,
+   "confirmed_members": 4,
    "share_of_confirmed_pct": 100.0,
    "allocated_unknown": 177.0,
-   "estimated_members": 182.0,
-   "monthly_net_confirmed": 1559,
-   "monthly_net_estimated": 56751
+   "estimated_members": 181.0,
+   "monthly_net_confirmed": 1247,
+   "monthly_net_estimated": 56439
   }
  ],
  "revenue": {
-  "monthly_low": 56751,
-  "monthly_est": 56751,
+  "monthly_low": 56439,
+  "monthly_est": 56439,
   "gift_once": 0,
-  "total_low": 56751,
-  "total_est": 56751,
-  "paying_members": 182,
+  "total_low": 56439,
+  "total_est": 56439,
+  "paying_members": 181,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -77,16 +77,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "DPNvbo_xVj8",
-   "start": "2026-10-15 22:03",
-   "title": "#2【Poppy Playtime 5】裏切り者を許すな！たのしい工場見学【鈴木勝/にじさんじ】",
-   "kind": "配信",
-   "chatters": 85,
-   "member_chatters": 62,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "r5CTbTvhLiE",
    "start": "2026-10-21 20:00",
@@ -164,6 +154,16 @@
    "kind": "配信",
    "chatters": 113,
    "member_chatters": 81,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "y7SWYI4zKgc",
+   "start": "2026-11-14 19:00",
+   "title": "【楽団V!VO】オンライン練習会！課題曲：名探偵コナン メイン・テーマ【にじさんじ】",
+   "kind": "配信",
+   "chatters": 202,
+   "member_chatters": 30,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -387,14 +387,14 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-14"
+    "to": "2026-11-15"
    },
-   "streams_analyzed": 4,
+   "streams_analyzed": 5,
    "streams_missed": 2,
-   "unique_chatters": 344,
-   "members_confirmed": 143,
+   "unique_chatters": 511,
+   "members_confirmed": 148,
    "member_classes": {
-    "unknown": 141,
+    "unknown": 146,
     "known": 2
    },
    "long_term_members": 0,
@@ -413,7 +413,7 @@
     },
     {
      "months": 6,
-     "members": 137
+     "members": 142
     }
    ],
    "events": {
@@ -427,15 +427,15 @@
      "tier": "特別観測者",
      "price": 490,
      "confirmed_members": 2,
-     "estimated_members": 143.0
+     "estimated_members": 148.0
     }
    ],
    "revenue": {
-    "monthly_low": 44590,
-    "monthly_est": 44590,
+    "monthly_low": 46149,
+    "monthly_est": 46149,
     "gift_once": 0
    },
-   "avg_member_chatters": 78.2,
+   "avg_member_chatters": 68.6,
    "partial": true,
    "finalized": false
   }

@@ -3,20 +3,20 @@
  "channel_id": "UCcyiT8QT7fo7LrxXe1oxOoA",
  "handle": "@HitotsubashiAyato",
  "subscribers": 212000,
- "fetched_at": "2026-11-14 05:29",
- "generated_at": "2026-11-14 05:29",
+ "fetched_at": "2026-11-15 05:36",
+ "generated_at": "2026-11-15 05:36",
  "period": {
-  "from": "2026-10-15 05:29",
-  "to": "2026-11-14 05:29",
+  "from": "2026-10-16 05:36",
+  "to": "2026-11-15 05:36",
   "days": 30
  },
- "streams_analyzed": 9,
+ "streams_analyzed": 10,
  "streams_missed": 2,
- "unique_chatters": 1271,
- "members_confirmed": 344,
+ "unique_chatters": 1306,
+ "members_confirmed": 348,
  "member_classes": {
-  "unknown": 331,
-  "known": 2,
+  "unknown": 334,
+  "known": 3,
   "gift": 11
  },
  "badges": [
@@ -38,12 +38,12 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 303
+   "members": 307
   }
  ],
  "events": {
   "new_members": 0,
-  "rejoins": 1,
+  "rejoins": 2,
   "milestones": 0,
   "gift_purchases": 2,
   "gifted_total": 11,
@@ -55,21 +55,21 @@
    "tier": "麺バー",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 2,
+   "confirmed_members": 3,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 331.0,
-   "estimated_members": 333.0,
-   "monthly_net_confirmed": 624,
-   "monthly_net_estimated": 103835
+   "allocated_unknown": 334.0,
+   "estimated_members": 337.0,
+   "monthly_net_confirmed": 935,
+   "monthly_net_estimated": 105083
   }
  ],
  "revenue": {
-  "monthly_low": 103835,
-  "monthly_est": 103835,
+  "monthly_low": 105083,
+  "monthly_est": 105083,
   "gift_once": 3430,
-  "total_low": 107265,
-  "total_est": 107265,
-  "paying_members": 333,
+  "total_low": 108513,
+  "total_est": 108513,
+  "paying_members": 337,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -167,6 +167,16 @@
    "member_chatters": 138,
    "new_members": 0,
    "gifted_total": 10
+  },
+  {
+   "video_id": "m26cH2_XV-o",
+   "start": "2026-11-14 19:01",
+   "title": "【The Elder Scrolls V: Skyrim】#13 キノコ島に行こう【一橋綾人/にじさんじ】",
+   "kind": "配信",
+   "chatters": 155,
+   "member_chatters": 81,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -191,7 +201,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 93,
+   "like_count": 94,
    "view_count": null
   }
  ],
@@ -213,7 +223,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 93,
+   "like_count": 94,
    "view_count": null
   }
  ],
@@ -334,15 +344,16 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-14"
+    "to": "2026-11-15"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 6,
    "streams_missed": 1,
-   "unique_chatters": 1007,
-   "members_confirmed": 299,
+   "unique_chatters": 1046,
+   "members_confirmed": 303,
    "member_classes": {
-    "unknown": 289,
-    "gift": 10
+    "unknown": 292,
+    "gift": 10,
+    "known": 1
    },
    "long_term_members": 0,
    "badges": [
@@ -360,12 +371,12 @@
     },
     {
      "months": 6,
-     "members": 270
+     "members": 274
     }
    ],
    "events": {
     "new_members": 0,
-    "rejoins": 0,
+    "rejoins": 1,
     "milestones": 0,
     "gifted_total": 10
    },
@@ -373,16 +384,16 @@
     {
      "tier": "麺バー",
      "price": 490,
-     "confirmed_members": 0,
-     "estimated_members": 289.0
+     "confirmed_members": 1,
+     "estimated_members": 293.0
     }
    ],
    "revenue": {
-    "monthly_low": 90115,
-    "monthly_est": 90115,
+    "monthly_low": 91363,
+    "monthly_est": 91363,
     "gift_once": 3118
    },
-   "avg_member_chatters": 136.6,
+   "avg_member_chatters": 127.3,
    "partial": true,
    "finalized": false
   }

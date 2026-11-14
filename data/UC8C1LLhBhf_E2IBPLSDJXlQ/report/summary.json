@@ -3,16 +3,16 @@
  "channel_id": "UC8C1LLhBhf_E2IBPLSDJXlQ",
  "handle": "@SukoyaKana",
  "subscribers": 664000,
- "fetched_at": "2026-11-14 05:22",
- "generated_at": "2026-11-14 05:22",
+ "fetched_at": "2026-11-15 05:24",
+ "generated_at": "2026-11-15 05:25",
  "period": {
-  "from": "2026-10-15 05:22",
-  "to": "2026-11-14 05:22",
+  "from": "2026-10-16 05:24",
+  "to": "2026-11-15 05:24",
   "days": 30
  },
  "streams_analyzed": 20,
- "streams_missed": 3,
- "unique_chatters": 1231,
+ "streams_missed": 2,
+ "unique_chatters": 1262,
  "members_confirmed": 190,
  "member_classes": {
   "unknown": 166,
@@ -22,12 +22,12 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 33
+   "members": 32
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 9
+   "members": 10
   },
   {
    "months": 2,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "1FBmP6LLYWc",
-   "start": "2026-10-15 23:55",
-   "title": "【#ストグラseason2】#スコの観測記録 DAY123 どうしていいかわからないの※鳩禁止※【健屋花那/にじさんじ】",
-   "kind": "配信",
-   "chatters": 21,
-   "member_chatters": 9,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "sVdcrnNI_k4",
    "start": "2026-10-16 21:00",
@@ -297,21 +287,19 @@
    "member_chatters": 30,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "fykp3s9D-Lc",
+   "start": "2026-11-14 15:01",
+   "title": "【恋愛相談】恋愛マスター(自称)による視聴者の恋愛相談！ #すこやの恋愛カルテ【健屋花那/にじさんじ】",
+   "kind": "配信",
+   "chatters": 73,
+   "member_chatters": 21,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
-  {
-   "video_id": "s5SS5nrgifI",
-   "start": "2026-10-15 22:31",
-   "title": "【メン限】リクエストボイス読み上げ配信！テーマ：「ハロウィン」「手作り」【健屋花那/にじさんじ】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "健屋の家の床",
-   "like_count": 29,
-   "view_count": null
-  },
   {
    "video_id": "RbWNWfyGzo0",
    "start": "2026-10-19 22:37",
@@ -338,16 +326,6 @@
   }
  ],
  "members_only_content": [
-  {
-   "video_id": "s5SS5nrgifI",
-   "start": "2026-10-15 22:31",
-   "title": "【メン限】リクエストボイス読み上げ配信！テーマ：「ハロウィン」「手作り」【健屋花那/にじさんじ】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "健屋の家の床",
-   "like_count": 29,
-   "view_count": null
-  },
   {
    "video_id": "RbWNWfyGzo0",
    "start": "2026-10-19 22:37",
@@ -516,25 +494,25 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-14"
+    "to": "2026-11-15"
    },
-   "streams_analyzed": 8,
+   "streams_analyzed": 9,
    "streams_missed": 1,
-   "unique_chatters": 484,
-   "members_confirmed": 113,
+   "unique_chatters": 526,
+   "members_confirmed": 114,
    "member_classes": {
-    "unknown": 104,
+    "unknown": 105,
     "known": 9
    },
-   "long_term_members": 81,
+   "long_term_members": 82,
    "badges": [
     {
      "months": 0,
-     "members": 12
+     "members": 11
     },
     {
      "months": 1,
-     "members": 8
+     "members": 9
     },
     {
      "months": 2,
@@ -550,7 +528,7 @@
     },
     {
      "months": 24,
-     "members": 64
+     "members": 65
     }
    ],
    "events": {
@@ -564,21 +542,21 @@
      "tier": "健屋の家の壁",
      "price": 490,
      "confirmed_members": 7,
-     "estimated_members": 87.9
+     "estimated_members": 88.7
     },
     {
      "tier": "健屋の家の床",
      "price": 990,
      "confirmed_members": 2,
-     "estimated_members": 25.1
+     "estimated_members": 25.3
     }
    ],
    "revenue": {
-    "monthly_low": 35872,
-    "monthly_est": 43225,
+    "monthly_low": 36184,
+    "monthly_est": 43608,
     "gift_once": 0
    },
-   "avg_member_chatters": 37.1,
+   "avg_member_chatters": 35.3,
    "partial": true,
    "finalized": false
   }

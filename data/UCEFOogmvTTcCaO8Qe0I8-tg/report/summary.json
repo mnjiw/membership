@@ -3,19 +3,19 @@
  "channel_id": "UCEFOogmvTTcCaO8Qe0I8-tg",
  "handle": "@KaelixDebonair",
  "subscribers": 244000,
- "fetched_at": "2026-11-14 05:34",
- "generated_at": "2026-11-14 05:35",
+ "fetched_at": "2026-11-15 05:42",
+ "generated_at": "2026-11-15 05:43",
  "period": {
-  "from": "2026-10-15 05:34",
-  "to": "2026-11-14 05:34",
+  "from": "2026-10-16 05:42",
+  "to": "2026-11-15 05:42",
   "days": 30
  },
- "streams_analyzed": 15,
+ "streams_analyzed": 16,
  "streams_missed": 3,
- "unique_chatters": 5419,
- "members_confirmed": 1509,
+ "unique_chatters": 5501,
+ "members_confirmed": 1522,
  "member_classes": {
-  "unknown": 1139,
+  "unknown": 1152,
   "known": 74,
   "gift": 296
  },
@@ -23,12 +23,12 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 781
+   "members": 788
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 728
+   "members": 734
   }
  ],
  "events": {
@@ -47,19 +47,19 @@
    "net_per_member": 439.1,
    "confirmed_members": 74,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1139.0,
-   "estimated_members": 1213.0,
+   "allocated_unknown": 1152.0,
+   "estimated_members": 1226.0,
    "monthly_net_confirmed": 32493,
-   "monthly_net_estimated": 532617
+   "monthly_net_estimated": 538325
   }
  ],
  "revenue": {
-  "monthly_low": 532617,
-  "monthly_est": 532617,
+  "monthly_low": 538325,
+  "monthly_est": 538325,
   "gift_once": 132605,
-  "total_low": 665223,
-  "total_est": 665223,
-  "paying_members": 1213,
+  "total_low": 670931,
+  "total_est": 670931,
+  "paying_members": 1226,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -217,6 +217,16 @@
    "member_chatters": 273,
    "new_members": 2,
    "gifted_total": 14
+  },
+  {
+   "video_id": "a0xj79RMM04",
+   "start": "2026-11-14 18:59",
+   "title": "【INVOKYR】 💓🎯 【NIJISANJI EN | Kaelix Debonair】",
+   "kind": "配信",
+   "chatters": 513,
+   "member_chatters": 267,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -253,7 +263,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 302,
+   "like_count": 310,
    "view_count": null
   }
  ],
@@ -285,7 +295,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 302,
+   "like_count": 310,
    "view_count": null
   }
  ],
@@ -394,26 +404,26 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-14"
+    "to": "2026-11-15"
    },
-   "streams_analyzed": 11,
+   "streams_analyzed": 12,
    "streams_missed": 1,
-   "unique_chatters": 4927,
-   "members_confirmed": 1414,
+   "unique_chatters": 5017,
+   "members_confirmed": 1427,
    "member_classes": {
-    "unknown": 1066,
+    "unknown": 1079,
     "known": 68,
     "gift": 280
    },
-   "long_term_members": 691,
+   "long_term_members": 697,
    "badges": [
     {
      "months": 0,
-     "members": 723
+     "members": 730
     },
     {
      "months": 12,
-     "members": 691
+     "members": 697
     }
    ],
    "events": {
@@ -427,15 +437,15 @@
      "tier": "Debonheir Royale",
      "price": 690,
      "confirmed_members": 68,
-     "estimated_members": 1134.0
+     "estimated_members": 1147.0
     }
    ],
    "revenue": {
-    "monthly_low": 497929,
-    "monthly_est": 497929,
+    "monthly_low": 503637,
+    "monthly_est": 503637,
     "gift_once": 125580
    },
-   "avg_member_chatters": 394.8,
+   "avg_member_chatters": 384.2,
    "partial": true,
    "finalized": false
   }

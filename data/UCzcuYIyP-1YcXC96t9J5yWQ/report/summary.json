@@ -2,22 +2,22 @@
  "channel": "九里詠太 / Kuri Eita【にじさんじ】",
  "channel_id": "UCzcuYIyP-1YcXC96t9J5yWQ",
  "handle": "@KuriEita_Y4T4",
- "subscribers": 76800,
- "fetched_at": "2026-11-14 05:30",
- "generated_at": "2026-11-14 05:30",
+ "subscribers": 76900,
+ "fetched_at": "2026-11-15 05:37",
+ "generated_at": "2026-11-15 05:37",
  "period": {
-  "from": "2026-10-15 05:30",
-  "to": "2026-11-14 05:30",
+  "from": "2026-10-16 05:37",
+  "to": "2026-11-15 05:37",
   "days": 30
  },
  "streams_analyzed": 26,
  "streams_missed": 2,
- "unique_chatters": 1301,
- "members_confirmed": 121,
+ "unique_chatters": 1305,
+ "members_confirmed": 120,
  "member_classes": {
-  "unknown": 106,
   "known": 11,
-  "gift": 4
+  "unknown": 106,
+  "gift": 3
  },
  "badges": [
   {
@@ -33,16 +33,16 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 91
+   "members": 90
   }
  ],
  "events": {
-  "new_members": 8,
+  "new_members": 7,
   "rejoins": 1,
   "milestones": 0,
-  "gift_purchases": 4,
-  "gifted_total": 4,
-  "gift_redemptions": 4
+  "gift_purchases": 3,
+  "gifted_total": 3,
+  "gift_redemptions": 3
  },
  "tiers_configured": true,
  "tiers": [
@@ -61,9 +61,9 @@
  "revenue": {
   "monthly_low": 36483,
   "monthly_est": 36483,
-  "gift_once": 1247,
-  "total_low": 37730,
-  "total_est": 37730,
+  "gift_once": 935,
+  "total_low": 37418,
+  "total_est": 37418,
   "paying_members": 117,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "MQZCLYLAJ5M",
-   "start": "2026-10-15 21:02",
-   "title": "【Apex】ソロマスチャレンジ7日目！！！禁酒を解き放つ！！！【九里詠太 / にじさんじ】",
-   "kind": "配信",
-   "chatters": 94,
-   "member_chatters": 32,
-   "new_members": 1,
-   "gifted_total": 1
-  },
   {
    "video_id": "lge0_RXOJ6M",
    "start": "2026-10-16 23:01",
@@ -332,6 +322,16 @@
    "member_chatters": 35,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "BNdil3jB70U",
+   "start": "2026-11-14 13:00",
+   "title": "【ゼルダの伝説 時のオカリナ リメイク】#01 人生初のゼルダを堪能したい！ 【九里詠太 / にじさんじ】",
+   "kind": "配信",
+   "chatters": 70,
+   "member_chatters": 26,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -495,14 +495,14 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-14"
+    "to": "2026-11-15"
    },
-   "streams_analyzed": 13,
+   "streams_analyzed": 14,
    "streams_missed": 0,
-   "unique_chatters": 488,
-   "members_confirmed": 91,
+   "unique_chatters": 518,
+   "members_confirmed": 93,
    "member_classes": {
-    "unknown": 81,
+    "unknown": 83,
     "known": 9,
     "gift": 1
    },
@@ -518,7 +518,7 @@
     },
     {
      "months": 2,
-     "members": 73
+     "members": 75
     }
    ],
    "events": {
@@ -532,15 +532,15 @@
      "tier": "便利屋会員",
      "price": 490,
      "confirmed_members": 9,
-     "estimated_members": 90.0
+     "estimated_members": 92.0
     }
    ],
    "revenue": {
-    "monthly_low": 28064,
-    "monthly_est": 28064,
+    "monthly_low": 28687,
+    "monthly_est": 28687,
     "gift_once": 312
    },
-   "avg_member_chatters": 35.8,
+   "avg_member_chatters": 35.1,
    "partial": true,
    "finalized": false
   }
