@@ -2,38 +2,38 @@
  "channel": "Nonochi Ch. 兎ノ花ののち",
  "channel_id": "UCDOiw6Z_yVE65XtgtcjJj5w",
  "handle": "@unohananonochi",
- "subscribers": 42100,
- "fetched_at": "2026-11-14 11:31",
- "generated_at": "2026-11-14 11:31",
+ "subscribers": 42200,
+ "fetched_at": "2026-11-15 06:49",
+ "generated_at": "2026-11-15 06:50",
  "period": {
-  "from": "2026-10-15 11:31",
-  "to": "2026-11-14 11:31",
+  "from": "2026-10-16 06:49",
+  "to": "2026-11-15 06:49",
   "days": 30
  },
  "streams_analyzed": 29,
  "streams_missed": 2,
- "unique_chatters": 2159,
+ "unique_chatters": 2175,
  "members_confirmed": 857,
  "member_classes": {
   "unknown": 379,
-  "gift": 464,
-  "known": 14
+  "known": 14,
+  "gift": 464
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 440
+   "members": 441
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 56
+   "members": 54
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 160
+   "members": 161
   },
   {
    "months": 6,
@@ -116,16 +116,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "BrL-kYr1QxM",
-   "start": "2026-10-15 17:00",
-   "title": "#クリアまで【絶体絶命都市】完全初見で生き残る！今度の舞台は首都島！？※ネタバレあり【兎ノ花ののち/Varium】",
-   "kind": "配信",
-   "chatters": 133,
-   "member_chatters": 69,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "VsSDa9Vt_3A",
    "start": "2026-10-16 19:00",
@@ -405,6 +395,16 @@
    "member_chatters": 120,
    "new_members": 2,
    "gifted_total": 0
+  },
+  {
+   "video_id": "uEJDGNcOoz4",
+   "start": "2026-11-14 08:00",
+   "title": "【THE 鑑識官】はじめてのシンプルシリーズ！SIMPLE 2000シリーズ Vol.70 THE 鑑識官をプレイします【兎ノ花ののち/Varium】",
+   "kind": "配信",
+   "chatters": 231,
+   "member_chatters": 97,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -591,22 +591,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-14"
+    "to": "2026-11-15"
    },
-   "streams_analyzed": 13,
+   "streams_analyzed": 14,
    "streams_missed": 0,
-   "unique_chatters": 1399,
-   "members_confirmed": 426,
+   "unique_chatters": 1443,
+   "members_confirmed": 431,
    "member_classes": {
-    "unknown": 338,
+    "unknown": 343,
     "known": 11,
     "gift": 77
    },
-   "long_term_members": 130,
+   "long_term_members": 131,
    "badges": [
     {
      "months": 0,
-     "members": 110
+     "members": 112
     },
     {
      "months": 1,
@@ -614,7 +614,7 @@
     },
     {
      "months": 2,
-     "members": 105
+     "members": 107
     },
     {
      "months": 6,
@@ -622,7 +622,7 @@
     },
     {
      "months": 12,
-     "members": 130
+     "members": 131
     }
    ],
    "events": {
@@ -636,7 +636,7 @@
      "tier": "花束ちゃん",
      "price": 490,
      "confirmed_members": 11,
-     "estimated_members": 349.0
+     "estimated_members": 354.0
     },
     {
      "tier": "花束ちゃま",
@@ -658,11 +658,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 108825,
-    "monthly_est": 108825,
+    "monthly_low": 110384,
+    "monthly_est": 110384,
     "gift_once": 27128
    },
-   "avg_member_chatters": 123.6,
+   "avg_member_chatters": 121.7,
    "partial": true,
    "finalized": false
   }

@@ -2,28 +2,28 @@
  "channel": "雪芽るみ / Lumi Yukime",
  "channel_id": "UCK_lMxHpJFGCGz3gXJgaoQw",
  "handle": "@lumi_yukime",
- "subscribers": 27400,
- "fetched_at": "2026-11-14 06:43",
- "generated_at": "2026-11-14 06:44",
+ "subscribers": 27500,
+ "fetched_at": "2026-11-15 06:44",
+ "generated_at": "2026-11-15 06:44",
  "period": {
-  "from": "2026-10-15 06:43",
-  "to": "2026-11-14 06:43",
+  "from": "2026-10-16 06:44",
+  "to": "2026-11-15 06:44",
   "days": 30
  },
- "streams_analyzed": 26,
- "streams_missed": 1,
- "unique_chatters": 647,
- "members_confirmed": 275,
+ "streams_analyzed": 25,
+ "streams_missed": 2,
+ "unique_chatters": 642,
+ "members_confirmed": 265,
  "member_classes": {
   "unknown": 54,
   "known": 10,
-  "gift": 211
+  "gift": 201
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 170
+   "members": 160
   },
   {
    "months": 1,
@@ -55,9 +55,9 @@
   "new_members": 2,
   "rejoins": 0,
   "milestones": 2,
-  "gift_purchases": 22,
-  "gifted_total": 213,
-  "gift_redemptions": 211
+  "gift_purchases": 21,
+  "gifted_total": 203,
+  "gift_redemptions": 201
  },
  "tiers_configured": true,
  "tiers": [
@@ -76,9 +76,9 @@
  "revenue": {
   "monthly_low": 19956,
   "monthly_est": 19956,
-  "gift_once": 66417,
-  "total_low": 86374,
-  "total_est": 86374,
+  "gift_once": 63299,
+  "total_low": 83255,
+  "total_est": 83255,
   "paying_members": 64,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "4XdzWNPEGqc",
-   "start": "2026-10-15 18:47",
-   "title": "*❅ GTA5 #SURGECity┊ついにギャング服が決まる。DAY7〖 雪芽るみ┊すぺしゃりて 〗",
-   "kind": "配信",
-   "chatters": 42,
-   "member_chatters": 26,
-   "new_members": 0,
-   "gifted_total": 10
-  },
   {
    "video_id": "hqanu3JJE0Q",
    "start": "2026-10-16 18:48",
@@ -359,8 +349,20 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 29,
+   "like_count": 30,
    "view_count": null
+  },
+  {
+   "video_id": "J04NgyiLwYs",
+   "start": "2026-11-14 00:00",
+   "title": "*❅ GTA5 #ガチグラ2┊ヘリの可能性。DAY7〖 雪芽るみ┊すぺしゃりて 〗",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 240,
+   "view_count": 8670
   }
  ],
  "members_only_content": [
@@ -371,7 +373,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 29,
+   "like_count": 30,
    "view_count": null
   },
   {
@@ -511,10 +513,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-14"
+    "to": "2026-11-15"
    },
    "streams_analyzed": 12,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 292,
    "members_confirmed": 81,
    "member_classes": {

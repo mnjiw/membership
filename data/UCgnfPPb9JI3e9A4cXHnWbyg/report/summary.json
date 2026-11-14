@@ -3,32 +3,32 @@
  "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
  "handle": "@ShioriNovella",
  "subscribers": 758000,
- "fetched_at": "2026-11-14 11:28",
- "generated_at": "2026-11-14 11:28",
+ "fetched_at": "2026-11-15 06:36",
+ "generated_at": "2026-11-15 06:37",
  "period": {
-  "from": "2026-10-15 11:28",
-  "to": "2026-11-14 11:28",
+  "from": "2026-10-16 06:36",
+  "to": "2026-11-15 06:36",
   "days": 30
  },
- "streams_analyzed": 17,
+ "streams_analyzed": 18,
  "streams_missed": 2,
- "unique_chatters": 6849,
- "members_confirmed": 2164,
+ "unique_chatters": 7041,
+ "members_confirmed": 2241,
  "member_classes": {
-  "known": 620,
-  "unknown": 882,
-  "gift": 662
+  "known": 631,
+  "unknown": 889,
+  "gift": 721
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 721
+   "members": 783
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 58
+   "members": 59
   },
   {
    "months": 2,
@@ -38,26 +38,26 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 164
+   "members": 166
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 336
+   "members": 339
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 710
+   "members": 719
   }
  ],
  "events": {
-  "new_members": 32,
-  "rejoins": 24,
-  "milestones": 470,
-  "gift_purchases": 205,
-  "gifted_total": 1138,
-  "gift_redemptions": 664
+  "new_members": 33,
+  "rejoins": 25,
+  "milestones": 485,
+  "gift_purchases": 220,
+  "gifted_total": 1178,
+  "gift_redemptions": 723
  },
  "tiers_configured": true,
  "tiers": [
@@ -66,42 +66,42 @@
    "price": 390,
    "net_per_member": 248.2,
    "confirmed_members": 64,
-   "share_of_confirmed_pct": 10.3,
-   "allocated_unknown": 91.0,
-   "estimated_members": 155.0,
+   "share_of_confirmed_pct": 10.1,
+   "allocated_unknown": 90.2,
+   "estimated_members": 154.2,
    "monthly_net_confirmed": 15884,
-   "monthly_net_estimated": 38479
+   "monthly_net_estimated": 38262
   },
   {
    "tier": "Bookwyrm",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 283,
+   "confirmed_members": 288,
    "share_of_confirmed_pct": 45.6,
-   "allocated_unknown": 402.6,
-   "estimated_members": 685.6,
-   "monthly_net_confirmed": 124263,
-   "monthly_net_estimated": 301036
+   "allocated_unknown": 405.8,
+   "estimated_members": 693.8,
+   "monthly_net_confirmed": 126458,
+   "monthly_net_estimated": 304622
   },
   {
    "tier": "Novelknights",
    "price": 1290,
    "net_per_member": 820.9,
-   "confirmed_members": 273,
-   "share_of_confirmed_pct": 44.0,
-   "allocated_unknown": 388.4,
-   "estimated_members": 661.4,
-   "monthly_net_confirmed": 224108,
-   "monthly_net_estimated": 542920
+   "confirmed_members": 279,
+   "share_of_confirmed_pct": 44.2,
+   "allocated_unknown": 393.1,
+   "estimated_members": 672.1,
+   "monthly_net_confirmed": 229034,
+   "monthly_net_estimated": 551713
   }
  ],
  "revenue": {
-  "monthly_low": 583151,
-  "monthly_est": 882436,
-  "gift_once": 282431,
-  "total_low": 865582,
-  "total_est": 1164867,
-  "paying_members": 1502,
+  "monthly_low": 592009,
+  "monthly_est": 894597,
+  "gift_once": 292358,
+  "total_low": 884367,
+  "total_est": 1186955,
+  "paying_members": 1520,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -279,6 +279,16 @@
    "member_chatters": 373,
    "new_members": 1,
    "gifted_total": 21
+  },
+  {
+   "video_id": "4wP4ogdy814",
+   "start": "2026-11-14 08:55",
+   "title": "Framing your soul because it's so cute! 【Soulframe】#ad",
+   "kind": "配信",
+   "chatters": 923,
+   "member_chatters": 458,
+   "new_members": 1,
+   "gifted_total": 40
   }
  ],
  "missed_streams": [
@@ -303,7 +313,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "Bookwyrm",
-   "like_count": 702,
+   "like_count": 704,
    "view_count": null
   }
  ],
@@ -325,7 +335,7 @@
    "kind": "video",
    "status": "members_only_video",
    "members_level": "Novelknights",
-   "like_count": 238,
+   "like_count": 241,
    "view_count": null
   },
   {
@@ -335,7 +345,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "Bookwyrm",
-   "like_count": 702,
+   "like_count": 704,
    "view_count": null
   }
  ],
@@ -477,76 +487,76 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-14"
+    "to": "2026-11-15"
    },
-   "streams_analyzed": 8,
+   "streams_analyzed": 9,
    "streams_missed": 1,
-   "unique_chatters": 3988,
-   "members_confirmed": 1358,
+   "unique_chatters": 4267,
+   "members_confirmed": 1460,
    "member_classes": {
-    "unknown": 637,
-    "known": 491,
-    "gift": 230
+    "known": 518,
+    "unknown": 653,
+    "gift": 289
    },
-   "long_term_members": 801,
+   "long_term_members": 830,
    "badges": [
     {
      "months": 0,
-     "members": 269
+     "members": 332
     },
     {
      "months": 1,
-     "members": 40
+     "members": 42
     },
     {
      "months": 2,
-     "members": 133
+     "members": 135
     },
     {
      "months": 6,
-     "members": 115
+     "members": 121
     },
     {
      "months": 12,
-     "members": 243
+     "members": 250
     },
     {
      "months": 24,
-     "members": 558
+     "members": 580
     }
    ],
    "events": {
-    "new_members": 12,
-    "rejoins": 10,
-    "milestones": 169,
-    "gifted_total": 391
+    "new_members": 13,
+    "rejoins": 11,
+    "milestones": 184,
+    "gifted_total": 431
    },
    "tiers": [
     {
      "tier": "Page",
      "price": 390,
-     "confirmed_members": 47,
-     "estimated_members": 108.0
+     "confirmed_members": 51,
+     "estimated_members": 115.3
     },
     {
      "tier": "Bookwyrm",
      "price": 690,
-     "confirmed_members": 213,
-     "estimated_members": 489.3
+     "confirmed_members": 224,
+     "estimated_members": 506.4
     },
     {
      "tier": "Novelknights",
      "price": 1290,
-     "confirmed_members": 231,
-     "estimated_members": 530.7
+     "confirmed_members": 243,
+     "estimated_members": 549.3
     }
    ],
    "revenue": {
-    "monthly_low": 452913,
-    "monthly_est": 677308,
-    "gift_once": 97039
+    "monthly_low": 472557,
+    "monthly_est": 701909,
+    "gift_once": 106966
    },
-   "avg_member_chatters": 429.4,
+   "avg_member_chatters": 432.6,
    "partial": true,
    "finalized": false
   }

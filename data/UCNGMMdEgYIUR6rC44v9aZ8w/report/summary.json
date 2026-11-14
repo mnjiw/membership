@@ -3,16 +3,16 @@
  "channel_id": "UCNGMMdEgYIUR6rC44v9aZ8w",
  "handle": "@Kazari_Ceo",
  "subscribers": 31500,
- "fetched_at": "2026-11-14 11:30",
- "generated_at": "2026-11-14 11:30",
+ "fetched_at": "2026-11-15 06:46",
+ "generated_at": "2026-11-15 06:47",
  "period": {
-  "from": "2026-10-15 11:30",
-  "to": "2026-11-14 11:30",
+  "from": "2026-10-16 06:46",
+  "to": "2026-11-15 06:46",
   "days": 30
  },
  "streams_analyzed": 16,
  "streams_missed": 1,
- "unique_chatters": 82,
+ "unique_chatters": 81,
  "members_confirmed": 42,
  "member_classes": {
   "unknown": 41,
@@ -82,16 +82,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "J4ca79EZ-7s",
-   "start": "2026-10-15 22:30",
-   "title": "【SURGECITY】＃６ 店番の帝王【瀬尾カザリ / ネオポルテ】",
-   "kind": "配信",
-   "chatters": 11,
-   "member_chatters": 9,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "ttENKVrxX1o",
    "start": "2026-10-16 22:32",
@@ -241,6 +231,16 @@
    "member_chatters": 11,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "gaL2DIhA_tA",
+   "start": "2026-11-14 21:58",
+   "title": "【ガチグラ２】＃３ スキルアップ目指していきます【瀬尾カザリ / ネオポルテ】",
+   "kind": "配信",
+   "chatters": 9,
+   "member_chatters": 9,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -380,14 +380,14 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-14"
+    "to": "2026-11-15"
    },
-   "streams_analyzed": 7,
+   "streams_analyzed": 8,
    "streams_missed": 1,
-   "unique_chatters": 48,
-   "members_confirmed": 29,
+   "unique_chatters": 49,
+   "members_confirmed": 30,
    "member_classes": {
-    "unknown": 29
+    "unknown": 30
    },
    "long_term_members": 17,
    "badges": [
@@ -397,7 +397,7 @@
     },
     {
      "months": 6,
-     "members": 4
+     "members": 5
     },
     {
      "months": 12,
@@ -419,15 +419,15 @@
      "tier": "せおかざメンバーシップ",
      "price": 490,
      "confirmed_members": 0,
-     "estimated_members": 29.0
+     "estimated_members": 30.0
     }
    ],
    "revenue": {
-    "monthly_low": 9043,
-    "monthly_est": 9043,
+    "monthly_low": 9355,
+    "monthly_est": 9355,
     "gift_once": 0
    },
-   "avg_member_chatters": 13.7,
+   "avg_member_chatters": 13.1,
    "partial": true,
    "finalized": false
   }

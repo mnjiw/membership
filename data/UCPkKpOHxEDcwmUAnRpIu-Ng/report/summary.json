@@ -3,52 +3,52 @@
  "channel_id": "UCPkKpOHxEDcwmUAnRpIu-Ng",
  "handle": "@AizawaEma",
  "subscribers": 707000,
- "fetched_at": "2026-11-14 06:40",
- "generated_at": "2026-11-14 06:43",
+ "fetched_at": "2026-11-15 06:41",
+ "generated_at": "2026-11-15 06:42",
  "period": {
-  "from": "2026-10-15 06:40",
-  "to": "2026-11-14 06:40",
+  "from": "2026-10-16 06:41",
+  "to": "2026-11-15 06:41",
   "days": 30
  },
  "streams_analyzed": 35,
  "streams_missed": 6,
- "unique_chatters": 7985,
- "members_confirmed": 2982,
+ "unique_chatters": 7982,
+ "members_confirmed": 3022,
  "member_classes": {
-  "unknown": 1239,
-  "known": 1371,
-  "gift": 372
+  "unknown": 1251,
+  "known": 1379,
+  "gift": 392
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 1348
+   "members": 1384
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 132
+   "members": 135
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 252
+   "members": 254
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 183
+   "members": 187
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 279
+   "members": 276
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 265
+   "members": 264
   },
   {
    "months": 36,
@@ -58,21 +58,21 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 238
+   "members": 236
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 38
+   "members": 39
   }
  ],
  "events": {
-  "new_members": 932,
-  "rejoins": 252,
-  "milestones": 77,
-  "gift_purchases": 27,
-  "gifted_total": 383,
-  "gift_redemptions": 373
+  "new_members": 941,
+  "rejoins": 253,
+  "milestones": 76,
+  "gift_purchases": 28,
+  "gifted_total": 403,
+  "gift_redemptions": 393
  },
  "tiers_configured": true,
  "tiers": [
@@ -80,21 +80,21 @@
    "tier": "エマの藍方",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 1371,
+   "confirmed_members": 1379,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1239.0,
-   "estimated_members": 2610.0,
-   "monthly_net_confirmed": 427503,
-   "monthly_net_estimated": 813845
+   "allocated_unknown": 1251.0,
+   "estimated_members": 2630.0,
+   "monthly_net_confirmed": 429997,
+   "monthly_net_estimated": 820082
   }
  ],
  "revenue": {
-  "monthly_low": 813845,
-  "monthly_est": 813845,
-  "gift_once": 119426,
-  "total_low": 933272,
-  "total_est": 933272,
-  "paying_members": 2610,
+  "monthly_low": 820082,
+  "monthly_est": 820082,
+  "gift_once": 125663,
+  "total_low": 945745,
+  "total_est": 945745,
+  "paying_members": 2630,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -103,16 +103,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "MaGrOcM5dAY",
-   "start": "2026-10-15 23:15",
-   "title": "【スト6】きんにくつう【ぶいすぽっ！/ 藍沢エマ】",
-   "kind": "配信",
-   "chatters": 552,
-   "member_chatters": 200,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "mg9rnmW0Q0c",
    "start": "2026-10-16 23:49",
@@ -452,21 +442,19 @@
    "member_chatters": 299,
    "new_members": 18,
    "gifted_total": 0
+  },
+  {
+   "video_id": "nuUbGmjuDlw",
+   "start": "2026-11-14 15:42",
+   "title": "【スト6】samu^【ぶいすぽっ！/ 藍沢エマ】",
+   "kind": "配信",
+   "chatters": 586,
+   "member_chatters": 263,
+   "new_members": 9,
+   "gifted_total": 20
   }
  ],
  "missed_streams": [
-  {
-   "video_id": "Y5FsysFgMUY",
-   "start": "2026-10-15 21:15",
-   "title": "Gohan",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 421,
-   "view_count": null
-  },
   {
    "video_id": "K82CrGk5AA0",
    "start": "2026-10-30 01:32",
@@ -476,7 +464,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 327,
+   "like_count": 328,
    "view_count": null
   },
   {
@@ -488,7 +476,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 790,
+   "like_count": 791,
    "view_count": null
   },
   {
@@ -500,7 +488,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 3260,
+   "like_count": 3295,
    "view_count": null
   },
   {
@@ -512,7 +500,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 670,
+   "like_count": 674,
    "view_count": null
   },
   {
@@ -524,29 +512,31 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 787,
+   "like_count": 790,
+   "view_count": null
+  },
+  {
+   "video_id": "wgp_Uro0388",
+   "start": "2026-11-15 00:08",
+   "title": "yoru",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 494,
    "view_count": null
   }
  ],
  "members_only_content": [
   {
-   "video_id": "Y5FsysFgMUY",
-   "start": "2026-10-15 21:15",
-   "title": "Gohan",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 421,
-   "view_count": null
-  },
-  {
    "video_id": "K82CrGk5AA0",
    "start": "2026-10-30 01:32",
    "title": "uuu",
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 327,
+   "like_count": 328,
    "view_count": null
   },
   {
@@ -556,7 +546,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 790,
+   "like_count": 791,
    "view_count": null
   },
   {
@@ -566,7 +556,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 3260,
+   "like_count": 3295,
    "view_count": null
   },
   {
@@ -576,7 +566,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 670,
+   "like_count": 674,
    "view_count": null
   },
   {
@@ -586,7 +576,17 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 787,
+   "like_count": 790,
+   "view_count": null
+  },
+  {
+   "video_id": "wgp_Uro0388",
+   "start": "2026-11-15 00:08",
+   "title": "yoru",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 494,
    "view_count": null
   }
  ],
@@ -732,34 +732,34 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-14"
+    "to": "2026-11-15"
    },
-   "streams_analyzed": 13,
-   "streams_missed": 4,
-   "unique_chatters": 5712,
-   "members_confirmed": 2447,
+   "streams_analyzed": 14,
+   "streams_missed": 5,
+   "unique_chatters": 5858,
+   "members_confirmed": 2501,
    "member_classes": {
-    "unknown": 903,
-    "known": 1277,
-    "gift": 267
+    "unknown": 926,
+    "known": 1288,
+    "gift": 287
    },
-   "long_term_members": 780,
+   "long_term_members": 785,
    "badges": [
     {
      "months": 0,
-     "members": 1206
+     "members": 1244
     },
     {
      "months": 1,
-     "members": 110
+     "members": 114
     },
     {
      "months": 2,
-     "members": 209
+     "members": 212
     },
     {
      "months": 6,
-     "members": 142
+     "members": 146
     },
     {
      "months": 12,
@@ -767,41 +767,41 @@
     },
     {
      "months": 24,
-     "members": 201
+     "members": 202
     },
     {
      "months": 36,
-     "members": 180
+     "members": 182
     },
     {
      "months": 48,
-     "members": 160
+     "members": 161
     },
     {
      "months": 60,
-     "members": 38
+     "members": 39
     }
    ],
    "events": {
-    "new_members": 902,
-    "rejoins": 234,
+    "new_members": 911,
+    "rejoins": 236,
     "milestones": 35,
-    "gifted_total": 278
+    "gifted_total": 298
    },
    "tiers": [
     {
      "tier": "エマの藍方",
      "price": 490,
-     "confirmed_members": 1277,
-     "estimated_members": 2180.0
+     "confirmed_members": 1288,
+     "estimated_members": 2214.0
     }
    ],
    "revenue": {
-    "monthly_low": 679764,
-    "monthly_est": 679764,
-    "gift_once": 86685
+    "monthly_low": 690365,
+    "monthly_est": 690365,
+    "gift_once": 92922
    },
-   "avg_member_chatters": 310.8,
+   "avg_member_chatters": 307.4,
    "partial": true,
    "finalized": false
   }

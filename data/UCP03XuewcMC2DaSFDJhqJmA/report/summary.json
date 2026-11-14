@@ -3,27 +3,27 @@
  "channel_id": "UCP03XuewcMC2DaSFDJhqJmA",
  "handle": "@HanamaeHaru",
  "subscribers": 45600,
- "fetched_at": "2026-11-14 06:50",
- "generated_at": "2026-11-14 06:51",
+ "fetched_at": "2026-11-15 06:51",
+ "generated_at": "2026-11-15 06:52",
  "period": {
-  "from": "2026-10-15 06:50",
-  "to": "2026-11-14 06:50",
+  "from": "2026-10-16 06:51",
+  "to": "2026-11-15 06:51",
   "days": 30
  },
  "streams_analyzed": 26,
- "streams_missed": 3,
- "unique_chatters": 1109,
- "members_confirmed": 203,
+ "streams_missed": 2,
+ "unique_chatters": 1075,
+ "members_confirmed": 207,
  "member_classes": {
-  "unknown": 112,
-  "known": 39,
-  "gift": 52
+  "unknown": 109,
+  "known": 41,
+  "gift": 57
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 86
+   "members": 91
   },
   {
    "months": 1,
@@ -33,16 +33,16 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 103
+   "members": 102
   }
  ],
  "events": {
-  "new_members": 24,
-  "rejoins": 18,
-  "milestones": 3,
-  "gift_purchases": 24,
-  "gifted_total": 52,
-  "gift_redemptions": 52
+  "new_members": 23,
+  "rejoins": 17,
+  "milestones": 4,
+  "gift_purchases": 25,
+  "gifted_total": 57,
+  "gift_redemptions": 57
  },
  "tiers_configured": true,
  "tiers": [
@@ -50,32 +50,32 @@
    "tier": "086Hz",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 35,
-   "share_of_confirmed_pct": 89.7,
-   "allocated_unknown": 100.5,
-   "estimated_members": 135.5,
-   "monthly_net_confirmed": 10914,
-   "monthly_net_estimated": 42255
+   "confirmed_members": 37,
+   "share_of_confirmed_pct": 90.2,
+   "allocated_unknown": 98.4,
+   "estimated_members": 135.4,
+   "monthly_net_confirmed": 11537,
+   "monthly_net_estimated": 42210
   },
   {
    "tier": "870Hz",
    "price": 1290,
    "net_per_member": 820.9,
    "confirmed_members": 4,
-   "share_of_confirmed_pct": 10.3,
-   "allocated_unknown": 11.5,
-   "estimated_members": 15.5,
+   "share_of_confirmed_pct": 9.8,
+   "allocated_unknown": 10.6,
+   "estimated_members": 14.6,
    "monthly_net_confirmed": 3284,
-   "monthly_net_estimated": 12714
+   "monthly_net_estimated": 12013
   }
  ],
  "revenue": {
-  "monthly_low": 49121,
-  "monthly_est": 54969,
-  "gift_once": 16215,
-  "total_low": 65335,
-  "total_est": 71183,
-  "paying_members": 151,
+  "monthly_low": 48809,
+  "monthly_est": 54223,
+  "gift_once": 17774,
+  "total_low": 66583,
+  "total_est": 71996,
+  "paying_members": 150,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -84,16 +84,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "2aV1tWtrOjU",
-   "start": "2026-10-15 18:00",
-   "title": "【 STREET FIGHTER 6 】プラチナの小指、見えてきた・・・っ！/Mエレナ【花前ハル/REJECT】",
-   "kind": "配信",
-   "chatters": 155,
-   "member_chatters": 34,
-   "new_members": 2,
-   "gifted_total": 0
-  },
   {
    "video_id": "vlF291uFJag",
    "start": "2026-10-16 18:00",
@@ -343,21 +333,19 @@
    "member_chatters": 48,
    "new_members": 0,
    "gifted_total": 6
+  },
+  {
+   "video_id": "1HARZAS8izw",
+   "start": "2026-11-14 13:00",
+   "title": "【ゼルダの伝説 時のオカリナ】完全初見❗️最終決戦！！ガノンドロフを倒して世界を救う #4【花前ハル/REJECT】",
+   "kind": "配信",
+   "chatters": 64,
+   "member_chatters": 36,
+   "new_members": 1,
+   "gifted_total": 5
   }
  ],
  "missed_streams": [
-  {
-   "video_id": "ke7bhmZ97-o",
-   "start": "2026-10-15 23:00",
-   "title": "【メン限】深夜のお悩み相談室❗️どしたん、話聞こか？の会【花前ハル/REJECT】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 150,
-   "view_count": null
-  },
   {
    "video_id": "nocr7667wL4",
    "start": "2026-10-31 23:00",
@@ -379,22 +367,12 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 143,
+   "like_count": 144,
    "view_count": null
   }
  ],
  "members_only_content": [
   {
-   "video_id": "ke7bhmZ97-o",
-   "start": "2026-10-15 23:00",
-   "title": "【メン限】深夜のお悩み相談室❗️どしたん、話聞こか？の会【花前ハル/REJECT】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 150,
-   "view_count": null
-  },
-  {
    "video_id": "nocr7667wL4",
    "start": "2026-10-31 23:00",
    "title": "【メン限】半年記念カウントダウンしよう【花前ハル/REJECT】",
@@ -411,7 +389,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 143,
+   "like_count": 144,
    "view_count": null
   }
  ],
@@ -523,22 +501,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-14"
+    "to": "2026-11-15"
    },
-   "streams_analyzed": 14,
+   "streams_analyzed": 15,
    "streams_missed": 1,
-   "unique_chatters": 661,
-   "members_confirmed": 156,
+   "unique_chatters": 672,
+   "members_confirmed": 162,
    "member_classes": {
-    "unknown": 92,
-    "known": 33,
-    "gift": 31
+    "unknown": 91,
+    "known": 35,
+    "gift": 36
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 54
+     "members": 60
     },
     {
      "months": 1,
@@ -550,31 +528,31 @@
     }
    ],
    "events": {
-    "new_members": 18,
+    "new_members": 19,
     "rejoins": 15,
-    "milestones": 1,
-    "gifted_total": 31
+    "milestones": 2,
+    "gifted_total": 36
    },
    "tiers": [
     {
      "tier": "086Hz",
      "price": 490,
-     "confirmed_members": 31,
-     "estimated_members": 117.4
+     "confirmed_members": 33,
+     "estimated_members": 118.8
     },
     {
      "tier": "870Hz",
      "price": 1290,
      "confirmed_members": 2,
-     "estimated_members": 7.6
+     "estimated_members": 7.2
     }
    ],
    "revenue": {
-    "monthly_low": 39995,
-    "monthly_est": 42834,
-    "gift_once": 9666
+    "monthly_low": 40307,
+    "monthly_est": 42955,
+    "gift_once": 11225
    },
-   "avg_member_chatters": 41.9,
+   "avg_member_chatters": 41.5,
    "partial": true,
    "finalized": false
   }

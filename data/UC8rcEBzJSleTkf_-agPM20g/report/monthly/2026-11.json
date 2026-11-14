@@ -2,84 +2,84 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-14"
+  "to": "2026-11-15"
  },
- "streams_analyzed": 2,
+ "streams_analyzed": 3,
  "streams_missed": 0,
- "unique_chatters": 1643,
- "members_confirmed": 720,
+ "unique_chatters": 2332,
+ "members_confirmed": 842,
  "member_classes": {
-  "known": 200,
-  "unknown": 514,
-  "gift": 6
+  "known": 228,
+  "unknown": 598,
+  "gift": 16
  },
- "long_term_members": 614,
+ "long_term_members": 709,
  "badges": [
   {
    "months": 0,
-   "members": 24
+   "members": 31
   },
   {
    "months": 1,
-   "members": 8
+   "members": 10
   },
   {
    "months": 2,
-   "members": 28
+   "members": 36
   },
   {
    "months": 6,
-   "members": 46
+   "members": 56
   },
   {
    "months": 12,
-   "members": 81
-  },
-  {
-   "months": 24,
    "members": 94
   },
   {
+   "months": 24,
+   "members": 113
+  },
+  {
    "months": 36,
-   "members": 139
+   "members": 158
   },
   {
    "months": 48,
-   "members": 300
+   "members": 344
   }
  ],
  "events": {
-  "new_members": 3,
-  "rejoins": 3,
-  "milestones": 20,
-  "gifted_total": 6
+  "new_members": 4,
+  "rejoins": 4,
+  "milestones": 32,
+  "gifted_total": 16
  },
  "tiers": [
   {
    "tier": "IRySoCool",
    "price": 690,
-   "confirmed_members": 190,
-   "estimated_members": 678.3
+   "confirmed_members": 216,
+   "estimated_members": 782.5
   },
   {
    "tier": "IRySuperCool",
    "price": 1990,
    "confirmed_members": 3,
-   "estimated_members": 10.7
+   "estimated_members": 10.9
   },
   {
    "tier": "IRySuperDuperCool",
    "price": 3490,
-   "confirmed_members": 7,
-   "estimated_members": 25.0
+   "confirmed_members": 9,
+   "estimated_members": 32.6
   }
  ],
  "revenue": {
-  "monthly_low": 328465,
-  "monthly_est": 366899,
-  "gift_once": 2635
+  "monthly_low": 381207,
+  "monthly_est": 429777,
+  "gift_once": 7025
  },
- "avg_member_chatters": 512.5,
+ "avg_member_chatters": 468.3,
  "partial": true,
  "finalized": false
 }

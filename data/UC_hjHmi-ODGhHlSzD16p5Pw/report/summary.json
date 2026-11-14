@@ -3,16 +3,16 @@
  "channel_id": "UC_hjHmi-ODGhHlSzD16p5Pw",
  "handle": "@Popo_Ieiri",
  "subscribers": 131000,
- "fetched_at": "2026-11-14 06:39",
- "generated_at": "2026-11-14 06:39",
+ "fetched_at": "2026-11-15 06:39",
+ "generated_at": "2026-11-15 06:39",
  "period": {
-  "from": "2026-10-15 06:39",
-  "to": "2026-11-14 06:39",
+  "from": "2026-10-16 06:39",
+  "to": "2026-11-15 06:39",
   "days": 30
  },
  "streams_analyzed": 27,
  "streams_missed": 1,
- "unique_chatters": 1031,
+ "unique_chatters": 1024,
  "members_confirmed": 141,
  "member_classes": {
   "unknown": 118,
@@ -28,12 +28,12 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 5
+   "members": 4
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 5
+   "members": 6
   },
   {
    "months": 6,
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "UvoGvmueab0",
-   "start": "2026-10-15 22:02",
-   "title": "【SILENT HILL: Townfall #3】パワハラに断固として戦う姿勢を見せるポポ【家入ポポ / ななしいんく】",
-   "kind": "配信",
-   "chatters": 44,
-   "member_chatters": 23,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "il_3RCYA9Js",
    "start": "2026-10-19 19:02",
@@ -362,6 +352,16 @@
    "member_chatters": 25,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "YvOUxCQJeaQ",
+   "start": "2026-11-14 20:03",
+   "title": "【#ガチグラ2 / 6日目】悪魔分隊副隊長、頑張っていますPP【家入ポポ / ななしいんく】",
+   "kind": "配信",
+   "chatters": 42,
+   "member_chatters": 26,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -523,11 +523,11 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-14"
+    "to": "2026-11-15"
    },
-   "streams_analyzed": 14,
+   "streams_analyzed": 15,
    "streams_missed": 0,
-   "unique_chatters": 680,
+   "unique_chatters": 682,
    "members_confirmed": 118,
    "member_classes": {
     "unknown": 102,
@@ -542,11 +542,11 @@
     },
     {
      "months": 1,
-     "members": 5
+     "members": 4
     },
     {
      "months": 2,
-     "members": 3
+     "members": 4
     },
     {
      "months": 6,
@@ -584,7 +584,7 @@
     "monthly_est": 35235,
     "gift_once": 1559
    },
-   "avg_member_chatters": 34.7,
+   "avg_member_chatters": 34.1,
    "partial": true,
    "finalized": false
   }

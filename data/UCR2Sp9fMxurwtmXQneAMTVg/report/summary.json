@@ -3,16 +3,16 @@
  "channel_id": "UCR2Sp9fMxurwtmXQneAMTVg",
  "handle": "@magomo_magomori",
  "subscribers": 13700,
- "fetched_at": "2026-11-14 11:30",
- "generated_at": "2026-11-14 11:30",
+ "fetched_at": "2026-11-15 06:45",
+ "generated_at": "2026-11-15 06:46",
  "period": {
-  "from": "2026-10-15 11:30",
-  "to": "2026-11-14 11:30",
+  "from": "2026-10-16 06:45",
+  "to": "2026-11-15 06:45",
   "days": 30
  },
  "streams_analyzed": 29,
- "streams_missed": 16,
- "unique_chatters": 688,
+ "streams_missed": 18,
+ "unique_chatters": 686,
  "members_confirmed": 227,
  "member_classes": {
   "unknown": 143,
@@ -23,12 +23,12 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 125
+   "members": 124
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 33
+   "members": 34
   },
   {
    "months": 2,
@@ -49,7 +49,7 @@
  "events": {
   "new_members": 5,
   "rejoins": 1,
-  "milestones": 0,
+  "milestones": 1,
   "gift_purchases": 12,
   "gifted_total": 63,
   "gift_redemptions": 61
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "hhtlPvkTJdg",
-   "start": "2026-10-15 21:01",
-   "title": "【XP3122】いけ！無印ヒッセン練習！【すぺしゃりて  / 新人vtuber  孫守まごも】スプラトゥーン3",
-   "kind": "配信",
-   "chatters": 58,
-   "member_chatters": 30,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "sk7mqKZrR1c",
    "start": "2026-10-16 08:58",
@@ -372,6 +362,16 @@
    "member_chatters": 23,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "IWxUTK1w68M",
+   "start": "2026-11-14 21:00",
+   "title": "【参加型】ヤグラパワー更新を目指してヤグラプラべ！【すぺしゃりて  / 新人vtuber  孫守まごも】スプラトゥーン3",
+   "kind": "配信",
+   "chatters": 54,
+   "member_chatters": 23,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -541,7 +541,7 @@
    "members_only": false,
    "members_level": "",
    "like_count": 138,
-   "view_count": 4087
+   "view_count": 4983
   },
   {
    "video_id": "Kp7FdEmKtVA",
@@ -552,7 +552,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 29,
+   "like_count": 30,
    "view_count": null
   },
   {
@@ -564,7 +564,31 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 18,
+   "like_count": 21,
+   "view_count": null
+  },
+  {
+   "video_id": "85sdmdsNadI",
+   "start": "2026-11-14 19:59",
+   "title": "【メン限】配信まで暇だから配信する！",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 22,
+   "view_count": null
+  },
+  {
+   "video_id": "LSfCvVYLYoA",
+   "start": "2026-11-14 23:56",
+   "title": "【メン限】革命おきたかもしれない",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 30,
    "view_count": null
   }
  ],
@@ -696,7 +720,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 29,
+   "like_count": 30,
    "view_count": null
   },
   {
@@ -706,7 +730,27 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 18,
+   "like_count": 21,
+   "view_count": null
+  },
+  {
+   "video_id": "85sdmdsNadI",
+   "start": "2026-11-14 19:59",
+   "title": "【メン限】配信まで暇だから配信する！",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 22,
+   "view_count": null
+  },
+  {
+   "video_id": "LSfCvVYLYoA",
+   "start": "2026-11-14 23:56",
+   "title": "【メン限】革命おきたかもしれない",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 30,
    "view_count": null
   }
  ],
@@ -824,14 +868,14 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-14"
+    "to": "2026-11-15"
    },
-   "streams_analyzed": 12,
-   "streams_missed": 9,
-   "unique_chatters": 310,
-   "members_confirmed": 104,
+   "streams_analyzed": 13,
+   "streams_missed": 11,
+   "unique_chatters": 323,
+   "members_confirmed": 106,
    "member_classes": {
-    "unknown": 82,
+    "unknown": 84,
     "known": 15,
     "gift": 7
    },
@@ -843,7 +887,7 @@
     },
     {
      "months": 1,
-     "members": 16
+     "members": 18
     },
     {
      "months": 2,
@@ -861,7 +905,7 @@
    "events": {
     "new_members": 5,
     "rejoins": 1,
-    "milestones": 0,
+    "milestones": 1,
     "gifted_total": 7
    },
    "tiers": [
@@ -869,15 +913,15 @@
      "tier": "まごもをさらにかわいがる会",
      "price": 490,
      "confirmed_members": 15,
-     "estimated_members": 97.0
+     "estimated_members": 99.0
     }
    ],
    "revenue": {
-    "monthly_low": 30246,
-    "monthly_est": 30246,
+    "monthly_low": 30870,
+    "monthly_est": 30870,
     "gift_once": 2183
    },
-   "avg_member_chatters": 31.3,
+   "avg_member_chatters": 30.7,
    "partial": true,
    "finalized": false
   }

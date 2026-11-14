@@ -3,46 +3,46 @@
  "channel_id": "UCvj_cfALhRaO8dxa0Q6bgfg",
  "handle": "@ArcanaGrimmybear",
  "subscribers": 31100,
- "fetched_at": "2026-11-14 11:31",
- "generated_at": "2026-11-14 11:31",
+ "fetched_at": "2026-11-15 06:49",
+ "generated_at": "2026-11-15 06:50",
  "period": {
-  "from": "2026-10-15 11:31",
-  "to": "2026-11-14 11:31",
+  "from": "2026-10-16 06:49",
+  "to": "2026-11-15 06:49",
   "days": 30
  },
- "streams_analyzed": 31,
- "streams_missed": 3,
- "unique_chatters": 1091,
- "members_confirmed": 450,
+ "streams_analyzed": 33,
+ "streams_missed": 2,
+ "unique_chatters": 1149,
+ "members_confirmed": 552,
  "member_classes": {
-  "unknown": 255,
+  "unknown": 260,
   "known": 21,
-  "gift": 174
+  "gift": 271
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 188
+   "members": 278
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 45
+   "members": 53
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 217
+   "members": 221
   }
  ],
  "events": {
   "new_members": 14,
   "rejoins": 1,
   "milestones": 0,
-  "gift_purchases": 13,
-  "gifted_total": 175,
-  "gift_redemptions": 175
+  "gift_purchases": 21,
+  "gifted_total": 272,
+  "gift_redemptions": 272
  },
  "tiers_configured": true,
  "tiers": [
@@ -52,10 +52,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 20,
    "share_of_confirmed_pct": 95.2,
-   "allocated_unknown": 242.9,
-   "estimated_members": 262.9,
+   "allocated_unknown": 247.6,
+   "estimated_members": 267.6,
    "monthly_net_confirmed": 6236,
-   "monthly_net_estimated": 81964
+   "monthly_net_estimated": 83448
   },
   {
    "tier": "📖 正式調査員 ✧",
@@ -63,10 +63,10 @@
    "net_per_member": 757.3,
    "confirmed_members": 1,
    "share_of_confirmed_pct": 4.8,
-   "allocated_unknown": 12.1,
-   "estimated_members": 13.1,
+   "allocated_unknown": 12.4,
+   "estimated_members": 13.4,
    "monthly_net_confirmed": 757,
-   "monthly_net_estimated": 9953
+   "monthly_net_estimated": 10133
   },
   {
    "tier": "🕯️ 特別調査官 ✧",
@@ -92,12 +92,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 86507,
-  "monthly_est": 91916,
-  "gift_once": 54568,
-  "total_low": 141075,
-  "total_est": 146485,
-  "paying_members": 276,
+  "monthly_low": 88066,
+  "monthly_est": 93582,
+  "gift_once": 84815,
+  "total_low": 172881,
+  "total_est": 178396,
+  "paying_members": 281,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -415,21 +415,29 @@
    "member_chatters": 112,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "_ox7Ax7lPT4",
+   "start": "2026-11-14 08:01",
+   "title": "【 超時空要塞マクロス 】PS2実機でマクロス初出撃.ᐟ 配属先はプロメテウス.ᐟ 初めての超時空要塞マクロスを完全初見プレイ🤖 【アルカナ・グリミィベア/Varium】",
+   "kind": "配信",
+   "chatters": 196,
+   "member_chatters": 136,
+   "new_members": 0,
+   "gifted_total": 50
+  },
+  {
+   "video_id": "E37hGcQxgIo",
+   "start": "2026-11-14 22:32",
+   "title": "【 メンバーシップ限定 】調査員ミーティング.ᐟ 次あそぶゲームを決めよう🧸ෆ【 アルカナ・グリミィベア/Varium 】",
+   "kind": "配信",
+   "chatters": 194,
+   "member_chatters": 173,
+   "new_members": 0,
+   "gifted_total": 47
   }
  ],
  "missed_streams": [
-  {
-   "video_id": "2idKjtXk6s4",
-   "start": "2026-10-15 21:01",
-   "title": "【 メンバーシップ限定 】バイノーラルでらふにおしゃべりしましょう🖤゛【アルカナ・グリミィベア/Varium】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 165,
-   "view_count": null
-  },
   {
    "video_id": "KFul_3-CFsw",
    "start": "2026-10-19 22:02",
@@ -451,22 +459,12 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 156,
+   "like_count": 157,
    "view_count": null
   }
  ],
  "members_only_content": [
   {
-   "video_id": "2idKjtXk6s4",
-   "start": "2026-10-15 21:01",
-   "title": "【 メンバーシップ限定 】バイノーラルでらふにおしゃべりしましょう🖤゛【アルカナ・グリミィベア/Varium】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 165,
-   "view_count": null
-  },
-  {
    "video_id": "KFul_3-CFsw",
    "start": "2026-10-19 22:02",
    "title": "【 メンバーシップ限定 】かまってかまってかまって、甘えたいの🖤゛【アルカナ・グリミィベア/Varium】",
@@ -483,7 +481,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 156,
+   "like_count": 157,
    "view_count": null
   }
  ],
@@ -607,44 +605,44 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-14"
+    "to": "2026-11-15"
    },
-   "streams_analyzed": 14,
+   "streams_analyzed": 16,
    "streams_missed": 1,
-   "unique_chatters": 719,
-   "members_confirmed": 371,
+   "unique_chatters": 793,
+   "members_confirmed": 476,
    "member_classes": {
-    "unknown": 214,
+    "unknown": 222,
     "known": 13,
-    "gift": 144
+    "gift": 241
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 153
+     "members": 244
     },
     {
      "months": 1,
-     "members": 31
+     "members": 39
     },
     {
      "months": 2,
-     "members": 187
+     "members": 193
     }
    ],
    "events": {
     "new_members": 7,
     "rejoins": 0,
     "milestones": 0,
-    "gifted_total": 145
+    "gifted_total": 242
    },
    "tiers": [
     {
      "tier": "🐾 見習い調査員 ✧",
      "price": 490,
      "confirmed_members": 13,
-     "estimated_members": 227.0
+     "estimated_members": 235.0
     },
     {
      "tier": "📖 正式調査員 ✧",
@@ -666,11 +664,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 70783,
-    "monthly_est": 70783,
-    "gift_once": 45214
+    "monthly_low": 73277,
+    "monthly_est": 73277,
+    "gift_once": 75460
    },
-   "avg_member_chatters": 105.9,
+   "avg_member_chatters": 112,
    "partial": true,
    "finalized": false
   }
