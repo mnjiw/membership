@@ -3,20 +3,20 @@
  "channel_id": "UCUtKkGKef8BYMs3h-3zQm9A",
  "handle": "@MinSuha",
  "subscribers": 186000,
- "fetched_at": "2026-11-14 05:25",
- "generated_at": "2026-11-14 05:25",
+ "fetched_at": "2026-11-14 11:25",
+ "generated_at": "2026-11-14 11:25",
  "period": {
-  "from": "2026-10-15 05:25",
-  "to": "2026-11-14 05:25",
+  "from": "2026-10-15 11:25",
+  "to": "2026-11-14 11:25",
   "days": 30
  },
- "streams_analyzed": 12,
- "streams_missed": 1,
- "unique_chatters": 501,
- "members_confirmed": 140,
+ "streams_analyzed": 13,
+ "streams_missed": 0,
+ "unique_chatters": 519,
+ "members_confirmed": 149,
  "member_classes": {
   "known": 27,
-  "unknown": 113
+  "unknown": 122
  },
  "badges": [
   {
@@ -42,22 +42,22 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 15
+   "members": 17
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 27
+   "members": 29
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 33
+   "members": 36
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 40
+   "members": 42
   },
   {
    "months": 60,
@@ -81,19 +81,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 27,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 113.0,
-   "estimated_members": 140.0,
+   "allocated_unknown": 122.0,
+   "estimated_members": 149.0,
    "monthly_net_confirmed": 8419,
-   "monthly_net_estimated": 43655
+   "monthly_net_estimated": 46461
   }
  ],
  "revenue": {
-  "monthly_low": 43655,
-  "monthly_est": 43655,
+  "monthly_low": 46461,
+  "monthly_est": 46461,
   "gift_once": 0,
-  "total_low": 43655,
-  "total_est": 43655,
-  "paying_members": 140,
+  "total_low": 46461,
+  "total_est": 46461,
+  "paying_members": 149,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -221,22 +221,19 @@
    "member_chatters": 39,
    "new_members": 0,
    "gifted_total": 0
-  }
- ],
- "missed_streams": [
+  },
   {
    "video_id": "3wY4NooNK-o",
-   "start": "2026-11-13 00:00",
+   "start": "2026-11-13 20:26",
    "title": "🌊【Finals Week】친구들과 시험기간에 컨닝하는 게임 w. 남궁혁, 서애덕, 김토키【NIJISANJI】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 188,
-   "view_count": 6087
+   "kind": "配信",
+   "chatters": 80,
+   "member_chatters": 65,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -399,15 +396,15 @@
     "from": "2026-11-01",
     "to": "2026-11-14"
    },
-   "streams_analyzed": 6,
-   "streams_missed": 1,
-   "unique_chatters": 154,
-   "members_confirmed": 100,
+   "streams_analyzed": 7,
+   "streams_missed": 0,
+   "unique_chatters": 176,
+   "members_confirmed": 112,
    "member_classes": {
-    "unknown": 76,
+    "unknown": 88,
     "known": 24
    },
-   "long_term_members": 87,
+   "long_term_members": 99,
    "badges": [
     {
      "months": 0,
@@ -427,19 +424,19 @@
     },
     {
      "months": 12,
-     "members": 13
+     "members": 15
     },
     {
      "months": 24,
-     "members": 19
+     "members": 23
     },
     {
      "months": 36,
-     "members": 21
+     "members": 25
     },
     {
      "months": 48,
-     "members": 30
+     "members": 32
     },
     {
      "months": 60,
@@ -457,15 +454,15 @@
      "tier": "수하쿠아(Suhaqua)",
      "price": 490,
      "confirmed_members": 24,
-     "estimated_members": 100.0
+     "estimated_members": 112.0
     }
    ],
    "revenue": {
-    "monthly_low": 31182,
-    "monthly_est": 31182,
+    "monthly_low": 34924,
+    "monthly_est": 34924,
     "gift_once": 0
    },
-   "avg_member_chatters": 44.5,
+   "avg_member_chatters": 47.4,
    "partial": true,
    "finalized": false
   }

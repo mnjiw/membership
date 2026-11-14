@@ -3,16 +3,16 @@
  "channel_id": "UCTxoJgb4DzMd7tiM8cvf4PA",
  "handle": "@Shino_Asakura",
  "subscribers": 79400,
- "fetched_at": "2026-11-14 06:46",
- "generated_at": "2026-11-14 06:46",
+ "fetched_at": "2026-11-14 11:30",
+ "generated_at": "2026-11-14 11:31",
  "period": {
-  "from": "2026-10-15 06:46",
-  "to": "2026-11-14 06:46",
+  "from": "2026-10-15 11:30",
+  "to": "2026-11-14 11:30",
   "days": 30
  },
- "streams_analyzed": 25,
- "streams_missed": 2,
- "unique_chatters": 1364,
+ "streams_analyzed": 26,
+ "streams_missed": 1,
+ "unique_chatters": 1374,
  "members_confirmed": 129,
  "member_classes": {
   "unknown": 96,
@@ -22,12 +22,12 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 22
+   "members": 21
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 10
+   "members": 11
   },
   {
    "months": 2,
@@ -336,6 +336,16 @@
    "member_chatters": 38,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "dXIVQALp-F8",
+   "start": "2026-11-13 23:48",
+   "title": "【APEX LEGENDS】今日はエイペクサー w/ dttoさん てとさん【麻倉シノ / ネオポルテ】",
+   "kind": "配信",
+   "chatters": 50,
+   "member_chatters": 17,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -350,18 +360,6 @@
    "members_level": "シノノ愛",
    "like_count": 39,
    "view_count": null
-  },
-  {
-   "video_id": "dXIVQALp-F8",
-   "start": "2026-11-13 00:00",
-   "title": "【APEX LEGENDS】今日はエイペクサー w/ dttoさん てとさん【麻倉シノ / ネオポルテ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 180,
-   "view_count": 19922
   }
  ],
  "members_only_content": [
@@ -503,23 +501,23 @@
     "from": "2026-11-01",
     "to": "2026-11-14"
    },
-   "streams_analyzed": 11,
-   "streams_missed": 1,
-   "unique_chatters": 640,
-   "members_confirmed": 82,
+   "streams_analyzed": 12,
+   "streams_missed": 0,
+   "unique_chatters": 654,
+   "members_confirmed": 83,
    "member_classes": {
     "known": 26,
-    "unknown": 56
+    "unknown": 57
    },
-   "long_term_members": 31,
+   "long_term_members": 32,
    "badges": [
     {
      "months": 0,
-     "members": 12
+     "members": 11
     },
     {
      "months": 1,
-     "members": 7
+     "members": 8
     },
     {
      "months": 2,
@@ -535,7 +533,7 @@
     },
     {
      "months": 24,
-     "members": 16
+     "members": 17
     }
    ],
    "events": {
@@ -549,15 +547,15 @@
      "tier": "シノノ愛",
      "price": 490,
      "confirmed_members": 26,
-     "estimated_members": 82.0
+     "estimated_members": 83.0
     }
    ],
    "revenue": {
-    "monthly_low": 25569,
-    "monthly_est": 25569,
+    "monthly_low": 25881,
+    "monthly_est": 25881,
     "gift_once": 0
    },
-   "avg_member_chatters": 29.6,
+   "avg_member_chatters": 28.6,
    "partial": true,
    "finalized": false
   }

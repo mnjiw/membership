@@ -3,20 +3,20 @@
  "channel_id": "UCZrYHIPsKhYAXqOls2kQQNQ",
  "handle": "@itoitoi_Q",
  "subscribers": 174000,
- "fetched_at": "2026-11-14 06:45",
- "generated_at": "2026-11-14 06:46",
+ "fetched_at": "2026-11-14 11:30",
+ "generated_at": "2026-11-14 11:30",
  "period": {
-  "from": "2026-10-15 06:45",
-  "to": "2026-11-14 06:45",
+  "from": "2026-10-15 11:30",
+  "to": "2026-11-14 11:30",
   "days": 30
  },
- "streams_analyzed": 25,
- "streams_missed": 3,
- "unique_chatters": 1305,
- "members_confirmed": 304,
+ "streams_analyzed": 24,
+ "streams_missed": 4,
+ "unique_chatters": 1273,
+ "members_confirmed": 302,
  "member_classes": {
-  "unknown": 217,
   "known": 57,
+  "unknown": 215,
   "gift": 30
  },
  "badges": [
@@ -28,7 +28,7 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 10
+   "members": 9
   },
   {
    "months": 2,
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 65
+   "members": 64
   },
   {
    "months": 24,
@@ -57,7 +57,7 @@
   }
  ],
  "events": {
-  "new_members": 11,
+  "new_members": 8,
   "rejoins": 10,
   "milestones": 19,
   "gift_purchases": 3,
@@ -72,19 +72,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 57,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 217.0,
-   "estimated_members": 274.0,
+   "allocated_unknown": 215.0,
+   "estimated_members": 272.0,
    "monthly_net_confirmed": 17774,
-   "monthly_net_estimated": 85438
+   "monthly_net_estimated": 84815
   }
  ],
  "revenue": {
-  "monthly_low": 85438,
-  "monthly_est": 85438,
+  "monthly_low": 84815,
+  "monthly_est": 84815,
   "gift_once": 9355,
-  "total_low": 94793,
-  "total_est": 94793,
-  "paying_members": 274,
+  "total_low": 94169,
+  "total_est": 94169,
+  "paying_members": 272,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "NavCwKHokII",
-   "start": "2026-10-15 08:00",
-   "title": "【 ゼルダの伝説 ブレス オブ ザ ワイルド 】#9 完全初見！龍はどうやって倒すんだ…？【 絲依とい / ネオポルテ 】",
-   "kind": "配信",
-   "chatters": 136,
-   "member_chatters": 42,
-   "new_members": 3,
-   "gifted_total": 0
-  },
   {
    "video_id": "hGIP7euASwg",
    "start": "2026-10-15 17:00",
@@ -380,6 +370,18 @@
    "members_level": "",
    "like_count": 79,
    "view_count": null
+  },
+  {
+   "video_id": "6uWTvOHCfB4",
+   "start": "2026-11-14 00:00",
+   "title": "【 雑談 】朝なにたべる？【 絲依とい / ネオポルテ 】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 622,
+   "view_count": 13873
   }
  ],
  "members_only_content": [
@@ -551,7 +553,7 @@
     "to": "2026-11-14"
    },
    "streams_analyzed": 12,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 879,
    "members_confirmed": 230,
    "member_classes": {

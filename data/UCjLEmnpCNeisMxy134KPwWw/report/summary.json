@@ -3,15 +3,15 @@
  "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
  "handle": "@KoboKanaeru",
  "subscribers": 2800000,
- "fetched_at": "2026-11-14 06:35",
- "generated_at": "2026-11-14 06:35",
+ "fetched_at": "2026-11-14 11:27",
+ "generated_at": "2026-11-14 11:28",
  "period": {
-  "from": "2026-10-15 06:35",
-  "to": "2026-11-14 06:35",
+  "from": "2026-10-15 11:27",
+  "to": "2026-11-14 11:27",
   "days": 30
  },
  "streams_analyzed": 18,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 6452,
  "members_confirmed": 571,
  "member_classes": {
@@ -290,8 +290,32 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
- "members_only_content": [],
+ "missed_streams": [
+  {
+   "video_id": "F-i01GLc0sE",
+   "start": "2026-11-14 04:53",
+   "title": "【Kobolonimbus】I gotta finish this in 2 hours..",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 134,
+   "view_count": null
+  }
+ ],
+ "members_only_content": [
+  {
+   "video_id": "F-i01GLc0sE",
+   "start": "2026-11-14 04:53",
+   "title": "【Kobolonimbus】I gotta finish this in 2 hours..",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 134,
+   "view_count": null
+  }
+ ],
  "history": [
   {
    "month": "2026-09",
@@ -443,7 +467,7 @@
     "to": "2026-11-14"
    },
    "streams_analyzed": 4,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 2476,
    "members_confirmed": 308,
    "member_classes": {

@@ -3,16 +3,16 @@
  "channel_id": "UCwrjITPwG4q71HzihV2C7Nw",
  "handle": "@Fumi",
  "subscribers": 279000,
- "fetched_at": "2026-11-14 05:22",
- "generated_at": "2026-11-14 05:22",
+ "fetched_at": "2026-11-14 11:24",
+ "generated_at": "2026-11-14 11:25",
  "period": {
-  "from": "2026-10-15 05:22",
-  "to": "2026-11-14 05:22",
+  "from": "2026-10-15 11:24",
+  "to": "2026-11-14 11:24",
   "days": 30
  },
- "streams_analyzed": 21,
- "streams_missed": 1,
- "unique_chatters": 1940,
+ "streams_analyzed": 22,
+ "streams_missed": 0,
+ "unique_chatters": 2063,
  "members_confirmed": 207,
  "member_classes": {
   "unknown": 156,
@@ -322,6 +322,16 @@
    "gifted_total": 0
   },
   {
+   "video_id": "PGcSMUc2Ms0",
+   "start": "2026-11-13 13:04",
+   "title": "【スプラトゥーン3】1年生卒業目指してガチマッチ🦑💛魂のブキ選び【にじさんじフミ】",
+   "kind": "配信",
+   "chatters": 232,
+   "member_chatters": 34,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
    "video_id": "ZRmi5TVMRKY",
    "start": "2026-11-13 22:01",
    "title": "【#にじ声優マダミス】『魔法少女は涙を流さない』声優さんと❣ペアマーダーミステリーに挑戦するぞ🦊【 にじさんじフミ 】",
@@ -332,20 +342,7 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [
-  {
-   "video_id": "PGcSMUc2Ms0",
-   "start": "2026-11-13 00:00",
-   "title": "【スプラトゥーン3】1年生卒業目指してガチマッチ🦑💛魂のブキ選び【にじさんじフミ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 933,
-   "view_count": 50776
-  }
- ],
+ "missed_streams": [],
  "members_only_content": [
   {
    "video_id": "W8_kJNFq-1k",
@@ -533,16 +530,16 @@
     "from": "2026-11-01",
     "to": "2026-11-14"
    },
-   "streams_analyzed": 11,
-   "streams_missed": 1,
-   "unique_chatters": 805,
-   "members_confirmed": 126,
+   "streams_analyzed": 12,
+   "streams_missed": 0,
+   "unique_chatters": 943,
+   "members_confirmed": 128,
    "member_classes": {
-    "unknown": 118,
+    "unknown": 120,
     "known": 3,
     "gift": 5
    },
-   "long_term_members": 100,
+   "long_term_members": 102,
    "badges": [
     {
      "months": 0,
@@ -566,7 +563,7 @@
     },
     {
      "months": 24,
-     "members": 82
+     "members": 84
     }
    ],
    "events": {
@@ -580,19 +577,19 @@
      "tier": "スサノオ",
      "price": 290,
      "confirmed_members": 1,
-     "estimated_members": 40.3
+     "estimated_members": 41.0
     },
     {
      "tier": "ツクヨミ",
      "price": 390,
      "confirmed_members": 1,
-     "estimated_members": 40.3
+     "estimated_members": 41.0
     },
     {
      "tier": "ワダツミ",
      "price": 490,
      "confirmed_members": 1,
-     "estimated_members": 40.3
+     "estimated_members": 41.0
     },
     {
      "tier": "アマテラス",
@@ -602,11 +599,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 22521,
-    "monthly_est": 30030,
+    "monthly_low": 22890,
+    "monthly_est": 30526,
     "gift_once": 923
    },
-   "avg_member_chatters": 46.8,
+   "avg_member_chatters": 45.8,
    "partial": true,
    "finalized": false
   }

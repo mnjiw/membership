@@ -3,61 +3,61 @@
  "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
  "handle": "@holoen_gigimurin",
  "subscribers": 619000,
- "fetched_at": "2026-11-14 06:37",
- "generated_at": "2026-11-14 06:38",
+ "fetched_at": "2026-11-14 11:28",
+ "generated_at": "2026-11-14 11:28",
  "period": {
-  "from": "2026-10-15 06:37",
-  "to": "2026-11-14 06:37",
+  "from": "2026-10-15 11:28",
+  "to": "2026-11-14 11:28",
   "days": 30
  },
  "streams_analyzed": 27,
  "streams_missed": 3,
- "unique_chatters": 24312,
- "members_confirmed": 3260,
+ "unique_chatters": 22090,
+ "members_confirmed": 3146,
  "member_classes": {
-  "known": 850,
-  "unknown": 2234,
-  "gift": 176
+  "known": 828,
+  "unknown": 2152,
+  "gift": 166
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 422
+   "members": 394
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 145
+   "members": 140
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 315
+   "members": 308
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 316
+   "members": 308
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 1202
+   "members": 1164
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 860
+   "members": 832
   }
  ],
  "events": {
-  "new_members": 71,
-  "rejoins": 36,
-  "milestones": 641,
-  "gift_purchases": 21,
-  "gifted_total": 245,
-  "gift_redemptions": 176
+  "new_members": 69,
+  "rejoins": 33,
+  "milestones": 595,
+  "gift_purchases": 20,
+  "gifted_total": 235,
+  "gift_redemptions": 166
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,43 +65,43 @@
    "tier": "gregg",
    "price": 390,
    "net_per_member": 248.2,
-   "confirmed_members": 116,
-   "share_of_confirmed_pct": 13.6,
-   "allocated_unknown": 304.9,
-   "estimated_members": 420.9,
-   "monthly_net_confirmed": 28789,
-   "monthly_net_estimated": 104454
+   "confirmed_members": 112,
+   "share_of_confirmed_pct": 13.5,
+   "allocated_unknown": 291.1,
+   "estimated_members": 403.1,
+   "monthly_net_confirmed": 27796,
+   "monthly_net_estimated": 100040
   },
   {
    "tier": "grem",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 705,
-   "share_of_confirmed_pct": 82.9,
-   "allocated_unknown": 1852.9,
-   "estimated_members": 2557.9,
-   "monthly_net_confirmed": 309559,
-   "monthly_net_estimated": 1123153
+   "confirmed_members": 687,
+   "share_of_confirmed_pct": 83.0,
+   "allocated_unknown": 1785.5,
+   "estimated_members": 2472.5,
+   "monthly_net_confirmed": 301655,
+   "monthly_net_estimated": 1085668
   },
   {
    "tier": "gigremurins",
    "price": 1990,
    "net_per_member": 1266.4,
    "confirmed_members": 29,
-   "share_of_confirmed_pct": 3.4,
-   "allocated_unknown": 76.2,
-   "estimated_members": 105.2,
+   "share_of_confirmed_pct": 3.5,
+   "allocated_unknown": 75.4,
+   "estimated_members": 104.4,
    "monthly_net_confirmed": 36725,
-   "monthly_net_estimated": 133245
+   "monthly_net_estimated": 132173
   }
  ],
  "revenue": {
-  "monthly_low": 929511,
-  "monthly_est": 1360852,
-  "gift_once": 60805,
-  "total_low": 990315,
-  "total_est": 1421657,
-  "paying_members": 3084,
+  "monthly_low": 900264,
+  "monthly_est": 1317881,
+  "gift_once": 58323,
+  "total_low": 958586,
+  "total_est": 1376204,
+  "paying_members": 2980,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -110,16 +110,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "w13xqPC1h1g",
-   "start": "2026-10-15 10:00",
-   "title": "【LEAGUE OF LEGENDS】WITH MORI CALLIOPE!! (REAL)(NOTCLICKBAIT) + ANNOUNCEMENT",
-   "kind": "配信",
-   "chatters": 5321,
-   "member_chatters": 970,
-   "new_members": 2,
-   "gifted_total": 10
-  },
   {
    "video_id": "WB3MxWLBYXU",
    "start": "2026-10-16 06:01",
@@ -379,6 +369,16 @@
    "member_chatters": 372,
    "new_members": 5,
    "gifted_total": 5
+  },
+  {
+   "video_id": "hBFBLkvpylU",
+   "start": "2026-11-14 09:32",
+   "title": "【DEADLOCK】1 GAME ONLYYYY ONE GAME ONLY",
+   "kind": "配信",
+   "chatters": 760,
+   "member_chatters": 293,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -591,20 +591,20 @@
     "from": "2026-11-01",
     "to": "2026-11-14"
    },
-   "streams_analyzed": 11,
+   "streams_analyzed": 12,
    "streams_missed": 1,
-   "unique_chatters": 12799,
-   "members_confirmed": 1949,
+   "unique_chatters": 13013,
+   "members_confirmed": 1983,
    "member_classes": {
-    "known": 560,
-    "unknown": 1363,
+    "known": 572,
+    "unknown": 1385,
     "gift": 26
    },
-   "long_term_members": 1352,
+   "long_term_members": 1376,
    "badges": [
     {
      "months": 0,
-     "members": 132
+     "members": 134
     },
     {
      "months": 1,
@@ -612,53 +612,53 @@
     },
     {
      "months": 2,
-     "members": 198
+     "members": 203
     },
     {
      "months": 6,
-     "members": 183
+     "members": 186
     },
     {
      "months": 12,
-     "members": 775
+     "members": 792
     },
     {
      "months": 24,
-     "members": 577
+     "members": 584
     }
    ],
    "events": {
     "new_members": 19,
     "rejoins": 13,
-    "milestones": 139,
+    "milestones": 144,
     "gifted_total": 35
    },
    "tiers": [
     {
      "tier": "gregg",
      "price": 390,
-     "confirmed_members": 68,
-     "estimated_members": 233.5
+     "confirmed_members": 70,
+     "estimated_members": 239.5
     },
     {
      "tier": "grem",
      "price": 690,
-     "confirmed_members": 472,
-     "estimated_members": 1620.8
+     "confirmed_members": 482,
+     "estimated_members": 1649.1
     },
     {
      "tier": "gigremurins",
      "price": 1990,
      "confirmed_members": 20,
-     "estimated_members": 68.7
+     "estimated_members": 68.4
     }
    ],
    "revenue": {
-    "monthly_low": 587726,
-    "monthly_est": 856609,
+    "monthly_low": 598074,
+    "monthly_est": 870187,
     "gift_once": 8686
    },
-   "avg_member_chatters": 534.8,
+   "avg_member_chatters": 514.7,
    "partial": true,
    "finalized": false
   }
