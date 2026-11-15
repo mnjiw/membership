@@ -3,56 +3,56 @@
  "channel_id": "UCdh-YF2gTzqDNu0VU9lwPPw",
  "handle": "@ClaudeClawmark",
  "subscribers": 161000,
- "fetched_at": "2026-11-15 10:55",
- "generated_at": "2026-11-15 10:55",
+ "fetched_at": "2026-11-16 05:42",
+ "generated_at": "2026-11-16 05:42",
  "period": {
-  "from": "2026-10-16 10:55",
-  "to": "2026-11-15 10:55",
+  "from": "2026-10-17 05:42",
+  "to": "2026-11-16 05:42",
   "days": 30
  },
  "streams_analyzed": 17,
- "streams_missed": 3,
- "unique_chatters": 2072,
- "members_confirmed": 989,
+ "streams_missed": 2,
+ "unique_chatters": 1645,
+ "members_confirmed": 818,
  "member_classes": {
-  "known": 310,
-  "unknown": 259,
-  "gift": 420
+  "known": 304,
+  "unknown": 244,
+  "gift": 270
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 416
+   "members": 281
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 97
+   "members": 90
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 91
+   "members": 82
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 184
+   "members": 172
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 201
+   "members": 193
   }
  ],
  "events": {
-  "new_members": 17,
-  "rejoins": 8,
-  "milestones": 228,
-  "gift_purchases": 37,
-  "gifted_total": 426,
-  "gift_redemptions": 421
+  "new_members": 16,
+  "rejoins": 7,
+  "milestones": 223,
+  "gift_purchases": 24,
+  "gifted_total": 276,
+  "gift_redemptions": 271
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,21 +60,21 @@
    "tier": "Outclaws",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 310,
+   "confirmed_members": 304,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 259.0,
-   "estimated_members": 569.0,
-   "monthly_net_confirmed": 136118,
-   "monthly_net_estimated": 249843
+   "allocated_unknown": 244.0,
+   "estimated_members": 548.0,
+   "monthly_net_confirmed": 133484,
+   "monthly_net_estimated": 240622
   }
  ],
  "revenue": {
-  "monthly_low": 249843,
-  "monthly_est": 249843,
-  "gift_once": 187053,
-  "total_low": 436895,
-  "total_est": 436895,
-  "paying_members": 569,
+  "monthly_low": 240622,
+  "monthly_est": 240622,
+  "gift_once": 121189,
+  "total_low": 361811,
+  "total_est": 361811,
+  "paying_members": 548,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "O3M8p9IsFYY",
-   "start": "2026-10-16 18:59",
-   "title": "【DAM KARAOKE 歌枠】DUET KARAOKE W/ @ZealGinjoka",
-   "kind": "配信",
-   "chatters": 766,
-   "member_chatters": 356,
-   "new_members": 1,
-   "gifted_total": 150
-  },
   {
    "video_id": "YWUh7h-OBs4",
    "start": "2026-10-19 12:02",
@@ -252,6 +242,16 @@
    "member_chatters": 110,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "DlYR4IvY33s",
+   "start": "2026-11-15 06:18",
+   "title": "【DEADLOCK】need 2 numb da brain for a lil",
+   "kind": "配信",
+   "chatters": 118,
+   "member_chatters": 75,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -278,18 +278,6 @@
    "members_level": "",
    "like_count": 146,
    "view_count": null
-  },
-  {
-   "video_id": "DlYR4IvY33s",
-   "start": "2026-11-14 00:00",
-   "title": "【DEADLOCK】need 2 numb da brain for a lil",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 250,
-   "view_count": 3000
   }
  ],
  "members_only_content": [
@@ -433,18 +421,18 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-15"
+    "to": "2026-11-16"
    },
-   "streams_analyzed": 7,
-   "streams_missed": 1,
-   "unique_chatters": 1181,
-   "members_confirmed": 519,
+   "streams_analyzed": 8,
+   "streams_missed": 0,
+   "unique_chatters": 1200,
+   "members_confirmed": 523,
    "member_classes": {
-    "known": 239,
-    "unknown": 203,
+    "known": 240,
+    "unknown": 206,
     "gift": 77
    },
-   "long_term_members": 284,
+   "long_term_members": 286,
    "badges": [
     {
      "months": 0,
@@ -452,7 +440,7 @@
     },
     {
      "months": 1,
-     "members": 72
+     "members": 74
     },
     {
      "months": 6,
@@ -460,33 +448,33 @@
     },
     {
      "months": 12,
-     "members": 135
+     "members": 136
     },
     {
      "months": 24,
-     "members": 149
+     "members": 150
     }
    ],
    "events": {
     "new_members": 3,
     "rejoins": 3,
-    "milestones": 64,
+    "milestones": 66,
     "gifted_total": 78
    },
    "tiers": [
     {
      "tier": "Outclaws",
      "price": 690,
-     "confirmed_members": 239,
-     "estimated_members": 442.0
+     "confirmed_members": 240,
+     "estimated_members": 446.0
     }
    ],
    "revenue": {
-    "monthly_low": 194078,
-    "monthly_est": 194078,
+    "monthly_low": 195835,
+    "monthly_est": 195835,
     "gift_once": 34249
    },
-   "avg_member_chatters": 169.3,
+   "avg_member_chatters": 157.5,
    "partial": true,
    "finalized": false
   }

@@ -3,27 +3,27 @@
  "channel_id": "UCu-J8uIXuLZh16gG-cT1naw",
  "handle": "@FinanaRyugu",
  "subscribers": 474000,
- "fetched_at": "2026-11-15 10:54",
- "generated_at": "2026-11-15 10:54",
+ "fetched_at": "2026-11-16 05:38",
+ "generated_at": "2026-11-16 05:39",
  "period": {
-  "from": "2026-10-16 10:54",
-  "to": "2026-11-15 10:54",
+  "from": "2026-10-17 05:38",
+  "to": "2026-11-16 05:38",
   "days": 30
  },
- "streams_analyzed": 24,
+ "streams_analyzed": 25,
  "streams_missed": 3,
- "unique_chatters": 762,
- "members_confirmed": 147,
+ "unique_chatters": 781,
+ "members_confirmed": 163,
  "member_classes": {
   "unknown": 74,
-  "known": 23,
-  "gift": 50
+  "known": 24,
+  "gift": 65
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 53
+   "members": 68
   },
   {
    "months": 1,
@@ -48,16 +48,16 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 60
+   "members": 61
   }
  ],
  "events": {
   "new_members": 1,
   "rejoins": 2,
-  "milestones": 12,
-  "gift_purchases": 30,
-  "gifted_total": 50,
-  "gift_redemptions": 50
+  "milestones": 13,
+  "gift_purchases": 33,
+  "gifted_total": 65,
+  "gift_redemptions": 65
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +65,21 @@
    "tier": "Ryuguard",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 23,
+   "confirmed_members": 24,
    "share_of_confirmed_pct": 100.0,
    "allocated_unknown": 74.0,
-   "estimated_members": 97.0,
-   "monthly_net_confirmed": 10099,
-   "monthly_net_estimated": 42592
+   "estimated_members": 98.0,
+   "monthly_net_confirmed": 10538,
+   "monthly_net_estimated": 43031
   }
  ],
  "revenue": {
-  "monthly_low": 42592,
-  "monthly_est": 42592,
-  "gift_once": 21955,
-  "total_low": 64546,
-  "total_est": 64546,
-  "paying_members": 97,
+  "monthly_low": 43031,
+  "monthly_est": 43031,
+  "gift_once": 28541,
+  "total_low": 71572,
+  "total_est": 71572,
+  "paying_members": 98,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -327,6 +327,16 @@
    "member_chatters": 35,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "DWXAmP154_I",
+   "start": "2026-11-15 08:08",
+   "title": "【#DistrictV2 GTA V RP】 The final scene and the final day. ⚡🌧️",
+   "kind": "配信",
+   "chatters": 153,
+   "member_chatters": 48,
+   "new_members": 0,
+   "gifted_total": 15
   }
  ],
  "missed_streams": [
@@ -536,22 +546,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-15"
+    "to": "2026-11-16"
    },
-   "streams_analyzed": 12,
+   "streams_analyzed": 13,
    "streams_missed": 1,
-   "unique_chatters": 591,
-   "members_confirmed": 111,
+   "unique_chatters": 612,
+   "members_confirmed": 127,
    "member_classes": {
     "unknown": 65,
-    "known": 18,
-    "gift": 28
+    "known": 19,
+    "gift": 43
    },
-   "long_term_members": 67,
+   "long_term_members": 68,
    "badges": [
     {
      "months": 0,
-     "members": 31
+     "members": 46
     },
     {
      "months": 1,
@@ -571,29 +581,29 @@
     },
     {
      "months": 24,
-     "members": 53
+     "members": 54
     }
    ],
    "events": {
     "new_members": 1,
     "rejoins": 2,
-    "milestones": 5,
-    "gifted_total": 28
+    "milestones": 6,
+    "gifted_total": 43
    },
    "tiers": [
     {
      "tier": "Ryuguard",
      "price": 690,
-     "confirmed_members": 18,
-     "estimated_members": 83.0
+     "confirmed_members": 19,
+     "estimated_members": 84.0
     }
    ],
    "revenue": {
-    "monthly_low": 36445,
-    "monthly_est": 36445,
-    "gift_once": 12295
+    "monthly_low": 36884,
+    "monthly_est": 36884,
+    "gift_once": 18881
    },
-   "avg_member_chatters": 37.3,
+   "avg_member_chatters": 38.2,
    "partial": true,
    "finalized": false
   }

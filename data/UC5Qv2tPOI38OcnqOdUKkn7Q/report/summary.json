@@ -3,19 +3,19 @@
  "channel_id": "UC5Qv2tPOI38OcnqOdUKkn7Q",
  "handle": "@SenriAyumu_Y4T4",
  "subscribers": 122000,
- "fetched_at": "2026-11-15 05:37",
- "generated_at": "2026-11-15 05:38",
+ "fetched_at": "2026-11-16 05:37",
+ "generated_at": "2026-11-16 05:38",
  "period": {
-  "from": "2026-10-16 05:37",
-  "to": "2026-11-15 05:37",
+  "from": "2026-10-17 05:37",
+  "to": "2026-11-16 05:37",
   "days": 30
  },
  "streams_analyzed": 45,
  "streams_missed": 2,
- "unique_chatters": 3768,
- "members_confirmed": 290,
+ "unique_chatters": 3676,
+ "members_confirmed": 287,
  "member_classes": {
-  "unknown": 223,
+  "unknown": 220,
   "known": 55,
   "gift": 12
  },
@@ -28,7 +28,7 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 226
+   "members": 223
   }
  ],
  "events": {
@@ -47,19 +47,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 55,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 223.0,
-   "estimated_members": 278.0,
+   "allocated_unknown": 220.0,
+   "estimated_members": 275.0,
    "monthly_net_confirmed": 17150,
-   "monthly_net_estimated": 86685
+   "monthly_net_estimated": 85750
   }
  ],
  "revenue": {
-  "monthly_low": 86685,
-  "monthly_est": 86685,
+  "monthly_low": 85750,
+  "monthly_est": 85750,
   "gift_once": 3742,
-  "total_low": 90427,
-  "total_est": 90427,
-  "paying_members": 278,
+  "total_low": 89492,
+  "total_est": 89492,
+  "paying_members": 275,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -68,16 +68,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "V8rzljtFsv0",
-   "start": "2026-10-16 22:09",
-   "title": "【 JUDGE EYES：死神の遺言 】#08 完全初見 ✦︎ 最終章。今夜、全てがわかる。でもあいつ倒せるの…？※ネタバレあり【にじさんじ / 千凛あゆむ】",
-   "kind": "配信",
-   "chatters": 287,
-   "member_chatters": 59,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "A112OBB67WI",
    "start": "2026-10-17 15:04",
@@ -517,6 +507,16 @@
    "member_chatters": 50,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "3g69kdJDAnk",
+   "start": "2026-11-15 16:01",
+   "title": "【 サンリオパーティランド 】サンリオキャラとかわいい世界でミニゲーム…！♡【にじさんじ / 千凛あゆむ】",
+   "kind": "配信",
+   "chatters": 85,
+   "member_chatters": 45,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -541,7 +541,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 85,
+   "like_count": 86,
    "view_count": null
   }
  ],
@@ -563,7 +563,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 85,
+   "like_count": 86,
    "view_count": null
   }
  ],
@@ -672,14 +672,14 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-15"
+    "to": "2026-11-16"
    },
-   "streams_analyzed": 24,
+   "streams_analyzed": 25,
    "streams_missed": 1,
-   "unique_chatters": 2135,
-   "members_confirmed": 213,
+   "unique_chatters": 2148,
+   "members_confirmed": 216,
    "member_classes": {
-    "unknown": 158,
+    "unknown": 161,
     "known": 44,
     "gift": 11
    },
@@ -691,7 +691,7 @@
     },
     {
      "months": 1,
-     "members": 164
+     "members": 167
     }
    ],
    "events": {
@@ -705,15 +705,15 @@
      "tier": "ぷれみあゆめいと𓆩♡𓆪",
      "price": 490,
      "confirmed_members": 44,
-     "estimated_members": 202.0
+     "estimated_members": 205.0
     }
    ],
    "revenue": {
-    "monthly_low": 62987,
-    "monthly_est": 62987,
+    "monthly_low": 63923,
+    "monthly_est": 63923,
     "gift_once": 3430
    },
-   "avg_member_chatters": 47.3,
+   "avg_member_chatters": 47.2,
    "partial": true,
    "finalized": false
   }

@@ -864,12 +864,12 @@
   "QwucLdnprXU": {
    "id": "QwucLdnprXU",
    "title": "【 #DistrictV2 】 #8 Adopting....?【 NIJISANJI | Derem Kado 】",
-   "status": "error",
+   "status": "skip_not_stream",
    "seen_live_at": "2026-11-11 10:56",
    "was_public_when_live": true,
-   "error": "ERROR: [youtube] Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://githu",
    "unavailable": true,
-   "failed_since_ts": 1794452965.0234334
+   "note": "非公開・削除 (2026-11-16 に確認)",
+   "checked_at": "2026-11-16 05:28"
   },
   "jPmOQrAeh-g": {
    "id": "jPmOQrAeh-g",
@@ -931,17 +931,31 @@
   "iWiXwE6z1oo": {
    "id": "iWiXwE6z1oo",
    "title": "【 #DistrictV2 】 #12 It's time to move【 NIJISANJI | Derem Kado 】",
-   "status": "live_now",
+   "kind": "video",
+   "start_ts": 1794582000.0,
+   "start_jst": "2026-11-14 00:00",
+   "duration_sec": null,
+   "view_count": 3769,
+   "like_count": 224,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": false,
+   "checked_at": "2026-11-16 05:28",
+   "info_limited": true,
    "seen_live_at": "2026-11-15 10:53",
-   "was_public_when_live": true
+   "was_public_when_live": true,
+   "error": "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)",
+   "tab": "live",
+   "status": "error",
+   "failed_since_ts": 1794774514.8495636
   }
  },
  "channel": "Derem Kado  - にじさんじ / NIJISANJI",
  "channel_id": "UCMzVa7B8UEdrvUGsPmSgyjA",
  "handle": "@DeremKado",
  "subscribers": 48500,
- "fetched_at": "2026-11-15 10:53",
- "fetched_at_ts": 1794707623.2117825,
- "checked_from": "2026-11-08 10:53",
+ "fetched_at": "2026-11-16 05:28",
+ "fetched_at_ts": 1794774514.8495636,
+ "checked_from": "2026-11-09 05:28",
  "initial_fetch_done": true
 }

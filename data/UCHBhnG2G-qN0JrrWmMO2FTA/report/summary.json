@@ -3,26 +3,26 @@
  "channel_id": "UCHBhnG2G-qN0JrrWmMO2FTA",
  "handle": "@ShellinBurgundy",
  "subscribers": 408000,
- "fetched_at": "2026-11-15 05:25",
- "generated_at": "2026-11-15 05:25",
+ "fetched_at": "2026-11-16 05:23",
+ "generated_at": "2026-11-16 05:23",
  "period": {
-  "from": "2026-10-16 05:25",
-  "to": "2026-11-15 05:25",
+  "from": "2026-10-17 05:23",
+  "to": "2026-11-16 05:23",
   "days": 30
  },
- "streams_analyzed": 13,
+ "streams_analyzed": 14,
  "streams_missed": 0,
- "unique_chatters": 1011,
- "members_confirmed": 308,
+ "unique_chatters": 1039,
+ "members_confirmed": 311,
  "member_classes": {
-  "unknown": 301,
+  "unknown": 304,
   "known": 7
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 8
+   "members": 7
   },
   {
    "months": 1,
@@ -42,12 +42,12 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 42
+   "members": 44
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 210
+   "members": 212
   }
  ],
  "events": {
@@ -66,19 +66,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 7,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 301.0,
-   "estimated_members": 308.0,
+   "allocated_unknown": 304.0,
+   "estimated_members": 311.0,
    "monthly_net_confirmed": 2183,
-   "monthly_net_estimated": 96040
+   "monthly_net_estimated": 96975
   }
  ],
  "revenue": {
-  "monthly_low": 96040,
-  "monthly_est": 96040,
+  "monthly_low": 96975,
+  "monthly_est": 96975,
   "gift_once": 0,
-  "total_low": 96040,
-  "total_est": 96040,
-  "paying_members": 308,
+  "total_low": 96975,
+  "total_est": 96975,
+  "paying_members": 311,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -215,6 +215,16 @@
    "chatters": 208,
    "member_chatters": 102,
    "new_members": 1,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "lw0P86gIYiU",
+   "start": "2026-11-15 16:57",
+   "title": "【リッジレーサーV】デュエルカー解禁【シェリン/にじさんじ】",
+   "kind": "配信",
+   "chatters": 213,
+   "member_chatters": 100,
+   "new_members": 0,
    "gifted_total": 0
   }
  ],
@@ -355,17 +365,17 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-15"
+    "to": "2026-11-16"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 6,
    "streams_missed": 0,
-   "unique_chatters": 557,
-   "members_confirmed": 215,
+   "unique_chatters": 597,
+   "members_confirmed": 227,
    "member_classes": {
     "known": 4,
-    "unknown": 211
+    "unknown": 223
    },
-   "long_term_members": 177,
+   "long_term_members": 187,
    "badges": [
     {
      "months": 0,
@@ -377,19 +387,19 @@
     },
     {
      "months": 2,
-     "members": 6
+     "members": 7
     },
     {
      "months": 6,
-     "members": 26
+     "members": 27
     },
     {
      "months": 12,
-     "members": 31
+     "members": 35
     },
     {
      "months": 24,
-     "members": 146
+     "members": 152
     }
    ],
    "events": {
@@ -403,15 +413,15 @@
      "tier": "調査員",
      "price": 490,
      "confirmed_members": 4,
-     "estimated_members": 215.0
+     "estimated_members": 227.0
     }
    ],
    "revenue": {
-    "monthly_low": 67041,
-    "monthly_est": 67041,
+    "monthly_low": 70783,
+    "monthly_est": 70783,
     "gift_once": 0
    },
-   "avg_member_chatters": 119.2,
+   "avg_member_chatters": 116,
    "partial": true,
    "finalized": false
   }

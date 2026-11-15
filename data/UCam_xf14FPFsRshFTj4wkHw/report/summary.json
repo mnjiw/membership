@@ -3,26 +3,26 @@
  "channel_id": "UCam_xf14FPFsRshFTj4wkHw",
  "handle": "@ShirasaAyane",
  "subscribers": 144000,
- "fetched_at": "2026-11-15 05:37",
- "generated_at": "2026-11-15 05:37",
+ "fetched_at": "2026-11-16 05:37",
+ "generated_at": "2026-11-16 05:37",
  "period": {
-  "from": "2026-10-16 05:37",
-  "to": "2026-11-15 05:37",
+  "from": "2026-10-17 05:37",
+  "to": "2026-11-16 05:37",
   "days": 30
  },
- "streams_analyzed": 20,
- "streams_missed": 1,
- "unique_chatters": 3376,
- "members_confirmed": 318,
+ "streams_analyzed": 19,
+ "streams_missed": 2,
+ "unique_chatters": 3328,
+ "members_confirmed": 312,
  "member_classes": {
-  "known": 22,
-  "unknown": 296
+  "unknown": 290,
+  "known": 22
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 23
+   "members": 22
   },
   {
    "months": 1,
@@ -32,12 +32,12 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 65
+   "members": 63
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 211
+   "members": 208
   }
  ],
  "events": {
@@ -56,19 +56,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 22,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 296.0,
-   "estimated_members": 318.0,
+   "allocated_unknown": 290.0,
+   "estimated_members": 312.0,
    "monthly_net_confirmed": 6860,
-   "monthly_net_estimated": 99158
+   "monthly_net_estimated": 97287
   }
  ],
  "revenue": {
-  "monthly_low": 99158,
-  "monthly_est": 99158,
+  "monthly_low": 97287,
+  "monthly_est": 97287,
   "gift_once": 0,
-  "total_low": 99158,
-  "total_est": 99158,
-  "paying_members": 318,
+  "total_low": 97287,
+  "total_est": 97287,
+  "paying_members": 312,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -77,16 +77,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "bt9x9Zo76M4",
-   "start": "2026-10-16 07:00",
-   "title": "【朝雑談】おはようみゃみー！ 2026/10/16 #33【白砂あやね / 水面まどか / にじさんじ】",
-   "kind": "配信",
-   "chatters": 234,
-   "member_chatters": 84,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "naA9AkJ9OWM",
    "start": "2026-10-17 15:00",
@@ -290,6 +280,18 @@
    "members_level": "海月花学院美術部",
    "like_count": 82,
    "view_count": null
+  },
+  {
+   "video_id": "oZYpRoyW7aM",
+   "start": "2026-11-15 23:15",
+   "title": "【 メン限 】外の寒さには強いのに室内の寒さに弱いかもって最近気付いた【 白砂あやね / にじさんじ 】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "海月花学院美術部",
+   "like_count": 139,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -301,6 +303,16 @@
    "status": "members_only",
    "members_level": "海月花学院美術部",
    "like_count": 82,
+   "view_count": null
+  },
+  {
+   "video_id": "oZYpRoyW7aM",
+   "start": "2026-11-15 23:15",
+   "title": "【 メン限 】外の寒さには強いのに室内の寒さに弱いかもって最近気付いた【 白砂あやね / にじさんじ 】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "海月花学院美術部",
+   "like_count": 139,
    "view_count": null
   }
  ],
@@ -424,10 +436,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-15"
+    "to": "2026-11-16"
    },
    "streams_analyzed": 10,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 1678,
    "members_confirmed": 226,
    "member_classes": {

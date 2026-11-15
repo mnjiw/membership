@@ -3,19 +3,19 @@
  "channel_id": "UCGYAYLDE7TZiiC8U6teciDQ",
  "handle": "@HakaseFuyuki",
  "subscribers": 479000,
- "fetched_at": "2026-11-15 05:24",
- "generated_at": "2026-11-15 05:24",
+ "fetched_at": "2026-11-16 05:22",
+ "generated_at": "2026-11-16 05:22",
  "period": {
-  "from": "2026-10-16 05:24",
-  "to": "2026-11-15 05:24",
+  "from": "2026-10-17 05:22",
+  "to": "2026-11-16 05:22",
   "days": 30
  },
- "streams_analyzed": 14,
+ "streams_analyzed": 15,
  "streams_missed": 2,
- "unique_chatters": 1257,
- "members_confirmed": 383,
+ "unique_chatters": 1292,
+ "members_confirmed": 386,
  "member_classes": {
-  "unknown": 334,
+  "unknown": 337,
   "known": 49
  },
  "badges": [
@@ -32,12 +32,12 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 25
+   "members": 26
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 35
+   "members": 36
   },
   {
    "months": 12,
@@ -47,7 +47,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 260
+   "members": 261
   }
  ],
  "events": {
@@ -66,19 +66,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 49,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 334.0,
-   "estimated_members": 383.0,
+   "allocated_unknown": 337.0,
+   "estimated_members": 386.0,
    "monthly_net_confirmed": 15279,
-   "monthly_net_estimated": 119426
+   "monthly_net_estimated": 120362
   }
  ],
  "revenue": {
-  "monthly_low": 119426,
-  "monthly_est": 119426,
+  "monthly_low": 120362,
+  "monthly_est": 120362,
   "gift_once": 0,
-  "total_low": 119426,
-  "total_est": 119426,
-  "paying_members": 383,
+  "total_low": 120362,
+  "total_est": 120362,
+  "paying_members": 386,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -226,6 +226,16 @@
    "member_chatters": 95,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "ksn_FGLHV-E",
+   "start": "2026-11-16 00:01",
+   "title": "【Japanese Ramen Simulator】せっかくなので夏と秋のポスターも作るよ【にじさんじ / 葉加瀬冬雪】",
+   "kind": "配信",
+   "chatters": 201,
+   "member_chatters": 95,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -250,7 +260,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "葉加瀬のラボメン",
-   "like_count": 259,
+   "like_count": 260,
    "view_count": null
   }
  ],
@@ -272,7 +282,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "葉加瀬のラボメン",
-   "like_count": 259,
+   "like_count": 260,
    "view_count": null
   }
  ],
@@ -411,17 +421,17 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-15"
+    "to": "2026-11-16"
    },
-   "streams_analyzed": 6,
+   "streams_analyzed": 7,
    "streams_missed": 0,
-   "unique_chatters": 734,
-   "members_confirmed": 285,
+   "unique_chatters": 791,
+   "members_confirmed": 291,
    "member_classes": {
-    "unknown": 259,
+    "unknown": 265,
     "known": 26
    },
-   "long_term_members": 228,
+   "long_term_members": 232,
    "badges": [
     {
      "months": 0,
@@ -433,11 +443,11 @@
     },
     {
      "months": 2,
-     "members": 18
+     "members": 19
     },
     {
      "months": 6,
-     "members": 27
+     "members": 28
     },
     {
      "months": 12,
@@ -445,7 +455,7 @@
     },
     {
      "months": 24,
-     "members": 201
+     "members": 205
     }
    ],
    "events": {
@@ -459,15 +469,15 @@
      "tier": "葉加瀬のラボメン",
      "price": 490,
      "confirmed_members": 26,
-     "estimated_members": 285.0
+     "estimated_members": 291.0
     }
    ],
    "revenue": {
-    "monthly_low": 88868,
-    "monthly_est": 88868,
+    "monthly_low": 90739,
+    "monthly_est": 90739,
     "gift_once": 0
    },
-   "avg_member_chatters": 116.7,
+   "avg_member_chatters": 113.6,
    "partial": true,
    "finalized": false
   }

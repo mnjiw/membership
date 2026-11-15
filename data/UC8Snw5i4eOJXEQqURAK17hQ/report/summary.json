@@ -3,27 +3,27 @@
  "channel_id": "UC8Snw5i4eOJXEQqURAK17hQ",
  "handle": "@RaiGalilei",
  "subscribers": 57900,
- "fetched_at": "2026-11-15 10:53",
- "generated_at": "2026-11-15 10:53",
+ "fetched_at": "2026-11-16 05:28",
+ "generated_at": "2026-11-16 05:28",
  "period": {
-  "from": "2026-10-16 10:53",
-  "to": "2026-11-15 10:53",
+  "from": "2026-10-17 05:28",
+  "to": "2026-11-16 05:28",
   "days": 30
  },
  "streams_analyzed": 29,
- "streams_missed": 0,
- "unique_chatters": 293,
- "members_confirmed": 89,
+ "streams_missed": 1,
+ "unique_chatters": 286,
+ "members_confirmed": 84,
  "member_classes": {
   "unknown": 8,
   "known": 5,
-  "gift": 76
+  "gift": 71
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 69
+   "members": 64
   },
   {
    "months": 1,
@@ -55,9 +55,9 @@
   "new_members": 0,
   "rejoins": 2,
   "milestones": 1,
-  "gift_purchases": 15,
-  "gifted_total": 76,
-  "gift_redemptions": 76
+  "gift_purchases": 14,
+  "gifted_total": 71,
+  "gift_redemptions": 71
  },
  "tiers_configured": true,
  "tiers": [
@@ -76,9 +76,9 @@
  "revenue": {
   "monthly_low": 4054,
   "monthly_est": 4054,
-  "gift_once": 23698,
-  "total_low": 27752,
-  "total_est": 27752,
+  "gift_once": 22139,
+  "total_low": 26193,
+  "total_est": 26193,
   "paying_members": 13,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "a7UdHovyId4",
-   "start": "2026-10-17 00:32",
-   "title": "【Valheim】 Rai Galilei's: \"Spookidooki zombie skeletons\"【NIJISANJI】",
-   "kind": "配信",
-   "chatters": 44,
-   "member_chatters": 10,
-   "new_members": 0,
-   "gifted_total": 5
-  },
   {
    "video_id": "L5L4o-2yNnU",
    "start": "2026-10-19 22:17",
@@ -377,9 +367,32 @@
    "member_chatters": 6,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "zVWf8MAT3CI",
+   "start": "2026-11-15 09:20",
+   "title": "【GTAV #DistrictV2】 OZ/Lou: \"The magic within our hearts\" #12【NIJISANJI】",
+   "kind": "配信",
+   "chatters": 31,
+   "member_chatters": 4,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "nAqiQ2ZlRAw",
+   "start": "2026-11-15 00:00",
+   "title": "【GTAV #DistrictV2】 OZ: \"What an amazing deal\" (2) #12【NIJISANJI】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 77,
+   "view_count": 704
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -518,11 +531,11 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-15"
+    "to": "2026-11-16"
    },
-   "streams_analyzed": 16,
-   "streams_missed": 0,
-   "unique_chatters": 161,
+   "streams_analyzed": 17,
+   "streams_missed": 1,
+   "unique_chatters": 163,
    "members_confirmed": 33,
    "member_classes": {
     "unknown": 11,
@@ -571,7 +584,7 @@
     "monthly_est": 4054,
     "gift_once": 6236
    },
-   "avg_member_chatters": 7.4,
+   "avg_member_chatters": 7.2,
    "partial": true,
    "finalized": false
   }

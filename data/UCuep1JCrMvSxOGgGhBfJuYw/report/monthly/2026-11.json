@@ -2,21 +2,22 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-15"
+  "to": "2026-11-16"
  },
- "streams_analyzed": 9,
+ "streams_analyzed": 10,
  "streams_missed": 0,
- "unique_chatters": 2925,
- "members_confirmed": 758,
+ "unique_chatters": 3721,
+ "members_confirmed": 801,
  "member_classes": {
-  "unknown": 738,
-  "known": 20
+  "unknown": 776,
+  "known": 20,
+  "gift": 5
  },
- "long_term_members": 599,
+ "long_term_members": 632,
  "badges": [
   {
    "months": 0,
-   "members": 17
+   "members": 23
   },
   {
    "months": 1,
@@ -24,49 +25,49 @@
   },
   {
    "months": 2,
-   "members": 67
+   "members": 70
   },
   {
    "months": 6,
-   "members": 60
+   "members": 61
   },
   {
    "months": 12,
-   "members": 90
+   "members": 99
   },
   {
    "months": 24,
-   "members": 125
+   "members": 129
   },
   {
    "months": 36,
-   "members": 102
+   "members": 105
   },
   {
    "months": 48,
-   "members": 282
+   "members": 299
   }
  ],
  "events": {
   "new_members": 5,
   "rejoins": 6,
   "milestones": 0,
-  "gifted_total": 0
+  "gifted_total": 5
  },
  "tiers": [
   {
    "tier": "フレン親衛隊",
    "price": 490,
    "confirmed_members": 20,
-   "estimated_members": 758.0
+   "estimated_members": 796.0
   }
  ],
  "revenue": {
-  "monthly_low": 236358,
-  "monthly_est": 236358,
-  "gift_once": 0
+  "monthly_low": 248207,
+  "monthly_est": 248207,
+  "gift_once": 1559
  },
- "avg_member_chatters": 312.6,
+ "avg_member_chatters": 318.2,
  "partial": true,
  "finalized": false
 }

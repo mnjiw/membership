@@ -2,12 +2,12 @@
  "channel": "鏑木ろこ / Kaburaki Roco【にじさんじ】",
  "channel_id": "UClrQ7xhRBxS_v_-WuudGKmA",
  "handle": "@KaburakiRoco",
- "subscribers": 260000,
- "fetched_at": "2026-11-15 05:31",
- "generated_at": "2026-11-15 05:33",
+ "subscribers": 261000,
+ "fetched_at": "2026-11-16 05:29",
+ "generated_at": "2026-11-16 05:29",
  "period": {
-  "from": "2026-10-16 05:31",
-  "to": "2026-11-15 05:31",
+  "from": "2026-10-17 05:29",
+  "to": "2026-11-16 05:29",
   "days": 30
  },
  "streams_analyzed": 21,
@@ -306,18 +306,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "WQagPn5ITsE",
-   "start": "2026-10-16 20:10",
-   "title": "ﾀｽｹﾃｪ~【 メンバー限定 】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 203,
-   "view_count": null
-  },
-  {
    "video_id": "eQaWxAhuFxg",
    "start": "2026-10-17 23:02",
    "title": "【 メン限同時視聴 】親愛なる八本脚の友だち",
@@ -350,7 +338,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 80,
+   "like_count": 81,
    "view_count": null
   },
   {
@@ -362,22 +350,24 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 145,
+   "like_count": 148,
+   "view_count": null
+  },
+  {
+   "video_id": "4sh_f9v5-7g",
+   "start": "2026-11-16 00:16",
+   "title": "【 メン限同時視聴 】マインクラフト ザ・ムービー",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 57,
    "view_count": null
   }
  ],
  "members_only_content": [
   {
-   "video_id": "WQagPn5ITsE",
-   "start": "2026-10-16 20:10",
-   "title": "ﾀｽｹﾃｪ~【 メンバー限定 】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 203,
-   "view_count": null
-  },
-  {
    "video_id": "eQaWxAhuFxg",
    "start": "2026-10-17 23:02",
    "title": "【 メン限同時視聴 】親愛なる八本脚の友だち",
@@ -404,7 +394,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 80,
+   "like_count": 81,
    "view_count": null
   },
   {
@@ -414,7 +404,17 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 145,
+   "like_count": 148,
+   "view_count": null
+  },
+  {
+   "video_id": "4sh_f9v5-7g",
+   "start": "2026-11-16 00:16",
+   "title": "【 メン限同時視聴 】マインクラフト ザ・ムービー",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 57,
    "view_count": null
   }
  ],
@@ -563,10 +563,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-15"
+    "to": "2026-11-16"
    },
    "streams_analyzed": 13,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 2476,
    "members_confirmed": 529,
    "member_classes": {

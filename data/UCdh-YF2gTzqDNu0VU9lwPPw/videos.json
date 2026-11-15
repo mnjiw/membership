@@ -903,8 +903,8 @@
    "info_limited": true,
    "settled_while_limited": true,
    "status": "no_chat",
-   "rechecked_ts": 1794170616.2757366,
-   "rechecked_at": "2026-11-09 05:43"
+   "rechecked_ts": 1794775350.7547135,
+   "rechecked_at": "2026-11-16 05:42"
   },
   "G7WtF-At5mU": {
    "id": "G7WtF-At5mU",
@@ -957,8 +957,8 @@
    "checked_at": "2026-10-25 05:40",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1794688900.7861698,
-   "likes_checked_at": "2026-11-15 05:41"
+   "likes_checked_ts": 1794775350.7547135,
+   "likes_checked_at": "2026-11-16 05:42"
   },
   "XslQrwbuvK0": {
    "id": "XslQrwbuvK0",
@@ -1158,29 +1158,27 @@
   "DlYR4IvY33s": {
    "id": "DlYR4IvY33s",
    "title": "【DEADLOCK】need 2 numb da brain for a lil",
-   "kind": "video",
-   "start_ts": 1794582000.0,
-   "start_jst": "2026-11-14 00:00",
-   "duration_sec": null,
-   "view_count": 3000,
-   "like_count": 250,
+   "kind": "live",
+   "start_ts": 1794691100.400944,
+   "start_jst": "2026-11-15 06:18",
+   "duration_sec": 16503,
+   "view_count": 5681,
+   "like_count": 282,
    "live_status": null,
    "members_only": false,
-   "has_chat": false,
-   "checked_at": "2026-11-15 10:55",
+   "has_chat": true,
+   "checked_at": "2026-11-16 05:42",
    "info_limited": true,
-   "error": "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)",
-   "tab": "live",
-   "status": "error",
-   "failed_since_ts": 1794707705.324195
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "Claude Clawmark 【NIJISANJI EN】",
  "channel_id": "UCdh-YF2gTzqDNu0VU9lwPPw",
  "handle": "@ClaudeClawmark",
  "subscribers": 161000,
- "fetched_at": "2026-11-15 10:55",
- "fetched_at_ts": 1794707705.324195,
- "checked_from": "2026-11-08 10:55",
+ "fetched_at": "2026-11-16 05:42",
+ "fetched_at_ts": 1794775350.7547135,
+ "checked_from": "2026-11-09 05:42",
  "initial_fetch_done": true
 }

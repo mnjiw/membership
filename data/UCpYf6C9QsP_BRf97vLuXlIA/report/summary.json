@@ -3,52 +3,52 @@
  "channel_id": "UCpYf6C9QsP_BRf97vLuXlIA",
  "handle": "@VantacrowBringer",
  "subscribers": 312000,
- "fetched_at": "2026-11-15 05:41",
- "generated_at": "2026-11-15 05:42",
+ "fetched_at": "2026-11-16 05:41",
+ "generated_at": "2026-11-16 05:42",
  "period": {
-  "from": "2026-10-16 05:41",
-  "to": "2026-11-15 05:41",
+  "from": "2026-10-17 05:41",
+  "to": "2026-11-16 05:41",
   "days": 30
  },
  "streams_analyzed": 37,
  "streams_missed": 2,
- "unique_chatters": 3752,
- "members_confirmed": 942,
+ "unique_chatters": 3793,
+ "members_confirmed": 1048,
  "member_classes": {
-  "known": 331,
-  "unknown": 316,
-  "gift": 295
+  "unknown": 318,
+  "known": 332,
+  "gift": 398
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 327
+   "members": 427
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 49
+   "members": 50
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 122
+   "members": 123
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 104
+   "members": 103
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 137
+   "members": 139
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 105
+   "members": 108
   },
   {
    "months": 36,
@@ -59,10 +59,10 @@
  "events": {
   "new_members": 30,
   "rejoins": 34,
-  "milestones": 198,
-  "gift_purchases": 114,
-  "gifted_total": 300,
-  "gift_redemptions": 298
+  "milestones": 195,
+  "gift_purchases": 119,
+  "gifted_total": 403,
+  "gift_redemptions": 401
  },
  "tiers_configured": true,
  "tiers": [
@@ -71,31 +71,31 @@
    "price": 690,
    "net_per_member": 439.1,
    "confirmed_members": 197,
-   "share_of_confirmed_pct": 59.5,
-   "allocated_unknown": 188.1,
-   "estimated_members": 385.1,
+   "share_of_confirmed_pct": 59.3,
+   "allocated_unknown": 188.7,
+   "estimated_members": 385.7,
    "monthly_net_confirmed": 86501,
-   "monthly_net_estimated": 169082
+   "monthly_net_estimated": 169354
   },
   {
    "tier": "Vantacrew Archives",
    "price": 1090,
    "net_per_member": 693.6,
-   "confirmed_members": 134,
-   "share_of_confirmed_pct": 40.5,
-   "allocated_unknown": 127.9,
-   "estimated_members": 261.9,
-   "monthly_net_confirmed": 92947,
-   "monthly_net_estimated": 181682
+   "confirmed_members": 135,
+   "share_of_confirmed_pct": 40.7,
+   "allocated_unknown": 129.3,
+   "estimated_members": 264.3,
+   "monthly_net_confirmed": 93641,
+   "monthly_net_estimated": 183333
   }
  ],
  "revenue": {
-  "monthly_low": 318201,
-  "monthly_est": 350764,
-  "gift_once": 131727,
-  "total_low": 449928,
-  "total_est": 482492,
-  "paying_members": 647,
+  "monthly_low": 319773,
+  "monthly_est": 352687,
+  "gift_once": 176954,
+  "total_low": 496726,
+  "total_est": 529641,
+  "paying_members": 650,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -104,16 +104,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "KS95pmqunAQ",
-   "start": "2026-10-16 12:09",
-   "title": "Only Seeing Red【SILENT HILL: TOWNFALL Part 2】",
-   "kind": "配信",
-   "chatters": 201,
-   "member_chatters": 86,
-   "new_members": 1,
-   "gifted_total": 2
-  },
   {
    "video_id": "RK2XAFucQFo",
    "start": "2026-10-18 12:00",
@@ -473,6 +463,16 @@
    "member_chatters": 151,
    "new_members": 1,
    "gifted_total": 3
+  },
+  {
+   "video_id": "ZSJh5ozdiWY",
+   "start": "2026-11-15 11:19",
+   "title": "THE FINALE: Danger, Deliveries, & Romance?【#DISTRICTV2】",
+   "kind": "配信",
+   "chatters": 459,
+   "member_chatters": 241,
+   "new_members": 1,
+   "gifted_total": 105
   }
  ],
  "missed_streams": [
@@ -519,7 +519,7 @@
    "kind": "video",
    "status": "members_only_video",
    "members_level": "",
-   "like_count": 139,
+   "like_count": 140,
    "view_count": null
   },
   {
@@ -720,30 +720,30 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-15"
+    "to": "2026-11-16"
    },
-   "streams_analyzed": 18,
+   "streams_analyzed": 19,
    "streams_missed": 1,
-   "unique_chatters": 2229,
-   "members_confirmed": 641,
+   "unique_chatters": 2322,
+   "members_confirmed": 753,
    "member_classes": {
-    "known": 259,
-    "unknown": 218,
-    "gift": 164
+    "known": 262,
+    "unknown": 222,
+    "gift": 269
    },
-   "long_term_members": 261,
+   "long_term_members": 266,
    "badges": [
     {
      "months": 0,
-     "members": 194
+     "members": 298
     },
     {
      "months": 1,
-     "members": 31
+     "members": 32
     },
     {
      "months": 2,
-     "members": 82
+     "members": 84
     },
     {
      "months": 6,
@@ -751,11 +751,11 @@
     },
     {
      "months": 12,
-     "members": 96
+     "members": 98
     },
     {
      "months": 24,
-     "members": 90
+     "members": 93
     },
     {
      "months": 36,
@@ -763,31 +763,31 @@
     }
    ],
    "events": {
-    "new_members": 15,
+    "new_members": 16,
     "rejoins": 12,
-    "milestones": 99,
-    "gifted_total": 166
+    "milestones": 101,
+    "gifted_total": 271
    },
    "tiers": [
     {
      "tier": "Vantacrew",
      "price": 690,
-     "confirmed_members": 146,
-     "estimated_members": 268.9
+     "confirmed_members": 148,
+     "estimated_members": 273.4
     },
     {
      "tier": "Vantacrew Archives",
      "price": 1090,
-     "confirmed_members": 113,
-     "estimated_members": 208.1
+     "confirmed_members": 114,
+     "estimated_members": 210.6
     }
    ],
    "revenue": {
-    "monthly_low": 238210,
-    "monthly_est": 262420,
-    "gift_once": 72889
+    "monthly_low": 241538,
+    "monthly_est": 266126,
+    "gift_once": 118994
    },
-   "avg_member_chatters": 122.7,
+   "avg_member_chatters": 128.9,
    "partial": true,
    "finalized": false
   }
