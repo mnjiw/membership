@@ -3,37 +3,37 @@
  "channel_id": "UCK_lMxHpJFGCGz3gXJgaoQw",
  "handle": "@lumi_yukime",
  "subscribers": 27500,
- "fetched_at": "2026-11-15 10:58",
- "generated_at": "2026-11-15 10:58",
+ "fetched_at": "2026-11-16 06:41",
+ "generated_at": "2026-11-16 06:41",
  "period": {
-  "from": "2026-10-16 10:58",
-  "to": "2026-11-15 10:58",
+  "from": "2026-10-17 06:41",
+  "to": "2026-11-16 06:41",
   "days": 30
  },
  "streams_analyzed": 26,
- "streams_missed": 1,
- "unique_chatters": 647,
- "members_confirmed": 265,
+ "streams_missed": 2,
+ "unique_chatters": 642,
+ "members_confirmed": 253,
  "member_classes": {
-  "unknown": 54,
-  "known": 10,
-  "gift": 201
+  "unknown": 53,
+  "known": 9,
+  "gift": 191
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 160
+   "members": 151
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 20
+   "members": 18
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 43
+   "members": 42
   },
   {
    "months": 6,
@@ -55,9 +55,9 @@
   "new_members": 2,
   "rejoins": 0,
   "milestones": 2,
-  "gift_purchases": 21,
-  "gifted_total": 203,
-  "gift_redemptions": 201
+  "gift_purchases": 20,
+  "gifted_total": 193,
+  "gift_redemptions": 191
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +65,21 @@
    "tier": "ゆきめにめろめろ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 10,
+   "confirmed_members": 9,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 54.0,
-   "estimated_members": 64.0,
-   "monthly_net_confirmed": 3118,
-   "monthly_net_estimated": 19956
+   "allocated_unknown": 53.0,
+   "estimated_members": 62.0,
+   "monthly_net_confirmed": 2806,
+   "monthly_net_estimated": 19333
   }
  ],
  "revenue": {
-  "monthly_low": 19956,
-  "monthly_est": 19956,
-  "gift_once": 63299,
-  "total_low": 83255,
-  "total_est": 83255,
-  "paying_members": 64,
+  "monthly_low": 19333,
+  "monthly_est": 19333,
+  "gift_once": 60181,
+  "total_low": 79514,
+  "total_est": 79514,
+  "paying_members": 62,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "hqanu3JJE0Q",
-   "start": "2026-10-16 18:48",
-   "title": "*❅ GTA5 #SURGECity┊街1番のギャングに。DAY8〖 雪芽るみ┊すぺしゃりて 〗",
-   "kind": "配信",
-   "chatters": 46,
-   "member_chatters": 28,
-   "new_members": 0,
-   "gifted_total": 10
-  },
   {
    "video_id": "6vzocrjUZpU",
    "start": "2026-10-17 18:52",
@@ -347,6 +337,16 @@
    "member_chatters": 15,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "gUMl8arm0Gc",
+   "start": "2026-11-15 19:46",
+   "title": "*❅ GTA5 #ガチグラ2┊大型いきたい。DAY8〖 雪芽るみ┊すぺしゃりて 〗",
+   "kind": "配信",
+   "chatters": 43,
+   "member_chatters": 14,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -361,6 +361,18 @@
    "members_level": "",
    "like_count": 30,
    "view_count": null
+  },
+  {
+   "video_id": "1kUz5zRWH6k",
+   "start": "2026-11-15 00:00",
+   "title": "【#SURGETOWN】初日のひよっこ警察官、あまりにもお手本すぎる不審者に遭遇してしまう【切り抜き/雪芽るみ/GTA5】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 62,
+   "view_count": 1768
   }
  ],
  "members_only_content": [
@@ -511,18 +523,18 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-15"
+    "to": "2026-11-16"
    },
-   "streams_analyzed": 13,
-   "streams_missed": 0,
-   "unique_chatters": 300,
-   "members_confirmed": 82,
+   "streams_analyzed": 14,
+   "streams_missed": 1,
+   "unique_chatters": 310,
+   "members_confirmed": 84,
    "member_classes": {
     "known": 7,
-    "unknown": 64,
+    "unknown": 66,
     "gift": 11
    },
-   "long_term_members": 22,
+   "long_term_members": 23,
    "badges": [
     {
      "months": 0,
@@ -538,11 +550,11 @@
     },
     {
      "months": 6,
-     "members": 8
+     "members": 9
     },
     {
      "months": 12,
-     "members": 10
+     "members": 11
     },
     {
      "months": 24,
@@ -560,15 +572,15 @@
      "tier": "ゆきめにめろめろ",
      "price": 490,
      "confirmed_members": 7,
-     "estimated_members": 71.0
+     "estimated_members": 73.0
     }
    ],
    "revenue": {
-    "monthly_low": 22139,
-    "monthly_est": 22139,
+    "monthly_low": 22763,
+    "monthly_est": 22763,
     "gift_once": 3430
    },
-   "avg_member_chatters": 20.9,
+   "avg_member_chatters": 20.4,
    "partial": true,
    "finalized": false
   }

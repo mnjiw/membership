@@ -2,20 +2,20 @@
  "channel": "渋谷ハル",
  "channel_id": "UChLfthKoUV502J7gU9STArg",
  "handle": "@ShibuyaHAL",
- "subscribers": 902000,
- "fetched_at": "2026-11-15 10:58",
- "generated_at": "2026-11-15 10:58",
+ "subscribers": 901000,
+ "fetched_at": "2026-11-16 06:42",
+ "generated_at": "2026-11-16 06:43",
  "period": {
-  "from": "2026-10-16 10:58",
-  "to": "2026-11-15 10:58",
+  "from": "2026-10-17 06:42",
+  "to": "2026-11-16 06:42",
   "days": 30
  },
- "streams_analyzed": 30,
- "streams_missed": 3,
- "unique_chatters": 1959,
- "members_confirmed": 255,
+ "streams_analyzed": 29,
+ "streams_missed": 2,
+ "unique_chatters": 1903,
+ "members_confirmed": 254,
  "member_classes": {
-  "unknown": 229,
+  "unknown": 228,
   "known": 6,
   "gift": 20
  },
@@ -48,7 +48,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 45
+   "members": 44
   },
   {
    "months": 36,
@@ -63,7 +63,7 @@
  ],
  "events": {
   "new_members": 1,
-  "rejoins": 1,
+  "rejoins": 0,
   "milestones": 0,
   "gift_purchases": 1,
   "gifted_total": 20,
@@ -77,10 +77,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 5,
    "share_of_confirmed_pct": 83.3,
-   "allocated_unknown": 190.8,
-   "estimated_members": 195.8,
+   "allocated_unknown": 190.0,
+   "estimated_members": 195.0,
    "monthly_net_confirmed": 1559,
-   "monthly_net_estimated": 61064
+   "monthly_net_estimated": 60805
   },
   {
    "tier": "バイトリーダー",
@@ -88,10 +88,10 @@
    "net_per_member": 757.3,
    "confirmed_members": 1,
    "share_of_confirmed_pct": 16.7,
-   "allocated_unknown": 38.2,
-   "estimated_members": 39.2,
+   "allocated_unknown": 38.0,
+   "estimated_members": 39.0,
    "monthly_net_confirmed": 757,
-   "monthly_net_estimated": 29660
+   "monthly_net_estimated": 29534
   },
   {
    "tier": "店長",
@@ -117,12 +117,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 73723,
-  "monthly_est": 90724,
+  "monthly_low": 73411,
+  "monthly_est": 90338,
   "gift_once": 6236,
-  "total_low": 79959,
-  "total_est": 96961,
-  "paying_members": 235,
+  "total_low": 79647,
+  "total_est": 96575,
+  "paying_members": 234,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -131,16 +131,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "OXh1ZjvADvg",
-   "start": "2026-10-16 17:21",
-   "title": "【風来のシレン6】お前らで最強の風来人を作ってくれないか？ #2",
-   "kind": "配信",
-   "chatters": 225,
-   "member_chatters": 51,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "z0otHEoOSaQ",
    "start": "2026-10-17 17:22",
@@ -434,18 +424,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "XFyjPd2b_ts",
-   "start": "2026-11-12 00:00",
-   "title": "【APEX LEGENDS】APEXのバグが発生し、困惑している一ノ瀬うるはに対して声をかけるも辛辣な返答をされる渋ハル【渋谷ハル/白雪レイド/一ノ瀬うるは/ぶいすぽっ！/ネオポルテ/切り抜き】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 305,
-   "view_count": 41649
-  },
-  {
    "video_id": "uagcsxC2yH8",
    "start": "2026-11-13 00:00",
    "title": "【クロスタTCG】弊社式転売対策に疑問を持ちつつも、神引きを連発する渋ハル【渋谷ハル/ネオポルテ/切り抜き】",
@@ -454,8 +432,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 372,
-   "view_count": 58060
+   "like_count": 411,
+   "view_count": 66110
   },
   {
    "video_id": "llGC6oXGIaw",
@@ -466,8 +444,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 322,
-   "view_count": 36808
+   "like_count": 381,
+   "view_count": 46809
   }
  ],
  "members_only_content": [],
@@ -627,10 +605,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-15"
+    "to": "2026-11-16"
    },
    "streams_analyzed": 15,
-   "streams_missed": 3,
+   "streams_missed": 2,
    "unique_chatters": 1328,
    "members_confirmed": 201,
    "member_classes": {

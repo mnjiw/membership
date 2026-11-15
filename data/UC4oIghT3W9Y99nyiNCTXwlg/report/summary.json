@@ -3,46 +3,46 @@
  "channel_id": "UC4oIghT3W9Y99nyiNCTXwlg",
  "handle": "@Azri_0822",
  "subscribers": 14500,
- "fetched_at": "2026-11-15 06:39",
- "generated_at": "2026-11-15 06:40",
+ "fetched_at": "2026-11-16 06:36",
+ "generated_at": "2026-11-16 06:37",
  "period": {
-  "from": "2026-10-16 06:39",
-  "to": "2026-11-15 06:39",
+  "from": "2026-10-17 06:36",
+  "to": "2026-11-16 06:36",
   "days": 30
  },
  "streams_analyzed": 17,
  "streams_missed": 1,
- "unique_chatters": 542,
- "members_confirmed": 205,
+ "unique_chatters": 525,
+ "members_confirmed": 198,
  "member_classes": {
-  "unknown": 173,
-  "known": 16,
-  "gift": 16
+  "unknown": 164,
+  "known": 15,
+  "gift": 19
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 24
+   "members": 21
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 18
+   "members": 21
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 163
+   "members": 156
   }
  ],
  "events": {
   "new_members": 3,
   "rejoins": 0,
-  "milestones": 6,
-  "gift_purchases": 9,
-  "gifted_total": 17,
-  "gift_redemptions": 17
+  "milestones": 3,
+  "gift_purchases": 12,
+  "gifted_total": 20,
+  "gift_redemptions": 20
  },
  "tiers_configured": true,
  "tiers": [
@@ -50,21 +50,21 @@
    "tier": "あずりのえでん",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 16,
+   "confirmed_members": 15,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 173.0,
-   "estimated_members": 189.0,
-   "monthly_net_confirmed": 4989,
-   "monthly_net_estimated": 58934
+   "allocated_unknown": 164.0,
+   "estimated_members": 179.0,
+   "monthly_net_confirmed": 4677,
+   "monthly_net_estimated": 55815
   }
  ],
  "revenue": {
-  "monthly_low": 58934,
-  "monthly_est": 58934,
-  "gift_once": 5301,
-  "total_low": 64235,
-  "total_est": 64235,
-  "paying_members": 189,
+  "monthly_low": 55815,
+  "monthly_est": 55815,
+  "gift_once": 6236,
+  "total_low": 62052,
+  "total_est": 62052,
+  "paying_members": 179,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "UqQM1_7hCvY",
-   "start": "2026-10-16 11:57",
-   "title": "いま なにしてるの～【ななしいんく/アズリ】",
-   "kind": "配信",
-   "chatters": 134,
-   "member_chatters": 73,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "Y6DErNQufm4",
    "start": "2026-10-19 21:59",
@@ -242,6 +232,16 @@
    "member_chatters": 59,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "L8IhzQyKDpE",
+   "start": "2026-11-15 21:58",
+   "title": "ふんわりお天使とおはなし【ななしいんく/アズリ】",
+   "kind": "配信",
+   "chatters": 150,
+   "member_chatters": 96,
+   "new_members": 0,
+   "gifted_total": 3
   }
  ],
  "missed_streams": [
@@ -372,52 +372,52 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-15"
+    "to": "2026-11-16"
    },
-   "streams_analyzed": 8,
+   "streams_analyzed": 9,
    "streams_missed": 0,
-   "unique_chatters": 335,
-   "members_confirmed": 152,
+   "unique_chatters": 377,
+   "members_confirmed": 166,
    "member_classes": {
-    "unknown": 130,
-    "known": 12,
-    "gift": 10
+    "unknown": 140,
+    "known": 13,
+    "gift": 13
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 17
+     "members": 19
     },
     {
      "months": 1,
-     "members": 12
+     "members": 16
     },
     {
      "months": 2,
-     "members": 123
+     "members": 131
     }
    ],
    "events": {
     "new_members": 2,
     "rejoins": 0,
     "milestones": 2,
-    "gifted_total": 11
+    "gifted_total": 14
    },
    "tiers": [
     {
      "tier": "あずりのえでん",
      "price": 490,
-     "confirmed_members": 12,
-     "estimated_members": 142.0
+     "confirmed_members": 13,
+     "estimated_members": 153.0
     }
    ],
    "revenue": {
-    "monthly_low": 44278,
-    "monthly_est": 44278,
-    "gift_once": 3430
+    "monthly_low": 47708,
+    "monthly_est": 47708,
+    "gift_once": 4365
    },
-   "avg_member_chatters": 71.9,
+   "avg_member_chatters": 74.6,
    "partial": true,
    "finalized": false
   }

@@ -3,76 +3,76 @@
  "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
  "handle": "@OuroKronii",
  "subscribers": 1170000,
- "fetched_at": "2026-11-15 06:36",
- "generated_at": "2026-11-15 06:36",
+ "fetched_at": "2026-11-16 06:33",
+ "generated_at": "2026-11-16 06:33",
  "period": {
-  "from": "2026-10-16 06:36",
-  "to": "2026-11-15 06:36",
+  "from": "2026-10-17 06:33",
+  "to": "2026-11-16 06:33",
   "days": 30
  },
- "streams_analyzed": 8,
+ "streams_analyzed": 7,
  "streams_missed": 0,
- "unique_chatters": 11484,
- "members_confirmed": 2045,
+ "unique_chatters": 11082,
+ "members_confirmed": 2001,
  "member_classes": {
-  "known": 572,
-  "unknown": 1280,
-  "gift": 193
+  "known": 563,
+  "unknown": 1254,
+  "gift": 184
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 235
+   "members": 226
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 37
+   "members": 36
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 150
+   "members": 149
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 214
+   "members": 205
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 369
+   "members": 366
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 237
+   "members": 232
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 177
+   "members": 175
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 248
+   "members": 243
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 378
+   "members": 369
   }
  ],
  "events": {
   "new_members": 8,
   "rejoins": 20,
-  "milestones": 392,
-  "gift_purchases": 64,
-  "gifted_total": 221,
-  "gift_redemptions": 193
+  "milestones": 380,
+  "gift_purchases": 55,
+  "gifted_total": 212,
+  "gift_redemptions": 184
  },
  "tiers_configured": true,
  "tiers": [
@@ -80,43 +80,43 @@
    "tier": "Second",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 547,
+   "confirmed_members": 538,
    "share_of_confirmed_pct": 95.6,
-   "allocated_unknown": 1224.1,
-   "estimated_members": 1771.1,
-   "monthly_net_confirmed": 240183,
-   "monthly_net_estimated": 777655
+   "allocated_unknown": 1198.3,
+   "estimated_members": 1736.3,
+   "monthly_net_confirmed": 236231,
+   "monthly_net_estimated": 762401
   },
   {
    "tier": "Minute",
    "price": 1290,
    "net_per_member": 820.9,
    "confirmed_members": 14,
-   "share_of_confirmed_pct": 2.4,
-   "allocated_unknown": 31.3,
-   "estimated_members": 45.3,
+   "share_of_confirmed_pct": 2.5,
+   "allocated_unknown": 31.2,
+   "estimated_members": 45.2,
    "monthly_net_confirmed": 11493,
-   "monthly_net_estimated": 37211
+   "monthly_net_estimated": 37091
   },
   {
    "tier": "Hour",
    "price": 3490,
    "net_per_member": 2220.9,
    "confirmed_members": 11,
-   "share_of_confirmed_pct": 1.9,
-   "allocated_unknown": 24.6,
-   "estimated_members": 35.6,
+   "share_of_confirmed_pct": 2.0,
+   "allocated_unknown": 24.5,
+   "estimated_members": 35.5,
    "monthly_net_confirmed": 24430,
-   "monthly_net_estimated": 79099
+   "monthly_net_estimated": 78844
   }
  ],
  "revenue": {
-  "monthly_low": 838142,
-  "monthly_est": 893964,
-  "gift_once": 97039,
-  "total_low": 935181,
-  "total_est": 991003,
-  "paying_members": 1852,
+  "monthly_low": 822774,
+  "monthly_est": 878336,
+  "gift_once": 93087,
+  "total_low": 915861,
+  "total_est": 971423,
+  "paying_members": 1817,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -125,16 +125,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "N4i72xMwAqM",
-   "start": "2026-10-16 12:03",
-   "title": "【Hololive Dreams】Zone 2 I Think #holodori",
-   "kind": "配信",
-   "chatters": 1532,
-   "member_chatters": 497,
-   "new_members": 0,
-   "gifted_total": 9
-  },
   {
    "video_id": "SLLS2T4SWvg",
    "start": "2026-10-17 11:01",
@@ -370,7 +360,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-15"
+    "to": "2026-11-16"
    },
    "streams_analyzed": 1,
    "streams_missed": 0,

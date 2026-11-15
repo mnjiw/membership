@@ -3,56 +3,56 @@
  "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
  "handle": "@HoshimachiSuisei",
  "subscribers": 2930000,
- "fetched_at": "2026-11-15 10:55",
- "generated_at": "2026-11-15 10:55",
+ "fetched_at": "2026-11-16 06:22",
+ "generated_at": "2026-11-16 06:25",
  "period": {
-  "from": "2026-10-16 10:55",
-  "to": "2026-11-15 10:55",
+  "from": "2026-10-17 06:22",
+  "to": "2026-11-16 06:22",
   "days": 30
  },
  "streams_analyzed": 9,
- "streams_missed": 1,
- "unique_chatters": 12805,
- "members_confirmed": 4623,
+ "streams_missed": 0,
+ "unique_chatters": 13378,
+ "members_confirmed": 5052,
  "member_classes": {
-  "unknown": 4287,
-  "known": 115,
-  "gift": 221
+  "unknown": 4715,
+  "known": 135,
+  "gift": 202
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 345
+   "members": 371
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 73
+   "members": 70
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 181
+   "members": 208
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 458
+   "members": 493
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 3566
+   "members": 3910
   }
  ],
  "events": {
-  "new_members": 41,
-  "rejoins": 36,
+  "new_members": 47,
+  "rejoins": 49,
   "milestones": 0,
   "gift_purchases": 16,
-  "gifted_total": 237,
-  "gift_redemptions": 221
+  "gifted_total": 227,
+  "gift_redemptions": 202
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,43 +60,43 @@
    "tier": "コールをする！Lv1",
    "price": 390,
    "net_per_member": 248.2,
-   "confirmed_members": 107,
-   "share_of_confirmed_pct": 93.0,
-   "allocated_unknown": 3988.8,
-   "estimated_members": 4095.8,
-   "monthly_net_confirmed": 26555,
-   "monthly_net_estimated": 1016497
+   "confirmed_members": 125,
+   "share_of_confirmed_pct": 92.6,
+   "allocated_unknown": 4365.7,
+   "estimated_members": 4490.7,
+   "monthly_net_confirmed": 31023,
+   "monthly_net_estimated": 1114520
   },
   {
    "tier": "サイリウムをふる！Lv2",
    "price": 1190,
    "net_per_member": 757.3,
    "confirmed_members": 1,
-   "share_of_confirmed_pct": 0.9,
-   "allocated_unknown": 37.3,
-   "estimated_members": 38.3,
+   "share_of_confirmed_pct": 0.7,
+   "allocated_unknown": 34.9,
+   "estimated_members": 35.9,
    "monthly_net_confirmed": 757,
-   "monthly_net_estimated": 28987
+   "monthly_net_estimated": 27206
   },
   {
    "tier": "フラスタをおくる！Lv3",
    "price": 3490,
    "net_per_member": 2220.9,
-   "confirmed_members": 7,
-   "share_of_confirmed_pct": 6.1,
-   "allocated_unknown": 260.9,
-   "estimated_members": 267.9,
-   "monthly_net_confirmed": 15546,
-   "monthly_net_estimated": 595088
+   "confirmed_members": 9,
+   "share_of_confirmed_pct": 6.7,
+   "allocated_unknown": 314.3,
+   "estimated_members": 323.3,
+   "monthly_net_confirmed": 19988,
+   "monthly_net_estimated": 718094
   }
  ],
  "revenue": {
-  "monthly_low": 1106815,
-  "monthly_est": 1640571,
-  "gift_once": 58819,
-  "total_low": 1165634,
-  "total_est": 1699391,
-  "paying_members": 4402,
+  "monthly_low": 1221945,
+  "monthly_est": 1859820,
+  "gift_once": 56337,
+  "total_low": 1278283,
+  "total_est": 1916157,
+  "paying_members": 4850,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -105,16 +105,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "ySKURYzOMJ4",
-   "start": "2026-10-16 19:00",
-   "title": "タンポポは耐える。【星街すいせい / ＃ほしまちすたじお】",
-   "kind": "配信",
-   "chatters": 3160,
-   "member_chatters": 1442,
-   "new_members": 6,
-   "gifted_total": 35
-  },
   {
    "video_id": "nlU8K-cuW7o",
    "start": "2026-10-24 18:50",
@@ -194,22 +184,19 @@
    "member_chatters": 796,
    "new_members": 5,
    "gifted_total": 0
-  }
- ],
- "missed_streams": [
+  },
   {
-   "video_id": "DzcO0JF7GbQ",
-   "start": "2026-11-12 00:00",
-   "title": "【2時間耐久】星街すいせい『Once Upon a Stellar』開場BGM【作業用・ライブ待機用】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": null,
-   "view_count": 123901
+   "video_id": "_DAtn-yPnaI",
+   "start": "2026-11-15 20:04",
+   "title": "【祝われたい🎉】ツアー完走‼おつかれさまああああああああああ【星街すいせい / ＃ほしまちすたじお】",
+   "kind": "配信",
+   "chatters": 4900,
+   "member_chatters": 2598,
+   "new_members": 12,
+   "gifted_total": 25
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -364,52 +351,52 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-15"
+    "to": "2026-11-16"
    },
-   "streams_analyzed": 3,
-   "streams_missed": 1,
-   "unique_chatters": 5841,
-   "members_confirmed": 2403,
+   "streams_analyzed": 4,
+   "streams_missed": 0,
+   "unique_chatters": 8645,
+   "members_confirmed": 3664,
    "member_classes": {
-    "unknown": 2333,
-    "known": 64,
-    "gift": 6
+    "unknown": 3542,
+    "known": 100,
+    "gift": 22
    },
-   "long_term_members": 1928,
+   "long_term_members": 2926,
    "badges": [
     {
      "months": 0,
-     "members": 78
+     "members": 158
     },
     {
      "months": 1,
-     "members": 22
+     "members": 39
     },
     {
      "months": 2,
-     "members": 116
+     "members": 160
     },
     {
      "months": 6,
-     "members": 259
+     "members": 381
     },
     {
      "months": 12,
-     "members": 1928
+     "members": 2926
     }
    ],
    "events": {
-    "new_members": 15,
-    "rejoins": 9,
+    "new_members": 27,
+    "rejoins": 24,
     "milestones": 0,
-    "gifted_total": 16
+    "gifted_total": 41
    },
    "tiers": [
     {
      "tier": "コールをする！Lv1",
      "price": 390,
-     "confirmed_members": 62,
-     "estimated_members": 2322.1
+     "confirmed_members": 96,
+     "estimated_members": 3496.3
     },
     {
      "tier": "サイリウムをふる！Lv2",
@@ -420,16 +407,16 @@
     {
      "tier": "フラスタをおくる！Lv3",
      "price": 3490,
-     "confirmed_members": 2,
-     "estimated_members": 74.9
+     "confirmed_members": 4,
+     "estimated_members": 145.7
     }
    ],
    "revenue": {
-    "monthly_low": 598837,
-    "monthly_est": 742661,
-    "gift_once": 3971
+    "monthly_low": 911769,
+    "monthly_est": 1191265,
+    "gift_once": 10175
    },
-   "avg_member_chatters": 949.7,
+   "avg_member_chatters": 1361.8,
    "partial": true,
    "finalized": false
   }

@@ -2,47 +2,52 @@
  "channel": "Haru Ch. 花前ハル",
  "channel_id": "UCP03XuewcMC2DaSFDJhqJmA",
  "handle": "@HanamaeHaru",
- "subscribers": 45600,
- "fetched_at": "2026-11-15 06:51",
- "generated_at": "2026-11-15 06:52",
+ "subscribers": 45700,
+ "fetched_at": "2026-11-16 06:47",
+ "generated_at": "2026-11-16 06:47",
  "period": {
-  "from": "2026-10-16 06:51",
-  "to": "2026-11-15 06:51",
+  "from": "2026-10-17 06:47",
+  "to": "2026-11-16 06:47",
   "days": 30
  },
- "streams_analyzed": 26,
- "streams_missed": 2,
- "unique_chatters": 1075,
- "members_confirmed": 207,
+ "streams_analyzed": 27,
+ "streams_missed": 3,
+ "unique_chatters": 1098,
+ "members_confirmed": 223,
  "member_classes": {
-  "unknown": 109,
-  "known": 41,
-  "gift": 57
+  "unknown": 113,
+  "known": 44,
+  "gift": 66
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 91
+   "members": 103
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 14
+   "members": 17
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 102
+   "members": 74
+  },
+  {
+   "months": 6,
+   "label": "6ヶ月",
+   "members": 29
   }
  ],
  "events": {
-  "new_members": 23,
-  "rejoins": 17,
-  "milestones": 4,
-  "gift_purchases": 25,
-  "gifted_total": 57,
-  "gift_redemptions": 57
+  "new_members": 25,
+  "rejoins": 18,
+  "milestones": 6,
+  "gift_purchases": 27,
+  "gifted_total": 67,
+  "gift_redemptions": 66
  },
  "tiers_configured": true,
  "tiers": [
@@ -50,32 +55,32 @@
    "tier": "086Hz",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 37,
-   "share_of_confirmed_pct": 90.2,
-   "allocated_unknown": 98.4,
-   "estimated_members": 135.4,
-   "monthly_net_confirmed": 11537,
-   "monthly_net_estimated": 42210
+   "confirmed_members": 39,
+   "share_of_confirmed_pct": 88.6,
+   "allocated_unknown": 100.2,
+   "estimated_members": 139.2,
+   "monthly_net_confirmed": 12161,
+   "monthly_net_estimated": 43392
   },
   {
    "tier": "870Hz",
    "price": 1290,
    "net_per_member": 820.9,
-   "confirmed_members": 4,
-   "share_of_confirmed_pct": 9.8,
-   "allocated_unknown": 10.6,
-   "estimated_members": 14.6,
-   "monthly_net_confirmed": 3284,
-   "monthly_net_estimated": 12013
+   "confirmed_members": 5,
+   "share_of_confirmed_pct": 11.4,
+   "allocated_unknown": 12.8,
+   "estimated_members": 17.8,
+   "monthly_net_confirmed": 4105,
+   "monthly_net_estimated": 14646
   }
  ],
  "revenue": {
-  "monthly_low": 48809,
-  "monthly_est": 54223,
-  "gift_once": 17774,
-  "total_low": 66583,
-  "total_est": 71996,
-  "paying_members": 150,
+  "monthly_low": 51501,
+  "monthly_est": 58038,
+  "gift_once": 20892,
+  "total_low": 72393,
+  "total_est": 78930,
+  "paying_members": 157,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -84,16 +89,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "vlF291uFJag",
-   "start": "2026-10-16 18:00",
-   "title": "【 STREET FIGHTER 6 】まずはプラチナで安定したい/Mエレナ【花前ハル/REJECT】",
-   "kind": "配信",
-   "chatters": 114,
-   "member_chatters": 45,
-   "new_members": 2,
-   "gifted_total": 1
-  },
   {
    "video_id": "NRds3ipEe9s",
    "start": "2026-10-17 12:01",
@@ -343,6 +338,26 @@
    "member_chatters": 36,
    "new_members": 1,
    "gifted_total": 5
+  },
+  {
+   "video_id": "DV4lN2fODF8",
+   "start": "2026-11-15 12:58",
+   "title": "【ゼルダの伝説 ムジュラの仮面】完全初見❗️ホラーゲームって本当ですか…？#1【花前ハル／REJECT】",
+   "kind": "配信",
+   "chatters": 92,
+   "member_chatters": 41,
+   "new_members": 0,
+   "gifted_total": 6
+  },
+  {
+   "video_id": "su_gAOM2aEo",
+   "start": "2026-11-15 23:01",
+   "title": "[ASMR] ASMR to Guide You into a Deep Sleep with Various Sounds and Words [Whispering] [Onomatopoe...",
+   "kind": "配信",
+   "chatters": 86,
+   "member_chatters": 47,
+   "new_members": 4,
+   "gifted_total": 5
   }
  ],
  "missed_streams": [
@@ -367,7 +382,19 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 144,
+   "like_count": 151,
+   "view_count": null
+  },
+  {
+   "video_id": "6B4g5MBG0yA",
+   "start": "2026-11-16 00:07",
+   "title": "【メン限ASMR】君のお耳をいじいじしながらゼロ距離で囁くASMR【囁き】【心音】【指かき】【耳吐息】【睡眠導入】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 130,
    "view_count": null
   }
  ],
@@ -389,7 +416,17 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 144,
+   "like_count": 151,
+   "view_count": null
+  },
+  {
+   "video_id": "6B4g5MBG0yA",
+   "start": "2026-11-16 00:07",
+   "title": "【メン限ASMR】君のお耳をいじいじしながらゼロ距離で囁くASMR【囁き】【心音】【指かき】【耳吐息】【睡眠導入】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 130,
    "view_count": null
   }
  ],
@@ -501,58 +538,62 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-15"
+    "to": "2026-11-16"
    },
-   "streams_analyzed": 15,
-   "streams_missed": 1,
-   "unique_chatters": 672,
-   "members_confirmed": 162,
+   "streams_analyzed": 17,
+   "streams_missed": 2,
+   "unique_chatters": 724,
+   "members_confirmed": 183,
    "member_classes": {
-    "unknown": 91,
-    "known": 35,
-    "gift": 36
+    "unknown": 97,
+    "known": 40,
+    "gift": 46
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 60
+     "members": 76
     },
     {
      "months": 1,
-     "members": 9
+     "members": 12
     },
     {
      "months": 2,
-     "members": 93
+     "members": 66
+    },
+    {
+     "months": 6,
+     "members": 29
     }
    ],
    "events": {
-    "new_members": 19,
-    "rejoins": 15,
-    "milestones": 2,
-    "gifted_total": 36
+    "new_members": 23,
+    "rejoins": 16,
+    "milestones": 4,
+    "gifted_total": 47
    },
    "tiers": [
     {
      "tier": "086Hz",
      "price": 490,
-     "confirmed_members": 33,
-     "estimated_members": 118.8
+     "confirmed_members": 37,
+     "estimated_members": 126.7
     },
     {
      "tier": "870Hz",
      "price": 1290,
-     "confirmed_members": 2,
-     "estimated_members": 7.2
+     "confirmed_members": 3,
+     "estimated_members": 10.3
     }
    ],
    "revenue": {
-    "monthly_low": 40307,
-    "monthly_est": 42955,
-    "gift_once": 11225
+    "monthly_low": 44246,
+    "monthly_est": 47950,
+    "gift_once": 14655
    },
-   "avg_member_chatters": 41.5,
+   "avg_member_chatters": 41.8,
    "partial": true,
    "finalized": false
   }

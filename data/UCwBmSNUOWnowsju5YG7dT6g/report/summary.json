@@ -3,19 +3,19 @@
  "channel_id": "UCwBmSNUOWnowsju5YG7dT6g",
  "handle": "@tsukasa_ryogoku",
  "subscribers": 100000,
- "fetched_at": "2026-11-15 06:44",
- "generated_at": "2026-11-15 06:44",
+ "fetched_at": "2026-11-16 06:40",
+ "generated_at": "2026-11-16 06:41",
  "period": {
-  "from": "2026-10-16 06:44",
-  "to": "2026-11-15 06:44",
+  "from": "2026-10-17 06:40",
+  "to": "2026-11-16 06:40",
   "days": 30
  },
- "streams_analyzed": 19,
- "streams_missed": 4,
- "unique_chatters": 1907,
- "members_confirmed": 566,
+ "streams_analyzed": 20,
+ "streams_missed": 3,
+ "unique_chatters": 1954,
+ "members_confirmed": 571,
  "member_classes": {
-  "unknown": 400,
+  "unknown": 405,
   "known": 22,
   "gift": 144
  },
@@ -28,12 +28,12 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 12
+   "members": 14
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 40
+   "members": 43
   },
   {
    "months": 6,
@@ -43,12 +43,12 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 170
+   "members": 169
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 128
+   "members": 129
   }
  ],
  "events": {
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 22,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 400.0,
-   "estimated_members": 422.0,
+   "allocated_unknown": 405.0,
+   "estimated_members": 427.0,
    "monthly_net_confirmed": 6860,
-   "monthly_net_estimated": 131587
+   "monthly_net_estimated": 133146
   }
  ],
  "revenue": {
-  "monthly_low": 131587,
-  "monthly_est": 131587,
+  "monthly_low": 133146,
+  "monthly_est": 133146,
   "gift_once": 44902,
-  "total_low": 176489,
-  "total_est": 176489,
-  "paying_members": 422,
+  "total_low": 178048,
+  "total_est": 178048,
+  "paying_members": 427,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -277,21 +277,19 @@
    "member_chatters": 171,
    "new_members": 2,
    "gifted_total": 1
+  },
+  {
+   "video_id": "JaaHPdnErfc",
+   "start": "2026-11-15 21:03",
+   "title": "【 トルネコの大冒険 】初見で挑む！27階に一体何が！？#3【 領国つかさ / すぺしゃりて 】",
+   "kind": "配信",
+   "chatters": 357,
+   "member_chatters": 153,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
-  {
-   "video_id": "mv-h_tW6zk0",
-   "start": "2026-10-16 21:03",
-   "title": "【 メン限 】極秘作戦会議！🐈🎀【 領国つかさ / すぺしゃりて 】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 176,
-   "view_count": null
-  },
   {
    "video_id": "xWQVp4CHAJQ",
    "start": "2026-10-30 20:58",
@@ -325,22 +323,12 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 211,
+   "like_count": 215,
    "view_count": null
   }
  ],
  "members_only_content": [
   {
-   "video_id": "mv-h_tW6zk0",
-   "start": "2026-10-16 21:03",
-   "title": "【 メン限 】極秘作戦会議！🐈🎀【 領国つかさ / すぺしゃりて 】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 176,
-   "view_count": null
-  },
-  {
    "video_id": "xWQVp4CHAJQ",
    "start": "2026-10-30 20:58",
    "title": "【 メン限 】ホラー？映画『廃用身』を同時視聴する。【 領国つかさ / すぺしゃりて 】",
@@ -367,7 +355,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 211,
+   "like_count": 215,
    "view_count": null
   }
  ],
@@ -497,18 +485,18 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-15"
+    "to": "2026-11-16"
    },
-   "streams_analyzed": 8,
+   "streams_analyzed": 9,
    "streams_missed": 2,
-   "unique_chatters": 957,
-   "members_confirmed": 343,
+   "unique_chatters": 1068,
+   "members_confirmed": 353,
    "member_classes": {
-    "unknown": 304,
+    "unknown": 314,
     "known": 17,
     "gift": 22
    },
-   "long_term_members": 226,
+   "long_term_members": 231,
    "badges": [
     {
      "months": 0,
@@ -516,11 +504,11 @@
     },
     {
      "months": 1,
-     "members": 7
+     "members": 9
     },
     {
      "months": 2,
-     "members": 27
+     "members": 30
     },
     {
      "months": 6,
@@ -528,11 +516,11 @@
     },
     {
      "months": 12,
-     "members": 125
+     "members": 126
     },
     {
      "months": 24,
-     "members": 101
+     "members": 105
     }
    ],
    "events": {
@@ -546,15 +534,15 @@
      "tier": "オタク",
      "price": 490,
      "confirmed_members": 17,
-     "estimated_members": 321.0
+     "estimated_members": 331.0
     }
    ],
    "revenue": {
-    "monthly_low": 100094,
-    "monthly_est": 100094,
+    "monthly_low": 103212,
+    "monthly_est": 103212,
     "gift_once": 6860
    },
-   "avg_member_chatters": 156.8,
+   "avg_member_chatters": 156.3,
    "partial": true,
    "finalized": false
   }

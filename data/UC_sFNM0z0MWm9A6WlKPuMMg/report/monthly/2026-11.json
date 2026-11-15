@@ -2,80 +2,80 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-15"
+  "to": "2026-11-16"
  },
- "streams_analyzed": 5,
+ "streams_analyzed": 6,
  "streams_missed": 1,
- "unique_chatters": 5418,
- "members_confirmed": 1208,
+ "unique_chatters": 6499,
+ "members_confirmed": 1592,
  "member_classes": {
-  "known": 349,
-  "unknown": 764,
-  "gift": 95
+  "known": 478,
+  "unknown": 859,
+  "gift": 255
  },
- "long_term_members": 809,
+ "long_term_members": 960,
  "badges": [
   {
    "months": 0,
-   "members": 174
+   "members": 355
   },
   {
    "months": 1,
-   "members": 26
+   "members": 35
   },
   {
    "months": 2,
-   "members": 87
+   "members": 106
   },
   {
    "months": 6,
-   "members": 112
+   "members": 136
   },
   {
    "months": 12,
-   "members": 224
+   "members": 256
   },
   {
    "months": 24,
-   "members": 193
+   "members": 234
   },
   {
    "months": 36,
-   "members": 392
+   "members": 470
   }
  ],
  "events": {
-  "new_members": 21,
-  "rejoins": 10,
-  "milestones": 163,
-  "gifted_total": 135
+  "new_members": 32,
+  "rejoins": 13,
+  "milestones": 295,
+  "gifted_total": 295
  },
  "tiers": [
   {
    "tier": "Jailbirds+",
    "price": 690,
-   "confirmed_members": 329,
-   "estimated_members": 1049.2
+   "confirmed_members": 450,
+   "estimated_members": 1258.7
   },
   {
    "tier": "Jailbirds Ultra",
    "price": 1290,
-   "confirmed_members": 13,
-   "estimated_members": 41.5
+   "confirmed_members": 19,
+   "estimated_members": 53.1
   },
   {
    "tier": "Jailbirds Ultra+",
    "price": 3490,
-   "confirmed_members": 7,
-   "estimated_members": 22.3
+   "confirmed_members": 9,
+   "estimated_members": 25.2
   }
  ],
  "revenue": {
-  "monthly_low": 506145,
-  "monthly_est": 544315,
-  "gift_once": 59277
+  "monthly_low": 610355,
+  "monthly_est": 652211,
+  "gift_once": 129532
  },
- "avg_member_chatters": 465,
+ "avg_member_chatters": 537.7,
  "partial": true,
  "finalized": false
 }

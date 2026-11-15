@@ -3,37 +3,37 @@
  "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
  "handle": "@ayundarisu",
  "subscribers": 1020000,
- "fetched_at": "2026-11-15 06:34",
- "generated_at": "2026-11-15 06:35",
+ "fetched_at": "2026-11-16 06:32",
+ "generated_at": "2026-11-16 06:33",
  "period": {
-  "from": "2026-10-16 06:34",
-  "to": "2026-11-15 06:34",
+  "from": "2026-10-17 06:32",
+  "to": "2026-11-16 06:32",
   "days": 30
  },
  "streams_analyzed": 20,
- "streams_missed": 6,
- "unique_chatters": 4844,
- "members_confirmed": 877,
+ "streams_missed": 5,
+ "unique_chatters": 5007,
+ "members_confirmed": 895,
  "member_classes": {
-  "unknown": 418,
-  "known": 203,
-  "gift": 256
+  "unknown": 440,
+  "known": 204,
+  "gift": 251
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 334
+   "members": 343
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 38
+   "members": 41
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 86
+   "members": 87
   },
   {
    "months": 6,
@@ -43,22 +43,22 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 136
+   "members": 137
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 75
+   "members": 76
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 46
+   "members": 47
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 34
+   "members": 36
   },
   {
    "months": 60,
@@ -72,12 +72,12 @@
   }
  ],
  "events": {
-  "new_members": 21,
+  "new_members": 20,
   "rejoins": 41,
-  "milestones": 95,
-  "gift_purchases": 47,
-  "gifted_total": 263,
-  "gift_redemptions": 258
+  "milestones": 96,
+  "gift_purchases": 46,
+  "gifted_total": 258,
+  "gift_redemptions": 253
  },
  "tiers_configured": true,
  "tiers": [
@@ -85,21 +85,21 @@
    "tier": "Prisuners",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 203,
+   "confirmed_members": 204,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 418.0,
-   "estimated_members": 621.0,
-   "monthly_net_confirmed": 63299,
-   "monthly_net_estimated": 193639
+   "allocated_unknown": 440.0,
+   "estimated_members": 644.0,
+   "monthly_net_confirmed": 63611,
+   "monthly_net_estimated": 200811
   }
  ],
  "revenue": {
-  "monthly_low": 193639,
-  "monthly_est": 193639,
-  "gift_once": 82008,
-  "total_low": 275647,
-  "total_est": 275647,
-  "paying_members": 621,
+  "monthly_low": 200811,
+  "monthly_est": 200811,
+  "gift_once": 80449,
+  "total_low": 281260,
+  "total_est": 281260,
+  "paying_members": 644,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -108,16 +108,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "qUWZcDQ8yz0",
-   "start": "2026-10-16 15:59",
-   "title": "【hololive Dreams】Holodori new event daily ~!!!【#holodori #ホロドリ】",
-   "kind": "配信",
-   "chatters": 215,
-   "member_chatters": 73,
-   "new_members": 1,
-   "gifted_total": 5
-  },
   {
    "video_id": "XMQ2yRBByPg",
    "start": "2026-10-18 21:02",
@@ -307,21 +297,19 @@
    "member_chatters": 134,
    "new_members": 1,
    "gifted_total": 26
+  },
+  {
+   "video_id": "HolpZnNFoPI",
+   "start": "2026-11-15 22:07",
+   "title": "BOMBANANA with AREA15",
+   "kind": "配信",
+   "chatters": 630,
+   "member_chatters": 163,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
-  {
-   "video_id": "znnYxx5a3Y4",
-   "start": "2026-10-16 22:29",
-   "title": "PRISUNERS NIGHT (rose emoji)",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 196,
-   "view_count": null
-  },
   {
    "video_id": "XPpo3zPzVss",
    "start": "2026-10-17 20:11",
@@ -367,7 +355,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 190,
+   "like_count": 192,
    "view_count": null
   },
   {
@@ -379,21 +367,11 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 193,
+   "like_count": 196,
    "view_count": null
   }
  ],
  "members_only_content": [
-  {
-   "video_id": "znnYxx5a3Y4",
-   "start": "2026-10-16 22:29",
-   "title": "PRISUNERS NIGHT (rose emoji)",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 196,
-   "view_count": null
-  },
   {
    "video_id": "-S0UeiwpZnQ",
    "start": "2026-10-23 21:58",
@@ -421,7 +399,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 190,
+   "like_count": 192,
    "view_count": null
   },
   {
@@ -431,7 +409,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 193,
+   "like_count": 196,
    "view_count": null
   }
  ],
@@ -604,50 +582,50 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-15"
+    "to": "2026-11-16"
    },
-   "streams_analyzed": 6,
+   "streams_analyzed": 7,
    "streams_missed": 3,
-   "unique_chatters": 2318,
-   "members_confirmed": 534,
+   "unique_chatters": 2599,
+   "members_confirmed": 567,
    "member_classes": {
-    "known": 161,
-    "unknown": 262,
+    "known": 164,
+    "unknown": 292,
     "gift": 111
    },
-   "long_term_members": 227,
+   "long_term_members": 238,
    "badges": [
     {
      "months": 0,
-     "members": 172
+     "members": 187
     },
     {
      "months": 1,
-     "members": 21
+     "members": 24
     },
     {
      "months": 2,
-     "members": 58
+     "members": 60
     },
     {
      "months": 6,
-     "members": 56
+     "members": 58
     },
     {
      "months": 12,
-     "members": 99
+     "members": 102
     },
     {
      "months": 24,
-     "members": 46
+     "members": 50
     },
     {
      "months": 36,
-     "members": 31
+     "members": 33
     },
     {
      "months": 48,
-     "members": 25
+     "members": 27
     },
     {
      "months": 60,
@@ -661,23 +639,23 @@
    "events": {
     "new_members": 12,
     "rejoins": 25,
-    "milestones": 41,
+    "milestones": 42,
     "gifted_total": 111
    },
    "tiers": [
     {
      "tier": "Prisuners",
      "price": 490,
-     "confirmed_members": 161,
-     "estimated_members": 423.0
+     "confirmed_members": 164,
+     "estimated_members": 456.0
     }
    ],
    "revenue": {
-    "monthly_low": 131899,
-    "monthly_est": 131899,
+    "monthly_low": 142189,
+    "monthly_est": 142189,
     "gift_once": 34612
    },
-   "avg_member_chatters": 191.3,
+   "avg_member_chatters": 187.3,
    "partial": true,
    "finalized": false
   }

@@ -3,20 +3,20 @@
  "channel_id": "UCIPYZHEvSEEpEIQQBt--yNA",
  "handle": "@urara_ai",
  "subscribers": 20000,
- "fetched_at": "2026-11-15 06:44",
- "generated_at": "2026-11-15 06:44",
+ "fetched_at": "2026-11-16 06:41",
+ "generated_at": "2026-11-16 06:41",
  "period": {
-  "from": "2026-10-16 06:44",
-  "to": "2026-11-15 06:44",
+  "from": "2026-10-17 06:41",
+  "to": "2026-11-16 06:41",
   "days": 30
  },
- "streams_analyzed": 29,
- "streams_missed": 4,
- "unique_chatters": 1163,
- "members_confirmed": 340,
+ "streams_analyzed": 28,
+ "streams_missed": 5,
+ "unique_chatters": 1146,
+ "members_confirmed": 339,
  "member_classes": {
   "unknown": 180,
-  "known": 47,
+  "known": 46,
   "gift": 113
  },
  "badges": [
@@ -43,15 +43,15 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 91
+   "members": 90
   }
  ],
  "events": {
   "new_members": 6,
-  "rejoins": 3,
+  "rejoins": 2,
   "milestones": 11,
-  "gift_purchases": 19,
-  "gifted_total": 118,
+  "gift_purchases": 18,
+  "gifted_total": 113,
   "gift_redemptions": 113
  },
  "tiers_configured": true,
@@ -60,21 +60,21 @@
    "tier": "うららの天界",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 47,
+   "confirmed_members": 46,
    "share_of_confirmed_pct": 100.0,
    "allocated_unknown": 180.0,
-   "estimated_members": 227.0,
-   "monthly_net_confirmed": 14655,
-   "monthly_net_estimated": 70783
+   "estimated_members": 226.0,
+   "monthly_net_confirmed": 14344,
+   "monthly_net_estimated": 70471
   }
  ],
  "revenue": {
-  "monthly_low": 70783,
-  "monthly_est": 70783,
-  "gift_once": 36795,
-  "total_low": 107577,
-  "total_est": 107577,
-  "paying_members": 227,
+  "monthly_low": 70471,
+  "monthly_est": 70471,
+  "gift_once": 35235,
+  "total_low": 105706,
+  "total_est": 105706,
+  "paying_members": 226,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "PWVxnM47ku8",
-   "start": "2026-10-16 21:05",
-   "title": "【 Japanese Ramen Simulator 】ラーメン屋、はじめました。【 あいうらら 海汐もるふ 朝陽にいな まるげりちゃ 】",
-   "kind": "配信",
-   "chatters": 75,
-   "member_chatters": 43,
-   "new_members": 0,
-   "gifted_total": 5
-  },
   {
    "video_id": "G63VgkUlgnA",
    "start": "2026-10-17 22:09",
@@ -422,6 +412,18 @@
    "members_level": "",
    "like_count": 58,
    "view_count": null
+  },
+  {
+   "video_id": "c2CXwHqFLuw",
+   "start": "2026-11-15 00:00",
+   "title": "【 1５人目：天籠りのん 】噂のエセ不良少女が仲良し大作戦にカチコミ！ ？ 【 #うららの仲良し大作戦 】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 219,
+   "view_count": 5353
   }
  ],
  "members_only_content": [
@@ -584,10 +586,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-15"
+    "to": "2026-11-16"
    },
    "streams_analyzed": 14,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 763,
    "members_confirmed": 229,
    "member_classes": {

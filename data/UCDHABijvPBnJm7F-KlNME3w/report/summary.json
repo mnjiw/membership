@@ -3,20 +3,20 @@
  "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
  "handle": "@holoen_gigimurin",
  "subscribers": 619000,
- "fetched_at": "2026-11-15 10:56",
- "generated_at": "2026-11-15 10:57",
+ "fetched_at": "2026-11-16 06:34",
+ "generated_at": "2026-11-16 06:34",
  "period": {
-  "from": "2026-10-16 10:56",
-  "to": "2026-11-15 10:56",
+  "from": "2026-10-17 06:34",
+  "to": "2026-11-16 06:34",
   "days": 30
  },
- "streams_analyzed": 26,
+ "streams_analyzed": 25,
  "streams_missed": 3,
- "unique_chatters": 22592,
- "members_confirmed": 3146,
+ "unique_chatters": 22480,
+ "members_confirmed": 3137,
  "member_classes": {
-  "unknown": 2151,
-  "known": 829,
+  "known": 828,
+  "unknown": 2143,
   "gift": 166
  },
  "badges": [
@@ -28,33 +28,33 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 142
+   "members": 141
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 308
+   "members": 306
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 305
+   "members": 304
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 1165
+   "members": 1161
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 837
+   "members": 836
   }
  ],
  "events": {
   "new_members": 70,
-  "rejoins": 34,
-  "milestones": 597,
+  "rejoins": 33,
+  "milestones": 593,
   "gift_purchases": 20,
   "gifted_total": 235,
   "gift_redemptions": 166
@@ -67,21 +67,21 @@
    "net_per_member": 248.2,
    "confirmed_members": 114,
    "share_of_confirmed_pct": 13.8,
-   "allocated_unknown": 295.8,
-   "estimated_members": 409.8,
+   "allocated_unknown": 295.1,
+   "estimated_members": 409.1,
    "monthly_net_confirmed": 28293,
-   "monthly_net_estimated": 101704
+   "monthly_net_estimated": 101519
   },
   {
    "tier": "grem",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 686,
-   "share_of_confirmed_pct": 82.8,
-   "allocated_unknown": 1780.0,
-   "estimated_members": 2466.0,
-   "monthly_net_confirmed": 301216,
-   "monthly_net_estimated": 1082780
+   "confirmed_members": 685,
+   "share_of_confirmed_pct": 82.7,
+   "allocated_unknown": 1772.9,
+   "estimated_members": 2457.9,
+   "monthly_net_confirmed": 300777,
+   "monthly_net_estimated": 1079238
   },
   {
    "tier": "gigremurins",
@@ -89,19 +89,19 @@
    "net_per_member": 1266.4,
    "confirmed_members": 29,
    "share_of_confirmed_pct": 3.5,
-   "allocated_unknown": 75.2,
-   "estimated_members": 104.2,
+   "allocated_unknown": 75.1,
+   "estimated_members": 104.1,
    "monthly_net_confirmed": 36725,
-   "monthly_net_estimated": 132013
+   "monthly_net_estimated": 131774
   }
  ],
  "revenue": {
-  "monthly_low": 900073,
-  "monthly_est": 1316497,
+  "monthly_low": 897648,
+  "monthly_est": 1312531,
   "gift_once": 58323,
-  "total_low": 958395,
-  "total_est": 1374820,
-  "paying_members": 2980,
+  "total_low": 955971,
+  "total_est": 1370854,
+  "paying_members": 2971,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -110,16 +110,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "mrXHDxX_ylM",
-   "start": "2026-10-17 06:02",
-   "title": "【TRAILS IN THE SKY: 1ST CHAPTER】my estelle.........",
-   "kind": "配信",
-   "chatters": 842,
-   "member_chatters": 381,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "JXx5vnvdjvQ",
    "start": "2026-10-18 06:03",
@@ -381,7 +371,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "grem",
-   "like_count": 984,
+   "like_count": 985,
    "view_count": null
   },
   {
@@ -405,7 +395,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "grem",
-   "like_count": 264,
+   "like_count": 265,
    "view_count": null
   }
  ],
@@ -417,7 +407,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "grem",
-   "like_count": 984,
+   "like_count": 985,
    "view_count": null
   },
   {
@@ -437,7 +427,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "grem",
-   "like_count": 264,
+   "like_count": 265,
    "view_count": null
   }
  ],
@@ -579,7 +569,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-15"
+    "to": "2026-11-16"
    },
    "streams_analyzed": 13,
    "streams_missed": 1,

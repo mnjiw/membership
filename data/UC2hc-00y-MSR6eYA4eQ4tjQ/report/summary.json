@@ -3,19 +3,19 @@
  "channel_id": "UC2hc-00y-MSR6eYA4eQ4tjQ",
  "handle": "@Rene_Ryugasaki",
  "subscribers": 249000,
- "fetched_at": "2026-11-15 06:39",
- "generated_at": "2026-11-15 06:39",
+ "fetched_at": "2026-11-16 06:36",
+ "generated_at": "2026-11-16 06:36",
  "period": {
-  "from": "2026-10-16 06:39",
-  "to": "2026-11-15 06:39",
+  "from": "2026-10-17 06:36",
+  "to": "2026-11-16 06:36",
   "days": 30
  },
  "streams_analyzed": 16,
  "streams_missed": 0,
- "unique_chatters": 1354,
- "members_confirmed": 199,
+ "unique_chatters": 1233,
+ "members_confirmed": 193,
  "member_classes": {
-  "unknown": 177,
+  "unknown": 171,
   "known": 17,
   "gift": 5
  },
@@ -38,22 +38,22 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 14
+   "members": 13
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 41
+   "members": 40
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 34
+   "members": 33
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 79
+   "members": 76
   }
  ],
  "events": {
@@ -72,19 +72,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 17,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 177.0,
-   "estimated_members": 194.0,
+   "allocated_unknown": 171.0,
+   "estimated_members": 188.0,
    "monthly_net_confirmed": 5301,
-   "monthly_net_estimated": 60493
+   "monthly_net_estimated": 58622
   }
  ],
  "revenue": {
-  "monthly_low": 60493,
-  "monthly_est": 60493,
+  "monthly_low": 58622,
+  "monthly_est": 58622,
   "gift_once": 1559,
-  "total_low": 62052,
-  "total_est": 62052,
-  "paying_members": 194,
+  "total_low": 60181,
+  "total_est": 60181,
+  "paying_members": 188,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "0y5GEN7IU8g",
-   "start": "2026-10-16 20:01",
-   "title": "【実写カメラ】ぼくがKFC新作のもも肉チキンバーガー食べるとこ見てて…♡【龍ヶ崎リン / ななしいんく】",
-   "kind": "配信",
-   "chatters": 334,
-   "member_chatters": 68,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "uyMmyajoxU4",
    "start": "2026-10-20 00:01",
@@ -252,6 +242,16 @@
    "member_chatters": 34,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "-Vrmn9FBtew",
+   "start": "2026-11-15 14:00",
+   "title": "【FF9】完全初見でプレイする「ファイナルファンタジーⅨ | FINAL FANTASY Ⅸ」#7【龍ヶ崎リン / ななしいんく】",
+   "kind": "配信",
+   "chatters": 123,
+   "member_chatters": 24,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -389,17 +389,17 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-15"
+    "to": "2026-11-16"
    },
-   "streams_analyzed": 8,
+   "streams_analyzed": 9,
    "streams_missed": 0,
-   "unique_chatters": 828,
-   "members_confirmed": 156,
+   "unique_chatters": 848,
+   "members_confirmed": 157,
    "member_classes": {
-    "unknown": 144,
+    "unknown": 145,
     "known": 12
    },
-   "long_term_members": 125,
+   "long_term_members": 126,
    "badges": [
     {
      "months": 0,
@@ -427,7 +427,7 @@
     },
     {
      "months": 36,
-     "members": 65
+     "members": 66
     }
    ],
    "events": {
@@ -441,15 +441,15 @@
      "tier": "きりん組",
      "price": 490,
      "confirmed_members": 12,
-     "estimated_members": 156.0
+     "estimated_members": 157.0
     }
    ],
    "revenue": {
-    "monthly_low": 48644,
-    "monthly_est": 48644,
+    "monthly_low": 48955,
+    "monthly_est": 48955,
     "gift_once": 0
    },
-   "avg_member_chatters": 45.9,
+   "avg_member_chatters": 43.4,
    "partial": true,
    "finalized": false
   }

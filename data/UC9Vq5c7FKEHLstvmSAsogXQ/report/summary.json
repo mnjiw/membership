@@ -3,15 +3,15 @@
  "channel_id": "UC9Vq5c7FKEHLstvmSAsogXQ",
  "handle": "@aisaka_siu",
  "subscribers": 68900,
- "fetched_at": "2026-11-15 06:43",
- "generated_at": "2026-11-15 06:44",
+ "fetched_at": "2026-11-16 06:40",
+ "generated_at": "2026-11-16 06:40",
  "period": {
-  "from": "2026-10-16 06:43",
-  "to": "2026-11-15 06:43",
+  "from": "2026-10-17 06:40",
+  "to": "2026-11-16 06:40",
   "days": 30
  },
  "streams_analyzed": 22,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 842,
  "members_confirmed": 112,
  "member_classes": {
@@ -304,7 +304,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "IUJ3dAvOltA",
+   "start": "2026-11-15 00:00",
+   "title": "【#ガチグラ2  】 1キル5デス1アシスト。2己キル2味方キル。ブラインドグレを覚えた俺は最強だ。。Day4【すぺしゃりて/藍坂しう】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 62,
+   "view_count": 1145
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -424,10 +437,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-15"
+    "to": "2026-11-16"
    },
    "streams_analyzed": 11,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 386,
    "members_confirmed": 52,
    "member_classes": {
