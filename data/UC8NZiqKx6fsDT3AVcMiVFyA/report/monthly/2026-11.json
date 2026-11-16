@@ -2,18 +2,18 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-16"
+  "to": "2026-11-17"
  },
- "streams_analyzed": 5,
+ "streams_analyzed": 6,
  "streams_missed": 9,
- "unique_chatters": 2424,
- "members_confirmed": 620,
+ "unique_chatters": 2564,
+ "members_confirmed": 657,
  "member_classes": {
-  "unknown": 591,
-  "known": 24,
+  "unknown": 626,
+  "known": 26,
   "gift": 5
  },
- "long_term_members": 235,
+ "long_term_members": 259,
  "badges": [
   {
    "months": 0,
@@ -21,39 +21,39 @@
   },
   {
    "months": 1,
-   "members": 43
+   "members": 45
   },
   {
    "months": 2,
-   "members": 159
+   "members": 167
   },
   {
    "months": 6,
-   "members": 137
+   "members": 140
   },
   {
    "months": 12,
-   "members": 151
+   "members": 160
   },
   {
    "months": 24,
-   "members": 34
+   "members": 38
   },
   {
    "months": 36,
-   "members": 5
+   "members": 7
   },
   {
    "months": 48,
-   "members": 9
-  },
-  {
-   "months": 60,
    "members": 12
   },
   {
+   "months": 60,
+   "members": 14
+  },
+  {
    "months": 72,
-   "members": 23
+   "members": 27
   },
   {
    "months": 84,
@@ -62,7 +62,7 @@
  ],
  "events": {
   "new_members": 11,
-  "rejoins": 3,
+  "rejoins": 5,
   "milestones": 0,
   "gifted_total": 5
  },
@@ -70,20 +70,20 @@
   {
    "tier": "たまき塾【限定】プラン",
    "price": 490,
-   "confirmed_members": 20,
-   "estimated_members": 512.5
+   "confirmed_members": 22,
+   "estimated_members": 551.7
   },
   {
    "tier": "たまき塾【プレミア】プラン",
    "price": 1190,
    "confirmed_members": 3,
-   "estimated_members": 76.9
+   "estimated_members": 75.2
   },
   {
    "tier": "たまき塾【歴史】プラン",
    "price": 3490,
    "confirmed_members": 1,
-   "estimated_members": 25.6
+   "estimated_members": 25.1
   },
   {
    "tier": "活動支援プラン🎁",
@@ -93,11 +93,11 @@
   }
  ],
  "revenue": {
-  "monthly_low": 195014,
-  "monthly_est": 274933,
+  "monthly_low": 206551,
+  "monthly_est": 284691,
   "gift_once": 1559
  },
- "avg_member_chatters": 239.4,
+ "avg_member_chatters": 222.5,
  "partial": true,
  "finalized": false
 }

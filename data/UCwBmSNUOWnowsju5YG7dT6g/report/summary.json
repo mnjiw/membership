@@ -3,19 +3,19 @@
  "channel_id": "UCwBmSNUOWnowsju5YG7dT6g",
  "handle": "@tsukasa_ryogoku",
  "subscribers": 100000,
- "fetched_at": "2026-11-16 06:40",
- "generated_at": "2026-11-16 06:41",
+ "fetched_at": "2026-11-17 06:35",
+ "generated_at": "2026-11-17 06:36",
  "period": {
-  "from": "2026-10-17 06:40",
-  "to": "2026-11-16 06:40",
+  "from": "2026-10-18 06:35",
+  "to": "2026-11-17 06:35",
   "days": 30
  },
- "streams_analyzed": 20,
- "streams_missed": 3,
- "unique_chatters": 1954,
- "members_confirmed": 571,
+ "streams_analyzed": 19,
+ "streams_missed": 4,
+ "unique_chatters": 1919,
+ "members_confirmed": 564,
  "member_classes": {
-  "unknown": 405,
+  "unknown": 398,
   "known": 22,
   "gift": 144
  },
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 43
+   "members": 41
   },
   {
    "months": 6,
@@ -43,12 +43,12 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 169
+   "members": 166
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 129
+   "members": 127
   }
  ],
  "events": {
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 22,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 405.0,
-   "estimated_members": 427.0,
+   "allocated_unknown": 398.0,
+   "estimated_members": 420.0,
    "monthly_net_confirmed": 6860,
-   "monthly_net_estimated": 133146
+   "monthly_net_estimated": 130964
   }
  ],
  "revenue": {
-  "monthly_low": 133146,
-  "monthly_est": 133146,
+  "monthly_low": 130964,
+  "monthly_est": 130964,
   "gift_once": 44902,
-  "total_low": 178048,
-  "total_est": 178048,
-  "paying_members": 427,
+  "total_low": 175865,
+  "total_est": 175865,
+  "paying_members": 420,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "CbgEkcB1Txw",
-   "start": "2026-10-17 21:01",
-   "title": "【 失踪した友人の部屋に残されていたゲーム 】怖すぎる、不気味すぎると噂のホラーゲーム【 領国つかさ / すぺしゃりて 】",
-   "kind": "配信",
-   "chatters": 288,
-   "member_chatters": 161,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "LsgNRkV9X4k",
    "start": "2026-10-18 21:01",
@@ -323,7 +313,19 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 215,
+   "like_count": 217,
+   "view_count": null
+  },
+  {
+   "video_id": "i21QwB38aTk",
+   "start": "2026-11-16 18:32",
+   "title": "【 メン限 】中学生、本気の無限作業。【 領国つかさ / すぺしゃりて 】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 210,
    "view_count": null
   }
  ],
@@ -355,7 +357,17 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 215,
+   "like_count": 217,
+   "view_count": null
+  },
+  {
+   "video_id": "i21QwB38aTk",
+   "start": "2026-11-16 18:32",
+   "title": "【 メン限 】中学生、本気の無限作業。【 領国つかさ / すぺしゃりて 】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 210,
    "view_count": null
   }
  ],
@@ -485,10 +497,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-16"
+    "to": "2026-11-17"
    },
    "streams_analyzed": 9,
-   "streams_missed": 2,
+   "streams_missed": 3,
    "unique_chatters": 1068,
    "members_confirmed": 353,
    "member_classes": {

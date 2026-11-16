@@ -3,19 +3,19 @@
  "channel_id": "UCNGMMdEgYIUR6rC44v9aZ8w",
  "handle": "@Kazari_Ceo",
  "subscribers": 31500,
- "fetched_at": "2026-11-16 11:09",
- "generated_at": "2026-11-16 11:09",
+ "fetched_at": "2026-11-17 06:37",
+ "generated_at": "2026-11-17 06:38",
  "period": {
-  "from": "2026-10-17 11:09",
-  "to": "2026-11-16 11:09",
+  "from": "2026-10-18 06:37",
+  "to": "2026-11-17 06:37",
   "days": 30
  },
- "streams_analyzed": 15,
- "streams_missed": 2,
- "unique_chatters": 79,
- "members_confirmed": 41,
+ "streams_analyzed": 17,
+ "streams_missed": 1,
+ "unique_chatters": 84,
+ "members_confirmed": 42,
  "member_classes": {
-  "unknown": 40,
+  "unknown": 41,
   "known": 1
  },
  "badges": [
@@ -32,7 +32,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 9
+   "members": 10
   },
   {
    "months": 12,
@@ -61,19 +61,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 1,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 40.0,
-   "estimated_members": 41.0,
+   "allocated_unknown": 41.0,
+   "estimated_members": 42.0,
    "monthly_net_confirmed": 312,
-   "monthly_net_estimated": 12785
+   "monthly_net_estimated": 13096
   }
  ],
  "revenue": {
-  "monthly_low": 12785,
-  "monthly_est": 12785,
+  "monthly_low": 13096,
+  "monthly_est": 13096,
   "gift_once": 0,
-  "total_low": 12785,
-  "total_est": 12785,
-  "paying_members": 41,
+  "total_low": 13096,
+  "total_est": 13096,
+  "paying_members": 42,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -231,6 +231,26 @@
    "member_chatters": 9,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "qwrW1edl5BQ",
+   "start": "2026-11-15 21:03",
+   "title": "Chatting while battling a stomachache → Chill Puzzle [Neo-Porte / Seo Kazari]",
+   "kind": "配信",
+   "chatters": 22,
+   "member_chatters": 19,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "0gfjJeRMK7M",
+   "start": "2026-11-16 20:01",
+   "title": "【ガチグラ２】＃４ そろそろ金欠で草だね。【瀬尾カザリ / ネオポルテ】",
+   "kind": "配信",
+   "chatters": 15,
+   "member_chatters": 12,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -245,18 +265,6 @@
    "members_level": "せおかざメンバーシップ",
    "like_count": 13,
    "view_count": null
-  },
-  {
-   "video_id": "qwrW1edl5BQ",
-   "start": "2026-11-15 00:00",
-   "title": "腹痛と戦っていけ雑談→ちるぱずる【ネオポルテ／瀬尾カザリ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 44,
-   "view_count": 848
   }
  ],
  "members_only_content": [
@@ -382,16 +390,16 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-16"
+    "to": "2026-11-17"
    },
-   "streams_analyzed": 8,
-   "streams_missed": 2,
-   "unique_chatters": 49,
-   "members_confirmed": 30,
+   "streams_analyzed": 10,
+   "streams_missed": 1,
+   "unique_chatters": 57,
+   "members_confirmed": 33,
    "member_classes": {
-    "unknown": 30
+    "unknown": 33
    },
-   "long_term_members": 17,
+   "long_term_members": 18,
    "badges": [
     {
      "months": 2,
@@ -399,7 +407,7 @@
     },
     {
      "months": 6,
-     "members": 5
+     "members": 7
     },
     {
      "months": 12,
@@ -407,7 +415,7 @@
     },
     {
      "months": 24,
-     "members": 15
+     "members": 16
     }
    ],
    "events": {
@@ -421,15 +429,15 @@
      "tier": "せおかざメンバーシップ",
      "price": 490,
      "confirmed_members": 0,
-     "estimated_members": 30.0
+     "estimated_members": 33.0
     }
    ],
    "revenue": {
-    "monthly_low": 9355,
-    "monthly_est": 9355,
+    "monthly_low": 10290,
+    "monthly_est": 10290,
     "gift_once": 0
    },
-   "avg_member_chatters": 13.1,
+   "avg_member_chatters": 13.6,
    "partial": true,
    "finalized": false
   }

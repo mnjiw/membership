@@ -3,32 +3,32 @@
  "channel_id": "UCZjjxaAK8FIB50pjYQ1BwRg",
  "handle": "@KureaShuri",
  "subscribers": 35800,
- "fetched_at": "2026-11-16 06:45",
- "generated_at": "2026-11-16 06:46",
+ "fetched_at": "2026-11-17 06:40",
+ "generated_at": "2026-11-17 06:40",
  "period": {
-  "from": "2026-10-17 06:45",
-  "to": "2026-11-16 06:45",
+  "from": "2026-10-18 06:40",
+  "to": "2026-11-17 06:40",
   "days": 30
  },
- "streams_analyzed": 34,
+ "streams_analyzed": 32,
  "streams_missed": 4,
- "unique_chatters": 2087,
- "members_confirmed": 1166,
+ "unique_chatters": 2048,
+ "members_confirmed": 1158,
  "member_classes": {
-  "unknown": 392,
-  "known": 30,
-  "gift": 744
+  "unknown": 394,
+  "known": 29,
+  "gift": 735
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 725
+   "members": 719
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 186
+   "members": 184
   },
   {
    "months": 2,
@@ -40,9 +40,9 @@
   "new_members": 18,
   "rejoins": 2,
   "milestones": 0,
-  "gift_purchases": 32,
-  "gifted_total": 799,
-  "gift_redemptions": 746
+  "gift_purchases": 31,
+  "gifted_total": 789,
+  "gift_redemptions": 736
  },
  "tiers_configured": true,
  "tiers": [
@@ -50,12 +50,12 @@
    "tier": "おにがしま -うめ-",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 30,
+   "confirmed_members": 29,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 392.0,
-   "estimated_members": 422.0,
-   "monthly_net_confirmed": 9355,
-   "monthly_net_estimated": 131587
+   "allocated_unknown": 394.0,
+   "estimated_members": 423.0,
+   "monthly_net_confirmed": 9043,
+   "monthly_net_estimated": 131899
   },
   {
    "tier": "おにがしま -たけ-",
@@ -92,12 +92,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 131587,
-  "monthly_est": 131587,
-  "gift_once": 249143,
-  "total_low": 380730,
-  "total_est": 380730,
-  "paying_members": 422,
+  "monthly_low": 131899,
+  "monthly_est": 131899,
+  "gift_once": 246025,
+  "total_low": 377924,
+  "total_est": 377924,
+  "paying_members": 423,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -106,26 +106,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "l6-cZtZFVZk",
-   "start": "2026-10-17 10:59",
-   "title": "# 2【 不思議のダンジョン2 風来のシレン 】SFC実機！完全初見！初代シレンに挑戦します！【紅愛しゅり/Varium】",
-   "kind": "配信",
-   "chatters": 232,
-   "member_chatters": 98,
-   "new_members": 0,
-   "gifted_total": 10
-  },
-  {
-   "video_id": "axxj_-1RHuI",
-   "start": "2026-10-17 17:00",
-   "title": "【 鬼武者 Way of the Sword 】# 6 完全初見！今度こそ絶対にラスボスを倒します！！【紅愛しゅり/Varium】",
-   "kind": "配信",
-   "chatters": 153,
-   "member_chatters": 77,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "6Bj8hbmNzfY",
    "start": "2026-10-18 07:00",
@@ -469,7 +449,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 107,
+   "like_count": 108,
    "view_count": null
   },
   {
@@ -481,7 +461,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 209,
+   "like_count": 210,
    "view_count": null
   },
   {
@@ -493,7 +473,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 193,
+   "like_count": 194,
    "view_count": null
   }
  ],
@@ -515,7 +495,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 107,
+   "like_count": 108,
    "view_count": null
   },
   {
@@ -525,7 +505,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 209,
+   "like_count": 210,
    "view_count": null
   },
   {
@@ -535,7 +515,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 193,
+   "like_count": 194,
    "view_count": null
   }
  ],
@@ -659,7 +639,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-16"
+    "to": "2026-11-17"
    },
    "streams_analyzed": 17,
    "streams_missed": 1,

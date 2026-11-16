@@ -3,16 +3,16 @@
  "channel_id": "UCCra1t-eIlO3ULyXQQMD9Xw",
  "handle": "@RemiaAotsuki",
  "subscribers": 81600,
- "fetched_at": "2026-11-16 06:39",
- "generated_at": "2026-11-16 06:39",
+ "fetched_at": "2026-11-17 06:34",
+ "generated_at": "2026-11-17 06:34",
  "period": {
-  "from": "2026-10-17 06:39",
-  "to": "2026-11-16 06:39",
+  "from": "2026-10-18 06:34",
+  "to": "2026-11-17 06:34",
   "days": 30
  },
- "streams_analyzed": 24,
- "streams_missed": 2,
- "unique_chatters": 519,
+ "streams_analyzed": 23,
+ "streams_missed": 3,
+ "unique_chatters": 512,
  "members_confirmed": 113,
  "member_classes": {
   "unknown": 78,
@@ -53,7 +53,7 @@
  ],
  "events": {
   "new_members": 2,
-  "rejoins": 4,
+  "rejoins": 3,
   "milestones": 19,
   "gift_purchases": 1,
   "gifted_total": 5,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "AKmiLNWeGCE",
-   "start": "2026-10-18 06:03",
-   "title": "【OVERWATCH】   international girl squad rank demons 😈 【#VSPOEN #RemiaAotsuki】",
-   "kind": "配信",
-   "chatters": 59,
-   "member_chatters": 30,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "r72IF4PDIjQ",
    "start": "2026-10-20 02:00",
@@ -353,6 +343,18 @@
    "members_level": "",
    "like_count": 22,
    "view_count": null
+  },
+  {
+   "video_id": "PAyskySuh50",
+   "start": "2026-11-16 00:00",
+   "title": "【COLD RAILS】 i'm a bartender on a train 🍸 【#VSPOEN #RemiaAotsuki】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 245,
+   "view_count": 2743
   }
  ],
  "members_only_content": [
@@ -503,10 +505,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-16"
+    "to": "2026-11-17"
    },
    "streams_analyzed": 12,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 317,
    "members_confirmed": 78,
    "member_classes": {

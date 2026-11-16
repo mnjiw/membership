@@ -3,11 +3,11 @@
  "channel_id": "UCQYy35PowPpc6ImRH1TQgcw",
  "handle": "@nora_shitagai",
  "subscribers": 180000,
- "fetched_at": "2026-11-16 06:48",
- "generated_at": "2026-11-16 06:48",
+ "fetched_at": "2026-11-17 06:42",
+ "generated_at": "2026-11-17 06:42",
  "period": {
-  "from": "2026-10-17 06:48",
-  "to": "2026-11-16 06:48",
+  "from": "2026-10-18 06:42",
+  "to": "2026-11-17 06:42",
   "days": 30
  },
  "streams_analyzed": 2,
@@ -96,18 +96,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "EeE1PZLrPxg",
-   "start": "2026-10-17 20:06",
-   "title": "いのちに感謝！！！！！！！！【従井ノラ】",
-   "kind": "live",
-   "status": "no_chat",
-   "reason": "チャットリプレイなし（アーカイブ編集・チャット無効の可能性）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 626,
-   "view_count": 16711
-  },
-  {
    "video_id": "FLYlLHZ4T7k",
    "start": "2026-10-23 00:31",
    "title": "【メン限】深夜ですね…♡作業配信【従井ノラ】",
@@ -128,8 +116,20 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 121,
+   "like_count": 122,
    "view_count": null
+  },
+  {
+   "video_id": "V0hOyJT-Uss",
+   "start": "2026-11-16 00:00",
+   "title": "【リベンジ雑談】NGワードが出たら終了する配信",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 204,
+   "view_count": 3179
   }
  ],
  "members_only_content": [
@@ -150,7 +150,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 121,
+   "like_count": 122,
    "view_count": null
   }
  ],

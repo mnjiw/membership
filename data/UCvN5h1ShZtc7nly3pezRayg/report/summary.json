@@ -3,56 +3,56 @@
  "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
  "handle": "@holoen_ceciliaimmergreen",
  "subscribers": 554000,
- "fetched_at": "2026-11-16 11:06",
- "generated_at": "2026-11-16 11:11",
+ "fetched_at": "2026-11-17 06:30",
+ "generated_at": "2026-11-17 06:31",
  "period": {
-  "from": "2026-10-17 11:06",
-  "to": "2026-11-16 11:06",
+  "from": "2026-10-18 06:30",
+  "to": "2026-11-17 06:30",
   "days": 30
  },
  "streams_analyzed": 23,
  "streams_missed": 3,
- "unique_chatters": 24191,
- "members_confirmed": 3962,
+ "unique_chatters": 24176,
+ "members_confirmed": 3891,
  "member_classes": {
-  "known": 1715,
-  "unknown": 1717,
-  "gift": 530
+  "known": 1705,
+  "unknown": 1708,
+  "gift": 478
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 731
+   "members": 680
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 143
+   "members": 144
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 360
+   "members": 357
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 389
+   "members": 385
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 2339
+   "members": 2325
   }
  ],
  "events": {
-  "new_members": 119,
-  "rejoins": 72,
-  "milestones": 1316,
-  "gift_purchases": 72,
-  "gifted_total": 643,
-  "gift_redemptions": 531
+  "new_members": 115,
+  "rejoins": 71,
+  "milestones": 1291,
+  "gift_purchases": 69,
+  "gifted_total": 591,
+  "gift_redemptions": 479
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,12 +60,12 @@
    "tier": "otomems",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 1508,
+   "confirmed_members": 1498,
    "share_of_confirmed_pct": 87.9,
-   "allocated_unknown": 1509.8,
-   "estimated_members": 3017.8,
-   "monthly_net_confirmed": 662149,
-   "monthly_net_estimated": 1325070
+   "allocated_unknown": 1500.6,
+   "estimated_members": 2998.6,
+   "monthly_net_confirmed": 657758,
+   "monthly_net_estimated": 1316674
   },
   {
    "tier": "otocranks",
@@ -73,19 +73,19 @@
    "net_per_member": 820.9,
    "confirmed_members": 207,
    "share_of_confirmed_pct": 12.1,
-   "allocated_unknown": 207.2,
-   "estimated_members": 414.2,
+   "allocated_unknown": 207.4,
+   "estimated_members": 414.4,
    "monthly_net_confirmed": 169928,
-   "monthly_net_estimated": 340055
+   "monthly_net_estimated": 340155
   }
  ],
  "revenue": {
-  "monthly_low": 1585996,
-  "monthly_est": 1665125,
-  "gift_once": 282335,
-  "total_low": 1868332,
-  "total_est": 1947460,
-  "paying_members": 3432,
+  "monthly_low": 1577654,
+  "monthly_est": 1656829,
+  "gift_once": 259503,
+  "total_low": 1837156,
+  "total_est": 1916332,
+  "paying_members": 3413,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -94,16 +94,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "HdEGLyy4y4c",
-   "start": "2026-10-18 03:01",
-   "title": "【GUERILLA】CAN WE WIN AND GET LARA TO A HOSPITAL!?!?!?",
-   "kind": "配信",
-   "chatters": 2267,
-   "member_chatters": 877,
-   "new_members": 4,
-   "gifted_total": 52
-  },
   {
    "video_id": "e7Er77h73Gc",
    "start": "2026-10-21 07:36",
@@ -323,6 +313,16 @@
    "member_chatters": 1352,
    "new_members": 2,
    "gifted_total": 23
+  },
+  {
+   "video_id": "tkwzJvnIUm0",
+   "start": "2026-11-17 01:15",
+   "title": "【BLOODBORNE】 @holoen_raorapanthera I BELIEVE IN YOU!",
+   "kind": "配信",
+   "chatters": 1847,
+   "member_chatters": 543,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -347,7 +347,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "otomems",
-   "like_count": 883,
+   "like_count": 884,
    "view_count": null
   },
   {
@@ -359,7 +359,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "otomems",
-   "like_count": 1349,
+   "like_count": 1375,
    "view_count": null
   }
  ],
@@ -371,7 +371,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "otomems",
-   "like_count": 883,
+   "like_count": 884,
    "view_count": null
   },
   {
@@ -381,7 +381,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "otomems",
-   "like_count": 1349,
+   "like_count": 1375,
    "view_count": null
   }
  ],
@@ -509,30 +509,30 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-16"
+    "to": "2026-11-17"
    },
-   "streams_analyzed": 13,
+   "streams_analyzed": 14,
    "streams_missed": 1,
-   "unique_chatters": 19761,
-   "members_confirmed": 3626,
+   "unique_chatters": 20103,
+   "members_confirmed": 3642,
    "member_classes": {
-    "known": 1633,
-    "unknown": 1527,
+    "known": 1634,
+    "unknown": 1542,
     "gift": 466
    },
-   "long_term_members": 2168,
+   "long_term_members": 2176,
    "badges": [
     {
      "months": 0,
-     "members": 643
+     "members": 647
     },
     {
      "months": 1,
-     "members": 135
+     "members": 136
     },
     {
      "months": 2,
-     "members": 329
+     "members": 332
     },
     {
      "months": 6,
@@ -540,35 +540,35 @@
     },
     {
      "months": 12,
-     "members": 2168
+     "members": 2176
     }
    ],
    "events": {
     "new_members": 106,
     "rejoins": 57,
-    "milestones": 1096,
+    "milestones": 1097,
     "gifted_total": 579
    },
    "tiers": [
     {
      "tier": "otomems",
      "price": 690,
-     "confirmed_members": 1436,
-     "estimated_members": 2778.8
+     "confirmed_members": 1437,
+     "estimated_members": 2793.1
     },
     {
      "tier": "otocranks",
      "price": 1290,
      "confirmed_members": 197,
-     "estimated_members": 381.2
+     "estimated_members": 382.9
     }
    ],
    "revenue": {
-    "monthly_low": 1462745,
-    "monthly_est": 1533081,
+    "monthly_low": 1469771,
+    "monthly_est": 1540754,
     "gift_once": 254234
    },
-   "avg_member_chatters": 995.6,
+   "avg_member_chatters": 963.3,
    "partial": true,
    "finalized": false
   }

@@ -3,62 +3,62 @@
  "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
  "handle": "@kazamairoha",
  "subscribers": 1150000,
- "fetched_at": "2026-11-16 11:05",
- "generated_at": "2026-11-16 11:05",
+ "fetched_at": "2026-11-17 06:24",
+ "generated_at": "2026-11-17 06:24",
  "period": {
-  "from": "2026-10-17 11:05",
-  "to": "2026-11-16 11:05",
+  "from": "2026-10-18 06:24",
+  "to": "2026-11-17 06:24",
   "days": 30
  },
- "streams_analyzed": 32,
+ "streams_analyzed": 31,
  "streams_missed": 5,
- "unique_chatters": 11265,
- "members_confirmed": 2870,
+ "unique_chatters": 10935,
+ "members_confirmed": 2825,
  "member_classes": {
-  "unknown": 2320,
-  "known": 550
+  "unknown": 2282,
+  "known": 543
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 100
+   "members": 97
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 49
+   "members": 48
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 217
+   "members": 213
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 268
+   "members": 266
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 641
+   "members": 634
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 389
+   "members": 384
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 1206
+   "members": 1183
   }
  ],
  "events": {
-  "new_members": 45,
-  "rejoins": 28,
-  "milestones": 197,
+  "new_members": 41,
+  "rejoins": 25,
+  "milestones": 194,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -69,21 +69,21 @@
    "tier": "かざま隊",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 550,
+   "confirmed_members": 543,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2320.0,
-   "estimated_members": 2870.0,
-   "monthly_net_confirmed": 171500,
-   "monthly_net_estimated": 894918
+   "allocated_unknown": 2282.0,
+   "estimated_members": 2825.0,
+   "monthly_net_confirmed": 169317,
+   "monthly_net_estimated": 880886
   }
  ],
  "revenue": {
-  "monthly_low": 894918,
-  "monthly_est": 894918,
+  "monthly_low": 880886,
+  "monthly_est": 880886,
   "gift_once": 0,
-  "total_low": 894918,
-  "total_est": 894918,
-  "paying_members": 2870,
+  "total_low": 880886,
+  "total_est": 880886,
+  "paying_members": 2825,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -92,16 +92,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "voiuRX0Fs3Y",
-   "start": "2026-10-17 19:01",
-   "title": "【Japanese Ramen Simulator】大繫盛確定★5店舗『ござるらぁめん』開店🍜【風真いろは/ホロライブ】",
-   "kind": "配信",
-   "chatters": 1386,
-   "member_chatters": 693,
-   "new_members": 4,
-   "gifted_total": 0
-  },
   {
    "video_id": "dkSBw7TZdPQ",
    "start": "2026-10-18 07:00",
@@ -435,7 +425,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "かざま隊",
-   "like_count": 1503,
+   "like_count": 1501,
    "view_count": null
   },
   {
@@ -459,7 +449,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "かざま隊",
-   "like_count": 1071,
+   "like_count": 1072,
    "view_count": null
   },
   {
@@ -471,7 +461,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "かざま隊",
-   "like_count": 975,
+   "like_count": 1086,
    "view_count": null
   }
  ],
@@ -483,7 +473,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "かざま隊",
-   "like_count": 1503,
+   "like_count": 1501,
    "view_count": null
   },
   {
@@ -503,7 +493,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "かざま隊",
-   "like_count": 1071,
+   "like_count": 1072,
    "view_count": null
   },
   {
@@ -513,7 +503,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "かざま隊",
-   "like_count": 975,
+   "like_count": 1086,
    "view_count": null
   }
  ],
@@ -660,7 +650,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-16"
+    "to": "2026-11-17"
    },
    "streams_analyzed": 14,
    "streams_missed": 3,
