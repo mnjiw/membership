@@ -3,15 +3,15 @@
  "channel_id": "UCpRXCTyNNa-MnjhK6gisnRw",
  "handle": "@Gaon",
  "subscribers": 59900,
- "fetched_at": "2026-11-16 05:28",
- "generated_at": "2026-11-16 05:28",
+ "fetched_at": "2026-11-17 05:27",
+ "generated_at": "2026-11-17 05:28",
  "period": {
-  "from": "2026-10-17 05:28",
-  "to": "2026-11-16 05:28",
+  "from": "2026-10-18 05:27",
+  "to": "2026-11-17 05:27",
   "days": 30
  },
  "streams_analyzed": 14,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 171,
  "members_confirmed": 66,
  "member_classes": {
@@ -250,7 +250,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "ce0lAhkRUQM",
+   "start": "2026-11-16 00:00",
+   "title": "最近雑談やってないよね요즘잡담안한거같은데?【にじさんじ | ガオン】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 109,
+   "view_count": 1282
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -413,10 +426,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-16"
+    "to": "2026-11-17"
    },
    "streams_analyzed": 6,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 76,
    "members_confirmed": 40,
    "member_classes": {

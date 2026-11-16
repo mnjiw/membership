@@ -3,19 +3,19 @@
  "channel_id": "UC_4QF0dL-9XI9VajsNkMtmQ",
  "handle": "@Rei7_Y4T4",
  "subscribers": 180000,
- "fetched_at": "2026-11-16 11:04",
- "generated_at": "2026-11-16 11:04",
+ "fetched_at": "2026-11-17 05:34",
+ "generated_at": "2026-11-17 05:35",
  "period": {
-  "from": "2026-10-17 11:04",
-  "to": "2026-11-16 11:04",
+  "from": "2026-10-18 05:34",
+  "to": "2026-11-17 05:34",
   "days": 30
  },
- "streams_analyzed": 31,
- "streams_missed": 3,
- "unique_chatters": 5503,
- "members_confirmed": 698,
+ "streams_analyzed": 29,
+ "streams_missed": 2,
+ "unique_chatters": 5323,
+ "members_confirmed": 690,
  "member_classes": {
-  "unknown": 610,
+  "unknown": 602,
   "known": 76,
   "gift": 12
  },
@@ -28,17 +28,17 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 49
+   "members": 48
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 563
+   "members": 556
   }
  ],
  "events": {
   "new_members": 51,
-  "rejoins": 5,
+  "rejoins": 4,
   "milestones": 0,
   "gift_purchases": 4,
   "gifted_total": 12,
@@ -52,19 +52,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 76,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 610.0,
-   "estimated_members": 686.0,
+   "allocated_unknown": 602.0,
+   "estimated_members": 678.0,
    "monthly_net_confirmed": 23698,
-   "monthly_net_estimated": 213907
+   "monthly_net_estimated": 211413
   }
  ],
  "revenue": {
-  "monthly_low": 213907,
-  "monthly_est": 213907,
+  "monthly_low": 211413,
+  "monthly_est": 211413,
   "gift_once": 3742,
-  "total_low": 217649,
-  "total_est": 217649,
-  "paying_members": 686,
+  "total_low": 215155,
+  "total_est": 215155,
+  "paying_members": 678,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,26 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "LuwqVcPE6rQ",
-   "start": "2026-10-17 17:00",
-   "title": "#4【 ドラゴンクエストモンスターズ　テリーのワンダーランドRETRO 】Aクラス目指すななよ【 Rei7 / にじさんじ 】",
-   "kind": "配信",
-   "chatters": 624,
-   "member_chatters": 122,
-   "new_members": 0,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "c7nuVnwNdB8",
-   "start": "2026-10-17 23:02",
-   "title": "【 Overwatch 】#にじEX_OW 自主練 with 塚原大地【 Rei7 / にじさんじ 】",
-   "kind": "配信",
-   "chatters": 204,
-   "member_chatters": 103,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "aZc6IJtLPgA",
    "start": "2026-10-18 18:33",
@@ -406,20 +386,8 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "Ris7",
-   "like_count": 249,
+   "like_count": 254,
    "view_count": null
-  },
-  {
-   "video_id": "6iIrxSzrmzc",
-   "start": "2026-11-13 00:00",
-   "title": "[ Chat ] Rei7 asks an AI if she's a gyaru, talks about how she's too guarded in public, and intro...",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 1116,
-   "view_count": 58705
   }
  ],
  "members_only_content": [
@@ -440,7 +408,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "Ris7",
-   "like_count": 249,
+   "like_count": 254,
    "view_count": null
   }
  ],
@@ -557,10 +525,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-16"
+    "to": "2026-11-17"
    },
    "streams_analyzed": 14,
-   "streams_missed": 2,
+   "streams_missed": 1,
    "unique_chatters": 3201,
    "members_confirmed": 493,
    "member_classes": {

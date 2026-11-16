@@ -3,19 +3,19 @@
  "channel_id": "UC5Qv2tPOI38OcnqOdUKkn7Q",
  "handle": "@SenriAyumu_Y4T4",
  "subscribers": 122000,
- "fetched_at": "2026-11-16 05:37",
- "generated_at": "2026-11-16 05:38",
+ "fetched_at": "2026-11-17 05:34",
+ "generated_at": "2026-11-17 05:34",
  "period": {
-  "from": "2026-10-17 05:37",
-  "to": "2026-11-16 05:37",
+  "from": "2026-10-18 05:34",
+  "to": "2026-11-17 05:34",
   "days": 30
  },
- "streams_analyzed": 45,
- "streams_missed": 2,
- "unique_chatters": 3676,
- "members_confirmed": 287,
+ "streams_analyzed": 44,
+ "streams_missed": 3,
+ "unique_chatters": 3653,
+ "members_confirmed": 285,
  "member_classes": {
-  "unknown": 220,
+  "unknown": 218,
   "known": 55,
   "gift": 12
  },
@@ -23,12 +23,12 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 64
+   "members": 63
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 223
+   "members": 222
   }
  ],
  "events": {
@@ -47,19 +47,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 55,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 220.0,
-   "estimated_members": 275.0,
+   "allocated_unknown": 218.0,
+   "estimated_members": 273.0,
    "monthly_net_confirmed": 17150,
-   "monthly_net_estimated": 85750
+   "monthly_net_estimated": 85126
   }
  ],
  "revenue": {
-  "monthly_low": 85750,
-  "monthly_est": 85750,
+  "monthly_low": 85126,
+  "monthly_est": 85126,
   "gift_once": 3742,
-  "total_low": 89492,
-  "total_est": 89492,
-  "paying_members": 275,
+  "total_low": 88868,
+  "total_est": 88868,
+  "paying_members": 273,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -68,16 +68,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "A112OBB67WI",
-   "start": "2026-10-17 15:04",
-   "title": "【 APEX 】知ってるマップでお願いします。何卒、何卒、何卒。【にじさんじ / 千凛あゆむ】",
-   "kind": "配信",
-   "chatters": 95,
-   "member_chatters": 35,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "8IDzKZUO8gU",
    "start": "2026-10-18 09:01",
@@ -529,7 +519,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 133,
+   "like_count": 134,
    "view_count": null
   },
   {
@@ -543,6 +533,18 @@
    "members_level": "",
    "like_count": 86,
    "view_count": null
+  },
+  {
+   "video_id": "aszNNNNrQaQ",
+   "start": "2026-11-16 00:00",
+   "title": "スプラ大会本番！でずっと練習してきたナイス玉でチームを勝利に導く。 #にじイカ祭り2026 本番ハイライト 【千凛あゆむ / にじさんじ 】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 231,
+   "view_count": 5613
   }
  ],
  "members_only_content": [
@@ -553,7 +555,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 133,
+   "like_count": 134,
    "view_count": null
   },
   {
@@ -672,10 +674,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-16"
+    "to": "2026-11-17"
    },
    "streams_analyzed": 25,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 2148,
    "members_confirmed": 216,
    "member_classes": {

@@ -3,27 +3,27 @@
  "channel_id": "UCzHiiP2r1zyTr8A1-6HtQtw",
  "handle": "@YamadaRyuichiro",
  "subscribers": 180000,
- "fetched_at": "2026-11-16 05:44",
- "generated_at": "2026-11-16 05:45",
+ "fetched_at": "2026-11-17 05:36",
+ "generated_at": "2026-11-17 05:36",
  "period": {
-  "from": "2026-10-17 05:44",
-  "to": "2026-11-16 05:44",
+  "from": "2026-10-18 05:36",
+  "to": "2026-11-17 05:36",
   "days": 30
  },
- "streams_analyzed": 34,
- "streams_missed": 2,
- "unique_chatters": 3732,
- "members_confirmed": 1421,
+ "streams_analyzed": 33,
+ "streams_missed": 1,
+ "unique_chatters": 3653,
+ "members_confirmed": 1411,
  "member_classes": {
-  "unknown": 747,
-  "known": 512,
+  "unknown": 740,
+  "known": 509,
   "gift": 162
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 442
+   "members": 432
   },
   {
    "months": 1,
@@ -32,7 +32,7 @@
   }
  ],
  "events": {
-  "new_members": 86,
+  "new_members": 85,
   "rejoins": 0,
   "milestones": 0,
   "gift_purchases": 29,
@@ -45,21 +45,21 @@
    "tier": "山田のメンバー",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 512,
+   "confirmed_members": 509,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 747.0,
-   "estimated_members": 1259.0,
-   "monthly_net_confirmed": 159651,
-   "monthly_net_estimated": 392579
+   "allocated_unknown": 740.0,
+   "estimated_members": 1249.0,
+   "monthly_net_confirmed": 158715,
+   "monthly_net_estimated": 389461
   }
  ],
  "revenue": {
-  "monthly_low": 392579,
-  "monthly_est": 392579,
+  "monthly_low": 389461,
+  "monthly_est": 389461,
   "gift_once": 51450,
-  "total_low": 444029,
-  "total_est": 444029,
-  "paying_members": 1259,
+  "total_low": 440911,
+  "total_est": 440911,
+  "paying_members": 1249,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -68,16 +68,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "VVnBI76xTLU",
-   "start": "2026-10-17 13:59",
-   "title": "【雀魂 #1】山田と一緒に麻雀を始めてみないか？【にじさんじ / 山田龍一郎】",
-   "kind": "配信",
-   "chatters": 396,
-   "member_chatters": 238,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "RG2NmQCUaA0",
    "start": "2026-10-18 07:00",
@@ -411,18 +401,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "j8i2fMYcx1I",
-   "start": "2026-10-17 18:22",
-   "title": "【A Dance of Fire And Ice】メン限！スピードランで裏面への道を開く【にじさんじ / 山田龍一郎】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "山田のメンバー",
-   "like_count": 305,
-   "view_count": null
-  },
-  {
    "video_id": "mLK4-urxCCk",
    "start": "2026-11-13 18:01",
    "title": "【メン限】山田の作業を見守る会【にじさんじ / 山田龍一郎】",
@@ -431,29 +409,19 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "山田のメンバー",
-   "like_count": 427,
+   "like_count": 428,
    "view_count": null
   }
  ],
  "members_only_content": [
   {
-   "video_id": "j8i2fMYcx1I",
-   "start": "2026-10-17 18:22",
-   "title": "【A Dance of Fire And Ice】メン限！スピードランで裏面への道を開く【にじさんじ / 山田龍一郎】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "山田のメンバー",
-   "like_count": 305,
-   "view_count": null
-  },
-  {
    "video_id": "mLK4-urxCCk",
    "start": "2026-11-13 18:01",
    "title": "【メン限】山田の作業を見守る会【にじさんじ / 山田龍一郎】",
    "kind": "live",
    "status": "members_only",
    "members_level": "山田のメンバー",
-   "like_count": 427,
+   "like_count": 428,
    "view_count": null
   }
  ],
@@ -558,7 +526,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-16"
+    "to": "2026-11-17"
    },
    "streams_analyzed": 20,
    "streams_missed": 1,

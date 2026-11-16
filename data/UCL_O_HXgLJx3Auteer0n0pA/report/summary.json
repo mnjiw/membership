@@ -3,26 +3,26 @@
  "channel_id": "UCL_O_HXgLJx3Auteer0n0pA",
  "handle": "@SuoSango",
  "subscribers": 681000,
- "fetched_at": "2026-11-16 05:25",
- "generated_at": "2026-11-16 05:26",
+ "fetched_at": "2026-11-17 05:25",
+ "generated_at": "2026-11-17 05:26",
  "period": {
-  "from": "2026-10-17 05:25",
-  "to": "2026-11-16 05:25",
+  "from": "2026-10-18 05:25",
+  "to": "2026-11-17 05:25",
   "days": 30
  },
- "streams_analyzed": 13,
- "streams_missed": 3,
- "unique_chatters": 2243,
- "members_confirmed": 315,
+ "streams_analyzed": 12,
+ "streams_missed": 2,
+ "unique_chatters": 2208,
+ "members_confirmed": 312,
  "member_classes": {
-  "known": 19,
-  "unknown": 296
+  "unknown": 294,
+  "known": 18
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 17
+   "members": 16
   },
   {
    "months": 1,
@@ -32,12 +32,12 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 23
+   "members": 22
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 34
+   "members": 33
   },
   {
    "months": 12,
@@ -51,7 +51,7 @@
   }
  ],
  "events": {
-  "new_members": 7,
+  "new_members": 6,
   "rejoins": 1,
   "milestones": 8,
   "gift_purchases": 0,
@@ -64,43 +64,43 @@
    "tier": "ふぁんご",
    "price": 390,
    "net_per_member": 248.2,
-   "confirmed_members": 4,
-   "share_of_confirmed_pct": 21.1,
-   "allocated_unknown": 62.3,
-   "estimated_members": 66.3,
-   "monthly_net_confirmed": 993,
-   "monthly_net_estimated": 16458
+   "confirmed_members": 3,
+   "share_of_confirmed_pct": 16.7,
+   "allocated_unknown": 49.0,
+   "estimated_members": 52.0,
+   "monthly_net_confirmed": 745,
+   "monthly_net_estimated": 12905
   },
   {
    "tier": "どすふぁんご",
    "price": 690,
    "net_per_member": 439.1,
    "confirmed_members": 12,
-   "share_of_confirmed_pct": 63.2,
-   "allocated_unknown": 186.9,
-   "estimated_members": 198.9,
+   "share_of_confirmed_pct": 66.7,
+   "allocated_unknown": 196.0,
+   "estimated_members": 208.0,
    "monthly_net_confirmed": 5269,
-   "monthly_net_estimated": 87356
+   "monthly_net_estimated": 91331
   },
   {
    "tier": "ファ～♪ンゴ",
    "price": 4090,
    "net_per_member": 2602.7,
    "confirmed_members": 3,
-   "share_of_confirmed_pct": 15.8,
-   "allocated_unknown": 46.7,
-   "estimated_members": 49.7,
+   "share_of_confirmed_pct": 16.7,
+   "allocated_unknown": 49.0,
+   "estimated_members": 52.0,
    "monthly_net_confirmed": 7808,
-   "monthly_net_estimated": 129451
+   "monthly_net_estimated": 135342
   }
  ],
  "revenue": {
-  "monthly_low": 87532,
-  "monthly_est": 233266,
+  "monthly_low": 86787,
+  "monthly_est": 239578,
   "gift_once": 0,
-  "total_low": 87532,
-  "total_est": 233266,
-  "paying_members": 315,
+  "total_low": 86787,
+  "total_est": 239578,
+  "paying_members": 312,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -109,16 +109,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "a-D0s94didU",
-   "start": "2026-10-17 12:09",
-   "title": "【アクアリウムは踊らない】🪸　アクアリウムが踊らないので、サンゴは踊るのをやめてしまいました。お前のせいです。あ～あ　＃０３【周央サンゴ】",
-   "kind": "配信",
-   "chatters": 92,
-   "member_chatters": 39,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "kWkg6acQ5J0",
    "start": "2026-10-18 23:18",
@@ -242,18 +232,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "H8JpwowrHkw",
-   "start": "2026-10-18 00:16",
-   "title": "１時までに睡眠します！",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "ファ～♪ンゴ",
-   "like_count": 19,
-   "view_count": null
-  },
-  {
    "video_id": "OlsqWixPmOA",
    "start": "2026-10-29 22:17",
    "title": "寒くなってくると編み物がしたくなる",
@@ -274,22 +252,12 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "どすふぁんご",
-   "like_count": 106,
+   "like_count": 112,
    "view_count": null
   }
  ],
  "members_only_content": [
   {
-   "video_id": "H8JpwowrHkw",
-   "start": "2026-10-18 00:16",
-   "title": "１時までに睡眠します！",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "ファ～♪ンゴ",
-   "like_count": 19,
-   "view_count": null
-  },
-  {
    "video_id": "OlsqWixPmOA",
    "start": "2026-10-29 22:17",
    "title": "寒くなってくると編み物がしたくなる",
@@ -306,7 +274,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "どすふぁんご",
-   "like_count": 106,
+   "like_count": 112,
    "view_count": null
   }
  ],
@@ -469,7 +437,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-16"
+    "to": "2026-11-17"
    },
    "streams_analyzed": 6,
    "streams_missed": 1,

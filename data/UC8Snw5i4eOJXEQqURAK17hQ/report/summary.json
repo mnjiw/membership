@@ -3,15 +3,15 @@
  "channel_id": "UC8Snw5i4eOJXEQqURAK17hQ",
  "handle": "@RaiGalilei",
  "subscribers": 57900,
- "fetched_at": "2026-11-16 11:01",
- "generated_at": "2026-11-16 11:01",
+ "fetched_at": "2026-11-17 05:27",
+ "generated_at": "2026-11-17 05:27",
  "period": {
-  "from": "2026-10-17 11:01",
-  "to": "2026-11-16 11:01",
+  "from": "2026-10-18 05:27",
+  "to": "2026-11-17 05:27",
   "days": 30
  },
  "streams_analyzed": 30,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 289,
  "members_confirmed": 84,
  "member_classes": {
@@ -389,7 +389,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "lpdNvuyYwMg",
+   "start": "2026-11-16 00:00",
+   "title": "【Valheim】 Rai Galilei's: \"TO THE MOUNTAINS RAAAAAH\" #4【NIJISANJI】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 96,
+   "view_count": 1051
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -528,10 +541,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-16"
+    "to": "2026-11-17"
    },
    "streams_analyzed": 18,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 166,
    "members_confirmed": 33,
    "member_classes": {

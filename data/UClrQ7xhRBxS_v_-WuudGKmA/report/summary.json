@@ -3,27 +3,27 @@
  "channel_id": "UClrQ7xhRBxS_v_-WuudGKmA",
  "handle": "@KaburakiRoco",
  "subscribers": 261000,
- "fetched_at": "2026-11-16 05:29",
- "generated_at": "2026-11-16 05:29",
+ "fetched_at": "2026-11-17 05:28",
+ "generated_at": "2026-11-17 05:29",
  "period": {
-  "from": "2026-10-17 05:29",
-  "to": "2026-11-16 05:29",
+  "from": "2026-10-18 05:28",
+  "to": "2026-11-17 05:28",
   "days": 30
  },
  "streams_analyzed": 21,
- "streams_missed": 5,
- "unique_chatters": 3765,
- "members_confirmed": 800,
+ "streams_missed": 4,
+ "unique_chatters": 3935,
+ "members_confirmed": 807,
  "member_classes": {
-  "unknown": 661,
-  "known": 37,
-  "gift": 102
+  "unknown": 669,
+  "known": 41,
+  "gift": 97
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 158
+   "members": 159
   },
   {
    "months": 1,
@@ -38,31 +38,31 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 85
+   "members": 86
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 165
+   "members": 167
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 126
+   "members": 127
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 171
+   "members": 173
   }
  ],
  "events": {
-  "new_members": 29,
+  "new_members": 31,
   "rejoins": 2,
   "milestones": 0,
   "gift_purchases": 8,
-  "gifted_total": 102,
-  "gift_redemptions": 102
+  "gifted_total": 97,
+  "gift_redemptions": 97
  },
  "tiers_configured": true,
  "tiers": [
@@ -70,21 +70,21 @@
    "tier": "鏑木ろこのメンバーシップ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 37,
+   "confirmed_members": 41,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 661.0,
-   "estimated_members": 698.0,
-   "monthly_net_confirmed": 11537,
-   "monthly_net_estimated": 217649
+   "allocated_unknown": 669.0,
+   "estimated_members": 710.0,
+   "monthly_net_confirmed": 12785,
+   "monthly_net_estimated": 221391
   }
  ],
  "revenue": {
-  "monthly_low": 217649,
-  "monthly_est": 217649,
-  "gift_once": 31805,
-  "total_low": 249455,
-  "total_est": 249455,
-  "paying_members": 698,
+  "monthly_low": 221391,
+  "monthly_est": 221391,
+  "gift_once": 30246,
+  "total_low": 251637,
+  "total_est": 251637,
+  "paying_members": 710,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "P-51acupEE8",
-   "start": "2026-10-17 19:00",
-   "title": "ごきげんよう。クッキーを焼きませんか？【 鏑木ろこ￤にじさんじ 】",
-   "kind": "配信",
-   "chatters": 375,
-   "member_chatters": 175,
-   "new_members": 2,
-   "gifted_total": 10
-  },
   {
    "video_id": "Gr9tVbyL-Dw",
    "start": "2026-10-20 07:00",
@@ -302,21 +292,19 @@
    "member_chatters": 265,
    "new_members": 3,
    "gifted_total": 1
+  },
+  {
+   "video_id": "eWVEAx6l61Q",
+   "start": "2026-11-16 18:01",
+   "title": "【 Jump King 】俺たちのジャンプは、まだ終わっちゃいないぜ・・・！！！ 【 鏑木ろこ￤にじさんじ 】",
+   "kind": "配信",
+   "chatters": 807,
+   "member_chatters": 255,
+   "new_members": 4,
+   "gifted_total": 5
   }
  ],
  "missed_streams": [
-  {
-   "video_id": "eQaWxAhuFxg",
-   "start": "2026-10-17 23:02",
-   "title": "【 メン限同時視聴 】親愛なる八本脚の友だち",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 86,
-   "view_count": null
-  },
   {
    "video_id": "jL3GTvGeDlo",
    "start": "2026-10-24 23:03",
@@ -362,22 +350,12 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 57,
+   "like_count": 65,
    "view_count": null
   }
  ],
  "members_only_content": [
   {
-   "video_id": "eQaWxAhuFxg",
-   "start": "2026-10-17 23:02",
-   "title": "【 メン限同時視聴 】親愛なる八本脚の友だち",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 86,
-   "view_count": null
-  },
-  {
    "video_id": "jL3GTvGeDlo",
    "start": "2026-10-24 23:03",
    "title": "【 メン限同時視聴 】八つ墓村（1977）",
@@ -414,7 +392,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 57,
+   "like_count": 65,
    "view_count": null
   }
  ],
@@ -563,68 +541,68 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-16"
+    "to": "2026-11-17"
    },
-   "streams_analyzed": 13,
+   "streams_analyzed": 14,
    "streams_missed": 2,
-   "unique_chatters": 2476,
-   "members_confirmed": 529,
+   "unique_chatters": 2765,
+   "members_confirmed": 564,
    "member_classes": {
-    "unknown": 498,
-    "known": 30,
-    "gift": 1
+    "unknown": 523,
+    "known": 35,
+    "gift": 6
    },
-   "long_term_members": 341,
+   "long_term_members": 357,
    "badges": [
     {
      "months": 0,
-     "members": 49
+     "members": 59
     },
     {
      "months": 1,
-     "members": 18
+     "members": 19
     },
     {
      "months": 2,
-     "members": 51
+     "members": 56
     },
     {
      "months": 6,
-     "members": 70
+     "members": 73
     },
     {
      "months": 12,
-     "members": 117
+     "members": 122
     },
     {
      "months": 24,
-     "members": 97
+     "members": 101
     },
     {
      "months": 36,
-     "members": 127
+     "members": 134
     }
    ],
    "events": {
-    "new_members": 15,
+    "new_members": 19,
     "rejoins": 2,
     "milestones": 0,
-    "gifted_total": 1
+    "gifted_total": 6
    },
    "tiers": [
     {
      "tier": "鏑木ろこのメンバーシップ",
      "price": 490,
-     "confirmed_members": 30,
-     "estimated_members": 528.0
+     "confirmed_members": 35,
+     "estimated_members": 558.0
     }
    ],
    "revenue": {
-    "monthly_low": 164640,
-    "monthly_est": 164640,
-    "gift_once": 312
+    "monthly_low": 173995,
+    "monthly_est": 173995,
+    "gift_once": 1871
    },
-   "avg_member_chatters": 181,
+   "avg_member_chatters": 186.3,
    "partial": true,
    "finalized": false
   }

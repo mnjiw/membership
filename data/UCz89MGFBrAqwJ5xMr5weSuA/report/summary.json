@@ -3,52 +3,52 @@
  "channel_id": "UCz89MGFBrAqwJ5xMr5weSuA",
  "handle": "@InamiRai",
  "subscribers": 426000,
- "fetched_at": "2026-11-16 05:32",
- "generated_at": "2026-11-16 05:33",
+ "fetched_at": "2026-11-17 05:30",
+ "generated_at": "2026-11-17 05:30",
  "period": {
-  "from": "2026-10-17 05:32",
-  "to": "2026-11-16 05:32",
+  "from": "2026-10-18 05:30",
+  "to": "2026-11-17 05:30",
   "days": 30
  },
- "streams_analyzed": 33,
+ "streams_analyzed": 31,
  "streams_missed": 1,
- "unique_chatters": 8187,
- "members_confirmed": 3186,
+ "unique_chatters": 8088,
+ "members_confirmed": 3170,
  "member_classes": {
-  "known": 795,
-  "unknown": 2324,
+  "unknown": 2309,
+  "known": 794,
   "gift": 67
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 493
+   "members": 492
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 129
+   "members": 128
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 438
+   "members": 437
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 441
+   "members": 437
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 1080
+   "members": 1075
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 431
+   "members": 427
   },
   {
    "months": 36,
@@ -57,9 +57,9 @@
   }
  ],
  "events": {
-  "new_members": 247,
+  "new_members": 245,
   "rejoins": 47,
-  "milestones": 340,
+  "milestones": 339,
   "gift_purchases": 11,
   "gifted_total": 68,
   "gift_redemptions": 67
@@ -70,21 +70,21 @@
    "tier": "伊波すたじお",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 795,
+   "confirmed_members": 794,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2324.0,
-   "estimated_members": 3119.0,
-   "monthly_net_confirmed": 247895,
-   "monthly_net_estimated": 972561
+   "allocated_unknown": 2309.0,
+   "estimated_members": 3103.0,
+   "monthly_net_confirmed": 247584,
+   "monthly_net_estimated": 967572
   }
  ],
  "revenue": {
-  "monthly_low": 972561,
-  "monthly_est": 972561,
+  "monthly_low": 967572,
+  "monthly_est": 967572,
   "gift_once": 21204,
-  "total_low": 993765,
-  "total_est": 993765,
-  "paying_members": 3119,
+  "total_low": 988775,
+  "total_est": 988775,
+  "paying_members": 3103,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -93,26 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "nPyP-kwFbOw",
-   "start": "2026-10-17 22:32",
-   "title": "【 タンポポは耐える。 】一旦耐え【 伊波ライ / にじさんじ 】",
-   "kind": "配信",
-   "chatters": 963,
-   "member_chatters": 693,
-   "new_members": 2,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "22SgsJZr_1k",
-   "start": "2026-10-17 23:46",
-   "title": "【 OVERWATCH 】深夜練【 伊波ライ / にじさんじ 】",
-   "kind": "配信",
-   "chatters": 542,
-   "member_chatters": 449,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "UOq82lq0mSU",
    "start": "2026-10-20 21:01",
@@ -590,7 +570,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-16"
+    "to": "2026-11-17"
    },
    "streams_analyzed": 16,
    "streams_missed": 0,
