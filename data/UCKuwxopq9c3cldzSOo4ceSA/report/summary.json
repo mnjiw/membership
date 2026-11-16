@@ -3,15 +3,15 @@
  "channel_id": "UCKuwxopq9c3cldzSOo4ceSA",
  "handle": "@tsukumo_yagami",
  "subscribers": 46300,
- "fetched_at": "2026-11-16 06:43",
- "generated_at": "2026-11-16 06:43",
+ "fetched_at": "2026-11-16 11:09",
+ "generated_at": "2026-11-16 11:09",
  "period": {
-  "from": "2026-10-17 06:43",
-  "to": "2026-11-16 06:43",
+  "from": "2026-10-17 11:09",
+  "to": "2026-11-16 11:09",
   "days": 30
  },
  "streams_analyzed": 7,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 103,
  "members_confirmed": 78,
  "member_classes": {
@@ -159,7 +159,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "h4tnTYyhjng",
+   "start": "2026-11-15 00:00",
+   "title": "【VALORANT】　朝活VALO部（部員一名）、短め予定　【八神ツクモ／ネオポルテ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 45,
+   "view_count": 1315
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -288,7 +301,7 @@
     "to": "2026-11-16"
    },
    "streams_analyzed": 4,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 73,
    "members_confirmed": 59,
    "member_classes": {

@@ -3,26 +3,26 @@
  "channel_id": "UCRm6lqtdxs_Qo6HeL-SRQ-w",
  "handle": "@LainPaterson",
  "subscribers": 470000,
- "fetched_at": "2026-11-16 05:26",
- "generated_at": "2026-11-16 05:26",
+ "fetched_at": "2026-11-16 11:01",
+ "generated_at": "2026-11-16 11:01",
  "period": {
-  "from": "2026-10-17 05:26",
-  "to": "2026-11-16 05:26",
+  "from": "2026-10-17 11:01",
+  "to": "2026-11-16 11:01",
   "days": 30
  },
  "streams_analyzed": 21,
- "streams_missed": 2,
- "unique_chatters": 1587,
- "members_confirmed": 87,
+ "streams_missed": 1,
+ "unique_chatters": 1509,
+ "members_confirmed": 88,
  "member_classes": {
-  "known": 15,
-  "unknown": 72
+  "unknown": 72,
+  "known": 16
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 5
+   "members": 6
   },
   {
    "months": 1,
@@ -66,7 +66,7 @@
   }
  ],
  "events": {
-  "new_members": 3,
+  "new_members": 4,
   "rejoins": 4,
   "milestones": 4,
   "gift_purchases": 0,
@@ -79,43 +79,43 @@
    "tier": "level1",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 6,
-   "share_of_confirmed_pct": 40.0,
-   "allocated_unknown": 28.8,
-   "estimated_members": 34.8,
-   "monthly_net_confirmed": 1871,
-   "monthly_net_estimated": 10851
+   "confirmed_members": 7,
+   "share_of_confirmed_pct": 43.8,
+   "allocated_unknown": 31.5,
+   "estimated_members": 38.5,
+   "monthly_net_confirmed": 2183,
+   "monthly_net_estimated": 12005
   },
   {
    "tier": "level2",
    "price": 1190,
    "net_per_member": 757.3,
    "confirmed_members": 2,
-   "share_of_confirmed_pct": 13.3,
-   "allocated_unknown": 9.6,
-   "estimated_members": 11.6,
+   "share_of_confirmed_pct": 12.5,
+   "allocated_unknown": 9.0,
+   "estimated_members": 11.0,
    "monthly_net_confirmed": 1515,
-   "monthly_net_estimated": 8784
+   "monthly_net_estimated": 8330
   },
   {
    "tier": "level4",
    "price": 6300,
    "net_per_member": 4009.1,
    "confirmed_members": 7,
-   "share_of_confirmed_pct": 46.7,
-   "allocated_unknown": 33.6,
-   "estimated_members": 40.6,
+   "share_of_confirmed_pct": 43.8,
+   "allocated_unknown": 31.5,
+   "estimated_members": 38.5,
    "monthly_net_confirmed": 28064,
-   "monthly_net_estimated": 162769
+   "monthly_net_estimated": 154350
   }
  ],
  "revenue": {
-  "monthly_low": 53900,
-  "monthly_est": 182405,
+  "monthly_low": 54212,
+  "monthly_est": 174685,
   "gift_once": 0,
-  "total_low": 53900,
-  "total_est": 182405,
-  "paying_members": 87,
+  "total_low": 54212,
+  "total_est": 174685,
+  "paying_members": 88,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -124,16 +124,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "W4y88azqci4",
-   "start": "2026-10-17 07:59",
-   "title": "【 JUDGE EYES:死神の遺言 】完全初見！初めての街に繰り出す！｜＃01 ※ネタバレあり【 レイン・パターソン/にじさんじ 】",
-   "kind": "配信",
-   "chatters": 274,
-   "member_chatters": 22,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "ioVEHkn6aPA",
    "start": "2026-10-18 08:00",
@@ -333,6 +323,16 @@
    "member_chatters": 21,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "4TdrjHvKUnY",
+   "start": "2026-11-15 20:59",
+   "title": "【R.E.P.O.】大型アプデ後初わちゃわちゃコラボ！【レイン・パターソン/にじさんじ】",
+   "kind": "配信",
+   "chatters": 48,
+   "member_chatters": 21,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -347,18 +347,6 @@
    "members_level": "level2",
    "like_count": 23,
    "view_count": null
-  },
-  {
-   "video_id": "4TdrjHvKUnY",
-   "start": "2026-11-15 00:00",
-   "title": "【R.E.P.O.】大型アプデ後初わちゃわちゃコラボ！【レイン・パターソン/にじさんじ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 458,
-   "view_count": 8663
   }
  ],
  "members_only_content": [
@@ -570,19 +558,19 @@
     "from": "2026-11-01",
     "to": "2026-11-16"
    },
-   "streams_analyzed": 10,
-   "streams_missed": 1,
-   "unique_chatters": 584,
-   "members_confirmed": 66,
+   "streams_analyzed": 11,
+   "streams_missed": 0,
+   "unique_chatters": 597,
+   "members_confirmed": 67,
    "member_classes": {
     "unknown": 55,
-    "known": 11
+    "known": 12
    },
    "long_term_members": 55,
    "badges": [
     {
      "months": 0,
-     "members": 3
+     "members": 4
     },
     {
      "months": 2,
@@ -614,7 +602,7 @@
     }
    ],
    "events": {
-    "new_members": 2,
+    "new_members": 3,
     "rejoins": 0,
     "milestones": 1,
     "gifted_total": 0
@@ -623,28 +611,28 @@
     {
      "tier": "level1",
      "price": 490,
-     "confirmed_members": 3,
-     "estimated_members": 18.0
+     "confirmed_members": 4,
+     "estimated_members": 22.3
     },
     {
      "tier": "level2",
      "price": 1190,
      "confirmed_members": 2,
-     "estimated_members": 12.0
+     "estimated_members": 11.2
     },
     {
      "tier": "level4",
      "price": 6300,
      "confirmed_members": 6,
-     "estimated_members": 36.0
+     "estimated_members": 33.5
     }
    ],
    "revenue": {
-    "monthly_low": 43655,
-    "monthly_est": 159027,
+    "monthly_low": 43966,
+    "monthly_est": 149725,
     "gift_once": 0
    },
-   "avg_member_chatters": 22.4,
+   "avg_member_chatters": 22.3,
    "partial": true,
    "finalized": false
   }
