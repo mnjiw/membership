@@ -945,8 +945,8 @@
    "checked_at": "2026-10-31 16:39",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1794864608.9735713,
-   "likes_checked_at": "2026-11-17 06:30"
+   "likes_checked_ts": 1794951122.584506,
+   "likes_checked_at": "2026-11-18 06:32"
   },
   "tiTvG0apB-w": {
    "id": "tiTvG0apB-w",
@@ -1251,17 +1251,29 @@
   "qIOZShVkRTk": {
    "id": "qIOZShVkRTk",
    "title": "【FORTNITE】HATSUNE MIKU",
-   "status": "live_now",
+   "kind": "live",
+   "start_ts": 1794873385.475918,
+   "start_jst": "2026-11-17 08:56",
+   "duration_sec": 17677,
+   "view_count": 214794,
+   "like_count": 7648,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-18 06:32",
+   "info_limited": true,
    "seen_live_at": "2026-11-17 13:33",
-   "was_public_when_live": true
+   "was_public_when_live": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "Koseki Bijou Ch. hololive",
  "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
  "handle": "@KosekiBijou",
  "subscribers": 1000000,
- "fetched_at": "2026-11-17 13:33",
- "fetched_at_ts": 1794889996.86892,
- "checked_from": "2026-11-10 13:33",
+ "fetched_at": "2026-11-18 06:32",
+ "fetched_at_ts": 1794951122.584506,
+ "checked_from": "2026-11-11 06:32",
  "initial_fetch_done": true
 }

@@ -3,27 +3,27 @@
  "channel_id": "UCuDY3ibSP2MFRgf7eo3cojg",
  "handle": "@SendoYuuhi",
  "subscribers": 392000,
- "fetched_at": "2026-11-17 06:33",
- "generated_at": "2026-11-17 06:34",
+ "fetched_at": "2026-11-18 06:35",
+ "generated_at": "2026-11-18 06:35",
  "period": {
-  "from": "2026-10-18 06:33",
-  "to": "2026-11-17 06:33",
+  "from": "2026-10-19 06:35",
+  "to": "2026-11-18 06:35",
   "days": 30
  },
- "streams_analyzed": 41,
+ "streams_analyzed": 40,
  "streams_missed": 3,
- "unique_chatters": 7593,
- "members_confirmed": 1137,
+ "unique_chatters": 7493,
+ "members_confirmed": 1125,
  "member_classes": {
-  "unknown": 898,
-  "known": 119,
-  "gift": 120
+  "known": 114,
+  "unknown": 892,
+  "gift": 119
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 156
+   "members": 154
   },
   {
    "months": 1,
@@ -33,31 +33,31 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 110
+   "members": 111
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 165
+   "members": 162
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 328
+   "members": 322
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 352
+   "members": 350
   }
  ],
  "events": {
-  "new_members": 29,
-  "rejoins": 16,
-  "milestones": 39,
-  "gift_purchases": 34,
-  "gifted_total": 120,
-  "gift_redemptions": 120
+  "new_members": 27,
+  "rejoins": 15,
+  "milestones": 37,
+  "gift_purchases": 33,
+  "gifted_total": 119,
+  "gift_redemptions": 119
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +65,21 @@
    "tier": "てんとうむし🐞",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 119,
+   "confirmed_members": 114,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 898.0,
-   "estimated_members": 1017.0,
-   "monthly_net_confirmed": 37106,
-   "monthly_net_estimated": 317119
+   "allocated_unknown": 892.0,
+   "estimated_members": 1006.0,
+   "monthly_net_confirmed": 35547,
+   "monthly_net_estimated": 313689
   }
  ],
  "revenue": {
-  "monthly_low": 317119,
-  "monthly_est": 317119,
-  "gift_once": 37418,
-  "total_low": 354537,
-  "total_est": 354537,
-  "paying_members": 1017,
+  "monthly_low": 313689,
+  "monthly_est": 313689,
+  "gift_once": 37106,
+  "total_low": 350795,
+  "total_est": 350795,
+  "paying_members": 1006,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,26 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "_c_-tNxlHPI",
-   "start": "2026-10-18 13:02",
-   "title": "【#LTK】俺らは昨日よりもっと強い　スクリム無限日（ハーフ）【 ぶいすぽっ！ / 千燈ゆうひ 】",
-   "kind": "配信",
-   "chatters": 422,
-   "member_chatters": 224,
-   "new_members": 1,
-   "gifted_total": 1
-  },
-  {
-   "video_id": "nIDK_peuAmY",
-   "start": "2026-10-19 02:57",
-   "title": "KC vs MVK | World Championship 2026 Play-in Stage Day 4 公式ウォッチパーティー！【ぶいすぽっ！/千燈ゆうひ】",
-   "kind": "配信",
-   "chatters": 492,
-   "member_chatters": 131,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "R-Xi3iSg1dQ",
    "start": "2026-10-19 14:24",
@@ -497,6 +477,16 @@
    "member_chatters": 141,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "_ow1hqivFOk",
+   "start": "2026-11-17 19:14",
+   "title": "【#LTK】昨日ぶり【 ぶいすぽっ！ / 千燈ゆうひ 】",
+   "kind": "配信",
+   "chatters": 277,
+   "member_chatters": 176,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -521,7 +511,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 136,
+   "like_count": 137,
    "view_count": null
   },
   {
@@ -533,7 +523,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 111,
+   "like_count": 116,
    "view_count": null
   }
  ],
@@ -555,7 +545,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 136,
+   "like_count": 137,
    "view_count": null
   },
   {
@@ -565,7 +555,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 111,
+   "like_count": 116,
    "view_count": null
   }
  ],
@@ -695,18 +685,18 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-17"
+    "to": "2026-11-18"
    },
-   "streams_analyzed": 19,
+   "streams_analyzed": 20,
    "streams_missed": 3,
-   "unique_chatters": 5578,
-   "members_confirmed": 947,
+   "unique_chatters": 5600,
+   "members_confirmed": 949,
    "member_classes": {
     "known": 100,
-    "unknown": 766,
+    "unknown": 768,
     "gift": 81
    },
-   "long_term_members": 585,
+   "long_term_members": 586,
    "badges": [
     {
      "months": 0,
@@ -718,7 +708,7 @@
     },
     {
      "months": 2,
-     "members": 88
+     "members": 89
     },
     {
      "months": 6,
@@ -730,7 +720,7 @@
     },
     {
      "months": 24,
-     "members": 305
+     "members": 306
     }
    ],
    "events": {
@@ -744,15 +734,15 @@
      "tier": "てんとうむし🐞",
      "price": 490,
      "confirmed_members": 100,
-     "estimated_members": 866.0
+     "estimated_members": 868.0
     }
    ],
    "revenue": {
-    "monthly_low": 270035,
-    "monthly_est": 270035,
+    "monthly_low": 270658,
+    "monthly_est": 270658,
     "gift_once": 25257
    },
-   "avg_member_chatters": 234.5,
+   "avg_member_chatters": 231.6,
    "partial": true,
    "finalized": false
   }

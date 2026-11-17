@@ -3,20 +3,20 @@
  "channel_id": "UCAHQGIKolfBfoeXXMY79SBA",
  "handle": "@ShironaShizuku",
  "subscribers": 150000,
- "fetched_at": "2026-11-17 06:38",
- "generated_at": "2026-11-17 06:38",
+ "fetched_at": "2026-11-18 06:40",
+ "generated_at": "2026-11-18 06:40",
  "period": {
-  "from": "2026-10-18 06:38",
-  "to": "2026-11-17 06:38",
+  "from": "2026-10-19 06:40",
+  "to": "2026-11-18 06:40",
   "days": 30
  },
  "streams_analyzed": 20,
  "streams_missed": 0,
- "unique_chatters": 1793,
+ "unique_chatters": 1748,
  "members_confirmed": 335,
  "member_classes": {
-  "unknown": 174,
   "known": 126,
+  "unknown": 174,
   "gift": 35
  },
  "badges": [
@@ -52,7 +52,7 @@
   }
  ],
  "events": {
-  "new_members": 14,
+  "new_members": 13,
   "rejoins": 9,
   "milestones": 71,
   "gift_purchases": 4,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "6dFMeBVGwSg",
-   "start": "2026-10-18 18:05",
-   "title": "【 League of Legends #LTK】IT next ３戦スクリム日【白那しずく / ネオポルテ】",
-   "kind": "配信",
-   "chatters": 207,
-   "member_chatters": 69,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "Qk7sWtq6SmY",
    "start": "2026-10-19 17:01",
@@ -287,6 +277,16 @@
    "member_chatters": 57,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "cHqGCB-Taqg",
+   "start": "2026-11-17 17:02",
+   "title": "【 League of Legends #LTK】今日もスクリムする【白那しずく / ネオポルテ】",
+   "kind": "配信",
+   "chatters": 85,
+   "member_chatters": 51,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -416,18 +416,18 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-17"
+    "to": "2026-11-18"
    },
-   "streams_analyzed": 10,
+   "streams_analyzed": 11,
    "streams_missed": 0,
-   "unique_chatters": 1513,
-   "members_confirmed": 301,
+   "unique_chatters": 1518,
+   "members_confirmed": 302,
    "member_classes": {
-    "unknown": 163,
+    "unknown": 164,
     "known": 113,
     "gift": 25
    },
-   "long_term_members": 160,
+   "long_term_members": 161,
    "badges": [
     {
      "months": 0,
@@ -447,7 +447,7 @@
     },
     {
      "months": 12,
-     "members": 69
+     "members": 70
     },
     {
      "months": 24,
@@ -465,15 +465,15 @@
      "tier": "メンバーシップ",
      "price": 490,
      "confirmed_members": 113,
-     "estimated_members": 276.0
+     "estimated_members": 277.0
     }
    ],
    "revenue": {
-    "monthly_low": 86062,
-    "monthly_est": 86062,
+    "monthly_low": 86374,
+    "monthly_est": 86374,
     "gift_once": 7795
    },
-   "avg_member_chatters": 78.5,
+   "avg_member_chatters": 76,
    "partial": true,
    "finalized": false
   }

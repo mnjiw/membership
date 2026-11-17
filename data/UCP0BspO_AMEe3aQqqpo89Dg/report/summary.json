@@ -3,32 +3,32 @@
  "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
  "handle": "@MoonaHoshinova",
  "subscribers": 1420000,
- "fetched_at": "2026-11-17 06:28",
- "generated_at": "2026-11-17 06:28",
+ "fetched_at": "2026-11-18 06:30",
+ "generated_at": "2026-11-18 06:30",
  "period": {
-  "from": "2026-10-18 06:28",
-  "to": "2026-11-17 06:28",
+  "from": "2026-10-19 06:30",
+  "to": "2026-11-18 06:30",
   "days": 30
  },
- "streams_analyzed": 14,
- "streams_missed": 1,
- "unique_chatters": 2154,
- "members_confirmed": 284,
+ "streams_analyzed": 13,
+ "streams_missed": 0,
+ "unique_chatters": 2133,
+ "members_confirmed": 280,
  "member_classes": {
-  "known": 73,
-  "unknown": 175,
+  "known": 72,
+  "unknown": 172,
   "gift": 36
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 68
+   "members": 67
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 13
+   "members": 12
   },
   {
    "months": 2,
@@ -38,7 +38,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 23
+   "members": 22
   },
   {
    "months": 12,
@@ -53,7 +53,7 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 23
+   "members": 22
   },
   {
    "months": 48,
@@ -64,7 +64,7 @@
  "events": {
   "new_members": 4,
   "rejoins": 10,
-  "milestones": 23,
+  "milestones": 22,
   "gift_purchases": 7,
   "gifted_total": 36,
   "gift_redemptions": 36
@@ -75,21 +75,21 @@
    "tier": "Moonafic",
    "price": 390,
    "net_per_member": 248.2,
-   "confirmed_members": 73,
+   "confirmed_members": 72,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 175.0,
-   "estimated_members": 248.0,
-   "monthly_net_confirmed": 18117,
-   "monthly_net_estimated": 61549
+   "allocated_unknown": 172.0,
+   "estimated_members": 244.0,
+   "monthly_net_confirmed": 17869,
+   "monthly_net_estimated": 60556
   }
  ],
  "revenue": {
-  "monthly_low": 61549,
-  "monthly_est": 61549,
+  "monthly_low": 60556,
+  "monthly_est": 60556,
   "gift_once": 8935,
-  "total_low": 70484,
-  "total_est": 70484,
-  "paying_members": 248,
+  "total_low": 69491,
+  "total_est": 69491,
+  "paying_members": 244,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "7LMSX43mAFU",
-   "start": "2026-10-18 21:10",
-   "title": "【Hololive Dreams】Rythm Learning~【hololive | moona】",
-   "kind": "配信",
-   "chatters": 138,
-   "member_chatters": 55,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "c3G1J9wnny4",
    "start": "2026-10-19 20:59",
@@ -239,32 +229,8 @@
    "gifted_total": 10
   }
  ],
- "missed_streams": [
-  {
-   "video_id": "oVx5xEKL6Ms",
-   "start": "2026-10-18 23:04",
-   "title": "【Membership】just watch.【Moona Hoshinova】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 133,
-   "view_count": null
-  }
- ],
- "members_only_content": [
-  {
-   "video_id": "oVx5xEKL6Ms",
-   "start": "2026-10-18 23:04",
-   "title": "【Membership】just watch.【Moona Hoshinova】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 133,
-   "view_count": null
-  }
- ],
+ "missed_streams": [],
+ "members_only_content": [],
  "history": [
   {
    "month": "2026-09",
@@ -418,7 +384,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-17"
+    "to": "2026-11-18"
    },
    "streams_analyzed": 5,
    "streams_missed": 0,

@@ -3,19 +3,19 @@
  "channel_id": "UCEy9cYULQrC2cRlVqJPCcSw",
  "handle": "@minase9505",
  "subscribers": 180000,
- "fetched_at": "2026-11-17 06:37",
- "generated_at": "2026-11-17 06:37",
+ "fetched_at": "2026-11-18 06:39",
+ "generated_at": "2026-11-18 06:39",
  "period": {
-  "from": "2026-10-18 06:37",
-  "to": "2026-11-17 06:37",
+  "from": "2026-10-19 06:39",
+  "to": "2026-11-18 06:39",
   "days": 30
  },
  "streams_analyzed": 20,
  "streams_missed": 0,
- "unique_chatters": 159,
- "members_confirmed": 51,
+ "unique_chatters": 154,
+ "members_confirmed": 52,
  "member_classes": {
-  "unknown": 46,
+  "unknown": 47,
   "known": 5
  },
  "badges": [
@@ -47,7 +47,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 26
+   "members": 27
   }
  ],
  "events": {
@@ -66,19 +66,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 5,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 46.0,
-   "estimated_members": 51.0,
+   "allocated_unknown": 47.0,
+   "estimated_members": 52.0,
    "monthly_net_confirmed": 1559,
-   "monthly_net_estimated": 15903
+   "monthly_net_estimated": 16215
   }
  ],
  "revenue": {
-  "monthly_low": 15903,
-  "monthly_est": 15903,
+  "monthly_low": 16215,
+  "monthly_est": 16215,
   "gift_once": 0,
-  "total_low": 15903,
-  "total_est": 15903,
-  "paying_members": 51,
+  "total_low": 16215,
+  "total_est": 16215,
+  "paying_members": 52,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -87,16 +87,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "h11lRT8ph14",
-   "start": "2026-10-19 00:08",
-   "title": "【 VALORANT 】次の新エージェントが魂になる可能性が微レ存【 Neo-Porte / 水無瀬 】",
-   "kind": "配信",
-   "chatters": 38,
-   "member_chatters": 24,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "gaj4SvHdjaQ",
    "start": "2026-10-20 00:01",
@@ -286,6 +276,16 @@
    "member_chatters": 17,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "nw79UaUIbeE",
+   "start": "2026-11-17 22:18",
+   "title": "【 VALORANT 】帰ってきた！ソロランクリターンズ！【 Neo-Porte / 水無瀬 】",
+   "kind": "配信",
+   "chatters": 32,
+   "member_chatters": 22,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -414,17 +414,17 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-17"
+    "to": "2026-11-18"
    },
-   "streams_analyzed": 12,
+   "streams_analyzed": 13,
    "streams_missed": 0,
-   "unique_chatters": 119,
-   "members_confirmed": 45,
+   "unique_chatters": 120,
+   "members_confirmed": 46,
    "member_classes": {
-    "unknown": 42,
+    "unknown": 43,
     "known": 3
    },
-   "long_term_members": 30,
+   "long_term_members": 31,
    "badges": [
     {
      "months": 0,
@@ -448,7 +448,7 @@
     },
     {
      "months": 24,
-     "members": 24
+     "members": 25
     }
    ],
    "events": {
@@ -462,15 +462,15 @@
      "tier": "ウォッチャー",
      "price": 490,
      "confirmed_members": 3,
-     "estimated_members": 45.0
+     "estimated_members": 46.0
     }
    ],
    "revenue": {
-    "monthly_low": 14032,
-    "monthly_est": 14032,
+    "monthly_low": 14344,
+    "monthly_est": 14344,
     "gift_once": 0
    },
-   "avg_member_chatters": 22.6,
+   "avg_member_chatters": 22.5,
    "partial": true,
    "finalized": false
   }

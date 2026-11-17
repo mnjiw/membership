@@ -2,28 +2,28 @@
  "channel": "Monica Ch. モニカ・メロディア",
  "channel_id": "UCV0YFbQEkDoWewu-LOlLwdA",
  "handle": "@MonicaMelodia",
- "subscribers": 28500,
- "fetched_at": "2026-11-17 06:40",
- "generated_at": "2026-11-17 06:41",
+ "subscribers": 28600,
+ "fetched_at": "2026-11-18 06:41",
+ "generated_at": "2026-11-18 06:42",
  "period": {
-  "from": "2026-10-18 06:40",
-  "to": "2026-11-17 06:40",
+  "from": "2026-10-19 06:41",
+  "to": "2026-11-18 06:41",
   "days": 30
  },
  "streams_analyzed": 26,
  "streams_missed": 2,
- "unique_chatters": 1704,
- "members_confirmed": 576,
+ "unique_chatters": 1688,
+ "members_confirmed": 574,
  "member_classes": {
+  "unknown": 271,
   "known": 17,
-  "unknown": 273,
   "gift": 286
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 245
+   "members": 242
   },
   {
    "months": 1,
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 237
+   "members": 238
   }
  ],
  "events": {
@@ -52,10 +52,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 17,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 273.0,
-   "estimated_members": 290.0,
+   "allocated_unknown": 271.0,
+   "estimated_members": 288.0,
    "monthly_net_confirmed": 5301,
-   "monthly_net_estimated": 90427
+   "monthly_net_estimated": 89804
   },
   {
    "tier": "メロディア探偵事務所　探偵 Lv50",
@@ -92,12 +92,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 90427,
-  "monthly_est": 90427,
+  "monthly_low": 89804,
+  "monthly_est": 89804,
   "gift_once": 89180,
-  "total_low": 179607,
-  "total_est": 179607,
-  "paying_members": 290,
+  "total_low": 178984,
+  "total_est": 178984,
+  "paying_members": 288,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -106,16 +106,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "4hKGlMjrgIQ",
-   "start": "2026-10-18 17:59",
-   "title": "【スーパーマリオRPG】#最終回 マリオと大冒険！？ 名作リメイクを初見プレイ.ᐟ.ᐟ.ᐟ.ᐟ 【モニカ・メロディア / Varium】",
-   "kind": "配信",
-   "chatters": 323,
-   "member_chatters": 121,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "Jt-czwDqQgE",
    "start": "2026-10-19 17:59",
@@ -365,6 +355,16 @@
    "member_chatters": 118,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "WwsLFCYRv4w",
+   "start": "2026-11-17 17:59",
+   "title": "#最終回 【ゼルダの伝説 時のオカリナ】シリーズ完全初見プレイ.ᐟ.ᐟ時を超えた冒険、最後の戦いへ.ᐟ.ᐟ【モニカ・メロディア / Varium】",
+   "kind": "配信",
+   "chatters": 217,
+   "member_chatters": 102,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -535,14 +535,14 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-17"
+    "to": "2026-11-18"
    },
-   "streams_analyzed": 14,
+   "streams_analyzed": 15,
    "streams_missed": 1,
-   "unique_chatters": 1242,
-   "members_confirmed": 338,
+   "unique_chatters": 1259,
+   "members_confirmed": 339,
    "member_classes": {
-    "unknown": 298,
+    "unknown": 299,
     "known": 15,
     "gift": 25
    },
@@ -558,7 +558,7 @@
     },
     {
      "months": 2,
-     "members": 207
+     "members": 208
     }
    ],
    "events": {
@@ -572,7 +572,7 @@
      "tier": "メロディア探偵事務所　探偵 Lv1",
      "price": 490,
      "confirmed_members": 15,
-     "estimated_members": 313.0
+     "estimated_members": 314.0
     },
     {
      "tier": "メロディア探偵事務所　探偵 Lv50",
@@ -594,11 +594,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 97599,
-    "monthly_est": 97599,
+    "monthly_low": 97911,
+    "monthly_est": 97911,
     "gift_once": 7795
    },
-   "avg_member_chatters": 125.9,
+   "avg_member_chatters": 124.3,
    "partial": true,
    "finalized": false
   }

@@ -3,76 +3,76 @@
  "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
  "handle": "@OuroKronii",
  "subscribers": 1170000,
- "fetched_at": "2026-11-17 06:30",
- "generated_at": "2026-11-17 06:30",
+ "fetched_at": "2026-11-18 06:31",
+ "generated_at": "2026-11-18 06:32",
  "period": {
-  "from": "2026-10-18 06:30",
-  "to": "2026-11-17 06:30",
+  "from": "2026-10-19 06:31",
+  "to": "2026-11-18 06:31",
   "days": 30
  },
- "streams_analyzed": 6,
+ "streams_analyzed": 5,
  "streams_missed": 0,
- "unique_chatters": 8689,
- "members_confirmed": 1573,
+ "unique_chatters": 8277,
+ "members_confirmed": 1505,
  "member_classes": {
-  "known": 439,
-  "unknown": 1047,
-  "gift": 87
+  "unknown": 997,
+  "known": 426,
+  "gift": 82
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 131
+   "members": 123
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 25
+   "members": 22
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 115
+   "members": 108
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 166
+   "members": 157
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 295
+   "members": 284
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 193
+   "members": 180
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 143
+   "members": 138
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 199
+   "members": 189
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 306
+   "members": 304
   }
  ],
  "events": {
-  "new_members": 6,
+  "new_members": 4,
   "rejoins": 12,
-  "milestones": 164,
-  "gift_purchases": 38,
-  "gifted_total": 95,
-  "gift_redemptions": 87
+  "milestones": 156,
+  "gift_purchases": 32,
+  "gifted_total": 89,
+  "gift_redemptions": 82
  },
  "tiers_configured": true,
  "tiers": [
@@ -80,23 +80,23 @@
    "tier": "Second",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 417,
-   "share_of_confirmed_pct": 95.0,
-   "allocated_unknown": 994.5,
-   "estimated_members": 1411.5,
-   "monthly_net_confirmed": 183101,
-   "monthly_net_estimated": 619790
+   "confirmed_members": 405,
+   "share_of_confirmed_pct": 95.1,
+   "allocated_unknown": 947.9,
+   "estimated_members": 1352.9,
+   "monthly_net_confirmed": 177832,
+   "monthly_net_estimated": 594025
   },
   {
    "tier": "Minute",
    "price": 1290,
    "net_per_member": 820.9,
-   "confirmed_members": 12,
-   "share_of_confirmed_pct": 2.7,
-   "allocated_unknown": 28.6,
-   "estimated_members": 40.6,
-   "monthly_net_confirmed": 9851,
-   "monthly_net_estimated": 33345
+   "confirmed_members": 11,
+   "share_of_confirmed_pct": 2.6,
+   "allocated_unknown": 25.7,
+   "estimated_members": 36.7,
+   "monthly_net_confirmed": 9030,
+   "monthly_net_estimated": 30164
   },
   {
    "tier": "Hour",
@@ -104,19 +104,19 @@
    "net_per_member": 2220.9,
    "confirmed_members": 10,
    "share_of_confirmed_pct": 2.3,
-   "allocated_unknown": 23.8,
-   "estimated_members": 33.8,
+   "allocated_unknown": 23.4,
+   "estimated_members": 33.4,
    "monthly_net_confirmed": 22209,
-   "monthly_net_estimated": 75177
+   "monthly_net_estimated": 74187
   }
  ],
  "revenue": {
-  "monthly_low": 674889,
-  "monthly_est": 728312,
-  "gift_once": 41714,
-  "total_low": 716603,
-  "total_est": 770026,
-  "paying_members": 1486,
+  "monthly_low": 646845,
+  "monthly_est": 698375,
+  "gift_once": 39079,
+  "total_low": 685924,
+  "total_est": 737454,
+  "paying_members": 1423,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -125,16 +125,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "XdJ8yQO-RnU",
-   "start": "2026-10-18 14:11",
-   "title": "【Hololive Dreams】Zone 3 #holodori",
-   "kind": "配信",
-   "chatters": 1263,
-   "member_chatters": 461,
-   "new_members": 2,
-   "gifted_total": 6
-  },
   {
    "video_id": "W0pBGtkN11c",
    "start": "2026-10-19 11:01",
@@ -350,7 +340,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-17"
+    "to": "2026-11-18"
    },
    "streams_analyzed": 1,
    "streams_missed": 0,

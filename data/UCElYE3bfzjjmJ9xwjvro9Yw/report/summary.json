@@ -3,16 +3,16 @@
  "channel_id": "UCElYE3bfzjjmJ9xwjvro9Yw",
  "handle": "@HiuraKuro0914",
  "subscribers": 36300,
- "fetched_at": "2026-11-17 06:38",
- "generated_at": "2026-11-17 06:38",
+ "fetched_at": "2026-11-18 06:40",
+ "generated_at": "2026-11-18 06:40",
  "period": {
-  "from": "2026-10-18 06:38",
-  "to": "2026-11-17 06:38",
+  "from": "2026-10-19 06:40",
+  "to": "2026-11-18 06:40",
   "days": 30
  },
  "streams_analyzed": 25,
  "streams_missed": 3,
- "unique_chatters": 162,
+ "unique_chatters": 153,
  "members_confirmed": 53,
  "member_classes": {
   "unknown": 49,
@@ -51,8 +51,8 @@
   }
  ],
  "events": {
-  "new_members": 2,
-  "rejoins": 2,
+  "new_members": 1,
+  "rejoins": 1,
   "milestones": 0,
   "gift_purchases": 0,
   "gifted_total": 0,
@@ -87,16 +87,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "Z9ECp2JV81s",
-   "start": "2026-10-18 20:35",
-   "title": "【歌枠】もう10月も折り返してしまいました歌枠【日裏クロ / ネオポルテ】#shorts",
-   "kind": "配信",
-   "chatters": 48,
-   "member_chatters": 28,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "02hsLlLt-Pc",
    "start": "2026-10-19 18:24",
@@ -336,6 +326,16 @@
    "member_chatters": 35,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "BJsbu6S2Xco",
+   "start": "2026-11-17 21:03",
+   "title": "【絶対遵守】ミスった回数お菓子辞めます【日裏クロ / ネオポルテ】",
+   "kind": "配信",
+   "chatters": 23,
+   "member_chatters": 19,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -523,14 +523,14 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-17"
+    "to": "2026-11-18"
    },
-   "streams_analyzed": 12,
+   "streams_analyzed": 13,
    "streams_missed": 1,
-   "unique_chatters": 108,
-   "members_confirmed": 47,
+   "unique_chatters": 110,
+   "members_confirmed": 48,
    "member_classes": {
-    "unknown": 44,
+    "unknown": 45,
     "known": 3
    },
    "long_term_members": 22,
@@ -545,7 +545,7 @@
     },
     {
      "months": 2,
-     "members": 7
+     "members": 8
     },
     {
      "months": 6,
@@ -571,15 +571,15 @@
      "tier": "ワニ園",
      "price": 490,
      "confirmed_members": 3,
-     "estimated_members": 47.0
+     "estimated_members": 48.0
     }
    ],
    "revenue": {
-    "monthly_low": 14655,
-    "monthly_est": 14655,
+    "monthly_low": 14967,
+    "monthly_est": 14967,
     "gift_once": 0
    },
-   "avg_member_chatters": 18.4,
+   "avg_member_chatters": 18.5,
    "partial": true,
    "finalized": false
   }

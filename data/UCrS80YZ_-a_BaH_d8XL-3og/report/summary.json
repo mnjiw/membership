@@ -3,42 +3,42 @@
  "channel_id": "UCrS80YZ_-a_BaH_d8XL-3og",
  "handle": "@HimamoriPota",
  "subscribers": 44100,
- "fetched_at": "2026-11-17 06:40",
- "generated_at": "2026-11-17 06:41",
+ "fetched_at": "2026-11-18 06:41",
+ "generated_at": "2026-11-18 06:42",
  "period": {
-  "from": "2026-10-18 06:40",
-  "to": "2026-11-17 06:40",
+  "from": "2026-10-19 06:41",
+  "to": "2026-11-18 06:41",
   "days": 30
  },
  "streams_analyzed": 30,
  "streams_missed": 3,
  "unique_chatters": 1818,
- "members_confirmed": 821,
+ "members_confirmed": 823,
  "member_classes": {
-  "unknown": 444,
-  "gift": 349,
-  "known": 28
+  "unknown": 443,
+  "known": 31,
+  "gift": 349
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 343
+   "members": 341
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 126
+   "members": 124
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 352
+   "members": 358
   }
  ],
  "events": {
-  "new_members": 11,
-  "rejoins": 4,
+  "new_members": 12,
+  "rejoins": 5,
   "milestones": 0,
   "gift_purchases": 46,
   "gifted_total": 359,
@@ -50,12 +50,12 @@
    "tier": "シルバー",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 28,
+   "confirmed_members": 31,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 444.0,
-   "estimated_members": 472.0,
-   "monthly_net_confirmed": 8731,
-   "monthly_net_estimated": 147178
+   "allocated_unknown": 443.0,
+   "estimated_members": 474.0,
+   "monthly_net_confirmed": 9666,
+   "monthly_net_estimated": 147802
   },
   {
    "tier": "ゴールド",
@@ -92,12 +92,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 147178,
-  "monthly_est": 147178,
+  "monthly_low": 147802,
+  "monthly_est": 147802,
   "gift_once": 111943,
-  "total_low": 259121,
-  "total_est": 259121,
-  "paying_members": 472,
+  "total_low": 259745,
+  "total_est": 259745,
+  "paying_members": 474,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -106,16 +106,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "SvBcuaPxLcE",
-   "start": "2026-10-18 11:00",
-   "title": "#04【 初代 風来のシレン 】実機プレイ.ᐟ SFCの傑作ローグライク、初代シレンに挑戦.ᐟ.ᐟ【向日守ぽた/ Varium】",
-   "kind": "配信",
-   "chatters": 374,
-   "member_chatters": 182,
-   "new_members": 0,
-   "gifted_total": 5
-  },
   {
    "video_id": "qmObbhRnSsg",
    "start": "2026-10-19 18:59",
@@ -405,6 +395,16 @@
    "member_chatters": 207,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "ulX-6W-pDLI",
+   "start": "2026-11-17 18:59",
+   "title": "【 リングフィット 】骨折後のリハビリ開始.ᐟ はじめての運動です。できます【向日守ぽた/ Varium】",
+   "kind": "配信",
+   "chatters": 436,
+   "member_chatters": 244,
+   "new_members": 1,
+   "gifted_total": 5
   }
  ],
  "missed_streams": [
@@ -597,22 +597,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-17"
+    "to": "2026-11-18"
    },
-   "streams_analyzed": 15,
+   "streams_analyzed": 16,
    "streams_missed": 1,
-   "unique_chatters": 1243,
-   "members_confirmed": 520,
+   "unique_chatters": 1314,
+   "members_confirmed": 542,
    "member_classes": {
-    "unknown": 469,
-    "known": 21,
-    "gift": 30
+    "unknown": 484,
+    "known": 24,
+    "gift": 34
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 116
+     "members": 123
     },
     {
      "months": 1,
@@ -620,21 +620,21 @@
     },
     {
      "months": 2,
-     "members": 308
+     "members": 323
     }
    ],
    "events": {
-    "new_members": 4,
-    "rejoins": 0,
+    "new_members": 5,
+    "rejoins": 1,
     "milestones": 0,
-    "gifted_total": 30
+    "gifted_total": 35
    },
    "tiers": [
     {
      "tier": "シルバー",
      "price": 490,
-     "confirmed_members": 21,
-     "estimated_members": 490.0
+     "confirmed_members": 24,
+     "estimated_members": 508.0
     },
     {
      "tier": "ゴールド",
@@ -656,11 +656,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 152791,
-    "monthly_est": 152791,
-    "gift_once": 9355
+    "monthly_low": 158404,
+    "monthly_est": 158404,
+    "gift_once": 10914
    },
-   "avg_member_chatters": 203.4,
+   "avg_member_chatters": 205.9,
    "partial": true,
    "finalized": false
   }

@@ -3,71 +3,71 @@
  "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
  "handle": "@IRyS",
  "subscribers": 1150000,
- "fetched_at": "2026-11-17 06:29",
- "generated_at": "2026-11-17 06:29",
+ "fetched_at": "2026-11-18 06:31",
+ "generated_at": "2026-11-18 06:31",
  "period": {
-  "from": "2026-10-18 06:29",
-  "to": "2026-11-17 06:29",
+  "from": "2026-10-19 06:31",
+  "to": "2026-11-18 06:31",
   "days": 30
  },
- "streams_analyzed": 5,
+ "streams_analyzed": 4,
  "streams_missed": 0,
- "unique_chatters": 4934,
- "members_confirmed": 1314,
+ "unique_chatters": 2807,
+ "members_confirmed": 1070,
  "member_classes": {
-  "known": 319,
-  "unknown": 943,
-  "gift": 52
+  "known": 282,
+  "unknown": 767,
+  "gift": 21
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 79
+   "members": 45
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 13
+   "members": 12
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 58
+   "members": 45
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 85
+   "members": 67
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 154
+   "members": 125
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 171
+   "members": 154
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 223
+   "members": 188
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 531
+   "members": 434
   }
  ],
  "events": {
   "new_members": 4,
-  "rejoins": 8,
-  "milestones": 77,
-  "gift_purchases": 13,
-  "gifted_total": 57,
-  "gift_redemptions": 52
+  "rejoins": 7,
+  "milestones": 71,
+  "gift_purchases": 10,
+  "gifted_total": 26,
+  "gift_redemptions": 21
  },
  "tiers_configured": true,
  "tiers": [
@@ -75,43 +75,43 @@
    "tier": "IRySoCool",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 307,
-   "share_of_confirmed_pct": 96.2,
-   "allocated_unknown": 907.5,
-   "estimated_members": 1214.5,
-   "monthly_net_confirmed": 134801,
-   "monthly_net_estimated": 533288
+   "confirmed_members": 270,
+   "share_of_confirmed_pct": 95.7,
+   "allocated_unknown": 734.4,
+   "estimated_members": 1004.4,
+   "monthly_net_confirmed": 118555,
+   "monthly_net_estimated": 441006
   },
   {
    "tier": "IRySuperCool",
    "price": 1990,
    "net_per_member": 1266.4,
    "confirmed_members": 3,
-   "share_of_confirmed_pct": 0.9,
-   "allocated_unknown": 8.9,
-   "estimated_members": 11.9,
+   "share_of_confirmed_pct": 1.1,
+   "allocated_unknown": 8.2,
+   "estimated_members": 11.2,
    "monthly_net_confirmed": 3799,
-   "monthly_net_estimated": 15030
+   "monthly_net_estimated": 14132
   },
   {
    "tier": "IRySuperDuperCool",
    "price": 3490,
    "net_per_member": 2220.9,
    "confirmed_members": 9,
-   "share_of_confirmed_pct": 2.8,
-   "allocated_unknown": 26.6,
-   "estimated_members": 35.6,
+   "share_of_confirmed_pct": 3.2,
+   "allocated_unknown": 24.5,
+   "estimated_members": 33.5,
    "monthly_net_confirmed": 19988,
-   "monthly_net_estimated": 79076
+   "monthly_net_estimated": 74353
   }
  ],
  "revenue": {
-  "monthly_low": 572651,
-  "monthly_est": 627393,
-  "gift_once": 25028,
-  "total_low": 597679,
-  "total_est": 652421,
-  "paying_members": 1262,
+  "monthly_low": 479125,
+  "monthly_est": 529491,
+  "gift_once": 11416,
+  "total_low": 490541,
+  "total_est": 540908,
+  "paying_members": 1049,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -120,16 +120,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "zPCcFbCONek",
-   "start": "2026-10-18 12:15",
-   "title": "【Promise Collab】The 3 Maskateers announcing & defusing #PromiseMasquerade",
-   "kind": "配信",
-   "chatters": 3031,
-   "member_chatters": 768,
-   "new_members": 0,
-   "gifted_total": 31
-  },
   {
    "video_id": "qRhXRK4zu1s",
    "start": "2026-10-29 13:02",
@@ -327,7 +317,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-17"
+    "to": "2026-11-18"
    },
    "streams_analyzed": 3,
    "streams_missed": 0,
