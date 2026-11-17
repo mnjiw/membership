@@ -3,55 +3,55 @@
  "channel_id": "UCXRlIK3Cw_TJIQC5kSJJQMg",
  "handle": "@InuiToko",
  "subscribers": 1040000,
- "fetched_at": "2026-11-17 13:29",
- "generated_at": "2026-11-17 13:29",
+ "fetched_at": "2026-11-18 05:21",
+ "generated_at": "2026-11-18 05:21",
  "period": {
-  "from": "2026-10-18 13:29",
-  "to": "2026-11-17 13:29",
+  "from": "2026-10-19 05:21",
+  "to": "2026-11-18 05:21",
   "days": 30
  },
- "streams_analyzed": 18,
- "streams_missed": 3,
- "unique_chatters": 9106,
- "members_confirmed": 1896,
+ "streams_analyzed": 17,
+ "streams_missed": 4,
+ "unique_chatters": 8803,
+ "members_confirmed": 1814,
  "member_classes": {
-  "unknown": 1896
+  "unknown": 1814
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 85
+   "members": 76
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 55
+   "members": 49
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 164
+   "members": 159
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 173
+   "members": 164
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 318
+   "members": 300
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 1101
+   "members": 1066
   }
  ],
  "events": {
-  "new_members": 37,
-  "rejoins": 29,
+  "new_members": 30,
+  "rejoins": 28,
   "milestones": 0,
   "gift_purchases": 0,
   "gifted_total": 0,
@@ -65,19 +65,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 0,
    "share_of_confirmed_pct": "",
-   "allocated_unknown": 1896.0,
-   "estimated_members": 1896.0,
+   "allocated_unknown": 1814.0,
+   "estimated_members": 1814.0,
    "monthly_net_confirmed": 0,
-   "monthly_net_estimated": 591207
+   "monthly_net_estimated": 565638
   }
  ],
  "revenue": {
-  "monthly_low": 591207,
-  "monthly_est": 591207,
+  "monthly_low": 565638,
+  "monthly_est": 565638,
   "gift_once": 0,
-  "total_low": 591207,
-  "total_est": 591207,
-  "paying_members": 1896,
+  "total_low": 565638,
+  "total_est": 565638,
+  "paying_members": 1814,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -86,16 +86,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "pN-aYfVtHtg",
-   "start": "2026-10-18 21:30",
-   "title": "【夜チル雑談】寝る前にちょこっと話そうよ～【戌亥とこ/にじさんじ】",
-   "kind": "配信",
-   "chatters": 1129,
-   "member_chatters": 564,
-   "new_members": 7,
-   "gifted_total": 0
-  },
   {
    "video_id": "Vh2X2nabDjA",
    "start": "2026-10-19 21:00",
@@ -301,7 +291,19 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 493,
+   "like_count": 495,
+   "view_count": null
+  },
+  {
+   "video_id": "gnmsd4-mbHY",
+   "start": "2026-11-17 22:34",
+   "title": "【メン限】ねるまえにちょこっと",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 433,
    "view_count": null
   }
  ],
@@ -333,7 +335,17 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 493,
+   "like_count": 495,
+   "view_count": null
+  },
+  {
+   "video_id": "gnmsd4-mbHY",
+   "start": "2026-11-17 22:34",
+   "title": "【メン限】ねるまえにちょこっと",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 433,
    "view_count": null
   }
  ],
@@ -470,10 +482,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-17"
+    "to": "2026-11-18"
    },
    "streams_analyzed": 7,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 4644,
    "members_confirmed": 1307,
    "member_classes": {

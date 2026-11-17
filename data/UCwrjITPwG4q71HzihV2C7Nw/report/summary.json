@@ -3,32 +3,32 @@
  "channel_id": "UCwrjITPwG4q71HzihV2C7Nw",
  "handle": "@Fumi",
  "subscribers": 279000,
- "fetched_at": "2026-11-17 05:23",
- "generated_at": "2026-11-17 05:24",
+ "fetched_at": "2026-11-18 05:23",
+ "generated_at": "2026-11-18 05:23",
  "period": {
-  "from": "2026-10-18 05:23",
-  "to": "2026-11-17 05:23",
+  "from": "2026-10-19 05:23",
+  "to": "2026-11-18 05:23",
   "days": 30
  },
- "streams_analyzed": 21,
+ "streams_analyzed": 20,
  "streams_missed": 0,
- "unique_chatters": 1973,
- "members_confirmed": 181,
+ "unique_chatters": 2271,
+ "members_confirmed": 214,
  "member_classes": {
-  "unknown": 149,
-  "known": 7,
-  "gift": 25
+  "unknown": 151,
+  "known": 10,
+  "gift": 53
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 32
+   "members": 61
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 6
+   "members": 9
   },
   {
    "months": 2,
@@ -48,16 +48,16 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 98
+   "members": 99
   }
  ],
  "events": {
-  "new_members": 1,
+  "new_members": 2,
   "rejoins": 4,
   "milestones": 0,
-  "gift_purchases": 2,
-  "gifted_total": 25,
-  "gift_redemptions": 25
+  "gift_purchases": 4,
+  "gifted_total": 55,
+  "gift_redemptions": 53
  },
  "tiers_configured": true,
  "tiers": [
@@ -66,53 +66,53 @@
    "price": 290,
    "net_per_member": 184.5,
    "confirmed_members": 2,
-   "share_of_confirmed_pct": 28.6,
-   "allocated_unknown": 42.6,
-   "estimated_members": 44.6,
+   "share_of_confirmed_pct": 20.0,
+   "allocated_unknown": 30.2,
+   "estimated_members": 32.2,
    "monthly_net_confirmed": 369,
-   "monthly_net_estimated": 8225
+   "monthly_net_estimated": 5942
   },
   {
    "tier": "ツクヨミ",
    "price": 390,
    "net_per_member": 248.2,
    "confirmed_members": 1,
-   "share_of_confirmed_pct": 14.3,
-   "allocated_unknown": 21.3,
-   "estimated_members": 22.3,
+   "share_of_confirmed_pct": 10.0,
+   "allocated_unknown": 15.1,
+   "estimated_members": 16.1,
    "monthly_net_confirmed": 248,
-   "monthly_net_estimated": 5531
+   "monthly_net_estimated": 3996
   },
   {
    "tier": "ワダツミ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 2,
-   "share_of_confirmed_pct": 28.6,
-   "allocated_unknown": 42.6,
-   "estimated_members": 44.6,
-   "monthly_net_confirmed": 624,
-   "monthly_net_estimated": 13898
+   "confirmed_members": 5,
+   "share_of_confirmed_pct": 50.0,
+   "allocated_unknown": 75.5,
+   "estimated_members": 80.5,
+   "monthly_net_confirmed": 1559,
+   "monthly_net_estimated": 25101
   },
   {
    "tier": "アマテラス",
    "price": 690,
    "net_per_member": 439.1,
    "confirmed_members": 2,
-   "share_of_confirmed_pct": 28.6,
-   "allocated_unknown": 42.6,
-   "estimated_members": 44.6,
+   "share_of_confirmed_pct": 20.0,
+   "allocated_unknown": 30.2,
+   "estimated_members": 32.2,
    "monthly_net_confirmed": 878,
-   "monthly_net_estimated": 19571
+   "monthly_net_estimated": 14139
   }
  ],
  "revenue": {
-  "monthly_low": 29616,
-  "monthly_est": 47225,
-  "gift_once": 4614,
-  "total_low": 34230,
-  "total_est": 51839,
-  "paying_members": 156,
+  "monthly_low": 30921,
+  "monthly_est": 49178,
+  "gift_once": 10150,
+  "total_low": 41071,
+  "total_est": 59328,
+  "paying_members": 161,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -121,26 +121,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "wsodI0QfjmU",
-   "start": "2026-10-18 13:03",
-   "title": "【浮気判定シート】７周年なので、浮気でも判定しますか【 にじさんじフミ 】#フミ様7周年",
-   "kind": "配信",
-   "chatters": 231,
-   "member_chatters": 62,
-   "new_members": 0,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "dH8BQAvsLZg",
-   "start": "2026-10-18 20:01",
-   "title": "【bombanana】織姫星デビュー７周年に３人の息をあわせる【 にじさんじフミ/星川サラ/山神カルタ 】#織姫星7周年",
-   "kind": "配信",
-   "chatters": 125,
-   "member_chatters": 72,
-   "new_members": 1,
-   "gifted_total": 20
-  },
   {
    "video_id": "0IRzkRLxHxA",
    "start": "2026-10-21 23:00",
@@ -330,6 +310,16 @@
    "member_chatters": 40,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "pFl3PDjOUeo",
+   "start": "2026-11-17 22:17",
+   "title": "【謝罪配信】例のあの件について、真実をお話します【 にじさんじフミ 】",
+   "kind": "配信",
+   "chatters": 777,
+   "member_chatters": 147,
+   "new_members": 2,
+   "gifted_total": 50
   }
  ],
  "missed_streams": [],
@@ -518,30 +508,30 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-17"
+    "to": "2026-11-18"
    },
-   "streams_analyzed": 14,
+   "streams_analyzed": 15,
    "streams_missed": 0,
-   "unique_chatters": 1354,
-   "members_confirmed": 138,
+   "unique_chatters": 1837,
+   "members_confirmed": 203,
    "member_classes": {
-    "unknown": 128,
-    "known": 5,
-    "gift": 5
+    "unknown": 141,
+    "known": 9,
+    "gift": 53
    },
-   "long_term_members": 106,
+   "long_term_members": 118,
    "badges": [
     {
      "months": 0,
-     "members": 9
+     "members": 58
     },
     {
      "months": 1,
-     "members": 5
+     "members": 8
     },
     {
      "months": 2,
-     "members": 7
+     "members": 8
     },
     {
      "months": 6,
@@ -549,51 +539,51 @@
     },
     {
      "months": 12,
-     "members": 20
+     "members": 21
     },
     {
      "months": 24,
-     "members": 86
+     "members": 97
     }
    ],
    "events": {
-    "new_members": 0,
-    "rejoins": 1,
+    "new_members": 2,
+    "rejoins": 4,
     "milestones": 0,
-    "gifted_total": 5
+    "gifted_total": 55
    },
    "tiers": [
     {
      "tier": "スサノオ",
      "price": 290,
      "confirmed_members": 1,
-     "estimated_members": 26.6
+     "estimated_members": 16.7
     },
     {
      "tier": "ツクヨミ",
      "price": 390,
      "confirmed_members": 1,
-     "estimated_members": 26.6
+     "estimated_members": 16.7
     },
     {
      "tier": "ワダツミ",
      "price": 490,
-     "confirmed_members": 2,
-     "estimated_members": 53.2
+     "confirmed_members": 5,
+     "estimated_members": 83.3
     },
     {
      "tier": "アマテラス",
      "price": 690,
-     "confirmed_members": 1,
-     "estimated_members": 26.6
+     "confirmed_members": 2,
+     "estimated_members": 33.3
     }
    ],
    "revenue": {
-    "monthly_low": 25117,
-    "monthly_est": 39779,
-    "gift_once": 923
+    "monthly_low": 28891,
+    "monthly_est": 47833,
+    "gift_once": 10150
    },
-   "avg_member_chatters": 47.6,
+   "avg_member_chatters": 54.3,
    "partial": true,
    "finalized": false
   }

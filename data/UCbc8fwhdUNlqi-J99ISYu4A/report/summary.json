@@ -3,16 +3,16 @@
  "channel_id": "UCbc8fwhdUNlqi-J99ISYu4A",
  "handle": "@BelmondBanderas",
  "subscribers": 494000,
- "fetched_at": "2026-11-17 05:22",
- "generated_at": "2026-11-17 05:22",
+ "fetched_at": "2026-11-18 05:21",
+ "generated_at": "2026-11-18 05:21",
  "period": {
-  "from": "2026-10-18 05:22",
-  "to": "2026-11-17 05:22",
+  "from": "2026-10-19 05:21",
+  "to": "2026-11-18 05:21",
   "days": 30
  },
  "streams_analyzed": 22,
  "streams_missed": 4,
- "unique_chatters": 1455,
+ "unique_chatters": 1464,
  "members_confirmed": 321,
  "member_classes": {
   "unknown": 231,
@@ -121,16 +121,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "xg1R7ls7l9Q",
-   "start": "2026-10-18 23:04",
-   "title": "【逆転裁判２】 #6 第4話 トノサマンシリーズ曰くつきすぎだろ ※ネタバレ注意！【ベルモンド・バンデラス/にじさんじ】",
-   "kind": "配信",
-   "chatters": 228,
-   "member_chatters": 64,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "lWclX-Ct030",
    "start": "2026-10-19 23:00",
@@ -340,6 +330,16 @@
    "member_chatters": 29,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "0Pr0HDEBizc",
+   "start": "2026-11-17 23:00",
+   "title": "【逆転裁判３】 #9 第4話 はじまりの逆転 ※ネタバレ注意！【ベルモンド・バンデラス/にじさんじ】",
+   "kind": "配信",
+   "chatters": 333,
+   "member_chatters": 87,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -388,7 +388,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "常連さんプラン",
-   "like_count": 56,
+   "like_count": 68,
    "view_count": null
   }
  ],
@@ -430,7 +430,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "常連さんプラン",
-   "like_count": 56,
+   "like_count": 68,
    "view_count": null
   }
  ],
@@ -607,22 +607,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-17"
+    "to": "2026-11-18"
    },
-   "streams_analyzed": 12,
+   "streams_analyzed": 13,
    "streams_missed": 1,
-   "unique_chatters": 1044,
-   "members_confirmed": 299,
+   "unique_chatters": 1102,
+   "members_confirmed": 301,
    "member_classes": {
-    "unknown": 222,
-    "known": 56,
+    "unknown": 223,
+    "known": 57,
     "gift": 21
    },
-   "long_term_members": 210,
+   "long_term_members": 211,
    "badges": [
     {
      "months": 0,
-     "members": 38
+     "members": 39
     },
     {
      "months": 1,
@@ -642,7 +642,7 @@
     },
     {
      "months": 24,
-     "members": 164
+     "members": 165
     }
    ],
    "events": {
@@ -656,33 +656,33 @@
      "tier": "ノンアルプラン",
      "price": 140,
      "confirmed_members": 3,
-     "estimated_members": 14.9
+     "estimated_members": 14.7
     },
     {
      "tier": "常連さんプラン",
      "price": 490,
-     "confirmed_members": 30,
-     "estimated_members": 148.9
+     "confirmed_members": 31,
+     "estimated_members": 152.3
     },
     {
      "tier": "お得意さんプラン",
      "price": 990,
      "confirmed_members": 22,
-     "estimated_members": 109.2
+     "estimated_members": 108.1
     },
     {
      "tier": "VIPプラン",
      "price": 3490,
      "confirmed_members": 1,
-     "estimated_members": 5.0
+     "estimated_members": 4.9
     }
    ],
    "revenue": {
-    "monthly_low": 45481,
-    "monthly_est": 127596,
+    "monthly_low": 45882,
+    "monthly_est": 127791,
     "gift_once": 1871
    },
-   "avg_member_chatters": 90.8,
+   "avg_member_chatters": 90.5,
    "partial": true,
    "finalized": false
   }

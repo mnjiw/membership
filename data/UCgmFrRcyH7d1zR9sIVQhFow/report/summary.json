@@ -3,61 +3,61 @@
  "channel_id": "UCgmFrRcyH7d1zR9sIVQhFow",
  "handle": "@LaurenIroas",
  "subscribers": 1060000,
- "fetched_at": "2026-11-17 05:26",
- "generated_at": "2026-11-17 05:26",
+ "fetched_at": "2026-11-18 05:25",
+ "generated_at": "2026-11-18 05:26",
  "period": {
-  "from": "2026-10-18 05:26",
-  "to": "2026-11-17 05:26",
+  "from": "2026-10-19 05:25",
+  "to": "2026-11-18 05:25",
   "days": 30
  },
  "streams_analyzed": 19,
  "streams_missed": 1,
- "unique_chatters": 8758,
- "members_confirmed": 4416,
+ "unique_chatters": 8812,
+ "members_confirmed": 4424,
  "member_classes": {
-  "unknown": 3079,
-  "known": 380,
-  "gift": 957
+  "unknown": 3072,
+  "known": 391,
+  "gift": 961
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 1123
+   "members": 1127
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 80
+   "members": 78
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 322
+   "members": 324
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 459
+   "members": 458
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 733
+   "members": 734
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 1699
+   "members": 1703
   }
  ],
  "events": {
-  "new_members": 39,
+  "new_members": 41,
   "rejoins": 22,
-  "milestones": 184,
-  "gift_purchases": 208,
-  "gifted_total": 964,
-  "gift_redemptions": 957
+  "milestones": 162,
+  "gift_purchases": 206,
+  "gifted_total": 969,
+  "gift_redemptions": 961
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +65,21 @@
    "tier": "PrisonLv1",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 380,
+   "confirmed_members": 391,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 3079.0,
-   "estimated_members": 3459.0,
-   "monthly_net_confirmed": 118491,
-   "monthly_net_estimated": 1078579
+   "allocated_unknown": 3072.0,
+   "estimated_members": 3463.0,
+   "monthly_net_confirmed": 121921,
+   "monthly_net_estimated": 1079826
   }
  ],
  "revenue": {
-  "monthly_low": 1078579,
-  "monthly_est": 1078579,
-  "gift_once": 300593,
-  "total_low": 1379172,
-  "total_est": 1379172,
-  "paying_members": 3459,
+  "monthly_low": 1079826,
+  "monthly_est": 1079826,
+  "gift_once": 302152,
+  "total_low": 1381978,
+  "total_est": 1381978,
+  "paying_members": 3463,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "TSa4X78Z7S4",
-   "start": "2026-10-18 21:33",
-   "title": "【デス桃太郎】新作FPSきたあああああああああ【ローレン・イロアス/にじさんじ】",
-   "kind": "配信",
-   "chatters": 1718,
-   "member_chatters": 1208,
-   "new_members": 3,
-   "gifted_total": 65
-  },
   {
    "video_id": "6GP8xjzmR20",
    "start": "2026-10-20 20:44",
@@ -277,6 +267,16 @@
    "member_chatters": 1167,
    "new_members": 2,
    "gifted_total": 81
+  },
+  {
+   "video_id": "Mhe5TDcCbFI",
+   "start": "2026-11-17 20:34",
+   "title": "【地獄アパート】地獄系心霊系アパート系凸系Vtuber【ローレン・イロアス/にじさんじ】",
+   "kind": "配信",
+   "chatters": 1693,
+   "member_chatters": 1151,
+   "new_members": 5,
+   "gifted_total": 70
   }
  ],
  "missed_streams": [
@@ -289,7 +289,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "PrisonLv1",
-   "like_count": 1969,
+   "like_count": 1972,
    "view_count": null
   }
  ],
@@ -301,7 +301,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "PrisonLv1",
-   "like_count": 1969,
+   "like_count": 1972,
    "view_count": null
   }
  ],
@@ -442,64 +442,64 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-17"
+    "to": "2026-11-18"
    },
-   "streams_analyzed": 9,
+   "streams_analyzed": 10,
    "streams_missed": 0,
-   "unique_chatters": 5571,
-   "members_confirmed": 3136,
+   "unique_chatters": 5992,
+   "members_confirmed": 3346,
    "member_classes": {
-    "unknown": 2274,
-    "known": 303,
-    "gift": 559
+    "unknown": 2394,
+    "known": 324,
+    "gift": 628
    },
-   "long_term_members": 1806,
+   "long_term_members": 1908,
    "badges": [
     {
      "months": 0,
-     "members": 678
+     "members": 756
     },
     {
      "months": 1,
-     "members": 54
+     "members": 55
     },
     {
      "months": 2,
-     "members": 249
+     "members": 263
     },
     {
      "months": 6,
-     "members": 349
+     "members": 364
     },
     {
      "months": 12,
-     "members": 536
+     "members": 574
     },
     {
      "months": 24,
-     "members": 1270
+     "members": 1334
     }
    ],
    "events": {
-    "new_members": 16,
+    "new_members": 21,
     "rejoins": 14,
-    "milestones": 93,
-    "gifted_total": 560
+    "milestones": 102,
+    "gifted_total": 630
    },
    "tiers": [
     {
      "tier": "PrisonLv1",
      "price": 490,
-     "confirmed_members": 303,
-     "estimated_members": 2577.0
+     "confirmed_members": 324,
+     "estimated_members": 2718.0
     }
    ],
    "revenue": {
-    "monthly_low": 803555,
-    "monthly_est": 803555,
-    "gift_once": 174618
+    "monthly_low": 847522,
+    "monthly_est": 847522,
+    "gift_once": 196445
    },
-   "avg_member_chatters": 1042.1,
+   "avg_member_chatters": 1053,
    "partial": true,
    "finalized": false
   }

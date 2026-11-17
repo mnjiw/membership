@@ -3,15 +3,15 @@
  "channel_id": "UCzNXpqpdvlibmNc1JpM1o4g",
  "handle": "@Lunlun_nijisanji",
  "subscribers": 928000,
- "fetched_at": "2026-11-17 05:31",
- "generated_at": "2026-11-17 05:32",
+ "fetched_at": "2026-11-18 05:33",
+ "generated_at": "2026-11-18 05:33",
  "period": {
-  "from": "2026-10-18 05:31",
-  "to": "2026-11-17 05:31",
+  "from": "2026-10-19 05:33",
+  "to": "2026-11-18 05:33",
   "days": 30
  },
  "streams_analyzed": 18,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 6772,
  "members_confirmed": 1560,
  "member_classes": {
@@ -269,8 +269,32 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
- "members_only_content": [],
+ "missed_streams": [
+  {
+   "video_id": "QkCJSFYFJZ4",
+   "start": "2026-11-17 19:45",
+   "title": "【めんげん】こころ‼ここにあり‼【ルンルン/にじさんじ】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 491,
+   "view_count": null
+  }
+ ],
+ "members_only_content": [
+  {
+   "video_id": "QkCJSFYFJZ4",
+   "start": "2026-11-17 19:45",
+   "title": "【めんげん】こころ‼ここにあり‼【ルンルン/にじさんじ】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 491,
+   "view_count": null
+  }
+ ],
  "history": [
   {
    "month": "2026-09",
@@ -404,10 +428,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-17"
+    "to": "2026-11-18"
    },
    "streams_analyzed": 13,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 4910,
    "members_confirmed": 1285,
    "member_classes": {

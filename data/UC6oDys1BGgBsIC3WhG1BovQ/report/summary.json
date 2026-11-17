@@ -3,19 +3,19 @@
  "channel_id": "UC6oDys1BGgBsIC3WhG1BovQ",
  "handle": "@ShizukaRin",
  "subscribers": 398000,
- "fetched_at": "2026-11-17 05:18",
- "generated_at": "2026-11-17 05:18",
+ "fetched_at": "2026-11-18 05:18",
+ "generated_at": "2026-11-18 05:19",
  "period": {
-  "from": "2026-10-18 05:18",
-  "to": "2026-11-17 05:18",
+  "from": "2026-10-19 05:18",
+  "to": "2026-11-18 05:18",
   "days": 30
  },
  "streams_analyzed": 29,
  "streams_missed": 2,
- "unique_chatters": 995,
- "members_confirmed": 279,
+ "unique_chatters": 977,
+ "members_confirmed": 280,
  "member_classes": {
-  "unknown": 211,
+  "unknown": 212,
   "known": 43,
   "gift": 25
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 41
+   "members": 40
   },
   {
    "months": 1,
@@ -38,12 +38,12 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 20
+   "members": 21
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 27
+   "members": 28
   },
   {
    "months": 24,
@@ -64,7 +64,7 @@
  "events": {
   "new_members": 7,
   "rejoins": 5,
-  "milestones": 15,
+  "milestones": 16,
   "gift_purchases": 9,
   "gifted_total": 25,
   "gift_redemptions": 25
@@ -77,19 +77,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 43,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 211.0,
-   "estimated_members": 254.0,
+   "allocated_unknown": 212.0,
+   "estimated_members": 255.0,
    "monthly_net_confirmed": 13408,
-   "monthly_net_estimated": 79202
+   "monthly_net_estimated": 79514
   }
  ],
  "revenue": {
-  "monthly_low": 79202,
-  "monthly_est": 79202,
+  "monthly_low": 79514,
+  "monthly_est": 79514,
   "gift_once": 7795,
-  "total_low": 86997,
-  "total_est": 86997,
-  "paying_members": 254,
+  "total_low": 87309,
+  "total_est": 87309,
+  "paying_members": 255,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "mxUlqfGxP7E",
-   "start": "2026-10-18 22:51",
-   "title": "🚀共同探検23 02 | No Man's Sky【静凛/にじさんじ】",
-   "kind": "配信",
-   "chatters": 166,
-   "member_chatters": 77,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "2ZyC-2w0HTE",
    "start": "2026-10-21 18:51",
@@ -387,6 +377,16 @@
    "member_chatters": 72,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "18e-UD72xHE",
+   "start": "2026-11-17 20:24",
+   "title": "02 私の名前は、静凛。ニコライ・ジノビエフを探しにやって来たものです | BIOHAZARD requiem【静凛/にじさんじ】",
+   "kind": "配信",
+   "chatters": 100,
+   "member_chatters": 72,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -411,7 +411,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 136,
+   "like_count": 137,
    "view_count": null
   }
  ],
@@ -433,7 +433,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 136,
+   "like_count": 137,
    "view_count": null
   }
  ],
@@ -590,18 +590,18 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-17"
+    "to": "2026-11-18"
    },
-   "streams_analyzed": 19,
+   "streams_analyzed": 20,
    "streams_missed": 0,
-   "unique_chatters": 709,
-   "members_confirmed": 229,
+   "unique_chatters": 720,
+   "members_confirmed": 232,
    "member_classes": {
-    "unknown": 173,
-    "known": 36,
+    "unknown": 175,
+    "known": 37,
     "gift": 20
    },
-   "long_term_members": 174,
+   "long_term_members": 176,
    "badges": [
     {
      "months": 0,
@@ -617,11 +617,11 @@
     },
     {
      "months": 6,
-     "members": 16
+     "members": 17
     },
     {
      "months": 12,
-     "members": 24
+     "members": 25
     },
     {
      "months": 24,
@@ -633,29 +633,29 @@
     },
     {
      "months": 48,
-     "members": 126
+     "members": 127
     }
    ],
    "events": {
     "new_members": 5,
     "rejoins": 4,
-    "milestones": 6,
+    "milestones": 7,
     "gifted_total": 20
    },
    "tiers": [
     {
      "tier": "しずりんのメンバーシップだよ！",
      "price": 490,
-     "confirmed_members": 36,
-     "estimated_members": 209.0
+     "confirmed_members": 37,
+     "estimated_members": 212.0
     }
    ],
    "revenue": {
-    "monthly_low": 65170,
-    "monthly_est": 65170,
+    "monthly_low": 66105,
+    "monthly_est": 66105,
     "gift_once": 6236
    },
-   "avg_member_chatters": 67.6,
+   "avg_member_chatters": 67.8,
    "partial": true,
    "finalized": false
   }

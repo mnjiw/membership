@@ -3,32 +3,32 @@
  "channel_id": "UCcYrL_GQe8X8K2ARhw_Syww",
  "handle": "@SumeragiReo",
  "subscribers": 142000,
- "fetched_at": "2026-11-17 05:33",
- "generated_at": "2026-11-17 05:34",
+ "fetched_at": "2026-11-18 05:35",
+ "generated_at": "2026-11-18 05:35",
  "period": {
-  "from": "2026-10-18 05:33",
-  "to": "2026-11-17 05:33",
+  "from": "2026-10-19 05:35",
+  "to": "2026-11-18 05:35",
   "days": 30
  },
  "streams_analyzed": 36,
  "streams_missed": 3,
- "unique_chatters": 2095,
+ "unique_chatters": 2078,
  "members_confirmed": 562,
  "member_classes": {
-  "unknown": 446,
-  "known": 91,
+  "known": 90,
+  "unknown": 447,
   "gift": 25
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 58
+   "members": 59
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 57
+   "members": 55
   },
   {
    "months": 2,
@@ -43,11 +43,11 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 126
+   "members": 127
   }
  ],
  "events": {
-  "new_members": 13,
+  "new_members": 11,
   "rejoins": 10,
   "milestones": 14,
   "gift_purchases": 4,
@@ -60,11 +60,11 @@
    "tier": "れおとらいぶ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 91,
+   "confirmed_members": 90,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 446.0,
+   "allocated_unknown": 447.0,
    "estimated_members": 537.0,
-   "monthly_net_confirmed": 28375,
+   "monthly_net_confirmed": 28064,
    "monthly_net_estimated": 167446
   }
  ],
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "iLCYuUhSRug",
-   "start": "2026-10-18 12:02",
-   "title": "【 あつまれどうぶつの森】昼活あつ森！島の評価を上げたいッ！【 皇れお  / にじさんじ 】",
-   "kind": "配信",
-   "chatters": 183,
-   "member_chatters": 105,
-   "new_members": 2,
-   "gifted_total": 0
-  },
   {
    "video_id": "9o4T71hPPzs",
    "start": "2026-10-19 06:33",
@@ -442,6 +432,16 @@
    "member_chatters": 133,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "H6woDJl3yHs",
+   "start": "2026-11-17 21:31",
+   "title": "[ CURSED SHOPPING ] I Tried Shopping on a Cursed Website [ Sumeragi Leo / NIJISANJI ]",
+   "kind": "配信",
+   "chatters": 163,
+   "member_chatters": 108,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -629,22 +629,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-17"
+    "to": "2026-11-18"
    },
-   "streams_analyzed": 21,
+   "streams_analyzed": 22,
    "streams_missed": 0,
-   "unique_chatters": 1538,
-   "members_confirmed": 447,
+   "unique_chatters": 1557,
+   "members_confirmed": 452,
    "member_classes": {
     "known": 71,
-    "unknown": 366,
+    "unknown": 371,
     "gift": 10
    },
-   "long_term_members": 108,
+   "long_term_members": 110,
    "badges": [
     {
      "months": 0,
-     "members": 35
+     "members": 36
     },
     {
      "months": 1,
@@ -656,11 +656,11 @@
     },
     {
      "months": 6,
-     "members": 115
+     "members": 117
     },
     {
      "months": 12,
-     "members": 108
+     "members": 110
     }
    ],
    "events": {
@@ -674,15 +674,15 @@
      "tier": "れおとらいぶ",
      "price": 490,
      "confirmed_members": 71,
-     "estimated_members": 437.0
+     "estimated_members": 442.0
     }
    ],
    "revenue": {
-    "monthly_low": 136265,
-    "monthly_est": 136265,
+    "monthly_low": 137824,
+    "monthly_est": 137824,
     "gift_once": 3118
    },
-   "avg_member_chatters": 116.9,
+   "avg_member_chatters": 116.5,
    "partial": true,
    "finalized": false
   }

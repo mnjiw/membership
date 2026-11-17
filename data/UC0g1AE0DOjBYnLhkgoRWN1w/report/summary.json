@@ -3,26 +3,27 @@
  "channel_id": "UC0g1AE0DOjBYnLhkgoRWN1w",
  "handle": "@HonmaHimawari",
  "subscribers": 786000,
- "fetched_at": "2026-11-17 05:19",
- "generated_at": "2026-11-17 05:19",
+ "fetched_at": "2026-11-18 05:19",
+ "generated_at": "2026-11-18 05:19",
  "period": {
-  "from": "2026-10-18 05:19",
-  "to": "2026-11-17 05:19",
+  "from": "2026-10-19 05:19",
+  "to": "2026-11-18 05:19",
   "days": 30
  },
  "streams_analyzed": 24,
  "streams_missed": 1,
- "unique_chatters": 1774,
- "members_confirmed": 267,
+ "unique_chatters": 1794,
+ "members_confirmed": 268,
  "member_classes": {
   "unknown": 255,
-  "known": 12
+  "known": 12,
+  "gift": 1
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 3
+   "members": 4
   },
   {
    "months": 1,
@@ -64,9 +65,9 @@
   "new_members": 2,
   "rejoins": 3,
   "milestones": 1,
-  "gift_purchases": 0,
-  "gifted_total": 0,
-  "gift_redemptions": 0
+  "gift_purchases": 1,
+  "gifted_total": 1,
+  "gift_redemptions": 1
  },
  "tiers_configured": true,
  "tiers": [
@@ -85,9 +86,9 @@
  "revenue": {
   "monthly_low": 83255,
   "monthly_est": 83255,
-  "gift_once": 0,
-  "total_low": 83255,
-  "total_est": 83255,
+  "gift_once": 312,
+  "total_low": 83567,
+  "total_est": 83567,
   "paying_members": 267,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -97,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "SlFm1s2Q4Do",
-   "start": "2026-10-18 20:01",
-   "title": "꒰ Overwatch ꒱ DAY2 今日も練習で背中デカくなる。🌈🦍ｳﾎﾎ　˹ 本間ひまわり にじさんじのみなさんっ ˼",
-   "kind": "配信",
-   "chatters": 150,
-   "member_chatters": 93,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "IPQ78HAprwM",
    "start": "2026-10-19 20:03",
@@ -336,6 +327,16 @@
    "member_chatters": 68,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "9XE4TLzgZIQ",
+   "start": "2026-11-17 21:00",
+   "title": "#4꒰ ゼルダの伝説 時のオカリナ リメイク ꒱　でっか！！！！！！！！！！！　˹ 本間ひまわり にじさんじ ˼",
+   "kind": "配信",
+   "chatters": 154,
+   "member_chatters": 76,
+   "new_members": 0,
+   "gifted_total": 1
   }
  ],
  "missed_streams": [
@@ -516,18 +517,23 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-17"
+    "to": "2026-11-18"
    },
-   "streams_analyzed": 13,
+   "streams_analyzed": 14,
    "streams_missed": 1,
-   "unique_chatters": 1405,
-   "members_confirmed": 205,
+   "unique_chatters": 1437,
+   "members_confirmed": 209,
    "member_classes": {
-    "unknown": 196,
-    "known": 9
+    "unknown": 199,
+    "known": 9,
+    "gift": 1
    },
-   "long_term_members": 195,
+   "long_term_members": 198,
    "badges": [
+    {
+     "months": 0,
+     "members": 1
+    },
     {
      "months": 1,
      "members": 1
@@ -554,29 +560,29 @@
     },
     {
      "months": 48,
-     "members": 145
+     "members": 148
     }
    ],
    "events": {
     "new_members": 0,
     "rejoins": 2,
     "milestones": 0,
-    "gifted_total": 0
+    "gifted_total": 1
    },
    "tiers": [
     {
      "tier": "ひまぐま",
      "price": 490,
      "confirmed_members": 9,
-     "estimated_members": 205.0
+     "estimated_members": 208.0
     }
    ],
    "revenue": {
-    "monthly_low": 63923,
-    "monthly_est": 63923,
-    "gift_once": 0
+    "monthly_low": 64858,
+    "monthly_est": 64858,
+    "gift_once": 312
    },
-   "avg_member_chatters": 84.8,
+   "avg_member_chatters": 84.1,
    "partial": true,
    "finalized": false
   }

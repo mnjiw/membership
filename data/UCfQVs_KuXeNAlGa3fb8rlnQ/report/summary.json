@@ -3,27 +3,27 @@
  "channel_id": "UCfQVs_KuXeNAlGa3fb8rlnQ",
  "handle": "@SakuraRitsuki",
  "subscribers": 281000,
- "fetched_at": "2026-11-17 05:21",
- "generated_at": "2026-11-17 05:21",
+ "fetched_at": "2026-11-18 05:20",
+ "generated_at": "2026-11-18 05:21",
  "period": {
-  "from": "2026-10-18 05:21",
-  "to": "2026-11-17 05:21",
+  "from": "2026-10-19 05:20",
+  "to": "2026-11-18 05:20",
   "days": 30
  },
  "streams_analyzed": 42,
  "streams_missed": 3,
- "unique_chatters": 1746,
- "members_confirmed": 125,
+ "unique_chatters": 1044,
+ "members_confirmed": 126,
  "member_classes": {
-  "unknown": 89,
   "known": 21,
+  "unknown": 90,
   "gift": 15
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 16
+   "members": 17
   },
   {
    "months": 2,
@@ -72,10 +72,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 10,
    "share_of_confirmed_pct": 47.6,
-   "allocated_unknown": 42.4,
-   "estimated_members": 52.4,
+   "allocated_unknown": 42.9,
+   "estimated_members": 52.9,
    "monthly_net_confirmed": 3118,
-   "monthly_net_estimated": 16333
+   "monthly_net_estimated": 16482
   },
   {
    "tier": "桜SP",
@@ -83,19 +83,19 @@
    "net_per_member": 2220.9,
    "confirmed_members": 11,
    "share_of_confirmed_pct": 52.4,
-   "allocated_unknown": 46.6,
-   "estimated_members": 57.6,
+   "allocated_unknown": 47.1,
+   "estimated_members": 58.1,
    "monthly_net_confirmed": 24430,
-   "monthly_net_estimated": 127967
+   "monthly_net_estimated": 129130
   }
  ],
  "revenue": {
-  "monthly_low": 55300,
-  "monthly_est": 144300,
+  "monthly_low": 55612,
+  "monthly_est": 145612,
   "gift_once": 4677,
-  "total_low": 59977,
-  "total_est": 148977,
-  "paying_members": 110,
+  "total_low": 60289,
+  "total_est": 150289,
+  "paying_members": 111,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -104,16 +104,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "Vumh1WZLh2Y",
-   "start": "2026-10-18 12:01",
-   "title": "【ゲストさんに聞いた10の質問】第43回 ゲストさんに聞いた10の質問  佐伯イッテツ様【にじさんじ/桜凛月】",
-   "kind": "配信",
-   "chatters": 755,
-   "member_chatters": 24,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "LAuHYW3bg6g",
    "start": "2026-10-19 13:00",
@@ -523,6 +513,16 @@
    "member_chatters": 51,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "tpSNgyQbZZo",
+   "start": "2026-11-17 20:00",
+   "title": "【スプラ３】 玄人はしゃべりなさい 【にじさんじ/桜凛月】",
+   "kind": "配信",
+   "chatters": 99,
+   "member_chatters": 40,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -759,22 +759,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-17"
+    "to": "2026-11-18"
    },
-   "streams_analyzed": 17,
+   "streams_analyzed": 18,
    "streams_missed": 2,
-   "unique_chatters": 767,
-   "members_confirmed": 113,
+   "unique_chatters": 785,
+   "members_confirmed": 114,
    "member_classes": {
     "known": 21,
-    "unknown": 77,
+    "unknown": 78,
     "gift": 15
    },
    "long_term_members": 87,
    "badges": [
     {
      "months": 0,
-     "members": 16
+     "members": 17
     },
     {
      "months": 2,
@@ -812,21 +812,21 @@
      "tier": "桜ンボの箱舟",
      "price": 490,
      "confirmed_members": 10,
-     "estimated_members": 46.7
+     "estimated_members": 47.1
     },
     {
      "tier": "桜SP",
      "price": 3490,
      "confirmed_members": 11,
-     "estimated_members": 51.3
+     "estimated_members": 51.9
     }
    ],
    "revenue": {
-    "monthly_low": 51558,
-    "monthly_est": 128558,
+    "monthly_low": 51870,
+    "monthly_est": 129870,
     "gift_once": 4677
    },
-   "avg_member_chatters": 37.2,
+   "avg_member_chatters": 37.4,
    "partial": true,
    "finalized": false
   }

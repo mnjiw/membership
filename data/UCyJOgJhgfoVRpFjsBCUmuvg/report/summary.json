@@ -3,16 +3,16 @@
  "channel_id": "UCyJOgJhgfoVRpFjsBCUmuvg",
  "handle": "@KozueMone",
  "subscribers": 160000,
- "fetched_at": "2026-11-17 13:30",
- "generated_at": "2026-11-17 13:30",
+ "fetched_at": "2026-11-18 05:33",
+ "generated_at": "2026-11-18 05:34",
  "period": {
-  "from": "2026-10-18 13:30",
-  "to": "2026-11-17 13:30",
+  "from": "2026-10-19 05:33",
+  "to": "2026-11-18 05:33",
   "days": 30
  },
- "streams_analyzed": 25,
- "streams_missed": 4,
- "unique_chatters": 2753,
+ "streams_analyzed": 26,
+ "streams_missed": 3,
+ "unique_chatters": 2778,
  "members_confirmed": 459,
  "member_classes": {
   "unknown": 307,
@@ -54,7 +54,7 @@
  "events": {
   "new_members": 11,
   "rejoins": 1,
-  "milestones": 79,
+  "milestones": 81,
   "gift_purchases": 4,
   "gifted_total": 26,
   "gift_redemptions": 26
@@ -337,21 +337,19 @@
    "member_chatters": 144,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "lCNb2kU8hko",
+   "start": "2026-11-17 12:01",
+   "title": "【ぽこ あ ポケモン】昼活ぽこポケ☕ゆめしまをきれいにしましょ【にじさんじ/梢桃音】",
+   "kind": "配信",
+   "chatters": 244,
+   "member_chatters": 106,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
-  {
-   "video_id": "j5jBGJOeaA8",
-   "start": "2026-10-18 22:00",
-   "title": "【メン限】劇場版チェンソーマンレゼ篇一緒に見ようの会👀【にじさんじ/梢桃音】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 69,
-   "view_count": null
-  },
   {
    "video_id": "8d3bLZzAexI",
    "start": "2026-10-24 21:58",
@@ -390,16 +388,6 @@
   }
  ],
  "members_only_content": [
-  {
-   "video_id": "j5jBGJOeaA8",
-   "start": "2026-10-18 22:00",
-   "title": "【メン限】劇場版チェンソーマンレゼ篇一緒に見ようの会👀【にじさんじ/梢桃音】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 69,
-   "view_count": null
-  },
   {
    "video_id": "8d3bLZzAexI",
    "start": "2026-10-24 21:58",
@@ -568,14 +556,14 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-17"
+    "to": "2026-11-18"
    },
-   "streams_analyzed": 12,
+   "streams_analyzed": 13,
    "streams_missed": 2,
-   "unique_chatters": 1980,
-   "members_confirmed": 384,
+   "unique_chatters": 2021,
+   "members_confirmed": 385,
    "member_classes": {
-    "unknown": 255,
+    "unknown": 256,
     "known": 114,
     "gift": 15
    },
@@ -591,7 +579,7 @@
     },
     {
      "months": 2,
-     "members": 33
+     "members": 34
     },
     {
      "months": 6,
@@ -609,7 +597,7 @@
    "events": {
     "new_members": 5,
     "rejoins": 1,
-    "milestones": 54,
+    "milestones": 56,
     "gifted_total": 15
    },
    "tiers": [
@@ -617,15 +605,15 @@
      "tier": "もねゴンの集い",
      "price": 490,
      "confirmed_members": 114,
-     "estimated_members": 369.0
+     "estimated_members": 370.0
     }
    ],
    "revenue": {
-    "monthly_low": 115061,
-    "monthly_est": 115061,
+    "monthly_low": 115373,
+    "monthly_est": 115373,
     "gift_once": 4677
    },
-   "avg_member_chatters": 137.7,
+   "avg_member_chatters": 135.2,
    "partial": true,
    "finalized": false
   }

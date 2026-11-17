@@ -3,27 +3,27 @@
  "channel_id": "UCFgXWZOUZA2oYHNr6qDmsTQ",
  "handle": "@ScarleYonaguni",
  "subscribers": 355000,
- "fetched_at": "2026-11-17 13:31",
- "generated_at": "2026-11-17 13:31",
+ "fetched_at": "2026-11-18 05:37",
+ "generated_at": "2026-11-18 05:37",
  "period": {
-  "from": "2026-10-18 13:31",
-  "to": "2026-11-17 13:31",
+  "from": "2026-10-19 05:37",
+  "to": "2026-11-18 05:37",
   "days": 30
  },
- "streams_analyzed": 37,
+ "streams_analyzed": 38,
  "streams_missed": 1,
- "unique_chatters": 2238,
- "members_confirmed": 497,
+ "unique_chatters": 2237,
+ "members_confirmed": 476,
  "member_classes": {
-  "known": 241,
   "unknown": 98,
-  "gift": 158
+  "known": 241,
+  "gift": 137
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 162
+   "members": 142
   },
   {
    "months": 1,
@@ -38,7 +38,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 27
+   "members": 25
   },
   {
    "months": 12,
@@ -48,7 +48,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 66
+   "members": 67
   },
   {
    "months": 36,
@@ -64,10 +64,10 @@
  "events": {
   "new_members": 1,
   "rejoins": 15,
-  "milestones": 178,
-  "gift_purchases": 37,
-  "gifted_total": 159,
-  "gift_redemptions": 159
+  "milestones": 182,
+  "gift_purchases": 33,
+  "gifted_total": 138,
+  "gift_redemptions": 138
  },
  "tiers_configured": true,
  "tiers": [
@@ -86,9 +86,9 @@
  "revenue": {
   "monthly_low": 148852,
   "monthly_est": 148852,
-  "gift_once": 69815,
-  "total_low": 218667,
-  "total_est": 218667,
+  "gift_once": 60595,
+  "total_low": 209446,
+  "total_est": 209446,
   "paying_members": 339,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "UGG3p8gssz4",
-   "start": "2026-10-18 15:11",
-   "title": "Let's Play Pokémon Legends: Arceus!💙💚✨Part 9 (100% the Pokédex + daddy  volo 💛💛💛)",
-   "kind": "配信",
-   "chatters": 184,
-   "member_chatters": 79,
-   "new_members": 0,
-   "gifted_total": 21
-  },
   {
    "video_id": "9g8ydm7wJVA",
    "start": "2026-10-19 11:01",
@@ -467,6 +457,26 @@
    "member_chatters": 97,
    "new_members": 0,
    "gifted_total": 2
+  },
+  {
+   "video_id": "c1AmF-W1v38",
+   "start": "2026-11-17 12:12",
+   "title": "ONEE-SAN ROLEPLAY ASMR \"CALL ME BIG SISTER\" 😘💋✨",
+   "kind": "配信",
+   "chatters": 236,
+   "member_chatters": 80,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "te5IhMBncZM",
+   "start": "2026-11-17 16:39",
+   "title": "Let's Play Persona 5 Royal❤️✨ Part 31",
+   "kind": "配信",
+   "chatters": 86,
+   "member_chatters": 34,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -637,18 +647,18 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-17"
+    "to": "2026-11-18"
    },
-   "streams_analyzed": 19,
+   "streams_analyzed": 21,
    "streams_missed": 0,
-   "unique_chatters": 1310,
-   "members_confirmed": 315,
+   "unique_chatters": 1360,
+   "members_confirmed": 316,
    "member_classes": {
-    "known": 198,
+    "known": 199,
     "unknown": 69,
     "gift": 48
    },
-   "long_term_members": 223,
+   "long_term_members": 224,
    "badges": [
     {
      "months": 0,
@@ -672,7 +682,7 @@
     },
     {
      "months": 24,
-     "members": 49
+     "members": 50
     },
     {
      "months": 36,
@@ -686,23 +696,23 @@
    "events": {
     "new_members": 0,
     "rejoins": 11,
-    "milestones": 67,
+    "milestones": 73,
     "gifted_total": 49
    },
    "tiers": [
     {
      "tier": "✨Apprenticeship✨",
      "price": 690,
-     "confirmed_members": 198,
-     "estimated_members": 267.0
+     "confirmed_members": 199,
+     "estimated_members": 268.0
     }
    ],
    "revenue": {
-    "monthly_low": 117237,
-    "monthly_est": 117237,
+    "monthly_low": 117676,
+    "monthly_est": 117676,
     "gift_once": 21515
    },
-   "avg_member_chatters": 81.5,
+   "avg_member_chatters": 79.1,
    "partial": true,
    "finalized": false
   }

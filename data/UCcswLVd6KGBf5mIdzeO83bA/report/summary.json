@@ -3,56 +3,56 @@
  "channel_id": "UCcswLVd6KGBf5mIdzeO83bA",
  "handle": "@HanakagoTsubasa",
  "subscribers": 134000,
- "fetched_at": "2026-11-17 05:33",
- "generated_at": "2026-11-17 05:34",
+ "fetched_at": "2026-11-18 05:35",
+ "generated_at": "2026-11-18 05:35",
  "period": {
-  "from": "2026-10-18 05:33",
-  "to": "2026-11-17 05:33",
+  "from": "2026-10-19 05:35",
+  "to": "2026-11-18 05:35",
   "days": 30
  },
- "streams_analyzed": 23,
- "streams_missed": 1,
- "unique_chatters": 2678,
- "members_confirmed": 409,
+ "streams_analyzed": 22,
+ "streams_missed": 2,
+ "unique_chatters": 2600,
+ "members_confirmed": 351,
  "member_classes": {
-  "unknown": 272,
-  "known": 38,
-  "gift": 99
+  "unknown": 265,
+  "known": 37,
+  "gift": 49
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 140
+   "members": 88
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 41
+   "members": 39
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 72
+   "members": 71
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 65
+   "members": 63
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 91
+   "members": 90
   }
  ],
  "events": {
-  "new_members": 21,
+  "new_members": 20,
   "rejoins": 2,
   "milestones": 0,
-  "gift_purchases": 7,
-  "gifted_total": 100,
-  "gift_redemptions": 99
+  "gift_purchases": 6,
+  "gifted_total": 50,
+  "gift_redemptions": 49
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,21 +60,21 @@
    "tier": "翼推部 子つ葉班",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 38,
+   "confirmed_members": 37,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 272.0,
-   "estimated_members": 310.0,
-   "monthly_net_confirmed": 11849,
-   "monthly_net_estimated": 96664
+   "allocated_unknown": 265.0,
+   "estimated_members": 302.0,
+   "monthly_net_confirmed": 11537,
+   "monthly_net_estimated": 94169
   }
  ],
  "revenue": {
-  "monthly_low": 96664,
-  "monthly_est": 96664,
-  "gift_once": 31182,
-  "total_low": 127845,
-  "total_est": 127845,
-  "paying_members": 310,
+  "monthly_low": 94169,
+  "monthly_est": 94169,
+  "gift_once": 15591,
+  "total_low": 109760,
+  "total_est": 109760,
+  "paying_members": 302,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "Xb3ZF3i6RvE",
-   "start": "2026-10-18 20:02",
-   "title": "【ソーセージについての奇妙なゲーム】ただソーセージを乗せるだけのある種ホラゲー。【花籠つばさ / にじさんじ】",
-   "kind": "配信",
-   "chatters": 236,
-   "member_chatters": 176,
-   "new_members": 1,
-   "gifted_total": 50
-  },
   {
    "video_id": "tiv2o9VWZsU",
    "start": "2026-10-19 22:01",
@@ -326,6 +316,18 @@
    "members_level": "",
    "like_count": 86,
    "view_count": null
+  },
+  {
+   "video_id": "nQFbnqz4bVM",
+   "start": "2026-11-17 00:00",
+   "title": "【スプラトゥーン3】S＋への昇格戦に参ります【花籠つばさ / にじさんじ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 732,
+   "view_count": 45768
   }
  ],
  "members_only_content": [
@@ -465,10 +467,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-17"
+    "to": "2026-11-18"
    },
    "streams_analyzed": 14,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 2162,
    "members_confirmed": 283,
    "member_classes": {
