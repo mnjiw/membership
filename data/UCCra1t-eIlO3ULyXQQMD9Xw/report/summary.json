@@ -3,16 +3,16 @@
  "channel_id": "UCCra1t-eIlO3ULyXQQMD9Xw",
  "handle": "@RemiaAotsuki",
  "subscribers": 81600,
- "fetched_at": "2026-11-17 06:34",
- "generated_at": "2026-11-17 06:34",
+ "fetched_at": "2026-11-17 13:34",
+ "generated_at": "2026-11-17 13:35",
  "period": {
-  "from": "2026-10-18 06:34",
-  "to": "2026-11-17 06:34",
+  "from": "2026-10-18 13:34",
+  "to": "2026-11-17 13:34",
   "days": 30
  },
- "streams_analyzed": 23,
- "streams_missed": 3,
- "unique_chatters": 512,
+ "streams_analyzed": 24,
+ "streams_missed": 2,
+ "unique_chatters": 523,
  "members_confirmed": 113,
  "member_classes": {
   "unknown": 78,
@@ -26,14 +26,9 @@
    "members": 10
   },
   {
-   "months": 1,
-   "label": "1ヶ月",
-   "members": 1
-  },
-  {
    "months": 2,
    "label": "2ヶ月",
-   "members": 10
+   "members": 11
   },
   {
    "months": 6,
@@ -54,7 +49,7 @@
  "events": {
   "new_members": 2,
   "rejoins": 3,
-  "milestones": 19,
+  "milestones": 20,
   "gift_purchases": 1,
   "gifted_total": 5,
   "gift_redemptions": 5
@@ -317,6 +312,16 @@
    "member_chatters": 25,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "PAyskySuh50",
+   "start": "2026-11-16 23:59",
+   "title": "【COLD RAILS】 i'm a bartender on a train 🍸 【#VSPOEN #RemiaAotsuki】",
+   "kind": "配信",
+   "chatters": 66,
+   "member_chatters": 33,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -343,18 +348,6 @@
    "members_level": "",
    "like_count": 22,
    "view_count": null
-  },
-  {
-   "video_id": "PAyskySuh50",
-   "start": "2026-11-16 00:00",
-   "title": "【COLD RAILS】 i'm a bartender on a train 🍸 【#VSPOEN #RemiaAotsuki】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 245,
-   "view_count": 2743
   }
  ],
  "members_only_content": [
@@ -507,15 +500,15 @@
     "from": "2026-11-01",
     "to": "2026-11-17"
    },
-   "streams_analyzed": 12,
-   "streams_missed": 2,
-   "unique_chatters": 317,
-   "members_confirmed": 78,
+   "streams_analyzed": 13,
+   "streams_missed": 1,
+   "unique_chatters": 335,
+   "members_confirmed": 81,
    "member_classes": {
-    "known": 24,
-    "unknown": 54
+    "known": 25,
+    "unknown": 56
    },
-   "long_term_members": 51,
+   "long_term_members": 53,
    "badges": [
     {
      "months": 0,
@@ -523,7 +516,7 @@
     },
     {
      "months": 2,
-     "members": 9
+     "members": 10
     },
     {
      "months": 6,
@@ -535,29 +528,29 @@
     },
     {
      "months": 24,
-     "members": 26
+     "members": 28
     }
    ],
    "events": {
     "new_members": 0,
     "rejoins": 1,
-    "milestones": 3,
+    "milestones": 4,
     "gifted_total": 0
    },
    "tiers": [
     {
      "tier": "BOTchis",
      "price": 490,
-     "confirmed_members": 24,
-     "estimated_members": 78.0
+     "confirmed_members": 25,
+     "estimated_members": 81.0
     }
    ],
    "revenue": {
-    "monthly_low": 24322,
-    "monthly_est": 24322,
+    "monthly_low": 25257,
+    "monthly_est": 25257,
     "gift_once": 0
    },
-   "avg_member_chatters": 30.8,
+   "avg_member_chatters": 31,
    "partial": true,
    "finalized": false
   }

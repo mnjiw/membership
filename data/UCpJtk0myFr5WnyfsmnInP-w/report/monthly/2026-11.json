@@ -4,16 +4,21 @@
   "from": "2026-11-01",
   "to": "2026-11-17"
  },
- "streams_analyzed": 4,
- "streams_missed": 2,
- "unique_chatters": 143,
- "members_confirmed": 38,
+ "streams_analyzed": 5,
+ "streams_missed": 1,
+ "unique_chatters": 162,
+ "members_confirmed": 45,
  "member_classes": {
-  "unknown": 30,
-  "known": 8
+  "unknown": 32,
+  "known": 8,
+  "gift": 5
  },
- "long_term_members": 37,
+ "long_term_members": 39,
  "badges": [
+  {
+   "months": 0,
+   "members": 5
+  },
   {
    "months": 6,
    "members": 1
@@ -24,29 +29,29 @@
   },
   {
    "months": 24,
-   "members": 35
+   "members": 37
   }
  ],
  "events": {
   "new_members": 0,
   "rejoins": 1,
   "milestones": 1,
-  "gifted_total": 0
+  "gifted_total": 5
  },
  "tiers": [
   {
    "tier": "Nijisenja",
    "price": 690,
    "confirmed_members": 8,
-   "estimated_members": 38.0
+   "estimated_members": 40.0
   }
  ],
  "revenue": {
-  "monthly_low": 16685,
-  "monthly_est": 16685,
-  "gift_once": 0
+  "monthly_low": 17564,
+  "monthly_est": 17564,
+  "gift_once": 2195
  },
- "avg_member_chatters": 19.8,
+ "avg_member_chatters": 20,
  "partial": true,
  "finalized": false
 }

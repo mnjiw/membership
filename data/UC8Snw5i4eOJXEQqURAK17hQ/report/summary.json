@@ -3,27 +3,27 @@
  "channel_id": "UC8Snw5i4eOJXEQqURAK17hQ",
  "handle": "@RaiGalilei",
  "subscribers": 57900,
- "fetched_at": "2026-11-17 05:27",
- "generated_at": "2026-11-17 05:27",
+ "fetched_at": "2026-11-17 13:30",
+ "generated_at": "2026-11-17 13:30",
  "period": {
-  "from": "2026-10-18 05:27",
-  "to": "2026-11-17 05:27",
+  "from": "2026-10-18 13:30",
+  "to": "2026-11-17 13:30",
   "days": 30
  },
- "streams_analyzed": 30,
- "streams_missed": 1,
- "unique_chatters": 289,
- "members_confirmed": 84,
+ "streams_analyzed": 31,
+ "streams_missed": 0,
+ "unique_chatters": 292,
+ "members_confirmed": 90,
  "member_classes": {
   "unknown": 8,
   "known": 5,
-  "gift": 71
+  "gift": 77
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 64
+   "members": 70
   },
   {
    "months": 1,
@@ -55,9 +55,9 @@
   "new_members": 0,
   "rejoins": 2,
   "milestones": 1,
-  "gift_purchases": 14,
-  "gifted_total": 71,
-  "gift_redemptions": 71
+  "gift_purchases": 16,
+  "gifted_total": 77,
+  "gift_redemptions": 77
  },
  "tiers_configured": true,
  "tiers": [
@@ -76,9 +76,9 @@
  "revenue": {
   "monthly_low": 4054,
   "monthly_est": 4054,
-  "gift_once": 22139,
-  "total_low": 26193,
-  "total_est": 26193,
+  "gift_once": 24010,
+  "total_low": 28064,
+  "total_est": 28064,
   "paying_members": 13,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -387,22 +387,19 @@
    "member_chatters": 6,
    "new_members": 0,
    "gifted_total": 0
-  }
- ],
- "missed_streams": [
+  },
   {
    "video_id": "lpdNvuyYwMg",
-   "start": "2026-11-16 00:00",
+   "start": "2026-11-16 23:32",
    "title": "【Valheim】 Rai Galilei's: \"TO THE MOUNTAINS RAAAAAH\" #4【NIJISANJI】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 96,
-   "view_count": 1051
+   "kind": "配信",
+   "chatters": 29,
+   "member_chatters": 12,
+   "new_members": 0,
+   "gifted_total": 6
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -543,20 +540,20 @@
     "from": "2026-11-01",
     "to": "2026-11-17"
    },
-   "streams_analyzed": 18,
-   "streams_missed": 1,
-   "unique_chatters": 166,
-   "members_confirmed": 33,
+   "streams_analyzed": 19,
+   "streams_missed": 0,
+   "unique_chatters": 174,
+   "members_confirmed": 39,
    "member_classes": {
     "unknown": 11,
-    "gift": 20,
+    "gift": 26,
     "known": 2
    },
    "long_term_members": 6,
    "badges": [
     {
      "months": 0,
-     "members": 20
+     "members": 26
     },
     {
      "months": 1,
@@ -579,7 +576,7 @@
     "new_members": 0,
     "rejoins": 1,
     "milestones": 0,
-    "gifted_total": 20
+    "gifted_total": 26
    },
    "tiers": [
     {
@@ -592,9 +589,9 @@
    "revenue": {
     "monthly_low": 4054,
     "monthly_est": 4054,
-    "gift_once": 6236
+    "gift_once": 8107
    },
-   "avg_member_chatters": 7.2,
+   "avg_member_chatters": 7.4,
    "partial": true,
    "finalized": false
   }
