@@ -1789,18 +1789,25 @@
    "info_limited": true,
    "seen_live_at": "2026-11-18 06:43",
    "was_public_when_live": true,
-   "error": "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)",
+   "error": "ERROR: [youtube] cebxGJNhVp4: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
    "tab": "live",
    "status": "error",
    "failed_since_ts": 1794973922.3277977
+  },
+  "PAVRand1FfM": {
+   "id": "PAVRand1FfM",
+   "title": "【キャプテン翼 RISE OF NEW CHAMPIONS】オリキャラ登場！？EPISODE OF NEW HEROやるぞ！！※ネタバレ注意【胡桃沢りりか】",
+   "status": "live_now",
+   "seen_live_at": "2026-11-19 07:24",
+   "was_public_when_live": true
   }
  },
  "channel": "胡桃沢りりか",
  "channel_id": "UCYLp2FLXcqLUZhvrCxQmNIA",
  "handle": "@Ririka_krmzw0707",
  "subscribers": 120000,
- "fetched_at": "2026-11-18 12:52",
- "fetched_at_ts": 1794973922.3277977,
- "checked_from": "2026-11-11 12:52",
+ "fetched_at": "2026-11-19 07:24",
+ "fetched_at_ts": 1795040657.2500346,
+ "checked_from": "2026-11-12 07:24",
  "initial_fetch_done": true
 }

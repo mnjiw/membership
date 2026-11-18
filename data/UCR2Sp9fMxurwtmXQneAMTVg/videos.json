@@ -2516,9 +2516,11 @@
   "aY1Q4_TQH9w": {
    "id": "aY1Q4_TQH9w",
    "title": "【XP3122】アプデでASHスミナガ最強になったのか？！【すぺしゃりて  / 新人vtuber  孫守まごも】スプラトゥーン3",
-   "status": "live_now",
+   "status": "error",
    "seen_live_at": "2026-11-18 12:50",
-   "was_public_when_live": true
+   "was_public_when_live": true,
+   "error": "ERROR: [youtube] aY1Q4_TQH9w: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
+   "failed_since_ts": 1795039040.4055676
   },
   "t--_ZyFOZeQ": {
    "id": "t--_ZyFOZeQ",
@@ -2536,14 +2538,28 @@
    "info_limited": true,
    "start_from_chat": true,
    "status": "ok"
+  },
+  "up8CGccevpQ": {
+   "id": "up8CGccevpQ",
+   "title": "【雑談】とても\"チルい\"雑談をしよう！【孫守まごも/すぺしゃりて】",
+   "status": "error",
+   "error": "ERROR: [youtube] up8CGccevpQ: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
+   "failed_since_ts": 1795039040.4055676
+  },
+  "c_MjYE-FlMo": {
+   "id": "c_MjYE-FlMo",
+   "title": "【メン限】配信準備する！",
+   "status": "error",
+   "error": "ERROR: [youtube] c_MjYE-FlMo: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
+   "failed_since_ts": 1795039040.4055676
   }
  },
  "channel": "孫守まごも / Magomo Magomori",
  "channel_id": "UCR2Sp9fMxurwtmXQneAMTVg",
  "handle": "@magomo_magomori",
  "subscribers": 13800,
- "fetched_at": "2026-11-18 12:50",
- "fetched_at_ts": 1794973831.1483383,
- "checked_from": "2026-11-11 12:50",
+ "fetched_at": "2026-11-19 06:57",
+ "fetched_at_ts": 1795039040.4055676,
+ "checked_from": "2026-11-12 06:57",
  "initial_fetch_done": true
 }

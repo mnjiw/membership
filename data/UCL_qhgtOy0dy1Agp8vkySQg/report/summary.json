@@ -3,71 +3,71 @@
  "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
  "handle": "@MoriCalliope",
  "subscribers": 2660000,
- "fetched_at": "2026-11-18 06:31",
- "generated_at": "2026-11-18 06:31",
+ "fetched_at": "2026-11-19 06:30",
+ "generated_at": "2026-11-19 06:32",
  "period": {
-  "from": "2026-10-19 06:31",
-  "to": "2026-11-18 06:31",
+  "from": "2026-10-20 06:30",
+  "to": "2026-11-19 06:30",
   "days": 30
  },
- "streams_analyzed": 20,
+ "streams_analyzed": 19,
  "streams_missed": 3,
- "unique_chatters": 15143,
- "members_confirmed": 2723,
+ "unique_chatters": 14941,
+ "members_confirmed": 2640,
  "member_classes": {
-  "unknown": 1484,
-  "known": 621,
-  "gift": 618
+  "known": 612,
+  "unknown": 1461,
+  "gift": 567
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 680
+   "members": 628
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 44
+   "members": 43
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 131
+   "members": 129
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 217
+   "members": 212
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 416
+   "members": 407
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 289
+   "members": 285
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 259
+   "members": 255
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 687
+   "members": 681
   }
  ],
  "events": {
-  "new_members": 22,
-  "rejoins": 38,
-  "milestones": 319,
-  "gift_purchases": 79,
-  "gifted_total": 653,
-  "gift_redemptions": 620
+  "new_members": 21,
+  "rejoins": 37,
+  "milestones": 301,
+  "gift_purchases": 76,
+  "gifted_total": 601,
+  "gift_redemptions": 569
  },
  "tiers_configured": true,
  "tiers": [
@@ -75,34 +75,34 @@
    "tier": "Emotive Dead Beat!",
    "price": 390,
    "net_per_member": 248.2,
-   "confirmed_members": 51,
+   "confirmed_members": 50,
    "share_of_confirmed_pct": 8.2,
-   "allocated_unknown": 121.9,
-   "estimated_members": 172.9,
-   "monthly_net_confirmed": 12657,
-   "monthly_net_estimated": 42904
+   "allocated_unknown": 119.4,
+   "estimated_members": 169.4,
+   "monthly_net_confirmed": 12409,
+   "monthly_net_estimated": 42033
   },
   {
    "tier": "Dead Beat +",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 542,
+   "confirmed_members": 534,
    "share_of_confirmed_pct": 87.3,
-   "allocated_unknown": 1295.2,
-   "estimated_members": 1837.2,
-   "monthly_net_confirmed": 237987,
-   "monthly_net_estimated": 806704
+   "allocated_unknown": 1274.8,
+   "estimated_members": 1808.8,
+   "monthly_net_confirmed": 234475,
+   "monthly_net_estimated": 794225
   },
   {
    "tier": "Dead Beat ++",
    "price": 1990,
    "net_per_member": 1266.4,
    "confirmed_members": 12,
-   "share_of_confirmed_pct": 1.9,
-   "allocated_unknown": 28.7,
-   "estimated_members": 40.7,
+   "share_of_confirmed_pct": 2.0,
+   "allocated_unknown": 28.6,
+   "estimated_members": 40.6,
    "monthly_net_confirmed": 15196,
-   "monthly_net_estimated": 51511
+   "monthly_net_estimated": 51474
   },
   {
    "tier": "Dead Beat +++",
@@ -113,16 +113,16 @@
    "allocated_unknown": 38.2,
    "estimated_members": 54.2,
    "monthly_net_confirmed": 35535,
-   "monthly_net_estimated": 120451
+   "monthly_net_estimated": 120365
   }
  ],
  "revenue": {
-  "monthly_low": 669677,
-  "monthly_est": 1021571,
-  "gift_once": 162063,
-  "total_low": 831740,
-  "total_est": 1183633,
-  "paying_members": 2105,
+  "monthly_low": 660208,
+  "monthly_est": 1008096,
+  "gift_once": 149157,
+  "total_low": 809365,
+  "total_est": 1157254,
+  "paying_members": 2073,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -131,16 +131,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "C4oi8InF-ls",
-   "start": "2026-10-19 23:00",
-   "title": "【hololive Dreams】just grinding songs tonight #calliolive #holodori",
-   "kind": "配信",
-   "chatters": 738,
-   "member_chatters": 381,
-   "new_members": 1,
-   "gifted_total": 52
-  },
   {
    "video_id": "T6_IJ4YMW5k",
    "start": "2026-10-20 08:01",
@@ -562,7 +552,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-18"
+    "to": "2026-11-19"
    },
    "streams_analyzed": 11,
    "streams_missed": 2,

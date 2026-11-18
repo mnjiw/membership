@@ -1318,17 +1318,19 @@
   "l3bH6oygm9M": {
    "id": "l3bH6oygm9M",
    "title": "【 #LTK 】CC COREスクリム #CCWIN【昏昏アリア/ネオポルテ】",
-   "status": "live_now",
+   "status": "error",
    "seen_live_at": "2026-11-18 12:50",
-   "was_public_when_live": true
+   "was_public_when_live": true,
+   "error": "ERROR: [youtube] l3bH6oygm9M: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
+   "failed_since_ts": 1795039658.7393064
   }
  },
  "channel": "昏昏アリア / Konkon Aria",
  "channel_id": "UCo6mwsozDGMW0UNGowBJGhg",
  "handle": "@KonkonAria",
  "subscribers": 160000,
- "fetched_at": "2026-11-18 12:50",
- "fetched_at_ts": 1794973855.2927768,
- "checked_from": "2026-11-11 12:50",
+ "fetched_at": "2026-11-19 07:07",
+ "fetched_at_ts": 1795039658.7393064,
+ "checked_from": "2026-11-12 07:07",
  "initial_fetch_done": true
 }

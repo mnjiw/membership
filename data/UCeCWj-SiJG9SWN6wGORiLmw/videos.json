@@ -576,17 +576,19 @@
   "io7NP-y5XNM": {
    "id": "io7NP-y5XNM",
    "title": "applying to be mvidia's next ceo",
-   "status": "live_now",
+   "status": "error",
    "seen_live_at": "2026-11-18 12:49",
-   "was_public_when_live": true
+   "was_public_when_live": true,
+   "error": "ERROR: [youtube] io7NP-y5XNM: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
+   "failed_since_ts": 1795038419.6774483
   }
  },
  "channel": "Jira Jisaki 【VSPO! EN】",
  "channel_id": "UCeCWj-SiJG9SWN6wGORiLmw",
  "handle": "@jirajisaki",
  "subscribers": 66600,
- "fetched_at": "2026-11-18 12:49",
- "fetched_at_ts": 1794973794.5159693,
- "checked_from": "2026-11-11 12:49",
+ "fetched_at": "2026-11-19 06:46",
+ "fetched_at_ts": 1795038419.6774483,
+ "checked_from": "2026-11-12 06:46",
  "initial_fetch_done": true
 }

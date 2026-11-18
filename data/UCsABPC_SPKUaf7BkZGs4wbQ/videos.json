@@ -1966,7 +1966,7 @@
    "has_chat": false,
    "checked_at": "2026-11-18 12:52",
    "info_limited": true,
-   "error": "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)",
+   "error": "ERROR: [youtube] L0VBWeCuntw: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
    "tab": "live",
    "status": "error",
    "failed_since_ts": 1794865349.3947875
@@ -1991,18 +1991,20 @@
   },
   "OIOcEWdLvpQ": {
    "id": "OIOcEWdLvpQ",
-   "title": "【小牧の強盗殺人未遂】高額報酬と友達に誘われて実行役に…80代女性をバールでボコボコにした中学生たちがヤバすぎた【かなえ先生の解説】",
-   "status": "live_now",
+   "title": "[Attempted Robbery-Murder in Komaki] Lured by \"Big Pay\" and Friends into Committing the Crime... ...",
+   "status": "error",
    "seen_live_at": "2026-11-18 12:52",
-   "was_public_when_live": true
+   "was_public_when_live": true,
+   "error": "ERROR: [youtube] OIOcEWdLvpQ: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
+   "failed_since_ts": 1795040720.745088
   }
  },
  "channel": "犯罪学教室のかなえ先生 V Criminologist",
  "channel_id": "UCsABPC_SPKUaf7BkZGs4wbQ",
  "handle": "@KanaeVCriminologist",
  "subscribers": 405000,
- "fetched_at": "2026-11-18 12:52",
- "fetched_at_ts": 1794973929.9176579,
- "checked_from": "2026-11-11 12:52",
+ "fetched_at": "2026-11-19 07:25",
+ "fetched_at_ts": 1795040720.745088,
+ "checked_from": "2026-11-12 07:25",
  "initial_fetch_done": true
 }

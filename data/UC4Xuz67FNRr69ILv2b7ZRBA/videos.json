@@ -666,18 +666,25 @@
    "has_chat": false,
    "checked_at": "2026-11-18 12:51",
    "info_limited": true,
-   "error": "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)",
+   "error": "ERROR: [youtube] Lvv-Grug7PQ: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
    "tab": "live",
    "status": "error",
    "failed_since_ts": 1794951593.8432226
+  },
+  "gkHA3lFbpwM": {
+   "id": "gkHA3lFbpwM",
+   "title": "【VALORANT】このゲーム楽しいからやる",
+   "status": "error",
+   "error": "ERROR: [youtube] gkHA3lFbpwM: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
+   "failed_since_ts": 1795039690.751093
   }
  },
  "channel": "青桐エイト",
  "channel_id": "UC4Xuz67FNRr69ILv2b7ZRBA",
  "handle": "@eito_aogiri8",
  "subscribers": 50300,
- "fetched_at": "2026-11-18 12:50",
- "fetched_at_ts": 1794973856.1765773,
- "checked_from": "2026-11-11 12:50",
+ "fetched_at": "2026-11-19 07:08",
+ "fetched_at_ts": 1795039690.751093,
+ "checked_from": "2026-11-12 07:08",
  "initial_fetch_done": true
 }

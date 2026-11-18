@@ -1368,7 +1368,7 @@
    "has_chat": false,
    "checked_at": "2026-11-18 12:47",
    "info_limited": true,
-   "error": "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)",
+   "error": "ERROR: [youtube] MO-CjgI14os: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
    "tab": "live",
    "status": "error",
    "failed_since_ts": 1794864350.7309513
@@ -1392,18 +1392,20 @@
   },
   "QGfmzfkru00": {
    "id": "QGfmzfkru00",
-   "title": "【定期配信＃51】水曜(木曜)のお昼の１２時はリオナとランチ❤【ホロライブ  響咲リオナ】#リオナとランチ",
-   "status": "live_now",
+   "title": "[Regular Stream #51] Wednesday (Thursday) at 12:00 PM is Lunch with Riona❤ [Hololive Hibikisaki R...",
+   "status": "error",
    "seen_live_at": "2026-11-18 12:47",
-   "was_public_when_live": true
+   "was_public_when_live": true,
+   "error": "ERROR: [youtube] QGfmzfkru00: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
+   "failed_since_ts": 1795037071.3814802
   }
  },
  "channel": "Riona Ch. 響咲リオナ - FLOW GLOW",
  "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
  "handle": "@IsakiRiona",
  "subscribers": 542000,
- "fetched_at": "2026-11-18 12:47",
- "fetched_at_ts": 1794973658.9465346,
- "checked_from": "2026-11-11 12:47",
+ "fetched_at": "2026-11-19 06:24",
+ "fetched_at_ts": 1795037071.3814802,
+ "checked_from": "2026-11-12 06:24",
  "initial_fetch_done": true
 }

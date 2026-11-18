@@ -3,56 +3,56 @@
  "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
  "handle": "@KosekiBijou",
  "subscribers": 1000000,
- "fetched_at": "2026-11-18 12:48",
- "generated_at": "2026-11-18 12:48",
+ "fetched_at": "2026-11-19 06:32",
+ "generated_at": "2026-11-19 06:33",
  "period": {
-  "from": "2026-10-19 12:48",
-  "to": "2026-11-18 12:48",
+  "from": "2026-10-20 06:32",
+  "to": "2026-11-19 06:32",
   "days": 30
  },
- "streams_analyzed": 27,
+ "streams_analyzed": 25,
  "streams_missed": 1,
- "unique_chatters": 24908,
- "members_confirmed": 3301,
+ "unique_chatters": 23981,
+ "members_confirmed": 3250,
  "member_classes": {
-  "unknown": 1547,
-  "known": 1073,
-  "gift": 681
+  "known": 1067,
+  "unknown": 1523,
+  "gift": 660
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 790
+   "members": 768
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 72
+   "members": 71
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 182
+   "members": 180
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 236
+   "members": 235
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 2021
+   "members": 1996
   }
  ],
  "events": {
-  "new_members": 31,
-  "rejoins": 41,
-  "milestones": 474,
-  "gift_purchases": 55,
-  "gifted_total": 689,
-  "gift_redemptions": 688
+  "new_members": 30,
+  "rejoins": 40,
+  "milestones": 470,
+  "gift_purchases": 53,
+  "gifted_total": 668,
+  "gift_redemptions": 667
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,12 +60,12 @@
    "tier": "Gemlins",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 1049,
+   "confirmed_members": 1043,
    "share_of_confirmed_pct": 97.8,
-   "allocated_unknown": 1512.4,
-   "estimated_members": 2561.4,
-   "monthly_net_confirmed": 460606,
-   "monthly_net_estimated": 1124687
+   "allocated_unknown": 1488.7,
+   "estimated_members": 2531.7,
+   "monthly_net_confirmed": 457972,
+   "monthly_net_estimated": 1111665
   },
   {
    "tier": "The Boulders",
@@ -73,10 +73,10 @@
    "net_per_member": 1266.4,
    "confirmed_members": 6,
    "share_of_confirmed_pct": 0.6,
-   "allocated_unknown": 8.7,
-   "estimated_members": 14.7,
+   "allocated_unknown": 8.6,
+   "estimated_members": 14.6,
    "monthly_net_confirmed": 7598,
-   "monthly_net_estimated": 18553
+   "monthly_net_estimated": 18444
   },
   {
    "tier": "Moai Moai Kyun",
@@ -84,19 +84,19 @@
    "net_per_member": 2220.9,
    "confirmed_members": 18,
    "share_of_confirmed_pct": 1.7,
-   "allocated_unknown": 26.0,
-   "estimated_members": 44.0,
+   "allocated_unknown": 25.7,
+   "estimated_members": 43.7,
    "monthly_net_confirmed": 39976,
-   "monthly_net_estimated": 97612
+   "monthly_net_estimated": 97037
   }
  ],
  "revenue": {
-  "monthly_low": 1187455,
-  "monthly_est": 1240852,
-  "gift_once": 302534,
-  "total_low": 1489988,
-  "total_est": 1543385,
-  "paying_members": 2620,
+  "monthly_low": 1174282,
+  "monthly_est": 1227146,
+  "gift_once": 293313,
+  "total_low": 1467595,
+  "total_est": 1520459,
+  "paying_members": 2590,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -105,26 +105,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "7LQx7N-K2OM",
-   "start": "2026-10-19 22:02",
-   "title": "【HOLOLIVE DREAMS】swimsuit biboo. that it. that's the stream #holodori",
-   "kind": "配信",
-   "chatters": 1636,
-   "member_chatters": 508,
-   "new_members": 1,
-   "gifted_total": 20
-  },
-  {
-   "video_id": "Yn624nnrVNQ",
-   "start": "2026-10-20 00:01",
-   "title": "【DETROIT: BECOME HUMAN】67 STAB WOUNDS WITH @holoen_ceciliaimmergreen",
-   "kind": "配信",
-   "chatters": 2748,
-   "member_chatters": 545,
-   "new_members": 0,
-   "gifted_total": 1
-  },
   {
    "video_id": "NwXvWnw7QPY",
    "start": "2026-10-21 07:58",
@@ -532,7 +512,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-18"
+    "to": "2026-11-19"
    },
    "streams_analyzed": 15,
    "streams_missed": 0,

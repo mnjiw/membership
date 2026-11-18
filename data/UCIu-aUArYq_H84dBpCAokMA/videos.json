@@ -2727,7 +2727,7 @@
    "has_chat": false,
    "checked_at": "2026-11-18 12:50",
    "info_limited": true,
-   "error": "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)",
+   "error": "ERROR: [youtube] BOeokSvDkf4: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
    "tab": "video",
    "status": "error",
    "failed_since_ts": 1794778974.1560457
@@ -2763,7 +2763,7 @@
    "has_chat": false,
    "checked_at": "2026-11-18 12:50",
    "info_limited": true,
-   "error": "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)",
+   "error": "ERROR: [youtube] dF5v0XnsExc: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
    "tab": "video",
    "status": "error",
    "failed_since_ts": 1794865042.5226796
@@ -2799,18 +2799,25 @@
    "has_chat": false,
    "checked_at": "2026-11-18 12:50",
    "info_limited": true,
-   "error": "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)",
+   "error": "ERROR: [youtube] 0FJZ9eIdc4k: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
    "tab": "video",
    "status": "error",
    "failed_since_ts": 1794951535.9700918
+  },
+  "zhhO1xPsfX4": {
+   "id": "zhhO1xPsfX4",
+   "title": "【#雀魂】プロ級雀士、２日目出陣です。 #下剋上リーグ極 #ミラクル大金星【白雪レイド まざー 蛇足 土屋李央様 試合中のみ５分遅延】",
+   "status": "error",
+   "error": "ERROR: [youtube] zhhO1xPsfX4: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
+   "failed_since_ts": 1795039349.0296535
   }
  },
  "channel": "白雪レイドーReid Channelー",
  "channel_id": "UCIu-aUArYq_H84dBpCAokMA",
  "handle": "@Shirayuki_Reid",
  "subscribers": 423000,
- "fetched_at": "2026-11-18 12:50",
- "fetched_at_ts": 1794973838.8050196,
- "checked_from": "2026-11-11 12:50",
+ "fetched_at": "2026-11-19 07:02",
+ "fetched_at_ts": 1795039349.0296535,
+ "checked_from": "2026-11-12 07:02",
  "initial_fetch_done": true
 }

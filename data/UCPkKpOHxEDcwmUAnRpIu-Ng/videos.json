@@ -2231,7 +2231,7 @@
    "has_chat": false,
    "checked_at": "2026-11-18 12:49",
    "info_limited": true,
-   "error": "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)",
+   "error": "ERROR: [youtube] EZpQP4jnj2Y: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
    "tab": "live",
    "status": "error",
    "failed_since_ts": 1794778690.326617
@@ -2301,7 +2301,7 @@
    "has_chat": false,
    "checked_at": "2026-11-18 12:49",
    "info_limited": true,
-   "error": "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)",
+   "error": "ERROR: [youtube] cbAcWIVuxmc: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
    "tab": "video",
    "status": "error",
    "failed_since_ts": 1794890081.3477552
@@ -2325,18 +2325,27 @@
   },
   "IWo5gfUStv4": {
    "id": "IWo5gfUStv4",
-   "title": "めずらしくおひるざつ~",
-   "status": "live_now",
+   "title": "A rare daytime chat~",
+   "status": "error",
    "seen_live_at": "2026-11-18 12:49",
-   "was_public_when_live": true
+   "was_public_when_live": true,
+   "error": "ERROR: [youtube] IWo5gfUStv4: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
+   "failed_since_ts": 1795038103.454635
+  },
+  "QJOh527DNkk": {
+   "id": "QJOh527DNkk",
+   "title": "【原神】ゆいぴともしもし原神～！【ぶいすぽっ！/ 藍沢エマ】",
+   "status": "error",
+   "error": "ERROR: [youtube] QJOh527DNkk: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
+   "failed_since_ts": 1795038103.454635
   }
  },
  "channel": "藍沢エマ / Aizawa Ema",
  "channel_id": "UCPkKpOHxEDcwmUAnRpIu-Ng",
  "handle": "@AizawaEma",
  "subscribers": 707000,
- "fetched_at": "2026-11-18 12:49",
- "fetched_at_ts": 1794973779.118449,
- "checked_from": "2026-11-11 12:49",
+ "fetched_at": "2026-11-19 06:41",
+ "fetched_at_ts": 1795038103.454635,
+ "checked_from": "2026-11-12 06:41",
  "initial_fetch_done": true
 }

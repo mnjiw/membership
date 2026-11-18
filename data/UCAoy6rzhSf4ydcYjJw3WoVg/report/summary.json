@@ -3,19 +3,19 @@
  "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
  "handle": "@AiraniIofifteen",
  "subscribers": 836000,
- "fetched_at": "2026-11-18 06:30",
- "generated_at": "2026-11-18 06:30",
+ "fetched_at": "2026-11-19 06:28",
+ "generated_at": "2026-11-19 06:29",
  "period": {
-  "from": "2026-10-19 06:30",
-  "to": "2026-11-18 06:30",
+  "from": "2026-10-20 06:28",
+  "to": "2026-11-19 06:28",
   "days": 30
  },
- "streams_analyzed": 18,
+ "streams_analyzed": 17,
  "streams_missed": 1,
- "unique_chatters": 2569,
- "members_confirmed": 367,
+ "unique_chatters": 2533,
+ "members_confirmed": 366,
  "member_classes": {
-  "unknown": 216,
+  "unknown": 215,
   "known": 84,
   "gift": 67
  },
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 63
+   "members": 62
   },
   {
    "months": 24,
@@ -77,19 +77,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 84,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 216.0,
-   "estimated_members": 300.0,
+   "allocated_unknown": 215.0,
+   "estimated_members": 299.0,
    "monthly_net_confirmed": 26193,
-   "monthly_net_estimated": 93545
+   "monthly_net_estimated": 93234
   }
  ],
  "revenue": {
-  "monthly_low": 93545,
-  "monthly_est": 93545,
+  "monthly_low": 93234,
+  "monthly_est": 93234,
   "gift_once": 20892,
-  "total_low": 114437,
-  "total_est": 114437,
-  "paying_members": 300,
+  "total_low": 114125,
+  "total_est": 114125,
+  "paying_members": 299,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "c5SjOOZNX68",
-   "start": "2026-10-19 16:03",
-   "title": "【#holodori 】ioRisu in da house【 iofi / hololive】",
-   "kind": "配信",
-   "chatters": 165,
-   "member_chatters": 38,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "T8rzpzPGIIM",
    "start": "2026-10-20 16:01",
@@ -249,16 +239,6 @@
    "gifted_total": 10
   },
   {
-   "video_id": "pvLYCKVe5co",
-   "start": "2026-11-11 00:00",
-   "title": "【 APEX LEGENDS 】Husband is here!【 iofi / hololive】",
-   "kind": "配信",
-   "chatters": 405,
-   "member_chatters": 107,
-   "new_members": 2,
-   "gifted_total": 5
-  },
-  {
    "video_id": "6V7jIZvSGZ8",
    "start": "2026-11-11 00:00",
    "title": "【Golden Joystick Awards 2026 】Let us shall see！【 iofi / hololive】",
@@ -267,6 +247,16 @@
    "member_chatters": 77,
    "new_members": 0,
    "gifted_total": 20
+  },
+  {
+   "video_id": "pvLYCKVe5co",
+   "start": "2026-11-11 00:00",
+   "title": "【 APEX LEGENDS 】Husband is here!【 iofi / hololive】",
+   "kind": "配信",
+   "chatters": 405,
+   "member_chatters": 107,
+   "new_members": 2,
+   "gifted_total": 5
   },
   {
    "video_id": "JCR2UftWaEo",
@@ -458,7 +448,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-18"
+    "to": "2026-11-19"
    },
    "streams_analyzed": 5,
    "streams_missed": 0,
