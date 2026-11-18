@@ -3,27 +3,27 @@
  "channel_id": "UCnzZmBOSrQf2wDBbnsDajVw",
  "handle": "@OhJiyu",
  "subscribers": 61100,
- "fetched_at": "2026-11-18 12:44",
- "generated_at": "2026-11-18 12:45",
+ "fetched_at": "2026-11-19 05:28",
+ "generated_at": "2026-11-19 05:28",
  "period": {
-  "from": "2026-10-19 12:44",
-  "to": "2026-11-18 12:44",
+  "from": "2026-10-20 05:28",
+  "to": "2026-11-19 05:28",
   "days": 30
  },
- "streams_analyzed": 17,
- "streams_missed": 3,
- "unique_chatters": 129,
- "members_confirmed": 48,
+ "streams_analyzed": 18,
+ "streams_missed": 2,
+ "unique_chatters": 133,
+ "members_confirmed": 49,
  "member_classes": {
   "unknown": 20,
   "known": 6,
-  "gift": 22
+  "gift": 23
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 24
+   "members": 25
   },
   {
    "months": 2,
@@ -50,9 +50,9 @@
   "new_members": 0,
   "rejoins": 1,
   "milestones": 4,
-  "gift_purchases": 5,
-  "gifted_total": 22,
-  "gift_redemptions": 22
+  "gift_purchases": 6,
+  "gifted_total": 23,
+  "gift_redemptions": 23
  },
  "tiers_configured": true,
  "tiers": [
@@ -71,9 +71,9 @@
  "revenue": {
   "monthly_low": 8107,
   "monthly_est": 8107,
-  "gift_once": 6860,
-  "total_low": 14967,
-  "total_est": 14967,
+  "gift_once": 7172,
+  "total_low": 15279,
+  "total_est": 15279,
   "paying_members": 26,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -252,6 +252,16 @@
    "member_chatters": 12,
    "new_members": 0,
    "gifted_total": 1
+  },
+  {
+   "video_id": "7p_H2S83boM",
+   "start": "2026-11-17 23:02",
+   "title": "【Arknights】The Monster Hunter collab is here, so shouldn't we grind it?【NIJISANJI/Jiyu】",
+   "kind": "配信",
+   "chatters": 11,
+   "member_chatters": 4,
+   "new_members": 0,
+   "gifted_total": 1
   }
  ],
  "missed_streams": [
@@ -278,18 +288,6 @@
    "members_level": "방안의 아기새냥이/部屋の中の子猫鳥",
    "like_count": 8,
    "view_count": null
-  },
-  {
-   "video_id": "7p_H2S83boM",
-   "start": "2026-11-17 00:00",
-   "title": "【명일방주】몬헌콜이 왔으니 밀어야하지 않겠습니까【니지산지/지유】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": null,
-   "view_count": 919
   }
  ],
  "members_only_content": [
@@ -447,22 +445,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-18"
+    "to": "2026-11-19"
    },
-   "streams_analyzed": 6,
-   "streams_missed": 2,
-   "unique_chatters": 70,
-   "members_confirmed": 37,
+   "streams_analyzed": 7,
+   "streams_missed": 1,
+   "unique_chatters": 77,
+   "members_confirmed": 39,
    "member_classes": {
     "unknown": 18,
-    "known": 3,
-    "gift": 16
+    "known": 4,
+    "gift": 17
    },
-   "long_term_members": 11,
+   "long_term_members": 12,
    "badges": [
     {
      "months": 0,
-     "members": 18
+     "members": 19
     },
     {
      "months": 2,
@@ -478,29 +476,29 @@
     },
     {
      "months": 24,
-     "members": 8
+     "members": 9
     }
    ],
    "events": {
     "new_members": 0,
     "rejoins": 0,
     "milestones": 2,
-    "gifted_total": 16
+    "gifted_total": 17
    },
    "tiers": [
     {
      "tier": "방안의 아기새냥이/部屋の中の子猫鳥",
      "price": 490,
-     "confirmed_members": 3,
-     "estimated_members": 21.0
+     "confirmed_members": 4,
+     "estimated_members": 22.0
     }
    ],
    "revenue": {
-    "monthly_low": 6548,
-    "monthly_est": 6548,
-    "gift_once": 4989
+    "monthly_low": 6860,
+    "monthly_est": 6860,
+    "gift_once": 5301
    },
-   "avg_member_chatters": 12.7,
+   "avg_member_chatters": 11.4,
    "partial": true,
    "finalized": false
   }

@@ -3,27 +3,27 @@
  "channel_id": "UCwaS8_S7kMiKA3izlTWHbQg",
  "handle": "@MariaMarionette",
  "subscribers": 479000,
- "fetched_at": "2026-11-18 05:36",
- "generated_at": "2026-11-18 05:37",
+ "fetched_at": "2026-11-19 05:36",
+ "generated_at": "2026-11-19 05:36",
  "period": {
-  "from": "2026-10-19 05:36",
-  "to": "2026-11-18 05:36",
+  "from": "2026-10-20 05:36",
+  "to": "2026-11-19 05:36",
   "days": 30
  },
- "streams_analyzed": 23,
+ "streams_analyzed": 22,
  "streams_missed": 4,
- "unique_chatters": 1314,
- "members_confirmed": 201,
+ "unique_chatters": 1134,
+ "members_confirmed": 191,
  "member_classes": {
   "known": 52,
-  "unknown": 100,
-  "gift": 49
+  "unknown": 96,
+  "gift": 43
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 56
+   "members": 51
   },
   {
    "months": 1,
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 15
+   "members": 14
   },
   {
    "months": 6,
@@ -48,16 +48,16 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 82
+   "members": 78
   }
  ],
  "events": {
   "new_members": 2,
-  "rejoins": 5,
-  "milestones": 37,
-  "gift_purchases": 10,
-  "gifted_total": 49,
-  "gift_redemptions": 49
+  "rejoins": 4,
+  "milestones": 35,
+  "gift_purchases": 8,
+  "gifted_total": 43,
+  "gift_redemptions": 43
  },
  "tiers_configured": true,
  "tiers": [
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 52,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 100.0,
-   "estimated_members": 152.0,
+   "allocated_unknown": 96.0,
+   "estimated_members": 148.0,
    "monthly_net_confirmed": 16215,
-   "monthly_net_estimated": 47396
+   "monthly_net_estimated": 46149
   }
  ],
  "revenue": {
-  "monthly_low": 47396,
-  "monthly_est": 47396,
-  "gift_once": 15279,
-  "total_low": 62675,
-  "total_est": 62675,
-  "paying_members": 152,
+  "monthly_low": 46149,
+  "monthly_est": 46149,
+  "gift_once": 13408,
+  "total_low": 59557,
+  "total_est": 59557,
+  "paying_members": 148,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "ftMzdC_0CyM",
-   "start": "2026-10-19 18:59",
-   "title": "【歌枠Karaoke】かわいい後輩との初歌枠！【ぽっぷん・パーラー | Maria Marionette】",
-   "kind": "配信",
-   "chatters": 289,
-   "member_chatters": 59,
-   "new_members": 0,
-   "gifted_total": 6
-  },
   {
    "video_id": "3Eh20xT5hlA",
    "start": "2026-10-20 16:02",
@@ -558,7 +548,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-18"
+    "to": "2026-11-19"
    },
    "streams_analyzed": 13,
    "streams_missed": 3,

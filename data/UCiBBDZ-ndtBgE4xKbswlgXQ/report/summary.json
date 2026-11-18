@@ -3,20 +3,20 @@
  "channel_id": "UCiBBDZ-ndtBgE4xKbswlgXQ",
  "handle": "@ItsukiSakyo",
  "subscribers": 166000,
- "fetched_at": "2026-11-18 05:34",
- "generated_at": "2026-11-18 05:34",
+ "fetched_at": "2026-11-19 05:32",
+ "generated_at": "2026-11-19 05:33",
  "period": {
-  "from": "2026-10-19 05:34",
-  "to": "2026-11-18 05:34",
+  "from": "2026-10-20 05:32",
+  "to": "2026-11-19 05:32",
   "days": 30
  },
  "streams_analyzed": 22,
  "streams_missed": 1,
- "unique_chatters": 2210,
+ "unique_chatters": 2229,
  "members_confirmed": 378,
  "member_classes": {
-  "known": 50,
   "unknown": 322,
+  "known": 50,
   "gift": 6
  },
  "badges": [
@@ -33,17 +33,17 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 43
+   "members": 42
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 70
+   "members": 69
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 226
+   "members": 228
   }
  ],
  "events": {
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "HHMNpTtNQ9A",
-   "start": "2026-10-19 21:58",
-   "title": "【OW】#にじEX_OW チーム4｜遅刻した分を巻き返すぞの会【にじさんじ / 五木左京】",
-   "kind": "配信",
-   "chatters": 105,
-   "member_chatters": 84,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "YlzFGXCOVuU",
    "start": "2026-10-21 20:09",
@@ -302,6 +292,16 @@
    "member_chatters": 111,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "qIF3Kw5GURc",
+   "start": "2026-11-18 20:00",
+   "title": "【都市伝説解体センター #05】完全初見！怪異に対する最適なソリューションでアグリー【にじさんじ / 五木左京】※ネタバレ注意",
+   "kind": "配信",
+   "chatters": 176,
+   "member_chatters": 116,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -459,17 +459,17 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-18"
+    "to": "2026-11-19"
    },
-   "streams_analyzed": 12,
+   "streams_analyzed": 13,
    "streams_missed": 0,
-   "unique_chatters": 1906,
-   "members_confirmed": 301,
+   "unique_chatters": 1934,
+   "members_confirmed": 304,
    "member_classes": {
     "known": 46,
-    "unknown": 255
+    "unknown": 258
    },
-   "long_term_members": 184,
+   "long_term_members": 187,
    "badges": [
     {
      "months": 0,
@@ -489,7 +489,7 @@
     },
     {
      "months": 12,
-     "members": 184
+     "members": 187
     }
    ],
    "events": {
@@ -503,15 +503,15 @@
      "tier": "うさ部員総会",
      "price": 490,
      "confirmed_members": 46,
-     "estimated_members": 301.0
+     "estimated_members": 304.0
     }
    ],
    "revenue": {
-    "monthly_low": 93857,
-    "monthly_est": 93857,
+    "monthly_low": 94793,
+    "monthly_est": 94793,
     "gift_once": 0
    },
-   "avg_member_chatters": 130.8,
+   "avg_member_chatters": 129.7,
    "partial": true,
    "finalized": false
   }

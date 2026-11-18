@@ -2,21 +2,22 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-18"
+  "to": "2026-11-19"
  },
- "streams_analyzed": 9,
+ "streams_analyzed": 10,
  "streams_missed": 0,
- "unique_chatters": 189,
- "members_confirmed": 116,
+ "unique_chatters": 243,
+ "members_confirmed": 130,
  "member_classes": {
-  "unknown": 92,
-  "known": 24
+  "unknown": 93,
+  "known": 26,
+  "gift": 11
  },
- "long_term_members": 103,
+ "long_term_members": 104,
  "badges": [
   {
    "months": 0,
-   "members": 1
+   "members": 13
   },
   {
    "months": 1,
@@ -24,7 +25,7 @@
   },
   {
    "months": 2,
-   "members": 6
+   "members": 7
   },
   {
    "months": 6,
@@ -40,7 +41,7 @@
   },
   {
    "months": 36,
-   "members": 24
+   "members": 25
   },
   {
    "months": 48,
@@ -52,25 +53,25 @@
   }
  ],
  "events": {
-  "new_members": 1,
+  "new_members": 2,
   "rejoins": 2,
   "milestones": 7,
-  "gifted_total": 0
+  "gifted_total": 11
  },
  "tiers": [
   {
    "tier": "수하쿠아(Suhaqua)",
    "price": 490,
-   "confirmed_members": 24,
-   "estimated_members": 116.0
+   "confirmed_members": 26,
+   "estimated_members": 119.0
   }
  ],
  "revenue": {
-  "monthly_low": 36171,
-  "monthly_est": 36171,
-  "gift_once": 0
+  "monthly_low": 37106,
+  "monthly_est": 37106,
+  "gift_once": 3430
  },
- "avg_member_chatters": 45.6,
+ "avg_member_chatters": 47.4,
  "partial": true,
  "finalized": false
 }

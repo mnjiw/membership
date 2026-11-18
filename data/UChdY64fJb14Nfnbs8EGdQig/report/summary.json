@@ -3,62 +3,62 @@
  "channel_id": "UChdY64fJb14Nfnbs8EGdQig",
  "handle": "@MurakumoKagetsu",
  "subscribers": 391000,
- "fetched_at": "2026-11-18 05:29",
- "generated_at": "2026-11-18 05:30",
+ "fetched_at": "2026-11-19 05:30",
+ "generated_at": "2026-11-19 05:30",
  "period": {
-  "from": "2026-10-19 05:29",
-  "to": "2026-11-18 05:29",
+  "from": "2026-10-20 05:30",
+  "to": "2026-11-19 05:30",
   "days": 30
  },
- "streams_analyzed": 29,
- "streams_missed": 1,
- "unique_chatters": 4104,
- "members_confirmed": 2445,
+ "streams_analyzed": 28,
+ "streams_missed": 2,
+ "unique_chatters": 4038,
+ "members_confirmed": 2410,
  "member_classes": {
-  "unknown": 2141,
-  "known": 304
+  "unknown": 2111,
+  "known": 299
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 121
+   "members": 113
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 96
+   "members": 93
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 216
+   "members": 215
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 294
+   "members": 289
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 730
+   "members": 717
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 722
+   "members": 719
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 266
+   "members": 264
   }
  ],
  "events": {
-  "new_members": 42,
-  "rejoins": 34,
-  "milestones": 62,
+  "new_members": 39,
+  "rejoins": 33,
+  "milestones": 61,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -69,21 +69,21 @@
    "tier": "叢雲観察所",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 304,
+   "confirmed_members": 299,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2141.0,
-   "estimated_members": 2445.0,
-   "monthly_net_confirmed": 94793,
-   "monthly_net_estimated": 762395
+   "allocated_unknown": 2111.0,
+   "estimated_members": 2410.0,
+   "monthly_net_confirmed": 93234,
+   "monthly_net_estimated": 751482
   }
  ],
  "revenue": {
-  "monthly_low": 762395,
-  "monthly_est": 762395,
+  "monthly_low": 751482,
+  "monthly_est": 751482,
   "gift_once": 0,
-  "total_low": 762395,
-  "total_est": 762395,
-  "paying_members": 2445,
+  "total_low": 751482,
+  "total_est": 751482,
+  "paying_members": 2410,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -92,16 +92,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "f9Lnyq1oPao",
-   "start": "2026-10-19 22:31",
-   "title": "【デス桃太郎】こんばんわ、自認桃太郎です 【叢雲カゲツ/にじさんじ】",
-   "kind": "配信",
-   "chatters": 719,
-   "member_chatters": 616,
-   "new_members": 3,
-   "gifted_total": 0
-  },
   {
    "video_id": "hK-GRdqybQU",
    "start": "2026-10-20 22:30",
@@ -395,6 +385,18 @@
    "members_level": "",
    "like_count": 1031,
    "view_count": null
+  },
+  {
+   "video_id": "izb1ObCrHzo",
+   "start": "2026-11-18 00:00",
+   "title": "【LoL】あのお方とデュオランク w/宇佐美リト【叢雲カゲツ/にじさんじ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 1557,
+   "view_count": 42897
   }
  ],
  "members_only_content": [
@@ -553,10 +555,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-18"
+    "to": "2026-11-19"
    },
    "streams_analyzed": 19,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 2946,
    "members_confirmed": 1990,
    "member_classes": {

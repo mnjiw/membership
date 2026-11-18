@@ -3,27 +3,27 @@
  "channel_id": "UCu-J8uIXuLZh16gG-cT1naw",
  "handle": "@FinanaRyugu",
  "subscribers": 474000,
- "fetched_at": "2026-11-18 12:46",
- "generated_at": "2026-11-18 12:46",
+ "fetched_at": "2026-11-19 05:35",
+ "generated_at": "2026-11-19 05:36",
  "period": {
-  "from": "2026-10-19 12:46",
-  "to": "2026-11-18 12:46",
+  "from": "2026-10-20 05:35",
+  "to": "2026-11-19 05:35",
   "days": 30
  },
  "streams_analyzed": 25,
- "streams_missed": 4,
- "unique_chatters": 781,
- "members_confirmed": 163,
+ "streams_missed": 3,
+ "unique_chatters": 783,
+ "members_confirmed": 166,
  "member_classes": {
-  "unknown": 74,
-  "known": 24,
-  "gift": 65
+  "unknown": 75,
+  "known": 25,
+  "gift": 66
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 68
+   "members": 69
   },
   {
    "months": 1,
@@ -43,21 +43,21 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 17
+   "members": 18
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 61
+   "members": 62
   }
  ],
  "events": {
   "new_members": 1,
-  "rejoins": 2,
-  "milestones": 13,
-  "gift_purchases": 33,
-  "gifted_total": 65,
-  "gift_redemptions": 65
+  "rejoins": 3,
+  "milestones": 14,
+  "gift_purchases": 34,
+  "gifted_total": 66,
+  "gift_redemptions": 66
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +65,21 @@
    "tier": "Ryuguard",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 24,
+   "confirmed_members": 25,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 74.0,
-   "estimated_members": 98.0,
-   "monthly_net_confirmed": 10538,
-   "monthly_net_estimated": 43031
+   "allocated_unknown": 75.0,
+   "estimated_members": 100.0,
+   "monthly_net_confirmed": 10977,
+   "monthly_net_estimated": 43909
   }
  ],
  "revenue": {
-  "monthly_low": 43031,
-  "monthly_est": 43031,
-  "gift_once": 28541,
-  "total_low": 71572,
-  "total_est": 71572,
-  "paying_members": 98,
+  "monthly_low": 43909,
+  "monthly_est": 43909,
+  "gift_once": 28980,
+  "total_low": 72889,
+  "total_est": 72889,
+  "paying_members": 100,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "u-x85_doRCE",
-   "start": "2026-10-20 05:01",
-   "title": "【Staffer Case】wizardry and detective angst 🔍 [3]",
-   "kind": "配信",
-   "chatters": 50,
-   "member_chatters": 21,
-   "new_members": 0,
-   "gifted_total": 1
-  },
   {
    "video_id": "qy3EYQz0msg",
    "start": "2026-10-21 05:00",
@@ -337,6 +327,16 @@
    "member_chatters": 48,
    "new_members": 0,
    "gifted_total": 15
+  },
+  {
+   "video_id": "K-d-xK9zZf4",
+   "start": "2026-11-18 08:01",
+   "title": "【Silver Pines】 It's time to play a survival horror game. [1]",
+   "kind": "配信",
+   "chatters": 81,
+   "member_chatters": 37,
+   "new_members": 0,
+   "gifted_total": 2
   }
  ],
  "missed_streams": [
@@ -373,20 +373,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 116,
-   "view_count": 2011
-  },
-  {
-   "video_id": "K-d-xK9zZf4",
-   "start": "2026-11-18 00:00",
-   "title": "【Silver Pines】 It's time to play a survival horror game. [1]",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 328,
-   "view_count": 4460
+   "like_count": 118,
+   "view_count": 2117
   }
  ],
  "members_only_content": [
@@ -548,22 +536,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-18"
+    "to": "2026-11-19"
    },
-   "streams_analyzed": 13,
-   "streams_missed": 3,
-   "unique_chatters": 612,
-   "members_confirmed": 127,
+   "streams_analyzed": 14,
+   "streams_missed": 2,
+   "unique_chatters": 623,
+   "members_confirmed": 133,
    "member_classes": {
-    "unknown": 65,
-    "known": 19,
-    "gift": 43
+    "unknown": 68,
+    "known": 20,
+    "gift": 45
    },
-   "long_term_members": 68,
+   "long_term_members": 72,
    "badges": [
     {
      "months": 0,
-     "members": 46
+     "members": 48
     },
     {
      "months": 1,
@@ -579,33 +567,33 @@
     },
     {
      "months": 12,
-     "members": 14
+     "members": 16
     },
     {
      "months": 24,
-     "members": 54
+     "members": 56
     }
    ],
    "events": {
     "new_members": 1,
-    "rejoins": 2,
-    "milestones": 6,
-    "gifted_total": 43
+    "rejoins": 3,
+    "milestones": 7,
+    "gifted_total": 45
    },
    "tiers": [
     {
      "tier": "Ryuguard",
      "price": 690,
-     "confirmed_members": 19,
-     "estimated_members": 84.0
+     "confirmed_members": 20,
+     "estimated_members": 88.0
     }
    ],
    "revenue": {
-    "monthly_low": 36884,
-    "monthly_est": 36884,
-    "gift_once": 18881
+    "monthly_low": 38640,
+    "monthly_est": 38640,
+    "gift_once": 19759
    },
-   "avg_member_chatters": 38.2,
+   "avg_member_chatters": 38.1,
    "partial": true,
    "finalized": false
   }
