@@ -3,19 +3,19 @@
  "channel_id": "UC7hffDQLKIEG-_zoAQkMIvg",
  "handle": "@AkiraRay",
  "subscribers": 59600,
- "fetched_at": "2026-11-18 05:27",
- "generated_at": "2026-11-18 05:27",
+ "fetched_at": "2026-11-18 12:44",
+ "generated_at": "2026-11-18 12:44",
  "period": {
-  "from": "2026-10-19 05:27",
-  "to": "2026-11-18 05:27",
+  "from": "2026-10-19 12:44",
+  "to": "2026-11-18 12:44",
   "days": 30
  },
- "streams_analyzed": 7,
+ "streams_analyzed": 8,
  "streams_missed": 1,
- "unique_chatters": 209,
- "members_confirmed": 39,
+ "unique_chatters": 220,
+ "members_confirmed": 40,
  "member_classes": {
-  "unknown": 34,
+  "unknown": 35,
   "known": 3,
   "gift": 2
  },
@@ -23,13 +23,13 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 39
+   "members": 40
   }
  ],
  "events": {
   "new_members": 0,
   "rejoins": 0,
-  "milestones": 2,
+  "milestones": 3,
   "gift_purchases": 2,
   "gifted_total": 2,
   "gift_redemptions": 2
@@ -53,10 +53,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 3,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 34.0,
-   "estimated_members": 37.0,
+   "allocated_unknown": 35.0,
+   "estimated_members": 38.0,
    "monthly_net_confirmed": 935,
-   "monthly_net_estimated": 11537
+   "monthly_net_estimated": 11849
   },
   {
    "tier": "💙クラス明ト💙",
@@ -71,12 +71,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 7210,
-  "monthly_est": 11537,
+  "monthly_low": 7395,
+  "monthly_est": 11849,
   "gift_once": 369,
-  "total_low": 7579,
-  "total_est": 11906,
-  "paying_members": 37,
+  "total_low": 7764,
+  "total_est": 12218,
+  "paying_members": 38,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -154,6 +154,16 @@
    "member_chatters": 20,
    "new_members": 0,
    "gifted_total": 1
+  },
+  {
+   "video_id": "4dT3Ri2JMSs",
+   "start": "2026-11-18 07:31",
+   "title": "【朝勝】水曜日！【明楽レイ/にじさんじ】",
+   "kind": "配信",
+   "chatters": 49,
+   "member_chatters": 19,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -305,12 +315,12 @@
     "from": "2026-11-01",
     "to": "2026-11-18"
    },
-   "streams_analyzed": 7,
+   "streams_analyzed": 8,
    "streams_missed": 1,
-   "unique_chatters": 209,
-   "members_confirmed": 39,
+   "unique_chatters": 220,
+   "members_confirmed": 40,
    "member_classes": {
-    "unknown": 34,
+    "unknown": 35,
     "known": 3,
     "gift": 2
    },
@@ -318,13 +328,13 @@
    "badges": [
     {
      "months": 0,
-     "members": 39
+     "members": 40
     }
    ],
    "events": {
     "new_members": 0,
     "rejoins": 0,
-    "milestones": 2,
+    "milestones": 3,
     "gifted_total": 2
    },
    "tiers": [
@@ -338,7 +348,7 @@
      "tier": "クラス明ト💙💙",
      "price": 490,
      "confirmed_members": 3,
-     "estimated_members": 37.0
+     "estimated_members": 38.0
     },
     {
      "tier": "💙クラス明ト💙",
@@ -348,8 +358,8 @@
     }
    ],
    "revenue": {
-    "monthly_low": 7210,
-    "monthly_est": 11537,
+    "monthly_low": 7395,
+    "monthly_est": 11849,
     "gift_once": 369
    },
    "avg_member_chatters": 19.1,

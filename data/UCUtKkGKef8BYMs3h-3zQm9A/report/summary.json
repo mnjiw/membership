@@ -3,16 +3,16 @@
  "channel_id": "UCUtKkGKef8BYMs3h-3zQm9A",
  "handle": "@MinSuha",
  "subscribers": 186000,
- "fetched_at": "2026-11-18 05:27",
- "generated_at": "2026-11-18 05:27",
+ "fetched_at": "2026-11-18 12:44",
+ "generated_at": "2026-11-18 12:44",
  "period": {
-  "from": "2026-10-19 05:27",
-  "to": "2026-11-18 05:27",
+  "from": "2026-10-19 12:44",
+  "to": "2026-11-18 12:44",
   "days": 30
  },
- "streams_analyzed": 12,
- "streams_missed": 1,
- "unique_chatters": 498,
+ "streams_analyzed": 13,
+ "streams_missed": 0,
+ "unique_chatters": 500,
  "members_confirmed": 149,
  "member_classes": {
   "unknown": 122,
@@ -221,22 +221,19 @@
    "member_chatters": 49,
    "new_members": 0,
    "gifted_total": 0
-  }
- ],
- "missed_streams": [
+  },
   {
    "video_id": "oIImeS3BsTA",
-   "start": "2026-11-17 00:00",
+   "start": "2026-11-17 19:45",
    "title": "👼【#スト犬カスタム】戦場の天使【NIJISANJI】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 127,
-   "view_count": 3183
+   "kind": "配信",
+   "chatters": 35,
+   "member_chatters": 29,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -399,9 +396,9 @@
     "from": "2026-11-01",
     "to": "2026-11-18"
    },
-   "streams_analyzed": 8,
-   "streams_missed": 1,
-   "unique_chatters": 186,
+   "streams_analyzed": 9,
+   "streams_missed": 0,
+   "unique_chatters": 189,
    "members_confirmed": 116,
    "member_classes": {
     "unknown": 92,
@@ -465,7 +462,7 @@
     "monthly_est": 36171,
     "gift_once": 0
    },
-   "avg_member_chatters": 47.6,
+   "avg_member_chatters": 45.6,
    "partial": true,
    "finalized": false
   }

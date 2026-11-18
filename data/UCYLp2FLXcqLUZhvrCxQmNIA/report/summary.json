@@ -3,16 +3,16 @@
  "channel_id": "UCYLp2FLXcqLUZhvrCxQmNIA",
  "handle": "@Ririka_krmzw0707",
  "subscribers": 120000,
- "fetched_at": "2026-11-18 06:43",
- "generated_at": "2026-11-18 06:43",
+ "fetched_at": "2026-11-18 12:52",
+ "generated_at": "2026-11-18 12:52",
  "period": {
-  "from": "2026-10-19 06:43",
-  "to": "2026-11-18 06:43",
+  "from": "2026-10-19 12:52",
+  "to": "2026-11-18 12:52",
   "days": 30
  },
- "streams_analyzed": 32,
- "streams_missed": 1,
- "unique_chatters": 2180,
+ "streams_analyzed": 31,
+ "streams_missed": 2,
+ "unique_chatters": 2152,
  "members_confirmed": 189,
  "member_classes": {
   "unknown": 159,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "Ep0jM0tAYHE",
-   "start": "2026-10-19 11:23",
-   "title": "【サクラ大戦/セガサターン】10話から！さくらエンド見るぞ！！【胡桃沢りりか】",
-   "kind": "配信",
-   "chatters": 191,
-   "member_chatters": 51,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "gGD-4Ob3_Iw",
    "start": "2026-10-19 23:36",
@@ -421,6 +411,18 @@
    "members_level": "めろんそーだ",
    "like_count": 78,
    "view_count": null
+  },
+  {
+   "video_id": "cebxGJNhVp4",
+   "start": "2026-11-17 00:00",
+   "title": "【スターオーシャン３ Till the End of Time】ネルを助けにいくぞ！！【胡桃沢りりか】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 968,
+   "view_count": 69238
   }
  ],
  "members_only_content": [
@@ -563,7 +565,7 @@
     "to": "2026-11-18"
    },
    "streams_analyzed": 18,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 1733,
    "members_confirmed": 175,
    "member_classes": {
