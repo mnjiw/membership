@@ -1309,17 +1309,19 @@
   "KjMRLiwqb54": {
    "id": "KjMRLiwqb54",
    "title": "【 時オカリメイク 】#2 大冒険が始まる。デスマウンテン～【 伊波ライ / にじさんじ 】",
-   "status": "live_now",
+   "status": "error",
    "seen_live_at": "2026-11-19 05:30",
-   "was_public_when_live": true
+   "was_public_when_live": true,
+   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
+   "failed_since_ts": 1795058600.8193262
   }
  },
  "channel": "伊波ライ / Inami Rai【にじさんじ】",
  "channel_id": "UCz89MGFBrAqwJ5xMr5weSuA",
  "handle": "@InamiRai",
  "subscribers": 426000,
- "fetched_at": "2026-11-19 05:30",
- "fetched_at_ts": 1795033836.7704883,
- "checked_from": "2026-11-12 05:30",
+ "fetched_at": "2026-11-19 12:23",
+ "fetched_at_ts": 1795058600.8193262,
+ "checked_from": "2026-11-12 12:23",
  "initial_fetch_done": true
 }

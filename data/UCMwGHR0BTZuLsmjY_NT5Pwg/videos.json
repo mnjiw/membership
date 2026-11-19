@@ -420,15 +420,15 @@
    "start_jst": "2026-10-31 09:02",
    "duration_sec": 9006,
    "view_count": null,
-   "like_count": 631,
+   "like_count": 632,
    "live_status": "was_live",
    "members_only": true,
    "has_chat": false,
    "checked_at": "2026-10-31 16:36",
    "members_level": "Otako",
    "status": "members_only",
-   "likes_checked_ts": 1794951113.1098602,
-   "likes_checked_at": "2026-11-18 06:31"
+   "likes_checked_ts": 1795058789.2170715,
+   "likes_checked_at": "2026-11-19 12:26"
   },
   "9MXWNiM2aVg": {
    "id": "9MXWNiM2aVg",
@@ -485,16 +485,23 @@
    "id": "RHN2OjNmTzU",
    "title": "【Deep Dish Dungeon】WE ARE HUNGRY @KosekiBijou @holoen_ceciliaimmergreen",
    "status": "error",
-   "error": "ERROR: [youtube] RHN2OjNmTzU: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
+   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
    "failed_since_ts": 1795037452.3031762
+  },
+  "9WH8DMp3iOc": {
+   "id": "9WH8DMp3iOc",
+   "title": "【Slay the Spire 2】WAH and WAHWAH!!!",
+   "status": "error",
+   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
+   "failed_since_ts": 1795058789.2170715
   }
  },
  "channel": "Ninomae Ina'nis Ch. hololive",
  "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
  "handle": "@NinomaeInanis",
  "subscribers": 1680000,
- "fetched_at": "2026-11-19 06:30",
- "fetched_at_ts": 1795037452.3031762,
- "checked_from": "2026-11-12 06:30",
+ "fetched_at": "2026-11-19 12:26",
+ "fetched_at_ts": 1795058789.2170715,
+ "checked_from": "2026-11-12 12:26",
  "initial_fetch_done": true
 }

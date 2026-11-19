@@ -3,27 +3,27 @@
  "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
  "handle": "@HakuiKoyori",
  "subscribers": 1380000,
- "fetched_at": "2026-11-19 06:23",
- "generated_at": "2026-11-19 06:24",
+ "fetched_at": "2026-11-19 12:25",
+ "generated_at": "2026-11-19 12:25",
  "period": {
-  "from": "2026-10-20 06:23",
-  "to": "2026-11-19 06:23",
+  "from": "2026-10-20 12:25",
+  "to": "2026-11-19 12:25",
   "days": 30
  },
- "streams_analyzed": 33,
- "streams_missed": 1,
- "unique_chatters": 19298,
- "members_confirmed": 3771,
+ "streams_analyzed": 32,
+ "streams_missed": 2,
+ "unique_chatters": 19089,
+ "members_confirmed": 3741,
  "member_classes": {
-  "unknown": 2706,
-  "known": 877,
-  "gift": 188
+  "unknown": 2685,
+  "known": 874,
+  "gift": 182
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 292
+   "members": 283
   },
   {
    "months": 1,
@@ -33,41 +33,41 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 181
+   "members": 180
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 336
+   "members": 332
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 581
+   "members": 580
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 524
+   "members": 519
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 713
+   "members": 708
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 1070
+   "members": 1065
   }
  ],
  "events": {
   "new_members": 44,
   "rejoins": 49,
-  "milestones": 135,
-  "gift_purchases": 81,
-  "gifted_total": 305,
-  "gift_redemptions": 188
+  "milestones": 133,
+  "gift_purchases": 79,
+  "gifted_total": 299,
+  "gift_redemptions": 182
  },
  "tiers_configured": true,
  "tiers": [
@@ -75,21 +75,21 @@
    "tier": "こよりの研究室",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 877,
+   "confirmed_members": 874,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2706.0,
-   "estimated_members": 3583.0,
-   "monthly_net_confirmed": 273465,
-   "monthly_net_estimated": 1117245
+   "allocated_unknown": 2685.0,
+   "estimated_members": 3559.0,
+   "monthly_net_confirmed": 272529,
+   "monthly_net_estimated": 1109761
   }
  ],
  "revenue": {
-  "monthly_low": 1117245,
-  "monthly_est": 1117245,
-  "gift_once": 95105,
-  "total_low": 1212349,
-  "total_est": 1212349,
-  "paying_members": 3583,
+  "monthly_low": 1109761,
+  "monthly_est": 1109761,
+  "gift_once": 93234,
+  "total_low": 1202995,
+  "total_est": 1202995,
+  "paying_members": 3559,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "T99ShFJ2DXA",
-   "start": "2026-10-20 07:01",
-   "title": "【 #朝こよ 】3週連続告知アリ①周目‼️ホロ甲表彰式も⚾️火曜日の朝は朝こよ～！☀ #303 【博衣こより/hololive】",
-   "kind": "配信",
-   "chatters": 2071,
-   "member_chatters": 897,
-   "new_members": 0,
-   "gifted_total": 6
-  },
   {
    "video_id": "D4XfCKw3TOw",
    "start": "2026-10-20 19:01",
@@ -439,7 +429,19 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 1577,
+   "like_count": 1578,
+   "view_count": null
+  },
+  {
+   "video_id": "XXP_Rk6g6gU",
+   "start": "2026-11-18 22:02",
+   "title": "【Membership Only】11月のナイショのお話💗甘々（かもしれない）雑談💗【博衣こより/ホロライブ】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 1641,
    "view_count": null
   }
  ],
@@ -451,7 +453,17 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 1577,
+   "like_count": 1578,
+   "view_count": null
+  },
+  {
+   "video_id": "XXP_Rk6g6gU",
+   "start": "2026-11-18 22:02",
+   "title": "【Membership Only】11月のナイショのお話💗甘々（かもしれない）雑談💗【博衣こより/ホロライブ】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 1641,
    "view_count": null
   }
  ],
@@ -611,7 +623,7 @@
     "to": "2026-11-19"
    },
    "streams_analyzed": 18,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 14353,
    "members_confirmed": 3204,
    "member_classes": {

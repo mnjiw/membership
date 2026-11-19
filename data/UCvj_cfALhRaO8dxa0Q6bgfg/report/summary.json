@@ -3,27 +3,27 @@
  "channel_id": "UCvj_cfALhRaO8dxa0Q6bgfg",
  "handle": "@ArcanaGrimmybear",
  "subscribers": 31200,
- "fetched_at": "2026-11-19 07:17",
- "generated_at": "2026-11-19 07:19",
+ "fetched_at": "2026-11-19 12:33",
+ "generated_at": "2026-11-19 12:33",
  "period": {
-  "from": "2026-10-20 07:17",
-  "to": "2026-11-19 07:17",
+  "from": "2026-10-20 12:33",
+  "to": "2026-11-19 12:33",
   "days": 30
  },
- "streams_analyzed": 30,
- "streams_missed": 2,
- "unique_chatters": 1070,
- "members_confirmed": 539,
+ "streams_analyzed": 29,
+ "streams_missed": 3,
+ "unique_chatters": 1051,
+ "members_confirmed": 535,
  "member_classes": {
-  "unknown": 257,
-  "known": 17,
+  "unknown": 255,
+  "known": 15,
   "gift": 265
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 268
+   "members": 264
   },
   {
    "months": 1,
@@ -37,7 +37,7 @@
   }
  ],
  "events": {
-  "new_members": 11,
+  "new_members": 10,
   "rejoins": 1,
   "milestones": 0,
   "gift_purchases": 20,
@@ -50,23 +50,23 @@
    "tier": "🐾 見習い調査員 ✧",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 16,
-   "share_of_confirmed_pct": 94.1,
-   "allocated_unknown": 241.9,
-   "estimated_members": 257.9,
-   "monthly_net_confirmed": 4989,
-   "monthly_net_estimated": 80412
+   "confirmed_members": 14,
+   "share_of_confirmed_pct": 93.3,
+   "allocated_unknown": 238.0,
+   "estimated_members": 252.0,
+   "monthly_net_confirmed": 4365,
+   "monthly_net_estimated": 78578
   },
   {
    "tier": "📖 正式調査員 ✧",
    "price": 1190,
    "net_per_member": 757.3,
    "confirmed_members": 1,
-   "share_of_confirmed_pct": 5.9,
-   "allocated_unknown": 15.1,
-   "estimated_members": 16.1,
+   "share_of_confirmed_pct": 6.7,
+   "allocated_unknown": 17.0,
+   "estimated_members": 18.0,
    "monthly_net_confirmed": 757,
-   "monthly_net_estimated": 12205
+   "monthly_net_estimated": 13631
   },
   {
    "tier": "🕯️ 特別調査官 ✧",
@@ -92,12 +92,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 85884,
-  "monthly_est": 92618,
+  "monthly_low": 84636,
+  "monthly_est": 92209,
   "gift_once": 83255,
-  "total_low": 169139,
-  "total_est": 175873,
-  "paying_members": 274,
+  "total_low": 167892,
+  "total_est": 175465,
+  "paying_members": 270,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -106,16 +106,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "GL2nnz0ML54",
-   "start": "2026-10-20 09:01",
-   "title": "【 真・女神転生2 】ピラー集めてニュートラルを目指すぞ.ᐟ.ᐟ ゲーム初心者が攻略なしでメガテン2を全力プレイ👿✧【アルカナ・グリミィベア/Varium】",
-   "kind": "配信",
-   "chatters": 117,
-   "member_chatters": 52,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "KhJv6QLs-Ig",
    "start": "2026-10-21 21:00",
@@ -431,6 +421,18 @@
    "members_level": "",
    "like_count": 635,
    "view_count": 14582
+  },
+  {
+   "video_id": "olqTwzyHzUQ",
+   "start": "2026-11-18 21:02",
+   "title": "【 メンバーシップ限定 】マクロスフロンティアを一緒に見よう👀✨【 アルカナ・グリミィベア/Varium 】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 100,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -442,6 +444,16 @@
    "status": "members_only",
    "members_level": "",
    "like_count": 161,
+   "view_count": null
+  },
+  {
+   "video_id": "olqTwzyHzUQ",
+   "start": "2026-11-18 21:02",
+   "title": "【 メンバーシップ限定 】マクロスフロンティアを一緒に見よう👀✨【 アルカナ・グリミィベア/Varium 】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 100,
    "view_count": null
   }
  ],
@@ -568,7 +580,7 @@
     "to": "2026-11-19"
    },
    "streams_analyzed": 18,
-   "streams_missed": 2,
+   "streams_missed": 3,
    "unique_chatters": 828,
    "members_confirmed": 493,
    "member_classes": {

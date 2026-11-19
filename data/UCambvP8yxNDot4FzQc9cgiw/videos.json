@@ -1048,9 +1048,11 @@
   "7qDyMGj-sfs": {
    "id": "7qDyMGj-sfs",
    "title": "【LoL】デュオランクをカゲツと【宇佐美リト/にじさんじ】",
-   "status": "live_now",
+   "status": "error",
    "seen_live_at": "2026-11-19 05:29",
-   "was_public_when_live": true
+   "was_public_when_live": true,
+   "error": "ERROR: [youtube] 7qDyMGj-sfs: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)",
+   "failed_since_ts": 1795058595.6072364
   },
   "uGHDueafh4o": {
    "id": "uGHDueafh4o",
@@ -1074,8 +1076,8 @@
  "channel_id": "UCambvP8yxNDot4FzQc9cgiw",
  "handle": "@UsamiRito",
  "subscribers": 395000,
- "fetched_at": "2026-11-19 05:29",
- "fetched_at_ts": 1795033779.6257,
- "checked_from": "2026-11-12 05:29",
+ "fetched_at": "2026-11-19 12:23",
+ "fetched_at_ts": 1795058595.6072364,
+ "checked_from": "2026-11-12 12:23",
  "initial_fetch_done": true
 }

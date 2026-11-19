@@ -3,56 +3,56 @@
  "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
  "handle": "@IsakiRiona",
  "subscribers": 542000,
- "fetched_at": "2026-11-19 06:24",
- "generated_at": "2026-11-19 06:26",
+ "fetched_at": "2026-11-19 12:25",
+ "generated_at": "2026-11-19 12:25",
  "period": {
-  "from": "2026-10-20 06:24",
-  "to": "2026-11-19 06:24",
+  "from": "2026-10-20 12:25",
+  "to": "2026-11-19 12:25",
   "days": 30
  },
- "streams_analyzed": 21,
+ "streams_analyzed": 20,
  "streams_missed": 2,
- "unique_chatters": 10063,
- "members_confirmed": 2601,
+ "unique_chatters": 9950,
+ "members_confirmed": 2587,
  "member_classes": {
-  "unknown": 1777,
+  "unknown": 1768,
   "known": 407,
-  "gift": 417
+  "gift": 412
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 555
+   "members": 550
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 88
+   "members": 87
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 344
+   "members": 343
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 757
+   "members": 753
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 857
+   "members": 854
   }
  ],
  "events": {
-  "new_members": 79,
+  "new_members": 78,
   "rejoins": 23,
-  "milestones": 234,
-  "gift_purchases": 45,
-  "gifted_total": 419,
-  "gift_redemptions": 418
+  "milestones": 233,
+  "gift_purchases": 44,
+  "gifted_total": 414,
+  "gift_redemptions": 413
  },
  "tiers_configured": true,
  "tiers": [
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 407,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1777.0,
-   "estimated_members": 2184.0,
+   "allocated_unknown": 1768.0,
+   "estimated_members": 2175.0,
    "monthly_net_confirmed": 126910,
-   "monthly_net_estimated": 681011
+   "monthly_net_estimated": 678205
   }
  ],
  "revenue": {
-  "monthly_low": 681011,
-  "monthly_est": 681011,
-  "gift_once": 130652,
-  "total_low": 811663,
-  "total_est": 811663,
-  "paying_members": 2184,
+  "monthly_low": 678205,
+  "monthly_est": 678205,
+  "gift_once": 129093,
+  "total_low": 807297,
+  "total_est": 807297,
+  "paying_members": 2175,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "WJz-YOx6fsE",
-   "start": "2026-10-20 10:00",
-   "title": "【朝ドリ#8】新エリア遊んでいく❤ビンゴも埋めたい・・！【ホロライブ  響咲リオナ】#ホロドリ",
-   "kind": "配信",
-   "chatters": 458,
-   "member_chatters": 225,
-   "new_members": 1,
-   "gifted_total": 5
-  },
   {
    "video_id": "4U7eDs9AmBE",
    "start": "2026-10-22 19:00",
@@ -304,7 +294,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "響咲連合の溜まり場",
-   "like_count": 1504,
+   "like_count": 1506,
    "view_count": null
   },
   {
@@ -316,8 +306,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 5995,
-   "view_count": 141773
+   "like_count": 6037,
+   "view_count": 144486
   }
  ],
  "members_only_content": [
@@ -328,7 +318,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "響咲連合の溜まり場",
-   "like_count": 1504,
+   "like_count": 1506,
    "view_count": null
   }
  ],

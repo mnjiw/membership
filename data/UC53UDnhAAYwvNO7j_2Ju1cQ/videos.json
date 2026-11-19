@@ -439,17 +439,19 @@
   "1ovlorGy988": {
    "id": "1ovlorGy988",
    "title": "【#04 ゼルダの伝説 時のオカリナ リメイク】完全初見！勇者ドレイク！！いざゆかん闇の神殿！【にじさんじ/ドーラ】",
-   "status": "live_now",
+   "status": "error",
    "seen_live_at": "2026-11-19 05:19",
-   "was_public_when_live": true
+   "was_public_when_live": true,
+   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
+   "failed_since_ts": 1795058487.4150383
   }
  },
  "channel": "ドーラ",
  "channel_id": "UC53UDnhAAYwvNO7j_2Ju1cQ",
  "handle": "@Dola",
  "subscribers": 362000,
- "fetched_at": "2026-11-19 05:19",
- "fetched_at_ts": 1795033180.1381924,
- "checked_from": "2026-11-12 05:19",
+ "fetched_at": "2026-11-19 12:21",
+ "fetched_at_ts": 1795058487.4150383,
+ "checked_from": "2026-11-12 12:21",
  "initial_fetch_done": true
 }

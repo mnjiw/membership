@@ -830,7 +830,7 @@
    "id": "01NIxmkahrw",
    "title": "【ApexLegends】FFL team6 w/peace ベニ【Kamito】",
    "status": "error",
-   "error": "ERROR: [youtube] 01NIxmkahrw: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
+   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
    "failed_since_ts": 1795040632.0812953
   }
  },
@@ -838,8 +838,8 @@
  "channel_id": "UCgYCMluaLpERsyNXlPOvBtA",
  "handle": "@-kamitochannel-2486",
  "subscribers": 524000,
- "fetched_at": "2026-11-19 07:23",
- "fetched_at_ts": 1795040632.0812953,
- "checked_from": "2026-11-12 07:23",
+ "fetched_at": "2026-11-19 12:34",
+ "fetched_at_ts": 1795059254.8440094,
+ "checked_from": "2026-11-12 12:34",
  "initial_fetch_done": true
 }

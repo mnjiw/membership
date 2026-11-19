@@ -1074,17 +1074,28 @@
   "jYFqmiYzmO0": {
    "id": "jYFqmiYzmO0",
    "title": "HANASUZO",
-   "status": "error",
-   "error": "ERROR: [youtube] jYFqmiYzmO0: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
-   "failed_since_ts": 1795039760.795973
+   "kind": "live",
+   "start_ts": 1795010494,
+   "start_jst": "2026-11-18 23:01",
+   "duration_sec": 8308,
+   "view_count": null,
+   "like_count": 107,
+   "live_status": "was_live",
+   "members_only": true,
+   "has_chat": false,
+   "checked_at": "2026-11-19 12:32",
+   "members_level": "",
+   "status": "members_only",
+   "likes_checked_ts": 1795059130.2434201,
+   "likes_checked_at": "2026-11-19 12:32"
   }
  },
  "channel": "白那しずく",
  "channel_id": "UCAHQGIKolfBfoeXXMY79SBA",
  "handle": "@ShironaShizuku",
  "subscribers": 151000,
- "fetched_at": "2026-11-19 07:09",
- "fetched_at_ts": 1795039760.795973,
- "checked_from": "2026-11-12 07:09",
+ "fetched_at": "2026-11-19 12:32",
+ "fetched_at_ts": 1795059130.2434201,
+ "checked_from": "2026-11-12 12:32",
  "initial_fetch_done": true
 }

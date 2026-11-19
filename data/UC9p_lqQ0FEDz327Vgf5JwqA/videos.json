@@ -945,8 +945,8 @@
    "checked_at": "2026-10-31 16:39",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1794951122.584506,
-   "likes_checked_at": "2026-11-18 06:32"
+   "likes_checked_ts": 1795058799.054888,
+   "likes_checked_at": "2026-11-19 12:26"
   },
   "tiTvG0apB-w": {
    "id": "tiTvG0apB-w",
@@ -1271,23 +1271,42 @@
    "id": "2i6a9BDr60E",
    "title": "【DEEP DISH DUNGEON】EATING GOOD WITH @holoen_ceciliaimmergreen AND @NinomaeInanis",
    "status": "error",
-   "error": "ERROR: [youtube] 2i6a9BDr60E: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
+   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
    "failed_since_ts": 1795037524.3745463
   },
   "THV68_R0s0k": {
    "id": "THV68_R0s0k",
    "title": "【FORTNITE】MIKU",
    "status": "error",
-   "error": "ERROR: [youtube] THV68_R0s0k: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
+   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
    "failed_since_ts": 1795037524.3745463
+  },
+  "5EbZlXQyVzA": {
+   "id": "5EbZlXQyVzA",
+   "title": "【Grand Theft Auto VI】A MENACE TO SOCIETY",
+   "kind": "video",
+   "start_ts": 1795014000.0,
+   "start_jst": "2026-11-19 00:00",
+   "duration_sec": null,
+   "view_count": 218892,
+   "like_count": 13496,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": false,
+   "checked_at": "2026-11-19 12:26",
+   "info_limited": true,
+   "error": "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)",
+   "tab": "live",
+   "status": "error",
+   "failed_since_ts": 1795058799.054888
   }
  },
  "channel": "Koseki Bijou Ch. hololive",
  "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
  "handle": "@KosekiBijou",
  "subscribers": 1000000,
- "fetched_at": "2026-11-19 06:32",
- "fetched_at_ts": 1795037524.3745463,
- "checked_from": "2026-11-12 06:32",
+ "fetched_at": "2026-11-19 12:26",
+ "fetched_at_ts": 1795058799.054888,
+ "checked_from": "2026-11-12 12:26",
  "initial_fetch_done": true
 }

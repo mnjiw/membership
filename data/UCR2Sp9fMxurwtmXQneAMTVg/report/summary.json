@@ -3,27 +3,27 @@
  "channel_id": "UCR2Sp9fMxurwtmXQneAMTVg",
  "handle": "@magomo_magomori",
  "subscribers": 13800,
- "fetched_at": "2026-11-19 06:57",
- "generated_at": "2026-11-19 07:06",
+ "fetched_at": "2026-11-19 12:30",
+ "generated_at": "2026-11-19 12:31",
  "period": {
-  "from": "2026-10-20 06:57",
-  "to": "2026-11-19 06:57",
+  "from": "2026-10-20 12:30",
+  "to": "2026-11-19 12:30",
   "days": 30
  },
- "streams_analyzed": 29,
- "streams_missed": 15,
- "unique_chatters": 680,
- "members_confirmed": 222,
+ "streams_analyzed": 28,
+ "streams_missed": 17,
+ "unique_chatters": 674,
+ "members_confirmed": 220,
  "member_classes": {
-  "unknown": 138,
   "known": 23,
+  "unknown": 136,
   "gift": 61
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 119
+   "members": 117
   },
   {
    "months": 1,
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 23,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 138.0,
-   "estimated_members": 161.0,
+   "allocated_unknown": 136.0,
+   "estimated_members": 159.0,
    "monthly_net_confirmed": 7172,
-   "monthly_net_estimated": 50203
+   "monthly_net_estimated": 49579
   }
  ],
  "revenue": {
-  "monthly_low": 50203,
-  "monthly_est": 50203,
+  "monthly_low": 49579,
+  "monthly_est": 49579,
   "gift_once": 19645,
-  "total_low": 69847,
-  "total_est": 69847,
-  "paying_members": 161,
+  "total_low": 69224,
+  "total_est": 69224,
+  "paying_members": 159,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "HX_78Hr40zA",
-   "start": "2026-10-20 08:28",
-   "title": "【 RAFT 】漂流してサメに狙われながらとりゲット！！！【 孫守まごも / すぺしゃりて 】#まごねる #6",
-   "kind": "配信",
-   "chatters": 47,
-   "member_chatters": 27,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "Lj0bBOP0AP4",
    "start": "2026-10-20 20:59",
@@ -554,6 +544,30 @@
    "members_level": "",
    "like_count": 37,
    "view_count": null
+  },
+  {
+   "video_id": "bUr1tskOQ8c",
+   "start": "2026-11-18 00:00",
+   "title": "【Minecraft】家がなくなったからかっこいい家を作るらしい 【 孫守まごも/すぺしゃりて 】#まごねる",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 254,
+   "view_count": 4006
+  },
+  {
+   "video_id": "c_MjYE-FlMo",
+   "start": "2026-11-18 22:54",
+   "title": "【メン限】配信準備する！",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 16,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -696,6 +710,16 @@
    "members_level": "",
    "like_count": 37,
    "view_count": null
+  },
+  {
+   "video_id": "c_MjYE-FlMo",
+   "start": "2026-11-18 22:54",
+   "title": "【メン限】配信準備する！",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 16,
+   "view_count": null
   }
  ],
  "history": [
@@ -815,7 +839,7 @@
     "to": "2026-11-19"
    },
    "streams_analyzed": 17,
-   "streams_missed": 10,
+   "streams_missed": 12,
    "unique_chatters": 383,
    "members_confirmed": 112,
    "member_classes": {

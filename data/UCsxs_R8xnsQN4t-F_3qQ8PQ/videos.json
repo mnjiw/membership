@@ -1001,9 +1001,11 @@
   "PY3W3JYojo8": {
    "id": "PY3W3JYojo8",
    "title": "【スプラトゥーン3】ヤグラ XP2345～",
-   "status": "live_now",
+   "status": "error",
    "seen_live_at": "2026-11-19 05:35",
-   "was_public_when_live": true
+   "was_public_when_live": true,
+   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
+   "failed_since_ts": 1795058636.145268
   },
   "Hy9siltYxKo": {
    "id": "Hy9siltYxKo",
@@ -1027,8 +1029,8 @@
  "channel_id": "UCsxs_R8xnsQN4t-F_3qQ8PQ",
  "handle": "@Rayon_Y4T4",
  "subscribers": 105000,
- "fetched_at": "2026-11-19 05:35",
- "fetched_at_ts": 1795034137.697976,
- "checked_from": "2026-11-12 05:35",
+ "fetched_at": "2026-11-19 12:23",
+ "fetched_at_ts": 1795058636.145268,
+ "checked_from": "2026-11-12 12:23",
  "initial_fetch_done": true
 }

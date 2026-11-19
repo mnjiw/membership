@@ -1291,16 +1291,23 @@
    "id": "8YCSRGp1Brs",
    "title": "【Japanese Ramen Simulator】WAKE UP! OMET IS BACK BEFORE GTA VI!!!",
    "status": "error",
-   "error": "ERROR: [youtube] 8YCSRGp1Brs: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
+   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
    "failed_since_ts": 1795037365.289891
+  },
+  "MRlOwNv6GUo": {
+   "id": "MRlOwNv6GUo",
+   "title": "【Spelunky 2】hello is this supposed to be a rage game?",
+   "status": "live_now",
+   "seen_live_at": "2026-11-19 12:26",
+   "was_public_when_live": true
   }
  },
  "channel": "Kaela Kovalskia Ch. hololive",
  "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
  "handle": "@KaelaKovalskia",
  "subscribers": 928000,
- "fetched_at": "2026-11-19 06:29",
- "fetched_at_ts": 1795037365.289891,
- "checked_from": "2026-11-12 06:29",
+ "fetched_at": "2026-11-19 12:26",
+ "fetched_at_ts": 1795058778.4260035,
+ "checked_from": "2026-11-12 12:26",
  "initial_fetch_done": true
 }

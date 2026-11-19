@@ -1392,7 +1392,7 @@
    "status": "error",
    "seen_live_at": "2026-11-18 12:49",
    "was_public_when_live": true,
-   "error": "ERROR: [youtube] i5EuDdc4s1c: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
+   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
    "failed_since_ts": 1795038333.8015106
   }
  },
@@ -1400,8 +1400,8 @@
  "channel_id": "UCoW8qQy80mKH0RJTKAK-nNA",
  "handle": "@Chise_Tatsumaki",
  "subscribers": 170000,
- "fetched_at": "2026-11-19 06:45",
- "fetched_at_ts": 1795038333.8015106,
- "checked_from": "2026-11-12 06:45",
+ "fetched_at": "2026-11-19 12:28",
+ "fetched_at_ts": 1795058933.6573327,
+ "checked_from": "2026-11-12 12:28",
  "initial_fetch_done": true
 }

@@ -393,17 +393,19 @@
   "d0ptZ1S0SAY": {
    "id": "d0ptZ1S0SAY",
    "title": "【 Fields of Mistria 】囁き実況┆90年代風のキャラたちと過ごす農業ライフ⚒️【  竜胆 尊┆にじさんじ  】",
-   "status": "live_now",
+   "status": "error",
    "seen_live_at": "2026-11-19 05:21",
-   "was_public_when_live": true
+   "was_public_when_live": true,
+   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
+   "failed_since_ts": 1795058503.6129465
   }
  },
  "channel": "竜胆 尊 / Rindou Mikoto",
  "channel_id": "UCPvGypSgfDkVe7JG2KygK7A",
  "handle": "@RindouMikoto",
  "subscribers": 595000,
- "fetched_at": "2026-11-19 05:21",
- "fetched_at_ts": 1795033262.271749,
- "checked_from": "2026-11-12 05:21",
+ "fetched_at": "2026-11-19 12:21",
+ "fetched_at_ts": 1795058503.6129465,
+ "checked_from": "2026-11-12 12:21",
  "initial_fetch_done": true
 }
