@@ -1400,7 +1400,7 @@
    "start_jst": "2026-10-31 18:03",
    "duration_sec": 5844,
    "view_count": null,
-   "like_count": 4289,
+   "like_count": 4288,
    "live_status": "was_live",
    "members_only": true,
    "has_chat": false,
@@ -1409,8 +1409,8 @@
    "was_public_when_live": false,
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1795058690.7631974,
-   "likes_checked_at": "2026-11-19 12:24"
+   "likes_checked_ts": 1795123382.9906166,
+   "likes_checked_at": "2026-11-20 06:23"
   },
   "1E7eYQJB_58": {
    "id": "1E7eYQJB_58",
@@ -1749,17 +1749,44 @@
   "TC-_uORgJug": {
    "id": "TC-_uORgJug",
    "title": "#3【初見】人生初の『ゼルダの伝説 時のオカリナ』で遊ぶ！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
-   "status": "error",
-   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
-   "failed_since_ts": 1795036810.731426
+   "kind": "live",
+   "start_ts": 1794999602.3742032,
+   "start_jst": "2026-11-18 20:00",
+   "duration_sec": 16199,
+   "view_count": 441850,
+   "like_count": 8993,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-20 06:25",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
+  },
+  "xm0ZxpDQYJg": {
+   "id": "xm0ZxpDQYJg",
+   "title": "【#ホロ7DTD】みんなで7 Days to Dieやる🧟DAY1 ぺこ！【ホロライブ/兎田ぺこら】",
+   "kind": "live",
+   "start_ts": 1795089664.822869,
+   "start_jst": "2026-11-19 21:01",
+   "duration_sec": 11439,
+   "view_count": 392894,
+   "like_count": 10701,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-20 06:23",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "Pekora Ch. 兎田ぺこら",
  "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
  "handle": "@usadapekora",
  "subscribers": 2800000,
- "fetched_at": "2026-11-19 12:24",
- "fetched_at_ts": 1795058690.7631974,
- "checked_from": "2026-11-12 12:24",
+ "fetched_at": "2026-11-20 06:23",
+ "fetched_at_ts": 1795123382.9906166,
+ "checked_from": "2026-11-13 06:23",
  "initial_fetch_done": true
 }

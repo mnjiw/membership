@@ -3,20 +3,20 @@
  "channel_id": "UCW98GVLrx8lG_ddOts3cl4g",
  "handle": "@Amaui",
  "subscribers": 56000,
- "fetched_at": "2026-11-19 12:27",
- "generated_at": "2026-11-19 12:27",
+ "fetched_at": "2026-11-20 06:45",
+ "generated_at": "2026-11-20 06:46",
  "period": {
-  "from": "2026-10-20 12:27",
-  "to": "2026-11-19 12:27",
+  "from": "2026-10-21 06:45",
+  "to": "2026-11-20 06:45",
   "days": 30
  },
  "streams_analyzed": 25,
- "streams_missed": 0,
- "unique_chatters": 1026,
+ "streams_missed": 1,
+ "unique_chatters": 1017,
  "members_confirmed": 156,
  "member_classes": {
-  "known": 7,
   "unknown": 123,
+  "known": 7,
   "gift": 26
  },
  "badges": [
@@ -43,12 +43,12 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 23
+   "members": 22
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 15
+   "members": 16
   },
   {
    "months": 36,
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "AH2OT-En-Rk",
-   "start": "2026-10-21 00:00",
-   "title": "☾ ໋ #16〖 トルネコの大冒険 〗深夜チルで完全初見トルネコです .ᐟ.ᐟ🗡#トルネコの大冒険不思議のダンジョンちょっとステキなリマスター〖 天羽衣┊ななしいんく 〗",
-   "kind": "配信",
-   "chatters": 182,
-   "member_chatters": 40,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "LLEgpSqqwQ8",
    "start": "2026-10-22 00:00",
@@ -342,9 +332,32 @@
    "member_chatters": 45,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "FHoTEPoaWpQ",
+   "start": "2026-11-19 00:00",
+   "title": "☾ ໋ #2〖 PS版トルネコの大冒険2 〗深夜チルで完全初見トルネコ2です .ᐟ.ᐟ🗡#トルネコの大冒険2不思議のダンジョン〖 天羽衣┊ななしいんく 〗",
+   "kind": "配信",
+   "chatters": 172,
+   "member_chatters": 46,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "vx8VqU-C8Cs",
+   "start": "2026-11-19 00:00",
+   "title": "☾ ໋ #3〖 PS版トルネコの大冒険2 〗深夜チルで完全初見トルネコ2です .ᐟ.ᐟ🗡#トルネコの大冒険2不思議のダンジョン〖 天羽衣┊ななしいんく 〗",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 443,
+   "view_count": 12356
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -480,18 +493,18 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-19"
+    "to": "2026-11-20"
    },
-   "streams_analyzed": 13,
-   "streams_missed": 0,
-   "unique_chatters": 553,
-   "members_confirmed": 122,
+   "streams_analyzed": 14,
+   "streams_missed": 1,
+   "unique_chatters": 599,
+   "members_confirmed": 125,
    "member_classes": {
-    "unknown": 111,
+    "unknown": 114,
     "known": 6,
     "gift": 5
    },
-   "long_term_members": 71,
+   "long_term_members": 72,
    "badges": [
     {
      "months": 0,
@@ -507,15 +520,15 @@
     },
     {
      "months": 6,
-     "members": 26
+     "members": 28
     },
     {
      "months": 12,
-     "members": 20
+     "members": 19
     },
     {
      "months": 24,
-     "members": 13
+     "members": 15
     },
     {
      "months": 36,
@@ -533,15 +546,15 @@
      "tier": "あまういぷらいむ",
      "price": 490,
      "confirmed_members": 6,
-     "estimated_members": 117.0
+     "estimated_members": 120.0
     }
    ],
    "revenue": {
-    "monthly_low": 36483,
-    "monthly_est": 36483,
+    "monthly_low": 37418,
+    "monthly_est": 37418,
     "gift_once": 1559
    },
-   "avg_member_chatters": 40.3,
+   "avg_member_chatters": 40.7,
    "partial": true,
    "finalized": false
   }

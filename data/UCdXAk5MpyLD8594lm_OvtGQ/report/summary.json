@@ -3,66 +3,66 @@
  "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
  "handle": "@JuufuuteiRaden",
  "subscribers": 1280000,
- "fetched_at": "2026-11-19 12:25",
- "generated_at": "2026-11-19 12:25",
+ "fetched_at": "2026-11-20 06:31",
+ "generated_at": "2026-11-20 06:31",
  "period": {
-  "from": "2026-10-20 12:25",
-  "to": "2026-11-19 12:25",
+  "from": "2026-10-21 06:31",
+  "to": "2026-11-20 06:31",
   "days": 30
  },
- "streams_analyzed": 10,
- "streams_missed": 1,
- "unique_chatters": 10168,
- "members_confirmed": 2932,
+ "streams_analyzed": 9,
+ "streams_missed": 2,
+ "unique_chatters": 9804,
+ "members_confirmed": 2827,
  "member_classes": {
-  "unknown": 2349,
-  "known": 382,
-  "gift": 201
+  "unknown": 2254,
+  "known": 377,
+  "gift": 196
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 300
+   "members": 292
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 41
+   "members": 40
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 167
+   "members": 161
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 266
+   "members": 261
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 549
+   "members": 523
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 767
+   "members": 738
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 842
+   "members": 812
   }
  ],
  "events": {
   "new_members": 25,
   "rejoins": 8,
-  "milestones": 118,
-  "gift_purchases": 36,
-  "gifted_total": 264,
-  "gift_redemptions": 201
+  "milestones": 115,
+  "gift_purchases": 35,
+  "gifted_total": 259,
+  "gift_redemptions": 196
  },
  "tiers_configured": true,
  "tiers": [
@@ -70,21 +70,21 @@
    "tier": "超でん同士",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 382,
+   "confirmed_members": 377,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2349.0,
-   "estimated_members": 2731.0,
-   "monthly_net_confirmed": 119115,
-   "monthly_net_estimated": 851575
+   "allocated_unknown": 2254.0,
+   "estimated_members": 2631.0,
+   "monthly_net_confirmed": 117555,
+   "monthly_net_estimated": 820394
   }
  ],
  "revenue": {
-  "monthly_low": 851575,
-  "monthly_est": 851575,
-  "gift_once": 82320,
-  "total_low": 933895,
-  "total_est": 933895,
-  "paying_members": 2731,
+  "monthly_low": 820394,
+  "monthly_est": 820394,
+  "gift_once": 80761,
+  "total_low": 901155,
+  "total_est": 901155,
+  "paying_members": 2631,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "8E4XsqE6xTk",
-   "start": "2026-10-20 19:01",
-   "title": "【山種美術館】好きな日本画を紹介します！一緒に見ましょう！【儒烏風亭らでん/ホロライブ】",
-   "kind": "配信",
-   "chatters": 1219,
-   "member_chatters": 708,
-   "new_members": 0,
-   "gifted_total": 5
-  },
   {
    "video_id": "iJSup4RT1rI",
    "start": "2026-10-26 23:00",
@@ -204,7 +194,19 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 1223,
+   "like_count": 1224,
+   "view_count": null
+  },
+  {
+   "video_id": "nVAQlY045rU",
+   "start": "2026-11-19 22:01",
+   "title": "【メン限】ゆるり裏話など（短め！）【儒烏風亭らでん/ReGLOSS】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 972,
    "view_count": null
   }
  ],
@@ -216,7 +218,17 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 1223,
+   "like_count": 1224,
+   "view_count": null
+  },
+  {
+   "video_id": "nVAQlY045rU",
+   "start": "2026-11-19 22:01",
+   "title": "【メン限】ゆるり裏話など（短め！）【儒烏風亭らでん/ReGLOSS】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 972,
    "view_count": null
   }
  ],
@@ -361,10 +373,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-19"
+    "to": "2026-11-20"
    },
    "streams_analyzed": 7,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 8431,
    "members_confirmed": 2465,
    "member_classes": {

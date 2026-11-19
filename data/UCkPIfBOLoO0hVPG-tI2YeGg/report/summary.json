@@ -3,27 +3,27 @@
  "channel_id": "UCkPIfBOLoO0hVPG-tI2YeGg",
  "handle": "@TOMARI_MARI",
  "subscribers": 511000,
- "fetched_at": "2026-11-19 12:34",
- "generated_at": "2026-11-19 12:34",
+ "fetched_at": "2026-11-20 07:04",
+ "generated_at": "2026-11-20 07:04",
  "period": {
-  "from": "2026-10-20 12:34",
-  "to": "2026-11-19 12:34",
+  "from": "2026-10-21 07:04",
+  "to": "2026-11-20 07:04",
   "days": 30
  },
- "streams_analyzed": 32,
+ "streams_analyzed": 33,
  "streams_missed": 1,
- "unique_chatters": 1661,
- "members_confirmed": 701,
+ "unique_chatters": 1666,
+ "members_confirmed": 702,
  "member_classes": {
   "unknown": 372,
   "known": 11,
-  "gift": 318
+  "gift": 319
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 317
+   "members": 318
   },
   {
    "months": 1,
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 40
+   "members": 41
   },
   {
    "months": 24,
@@ -58,16 +58,16 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 235
+   "members": 234
   }
  ],
  "events": {
   "new_members": 3,
   "rejoins": 4,
   "milestones": 0,
-  "gift_purchases": 64,
-  "gifted_total": 329,
-  "gift_redemptions": 318
+  "gift_purchases": 65,
+  "gifted_total": 330,
+  "gift_redemptions": 319
  },
  "tiers_configured": true,
  "tiers": [
@@ -86,9 +86,9 @@
  "revenue": {
   "monthly_low": 119426,
   "monthly_est": 119426,
-  "gift_once": 102588,
-  "total_low": 222015,
-  "total_est": 222015,
+  "gift_once": 102900,
+  "total_low": 222326,
+  "total_est": 222326,
   "paying_members": 383,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "JmV2CgcrWUU",
-   "start": "2026-10-20 20:00",
-   "title": "【インボキア-呪いのダイスゲーム-】今日はみんなで呪われたボドゲやるよ！✌【#とまライブ】",
-   "kind": "配信",
-   "chatters": 155,
-   "member_chatters": 92,
-   "new_members": 0,
-   "gifted_total": 1
-  },
   {
    "video_id": "pRyc1LDf0gs",
    "start": "2026-10-21 20:00",
@@ -417,6 +407,26 @@
    "member_chatters": 118,
    "new_members": 0,
    "gifted_total": 1
+  },
+  {
+   "video_id": "ogwLQXcdVp4",
+   "start": "2026-11-18 20:01",
+   "title": "大流行している警察になったりギャングになれる『ROB RUN』やる！【#とまライブ】",
+   "kind": "配信",
+   "chatters": 192,
+   "member_chatters": 113,
+   "new_members": 0,
+   "gifted_total": 1
+  },
+  {
+   "video_id": "1fhsJb9UtqA",
+   "start": "2026-11-19 20:00",
+   "title": "ついに一周年！大型アプデ堪能するぞ～！！ガチャもちょこっと回すかも！！【風燕伝】",
+   "kind": "配信",
+   "chatters": 98,
+   "member_chatters": 75,
+   "new_members": 0,
+   "gifted_total": 1
   }
  ],
  "missed_streams": [
@@ -587,22 +597,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-19"
+    "to": "2026-11-20"
    },
-   "streams_analyzed": 20,
+   "streams_analyzed": 22,
    "streams_missed": 0,
-   "unique_chatters": 1335,
-   "members_confirmed": 638,
+   "unique_chatters": 1356,
+   "members_confirmed": 643,
    "member_classes": {
-    "unknown": 345,
+    "unknown": 348,
     "known": 10,
-    "gift": 283
+    "gift": 285
    },
-   "long_term_members": 329,
+   "long_term_members": 332,
    "badges": [
     {
      "months": 0,
-     "members": 282
+     "members": 284
     },
     {
      "months": 1,
@@ -618,7 +628,7 @@
     },
     {
      "months": 12,
-     "members": 34
+     "members": 36
     },
     {
      "months": 24,
@@ -626,7 +636,7 @@
     },
     {
      "months": 36,
-     "members": 42
+     "members": 43
     },
     {
      "months": 48,
@@ -637,22 +647,22 @@
     "new_members": 3,
     "rejoins": 2,
     "milestones": 0,
-    "gifted_total": 293
+    "gifted_total": 295
    },
    "tiers": [
     {
      "tier": "にんじんども",
      "price": 490,
      "confirmed_members": 10,
-     "estimated_members": 355.0
+     "estimated_members": 358.0
     }
    ],
    "revenue": {
-    "monthly_low": 110695,
-    "monthly_est": 110695,
-    "gift_once": 91363
+    "monthly_low": 111631,
+    "monthly_est": 111631,
+    "gift_once": 91986
    },
-   "avg_member_chatters": 129.3,
+   "avg_member_chatters": 126.1,
    "partial": true,
    "finalized": false
   }

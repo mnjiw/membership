@@ -3,32 +3,32 @@
  "channel_id": "UCpFy8D37SUStmeWh38NuppA",
  "handle": "@Ray_Nanase",
  "subscribers": 14300,
- "fetched_at": "2026-11-19 12:27",
- "generated_at": "2026-11-19 12:27",
+ "fetched_at": "2026-11-20 06:46",
+ "generated_at": "2026-11-20 06:46",
  "period": {
-  "from": "2026-10-20 12:27",
-  "to": "2026-11-19 12:27",
+  "from": "2026-10-21 06:46",
+  "to": "2026-11-20 06:46",
   "days": 30
  },
  "streams_analyzed": 26,
- "streams_missed": 1,
- "unique_chatters": 1321,
- "members_confirmed": 148,
+ "streams_missed": 2,
+ "unique_chatters": 1346,
+ "members_confirmed": 149,
  "member_classes": {
-  "known": 42,
-  "unknown": 92,
+  "unknown": 94,
+  "known": 41,
   "gift": 14
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 18
+   "members": 20
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 15
+   "members": 14
   },
   {
    "months": 2,
@@ -50,21 +50,21 @@
    "tier": "レイの隠れ家",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 42,
+   "confirmed_members": 41,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 92.0,
-   "estimated_members": 134.0,
-   "monthly_net_confirmed": 13096,
-   "monthly_net_estimated": 41784
+   "allocated_unknown": 94.0,
+   "estimated_members": 135.0,
+   "monthly_net_confirmed": 12785,
+   "monthly_net_estimated": 42095
   }
  ],
  "revenue": {
-  "monthly_low": 41784,
-  "monthly_est": 41784,
+  "monthly_low": 42095,
+  "monthly_est": 42095,
   "gift_once": 4365,
-  "total_low": 46149,
-  "total_est": 46149,
-  "paying_members": 134,
+  "total_low": 46461,
+  "total_est": 46461,
+  "paying_members": 135,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,26 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "JjGFxdjmYCE",
-   "start": "2026-10-20 20:01",
-   "title": "【同時視聴】ななしオタクと見る『Starlight Tribute』第一公演✨【漆瀬レイ / ななしいんく】",
-   "kind": "配信",
-   "chatters": 88,
-   "member_chatters": 36,
-   "new_members": 0,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "nsN7_YGGB4c",
-   "start": "2026-10-21 06:30",
-   "title": "【朝枠】もにれでぃ！☀ 読書の秋…ですかぁ………【漆瀬レイ / ななしいんく】",
-   "kind": "配信",
-   "chatters": 140,
-   "member_chatters": 52,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "PPEVFGfcAWM",
    "start": "2026-10-21 12:00",
@@ -332,6 +312,26 @@
    "member_chatters": 83,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "u9tm7IqVc8U",
+   "start": "2026-11-18 22:01",
+   "title": "【#そやんこと壁】職権乱用して壁になってみた。【宗谷いちか / 季咲あんこ / 漆瀬レイ / ななしいんく】",
+   "kind": "配信",
+   "chatters": 230,
+   "member_chatters": 51,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "ZzofrG_RGUs",
+   "start": "2026-11-19 21:37",
+   "title": "【Poppy Playtime】ハーモニカを加えるだけの簡単なお仕事…【 #ここ瀬レイ汰の限界突破 / ここ・じぇす汰 / 漆瀬レイ / ななしいんく】",
+   "kind": "配信",
+   "chatters": 101,
+   "member_chatters": 31,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -346,6 +346,18 @@
    "members_level": "",
    "like_count": null,
    "view_count": null
+  },
+  {
+   "video_id": "bAPPi-yopuQ",
+   "start": "2026-11-19 00:00",
+   "title": "【Poppy Playtime】ハーモニカを加えるだけの簡単なお仕事…【 #ここ瀬レイ汰の限界突破 / ここ・じぇす汰 / 漆瀬レイ / ななしいんく】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": null,
+   "view_count": 2088
   }
  ],
  "members_only_content": [
@@ -462,14 +474,14 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-19"
+    "to": "2026-11-20"
    },
-   "streams_analyzed": 12,
-   "streams_missed": 1,
-   "unique_chatters": 1055,
-   "members_confirmed": 135,
+   "streams_analyzed": 14,
+   "streams_missed": 2,
+   "unique_chatters": 1121,
+   "members_confirmed": 139,
    "member_classes": {
-    "unknown": 80,
+    "unknown": 84,
     "known": 41,
     "gift": 14
    },
@@ -477,7 +489,7 @@
    "badges": [
     {
      "months": 0,
-     "members": 16
+     "members": 18
     },
     {
      "months": 1,
@@ -485,7 +497,7 @@
     },
     {
      "months": 2,
-     "members": 106
+     "members": 108
     }
    ],
    "events": {
@@ -499,15 +511,15 @@
      "tier": "レイの隠れ家",
      "price": 490,
      "confirmed_members": 41,
-     "estimated_members": 121.0
+     "estimated_members": 125.0
     }
    ],
    "revenue": {
-    "monthly_low": 37730,
-    "monthly_est": 37730,
+    "monthly_low": 38977,
+    "monthly_est": 38977,
     "gift_once": 4365
    },
-   "avg_member_chatters": 47.5,
+   "avg_member_chatters": 46.6,
    "partial": true,
    "finalized": false
   }

@@ -1071,8 +1071,8 @@
    "checked_at": "2026-10-26 08:54",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1795059210.412334,
-   "likes_checked_at": "2026-11-19 12:33"
+   "likes_checked_ts": 1795125613.1381836,
+   "likes_checked_at": "2026-11-20 07:00"
   },
   "KC3RCSvrnZw": {
    "id": "KC3RCSvrnZw",
@@ -1376,15 +1376,15 @@
    "start_jst": "2026-11-14 21:59",
    "duration_sec": 13328,
    "view_count": null,
-   "like_count": 236,
+   "like_count": 237,
    "live_status": "was_live",
    "members_only": true,
    "has_chat": false,
    "checked_at": "2026-11-15 06:50",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1795059210.412334,
-   "likes_checked_at": "2026-11-19 12:33"
+   "likes_checked_ts": 1795125613.1381836,
+   "likes_checked_at": "2026-11-20 07:00"
   },
   "CB1vRSO8Xa4": {
    "id": "CB1vRSO8Xa4",
@@ -1440,17 +1440,44 @@
   "UrK2UmoU-nM": {
    "id": "UrK2UmoU-nM",
    "title": "【スーパーマリオブラザーズ3】 初見でどこまでいける！？ マリオ3に初挑戦.ᐟ.ᐟ.ᐟ.ᐟ.ᐟ 【モニカ・メロディア / Varium】",
-   "status": "error",
-   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
-   "failed_since_ts": 1795040325.4489849
+   "kind": "live",
+   "start_ts": 1794992403.5128021,
+   "start_jst": "2026-11-18 18:00",
+   "duration_sec": 14687,
+   "view_count": 20854,
+   "like_count": 793,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-20 07:00",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
+  },
+  "eXWwM3Qlyfc": {
+   "id": "eXWwM3Qlyfc",
+   "title": "【 超魔界村 】因縁の再戦.ᐟ.ᐟ🔥 超魔界村3時間チャレンジ.ᐟ.ᐟ.ᐟ.ᐟ.ᐟ.ᐟ 【モニカ・メロディア / Varium】",
+   "kind": "live",
+   "start_ts": 1795078799.908166,
+   "start_jst": "2026-11-19 17:59",
+   "duration_sec": 14149,
+   "view_count": 15947,
+   "like_count": 764,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-20 07:00",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "Monica Ch. モニカ・メロディア",
  "channel_id": "UCV0YFbQEkDoWewu-LOlLwdA",
  "handle": "@MonicaMelodia",
  "subscribers": 28600,
- "fetched_at": "2026-11-19 12:33",
- "fetched_at_ts": 1795059210.412334,
- "checked_from": "2026-11-12 12:33",
+ "fetched_at": "2026-11-20 07:00",
+ "fetched_at_ts": 1795125613.1381836,
+ "checked_from": "2026-11-13 07:00",
  "initial_fetch_done": true
 }

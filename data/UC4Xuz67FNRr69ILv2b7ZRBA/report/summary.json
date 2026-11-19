@@ -3,50 +3,50 @@
  "channel_id": "UC4Xuz67FNRr69ILv2b7ZRBA",
  "handle": "@eito_aogiri8",
  "subscribers": 50300,
- "fetched_at": "2026-11-19 12:32",
- "generated_at": "2026-11-19 12:32",
+ "fetched_at": "2026-11-20 06:57",
+ "generated_at": "2026-11-20 06:57",
  "period": {
-  "from": "2026-10-20 12:32",
-  "to": "2026-11-19 12:32",
+  "from": "2026-10-21 06:57",
+  "to": "2026-11-20 06:57",
   "days": 30
  },
- "streams_analyzed": 17,
- "streams_missed": 2,
- "unique_chatters": 222,
- "members_confirmed": 75,
+ "streams_analyzed": 19,
+ "streams_missed": 1,
+ "unique_chatters": 234,
+ "members_confirmed": 78,
  "member_classes": {
-  "unknown": 66,
-  "known": 9
+  "unknown": 68,
+  "known": 10
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 3
+   "members": 4
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 7
+   "members": 6
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 11
+   "members": 12
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 20
+   "members": 21
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 34
+   "members": 35
   }
  ],
  "events": {
-  "new_members": 1,
+  "new_members": 2,
   "rejoins": 0,
   "milestones": 3,
   "gift_purchases": 0,
@@ -59,21 +59,21 @@
    "tier": "8ジェント",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 9,
+   "confirmed_members": 10,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 66.0,
-   "estimated_members": 75.0,
-   "monthly_net_confirmed": 2806,
-   "monthly_net_estimated": 23386
+   "allocated_unknown": 68.0,
+   "estimated_members": 78.0,
+   "monthly_net_confirmed": 3118,
+   "monthly_net_estimated": 24322
   }
  ],
  "revenue": {
-  "monthly_low": 23386,
-  "monthly_est": 23386,
+  "monthly_low": 24322,
+  "monthly_est": 24322,
   "gift_once": 0,
-  "total_low": 23386,
-  "total_est": 23386,
-  "paying_members": 75,
+  "total_low": 24322,
+  "total_est": 24322,
+  "paying_members": 78,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -251,32 +251,40 @@
    "member_chatters": 14,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "Lvv-Grug7PQ",
+   "start": "2026-11-18 00:31",
+   "title": "【VALORANT】本日も深夜に",
+   "kind": "配信",
+   "chatters": 27,
+   "member_chatters": 15,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "gkHA3lFbpwM",
+   "start": "2026-11-18 23:34",
+   "title": "【VALORANT】このゲーム楽しいからやる",
+   "kind": "配信",
+   "chatters": 34,
+   "member_chatters": 17,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
   {
-   "video_id": "Lvv-Grug7PQ",
-   "start": "2026-11-17 00:00",
-   "title": "【VALORANT】本日も深夜に",
+   "video_id": "Noam5_LfZIU",
+   "start": "2026-11-19 00:00",
+   "title": "【VALORANT】300RRを目指して",
    "kind": "video",
    "status": "error",
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 79,
-   "view_count": 2650
-  },
-  {
-   "video_id": "gkHA3lFbpwM",
-   "start": "2026-11-18 00:00",
-   "title": "【VALORANT】このゲーム楽しいからやる",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 88,
-   "view_count": 3820
+   "like_count": 96,
+   "view_count": 3425
   }
  ],
  "members_only_content": [],
@@ -396,41 +404,41 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-19"
+    "to": "2026-11-20"
    },
-   "streams_analyzed": 9,
-   "streams_missed": 2,
-   "unique_chatters": 125,
-   "members_confirmed": 51,
+   "streams_analyzed": 11,
+   "streams_missed": 1,
+   "unique_chatters": 143,
+   "members_confirmed": 55,
    "member_classes": {
-    "unknown": 46,
-    "known": 5
+    "unknown": 49,
+    "known": 6
    },
-   "long_term_members": 41,
+   "long_term_members": 44,
    "badges": [
     {
      "months": 0,
-     "members": 1
-    },
-    {
-     "months": 2,
      "members": 2
     },
     {
+     "months": 2,
+     "members": 1
+    },
+    {
      "months": 6,
-     "members": 7
+     "members": 8
     },
     {
      "months": 12,
-     "members": 16
+     "members": 17
     },
     {
      "months": 24,
-     "members": 25
+     "members": 27
     }
    ],
    "events": {
-    "new_members": 0,
+    "new_members": 1,
     "rejoins": 0,
     "milestones": 1,
     "gifted_total": 0
@@ -439,16 +447,16 @@
     {
      "tier": "8ジェント",
      "price": 490,
-     "confirmed_members": 5,
-     "estimated_members": 51.0
+     "confirmed_members": 6,
+     "estimated_members": 55.0
     }
    ],
    "revenue": {
-    "monthly_low": 15903,
-    "monthly_est": 15903,
+    "monthly_low": 17150,
+    "monthly_est": 17150,
     "gift_once": 0
    },
-   "avg_member_chatters": 17.2,
+   "avg_member_chatters": 17,
    "partial": true,
    "finalized": false
   }

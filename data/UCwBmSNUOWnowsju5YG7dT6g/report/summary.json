@@ -3,61 +3,61 @@
  "channel_id": "UCwBmSNUOWnowsju5YG7dT6g",
  "handle": "@tsukasa_ryogoku",
  "subscribers": 100000,
- "fetched_at": "2026-11-19 12:29",
- "generated_at": "2026-11-19 12:30",
+ "fetched_at": "2026-11-20 06:52",
+ "generated_at": "2026-11-20 06:54",
  "period": {
-  "from": "2026-10-20 12:29",
-  "to": "2026-11-19 12:29",
+  "from": "2026-10-21 06:52",
+  "to": "2026-11-20 06:52",
   "days": 30
  },
- "streams_analyzed": 19,
+ "streams_analyzed": 21,
  "streams_missed": 4,
- "unique_chatters": 1926,
- "members_confirmed": 562,
+ "unique_chatters": 1979,
+ "members_confirmed": 581,
  "member_classes": {
-  "unknown": 397,
+  "unknown": 407,
   "known": 22,
-  "gift": 143
+  "gift": 152
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 154
+   "members": 165
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 14
+   "members": 15
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 39
+   "members": 41
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 61
+   "members": 62
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 166
+   "members": 167
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 128
+   "members": 131
   }
  ],
  "events": {
   "new_members": 11,
   "rejoins": 4,
   "milestones": 0,
-  "gift_purchases": 21,
-  "gifted_total": 143,
-  "gift_redemptions": 143
+  "gift_purchases": 22,
+  "gifted_total": 153,
+  "gift_redemptions": 152
  },
  "tiers_configured": true,
  "tiers": [
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 22,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 397.0,
-   "estimated_members": 419.0,
+   "allocated_unknown": 407.0,
+   "estimated_members": 429.0,
    "monthly_net_confirmed": 6860,
-   "monthly_net_estimated": 130652
+   "monthly_net_estimated": 133770
   }
  ],
  "revenue": {
-  "monthly_low": 130652,
-  "monthly_est": 130652,
-  "gift_once": 44590,
-  "total_low": 175242,
-  "total_est": 175242,
-  "paying_members": 419,
+  "monthly_low": 133770,
+  "monthly_est": 133770,
+  "gift_once": 47708,
+  "total_low": 181478,
+  "total_est": 181478,
+  "paying_members": 429,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "fY44rnrzg94",
-   "start": "2026-10-20 20:59",
-   "title": "【 Among Us 】まずは、ありがとう。喰われるために集まってくれて・・・。【 領国つかさ / すぺしゃりて 】",
-   "kind": "配信",
-   "chatters": 200,
-   "member_chatters": 139,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "UBIJ8OXka1E",
    "start": "2026-10-22 21:02",
@@ -277,6 +267,36 @@
    "member_chatters": 150,
    "new_members": 0,
    "gifted_total": 5
+  },
+  {
+   "video_id": "4BhANdBnZmk",
+   "start": "2026-11-18 21:01",
+   "title": "【 地獄アパート 】一家が失踪したヤバすぎるアパートに凸！ｗ【 領国つかさ / すぺしゃりて 】",
+   "kind": "配信",
+   "chatters": 280,
+   "member_chatters": 158,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "nuqI_X8Pc70",
+   "start": "2026-11-19 20:59",
+   "title": "【 カブトムシの森 】どんどん不気味になっていく森に来ました。【 領国つかさ / すぺしゃりて 】",
+   "kind": "配信",
+   "chatters": 193,
+   "member_chatters": 137,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "2u31eBjce2U",
+   "start": "2026-11-19 21:32",
+   "title": "【カブトムシの森 】どんどん不気味になっていく森に来ました！！！【 領国つかさ / すぺしゃりて 】",
+   "kind": "配信",
+   "chatters": 226,
+   "member_chatters": 157,
+   "new_members": 0,
+   "gifted_total": 10
   }
  ],
  "missed_streams": [
@@ -325,7 +345,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 218,
+   "like_count": 219,
    "view_count": null
   }
  ],
@@ -367,7 +387,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 218,
+   "like_count": 219,
    "view_count": null
   }
  ],
@@ -497,64 +517,64 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-19"
+    "to": "2026-11-20"
    },
-   "streams_analyzed": 10,
+   "streams_analyzed": 13,
    "streams_missed": 3,
-   "unique_chatters": 1140,
-   "members_confirmed": 366,
+   "unique_chatters": 1244,
+   "members_confirmed": 397,
    "member_classes": {
-    "unknown": 321,
+    "unknown": 343,
     "known": 18,
-    "gift": 27
+    "gift": 36
    },
-   "long_term_members": 233,
+   "long_term_members": 247,
    "badges": [
     {
      "months": 0,
-     "members": 49
+     "members": 61
     },
     {
      "months": 1,
-     "members": 9
+     "members": 10
     },
     {
      "months": 2,
-     "members": 31
+     "members": 33
     },
     {
      "months": 6,
-     "members": 44
+     "members": 46
     },
     {
      "months": 12,
-     "members": 127
+     "members": 136
     },
     {
      "months": 24,
-     "members": 106
+     "members": 111
     }
    ],
    "events": {
     "new_members": 7,
     "rejoins": 3,
     "milestones": 0,
-    "gifted_total": 27
+    "gifted_total": 37
    },
    "tiers": [
     {
      "tier": "オタク",
      "price": 490,
      "confirmed_members": 18,
-     "estimated_members": 339.0
+     "estimated_members": 361.0
     }
    ],
    "revenue": {
-    "monthly_low": 105706,
-    "monthly_est": 105706,
-    "gift_once": 8419
+    "monthly_low": 112566,
+    "monthly_est": 112566,
+    "gift_once": 11537
    },
-   "avg_member_chatters": 155.7,
+   "avg_member_chatters": 154.5,
    "partial": true,
    "finalized": false
   }

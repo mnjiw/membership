@@ -3,27 +3,27 @@
  "channel_id": "UCmiYJycZXBGc4s_zjIRUHhQ",
  "handle": "@urame0711",
  "subscribers": 290000,
- "fetched_at": "2026-11-19 12:29",
- "generated_at": "2026-11-19 12:29",
+ "fetched_at": "2026-11-20 06:51",
+ "generated_at": "2026-11-20 06:52",
  "period": {
-  "from": "2026-10-20 12:29",
-  "to": "2026-11-19 12:29",
+  "from": "2026-10-21 06:51",
+  "to": "2026-11-20 06:51",
   "days": 30
  },
- "streams_analyzed": 22,
+ "streams_analyzed": 23,
  "streams_missed": 4,
- "unique_chatters": 1859,
- "members_confirmed": 705,
+ "unique_chatters": 1868,
+ "members_confirmed": 704,
  "member_classes": {
-  "known": 107,
-  "unknown": 478,
-  "gift": 120
+  "unknown": 480,
+  "known": 106,
+  "gift": 118
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 150
+   "members": 148
   },
   {
    "months": 1,
@@ -33,12 +33,12 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 51
+   "members": 53
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 59
+   "members": 57
   },
   {
    "months": 12,
@@ -48,16 +48,16 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 273
+   "members": 274
   }
  ],
  "events": {
-  "new_members": 18,
-  "rejoins": 2,
-  "milestones": 61,
-  "gift_purchases": 26,
-  "gifted_total": 120,
-  "gift_redemptions": 120
+  "new_members": 17,
+  "rejoins": 4,
+  "milestones": 50,
+  "gift_purchases": 24,
+  "gifted_total": 118,
+  "gift_redemptions": 118
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +65,21 @@
    "tier": "うらめのつまみ会",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 107,
+   "confirmed_members": 106,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 478.0,
-   "estimated_members": 585.0,
-   "monthly_net_confirmed": 33365,
-   "monthly_net_estimated": 182414
+   "allocated_unknown": 480.0,
+   "estimated_members": 586.0,
+   "monthly_net_confirmed": 33053,
+   "monthly_net_estimated": 182725
   }
  ],
  "revenue": {
-  "monthly_low": 182414,
-  "monthly_est": 182414,
-  "gift_once": 37418,
-  "total_low": 219832,
-  "total_est": 219832,
-  "paying_members": 585,
+  "monthly_low": 182725,
+  "monthly_est": 182725,
+  "gift_once": 36795,
+  "total_low": 219520,
+  "total_est": 219520,
+  "paying_members": 586,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "yCcEaSzj5y4",
-   "start": "2026-10-20 22:32",
-   "title": "【#雑談 】今日もたくさん働いてえらいって言ってもらう配信【#春雨麗女 #あおぎり高校】",
-   "kind": "配信",
-   "chatters": 223,
-   "member_chatters": 148,
-   "new_members": 1,
-   "gifted_total": 3
-  },
   {
    "video_id": "6LCFdo6UJQk",
    "start": "2026-10-21 22:06",
@@ -307,6 +297,26 @@
    "member_chatters": 208,
    "new_members": 0,
    "gifted_total": 26
+  },
+  {
+   "video_id": "juaN7Y928vQ",
+   "start": "2026-11-18 18:18",
+   "title": "【#雑談 】ライブ終わって暇になった途端に配信頻度がえげつないことになるのかわいいね【#春雨麗女 #あおぎり高校】",
+   "kind": "配信",
+   "chatters": 241,
+   "member_chatters": 169,
+   "new_members": 0,
+   "gifted_total": 1
+  },
+  {
+   "video_id": "Z1B_ayyEjOg",
+   "start": "2026-11-18 21:01",
+   "title": "【めっちゃカメレオン】めっちゃカメレオンがめっちゃ下手らしいのですが、コラボ混ざって大丈夫そうでしょうか【春雨麗女 #あおぎり高校】",
+   "kind": "配信",
+   "chatters": 124,
+   "member_chatters": 94,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -527,22 +537,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-19"
+    "to": "2026-11-20"
    },
-   "streams_analyzed": 14,
+   "streams_analyzed": 16,
    "streams_missed": 4,
-   "unique_chatters": 1292,
-   "members_confirmed": 639,
+   "unique_chatters": 1338,
+   "members_confirmed": 648,
    "member_classes": {
-    "unknown": 428,
-    "known": 99,
-    "gift": 112
+    "unknown": 434,
+    "known": 101,
+    "gift": 113
    },
-   "long_term_members": 392,
+   "long_term_members": 397,
    "badges": [
     {
      "months": 0,
-     "members": 139
+     "members": 141
     },
     {
      "months": 1,
@@ -550,7 +560,7 @@
     },
     {
      "months": 2,
-     "members": 45
+     "members": 47
     },
     {
      "months": 6,
@@ -558,33 +568,33 @@
     },
     {
      "months": 12,
-     "members": 141
+     "members": 143
     },
     {
      "months": 24,
-     "members": 251
+     "members": 254
     }
    ],
    "events": {
     "new_members": 14,
-    "rejoins": 1,
+    "rejoins": 3,
     "milestones": 38,
-    "gifted_total": 112
+    "gifted_total": 113
    },
    "tiers": [
     {
      "tier": "うらめのつまみ会",
      "price": 490,
-     "confirmed_members": 99,
-     "estimated_members": 527.0
+     "confirmed_members": 101,
+     "estimated_members": 535.0
     }
    ],
    "revenue": {
-    "monthly_low": 164328,
-    "monthly_est": 164328,
-    "gift_once": 34924
+    "monthly_low": 166823,
+    "monthly_est": 166823,
+    "gift_once": 35235
    },
-   "avg_member_chatters": 179,
+   "avg_member_chatters": 173.1,
    "partial": true,
    "finalized": false
   }

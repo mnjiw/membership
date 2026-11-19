@@ -863,17 +863,27 @@
   "8YPxDIGegvM": {
    "id": "8YPxDIGegvM",
    "title": "【BACK*SPACE】クセになってんです、リミナルスペースで気が狂うの【ぴかまる NS-PT01/ななしいんく】",
-   "status": "error",
-   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
-   "failed_since_ts": 1795037940.6725967
+   "kind": "live",
+   "start_ts": 1794999678.439085,
+   "start_jst": "2026-11-18 20:01",
+   "duration_sec": 4831,
+   "view_count": 5694,
+   "like_count": 379,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-20 06:47",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "ぴかまる NS-PT01",
  "channel_id": "UCnuAMfQpNCNT6ZHAL60kHwA",
  "handle": "@Pikamaru_NS-PT01",
  "subscribers": 16900,
- "fetched_at": "2026-11-19 12:27",
- "fetched_at_ts": 1795058871.1141074,
- "checked_from": "2026-11-12 12:27",
+ "fetched_at": "2026-11-20 06:46",
+ "fetched_at_ts": 1795124819.01858,
+ "checked_from": "2026-11-13 06:46",
  "initial_fetch_done": true
 }

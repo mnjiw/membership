@@ -803,17 +803,27 @@
   "pe5fK7hWy1k": {
    "id": "pe5fK7hWy1k",
    "title": "【鳴潮】リナシータ編進めるぞ～！！【ホロライブ/夏色まつり】",
-   "status": "error",
-   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
-   "failed_since_ts": 1795036700.2030773
+   "kind": "live",
+   "start_ts": 1795006846.781396,
+   "start_jst": "2026-11-18 22:00",
+   "duration_sec": 8478,
+   "view_count": 73135,
+   "like_count": 3788,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-20 06:18",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "Matsuri Channel 夏色まつり",
  "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
  "handle": "@NatsuiroMatsuri",
  "subscribers": 1610000,
- "fetched_at": "2026-11-19 12:24",
- "fetched_at_ts": 1795058671.6649086,
- "checked_from": "2026-11-12 12:24",
+ "fetched_at": "2026-11-20 06:18",
+ "fetched_at_ts": 1795123120.817083,
+ "checked_from": "2026-11-13 06:18",
  "initial_fetch_done": true
 }

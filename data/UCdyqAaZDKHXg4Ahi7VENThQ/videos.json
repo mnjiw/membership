@@ -1199,15 +1199,15 @@
    "start_jst": "2026-10-31 16:01",
    "duration_sec": 5650,
    "view_count": null,
-   "like_count": 1146,
+   "like_count": 1147,
    "live_status": "was_live",
    "members_only": true,
    "has_chat": false,
    "checked_at": "2026-10-31 18:58",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1795058694.8622303,
-   "likes_checked_at": "2026-11-19 12:24"
+   "likes_checked_ts": 1795123593.3511736,
+   "likes_checked_at": "2026-11-20 06:26"
   },
   "uwCg7lqLELE": {
    "id": "uwCg7lqLELE",
@@ -1390,19 +1390,29 @@
   "IhTQFdOE6Sc": {
    "id": "IhTQFdOE6Sc",
    "title": "【ホロドリ】ぺこらっちょガチャきた～！！お昼休みにガチャする太郎！！【白銀ノエル/ホロライブ】",
-   "status": "error",
+   "kind": "live",
+   "start_ts": 1794970887.8376918,
+   "start_jst": "2026-11-18 12:01",
+   "duration_sec": 5719,
+   "view_count": 163627,
+   "like_count": 5153,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-20 06:26",
+   "info_limited": true,
    "seen_live_at": "2026-11-18 12:47",
    "was_public_when_live": true,
-   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
-   "failed_since_ts": 1795036858.8957872
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "Noel Ch. 白銀ノエル",
  "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
  "handle": "@ShiroganeNoel",
  "subscribers": 2060000,
- "fetched_at": "2026-11-19 12:24",
- "fetched_at_ts": 1795058694.8622303,
- "checked_from": "2026-11-12 12:24",
+ "fetched_at": "2026-11-20 06:26",
+ "fetched_at_ts": 1795123593.3511736,
+ "checked_from": "2026-11-13 06:26",
  "initial_fetch_done": true
 }

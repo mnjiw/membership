@@ -1022,15 +1022,15 @@
    "start_jst": "2026-11-08 19:50",
    "duration_sec": 2400,
    "view_count": null,
-   "like_count": 493,
+   "like_count": 494,
    "live_status": "was_live",
    "members_only": true,
    "has_chat": false,
    "checked_at": "2026-11-09 06:18",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1795058665.6979842,
-   "likes_checked_at": "2026-11-19 12:24"
+   "likes_checked_ts": 1795123116.2739563,
+   "likes_checked_at": "2026-11-20 06:18"
   },
   "wgT-WyXsJp0": {
    "id": "wgT-WyXsJp0",
@@ -1052,24 +1052,44 @@
   "kFEOWsCKPTU": {
    "id": "kFEOWsCKPTU",
    "title": "【 歌枠】ウィスパー系の優しい歌うたいたいヨル【ホロライブ/ ロボ子さん #ロボ子生放送】",
-   "status": "error",
-   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
-   "failed_since_ts": 1795036696.2582963
+   "kind": "live",
+   "start_ts": 1795010643.434558,
+   "start_jst": "2026-11-18 23:04",
+   "duration_sec": 4174,
+   "view_count": 99550,
+   "like_count": 4788,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-20 06:18",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
   },
   "UnKaVCoOZDM": {
    "id": "UnKaVCoOZDM",
    "title": "【 雑談】わちゃ学やら微熱やらホログラやらいろいろおつかれさまああ【ホロライブ/ ロボ子さん #ロボ子生放送】",
-   "status": "error",
-   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
-   "failed_since_ts": 1795036696.2582963
+   "kind": "live",
+   "start_ts": 1794985225.26074,
+   "start_jst": "2026-11-18 16:00",
+   "duration_sec": 5440,
+   "view_count": 70642,
+   "like_count": 3511,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-20 06:19",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "Roboco Ch. - ロボ子",
  "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
  "handle": "@Robocosan",
  "subscribers": 1200000,
- "fetched_at": "2026-11-19 12:24",
- "fetched_at_ts": 1795058665.6979842,
- "checked_from": "2026-11-12 12:24",
+ "fetched_at": "2026-11-20 06:18",
+ "fetched_at_ts": 1795123116.2739563,
+ "checked_from": "2026-11-13 06:18",
  "initial_fetch_done": true
 }

@@ -2,76 +2,76 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-19"
+  "to": "2026-11-20"
  },
- "streams_analyzed": 7,
+ "streams_analyzed": 9,
  "streams_missed": 1,
- "unique_chatters": 7810,
- "members_confirmed": 1021,
+ "unique_chatters": 10620,
+ "members_confirmed": 1214,
  "member_classes": {
-  "known": 426,
-  "unknown": 573,
-  "gift": 22
+  "known": 488,
+  "unknown": 701,
+  "gift": 25
  },
- "long_term_members": 762,
+ "long_term_members": 914,
  "badges": [
   {
    "months": 0,
-   "members": 75
+   "members": 85
   },
   {
    "months": 1,
-   "members": 17
+   "members": 19
   },
   {
    "months": 2,
-   "members": 71
+   "members": 78
   },
   {
    "months": 6,
-   "members": 96
+   "members": 118
   },
   {
    "months": 12,
-   "members": 254
+   "members": 312
   },
   {
    "months": 24,
-   "members": 508
+   "members": 602
   }
  ],
  "events": {
-  "new_members": 22,
-  "rejoins": 6,
-  "milestones": 133,
-  "gifted_total": 22
+  "new_members": 26,
+  "rejoins": 9,
+  "milestones": 184,
+  "gifted_total": 25
  },
  "tiers": [
   {
    "tier": "Chattino",
    "price": 690,
-   "confirmed_members": 390,
-   "estimated_members": 914.6
+   "confirmed_members": 449,
+   "estimated_members": 1094.0
   },
   {
    "tier": "Chaddino",
    "price": 1290,
-   "confirmed_members": 21,
-   "estimated_members": 49.2
+   "confirmed_members": 23,
+   "estimated_members": 56.0
   },
   {
    "tier": "Giga Chaddino",
    "price": 3490,
-   "confirmed_members": 15,
-   "estimated_members": 35.2
+   "confirmed_members": 16,
+   "estimated_members": 39.0
   }
  ],
  "revenue": {
-  "monthly_low": 473397,
-  "monthly_est": 520132,
-  "gift_once": 9660
+  "monthly_low": 559370,
+  "monthly_est": 612937,
+  "gift_once": 10977
  },
- "avg_member_chatters": 353.7,
+ "avg_member_chatters": 375.9,
  "partial": true,
  "finalized": false
 }

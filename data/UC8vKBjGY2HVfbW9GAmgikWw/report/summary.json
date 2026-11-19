@@ -3,19 +3,19 @@
  "channel_id": "UC8vKBjGY2HVfbW9GAmgikWw",
  "handle": "@Moka_Amayui",
  "subscribers": 299000,
- "fetched_at": "2026-11-19 12:28",
- "generated_at": "2026-11-19 12:28",
+ "fetched_at": "2026-11-20 06:50",
+ "generated_at": "2026-11-20 06:50",
  "period": {
-  "from": "2026-10-20 12:28",
-  "to": "2026-11-19 12:28",
+  "from": "2026-10-21 06:50",
+  "to": "2026-11-20 06:50",
   "days": 30
  },
  "streams_analyzed": 18,
  "streams_missed": 2,
- "unique_chatters": 6606,
- "members_confirmed": 1558,
+ "unique_chatters": 6297,
+ "members_confirmed": 1559,
  "member_classes": {
-  "unknown": 1041,
+  "unknown": 1042,
   "known": 417,
   "gift": 100
  },
@@ -23,12 +23,12 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 370
+   "members": 367
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 82
+   "members": 80
   },
   {
    "months": 2,
@@ -38,17 +38,17 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 160
+   "members": 162
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 539
+   "members": 536
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 218
+   "members": 225
   }
  ],
  "events": {
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 417,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1041.0,
-   "estimated_members": 1458.0,
+   "allocated_unknown": 1042.0,
+   "estimated_members": 1459.0,
    "monthly_net_confirmed": 130028,
-   "monthly_net_estimated": 454631
+   "monthly_net_estimated": 454943
   }
  ],
  "revenue": {
-  "monthly_low": 454631,
-  "monthly_est": 454631,
+  "monthly_low": 454943,
+  "monthly_est": 454943,
   "gift_once": 31182,
-  "total_low": 485813,
-  "total_est": 485813,
-  "paying_members": 1458,
+  "total_low": 486125,
+  "total_est": 486125,
+  "paying_members": 1459,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "u5KMKCNA7JA",
-   "start": "2026-10-20 18:40",
-   "title": "【ストリートファイターリーグ JAPAN 2026】Div.F 第4節ミラー&インタビュー配信【 ぶいすぽっ！甘結もか 】",
-   "kind": "配信",
-   "chatters": 1418,
-   "member_chatters": 204,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "Nxe_4MB93ao",
    "start": "2026-10-21 19:11",
@@ -267,6 +257,16 @@
    "member_chatters": 193,
    "new_members": 2,
    "gifted_total": 0
+  },
+  {
+   "video_id": "2_Z0xhWsjfY",
+   "start": "2026-11-19 14:12",
+   "title": "[Street Fighter 6] Good morning, Street Fighter 6 during my free time [Vspo! Amayui Moka]",
+   "kind": "配信",
+   "chatters": 283,
+   "member_chatters": 125,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -435,18 +435,18 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-19"
+    "to": "2026-11-20"
    },
-   "streams_analyzed": 12,
+   "streams_analyzed": 13,
    "streams_missed": 0,
-   "unique_chatters": 5121,
-   "members_confirmed": 1461,
+   "unique_chatters": 5181,
+   "members_confirmed": 1470,
    "member_classes": {
-    "unknown": 976,
+    "unknown": 985,
     "known": 413,
     "gift": 72
    },
-   "long_term_members": 709,
+   "long_term_members": 716,
    "badges": [
     {
      "months": 0,
@@ -454,15 +454,15 @@
     },
     {
      "months": 1,
-     "members": 79
+     "members": 78
     },
     {
      "months": 2,
-     "members": 186
+     "members": 187
     },
     {
      "months": 6,
-     "members": 151
+     "members": 153
     },
     {
      "months": 12,
@@ -470,7 +470,7 @@
     },
     {
      "months": 24,
-     "members": 218
+     "members": 225
     }
    ],
    "events": {
@@ -484,15 +484,15 @@
      "tier": "もかサンド",
      "price": 490,
      "confirmed_members": 413,
-     "estimated_members": 1389.0
+     "estimated_members": 1398.0
     }
    ],
    "revenue": {
-    "monthly_low": 433115,
-    "monthly_est": 433115,
+    "monthly_low": 435922,
+    "monthly_est": 435922,
     "gift_once": 22451
    },
-   "avg_member_chatters": 315.8,
+   "avg_member_chatters": 301.2,
    "partial": true,
    "finalized": false
   }

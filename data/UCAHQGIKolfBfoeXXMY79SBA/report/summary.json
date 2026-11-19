@@ -3,19 +3,19 @@
  "channel_id": "UCAHQGIKolfBfoeXXMY79SBA",
  "handle": "@ShironaShizuku",
  "subscribers": 151000,
- "fetched_at": "2026-11-19 12:32",
- "generated_at": "2026-11-19 12:32",
+ "fetched_at": "2026-11-20 06:57",
+ "generated_at": "2026-11-20 06:57",
  "period": {
-  "from": "2026-10-20 12:32",
-  "to": "2026-11-19 12:32",
+  "from": "2026-10-21 06:57",
+  "to": "2026-11-20 06:57",
   "days": 30
  },
- "streams_analyzed": 19,
+ "streams_analyzed": 20,
  "streams_missed": 1,
- "unique_chatters": 1727,
- "members_confirmed": 330,
+ "unique_chatters": 1734,
+ "members_confirmed": 331,
  "member_classes": {
-  "known": 123,
+  "known": 124,
   "unknown": 172,
   "gift": 35
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 59
+   "members": 60
   },
   {
    "months": 1,
@@ -33,12 +33,12 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 37
+   "members": 36
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 43
+   "members": 44
   },
   {
    "months": 12,
@@ -52,7 +52,7 @@
   }
  ],
  "events": {
-  "new_members": 13,
+  "new_members": 14,
   "rejoins": 6,
   "milestones": 71,
   "gift_purchases": 4,
@@ -65,21 +65,21 @@
    "tier": "メンバーシップ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 123,
+   "confirmed_members": 124,
    "share_of_confirmed_pct": 100.0,
    "allocated_unknown": 172.0,
-   "estimated_members": 295.0,
-   "monthly_net_confirmed": 38354,
-   "monthly_net_estimated": 91986
+   "estimated_members": 296.0,
+   "monthly_net_confirmed": 38665,
+   "monthly_net_estimated": 92298
   }
  ],
  "revenue": {
-  "monthly_low": 91986,
-  "monthly_est": 91986,
+  "monthly_low": 92298,
+  "monthly_est": 92298,
   "gift_once": 10914,
-  "total_low": 102900,
-  "total_est": 102900,
-  "paying_members": 295,
+  "total_low": 103212,
+  "total_est": 103212,
+  "paying_members": 296,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -277,6 +277,16 @@
    "member_chatters": 51,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "8fs_vH4OGUI",
+   "start": "2026-11-19 13:06",
+   "title": "【 League of Legends #LTK】お昼のスクリム【白那しずく / ネオポルテ】",
+   "kind": "配信",
+   "chatters": 63,
+   "member_chatters": 36,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -430,22 +440,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-19"
+    "to": "2026-11-20"
    },
-   "streams_analyzed": 11,
+   "streams_analyzed": 12,
    "streams_missed": 1,
-   "unique_chatters": 1518,
-   "members_confirmed": 302,
+   "unique_chatters": 1525,
+   "members_confirmed": 303,
    "member_classes": {
     "unknown": 164,
-    "known": 113,
+    "known": 114,
     "gift": 25
    },
    "long_term_members": 161,
    "badges": [
     {
      "months": 0,
-     "members": 41
+     "members": 42
     },
     {
      "months": 1,
@@ -453,11 +463,11 @@
     },
     {
      "months": 2,
-     "members": 34
+     "members": 33
     },
     {
      "months": 6,
-     "members": 42
+     "members": 43
     },
     {
      "months": 12,
@@ -469,7 +479,7 @@
     }
    ],
    "events": {
-    "new_members": 9,
+    "new_members": 10,
     "rejoins": 4,
     "milestones": 65,
     "gifted_total": 25
@@ -478,16 +488,16 @@
     {
      "tier": "メンバーシップ",
      "price": 490,
-     "confirmed_members": 113,
-     "estimated_members": 277.0
+     "confirmed_members": 114,
+     "estimated_members": 278.0
     }
    ],
    "revenue": {
-    "monthly_low": 86374,
-    "monthly_est": 86374,
+    "monthly_low": 86685,
+    "monthly_est": 86685,
     "gift_once": 7795
    },
-   "avg_member_chatters": 76,
+   "avg_member_chatters": 72.7,
    "partial": true,
    "finalized": false
   }

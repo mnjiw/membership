@@ -3,52 +3,52 @@
  "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
  "handle": "@YukihanaLamy",
  "subscribers": 1380000,
- "fetched_at": "2026-11-19 12:25",
- "generated_at": "2026-11-19 12:25",
+ "fetched_at": "2026-11-20 06:27",
+ "generated_at": "2026-11-20 06:30",
  "period": {
-  "from": "2026-10-20 12:25",
-  "to": "2026-11-19 12:25",
+  "from": "2026-10-21 06:27",
+  "to": "2026-11-20 06:27",
   "days": 30
  },
- "streams_analyzed": 8,
- "streams_missed": 3,
- "unique_chatters": 15978,
- "members_confirmed": 5260,
+ "streams_analyzed": 9,
+ "streams_missed": 2,
+ "unique_chatters": 16154,
+ "members_confirmed": 5323,
  "member_classes": {
-  "known": 2405,
-  "unknown": 2315,
+  "known": 2411,
+  "unknown": 2372,
   "gift": 540
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 857
+   "members": 880
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 93
+   "members": 95
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 391
+   "members": 397
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 515
+   "members": 516
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 848
+   "members": 857
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 509
+   "members": 515
   },
   {
    "months": 36,
@@ -58,18 +58,18 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 640
+   "members": 645
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 929
+   "members": 940
   }
  ],
  "events": {
-  "new_members": 190,
-  "rejoins": 107,
-  "milestones": 2400,
+  "new_members": 191,
+  "rejoins": 109,
+  "milestones": 2409,
   "gift_purchases": 117,
   "gifted_total": 579,
   "gift_redemptions": 546
@@ -80,21 +80,21 @@
    "tier": "もちもちだいふく",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 2405,
+   "confirmed_members": 2411,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2315.0,
-   "estimated_members": 4720.0,
-   "monthly_net_confirmed": 749923,
-   "monthly_net_estimated": 1471782
+   "allocated_unknown": 2372.0,
+   "estimated_members": 4783.0,
+   "monthly_net_confirmed": 751794,
+   "monthly_net_estimated": 1491426
   }
  ],
  "revenue": {
-  "monthly_low": 1471782,
-  "monthly_est": 1471782,
+  "monthly_low": 1491426,
+  "monthly_est": 1491426,
   "gift_once": 180543,
-  "total_low": 1652325,
-  "total_est": 1652325,
-  "paying_members": 4720,
+  "total_low": 1671969,
+  "total_est": 1671969,
+  "paying_members": 4783,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -182,21 +182,19 @@
    "member_chatters": 1593,
    "new_members": 2,
    "gifted_total": 12
+  },
+  {
+   "video_id": "MWxtOl16Dtw",
+   "start": "2026-11-18 22:00",
+   "title": "[Looking Back Chat] Looking back on \"BE BRAVER — Beyond the Path, Toward the Brilliance —\"!! [Yuk...",
+   "kind": "配信",
+   "chatters": 2021,
+   "member_chatters": 1437,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
-  {
-   "video_id": "b5U66onVI1E",
-   "start": "2026-10-20 22:02",
-   "title": "【メンバー限定】喉が終わり散らかしてる【雪花ラミィ /ホロライブ】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 1958,
-   "view_count": null
-  },
   {
    "video_id": "FG6gwtixrLc",
    "start": "2026-11-03 22:00",
@@ -218,22 +216,12 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 3607,
+   "like_count": 3613,
    "view_count": null
   }
  ],
  "members_only_content": [
   {
-   "video_id": "b5U66onVI1E",
-   "start": "2026-10-20 22:02",
-   "title": "【メンバー限定】喉が終わり散らかしてる【雪花ラミィ /ホロライブ】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 1958,
-   "view_count": null
-  },
-  {
    "video_id": "FG6gwtixrLc",
    "start": "2026-11-03 22:00",
    "title": "【メンバー限定】開通テスト！！【雪花ラミィ /ホロライブ】",
@@ -250,7 +238,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 3607,
+   "like_count": 3613,
    "view_count": null
   }
  ],
@@ -415,76 +403,76 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-19"
+    "to": "2026-11-20"
    },
-   "streams_analyzed": 6,
+   "streams_analyzed": 7,
    "streams_missed": 2,
-   "unique_chatters": 13701,
-   "members_confirmed": 4723,
+   "unique_chatters": 13922,
+   "members_confirmed": 4806,
    "member_classes": {
-    "known": 2222,
-    "unknown": 2096,
+    "known": 2234,
+    "unknown": 2167,
     "gift": 405
    },
-   "long_term_members": 3119,
+   "long_term_members": 3160,
    "badges": [
     {
      "months": 0,
-     "members": 707
+     "members": 731
     },
     {
      "months": 1,
-     "members": 88
+     "members": 91
     },
     {
      "months": 2,
-     "members": 341
+     "members": 352
     },
     {
      "months": 6,
-     "members": 468
+     "members": 472
     },
     {
      "months": 12,
-     "members": 760
+     "members": 775
     },
     {
      "months": 24,
-     "members": 476
+     "members": 482
     },
     {
      "months": 36,
-     "members": 441
+     "members": 443
     },
     {
      "months": 48,
-     "members": 564
+     "members": 571
     },
     {
      "months": 60,
-     "members": 878
+     "members": 889
     }
    ],
    "events": {
-    "new_members": 162,
-    "rejoins": 93,
-    "milestones": 1302,
+    "new_members": 163,
+    "rejoins": 95,
+    "milestones": 1311,
     "gifted_total": 439
    },
    "tiers": [
     {
      "tier": "もちもちだいふく",
      "price": 490,
-     "confirmed_members": 2222,
-     "estimated_members": 4318.0
+     "confirmed_members": 2234,
+     "estimated_members": 4401.0
     }
    ],
    "revenue": {
-    "monthly_low": 1346431,
-    "monthly_est": 1346431,
+    "monthly_low": 1372312,
+    "monthly_est": 1372312,
     "gift_once": 136888
    },
-   "avg_member_chatters": 1817.8,
+   "avg_member_chatters": 1763.4,
    "partial": true,
    "finalized": false
   }

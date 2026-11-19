@@ -3,37 +3,37 @@
  "channel_id": "UCTbEua7o1f8I7EMBQlLjTpQ",
  "handle": "@Shino_Kasukane",
  "subscribers": 30600,
- "fetched_at": "2026-11-19 12:27",
- "generated_at": "2026-11-19 12:27",
+ "fetched_at": "2026-11-20 06:46",
+ "generated_at": "2026-11-20 06:46",
  "period": {
-  "from": "2026-10-20 12:27",
-  "to": "2026-11-19 12:27",
+  "from": "2026-10-21 06:46",
+  "to": "2026-11-20 06:46",
   "days": 30
  },
- "streams_analyzed": 16,
+ "streams_analyzed": 17,
  "streams_missed": 1,
- "unique_chatters": 574,
- "members_confirmed": 214,
+ "unique_chatters": 558,
+ "members_confirmed": 203,
  "member_classes": {
-  "known": 51,
-  "unknown": 123,
-  "gift": 40
+  "unknown": 118,
+  "known": 50,
+  "gift": 35
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 34
+   "members": 29
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 11
+   "members": 9
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 32
+   "members": 31
   },
   {
    "months": 6,
@@ -43,16 +43,16 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 114
+   "members": 111
   }
  ],
  "events": {
-  "new_members": 1,
-  "rejoins": 1,
-  "milestones": 13,
-  "gift_purchases": 3,
-  "gifted_total": 30,
-  "gift_redemptions": 40
+  "new_members": 0,
+  "rejoins": 0,
+  "milestones": 11,
+  "gift_purchases": 2,
+  "gifted_total": 25,
+  "gift_redemptions": 35
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,21 +60,21 @@
    "tier": "しののヒトダマ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 51,
+   "confirmed_members": 50,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 123.0,
-   "estimated_members": 174.0,
-   "monthly_net_confirmed": 15903,
-   "monthly_net_estimated": 54256
+   "allocated_unknown": 118.0,
+   "estimated_members": 168.0,
+   "monthly_net_confirmed": 15591,
+   "monthly_net_estimated": 52385
   }
  ],
  "revenue": {
-  "monthly_low": 54256,
-  "monthly_est": 54256,
-  "gift_once": 9355,
-  "total_low": 63611,
-  "total_est": 63611,
-  "paying_members": 174,
+  "monthly_low": 52385,
+  "monthly_est": 52385,
+  "gift_once": 7795,
+  "total_low": 60181,
+  "total_est": 60181,
+  "paying_members": 168,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "SLl6OXlq4tA",
-   "start": "2026-10-20 23:01",
-   "title": "【#雑談】初全体ライブお疲れ様会！！ダッツ食べながら色々振り返り配信【幽音しの / ななしいんく】#shorts",
-   "kind": "配信",
-   "chatters": 144,
-   "member_chatters": 89,
-   "new_members": 1,
-   "gifted_total": 5
-  },
   {
    "video_id": "KwtJ8IP1OEQ",
    "start": "2026-10-23 22:00",
@@ -242,6 +232,26 @@
    "member_chatters": 60,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "vlI-nzWu7eQ",
+   "start": "2026-11-18 22:46",
+   "title": "【#apexlegends 】エペ！勝ちまくりということですね【幽音しの:ななしいんく】",
+   "kind": "配信",
+   "chatters": 46,
+   "member_chatters": 28,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "xF0M8YjdDOA",
+   "start": "2026-11-19 21:00",
+   "title": "【BOMBANANA!】#うるぱんおばけ の絆を試す時がきたのである。【幽音しの:ななしいんく】",
+   "kind": "配信",
+   "chatters": 46,
+   "member_chatters": 33,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -377,11 +387,11 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-19"
+    "to": "2026-11-20"
    },
-   "streams_analyzed": 9,
+   "streams_analyzed": 11,
    "streams_missed": 1,
-   "unique_chatters": 380,
+   "unique_chatters": 391,
    "members_confirmed": 155,
    "member_classes": {
     "unknown": 98,
@@ -430,7 +440,7 @@
     "monthly_est": 45214,
     "gift_once": 0
    },
-   "avg_member_chatters": 56.1,
+   "avg_member_chatters": 51.5,
    "partial": true,
    "finalized": false
   }

@@ -1083,8 +1083,8 @@
    "checked_at": "2026-10-28 12:47",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1795058926.8748028,
-   "likes_checked_at": "2026-11-19 12:28"
+   "likes_checked_ts": 1795125012.6542835,
+   "likes_checked_at": "2026-11-20 06:50"
   },
   "UbFPzctTRkM": {
    "id": "UbFPzctTRkM",
@@ -1275,15 +1275,15 @@
    "start_jst": "2026-11-13 00:29",
    "duration_sec": 5161,
    "view_count": null,
-   "like_count": 170,
+   "like_count": 172,
    "live_status": "post_live",
    "members_only": true,
    "has_chat": false,
    "checked_at": "2026-11-13 06:34",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1795058926.8748028,
-   "likes_checked_at": "2026-11-19 12:28"
+   "likes_checked_ts": 1795125012.6542835,
+   "likes_checked_at": "2026-11-20 06:50"
   },
   "Fuz7OI0sD-A": {
    "id": "Fuz7OI0sD-A",
@@ -1360,17 +1360,61 @@
   "dbzkM2GiwBs": {
    "id": "dbzkM2GiwBs",
    "title": "【スト6】おそスタートでもやるで賞【ぶいすぽっ！ #銀城サイネ 】",
-   "status": "error",
-   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
-   "failed_since_ts": 1795038328.6715653
+   "kind": "live",
+   "start_ts": 1795010539.0009181,
+   "start_jst": "2026-11-18 23:02",
+   "duration_sec": 12452,
+   "view_count": 84873,
+   "like_count": 1130,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-20 06:50",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
+  },
+  "WJhMrRT3aJg": {
+   "id": "WJhMrRT3aJg",
+   "title": "【スト6】っべ、寝れない【ぶいすぽっ！ #銀城サイネ 】",
+   "kind": "live",
+   "start_ts": 1795102220.730944,
+   "start_jst": "2026-11-20 00:30",
+   "duration_sec": 8319,
+   "view_count": 57663,
+   "like_count": 865,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-20 06:50",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
+  },
+  "gkpy96zXQuM": {
+   "id": "gkpy96zXQuM",
+   "title": "[#GuchaGacha] A surprise chat with someone I'm meeting for the first time!? Guest: Rito Usami [VS...",
+   "kind": "live",
+   "start_ts": 1795086127.852313,
+   "start_jst": "2026-11-19 20:02",
+   "duration_sec": 4530,
+   "view_count": 93334,
+   "like_count": 2222,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-20 06:50",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "銀城サイネ / Ginjo Saine",
  "channel_id": "UC2xXx1m1jeL0W84_0jTg-Yw",
  "handle": "@Saine_Ginjo",
- "subscribers": 212000,
- "fetched_at": "2026-11-19 12:28",
- "fetched_at_ts": 1795058926.8748028,
- "checked_from": "2026-11-12 12:28",
+ "subscribers": 213000,
+ "fetched_at": "2026-11-20 06:50",
+ "fetched_at_ts": 1795125012.6542835,
+ "checked_from": "2026-11-13 06:50",
  "initial_fetch_done": true
 }

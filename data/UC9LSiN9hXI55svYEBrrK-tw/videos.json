@@ -1106,8 +1106,8 @@
    "checked_at": "2026-10-27 16:12",
    "members_level": "響咲連合の溜まり場",
    "status": "members_only",
-   "likes_checked_ts": 1795058734.2083483,
-   "likes_checked_at": "2026-11-19 12:25"
+   "likes_checked_ts": 1795123951.1187787,
+   "likes_checked_at": "2026-11-20 06:32"
   },
   "EG9DEE9eKvw": {
    "id": "EG9DEE9eKvw",
@@ -1357,21 +1357,20 @@
   "MO-CjgI14os": {
    "id": "MO-CjgI14os",
    "title": "【R.E.P.O. 】今日もレポ！！今日は可愛いコスメ欲しい・・・【ホロライブ  響咲リオナ】",
-   "kind": "video",
+   "kind": "live",
    "start_ts": 1794754800.0,
    "start_jst": "2026-11-16 00:00",
    "duration_sec": null,
-   "view_count": 144486,
-   "like_count": 6037,
+   "view_count": 141283,
+   "like_count": 6055,
    "live_status": null,
    "members_only": false,
    "has_chat": false,
-   "checked_at": "2026-11-19 12:25",
+   "checked_at": "2026-11-20 06:33",
    "info_limited": true,
-   "error": "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)",
-   "tab": "live",
-   "status": "error",
-   "failed_since_ts": 1794864350.7309513
+   "settled_while_limited": true,
+   "rechecked_ts": 1795124010.1414876,
+   "status": "no_chat"
   },
   "wW7KkmEfDgw": {
    "id": "wW7KkmEfDgw",
@@ -1393,19 +1392,29 @@
   "QGfmzfkru00": {
    "id": "QGfmzfkru00",
    "title": "[Regular Stream #51] Wednesday (Thursday) at 12:00 PM is Lunch with Riona❤ [Hololive Hibikisaki R...",
-   "status": "error",
+   "kind": "live",
+   "start_ts": 1794970877.722171,
+   "start_jst": "2026-11-18 12:01",
+   "duration_sec": 4253,
+   "view_count": 63951,
+   "like_count": 3845,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-20 06:32",
+   "info_limited": true,
    "seen_live_at": "2026-11-18 12:47",
    "was_public_when_live": true,
-   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
-   "failed_since_ts": 1795037071.3814802
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "Riona Ch. 響咲リオナ - FLOW GLOW",
  "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
  "handle": "@IsakiRiona",
  "subscribers": 542000,
- "fetched_at": "2026-11-19 12:25",
- "fetched_at_ts": 1795058734.2083483,
- "checked_from": "2026-11-12 12:25",
+ "fetched_at": "2026-11-20 06:32",
+ "fetched_at_ts": 1795123951.1187787,
+ "checked_from": "2026-11-13 06:32",
  "initial_fetch_done": true
 }

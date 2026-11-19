@@ -589,8 +589,8 @@
    "checked_at": "2026-10-28 12:44",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1795058872.4050462,
-   "likes_checked_at": "2026-11-19 12:27"
+   "likes_checked_ts": 1795124825.733308,
+   "likes_checked_at": "2026-11-20 06:47"
   },
   "PrT5d5yRxJc": {
    "id": "PrT5d5yRxJc",
@@ -748,19 +748,29 @@
   "C-wjFVNl5gE": {
    "id": "C-wjFVNl5gE",
    "title": "【ゼルダの伝説 時のオカリナ リメイク #】はじめてゼルダするだ【ぶいすぽっ！/花芽すみれ2】",
-   "status": "error",
+   "kind": "live",
+   "start_ts": 1794958452.669298,
+   "start_jst": "2026-11-18 08:34",
+   "duration_sec": 21647,
+   "view_count": 148883,
+   "like_count": 2214,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-20 06:47",
+   "info_limited": true,
    "seen_live_at": "2026-11-18 12:49",
    "was_public_when_live": true,
-   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
-   "failed_since_ts": 1795037942.4937847
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "花芽すみれ / Kaga Sumire",
  "channel_id": "UCyLGcqYs7RsBb3L0SJfzGYA",
  "handle": "@KagaSumire",
  "subscribers": 755000,
- "fetched_at": "2026-11-19 12:27",
- "fetched_at_ts": 1795058872.4050462,
- "checked_from": "2026-11-12 12:27",
+ "fetched_at": "2026-11-20 06:47",
+ "fetched_at_ts": 1795124825.733308,
+ "checked_from": "2026-11-13 06:47",
  "initial_fetch_done": true
 }

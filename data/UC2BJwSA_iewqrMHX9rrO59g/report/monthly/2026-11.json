@@ -2,59 +2,60 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-19"
+  "to": "2026-11-20"
  },
- "streams_analyzed": 13,
+ "streams_analyzed": 14,
  "streams_missed": 1,
- "unique_chatters": 298,
- "members_confirmed": 117,
+ "unique_chatters": 318,
+ "members_confirmed": 135,
  "member_classes": {
-  "unknown": 101,
-  "known": 16
+  "unknown": 109,
+  "known": 17,
+  "gift": 9
  },
- "long_term_members": 7,
+ "long_term_members": 9,
  "badges": [
   {
    "months": 0,
-   "members": 46
+   "members": 56
   },
   {
    "months": 1,
-   "members": 21
+   "members": 22
   },
   {
    "months": 2,
-   "members": 18
+   "members": 22
   },
   {
    "months": 6,
-   "members": 25
+   "members": 26
   },
   {
    "months": 12,
-   "members": 7
+   "members": 9
   }
  ],
  "events": {
-  "new_members": 0,
+  "new_members": 1,
   "rejoins": 1,
   "milestones": 1,
-  "gifted_total": 0
+  "gifted_total": 9
  },
  "tiers": [
   {
    "tier": "鬼ノめるを救い隊",
    "price": 490,
-   "confirmed_members": 16,
-   "estimated_members": 117.0
+   "confirmed_members": 17,
+   "estimated_members": 126.0
   }
  ],
  "revenue": {
-  "monthly_low": 36483,
-  "monthly_est": 36483,
-  "gift_once": 0
+  "monthly_low": 39289,
+  "monthly_est": 39289,
+  "gift_once": 2806
  },
- "avg_member_chatters": 27,
+ "avg_member_chatters": 28.8,
  "partial": true,
  "finalized": false
 }

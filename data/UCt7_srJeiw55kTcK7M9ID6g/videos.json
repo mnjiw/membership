@@ -564,8 +564,8 @@
    "checked_at": "2026-10-22 11:08",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1795058946.709187,
-   "likes_checked_at": "2026-11-19 12:29"
+   "likes_checked_ts": 1795125063.9775558,
+   "likes_checked_at": "2026-11-20 06:51"
   },
   "qhywa5iAdy4": {
    "id": "qhywa5iAdy4",
@@ -828,8 +828,8 @@
    "checked_at": "2026-11-07 06:32",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1795058946.709187,
-   "likes_checked_at": "2026-11-19 12:29"
+   "likes_checked_ts": 1795125063.9775558,
+   "likes_checked_at": "2026-11-20 06:51"
   },
   "ITbFIFdESWI": {
    "id": "ITbFIFdESWI",
@@ -878,23 +878,51 @@
    "checked_at": "2026-11-14 06:42",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1795058946.709187,
-   "likes_checked_at": "2026-11-19 12:29"
+   "likes_checked_ts": 1795125063.9775558,
+   "likes_checked_at": "2026-11-20 06:51"
   },
   "uafKHRm6hAM": {
    "id": "uafKHRm6hAM",
    "title": "I realized something.",
-   "status": "error",
-   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
-   "failed_since_ts": 1795038474.6535387
+   "kind": "live",
+   "start_ts": 1795010473.316902,
+   "start_jst": "2026-11-18 23:01",
+   "duration_sec": 2745,
+   "view_count": 19769,
+   "like_count": 900,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-20 06:51",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
+  },
+  "o-1gfMDjEhU": {
+   "id": "o-1gfMDjEhU",
+   "title": "ねぇねぇたまっ子～",
+   "kind": "live",
+   "start_ts": 1795093240,
+   "start_jst": "2026-11-19 22:00",
+   "duration_sec": 6686,
+   "view_count": null,
+   "like_count": 150,
+   "live_status": "was_live",
+   "members_only": true,
+   "has_chat": false,
+   "checked_at": "2026-11-20 06:51",
+   "members_level": "",
+   "status": "members_only",
+   "likes_checked_ts": 1795125063.9775558,
+   "likes_checked_at": "2026-11-20 06:51"
   }
  },
  "channel": "たまこ。Ch./あおぎり高校",
  "channel_id": "UCt7_srJeiw55kTcK7M9ID6g",
  "handle": "@tamako0212",
  "subscribers": 535000,
- "fetched_at": "2026-11-19 12:29",
- "fetched_at_ts": 1795058946.709187,
- "checked_from": "2026-11-12 12:29",
+ "fetched_at": "2026-11-20 06:51",
+ "fetched_at_ts": 1795125063.9775558,
+ "checked_from": "2026-11-13 06:51",
  "initial_fetch_done": true
 }

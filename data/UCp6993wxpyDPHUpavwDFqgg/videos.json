@@ -1071,17 +1071,27 @@
   "W9sdsmlryIg": {
    "id": "W9sdsmlryIg",
    "title": "【歌とか楽器】歌うならピアノかアカペラになるでしょう【ときのそら/ホロライブ】",
-   "status": "error",
-   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
-   "failed_since_ts": 1795036696.2550144
+   "kind": "live",
+   "start_ts": 1795010373.223903,
+   "start_jst": "2026-11-18 22:59",
+   "duration_sec": 7215,
+   "view_count": 97841,
+   "like_count": 5168,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-20 06:18",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "SoraCh. ときのそらチャンネル",
  "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
  "handle": "@TokinoSora",
  "subscribers": 1360000,
- "fetched_at": "2026-11-19 12:24",
- "fetched_at_ts": 1795058665.1704617,
- "checked_from": "2026-11-12 12:24",
+ "fetched_at": "2026-11-20 06:18",
+ "fetched_at_ts": 1795123116.2741559,
+ "checked_from": "2026-11-13 06:18",
  "initial_fetch_done": true
 }

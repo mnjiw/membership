@@ -572,8 +572,8 @@
    "checked_at": "2026-10-31 16:01",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1795058709.7486408,
-   "likes_checked_at": "2026-11-19 12:25"
+   "likes_checked_ts": 1795123701.761568,
+   "likes_checked_at": "2026-11-20 06:28"
   },
   "4TPnIUDDlAo": {
    "id": "4TPnIUDDlAo",
@@ -678,17 +678,44 @@
   "wkgcandT76I": {
    "id": "wkgcandT76I",
    "title": "死んだらキャラが消える協力型ゾンビサバイボー！－No More Room in Hell 2【獅白ぼたん/ホロライブ】",
-   "status": "error",
-   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
-   "failed_since_ts": 1795036924.1984658
+   "kind": "live",
+   "start_ts": 1794999709.351033,
+   "start_jst": "2026-11-18 20:01",
+   "duration_sec": 8606,
+   "view_count": 225046,
+   "like_count": 6344,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-20 06:28",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
+  },
+  "dNI9zh3zq_Q": {
+   "id": "dNI9zh3zq_Q",
+   "title": "アンノウン・マザーグース / 獅白ぼたん(cover)",
+   "kind": "premiere",
+   "start_ts": 1795078926.031084,
+   "start_jst": "2026-11-19 18:02",
+   "duration_sec": 296,
+   "view_count": 60527,
+   "like_count": 6311,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-20 06:29",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "Botan Ch.獅白ぼたん",
  "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
  "handle": "@ShishiroBotan",
  "subscribers": 1590000,
- "fetched_at": "2026-11-19 12:25",
- "fetched_at_ts": 1795058709.7486408,
- "checked_from": "2026-11-12 12:25",
+ "fetched_at": "2026-11-20 06:28",
+ "fetched_at_ts": 1795123701.761568,
+ "checked_from": "2026-11-13 06:28",
  "initial_fetch_done": true
 }

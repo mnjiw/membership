@@ -386,17 +386,27 @@
   "KrkWpzWknMc": {
    "id": "KrkWpzWknMc",
    "title": "【Hololive Dreams / #ホロドリ】NEW GACHA? IRyS EVENT? NEW SONG?! IRySイベントも新曲も出た！！ガチャも回すぞ！！",
-   "status": "error",
-   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
-   "failed_since_ts": 1795037452.681764
+   "kind": "live",
+   "start_ts": 1795003258.835388,
+   "start_jst": "2026-11-18 21:00",
+   "duration_sec": 12559,
+   "view_count": 122372,
+   "like_count": 5805,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-20 06:40",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "IRyS Ch. hololive",
  "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
  "handle": "@IRyS",
  "subscribers": 1150000,
- "fetched_at": "2026-11-19 12:26",
- "fetched_at_ts": 1795058790.1087646,
- "checked_from": "2026-11-12 12:26",
+ "fetched_at": "2026-11-20 06:40",
+ "fetched_at_ts": 1795124438.4844959,
+ "checked_from": "2026-11-13 06:40",
  "initial_fetch_done": true
 }

@@ -3,16 +3,16 @@
  "channel_id": "UCCra1t-eIlO3ULyXQQMD9Xw",
  "handle": "@RemiaAotsuki",
  "subscribers": 81600,
- "fetched_at": "2026-11-19 12:28",
- "generated_at": "2026-11-19 12:29",
+ "fetched_at": "2026-11-20 06:50",
+ "generated_at": "2026-11-20 06:50",
  "period": {
-  "from": "2026-10-20 12:28",
-  "to": "2026-11-19 12:28",
+  "from": "2026-10-21 06:50",
+  "to": "2026-11-20 06:50",
   "days": 30
  },
  "streams_analyzed": 24,
- "streams_missed": 1,
- "unique_chatters": 536,
+ "streams_missed": 2,
+ "unique_chatters": 553,
  "members_confirmed": 110,
  "member_classes": {
   "unknown": 75,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "syFDOicouLc",
-   "start": "2026-10-20 23:03",
-   "title": "【ESCAPE SIMULATOR】 ..but spooky workshop maps w/ @MukuMamai   👻 【#VSPOEN #RemiaAotsuki】",
-   "kind": "配信",
-   "chatters": 39,
-   "member_chatters": 25,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "UGaNZi9t-jM",
    "start": "2026-10-22 03:01",
@@ -322,6 +312,16 @@
    "member_chatters": 50,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "HiFHUN4NW7I",
+   "start": "2026-11-19 01:38",
+   "title": "【Counter-Strike 2】 Must feed my chicken!! | Premier【#VSPOEN #RemiaAotsuki】",
+   "kind": "配信",
+   "chatters": 83,
+   "member_chatters": 35,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -336,6 +336,18 @@
    "members_level": "",
    "like_count": 22,
    "view_count": null
+  },
+  {
+   "video_id": "45nB48NyRPM",
+   "start": "2026-11-19 00:00",
+   "title": "【SOMA: part 1】 first time sci-fi horror 【#VSPOEN #RemiaAotsuki】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 327,
+   "view_count": 4551
   }
  ],
  "members_only_content": [
@@ -476,11 +488,11 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-19"
+    "to": "2026-11-20"
    },
-   "streams_analyzed": 14,
-   "streams_missed": 1,
-   "unique_chatters": 384,
+   "streams_analyzed": 15,
+   "streams_missed": 2,
+   "unique_chatters": 402,
    "members_confirmed": 87,
    "member_classes": {
     "known": 25,
@@ -528,7 +540,7 @@
     "monthly_est": 27128,
     "gift_once": 0
    },
-   "avg_member_chatters": 32.4,
+   "avg_member_chatters": 32.5,
    "partial": true,
    "finalized": false
   }

@@ -799,17 +799,34 @@
   "XJOBPzUgFGQ": {
    "id": "XJOBPzUgFGQ",
    "title": "【SLAY THE SPIRE II】takotori slaying time!!  #kfp #キアライブ",
-   "status": "error",
-   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
-   "failed_since_ts": 1795058786.4462082
+   "kind": "live",
+   "start_ts": 1795042813.82003,
+   "start_jst": "2026-11-19 08:00",
+   "duration_sec": 9735,
+   "view_count": 77356,
+   "like_count": 4234,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-20 06:40",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
+  },
+  "MosFAcoztMI": {
+   "id": "MosFAcoztMI",
+   "title": "【GTA VI】FIRST TIME IN FLORIDA! where are the lion fish #kfp #キアライブ",
+   "status": "live_now",
+   "seen_live_at": "2026-11-20 06:40",
+   "was_public_when_live": true
   }
  },
  "channel": "Takanashi Kiara Ch. hololive",
  "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
  "handle": "@TakanashiKiara",
  "subscribers": 1650000,
- "fetched_at": "2026-11-19 12:26",
- "fetched_at_ts": 1795058786.4462082,
- "checked_from": "2026-11-12 12:26",
+ "fetched_at": "2026-11-20 06:40",
+ "fetched_at_ts": 1795124408.525762,
+ "checked_from": "2026-11-13 06:40",
  "initial_fetch_done": true
 }

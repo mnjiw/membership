@@ -3,36 +3,36 @@
  "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
  "handle": "@SuzunaTsuzuri",
  "subscribers": 380000,
- "fetched_at": "2026-11-19 12:25",
- "generated_at": "2026-11-19 12:26",
+ "fetched_at": "2026-11-20 06:37",
+ "generated_at": "2026-11-20 06:39",
  "period": {
-  "from": "2026-10-20 12:25",
-  "to": "2026-11-19 12:25",
+  "from": "2026-10-21 06:37",
+  "to": "2026-11-20 06:37",
   "days": 30
  },
- "streams_analyzed": 23,
+ "streams_analyzed": 24,
  "streams_missed": 2,
- "unique_chatters": 21823,
- "members_confirmed": 6157,
+ "unique_chatters": 21964,
+ "members_confirmed": 6177,
  "member_classes": {
-  "unknown": 2858,
-  "known": 2637,
-  "gift": 662
+  "unknown": 2874,
+  "known": 2640,
+  "gift": 663
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 6157
+   "members": 6177
   }
  ],
  "events": {
-  "new_members": 2644,
+  "new_members": 2648,
   "rejoins": 0,
   "milestones": 0,
-  "gift_purchases": 105,
-  "gifted_total": 717,
-  "gift_redemptions": 662
+  "gift_purchases": 106,
+  "gifted_total": 718,
+  "gift_redemptions": 663
  },
  "tiers_configured": true,
  "tiers": [
@@ -40,21 +40,21 @@
    "tier": "つづり郵便局",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 2637,
+   "confirmed_members": 2640,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2858.0,
-   "estimated_members": 5495.0,
-   "monthly_net_confirmed": 822265,
-   "monthly_net_estimated": 1713441
+   "allocated_unknown": 2874.0,
+   "estimated_members": 5514.0,
+   "monthly_net_confirmed": 823200,
+   "monthly_net_estimated": 1719365
   }
  ],
  "revenue": {
-  "monthly_low": 1713441,
-  "monthly_est": 1713441,
-  "gift_once": 223574,
-  "total_low": 1937015,
-  "total_est": 1937015,
-  "paying_members": 5495,
+  "monthly_low": 1719365,
+  "monthly_est": 1719365,
+  "gift_once": 223885,
+  "total_low": 1943251,
+  "total_est": 1943251,
+  "paying_members": 5514,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -292,6 +292,16 @@
    "member_chatters": 1197,
    "new_members": 8,
    "gifted_total": 0
+  },
+  {
+   "video_id": "QWdN0b96eRk",
+   "start": "2026-11-18 21:59",
+   "title": "【時のオカリナ  リメイク】#ゼルダの伝説#６  ついに３つそろった...対戦するのか！？【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+   "kind": "配信",
+   "chatters": 1710,
+   "member_chatters": 925,
+   "new_members": 4,
+   "gifted_total": 1
   }
  ],
  "missed_streams": [
@@ -316,7 +326,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "つづり郵便局",
-   "like_count": 2210,
+   "like_count": 2213,
    "view_count": null
   }
  ],
@@ -328,7 +338,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "つづり郵便局",
-   "like_count": 2210,
+   "like_count": 2213,
    "view_count": null
   }
  ],
@@ -409,44 +419,44 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-19"
+    "to": "2026-11-20"
    },
-   "streams_analyzed": 14,
+   "streams_analyzed": 15,
    "streams_missed": 0,
-   "unique_chatters": 13781,
-   "members_confirmed": 3892,
+   "unique_chatters": 13958,
+   "members_confirmed": 3920,
    "member_classes": {
-    "known": 1463,
-    "unknown": 2342,
-    "gift": 87
+    "known": 1468,
+    "unknown": 2364,
+    "gift": 88
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 3892
+     "members": 3920
     }
    ],
    "events": {
-    "new_members": 238,
+    "new_members": 242,
     "rejoins": 0,
     "milestones": 0,
-    "gifted_total": 117
+    "gifted_total": 118
    },
    "tiers": [
     {
      "tier": "つづり郵便局",
      "price": 490,
-     "confirmed_members": 1463,
-     "estimated_members": 3805.0
+     "confirmed_members": 1468,
+     "estimated_members": 3832.0
     }
    ],
    "revenue": {
-    "monthly_low": 1186468,
-    "monthly_est": 1186468,
-    "gift_once": 36483
+    "monthly_low": 1194887,
+    "monthly_est": 1194887,
+    "gift_once": 36795
    },
-   "avg_member_chatters": 1250.6,
+   "avg_member_chatters": 1228.9,
    "partial": true,
    "finalized": false
   }

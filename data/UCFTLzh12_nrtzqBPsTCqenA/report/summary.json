@@ -3,66 +3,66 @@
  "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
  "handle": "@AkiRosenthal",
  "subscribers": 1040000,
- "fetched_at": "2026-11-19 06:18",
- "generated_at": "2026-11-19 06:18",
+ "fetched_at": "2026-11-20 06:18",
+ "generated_at": "2026-11-20 06:18",
  "period": {
-  "from": "2026-10-20 06:18",
-  "to": "2026-11-19 06:18",
+  "from": "2026-10-21 06:18",
+  "to": "2026-11-20 06:18",
   "days": 30
  },
- "streams_analyzed": 8,
+ "streams_analyzed": 6,
  "streams_missed": 0,
- "unique_chatters": 2062,
- "members_confirmed": 749,
+ "unique_chatters": 1383,
+ "members_confirmed": 604,
  "member_classes": {
-  "unknown": 612,
-  "known": 50,
-  "gift": 87
+  "known": 38,
+  "unknown": 496,
+  "gift": 70
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 103
+   "members": 79
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 9
+   "members": 7
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 22
+   "members": 17
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 53
+   "members": 42
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 123
+   "members": 96
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 165
+   "members": 131
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 274
+   "members": 232
   }
  ],
  "events": {
-  "new_members": 6,
+  "new_members": 4,
   "rejoins": 1,
-  "milestones": 9,
-  "gift_purchases": 19,
-  "gifted_total": 89,
-  "gift_redemptions": 87
+  "milestones": 6,
+  "gift_purchases": 15,
+  "gifted_total": 72,
+  "gift_redemptions": 70
  },
  "tiers_configured": true,
  "tiers": [
@@ -70,21 +70,21 @@
    "tier": "ロゼ隊の宿付き酒場",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 50,
+   "confirmed_members": 38,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 612.0,
-   "estimated_members": 662.0,
-   "monthly_net_confirmed": 15591,
-   "monthly_net_estimated": 206424
+   "allocated_unknown": 496.0,
+   "estimated_members": 534.0,
+   "monthly_net_confirmed": 11849,
+   "monthly_net_estimated": 166511
   }
  ],
  "revenue": {
-  "monthly_low": 206424,
-  "monthly_est": 206424,
-  "gift_once": 27752,
-  "total_low": 234175,
-  "total_est": 234175,
-  "paying_members": 662,
+  "monthly_low": 166511,
+  "monthly_est": 166511,
+  "gift_once": 22451,
+  "total_low": 188962,
+  "total_est": 188962,
+  "paying_members": 534,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -93,26 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "mqbSYtp8auE",
-   "start": "2026-10-20 23:06",
-   "title": "【ホロライブドリームス】 釣り対決！w/アーニャ、ちょこ先 #ホロドリ【ホロライブ/アキロゼ】",
-   "kind": "配信",
-   "chatters": 363,
-   "member_chatters": 221,
-   "new_members": 0,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "nNAjbIxlmDA",
-   "start": "2026-10-21 01:01",
-   "title": "【 #ホロ鯖ARK 】DAY12│拠点大整理とダエオドン！からの洞窟！【ホロライブ/アキロゼ】",
-   "kind": "配信",
-   "chatters": 952,
-   "member_chatters": 344,
-   "new_members": 2,
-   "gifted_total": 17
-  },
   {
    "video_id": "-0sau-6cD0s",
    "start": "2026-10-21 21:32",
@@ -321,7 +301,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-19"
+    "to": "2026-11-20"
    },
    "streams_analyzed": 4,
    "streams_missed": 0,

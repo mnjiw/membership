@@ -803,8 +803,8 @@
    "checked_at": "2026-10-22 11:03",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1795058821.4948647,
-   "likes_checked_at": "2026-11-19 12:27"
+   "likes_checked_ts": 1795124548.11395,
+   "likes_checked_at": "2026-11-20 06:42"
   },
   "dcconMQ_PLk": {
    "id": "dcconMQ_PLk",
@@ -898,8 +898,8 @@
    "checked_at": "2026-11-04 06:38",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1795058821.4948647,
-   "likes_checked_at": "2026-11-19 12:27"
+   "likes_checked_ts": 1795124548.11395,
+   "likes_checked_at": "2026-11-20 06:42"
   },
   "BcEaUcxlAiI": {
    "id": "BcEaUcxlAiI",
@@ -1108,17 +1108,44 @@
   "I6MbGA9P6w8": {
    "id": "I6MbGA9P6w8",
    "title": "【雀魂】葬送のフリーレンコラボきちゃああああああああああああああ【因幡はねる / ななしいんく】",
-   "status": "error",
-   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
-   "failed_since_ts": 1795037649.4899347
+   "kind": "live",
+   "start_ts": 1795010410.230909,
+   "start_jst": "2026-11-18 23:00",
+   "duration_sec": 4063,
+   "view_count": 14136,
+   "like_count": 367,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-20 06:42",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
+  },
+  "akYfpMv6GGo": {
+   "id": "akYfpMv6GGo",
+   "title": "【METAL GEAR SOLID 4】本日最終回！おじいちゃんは大切に【因幡はねる / ななしいんく】",
+   "kind": "live",
+   "start_ts": 1795093240.336355,
+   "start_jst": "2026-11-19 22:00",
+   "duration_sec": 8141,
+   "view_count": 10127,
+   "like_count": 383,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-20 06:42",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "因幡はねる / Haneru Channel【ななしいんく】",
  "channel_id": "UC0Owc36U9lOyi9Gx9Ic-4qg",
  "handle": "@Inaba_Haneru",
  "subscribers": 378000,
- "fetched_at": "2026-11-19 12:27",
- "fetched_at_ts": 1795058821.4948647,
- "checked_from": "2026-11-12 12:27",
+ "fetched_at": "2026-11-20 06:42",
+ "fetched_at_ts": 1795124548.11395,
+ "checked_from": "2026-11-13 06:42",
  "initial_fetch_done": true
 }

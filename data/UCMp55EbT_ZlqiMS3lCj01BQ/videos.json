@@ -318,8 +318,8 @@
    "checked_at": "2026-10-17 14:46",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1795058891.3093953,
-   "likes_checked_at": "2026-11-19 12:28"
+   "likes_checked_ts": 1795124916.0394633,
+   "likes_checked_at": "2026-11-20 06:48"
   },
   "IDTdACI1Cvg": {
    "id": "IDTdACI1Cvg",
@@ -437,17 +437,27 @@
   "tkeC2easQJE": {
    "id": "tkeC2easQJE",
    "title": "【APEX】たまにはえぺでもやりますか【ぶいすぽっ！/神成きゅぴ】",
-   "status": "error",
-   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
-   "failed_since_ts": 1795038042.0030205
+   "kind": "live",
+   "start_ts": 1794983588.005405,
+   "start_jst": "2026-11-18 15:33",
+   "duration_sec": 17598,
+   "view_count": 151407,
+   "like_count": null,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-20 06:48",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "神成きゅぴ / Kaminari Qpi",
  "channel_id": "UCMp55EbT_ZlqiMS3lCj01BQ",
  "handle": "@KaminariQpi",
  "subscribers": 494000,
- "fetched_at": "2026-11-19 12:28",
- "fetched_at_ts": 1795058891.3093953,
- "checked_from": "2026-11-12 12:28",
+ "fetched_at": "2026-11-20 06:48",
+ "fetched_at_ts": 1795124916.0394633,
+ "checked_from": "2026-11-13 06:48",
  "initial_fetch_done": true
 }

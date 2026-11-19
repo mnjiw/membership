@@ -427,8 +427,8 @@
    "checked_at": "2026-10-31 16:36",
    "members_level": "Otako",
    "status": "members_only",
-   "likes_checked_ts": 1795058789.2170715,
-   "likes_checked_at": "2026-11-19 12:26"
+   "likes_checked_ts": 1795124415.581075,
+   "likes_checked_at": "2026-11-20 06:40"
   },
   "9MXWNiM2aVg": {
    "id": "9MXWNiM2aVg",
@@ -484,24 +484,44 @@
   "RHN2OjNmTzU": {
    "id": "RHN2OjNmTzU",
    "title": "【Deep Dish Dungeon】WE ARE HUNGRY @KosekiBijou @holoen_ceciliaimmergreen",
-   "status": "error",
-   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
-   "failed_since_ts": 1795037452.3031762
+   "kind": "live",
+   "start_ts": 1795006942.247423,
+   "start_jst": "2026-11-18 22:02",
+   "duration_sec": 10219,
+   "view_count": 133275,
+   "like_count": 6616,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-20 06:41",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
   },
   "9WH8DMp3iOc": {
    "id": "9WH8DMp3iOc",
    "title": "【Slay the Spire 2】WAH and WAHWAH!!!",
-   "status": "error",
-   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
-   "failed_since_ts": 1795058789.2170715
+   "kind": "live",
+   "start_ts": 1795042805.973603,
+   "start_jst": "2026-11-19 08:00",
+   "duration_sec": 9708,
+   "view_count": 134356,
+   "like_count": 5536,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-20 06:40",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "Ninomae Ina'nis Ch. hololive",
  "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
  "handle": "@NinomaeInanis",
  "subscribers": 1680000,
- "fetched_at": "2026-11-19 12:26",
- "fetched_at_ts": 1795058789.2170715,
- "checked_from": "2026-11-12 12:26",
+ "fetched_at": "2026-11-20 06:40",
+ "fetched_at_ts": 1795124415.581075,
+ "checked_from": "2026-11-13 06:40",
  "initial_fetch_done": true
 }

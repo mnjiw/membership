@@ -3,71 +3,71 @@
  "channel_id": "UCIjdfjcSaEgdjwbgjxC3ZWg",
  "handle": "@tsuna_nekota",
  "subscribers": 672000,
- "fetched_at": "2026-11-19 12:28",
- "generated_at": "2026-11-19 12:28",
+ "fetched_at": "2026-11-20 06:49",
+ "generated_at": "2026-11-20 06:49",
  "period": {
-  "from": "2026-10-20 12:28",
-  "to": "2026-11-19 12:28",
+  "from": "2026-10-21 06:49",
+  "to": "2026-11-20 06:49",
   "days": 30
  },
- "streams_analyzed": 21,
+ "streams_analyzed": 20,
  "streams_missed": 1,
- "unique_chatters": 5473,
- "members_confirmed": 1461,
+ "unique_chatters": 5207,
+ "members_confirmed": 1333,
  "member_classes": {
-  "unknown": 1284,
-  "known": 166,
-  "gift": 11
+  "unknown": 1186,
+  "known": 141,
+  "gift": 6
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 151
+   "members": 125
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 52
+   "members": 47
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 166
+   "members": 152
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 206
+   "members": 184
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 305
+   "members": 285
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 218
+   "members": 202
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 142
+   "members": 135
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 221
+   "members": 203
   }
  ],
  "events": {
-  "new_members": 87,
-  "rejoins": 43,
+  "new_members": 62,
+  "rejoins": 38,
   "milestones": 0,
-  "gift_purchases": 3,
-  "gifted_total": 11,
-  "gift_redemptions": 11
+  "gift_purchases": 2,
+  "gifted_total": 6,
+  "gift_redemptions": 6
  },
  "tiers_configured": true,
  "tiers": [
@@ -75,21 +75,21 @@
    "tier": "つな友",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 166,
+   "confirmed_members": 141,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1284.0,
-   "estimated_members": 1450.0,
-   "monthly_net_confirmed": 51762,
-   "monthly_net_estimated": 452136
+   "allocated_unknown": 1186.0,
+   "estimated_members": 1327.0,
+   "monthly_net_confirmed": 43966,
+   "monthly_net_estimated": 413783
   }
  ],
  "revenue": {
-  "monthly_low": 452136,
-  "monthly_est": 452136,
-  "gift_once": 3430,
-  "total_low": 455566,
-  "total_est": 455566,
-  "paying_members": 1450,
+  "monthly_low": 413783,
+  "monthly_est": 413783,
+  "gift_once": 1871,
+  "total_low": 415654,
+  "total_est": 415654,
+  "paying_members": 1327,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,26 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "18VWP8rC3KM",
-   "start": "2026-10-20 17:30",
-   "title": "【歌枠】秋がやってきたよー！秋の曲歌いたい！#秋を奏でる歌枠リレー【ぶいすぽ / 猫汰つな】",
-   "kind": "配信",
-   "chatters": 515,
-   "member_chatters": 280,
-   "new_members": 1,
-   "gifted_total": 5
-  },
-  {
-   "video_id": "PTL-ZkyrSPA",
-   "start": "2026-10-20 22:31",
-   "title": "世にも珍しい夜雑【ぶいすぽ / 猫汰つな】",
-   "kind": "配信",
-   "chatters": 1001,
-   "member_chatters": 479,
-   "new_members": 25,
-   "gifted_total": 0
-  },
   {
    "video_id": "aXFhOzh_PUg",
    "start": "2026-10-21 20:02",
@@ -307,6 +287,16 @@
    "member_chatters": 293,
    "new_members": 2,
    "gifted_total": 1
+  },
+  {
+   "video_id": "OajHjyLE6PE",
+   "start": "2026-11-18 14:47",
+   "title": "【なんかやる】３週間銃撃ってないってよ【ぶいすぽ / 猫汰つな】",
+   "kind": "配信",
+   "chatters": 704,
+   "member_chatters": 266,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -476,55 +466,55 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-19"
+    "to": "2026-11-20"
    },
-   "streams_analyzed": 10,
+   "streams_analyzed": 11,
    "streams_missed": 0,
-   "unique_chatters": 3349,
-   "members_confirmed": 991,
+   "unique_chatters": 3673,
+   "members_confirmed": 1038,
    "member_classes": {
-    "unknown": 890,
-    "known": 95,
+    "unknown": 933,
+    "known": 99,
     "gift": 6
    },
-   "long_term_members": 613,
+   "long_term_members": 644,
    "badges": [
     {
      "months": 0,
-     "members": 92
+     "members": 95
     },
     {
      "months": 1,
-     "members": 35
+     "members": 37
     },
     {
      "months": 2,
-     "members": 112
+     "members": 118
     },
     {
      "months": 6,
-     "members": 139
+     "members": 144
     },
     {
      "months": 12,
-     "members": 229
+     "members": 234
     },
     {
      "months": 24,
-     "members": 142
+     "members": 153
     },
     {
      "months": 36,
-     "members": 97
+     "members": 103
     },
     {
      "months": 48,
-     "members": 145
+     "members": 154
     }
    ],
    "events": {
-    "new_members": 38,
-    "rejoins": 18,
+    "new_members": 39,
+    "rejoins": 19,
     "milestones": 0,
     "gifted_total": 6
    },
@@ -532,16 +522,16 @@
     {
      "tier": "つな友",
      "price": 490,
-     "confirmed_members": 95,
-     "estimated_members": 985.0
+     "confirmed_members": 99,
+     "estimated_members": 1032.0
     }
    ],
    "revenue": {
-    "monthly_low": 307141,
-    "monthly_est": 307141,
+    "monthly_low": 321796,
+    "monthly_est": 321796,
     "gift_once": 1871
    },
-   "avg_member_chatters": 248.7,
+   "avg_member_chatters": 250.3,
    "partial": true,
    "finalized": false
   }

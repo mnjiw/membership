@@ -3,37 +3,37 @@
  "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
  "handle": "@ShiroganeNoel",
  "subscribers": 2060000,
- "fetched_at": "2026-11-19 12:24",
- "generated_at": "2026-11-19 12:25",
+ "fetched_at": "2026-11-20 06:26",
+ "generated_at": "2026-11-20 06:27",
  "period": {
-  "from": "2026-10-20 12:24",
-  "to": "2026-11-19 12:24",
+  "from": "2026-10-21 06:26",
+  "to": "2026-11-20 06:26",
   "days": 30
  },
  "streams_analyzed": 21,
  "streams_missed": 1,
- "unique_chatters": 11883,
- "members_confirmed": 2213,
+ "unique_chatters": 11691,
+ "members_confirmed": 2203,
  "member_classes": {
-  "known": 388,
-  "unknown": 1630,
-  "gift": 195
+  "known": 376,
+  "unknown": 1637,
+  "gift": 190
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 321
+   "members": 311
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 44
+   "members": 43
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 133
+   "members": 130
   },
   {
    "months": 6,
@@ -43,36 +43,36 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 367
+   "members": 368
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 305
+   "members": 304
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 293
+   "members": 292
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 216
+   "members": 217
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 330
+   "members": 334
   }
  ],
  "events": {
-  "new_members": 116,
-  "rejoins": 61,
-  "milestones": 132,
-  "gift_purchases": 46,
-  "gifted_total": 196,
-  "gift_redemptions": 195
+  "new_members": 104,
+  "rejoins": 55,
+  "milestones": 128,
+  "gift_purchases": 45,
+  "gifted_total": 191,
+  "gift_redemptions": 190
  },
  "tiers_configured": true,
  "tiers": [
@@ -80,21 +80,21 @@
    "tier": "白銀愛好会",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 388,
+   "confirmed_members": 376,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1630.0,
-   "estimated_members": 2018.0,
-   "monthly_net_confirmed": 120985,
-   "monthly_net_estimated": 629249
+   "allocated_unknown": 1637.0,
+   "estimated_members": 2013.0,
+   "monthly_net_confirmed": 117244,
+   "monthly_net_estimated": 627690
   }
  ],
  "revenue": {
-  "monthly_low": 629249,
-  "monthly_est": 629249,
-  "gift_once": 61116,
-  "total_low": 690365,
-  "total_est": 690365,
-  "paying_members": 2018,
+  "monthly_low": 627690,
+  "monthly_est": 627690,
+  "gift_once": 59557,
+  "total_low": 687247,
+  "total_est": 687247,
+  "paying_members": 2013,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -103,16 +103,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "UlWtKMIFG1g",
-   "start": "2026-10-20 18:00",
-   "title": "【ホロ鯖ARK】本当に今度こそ拠点を★ひろげ隊【白銀ノエル/ホロライブ】",
-   "kind": "配信",
-   "chatters": 2776,
-   "member_chatters": 699,
-   "new_members": 12,
-   "gifted_total": 5
-  },
   {
    "video_id": "tqpAhwF-yU4",
    "start": "2026-10-21 16:34",
@@ -312,6 +302,16 @@
    "member_chatters": 628,
    "new_members": 3,
    "gifted_total": 16
+  },
+  {
+   "video_id": "IhTQFdOE6Sc",
+   "start": "2026-11-18 12:01",
+   "title": "【ホロドリ】ぺこらっちょガチャきた～！！お昼休みにガチャする太郎！！【白銀ノエル/ホロライブ】",
+   "kind": "配信",
+   "chatters": 1331,
+   "member_chatters": 439,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -324,7 +324,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 1146,
+   "like_count": 1147,
    "view_count": null
   }
  ],
@@ -336,7 +336,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 1146,
+   "like_count": 1147,
    "view_count": null
   }
  ],
@@ -501,76 +501,76 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-19"
+    "to": "2026-11-20"
    },
-   "streams_analyzed": 9,
+   "streams_analyzed": 10,
    "streams_missed": 0,
-   "unique_chatters": 6991,
-   "members_confirmed": 1624,
+   "unique_chatters": 7499,
+   "members_confirmed": 1679,
    "member_classes": {
-    "unknown": 1293,
-    "known": 256,
+    "unknown": 1343,
+    "known": 261,
     "gift": 75
    },
-   "long_term_members": 1212,
+   "long_term_members": 1254,
    "badges": [
     {
      "months": 0,
-     "members": 137
+     "members": 141
     },
     {
      "months": 1,
-     "members": 28
+     "members": 29
     },
     {
      "months": 2,
-     "members": 94
+     "members": 97
     },
     {
      "months": 6,
-     "members": 153
+     "members": 158
     },
     {
      "months": 12,
-     "members": 279
+     "members": 290
     },
     {
      "months": 24,
-     "members": 257
+     "members": 262
     },
     {
      "months": 36,
-     "members": 228
+     "members": 236
     },
     {
      "months": 48,
-     "members": 173
+     "members": 178
     },
     {
      "months": 60,
-     "members": 275
+     "members": 288
     }
    ],
    "events": {
     "new_members": 40,
     "rejoins": 21,
-    "milestones": 62,
+    "milestones": 64,
     "gifted_total": 76
    },
    "tiers": [
     {
      "tier": "白銀愛好会",
      "price": 490,
-     "confirmed_members": 256,
-     "estimated_members": 1549.0
+     "confirmed_members": 261,
+     "estimated_members": 1604.0
     }
    ],
    "revenue": {
-    "monthly_low": 483006,
-    "monthly_est": 483006,
+    "monthly_low": 500156,
+    "monthly_est": 500156,
     "gift_once": 23698
    },
-   "avg_member_chatters": 619.7,
+   "avg_member_chatters": 601.6,
    "partial": true,
    "finalized": false
   }

@@ -709,8 +709,8 @@
    "checked_at": "2026-10-19 14:04",
    "members_level": "grem",
    "status": "members_only",
-   "likes_checked_ts": 1795058812.0876405,
-   "likes_checked_at": "2026-11-19 12:26"
+   "likes_checked_ts": 1795124533.2563865,
+   "likes_checked_at": "2026-11-20 06:42"
   },
   "i7PxwGBGIl0": {
    "id": "i7PxwGBGIl0",
@@ -772,8 +772,8 @@
    "checked_at": "2026-10-20 19:58",
    "members_level": "grem",
    "status": "members_only",
-   "likes_checked_ts": 1795058812.0876405,
-   "likes_checked_at": "2026-11-19 12:26"
+   "likes_checked_ts": 1795124533.2563865,
+   "likes_checked_at": "2026-11-20 06:42"
   },
   "AtO7F_Zle78": {
    "id": "AtO7F_Zle78",
@@ -1046,8 +1046,8 @@
    "checked_at": "2026-11-08 10:30",
    "members_level": "grem",
    "status": "members_only",
-   "likes_checked_ts": 1795058812.0876405,
-   "likes_checked_at": "2026-11-19 12:26"
+   "likes_checked_ts": 1795124533.2563865,
+   "likes_checked_at": "2026-11-20 06:42"
   },
   "D4hu48ehy3c": {
    "id": "D4hu48ehy3c",
@@ -1198,19 +1198,29 @@
   "Nn_IvHYNHR8": {
    "id": "Nn_IvHYNHR8",
    "title": "【HEAVY RAIN】I'M DA ORIGAMI KILLER!!!!!!!!!",
-   "status": "error",
+   "kind": "live",
+   "start_ts": 1795035738.142748,
+   "start_jst": "2026-11-19 06:02",
+   "duration_sec": 10612,
+   "view_count": 135082,
+   "like_count": 5955,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-20 06:42",
+   "info_limited": true,
    "seen_live_at": "2026-11-19 06:33",
    "was_public_when_live": true,
-   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
-   "failed_since_ts": 1795058812.0876405
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "Gigi Murin Ch. hololive",
  "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
  "handle": "@holoen_gigimurin",
  "subscribers": 620000,
- "fetched_at": "2026-11-19 12:26",
- "fetched_at_ts": 1795058812.0876405,
- "checked_from": "2026-11-12 12:26",
+ "fetched_at": "2026-11-20 06:42",
+ "fetched_at_ts": 1795124533.2563865,
+ "checked_from": "2026-11-13 06:42",
  "initial_fetch_done": true
 }

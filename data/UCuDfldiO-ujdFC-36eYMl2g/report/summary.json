@@ -3,37 +3,37 @@
  "channel_id": "UCuDfldiO-ujdFC-36eYMl2g",
  "handle": "@Coco_Jester",
  "subscribers": 16800,
- "fetched_at": "2026-11-19 12:27",
- "generated_at": "2026-11-19 12:27",
+ "fetched_at": "2026-11-20 06:46",
+ "generated_at": "2026-11-20 06:47",
  "period": {
-  "from": "2026-10-20 12:27",
-  "to": "2026-11-19 12:27",
+  "from": "2026-10-21 06:46",
+  "to": "2026-11-20 06:46",
   "days": 30
  },
  "streams_analyzed": 15,
  "streams_missed": 2,
- "unique_chatters": 472,
- "members_confirmed": 171,
+ "unique_chatters": 481,
+ "members_confirmed": 172,
  "member_classes": {
-  "unknown": 107,
-  "known": 29,
+  "known": 28,
+  "unknown": 109,
   "gift": 35
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 36
+   "members": 35
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 27
+   "members": 28
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 108
+   "members": 109
   }
  ],
  "events": {
@@ -50,21 +50,21 @@
    "tier": "じぇす汰のおやつ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 29,
+   "confirmed_members": 28,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 107.0,
-   "estimated_members": 136.0,
-   "monthly_net_confirmed": 9043,
-   "monthly_net_estimated": 42407
+   "allocated_unknown": 109.0,
+   "estimated_members": 137.0,
+   "monthly_net_confirmed": 8731,
+   "monthly_net_estimated": 42719
   }
  ],
  "revenue": {
-  "monthly_low": 42407,
-  "monthly_est": 42407,
+  "monthly_low": 42719,
+  "monthly_est": 42719,
   "gift_once": 10914,
-  "total_low": 53321,
-  "total_est": 53321,
-  "paying_members": 136,
+  "total_low": 53633,
+  "total_est": 53633,
+  "paying_members": 137,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "POblT9mh_sU",
-   "start": "2026-10-20 19:00",
-   "title": "ライブ打ち上げ会場はこちらです。【ここ・じぇす汰 / ななしいんく】",
-   "kind": "配信",
-   "chatters": 84,
-   "member_chatters": 52,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "A0oFYxdDuBo",
    "start": "2026-10-21 18:59",
@@ -220,6 +210,16 @@
    "kind": "配信",
    "chatters": 86,
    "member_chatters": 41,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "Hc3wx7qeqLQ",
+   "start": "2026-11-18 18:59",
+   "title": "ルールを守れない女、ルール違反即死のゲームに挑む。【 絶対遵守 /  ここ・じぇす汰 / ななしいんく】",
+   "kind": "配信",
+   "chatters": 93,
+   "member_chatters": 54,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -374,14 +374,14 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-19"
+    "to": "2026-11-20"
    },
-   "streams_analyzed": 8,
+   "streams_analyzed": 9,
    "streams_missed": 1,
-   "unique_chatters": 362,
-   "members_confirmed": 124,
+   "unique_chatters": 380,
+   "members_confirmed": 128,
    "member_classes": {
-    "unknown": 85,
+    "unknown": 89,
     "known": 27,
     "gift": 12
    },
@@ -393,11 +393,11 @@
     },
     {
      "months": 1,
-     "members": 17
+     "members": 18
     },
     {
      "months": 2,
-     "members": 92
+     "members": 95
     }
    ],
    "events": {
@@ -411,15 +411,15 @@
      "tier": "じぇす汰のおやつ",
      "price": 490,
      "confirmed_members": 27,
-     "estimated_members": 112.0
+     "estimated_members": 116.0
     }
    ],
    "revenue": {
-    "monthly_low": 34924,
-    "monthly_est": 34924,
+    "monthly_low": 36171,
+    "monthly_est": 36171,
     "gift_once": 3742
    },
-   "avg_member_chatters": 49,
+   "avg_member_chatters": 49.6,
    "partial": true,
    "finalized": false
   }

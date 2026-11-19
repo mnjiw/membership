@@ -944,17 +944,27 @@
   "MrrRZt5yKRM": {
    "id": "MrrRZt5yKRM",
    "title": "『 雑談 / 歌 』ゆるっとおうたのれんしゅう～.ᐟ『綺音れむ / Varium』",
-   "status": "error",
-   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
-   "failed_since_ts": 1795040203.9701793
+   "kind": "live",
+   "start_ts": 1795003351.2367132,
+   "start_jst": "2026-11-18 21:02",
+   "duration_sec": 12130,
+   "view_count": 4822,
+   "like_count": 396,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-20 06:59",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "Remu Ch. 綺音れむ",
  "channel_id": "UCPqswBEjZm3FdvOzPyDw9wg",
  "handle": "@AnonRemu",
  "subscribers": 47100,
- "fetched_at": "2026-11-19 12:33",
- "fetched_at_ts": 1795059194.3617005,
- "checked_from": "2026-11-12 12:33",
+ "fetched_at": "2026-11-20 06:59",
+ "fetched_at_ts": 1795125584.951064,
+ "checked_from": "2026-11-13 06:59",
  "initial_fetch_done": true
 }
