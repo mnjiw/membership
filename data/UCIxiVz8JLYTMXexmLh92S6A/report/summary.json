@@ -2,20 +2,20 @@
  "channel": "ぷりん・らら・もーど / Purin･Lala･Mode【にじさんじ】",
  "channel_id": "UCIxiVz8JLYTMXexmLh92S6A",
  "handle": "@PurinLalaMode",
- "subscribers": 95300,
- "fetched_at": "2026-11-19 05:35",
- "generated_at": "2026-11-19 05:35",
+ "subscribers": 95400,
+ "fetched_at": "2026-11-20 05:33",
+ "generated_at": "2026-11-20 05:33",
  "period": {
-  "from": "2026-10-20 05:35",
-  "to": "2026-11-19 05:35",
+  "from": "2026-10-21 05:33",
+  "to": "2026-11-20 05:33",
   "days": 30
  },
- "streams_analyzed": 21,
- "streams_missed": 0,
- "unique_chatters": 2200,
- "members_confirmed": 158,
+ "streams_analyzed": 20,
+ "streams_missed": 1,
+ "unique_chatters": 2163,
+ "members_confirmed": 156,
  "member_classes": {
-  "unknown": 118,
+  "unknown": 116,
   "known": 39,
   "gift": 1
  },
@@ -23,12 +23,12 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 41
+   "members": 40
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 19
+   "members": 18
   },
   {
    "months": 2,
@@ -37,7 +37,7 @@
   }
  ],
  "events": {
-  "new_members": 29,
+  "new_members": 28,
   "rejoins": 3,
   "milestones": 0,
   "gift_purchases": 1,
@@ -52,19 +52,19 @@
    "net_per_member": 439.1,
    "confirmed_members": 39,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 118.0,
-   "estimated_members": 157.0,
+   "allocated_unknown": 116.0,
+   "estimated_members": 155.0,
    "monthly_net_confirmed": 17125,
-   "monthly_net_estimated": 68937
+   "monthly_net_estimated": 68059
   }
  ],
  "revenue": {
-  "monthly_low": 68937,
-  "monthly_est": 68937,
+  "monthly_low": 68059,
+  "monthly_est": 68059,
   "gift_once": 439,
-  "total_low": 69376,
-  "total_est": 69376,
-  "paying_members": 157,
+  "total_low": 68498,
+  "total_est": 68498,
+  "paying_members": 155,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "0XIaJ1XhKXk",
-   "start": "2026-10-20 19:02",
-   "title": "【ピクミン１】完全初見！はじめてのピクミンに挑戦🏃🏻‍♀️お顔しか知らなかったからどんな物語かわくわく🍮💌【ぷりん・らら・もーど / にじさんじ】",
-   "kind": "配信",
-   "chatters": 188,
-   "member_chatters": 38,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "AHzhy_UddEQ",
    "start": "2026-10-21 14:00",
@@ -284,7 +274,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "0YNoHptyCWo",
+   "start": "2026-11-19 00:00",
+   "title": "【#NijiIkaFestival2026🦑】Purin Lala Mode, a strong contender for the championship, shows her impres...",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 328,
+   "view_count": 8834
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -395,10 +398,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-19"
+    "to": "2026-11-20"
    },
    "streams_analyzed": 12,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 1745,
    "members_confirmed": 129,
    "member_classes": {

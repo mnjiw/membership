@@ -3,56 +3,56 @@
  "channel_id": "UCaAu0DXNSPXCZPg6iHVwRVw",
  "handle": "@NekoyashikiMiku",
  "subscribers": 156000,
- "fetched_at": "2026-11-19 12:23",
- "generated_at": "2026-11-19 12:23",
+ "fetched_at": "2026-11-20 05:31",
+ "generated_at": "2026-11-20 05:32",
  "period": {
-  "from": "2026-10-20 12:23",
-  "to": "2026-11-19 12:23",
+  "from": "2026-10-21 05:31",
+  "to": "2026-11-20 05:31",
   "days": 30
  },
- "streams_analyzed": 50,
- "streams_missed": 2,
- "unique_chatters": 3946,
- "members_confirmed": 628,
+ "streams_analyzed": 51,
+ "streams_missed": 1,
+ "unique_chatters": 4028,
+ "members_confirmed": 614,
  "member_classes": {
-  "unknown": 539,
   "known": 57,
-  "gift": 32
+  "unknown": 536,
+  "gift": 21
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 80
+   "members": 70
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 47
+   "members": 45
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 115
+   "members": 116
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 258
+   "members": 247
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 128
+   "members": 136
   }
  ],
  "events": {
   "new_members": 26,
   "rejoins": 6,
   "milestones": 0,
-  "gift_purchases": 16,
-  "gifted_total": 32,
-  "gift_redemptions": 32
+  "gift_purchases": 5,
+  "gifted_total": 21,
+  "gift_redemptions": 21
  },
  "tiers_configured": true,
  "tiers": [
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 57,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 539.0,
-   "estimated_members": 596.0,
+   "allocated_unknown": 536.0,
+   "estimated_members": 593.0,
    "monthly_net_confirmed": 17774,
-   "monthly_net_estimated": 185844
+   "monthly_net_estimated": 184908
   }
  ],
  "revenue": {
-  "monthly_low": 185844,
-  "monthly_est": 185844,
-  "gift_once": 9978,
-  "total_low": 195822,
-  "total_est": 195822,
-  "paying_members": 596,
+  "monthly_low": 184908,
+  "monthly_est": 184908,
+  "gift_once": 6548,
+  "total_low": 191456,
+  "total_est": 191456,
+  "paying_members": 593,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "eFRAW7sIrxg",
-   "start": "2026-10-21 00:10",
-   "title": "✧︎* Late Night Radio┊10/21/2026 (Wed) Nyaruraji🌙〖Miku Nekoyashiki / NIJISANJI〗",
-   "kind": "配信",
-   "chatters": 348,
-   "member_chatters": 163,
-   "new_members": 1,
-   "gifted_total": 11
-  },
   {
    "video_id": "W6HUaZ5cgh8",
    "start": "2026-10-21 21:00",
@@ -582,6 +572,26 @@
    "member_chatters": 143,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "bfdVpr_dE_s",
+   "start": "2026-11-19 09:09",
+   "title": "✧︎* スプラトゥーン3┊ヒーローモード☀〖猫屋敷美紅 / にじさんじ〗",
+   "kind": "配信",
+   "chatters": 334,
+   "member_chatters": 85,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "ikp5Ueib464",
+   "start": "2026-11-20 00:02",
+   "title": "✧︎* Late Night Radio┊November 20, 2026 (Fri) Nyaru-Radi🌙〖Mikuni Nekoyashiki / NIJISANJI〗",
+   "kind": "配信",
+   "chatters": 346,
+   "member_chatters": 150,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -596,18 +606,6 @@
    "members_level": "",
    "like_count": 245,
    "view_count": null
-  },
-  {
-   "video_id": "bfdVpr_dE_s",
-   "start": "2026-11-19 00:00",
-   "title": "✧︎* スプラトゥーン3┊ヒーローモード☀〖猫屋敷美紅 / にじさんじ〗",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 791,
-   "view_count": 17401
   }
  ],
  "members_only_content": [
@@ -743,42 +741,42 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-19"
+    "to": "2026-11-20"
    },
-   "streams_analyzed": 32,
-   "streams_missed": 1,
-   "unique_chatters": 2725,
-   "members_confirmed": 512,
+   "streams_analyzed": 34,
+   "streams_missed": 0,
+   "unique_chatters": 2884,
+   "members_confirmed": 517,
    "member_classes": {
-    "unknown": 463,
-    "known": 48,
+    "unknown": 466,
+    "known": 50,
     "gift": 1
    },
-   "long_term_members": 128,
+   "long_term_members": 136,
    "badges": [
     {
      "months": 0,
-     "members": 36
+     "members": 38
     },
     {
      "months": 1,
-     "members": 33
+     "members": 31
     },
     {
      "months": 2,
-     "members": 106
+     "members": 108
     },
     {
      "months": 6,
-     "members": 209
+     "members": 204
     },
     {
      "months": 12,
-     "members": 128
+     "members": 136
     }
    ],
    "events": {
-    "new_members": 18,
+    "new_members": 19,
     "rejoins": 4,
     "milestones": 0,
     "gifted_total": 1
@@ -787,16 +785,16 @@
     {
      "tier": "ねこみくランド",
      "price": 490,
-     "confirmed_members": 48,
-     "estimated_members": 511.0
+     "confirmed_members": 50,
+     "estimated_members": 516.0
     }
    ],
    "revenue": {
-    "monthly_low": 159339,
-    "monthly_est": 159339,
+    "monthly_low": 160898,
+    "monthly_est": 160898,
     "gift_once": 312
    },
-   "avg_member_chatters": 122.2,
+   "avg_member_chatters": 121.9,
    "partial": true,
    "finalized": false
   }

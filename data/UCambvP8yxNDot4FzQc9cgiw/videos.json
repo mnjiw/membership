@@ -744,15 +744,15 @@
    "start_jst": "2026-10-27 22:30",
    "duration_sec": 4900,
    "view_count": null,
-   "like_count": 860,
+   "like_count": 861,
    "live_status": "was_live",
    "members_only": true,
    "has_chat": false,
    "checked_at": "2026-10-28 05:27",
    "members_level": "うさみのメンバーシップ",
    "status": "members_only",
-   "likes_checked_ts": 1795033779.6257,
-   "likes_checked_at": "2026-11-19 05:29"
+   "likes_checked_ts": 1795120074.4803655,
+   "likes_checked_at": "2026-11-20 05:27"
   },
   "01hy5K4AJdA": {
    "id": "01hy5K4AJdA",
@@ -1048,11 +1048,21 @@
   "7qDyMGj-sfs": {
    "id": "7qDyMGj-sfs",
    "title": "【LoL】デュオランクをカゲツと【宇佐美リト/にじさんじ】",
-   "status": "error",
+   "kind": "live",
+   "start_ts": 1795007557.973115,
+   "start_jst": "2026-11-18 22:12",
+   "duration_sec": 32004,
+   "view_count": 91683,
+   "like_count": 1831,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-20 05:28",
+   "info_limited": true,
    "seen_live_at": "2026-11-19 05:29",
    "was_public_when_live": true,
-   "error": "ERROR: [youtube] 7qDyMGj-sfs: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)",
-   "failed_since_ts": 1795058595.6072364
+   "start_from_chat": true,
+   "status": "ok"
   },
   "uGHDueafh4o": {
    "id": "uGHDueafh4o",
@@ -1070,14 +1080,31 @@
    "info_limited": true,
    "start_from_chat": true,
    "status": "ok"
+  },
+  "Pa2CtOD_alI": {
+   "id": "Pa2CtOD_alI",
+   "title": "【ONEPIECE 海のごちそうレストラン】いつもクソお世話になっております。 #6【宇佐美リト/にじさんじ】",
+   "kind": "live",
+   "start_ts": 1795102499.771026,
+   "start_jst": "2026-11-20 00:34",
+   "duration_sec": 12299,
+   "view_count": 29165,
+   "like_count": 729,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-20 05:27",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "宇佐美リト / Usami Rito【にじさんじ】",
  "channel_id": "UCambvP8yxNDot4FzQc9cgiw",
  "handle": "@UsamiRito",
  "subscribers": 395000,
- "fetched_at": "2026-11-19 12:23",
- "fetched_at_ts": 1795058595.6072364,
- "checked_from": "2026-11-12 12:23",
+ "fetched_at": "2026-11-20 05:27",
+ "fetched_at_ts": 1795120074.4803655,
+ "checked_from": "2026-11-13 05:27",
  "initial_fetch_done": true
 }

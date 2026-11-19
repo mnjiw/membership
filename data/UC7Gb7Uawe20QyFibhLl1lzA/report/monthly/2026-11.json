@@ -2,72 +2,72 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-19"
+  "to": "2026-11-20"
  },
- "streams_analyzed": 14,
+ "streams_analyzed": 15,
  "streams_missed": 0,
- "unique_chatters": 2871,
- "members_confirmed": 954,
+ "unique_chatters": 2960,
+ "members_confirmed": 1000,
  "member_classes": {
-  "known": 332,
-  "unknown": 300,
-  "gift": 322
+  "known": 344,
+  "unknown": 305,
+  "gift": 351
  },
- "long_term_members": 377,
+ "long_term_members": 388,
  "badges": [
   {
    "months": 0,
-   "members": 392
+   "members": 426
   },
   {
    "months": 1,
-   "members": 27
+   "members": 26
   },
   {
    "months": 2,
-   "members": 73
-  },
-  {
-   "months": 6,
-   "members": 85
-  },
-  {
-   "months": 12,
-   "members": 94
-  },
-  {
-   "months": 24,
-   "members": 73
-  },
-  {
-   "months": 36,
    "members": 76
   },
   {
+   "months": 6,
+   "members": 84
+  },
+  {
+   "months": 12,
+   "members": 99
+  },
+  {
+   "months": 24,
+   "members": 72
+  },
+  {
+   "months": 36,
+   "members": 80
+  },
+  {
    "months": 48,
-   "members": 134
+   "members": 137
   }
  ],
  "events": {
-  "new_members": 19,
-  "rejoins": 20,
-  "milestones": 174,
-  "gifted_total": 354
+  "new_members": 20,
+  "rejoins": 21,
+  "milestones": 203,
+  "gifted_total": 384
  },
  "tiers": [
   {
    "tier": "The Mafia",
    "price": 690,
-   "confirmed_members": 332,
-   "estimated_members": 632.0
+   "confirmed_members": 344,
+   "estimated_members": 649.0
   }
  ],
  "revenue": {
-  "monthly_low": 277505,
-  "monthly_est": 277505,
-  "gift_once": 155438
+  "monthly_low": 284970,
+  "monthly_est": 284970,
+  "gift_once": 168611
  },
- "avg_member_chatters": 333.1,
+ "avg_member_chatters": 331.9,
  "partial": true,
  "finalized": false
 }

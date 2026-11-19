@@ -3,24 +3,24 @@
  "channel_id": "UCRV9d6YCYIMUszK-83TwxVA",
  "handle": "@TodorokiKyoko",
  "subscribers": 148000,
- "fetched_at": "2026-11-19 05:19",
- "generated_at": "2026-11-19 05:19",
+ "fetched_at": "2026-11-20 05:19",
+ "generated_at": "2026-11-20 05:19",
  "period": {
-  "from": "2026-10-20 05:19",
-  "to": "2026-11-19 05:19",
+  "from": "2026-10-21 05:19",
+  "to": "2026-11-20 05:19",
   "days": 30
  },
  "streams_analyzed": 10,
  "streams_missed": 0,
- "unique_chatters": 315,
- "members_confirmed": 33,
+ "unique_chatters": 302,
+ "members_confirmed": 32,
  "member_classes": {
-  "unknown": 33
+  "unknown": 32
  },
  "badges": [
   {
-   "months": 0,
-   "label": "新規(1ヶ月未満)",
+   "months": 1,
+   "label": "1ヶ月",
    "members": 1
   },
   {
@@ -36,7 +36,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 30
+   "members": 29
   }
  ],
  "events": {
@@ -55,19 +55,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 0,
    "share_of_confirmed_pct": "",
-   "allocated_unknown": 33.0,
-   "estimated_members": 33.0,
+   "allocated_unknown": 32.0,
+   "estimated_members": 32.0,
    "monthly_net_confirmed": 0,
-   "monthly_net_estimated": 10290
+   "monthly_net_estimated": 9978
   }
  ],
  "revenue": {
-  "monthly_low": 10290,
-  "monthly_est": 10290,
+  "monthly_low": 9978,
+  "monthly_est": 9978,
   "gift_once": 0,
-  "total_low": 10290,
-  "total_est": 10290,
-  "paying_members": 33,
+  "total_low": 9978,
+  "total_est": 9978,
+  "paying_members": 32,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -76,16 +76,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "-y0IEvixvz0",
-   "start": "2026-10-20 22:00",
-   "title": "【 🎮Dress maker】材料費を増やすために散財！！本末転倒のドレス屋さん【にじさんじ/轟京子】",
-   "kind": "配信",
-   "chatters": 70,
-   "member_chatters": 18,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "XXBuou8D4GU",
    "start": "2026-10-22 22:01",
@@ -173,6 +163,16 @@
    "kind": "配信",
    "chatters": 38,
    "member_chatters": 11,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "ZqZ1hXU7aE4",
+   "start": "2026-11-19 22:01",
+   "title": "【 🎮 ゼルダの伝説 時のオカリナ / #5】なんかもうやべぇよ【にじさんじ/轟京子】",
+   "kind": "配信",
+   "chatters": 42,
+   "member_chatters": 8,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -298,17 +298,21 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-19"
+    "to": "2026-11-20"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 6,
    "streams_missed": 0,
-   "unique_chatters": 146,
-   "members_confirmed": 24,
+   "unique_chatters": 164,
+   "members_confirmed": 25,
    "member_classes": {
-    "unknown": 24
+    "unknown": 25
    },
    "long_term_members": 23,
    "badges": [
+    {
+     "months": 1,
+     "members": 1
+    },
     {
      "months": 2,
      "members": 1
@@ -329,15 +333,15 @@
      "tier": "ろきぺ",
      "price": 490,
      "confirmed_members": 0,
-     "estimated_members": 24.0
+     "estimated_members": 25.0
     }
    ],
    "revenue": {
-    "monthly_low": 7484,
-    "monthly_est": 7484,
+    "monthly_low": 7795,
+    "monthly_est": 7795,
     "gift_once": 0
    },
-   "avg_member_chatters": 13.6,
+   "avg_member_chatters": 12.7,
    "partial": true,
    "finalized": false
   }

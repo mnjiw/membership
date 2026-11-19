@@ -3,27 +3,27 @@
  "channel_id": "UCRqBKoKuX30ruKAq05pCeRQ",
  "handle": "@KitakojiHisui",
  "subscribers": 332000,
- "fetched_at": "2026-11-19 05:26",
- "generated_at": "2026-11-19 05:26",
+ "fetched_at": "2026-11-20 05:24",
+ "generated_at": "2026-11-20 05:24",
  "period": {
-  "from": "2026-10-20 05:26",
-  "to": "2026-11-19 05:26",
+  "from": "2026-10-21 05:24",
+  "to": "2026-11-20 05:24",
   "days": 30
  },
  "streams_analyzed": 19,
  "streams_missed": 2,
- "unique_chatters": 805,
- "members_confirmed": 175,
+ "unique_chatters": 811,
+ "members_confirmed": 179,
  "member_classes": {
-  "unknown": 154,
-  "known": 18,
+  "unknown": 159,
+  "known": 17,
   "gift": 3
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 6
+   "members": 9
   },
   {
    "months": 1,
@@ -33,17 +33,17 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 29
+   "members": 24
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 137
+   "members": 143
   }
  ],
  "events": {
-  "new_members": 1,
-  "rejoins": 2,
+  "new_members": 2,
+  "rejoins": 1,
   "milestones": 8,
   "gift_purchases": 3,
   "gifted_total": 3,
@@ -55,43 +55,43 @@
    "tier": "ひみつの部屋🦈",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 16,
-   "share_of_confirmed_pct": 88.9,
-   "allocated_unknown": 136.9,
-   "estimated_members": 152.9,
-   "monthly_net_confirmed": 4989,
-   "monthly_net_estimated": 47674
+   "confirmed_members": 15,
+   "share_of_confirmed_pct": 88.2,
+   "allocated_unknown": 140.3,
+   "estimated_members": 155.3,
+   "monthly_net_confirmed": 4677,
+   "monthly_net_estimated": 48424
   },
   {
    "tier": "ひみつの部屋のクローゼット🦈",
    "price": 3490,
    "net_per_member": 2220.9,
    "confirmed_members": 1,
-   "share_of_confirmed_pct": 5.6,
-   "allocated_unknown": 8.6,
-   "estimated_members": 9.6,
+   "share_of_confirmed_pct": 5.9,
+   "allocated_unknown": 9.4,
+   "estimated_members": 10.4,
    "monthly_net_confirmed": 2221,
-   "monthly_net_estimated": 21222
+   "monthly_net_estimated": 22993
   },
   {
    "tier": "わたしの部屋❇",
    "price": 14000,
    "net_per_member": 8909.1,
    "confirmed_members": 1,
-   "share_of_confirmed_pct": 5.6,
-   "allocated_unknown": 8.6,
-   "estimated_members": 9.6,
+   "share_of_confirmed_pct": 5.9,
+   "allocated_unknown": 9.4,
+   "estimated_members": 10.4,
    "monthly_net_confirmed": 8909,
-   "monthly_net_estimated": 85131
+   "monthly_net_estimated": 92235
   }
  ],
  "revenue": {
-  "monthly_low": 64139,
-  "monthly_est": 154027,
+  "monthly_low": 65386,
+  "monthly_est": 163652,
   "gift_once": 935,
-  "total_low": 65075,
-  "total_est": 154962,
-  "paying_members": 172,
+  "total_low": 66322,
+  "total_est": 164587,
+  "paying_members": 176,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -100,16 +100,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "CJbMyI4gV2Y",
-   "start": "2026-10-21 00:00",
-   "title": "【深夜のチル雑談】鬱と生きてく。若干の違和感と幸せ不幸せとは【北小路ヒスイ/にじさんじ】",
-   "kind": "配信",
-   "chatters": 148,
-   "member_chatters": 60,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "AYoxhUSEDmM",
    "start": "2026-10-21 13:07",
@@ -289,6 +279,16 @@
    "member_chatters": 35,
    "new_members": 0,
    "gifted_total": 3
+  },
+  {
+   "video_id": "2VKYzb-SqH0",
+   "start": "2026-11-20 01:04",
+   "title": "【雑談】深夜のチル雑談【北小路ヒスイ/にじさんじ】",
+   "kind": "配信",
+   "chatters": 142,
+   "member_chatters": 44,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -483,26 +483,26 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-19"
+    "to": "2026-11-20"
    },
-   "streams_analyzed": 8,
+   "streams_analyzed": 9,
    "streams_missed": 2,
-   "unique_chatters": 343,
-   "members_confirmed": 124,
+   "unique_chatters": 439,
+   "members_confirmed": 141,
    "member_classes": {
-    "unknown": 111,
-    "known": 10,
+    "unknown": 125,
+    "known": 13,
     "gift": 3
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 4
+     "members": 8
     },
     {
      "months": 1,
-     "members": 2
+     "members": 3
     },
     {
      "months": 2,
@@ -510,27 +510,27 @@
     },
     {
      "months": 6,
-     "members": 100
+     "members": 112
     }
    ],
    "events": {
-    "new_members": 0,
+    "new_members": 1,
     "rejoins": 1,
-    "milestones": 3,
+    "milestones": 4,
     "gifted_total": 3
    },
    "tiers": [
     {
      "tier": "ひみつの部屋🦈",
      "price": 490,
-     "confirmed_members": 9,
-     "estimated_members": 108.9
+     "confirmed_members": 12,
+     "estimated_members": 127.4
     },
     {
      "tier": "ひみつの部屋のクローゼット🦈",
      "price": 3490,
      "confirmed_members": 1,
-     "estimated_members": 12.1
+     "estimated_members": 10.6
     },
     {
      "tier": "わたしの部屋❇",
@@ -540,11 +540,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 39639,
-    "monthly_est": 60830,
+    "monthly_low": 44940,
+    "monthly_est": 63297,
     "gift_once": 935
    },
-   "avg_member_chatters": 42.8,
+   "avg_member_chatters": 42.9,
    "partial": true,
    "finalized": false
   }

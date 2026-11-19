@@ -3,11 +3,11 @@
  "channel_id": "UCbc8fwhdUNlqi-J99ISYu4A",
  "handle": "@BelmondBanderas",
  "subscribers": 494000,
- "fetched_at": "2026-11-19 05:21",
- "generated_at": "2026-11-19 05:22",
+ "fetched_at": "2026-11-20 05:20",
+ "generated_at": "2026-11-20 05:21",
  "period": {
-  "from": "2026-10-20 05:21",
-  "to": "2026-11-19 05:21",
+  "from": "2026-10-21 05:20",
+  "to": "2026-11-20 05:20",
   "days": 30
  },
  "streams_analyzed": 22,
@@ -33,12 +33,12 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 15
+   "members": 14
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 32
+   "members": 34
   },
   {
    "months": 12,
@@ -48,7 +48,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 172
+   "members": 171
   }
  ],
  "events": {
@@ -121,16 +121,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "R-hth5n1H20",
-   "start": "2026-10-20 23:01",
-   "title": "【逆転裁判２】 #9 第4話 成歩堂VS御剣 再び ※ネタバレ注意！【ベルモンド・バンデラス/にじさんじ】",
-   "kind": "配信",
-   "chatters": 313,
-   "member_chatters": 79,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "ab7gZt433lQ",
    "start": "2026-10-21 21:04",
@@ -340,6 +330,16 @@
    "member_chatters": 76,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "8grEtznoPxQ",
+   "start": "2026-11-19 23:00",
+   "title": "【逆転裁判３】 #11 第6話 復活の御剣！今回はなんと・・・！！！ ※ネタバレ注意！【ベルモンド・バンデラス/にじさんじ】",
+   "kind": "配信",
+   "chatters": 261,
+   "member_chatters": 73,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -388,7 +388,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "常連さんプラン",
-   "like_count": 70,
+   "like_count": 71,
    "view_count": null
   }
  ],
@@ -430,7 +430,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "常連さんプラン",
-   "like_count": 70,
+   "like_count": 71,
    "view_count": null
   }
  ],
@@ -607,14 +607,14 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-19"
+    "to": "2026-11-20"
    },
-   "streams_analyzed": 14,
+   "streams_analyzed": 15,
    "streams_missed": 1,
-   "unique_chatters": 1170,
-   "members_confirmed": 302,
+   "unique_chatters": 1201,
+   "members_confirmed": 303,
    "member_classes": {
-    "unknown": 224,
+    "unknown": 225,
     "known": 57,
     "gift": 21
    },
@@ -630,11 +630,11 @@
     },
     {
      "months": 2,
-     "members": 15
+     "members": 14
     },
     {
      "months": 6,
-     "members": 31
+     "members": 33
     },
     {
      "months": 12,
@@ -662,13 +662,13 @@
      "tier": "常連さんプラン",
      "price": 490,
      "confirmed_members": 31,
-     "estimated_members": 152.8
+     "estimated_members": 153.4
     },
     {
      "tier": "お得意さんプラン",
      "price": 990,
      "confirmed_members": 22,
-     "estimated_members": 108.5
+     "estimated_members": 108.8
     },
     {
      "tier": "VIPプラン",
@@ -678,11 +678,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 45971,
-    "monthly_est": 128247,
+    "monthly_low": 46060,
+    "monthly_est": 128704,
     "gift_once": 1871
    },
-   "avg_member_chatters": 89.5,
+   "avg_member_chatters": 88.4,
    "partial": true,
    "finalized": false
   }

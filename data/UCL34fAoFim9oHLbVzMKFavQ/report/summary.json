@@ -3,19 +3,19 @@
  "channel_id": "UCL34fAoFim9oHLbVzMKFavQ",
  "handle": "@YorumiRena",
  "subscribers": 606000,
- "fetched_at": "2026-11-19 05:23",
- "generated_at": "2026-11-19 05:23",
+ "fetched_at": "2026-11-20 05:22",
+ "generated_at": "2026-11-20 05:23",
  "period": {
-  "from": "2026-10-20 05:23",
-  "to": "2026-11-19 05:23",
+  "from": "2026-10-21 05:22",
+  "to": "2026-11-20 05:22",
   "days": 30
  },
- "streams_analyzed": 15,
+ "streams_analyzed": 16,
  "streams_missed": 0,
- "unique_chatters": 1850,
- "members_confirmed": 240,
+ "unique_chatters": 2691,
+ "members_confirmed": 249,
  "member_classes": {
-  "unknown": 228,
+  "unknown": 237,
   "known": 12
  },
  "badges": [
@@ -27,7 +27,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 7
+   "members": 8
   },
   {
    "months": 6,
@@ -37,17 +37,17 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 27
+   "members": 28
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 19
+   "members": 20
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 27
+   "members": 30
   },
   {
    "months": 48,
@@ -57,7 +57,7 @@
   {
    "months": 60,
    "label": "5年",
-   "members": 125
+   "members": 128
   }
  ],
  "events": {
@@ -76,19 +76,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 12,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 228.0,
-   "estimated_members": 240.0,
+   "allocated_unknown": 237.0,
+   "estimated_members": 249.0,
    "monthly_net_confirmed": 3742,
-   "monthly_net_estimated": 74836
+   "monthly_net_estimated": 77643
   }
  ],
  "revenue": {
-  "monthly_low": 74836,
-  "monthly_est": 74836,
+  "monthly_low": 77643,
+  "monthly_est": 77643,
   "gift_once": 0,
-  "total_low": 74836,
-  "total_est": 74836,
-  "paying_members": 240,
+  "total_low": 77643,
+  "total_est": 77643,
+  "paying_members": 249,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -244,6 +244,16 @@
    "kind": "配信",
    "chatters": 118,
    "member_chatters": 72,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "v0Ral9n8pGI",
+   "start": "2026-11-19 23:01",
+   "title": "【 グランブルーファンタジー 】もっと知ろう！決戦！星の古戦場【にじさんじ / 夜見れな / 叶 / 狂蘭 メロコ / Rei7】",
+   "kind": "配信",
+   "chatters": 1172,
+   "member_chatters": 88,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -409,17 +419,17 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-19"
+    "to": "2026-11-20"
    },
-   "streams_analyzed": 9,
+   "streams_analyzed": 10,
    "streams_missed": 0,
-   "unique_chatters": 1471,
-   "members_confirmed": 213,
+   "unique_chatters": 2323,
+   "members_confirmed": 224,
    "member_classes": {
-    "unknown": 203,
+    "unknown": 214,
     "known": 10
    },
-   "long_term_members": 198,
+   "long_term_members": 208,
    "badges": [
     {
      "months": 0,
@@ -427,7 +437,7 @@
     },
     {
      "months": 2,
-     "members": 5
+     "members": 6
     },
     {
      "months": 6,
@@ -435,15 +445,15 @@
     },
     {
      "months": 12,
-     "members": 24
+     "members": 25
     },
     {
      "months": 24,
-     "members": 18
+     "members": 19
     },
     {
      "months": 36,
-     "members": 23
+     "members": 26
     },
     {
      "months": 48,
@@ -451,7 +461,7 @@
     },
     {
      "months": 60,
-     "members": 113
+     "members": 118
     }
    ],
    "events": {
@@ -465,15 +475,15 @@
      "tier": "夜見のひよこプラン",
      "price": 490,
      "confirmed_members": 10,
-     "estimated_members": 213.0
+     "estimated_members": 224.0
     }
    ],
    "revenue": {
-    "monthly_low": 66417,
-    "monthly_est": 66417,
+    "monthly_low": 69847,
+    "monthly_est": 69847,
     "gift_once": 0
    },
-   "avg_member_chatters": 86.7,
+   "avg_member_chatters": 86.8,
    "partial": true,
    "finalized": false
   }
