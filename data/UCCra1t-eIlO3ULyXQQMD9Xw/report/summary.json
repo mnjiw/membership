@@ -3,19 +3,19 @@
  "channel_id": "UCCra1t-eIlO3ULyXQQMD9Xw",
  "handle": "@RemiaAotsuki",
  "subscribers": 81600,
- "fetched_at": "2026-11-20 06:50",
- "generated_at": "2026-11-20 06:50",
+ "fetched_at": "2026-11-20 12:14",
+ "generated_at": "2026-11-20 12:14",
  "period": {
-  "from": "2026-10-21 06:50",
-  "to": "2026-11-20 06:50",
+  "from": "2026-10-21 12:14",
+  "to": "2026-11-20 12:14",
   "days": 30
  },
- "streams_analyzed": 24,
- "streams_missed": 2,
- "unique_chatters": 553,
- "members_confirmed": 110,
+ "streams_analyzed": 25,
+ "streams_missed": 1,
+ "unique_chatters": 574,
+ "members_confirmed": 111,
  "member_classes": {
-  "unknown": 75,
+  "unknown": 76,
   "known": 30,
   "gift": 5
  },
@@ -38,7 +38,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 31
+   "members": 32
   },
   {
    "months": 24,
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 30,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 75.0,
-   "estimated_members": 105.0,
+   "allocated_unknown": 76.0,
+   "estimated_members": 106.0,
    "monthly_net_confirmed": 9355,
-   "monthly_net_estimated": 32741
+   "monthly_net_estimated": 33053
   }
  ],
  "revenue": {
-  "monthly_low": 32741,
-  "monthly_est": 32741,
+  "monthly_low": 33053,
+  "monthly_est": 33053,
   "gift_once": 1559,
-  "total_low": 34300,
-  "total_est": 34300,
-  "paying_members": 105,
+  "total_low": 34612,
+  "total_est": 34612,
+  "paying_members": 106,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -322,6 +322,16 @@
    "member_chatters": 35,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "45nB48NyRPM",
+   "start": "2026-11-20 00:08",
+   "title": "【SOMA: part 1】 first time sci-fi horror 【#VSPOEN #RemiaAotsuki】",
+   "kind": "配信",
+   "chatters": 100,
+   "member_chatters": 35,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -336,18 +346,6 @@
    "members_level": "",
    "like_count": 22,
    "view_count": null
-  },
-  {
-   "video_id": "45nB48NyRPM",
-   "start": "2026-11-19 00:00",
-   "title": "【SOMA: part 1】 first time sci-fi horror 【#VSPOEN #RemiaAotsuki】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 327,
-   "view_count": 4551
   }
  ],
  "members_only_content": [
@@ -490,15 +488,15 @@
     "from": "2026-11-01",
     "to": "2026-11-20"
    },
-   "streams_analyzed": 15,
-   "streams_missed": 2,
-   "unique_chatters": 402,
-   "members_confirmed": 87,
+   "streams_analyzed": 16,
+   "streams_missed": 1,
+   "unique_chatters": 426,
+   "members_confirmed": 88,
    "member_classes": {
     "known": 25,
-    "unknown": 62
+    "unknown": 63
    },
-   "long_term_members": 59,
+   "long_term_members": 60,
    "badges": [
     {
      "months": 0,
@@ -514,7 +512,7 @@
     },
     {
      "months": 12,
-     "members": 27
+     "members": 28
     },
     {
      "months": 24,
@@ -532,15 +530,15 @@
      "tier": "BOTchis",
      "price": 490,
      "confirmed_members": 25,
-     "estimated_members": 87.0
+     "estimated_members": 88.0
     }
    ],
    "revenue": {
-    "monthly_low": 27128,
-    "monthly_est": 27128,
+    "monthly_low": 27440,
+    "monthly_est": 27440,
     "gift_once": 0
    },
-   "avg_member_chatters": 32.5,
+   "avg_member_chatters": 32.7,
    "partial": true,
    "finalized": false
   }

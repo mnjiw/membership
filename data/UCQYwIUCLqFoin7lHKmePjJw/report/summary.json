@@ -3,58 +3,58 @@
  "channel_id": "UCQYwIUCLqFoin7lHKmePjJw",
  "handle": "@KlaraCharmwood",
  "subscribers": 110000,
- "fetched_at": "2026-11-20 05:34",
- "generated_at": "2026-11-20 05:34",
+ "fetched_at": "2026-11-20 12:11",
+ "generated_at": "2026-11-20 12:11",
  "period": {
-  "from": "2026-10-21 05:34",
-  "to": "2026-11-20 05:34",
+  "from": "2026-10-21 12:11",
+  "to": "2026-11-20 12:11",
   "days": 30
  },
  "streams_analyzed": 14,
- "streams_missed": 4,
- "unique_chatters": 525,
- "members_confirmed": 178,
+ "streams_missed": 3,
+ "unique_chatters": 519,
+ "members_confirmed": 185,
  "member_classes": {
-  "unknown": 85,
-  "known": 72,
+  "known": 77,
+  "unknown": 87,
   "gift": 21
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 44
+   "members": 41
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 9
+   "members": 13
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 17
+   "members": 16
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 28
+   "members": 29
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 32
+   "members": 36
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 48
+   "members": 50
   }
  ],
  "events": {
-  "new_members": 1,
+  "new_members": 2,
   "rejoins": 0,
-  "milestones": 6,
+  "milestones": 21,
   "gift_purchases": 17,
   "gifted_total": 21,
   "gift_redemptions": 21
@@ -65,21 +65,21 @@
    "tier": "Cuppanions",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 72,
+   "confirmed_members": 77,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 85.0,
-   "estimated_members": 157.0,
-   "monthly_net_confirmed": 22451,
-   "monthly_net_estimated": 48955
+   "allocated_unknown": 87.0,
+   "estimated_members": 164.0,
+   "monthly_net_confirmed": 24010,
+   "monthly_net_estimated": 51138
   }
  ],
  "revenue": {
-  "monthly_low": 48955,
-  "monthly_est": 48955,
+  "monthly_low": 51138,
+  "monthly_est": 51138,
   "gift_once": 6548,
-  "total_low": 55504,
-  "total_est": 55504,
-  "paying_members": 157,
+  "total_low": 57686,
+  "total_est": 57686,
+  "paying_members": 164,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "GNOAVH51Rdo",
-   "start": "2026-10-21 06:59",
-   "title": "【モーニングチャーム】とびっきり元気な「行ってらっしゃいませ！」をおとどけするメイドです！【にじさんじEN | クララ チャームウッド】",
-   "kind": "配信",
-   "chatters": 119,
-   "member_chatters": 49,
-   "new_members": 0,
-   "gifted_total": 1
-  },
   {
    "video_id": "LeFW-aVibes",
    "start": "2026-10-21 19:59",
@@ -227,6 +217,16 @@
    "member_chatters": 54,
    "new_members": 0,
    "gifted_total": 1
+  },
+  {
+   "video_id": "kPn7mkuJ02Y",
+   "start": "2026-11-19 21:01",
+   "title": "【Village in the Shade】Slow Life Horror with The Maid #2【NIJISANJI EN | Klara Charmwood】",
+   "kind": "配信",
+   "chatters": 103,
+   "member_chatters": 59,
+   "new_members": 1,
+   "gifted_total": 1
   }
  ],
  "missed_streams": [
@@ -265,18 +265,6 @@
    "members_level": "Cuppanions",
    "like_count": 53,
    "view_count": null
-  },
-  {
-   "video_id": "kPn7mkuJ02Y",
-   "start": "2026-11-19 00:00",
-   "title": "【Village in the Shade】Slow Life Horror with The Maid #2【NIJISANJI EN | Klara Charmwood】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 318,
-   "view_count": 4423
   }
  ],
  "members_only_content": [
@@ -450,16 +438,16 @@
     "from": "2026-11-01",
     "to": "2026-11-20"
    },
-   "streams_analyzed": 1,
-   "streams_missed": 2,
-   "unique_chatters": 95,
-   "members_confirmed": 54,
+   "streams_analyzed": 2,
+   "streams_missed": 1,
+   "unique_chatters": 160,
+   "members_confirmed": 83,
    "member_classes": {
-    "known": 32,
-    "unknown": 21,
-    "gift": 1
+    "known": 46,
+    "unknown": 35,
+    "gift": 2
    },
-   "long_term_members": 35,
+   "long_term_members": 53,
    "badges": [
     {
      "months": 0,
@@ -467,45 +455,45 @@
     },
     {
      "months": 1,
-     "members": 2
+     "members": 6
     },
     {
      "months": 2,
-     "members": 1
+     "members": 3
     },
     {
      "months": 6,
-     "members": 10
+     "members": 15
     },
     {
      "months": 12,
-     "members": 13
+     "members": 22
     },
     {
      "months": 24,
-     "members": 22
+     "members": 31
     }
    ],
    "events": {
-    "new_members": 0,
+    "new_members": 1,
     "rejoins": 0,
-    "milestones": 2,
-    "gifted_total": 1
+    "milestones": 17,
+    "gifted_total": 2
    },
    "tiers": [
     {
      "tier": "Cuppanions",
      "price": 490,
-     "confirmed_members": 32,
-     "estimated_members": 53.0
+     "confirmed_members": 46,
+     "estimated_members": 81.0
     }
    ],
    "revenue": {
-    "monthly_low": 16526,
-    "monthly_est": 16526,
-    "gift_once": 312
+    "monthly_low": 25257,
+    "monthly_est": 25257,
+    "gift_once": 624
    },
-   "avg_member_chatters": 54,
+   "avg_member_chatters": 56.5,
    "partial": true,
    "finalized": false
   }

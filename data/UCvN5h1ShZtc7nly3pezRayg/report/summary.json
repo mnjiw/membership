@@ -3,53 +3,53 @@
  "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
  "handle": "@holoen_ceciliaimmergreen",
  "subscribers": 554000,
- "fetched_at": "2026-11-20 06:42",
- "generated_at": "2026-11-20 06:42",
+ "fetched_at": "2026-11-20 12:12",
+ "generated_at": "2026-11-20 12:12",
  "period": {
-  "from": "2026-10-21 06:42",
-  "to": "2026-11-20 06:42",
+  "from": "2026-10-21 12:12",
+  "to": "2026-11-20 12:12",
   "days": 30
  },
- "streams_analyzed": 23,
- "streams_missed": 2,
- "unique_chatters": 24176,
- "members_confirmed": 3891,
+ "streams_analyzed": 22,
+ "streams_missed": 3,
+ "unique_chatters": 23787,
+ "members_confirmed": 3872,
  "member_classes": {
-  "known": 1705,
-  "unknown": 1708,
+  "known": 1698,
+  "unknown": 1696,
   "gift": 478
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 680
+   "members": 678
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 144
+   "members": 143
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 357
+   "members": 355
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 385
+   "members": 382
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 2325
+   "members": 2314
   }
  ],
  "events": {
   "new_members": 115,
-  "rejoins": 71,
-  "milestones": 1291,
+  "rejoins": 70,
+  "milestones": 1281,
   "gift_purchases": 69,
   "gifted_total": 591,
   "gift_redemptions": 479
@@ -60,32 +60,32 @@
    "tier": "otomems",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 1498,
+   "confirmed_members": 1493,
    "share_of_confirmed_pct": 87.9,
-   "allocated_unknown": 1500.6,
-   "estimated_members": 2998.6,
-   "monthly_net_confirmed": 657758,
-   "monthly_net_estimated": 1316674
+   "allocated_unknown": 1491.2,
+   "estimated_members": 2984.2,
+   "monthly_net_confirmed": 655563,
+   "monthly_net_estimated": 1310353
   },
   {
    "tier": "otocranks",
    "price": 1290,
    "net_per_member": 820.9,
-   "confirmed_members": 207,
+   "confirmed_members": 205,
    "share_of_confirmed_pct": 12.1,
-   "allocated_unknown": 207.4,
-   "estimated_members": 414.4,
-   "monthly_net_confirmed": 169928,
-   "monthly_net_estimated": 340155
+   "allocated_unknown": 204.8,
+   "estimated_members": 409.8,
+   "monthly_net_confirmed": 168286,
+   "monthly_net_estimated": 336375
   }
  ],
  "revenue": {
-  "monthly_low": 1577654,
-  "monthly_est": 1656829,
+  "monthly_low": 1568547,
+  "monthly_est": 1646728,
   "gift_once": 259503,
-  "total_low": 1837156,
-  "total_est": 1916332,
-  "paying_members": 3413,
+  "total_low": 1828050,
+  "total_est": 1906231,
+  "paying_members": 3394,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -94,16 +94,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "e7Er77h73Gc",
-   "start": "2026-10-21 07:36",
-   "title": "【GUERILLA】Deadlock??",
-   "kind": "配信",
-   "chatters": 1582,
-   "member_chatters": 539,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "AqXLFyrg5XM",
    "start": "2026-10-22 19:11",
@@ -349,6 +339,18 @@
    "members_level": "otomems",
    "like_count": 1401,
    "view_count": null
+  },
+  {
+   "video_id": "0I1iXbP5-Ok",
+   "start": "2026-11-20 05:04",
+   "title": "【MEMBERS】movie watchalong! is this a good movie... no way",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "otomems",
+   "like_count": 512,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -370,6 +372,16 @@
    "status": "members_only",
    "members_level": "otomems",
    "like_count": 1401,
+   "view_count": null
+  },
+  {
+   "video_id": "0I1iXbP5-Ok",
+   "start": "2026-11-20 05:04",
+   "title": "【MEMBERS】movie watchalong! is this a good movie... no way",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "otomems",
+   "like_count": 512,
    "view_count": null
   }
  ],
@@ -500,7 +512,7 @@
     "to": "2026-11-20"
    },
    "streams_analyzed": 14,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 20103,
    "members_confirmed": 3642,
    "member_classes": {

@@ -3,15 +3,15 @@
  "channel_id": "UCXU7YYxy_iQd3ulXyO-zC2w",
  "handle": "@FushimiGaku",
  "subscribers": 369000,
- "fetched_at": "2026-11-20 05:19",
- "generated_at": "2026-11-20 05:19",
+ "fetched_at": "2026-11-20 12:08",
+ "generated_at": "2026-11-20 12:08",
  "period": {
-  "from": "2026-10-21 05:19",
-  "to": "2026-11-20 05:19",
+  "from": "2026-10-21 12:08",
+  "to": "2026-11-20 12:08",
   "days": 30
  },
  "streams_analyzed": 11,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 1346,
  "members_confirmed": 951,
  "member_classes": {
@@ -205,7 +205,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "2TT0lycnfho",
+   "start": "2026-11-19 00:00",
+   "title": "【一緒に朝ごはん】朝から甘さの極を求めて！ スイーツ回！【おはガク2026 #28】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 928,
+   "view_count": 16207
+  }
+ ],
  "members_only_content": [
   {
    "video_id": "EyMO5KwtgqU",
@@ -362,7 +375,7 @@
     "to": "2026-11-20"
    },
    "streams_analyzed": 8,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 1069,
    "members_confirmed": 810,
    "member_classes": {
