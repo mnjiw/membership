@@ -2,47 +2,47 @@
  "channel": "Pota Ch. 向日守ぽた",
  "channel_id": "UCrS80YZ_-a_BaH_d8XL-3og",
  "handle": "@HimamoriPota",
- "subscribers": 44100,
- "fetched_at": "2026-11-20 12:15",
- "generated_at": "2026-11-20 12:15",
+ "subscribers": 44200,
+ "fetched_at": "2026-11-21 06:40",
+ "generated_at": "2026-11-21 06:40",
  "period": {
-  "from": "2026-10-21 12:15",
-  "to": "2026-11-20 12:15",
+  "from": "2026-10-22 06:40",
+  "to": "2026-11-21 06:40",
   "days": 30
  },
  "streams_analyzed": 29,
  "streams_missed": 5,
- "unique_chatters": 1784,
- "members_confirmed": 797,
+ "unique_chatters": 1789,
+ "members_confirmed": 767,
  "member_classes": {
-  "unknown": 442,
-  "gift": 324,
-  "known": 31
+  "unknown": 448,
+  "known": 30,
+  "gift": 289
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 320
+   "members": 287
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 121
+   "members": 123
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 356
+   "members": 357
   }
  ],
  "events": {
-  "new_members": 11,
+  "new_members": 9,
   "rejoins": 4,
   "milestones": 0,
-  "gift_purchases": 43,
-  "gifted_total": 334,
-  "gift_redemptions": 324
+  "gift_purchases": 40,
+  "gifted_total": 299,
+  "gift_redemptions": 289
  },
  "tiers_configured": true,
  "tiers": [
@@ -50,12 +50,12 @@
    "tier": "シルバー",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 31,
+   "confirmed_members": 30,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 442.0,
-   "estimated_members": 473.0,
-   "monthly_net_confirmed": 9666,
-   "monthly_net_estimated": 147490
+   "allocated_unknown": 448.0,
+   "estimated_members": 478.0,
+   "monthly_net_confirmed": 9355,
+   "monthly_net_estimated": 149049
   },
   {
    "tier": "ゴールド",
@@ -92,12 +92,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 147490,
-  "monthly_est": 147490,
-  "gift_once": 104147,
-  "total_low": 251637,
-  "total_est": 251637,
-  "paying_members": 473,
+  "monthly_low": 149049,
+  "monthly_est": 149049,
+  "gift_once": 93234,
+  "total_low": 242283,
+  "total_est": 242283,
+  "paying_members": 478,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -106,16 +106,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "pTYw7KSkdDI",
-   "start": "2026-10-21 19:00",
-   "title": "#05【 初代 風来のシレン 】実機プレイ.ᐟ SFCの傑作ローグライク、初代シレンに挑戦.ᐟ.ᐟ【向日守ぽた/ Varium】",
-   "kind": "配信",
-   "chatters": 320,
-   "member_chatters": 199,
-   "new_members": 2,
-   "gifted_total": 35
-  },
   {
    "video_id": "cfw1fzZIDtI",
    "start": "2026-10-23 18:59",
@@ -395,6 +385,16 @@
    "member_chatters": 190,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "HsxiGR611IU",
+   "start": "2026-11-19 19:01",
+   "title": "#01【 星のカービィ64 】完全初見！3Dになったカービィを堪能するっ.ᐟ【向日守ぽた/ Varium】",
+   "kind": "配信",
+   "chatters": 273,
+   "member_chatters": 162,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -431,20 +431,8 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 253,
+   "like_count": 254,
    "view_count": null
-  },
-  {
-   "video_id": "HsxiGR611IU",
-   "start": "2026-11-19 00:00",
-   "title": "#01【 星のカービィ64 】完全初見！3Dになったカービィを堪能するっ.ᐟ【向日守ぽた/ Varium】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 599,
-   "view_count": 12998
   },
   {
    "video_id": "_5F_RB09ySI",
@@ -455,7 +443,19 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 233,
+   "like_count": 250,
+   "view_count": null
+  },
+  {
+   "video_id": "92CrsK3QDkA",
+   "start": "2026-11-20 22:59",
+   "title": "【 メン限 】諸君、ぽた会議のお時間です.ᐟ.ᐟ【向日守ぽた/ Varium】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 202,
    "view_count": null
   }
  ],
@@ -487,7 +487,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 253,
+   "like_count": 254,
    "view_count": null
   },
   {
@@ -497,7 +497,17 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 233,
+   "like_count": 250,
+   "view_count": null
+  },
+  {
+   "video_id": "92CrsK3QDkA",
+   "start": "2026-11-20 22:59",
+   "title": "【 メン限 】諸君、ぽた会議のお時間です.ᐟ.ᐟ【向日守ぽた/ Varium】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 202,
    "view_count": null
   }
  ],
@@ -621,15 +631,15 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-20"
+    "to": "2026-11-21"
    },
-   "streams_analyzed": 17,
+   "streams_analyzed": 18,
    "streams_missed": 3,
-   "unique_chatters": 1348,
-   "members_confirmed": 547,
+   "unique_chatters": 1385,
+   "members_confirmed": 552,
    "member_classes": {
-    "unknown": 489,
-    "known": 24,
+    "unknown": 493,
+    "known": 25,
     "gift": 34
    },
    "long_term_members": 0,
@@ -640,11 +650,11 @@
     },
     {
      "months": 1,
-     "members": 96
+     "members": 99
     },
     {
      "months": 2,
-     "members": 326
+     "members": 328
     }
    ],
    "events": {
@@ -657,8 +667,8 @@
     {
      "tier": "シルバー",
      "price": 490,
-     "confirmed_members": 24,
-     "estimated_members": 513.0
+     "confirmed_members": 25,
+     "estimated_members": 518.0
     },
     {
      "tier": "ゴールド",
@@ -680,11 +690,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 159963,
-    "monthly_est": 159963,
+    "monthly_low": 161522,
+    "monthly_est": 161522,
     "gift_once": 10914
    },
-   "avg_member_chatters": 205,
+   "avg_member_chatters": 202.6,
    "partial": true,
    "finalized": false
   }

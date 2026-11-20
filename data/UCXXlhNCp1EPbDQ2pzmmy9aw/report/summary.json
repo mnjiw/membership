@@ -3,16 +3,16 @@
  "channel_id": "UCXXlhNCp1EPbDQ2pzmmy9aw",
  "handle": "@mujina0831",
  "subscribers": 79200,
- "fetched_at": "2026-11-20 06:52",
- "generated_at": "2026-11-20 06:52",
+ "fetched_at": "2026-11-21 06:34",
+ "generated_at": "2026-11-21 06:34",
  "period": {
-  "from": "2026-10-21 06:52",
-  "to": "2026-11-20 06:52",
+  "from": "2026-10-22 06:34",
+  "to": "2026-11-21 06:34",
   "days": 30
  },
- "streams_analyzed": 10,
+ "streams_analyzed": 11,
  "streams_missed": 4,
- "unique_chatters": 620,
+ "unique_chatters": 622,
  "members_confirmed": 189,
  "member_classes": {
   "known": 49,
@@ -182,22 +182,20 @@
    "member_chatters": 80,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "MAqBz5D7qmw",
+   "start": "2026-11-20 22:08",
+   "title": "[Art Critique] How to Create \"Convincing Art\" from an Art School Graduate! [#AogiriHighSchool / #...",
+   "kind": "配信",
+   "chatters": 58,
+   "member_chatters": 38,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
   {
-   "video_id": "oHpuHv02rpE",
-   "start": "2026-10-21 22:32",
-   "title": "元気です！【#あおぎり高校 ／#八十科むじな】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 71,
-   "view_count": null
-  },
-  {
    "video_id": "zsdfXA74qRA",
    "start": "2026-10-31 02:11",
    "title": "ﾒﾝｹﾞ　あかりせんぱいおめでとう【#あおぎり高校 ／#八十科むじな】#初見歓迎",
@@ -230,22 +228,24 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 53,
+   "like_count": 54,
    "view_count": null
+  },
+  {
+   "video_id": "BO_jPXFjJFE",
+   "start": "2026-11-20 00:00",
+   "title": "【イラスト添削】美大卒から学ぶ「それっぽい絵」の作り方！【#あおぎり高校 ／#八十科むじな】#初見歓迎",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 182,
+   "view_count": 2353
   }
  ],
  "members_only_content": [
   {
-   "video_id": "oHpuHv02rpE",
-   "start": "2026-10-21 22:32",
-   "title": "元気です！【#あおぎり高校 ／#八十科むじな】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 71,
-   "view_count": null
-  },
-  {
    "video_id": "zsdfXA74qRA",
    "start": "2026-10-31 02:11",
    "title": "ﾒﾝｹﾞ　あかりせんぱいおめでとう【#あおぎり高校 ／#八十科むじな】#初見歓迎",
@@ -272,7 +272,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 53,
+   "like_count": 54,
    "view_count": null
   }
  ],
@@ -394,11 +394,11 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-20"
+    "to": "2026-11-21"
    },
-   "streams_analyzed": 8,
-   "streams_missed": 2,
-   "unique_chatters": 578,
+   "streams_analyzed": 9,
+   "streams_missed": 3,
+   "unique_chatters": 581,
    "members_confirmed": 184,
    "member_classes": {
     "known": 48,
@@ -447,7 +447,7 @@
     "monthly_est": 48955,
     "gift_once": 8731
    },
-   "avg_member_chatters": 70.1,
+   "avg_member_chatters": 66.6,
    "partial": true,
    "finalized": false
   }

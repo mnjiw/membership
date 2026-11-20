@@ -3,66 +3,66 @@
  "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
  "handle": "@AkiRosenthal",
  "subscribers": 1040000,
- "fetched_at": "2026-11-20 06:18",
- "generated_at": "2026-11-20 06:18",
+ "fetched_at": "2026-11-21 06:18",
+ "generated_at": "2026-11-21 06:18",
  "period": {
-  "from": "2026-10-21 06:18",
-  "to": "2026-11-20 06:18",
+  "from": "2026-10-22 06:18",
+  "to": "2026-11-21 06:18",
   "days": 30
  },
- "streams_analyzed": 6,
+ "streams_analyzed": 5,
  "streams_missed": 0,
- "unique_chatters": 1383,
- "members_confirmed": 604,
+ "unique_chatters": 1271,
+ "members_confirmed": 552,
  "member_classes": {
-  "known": 38,
-  "unknown": 496,
-  "gift": 70
+  "unknown": 453,
+  "known": 35,
+  "gift": 64
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 79
+   "members": 68
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 7
+   "members": 5
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 17
+   "members": 16
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 42
+   "members": 40
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 96
+   "members": 84
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 131
+   "members": 117
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 232
+   "members": 222
   }
  ],
  "events": {
-  "new_members": 4,
+  "new_members": 2,
   "rejoins": 1,
-  "milestones": 6,
-  "gift_purchases": 15,
-  "gifted_total": 72,
-  "gift_redemptions": 70
+  "milestones": 5,
+  "gift_purchases": 13,
+  "gifted_total": 66,
+  "gift_redemptions": 64
  },
  "tiers_configured": true,
  "tiers": [
@@ -70,21 +70,21 @@
    "tier": "ロゼ隊の宿付き酒場",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 38,
+   "confirmed_members": 35,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 496.0,
-   "estimated_members": 534.0,
-   "monthly_net_confirmed": 11849,
-   "monthly_net_estimated": 166511
+   "allocated_unknown": 453.0,
+   "estimated_members": 488.0,
+   "monthly_net_confirmed": 10914,
+   "monthly_net_estimated": 152167
   }
  ],
  "revenue": {
-  "monthly_low": 166511,
-  "monthly_est": 166511,
-  "gift_once": 22451,
-  "total_low": 188962,
-  "total_est": 188962,
-  "paying_members": 534,
+  "monthly_low": 152167,
+  "monthly_est": 152167,
+  "gift_once": 20580,
+  "total_low": 172747,
+  "total_est": 172747,
+  "paying_members": 488,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "-0sau-6cD0s",
-   "start": "2026-10-21 21:32",
-   "title": "【ホロライブドリームス】 今日も実質雑談！図鑑コンプまで残り5匹！#ホロドリ【ホロライブ/アキロゼ】",
-   "kind": "配信",
-   "chatters": 358,
-   "member_chatters": 231,
-   "new_members": 2,
-   "gifted_total": 6
-  },
   {
    "video_id": "dTbDAIbG84I",
    "start": "2026-10-26 23:40",
@@ -301,7 +291,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-20"
+    "to": "2026-11-21"
    },
    "streams_analyzed": 4,
    "streams_missed": 0,

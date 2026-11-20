@@ -3,27 +3,21 @@
  "channel_id": "UCNGMMdEgYIUR6rC44v9aZ8w",
  "handle": "@Kazari_Ceo",
  "subscribers": 31500,
- "fetched_at": "2026-11-20 06:56",
- "generated_at": "2026-11-20 06:56",
+ "fetched_at": "2026-11-21 06:37",
+ "generated_at": "2026-11-21 06:37",
  "period": {
-  "from": "2026-10-21 06:56",
-  "to": "2026-11-20 06:56",
+  "from": "2026-10-22 06:37",
+  "to": "2026-11-21 06:37",
   "days": 30
  },
  "streams_analyzed": 17,
  "streams_missed": 1,
- "unique_chatters": 79,
- "members_confirmed": 41,
+ "unique_chatters": 69,
+ "members_confirmed": 37,
  "member_classes": {
-  "unknown": 40,
-  "known": 1
+  "unknown": 37
  },
  "badges": [
-  {
-   "months": 0,
-   "label": "新規(1ヶ月未満)",
-   "members": 1
-  },
   {
    "months": 2,
    "label": "2ヶ月",
@@ -32,7 +26,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 9
+   "members": 7
   },
   {
    "months": 12,
@@ -42,7 +36,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 18
+   "members": 17
   }
  ],
  "events": {
@@ -59,21 +53,21 @@
    "tier": "せおかざメンバーシップ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 1,
-   "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 40.0,
-   "estimated_members": 41.0,
-   "monthly_net_confirmed": 312,
-   "monthly_net_estimated": 12785
+   "confirmed_members": 0,
+   "share_of_confirmed_pct": "",
+   "allocated_unknown": 37.0,
+   "estimated_members": 37.0,
+   "monthly_net_confirmed": 0,
+   "monthly_net_estimated": 11537
   }
  ],
  "revenue": {
-  "monthly_low": 12785,
-  "monthly_est": 12785,
+  "monthly_low": 11537,
+  "monthly_est": 11537,
   "gift_once": 0,
-  "total_low": 12785,
-  "total_est": 12785,
-  "paying_members": 41,
+  "total_low": 11537,
+  "total_est": 11537,
+  "paying_members": 37,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -82,16 +76,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "OO7UmOPfSSY",
-   "start": "2026-10-21 22:38",
-   "title": "【ストグラSeason2】＃１ 風見セオ視点【瀬尾カザリ / ネオポルテ】",
-   "kind": "配信",
-   "chatters": 28,
-   "member_chatters": 18,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "OsCj3OuOKD8",
    "start": "2026-10-24 21:06",
@@ -251,6 +235,16 @@
    "member_chatters": 10,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "z33P00FrwQg",
+   "start": "2026-11-20 20:02",
+   "title": "【ガチグラ２】＃６　ギャンブル禁止令（笑）　【瀬尾カザリ / ネオポルテ】",
+   "kind": "配信",
+   "chatters": 12,
+   "member_chatters": 10,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -390,11 +384,11 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-20"
+    "to": "2026-11-21"
    },
-   "streams_analyzed": 11,
+   "streams_analyzed": 12,
    "streams_missed": 1,
-   "unique_chatters": 57,
+   "unique_chatters": 58,
    "members_confirmed": 33,
    "member_classes": {
     "unknown": 33
@@ -437,7 +431,7 @@
     "monthly_est": 10290,
     "gift_once": 0
    },
-   "avg_member_chatters": 13.3,
+   "avg_member_chatters": 13,
    "partial": true,
    "finalized": false
   }

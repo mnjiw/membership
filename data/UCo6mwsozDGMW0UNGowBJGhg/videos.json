@@ -984,8 +984,8 @@
    "checked_at": "2026-10-26 08:50",
    "members_level": "メンバーシップ",
    "status": "members_only",
-   "likes_checked_ts": 1795125416.7129762,
-   "likes_checked_at": "2026-11-20 06:56"
+   "likes_checked_ts": 1795210654.7552116,
+   "likes_checked_at": "2026-11-21 06:37"
   },
   "fbDHqD4Bm-s": {
    "id": "fbDHqD4Bm-s",
@@ -1371,17 +1371,19 @@
   "EX8kcAuxt6M": {
    "id": "EX8kcAuxt6M",
    "title": "【 #LTK 】最後のスクリム #CCWIN【昏昏アリア/ネオポルテ】",
-   "status": "live_now",
+   "status": "error",
    "seen_live_at": "2026-11-20 12:15",
-   "was_public_when_live": true
+   "was_public_when_live": true,
+   "error": "ERROR: [youtube] EX8kcAuxt6M: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)",
+   "failed_since_ts": 1795210654.7552116
   }
  },
  "channel": "昏昏アリア / Konkon Aria",
  "channel_id": "UCo6mwsozDGMW0UNGowBJGhg",
  "handle": "@KonkonAria",
  "subscribers": 161000,
- "fetched_at": "2026-11-20 12:15",
- "fetched_at_ts": 1795144505.9206982,
- "checked_from": "2026-11-13 12:15",
+ "fetched_at": "2026-11-21 06:37",
+ "fetched_at_ts": 1795210654.7552116,
+ "checked_from": "2026-11-14 06:37",
  "initial_fetch_done": true
 }

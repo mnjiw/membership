@@ -2,17 +2,17 @@
  "channel": "ロロ・オリフィス / Lolo Orifice",
  "channel_id": "UCPXWk2EYjlwaCj6p-XnLbUg",
  "handle": "@lolo_orifice",
- "subscribers": 17900,
- "fetched_at": "2026-11-20 12:14",
- "generated_at": "2026-11-20 12:14",
+ "subscribers": 18000,
+ "fetched_at": "2026-11-21 06:36",
+ "generated_at": "2026-11-21 06:37",
  "period": {
-  "from": "2026-10-21 12:14",
-  "to": "2026-11-20 12:14",
+  "from": "2026-10-22 06:36",
+  "to": "2026-11-21 06:36",
   "days": 30
  },
- "streams_analyzed": 21,
+ "streams_analyzed": 22,
  "streams_missed": 2,
- "unique_chatters": 1619,
+ "unique_chatters": 1630,
  "members_confirmed": 326,
  "member_classes": {
   "unknown": 191,
@@ -23,12 +23,12 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 101
+   "members": 100
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 21
+   "members": 22
   },
   {
    "months": 2,
@@ -38,7 +38,7 @@
  ],
  "events": {
   "new_members": 6,
-  "rejoins": 6,
+  "rejoins": 7,
   "milestones": 21,
   "gift_purchases": 14,
   "gifted_total": 84,
@@ -282,6 +282,16 @@
    "member_chatters": 89,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "Yyn1gDRDKx0",
+   "start": "2026-11-20 12:00",
+   "title": "【 ポケモンチャンピオンズ 】ハイパー1～ スカウト産縛りでマスボ、そろそろ決めます。【 ロロ・オリフィス / すぺしゃりて 】",
+   "kind": "配信",
+   "chatters": 127,
+   "member_chatters": 63,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -306,7 +316,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 104,
+   "like_count": 105,
    "view_count": null
   }
  ],
@@ -328,7 +338,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 104,
+   "like_count": 105,
    "view_count": null
   }
  ],
@@ -434,14 +444,14 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-20"
+    "to": "2026-11-21"
    },
-   "streams_analyzed": 13,
+   "streams_analyzed": 14,
    "streams_missed": 1,
-   "unique_chatters": 1033,
-   "members_confirmed": 269,
+   "unique_chatters": 1048,
+   "members_confirmed": 270,
    "member_classes": {
-    "unknown": 214,
+    "unknown": 215,
     "known": 44,
     "gift": 11
    },
@@ -453,7 +463,7 @@
     },
     {
      "months": 1,
-     "members": 17
+     "members": 18
     },
     {
      "months": 2,
@@ -462,7 +472,7 @@
    ],
    "events": {
     "new_members": 2,
-    "rejoins": 4,
+    "rejoins": 5,
     "milestones": 5,
     "gifted_total": 11
    },
@@ -471,15 +481,15 @@
      "tier": "協力者",
      "price": 490,
      "confirmed_members": 44,
-     "estimated_members": 258.0
+     "estimated_members": 259.0
     }
    ],
    "revenue": {
-    "monthly_low": 80449,
-    "monthly_est": 80449,
+    "monthly_low": 80761,
+    "monthly_est": 80761,
     "gift_once": 3430
    },
-   "avg_member_chatters": 106.3,
+   "avg_member_chatters": 103.2,
    "partial": true,
    "finalized": false
   }

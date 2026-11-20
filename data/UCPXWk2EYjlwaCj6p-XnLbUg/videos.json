@@ -1384,8 +1384,8 @@
    "checked_at": "2026-10-31 17:08",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1795125326.6706686,
-   "likes_checked_at": "2026-11-20 06:55"
+   "likes_checked_ts": 1795210591.977745,
+   "likes_checked_at": "2026-11-21 06:36"
   },
   "cDt1a4wxBTA": {
    "id": "cDt1a4wxBTA",
@@ -1561,15 +1561,15 @@
    "start_jst": "2026-11-16 23:00",
    "duration_sec": 8406,
    "view_count": null,
-   "like_count": 104,
+   "like_count": 105,
    "live_status": "was_live",
    "members_only": true,
    "has_chat": false,
    "checked_at": "2026-11-17 06:36",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1795125326.6706686,
-   "likes_checked_at": "2026-11-20 06:55"
+   "likes_checked_ts": 1795210591.977745,
+   "likes_checked_at": "2026-11-21 06:36"
   },
   "rWuEL3IKeVo": {
    "id": "rWuEL3IKeVo",
@@ -1644,17 +1644,43 @@
   "Yyn1gDRDKx0": {
    "id": "Yyn1gDRDKx0",
    "title": "【 ポケモンチャンピオンズ 】ハイパー1～ スカウト産縛りでマスボ、そろそろ決めます。【 ロロ・オリフィス / すぺしゃりて 】",
-   "status": "live_now",
+   "kind": "live",
+   "start_ts": 1795143611.905647,
+   "start_jst": "2026-11-20 12:00",
+   "duration_sec": 4495,
+   "view_count": 6968,
+   "like_count": 195,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-21 06:36",
+   "info_limited": true,
    "seen_live_at": "2026-11-20 12:14",
+   "was_public_when_live": true,
+   "start_from_chat": true,
+   "status": "ok"
+  },
+  "-xyJWZhzk-A": {
+   "id": "-xyJWZhzk-A",
+   "title": "【 ARK: Survival Ascended 】初心者ARK🔰2日目 朝までまったりファームやテイムなどをする！#ARKゆらら鯖 【 ロロ・オリフィス / すぺしゃりて 】",
+   "status": "live_now",
+   "seen_live_at": "2026-11-21 06:36",
    "was_public_when_live": true
+  },
+  "OE1a15J3-XM": {
+   "id": "OE1a15J3-XM",
+   "title": "【 これって重い？判定シート 】ねるこ＆ロロで判定シートやる #ネルコロロ【 ロロ・オリフィス / すぺしゃりて 】",
+   "status": "error",
+   "error": "ERROR: Unable to download video subtitles for 'live_chat': Expecting value: line 1 column 1 (char 0)",
+   "failed_since_ts": 1795210591.977745
   }
  },
  "channel": "ロロ・オリフィス / Lolo Orifice",
  "channel_id": "UCPXWk2EYjlwaCj6p-XnLbUg",
  "handle": "@lolo_orifice",
- "subscribers": 17900,
- "fetched_at": "2026-11-20 12:14",
- "fetched_at_ts": 1795144489.8410263,
- "checked_from": "2026-11-13 12:14",
+ "subscribers": 18000,
+ "fetched_at": "2026-11-21 06:36",
+ "fetched_at_ts": 1795210591.977745,
+ "checked_from": "2026-11-14 06:36",
  "initial_fetch_done": true
 }

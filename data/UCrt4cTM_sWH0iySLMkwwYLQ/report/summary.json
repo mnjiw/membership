@@ -3,19 +3,19 @@
  "channel_id": "UCrt4cTM_sWH0iySLMkwwYLQ",
  "handle": "@Tier_Hebiyoi",
  "subscribers": 95200,
- "fetched_at": "2026-11-20 06:45",
- "generated_at": "2026-11-20 06:46",
+ "fetched_at": "2026-11-21 06:30",
+ "generated_at": "2026-11-21 06:30",
  "period": {
-  "from": "2026-10-21 06:45",
-  "to": "2026-11-20 06:45",
+  "from": "2026-10-22 06:30",
+  "to": "2026-11-21 06:30",
   "days": 30
  },
- "streams_analyzed": 39,
- "streams_missed": 0,
- "unique_chatters": 864,
- "members_confirmed": 147,
+ "streams_analyzed": 37,
+ "streams_missed": 1,
+ "unique_chatters": 849,
+ "members_confirmed": 146,
  "member_classes": {
-  "known": 29,
+  "known": 28,
   "unknown": 85,
   "gift": 33
  },
@@ -48,7 +48,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 78
+   "members": 77
   }
  ],
  "events": {
@@ -65,21 +65,21 @@
    "tier": "蛇宵幸福教団",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 29,
+   "confirmed_members": 28,
    "share_of_confirmed_pct": 100.0,
    "allocated_unknown": 85.0,
-   "estimated_members": 114.0,
-   "monthly_net_confirmed": 9043,
-   "monthly_net_estimated": 35547
+   "estimated_members": 113.0,
+   "monthly_net_confirmed": 8731,
+   "monthly_net_estimated": 35235
   }
  ],
  "revenue": {
-  "monthly_low": 35547,
-  "monthly_est": 35547,
+  "monthly_low": 35235,
+  "monthly_est": 35235,
   "gift_once": 10290,
-  "total_low": 45837,
-  "total_est": 45837,
-  "paying_members": 114,
+  "total_low": 45525,
+  "total_est": 45525,
+  "paying_members": 113,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,26 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "Jswd7nDAwzM",
-   "start": "2026-10-21 19:03",
-   "title": "【 Fallout 3 #最終回 】クリア後の世界で諸々まだ見てないものとか見に行ってみる【 蛇宵ティア / ななしいんく 】",
-   "kind": "配信",
-   "chatters": 45,
-   "member_chatters": 21,
-   "new_members": 0,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "zM3LcZctGPM",
-   "start": "2026-10-21 20:00",
-   "title": "【 Japanese Ramen Simulator 】突然ソロでラーメン屋さん開業【 蛇宵ティア / ななしいんく 】",
-   "kind": "配信",
-   "chatters": 97,
-   "member_chatters": 38,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "UtEGGLdMeAk",
    "start": "2026-10-24 12:01",
@@ -479,7 +459,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "xk4TMP2SS3w",
+   "start": "2026-11-20 00:00",
+   "title": "【 GTA5 #ガチグラ2 】最終日にチェイス頑張るの日【 蛇宵ティア / ななしいんく 】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 279,
+   "view_count": 4995
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -607,10 +600,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-20"
+    "to": "2026-11-21"
    },
    "streams_analyzed": 25,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 706,
    "members_confirmed": 132,
    "member_classes": {

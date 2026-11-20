@@ -3,37 +3,37 @@
  "channel_id": "UCv3EicDtxObcZZmnFcHvNnw",
  "handle": "@onigayaten0512",
  "subscribers": 87900,
- "fetched_at": "2026-11-20 06:57",
- "generated_at": "2026-11-20 06:58",
+ "fetched_at": "2026-11-21 06:37",
+ "generated_at": "2026-11-21 06:38",
  "period": {
-  "from": "2026-10-21 06:57",
-  "to": "2026-11-20 06:57",
+  "from": "2026-10-22 06:37",
+  "to": "2026-11-21 06:37",
   "days": 30
  },
- "streams_analyzed": 44,
- "streams_missed": 5,
- "unique_chatters": 574,
- "members_confirmed": 224,
+ "streams_analyzed": 42,
+ "streams_missed": 4,
+ "unique_chatters": 540,
+ "members_confirmed": 214,
  "member_classes": {
   "unknown": 122,
   "known": 22,
-  "gift": 80
+  "gift": 70
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 86
+   "members": 79
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 8
+   "members": 7
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 23
+   "members": 21
   },
   {
    "months": 6,
@@ -55,9 +55,9 @@
   "new_members": 6,
   "rejoins": 3,
   "milestones": 8,
-  "gift_purchases": 7,
-  "gifted_total": 80,
-  "gift_redemptions": 80
+  "gift_purchases": 6,
+  "gifted_total": 70,
+  "gift_redemptions": 70
  },
  "tiers_configured": true,
  "tiers": [
@@ -76,9 +76,9 @@
  "revenue": {
   "monthly_low": 44902,
   "monthly_est": 44902,
-  "gift_once": 24945,
-  "total_low": 69847,
-  "total_est": 69847,
+  "gift_once": 21827,
+  "total_low": 66729,
+  "total_est": 66729,
   "paying_members": 144,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -88,26 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "BKwu8FPlrv0",
-   "start": "2026-10-21 21:00",
-   "title": "【デス桃太郎】 桃小僧やれんの？【鬼ヶ谷テン/ネオポルテ】",
-   "kind": "配信",
-   "chatters": 42,
-   "member_chatters": 30,
-   "new_members": 0,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "1oerHlQA6h8",
-   "start": "2026-10-22 06:00",
-   "title": "【雑談】振り替えの朝テンでﾔｽ【鬼ヶ谷テン/ネオポルテ】",
-   "kind": "配信",
-   "chatters": 117,
-   "member_chatters": 56,
-   "new_members": 0,
-   "gifted_total": 10
-  },
   {
    "video_id": "Gy5r4cyo_Uk",
    "start": "2026-10-22 21:04",
@@ -531,18 +511,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "b2wovrTKkI8",
-   "start": "2026-10-21 22:19",
-   "title": "【メン限歌枠 】喉をいたわるまたりな歌枠【鬼ヶ谷テン/ネオポルテ】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 35,
-   "view_count": null
-  },
-  {
    "video_id": "vg-cBSp2uXU",
    "start": "2026-10-23 23:00",
    "title": "【メン限 】『音』という『何か』について【鬼ヶ谷テン/ネオポルテ】",
@@ -592,16 +560,6 @@
   }
  ],
  "members_only_content": [
-  {
-   "video_id": "b2wovrTKkI8",
-   "start": "2026-10-21 22:19",
-   "title": "【メン限歌枠 】喉をいたわるまたりな歌枠【鬼ヶ谷テン/ネオポルテ】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 35,
-   "view_count": null
-  },
   {
    "video_id": "vg-cBSp2uXU",
    "start": "2026-10-23 23:00",
@@ -659,7 +617,7 @@
    "kind": "video",
    "status": "members_only_video",
    "members_level": "",
-   "like_count": 40,
+   "like_count": 46,
    "view_count": null
   }
  ],
@@ -789,7 +747,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-20"
+    "to": "2026-11-21"
    },
    "streams_analyzed": 31,
    "streams_missed": 2,

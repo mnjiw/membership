@@ -3,32 +3,32 @@
  "channel_id": "UCDOiw6Z_yVE65XtgtcjJj5w",
  "handle": "@unohananonochi",
  "subscribers": 42300,
- "fetched_at": "2026-11-20 06:59",
- "generated_at": "2026-11-20 07:01",
+ "fetched_at": "2026-11-21 06:39",
+ "generated_at": "2026-11-21 06:40",
  "period": {
-  "from": "2026-10-21 06:59",
-  "to": "2026-11-20 06:59",
+  "from": "2026-10-22 06:39",
+  "to": "2026-11-21 06:39",
   "days": 30
  },
  "streams_analyzed": 29,
  "streams_missed": 1,
- "unique_chatters": 2185,
- "members_confirmed": 843,
+ "unique_chatters": 2167,
+ "members_confirmed": 847,
  "member_classes": {
   "unknown": 353,
   "known": 16,
-  "gift": 474
+  "gift": 478
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 430
+   "members": 434
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 57
+   "members": 56
   },
   {
    "months": 2,
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 146
+   "members": 147
   }
  ],
  "events": {
@@ -51,8 +51,8 @@
   "rejoins": 4,
   "milestones": 0,
   "gift_purchases": 30,
-  "gifted_total": 555,
-  "gift_redemptions": 475
+  "gifted_total": 559,
+  "gift_redemptions": 479
  },
  "tiers_configured": true,
  "tiers": [
@@ -104,9 +104,9 @@
  "revenue": {
   "monthly_low": 115061,
   "monthly_est": 115061,
-  "gift_once": 173059,
-  "total_low": 288120,
-  "total_est": 288120,
+  "gift_once": 174306,
+  "total_low": 289367,
+  "total_est": 289367,
   "paying_members": 369,
   "single_tier": false,
   "tax_rate": 0.1,
@@ -116,16 +116,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "I89YBYjUe6A",
-   "start": "2026-10-21 16:59",
-   "title": "【Bloodborne】ガスコイン神父を倒します!!!!【兎ノ花ののち/Varium】",
-   "kind": "配信",
-   "chatters": 256,
-   "member_chatters": 109,
-   "new_members": 0,
-   "gifted_total": 1
-  },
   {
    "video_id": "tpV46hqF_k8",
    "start": "2026-10-22 17:00",
@@ -405,6 +395,16 @@
    "member_chatters": 108,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "3v7TeS88vOk",
+   "start": "2026-11-20 19:00",
+   "title": "【お料理配信/カメラ有】日本最古、古代のチーズ『蘇』を作ります！【兎ノ花ののち/Varium】",
+   "kind": "配信",
+   "chatters": 243,
+   "member_chatters": 126,
+   "new_members": 0,
+   "gifted_total": 5
   }
  ],
  "missed_streams": [
@@ -569,22 +569,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-20"
+    "to": "2026-11-21"
    },
-   "streams_analyzed": 19,
+   "streams_analyzed": 20,
    "streams_missed": 0,
-   "unique_chatters": 1699,
-   "members_confirmed": 467,
+   "unique_chatters": 1722,
+   "members_confirmed": 475,
    "member_classes": {
-    "unknown": 362,
+    "unknown": 365,
     "known": 13,
-    "gift": 92
+    "gift": 97
    },
-   "long_term_members": 135,
+   "long_term_members": 136,
    "badges": [
     {
      "months": 0,
-     "members": 121
+     "members": 127
     },
     {
      "months": 1,
@@ -592,7 +592,7 @@
     },
     {
      "months": 2,
-     "members": 117
+     "members": 118
     },
     {
      "months": 6,
@@ -600,21 +600,21 @@
     },
     {
      "months": 12,
-     "members": 135
+     "members": 136
     }
    ],
    "events": {
     "new_members": 3,
     "rejoins": 4,
     "milestones": 0,
-    "gifted_total": 152
+    "gifted_total": 157
    },
    "tiers": [
     {
      "tier": "花束ちゃん",
      "price": 490,
      "confirmed_members": 13,
-     "estimated_members": 375.0
+     "estimated_members": 378.0
     },
     {
      "tier": "花束ちゃま",
@@ -636,11 +636,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 116932,
-    "monthly_est": 116932,
-    "gift_once": 47396
+    "monthly_low": 117867,
+    "monthly_est": 117867,
+    "gift_once": 48955
    },
-   "avg_member_chatters": 120.9,
+   "avg_member_chatters": 121.2,
    "partial": true,
    "finalized": false
   }

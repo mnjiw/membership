@@ -3,15 +3,15 @@
  "channel_id": "UChLfthKoUV502J7gU9STArg",
  "handle": "@ShibuyaHAL",
  "subscribers": 901000,
- "fetched_at": "2026-11-20 06:55",
- "generated_at": "2026-11-20 06:56",
+ "fetched_at": "2026-11-21 06:36",
+ "generated_at": "2026-11-21 06:36",
  "period": {
-  "from": "2026-10-21 06:55",
-  "to": "2026-11-20 06:55",
+  "from": "2026-10-22 06:36",
+  "to": "2026-11-21 06:36",
   "days": 30
  },
  "streams_analyzed": 29,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 1962,
  "members_confirmed": 263,
  "member_classes": {
@@ -422,7 +422,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "1QP5tRHLClo",
+   "start": "2026-11-20 00:00",
+   "title": "【配信者ハイパーゲーム大会 FINAL】関優太が語る渋谷ハルとの共通点【渋谷ハル/加藤純一/SHAKA/k4sen/関優太/もこう/ネオポルテ/切り抜き】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 244,
+   "view_count": 68508
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -580,10 +593,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-20"
+    "to": "2026-11-21"
    },
    "streams_analyzed": 19,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 1559,
    "members_confirmed": 219,
    "member_classes": {

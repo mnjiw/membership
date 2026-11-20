@@ -3,27 +3,27 @@
  "channel_id": "UCkpqb53xiOvOgNYEbNpFSyw",
  "handle": "@Canna_Akane",
  "subscribers": 54200,
- "fetched_at": "2026-11-20 06:45",
- "generated_at": "2026-11-20 06:45",
+ "fetched_at": "2026-11-21 06:30",
+ "generated_at": "2026-11-21 06:30",
  "period": {
-  "from": "2026-10-21 06:45",
-  "to": "2026-11-20 06:45",
+  "from": "2026-10-22 06:30",
+  "to": "2026-11-21 06:30",
   "days": 30
  },
- "streams_analyzed": 17,
- "streams_missed": 0,
- "unique_chatters": 528,
- "members_confirmed": 264,
+ "streams_analyzed": 16,
+ "streams_missed": 1,
+ "unique_chatters": 520,
+ "members_confirmed": 262,
  "member_classes": {
-  "unknown": 107,
-  "known": 35,
+  "unknown": 106,
+  "known": 34,
   "gift": 122
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 119
+   "members": 118
   },
   {
    "months": 1,
@@ -48,7 +48,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 10
+   "members": 9
   },
   {
    "months": 36,
@@ -62,9 +62,9 @@
   }
  ],
  "events": {
-  "new_members": 5,
+  "new_members": 4,
   "rejoins": 0,
-  "milestones": 26,
+  "milestones": 24,
   "gift_purchases": 13,
   "gifted_total": 122,
   "gift_redemptions": 122
@@ -75,21 +75,21 @@
    "tier": "茜音色の絆",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 35,
+   "confirmed_members": 34,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 107.0,
-   "estimated_members": 142.0,
-   "monthly_net_confirmed": 10914,
-   "monthly_net_estimated": 44278
+   "allocated_unknown": 106.0,
+   "estimated_members": 140.0,
+   "monthly_net_confirmed": 10602,
+   "monthly_net_estimated": 43655
   }
  ],
  "revenue": {
-  "monthly_low": 44278,
-  "monthly_est": 44278,
+  "monthly_low": 43655,
+  "monthly_est": 43655,
   "gift_once": 38042,
-  "total_low": 82320,
-  "total_est": 82320,
-  "paying_members": 142,
+  "total_low": 81696,
+  "total_est": 81696,
+  "paying_members": 140,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "qpgrzEAO6HM",
-   "start": "2026-10-21 22:00",
-   "title": "【 振り返り 】「Starlight Tribute」ありがとうの会！【茜音カンナ / ななしいんく】",
-   "kind": "配信",
-   "chatters": 98,
-   "member_chatters": 62,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "ECrPYLYRdMk",
    "start": "2026-10-23 23:30",
@@ -269,8 +259,32 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
- "members_only_content": [],
+ "missed_streams": [
+  {
+   "video_id": "XnmC4dV5yG8",
+   "start": "2026-11-20 22:01",
+   "title": "【 メン限 】濃い話の時間だぁ！話してほしい事、考えてきた？【茜音カンナ / ななしいんく】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 92,
+   "view_count": null
+  }
+ ],
+ "members_only_content": [
+  {
+   "video_id": "XnmC4dV5yG8",
+   "start": "2026-11-20 22:01",
+   "title": "【 メン限 】濃い話の時間だぁ！話してほしい事、考えてきた？【茜音カンナ / ななしいんく】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 92,
+   "view_count": null
+  }
+ ],
  "history": [
   {
    "month": "2026-09",
@@ -413,10 +427,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-20"
+    "to": "2026-11-21"
    },
    "streams_analyzed": 11,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 325,
    "members_confirmed": 125,
    "member_classes": {

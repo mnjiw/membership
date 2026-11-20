@@ -1529,8 +1529,8 @@
    "checked_at": "2026-10-31 17:07",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1795125325.4518971,
-   "likes_checked_at": "2026-11-20 06:55"
+   "likes_checked_ts": 1795210552.2280045,
+   "likes_checked_at": "2026-11-21 06:35"
   },
   "vscAcxMAwsI": {
    "id": "vscAcxMAwsI",
@@ -1747,8 +1747,8 @@
    "checked_at": "2026-11-09 06:51",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1795125325.4518971,
-   "likes_checked_at": "2026-11-20 06:55"
+   "likes_checked_ts": 1795210552.2280045,
+   "likes_checked_at": "2026-11-21 06:35"
   },
   "NCvYT-w4em4": {
    "id": "NCvYT-w4em4",
@@ -1869,8 +1869,8 @@
    "checked_at": "2026-11-15 06:45",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1795125325.4518971,
-   "likes_checked_at": "2026-11-20 06:55"
+   "likes_checked_ts": 1795210552.2280045,
+   "likes_checked_at": "2026-11-21 06:35"
   },
   "9BJqD4UKZtQ": {
    "id": "9BJqD4UKZtQ",
@@ -1887,8 +1887,8 @@
    "checked_at": "2026-11-15 06:45",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1795125325.4518971,
-   "likes_checked_at": "2026-11-20 06:55"
+   "likes_checked_ts": 1795210552.2280045,
+   "likes_checked_at": "2026-11-21 06:35"
   },
   "-srQKppz7YM": {
    "id": "-srQKppz7YM",
@@ -1999,17 +1999,53 @@
   "VGJlf7bZCag": {
    "id": "VGJlf7bZCag",
    "title": "【ゼルダの伝説 時のオカリナ】 ゼルダ完全初見🔰人生はじめてゼルダをプレイしてみます！闇の神殿が終わって次はどこなんだろう・・？？ #6　【 #蹄音かさね / すぺしゃりて 】",
-   "status": "live_now",
+   "status": "error",
    "seen_live_at": "2026-11-20 12:14",
-   "was_public_when_live": true
+   "was_public_when_live": true,
+   "error": "ERROR: Unable to download video subtitles for 'live_chat': Expecting value: line 1 column 1 (char 0)",
+   "failed_since_ts": 1795210552.2280045
+  },
+  "IGl0eAqz2nY": {
+   "id": "IGl0eAqz2nY",
+   "title": "【#古今東西ダービー】お題で名前を決めて走らせる…ゲーム‥！？【 #蹄音かさね / すぺしゃりて 】",
+   "kind": "live",
+   "start_ts": 1795180193.570539,
+   "start_jst": "2026-11-20 22:09",
+   "duration_sec": 7720,
+   "view_count": 4971,
+   "like_count": 196,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-21 06:35",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
+  },
+  "kw9PLncABtk": {
+   "id": "kw9PLncABtk",
+   "title": "【#古今東西ダービー】お題で名前を決めて走らせる…ゲーム‥！？【 #蹄音かさね / すぺしゃりて 】",
+   "kind": "live",
+   "start_ts": 1795179663.199104,
+   "start_jst": "2026-11-20 22:01",
+   "duration_sec": 373,
+   "view_count": 846,
+   "like_count": 84,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-21 06:36",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "蹄音かさね / Kasane Teion",
  "channel_id": "UC-O0yAOb7iu1I_XcF_2Pfhg",
  "handle": "@kasane_teion",
  "subscribers": 18900,
- "fetched_at": "2026-11-20 12:14",
- "fetched_at_ts": 1795144488.9736903,
- "checked_from": "2026-11-13 12:14",
+ "fetched_at": "2026-11-21 06:35",
+ "fetched_at_ts": 1795210552.2280045,
+ "checked_from": "2026-11-14 06:35",
  "initial_fetch_done": true
 }
