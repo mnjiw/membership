@@ -3,19 +3,19 @@
  "channel_id": "UCRqBKoKuX30ruKAq05pCeRQ",
  "handle": "@KitakojiHisui",
  "subscribers": 332000,
- "fetched_at": "2026-11-20 05:24",
- "generated_at": "2026-11-20 05:24",
+ "fetched_at": "2026-11-21 05:25",
+ "generated_at": "2026-11-21 05:25",
  "period": {
-  "from": "2026-10-21 05:24",
-  "to": "2026-11-20 05:24",
+  "from": "2026-10-22 05:25",
+  "to": "2026-11-21 05:25",
   "days": 30
  },
- "streams_analyzed": 19,
- "streams_missed": 2,
- "unique_chatters": 811,
- "members_confirmed": 179,
+ "streams_analyzed": 18,
+ "streams_missed": 3,
+ "unique_chatters": 798,
+ "members_confirmed": 177,
  "member_classes": {
-  "unknown": 159,
+  "unknown": 157,
   "known": 17,
   "gift": 3
  },
@@ -38,7 +38,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 143
+   "members": 141
   }
  ],
  "events": {
@@ -57,10 +57,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 15,
    "share_of_confirmed_pct": 88.2,
-   "allocated_unknown": 140.3,
-   "estimated_members": 155.3,
+   "allocated_unknown": 138.5,
+   "estimated_members": 153.5,
    "monthly_net_confirmed": 4677,
-   "monthly_net_estimated": 48424
+   "monthly_net_estimated": 47873
   },
   {
    "tier": "ひみつの部屋のクローゼット🦈",
@@ -68,10 +68,10 @@
    "net_per_member": 2220.9,
    "confirmed_members": 1,
    "share_of_confirmed_pct": 5.9,
-   "allocated_unknown": 9.4,
-   "estimated_members": 10.4,
+   "allocated_unknown": 9.2,
+   "estimated_members": 10.2,
    "monthly_net_confirmed": 2221,
-   "monthly_net_estimated": 22993
+   "monthly_net_estimated": 22732
   },
   {
    "tier": "わたしの部屋❇",
@@ -79,19 +79,19 @@
    "net_per_member": 8909.1,
    "confirmed_members": 1,
    "share_of_confirmed_pct": 5.9,
-   "allocated_unknown": 9.4,
-   "estimated_members": 10.4,
+   "allocated_unknown": 9.2,
+   "estimated_members": 10.2,
    "monthly_net_confirmed": 8909,
-   "monthly_net_estimated": 92235
+   "monthly_net_estimated": 91187
   }
  ],
  "revenue": {
-  "monthly_low": 65386,
-  "monthly_est": 163652,
+  "monthly_low": 64763,
+  "monthly_est": 161792,
   "gift_once": 935,
-  "total_low": 66322,
-  "total_est": 164587,
-  "paying_members": 176,
+  "total_low": 65698,
+  "total_est": 162728,
+  "paying_members": 174,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -100,16 +100,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "AYoxhUSEDmM",
-   "start": "2026-10-21 13:07",
-   "title": "【APEX】えるちゃんと昼えぺ【北小路ヒスイ/にじさんじ】",
-   "kind": "配信",
-   "chatters": 54,
-   "member_chatters": 35,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "eXgrTkag8zI",
    "start": "2026-10-24 21:18",
@@ -315,6 +305,18 @@
    "members_level": "",
    "like_count": 37,
    "view_count": null
+  },
+  {
+   "video_id": "C_s2_H60Pt4",
+   "start": "2026-11-20 00:00",
+   "title": "【#わくわく参加キッズカップ】チーム練習配信　Apex Legends【北小路ヒスイ/にじさんじ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 139,
+   "view_count": 2608
   }
  ],
  "members_only_content": [
@@ -483,10 +485,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-20"
+    "to": "2026-11-21"
    },
    "streams_analyzed": 9,
-   "streams_missed": 2,
+   "streams_missed": 3,
    "unique_chatters": 439,
    "members_confirmed": 141,
    "member_classes": {

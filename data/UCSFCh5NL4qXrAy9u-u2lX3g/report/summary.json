@@ -3,56 +3,56 @@
  "channel_id": "UCSFCh5NL4qXrAy9u-u2lX3g",
  "handle": "@Kuzuha",
  "subscribers": 2240000,
- "fetched_at": "2026-11-20 12:08",
- "generated_at": "2026-11-20 12:08",
+ "fetched_at": "2026-11-21 05:19",
+ "generated_at": "2026-11-21 05:20",
  "period": {
-  "from": "2026-10-21 12:08",
-  "to": "2026-11-20 12:08",
+  "from": "2026-10-22 05:19",
+  "to": "2026-11-21 05:19",
   "days": 30
  },
  "streams_analyzed": 24,
  "streams_missed": 1,
- "unique_chatters": 19396,
- "members_confirmed": 6250,
+ "unique_chatters": 19382,
+ "members_confirmed": 6242,
  "member_classes": {
-  "unknown": 5769,
-  "known": 481
+  "unknown": 5759,
+  "known": 483
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 494
+   "members": 490
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 178
+   "members": 181
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 515
+   "members": 511
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 433
+   "members": 438
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 968
+   "members": 967
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 824
+   "members": 819
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 657
+   "members": 655
   },
   {
    "months": 48,
@@ -61,7 +61,7 @@
   }
  ],
  "events": {
-  "new_members": 224,
+  "new_members": 227,
   "rejoins": 75,
   "milestones": 0,
   "gift_purchases": 0,
@@ -74,21 +74,21 @@
    "tier": "チャンネル メンバーシップ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 481,
+   "confirmed_members": 483,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 5769.0,
-   "estimated_members": 6250.0,
-   "monthly_net_confirmed": 149985,
-   "monthly_net_estimated": 1948864
+   "allocated_unknown": 5759.0,
+   "estimated_members": 6242.0,
+   "monthly_net_confirmed": 150608,
+   "monthly_net_estimated": 1946369
   }
  ],
  "revenue": {
-  "monthly_low": 1948864,
-  "monthly_est": 1948864,
+  "monthly_low": 1946369,
+  "monthly_est": 1946369,
   "gift_once": 0,
-  "total_low": 1948864,
-  "total_est": 1948864,
-  "paying_members": 6250,
+  "total_low": 1946369,
+  "total_est": 1946369,
+  "paying_members": 6242,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -97,16 +97,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "u7t-Hb57278",
-   "start": "2026-10-21 21:42",
-   "title": "【LTKスクリムからOW】二時間三十分【CCC】",
-   "kind": "配信",
-   "chatters": 2114,
-   "member_chatters": 1174,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "U_BdDSrCQCQ",
    "start": "2026-10-22 18:22",
@@ -336,20 +326,30 @@
    "member_chatters": 1040,
    "new_members": 3,
    "gifted_total": 0
+  },
+  {
+   "video_id": "Vnxfx4Y366s",
+   "start": "2026-11-20 09:13",
+   "title": "【LTK 修行】年末調整【k4sen,昏昏アリア,龍巻ちせ3、やうじ コーチ：セロス氏】CCC",
+   "kind": "配信",
+   "chatters": 1753,
+   "member_chatters": 867,
+   "new_members": 4,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
   {
-   "video_id": "lD6HKUb8AhU",
-   "start": "2026-11-17 00:00",
-   "title": "【LTK】やうじの怪しいゴリ押しバックドア作戦が成功し、歓喜よりも困惑が勝ってしまう葛葉達【葛葉/にじさんじ/切り抜き】",
+   "video_id": "8Dj8P_rSob8",
+   "start": "2026-11-20 00:00",
+   "title": "【LTK】朝から長時間のLoL練習により、脳疲労が限界を超えて壊れかける葛葉【葛葉/にじさんじ/切り抜き】",
    "kind": "video",
    "status": "error",
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 684,
-   "view_count": 96312
+   "like_count": 407,
+   "view_count": 61571
   }
  ],
  "members_only_content": [],
@@ -504,17 +504,17 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-20"
+    "to": "2026-11-21"
    },
-   "streams_analyzed": 13,
+   "streams_analyzed": 14,
    "streams_missed": 1,
-   "unique_chatters": 15995,
-   "members_confirmed": 5479,
+   "unique_chatters": 16159,
+   "members_confirmed": 5503,
    "member_classes": {
-    "unknown": 5065,
-    "known": 414
+    "unknown": 5083,
+    "known": 420
    },
-   "long_term_members": 4085,
+   "long_term_members": 4102,
    "badges": [
     {
      "months": 0,
@@ -522,23 +522,23 @@
     },
     {
      "months": 1,
-     "members": 154
+     "members": 158
     },
     {
      "months": 2,
-     "members": 452
+     "members": 450
     },
     {
      "months": 6,
-     "members": 384
+     "members": 389
     },
     {
      "months": 12,
-     "members": 848
+     "members": 852
     },
     {
      "months": 24,
-     "members": 730
+     "members": 731
     },
     {
      "months": 36,
@@ -546,12 +546,12 @@
     },
     {
      "months": 48,
-     "members": 1932
+     "members": 1944
     }
    ],
    "events": {
-    "new_members": 166,
-    "rejoins": 48,
+    "new_members": 170,
+    "rejoins": 50,
     "milestones": 0,
     "gifted_total": 0
    },
@@ -559,16 +559,16 @@
     {
      "tier": "チャンネル メンバーシップ",
      "price": 490,
-     "confirmed_members": 414,
-     "estimated_members": 5479.0
+     "confirmed_members": 420,
+     "estimated_members": 5503.0
     }
    ],
    "revenue": {
-    "monthly_low": 1708452,
-    "monthly_est": 1708452,
+    "monthly_low": 1715935,
+    "monthly_est": 1715935,
     "gift_once": 0
    },
-   "avg_member_chatters": 1393.5,
+   "avg_member_chatters": 1355.9,
    "partial": true,
    "finalized": false
   }

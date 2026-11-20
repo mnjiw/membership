@@ -3,27 +3,27 @@
  "channel_id": "UCRcLAVTbmx2-iNcXSsupdNA",
  "handle": "@KurusuNatsume",
  "subscribers": 268000,
- "fetched_at": "2026-11-20 12:09",
- "generated_at": "2026-11-20 12:09",
+ "fetched_at": "2026-11-21 05:23",
+ "generated_at": "2026-11-21 05:24",
  "period": {
-  "from": "2026-10-21 12:09",
-  "to": "2026-11-20 12:09",
+  "from": "2026-10-22 05:23",
+  "to": "2026-11-21 05:23",
   "days": 30
  },
- "streams_analyzed": 18,
+ "streams_analyzed": 20,
  "streams_missed": 10,
- "unique_chatters": 996,
- "members_confirmed": 483,
+ "unique_chatters": 1057,
+ "members_confirmed": 510,
  "member_classes": {
-  "unknown": 444,
-  "known": 34,
-  "gift": 5
+  "unknown": 465,
+  "known": 35,
+  "gift": 10
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 24
+   "members": 29
   },
   {
    "months": 1,
@@ -33,51 +33,51 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 16
+   "members": 18
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 39
+   "members": 42
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 67
+   "members": 68
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 50
+   "members": 53
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 77
+   "members": 82
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 87
+   "members": 91
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 94
+   "members": 97
   },
   {
    "months": 72,
    "label": "6年",
-   "members": 21
+   "members": 22
   }
  ],
  "events": {
   "new_members": 13,
-  "rejoins": 13,
+  "rejoins": 14,
   "milestones": 0,
-  "gift_purchases": 1,
-  "gifted_total": 5,
-  "gift_redemptions": 5
+  "gift_purchases": 2,
+  "gifted_total": 10,
+  "gift_redemptions": 10
  },
  "tiers_configured": true,
  "tiers": [
@@ -85,32 +85,32 @@
    "tier": "なつめいとスタンダード",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 28,
-   "share_of_confirmed_pct": 82.4,
-   "allocated_unknown": 365.6,
-   "estimated_members": 393.6,
-   "monthly_net_confirmed": 8731,
-   "monthly_net_estimated": 122746
+   "confirmed_members": 29,
+   "share_of_confirmed_pct": 82.9,
+   "allocated_unknown": 385.3,
+   "estimated_members": 414.3,
+   "monthly_net_confirmed": 9043,
+   "monthly_net_estimated": 129182
   },
   {
    "tier": "なつめいとクリエイティブ",
    "price": 1190,
    "net_per_member": 757.3,
    "confirmed_members": 6,
-   "share_of_confirmed_pct": 17.6,
-   "allocated_unknown": 78.4,
-   "estimated_members": 84.4,
+   "share_of_confirmed_pct": 17.1,
+   "allocated_unknown": 79.7,
+   "estimated_members": 85.7,
    "monthly_net_confirmed": 4544,
-   "monthly_net_estimated": 63878
+   "monthly_net_estimated": 64909
   }
  ],
  "revenue": {
-  "monthly_low": 151722,
-  "monthly_est": 186624,
-  "gift_once": 1559,
-  "total_low": 153281,
-  "total_est": 188184,
-  "paying_members": 478,
+  "monthly_low": 158582,
+  "monthly_est": 194091,
+  "gift_once": 3118,
+  "total_low": 161700,
+  "total_est": 197209,
+  "paying_members": 500,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -298,6 +298,26 @@
    "member_chatters": 96,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "QS1DxRlFpeM",
+   "start": "2026-11-20 19:02",
+   "title": "Heavenly Weakness -MikitoP Arrange- (cover) 【Natsume Kurusu/NIJISANJI】",
+   "kind": "プレミア",
+   "chatters": 108,
+   "member_chatters": 88,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "ERDxqzxB2Z0",
+   "start": "2026-11-20 22:02",
+   "title": "冬の健康祈願　そしてもこもこ【来栖夏芽/にじさんじ】",
+   "kind": "配信",
+   "chatters": 254,
+   "member_chatters": 176,
+   "new_members": 0,
+   "gifted_total": 5
   }
  ],
  "missed_streams": [
@@ -705,22 +725,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-20"
+    "to": "2026-11-21"
    },
-   "streams_analyzed": 16,
+   "streams_analyzed": 18,
    "streams_missed": 5,
-   "unique_chatters": 865,
-   "members_confirmed": 433,
+   "unique_chatters": 935,
+   "members_confirmed": 465,
    "member_classes": {
-    "unknown": 399,
-    "known": 29,
-    "gift": 5
+    "unknown": 425,
+    "known": 30,
+    "gift": 10
    },
-   "long_term_members": 357,
+   "long_term_members": 379,
    "badges": [
     {
      "months": 0,
-     "members": 23
+     "members": 28
     },
     {
      "months": 1,
@@ -728,63 +748,63 @@
     },
     {
      "months": 2,
-     "members": 14
+     "members": 16
     },
     {
      "months": 6,
-     "members": 33
+     "members": 36
     },
     {
      "months": 12,
-     "members": 61
+     "members": 63
     },
     {
      "months": 24,
-     "members": 44
+     "members": 48
     },
     {
      "months": 36,
-     "members": 71
+     "members": 77
     },
     {
      "months": 48,
-     "members": 75
+     "members": 81
     },
     {
      "months": 60,
-     "members": 85
+     "members": 88
     },
     {
      "months": 72,
-     "members": 21
+     "members": 22
     }
    ],
    "events": {
     "new_members": 11,
-    "rejoins": 12,
+    "rejoins": 13,
     "milestones": 0,
-    "gifted_total": 5
+    "gifted_total": 10
    },
    "tiers": [
     {
      "tier": "なつめいとスタンダード",
      "price": 490,
-     "confirmed_members": 25,
-     "estimated_members": 369.0
+     "confirmed_members": 26,
+     "estimated_members": 394.3
     },
     {
      "tier": "なつめいとクリエイティブ",
      "price": 1190,
      "confirmed_members": 4,
-     "estimated_members": 59.0
+     "estimated_members": 60.7
     }
    ],
    "revenue": {
-    "monthly_low": 135240,
-    "monthly_est": 159755,
-    "gift_once": 1559
+    "monthly_low": 143659,
+    "monthly_est": 168902,
+    "gift_once": 3118
    },
-   "avg_member_chatters": 114.2,
+   "avg_member_chatters": 116.2,
    "partial": true,
    "finalized": false
   }

@@ -3,37 +3,37 @@
  "channel_id": "UCK9l6rTwU3hiSZijIMq51Gw",
  "handle": "@VezaliusBandage",
  "subscribers": 237000,
- "fetched_at": "2026-11-20 05:34",
- "generated_at": "2026-11-20 05:34",
+ "fetched_at": "2026-11-21 05:34",
+ "generated_at": "2026-11-21 05:34",
  "period": {
-  "from": "2026-10-21 05:34",
-  "to": "2026-11-20 05:34",
+  "from": "2026-10-22 05:34",
+  "to": "2026-11-21 05:34",
   "days": 30
  },
  "streams_analyzed": 28,
- "streams_missed": 3,
- "unique_chatters": 1342,
- "members_confirmed": 538,
+ "streams_missed": 4,
+ "unique_chatters": 1319,
+ "members_confirmed": 534,
  "member_classes": {
-  "unknown": 161,
-  "known": 110,
-  "gift": 267
+  "unknown": 163,
+  "known": 109,
+  "gift": 262
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 278
+   "members": 275
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 17
+   "members": 16
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 27
+   "members": 28
   },
   {
    "months": 6,
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 80
+   "members": 79
   },
   {
    "months": 24,
@@ -53,11 +53,11 @@
  ],
  "events": {
   "new_members": 13,
-  "rejoins": 10,
-  "milestones": 80,
-  "gift_purchases": 38,
-  "gifted_total": 272,
-  "gift_redemptions": 270
+  "rejoins": 8,
+  "milestones": 79,
+  "gift_purchases": 37,
+  "gifted_total": 267,
+  "gift_redemptions": 265
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +65,21 @@
    "tier": "VezShip",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 110,
+   "confirmed_members": 109,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 161.0,
-   "estimated_members": 271.0,
-   "monthly_net_confirmed": 34300,
-   "monthly_net_estimated": 84503
+   "allocated_unknown": 163.0,
+   "estimated_members": 272.0,
+   "monthly_net_confirmed": 33988,
+   "monthly_net_estimated": 84815
   }
  ],
  "revenue": {
-  "monthly_low": 84503,
-  "monthly_est": 84503,
-  "gift_once": 84815,
-  "total_low": 169317,
-  "total_est": 169317,
-  "paying_members": 271,
+  "monthly_low": 84815,
+  "monthly_est": 84815,
+  "gift_once": 83255,
+  "total_low": 168070,
+  "total_est": 168070,
+  "paying_members": 272,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "h7ZJs761zQM",
-   "start": "2026-10-21 21:01",
-   "title": "【Wuthering Waves】LAST DAY to pull Hsin..!【NIJISANJI EN | Vezalius Bandage】",
-   "kind": "配信",
-   "chatters": 106,
-   "member_chatters": 49,
-   "new_members": 0,
-   "gifted_total": 5
-  },
   {
    "video_id": "Izu0SzJgg-E",
    "start": "2026-10-22 20:59",
@@ -367,6 +357,16 @@
    "member_chatters": 249,
    "new_members": 1,
    "gifted_total": 64
+  },
+  {
+   "video_id": "5DXxNJGZXvU",
+   "start": "2026-11-20 21:08",
+   "title": "【League of Legends】Clash training!【NIJISANJI EN | Vezalius Bandage】",
+   "kind": "配信",
+   "chatters": 49,
+   "member_chatters": 37,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -405,6 +405,18 @@
    "members_level": "",
    "like_count": 559,
    "view_count": 11400
+  },
+  {
+   "video_id": "exTOW_X92WQ",
+   "start": "2026-11-20 00:00",
+   "title": "【League of Legends】Clash training!【NIJISANJI EN | Vezalius Bandage】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 257,
+   "view_count": 4923
   }
  ],
  "members_only_content": [
@@ -556,11 +568,11 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-20"
+    "to": "2026-11-21"
    },
-   "streams_analyzed": 19,
-   "streams_missed": 2,
-   "unique_chatters": 1048,
+   "streams_analyzed": 20,
+   "streams_missed": 3,
+   "unique_chatters": 1050,
    "members_confirmed": 492,
    "member_classes": {
     "known": 105,
@@ -575,11 +587,11 @@
     },
     {
      "months": 1,
-     "members": 17
+     "members": 16
     },
     {
      "months": 2,
-     "members": 21
+     "members": 22
     },
     {
      "months": 6,
@@ -613,7 +625,7 @@
     "monthly_est": 79825,
     "gift_once": 74836
    },
-   "avg_member_chatters": 74.8,
+   "avg_member_chatters": 72.9,
    "partial": true,
    "finalized": false
   }

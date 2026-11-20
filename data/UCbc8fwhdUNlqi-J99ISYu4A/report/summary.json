@@ -3,20 +3,20 @@
  "channel_id": "UCbc8fwhdUNlqi-J99ISYu4A",
  "handle": "@BelmondBanderas",
  "subscribers": 494000,
- "fetched_at": "2026-11-20 05:20",
- "generated_at": "2026-11-20 05:21",
+ "fetched_at": "2026-11-21 05:20",
+ "generated_at": "2026-11-21 05:21",
  "period": {
-  "from": "2026-10-21 05:20",
-  "to": "2026-11-20 05:20",
+  "from": "2026-10-22 05:20",
+  "to": "2026-11-21 05:20",
   "days": 30
  },
  "streams_analyzed": 22,
- "streams_missed": 4,
- "unique_chatters": 1494,
- "members_confirmed": 322,
+ "streams_missed": 3,
+ "unique_chatters": 1500,
+ "members_confirmed": 321,
  "member_classes": {
+  "known": 58,
   "unknown": 232,
-  "known": 59,
   "gift": 31
  },
  "badges": [
@@ -38,7 +38,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 34
+   "members": 33
   },
   {
    "months": 12,
@@ -53,7 +53,7 @@
  ],
  "events": {
   "new_members": 12,
-  "rejoins": 7,
+  "rejoins": 5,
   "milestones": 32,
   "gift_purchases": 4,
   "gifted_total": 31,
@@ -66,33 +66,33 @@
    "price": 140,
    "net_per_member": 89.1,
    "confirmed_members": 4,
-   "share_of_confirmed_pct": 6.8,
-   "allocated_unknown": 15.7,
-   "estimated_members": 19.7,
+   "share_of_confirmed_pct": 6.9,
+   "allocated_unknown": 16.0,
+   "estimated_members": 20.0,
    "monthly_net_confirmed": 356,
-   "monthly_net_estimated": 1758
+   "monthly_net_estimated": 1782
   },
   {
    "tier": "常連さんプラン",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 32,
-   "share_of_confirmed_pct": 54.2,
-   "allocated_unknown": 125.8,
-   "estimated_members": 157.8,
-   "monthly_net_confirmed": 9978,
-   "monthly_net_estimated": 49214
+   "confirmed_members": 31,
+   "share_of_confirmed_pct": 53.4,
+   "allocated_unknown": 124.0,
+   "estimated_members": 155.0,
+   "monthly_net_confirmed": 9666,
+   "monthly_net_estimated": 48332
   },
   {
    "tier": "お得意さんプラン",
    "price": 990,
    "net_per_member": 630.0,
    "confirmed_members": 22,
-   "share_of_confirmed_pct": 37.3,
-   "allocated_unknown": 86.5,
-   "estimated_members": 108.5,
+   "share_of_confirmed_pct": 37.9,
+   "allocated_unknown": 88.0,
+   "estimated_members": 110.0,
    "monthly_net_confirmed": 13860,
-   "monthly_net_estimated": 68360
+   "monthly_net_estimated": 69300
   },
   {
    "tier": "VIPプラン",
@@ -100,19 +100,19 @@
    "net_per_member": 2220.9,
    "confirmed_members": 1,
    "share_of_confirmed_pct": 1.7,
-   "allocated_unknown": 3.9,
-   "estimated_members": 4.9,
+   "allocated_unknown": 4.0,
+   "estimated_members": 5.0,
    "monthly_net_confirmed": 2221,
-   "monthly_net_estimated": 10954
+   "monthly_net_estimated": 11105
   }
  ],
  "revenue": {
-  "monthly_low": 47085,
-  "monthly_est": 130286,
+  "monthly_low": 46773,
+  "monthly_est": 130518,
   "gift_once": 2762,
-  "total_low": 49846,
-  "total_est": 133048,
-  "paying_members": 291,
+  "total_low": 49535,
+  "total_est": 133280,
+  "paying_members": 290,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -121,16 +121,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "ab7gZt433lQ",
-   "start": "2026-10-21 21:04",
-   "title": "【同時視聴】からくりサーカス 1～5話をみんなで観よう【にじさんじ/ベルモンド・バンデラス】",
-   "kind": "配信",
-   "chatters": 89,
-   "member_chatters": 31,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "5M_BluML8XA",
    "start": "2026-10-23 23:01",
@@ -340,21 +330,19 @@
    "member_chatters": 73,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "oakwJbPuZ14",
+   "start": "2026-11-20 23:00",
+   "title": "【逆転裁判３】 #12 第6話 弁護士 御剣怜侍 VS 検事 狩魔冥 ※ネタバレ注意！【ベルモンド・バンデラス/にじさんじ】",
+   "kind": "配信",
+   "chatters": 349,
+   "member_chatters": 73,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
-  {
-   "video_id": "PGZfQwjgLQQ",
-   "start": "2026-10-22 00:01",
-   "title": "【メン限配信】2026年10月の作業がてら雑談配信【にじさんじ/ベルモンド・バンデラス】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "常連さんプラン",
-   "like_count": 68,
-   "view_count": null
-  },
   {
    "video_id": "_5btH52Tfsc",
    "start": "2026-10-25 21:01",
@@ -393,16 +381,6 @@
   }
  ],
  "members_only_content": [
-  {
-   "video_id": "PGZfQwjgLQQ",
-   "start": "2026-10-22 00:01",
-   "title": "【メン限配信】2026年10月の作業がてら雑談配信【にじさんじ/ベルモンド・バンデラス】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "常連さんプラン",
-   "like_count": 68,
-   "view_count": null
-  },
   {
    "video_id": "_5btH52Tfsc",
    "start": "2026-10-25 21:01",
@@ -607,22 +585,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-20"
+    "to": "2026-11-21"
    },
-   "streams_analyzed": 15,
+   "streams_analyzed": 16,
    "streams_missed": 1,
-   "unique_chatters": 1201,
-   "members_confirmed": 303,
+   "unique_chatters": 1250,
+   "members_confirmed": 304,
    "member_classes": {
     "unknown": 225,
-    "known": 57,
+    "known": 58,
     "gift": 21
    },
    "long_term_members": 212,
    "badges": [
     {
      "months": 0,
-     "members": 39
+     "members": 40
     },
     {
      "months": 1,
@@ -646,7 +624,7 @@
     }
    ],
    "events": {
-    "new_members": 10,
+    "new_members": 11,
     "rejoins": 2,
     "milestones": 31,
     "gifted_total": 21
@@ -655,20 +633,20 @@
     {
      "tier": "ノンアルプラン",
      "price": 140,
-     "confirmed_members": 3,
-     "estimated_members": 14.8
+     "confirmed_members": 4,
+     "estimated_members": 19.5
     },
     {
      "tier": "常連さんプラン",
      "price": 490,
      "confirmed_members": 31,
-     "estimated_members": 153.4
+     "estimated_members": 151.3
     },
     {
      "tier": "お得意さんプラン",
      "price": 990,
      "confirmed_members": 22,
-     "estimated_members": 108.8
+     "estimated_members": 107.3
     },
     {
      "tier": "VIPプラン",
@@ -678,11 +656,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 46060,
-    "monthly_est": 128704,
+    "monthly_low": 46149,
+    "monthly_est": 127368,
     "gift_once": 1871
    },
-   "avg_member_chatters": 88.4,
+   "avg_member_chatters": 87.4,
    "partial": true,
    "finalized": false
   }

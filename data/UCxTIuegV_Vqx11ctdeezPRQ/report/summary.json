@@ -3,31 +3,31 @@
  "channel_id": "UCxTIuegV_Vqx11ctdeezPRQ",
  "handle": "@KaminagaTaiga",
  "subscribers": 212000,
- "fetched_at": "2026-11-20 05:34",
- "generated_at": "2026-11-20 05:35",
+ "fetched_at": "2026-11-21 05:34",
+ "generated_at": "2026-11-21 05:35",
  "period": {
-  "from": "2026-10-21 05:34",
-  "to": "2026-11-20 05:34",
+  "from": "2026-10-22 05:34",
+  "to": "2026-11-21 05:34",
   "days": 30
  },
- "streams_analyzed": 34,
+ "streams_analyzed": 33,
  "streams_missed": 3,
- "unique_chatters": 8764,
- "members_confirmed": 2405,
+ "unique_chatters": 8700,
+ "members_confirmed": 2420,
  "member_classes": {
-  "known": 1781,
-  "unknown": 564,
+  "known": 1788,
+  "unknown": 572,
   "gift": 60
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 2405
+   "members": 2420
   }
  ],
  "events": {
-  "new_members": 1784,
+  "new_members": 1791,
   "rejoins": 0,
   "milestones": 0,
   "gift_purchases": 9,
@@ -40,21 +40,21 @@
    "tier": "虎っ子部",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 1781,
+   "confirmed_members": 1788,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 564.0,
-   "estimated_members": 2345.0,
-   "monthly_net_confirmed": 555348,
-   "monthly_net_estimated": 731214
+   "allocated_unknown": 572.0,
+   "estimated_members": 2360.0,
+   "monthly_net_confirmed": 557531,
+   "monthly_net_estimated": 735891
   }
  ],
  "revenue": {
-  "monthly_low": 731214,
-  "monthly_est": 731214,
+  "monthly_low": 735891,
+  "monthly_est": 735891,
   "gift_once": 19021,
-  "total_low": 750235,
-  "total_est": 750235,
-  "paying_members": 2345,
+  "total_low": 754912,
+  "total_est": 754912,
+  "paying_members": 2360,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -63,26 +63,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "siPLLiJwJqk",
-   "start": "2026-10-21 07:01",
-   "title": "【朝活#１９】おはよう配信！～10月21日(水)～　# ０２【神永タイガ / にじさんじ】",
-   "kind": "配信",
-   "chatters": 594,
-   "member_chatters": 0,
-   "new_members": 0,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "CeEJ837SHOk",
-   "start": "2026-10-21 22:00",
-   "title": "【unpacking#２】連日片づける音大生 ～チルな夜～　# ０１【神永タイガ / にじさんじ】",
-   "kind": "配信",
-   "chatters": 470,
-   "member_chatters": 0,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "tG8H_HCQlQg",
    "start": "2026-10-22 07:01",
@@ -402,6 +382,16 @@
    "member_chatters": 246,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "MhctmgStk2k",
+   "start": "2026-11-20 22:02",
+   "title": "【雑談】スケジュール告知！！！　# ０２【神永タイガ / にじさんじ】",
+   "kind": "配信",
+   "chatters": 613,
+   "member_chatters": 521,
+   "new_members": 7,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -414,7 +404,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "虎っ子部",
-   "like_count": 746,
+   "like_count": 750,
    "view_count": null
   },
   {
@@ -438,7 +428,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 635,
+   "like_count": 642,
    "view_count": null
   }
  ],
@@ -450,7 +440,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "虎っ子部",
-   "like_count": 746,
+   "like_count": 750,
    "view_count": null
   },
   {
@@ -470,7 +460,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 635,
+   "like_count": 642,
    "view_count": null
   }
  ],
@@ -551,26 +541,26 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-20"
+    "to": "2026-11-21"
    },
-   "streams_analyzed": 20,
+   "streams_analyzed": 21,
    "streams_missed": 2,
-   "unique_chatters": 6015,
-   "members_confirmed": 1850,
+   "unique_chatters": 6054,
+   "members_confirmed": 1873,
    "member_classes": {
-    "known": 1262,
-    "unknown": 564,
+    "known": 1277,
+    "unknown": 572,
     "gift": 24
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 1850
+     "members": 1873
     }
    ],
    "events": {
-    "new_members": 259,
+    "new_members": 266,
     "rejoins": 0,
     "milestones": 0,
     "gifted_total": 25
@@ -579,16 +569,16 @@
     {
      "tier": "虎っ子部",
      "price": 490,
-     "confirmed_members": 1262,
-     "estimated_members": 1826.0
+     "confirmed_members": 1277,
+     "estimated_members": 1849.0
     }
    ],
    "revenue": {
-    "monthly_low": 569380,
-    "monthly_est": 569380,
+    "monthly_low": 576552,
+    "monthly_est": 576552,
     "gift_once": 7795
    },
-   "avg_member_chatters": 477.6,
+   "avg_member_chatters": 479.7,
    "partial": true,
    "finalized": false
   }

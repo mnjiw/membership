@@ -3,19 +3,19 @@
  "channel_id": "UCIq2HwA2iBOso7ar4VuU-TA",
  "handle": "@KadouMikaru",
  "subscribers": 138000,
- "fetched_at": "2026-11-20 05:31",
- "generated_at": "2026-11-20 05:31",
+ "fetched_at": "2026-11-21 05:31",
+ "generated_at": "2026-11-21 05:32",
  "period": {
-  "from": "2026-10-21 05:31",
-  "to": "2026-11-20 05:31",
+  "from": "2026-10-22 05:31",
+  "to": "2026-11-21 05:31",
   "days": 30
  },
- "streams_analyzed": 24,
+ "streams_analyzed": 23,
  "streams_missed": 3,
- "unique_chatters": 4270,
- "members_confirmed": 670,
+ "unique_chatters": 4150,
+ "members_confirmed": 657,
  "member_classes": {
-  "unknown": 611,
+  "unknown": 598,
   "known": 29,
   "gift": 30
  },
@@ -23,31 +23,31 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 79
+   "members": 78
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 40
+   "members": 38
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 123
+   "members": 121
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 141
+   "members": 139
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 287
+   "members": 281
   }
  ],
  "events": {
-  "new_members": 13,
+  "new_members": 12,
   "rejoins": 2,
   "milestones": 0,
   "gift_purchases": 3,
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 29,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 611.0,
-   "estimated_members": 640.0,
+   "allocated_unknown": 598.0,
+   "estimated_members": 627.0,
    "monthly_net_confirmed": 9043,
-   "monthly_net_estimated": 199564
+   "monthly_net_estimated": 195510
   }
  ],
  "revenue": {
-  "monthly_low": 199564,
-  "monthly_est": 199564,
+  "monthly_low": 195510,
+  "monthly_est": 195510,
   "gift_once": 15591,
-  "total_low": 215155,
-  "total_est": 215155,
-  "paying_members": 640,
+  "total_low": 211101,
+  "total_est": 211101,
+  "paying_members": 627,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "jZSB1qREN6M",
-   "start": "2026-10-21 23:15",
-   "title": "【 タンポポは耐える。 】 耐えるんや。蝸堂たえる。 【 にじさんじ / 蝸堂みかる 】",
-   "kind": "配信",
-   "chatters": 479,
-   "member_chatters": 207,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "Qx0XDl3-j5s",
    "start": "2026-10-22 16:30",
@@ -358,7 +348,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "かたつむり組",
-   "like_count": 221,
+   "like_count": 222,
    "view_count": null
   }
  ],
@@ -390,7 +380,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "かたつむり組",
-   "like_count": 221,
+   "like_count": 222,
    "view_count": null
   }
  ],
@@ -523,7 +513,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-20"
+    "to": "2026-11-21"
    },
    "streams_analyzed": 18,
    "streams_missed": 2,

@@ -3,15 +3,15 @@
  "channel_id": "UCspv01oxUFf_MTSipURRhkA",
  "handle": "@Kanae",
  "subscribers": 1650000,
- "fetched_at": "2026-11-20 05:19",
- "generated_at": "2026-11-20 05:19",
+ "fetched_at": "2026-11-21 05:19",
+ "generated_at": "2026-11-21 05:19",
  "period": {
-  "from": "2026-10-21 05:19",
-  "to": "2026-11-20 05:19",
+  "from": "2026-10-22 05:19",
+  "to": "2026-11-21 05:19",
   "days": 30
  },
  "streams_analyzed": 25,
- "streams_missed": 0,
+ "streams_missed": 2,
  "unique_chatters": 6140,
  "members_confirmed": 2709,
  "member_classes": {
@@ -339,7 +339,32 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "kkkrwEimMcQ",
+   "start": "2026-11-20 00:00",
+   "title": "【#LTK】完璧な計画に基づくTOPダイブの結果､ナイーブになる叶【にじさんじ/叶/切り抜き】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 346,
+   "view_count": 22874
+  },
+  {
+   "video_id": "krwkdhhZZRg",
+   "start": "2026-11-20 00:00",
+   "title": "【#LTK】ラブタイプ診断で盛り上がるCC NEXT【にじさんじ/叶/切り抜き】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 312,
+   "view_count": 9976
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -478,10 +503,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-20"
+    "to": "2026-11-21"
    },
    "streams_analyzed": 16,
-   "streams_missed": 0,
+   "streams_missed": 2,
    "unique_chatters": 5219,
    "members_confirmed": 2426,
    "member_classes": {

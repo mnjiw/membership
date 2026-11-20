@@ -3,19 +3,19 @@
  "channel_id": "UCXRlIK3Cw_TJIQC5kSJJQMg",
  "handle": "@InuiToko",
  "subscribers": 1040000,
- "fetched_at": "2026-11-20 05:21",
- "generated_at": "2026-11-20 05:21",
+ "fetched_at": "2026-11-21 05:20",
+ "generated_at": "2026-11-21 05:21",
  "period": {
-  "from": "2026-10-21 05:21",
-  "to": "2026-11-20 05:21",
+  "from": "2026-10-22 05:20",
+  "to": "2026-11-21 05:20",
   "days": 30
  },
- "streams_analyzed": 17,
+ "streams_analyzed": 16,
  "streams_missed": 3,
- "unique_chatters": 8883,
- "members_confirmed": 1828,
+ "unique_chatters": 8300,
+ "members_confirmed": 1801,
  "member_classes": {
-  "unknown": 1828
+  "unknown": 1801
  },
  "badges": [
   {
@@ -26,32 +26,32 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 48
+   "members": 47
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 160
+   "members": 158
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 165
+   "members": 164
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 310
+   "members": 305
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 1070
+   "members": 1052
   }
  ],
  "events": {
   "new_members": 27,
-  "rejoins": 27,
+  "rejoins": 26,
   "milestones": 0,
   "gift_purchases": 0,
   "gifted_total": 0,
@@ -65,19 +65,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 0,
    "share_of_confirmed_pct": "",
-   "allocated_unknown": 1828.0,
-   "estimated_members": 1828.0,
+   "allocated_unknown": 1801.0,
+   "estimated_members": 1801.0,
    "monthly_net_confirmed": 0,
-   "monthly_net_estimated": 570004
+   "monthly_net_estimated": 561585
   }
  ],
  "revenue": {
-  "monthly_low": 570004,
-  "monthly_est": 570004,
+  "monthly_low": 561585,
+  "monthly_est": 561585,
   "gift_once": 0,
-  "total_low": 570004,
-  "total_est": 570004,
-  "paying_members": 1828,
+  "total_low": 561585,
+  "total_est": 561585,
+  "paying_members": 1801,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -86,16 +86,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "3_WptsOyFlw",
-   "start": "2026-10-21 19:59",
-   "title": "【コラボ歌枠】ソロもデュエットも全員でも！欲張りカラオケ【戌亥とこ/にじさんじ】",
-   "kind": "配信",
-   "chatters": 1095,
-   "member_chatters": 352,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "51F97YMeRE4",
    "start": "2026-10-22 19:02",
@@ -267,7 +257,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 304,
+   "like_count": 305,
    "view_count": null
   },
   {
@@ -279,7 +269,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 496,
+   "like_count": 497,
    "view_count": null
   },
   {
@@ -291,7 +281,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 480,
+   "like_count": 486,
    "view_count": null
   }
  ],
@@ -303,7 +293,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 304,
+   "like_count": 305,
    "view_count": null
   },
   {
@@ -313,7 +303,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 496,
+   "like_count": 497,
    "view_count": null
   },
   {
@@ -323,7 +313,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 480,
+   "like_count": 486,
    "view_count": null
   }
  ],
@@ -460,7 +450,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-20"
+    "to": "2026-11-21"
    },
    "streams_analyzed": 8,
    "streams_missed": 2,

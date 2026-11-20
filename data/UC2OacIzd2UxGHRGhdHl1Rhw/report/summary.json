@@ -3,16 +3,16 @@
  "channel_id": "UC2OacIzd2UxGHRGhdHl1Rhw",
  "handle": "@HayaseSou",
  "subscribers": 297000,
- "fetched_at": "2026-11-20 05:22",
- "generated_at": "2026-11-20 05:23",
+ "fetched_at": "2026-11-21 05:22",
+ "generated_at": "2026-11-21 05:23",
  "period": {
-  "from": "2026-10-21 05:22",
-  "to": "2026-11-20 05:22",
+  "from": "2026-10-22 05:22",
+  "to": "2026-11-21 05:22",
   "days": 30
  },
  "streams_analyzed": 27,
  "streams_missed": 0,
- "unique_chatters": 6998,
+ "unique_chatters": 7469,
  "members_confirmed": 54,
  "member_classes": {
   "unknown": 52,
@@ -22,12 +22,12 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 5
+   "members": 4
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 1
+   "members": 2
   },
   {
    "months": 2,
@@ -109,16 +109,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "Gf0TKh7ZqHI",
-   "start": "2026-10-21 10:00",
-   "title": "【MOTHER3】#2 奇妙で、おもしろい。そして、せつない。",
-   "kind": "配信",
-   "chatters": 110,
-   "member_chatters": 12,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "7d-weO4HSMM",
    "start": "2026-10-23 10:00",
@@ -378,6 +368,16 @@
    "member_chatters": 6,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "HiJEH4_LGds",
+   "start": "2026-11-20 22:01",
+   "title": "【#早瀬とサシ飲み再演】早瀬走×リゼ・ヘルエスタ　part.20",
+   "kind": "配信",
+   "chatters": 802,
+   "member_chatters": 13,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -538,17 +538,17 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-20"
+    "to": "2026-11-21"
    },
-   "streams_analyzed": 21,
+   "streams_analyzed": 22,
    "streams_missed": 0,
-   "unique_chatters": 6794,
-   "members_confirmed": 51,
+   "unique_chatters": 7302,
+   "members_confirmed": 53,
    "member_classes": {
-    "unknown": 49,
+    "unknown": 51,
     "known": 2
    },
-   "long_term_members": 40,
+   "long_term_members": 41,
    "badges": [
     {
      "months": 0,
@@ -556,7 +556,7 @@
     },
     {
      "months": 1,
-     "members": 1
+     "members": 2
     },
     {
      "months": 2,
@@ -572,7 +572,7 @@
     },
     {
      "months": 24,
-     "members": 37
+     "members": 38
     }
    ],
    "events": {
@@ -586,7 +586,7 @@
      "tier": "早瀬荘",
      "price": 490,
      "confirmed_members": 2,
-     "estimated_members": 51.0
+     "estimated_members": 53.0
     },
     {
      "tier": "早瀬ハイツ",
@@ -602,8 +602,8 @@
     }
    ],
    "revenue": {
-    "monthly_low": 15903,
-    "monthly_est": 15903,
+    "monthly_low": 16526,
+    "monthly_est": 16526,
     "gift_once": 0
    },
    "avg_member_chatters": 13.7,
