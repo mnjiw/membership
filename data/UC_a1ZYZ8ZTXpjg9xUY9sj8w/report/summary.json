@@ -3,27 +3,27 @@
  "channel_id": "UC_a1ZYZ8ZTXpjg9xUY9sj8w",
  "handle": "@LuluSuzuhara",
  "subscribers": 778000,
- "fetched_at": "2026-11-21 12:12",
- "generated_at": "2026-11-21 12:13",
+ "fetched_at": "2026-11-22 05:21",
+ "generated_at": "2026-11-22 05:22",
  "period": {
-  "from": "2026-10-22 12:12",
-  "to": "2026-11-21 12:12",
+  "from": "2026-10-23 05:21",
+  "to": "2026-11-22 05:21",
   "days": 30
  },
- "streams_analyzed": 21,
- "streams_missed": 2,
- "unique_chatters": 6739,
- "members_confirmed": 820,
+ "streams_analyzed": 20,
+ "streams_missed": 3,
+ "unique_chatters": 6564,
+ "members_confirmed": 813,
  "member_classes": {
-  "unknown": 778,
+  "unknown": 773,
   "known": 22,
-  "gift": 20
+  "gift": 18
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 39
+   "members": 38
   },
   {
    "months": 1,
@@ -38,26 +38,26 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 462
+   "members": 458
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 109
+   "members": 108
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 146
+   "members": 145
   }
  ],
  "events": {
   "new_members": 10,
   "rejoins": 4,
   "milestones": 0,
-  "gift_purchases": 20,
-  "gifted_total": 20,
-  "gift_redemptions": 20
+  "gift_purchases": 18,
+  "gifted_total": 18,
+  "gift_redemptions": 18
  },
  "tiers_configured": true,
  "tiers": [
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 22,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 778.0,
-   "estimated_members": 800.0,
+   "allocated_unknown": 773.0,
+   "estimated_members": 795.0,
    "monthly_net_confirmed": 6860,
-   "monthly_net_estimated": 249455
+   "monthly_net_estimated": 247895
   }
  ],
  "revenue": {
-  "monthly_low": 249455,
-  "monthly_est": 249455,
-  "gift_once": 6236,
-  "total_low": 255691,
-  "total_est": 255691,
-  "paying_members": 800,
+  "monthly_low": 247895,
+  "monthly_est": 247895,
+  "gift_once": 5613,
+  "total_low": 253508,
+  "total_est": 253508,
+  "paying_members": 795,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "6JFRBVDd1RQ",
-   "start": "2026-10-22 23:31",
-   "title": "【Japanese Ramen Simulator】03 祝！開店！深夜にらああめんはいかがですか？？！！！！！！　【にじさんじ/鈴原るる】",
-   "kind": "配信",
-   "chatters": 723,
-   "member_chatters": 258,
-   "new_members": 0,
-   "gifted_total": 2
-  },
   {
    "video_id": "lmBYTHyoVGo",
    "start": "2026-10-24 23:31",
@@ -321,8 +311,20 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 422,
-   "view_count": 18514
+   "like_count": 437,
+   "view_count": 18886
+  },
+  {
+   "video_id": "tNH0DA51phI",
+   "start": "2026-11-21 00:00",
+   "title": "時を巡る旅の最後に、魔王の城で冴えわたる勇者鈴原るる【鈴原るる/時オカリメイク/にじさんじ切り抜き】※ネタバレあり",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 302,
+   "view_count": 10847
   }
  ],
  "members_only_content": [
@@ -474,10 +476,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-21"
+    "to": "2026-11-22"
    },
    "streams_analyzed": 14,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 4558,
    "members_confirmed": 686,
    "member_classes": {

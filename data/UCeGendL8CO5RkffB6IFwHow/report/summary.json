@@ -2,28 +2,33 @@
  "channel": "セフィナ / Seffyna【にじさんじ】",
  "channel_id": "UCeGendL8CO5RkffB6IFwHow",
  "handle": "@Seffyna",
- "subscribers": 238000,
- "fetched_at": "2026-11-21 12:14",
- "generated_at": "2026-11-21 12:14",
+ "subscribers": 239000,
+ "fetched_at": "2026-11-22 05:30",
+ "generated_at": "2026-11-22 05:32",
  "period": {
-  "from": "2026-10-22 12:14",
-  "to": "2026-11-21 12:14",
+  "from": "2026-10-23 05:30",
+  "to": "2026-11-22 05:30",
   "days": 30
  },
- "streams_analyzed": 17,
- "streams_missed": 2,
- "unique_chatters": 394,
- "members_confirmed": 67,
+ "streams_analyzed": 18,
+ "streams_missed": 1,
+ "unique_chatters": 1225,
+ "members_confirmed": 91,
  "member_classes": {
-  "unknown": 55,
-  "known": 11,
-  "gift": 1
+  "unknown": 66,
+  "known": 13,
+  "gift": 12
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 4
+   "members": 16
+  },
+  {
+   "months": 1,
+   "label": "1ヶ月",
+   "members": 1
   },
   {
    "months": 2,
@@ -33,36 +38,36 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 10
+   "members": 13
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 10
+   "members": 9
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 9
+   "members": 11
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 10
+   "members": 13
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 21
+   "members": 25
   }
  ],
  "events": {
-  "new_members": 3,
+  "new_members": 4,
   "rejoins": 0,
-  "milestones": 4,
-  "gift_purchases": 1,
-  "gifted_total": 1,
-  "gift_redemptions": 1
+  "milestones": 5,
+  "gift_purchases": 3,
+  "gifted_total": 12,
+  "gift_redemptions": 12
  },
  "tiers_configured": true,
  "tiers": [
@@ -70,21 +75,21 @@
    "tier": "セフィナイトの温室",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 11,
+   "confirmed_members": 13,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 55.0,
-   "estimated_members": 66.0,
-   "monthly_net_confirmed": 3430,
-   "monthly_net_estimated": 20580
+   "allocated_unknown": 66.0,
+   "estimated_members": 79.0,
+   "monthly_net_confirmed": 4054,
+   "monthly_net_estimated": 24634
   }
  ],
  "revenue": {
-  "monthly_low": 20580,
-  "monthly_est": 20580,
-  "gift_once": 312,
-  "total_low": 20892,
-  "total_est": 20892,
-  "paying_members": 66,
+  "monthly_low": 24634,
+  "monthly_est": 24634,
+  "gift_once": 3742,
+  "total_low": 28375,
+  "total_est": 28375,
+  "paying_members": 79,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -262,21 +267,19 @@
    "member_chatters": 15,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "AfQLtnp1NT8",
+   "start": "2026-11-21 15:59",
+   "title": "【歌枠】めにまにな5人でカラオケオフコラボ!✨ 告知も有り!【にじさんじ | 桜凛月, 長尾景, セフィナ, 渚トラウト, 一橋綾人】",
+   "kind": "配信",
+   "chatters": 885,
+   "member_chatters": 51,
+   "new_members": 1,
+   "gifted_total": 11
   }
  ],
  "missed_streams": [
-  {
-   "video_id": "e3rYNvG5VS4",
-   "start": "2026-10-22 20:04",
-   "title": "あきのめんげん (´◉ω◉` )",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "セフィナイトの温室",
-   "like_count": 34,
-   "view_count": null
-  },
   {
    "video_id": "R5c9MKRRu60",
    "start": "2026-11-20 00:00",
@@ -286,22 +289,11 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 2148,
-   "view_count": 22798
+   "like_count": 3168,
+   "view_count": 41018
   }
  ],
- "members_only_content": [
-  {
-   "video_id": "e3rYNvG5VS4",
-   "start": "2026-10-22 20:04",
-   "title": "あきのめんげん (´◉ω◉` )",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "セフィナイトの温室",
-   "like_count": 34,
-   "view_count": null
-  }
- ],
+ "members_only_content": [],
  "history": [
   {
    "month": "2026-09",
@@ -445,22 +437,26 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-21"
+    "to": "2026-11-22"
    },
-   "streams_analyzed": 13,
+   "streams_analyzed": 14,
    "streams_missed": 1,
-   "unique_chatters": 321,
-   "members_confirmed": 56,
+   "unique_chatters": 1159,
+   "members_confirmed": 83,
    "member_classes": {
-    "unknown": 46,
-    "known": 9,
-    "gift": 1
+    "unknown": 58,
+    "known": 13,
+    "gift": 12
    },
-   "long_term_members": 39,
+   "long_term_members": 50,
    "badges": [
     {
      "months": 0,
-     "members": 4
+     "members": 16
+    },
+    {
+     "months": 1,
+     "members": 1
     },
     {
      "months": 2,
@@ -468,45 +464,45 @@
     },
     {
      "months": 6,
-     "members": 10
+     "members": 13
     },
     {
      "months": 12,
-     "members": 9
-    },
-    {
-     "months": 24,
-     "members": 6
-    },
-    {
-     "months": 36,
      "members": 8
     },
     {
+     "months": 24,
+     "members": 10
+    },
+    {
+     "months": 36,
+     "members": 11
+    },
+    {
      "months": 48,
-     "members": 16
+     "members": 21
     }
    ],
    "events": {
-    "new_members": 3,
+    "new_members": 4,
     "rejoins": 0,
-    "milestones": 1,
-    "gifted_total": 1
+    "milestones": 2,
+    "gifted_total": 12
    },
    "tiers": [
     {
      "tier": "セフィナイトの温室",
      "price": 490,
-     "confirmed_members": 9,
-     "estimated_members": 55.0
+     "confirmed_members": 13,
+     "estimated_members": 71.0
     }
    ],
    "revenue": {
-    "monthly_low": 17150,
-    "monthly_est": 17150,
-    "gift_once": 312
+    "monthly_low": 22139,
+    "monthly_est": 22139,
+    "gift_once": 3742
    },
-   "avg_member_chatters": 18.3,
+   "avg_member_chatters": 20.6,
    "partial": true,
    "finalized": false
   }

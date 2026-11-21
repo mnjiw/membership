@@ -3,19 +3,19 @@
  "channel_id": "UCspv01oxUFf_MTSipURRhkA",
  "handle": "@Kanae",
  "subscribers": 1650000,
- "fetched_at": "2026-11-21 12:11",
- "generated_at": "2026-11-21 12:12",
+ "fetched_at": "2026-11-22 05:19",
+ "generated_at": "2026-11-22 05:19",
  "period": {
-  "from": "2026-10-22 12:11",
-  "to": "2026-11-21 12:11",
+  "from": "2026-10-23 05:19",
+  "to": "2026-11-22 05:19",
   "days": 30
  },
- "streams_analyzed": 25,
+ "streams_analyzed": 24,
  "streams_missed": 3,
- "unique_chatters": 6140,
- "members_confirmed": 2709,
+ "unique_chatters": 5980,
+ "members_confirmed": 2690,
  "member_classes": {
-  "unknown": 2617,
+  "unknown": 2598,
   "known": 81,
   "gift": 11
  },
@@ -28,31 +28,31 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 42
+   "members": 41
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 327
+   "members": 325
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 254
+   "members": 253
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 473
+   "members": 469
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 1563
+   "members": 1552
   }
  ],
  "events": {
-  "new_members": 23,
+  "new_members": 22,
   "rejoins": 20,
   "milestones": 0,
   "gift_purchases": 2,
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 81,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2617.0,
-   "estimated_members": 2698.0,
+   "allocated_unknown": 2598.0,
+   "estimated_members": 2679.0,
    "monthly_net_confirmed": 25257,
-   "monthly_net_estimated": 841285
+   "monthly_net_estimated": 835361
   }
  ],
  "revenue": {
-  "monthly_low": 841285,
-  "monthly_est": 841285,
+  "monthly_low": 835361,
+  "monthly_est": 835361,
   "gift_once": 3430,
-  "total_low": 844715,
-  "total_est": 844715,
-  "paying_members": 2698,
+  "total_low": 838791,
+  "total_est": 838791,
+  "paying_members": 2679,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "QtX3aIgWm8w",
-   "start": "2026-10-22 18:34",
-   "title": "今日はスクリム！相手はDD | LTK【にじさんじ/叶】",
-   "kind": "配信",
-   "chatters": 1318,
-   "member_chatters": 871,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "v3wKyXzZFO8",
    "start": "2026-10-23 16:12",
@@ -349,8 +339,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 374,
-   "view_count": 23322
+   "like_count": 397,
+   "view_count": 24032
   },
   {
    "video_id": "krwkdhhZZRg",
@@ -361,8 +351,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 340,
-   "view_count": 11331
+   "like_count": 362,
+   "view_count": 13000
   },
   {
    "video_id": "uZoyjEq2fD8",
@@ -373,8 +363,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 88,
-   "view_count": 3661
+   "like_count": 283,
+   "view_count": 20791
   }
  ],
  "members_only_content": [],
@@ -515,7 +505,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-21"
+    "to": "2026-11-22"
    },
    "streams_analyzed": 16,
    "streams_missed": 3,

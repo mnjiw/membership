@@ -3,32 +3,32 @@
  "channel_id": "UCHVSA2OScyef9W7OwPGgJ9w",
  "handle": "@ShiroseIsumi",
  "subscribers": 149000,
- "fetched_at": "2026-11-21 05:32",
- "generated_at": "2026-11-21 05:32",
+ "fetched_at": "2026-11-22 05:40",
+ "generated_at": "2026-11-22 05:40",
  "period": {
-  "from": "2026-10-22 05:32",
-  "to": "2026-11-21 05:32",
+  "from": "2026-10-23 05:40",
+  "to": "2026-11-22 05:40",
   "days": 30
  },
- "streams_analyzed": 21,
+ "streams_analyzed": 22,
  "streams_missed": 2,
- "unique_chatters": 2580,
- "members_confirmed": 199,
+ "unique_chatters": 2605,
+ "members_confirmed": 211,
  "member_classes": {
-  "unknown": 156,
-  "known": 34,
-  "gift": 9
+  "unknown": 160,
+  "known": 37,
+  "gift": 14
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 46
+   "members": 53
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 19
+   "members": 21
   },
   {
    "months": 2,
@@ -43,16 +43,16 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 56
+   "members": 59
   }
  ],
  "events": {
-  "new_members": 21,
-  "rejoins": 4,
+  "new_members": 22,
+  "rejoins": 5,
   "milestones": 0,
-  "gift_purchases": 5,
-  "gifted_total": 9,
-  "gift_redemptions": 9
+  "gift_purchases": 6,
+  "gifted_total": 14,
+  "gift_redemptions": 14
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,21 +60,21 @@
    "tier": "くらすみゃいと",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 34,
+   "confirmed_members": 37,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 156.0,
-   "estimated_members": 190.0,
-   "monthly_net_confirmed": 10602,
-   "monthly_net_estimated": 59245
+   "allocated_unknown": 160.0,
+   "estimated_members": 197.0,
+   "monthly_net_confirmed": 11537,
+   "monthly_net_estimated": 61428
   }
  ],
  "revenue": {
-  "monthly_low": 59245,
-  "monthly_est": 59245,
-  "gift_once": 2806,
-  "total_low": 62052,
-  "total_est": 62052,
-  "paying_members": 190,
+  "monthly_low": 61428,
+  "monthly_est": 61428,
+  "gift_once": 4365,
+  "total_low": 65794,
+  "total_est": 65794,
+  "paying_members": 197,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -292,6 +292,16 @@
    "member_chatters": 35,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "REcf9BP3adA",
+   "start": "2026-11-21 23:00",
+   "title": "【 ゼルダの伝説 ブレス オブ ザ ワイルド 】長い戦いに終止符を  最終回(仮)【にじさんじ / 城瀬いすみ / すぷれあ 】",
+   "kind": "配信",
+   "chatters": 74,
+   "member_chatters": 41,
+   "new_members": 1,
+   "gifted_total": 5
   }
  ],
  "missed_streams": [
@@ -466,26 +476,26 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-21"
+    "to": "2026-11-22"
    },
-   "streams_analyzed": 15,
+   "streams_analyzed": 16,
    "streams_missed": 1,
-   "unique_chatters": 1098,
-   "members_confirmed": 172,
+   "unique_chatters": 1123,
+   "members_confirmed": 184,
    "member_classes": {
-    "unknown": 135,
-    "known": 30,
-    "gift": 7
+    "unknown": 139,
+    "known": 33,
+    "gift": 12
    },
-   "long_term_members": 52,
+   "long_term_members": 55,
    "badges": [
     {
      "months": 0,
-     "members": 37
+     "members": 44
     },
     {
      "months": 1,
-     "members": 18
+     "members": 20
     },
     {
      "months": 2,
@@ -497,29 +507,29 @@
     },
     {
      "months": 12,
-     "members": 52
+     "members": 55
     }
    ],
    "events": {
-    "new_members": 12,
-    "rejoins": 4,
+    "new_members": 13,
+    "rejoins": 5,
     "milestones": 0,
-    "gifted_total": 7
+    "gifted_total": 12
    },
    "tiers": [
     {
      "tier": "くらすみゃいと",
      "price": 490,
-     "confirmed_members": 30,
-     "estimated_members": 165.0
+     "confirmed_members": 33,
+     "estimated_members": 172.0
     }
    ],
    "revenue": {
-    "monthly_low": 51450,
-    "monthly_est": 51450,
-    "gift_once": 2183
+    "monthly_low": 53633,
+    "monthly_est": 53633,
+    "gift_once": 3742
    },
-   "avg_member_chatters": 43.5,
+   "avg_member_chatters": 43.3,
    "partial": true,
    "finalized": false
   }

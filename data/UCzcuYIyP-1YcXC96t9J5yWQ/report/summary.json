@@ -3,27 +3,27 @@
  "channel_id": "UCzcuYIyP-1YcXC96t9J5yWQ",
  "handle": "@KuriEita_Y4T4",
  "subscribers": 77300,
- "fetched_at": "2026-11-21 05:32",
- "generated_at": "2026-11-21 05:32",
+ "fetched_at": "2026-11-22 05:40",
+ "generated_at": "2026-11-22 05:40",
  "period": {
-  "from": "2026-10-22 05:32",
-  "to": "2026-11-21 05:32",
+  "from": "2026-10-23 05:40",
+  "to": "2026-11-22 05:40",
   "days": 30
  },
  "streams_analyzed": 27,
  "streams_missed": 1,
- "unique_chatters": 1390,
- "members_confirmed": 122,
+ "unique_chatters": 1382,
+ "members_confirmed": 121,
  "member_classes": {
   "unknown": 103,
   "known": 16,
-  "gift": 3
+  "gift": 2
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 23
+   "members": 22
   },
   {
    "months": 1,
@@ -40,9 +40,9 @@
   "new_members": 9,
   "rejoins": 2,
   "milestones": 0,
-  "gift_purchases": 3,
-  "gifted_total": 3,
-  "gift_redemptions": 3
+  "gift_purchases": 2,
+  "gifted_total": 2,
+  "gift_redemptions": 2
  },
  "tiers_configured": true,
  "tiers": [
@@ -61,9 +61,9 @@
  "revenue": {
   "monthly_low": 37106,
   "monthly_est": 37106,
-  "gift_once": 935,
-  "total_low": 38042,
-  "total_est": 38042,
+  "gift_once": 624,
+  "total_low": 37730,
+  "total_est": 37730,
   "paying_members": 119,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "bDPo6n-xHYU",
-   "start": "2026-10-22 22:03",
-   "title": "【Apex】ソロマスチャレンジ13日目！！！高みへ行く！！！【九里詠太 / にじさんじ】",
-   "kind": "配信",
-   "chatters": 114,
-   "member_chatters": 30,
-   "new_members": 0,
-   "gifted_total": 1
-  },
   {
    "video_id": "JrfTCCfSmqk",
    "start": "2026-10-23 21:43",
@@ -342,6 +332,16 @@
    "member_chatters": 26,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "I19WIdmP0KY",
+   "start": "2026-11-21 14:00",
+   "title": "【ゼルダの伝説 時のオカリナ リメイク】#03 人生初ゼルダ！ ガノンドロフに遭遇！？【九里詠太 / にじさんじ】",
+   "kind": "配信",
+   "chatters": 51,
+   "member_chatters": 18,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -483,11 +483,11 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-21"
+    "to": "2026-11-22"
    },
-   "streams_analyzed": 20,
+   "streams_analyzed": 21,
    "streams_missed": 0,
-   "unique_chatters": 710,
+   "unique_chatters": 722,
    "members_confirmed": 104,
    "member_classes": {
     "unknown": 89,
@@ -528,7 +528,7 @@
     "monthly_est": 32117,
     "gift_once": 312
    },
-   "avg_member_chatters": 34.3,
+   "avg_member_chatters": 33.5,
    "partial": true,
    "finalized": false
   }

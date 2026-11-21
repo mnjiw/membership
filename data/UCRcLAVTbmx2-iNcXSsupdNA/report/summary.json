@@ -3,15 +3,15 @@
  "channel_id": "UCRcLAVTbmx2-iNcXSsupdNA",
  "handle": "@KurusuNatsume",
  "subscribers": 268000,
- "fetched_at": "2026-11-21 05:23",
- "generated_at": "2026-11-21 05:24",
+ "fetched_at": "2026-11-22 05:25",
+ "generated_at": "2026-11-22 05:26",
  "period": {
-  "from": "2026-10-22 05:23",
-  "to": "2026-11-21 05:23",
+  "from": "2026-10-23 05:25",
+  "to": "2026-11-22 05:25",
   "days": 30
  },
  "streams_analyzed": 20,
- "streams_missed": 10,
+ "streams_missed": 12,
  "unique_chatters": 1057,
  "members_confirmed": 510,
  "member_classes": {
@@ -322,18 +322,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "kiMGCxuHzvQ",
-   "start": "2026-10-22 21:01",
-   "title": "【同時視聴】シェフ　三ツ星フードトラック始めました",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 145,
-   "view_count": null
-  },
-  {
    "video_id": "OeDghou6Jys",
    "start": "2026-10-23 21:01",
    "title": "【同時視聴】TENET",
@@ -378,7 +366,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 122,
+   "like_count": 123,
    "view_count": null
   },
   {
@@ -439,21 +427,47 @@
    "members_only": true,
    "members_level": "",
    "like_count": 95,
+   "view_count": null
+  },
+  {
+   "video_id": "SuEzVg1K85M",
+   "start": "2026-11-21 15:00",
+   "title": "【同時視聴】パーフェクトブルー",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 61,
+   "view_count": null
+  },
+  {
+   "video_id": "XCbdMDKBzF8",
+   "start": "2026-11-21 17:00",
+   "title": "【同時視聴】キャッチ・ミー・イフ・ユー・キャン",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 62,
+   "view_count": null
+  },
+  {
+   "video_id": "ioP3BP0oXFk",
+   "start": "2026-11-21 20:31",
+   "title": "【同時視聴】グリーンブック",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 82,
    "view_count": null
   }
  ],
  "members_only_content": [
   {
-   "video_id": "kiMGCxuHzvQ",
-   "start": "2026-10-22 21:01",
-   "title": "【同時視聴】シェフ　三ツ星フードトラック始めました",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 145,
-   "view_count": null
-  },
-  {
    "video_id": "OeDghou6Jys",
    "start": "2026-10-23 21:01",
    "title": "【同時視聴】TENET",
@@ -490,7 +504,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 122,
+   "like_count": 123,
    "view_count": null
   },
   {
@@ -541,6 +555,36 @@
    "status": "members_only",
    "members_level": "",
    "like_count": 95,
+   "view_count": null
+  },
+  {
+   "video_id": "SuEzVg1K85M",
+   "start": "2026-11-21 15:00",
+   "title": "【同時視聴】パーフェクトブルー",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 61,
+   "view_count": null
+  },
+  {
+   "video_id": "XCbdMDKBzF8",
+   "start": "2026-11-21 17:00",
+   "title": "【同時視聴】キャッチ・ミー・イフ・ユー・キャン",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 62,
+   "view_count": null
+  },
+  {
+   "video_id": "ioP3BP0oXFk",
+   "start": "2026-11-21 20:31",
+   "title": "【同時視聴】グリーンブック",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 82,
    "view_count": null
   }
  ],
@@ -725,10 +769,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-21"
+    "to": "2026-11-22"
    },
    "streams_analyzed": 18,
-   "streams_missed": 5,
+   "streams_missed": 8,
    "unique_chatters": 935,
    "members_confirmed": 465,
    "member_classes": {

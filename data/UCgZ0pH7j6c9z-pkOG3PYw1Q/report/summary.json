@@ -3,21 +3,21 @@
  "channel_id": "UCgZ0pH7j6c9z-pkOG3PYw1Q",
  "handle": "@HoshirubeSho",
  "subscribers": 507000,
- "fetched_at": "2026-11-21 12:14",
- "generated_at": "2026-11-21 12:14",
+ "fetched_at": "2026-11-22 05:32",
+ "generated_at": "2026-11-22 05:34",
  "period": {
-  "from": "2026-10-22 12:14",
-  "to": "2026-11-21 12:14",
+  "from": "2026-10-23 05:32",
+  "to": "2026-11-22 05:32",
   "days": 30
  },
- "streams_analyzed": 23,
+ "streams_analyzed": 22,
  "streams_missed": 1,
- "unique_chatters": 6606,
- "members_confirmed": 3190,
+ "unique_chatters": 5760,
+ "members_confirmed": 3144,
  "member_classes": {
-  "unknown": 2164,
-  "known": 881,
-  "gift": 145
+  "unknown": 2119,
+  "known": 882,
+  "gift": 143
  },
  "badges": [
   {
@@ -28,12 +28,12 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 136
+   "members": 138
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 435
+   "members": 428
   },
   {
    "months": 6,
@@ -43,26 +43,26 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 914
+   "members": 891
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 618
+   "members": 606
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 357
+   "members": 351
   }
  ],
  "events": {
-  "new_members": 83,
-  "rejoins": 31,
-  "milestones": 176,
-  "gift_purchases": 38,
-  "gifted_total": 148,
-  "gift_redemptions": 145
+  "new_members": 86,
+  "rejoins": 30,
+  "milestones": 186,
+  "gift_purchases": 37,
+  "gifted_total": 147,
+  "gift_redemptions": 144
  },
  "tiers_configured": true,
  "tiers": [
@@ -70,21 +70,21 @@
    "tier": "インショウ派",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 881,
+   "confirmed_members": 882,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2164.0,
-   "estimated_members": 3045.0,
-   "monthly_net_confirmed": 274712,
-   "monthly_net_estimated": 949486
+   "allocated_unknown": 2119.0,
+   "estimated_members": 3001.0,
+   "monthly_net_confirmed": 275024,
+   "monthly_net_estimated": 935766
   }
  ],
  "revenue": {
-  "monthly_low": 949486,
-  "monthly_est": 949486,
-  "gift_once": 46149,
-  "total_low": 995635,
-  "total_est": 995635,
-  "paying_members": 3045,
+  "monthly_low": 935766,
+  "monthly_est": 935766,
+  "gift_once": 45837,
+  "total_low": 981604,
+  "total_est": 981604,
+  "paying_members": 3001,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -93,26 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "TKvg-2QfHfw",
-   "start": "2026-10-22 19:59",
-   "title": "【#にじぱずぎり】新人絵巻守、「BIGト餓鬼討伐大作戦」決行！【星導ショウ/魁星】",
-   "kind": "配信",
-   "chatters": 1812,
-   "member_chatters": 763,
-   "new_members": 4,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "6lFvOeo3PjM",
-   "start": "2026-10-22 22:03",
-   "title": "【オーバーウォッチ】NIJISANJI Extreme Match 今日からゼニヤッタOTPになります【星導ショウ/にじさんじ】",
-   "kind": "配信",
-   "chatters": 503,
-   "member_chatters": 422,
-   "new_members": 1,
-   "gifted_total": 1
-  },
   {
    "video_id": "CekhLjX8fzU",
    "start": "2026-10-23 19:05",
@@ -322,6 +302,16 @@
    "member_chatters": 417,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "pjsL1gRU1fo",
+   "start": "2026-11-21 21:31",
+   "title": "【Midnight Rest Stop | 深夜ドライブイン】奇妙な宿泊施設に立ち寄ります【星導ショウ/にじさんじ】",
+   "kind": "配信",
+   "chatters": 1156,
+   "member_chatters": 796,
+   "new_members": 8,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -334,7 +324,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 1476,
+   "like_count": 1477,
    "view_count": null
   }
  ],
@@ -346,7 +336,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 1476,
+   "like_count": 1477,
    "view_count": null
   }
  ],
@@ -495,68 +485,68 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-21"
+    "to": "2026-11-22"
    },
-   "streams_analyzed": 14,
+   "streams_analyzed": 15,
    "streams_missed": 0,
-   "unique_chatters": 4411,
-   "members_confirmed": 2474,
+   "unique_chatters": 4587,
+   "members_confirmed": 2544,
    "member_classes": {
-    "unknown": 1688,
-    "known": 741,
+    "unknown": 1734,
+    "known": 765,
     "gift": 45
    },
-   "long_term_members": 1499,
+   "long_term_members": 1530,
    "badges": [
     {
      "months": 0,
-     "members": 207
+     "members": 214
     },
     {
      "months": 1,
-     "members": 115
+     "members": 122
     },
     {
      "months": 2,
-     "members": 339
+     "members": 353
     },
     {
      "months": 6,
-     "members": 314
+     "members": 325
     },
     {
      "months": 12,
-     "members": 726
+     "members": 740
     },
     {
      "months": 24,
-     "members": 499
+     "members": 508
     },
     {
      "months": 36,
-     "members": 274
+     "members": 282
     }
    ],
    "events": {
-    "new_members": 60,
+    "new_members": 68,
     "rejoins": 19,
-    "milestones": 108,
+    "milestones": 120,
     "gifted_total": 48
    },
    "tiers": [
     {
      "tier": "インショウ派",
      "price": 490,
-     "confirmed_members": 741,
-     "estimated_members": 2429.0
+     "confirmed_members": 765,
+     "estimated_members": 2499.0
     }
    ],
    "revenue": {
-    "monthly_low": 757406,
-    "monthly_est": 757406,
+    "monthly_low": 779234,
+    "monthly_est": 779234,
     "gift_once": 14967
    },
-   "avg_member_chatters": 737.9,
+   "avg_member_chatters": 741.7,
    "partial": true,
    "finalized": false
   }

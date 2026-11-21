@@ -3,32 +3,32 @@
  "channel_id": "UCyJOgJhgfoVRpFjsBCUmuvg",
  "handle": "@KozueMone",
  "subscribers": 160000,
- "fetched_at": "2026-11-21 12:14",
- "generated_at": "2026-11-21 12:14",
+ "fetched_at": "2026-11-22 05:37",
+ "generated_at": "2026-11-22 05:37",
  "period": {
-  "from": "2026-10-22 12:14",
-  "to": "2026-11-21 12:14",
+  "from": "2026-10-23 05:37",
+  "to": "2026-11-22 05:37",
   "days": 30
  },
- "streams_analyzed": 23,
+ "streams_analyzed": 24,
  "streams_missed": 4,
- "unique_chatters": 2671,
- "members_confirmed": 451,
+ "unique_chatters": 2677,
+ "members_confirmed": 461,
  "member_classes": {
   "known": 126,
   "unknown": 299,
-  "gift": 26
+  "gift": 36
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 43
+   "members": 52
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 13
+   "members": 14
   },
   {
    "months": 2,
@@ -43,21 +43,21 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 153
+   "members": 151
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 125
+   "members": 127
   }
  ],
  "events": {
   "new_members": 10,
   "rejoins": 1,
   "milestones": 79,
-  "gift_purchases": 4,
-  "gifted_total": 26,
-  "gift_redemptions": 26
+  "gift_purchases": 5,
+  "gifted_total": 36,
+  "gift_redemptions": 36
  },
  "tiers_configured": true,
  "tiers": [
@@ -76,9 +76,9 @@
  "revenue": {
   "monthly_low": 132523,
   "monthly_est": 132523,
-  "gift_once": 8107,
-  "total_low": 140630,
-  "total_est": 140630,
+  "gift_once": 11225,
+  "total_low": 143748,
+  "total_est": 143748,
   "paying_members": 425,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -317,6 +317,16 @@
    "member_chatters": 131,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "zO_c0ne_j0M",
+   "start": "2026-11-21 12:01",
+   "title": "【ダンガンロンパ希望の学園と絶望の高校生】#9 完全初見🏫第五章日常編から！【にじさんじ/梢桃音】",
+   "kind": "配信",
+   "chatters": 249,
+   "member_chatters": 119,
+   "new_members": 0,
+   "gifted_total": 10
   }
  ],
  "missed_streams": [
@@ -365,7 +375,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 159,
+   "like_count": 162,
    "view_count": null
   }
  ],
@@ -407,7 +417,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 159,
+   "like_count": 162,
    "view_count": null
   }
  ],
@@ -548,26 +558,26 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-21"
+    "to": "2026-11-22"
    },
-   "streams_analyzed": 14,
+   "streams_analyzed": 15,
    "streams_missed": 3,
-   "unique_chatters": 2147,
-   "members_confirmed": 390,
+   "unique_chatters": 2159,
+   "members_confirmed": 400,
    "member_classes": {
     "unknown": 261,
     "known": 114,
-    "gift": 15
+    "gift": 25
    },
    "long_term_members": 255,
    "badges": [
     {
      "months": 0,
-     "members": 26
+     "members": 35
     },
     {
      "months": 1,
-     "members": 10
+     "members": 11
     },
     {
      "months": 2,
@@ -579,18 +589,18 @@
     },
     {
      "months": 12,
-     "members": 138
+     "members": 136
     },
     {
      "months": 24,
-     "members": 117
+     "members": 119
     }
    ],
    "events": {
     "new_members": 5,
     "rejoins": 1,
     "milestones": 56,
-    "gifted_total": 15
+    "gifted_total": 25
    },
    "tiers": [
     {
@@ -603,9 +613,9 @@
    "revenue": {
     "monthly_low": 116932,
     "monthly_est": 116932,
-    "gift_once": 4677
+    "gift_once": 7795
    },
-   "avg_member_chatters": 134.9,
+   "avg_member_chatters": 133.9,
    "partial": true,
    "finalized": false
   }

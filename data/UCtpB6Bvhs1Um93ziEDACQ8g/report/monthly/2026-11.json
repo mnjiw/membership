@@ -2,16 +2,17 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-21"
+  "to": "2026-11-22"
  },
- "streams_analyzed": 2,
+ "streams_analyzed": 3,
  "streams_missed": 0,
- "unique_chatters": 2869,
- "members_confirmed": 44,
+ "unique_chatters": 2945,
+ "members_confirmed": 71,
  "member_classes": {
-  "unknown": 44
+  "unknown": 70,
+  "known": 1
  },
- "long_term_members": 42,
+ "long_term_members": 67,
  "badges": [
   {
    "months": 2,
@@ -19,19 +20,19 @@
   },
   {
    "months": 6,
-   "members": 1
+   "members": 3
   },
   {
    "months": 12,
-   "members": 1
+   "members": 2
   },
   {
    "months": 24,
-   "members": 5
+   "members": 7
   },
   {
    "months": 36,
-   "members": 36
+   "members": 58
   }
  ],
  "events": {
@@ -44,8 +45,8 @@
   {
    "tier": "くまさんず会社",
    "price": 490,
-   "confirmed_members": 0,
-   "estimated_members": 44.0
+   "confirmed_members": 1,
+   "estimated_members": 71.0
   },
   {
    "tier": "お前の歌を愛してるぞプラン",
@@ -61,11 +62,11 @@
   }
  ],
  "revenue": {
-  "monthly_low": 13720,
-  "monthly_est": 13720,
+  "monthly_low": 22139,
+  "monthly_est": 22139,
   "gift_once": 0
  },
- "avg_member_chatters": 27,
+ "avg_member_chatters": 33.7,
  "partial": true,
  "finalized": false
 }
