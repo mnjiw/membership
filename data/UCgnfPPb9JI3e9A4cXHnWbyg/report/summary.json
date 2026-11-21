@@ -3,61 +3,61 @@
  "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
  "handle": "@ShioriNovella",
  "subscribers": 759000,
- "fetched_at": "2026-11-21 06:28",
- "generated_at": "2026-11-21 06:28",
+ "fetched_at": "2026-11-21 12:17",
+ "generated_at": "2026-11-21 12:17",
  "period": {
-  "from": "2026-10-22 06:28",
-  "to": "2026-11-21 06:28",
+  "from": "2026-10-22 12:17",
+  "to": "2026-11-21 12:17",
   "days": 30
  },
- "streams_analyzed": 19,
- "streams_missed": 4,
- "unique_chatters": 7330,
- "members_confirmed": 2296,
+ "streams_analyzed": 18,
+ "streams_missed": 5,
+ "unique_chatters": 6594,
+ "members_confirmed": 2159,
  "member_classes": {
-  "known": 630,
-  "unknown": 888,
-  "gift": 778
+  "known": 620,
+  "unknown": 847,
+  "gift": 692
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 838
+   "members": 753
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 58
+   "members": 56
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 182
+   "members": 177
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 161
+   "members": 153
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 340
+   "members": 330
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 717
+   "members": 690
   }
  ],
  "events": {
-  "new_members": 33,
-  "rejoins": 26,
-  "milestones": 408,
-  "gift_purchases": 231,
-  "gifted_total": 1145,
-  "gift_redemptions": 781
+  "new_members": 27,
+  "rejoins": 23,
+  "milestones": 373,
+  "gift_purchases": 214,
+  "gifted_total": 1053,
+  "gift_redemptions": 694
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,43 +65,43 @@
    "tier": "Page",
    "price": 390,
    "net_per_member": 248.2,
-   "confirmed_members": 68,
-   "share_of_confirmed_pct": 10.8,
-   "allocated_unknown": 95.8,
-   "estimated_members": 163.8,
-   "monthly_net_confirmed": 16876,
-   "monthly_net_estimated": 40664
+   "confirmed_members": 66,
+   "share_of_confirmed_pct": 10.6,
+   "allocated_unknown": 90.2,
+   "estimated_members": 156.2,
+   "monthly_net_confirmed": 16380,
+   "monthly_net_estimated": 38757
   },
   {
    "tier": "Bookwyrm",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 289,
-   "share_of_confirmed_pct": 45.9,
-   "allocated_unknown": 407.4,
-   "estimated_members": 696.4,
-   "monthly_net_confirmed": 126897,
-   "monthly_net_estimated": 305762
+   "confirmed_members": 285,
+   "share_of_confirmed_pct": 46.0,
+   "allocated_unknown": 389.3,
+   "estimated_members": 674.3,
+   "monthly_net_confirmed": 125141,
+   "monthly_net_estimated": 296100
   },
   {
    "tier": "Novelknights",
    "price": 1290,
    "net_per_member": 820.9,
-   "confirmed_members": 273,
-   "share_of_confirmed_pct": 43.3,
-   "allocated_unknown": 384.8,
-   "estimated_members": 657.8,
-   "monthly_net_confirmed": 224108,
-   "monthly_net_estimated": 539994
+   "confirmed_members": 269,
+   "share_of_confirmed_pct": 43.4,
+   "allocated_unknown": 367.5,
+   "estimated_members": 636.5,
+   "monthly_net_confirmed": 220825,
+   "monthly_net_estimated": 522499
   }
  ],
  "revenue": {
-  "monthly_low": 588267,
-  "monthly_est": 886420,
-  "gift_once": 284168,
-  "total_low": 872435,
-  "total_est": 1170588,
-  "paying_members": 1518,
+  "monthly_low": 572555,
+  "monthly_est": 857356,
+  "gift_once": 261335,
+  "total_low": 833891,
+  "total_est": 1118692,
+  "paying_members": 1467,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -110,16 +110,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "YQu-0jotU0w",
-   "start": "2026-10-22 07:56",
-   "title": "Learning Japanese with Doujins【Studying】",
-   "kind": "配信",
-   "chatters": 1781,
-   "member_chatters": 604,
-   "new_members": 6,
-   "gifted_total": 92
-  },
   {
    "video_id": "IbY-7z30iTY",
    "start": "2026-10-23 09:59",
@@ -349,6 +339,18 @@
    "members_level": "Bookwyrm",
    "like_count": 537,
    "view_count": null
+  },
+  {
+   "video_id": "2HSZnGnZK6s",
+   "start": "2026-11-21 00:00",
+   "title": "Drawing Dice Designs 【Misty Mountain Gaming】 #PR",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 2836,
+   "view_count": 24863
   }
  ],
  "members_only_content": [
@@ -544,7 +546,7 @@
     "to": "2026-11-21"
    },
    "streams_analyzed": 12,
-   "streams_missed": 3,
+   "streams_missed": 4,
    "unique_chatters": 5090,
    "members_confirmed": 1714,
    "member_classes": {

@@ -3,15 +3,15 @@
  "channel_id": "UCdi5pj0MDQ-3LFNUFIFmD8w",
  "handle": "@urutoragaru0831",
  "subscribers": 102000,
- "fetched_at": "2026-11-21 06:34",
- "generated_at": "2026-11-21 06:34",
+ "fetched_at": "2026-11-21 12:20",
+ "generated_at": "2026-11-21 12:20",
  "period": {
-  "from": "2026-10-22 06:34",
-  "to": "2026-11-21 06:34",
+  "from": "2026-10-22 12:20",
+  "to": "2026-11-21 12:20",
   "days": 30
  },
  "streams_analyzed": 16,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 789,
  "members_confirmed": 0,
  "member_classes": {},
@@ -189,7 +189,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "tXFEhGaJpi8",
+   "start": "2026-11-21 00:00",
+   "title": "【 トルネコの大冒険 】死んだら配信即終了 1日目！！99階クリアするまでチャレンジするぞォォォ‼️🔥※ネタバレ注意　#5【 うる虎がーる / あおぎり高校 】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 156,
+   "view_count": 502
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -251,7 +264,7 @@
     "to": "2026-11-21"
    },
    "streams_analyzed": 11,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 654,
    "members_confirmed": 0,
    "member_classes": {},

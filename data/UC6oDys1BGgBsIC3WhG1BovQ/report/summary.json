@@ -3,19 +3,19 @@
  "channel_id": "UC6oDys1BGgBsIC3WhG1BovQ",
  "handle": "@ShizukaRin",
  "subscribers": 398000,
- "fetched_at": "2026-11-21 05:18",
- "generated_at": "2026-11-21 05:18",
+ "fetched_at": "2026-11-21 12:11",
+ "generated_at": "2026-11-21 12:11",
  "period": {
-  "from": "2026-10-22 05:18",
-  "to": "2026-11-21 05:18",
+  "from": "2026-10-22 12:11",
+  "to": "2026-11-21 12:11",
   "days": 30
  },
- "streams_analyzed": 32,
- "streams_missed": 3,
- "unique_chatters": 972,
- "members_confirmed": 278,
+ "streams_analyzed": 33,
+ "streams_missed": 2,
+ "unique_chatters": 985,
+ "members_confirmed": 279,
  "member_classes": {
-  "unknown": 210,
+  "unknown": 211,
   "known": 43,
   "gift": 25
  },
@@ -58,13 +58,13 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 140
+   "members": 141
   }
  ],
  "events": {
   "new_members": 7,
   "rejoins": 5,
-  "milestones": 16,
+  "milestones": 17,
   "gift_purchases": 9,
   "gifted_total": 25,
   "gift_redemptions": 25
@@ -77,19 +77,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 43,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 210.0,
-   "estimated_members": 253.0,
+   "allocated_unknown": 211.0,
+   "estimated_members": 254.0,
    "monthly_net_confirmed": 13408,
-   "monthly_net_estimated": 78890
+   "monthly_net_estimated": 79202
   }
  ],
  "revenue": {
-  "monthly_low": 78890,
-  "monthly_est": 78890,
+  "monthly_low": 79202,
+  "monthly_est": 79202,
   "gift_once": 7795,
-  "total_low": 86685,
-  "total_est": 86685,
-  "paying_members": 253,
+  "total_low": 86997,
+  "total_est": 86997,
+  "paying_members": 254,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -417,6 +417,16 @@
    "member_chatters": 38,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "29a0cPZr-tQ",
+   "start": "2026-11-20 19:56",
+   "title": "スレスパとREPO予定 | Slay the Spire 2【静凛/にじさんじ】",
+   "kind": "配信",
+   "chatters": 115,
+   "member_chatters": 76,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -443,18 +453,6 @@
    "members_level": "",
    "like_count": 71,
    "view_count": null
-  },
-  {
-   "video_id": "29a0cPZr-tQ",
-   "start": "2026-11-20 00:00",
-   "title": "スレスパとREPO予定 | Slay the Spire 2【静凛/にじさんじ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 573,
-   "view_count": 27224
   }
  ],
  "members_only_content": [
@@ -634,16 +632,16 @@
     "from": "2026-11-01",
     "to": "2026-11-21"
    },
-   "streams_analyzed": 25,
-   "streams_missed": 2,
-   "unique_chatters": 745,
-   "members_confirmed": 235,
+   "streams_analyzed": 26,
+   "streams_missed": 1,
+   "unique_chatters": 759,
+   "members_confirmed": 236,
    "member_classes": {
-    "unknown": 178,
+    "unknown": 179,
     "known": 37,
     "gift": 20
    },
-   "long_term_members": 179,
+   "long_term_members": 180,
    "badges": [
     {
      "months": 0,
@@ -675,13 +673,13 @@
     },
     {
      "months": 48,
-     "members": 130
+     "members": 131
     }
    ],
    "events": {
     "new_members": 5,
     "rejoins": 4,
-    "milestones": 7,
+    "milestones": 8,
     "gifted_total": 20
    },
    "tiers": [
@@ -689,15 +687,15 @@
      "tier": "しずりんのメンバーシップだよ！",
      "price": 490,
      "confirmed_members": 37,
-     "estimated_members": 215.0
+     "estimated_members": 216.0
     }
    ],
    "revenue": {
-    "monthly_low": 67041,
-    "monthly_est": 67041,
+    "monthly_low": 67353,
+    "monthly_est": 67353,
     "gift_once": 6236
    },
-   "avg_member_chatters": 64.2,
+   "avg_member_chatters": 64.7,
    "partial": true,
    "finalized": false
   }
