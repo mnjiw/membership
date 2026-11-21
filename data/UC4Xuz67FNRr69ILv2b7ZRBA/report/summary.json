@@ -3,20 +3,20 @@
  "channel_id": "UC4Xuz67FNRr69ILv2b7ZRBA",
  "handle": "@eito_aogiri8",
  "subscribers": 50300,
- "fetched_at": "2026-11-21 06:37",
- "generated_at": "2026-11-21 06:37",
+ "fetched_at": "2026-11-22 06:48",
+ "generated_at": "2026-11-22 06:48",
  "period": {
-  "from": "2026-10-22 06:37",
-  "to": "2026-11-21 06:37",
+  "from": "2026-10-23 06:48",
+  "to": "2026-11-22 06:48",
   "days": 30
  },
- "streams_analyzed": 18,
- "streams_missed": 0,
- "unique_chatters": 228,
- "members_confirmed": 80,
+ "streams_analyzed": 17,
+ "streams_missed": 1,
+ "unique_chatters": 219,
+ "members_confirmed": 73,
  "member_classes": {
-  "unknown": 71,
-  "known": 9
+  "known": 9,
+  "unknown": 64
  },
  "badges": [
   {
@@ -27,28 +27,28 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 6
+   "members": 4
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 12
+   "members": 10
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 23
+   "members": 21
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 36
+   "members": 35
   }
  ],
  "events": {
   "new_members": 1,
   "rejoins": 0,
-  "milestones": 2,
+  "milestones": 1,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -61,19 +61,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 9,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 71.0,
-   "estimated_members": 80.0,
+   "allocated_unknown": 64.0,
+   "estimated_members": 73.0,
    "monthly_net_confirmed": 2806,
-   "monthly_net_estimated": 24945
+   "monthly_net_estimated": 22763
   }
  ],
  "revenue": {
-  "monthly_low": 24945,
-  "monthly_est": 24945,
+  "monthly_low": 22763,
+  "monthly_est": 22763,
   "gift_once": 0,
-  "total_low": 24945,
-  "total_est": 24945,
-  "paying_members": 80,
+  "total_low": 22763,
+  "total_est": 22763,
+  "paying_members": 73,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -82,16 +82,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "vk9VtFT0k6s",
-   "start": "2026-10-22 20:32",
-   "title": "【妹に運転を教える】なんかムカつくオーラのする妹に運転を教えたい【青桐エイト/ネオポルテ】",
-   "kind": "配信",
-   "chatters": 43,
-   "member_chatters": 35,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "KZ7R_MU33M0",
    "start": "2026-10-25 11:37",
@@ -263,7 +253,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "sPuDMj4QB7M",
+   "start": "2026-11-21 00:00",
+   "title": "【VALORANT】感度下げたらアツい件",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 91,
+   "view_count": 3838
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -381,10 +384,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-21"
+    "to": "2026-11-22"
    },
    "streams_analyzed": 12,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 162,
    "members_confirmed": 59,
    "member_classes": {

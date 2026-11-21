@@ -2,44 +2,48 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-21"
+  "to": "2026-11-22"
  },
- "streams_analyzed": 15,
- "streams_missed": 1,
- "unique_chatters": 13958,
- "members_confirmed": 3920,
+ "streams_analyzed": 16,
+ "streams_missed": 2,
+ "unique_chatters": 14516,
+ "members_confirmed": 4054,
  "member_classes": {
-  "known": 1468,
-  "unknown": 2364,
-  "gift": 88
+  "known": 1577,
+  "unknown": 2388,
+  "gift": 89
  },
  "long_term_members": 0,
  "badges": [
   {
    "months": 0,
-   "members": 3920
+   "members": 3230
+  },
+  {
+   "months": 1,
+   "members": 824
   }
  ],
  "events": {
-  "new_members": 242,
+  "new_members": 280,
   "rejoins": 0,
-  "milestones": 0,
-  "gifted_total": 118
+  "milestones": 77,
+  "gifted_total": 119
  },
  "tiers": [
   {
    "tier": "つづり郵便局",
    "price": 490,
-   "confirmed_members": 1468,
-   "estimated_members": 3832.0
+   "confirmed_members": 1577,
+   "estimated_members": 3965.0
   }
  ],
  "revenue": {
-  "monthly_low": 1194887,
-  "monthly_est": 1194887,
-  "gift_once": 36795
+  "monthly_low": 1236359,
+  "monthly_est": 1236359,
+  "gift_once": 37106
  },
- "avg_member_chatters": 1228.9,
+ "avg_member_chatters": 1231.2,
  "partial": true,
  "finalized": false
 }

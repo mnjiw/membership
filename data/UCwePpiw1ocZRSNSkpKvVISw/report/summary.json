@@ -3,31 +3,37 @@
  "channel_id": "UCwePpiw1ocZRSNSkpKvVISw",
  "handle": "@Mary_Saionji",
  "subscribers": 281000,
- "fetched_at": "2026-11-21 06:29",
- "generated_at": "2026-11-21 06:29",
+ "fetched_at": "2026-11-22 06:39",
+ "generated_at": "2026-11-22 06:39",
  "period": {
-  "from": "2026-10-22 06:29",
-  "to": "2026-11-21 06:29",
+  "from": "2026-10-23 06:39",
+  "to": "2026-11-22 06:39",
   "days": 30
  },
  "streams_analyzed": 14,
  "streams_missed": 2,
- "unique_chatters": 561,
- "members_confirmed": 137,
+ "unique_chatters": 741,
+ "members_confirmed": 199,
  "member_classes": {
-  "unknown": 128,
-  "known": 9
+  "unknown": 157,
+  "known": 27,
+  "gift": 15
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 4
+   "members": 16
+  },
+  {
+   "months": 1,
+   "label": "1ヶ月",
+   "members": 1
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 4
+   "members": 8
   },
   {
    "months": 6,
@@ -37,31 +43,31 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 12
+   "members": 15
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 13
+   "members": 19
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 9
+   "members": 11
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 89
+   "members": 123
   }
  ],
  "events": {
-  "new_members": 2,
-  "rejoins": 1,
-  "milestones": 3,
-  "gift_purchases": 0,
-  "gifted_total": 0,
-  "gift_redemptions": 0
+  "new_members": 3,
+  "rejoins": 0,
+  "milestones": 22,
+  "gift_purchases": 3,
+  "gifted_total": 16,
+  "gift_redemptions": 15
  },
  "tiers_configured": true,
  "tiers": [
@@ -69,21 +75,21 @@
    "tier": "メアリのお部屋",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 9,
+   "confirmed_members": 27,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 128.0,
-   "estimated_members": 137.0,
-   "monthly_net_confirmed": 2806,
-   "monthly_net_estimated": 42719
+   "allocated_unknown": 157.0,
+   "estimated_members": 184.0,
+   "monthly_net_confirmed": 8419,
+   "monthly_net_estimated": 57375
   }
  ],
  "revenue": {
-  "monthly_low": 42719,
-  "monthly_est": 42719,
-  "gift_once": 0,
-  "total_low": 42719,
-  "total_est": 42719,
-  "paying_members": 137,
+  "monthly_low": 57375,
+  "monthly_est": 57375,
+  "gift_once": 4989,
+  "total_low": 62364,
+  "total_est": 62364,
+  "paying_members": 184,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -92,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "wHm3MGTmqVE",
-   "start": "2026-10-22 19:59",
-   "title": "【Core Keeper】新エリア完全初見！何があるかドキドキするなー！！【西園寺メアリ / ななしいんく】",
-   "kind": "配信",
-   "chatters": 89,
-   "member_chatters": 40,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "RofgKRFwTpY",
    "start": "2026-10-24 22:02",
@@ -231,6 +227,16 @@
    "member_chatters": 56,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "liCYrH_fCmQ",
+   "start": "2026-11-21 23:30",
+   "title": "【#メアリ爆誕2026】誕生日カウントダウン！とうとうこの日がきた！！【西園寺メアリ / ななしいんく】",
+   "kind": "配信",
+   "chatters": 385,
+   "member_chatters": 156,
+   "new_members": 1,
+   "gifted_total": 16
   }
  ],
  "missed_streams": [
@@ -410,67 +416,72 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-21"
+    "to": "2026-11-22"
    },
-   "streams_analyzed": 9,
+   "streams_analyzed": 10,
    "streams_missed": 1,
-   "unique_chatters": 401,
-   "members_confirmed": 125,
+   "unique_chatters": 624,
+   "members_confirmed": 194,
    "member_classes": {
-    "unknown": 118,
-    "known": 7
+    "unknown": 153,
+    "known": 26,
+    "gift": 15
    },
-   "long_term_members": 114,
+   "long_term_members": 165,
    "badges": [
     {
      "months": 0,
-     "members": 3
+     "members": 15
+    },
+    {
+     "months": 1,
+     "members": 1
     },
     {
      "months": 2,
-     "members": 4
-    },
-    {
-     "months": 6,
-     "members": 4
-    },
-    {
-     "months": 12,
-     "members": 12
-    },
-    {
-     "months": 24,
-     "members": 12
-    },
-    {
-     "months": 36,
      "members": 8
     },
     {
+     "months": 6,
+     "members": 5
+    },
+    {
+     "months": 12,
+     "members": 15
+    },
+    {
+     "months": 24,
+     "members": 18
+    },
+    {
+     "months": 36,
+     "members": 11
+    },
+    {
      "months": 48,
-     "members": 82
+     "members": 121
     }
    ],
    "events": {
-    "new_members": 1,
+    "new_members": 2,
     "rejoins": 0,
-    "milestones": 3,
-    "gifted_total": 0
+    "milestones": 22,
+    "gifted_total": 16
    },
    "tiers": [
     {
      "tier": "メアリのお部屋",
      "price": 490,
-     "confirmed_members": 7,
-     "estimated_members": 125.0
+     "confirmed_members": 26,
+     "estimated_members": 179.0
     }
    ],
    "revenue": {
-    "monthly_low": 38977,
-    "monthly_est": 38977,
-    "gift_once": 0
+    "monthly_low": 55815,
+    "monthly_est": 55815,
+    "gift_once": 4989
    },
-   "avg_member_chatters": 49,
+   "avg_member_chatters": 59.7,
    "partial": true,
    "finalized": false
   }

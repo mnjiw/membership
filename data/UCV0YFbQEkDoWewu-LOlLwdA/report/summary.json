@@ -3,27 +3,27 @@
  "channel_id": "UCV0YFbQEkDoWewu-LOlLwdA",
  "handle": "@MonicaMelodia",
  "subscribers": 28600,
- "fetched_at": "2026-11-21 06:39",
- "generated_at": "2026-11-21 06:41",
+ "fetched_at": "2026-11-22 06:51",
+ "generated_at": "2026-11-22 06:51",
  "period": {
-  "from": "2026-10-22 06:39",
-  "to": "2026-11-21 06:39",
+  "from": "2026-10-23 06:51",
+  "to": "2026-11-22 06:51",
   "days": 30
  },
- "streams_analyzed": 26,
+ "streams_analyzed": 25,
  "streams_missed": 2,
- "unique_chatters": 1690,
- "members_confirmed": 565,
+ "unique_chatters": 1650,
+ "members_confirmed": 562,
  "member_classes": {
-  "unknown": 275,
-  "known": 23,
+  "unknown": 273,
+  "known": 22,
   "gift": 267
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 224
+   "members": 223
   },
   {
    "months": 1,
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 248
+   "members": 246
   }
  ],
  "events": {
@@ -50,12 +50,12 @@
    "tier": "メロディア探偵事務所　探偵 Lv1",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 23,
+   "confirmed_members": 22,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 275.0,
-   "estimated_members": 298.0,
-   "monthly_net_confirmed": 7172,
-   "monthly_net_estimated": 92922
+   "allocated_unknown": 273.0,
+   "estimated_members": 295.0,
+   "monthly_net_confirmed": 6860,
+   "monthly_net_estimated": 91986
   },
   {
    "tier": "メロディア探偵事務所　探偵 Lv50",
@@ -92,12 +92,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 92922,
-  "monthly_est": 92922,
+  "monthly_low": 91986,
+  "monthly_est": 91986,
   "gift_once": 84191,
-  "total_low": 177113,
-  "total_est": 177113,
-  "paying_members": 298,
+  "total_low": 176177,
+  "total_est": 176177,
+  "paying_members": 295,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -106,16 +106,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "LsgHLrNq6uc",
-   "start": "2026-10-22 17:59",
-   "title": "#1【 FF1 】シリーズ完全初見.ᐟ.ᐟ はじめてのファイナルファンタジー.ᐟ.ᐟ ※ネタバレ注意  【モニカ・メロディア / Varium】",
-   "kind": "配信",
-   "chatters": 304,
-   "member_chatters": 112,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "vxG9z1NzyEA",
    "start": "2026-10-23 17:59",
@@ -377,7 +367,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 112,
+   "like_count": 113,
    "view_count": null
   },
   {
@@ -389,7 +379,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 237,
+   "like_count": 238,
    "view_count": null
   }
  ],
@@ -401,7 +391,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 112,
+   "like_count": 113,
    "view_count": null
   },
   {
@@ -411,7 +401,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 237,
+   "like_count": 238,
    "view_count": null
   }
  ],
@@ -535,7 +525,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-21"
+    "to": "2026-11-22"
    },
    "streams_analyzed": 18,
    "streams_missed": 1,

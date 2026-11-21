@@ -3,27 +3,27 @@
  "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
  "handle": "@KureijiOllie",
  "subscribers": 1420000,
- "fetched_at": "2026-11-21 06:27",
- "generated_at": "2026-11-21 06:27",
+ "fetched_at": "2026-11-22 06:36",
+ "generated_at": "2026-11-22 06:36",
  "period": {
-  "from": "2026-10-22 06:27",
-  "to": "2026-11-21 06:27",
+  "from": "2026-10-23 06:36",
+  "to": "2026-11-22 06:36",
   "days": 30
  },
- "streams_analyzed": 11,
+ "streams_analyzed": 10,
  "streams_missed": 4,
- "unique_chatters": 4084,
- "members_confirmed": 411,
+ "unique_chatters": 4020,
+ "members_confirmed": 404,
  "member_classes": {
-  "unknown": 244,
-  "known": 151,
+  "known": 149,
+  "unknown": 239,
   "gift": 16
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 56
+   "members": 54
   },
   {
    "months": 1,
@@ -38,7 +38,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 45
+   "members": 42
   },
   {
    "months": 12,
@@ -53,7 +53,7 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 41
+   "members": 39
   },
   {
    "months": 48,
@@ -75,21 +75,21 @@
    "tier": "ZOMILY",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 151,
+   "confirmed_members": 149,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 244.0,
-   "estimated_members": 395.0,
-   "monthly_net_confirmed": 66303,
-   "monthly_net_estimated": 173441
+   "allocated_unknown": 239.0,
+   "estimated_members": 388.0,
+   "monthly_net_confirmed": 65425,
+   "monthly_net_estimated": 170367
   }
  ],
  "revenue": {
-  "monthly_low": 173441,
-  "monthly_est": 173441,
+  "monthly_low": 170367,
+  "monthly_est": 170367,
   "gift_once": 7025,
-  "total_low": 180466,
-  "total_est": 180466,
-  "paying_members": 395,
+  "total_low": 177393,
+  "total_est": 177393,
+  "paying_members": 388,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "oton7UN0uxE",
-   "start": "2026-10-22 13:02",
-   "title": "【hololive Dreams】 DAILY HOLODORI  #holodori #ホロドリ 【Kureiji Ollie】",
-   "kind": "配信",
-   "chatters": 181,
-   "member_chatters": 42,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "jaal44YdGPQ",
    "start": "2026-10-23 12:00",
@@ -255,7 +245,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 175,
+   "like_count": 176,
    "view_count": null
   }
  ],
@@ -297,7 +287,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 175,
+   "like_count": 176,
    "view_count": null
   }
  ],
@@ -454,7 +444,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-21"
+    "to": "2026-11-22"
    },
    "streams_analyzed": 4,
    "streams_missed": 3,

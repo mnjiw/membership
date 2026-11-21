@@ -3,15 +3,15 @@
  "channel_id": "UCrt4cTM_sWH0iySLMkwwYLQ",
  "handle": "@Tier_Hebiyoi",
  "subscribers": 95300,
- "fetched_at": "2026-11-21 12:18",
- "generated_at": "2026-11-21 12:19",
+ "fetched_at": "2026-11-22 06:39",
+ "generated_at": "2026-11-22 06:39",
  "period": {
-  "from": "2026-10-22 12:18",
-  "to": "2026-11-21 12:18",
+  "from": "2026-10-23 06:39",
+  "to": "2026-11-22 06:39",
   "days": 30
  },
  "streams_analyzed": 38,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 856,
  "members_confirmed": 146,
  "member_classes": {
@@ -469,7 +469,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "HkBJ8sPpAWg",
+   "start": "2026-11-21 00:00",
+   "title": "【 Lightyear Frontier #4 】え、人がやってきて農場をさらに効率よく…！【 蛇宵ティア / ななしいんく 】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 325,
+   "view_count": 4728
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -597,10 +610,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-21"
+    "to": "2026-11-22"
    },
    "streams_analyzed": 26,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 713,
    "members_confirmed": 132,
    "member_classes": {

@@ -3,67 +3,67 @@
  "channel_id": "UCyY6YeINiwQoA-FnmdQCkug",
  "handle": "@chiyomi0812",
  "subscribers": 240000,
- "fetched_at": "2026-11-21 06:33",
- "generated_at": "2026-11-21 06:33",
+ "fetched_at": "2026-11-22 06:44",
+ "generated_at": "2026-11-22 06:45",
  "period": {
-  "from": "2026-10-22 06:33",
-  "to": "2026-11-21 06:33",
+  "from": "2026-10-23 06:44",
+  "to": "2026-11-22 06:44",
   "days": 30
  },
- "streams_analyzed": 3,
+ "streams_analyzed": 4,
  "streams_missed": 0,
- "unique_chatters": 603,
- "members_confirmed": 343,
+ "unique_chatters": 884,
+ "members_confirmed": 439,
  "member_classes": {
-  "known": 105,
-  "unknown": 238
+  "known": 184,
+  "unknown": 255
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 3
+   "members": 2
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 13
+   "members": 9
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 39
+   "members": 53
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 34
+   "members": 46
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 49
+   "members": 67
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 85
+   "members": 107
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 81
+   "members": 98
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 39
+   "members": 57
   }
  ],
  "events": {
   "new_members": 3,
   "rejoins": 1,
-  "milestones": 18,
+  "milestones": 136,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -74,21 +74,21 @@
    "tier": "蝶内会",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 105,
+   "confirmed_members": 184,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 238.0,
-   "estimated_members": 343.0,
-   "monthly_net_confirmed": 32741,
-   "monthly_net_estimated": 106954
+   "allocated_unknown": 255.0,
+   "estimated_members": 439.0,
+   "monthly_net_confirmed": 57375,
+   "monthly_net_estimated": 136888
   }
  ],
  "revenue": {
-  "monthly_low": 106954,
-  "monthly_est": 106954,
+  "monthly_low": 136888,
+  "monthly_est": 136888,
   "gift_once": 0,
-  "total_low": 106954,
-  "total_est": 106954,
-  "paying_members": 343,
+  "total_low": 136888,
+  "total_est": 136888,
+  "paying_members": 439,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -125,6 +125,16 @@
    "chatters": 361,
    "member_chatters": 247,
    "new_members": 1,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "cTt1Um6vyHI",
+   "start": "2026-11-21 22:15",
+   "title": "Life Update",
+   "kind": "配信",
+   "chatters": 595,
+   "member_chatters": 338,
+   "new_members": 0,
    "gifted_total": 0
   }
  ],
@@ -267,6 +277,74 @@
    "partial": false,
    "finalized": true,
    "finalized_at": "2026-11-08 06:45"
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-22"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 595,
+   "members_confirmed": 338,
+   "member_classes": {
+    "known": 162,
+    "unknown": 176
+   },
+   "long_term_members": 272,
+   "badges": [
+    {
+     "months": 1,
+     "members": 1
+    },
+    {
+     "months": 2,
+     "members": 35
+    },
+    {
+     "months": 6,
+     "members": 30
+    },
+    {
+     "months": 12,
+     "members": 57
+    },
+    {
+     "months": 24,
+     "members": 87
+    },
+    {
+     "months": 36,
+     "members": 76
+    },
+    {
+     "months": 48,
+     "members": 52
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 0,
+    "milestones": 118,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "蝶内会",
+     "price": 490,
+     "confirmed_members": 162,
+     "estimated_members": 338.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 105395,
+    "monthly_est": 105395,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 338,
+   "partial": true,
+   "finalized": false
   }
  ],
  "no_streams": false,

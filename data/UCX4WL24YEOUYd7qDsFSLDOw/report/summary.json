@@ -3,58 +3,58 @@
  "channel_id": "UCX4WL24YEOUYd7qDsFSLDOw",
  "handle": "@YanoKuromu",
  "subscribers": 632000,
- "fetched_at": "2026-11-21 06:32",
- "generated_at": "2026-11-21 06:32",
+ "fetched_at": "2026-11-22 06:42",
+ "generated_at": "2026-11-22 06:43",
  "period": {
-  "from": "2026-10-22 06:32",
-  "to": "2026-11-21 06:32",
+  "from": "2026-10-23 06:42",
+  "to": "2026-11-22 06:42",
   "days": 30
  },
- "streams_analyzed": 12,
- "streams_missed": 6,
- "unique_chatters": 4794,
- "members_confirmed": 1173,
+ "streams_analyzed": 13,
+ "streams_missed": 5,
+ "unique_chatters": 4828,
+ "members_confirmed": 1182,
  "member_classes": {
-  "known": 343,
-  "unknown": 809,
+  "known": 345,
+  "unknown": 816,
   "gift": 21
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 126
+   "members": 127
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 57
+   "members": 59
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 272
+   "members": 273
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 302
+   "members": 303
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 212
+   "members": 215
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 204
+   "members": 205
   }
  ],
  "events": {
   "new_members": 35,
   "rejoins": 21,
-  "milestones": 138,
+  "milestones": 142,
   "gift_purchases": 5,
   "gifted_total": 21,
   "gift_redemptions": 21
@@ -65,21 +65,21 @@
    "tier": "ほね組",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 343,
+   "confirmed_members": 345,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 809.0,
-   "estimated_members": 1152.0,
-   "monthly_net_confirmed": 106954,
-   "monthly_net_estimated": 359215
+   "allocated_unknown": 816.0,
+   "estimated_members": 1161.0,
+   "monthly_net_confirmed": 107577,
+   "monthly_net_estimated": 362021
   }
  ],
  "revenue": {
-  "monthly_low": 359215,
-  "monthly_est": 359215,
+  "monthly_low": 362021,
+  "monthly_est": 362021,
   "gift_once": 6548,
-  "total_low": 365763,
-  "total_est": 365763,
-  "paying_members": 1152,
+  "total_low": 368569,
+  "total_est": 368569,
+  "paying_members": 1161,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -207,21 +207,19 @@
    "member_chatters": 275,
    "new_members": 3,
    "gifted_total": 16
+  },
+  {
+   "video_id": "CzsD_rfDwkM",
+   "start": "2026-11-21 13:02",
+   "title": "〖 VALO 〗ゆいぴんぐとリハビリDUO。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
+   "kind": "配信",
+   "chatters": 180,
+   "member_chatters": 117,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
-  {
-   "video_id": "N2gISrvpFpE",
-   "start": "2026-10-23 00:12",
-   "title": "〖 メン限 〗はるまき睡眠。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "ほね組",
-   "like_count": 223,
-   "view_count": null
-  },
   {
    "video_id": "H9zccilgrEU",
    "start": "2026-10-27 15:26",
@@ -243,7 +241,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "ほね組",
-   "like_count": 250,
+   "like_count": 251,
    "view_count": null
   },
   {
@@ -279,22 +277,12 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 1152,
+   "like_count": 1156,
    "view_count": null
   }
  ],
  "members_only_content": [
   {
-   "video_id": "N2gISrvpFpE",
-   "start": "2026-10-23 00:12",
-   "title": "〖 メン限 〗はるまき睡眠。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "ほね組",
-   "like_count": 223,
-   "view_count": null
-  },
-  {
    "video_id": "H9zccilgrEU",
    "start": "2026-10-27 15:26",
    "title": "〖 メン限 〗せくしーめんげん。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
@@ -311,7 +299,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "ほね組",
-   "like_count": 250,
+   "like_count": 251,
    "view_count": null
   },
   {
@@ -341,7 +329,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 1152,
+   "like_count": 1156,
    "view_count": null
   }
  ],
@@ -471,64 +459,64 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-21"
+    "to": "2026-11-22"
    },
-   "streams_analyzed": 8,
+   "streams_analyzed": 9,
    "streams_missed": 4,
-   "unique_chatters": 3235,
-   "members_confirmed": 880,
+   "unique_chatters": 3277,
+   "members_confirmed": 895,
    "member_classes": {
-    "unknown": 571,
-    "known": 288,
+    "unknown": 583,
+    "known": 291,
     "gift": 21
    },
-   "long_term_members": 325,
+   "long_term_members": 330,
    "badges": [
     {
      "months": 0,
-     "members": 92
+     "members": 95
     },
     {
      "months": 1,
-     "members": 37
+     "members": 39
     },
     {
      "months": 2,
-     "members": 207
+     "members": 208
     },
     {
      "months": 6,
-     "members": 219
+     "members": 223
     },
     {
      "months": 12,
-     "members": 169
+     "members": 173
     },
     {
      "months": 24,
-     "members": 156
+     "members": 157
     }
    ],
    "events": {
     "new_members": 26,
     "rejoins": 14,
-    "milestones": 92,
+    "milestones": 96,
     "gifted_total": 21
    },
    "tiers": [
     {
      "tier": "ほね組",
      "price": 490,
-     "confirmed_members": 288,
-     "estimated_members": 859.0
+     "confirmed_members": 291,
+     "estimated_members": 874.0
     }
    ],
    "revenue": {
-    "monthly_low": 267852,
-    "monthly_est": 267852,
+    "monthly_low": 272529,
+    "monthly_est": 272529,
     "gift_once": 6548
    },
-   "avg_member_chatters": 221.4,
+   "avg_member_chatters": 209.8,
    "partial": true,
    "finalized": false
   }

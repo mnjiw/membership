@@ -3,15 +3,15 @@
  "channel_id": "UC9Vq5c7FKEHLstvmSAsogXQ",
  "handle": "@aisaka_siu",
  "subscribers": 68900,
- "fetched_at": "2026-11-21 06:34",
- "generated_at": "2026-11-21 06:34",
+ "fetched_at": "2026-11-22 06:45",
+ "generated_at": "2026-11-22 06:45",
  "period": {
-  "from": "2026-10-22 06:34",
-  "to": "2026-11-21 06:34",
+  "from": "2026-10-23 06:45",
+  "to": "2026-11-22 06:45",
   "days": 30
  },
  "streams_analyzed": 20,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 769,
  "members_confirmed": 111,
  "member_classes": {
@@ -284,7 +284,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "UhYJZXTDMJg",
+   "start": "2026-11-21 00:00",
+   "title": "【#ガチグラ2  】 もっと月島隊で働きたかったです。最終日【すぺしゃりて/藍坂しう】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 99,
+   "view_count": 3162
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -404,10 +417,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-21"
+    "to": "2026-11-22"
    },
    "streams_analyzed": 12,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 388,
    "members_confirmed": 52,
    "member_classes": {

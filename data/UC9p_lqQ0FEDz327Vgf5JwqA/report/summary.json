@@ -3,56 +3,56 @@
  "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
  "handle": "@KosekiBijou",
  "subscribers": 1010000,
- "fetched_at": "2026-11-21 12:17",
- "generated_at": "2026-11-21 12:17",
+ "fetched_at": "2026-11-22 06:37",
+ "generated_at": "2026-11-22 06:43",
  "period": {
-  "from": "2026-10-22 12:17",
-  "to": "2026-11-21 12:17",
+  "from": "2026-10-23 06:37",
+  "to": "2026-11-22 06:37",
   "days": 30
  },
- "streams_analyzed": 26,
- "streams_missed": 1,
- "unique_chatters": 26681,
- "members_confirmed": 3320,
+ "streams_analyzed": 27,
+ "streams_missed": 2,
+ "unique_chatters": 28056,
+ "members_confirmed": 3383,
  "member_classes": {
-  "known": 1094,
-  "unknown": 1592,
-  "gift": 634
+  "known": 1103,
+  "unknown": 1619,
+  "gift": 661
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 743
+   "members": 774
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 81
+   "members": 80
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 186
+   "members": 187
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 237
+   "members": 241
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 2073
+   "members": 2101
   }
  ],
  "events": {
-  "new_members": 30,
-  "rejoins": 43,
-  "milestones": 482,
-  "gift_purchases": 54,
-  "gifted_total": 641,
-  "gift_redemptions": 640
+  "new_members": 32,
+  "rejoins": 45,
+  "milestones": 499,
+  "gift_purchases": 58,
+  "gifted_total": 668,
+  "gift_redemptions": 667
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,12 +60,12 @@
    "tier": "Gemlins",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 1070,
+   "confirmed_members": 1079,
    "share_of_confirmed_pct": 97.8,
-   "allocated_unknown": 1557.1,
-   "estimated_members": 2627.1,
-   "monthly_net_confirmed": 469827,
-   "monthly_net_estimated": 1153525
+   "allocated_unknown": 1583.8,
+   "estimated_members": 2662.8,
+   "monthly_net_confirmed": 473779,
+   "monthly_net_estimated": 1169199
   },
   {
    "tier": "The Boulders",
@@ -73,10 +73,10 @@
    "net_per_member": 1266.4,
    "confirmed_members": 6,
    "share_of_confirmed_pct": 0.5,
-   "allocated_unknown": 8.7,
-   "estimated_members": 14.7,
+   "allocated_unknown": 8.8,
+   "estimated_members": 14.8,
    "monthly_net_confirmed": 7598,
-   "monthly_net_estimated": 18655
+   "monthly_net_estimated": 18751
   },
   {
    "tier": "Moai Moai Kyun",
@@ -84,19 +84,19 @@
    "net_per_member": 2220.9,
    "confirmed_members": 18,
    "share_of_confirmed_pct": 1.6,
-   "allocated_unknown": 26.2,
-   "estimated_members": 44.2,
+   "allocated_unknown": 26.4,
+   "estimated_members": 44.4,
    "monthly_net_confirmed": 39976,
-   "monthly_net_estimated": 98150
+   "monthly_net_estimated": 98654
   }
  ],
  "revenue": {
-  "monthly_low": 1216435,
-  "monthly_est": 1270330,
-  "gift_once": 281457,
-  "total_low": 1497892,
-  "total_est": 1551788,
-  "paying_members": 2686,
+  "monthly_low": 1232242,
+  "monthly_est": 1286604,
+  "gift_once": 293313,
+  "total_low": 1525555,
+  "total_est": 1579917,
+  "paying_members": 2722,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -364,6 +364,16 @@
    "member_chatters": 1023,
    "new_members": 1,
    "gifted_total": 10
+  },
+  {
+   "video_id": "H2T4j8rdO5A",
+   "start": "2026-11-21 08:58",
+   "title": "【Grand Theft Auto VI】FLORIDA GEM ON THE LOOSE",
+   "kind": "配信",
+   "chatters": 5129,
+   "member_chatters": 1010,
+   "new_members": 2,
+   "gifted_total": 27
   }
  ],
  "missed_streams": [
@@ -376,8 +386,20 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 1095,
+   "like_count": 1096,
    "view_count": null
+  },
+  {
+   "video_id": "sWi5Tq3Ov0w",
+   "start": "2026-11-21 00:00",
+   "title": "【FORTNITE】MIGU",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 4055,
+   "view_count": 33410
   }
  ],
  "members_only_content": [
@@ -388,7 +410,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 1095,
+   "like_count": 1096,
    "view_count": null
   }
  ],
@@ -522,72 +544,72 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-21"
+    "to": "2026-11-22"
    },
-   "streams_analyzed": 18,
-   "streams_missed": 0,
-   "unique_chatters": 21321,
-   "members_confirmed": 2800,
+   "streams_analyzed": 19,
+   "streams_missed": 1,
+   "unique_chatters": 22896,
+   "members_confirmed": 2876,
    "member_classes": {
-    "unknown": 1409,
-    "known": 1025,
-    "gift": 366
+    "unknown": 1446,
+    "known": 1037,
+    "gift": 393
    },
-   "long_term_members": 1887,
+   "long_term_members": 1928,
    "badges": [
     {
      "months": 0,
-     "members": 458
+     "members": 489
     },
     {
      "months": 1,
-     "members": 66
+     "members": 65
     },
     {
      "months": 2,
-     "members": 173
+     "members": 174
     },
     {
      "months": 6,
-     "members": 216
+     "members": 220
     },
     {
      "months": 12,
-     "members": 1887
+     "members": 1928
     }
    ],
    "events": {
-    "new_members": 16,
-    "rejoins": 30,
-    "milestones": 383,
-    "gifted_total": 370
+    "new_members": 18,
+    "rejoins": 32,
+    "milestones": 400,
+    "gifted_total": 397
    },
    "tiers": [
     {
      "tier": "Gemlins",
      "price": 690,
-     "confirmed_members": 1002,
-     "estimated_members": 2379.4
+     "confirmed_members": 1014,
+     "estimated_members": 2427.9
     },
     {
      "tier": "The Boulders",
      "price": 1990,
      "confirmed_members": 5,
-     "estimated_members": 11.9
+     "estimated_members": 12.0
     },
     {
      "tier": "Moai Moai Kyun",
      "price": 3490,
      "confirmed_members": 18,
-     "estimated_members": 42.7
+     "estimated_members": 43.1
     }
    ],
    "revenue": {
-    "monthly_low": 1104956,
-    "monthly_est": 1154731,
-    "gift_once": 162464
+    "monthly_low": 1126472,
+    "monthly_est": 1176962,
+    "gift_once": 174319
    },
-   "avg_member_chatters": 712,
+   "avg_member_chatters": 727.7,
    "partial": true,
    "finalized": false
   }

@@ -3,16 +3,16 @@
  "channel_id": "UCpFy8D37SUStmeWh38NuppA",
  "handle": "@Ray_Nanase",
  "subscribers": 14400,
- "fetched_at": "2026-11-21 12:19",
- "generated_at": "2026-11-21 12:19",
+ "fetched_at": "2026-11-22 06:40",
+ "generated_at": "2026-11-22 06:40",
  "period": {
-  "from": "2026-10-22 12:19",
-  "to": "2026-11-21 12:19",
+  "from": "2026-10-23 06:40",
+  "to": "2026-11-22 06:40",
   "days": 30
  },
- "streams_analyzed": 26,
- "streams_missed": 2,
- "unique_chatters": 1359,
+ "streams_analyzed": 27,
+ "streams_missed": 1,
+ "unique_chatters": 1374,
  "members_confirmed": 149,
  "member_classes": {
   "known": 41,
@@ -28,12 +28,12 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 14
+   "members": 13
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 115
+   "members": 116
   }
  ],
  "events": {
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "gCBTYJ4SYR4",
-   "start": "2026-10-22 20:00",
-   "title": "【同時視聴】ななしオタクと見る『Starlight Tribute』第三公演✨【漆瀬レイ / ななしいんく】",
-   "kind": "配信",
-   "chatters": 70,
-   "member_chatters": 31,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "yLGQuyyx67A",
    "start": "2026-10-23 20:00",
@@ -304,6 +294,16 @@
    "gifted_total": 0
   },
   {
+   "video_id": "bAPPi-yopuQ",
+   "start": "2026-11-19 21:12",
+   "title": "【Poppy Playtime】ハーモニカを加えるだけの簡単なお仕事…【 #ここ瀬レイ汰の限界突破 / ここ・じぇす汰 / 漆瀬レイ / ななしいんく】",
+   "kind": "配信",
+   "chatters": 90,
+   "member_chatters": 30,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
    "video_id": "ZzofrG_RGUs",
    "start": "2026-11-19 21:37",
    "title": "【Poppy Playtime】ハーモニカを加えるだけの簡単なお仕事…【 #ここ瀬レイ汰の限界突破 / ここ・じぇす汰 / 漆瀬レイ / ななしいんく】",
@@ -332,6 +332,16 @@
    "member_chatters": 20,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "QaD1Jdymai8",
+   "start": "2026-11-21 20:02",
+   "title": "【大食い】2時間以内に寿司100貫を食べる！！ #ななし寿司100貫チャレンジ【柚原いづみ / 蛇宵ティア / 漆瀬レイ / ななしいんく】",
+   "kind": "配信",
+   "chatters": 147,
+   "member_chatters": 34,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -346,18 +356,6 @@
    "members_level": "",
    "like_count": null,
    "view_count": null
-  },
-  {
-   "video_id": "bAPPi-yopuQ",
-   "start": "2026-11-19 00:00",
-   "title": "【Poppy Playtime】ハーモニカを加えるだけの簡単なお仕事…【 #ここ瀬レイ汰の限界突破 / ここ・じぇす汰 / 漆瀬レイ / ななしいんく】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": null,
-   "view_count": 3245
   }
  ],
  "members_only_content": [
@@ -474,14 +472,14 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-21"
+    "to": "2026-11-22"
    },
-   "streams_analyzed": 16,
-   "streams_missed": 2,
-   "unique_chatters": 1164,
-   "members_confirmed": 139,
+   "streams_analyzed": 18,
+   "streams_missed": 1,
+   "unique_chatters": 1186,
+   "members_confirmed": 140,
    "member_classes": {
-    "unknown": 84,
+    "unknown": 85,
     "known": 41,
     "gift": 14
    },
@@ -493,11 +491,11 @@
     },
     {
      "months": 1,
-     "members": 13
+     "members": 12
     },
     {
      "months": 2,
-     "members": 108
+     "members": 110
     }
    ],
    "events": {
@@ -511,15 +509,15 @@
      "tier": "レイの隠れ家",
      "price": 490,
      "confirmed_members": 41,
-     "estimated_members": 125.0
+     "estimated_members": 126.0
     }
    ],
    "revenue": {
-    "monthly_low": 38977,
-    "monthly_est": 38977,
+    "monthly_low": 39289,
+    "monthly_est": 39289,
     "gift_once": 4365
    },
-   "avg_member_chatters": 44.4,
+   "avg_member_chatters": 43,
    "partial": true,
    "finalized": false
   }

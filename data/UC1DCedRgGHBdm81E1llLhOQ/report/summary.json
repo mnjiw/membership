@@ -3,56 +3,56 @@
  "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
  "handle": "@usadapekora",
  "subscribers": 2800000,
- "fetched_at": "2026-11-21 06:18",
- "generated_at": "2026-11-21 06:25",
+ "fetched_at": "2026-11-22 06:24",
+ "generated_at": "2026-11-22 06:32",
  "period": {
-  "from": "2026-10-22 06:18",
-  "to": "2026-11-21 06:18",
+  "from": "2026-10-23 06:24",
+  "to": "2026-11-22 06:24",
   "days": 30
  },
  "streams_analyzed": 39,
  "streams_missed": 1,
- "unique_chatters": 31414,
- "members_confirmed": 6930,
+ "unique_chatters": 32168,
+ "members_confirmed": 6993,
  "member_classes": {
-  "unknown": 6118,
-  "known": 213,
-  "gift": 599
+  "known": 217,
+  "unknown": 6176,
+  "gift": 600
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 722
+   "members": 727
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 78
+   "members": 79
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 390
+   "members": 386
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 605
+   "members": 609
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 5135
+   "members": 5192
   }
  ],
  "events": {
-  "new_members": 71,
-  "rejoins": 65,
+  "new_members": 73,
+  "rejoins": 70,
   "milestones": 0,
-  "gift_purchases": 102,
-  "gifted_total": 729,
-  "gift_redemptions": 599
+  "gift_purchases": 103,
+  "gifted_total": 730,
+  "gift_redemptions": 600
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,21 +60,21 @@
    "tier": "兎田ふぁみりあ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 213,
+   "confirmed_members": 217,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 6118.0,
-   "estimated_members": 6331.0,
-   "monthly_net_confirmed": 66417,
-   "monthly_net_estimated": 1974121
+   "allocated_unknown": 6176.0,
+   "estimated_members": 6393.0,
+   "monthly_net_confirmed": 67665,
+   "monthly_net_estimated": 1993454
   }
  ],
  "revenue": {
-  "monthly_low": 1974121,
-  "monthly_est": 1974121,
-  "gift_once": 227315,
-  "total_low": 2201436,
-  "total_est": 2201436,
-  "paying_members": 6331,
+  "monthly_low": 1993454,
+  "monthly_est": 1993454,
+  "gift_once": 227627,
+  "total_low": 2221081,
+  "total_est": 2221081,
+  "paying_members": 6393,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "t8q3XEmK0aM",
-   "start": "2026-10-22 21:00",
-   "title": "#4【初見】『無職転生~異世界行ったら本気だす~』同時視聴【ホロライブ/兎田ぺこら】",
-   "kind": "配信",
-   "chatters": 3250,
-   "member_chatters": 1259,
-   "new_members": 1,
-   "gifted_total": 6
-  },
   {
    "video_id": "8X0Pa0P7zZM",
    "start": "2026-10-23 19:03",
@@ -472,6 +462,16 @@
    "member_chatters": 987,
    "new_members": 0,
    "gifted_total": 20
+  },
+  {
+   "video_id": "yBZhTtFrP64",
+   "start": "2026-11-21 19:01",
+   "title": "#1【GTA VI】マジで今日から始まるバイスシティ生活！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+   "kind": "配信",
+   "chatters": 5795,
+   "member_chatters": 2056,
+   "new_members": 3,
+   "gifted_total": 7
   }
  ],
  "missed_streams": [
@@ -618,60 +618,60 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-21"
+    "to": "2026-11-22"
    },
-   "streams_analyzed": 25,
+   "streams_analyzed": 26,
    "streams_missed": 0,
-   "unique_chatters": 25899,
-   "members_confirmed": 6201,
+   "unique_chatters": 27130,
+   "members_confirmed": 6327,
    "member_classes": {
-    "unknown": 5553,
-    "known": 174,
-    "gift": 474
+    "unknown": 5665,
+    "known": 181,
+    "gift": 481
    },
-   "long_term_members": 4660,
+   "long_term_members": 4762,
    "badges": [
     {
      "months": 0,
-     "members": 585
+     "members": 597
     },
     {
      "months": 1,
-     "members": 65
+     "members": 67
     },
     {
      "months": 2,
-     "members": 339
+     "members": 341
     },
     {
      "months": 6,
-     "members": 552
+     "members": 560
     },
     {
      "months": 12,
-     "members": 4660
+     "members": 4762
     }
    ],
    "events": {
-    "new_members": 53,
-    "rejoins": 46,
+    "new_members": 56,
+    "rejoins": 51,
     "milestones": 0,
-    "gifted_total": 598
+    "gifted_total": 605
    },
    "tiers": [
     {
      "tier": "兎田ふぁみりあ",
      "price": 490,
-     "confirmed_members": 174,
-     "estimated_members": 5727.0
+     "confirmed_members": 181,
+     "estimated_members": 5846.0
     }
    ],
    "revenue": {
-    "monthly_low": 1785783,
-    "monthly_est": 1785783,
-    "gift_once": 186467
+    "monthly_low": 1822889,
+    "monthly_est": 1822889,
+    "gift_once": 188650
    },
-   "avg_member_chatters": 1663.0,
+   "avg_member_chatters": 1678.2,
    "partial": true,
    "finalized": false
   }

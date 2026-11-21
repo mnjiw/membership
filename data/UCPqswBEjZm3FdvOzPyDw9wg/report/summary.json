@@ -3,56 +3,56 @@
  "channel_id": "UCPqswBEjZm3FdvOzPyDw9wg",
  "handle": "@AnonRemu",
  "subscribers": 47200,
- "fetched_at": "2026-11-21 06:39",
- "generated_at": "2026-11-21 06:39",
+ "fetched_at": "2026-11-22 06:50",
+ "generated_at": "2026-11-22 06:51",
  "period": {
-  "from": "2026-10-22 06:39",
-  "to": "2026-11-21 06:39",
+  "from": "2026-10-23 06:50",
+  "to": "2026-11-22 06:50",
   "days": 30
  },
- "streams_analyzed": 18,
- "streams_missed": 1,
- "unique_chatters": 882,
- "members_confirmed": 314,
+ "streams_analyzed": 19,
+ "streams_missed": 0,
+ "unique_chatters": 946,
+ "members_confirmed": 518,
  "member_classes": {
-  "unknown": 155,
+  "unknown": 157,
   "known": 7,
-  "gift": 152
+  "gift": 354
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 91
+   "members": 266
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 20
+   "members": 26
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 58
+   "members": 77
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 34
+   "members": 37
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 111
+   "members": 112
   }
  ],
  "events": {
   "new_members": 0,
   "rejoins": 1,
   "milestones": 0,
-  "gift_purchases": 24,
-  "gifted_total": 153,
-  "gift_redemptions": 152
+  "gift_purchases": 44,
+  "gifted_total": 359,
+  "gift_redemptions": 354
  },
  "tiers_configured": true,
  "tiers": [
@@ -62,10 +62,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 7,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 155.0,
-   "estimated_members": 162.0,
+   "allocated_unknown": 157.0,
+   "estimated_members": 164.0,
    "monthly_net_confirmed": 2183,
-   "monthly_net_estimated": 50515
+   "monthly_net_estimated": 51138
   },
   {
    "tier": "ししゃく",
@@ -102,12 +102,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 50515,
-  "monthly_est": 50515,
-  "gift_once": 47708,
-  "total_low": 98223,
-  "total_est": 98223,
-  "paying_members": 162,
+  "monthly_low": 51138,
+  "monthly_est": 51138,
+  "gift_once": 111943,
+  "total_low": 163081,
+  "total_est": 163081,
+  "paying_members": 164,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -295,22 +295,19 @@
    "member_chatters": 62,
    "new_members": 0,
    "gifted_total": 0
-  }
- ],
- "missed_streams": [
+  },
   {
-   "video_id": "hJ5xnYoDFu0",
-   "start": "2026-10-22 20:00",
-   "title": "『 メンバー限定 』うたのれんしゅうテスト配信 .ᐟ.ᐟ『綺音れむ / Varium』",
-   "kind": "live",
-   "status": "no_chat",
-   "reason": "チャットリプレイなし（アーカイブ編集・チャット無効の可能性）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 103,
-   "view_count": null
+   "video_id": "1LalT2Cz-J8",
+   "start": "2026-11-21 19:30",
+   "title": "『 #SanrioSongSingingRelay 』I'll do my best to sing.ᐟ『Kine Remu / Varium』",
+   "kind": "配信",
+   "chatters": 242,
+   "member_chatters": 298,
+   "new_members": 0,
+   "gifted_total": 206
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -448,52 +445,52 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-21"
+    "to": "2026-11-22"
    },
-   "streams_analyzed": 11,
+   "streams_analyzed": 12,
    "streams_missed": 0,
-   "unique_chatters": 518,
-   "members_confirmed": 209,
+   "unique_chatters": 613,
+   "members_confirmed": 419,
    "member_classes": {
-    "unknown": 164,
+    "unknown": 172,
     "known": 7,
-    "gift": 38
+    "gift": 240
    },
-   "long_term_members": 96,
+   "long_term_members": 99,
    "badges": [
     {
      "months": 0,
-     "members": 40
+     "members": 216
     },
     {
      "months": 1,
-     "members": 11
+     "members": 17
     },
     {
      "months": 2,
-     "members": 34
+     "members": 56
     },
     {
      "months": 6,
-     "members": 28
+     "members": 31
     },
     {
      "months": 12,
-     "members": 96
+     "members": 99
     }
    ],
    "events": {
     "new_members": 0,
     "rejoins": 1,
     "milestones": 0,
-    "gifted_total": 38
+    "gifted_total": 244
    },
    "tiers": [
     {
      "tier": "だんしゃく",
      "price": 490,
      "confirmed_members": 7,
-     "estimated_members": 171.0
+     "estimated_members": 179.0
     },
     {
      "tier": "ししゃく",
@@ -515,11 +512,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 53321,
-    "monthly_est": 53321,
-    "gift_once": 11849
+    "monthly_low": 55815,
+    "monthly_est": 55815,
+    "gift_once": 76084
    },
-   "avg_member_chatters": 73.8,
+   "avg_member_chatters": 92.5,
    "partial": true,
    "finalized": false
   }

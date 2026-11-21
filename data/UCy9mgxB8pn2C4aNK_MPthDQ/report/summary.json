@@ -2,37 +2,42 @@
  "channel": "Tsuzuri Ch. 鈴鳴つづり ‐ アソビ★まわり隊!",
  "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
  "handle": "@SuzunaTsuzuri",
- "subscribers": 381000,
- "fetched_at": "2026-11-21 06:26",
- "generated_at": "2026-11-21 06:26",
+ "subscribers": 382000,
+ "fetched_at": "2026-11-22 06:34",
+ "generated_at": "2026-11-22 06:37",
  "period": {
-  "from": "2026-10-22 06:26",
-  "to": "2026-11-21 06:26",
+  "from": "2026-10-23 06:34",
+  "to": "2026-11-22 06:34",
   "days": 30
  },
  "streams_analyzed": 23,
- "streams_missed": 3,
- "unique_chatters": 20650,
- "members_confirmed": 5480,
+ "streams_missed": 4,
+ "unique_chatters": 19701,
+ "members_confirmed": 5355,
  "member_classes": {
-  "known": 2177,
-  "unknown": 2826,
-  "gift": 477
+  "known": 2143,
+  "unknown": 2784,
+  "gift": 428
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 5480
+   "members": 4531
+  },
+  {
+   "months": 1,
+   "label": "1ヶ月",
+   "members": 824
   }
  ],
  "events": {
-  "new_members": 1207,
+  "new_members": 945,
   "rejoins": 0,
-  "milestones": 0,
-  "gift_purchases": 80,
-  "gifted_total": 512,
-  "gift_redemptions": 477
+  "milestones": 77,
+  "gift_purchases": 79,
+  "gifted_total": 458,
+  "gift_redemptions": 428
  },
  "tiers_configured": true,
  "tiers": [
@@ -40,21 +45,21 @@
    "tier": "つづり郵便局",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 2177,
+   "confirmed_members": 2143,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2826.0,
-   "estimated_members": 5003.0,
-   "monthly_net_confirmed": 678828,
-   "monthly_net_estimated": 1560026
+   "allocated_unknown": 2784.0,
+   "estimated_members": 4927.0,
+   "monthly_net_confirmed": 668226,
+   "monthly_net_estimated": 1536328
   }
  ],
  "revenue": {
-  "monthly_low": 1560026,
-  "monthly_est": 1560026,
-  "gift_once": 159651,
-  "total_low": 1719677,
-  "total_est": 1719677,
-  "paying_members": 5003,
+  "monthly_low": 1536328,
+  "monthly_est": 1536328,
+  "gift_once": 142813,
+  "total_low": 1679141,
+  "total_est": 1679141,
+  "paying_members": 4927,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -63,16 +68,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "mOeNtn8bn3A",
-   "start": "2026-10-22 19:00",
-   "title": "【#ホロ鯖かくれんぼ】遂に上陸!?　先輩と会いたいけど...【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-   "kind": "配信",
-   "chatters": 4926,
-   "member_chatters": 1831,
-   "new_members": 300,
-   "gifted_total": 55
-  },
   {
    "video_id": "aAAvIiof87M",
    "start": "2026-10-23 21:29",
@@ -292,6 +287,16 @@
    "member_chatters": 925,
    "new_members": 4,
    "gifted_total": 1
+  },
+  {
+   "video_id": "9HgDRTTPMTM",
+   "start": "2026-11-21 21:03",
+   "title": "【Trees Hate You】ついに来た...！！絶対に倒されない！！！　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+   "kind": "配信",
+   "chatters": 2399,
+   "member_chatters": 1266,
+   "new_members": 38,
+   "gifted_total": 1
   }
  ],
  "missed_streams": [
@@ -316,7 +321,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "つづり郵便局",
-   "like_count": 2221,
+   "like_count": 2223,
    "view_count": null
   },
   {
@@ -328,8 +333,20 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "つづり郵便局",
-   "like_count": 1756,
+   "like_count": 1843,
    "view_count": null
+  },
+  {
+   "video_id": "Zsd5ak7ZzmY",
+   "start": "2026-11-21 00:00",
+   "title": "【Minecraft】アソビ★まわり隊！で建築と冒険！！【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 8400,
+   "view_count": 239227
   }
  ],
  "members_only_content": [
@@ -340,7 +357,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "つづり郵便局",
-   "like_count": 2221,
+   "like_count": 2223,
    "view_count": null
   },
   {
@@ -350,7 +367,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "つづり郵便局",
-   "like_count": 1756,
+   "like_count": 1843,
    "view_count": null
   }
  ],
@@ -431,44 +448,48 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-21"
+    "to": "2026-11-22"
    },
-   "streams_analyzed": 15,
-   "streams_missed": 1,
-   "unique_chatters": 13958,
-   "members_confirmed": 3920,
+   "streams_analyzed": 16,
+   "streams_missed": 2,
+   "unique_chatters": 14516,
+   "members_confirmed": 4054,
    "member_classes": {
-    "known": 1468,
-    "unknown": 2364,
-    "gift": 88
+    "known": 1577,
+    "unknown": 2388,
+    "gift": 89
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 3920
+     "members": 3230
+    },
+    {
+     "months": 1,
+     "members": 824
     }
    ],
    "events": {
-    "new_members": 242,
+    "new_members": 280,
     "rejoins": 0,
-    "milestones": 0,
-    "gifted_total": 118
+    "milestones": 77,
+    "gifted_total": 119
    },
    "tiers": [
     {
      "tier": "つづり郵便局",
      "price": 490,
-     "confirmed_members": 1468,
-     "estimated_members": 3832.0
+     "confirmed_members": 1577,
+     "estimated_members": 3965.0
     }
    ],
    "revenue": {
-    "monthly_low": 1194887,
-    "monthly_est": 1194887,
-    "gift_once": 36795
+    "monthly_low": 1236359,
+    "monthly_est": 1236359,
+    "gift_once": 37106
    },
-   "avg_member_chatters": 1228.9,
+   "avg_member_chatters": 1231.2,
    "partial": true,
    "finalized": false
   }

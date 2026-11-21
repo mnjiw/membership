@@ -2,37 +2,37 @@
  "channel": "Mela Ch. 熱千めら‐ アソビ★まわり隊!",
  "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
  "handle": "@AchichiMela",
- "subscribers": 424000,
- "fetched_at": "2026-11-21 06:25",
- "generated_at": "2026-11-21 06:25",
+ "subscribers": 425000,
+ "fetched_at": "2026-11-22 06:33",
+ "generated_at": "2026-11-22 06:36",
  "period": {
-  "from": "2026-10-22 06:25",
-  "to": "2026-11-21 06:25",
+  "from": "2026-10-23 06:33",
+  "to": "2026-11-22 06:33",
   "days": 30
  },
  "streams_analyzed": 29,
  "streams_missed": 1,
- "unique_chatters": 32845,
- "members_confirmed": 7588,
+ "unique_chatters": 31594,
+ "members_confirmed": 6952,
  "member_classes": {
-  "unknown": 4305,
-  "known": 2668,
-  "gift": 615
+  "unknown": 4261,
+  "known": 2201,
+  "gift": 490
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 7588
+   "members": 6952
   }
  ],
  "events": {
-  "new_members": 2679,
+  "new_members": 1275,
   "rejoins": 0,
   "milestones": 0,
-  "gift_purchases": 138,
-  "gifted_total": 921,
-  "gift_redemptions": 615
+  "gift_purchases": 125,
+  "gifted_total": 796,
+  "gift_redemptions": 490
  },
  "tiers_configured": true,
  "tiers": [
@@ -40,21 +40,21 @@
    "tier": "安全地帯",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 2668,
+   "confirmed_members": 2201,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 4305.0,
-   "estimated_members": 6973.0,
-   "monthly_net_confirmed": 831931,
-   "monthly_net_estimated": 2174308
+   "allocated_unknown": 4261.0,
+   "estimated_members": 6462.0,
+   "monthly_net_confirmed": 686312,
+   "monthly_net_estimated": 2014969
   }
  ],
  "revenue": {
-  "monthly_low": 2174308,
-  "monthly_est": 2174308,
-  "gift_once": 287185,
-  "total_low": 2461493,
-  "total_est": 2461493,
-  "paying_members": 6973,
+  "monthly_low": 2014969,
+  "monthly_est": 2014969,
+  "gift_once": 248207,
+  "total_low": 2263176,
+  "total_est": 2263176,
+  "paying_members": 6462,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -63,16 +63,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "bB5HkHSQWkI",
-   "start": "2026-10-22 18:59",
-   "title": "【#ホロ鯖かくれんぼ】先輩コラボ解禁なのじゃあああああ！！！！！【ホロライブ/アソビ★まわり隊！/熱千めら】",
-   "kind": "配信",
-   "chatters": 7047,
-   "member_chatters": 3199,
-   "new_members": 1409,
-   "gifted_total": 125
-  },
   {
    "video_id": "ZQJkVI2CWq0",
    "start": "2026-10-23 18:59",
@@ -352,6 +342,16 @@
    "member_chatters": 1749,
    "new_members": 12,
    "gifted_total": 20
+  },
+  {
+   "video_id": "inmap2iySzA",
+   "start": "2026-11-21 12:57",
+   "title": "はじめてのMinecraftで冒険！アソビ★まわり隊！拠点作る【ホロライブ/熱千めら】",
+   "kind": "配信",
+   "chatters": 2541,
+   "member_chatters": 1164,
+   "new_members": 5,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -364,21 +364,11 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 3566,
+   "like_count": 3569,
    "view_count": null
   }
  ],
  "members_only_content": [
-  {
-   "video_id": "Qj7NWN1ViiM",
-   "start": "2026-10-22 16:19",
-   "title": "資料用にフローリングででんぐり返しをする熱千めら",
-   "kind": "video",
-   "status": "members_only_video",
-   "members_level": "",
-   "like_count": 2794,
-   "view_count": null
-  },
   {
    "video_id": "thb3Hr1ccAA",
    "start": "2026-10-24 18:16",
@@ -386,7 +376,7 @@
    "kind": "video",
    "status": "members_only_video",
    "members_level": "",
-   "like_count": 1449,
+   "like_count": 1455,
    "view_count": null
   },
   {
@@ -396,7 +386,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 3566,
+   "like_count": 3569,
    "view_count": null
   }
  ],
@@ -477,26 +467,26 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-21"
+    "to": "2026-11-22"
    },
-   "streams_analyzed": 17,
+   "streams_analyzed": 18,
    "streams_missed": 1,
-   "unique_chatters": 20815,
-   "members_confirmed": 4952,
+   "unique_chatters": 21353,
+   "members_confirmed": 5020,
    "member_classes": {
-    "unknown": 3416,
-    "known": 1421,
+    "unknown": 3463,
+    "known": 1442,
     "gift": 115
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 4952
+     "members": 5020
     }
    ],
    "events": {
-    "new_members": 220,
+    "new_members": 225,
     "rejoins": 0,
     "milestones": 0,
     "gifted_total": 135
@@ -505,16 +495,16 @@
     {
      "tier": "安全地帯",
      "price": 490,
-     "confirmed_members": 1421,
-     "estimated_members": 4837.0
+     "confirmed_members": 1442,
+     "estimated_members": 4905.0
     }
    ],
    "revenue": {
-    "monthly_low": 1508265,
-    "monthly_est": 1508265,
+    "monthly_low": 1529468,
+    "monthly_est": 1529468,
     "gift_once": 42095
    },
-   "avg_member_chatters": 1321,
+   "avg_member_chatters": 1312.3,
    "partial": true,
    "finalized": false
   }

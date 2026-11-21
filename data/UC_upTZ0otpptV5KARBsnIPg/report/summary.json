@@ -3,20 +3,20 @@
  "channel_id": "UC_upTZ0otpptV5KARBsnIPg",
  "handle": "@komawarikoma",
  "subscribers": 442000,
- "fetched_at": "2026-11-21 06:38",
- "generated_at": "2026-11-21 06:38",
+ "fetched_at": "2026-11-22 06:49",
+ "generated_at": "2026-11-22 06:49",
  "period": {
-  "from": "2026-10-22 06:38",
-  "to": "2026-11-21 06:38",
+  "from": "2026-10-23 06:49",
+  "to": "2026-11-22 06:49",
   "days": 30
  },
- "streams_analyzed": 7,
+ "streams_analyzed": 8,
  "streams_missed": 3,
- "unique_chatters": 870,
- "members_confirmed": 199,
+ "unique_chatters": 960,
+ "members_confirmed": 203,
  "member_classes": {
-  "known": 68,
-  "unknown": 126,
+  "known": 70,
+  "unknown": 128,
   "gift": 5
  },
  "badges": [
@@ -33,17 +33,17 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 40
+   "members": 41
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 54
+   "members": 55
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 79
+   "members": 81
   }
  ],
  "events": {
@@ -60,21 +60,21 @@
    "tier": "小廻一座",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 68,
+   "confirmed_members": 70,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 126.0,
-   "estimated_members": 194.0,
-   "monthly_net_confirmed": 21204,
-   "monthly_net_estimated": 60493
+   "allocated_unknown": 128.0,
+   "estimated_members": 198.0,
+   "monthly_net_confirmed": 21827,
+   "monthly_net_estimated": 61740
   }
  ],
  "revenue": {
-  "monthly_low": 60493,
-  "monthly_est": 60493,
+  "monthly_low": 61740,
+  "monthly_est": 61740,
   "gift_once": 1559,
-  "total_low": 62052,
-  "total_est": 62052,
-  "paying_members": 194,
+  "total_low": 63299,
+  "total_est": 63299,
+  "paying_members": 198,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -150,6 +150,16 @@
    "kind": "配信",
    "chatters": 335,
    "member_chatters": 120,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "J_SDhKZkOsQ",
+   "start": "2026-11-21 20:02",
+   "title": "しんでしまうとはなさけない！／小廻こま × 夕霧レイ（cover）",
+   "kind": "プレミア",
+   "chatters": 163,
+   "member_chatters": 43,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -332,17 +342,17 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-21"
+    "to": "2026-11-22"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 6,
    "streams_missed": 2,
-   "unique_chatters": 536,
-   "members_confirmed": 158,
+   "unique_chatters": 635,
+   "members_confirmed": 164,
    "member_classes": {
-    "unknown": 103,
-    "known": 55
+    "unknown": 106,
+    "known": 58
    },
-   "long_term_members": 67,
+   "long_term_members": 70,
    "badges": [
     {
      "months": 0,
@@ -354,15 +364,15 @@
     },
     {
      "months": 2,
-     "members": 34
+     "members": 35
     },
     {
      "months": 6,
-     "members": 41
+     "members": 43
     },
     {
      "months": 12,
-     "members": 67
+     "members": 70
     }
    ],
    "events": {
@@ -375,16 +385,16 @@
     {
      "tier": "小廻一座",
      "price": 490,
-     "confirmed_members": 55,
-     "estimated_members": 158.0
+     "confirmed_members": 58,
+     "estimated_members": 164.0
     }
    ],
    "revenue": {
-    "monthly_low": 49267,
-    "monthly_est": 49267,
+    "monthly_low": 51138,
+    "monthly_est": 51138,
     "gift_once": 0
    },
-   "avg_member_chatters": 83.8,
+   "avg_member_chatters": 77,
    "partial": true,
    "finalized": false
   }

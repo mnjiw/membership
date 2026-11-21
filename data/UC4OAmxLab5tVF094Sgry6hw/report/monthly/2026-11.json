@@ -2,22 +2,22 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-21"
+  "to": "2026-11-22"
  },
- "streams_analyzed": 2,
+ "streams_analyzed": 3,
  "streams_missed": 1,
- "unique_chatters": 478,
- "members_confirmed": 190,
+ "unique_chatters": 696,
+ "members_confirmed": 245,
  "member_classes": {
-  "unknown": 164,
-  "known": 25,
-  "gift": 1
+  "unknown": 207,
+  "known": 34,
+  "gift": 4
  },
- "long_term_members": 114,
+ "long_term_members": 136,
  "badges": [
   {
    "months": 0,
-   "members": 8
+   "members": 18
   },
   {
    "months": 1,
@@ -25,37 +25,37 @@
   },
   {
    "months": 2,
-   "members": 33
+   "members": 51
   },
   {
    "months": 6,
-   "members": 29
+   "members": 34
   },
   {
    "months": 12,
-   "members": 114
+   "members": 136
   }
  ],
  "events": {
-  "new_members": 1,
-  "rejoins": 0,
-  "milestones": 2,
-  "gifted_total": 1
+  "new_members": 3,
+  "rejoins": 1,
+  "milestones": 4,
+  "gifted_total": 4
  },
  "tiers": [
   {
    "tier": "安心教",
    "price": 490,
-   "confirmed_members": 25,
-   "estimated_members": 189.0
+   "confirmed_members": 34,
+   "estimated_members": 241.0
   }
  ],
  "revenue": {
-  "monthly_low": 58934,
-  "monthly_est": 58934,
-  "gift_once": 312
+  "monthly_low": 75148,
+  "monthly_est": 75148,
+  "gift_once": 1247
  },
- "avg_member_chatters": 142.5,
+ "avg_member_chatters": 150.3,
  "partial": true,
  "finalized": false
 }

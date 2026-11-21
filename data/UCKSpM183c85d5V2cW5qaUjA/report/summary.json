@@ -3,15 +3,15 @@
  "channel_id": "UCKSpM183c85d5V2cW5qaUjA",
  "handle": "@narinmikure",
  "subscribers": 66800,
- "fetched_at": "2026-11-21 06:32",
- "generated_at": "2026-11-21 06:33",
+ "fetched_at": "2026-11-22 06:43",
+ "generated_at": "2026-11-22 06:44",
  "period": {
-  "from": "2026-10-22 06:32",
-  "to": "2026-11-21 06:32",
+  "from": "2026-10-23 06:43",
+  "to": "2026-11-22 06:43",
   "days": 30
  },
  "streams_analyzed": 5,
- "streams_missed": 1,
+ "streams_missed": 2,
  "unique_chatters": 581,
  "members_confirmed": 239,
  "member_classes": {
@@ -151,6 +151,18 @@
    "members_level": "",
    "like_count": null,
    "view_count": null
+  },
+  {
+   "video_id": "PFxACAn3BU8",
+   "start": "2026-11-21 12:33",
+   "title": "【Members Only】 cyberpunk edgerunners 2 ep.1-2 【#VSPOEN #NarinMikure】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": null,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -158,6 +170,16 @@
    "video_id": "kxbKVJ09P2k",
    "start": "2026-11-06 12:01",
    "title": "【Members Only】 just one 10 minutes 【#VSPOEN #NarinMikure】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": null,
+   "view_count": null
+  },
+  {
+   "video_id": "PFxACAn3BU8",
+   "start": "2026-11-21 12:33",
+   "title": "【Members Only】 cyberpunk edgerunners 2 ep.1-2 【#VSPOEN #NarinMikure】",
    "kind": "live",
    "status": "members_only",
    "members_level": "",
@@ -278,10 +300,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-21"
+    "to": "2026-11-22"
    },
    "streams_analyzed": 4,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 550,
    "members_confirmed": 221,
    "member_classes": {

@@ -3,81 +3,81 @@
  "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
  "handle": "@OmaruPolka",
  "subscribers": 1380000,
- "fetched_at": "2026-11-21 06:20",
- "generated_at": "2026-11-21 06:20",
+ "fetched_at": "2026-11-22 06:28",
+ "generated_at": "2026-11-22 06:28",
  "period": {
-  "from": "2026-10-22 06:20",
-  "to": "2026-11-21 06:20",
+  "from": "2026-10-23 06:28",
+  "to": "2026-11-22 06:28",
   "days": 30
  },
- "streams_analyzed": 17,
+ "streams_analyzed": 14,
  "streams_missed": 1,
- "unique_chatters": 6950,
- "members_confirmed": 1815,
+ "unique_chatters": 6236,
+ "members_confirmed": 1694,
  "member_classes": {
-  "unknown": 1465,
-  "known": 281,
-  "gift": 69
+  "unknown": 1369,
+  "known": 262,
+  "gift": 63
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 135
+   "members": 124
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 21
+   "members": 15
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 125
+   "members": 113
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 176
+   "members": 165
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 309
+   "members": 288
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 356
+   "members": 336
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 189
+   "members": 173
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 193
+   "members": 186
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 187
+   "members": 174
   },
   {
    "months": 72,
    "label": "6年",
-   "members": 124
+   "members": 120
   }
  ],
  "events": {
-  "new_members": 20,
-  "rejoins": 19,
-  "milestones": 90,
-  "gift_purchases": 16,
-  "gifted_total": 90,
-  "gift_redemptions": 69
+  "new_members": 16,
+  "rejoins": 17,
+  "milestones": 86,
+  "gift_purchases": 14,
+  "gifted_total": 84,
+  "gift_redemptions": 63
  },
  "tiers_configured": true,
  "tiers": [
@@ -85,21 +85,21 @@
    "tier": "おまる座",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 281,
+   "confirmed_members": 262,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1465.0,
-   "estimated_members": 1746.0,
-   "monthly_net_confirmed": 87621,
-   "monthly_net_estimated": 544435
+   "allocated_unknown": 1369.0,
+   "estimated_members": 1631.0,
+   "monthly_net_confirmed": 81696,
+   "monthly_net_estimated": 508575
   }
  ],
  "revenue": {
-  "monthly_low": 544435,
-  "monthly_est": 544435,
-  "gift_once": 28064,
-  "total_low": 572498,
-  "total_est": 572498,
-  "paying_members": 1746,
+  "monthly_low": 508575,
+  "monthly_est": 508575,
+  "gift_once": 26193,
+  "total_low": 534768,
+  "total_est": 534768,
+  "paying_members": 1631,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -108,36 +108,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "anxRIt1Y9Uw",
-   "start": "2026-10-22 19:00",
-   "title": "【ポルカの伝説】ゲストのらでんと業界用語わかるかな～！？",
-   "kind": "プレミア",
-   "chatters": 413,
-   "member_chatters": 240,
-   "new_members": 0,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "JP3UUwvy-XQ",
-   "start": "2026-10-22 22:00",
-   "title": "【#ホロドリ】天井までに全員引くぞ！！！！ホロドリガチャ！！！！【尾丸ポルカ/ホロライブ】",
-   "kind": "配信",
-   "chatters": 1216,
-   "member_chatters": 565,
-   "new_members": 2,
-   "gifted_total": 5
-  },
-  {
-   "video_id": "sF7SZcOidhM",
-   "start": "2026-10-22 23:30",
-   "title": "【R.E.P.O.】ポルカもそろそろまぜろよ【尾丸ポルカ視点/ホロライブ】",
-   "kind": "配信",
-   "chatters": 611,
-   "member_chatters": 362,
-   "new_members": 2,
-   "gifted_total": 1
-  },
   {
    "video_id": "QoQRLGY7LFg",
    "start": "2026-10-23 19:01",
@@ -474,7 +444,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-21"
+    "to": "2026-11-22"
    },
    "streams_analyzed": 5,
    "streams_missed": 0,
