@@ -3,20 +3,20 @@
  "channel_id": "UC6oDys1BGgBsIC3WhG1BovQ",
  "handle": "@ShizukaRin",
  "subscribers": 398000,
- "fetched_at": "2026-11-22 05:18",
- "generated_at": "2026-11-22 05:19",
+ "fetched_at": "2026-11-23 05:18",
+ "generated_at": "2026-11-23 05:18",
  "period": {
-  "from": "2026-10-23 05:18",
-  "to": "2026-11-22 05:18",
+  "from": "2026-10-24 05:18",
+  "to": "2026-11-23 05:18",
   "days": 30
  },
- "streams_analyzed": 34,
- "streams_missed": 2,
- "unique_chatters": 985,
- "members_confirmed": 273,
+ "streams_analyzed": 36,
+ "streams_missed": 3,
+ "unique_chatters": 994,
+ "members_confirmed": 274,
  "member_classes": {
   "known": 42,
-  "unknown": 206,
+  "unknown": 207,
   "gift": 25
  },
  "badges": [
@@ -58,7 +58,7 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 140
+   "members": 141
   }
  ],
  "events": {
@@ -77,19 +77,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 42,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 206.0,
-   "estimated_members": 248.0,
+   "allocated_unknown": 207.0,
+   "estimated_members": 249.0,
    "monthly_net_confirmed": 13096,
-   "monthly_net_estimated": 77331
+   "monthly_net_estimated": 77643
   }
  ],
  "revenue": {
-  "monthly_low": 77331,
-  "monthly_est": 77331,
+  "monthly_low": 77643,
+  "monthly_est": 77643,
   "gift_once": 7795,
-  "total_low": 85126,
-  "total_est": 85126,
-  "paying_members": 248,
+  "total_low": 85438,
+  "total_est": 85438,
+  "paying_members": 249,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -437,6 +437,26 @@
    "member_chatters": 55,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "1-g0N44-_jo",
+   "start": "2026-11-22 11:22",
+   "title": "超みじかめアプデスレスパ | Slay the Spire 2【静凛/にじさんじ】",
+   "kind": "配信",
+   "chatters": 90,
+   "member_chatters": 55,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "vj0YVD6BMR0",
+   "start": "2026-11-22 22:26",
+   "title": "R.E.P.O. | しっぽが欲しい悪魔❗️【静凛/にじさんじ】",
+   "kind": "配信",
+   "chatters": 88,
+   "member_chatters": 56,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -463,6 +483,18 @@
    "members_level": "",
    "like_count": 71,
    "view_count": null
+  },
+  {
+   "video_id": "ToMIxu8SHHI",
+   "start": "2026-11-22 00:00",
+   "title": "2026 11 21 21 03 26 🔔",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 113,
+   "view_count": 5464
   }
  ],
  "members_only_content": [
@@ -640,18 +672,18 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-22"
+    "to": "2026-11-23"
    },
-   "streams_analyzed": 28,
-   "streams_missed": 1,
-   "unique_chatters": 775,
-   "members_confirmed": 238,
+   "streams_analyzed": 30,
+   "streams_missed": 2,
+   "unique_chatters": 786,
+   "members_confirmed": 239,
    "member_classes": {
-    "unknown": 181,
+    "unknown": 182,
     "known": 37,
     "gift": 20
    },
-   "long_term_members": 182,
+   "long_term_members": 183,
    "badges": [
     {
      "months": 0,
@@ -683,7 +715,7 @@
     },
     {
      "months": 48,
-     "members": 131
+     "members": 132
     }
    ],
    "events": {
@@ -697,15 +729,15 @@
      "tier": "しずりんのメンバーシップだよ！",
      "price": 490,
      "confirmed_members": 37,
-     "estimated_members": 218.0
+     "estimated_members": 219.0
     }
    ],
    "revenue": {
-    "monthly_low": 67976,
-    "monthly_est": 67976,
+    "monthly_low": 68288,
+    "monthly_est": 68288,
     "gift_once": 6236
    },
-   "avg_member_chatters": 63.2,
+   "avg_member_chatters": 62.7,
    "partial": true,
    "finalized": false
   }

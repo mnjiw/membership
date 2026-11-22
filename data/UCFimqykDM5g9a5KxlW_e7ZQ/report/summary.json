@@ -3,19 +3,19 @@
  "channel_id": "UCFimqykDM5g9a5KxlW_e7ZQ",
  "handle": "@Onotora_Y4T4",
  "subscribers": 130000,
- "fetched_at": "2026-11-22 05:40",
- "generated_at": "2026-11-22 05:40",
+ "fetched_at": "2026-11-23 05:33",
+ "generated_at": "2026-11-23 05:33",
  "period": {
-  "from": "2026-10-23 05:40",
-  "to": "2026-11-22 05:40",
+  "from": "2026-10-24 05:33",
+  "to": "2026-11-23 05:33",
   "days": 30
  },
  "streams_analyzed": 25,
  "streams_missed": 2,
- "unique_chatters": 2588,
- "members_confirmed": 404,
+ "unique_chatters": 2601,
+ "members_confirmed": 410,
  "member_classes": {
-  "unknown": 334,
+  "unknown": 340,
   "known": 49,
   "gift": 21
  },
@@ -23,21 +23,21 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 88
+   "members": 87
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 31
+   "members": 33
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 285
+   "members": 290
   }
  ],
  "events": {
-  "new_members": 37,
+  "new_members": 36,
   "rejoins": 3,
   "milestones": 0,
   "gift_purchases": 2,
@@ -52,19 +52,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 49,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 334.0,
-   "estimated_members": 383.0,
+   "allocated_unknown": 340.0,
+   "estimated_members": 389.0,
    "monthly_net_confirmed": 15279,
-   "monthly_net_estimated": 119426
+   "monthly_net_estimated": 121297
   }
  ],
  "revenue": {
-  "monthly_low": 119426,
-  "monthly_est": 119426,
+  "monthly_low": 121297,
+  "monthly_est": 121297,
   "gift_once": 6548,
-  "total_low": 125975,
-  "total_est": 125975,
-  "paying_members": 383,
+  "total_low": 127845,
+  "total_est": 127845,
+  "paying_members": 389,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "vMRvHtcg63U",
-   "start": "2026-10-23 21:26",
-   "title": "【オーバーウォッチ】大会スクリム！男虎ロボット初陣。　#わんおぺWIN  【 にじさんじ / 男虎】",
-   "kind": "配信",
-   "chatters": 180,
-   "member_chatters": 103,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "aAkCVUHHXZM",
    "start": "2026-10-24 20:00",
@@ -322,6 +312,16 @@
    "member_chatters": 124,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "ludnhPY0nE4",
+   "start": "2026-11-22 22:21",
+   "title": "[Chat] I Changed My Mic! Just a Test #NIJISANJI",
+   "kind": "配信",
+   "chatters": 185,
+   "member_chatters": 107,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -334,7 +334,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "オノヘッズ",
-   "like_count": 73,
+   "like_count": 72,
    "view_count": null
   },
   {
@@ -358,7 +358,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "オノヘッズ",
-   "like_count": 73,
+   "like_count": 72,
    "view_count": null
   },
   {
@@ -485,14 +485,14 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-22"
+    "to": "2026-11-23"
    },
-   "streams_analyzed": 20,
+   "streams_analyzed": 21,
    "streams_missed": 1,
-   "unique_chatters": 2216,
-   "members_confirmed": 345,
+   "unique_chatters": 2245,
+   "members_confirmed": 353,
    "member_classes": {
-    "unknown": 297,
+    "unknown": 305,
     "known": 47,
     "gift": 1
    },
@@ -500,15 +500,15 @@
    "badges": [
     {
      "months": 0,
-     "members": 68
+     "members": 67
     },
     {
      "months": 1,
-     "members": 27
+     "members": 29
     },
     {
      "months": 2,
-     "members": 250
+     "members": 257
     }
    ],
    "events": {
@@ -522,15 +522,15 @@
      "tier": "オノヘッズ",
      "price": 490,
      "confirmed_members": 47,
-     "estimated_members": 344.0
+     "estimated_members": 352.0
     }
    ],
    "revenue": {
-    "monthly_low": 107265,
-    "monthly_est": 107265,
+    "monthly_low": 109760,
+    "monthly_est": 109760,
     "gift_once": 312
    },
-   "avg_member_chatters": 105.5,
+   "avg_member_chatters": 105.6,
    "partial": true,
    "finalized": false
   }

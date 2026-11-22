@@ -2,37 +2,37 @@
  "channel": "ハリ / Ryu Hari 【にじさんじ】",
  "channel_id": "UClS6k3w1sPwlVFqK3-yID5A",
  "handle": "@RyuHari",
- "subscribers": 45000,
- "fetched_at": "2026-11-22 11:13",
- "generated_at": "2026-11-22 11:13",
+ "subscribers": 45100,
+ "fetched_at": "2026-11-23 05:28",
+ "generated_at": "2026-11-23 05:28",
  "period": {
-  "from": "2026-10-23 11:13",
-  "to": "2026-11-22 11:13",
+  "from": "2026-10-24 05:28",
+  "to": "2026-11-23 05:28",
   "days": 30
  },
  "streams_analyzed": 12,
- "streams_missed": 2,
- "unique_chatters": 138,
- "members_confirmed": 66,
+ "streams_missed": 1,
+ "unique_chatters": 133,
+ "members_confirmed": 65,
  "member_classes": {
-  "unknown": 30,
-  "known": 14,
-  "gift": 22
+  "unknown": 31,
+  "known": 13,
+  "gift": 21
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 66
+   "members": 65
   }
  ],
  "events": {
-  "new_members": 3,
+  "new_members": 2,
   "rejoins": 0,
   "milestones": 1,
-  "gift_purchases": 3,
-  "gifted_total": 22,
-  "gift_redemptions": 22
+  "gift_purchases": 2,
+  "gifted_total": 21,
+  "gift_redemptions": 21
  },
  "tiers_configured": true,
  "tiers": [
@@ -40,20 +40,20 @@
    "tier": "리몽",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 14,
+   "confirmed_members": 13,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 30.0,
+   "allocated_unknown": 31.0,
    "estimated_members": 44.0,
-   "monthly_net_confirmed": 4365,
+   "monthly_net_confirmed": 4054,
    "monthly_net_estimated": 13720
   }
  ],
  "revenue": {
   "monthly_low": 13720,
   "monthly_est": 13720,
-  "gift_once": 6860,
-  "total_low": 20580,
-  "total_est": 20580,
+  "gift_once": 6548,
+  "total_low": 20268,
+  "total_est": 20268,
   "paying_members": 44,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -63,16 +63,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "mKJMioufElA",
-   "start": "2026-10-23 22:33",
-   "title": "Ryushin's Chat",
-   "kind": "配信",
-   "chatters": 59,
-   "member_chatters": 32,
-   "new_members": 1,
-   "gifted_total": 1
-  },
   {
    "video_id": "Fk7EJ4v4wKI",
    "start": "2026-10-25 22:00",
@@ -182,6 +172,16 @@
    "member_chatters": 21,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "-Q7cxeyu6BA",
+   "start": "2026-11-21 23:00",
+   "title": "My First Needle Felting Project",
+   "kind": "配信",
+   "chatters": 47,
+   "member_chatters": 28,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -196,18 +196,6 @@
    "members_level": "",
    "like_count": 27,
    "view_count": null
-  },
-  {
-   "video_id": "-Q7cxeyu6BA",
-   "start": "2026-11-21 23:01",
-   "title": "初めての羊毛フェルト",
-   "kind": "live",
-   "status": "processing",
-   "reason": "アーカイブ処理中（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 206,
-   "view_count": 2794
   }
  ],
  "members_only_content": [
@@ -319,14 +307,14 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-22"
+    "to": "2026-11-23"
    },
-   "streams_analyzed": 8,
-   "streams_missed": 2,
-   "unique_chatters": 102,
-   "members_confirmed": 57,
+   "streams_analyzed": 9,
+   "streams_missed": 1,
+   "unique_chatters": 115,
+   "members_confirmed": 60,
    "member_classes": {
-    "unknown": 26,
+    "unknown": 29,
     "known": 11,
     "gift": 20
    },
@@ -334,7 +322,7 @@
    "badges": [
     {
      "months": 0,
-     "members": 57
+     "members": 60
     }
    ],
    "events": {
@@ -348,15 +336,15 @@
      "tier": "리몽",
      "price": 490,
      "confirmed_members": 11,
-     "estimated_members": 37.0
+     "estimated_members": 40.0
     }
    ],
    "revenue": {
-    "monthly_low": 11537,
-    "monthly_est": 11537,
+    "monthly_low": 12473,
+    "monthly_est": 12473,
     "gift_once": 6236
    },
-   "avg_member_chatters": 22.1,
+   "avg_member_chatters": 22.8,
    "partial": true,
    "finalized": false
   }

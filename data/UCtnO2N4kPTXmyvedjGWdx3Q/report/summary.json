@@ -3,20 +3,20 @@
  "channel_id": "UCtnO2N4kPTXmyvedjGWdx3Q",
  "handle": "@LeviElipha",
  "subscribers": 375000,
- "fetched_at": "2026-11-22 05:22",
- "generated_at": "2026-11-22 05:22",
+ "fetched_at": "2026-11-23 05:22",
+ "generated_at": "2026-11-23 05:22",
  "period": {
-  "from": "2026-10-23 05:22",
-  "to": "2026-11-22 05:22",
+  "from": "2026-10-24 05:22",
+  "to": "2026-11-23 05:22",
   "days": 30
  },
- "streams_analyzed": 25,
- "streams_missed": 0,
- "unique_chatters": 719,
- "members_confirmed": 139,
+ "streams_analyzed": 23,
+ "streams_missed": 1,
+ "unique_chatters": 682,
+ "members_confirmed": 138,
  "member_classes": {
+  "unknown": 70,
   "known": 18,
-  "unknown": 71,
   "gift": 50
  },
  "badges": [
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 72
+   "members": 71
   }
  ],
  "events": {
@@ -62,10 +62,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 11,
    "share_of_confirmed_pct": 61.1,
-   "allocated_unknown": 43.4,
-   "estimated_members": 54.4,
+   "allocated_unknown": 42.8,
+   "estimated_members": 53.8,
    "monthly_net_confirmed": 3430,
-   "monthly_net_estimated": 16959
+   "monthly_net_estimated": 16769
   },
   {
    "tier": "チク",
@@ -73,10 +73,10 @@
    "net_per_member": 757.3,
    "confirmed_members": 5,
    "share_of_confirmed_pct": 27.8,
-   "allocated_unknown": 19.7,
-   "estimated_members": 24.7,
+   "allocated_unknown": 19.4,
+   "estimated_members": 24.4,
    "monthly_net_confirmed": 3786,
-   "monthly_net_estimated": 18721
+   "monthly_net_estimated": 18511
   },
   {
    "tier": "ショー",
@@ -84,19 +84,19 @@
    "net_per_member": 2220.9,
    "confirmed_members": 2,
    "share_of_confirmed_pct": 11.1,
-   "allocated_unknown": 7.9,
-   "estimated_members": 9.9,
+   "allocated_unknown": 7.8,
+   "estimated_members": 9.8,
    "monthly_net_confirmed": 4442,
-   "monthly_net_estimated": 21962
+   "monthly_net_estimated": 21716
   }
  ],
  "revenue": {
-  "monthly_low": 33797,
-  "monthly_est": 57643,
+  "monthly_low": 33485,
+  "monthly_est": 56996,
   "gift_once": 15903,
-  "total_low": 49700,
-  "total_est": 73546,
-  "paying_members": 89,
+  "total_low": 49388,
+  "total_est": 72898,
+  "paying_members": 88,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -105,26 +105,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "faipL5L_3M0",
-   "start": "2026-10-23 12:05",
-   "title": "#02【FINAL FANTASY X | X-2 HD Remaster】キーリカ島を抜けルカまでいくゾウ♪【にじさんじ/レヴィ・エリファ】",
-   "kind": "配信",
-   "chatters": 90,
-   "member_chatters": 23,
-   "new_members": 0,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "oT8VN-6jHdc",
-   "start": "2026-10-23 22:05",
-   "title": "#14【大逆転裁判】第5話‼いよいよ法廷に挑みまくるゾウ🐘【にじさんじ/レヴィ・エリファ】",
-   "kind": "配信",
-   "chatters": 59,
-   "member_chatters": 20,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "f5J_mEJhjko",
    "start": "2026-10-24 22:44",
@@ -356,7 +336,20 @@
    "gifted_total": 25
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "nZhkb8pwgho",
+   "start": "2026-11-22 00:00",
+   "title": "#4【ゼルダの伝説 時のオカリナ】精霊石は集めタ‼時の神殿へ行くゾウ🐘🐘【にじさんじ/レヴィ・エリファ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 309,
+   "view_count": 10261
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -511,10 +504,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-22"
+    "to": "2026-11-23"
    },
    "streams_analyzed": 17,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 510,
    "members_confirmed": 99,
    "member_classes": {

@@ -3,27 +3,27 @@
  "channel_id": "UCo96eJdTpPOrxHFztYajbtg",
  "handle": "@ShinomiyaYuno",
  "subscribers": 116000,
- "fetched_at": "2026-11-22 05:40",
- "generated_at": "2026-11-22 05:40",
+ "fetched_at": "2026-11-23 05:33",
+ "generated_at": "2026-11-23 05:33",
  "period": {
-  "from": "2026-10-23 05:40",
-  "to": "2026-11-22 05:40",
+  "from": "2026-10-24 05:33",
+  "to": "2026-11-23 05:33",
   "days": 30
  },
- "streams_analyzed": 17,
+ "streams_analyzed": 18,
  "streams_missed": 0,
- "unique_chatters": 1154,
- "members_confirmed": 394,
+ "unique_chatters": 1178,
+ "members_confirmed": 405,
  "member_classes": {
-  "unknown": 345,
-  "known": 30,
-  "gift": 19
+  "unknown": 350,
+  "known": 31,
+  "gift": 24
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 55
+   "members": 60
   },
   {
    "months": 1,
@@ -33,26 +33,26 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 99
+   "members": 101
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 73
+   "members": 74
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 134
+   "members": 137
   }
  ],
  "events": {
-  "new_members": 8,
+  "new_members": 9,
   "rejoins": 0,
   "milestones": 0,
-  "gift_purchases": 3,
-  "gifted_total": 20,
-  "gift_redemptions": 19
+  "gift_purchases": 4,
+  "gifted_total": 25,
+  "gift_redemptions": 24
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,21 +60,21 @@
    "tier": "しのみーるさん",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 30,
+   "confirmed_members": 31,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 345.0,
-   "estimated_members": 375.0,
-   "monthly_net_confirmed": 9355,
-   "monthly_net_estimated": 116932
+   "allocated_unknown": 350.0,
+   "estimated_members": 381.0,
+   "monthly_net_confirmed": 9666,
+   "monthly_net_estimated": 118803
   }
  ],
  "revenue": {
-  "monthly_low": 116932,
-  "monthly_est": 116932,
-  "gift_once": 6236,
-  "total_low": 123168,
-  "total_est": 123168,
-  "paying_members": 375,
+  "monthly_low": 118803,
+  "monthly_est": 118803,
+  "gift_once": 7795,
+  "total_low": 126598,
+  "total_est": 126598,
+  "paying_members": 381,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -252,6 +252,16 @@
    "member_chatters": 78,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "YkMr8Prwk40",
+   "start": "2026-11-22 13:06",
+   "title": "【 Dandelions Endure 】Lunchtime Stroll【 Yuno Shinomiya / Suprea / NIJISANJI 】",
+   "kind": "配信",
+   "chatters": 120,
+   "member_chatters": 83,
+   "new_members": 1,
+   "gifted_total": 5
   }
  ],
  "missed_streams": [],
@@ -381,22 +391,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-22"
+    "to": "2026-11-23"
    },
-   "streams_analyzed": 11,
+   "streams_analyzed": 12,
    "streams_missed": 0,
-   "unique_chatters": 848,
-   "members_confirmed": 327,
+   "unique_chatters": 877,
+   "members_confirmed": 340,
    "member_classes": {
-    "unknown": 287,
-    "known": 25,
-    "gift": 15
+    "unknown": 294,
+    "known": 26,
+    "gift": 20
    },
-   "long_term_members": 114,
+   "long_term_members": 117,
    "badges": [
     {
      "months": 0,
-     "members": 42
+     "members": 47
     },
     {
      "months": 1,
@@ -404,37 +414,37 @@
     },
     {
      "months": 2,
-     "members": 87
+     "members": 90
     },
     {
      "months": 6,
-     "members": 61
+     "members": 63
     },
     {
      "months": 12,
-     "members": 114
+     "members": 117
     }
    ],
    "events": {
-    "new_members": 5,
+    "new_members": 6,
     "rejoins": 0,
     "milestones": 0,
-    "gifted_total": 15
+    "gifted_total": 20
    },
    "tiers": [
     {
      "tier": "しのみーるさん",
      "price": 490,
-     "confirmed_members": 25,
-     "estimated_members": 312.0
+     "confirmed_members": 26,
+     "estimated_members": 320.0
     }
    ],
    "revenue": {
-    "monthly_low": 97287,
-    "monthly_est": 97287,
-    "gift_once": 4677
+    "monthly_low": 99782,
+    "monthly_est": 99782,
+    "gift_once": 6236
    },
-   "avg_member_chatters": 97.5,
+   "avg_member_chatters": 96.2,
    "partial": true,
    "finalized": false
   }

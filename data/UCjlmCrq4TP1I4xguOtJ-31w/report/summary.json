@@ -3,27 +3,27 @@
  "channel_id": "UCjlmCrq4TP1I4xguOtJ-31w",
  "handle": "@DebidebiDebiru",
  "subscribers": 644000,
- "fetched_at": "2026-11-22 05:20",
- "generated_at": "2026-11-22 05:20",
+ "fetched_at": "2026-11-23 05:20",
+ "generated_at": "2026-11-23 05:20",
  "period": {
-  "from": "2026-10-23 05:20",
-  "to": "2026-11-22 05:20",
+  "from": "2026-10-24 05:20",
+  "to": "2026-11-23 05:20",
   "days": 30
  },
- "streams_analyzed": 13,
+ "streams_analyzed": 12,
  "streams_missed": 1,
- "unique_chatters": 1531,
- "members_confirmed": 520,
+ "unique_chatters": 1475,
+ "members_confirmed": 504,
  "member_classes": {
-  "unknown": 482,
   "known": 31,
-  "gift": 7
+  "unknown": 471,
+  "gift": 2
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 13
+   "members": 8
   },
   {
    "months": 1,
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 11
+   "members": 10
   },
   {
    "months": 6,
@@ -43,21 +43,21 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 63
+   "members": 61
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 404
+   "members": 396
   }
  ],
  "events": {
   "new_members": 3,
   "rejoins": 1,
-  "milestones": 23,
-  "gift_purchases": 3,
-  "gifted_total": 7,
-  "gift_redemptions": 7
+  "milestones": 22,
+  "gift_purchases": 2,
+  "gifted_total": 2,
+  "gift_redemptions": 2
  },
  "tiers_configured": true,
  "tiers": [
@@ -67,10 +67,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 27,
    "share_of_confirmed_pct": 87.1,
-   "allocated_unknown": 419.8,
-   "estimated_members": 446.8,
+   "allocated_unknown": 410.2,
+   "estimated_members": 437.2,
    "monthly_net_confirmed": 8419,
-   "monthly_net_estimated": 139322
+   "monthly_net_estimated": 136335
   },
   {
    "tier": "アイスつき崇拝",
@@ -78,19 +78,19 @@
    "net_per_member": 630.0,
    "confirmed_members": 4,
    "share_of_confirmed_pct": 12.9,
-   "allocated_unknown": 62.2,
-   "estimated_members": 66.2,
+   "allocated_unknown": 60.8,
+   "estimated_members": 64.8,
    "monthly_net_confirmed": 2520,
-   "monthly_net_estimated": 41702
+   "monthly_net_estimated": 40808
   }
  ],
  "revenue": {
-  "monthly_low": 161235,
-  "monthly_est": 181024,
-  "gift_once": 2183,
-  "total_low": 163418,
-  "total_est": 183207,
-  "paying_members": 513,
+  "monthly_low": 157805,
+  "monthly_est": 177143,
+  "gift_once": 624,
+  "total_low": 158429,
+  "total_est": 177766,
+  "paying_members": 502,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -99,16 +99,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "4MrdUczJEaA",
-   "start": "2026-10-23 18:32",
-   "title": "オブラ・ディン号の帰還にでびら・でぃんが挑む【でびでび・でびる/にじさんじ】",
-   "kind": "配信",
-   "chatters": 232,
-   "member_chatters": 137,
-   "new_members": 0,
-   "gifted_total": 5
-  },
   {
    "video_id": "eDx9VDR9km8",
    "start": "2026-10-24 18:01",
@@ -240,7 +230,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 199,
+   "like_count": 200,
    "view_count": null
   }
  ],
@@ -252,7 +242,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 199,
+   "like_count": 200,
    "view_count": null
   }
  ],
@@ -405,7 +395,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-22"
+    "to": "2026-11-23"
    },
    "streams_analyzed": 8,
    "streams_missed": 1,

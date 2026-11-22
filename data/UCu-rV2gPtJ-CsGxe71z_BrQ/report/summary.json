@@ -3,16 +3,16 @@
  "channel_id": "UCu-rV2gPtJ-CsGxe71z_BrQ",
  "handle": "@IgarashiRika",
  "subscribers": 365000,
- "fetched_at": "2026-11-22 05:30",
- "generated_at": "2026-11-22 05:31",
+ "fetched_at": "2026-11-23 05:28",
+ "generated_at": "2026-11-23 05:29",
  "period": {
-  "from": "2026-10-23 05:30",
-  "to": "2026-11-22 05:30",
+  "from": "2026-10-24 05:28",
+  "to": "2026-11-23 05:28",
   "days": 30
  },
  "streams_analyzed": 25,
  "streams_missed": 1,
- "unique_chatters": 4408,
+ "unique_chatters": 4450,
  "members_confirmed": 759,
  "member_classes": {
   "unknown": 664,
@@ -23,12 +23,12 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 85
+   "members": 86
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 23
+   "members": 22
   },
   {
    "months": 2,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "vYACkro0hf8",
-   "start": "2026-10-23 20:06",
-   "title": "#にじEX_OW┊︎#ちるぼたWIN スクリム1日目いくぞ❕【 にじさんじ / 五十嵐梨花 】",
-   "kind": "配信",
-   "chatters": 167,
-   "member_chatters": 125,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "P6s97xLA-fE",
    "start": "2026-10-24 20:01",
@@ -332,6 +322,16 @@
    "member_chatters": 205,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "HTEVeHYPj9M",
+   "start": "2026-11-22 21:53",
+   "title": "スプラ3┊︎シーズンも終わり際らしいXマッチ【 にじさんじ / 五十嵐梨花 】",
+   "kind": "配信",
+   "chatters": 437,
+   "member_chatters": 185,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -487,22 +487,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-22"
+    "to": "2026-11-23"
    },
-   "streams_analyzed": 18,
+   "streams_analyzed": 19,
    "streams_missed": 1,
-   "unique_chatters": 3525,
-   "members_confirmed": 676,
+   "unique_chatters": 3577,
+   "members_confirmed": 679,
    "member_classes": {
-    "unknown": 582,
+    "unknown": 585,
     "known": 43,
     "gift": 51
    },
-   "long_term_members": 438,
+   "long_term_members": 440,
    "badges": [
     {
      "months": 0,
-     "members": 82
+     "members": 83
     },
     {
      "months": 1,
@@ -518,7 +518,7 @@
     },
     {
      "months": 12,
-     "members": 438
+     "members": 440
     }
    ],
    "events": {
@@ -532,15 +532,15 @@
      "tier": "五十嵐の監督さんたち",
      "price": 490,
      "confirmed_members": 43,
-     "estimated_members": 625.0
+     "estimated_members": 628.0
     }
    ],
    "revenue": {
-    "monthly_low": 194886,
-    "monthly_est": 194886,
+    "monthly_low": 195822,
+    "monthly_est": 195822,
     "gift_once": 15903
    },
-   "avg_member_chatters": 239.1,
+   "avg_member_chatters": 236.3,
    "partial": true,
    "finalized": false
   }

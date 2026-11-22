@@ -3,42 +3,42 @@
  "channel_id": "UCpjypWF_wNRs9_TrjjWngpQ",
  "handle": "@NagisaTrout",
  "subscribers": 328000,
- "fetched_at": "2026-11-22 05:38",
- "generated_at": "2026-11-22 05:38",
+ "fetched_at": "2026-11-23 05:32",
+ "generated_at": "2026-11-23 05:32",
  "period": {
-  "from": "2026-10-23 05:38",
-  "to": "2026-11-22 05:38",
+  "from": "2026-10-24 05:32",
+  "to": "2026-11-23 05:32",
   "days": 30
  },
  "streams_analyzed": 21,
  "streams_missed": 0,
- "unique_chatters": 3014,
- "members_confirmed": 677,
+ "unique_chatters": 3048,
+ "members_confirmed": 675,
  "member_classes": {
-  "unknown": 650,
-  "known": 25,
+  "unknown": 647,
+  "known": 26,
   "gift": 2
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 39
+   "members": 41
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 182
+   "members": 178
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 125
+   "members": 128
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 326
+   "members": 323
   },
   {
    "months": 24,
@@ -60,21 +60,21 @@
    "tier": "とれたていくラ～",
    "price": 390,
    "net_per_member": 248.2,
-   "confirmed_members": 25,
+   "confirmed_members": 26,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 650.0,
-   "estimated_members": 675.0,
-   "monthly_net_confirmed": 6205,
-   "monthly_net_estimated": 167523
+   "allocated_unknown": 647.0,
+   "estimated_members": 673.0,
+   "monthly_net_confirmed": 6453,
+   "monthly_net_estimated": 167026
   }
  ],
  "revenue": {
-  "monthly_low": 167523,
-  "monthly_est": 167523,
+  "monthly_low": 167026,
+  "monthly_est": 167026,
   "gift_once": 496,
-  "total_low": 168019,
-  "total_est": 168019,
-  "paying_members": 675,
+  "total_low": 167523,
+  "total_est": 167523,
+  "paying_members": 673,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "Q6I901knJmA",
-   "start": "2026-10-23 19:00",
-   "title": "【Minecraft】でっけ～船、完成させましょうや【渚トラウト/にじさんじ】",
-   "kind": "配信",
-   "chatters": 356,
-   "member_chatters": 195,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "IOSwgbO3JwY",
    "start": "2026-10-24 14:20",
@@ -292,6 +282,16 @@
    "member_chatters": 162,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "M-qWQgiUyw0",
+   "start": "2026-11-22 18:30",
+   "title": "【雑談】#2 トラーーーーーー君の番！【渚トラウト/にじさんじ】",
+   "kind": "配信",
+   "chatters": 345,
+   "member_chatters": 142,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -420,34 +420,34 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-22"
+    "to": "2026-11-23"
    },
-   "streams_analyzed": 14,
+   "streams_analyzed": 15,
    "streams_missed": 0,
-   "unique_chatters": 2296,
-   "members_confirmed": 580,
+   "unique_chatters": 2391,
+   "members_confirmed": 591,
    "member_classes": {
-    "unknown": 557,
-    "known": 21,
+    "unknown": 567,
+    "known": 22,
     "gift": 2
    },
-   "long_term_members": 290,
+   "long_term_members": 293,
    "badges": [
     {
      "months": 0,
-     "members": 32
+     "members": 35
     },
     {
      "months": 1,
-     "members": 155
+     "members": 156
     },
     {
      "months": 6,
-     "members": 103
+     "members": 107
     },
     {
      "months": 12,
-     "members": 286
+     "members": 289
     },
     {
      "months": 24,
@@ -455,7 +455,7 @@
     }
    ],
    "events": {
-    "new_members": 11,
+    "new_members": 12,
     "rejoins": 2,
     "milestones": 0,
     "gifted_total": 2
@@ -464,16 +464,16 @@
     {
      "tier": "とれたていくラ～",
      "price": 390,
-     "confirmed_members": 21,
-     "estimated_members": 578.0
+     "confirmed_members": 22,
+     "estimated_members": 589.0
     }
    ],
    "revenue": {
-    "monthly_low": 143449,
-    "monthly_est": 143449,
+    "monthly_low": 146179,
+    "monthly_est": 146179,
     "gift_once": 496
    },
-   "avg_member_chatters": 179.7,
+   "avg_member_chatters": 177.2,
    "partial": true,
    "finalized": false
   }

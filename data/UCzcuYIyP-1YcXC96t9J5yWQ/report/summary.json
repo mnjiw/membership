@@ -3,27 +3,27 @@
  "channel_id": "UCzcuYIyP-1YcXC96t9J5yWQ",
  "handle": "@KuriEita_Y4T4",
  "subscribers": 77400,
- "fetched_at": "2026-11-22 11:14",
- "generated_at": "2026-11-22 11:14",
+ "fetched_at": "2026-11-23 05:33",
+ "generated_at": "2026-11-23 05:33",
  "period": {
-  "from": "2026-10-23 11:14",
-  "to": "2026-11-22 11:14",
+  "from": "2026-10-24 05:33",
+  "to": "2026-11-23 05:33",
   "days": 30
  },
- "streams_analyzed": 27,
- "streams_missed": 1,
- "unique_chatters": 1382,
- "members_confirmed": 121,
+ "streams_analyzed": 26,
+ "streams_missed": 2,
+ "unique_chatters": 1375,
+ "members_confirmed": 120,
  "member_classes": {
   "unknown": 103,
   "known": 16,
-  "gift": 2
+  "gift": 1
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 22
+   "members": 21
   },
   {
    "months": 1,
@@ -40,9 +40,9 @@
   "new_members": 9,
   "rejoins": 2,
   "milestones": 0,
-  "gift_purchases": 2,
-  "gifted_total": 2,
-  "gift_redemptions": 2
+  "gift_purchases": 1,
+  "gifted_total": 1,
+  "gift_redemptions": 1
  },
  "tiers_configured": true,
  "tiers": [
@@ -61,9 +61,9 @@
  "revenue": {
   "monthly_low": 37106,
   "monthly_est": 37106,
-  "gift_once": 624,
-  "total_low": 37730,
-  "total_est": 37730,
+  "gift_once": 312,
+  "total_low": 37418,
+  "total_est": 37418,
   "paying_members": 119,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "JrfTCCfSmqk",
-   "start": "2026-10-23 21:43",
-   "title": "【Apex】ソロマスチャレンジ14日目！！！睡眠orえぺ【九里詠太 / にじさんじ】",
-   "kind": "配信",
-   "chatters": 61,
-   "member_chatters": 29,
-   "new_members": 0,
-   "gifted_total": 1
-  },
   {
    "video_id": "ELqrnxp19hw",
    "start": "2026-10-24 14:01",
@@ -356,6 +346,18 @@
    "members_level": "",
    "like_count": 38,
    "view_count": null
+  },
+  {
+   "video_id": "VT_OvI5ix8I",
+   "start": "2026-11-22 00:00",
+   "title": "【ゼルダの伝説 時のオカリナ リメイク】#04 人生初ゼルダ！世界を救う勇者になる！【九里詠太 / にじさんじ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 200,
+   "view_count": 4598
   }
  ],
  "members_only_content": [
@@ -483,10 +485,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-22"
+    "to": "2026-11-23"
    },
    "streams_analyzed": 21,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 722,
    "members_confirmed": 104,
    "member_classes": {

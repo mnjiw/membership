@@ -3,20 +3,20 @@
  "channel_id": "UC3lNFeJiTq6L3UWoz4g1e-A",
  "handle": "@UzukiKou",
  "subscribers": 462000,
- "fetched_at": "2026-11-22 05:20",
- "generated_at": "2026-11-22 05:20",
+ "fetched_at": "2026-11-23 05:19",
+ "generated_at": "2026-11-23 05:20",
  "period": {
-  "from": "2026-10-23 05:20",
-  "to": "2026-11-22 05:20",
+  "from": "2026-10-24 05:19",
+  "to": "2026-11-23 05:19",
   "days": 30
  },
- "streams_analyzed": 13,
+ "streams_analyzed": 14,
  "streams_missed": 0,
- "unique_chatters": 3502,
- "members_confirmed": 864,
+ "unique_chatters": 3841,
+ "members_confirmed": 913,
  "member_classes": {
-  "unknown": 599,
-  "known": 140,
+  "unknown": 647,
+  "known": 141,
   "gift": 125
  },
  "badges": [
@@ -28,37 +28,37 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 7
+   "members": 8
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 34
+   "members": 37
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 50
+   "members": 47
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 115
+   "members": 132
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 97
+   "members": 106
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 114
+   "members": 125
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 312
+   "members": 323
   }
  ],
  "events": {
@@ -75,21 +75,21 @@
    "tier": "卯月コウのメンバーシップ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 140,
+   "confirmed_members": 141,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 599.0,
-   "estimated_members": 739.0,
-   "monthly_net_confirmed": 43655,
-   "monthly_net_estimated": 230434
+   "allocated_unknown": 647.0,
+   "estimated_members": 788.0,
+   "monthly_net_confirmed": 43966,
+   "monthly_net_estimated": 245713
   }
  ],
  "revenue": {
-  "monthly_low": 230434,
-  "monthly_est": 230434,
+  "monthly_low": 245713,
+  "monthly_est": 245713,
   "gift_once": 39289,
-  "total_low": 269723,
-  "total_est": 269723,
-  "paying_members": 739,
+  "total_low": 285002,
+  "total_est": 285002,
+  "paying_members": 788,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -225,6 +225,16 @@
    "kind": "配信",
    "chatters": 614,
    "member_chatters": 163,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "xn8Ht-q3fiE",
+   "start": "2026-11-22 18:08",
+   "title": "元ユニコーンによる浮気判定シート",
+   "kind": "配信",
+   "chatters": 826,
+   "member_chatters": 303,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -384,18 +394,18 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-22"
+    "to": "2026-11-23"
    },
-   "streams_analyzed": 7,
+   "streams_analyzed": 8,
    "streams_missed": 0,
-   "unique_chatters": 2872,
-   "members_confirmed": 781,
+   "unique_chatters": 3228,
+   "members_confirmed": 839,
    "member_classes": {
-    "unknown": 543,
-    "known": 132,
+    "unknown": 599,
+    "known": 134,
     "gift": 106
    },
-   "long_term_members": 585,
+   "long_term_members": 641,
    "badges": [
     {
      "months": 0,
@@ -403,31 +413,31 @@
     },
     {
      "months": 1,
-     "members": 4
+     "members": 5
     },
     {
      "months": 2,
-     "members": 33
+     "members": 36
     },
     {
      "months": 6,
-     "members": 45
+     "members": 43
     },
     {
      "months": 12,
-     "members": 104
+     "members": 121
     },
     {
      "months": 24,
-     "members": 87
+     "members": 98
     },
     {
      "months": 36,
-     "members": 105
+     "members": 117
     },
     {
      "months": 48,
-     "members": 289
+     "members": 305
     }
    ],
    "events": {
@@ -440,16 +450,16 @@
     {
      "tier": "卯月コウのメンバーシップ",
      "price": 490,
-     "confirmed_members": 132,
-     "estimated_members": 675.0
+     "confirmed_members": 134,
+     "estimated_members": 733.0
     }
    ],
    "revenue": {
-    "monthly_low": 210477,
-    "monthly_est": 210477,
+    "monthly_low": 228563,
+    "monthly_est": 228563,
     "gift_once": 33053
    },
-   "avg_member_chatters": 252.6,
+   "avg_member_chatters": 258.9,
    "partial": true,
    "finalized": false
   }

@@ -3,27 +3,27 @@
  "channel_id": "UCN68LoM3khS4gdBMiWJO8WA",
  "handle": "@AiaAmare",
  "subscribers": 283000,
- "fetched_at": "2026-11-22 11:14",
- "generated_at": "2026-11-22 11:14",
+ "fetched_at": "2026-11-23 05:34",
+ "generated_at": "2026-11-23 05:35",
  "period": {
-  "from": "2026-10-23 11:14",
-  "to": "2026-11-22 11:14",
+  "from": "2026-10-24 05:34",
+  "to": "2026-11-23 05:34",
   "days": 30
  },
  "streams_analyzed": 29,
  "streams_missed": 1,
- "unique_chatters": 1416,
- "members_confirmed": 313,
+ "unique_chatters": 1412,
+ "members_confirmed": 311,
  "member_classes": {
   "known": 152,
-  "unknown": 77,
-  "gift": 84
+  "unknown": 76,
+  "gift": 83
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 77
+   "members": 76
   },
   {
    "months": 1,
@@ -43,12 +43,12 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 41
+   "members": 40
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 59
+   "members": 58
   },
   {
    "months": 36,
@@ -58,16 +58,16 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 31
+   "members": 32
   }
  ],
  "events": {
   "new_members": 0,
   "rejoins": 6,
-  "milestones": 115,
-  "gift_purchases": 40,
-  "gifted_total": 85,
-  "gift_redemptions": 85
+  "milestones": 112,
+  "gift_purchases": 39,
+  "gifted_total": 84,
+  "gift_redemptions": 84
  },
  "tiers_configured": true,
  "tiers": [
@@ -77,19 +77,19 @@
    "net_per_member": 439.1,
    "confirmed_members": 152,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 77.0,
-   "estimated_members": 229.0,
+   "allocated_unknown": 76.0,
+   "estimated_members": 228.0,
    "monthly_net_confirmed": 66742,
-   "monthly_net_estimated": 100552
+   "monthly_net_estimated": 100113
   }
  ],
  "revenue": {
-  "monthly_low": 100552,
-  "monthly_est": 100552,
-  "gift_once": 37323,
-  "total_low": 137875,
-  "total_est": 137875,
-  "paying_members": 229,
+  "monthly_low": 100113,
+  "monthly_est": 100113,
+  "gift_once": 36884,
+  "total_low": 136996,
+  "total_est": 136996,
+  "paying_members": 228,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "zAATE6Sj3nU",
-   "start": "2026-10-23 11:19",
-   "title": "CHAT, PLEASE GIVE ME MORE SONG RECOMMENDATIONS!",
-   "kind": "配信",
-   "chatters": 108,
-   "member_chatters": 56,
-   "new_members": 0,
-   "gifted_total": 1
-  },
   {
    "video_id": "alMIZ7yd9k4",
    "start": "2026-10-24 08:40",
@@ -387,6 +377,16 @@
    "member_chatters": 64,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "oj7FurKjt8Q",
+   "start": "2026-11-22 09:37",
+   "title": "HOW I MADE A 3D SINGY DANCEY THING AT HOME WITH MY GOOFY SET UP",
+   "kind": "配信",
+   "chatters": 99,
+   "member_chatters": 47,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -568,18 +568,18 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-22"
+    "to": "2026-11-23"
    },
-   "streams_analyzed": 20,
+   "streams_analyzed": 21,
    "streams_missed": 0,
-   "unique_chatters": 1019,
-   "members_confirmed": 277,
+   "unique_chatters": 1030,
+   "members_confirmed": 279,
    "member_classes": {
-    "known": 144,
-    "unknown": 70,
+    "known": 145,
+    "unknown": 71,
     "gift": 63
    },
-   "long_term_members": 184,
+   "long_term_members": 186,
    "badges": [
     {
      "months": 0,
@@ -599,7 +599,7 @@
     },
     {
      "months": 12,
-     "members": 36
+     "members": 37
     },
     {
      "months": 24,
@@ -611,29 +611,29 @@
     },
     {
      "months": 48,
-     "members": 30
+     "members": 31
     }
    ],
    "events": {
     "new_members": 0,
     "rejoins": 6,
-    "milestones": 89,
+    "milestones": 92,
     "gifted_total": 64
    },
    "tiers": [
     {
      "tier": "Maidenship",
      "price": 690,
-     "confirmed_members": 144,
-     "estimated_members": 214.0
+     "confirmed_members": 145,
+     "estimated_members": 216.0
     }
    ],
    "revenue": {
-    "monthly_low": 93965,
-    "monthly_est": 93965,
+    "monthly_low": 94844,
+    "monthly_est": 94844,
     "gift_once": 28102
    },
-   "avg_member_chatters": 58.0,
+   "avg_member_chatters": 57.4,
    "partial": true,
    "finalized": false
   }
