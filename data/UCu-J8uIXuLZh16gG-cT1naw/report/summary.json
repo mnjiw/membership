@@ -3,27 +3,27 @@
  "channel_id": "UCu-J8uIXuLZh16gG-cT1naw",
  "handle": "@FinanaRyugu",
  "subscribers": 474000,
- "fetched_at": "2026-11-22 05:41",
- "generated_at": "2026-11-22 05:41",
+ "fetched_at": "2026-11-22 11:14",
+ "generated_at": "2026-11-22 11:14",
  "period": {
-  "from": "2026-10-23 05:41",
-  "to": "2026-11-22 05:41",
+  "from": "2026-10-23 11:14",
+  "to": "2026-11-22 11:14",
   "days": 30
  },
- "streams_analyzed": 25,
- "streams_missed": 2,
- "unique_chatters": 791,
- "members_confirmed": 167,
+ "streams_analyzed": 24,
+ "streams_missed": 3,
+ "unique_chatters": 771,
+ "members_confirmed": 165,
  "member_classes": {
-  "known": 27,
   "unknown": 77,
-  "gift": 63
+  "known": 26,
+  "gift": 62
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 69
+   "members": 68
   },
   {
    "months": 1,
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 18
+   "members": 17
   },
   {
    "months": 24,
@@ -54,10 +54,10 @@
  "events": {
   "new_members": 3,
   "rejoins": 3,
-  "milestones": 14,
-  "gift_purchases": 35,
-  "gifted_total": 63,
-  "gift_redemptions": 63
+  "milestones": 13,
+  "gift_purchases": 34,
+  "gifted_total": 62,
+  "gift_redemptions": 62
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +65,21 @@
    "tier": "Ryuguard",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 27,
+   "confirmed_members": 26,
    "share_of_confirmed_pct": 100.0,
    "allocated_unknown": 77.0,
-   "estimated_members": 104.0,
-   "monthly_net_confirmed": 11855,
-   "monthly_net_estimated": 45665
+   "estimated_members": 103.0,
+   "monthly_net_confirmed": 11416,
+   "monthly_net_estimated": 45226
   }
  ],
  "revenue": {
-  "monthly_low": 45665,
-  "monthly_est": 45665,
-  "gift_once": 27663,
-  "total_low": 73328,
-  "total_est": 73328,
-  "paying_members": 104,
+  "monthly_low": 45226,
+  "monthly_est": 45226,
+  "gift_once": 27224,
+  "total_low": 72450,
+  "total_est": 72450,
+  "paying_members": 103,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "gV9ZiSexSx4",
-   "start": "2026-10-23 08:07",
-   "title": "【Maplestory Classic World】EVERYONE TAKING MY MOBS MAN",
-   "kind": "配信",
-   "chatters": 72,
-   "member_chatters": 24,
-   "new_members": 0,
-   "gifted_total": 1
-  },
   {
    "video_id": "qN67GvhgPzk",
    "start": "2026-10-24 05:07",
@@ -363,6 +353,18 @@
    "members_level": "",
    "like_count": 23,
    "view_count": null
+  },
+  {
+   "video_id": "4CXFKLHBlzE",
+   "start": "2026-11-22 08:02",
+   "title": "【The Ring 2 Movie Watchalong】 YAY",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 26,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -384,6 +386,16 @@
    "status": "members_only",
    "members_level": "",
    "like_count": 23,
+   "view_count": null
+  },
+  {
+   "video_id": "4CXFKLHBlzE",
+   "start": "2026-11-22 08:02",
+   "title": "【The Ring 2 Movie Watchalong】 YAY",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 26,
    "view_count": null
   }
  ],
@@ -527,7 +539,7 @@
     "to": "2026-11-22"
    },
    "streams_analyzed": 17,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 658,
    "members_confirmed": 141,
    "member_classes": {

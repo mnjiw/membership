@@ -3,20 +3,20 @@
  "channel_id": "UCrt4cTM_sWH0iySLMkwwYLQ",
  "handle": "@Tier_Hebiyoi",
  "subscribers": 95300,
- "fetched_at": "2026-11-22 06:39",
- "generated_at": "2026-11-22 06:39",
+ "fetched_at": "2026-11-22 11:16",
+ "generated_at": "2026-11-22 11:16",
  "period": {
-  "from": "2026-10-23 06:39",
-  "to": "2026-11-22 06:39",
+  "from": "2026-10-23 11:16",
+  "to": "2026-11-22 11:16",
   "days": 30
  },
- "streams_analyzed": 38,
+ "streams_analyzed": 39,
  "streams_missed": 1,
- "unique_chatters": 856,
- "members_confirmed": 146,
+ "unique_chatters": 874,
+ "members_confirmed": 147,
  "member_classes": {
   "known": 28,
-  "unknown": 85,
+  "unknown": 86,
   "gift": 33
  },
  "badges": [
@@ -43,18 +43,18 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 15
+   "members": 14
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 77
+   "members": 79
   }
  ],
  "events": {
   "new_members": 1,
   "rejoins": 0,
-  "milestones": 8,
+  "milestones": 10,
   "gift_purchases": 12,
   "gifted_total": 33,
   "gift_redemptions": 33
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 28,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 85.0,
-   "estimated_members": 113.0,
+   "allocated_unknown": 86.0,
+   "estimated_members": 114.0,
    "monthly_net_confirmed": 8731,
-   "monthly_net_estimated": 35235
+   "monthly_net_estimated": 35547
   }
  ],
  "revenue": {
-  "monthly_low": 35235,
-  "monthly_est": 35235,
+  "monthly_low": 35547,
+  "monthly_est": 35547,
   "gift_once": 10290,
-  "total_low": 45525,
-  "total_est": 45525,
-  "paying_members": 113,
+  "total_low": 45837,
+  "total_est": 45837,
+  "paying_members": 114,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -467,20 +467,30 @@
    "member_chatters": 19,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "xo78NIDUXU8",
+   "start": "2026-11-22 07:01",
+   "title": "【おは宵31時 】寒いので君のお布団もらいに来ました～【 蛇宵ティア / ななしいんく 】",
+   "kind": "配信",
+   "chatters": 140,
+   "member_chatters": 47,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
   {
    "video_id": "HkBJ8sPpAWg",
-   "start": "2026-11-21 00:00",
+   "start": "2026-11-21 13:00",
    "title": "【 Lightyear Frontier #4 】え、人がやってきて農場をさらに効率よく…！【 蛇宵ティア / ななしいんく 】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
+   "kind": "live",
+   "status": "processing",
+   "reason": "アーカイブ処理中（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 325,
-   "view_count": 4728
+   "like_count": 327,
+   "view_count": 5043
   }
  ],
  "members_only_content": [],
@@ -612,16 +622,16 @@
     "from": "2026-11-01",
     "to": "2026-11-22"
    },
-   "streams_analyzed": 26,
+   "streams_analyzed": 27,
    "streams_missed": 1,
-   "unique_chatters": 713,
-   "members_confirmed": 132,
+   "unique_chatters": 736,
+   "members_confirmed": 134,
    "member_classes": {
-    "unknown": 78,
-    "known": 27,
+    "unknown": 79,
+    "known": 28,
     "gift": 27
    },
-   "long_term_members": 87,
+   "long_term_members": 89,
    "badges": [
     {
      "months": 0,
@@ -641,33 +651,33 @@
     },
     {
      "months": 12,
-     "members": 14
+     "members": 13
     },
     {
      "months": 24,
-     "members": 73
+     "members": 76
     }
    ],
    "events": {
     "new_members": 1,
     "rejoins": 0,
-    "milestones": 5,
+    "milestones": 7,
     "gifted_total": 27
    },
    "tiers": [
     {
      "tier": "蛇宵幸福教団",
      "price": 490,
-     "confirmed_members": 27,
-     "estimated_members": 105.0
+     "confirmed_members": 28,
+     "estimated_members": 107.0
     }
    ],
    "revenue": {
-    "monthly_low": 32741,
-    "monthly_est": 32741,
+    "monthly_low": 33365,
+    "monthly_est": 33365,
     "gift_once": 8419
    },
-   "avg_member_chatters": 31.7,
+   "avg_member_chatters": 32.3,
    "partial": true,
    "finalized": false
   }
