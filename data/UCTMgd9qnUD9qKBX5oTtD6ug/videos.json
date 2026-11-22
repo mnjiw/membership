@@ -696,17 +696,27 @@
   "3vdpAgO5ljo": {
    "id": "3vdpAgO5ljo",
    "title": "[Early Morning Advice Column] Good Morning, Virtual Grandma [November 22, 2026 Issue]",
-   "status": "error",
-   "error": "ERROR: Unable to download video subtitles for 'live_chat': HTTP Error 429: Too Many Requests",
-   "failed_since_ts": 1795313954.960841
+   "kind": "live",
+   "start_ts": 1795298393.181746,
+   "start_jst": "2026-11-22 06:59",
+   "duration_sec": 3976,
+   "view_count": 34519,
+   "like_count": 596,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-23 06:46",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "バーチャルおばあちゃんねる",
  "channel_id": "UCTMgd9qnUD9qKBX5oTtD6ug",
  "handle": "@virtual_obachan",
  "subscribers": 313000,
- "fetched_at": "2026-11-22 11:19",
- "fetched_at_ts": 1795313954.960841,
- "checked_from": "2026-11-15 11:19",
+ "fetched_at": "2026-11-23 06:46",
+ "fetched_at_ts": 1795383977.7684877,
+ "checked_from": "2026-11-16 06:46",
  "initial_fetch_done": true
 }

@@ -3,37 +3,37 @@
  "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
  "handle": "@ayundarisu",
  "subscribers": 1020000,
- "fetched_at": "2026-11-22 06:36",
- "generated_at": "2026-11-22 06:36",
+ "fetched_at": "2026-11-23 06:31",
+ "generated_at": "2026-11-23 06:31",
  "period": {
-  "from": "2026-10-23 06:36",
-  "to": "2026-11-22 06:36",
+  "from": "2026-10-24 06:31",
+  "to": "2026-11-23 06:31",
   "days": 30
  },
- "streams_analyzed": 16,
- "streams_missed": 4,
- "unique_chatters": 4034,
- "members_confirmed": 743,
+ "streams_analyzed": 15,
+ "streams_missed": 3,
+ "unique_chatters": 3933,
+ "members_confirmed": 737,
  "member_classes": {
-  "unknown": 384,
-  "known": 196,
-  "gift": 163
+  "unknown": 380,
+  "known": 195,
+  "gift": 162
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 278
+   "members": 276
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 33
+   "members": 31
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 74
+   "members": 73
   },
   {
    "months": 6,
@@ -68,16 +68,16 @@
   {
    "months": 72,
    "label": "6年",
-   "members": 15
+   "members": 14
   }
  ],
  "events": {
   "new_members": 19,
-  "rejoins": 31,
-  "milestones": 73,
-  "gift_purchases": 39,
-  "gifted_total": 164,
-  "gift_redemptions": 163
+  "rejoins": 30,
+  "milestones": 70,
+  "gift_purchases": 38,
+  "gifted_total": 163,
+  "gift_redemptions": 162
  },
  "tiers_configured": true,
  "tiers": [
@@ -85,21 +85,21 @@
    "tier": "Prisuners",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 196,
+   "confirmed_members": 195,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 384.0,
-   "estimated_members": 580.0,
-   "monthly_net_confirmed": 61116,
-   "monthly_net_estimated": 180855
+   "allocated_unknown": 380.0,
+   "estimated_members": 575.0,
+   "monthly_net_confirmed": 60805,
+   "monthly_net_estimated": 179295
   }
  ],
  "revenue": {
-  "monthly_low": 180855,
-  "monthly_est": 180855,
-  "gift_once": 51138,
-  "total_low": 231993,
-  "total_est": 231993,
-  "paying_members": 580,
+  "monthly_low": 179295,
+  "monthly_est": 179295,
+  "gift_once": 50826,
+  "total_low": 230122,
+  "total_est": 230122,
+  "paying_members": 575,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -108,16 +108,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "8-mi6uM7eyg",
-   "start": "2026-10-23 14:01",
-   "title": "【hololive Dreams】 I WANT TO FISH !!【#holodori #ホロドリ】",
-   "kind": "配信",
-   "chatters": 373,
-   "member_chatters": 93,
-   "new_members": 0,
-   "gifted_total": 1
-  },
   {
    "video_id": "P8KJ7HSmoGk",
    "start": "2026-10-24 13:00",
@@ -271,18 +261,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "-S0UeiwpZnQ",
-   "start": "2026-10-23 21:58",
-   "title": "PRISUNERS NIGHT (sleepy emoji)",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 205,
-   "view_count": null
-  },
-  {
    "video_id": "xBuOnzg8igM",
    "start": "2026-11-06 22:00",
    "title": "PRISUNERS NIGHT (calendar emoji)",
@@ -320,16 +298,6 @@
   }
  ],
  "members_only_content": [
-  {
-   "video_id": "-S0UeiwpZnQ",
-   "start": "2026-10-23 21:58",
-   "title": "PRISUNERS NIGHT (sleepy emoji)",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 205,
-   "view_count": null
-  },
   {
    "video_id": "xBuOnzg8igM",
    "start": "2026-11-06 22:00",
@@ -530,7 +498,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-22"
+    "to": "2026-11-23"
    },
    "streams_analyzed": 11,
    "streams_missed": 3,

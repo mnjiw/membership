@@ -3,27 +3,27 @@
  "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
  "handle": "@holoen_ceciliaimmergreen",
  "subscribers": 555000,
- "fetched_at": "2026-11-22 06:38",
- "generated_at": "2026-11-22 06:38",
+ "fetched_at": "2026-11-23 06:33",
+ "generated_at": "2026-11-23 06:33",
  "period": {
-  "from": "2026-10-23 06:38",
-  "to": "2026-11-22 06:38",
+  "from": "2026-10-24 06:33",
+  "to": "2026-11-23 06:33",
   "days": 30
  },
- "streams_analyzed": 21,
+ "streams_analyzed": 20,
  "streams_missed": 3,
- "unique_chatters": 23097,
- "members_confirmed": 3837,
+ "unique_chatters": 22558,
+ "members_confirmed": 3816,
  "member_classes": {
-  "known": 1693,
-  "unknown": 1670,
-  "gift": 474
+  "known": 1691,
+  "unknown": 1652,
+  "gift": 473
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 673
+   "members": 669
   },
   {
    "months": 1,
@@ -33,26 +33,26 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 347
+   "members": 345
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 377
+   "members": 376
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 2297
+   "members": 2283
   }
  ],
  "events": {
-  "new_members": 114,
-  "rejoins": 70,
-  "milestones": 1260,
-  "gift_purchases": 69,
-  "gifted_total": 587,
-  "gift_redemptions": 475
+  "new_members": 113,
+  "rejoins": 69,
+  "milestones": 1255,
+  "gift_purchases": 68,
+  "gifted_total": 586,
+  "gift_redemptions": 474
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,12 +60,12 @@
    "tier": "otomems",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 1490,
+   "confirmed_members": 1488,
    "share_of_confirmed_pct": 88.0,
-   "allocated_unknown": 1469.8,
-   "estimated_members": 2959.8,
-   "monthly_net_confirmed": 654245,
-   "monthly_net_estimated": 1299603
+   "allocated_unknown": 1453.7,
+   "estimated_members": 2941.7,
+   "monthly_net_confirmed": 653367,
+   "monthly_net_estimated": 1291666
   },
   {
    "tier": "otocranks",
@@ -73,19 +73,19 @@
    "net_per_member": 820.9,
    "confirmed_members": 203,
    "share_of_confirmed_pct": 12.0,
-   "allocated_unknown": 200.2,
-   "estimated_members": 403.2,
+   "allocated_unknown": 198.3,
+   "estimated_members": 401.3,
    "monthly_net_confirmed": 166645,
-   "monthly_net_estimated": 331025
+   "monthly_net_estimated": 329446
   }
  ],
  "revenue": {
-  "monthly_low": 1554172,
-  "monthly_est": 1630628,
-  "gift_once": 257746,
-  "total_low": 1811918,
-  "total_est": 1888374,
-  "paying_members": 3363,
+  "monthly_low": 1545390,
+  "monthly_est": 1621111,
+  "gift_once": 257307,
+  "total_low": 1802697,
+  "total_est": 1878419,
+  "paying_members": 3343,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -94,16 +94,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "S8G_wiWs2s0",
-   "start": "2026-10-23 22:05",
-   "title": "【RESIDENT EVIL REQUIEM】return to BRATTEA @HakosBaelz  [Spoilers Ahead]",
-   "kind": "配信",
-   "chatters": 2534,
-   "member_chatters": 643,
-   "new_members": 1,
-   "gifted_total": 1
-  },
   {
    "video_id": "vWaYUZpwmro",
    "start": "2026-10-26 05:01",
@@ -327,7 +317,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "otomems",
-   "like_count": 1415,
+   "like_count": 1424,
    "view_count": null
   },
   {
@@ -339,7 +329,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "otomems",
-   "like_count": 531,
+   "like_count": 534,
    "view_count": null
   }
  ],
@@ -361,7 +351,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "otomems",
-   "like_count": 1415,
+   "like_count": 1424,
    "view_count": null
   },
   {
@@ -371,7 +361,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "otomems",
-   "like_count": 531,
+   "like_count": 534,
    "view_count": null
   }
  ],
@@ -499,7 +489,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-22"
+    "to": "2026-11-23"
    },
    "streams_analyzed": 15,
    "streams_missed": 2,

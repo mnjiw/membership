@@ -3,26 +3,26 @@
  "channel_id": "UC7wZb5INldbGweowOhBIs8Q",
  "handle": "@akari0415",
  "subscribers": 204000,
- "fetched_at": "2026-11-22 06:44",
- "generated_at": "2026-11-22 06:44",
+ "fetched_at": "2026-11-23 06:37",
+ "generated_at": "2026-11-23 06:37",
  "period": {
-  "from": "2026-10-23 06:44",
-  "to": "2026-11-22 06:44",
+  "from": "2026-10-24 06:37",
+  "to": "2026-11-23 06:37",
   "days": 30
  },
- "streams_analyzed": 5,
+ "streams_analyzed": 6,
  "streams_missed": 0,
- "unique_chatters": 465,
- "members_confirmed": 135,
+ "unique_chatters": 525,
+ "members_confirmed": 144,
  "member_classes": {
-  "unknown": 113,
+  "unknown": 122,
   "known": 22
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 2
+   "members": 4
   },
   {
    "months": 1,
@@ -37,22 +37,22 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 20
+   "members": 21
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 33
+   "members": 35
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 31
+   "members": 34
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 37
+   "members": 38
   }
  ],
  "events": {
@@ -71,19 +71,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 22,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 113.0,
-   "estimated_members": 135.0,
+   "allocated_unknown": 122.0,
+   "estimated_members": 144.0,
    "monthly_net_confirmed": 6860,
-   "monthly_net_estimated": 42095
+   "monthly_net_estimated": 44902
   }
  ],
  "revenue": {
-  "monthly_low": 42095,
-  "monthly_est": 42095,
+  "monthly_low": 44902,
+  "monthly_est": 44902,
   "gift_once": 0,
-  "total_low": 42095,
-  "total_est": 42095,
-  "paying_members": 135,
+  "total_low": 44902,
+  "total_est": 44902,
+  "paying_members": 144,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -139,6 +139,16 @@
    "kind": "配信",
    "chatters": 110,
    "member_chatters": 42,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "FVkCi-M9Fdk",
+   "start": "2026-11-22 22:05",
+   "title": "【歌枠】ゲリラですがリクエストを募集して歌う",
+   "kind": "配信",
+   "chatters": 150,
+   "member_chatters": 76,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -278,37 +288,45 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-22"
+    "to": "2026-11-23"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 4,
    "streams_missed": 0,
-   "unique_chatters": 185,
-   "members_confirmed": 73,
+   "unique_chatters": 270,
+   "members_confirmed": 99,
    "member_classes": {
-    "unknown": 64,
-    "known": 9
+    "unknown": 87,
+    "known": 12
    },
-   "long_term_members": 53,
+   "long_term_members": 72,
    "badges": [
     {
+     "months": 0,
+     "members": 2
+    },
+    {
+     "months": 1,
+     "members": 1
+    },
+    {
      "months": 2,
-     "members": 6
+     "members": 8
     },
     {
      "months": 6,
-     "members": 14
-    },
-    {
-     "months": 12,
-     "members": 19
-    },
-    {
-     "months": 24,
      "members": 16
     },
     {
+     "months": 12,
+     "members": 24
+    },
+    {
+     "months": 24,
+     "members": 23
+    },
+    {
      "months": 36,
-     "members": 18
+     "members": 25
     }
    ],
    "events": {
@@ -321,16 +339,16 @@
     {
      "tier": "石狩のメンバーシップ",
      "price": 490,
-     "confirmed_members": 9,
-     "estimated_members": 73.0
+     "confirmed_members": 12,
+     "estimated_members": 99.0
     }
    ],
    "revenue": {
-    "monthly_low": 22763,
-    "monthly_est": 22763,
+    "monthly_low": 30870,
+    "monthly_est": 30870,
     "gift_once": 0
    },
-   "avg_member_chatters": 46.7,
+   "avg_member_chatters": 54,
    "partial": true,
    "finalized": false
   }

@@ -3,16 +3,16 @@
  "channel_id": "UCElYE3bfzjjmJ9xwjvro9Yw",
  "handle": "@HiuraKuro0914",
  "subscribers": 36300,
- "fetched_at": "2026-11-22 11:18",
- "generated_at": "2026-11-22 11:18",
+ "fetched_at": "2026-11-23 06:42",
+ "generated_at": "2026-11-23 06:42",
  "period": {
-  "from": "2026-10-23 11:18",
-  "to": "2026-11-22 11:18",
+  "from": "2026-10-24 06:42",
+  "to": "2026-11-23 06:42",
   "days": 30
  },
- "streams_analyzed": 22,
+ "streams_analyzed": 23,
  "streams_missed": 3,
- "unique_chatters": 151,
+ "unique_chatters": 147,
  "members_confirmed": 55,
  "member_classes": {
   "unknown": 50,
@@ -22,12 +22,12 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 3
+   "members": 2
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 5
+   "members": 6
   },
   {
    "months": 2,
@@ -87,16 +87,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "3pbOKzBQpVI",
-   "start": "2026-10-23 23:15",
-   "title": "【雑談】最近なんかよくお腹が空きます【日裏クロ / ネオポルテ】",
-   "kind": "配信",
-   "chatters": 28,
-   "member_chatters": 16,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "zRxsJQrgjJg",
    "start": "2026-10-25 21:16",
@@ -306,6 +296,26 @@
    "member_chatters": 19,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "mFzKMCNU3KE",
+   "start": "2026-11-22 09:45",
+   "title": "【スト6】ガイル村で集まる前にガイル動かしとく【日裏クロ / ネオポルテ】",
+   "kind": "配信",
+   "chatters": 15,
+   "member_chatters": 10,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "3m2tY1jODpc",
+   "start": "2026-11-22 22:44",
+   "title": "【雑談】もうクリスマスの素材が配られちゃってますクリスマスはすぐそこです【日裏クロ / ネオポルテ】",
+   "kind": "配信",
+   "chatters": 20,
+   "member_chatters": 16,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -493,11 +503,11 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-22"
+    "to": "2026-11-23"
    },
-   "streams_analyzed": 14,
+   "streams_analyzed": 16,
    "streams_missed": 2,
-   "unique_chatters": 117,
+   "unique_chatters": 120,
    "members_confirmed": 50,
    "member_classes": {
     "unknown": 46,
@@ -507,11 +517,11 @@
    "badges": [
     {
      "months": 0,
-     "members": 3
+     "members": 2
     },
     {
      "months": 1,
-     "members": 2
+     "members": 3
     },
     {
      "months": 2,
@@ -549,7 +559,7 @@
     "monthly_est": 15591,
     "gift_once": 0
    },
-   "avg_member_chatters": 18.5,
+   "avg_member_chatters": 17.8,
    "partial": true,
    "finalized": false
   }

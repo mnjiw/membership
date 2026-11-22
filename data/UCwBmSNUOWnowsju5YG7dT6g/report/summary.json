@@ -3,32 +3,32 @@
  "channel_id": "UCwBmSNUOWnowsju5YG7dT6g",
  "handle": "@tsukasa_ryogoku",
  "subscribers": 100000,
- "fetched_at": "2026-11-22 06:45",
- "generated_at": "2026-11-22 06:46",
+ "fetched_at": "2026-11-23 06:38",
+ "generated_at": "2026-11-23 06:39",
  "period": {
-  "from": "2026-10-23 06:45",
-  "to": "2026-11-22 06:45",
+  "from": "2026-10-24 06:38",
+  "to": "2026-11-23 06:38",
   "days": 30
  },
- "streams_analyzed": 22,
- "streams_missed": 6,
- "unique_chatters": 1966,
- "members_confirmed": 592,
+ "streams_analyzed": 24,
+ "streams_missed": 7,
+ "unique_chatters": 2032,
+ "members_confirmed": 629,
  "member_classes": {
-  "unknown": 414,
-  "known": 23,
-  "gift": 155
+  "unknown": 420,
+  "known": 24,
+  "gift": 185
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 172
+   "members": 203
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 16
+   "members": 19
   },
   {
    "months": 2,
@@ -38,12 +38,12 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 62
+   "members": 64
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 167
+   "members": 168
   },
   {
    "months": 24,
@@ -52,12 +52,12 @@
   }
  ],
  "events": {
-  "new_members": 10,
+  "new_members": 11,
   "rejoins": 4,
   "milestones": 0,
-  "gift_purchases": 22,
-  "gifted_total": 158,
-  "gift_redemptions": 155
+  "gift_purchases": 24,
+  "gifted_total": 188,
+  "gift_redemptions": 185
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +65,21 @@
    "tier": "オタク",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 23,
+   "confirmed_members": 24,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 414.0,
-   "estimated_members": 437.0,
-   "monthly_net_confirmed": 7172,
-   "monthly_net_estimated": 136265
+   "allocated_unknown": 420.0,
+   "estimated_members": 444.0,
+   "monthly_net_confirmed": 7484,
+   "monthly_net_estimated": 138447
   }
  ],
  "revenue": {
-  "monthly_low": 136265,
-  "monthly_est": 136265,
-  "gift_once": 49267,
-  "total_low": 185532,
-  "total_est": 185532,
-  "paying_members": 437,
+  "monthly_low": 138447,
+  "monthly_est": 138447,
+  "gift_once": 58622,
+  "total_low": 197069,
+  "total_est": 197069,
+  "paying_members": 444,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -307,6 +307,26 @@
    "member_chatters": 156,
    "new_members": 0,
    "gifted_total": 10
+  },
+  {
+   "video_id": "sygDPU75VmQ",
+   "start": "2026-11-22 13:11",
+   "title": "【 ゼルダの伝説 時のオカリナ 】リメイクされた神ゲープレイするぞ！#2【 領国つかさ / すぺしゃりて 】",
+   "kind": "配信",
+   "chatters": 224,
+   "member_chatters": 137,
+   "new_members": 1,
+   "gifted_total": 10
+  },
+  {
+   "video_id": "_kvGj-a-IwU",
+   "start": "2026-11-22 21:02",
+   "title": "【 深夜ドライブイン 】山奥にある人が消えると噂のドライブインへ行きます。【 領国つかさ / すぺしゃりて 】",
+   "kind": "配信",
+   "chatters": 325,
+   "member_chatters": 203,
+   "new_members": 0,
+   "gifted_total": 20
   }
  ],
  "missed_streams": [
@@ -343,7 +363,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 218,
+   "like_count": 219,
    "view_count": null
   },
   {
@@ -367,7 +387,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 225,
+   "like_count": 228,
    "view_count": null
   },
   {
@@ -379,7 +399,19 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 195,
+   "like_count": 203,
+   "view_count": null
+  },
+  {
+   "video_id": "JIpSQSGU5GM",
+   "start": "2026-11-22 18:00",
+   "title": "【 メン限 】サインの続き！#3【 領国つかさ / すぺしゃりて 】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 157,
    "view_count": null
   }
  ],
@@ -411,7 +443,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 218,
+   "like_count": 219,
    "view_count": null
   },
   {
@@ -431,7 +463,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 225,
+   "like_count": 228,
    "view_count": null
   },
   {
@@ -441,7 +473,17 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 195,
+   "like_count": 203,
+   "view_count": null
+  },
+  {
+   "video_id": "JIpSQSGU5GM",
+   "start": "2026-11-22 18:00",
+   "title": "【 メン限 】サインの続き！#3【 領国つかさ / すぺしゃりて 】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 157,
    "view_count": null
   }
  ],
@@ -571,26 +613,26 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-22"
+    "to": "2026-11-23"
    },
-   "streams_analyzed": 15,
-   "streams_missed": 5,
-   "unique_chatters": 1355,
-   "members_confirmed": 430,
+   "streams_analyzed": 17,
+   "streams_missed": 6,
+   "unique_chatters": 1430,
+   "members_confirmed": 472,
    "member_classes": {
-    "unknown": 367,
-    "known": 19,
-    "gift": 44
+    "unknown": 378,
+    "known": 20,
+    "gift": 74
    },
-   "long_term_members": 264,
+   "long_term_members": 266,
    "badges": [
     {
      "months": 0,
-     "members": 72
+     "members": 106
     },
     {
      "months": 1,
-     "members": 11
+     "members": 14
     },
     {
      "months": 2,
@@ -598,11 +640,11 @@
     },
     {
      "months": 6,
-     "members": 49
+     "members": 52
     },
     {
      "months": 12,
-     "members": 142
+     "members": 144
     },
     {
      "months": 24,
@@ -610,25 +652,25 @@
     }
    ],
    "events": {
-    "new_members": 7,
+    "new_members": 8,
     "rejoins": 4,
     "milestones": 0,
-    "gifted_total": 47
+    "gifted_total": 77
    },
    "tiers": [
     {
      "tier": "オタク",
      "price": 490,
-     "confirmed_members": 19,
-     "estimated_members": 386.0
+     "confirmed_members": 20,
+     "estimated_members": 398.0
     }
    ],
    "revenue": {
-    "monthly_low": 120362,
-    "monthly_est": 120362,
-    "gift_once": 14655
+    "monthly_low": 124104,
+    "monthly_est": 124104,
+    "gift_once": 24010
    },
-   "avg_member_chatters": 153.9,
+   "avg_member_chatters": 155.8,
    "partial": true,
    "finalized": false
   }

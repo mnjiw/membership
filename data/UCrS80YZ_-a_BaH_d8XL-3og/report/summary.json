@@ -3,46 +3,46 @@
  "channel_id": "UCrS80YZ_-a_BaH_d8XL-3og",
  "handle": "@HimamoriPota",
  "subscribers": 44200,
- "fetched_at": "2026-11-22 11:18",
- "generated_at": "2026-11-22 11:18",
+ "fetched_at": "2026-11-23 06:44",
+ "generated_at": "2026-11-23 06:45",
  "period": {
-  "from": "2026-10-23 11:18",
-  "to": "2026-11-22 11:18",
+  "from": "2026-10-24 06:44",
+  "to": "2026-11-23 06:44",
   "days": 30
  },
  "streams_analyzed": 30,
  "streams_missed": 4,
- "unique_chatters": 1837,
- "members_confirmed": 870,
+ "unique_chatters": 1873,
+ "members_confirmed": 855,
  "member_classes": {
-  "unknown": 456,
+  "unknown": 471,
   "known": 34,
-  "gift": 380
+  "gift": 350
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 379
+   "members": 364
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 125
+   "members": 126
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 366
+   "members": 365
   }
  ],
  "events": {
-  "new_members": 13,
+  "new_members": 12,
   "rejoins": 4,
   "milestones": 0,
-  "gift_purchases": 46,
-  "gifted_total": 390,
-  "gift_redemptions": 380
+  "gift_purchases": 41,
+  "gifted_total": 359,
+  "gift_redemptions": 350
  },
  "tiers_configured": true,
  "tiers": [
@@ -52,10 +52,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 34,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 456.0,
-   "estimated_members": 490.0,
+   "allocated_unknown": 471.0,
+   "estimated_members": 505.0,
    "monthly_net_confirmed": 10602,
-   "monthly_net_estimated": 152791
+   "monthly_net_estimated": 157468
   },
   {
    "tier": "ゴールド",
@@ -92,12 +92,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 152791,
-  "monthly_est": 152791,
-  "gift_once": 121609,
-  "total_low": 274400,
-  "total_est": 274400,
-  "paying_members": 490,
+  "monthly_low": 157468,
+  "monthly_est": 157468,
+  "gift_once": 111943,
+  "total_low": 269411,
+  "total_est": 269411,
+  "paying_members": 505,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -106,16 +106,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "cfw1fzZIDtI",
-   "start": "2026-10-23 18:59",
-   "title": "【 歌枠 】あなたの金曜日を楽しい気持ちにさせたいですっ【向日守ぽた/ Varium】",
-   "kind": "配信",
-   "chatters": 295,
-   "member_chatters": 223,
-   "new_members": 1,
-   "gifted_total": 31
-  },
   {
    "video_id": "IuEgPVSbl_A",
    "start": "2026-10-24 08:29",
@@ -405,6 +395,16 @@
    "member_chatters": 373,
    "new_members": 4,
    "gifted_total": 91
+  },
+  {
+   "video_id": "xcGioYynq28",
+   "start": "2026-11-22 11:00",
+   "title": "#02【 スーパードンキーコング 】完全初見！生まれて初めてのドンキーコングです.ᐟ【向日守ぽた/ Varium】",
+   "kind": "配信",
+   "chatters": 446,
+   "member_chatters": 210,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -441,7 +441,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 250,
+   "like_count": 251,
    "view_count": null
   },
   {
@@ -453,7 +453,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 209,
+   "like_count": 212,
    "view_count": null
   }
  ],
@@ -485,7 +485,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 250,
+   "like_count": 251,
    "view_count": null
   },
   {
@@ -495,7 +495,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 209,
+   "like_count": 212,
    "view_count": null
   }
  ],
@@ -619,14 +619,14 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-22"
+    "to": "2026-11-23"
    },
-   "streams_analyzed": 19,
+   "streams_analyzed": 20,
    "streams_missed": 3,
-   "unique_chatters": 1452,
-   "members_confirmed": 662,
+   "unique_chatters": 1509,
+   "members_confirmed": 665,
    "member_classes": {
-    "unknown": 508,
+    "unknown": 511,
     "known": 29,
     "gift": 125
    },
@@ -638,11 +638,11 @@
     },
     {
      "months": 1,
-     "members": 101
+     "members": 103
     },
     {
      "months": 2,
-     "members": 341
+     "members": 342
     }
    ],
    "events": {
@@ -656,7 +656,7 @@
      "tier": "シルバー",
      "price": 490,
      "confirmed_members": 29,
-     "estimated_members": 537.0
+     "estimated_members": 540.0
     },
     {
      "tier": "ゴールド",
@@ -678,11 +678,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 167446,
-    "monthly_est": 167446,
+    "monthly_low": 168382,
+    "monthly_est": 168382,
     "gift_once": 39289
    },
-   "avg_member_chatters": 211.6,
+   "avg_member_chatters": 211.5,
    "partial": true,
    "finalized": false
   }

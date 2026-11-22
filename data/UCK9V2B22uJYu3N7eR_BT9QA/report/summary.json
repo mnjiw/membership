@@ -3,27 +3,27 @@
  "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
  "handle": "@OmaruPolka",
  "subscribers": 1380000,
- "fetched_at": "2026-11-22 06:28",
- "generated_at": "2026-11-22 06:28",
+ "fetched_at": "2026-11-23 06:26",
+ "generated_at": "2026-11-23 06:26",
  "period": {
-  "from": "2026-10-23 06:28",
-  "to": "2026-11-22 06:28",
+  "from": "2026-10-24 06:26",
+  "to": "2026-11-23 06:26",
   "days": 30
  },
- "streams_analyzed": 14,
+ "streams_analyzed": 13,
  "streams_missed": 1,
- "unique_chatters": 6236,
- "members_confirmed": 1694,
+ "unique_chatters": 5670,
+ "members_confirmed": 1641,
  "member_classes": {
-  "unknown": 1369,
-  "known": 262,
-  "gift": 63
+  "unknown": 1325,
+  "known": 258,
+  "gift": 58
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 124
+   "members": 114
   },
   {
    "months": 1,
@@ -33,51 +33,51 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 113
+   "members": 108
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 165
+   "members": 160
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 288
+   "members": 281
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 336
+   "members": 330
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 173
+   "members": 167
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 186
+   "members": 180
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 174
+   "members": 169
   },
   {
    "months": 72,
    "label": "6年",
-   "members": 120
+   "members": 117
   }
  ],
  "events": {
-  "new_members": 16,
-  "rejoins": 17,
-  "milestones": 86,
-  "gift_purchases": 14,
-  "gifted_total": 84,
-  "gift_redemptions": 63
+  "new_members": 13,
+  "rejoins": 14,
+  "milestones": 84,
+  "gift_purchases": 13,
+  "gifted_total": 79,
+  "gift_redemptions": 58
  },
  "tiers_configured": true,
  "tiers": [
@@ -85,21 +85,21 @@
    "tier": "おまる座",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 262,
+   "confirmed_members": 258,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1369.0,
-   "estimated_members": 1631.0,
-   "monthly_net_confirmed": 81696,
-   "monthly_net_estimated": 508575
+   "allocated_unknown": 1325.0,
+   "estimated_members": 1583.0,
+   "monthly_net_confirmed": 80449,
+   "monthly_net_estimated": 493608
   }
  ],
  "revenue": {
-  "monthly_low": 508575,
-  "monthly_est": 508575,
-  "gift_once": 26193,
-  "total_low": 534768,
-  "total_est": 534768,
-  "paying_members": 1631,
+  "monthly_low": 493608,
+  "monthly_est": 493608,
+  "gift_once": 24634,
+  "total_low": 518242,
+  "total_est": 518242,
+  "paying_members": 1583,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -108,16 +108,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "QoQRLGY7LFg",
-   "start": "2026-10-23 19:01",
-   "title": "【#ねぽっくす 同時視聴】ねぽらぼの皆で観る！イベント同時視聴配信～～！【 #ねぽらぼ /ホロライブ】",
-   "kind": "配信",
-   "chatters": 953,
-   "member_chatters": 309,
-   "new_members": 3,
-   "gifted_total": 5
-  },
   {
    "video_id": "wd4lBj7WGYc",
    "start": "2026-10-24 20:00",
@@ -444,7 +434,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-22"
+    "to": "2026-11-23"
    },
    "streams_analyzed": 5,
    "streams_missed": 0,

@@ -2,52 +2,52 @@
  "channel": "鮫升コモリ",
  "channel_id": "UCMBzCzLVj4J40PUtQUSY0eQ",
  "handle": "@mizuchimakomori",
- "subscribers": 320000,
- "fetched_at": "2026-11-22 11:19",
- "generated_at": "2026-11-22 11:19",
+ "subscribers": 319000,
+ "fetched_at": "2026-11-23 06:44",
+ "generated_at": "2026-11-23 06:45",
  "period": {
-  "from": "2026-10-23 11:19",
-  "to": "2026-11-22 11:19",
+  "from": "2026-10-24 06:44",
+  "to": "2026-11-23 06:44",
   "days": 30
  },
- "streams_analyzed": 10,
- "streams_missed": 3,
- "unique_chatters": 2453,
- "members_confirmed": 594,
+ "streams_analyzed": 12,
+ "streams_missed": 2,
+ "unique_chatters": 2703,
+ "members_confirmed": 637,
  "member_classes": {
-  "unknown": 414,
-  "known": 142,
-  "gift": 38
+  "unknown": 447,
+  "known": 146,
+  "gift": 44
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 64
+   "members": 77
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 18
+   "members": 19
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 245
+   "members": 220
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 267
+   "members": 321
   }
  ],
  "events": {
-  "new_members": 4,
+  "new_members": 6,
   "rejoins": 1,
   "milestones": 56,
-  "gift_purchases": 9,
-  "gifted_total": 38,
-  "gift_redemptions": 38
+  "gift_purchases": 11,
+  "gifted_total": 44,
+  "gift_redemptions": 44
  },
  "tiers_configured": true,
  "tiers": [
@@ -55,21 +55,21 @@
    "tier": "稚魚の水槽",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 142,
+   "confirmed_members": 146,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 414.0,
-   "estimated_members": 556.0,
-   "monthly_net_confirmed": 44278,
-   "monthly_net_estimated": 173371
+   "allocated_unknown": 447.0,
+   "estimated_members": 593.0,
+   "monthly_net_confirmed": 45525,
+   "monthly_net_estimated": 184908
   }
  ],
  "revenue": {
-  "monthly_low": 173371,
-  "monthly_est": 173371,
-  "gift_once": 11849,
-  "total_low": 185220,
-  "total_est": 185220,
-  "paying_members": 556,
+  "monthly_low": 184908,
+  "monthly_est": 184908,
+  "gift_once": 13720,
+  "total_low": 198628,
+  "total_est": 198628,
+  "paying_members": 593,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -177,6 +177,26 @@
    "member_chatters": 218,
    "new_members": 1,
    "gifted_total": 2
+  },
+  {
+   "video_id": "ARN85EnKXMQ",
+   "start": "2026-11-22 08:01",
+   "title": "【初見歓迎】おはよう！朝活だよ、おきておきてっ【鮫升コモリ／新人Vtuber】",
+   "kind": "配信",
+   "chatters": 632,
+   "member_chatters": 244,
+   "new_members": 1,
+   "gifted_total": 6
+  },
+  {
+   "video_id": "-FcUqf6Kdv4",
+   "start": "2026-11-22 17:02",
+   "title": "【鮫升コモリ３D 】REVENGE/ フランシュシュ【高画質歌ってみた】",
+   "kind": "プレミア",
+   "chatters": 60,
+   "member_chatters": 41,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -189,8 +209,8 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 3648,
-   "view_count": 93763
+   "like_count": 3654,
+   "view_count": 94104
   },
   {
    "video_id": "fgSiylVOICI",
@@ -201,20 +221,8 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 232,
+   "like_count": 236,
    "view_count": null
-  },
-  {
-   "video_id": "ARN85EnKXMQ",
-   "start": "2026-11-22 08:01",
-   "title": "【初見歓迎】おはよう！朝活だよ、おきておきてっ【鮫升コモリ／新人Vtuber】",
-   "kind": "live",
-   "status": "processing",
-   "reason": "アーカイブ処理中（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 2186,
-   "view_count": 23767
   }
  ],
  "members_only_content": [
@@ -225,8 +233,8 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 3648,
-   "view_count": 93763
+   "like_count": 3654,
+   "view_count": 94104
   },
   {
    "video_id": "fgSiylVOICI",
@@ -235,7 +243,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 232,
+   "like_count": 236,
    "view_count": null
   }
  ],
@@ -341,56 +349,56 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-22"
+    "to": "2026-11-23"
    },
-   "streams_analyzed": 8,
-   "streams_missed": 3,
-   "unique_chatters": 2132,
-   "members_confirmed": 530,
+   "streams_analyzed": 10,
+   "streams_missed": 2,
+   "unique_chatters": 2391,
+   "members_confirmed": 577,
    "member_classes": {
-    "unknown": 374,
-    "known": 134,
-    "gift": 22
+    "unknown": 409,
+    "known": 140,
+    "gift": 28
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 45
+     "members": 58
     },
     {
      "months": 1,
-     "members": 16
+     "members": 17
     },
     {
      "months": 2,
-     "members": 202
+     "members": 181
     },
     {
      "months": 6,
-     "members": 267
+     "members": 321
     }
    ],
    "events": {
-    "new_members": 4,
+    "new_members": 6,
     "rejoins": 1,
     "milestones": 45,
-    "gifted_total": 22
+    "gifted_total": 28
    },
    "tiers": [
     {
      "tier": "稚魚の水槽",
      "price": 490,
-     "confirmed_members": 134,
-     "estimated_members": 508.0
+     "confirmed_members": 140,
+     "estimated_members": 549.0
     }
    ],
    "revenue": {
-    "monthly_low": 158404,
-    "monthly_est": 158404,
-    "gift_once": 6860
+    "monthly_low": 171188,
+    "monthly_est": 171188,
+    "gift_once": 8731
    },
-   "avg_member_chatters": 191.2,
+   "avg_member_chatters": 181.5,
    "partial": true,
    "finalized": false
   }

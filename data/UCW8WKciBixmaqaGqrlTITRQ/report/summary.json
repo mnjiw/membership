@@ -3,16 +3,16 @@
  "channel_id": "UCW8WKciBixmaqaGqrlTITRQ",
  "handle": "@Izumi_Yunohara",
  "subscribers": 132000,
- "fetched_at": "2026-11-22 06:39",
- "generated_at": "2026-11-22 06:39",
+ "fetched_at": "2026-11-23 06:34",
+ "generated_at": "2026-11-23 06:34",
  "period": {
-  "from": "2026-10-23 06:39",
-  "to": "2026-11-22 06:39",
+  "from": "2026-10-24 06:34",
+  "to": "2026-11-23 06:34",
   "days": 30
  },
  "streams_analyzed": 26,
  "streams_missed": 2,
- "unique_chatters": 407,
+ "unique_chatters": 414,
  "members_confirmed": 82,
  "member_classes": {
   "unknown": 78,
@@ -77,16 +77,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "Jn93Gc_HbNM",
-   "start": "2026-10-23 21:01",
-   "title": "【#ストグラ】#ストグラSeason2 柚乃いずみの日常～173日目～【柚原いづみ / ななしいんく】",
-   "kind": "配信",
-   "chatters": 33,
-   "member_chatters": 20,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "otRhgM6tkUQ",
    "start": "2026-10-25 19:01",
@@ -336,6 +326,16 @@
    "member_chatters": 16,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "0a-O-3SQqcU",
+   "start": "2026-11-22 18:59",
+   "title": "【#ストグラ】#ストグラSeason2 柚乃いずみの日常～192日目～【柚原いづみ / ななしいんく】",
+   "kind": "配信",
+   "chatters": 54,
+   "member_chatters": 17,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -360,7 +360,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "柚原温泉街♨🐾",
-   "like_count": 60,
+   "like_count": 61,
    "view_count": null
   }
  ],
@@ -382,7 +382,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "柚原温泉街♨🐾",
-   "like_count": 60,
+   "like_count": 61,
    "view_count": null
   }
  ],
@@ -503,17 +503,17 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-22"
+    "to": "2026-11-23"
    },
-   "streams_analyzed": 18,
+   "streams_analyzed": 19,
    "streams_missed": 1,
-   "unique_chatters": 334,
-   "members_confirmed": 72,
+   "unique_chatters": 342,
+   "members_confirmed": 73,
    "member_classes": {
-    "unknown": 69,
+    "unknown": 70,
     "known": 3
    },
-   "long_term_members": 62,
+   "long_term_members": 63,
    "badges": [
     {
      "months": 2,
@@ -529,7 +529,7 @@
     },
     {
      "months": 24,
-     "members": 53
+     "members": 54
     }
    ],
    "events": {
@@ -543,15 +543,15 @@
      "tier": "柚原温泉街♨🐾",
      "price": 490,
      "confirmed_members": 3,
-     "estimated_members": 72.0
+     "estimated_members": 73.0
     }
    ],
    "revenue": {
-    "monthly_low": 22451,
-    "monthly_est": 22451,
+    "monthly_low": 22763,
+    "monthly_est": 22763,
     "gift_once": 0
    },
-   "avg_member_chatters": 20.9,
+   "avg_member_chatters": 20.7,
    "partial": true,
    "finalized": false
   }

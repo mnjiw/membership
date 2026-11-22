@@ -3,16 +3,16 @@
  "channel_id": "UCf-QRi_9sjik_BZBn7lFY_Q",
  "handle": "@neruko_kamitaba",
  "subscribers": 21500,
- "fetched_at": "2026-11-22 11:18",
- "generated_at": "2026-11-22 11:18",
+ "fetched_at": "2026-11-23 06:39",
+ "generated_at": "2026-11-23 06:41",
  "period": {
-  "from": "2026-10-23 11:18",
-  "to": "2026-11-22 11:18",
+  "from": "2026-10-24 06:39",
+  "to": "2026-11-23 06:39",
   "days": 30
  },
- "streams_analyzed": 34,
- "streams_missed": 13,
- "unique_chatters": 1450,
+ "streams_analyzed": 35,
+ "streams_missed": 14,
+ "unique_chatters": 1456,
  "members_confirmed": 697,
  "member_classes": {
   "unknown": 319,
@@ -23,12 +23,12 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 399
+   "members": 397
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 48
+   "members": 50
   },
   {
    "months": 2,
@@ -422,6 +422,16 @@
    "member_chatters": 92,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "pLH6zJWrIzM",
+   "start": "2026-11-22 06:59",
+   "title": "【勇者パーティはぜんめつしました。】新作RPG！高湿度・激重感情のカードバトル！救えるのはひとりだけ…？【紙束ねるこ/すぺしゃりて】#ゆうめつ",
+   "kind": "配信",
+   "chatters": 193,
+   "member_chatters": 137,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -578,21 +588,23 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 83,
+   "like_count": 86,
    "view_count": null
+  },
+  {
+   "video_id": "Uf44OPLPd60",
+   "start": "2026-11-22 00:00",
+   "title": "【Cozy Game Restoration】レトロゲームをお掃除！大切なものを、ゆっくりきれいにしていく。【紙束ねるこ/すぺしゃりて】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 332,
+   "view_count": 6401
   }
  ],
  "members_only_content": [
-  {
-   "video_id": "9RHdPQUnKJ4",
-   "start": "2026-10-23 22:23",
-   "title": "【メン限】第十回ねるこらじお！ぐるぐるしゃん…？【紙束ねるこ/すぺしゃりて】",
-   "kind": "video",
-   "status": "members_only_video",
-   "members_level": "",
-   "like_count": 115,
-   "view_count": null
-  },
   {
    "video_id": "ZH5zVbTnVEo",
    "start": "2026-10-25 22:07",
@@ -730,7 +742,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 83,
+   "like_count": 86,
    "view_count": null
   }
  ],
@@ -848,14 +860,14 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-22"
+    "to": "2026-11-23"
    },
-   "streams_analyzed": 24,
-   "streams_missed": 11,
-   "unique_chatters": 1305,
-   "members_confirmed": 681,
+   "streams_analyzed": 25,
+   "streams_missed": 12,
+   "unique_chatters": 1314,
+   "members_confirmed": 682,
    "member_classes": {
-    "unknown": 366,
+    "unknown": 367,
     "known": 33,
     "gift": 282
    },
@@ -863,15 +875,15 @@
    "badges": [
     {
      "months": 0,
-     "members": 394
+     "members": 392
     },
     {
      "months": 1,
-     "members": 46
+     "members": 48
     },
     {
      "months": 2,
-     "members": 61
+     "members": 62
     },
     {
      "months": 6,
@@ -893,12 +905,12 @@
      "tier": "かーどねる",
      "price": 490,
      "confirmed_members": 33,
-     "estimated_members": 399.0
+     "estimated_members": 400.0
     }
    ],
    "revenue": {
-    "monthly_low": 124415,
-    "monthly_est": 124415,
+    "monthly_low": 124727,
+    "monthly_est": 124727,
     "gift_once": 153415
    },
    "avg_member_chatters": 136.3,

@@ -938,15 +938,15 @@
    "start_jst": "2026-10-31 08:01",
    "duration_sec": 11033,
    "view_count": null,
-   "like_count": 1096,
+   "like_count": 1098,
    "live_status": "was_live",
    "members_only": true,
    "has_chat": false,
    "checked_at": "2026-10-31 16:39",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1795297062.5539107,
-   "likes_checked_at": "2026-11-22 06:37"
+   "likes_checked_ts": 1795383129.520584,
+   "likes_checked_at": "2026-11-23 06:32"
   },
   "tiTvG0apB-w": {
    "id": "tiTvG0apB-w",
@@ -1355,17 +1355,29 @@
   "VHE9m524D2E": {
    "id": "VHE9m524D2E",
    "title": "【FORTNITE】MIGU PART 2",
-   "status": "live_now",
+   "kind": "live",
+   "start_ts": 1795312582.361518,
+   "start_jst": "2026-11-22 10:56",
+   "duration_sec": 14723,
+   "view_count": 141482,
+   "like_count": 5372,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-23 06:32",
+   "info_limited": true,
    "seen_live_at": "2026-11-22 11:15",
-   "was_public_when_live": true
+   "was_public_when_live": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "Koseki Bijou Ch. hololive",
  "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
  "handle": "@KosekiBijou",
  "subscribers": 1010000,
- "fetched_at": "2026-11-22 11:15",
- "fetched_at_ts": 1795313747.2596745,
- "checked_from": "2026-11-15 11:15",
+ "fetched_at": "2026-11-23 06:32",
+ "fetched_at_ts": 1795383129.520584,
+ "checked_from": "2026-11-16 06:32",
  "initial_fetch_done": true
 }

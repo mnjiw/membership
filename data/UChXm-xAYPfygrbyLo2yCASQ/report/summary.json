@@ -3,27 +3,27 @@
  "channel_id": "UChXm-xAYPfygrbyLo2yCASQ",
  "handle": "@Anko_Kisaki",
  "subscribers": 48000,
- "fetched_at": "2026-11-22 11:16",
- "generated_at": "2026-11-22 11:16",
+ "fetched_at": "2026-11-23 06:34",
+ "generated_at": "2026-11-23 06:34",
  "period": {
-  "from": "2026-10-23 11:16",
-  "to": "2026-11-22 11:16",
+  "from": "2026-10-24 06:34",
+  "to": "2026-11-23 06:34",
   "days": 30
  },
- "streams_analyzed": 22,
- "streams_missed": 1,
+ "streams_analyzed": 23,
+ "streams_missed": 0,
  "unique_chatters": 474,
- "members_confirmed": 164,
+ "members_confirmed": 165,
  "member_classes": {
   "known": 34,
   "unknown": 79,
-  "gift": 51
+  "gift": 52
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 50
+   "members": 51
   },
   {
    "months": 1,
@@ -54,10 +54,10 @@
  "events": {
   "new_members": 0,
   "rejoins": 1,
-  "milestones": 22,
-  "gift_purchases": 24,
-  "gifted_total": 60,
-  "gift_redemptions": 51
+  "milestones": 23,
+  "gift_purchases": 25,
+  "gifted_total": 61,
+  "gift_redemptions": 52
  },
  "tiers_configured": true,
  "tiers": [
@@ -76,9 +76,9 @@
  "revenue": {
   "monthly_low": 35235,
   "monthly_est": 35235,
-  "gift_once": 18709,
-  "total_low": 53945,
-  "total_est": 53945,
+  "gift_once": 19021,
+  "total_low": 54256,
+  "total_est": 54256,
   "paying_members": 113,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -307,22 +307,19 @@
    "member_chatters": 33,
    "new_members": 0,
    "gifted_total": 1
-  }
- ],
- "missed_streams": [
+  },
   {
    "video_id": "Gf5dN6emg1M",
    "start": "2026-11-21 20:01",
    "title": "【 ガチグラvol.2 】 #11 シャノワール店員季咲あんこでしたあ～☕🖤🐈【 季咲あんこ / ななしいんく 】",
-   "kind": "live",
-   "status": "processing",
-   "reason": "アーカイブ処理中（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 216,
-   "view_count": 2562
+   "kind": "配信",
+   "chatters": 46,
+   "member_chatters": 35,
+   "new_members": 0,
+   "gifted_total": 1
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -450,22 +447,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-22"
+    "to": "2026-11-23"
    },
-   "streams_analyzed": 16,
-   "streams_missed": 1,
-   "unique_chatters": 221,
-   "members_confirmed": 104,
+   "streams_analyzed": 17,
+   "streams_missed": 0,
+   "unique_chatters": 222,
+   "members_confirmed": 105,
    "member_classes": {
     "known": 30,
     "unknown": 57,
-    "gift": 17
+    "gift": 18
    },
    "long_term_members": 76,
    "badges": [
     {
      "months": 0,
-     "members": 19
+     "members": 20
     },
     {
      "months": 1,
@@ -491,8 +488,8 @@
    "events": {
     "new_members": 0,
     "rejoins": 1,
-    "milestones": 2,
-    "gifted_total": 17
+    "milestones": 3,
+    "gifted_total": 18
    },
    "tiers": [
     {
@@ -505,7 +502,7 @@
    "revenue": {
     "monthly_low": 27128,
     "monthly_est": 27128,
-    "gift_once": 5301
+    "gift_once": 5613
    },
    "avg_member_chatters": 35.1,
    "partial": true,

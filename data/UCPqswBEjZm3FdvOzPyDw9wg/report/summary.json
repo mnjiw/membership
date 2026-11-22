@@ -3,27 +3,27 @@
  "channel_id": "UCPqswBEjZm3FdvOzPyDw9wg",
  "handle": "@AnonRemu",
  "subscribers": 47200,
- "fetched_at": "2026-11-22 06:50",
- "generated_at": "2026-11-22 06:51",
+ "fetched_at": "2026-11-23 06:43",
+ "generated_at": "2026-11-23 06:43",
  "period": {
-  "from": "2026-10-23 06:50",
-  "to": "2026-11-22 06:50",
+  "from": "2026-10-24 06:43",
+  "to": "2026-11-23 06:43",
   "days": 30
  },
  "streams_analyzed": 19,
  "streams_missed": 0,
- "unique_chatters": 946,
- "members_confirmed": 518,
+ "unique_chatters": 924,
+ "members_confirmed": 520,
  "member_classes": {
   "unknown": 157,
   "known": 7,
-  "gift": 354
+  "gift": 356
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 266
+   "members": 270
   },
   {
    "months": 1,
@@ -43,16 +43,16 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 112
+   "members": 110
   }
  ],
  "events": {
   "new_members": 0,
   "rejoins": 1,
   "milestones": 0,
-  "gift_purchases": 44,
-  "gifted_total": 359,
-  "gift_redemptions": 354
+  "gift_purchases": 47,
+  "gifted_total": 362,
+  "gift_redemptions": 356
  },
  "tiers_configured": true,
  "tiers": [
@@ -104,9 +104,9 @@
  "revenue": {
   "monthly_low": 51138,
   "monthly_est": 51138,
-  "gift_once": 111943,
-  "total_low": 163081,
-  "total_est": 163081,
+  "gift_once": 112878,
+  "total_low": 164016,
+  "total_est": 164016,
   "paying_members": 164,
   "single_tier": false,
   "tax_rate": 0.1,
@@ -116,16 +116,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "K4Z5OLOEBWs",
-   "start": "2026-10-23 07:09",
-   "title": "『 雑談 』おはよ 𖹭.ᐟ あさかつ～.ᐟ.ᐟ.ᐟ『綺音れむ / Varium』",
-   "kind": "配信",
-   "chatters": 160,
-   "member_chatters": 70,
-   "new_members": 0,
-   "gifted_total": 5
-  },
   {
    "video_id": "n8TDVgap_vM",
    "start": "2026-10-25 15:00",
@@ -305,6 +295,16 @@
    "member_chatters": 298,
    "new_members": 0,
    "gifted_total": 206
+  },
+  {
+   "video_id": "A-K6opzg1PU",
+   "start": "2026-11-22 18:01",
+   "title": "『Minecraft』ワンブロック エンドラ討伐 .ᐟ.ᐟ『綺音れむ / Varium』",
+   "kind": "配信",
+   "chatters": 117,
+   "member_chatters": 78,
+   "new_members": 0,
+   "gifted_total": 8
   }
  ],
  "missed_streams": [],
@@ -445,22 +445,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-22"
+    "to": "2026-11-23"
    },
-   "streams_analyzed": 12,
+   "streams_analyzed": 13,
    "streams_missed": 0,
-   "unique_chatters": 613,
-   "members_confirmed": 419,
+   "unique_chatters": 623,
+   "members_confirmed": 427,
    "member_classes": {
-    "unknown": 172,
+    "unknown": 173,
     "known": 7,
-    "gift": 240
+    "gift": 247
    },
-   "long_term_members": 99,
+   "long_term_members": 100,
    "badges": [
     {
      "months": 0,
-     "members": 216
+     "members": 222
     },
     {
      "months": 1,
@@ -472,25 +472,25 @@
     },
     {
      "months": 6,
-     "members": 31
+     "members": 32
     },
     {
      "months": 12,
-     "members": 99
+     "members": 100
     }
    ],
    "events": {
     "new_members": 0,
     "rejoins": 1,
     "milestones": 0,
-    "gifted_total": 244
+    "gifted_total": 252
    },
    "tiers": [
     {
      "tier": "だんしゃく",
      "price": 490,
      "confirmed_members": 7,
-     "estimated_members": 179.0
+     "estimated_members": 180.0
     },
     {
      "tier": "ししゃく",
@@ -512,11 +512,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 55815,
-    "monthly_est": 55815,
-    "gift_once": 76084
+    "monthly_low": 56127,
+    "monthly_est": 56127,
+    "gift_once": 78578
    },
-   "avg_member_chatters": 92.5,
+   "avg_member_chatters": 91.4,
    "partial": true,
    "finalized": false
   }

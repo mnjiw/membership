@@ -3,56 +3,56 @@
  "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
  "handle": "@RindoChihaya",
  "subscribers": 631000,
- "fetched_at": "2026-11-22 06:32",
- "generated_at": "2026-11-22 06:32",
+ "fetched_at": "2026-11-23 06:28",
+ "generated_at": "2026-11-23 06:28",
  "period": {
-  "from": "2026-10-23 06:32",
-  "to": "2026-11-22 06:32",
+  "from": "2026-10-24 06:28",
+  "to": "2026-11-23 06:28",
   "days": 30
  },
- "streams_analyzed": 28,
+ "streams_analyzed": 27,
  "streams_missed": 3,
- "unique_chatters": 12283,
- "members_confirmed": 2767,
+ "unique_chatters": 11720,
+ "members_confirmed": 2576,
  "member_classes": {
-  "known": 630,
-  "unknown": 1981,
-  "gift": 156
+  "known": 586,
+  "unknown": 1901,
+  "gift": 89
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 301
+   "members": 224
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 71
+   "members": 66
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 277
+   "members": 257
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 505
+   "members": 479
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 1613
+   "members": 1550
   }
  ],
  "events": {
-  "new_members": 59,
-  "rejoins": 26,
-  "milestones": 446,
-  "gift_purchases": 40,
-  "gifted_total": 156,
-  "gift_redemptions": 156
+  "new_members": 51,
+  "rejoins": 23,
+  "milestones": 125,
+  "gift_purchases": 24,
+  "gifted_total": 89,
+  "gift_redemptions": 89
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,21 +60,21 @@
    "tier": "ガレージ輪堂",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 630,
+   "confirmed_members": 586,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1981.0,
-   "estimated_members": 2611.0,
-   "monthly_net_confirmed": 196445,
-   "monthly_net_estimated": 814157
+   "allocated_unknown": 1901.0,
+   "estimated_members": 2487.0,
+   "monthly_net_confirmed": 182725,
+   "monthly_net_estimated": 775492
   }
  ],
  "revenue": {
-  "monthly_low": 814157,
-  "monthly_est": 814157,
-  "gift_once": 48644,
-  "total_low": 862801,
-  "total_est": 862801,
-  "paying_members": 2611,
+  "monthly_low": 775492,
+  "monthly_est": 775492,
+  "gift_once": 27752,
+  "total_low": 803244,
+  "total_est": 803244,
+  "paying_members": 2487,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "2oeDWMMBvMU",
-   "start": "2026-10-23 21:02",
-   "title": "【雑談/CHAT】おしゃべりしよう～～！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-   "kind": "配信",
-   "chatters": 2113,
-   "member_chatters": 1091,
-   "new_members": 8,
-   "gifted_total": 67
-  },
   {
    "video_id": "NgGKRlDKsUE",
    "start": "2026-10-24 19:33",
@@ -398,7 +388,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 882,
+   "like_count": 884,
    "view_count": null
   }
  ],
@@ -430,7 +420,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 882,
+   "like_count": 884,
    "view_count": null
   }
  ],
@@ -563,7 +553,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-22"
+    "to": "2026-11-23"
    },
    "streams_analyzed": 16,
    "streams_missed": 1,

@@ -3,81 +3,81 @@
  "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
  "handle": "@TsunomakiWatame",
  "subscribers": 1730000,
- "fetched_at": "2026-11-22 06:26",
- "generated_at": "2026-11-22 06:28",
+ "fetched_at": "2026-11-23 06:24",
+ "generated_at": "2026-11-23 06:24",
  "period": {
-  "from": "2026-10-23 06:26",
-  "to": "2026-11-22 06:26",
+  "from": "2026-10-24 06:24",
+  "to": "2026-11-23 06:24",
   "days": 30
  },
- "streams_analyzed": 21,
+ "streams_analyzed": 19,
  "streams_missed": 0,
- "unique_chatters": 10231,
- "members_confirmed": 4322,
+ "unique_chatters": 9753,
+ "members_confirmed": 4110,
  "member_classes": {
-  "unknown": 3252,
-  "known": 563,
-  "gift": 507
+  "unknown": 3167,
+  "known": 545,
+  "gift": 398
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 604
+   "members": 492
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 59
+   "members": 55
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 231
+   "members": 224
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 281
+   "members": 275
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 718
+   "members": 696
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 571
+   "members": 552
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 507
+   "members": 495
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 431
+   "members": 423
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 609
+   "members": 592
   },
   {
    "months": 72,
    "label": "6年",
-   "members": 311
+   "members": 306
   }
  ],
  "events": {
-  "new_members": 58,
-  "rejoins": 41,
-  "milestones": 250,
-  "gift_purchases": 201,
-  "gifted_total": 586,
-  "gift_redemptions": 507
+  "new_members": 48,
+  "rejoins": 36,
+  "milestones": 219,
+  "gift_purchases": 156,
+  "gifted_total": 471,
+  "gift_redemptions": 398
  },
  "tiers_configured": true,
  "tiers": [
@@ -85,21 +85,21 @@
    "tier": "Member sheep",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 563,
+   "confirmed_members": 545,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 3252.0,
-   "estimated_members": 3815.0,
-   "monthly_net_confirmed": 175554,
-   "monthly_net_estimated": 1189586
+   "allocated_unknown": 3167.0,
+   "estimated_members": 3712.0,
+   "monthly_net_confirmed": 169941,
+   "monthly_net_estimated": 1157469
   }
  ],
  "revenue": {
-  "monthly_low": 1189586,
-  "monthly_est": 1189586,
-  "gift_once": 182725,
-  "total_low": 1372312,
-  "total_est": 1372312,
-  "paying_members": 3815,
+  "monthly_low": 1157469,
+  "monthly_est": 1157469,
+  "gift_once": 146866,
+  "total_low": 1304335,
+  "total_est": 1304335,
+  "paying_members": 3712,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -108,26 +108,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "7D-DTq6bfqg",
-   "start": "2026-10-23 19:00",
-   "title": "AZKiちゃん、これどーぞ！【ギリギリわるくないわため】 #ギリわる",
-   "kind": "プレミア",
-   "chatters": 246,
-   "member_chatters": 169,
-   "new_members": 0,
-   "gifted_total": 10
-  },
-  {
-   "video_id": "1IisE4Eyuj8",
-   "start": "2026-10-23 22:02",
-   "title": "【雑談＆お礼】深夜のチル雑談........🐏💛【角巻わため/ホロライブ４期生】",
-   "kind": "配信",
-   "chatters": 2138,
-   "member_chatters": 1421,
-   "new_members": 10,
-   "gifted_total": 105
-  },
   {
    "video_id": "JPSqr-x7ZWo",
    "start": "2026-10-24 23:04",
@@ -490,7 +470,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-22"
+    "to": "2026-11-23"
    },
    "streams_analyzed": 14,
    "streams_missed": 0,

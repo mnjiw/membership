@@ -2,88 +2,88 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-22"
+  "to": "2026-11-23"
  },
- "streams_analyzed": 2,
+ "streams_analyzed": 3,
  "streams_missed": 3,
- "unique_chatters": 1311,
- "members_confirmed": 489,
+ "unique_chatters": 1645,
+ "members_confirmed": 600,
  "member_classes": {
-  "unknown": 294,
-  "known": 149,
-  "gift": 46
+  "unknown": 350,
+  "known": 169,
+  "gift": 81
  },
- "long_term_members": 350,
+ "long_term_members": 408,
  "badges": [
   {
    "months": 0,
-   "members": 58
+   "members": 96
   },
   {
    "months": 1,
-   "members": 8
+   "members": 11
   },
   {
    "months": 2,
-   "members": 28
+   "members": 32
   },
   {
    "months": 6,
-   "members": 45
+   "members": 53
   },
   {
    "months": 12,
-   "members": 125
+   "members": 146
   },
   {
    "months": 24,
-   "members": 225
+   "members": 262
   }
  ],
  "events": {
-  "new_members": 1,
+  "new_members": 4,
   "rejoins": 2,
-  "milestones": 53,
-  "gifted_total": 46
+  "milestones": 62,
+  "gifted_total": 81
  },
  "tiers": [
   {
    "tier": "Rosarian Citizen",
    "price": 390,
-   "confirmed_members": 93,
-   "estimated_members": 276.5
+   "confirmed_members": 108,
+   "estimated_members": 331.7
   },
   {
    "tier": "Cardinal Archer",
    "price": 690,
-   "confirmed_members": 43,
-   "estimated_members": 127.8
+   "confirmed_members": 48,
+   "estimated_members": 147.4
   },
   {
    "tier": "Tine Squire",
    "price": 1290,
    "confirmed_members": 1,
-   "estimated_members": 3.0
+   "estimated_members": 3.1
   },
   {
    "tier": "Ruby Knight",
    "price": 1990,
    "confirmed_members": 7,
-   "estimated_members": 20.8
+   "estimated_members": 21.5
   },
   {
    "tier": "Scarlet Court Noble",
    "price": 3490,
    "confirmed_members": 5,
-   "estimated_members": 14.9
+   "estimated_members": 15.4
   }
  ],
  "revenue": {
-  "monthly_low": 135717,
-  "monthly_est": 186571,
-  "gift_once": 11416
+  "monthly_low": 155534,
+  "monthly_est": 210886,
+  "gift_once": 20103
  },
- "avg_member_chatters": 303.5,
+ "avg_member_chatters": 293,
  "partial": true,
  "finalized": false
 }

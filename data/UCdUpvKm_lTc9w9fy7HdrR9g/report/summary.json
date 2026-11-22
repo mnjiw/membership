@@ -3,20 +3,20 @@
  "channel_id": "UCdUpvKm_lTc9w9fy7HdrR9g",
  "handle": "@babuch.7133",
  "subscribers": 99600,
- "fetched_at": "2026-11-22 06:52",
- "generated_at": "2026-11-22 06:52",
+ "fetched_at": "2026-11-23 06:45",
+ "generated_at": "2026-11-23 06:45",
  "period": {
-  "from": "2026-10-23 06:52",
-  "to": "2026-11-22 06:52",
+  "from": "2026-10-24 06:45",
+  "to": "2026-11-23 06:45",
   "days": 30
  },
  "streams_analyzed": 10,
- "streams_missed": 1,
- "unique_chatters": 123,
- "members_confirmed": 64,
+ "streams_missed": 2,
+ "unique_chatters": 121,
+ "members_confirmed": 63,
  "member_classes": {
-  "unknown": 59,
-  "known": 5
+  "known": 5,
+  "unknown": 58
  },
  "badges": [
   {
@@ -32,7 +32,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 60
+   "members": 59
   }
  ],
  "events": {
@@ -51,19 +51,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 5,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 59.0,
-   "estimated_members": 64.0,
+   "allocated_unknown": 58.0,
+   "estimated_members": 63.0,
    "monthly_net_confirmed": 1559,
-   "monthly_net_estimated": 19956
+   "monthly_net_estimated": 19645
   }
  ],
  "revenue": {
-  "monthly_low": 19956,
-  "monthly_est": 19956,
+  "monthly_low": 19645,
+  "monthly_est": 19645,
   "gift_once": 0,
-  "total_low": 19956,
-  "total_est": 19956,
-  "paying_members": 64,
+  "total_low": 19645,
+  "total_est": 19645,
+  "paying_members": 63,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -72,16 +72,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "WaeoCp9PrbE",
-   "start": "2026-10-23 21:00",
-   "title": "この田舎暮らしって終着点あるんですかね？【ほの暮しの庭】#10",
-   "kind": "配信",
-   "chatters": 37,
-   "member_chatters": 32,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "P-rmYle8z-I",
    "start": "2026-10-24 21:01",
@@ -171,6 +161,16 @@
    "member_chatters": 34,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "_LfVdmCeh-0",
+   "start": "2026-11-22 21:01",
+   "title": "お墓……？おばけとか…出ますか……？【ゼルダの伝説 時のオカリナ】#7",
+   "kind": "配信",
+   "chatters": 39,
+   "member_chatters": 28,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -185,6 +185,18 @@
    "members_level": "",
    "like_count": 28,
    "view_count": null
+  },
+  {
+   "video_id": "w3fdIo4FO14",
+   "start": "2026-11-20 00:00",
+   "title": "Wiiスポーツリゾート遊び倒し人間、楽しみ【Switch Sports Resort】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 77,
+   "view_count": 2082
   }
  ],
  "members_only_content": [
@@ -299,11 +311,11 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-22"
+    "to": "2026-11-23"
    },
-   "streams_analyzed": 8,
-   "streams_missed": 1,
-   "unique_chatters": 111,
+   "streams_analyzed": 9,
+   "streams_missed": 2,
+   "unique_chatters": 113,
    "members_confirmed": 58,
    "member_classes": {
     "unknown": 53,
@@ -343,7 +355,7 @@
     "monthly_est": 18085,
     "gift_once": 0
    },
-   "avg_member_chatters": 37.4,
+   "avg_member_chatters": 36.3,
    "partial": true,
    "finalized": false
   }

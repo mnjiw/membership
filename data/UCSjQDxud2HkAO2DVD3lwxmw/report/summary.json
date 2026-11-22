@@ -3,36 +3,36 @@
  "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
  "handle": "@HyakutoKyoko",
  "subscribers": 349000,
- "fetched_at": "2026-11-22 11:15",
- "generated_at": "2026-11-22 11:15",
+ "fetched_at": "2026-11-23 06:30",
+ "generated_at": "2026-11-23 06:31",
  "period": {
-  "from": "2026-10-23 11:15",
-  "to": "2026-11-22 11:15",
+  "from": "2026-10-24 06:30",
+  "to": "2026-11-23 06:30",
   "days": 30
  },
  "streams_analyzed": 54,
  "streams_missed": 2,
- "unique_chatters": 27511,
- "members_confirmed": 2772,
+ "unique_chatters": 27585,
+ "members_confirmed": 2849,
  "member_classes": {
-  "unknown": 748,
-  "known": 1483,
-  "gift": 541
+  "unknown": 755,
+  "known": 1487,
+  "gift": 607
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 2772
+   "members": 2849
   }
  ],
  "events": {
-  "new_members": 1483,
+  "new_members": 1487,
   "rejoins": 0,
   "milestones": 0,
-  "gift_purchases": 100,
-  "gifted_total": 581,
-  "gift_redemptions": 541
+  "gift_purchases": 109,
+  "gifted_total": 652,
+  "gift_redemptions": 607
  },
  "tiers_configured": true,
  "tiers": [
@@ -40,21 +40,21 @@
    "tier": "百灯派出所 // Chembership",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 1483,
+   "confirmed_members": 1487,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 748.0,
-   "estimated_members": 2231.0,
-   "monthly_net_confirmed": 462426,
-   "monthly_net_estimated": 695666
+   "allocated_unknown": 755.0,
+   "estimated_members": 2242.0,
+   "monthly_net_confirmed": 463674,
+   "monthly_net_estimated": 699096
   }
  ],
  "revenue": {
-  "monthly_low": 695666,
-  "monthly_est": 695666,
-  "gift_once": 181166,
-  "total_low": 876833,
-  "total_est": 876833,
-  "paying_members": 2231,
+  "monthly_low": 699096,
+  "monthly_est": 699096,
+  "gift_once": 203305,
+  "total_low": 902402,
+  "total_est": 902402,
+  "paying_members": 2242,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -63,16 +63,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "u6ui44uX8ZQ",
-   "start": "2026-10-23 21:59",
-   "title": "#6 最強担当、いざ参る！！※ネタバレあり | 鬼武者 Way of the Sword 【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-   "kind": "配信",
-   "chatters": 1034,
-   "member_chatters": 0,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "NmM_hn3Mp0o",
    "start": "2026-10-24 11:00",
@@ -602,6 +592,16 @@
    "member_chatters": 413,
    "new_members": 6,
    "gifted_total": 26
+  },
+  {
+   "video_id": "dse_tAQb6_s",
+   "start": "2026-11-22 12:01",
+   "title": "【EN】I'm starting to understand this game...? I think...  | Deadlock【Hyakuto Kyoko/Hololive】",
+   "kind": "配信",
+   "chatters": 1074,
+   "member_chatters": 352,
+   "new_members": 4,
+   "gifted_total": 71
   }
  ],
  "missed_streams": [
@@ -626,7 +626,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 799,
+   "like_count": 802,
    "view_count": null
   }
  ],
@@ -648,7 +648,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 799,
+   "like_count": 802,
    "view_count": null
   }
  ],
@@ -729,44 +729,44 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-22"
+    "to": "2026-11-23"
    },
-   "streams_analyzed": 37,
+   "streams_analyzed": 38,
    "streams_missed": 2,
-   "unique_chatters": 20288,
-   "members_confirmed": 2336,
+   "unique_chatters": 20520,
+   "members_confirmed": 2415,
    "member_classes": {
-    "unknown": 742,
-    "known": 1186,
-    "gift": 408
+    "unknown": 749,
+    "known": 1192,
+    "gift": 474
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 2336
+     "members": 2415
     }
    ],
    "events": {
-    "new_members": 526,
+    "new_members": 530,
     "rejoins": 0,
     "milestones": 0,
-    "gifted_total": 438
+    "gifted_total": 509
    },
    "tiers": [
     {
      "tier": "百灯派出所 // Chembership",
      "price": 490,
-     "confirmed_members": 1186,
-     "estimated_members": 1928.0
+     "confirmed_members": 1192,
+     "estimated_members": 1941.0
     }
    ],
    "revenue": {
-    "monthly_low": 601185,
-    "monthly_est": 601185,
-    "gift_once": 136576
+    "monthly_low": 605239,
+    "monthly_est": 605239,
+    "gift_once": 158715
    },
-   "avg_member_chatters": 370.5,
+   "avg_member_chatters": 370,
    "partial": true,
    "finalized": false
   }

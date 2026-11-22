@@ -3,26 +3,26 @@
  "channel_id": "UCCra1t-eIlO3ULyXQQMD9Xw",
  "handle": "@RemiaAotsuki",
  "subscribers": 81600,
- "fetched_at": "2026-11-22 11:17",
- "generated_at": "2026-11-22 11:17",
+ "fetched_at": "2026-11-23 06:37",
+ "generated_at": "2026-11-23 06:37",
  "period": {
-  "from": "2026-10-23 11:17",
-  "to": "2026-11-22 11:17",
+  "from": "2026-10-24 06:37",
+  "to": "2026-11-23 06:37",
   "days": 30
  },
  "streams_analyzed": 24,
  "streams_missed": 2,
- "unique_chatters": 524,
- "members_confirmed": 102,
+ "unique_chatters": 530,
+ "members_confirmed": 101,
  "member_classes": {
-  "known": 29,
+  "known": 28,
   "unknown": 73
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 6
+   "members": 5
   },
   {
    "months": 2,
@@ -37,16 +37,16 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 31
+   "members": 30
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 36
+   "members": 37
   }
  ],
  "events": {
-  "new_members": 1,
+  "new_members": 0,
   "rejoins": 2,
   "milestones": 12,
   "gift_purchases": 0,
@@ -59,21 +59,21 @@
    "tier": "BOTchis",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 29,
+   "confirmed_members": 28,
    "share_of_confirmed_pct": 100.0,
    "allocated_unknown": 73.0,
-   "estimated_members": 102.0,
-   "monthly_net_confirmed": 9043,
-   "monthly_net_estimated": 31805
+   "estimated_members": 101.0,
+   "monthly_net_confirmed": 8731,
+   "monthly_net_estimated": 31494
   }
  ],
  "revenue": {
-  "monthly_low": 31805,
-  "monthly_est": 31805,
+  "monthly_low": 31494,
+  "monthly_est": 31494,
   "gift_once": 0,
-  "total_low": 31805,
-  "total_est": 31805,
-  "paying_members": 102,
+  "total_low": 31494,
+  "total_est": 31494,
+  "paying_members": 101,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -82,16 +82,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "mHz-zixYe6I",
-   "start": "2026-10-24 01:01",
-   "title": "【OUTLAST TRIALS】 New MK Challenges w/ Peaky Blinders  【#VSPOEN #RemiaAotsuki】",
-   "kind": "配信",
-   "chatters": 49,
-   "member_chatters": 28,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "_8q-2o6yVDs",
    "start": "2026-10-26 02:08",
@@ -321,6 +311,16 @@
    "member_chatters": 25,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "mWotFIEquvc",
+   "start": "2026-11-22 07:09",
+   "title": "【Counter-Strike 2】 it's her f-f-f-first time!!! ‪@RaraRocora‬ 【#VSPOEN #RemiaAotsuki】",
+   "kind": "配信",
+   "chatters": 55,
+   "member_chatters": 23,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -337,16 +337,16 @@
    "view_count": null
   },
   {
-   "video_id": "mWotFIEquvc",
-   "start": "2026-11-22 07:09",
-   "title": "【Counter-Strike 2】 it's her f-f-f-first time!!! @RaraRocora 【#VSPOEN #RemiaAotsuki】",
+   "video_id": "CiM8bXhCgG4",
+   "start": "2026-11-23 00:00",
+   "title": "【VALHEIM - Part 3】   We one tap the next ELDER!!?   【#VSPOEN #RemiaAotsuki】",
    "kind": "live",
-   "status": "processing",
-   "reason": "アーカイブ処理中（次回再確認）",
-   "members_only": false,
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
    "members_level": "",
-   "like_count": 293,
-   "view_count": 3371
+   "like_count": 22,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -358,6 +358,16 @@
    "status": "members_only",
    "members_level": "",
    "like_count": 21,
+   "view_count": null
+  },
+  {
+   "video_id": "CiM8bXhCgG4",
+   "start": "2026-11-23 00:00",
+   "title": "【VALHEIM - Part 3】   We one tap the next ELDER!!?   【#VSPOEN #RemiaAotsuki】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 22,
    "view_count": null
   }
  ],
@@ -487,11 +497,11 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-22"
+    "to": "2026-11-23"
    },
-   "streams_analyzed": 17,
+   "streams_analyzed": 18,
    "streams_missed": 2,
-   "unique_chatters": 437,
+   "unique_chatters": 448,
    "members_confirmed": 88,
    "member_classes": {
     "known": 25,
@@ -513,11 +523,11 @@
     },
     {
      "months": 12,
-     "members": 28
+     "members": 27
     },
     {
      "months": 24,
-     "members": 32
+     "members": 33
     }
    ],
    "events": {
@@ -539,7 +549,7 @@
     "monthly_est": 27440,
     "gift_once": 0
    },
-   "avg_member_chatters": 32.2,
+   "avg_member_chatters": 31.7,
    "partial": true,
    "finalized": false
   }

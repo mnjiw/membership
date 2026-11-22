@@ -3,27 +3,27 @@
  "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
  "handle": "@PavoliaReine",
  "subscribers": 858000,
- "fetched_at": "2026-11-22 06:36",
- "generated_at": "2026-11-22 06:37",
+ "fetched_at": "2026-11-23 06:31",
+ "generated_at": "2026-11-23 06:31",
  "period": {
-  "from": "2026-10-23 06:36",
-  "to": "2026-11-22 06:36",
+  "from": "2026-10-24 06:31",
+  "to": "2026-11-23 06:31",
   "days": 30
  },
  "streams_analyzed": 21,
  "streams_missed": 0,
- "unique_chatters": 2062,
- "members_confirmed": 329,
+ "unique_chatters": 2166,
+ "members_confirmed": 341,
  "member_classes": {
-  "known": 130,
-  "unknown": 181,
-  "gift": 18
+  "known": 132,
+  "unknown": 186,
+  "gift": 23
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 35
+   "members": 40
   },
   {
    "months": 1,
@@ -38,12 +38,12 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 24
+   "members": 25
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 37
+   "members": 40
   },
   {
    "months": 24,
@@ -58,21 +58,21 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 56
+   "members": 57
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 103
+   "members": 105
   }
  ],
  "events": {
   "new_members": 6,
   "rejoins": 7,
-  "milestones": 44,
-  "gift_purchases": 6,
-  "gifted_total": 18,
-  "gift_redemptions": 18
+  "milestones": 53,
+  "gift_purchases": 7,
+  "gifted_total": 23,
+  "gift_redemptions": 23
  },
  "tiers_configured": true,
  "tiers": [
@@ -80,21 +80,21 @@
    "tier": "The Royaltea",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 130,
+   "confirmed_members": 132,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 181.0,
-   "estimated_members": 311.0,
-   "monthly_net_confirmed": 57082,
-   "monthly_net_estimated": 136557
+   "allocated_unknown": 186.0,
+   "estimated_members": 318.0,
+   "monthly_net_confirmed": 57960,
+   "monthly_net_estimated": 139631
   }
  ],
  "revenue": {
-  "monthly_low": 136557,
-  "monthly_est": 136557,
-  "gift_once": 7904,
-  "total_low": 144461,
-  "total_est": 144461,
-  "paying_members": 311,
+  "monthly_low": 139631,
+  "monthly_est": 139631,
+  "gift_once": 10099,
+  "total_low": 149730,
+  "total_est": 149730,
+  "paying_members": 318,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -103,16 +103,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "uZNBAZu38Yw",
-   "start": "2026-10-23 23:00",
-   "title": "【hololive Dreams】Girls Night Where We Clear Shop #holodori【Pavolia Reine/hololive】",
-   "kind": "配信",
-   "chatters": 190,
-   "member_chatters": 76,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "-sgyAWeUFqA",
    "start": "2026-10-24 23:00",
@@ -312,6 +302,16 @@
    "member_chatters": 120,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "HzgQ3xc9pC8",
+   "start": "2026-11-22 21:30",
+   "title": "【hololive Dreams】REINE STORY AND EVENT YOYOYOYO【Pavolia Reine/hololive】",
+   "kind": "配信",
+   "chatters": 406,
+   "member_chatters": 124,
+   "new_members": 0,
+   "gifted_total": 5
   }
  ],
  "missed_streams": [],
@@ -466,22 +466,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-22"
+    "to": "2026-11-23"
    },
-   "streams_analyzed": 14,
+   "streams_analyzed": 15,
    "streams_missed": 0,
-   "unique_chatters": 1704,
-   "members_confirmed": 304,
+   "unique_chatters": 1856,
+   "members_confirmed": 319,
    "member_classes": {
-    "unknown": 172,
-    "known": 121,
-    "gift": 11
+    "unknown": 179,
+    "known": 124,
+    "gift": 16
    },
-   "long_term_members": 231,
+   "long_term_members": 239,
    "badges": [
     {
      "months": 0,
-     "members": 28
+     "members": 33
     },
     {
      "months": 1,
@@ -489,15 +489,15 @@
     },
     {
      "months": 2,
-     "members": 16
+     "members": 17
     },
     {
      "months": 6,
-     "members": 23
+     "members": 24
     },
     {
      "months": 12,
-     "members": 35
+     "members": 39
     },
     {
      "months": 24,
@@ -509,33 +509,33 @@
     },
     {
      "months": 48,
-     "members": 51
+     "members": 53
     },
     {
      "months": 60,
-     "members": 97
+     "members": 99
     }
    ],
    "events": {
     "new_members": 5,
     "rejoins": 6,
-    "milestones": 32,
-    "gifted_total": 11
+    "milestones": 41,
+    "gifted_total": 16
    },
    "tiers": [
     {
      "tier": "The Royaltea",
      "price": 690,
-     "confirmed_members": 121,
-     "estimated_members": 293.0
+     "confirmed_members": 124,
+     "estimated_members": 303.0
     }
    ],
    "revenue": {
-    "monthly_low": 128654,
-    "monthly_est": 128654,
-    "gift_once": 4830
+    "monthly_low": 133045,
+    "monthly_est": 133045,
+    "gift_once": 7025
    },
-   "avg_member_chatters": 99.8,
+   "avg_member_chatters": 101.4,
    "partial": true,
    "finalized": false
   }

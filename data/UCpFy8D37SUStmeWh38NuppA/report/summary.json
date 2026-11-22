@@ -3,43 +3,43 @@
  "channel_id": "UCpFy8D37SUStmeWh38NuppA",
  "handle": "@Ray_Nanase",
  "subscribers": 14400,
- "fetched_at": "2026-11-22 06:40",
- "generated_at": "2026-11-22 06:40",
+ "fetched_at": "2026-11-23 06:35",
+ "generated_at": "2026-11-23 06:35",
  "period": {
-  "from": "2026-10-23 06:40",
-  "to": "2026-11-22 06:40",
+  "from": "2026-10-24 06:35",
+  "to": "2026-11-23 06:35",
   "days": 30
  },
  "streams_analyzed": 27,
- "streams_missed": 1,
- "unique_chatters": 1374,
- "members_confirmed": 149,
+ "streams_missed": 2,
+ "unique_chatters": 1404,
+ "members_confirmed": 148,
  "member_classes": {
   "known": 41,
-  "unknown": 94,
+  "unknown": 93,
   "gift": 14
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 20
+   "members": 19
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 13
+   "members": 14
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 116
+   "members": 115
   }
  ],
  "events": {
   "new_members": 1,
   "rejoins": 2,
-  "milestones": 36,
+  "milestones": 34,
   "gift_purchases": 6,
   "gifted_total": 14,
   "gift_redemptions": 14
@@ -52,19 +52,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 41,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 94.0,
-   "estimated_members": 135.0,
+   "allocated_unknown": 93.0,
+   "estimated_members": 134.0,
    "monthly_net_confirmed": 12785,
-   "monthly_net_estimated": 42095
+   "monthly_net_estimated": 41784
   }
  ],
  "revenue": {
-  "monthly_low": 42095,
-  "monthly_est": 42095,
+  "monthly_low": 41784,
+  "monthly_est": 41784,
   "gift_once": 4365,
-  "total_low": 46461,
-  "total_est": 46461,
-  "paying_members": 135,
+  "total_low": 46149,
+  "total_est": 46149,
+  "paying_members": 134,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "yLGQuyyx67A",
-   "start": "2026-10-23 20:00",
-   "title": "【歌枠】#うみつじ で一緒に歌うぞおおおおお！！！✨【汐鳴みりね / 漆瀬レイ / ななしいんく】",
-   "kind": "配信",
-   "chatters": 98,
-   "member_chatters": 38,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "ZnzsIqxWYA0",
    "start": "2026-10-24 16:20",
@@ -342,6 +332,16 @@
    "member_chatters": 34,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "ULV3b1nB1OI",
+   "start": "2026-11-22 15:02",
+   "title": "【勝手に】#ななしお嬢様Tier を決めます…！🥀【漆瀬レイ / ななしいんく】",
+   "kind": "配信",
+   "chatters": 225,
+   "member_chatters": 51,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -356,6 +356,18 @@
    "members_level": "",
    "like_count": null,
    "view_count": null
+  },
+  {
+   "video_id": "SNnnozkNnqY",
+   "start": "2026-11-22 00:00",
+   "title": "【Ark: Survival Ascended／ゆらら鯖】子供は霜降り肉🍖 #2【漆瀬レイ / ななしいんく】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": null,
+   "view_count": 6643
   }
  ],
  "members_only_content": [
@@ -472,14 +484,14 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-22"
+    "to": "2026-11-23"
    },
-   "streams_analyzed": 18,
-   "streams_missed": 1,
-   "unique_chatters": 1186,
-   "members_confirmed": 140,
+   "streams_analyzed": 19,
+   "streams_missed": 2,
+   "unique_chatters": 1239,
+   "members_confirmed": 141,
    "member_classes": {
-    "unknown": 85,
+    "unknown": 86,
     "known": 41,
     "gift": 14
    },
@@ -487,15 +499,15 @@
    "badges": [
     {
      "months": 0,
-     "members": 18
+     "members": 17
     },
     {
      "months": 1,
-     "members": 12
+     "members": 13
     },
     {
      "months": 2,
-     "members": 110
+     "members": 111
     }
    ],
    "events": {
@@ -509,15 +521,15 @@
      "tier": "レイの隠れ家",
      "price": 490,
      "confirmed_members": 41,
-     "estimated_members": 126.0
+     "estimated_members": 127.0
     }
    ],
    "revenue": {
-    "monthly_low": 39289,
-    "monthly_est": 39289,
+    "monthly_low": 39601,
+    "monthly_est": 39601,
     "gift_once": 4365
    },
-   "avg_member_chatters": 43,
+   "avg_member_chatters": 43.4,
    "partial": true,
    "finalized": false
   }

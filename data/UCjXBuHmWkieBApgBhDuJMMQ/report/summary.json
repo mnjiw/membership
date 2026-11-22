@@ -3,27 +3,27 @@
  "channel_id": "UCjXBuHmWkieBApgBhDuJMMQ",
  "handle": "@八雲べに",
  "subscribers": 667000,
- "fetched_at": "2026-11-22 06:42",
- "generated_at": "2026-11-22 06:42",
+ "fetched_at": "2026-11-23 06:36",
+ "generated_at": "2026-11-23 06:36",
  "period": {
-  "from": "2026-10-23 06:42",
-  "to": "2026-11-22 06:42",
+  "from": "2026-10-24 06:36",
+  "to": "2026-11-23 06:36",
   "days": 30
  },
- "streams_analyzed": 21,
- "streams_missed": 1,
- "unique_chatters": 7436,
- "members_confirmed": 1084,
+ "streams_analyzed": 19,
+ "streams_missed": 2,
+ "unique_chatters": 7359,
+ "members_confirmed": 1055,
  "member_classes": {
-  "unknown": 813,
-  "known": 176,
-  "gift": 95
+  "unknown": 802,
+  "known": 168,
+  "gift": 85
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 180
+   "members": 165
   },
   {
    "months": 1,
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 74
+   "members": 69
   },
   {
    "months": 6,
@@ -43,36 +43,36 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 150
+   "members": 148
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 182
+   "members": 180
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 169
+   "members": 167
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 129
+   "members": 127
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 56
+   "members": 55
   }
  ],
  "events": {
-  "new_members": 58,
+  "new_members": 54,
   "rejoins": 42,
-  "milestones": 25,
-  "gift_purchases": 7,
-  "gifted_total": 95,
-  "gift_redemptions": 95
+  "milestones": 24,
+  "gift_purchases": 6,
+  "gifted_total": 85,
+  "gift_redemptions": 85
  },
  "tiers_configured": true,
  "tiers": [
@@ -80,21 +80,21 @@
    "tier": "♡しもべに♡",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 176,
+   "confirmed_members": 168,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 813.0,
-   "estimated_members": 989.0,
-   "monthly_net_confirmed": 54880,
-   "monthly_net_estimated": 308388
+   "allocated_unknown": 802.0,
+   "estimated_members": 970.0,
+   "monthly_net_confirmed": 52385,
+   "monthly_net_estimated": 302464
   }
  ],
  "revenue": {
-  "monthly_low": 308388,
-  "monthly_est": 308388,
-  "gift_once": 29623,
-  "total_low": 338011,
-  "total_est": 338011,
-  "paying_members": 989,
+  "monthly_low": 302464,
+  "monthly_est": 302464,
+  "gift_once": 26505,
+  "total_low": 328968,
+  "total_est": 328968,
+  "paying_members": 970,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -103,26 +103,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "KJNxUS0J0wo",
-   "start": "2026-10-23 19:00",
-   "title": "【#エムホールデム】復刻コラボきたあああ！！！！w/ひなーのすみれめと【ぶいすぽ/八雲べに】",
-   "kind": "配信",
-   "chatters": 141,
-   "member_chatters": 90,
-   "new_members": 0,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "aisrDN99z8U",
-   "start": "2026-10-23 21:48",
-   "title": "【APEX】 久々エペ部  w/うるはkamito【ぶいすぽ/八雲べに】",
-   "kind": "配信",
-   "chatters": 250,
-   "member_chatters": 156,
-   "new_members": 4,
-   "gifted_total": 10
-  },
   {
    "video_id": "G_o5oE1MrhU",
    "start": "2026-10-26 19:01",
@@ -326,6 +306,18 @@
    "members_level": "♡しもべに♡",
    "like_count": null,
    "view_count": null
+  },
+  {
+   "video_id": "Pk31h56JV48",
+   "start": "2026-11-22 22:18",
+   "title": "【メン限】こんばんは！【ぶいすぽ/八雲べに】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": null,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -336,6 +328,16 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "♡しもべに♡",
+   "like_count": null,
+   "view_count": null
+  },
+  {
+   "video_id": "Pk31h56JV48",
+   "start": "2026-11-22 22:18",
+   "title": "【メン限】こんばんは！【ぶいすぽ/八雲べに】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
    "like_count": null,
    "view_count": null
   }
@@ -490,10 +492,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-22"
+    "to": "2026-11-23"
    },
    "streams_analyzed": 13,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 3586,
    "members_confirmed": 864,
    "member_classes": {

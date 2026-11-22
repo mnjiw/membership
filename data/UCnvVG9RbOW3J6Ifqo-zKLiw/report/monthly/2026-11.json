@@ -2,17 +2,17 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-22"
+  "to": "2026-11-23"
  },
- "streams_analyzed": 9,
+ "streams_analyzed": 10,
  "streams_missed": 0,
- "unique_chatters": 1020,
- "members_confirmed": 421,
+ "unique_chatters": 1071,
+ "members_confirmed": 450,
  "member_classes": {
-  "unknown": 383,
-  "known": 38
+  "unknown": 411,
+  "known": 39
  },
- "long_term_members": 342,
+ "long_term_members": 367,
  "badges": [
   {
    "months": 0,
@@ -24,19 +24,27 @@
   },
   {
    "months": 2,
-   "members": 22
+   "members": 23
   },
   {
    "months": 6,
-   "members": 32
+   "members": 35
   },
   {
    "months": 12,
-   "members": 59
+   "members": 62
   },
   {
    "months": 24,
-   "members": 283
+   "members": 203
+  },
+  {
+   "months": 36,
+   "members": 89
+  },
+  {
+   "months": 60,
+   "members": 13
   }
  ],
  "events": {
@@ -49,22 +57,22 @@
   {
    "tier": "ぴょんぴょん隊",
    "price": 490,
-   "confirmed_members": 27,
-   "estimated_members": 299.1
+   "confirmed_members": 28,
+   "estimated_members": 323.1
   },
   {
    "tier": "ぴょんぴょん隊Mk2",
    "price": 1190,
    "confirmed_members": 11,
-   "estimated_members": 121.9
+   "estimated_members": 126.9
   }
  ],
  "revenue": {
-  "monthly_low": 136175,
-  "monthly_est": 185562,
+  "monthly_low": 145218,
+  "monthly_est": 196857,
   "gift_once": 0
  },
- "avg_member_chatters": 149.6,
+ "avg_member_chatters": 152.8,
  "partial": true,
  "finalized": false
 }
