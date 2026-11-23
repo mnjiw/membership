@@ -3,36 +3,36 @@
  "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
  "handle": "@SorashinaSopia",
  "subscribers": 339000,
- "fetched_at": "2026-11-23 06:30",
- "generated_at": "2026-11-23 06:30",
+ "fetched_at": "2026-11-24 06:28",
+ "generated_at": "2026-11-24 06:28",
  "period": {
-  "from": "2026-10-24 06:30",
-  "to": "2026-11-23 06:30",
+  "from": "2026-10-25 06:28",
+  "to": "2026-11-24 06:28",
   "days": 30
  },
- "streams_analyzed": 19,
- "streams_missed": 3,
- "unique_chatters": 17962,
- "members_confirmed": 4482,
+ "streams_analyzed": 18,
+ "streams_missed": 2,
+ "unique_chatters": 16518,
+ "members_confirmed": 3655,
  "member_classes": {
-  "known": 2275,
-  "unknown": 1513,
-  "gift": 694
+  "unknown": 1529,
+  "known": 1645,
+  "gift": 481
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 4482
+   "members": 3655
   }
  ],
  "events": {
-  "new_members": 2276,
+  "new_members": 455,
   "rejoins": 0,
   "milestones": 0,
-  "gift_purchases": 91,
-  "gifted_total": 711,
-  "gift_redemptions": 694
+  "gift_purchases": 71,
+  "gifted_total": 493,
+  "gift_redemptions": 481
  },
  "tiers_configured": true,
  "tiers": [
@@ -40,21 +40,21 @@
    "tier": "そぴあの秘密基地",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 2275,
+   "confirmed_members": 1645,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1513.0,
-   "estimated_members": 3788.0,
-   "monthly_net_confirmed": 709386,
-   "monthly_net_estimated": 1181167
+   "allocated_unknown": 1529.0,
+   "estimated_members": 3174.0,
+   "monthly_net_confirmed": 512941,
+   "monthly_net_estimated": 989711
   }
  ],
  "revenue": {
-  "monthly_low": 1181167,
-  "monthly_est": 1181167,
-  "gift_once": 221703,
-  "total_low": 1402870,
-  "total_est": 1402870,
-  "paying_members": 3788,
+  "monthly_low": 989711,
+  "monthly_est": 989711,
+  "gift_once": 153726,
+  "total_low": 1143437,
+  "total_est": 1143437,
+  "paying_members": 3174,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -63,16 +63,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "3zTkZTOA_sw",
-   "start": "2026-10-24 20:31",
-   "title": "【告知アリ!?】デビュー１ヵ月記念 飲酒配信【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-   "kind": "配信",
-   "chatters": 4859,
-   "member_chatters": 2572,
-   "new_members": 1821,
-   "gifted_total": 218
-  },
   {
    "video_id": "0DqqjDma1wY",
    "start": "2026-10-25 20:01",
@@ -256,18 +246,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "T-TRM_0VEoc",
-   "start": "2026-10-24 22:15",
-   "title": "１ヵ月記念配信直後の初メン限配信【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "そぴあの秘密基地",
-   "like_count": 1542,
-   "view_count": null
-  },
-  {
    "video_id": "i-CFwzVIhFA",
    "start": "2026-11-03 01:01",
    "title": "【ゲリラメン限】作業配信【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
@@ -276,7 +254,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "そぴあの秘密基地",
-   "like_count": 1179,
+   "like_count": 1182,
    "view_count": null
   },
   {
@@ -288,29 +266,19 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "そぴあの秘密基地",
-   "like_count": 1415,
+   "like_count": 1421,
    "view_count": null
   }
  ],
  "members_only_content": [
   {
-   "video_id": "T-TRM_0VEoc",
-   "start": "2026-10-24 22:15",
-   "title": "１ヵ月記念配信直後の初メン限配信【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "そぴあの秘密基地",
-   "like_count": 1542,
-   "view_count": null
-  },
-  {
    "video_id": "i-CFwzVIhFA",
    "start": "2026-11-03 01:01",
    "title": "【ゲリラメン限】作業配信【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
    "kind": "live",
    "status": "members_only",
    "members_level": "そぴあの秘密基地",
-   "like_count": 1179,
+   "like_count": 1182,
    "view_count": null
   },
   {
@@ -320,7 +288,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "そぴあの秘密基地",
-   "like_count": 1415,
+   "like_count": 1421,
    "view_count": null
   }
  ],
@@ -401,7 +369,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-23"
+    "to": "2026-11-24"
    },
    "streams_analyzed": 12,
    "streams_missed": 2,

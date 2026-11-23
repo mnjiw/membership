@@ -2,43 +2,48 @@
  "channel": "ラクシャーナ",
  "channel_id": "UCc7uWNuJOXzzDT-ZV7Gf1dg",
  "handle": "@rc_ラクシャーナ",
- "subscribers": 82600,
- "fetched_at": "2026-11-23 06:44",
- "generated_at": "2026-11-23 06:44",
+ "subscribers": 83100,
+ "fetched_at": "2026-11-24 06:44",
+ "generated_at": "2026-11-24 06:45",
  "period": {
-  "from": "2026-10-24 06:44",
-  "to": "2026-11-23 06:44",
+  "from": "2026-10-25 06:44",
+  "to": "2026-11-24 06:44",
   "days": 30
  },
- "streams_analyzed": 14,
- "streams_missed": 3,
- "unique_chatters": 873,
- "members_confirmed": 269,
+ "streams_analyzed": 15,
+ "streams_missed": 1,
+ "unique_chatters": 1064,
+ "members_confirmed": 276,
  "member_classes": {
-  "unknown": 210,
-  "known": 59
+  "unknown": 216,
+  "known": 60
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 54
+   "members": 55
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 14
+   "members": 15
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 201
+   "members": 168
+  },
+  {
+   "months": 6,
+   "label": "6ヶ月",
+   "members": 38
   }
  ],
  "events": {
-  "new_members": 46,
-  "rejoins": 6,
-  "milestones": 7,
+  "new_members": 48,
+  "rejoins": 7,
+  "milestones": 6,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -49,12 +54,12 @@
    "tier": "ラクシャーナの召使い",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 11,
-   "share_of_confirmed_pct": 18.6,
-   "allocated_unknown": 39.2,
-   "estimated_members": 50.2,
-   "monthly_net_confirmed": 3430,
-   "monthly_net_estimated": 15638
+   "confirmed_members": 13,
+   "share_of_confirmed_pct": 21.7,
+   "allocated_unknown": 46.8,
+   "estimated_members": 59.8,
+   "monthly_net_confirmed": 4054,
+   "monthly_net_estimated": 18647
   },
   {
    "tier": "†ラクシャーナの側近†",
@@ -71,21 +76,21 @@
    "tier": "ラクシャーナの右腕👑🌹",
    "price": 3490,
    "net_per_member": 2220.9,
-   "confirmed_members": 48,
-   "share_of_confirmed_pct": 81.4,
-   "allocated_unknown": 170.8,
-   "estimated_members": 218.8,
-   "monthly_net_confirmed": 106604,
-   "monthly_net_estimated": 486040
+   "confirmed_members": 47,
+   "share_of_confirmed_pct": 78.3,
+   "allocated_unknown": 169.2,
+   "estimated_members": 216.2,
+   "monthly_net_confirmed": 104383,
+   "monthly_net_estimated": 480161
   }
  ],
  "revenue": {
-  "monthly_low": 175515,
-  "monthly_est": 501679,
+  "monthly_low": 175789,
+  "monthly_est": 498807,
   "gift_once": 0,
-  "total_low": 175515,
-  "total_est": 501679,
-  "paying_members": 269,
+  "total_low": 175789,
+  "total_est": 498807,
+  "paying_members": 276,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -94,16 +99,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "uzsi0FawkYg",
-   "start": "2026-10-24 10:01",
-   "title": "【Shadowverse: Worlds Beyond】叫んだら即終了ナイトメア研究所",
-   "kind": "配信",
-   "chatters": 88,
-   "member_chatters": 47,
-   "new_members": 3,
-   "gifted_total": 0
-  },
   {
    "video_id": "JvUGNt8XxaY",
    "start": "2026-10-26 00:10",
@@ -233,33 +228,29 @@
    "member_chatters": 48,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "iAn5ahHWIx0",
+   "start": "2026-11-23 19:00",
+   "title": "【 ストリートファイター6 】ヤスミン＆アルジュン本番行くぞ❕岩投げるぜ❕❕",
+   "kind": "配信",
+   "chatters": 80,
+   "member_chatters": 51,
+   "new_members": 1,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "7e0IGBbJzyo",
+   "start": "2026-11-23 23:48",
+   "title": "【OW】ハイゲに向けて触っておく❕ラインハルト…5年ぶりだな……",
+   "kind": "配信",
+   "chatters": 281,
+   "member_chatters": 49,
+   "new_members": 4,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
-  {
-   "video_id": "Bj_f9ClpjfI",
-   "start": "2026-10-25 00:44",
-   "title": "【 ASMR 】徐々にギリギリ限界を責めるオノマトペ💗/冒頭10分のみ無料💜",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "ラクシャーナの右腕👑🌹",
-   "like_count": 424,
-   "view_count": null
-  },
-  {
-   "video_id": "3iNlM0zS9wc",
-   "start": "2026-10-25 01:13",
-   "title": "【 ASMR 】徐々にギリギリ限界を責めるオノマトペ💗/冒頭10分のみ無料💜",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "ラクシャーナの右腕👑🌹",
-   "like_count": 115,
-   "view_count": null
-  },
   {
    "video_id": "bnHpvl-pjOE",
    "start": "2026-11-01 19:03",
@@ -273,28 +264,7 @@
    "view_count": null
   }
  ],
- "members_only_content": [
-  {
-   "video_id": "Bj_f9ClpjfI",
-   "start": "2026-10-25 00:44",
-   "title": "【 ASMR 】徐々にギリギリ限界を責めるオノマトペ💗/冒頭10分のみ無料💜",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "ラクシャーナの右腕👑🌹",
-   "like_count": 424,
-   "view_count": null
-  },
-  {
-   "video_id": "3iNlM0zS9wc",
-   "start": "2026-10-25 01:13",
-   "title": "【 ASMR 】徐々にギリギリ限界を責めるオノマトペ💗/冒頭10分のみ無料💜",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "ラクシャーナの右腕👑🌹",
-   "like_count": 115,
-   "view_count": null
-  }
- ],
+ "members_only_content": [],
  "history": [
   {
    "month": "2026-09",
@@ -407,34 +377,38 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-23"
+    "to": "2026-11-24"
    },
-   "streams_analyzed": 8,
+   "streams_analyzed": 10,
    "streams_missed": 1,
-   "unique_chatters": 425,
-   "members_confirmed": 151,
+   "unique_chatters": 672,
+   "members_confirmed": 175,
    "member_classes": {
-    "unknown": 125,
-    "known": 26
+    "unknown": 143,
+    "known": 32
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 22
+     "members": 25
     },
     {
      "months": 1,
-     "members": 4
+     "members": 6
     },
     {
      "months": 2,
-     "members": 125
+     "members": 106
+    },
+    {
+     "months": 6,
+     "members": 38
     }
    ],
    "events": {
-    "new_members": 20,
-    "rejoins": 0,
+    "new_members": 25,
+    "rejoins": 2,
     "milestones": 2,
     "gifted_total": 0
    },
@@ -442,8 +416,8 @@
     {
      "tier": "ラクシャーナの召使い",
      "price": 490,
-     "confirmed_members": 6,
-     "estimated_members": 34.8
+     "confirmed_members": 9,
+     "estimated_members": 49.2
     },
     {
      "tier": "†ラクシャーナの側近†",
@@ -454,16 +428,16 @@
     {
      "tier": "ラクシャーナの右腕👑🌹",
      "price": 3490,
-     "confirmed_members": 20,
-     "estimated_members": 116.2
+     "confirmed_members": 23,
+     "estimated_members": 125.8
     }
    ],
    "revenue": {
-    "monthly_low": 85266,
-    "monthly_est": 268833,
+    "monthly_low": 98477,
+    "monthly_est": 294696,
     "gift_once": 0
    },
-   "avg_member_chatters": 47,
+   "avg_member_chatters": 47.6,
    "partial": true,
    "finalized": false
   }

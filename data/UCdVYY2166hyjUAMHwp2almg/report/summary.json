@@ -3,16 +3,16 @@
  "channel_id": "UCdVYY2166hyjUAMHwp2almg",
  "handle": "@Mitsuba_Eni",
  "subscribers": 101000,
- "fetched_at": "2026-11-23 06:42",
- "generated_at": "2026-11-23 06:42",
+ "fetched_at": "2026-11-24 06:42",
+ "generated_at": "2026-11-24 06:42",
  "period": {
-  "from": "2026-10-24 06:42",
-  "to": "2026-11-23 06:42",
+  "from": "2026-10-25 06:42",
+  "to": "2026-11-24 06:42",
   "days": 30
  },
- "streams_analyzed": 30,
+ "streams_analyzed": 29,
  "streams_missed": 1,
- "unique_chatters": 1406,
+ "unique_chatters": 1383,
  "members_confirmed": 105,
  "member_classes": {
   "known": 30,
@@ -22,12 +22,12 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 12
+   "members": 14
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 9
+   "members": 8
   },
   {
    "months": 2,
@@ -37,7 +37,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 28
+   "members": 27
   },
   {
    "months": 12,
@@ -46,7 +46,7 @@
   }
  ],
  "events": {
-  "new_members": 7,
+  "new_members": 6,
   "rejoins": 0,
   "milestones": 11,
   "gift_purchases": 0,
@@ -82,26 +82,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "R3bRkgw8R-g",
-   "start": "2026-10-24 13:01",
-   "title": "【 APEX 】エニめとKamitoさん、フルパです！w/めと、Kamitoさん【ネオポルテ / 光葉エニ】",
-   "kind": "配信",
-   "chatters": 57,
-   "member_chatters": 21,
-   "new_members": 0,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "281V6STLgW4",
-   "start": "2026-10-24 20:01",
-   "title": "【 マスターデュエル】青銅ガチで目指します！！！！！【ネオポルテ / 光葉エニ】",
-   "kind": "配信",
-   "chatters": 168,
-   "member_chatters": 14,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "HtsTq0cvhOw",
    "start": "2026-10-25 12:04",
@@ -381,6 +361,16 @@
    "member_chatters": 25,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "h0E486HekOM",
+   "start": "2026-11-23 12:12",
+   "title": "【 APEX 】ランク上げます！！！！【ネオポルテ / 光葉エニ】",
+   "kind": "配信",
+   "chatters": 94,
+   "member_chatters": 18,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -516,21 +506,21 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-23"
+    "to": "2026-11-24"
    },
-   "streams_analyzed": 19,
+   "streams_analyzed": 20,
    "streams_missed": 1,
-   "unique_chatters": 862,
-   "members_confirmed": 96,
+   "unique_chatters": 898,
+   "members_confirmed": 98,
    "member_classes": {
-    "unknown": 68,
+    "unknown": 70,
     "known": 28
    },
    "long_term_members": 34,
    "badges": [
     {
      "months": 0,
-     "members": 10
+     "members": 12
     },
     {
      "months": 1,
@@ -560,15 +550,15 @@
      "tier": "エニマニア",
      "price": 490,
      "confirmed_members": 28,
-     "estimated_members": 96.0
+     "estimated_members": 98.0
     }
    ],
    "revenue": {
-    "monthly_low": 29935,
-    "monthly_est": 29935,
+    "monthly_low": 30558,
+    "monthly_est": 30558,
     "gift_once": 0
    },
-   "avg_member_chatters": 23.1,
+   "avg_member_chatters": 22.9,
    "partial": true,
    "finalized": false
   }

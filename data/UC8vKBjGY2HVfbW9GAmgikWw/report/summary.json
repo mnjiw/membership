@@ -3,19 +3,19 @@
  "channel_id": "UC8vKBjGY2HVfbW9GAmgikWw",
  "handle": "@Moka_Amayui",
  "subscribers": 299000,
- "fetched_at": "2026-11-23 06:36",
- "generated_at": "2026-11-23 06:37",
+ "fetched_at": "2026-11-24 06:36",
+ "generated_at": "2026-11-24 06:36",
  "period": {
-  "from": "2026-10-24 06:36",
-  "to": "2026-11-23 06:36",
+  "from": "2026-10-25 06:36",
+  "to": "2026-11-24 06:36",
   "days": 30
  },
- "streams_analyzed": 19,
+ "streams_analyzed": 20,
  "streams_missed": 2,
- "unique_chatters": 5828,
- "members_confirmed": 1533,
+ "unique_chatters": 5869,
+ "members_confirmed": 1537,
  "member_classes": {
-  "unknown": 1037,
+  "unknown": 1041,
   "known": 418,
   "gift": 78
  },
@@ -43,12 +43,12 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 506
+   "members": 505
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 246
+   "members": 251
   }
  ],
  "events": {
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 418,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1037.0,
-   "estimated_members": 1455.0,
+   "allocated_unknown": 1041.0,
+   "estimated_members": 1459.0,
    "monthly_net_confirmed": 130340,
-   "monthly_net_estimated": 453695
+   "monthly_net_estimated": 454943
   }
  ],
  "revenue": {
-  "monthly_low": 453695,
-  "monthly_est": 453695,
+  "monthly_low": 454943,
+  "monthly_est": 454943,
   "gift_once": 24322,
-  "total_low": 478017,
-  "total_est": 478017,
-  "paying_members": 1455,
+  "total_low": 479265,
+  "total_est": 479265,
+  "paying_members": 1459,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -277,6 +277,16 @@
    "member_chatters": 185,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "4lJ8o_moMX8",
+   "start": "2026-11-23 18:59",
+   "title": "【APEX】ぶいすぽGG本番！/　緋八マナさん、ハセシンさん　【 ぶいすぽっ！甘結もか 】",
+   "kind": "配信",
+   "chatters": 314,
+   "member_chatters": 198,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -289,7 +299,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 219,
+   "like_count": 220,
    "view_count": null
   },
   {
@@ -301,7 +311,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 257,
+   "like_count": 258,
    "view_count": null
   }
  ],
@@ -313,7 +323,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 219,
+   "like_count": 220,
    "view_count": null
   },
   {
@@ -323,7 +333,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 257,
+   "like_count": 258,
    "view_count": null
   }
  ],
@@ -445,18 +455,18 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-23"
+    "to": "2026-11-24"
    },
-   "streams_analyzed": 16,
+   "streams_analyzed": 17,
    "streams_missed": 0,
-   "unique_chatters": 5374,
-   "members_confirmed": 1497,
+   "unique_chatters": 5415,
+   "members_confirmed": 1501,
    "member_classes": {
-    "unknown": 1010,
+    "unknown": 1014,
     "known": 415,
     "gift": 72
    },
-   "long_term_members": 730,
+   "long_term_members": 734,
    "badges": [
     {
      "months": 0,
@@ -476,11 +486,11 @@
     },
     {
      "months": 12,
-     "members": 484
+     "members": 483
     },
     {
      "months": 24,
-     "members": 246
+     "members": 251
     }
    ],
    "events": {
@@ -494,15 +504,15 @@
      "tier": "もかサンド",
      "price": 490,
      "confirmed_members": 415,
-     "estimated_members": 1425.0
+     "estimated_members": 1429.0
     }
    ],
    "revenue": {
-    "monthly_low": 444341,
-    "monthly_est": 444341,
+    "monthly_low": 445588,
+    "monthly_est": 445588,
     "gift_once": 22451
    },
-   "avg_member_chatters": 275.9,
+   "avg_member_chatters": 271.3,
    "partial": true,
    "finalized": false
   }

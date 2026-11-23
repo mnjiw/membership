@@ -3,50 +3,50 @@
  "channel_id": "UCShXNLMXCfstmWKH_q86B8w",
  "handle": "@Kano_",
  "subscribers": 542000,
- "fetched_at": "2026-11-23 06:43",
- "generated_at": "2026-11-23 06:43",
+ "fetched_at": "2026-11-24 06:42",
+ "generated_at": "2026-11-24 06:42",
  "period": {
-  "from": "2026-10-24 06:43",
-  "to": "2026-11-23 06:43",
+  "from": "2026-10-25 06:42",
+  "to": "2026-11-24 06:42",
   "days": 30
  },
- "streams_analyzed": 19,
- "streams_missed": 1,
- "unique_chatters": 1531,
- "members_confirmed": 382,
+ "streams_analyzed": 17,
+ "streams_missed": 2,
+ "unique_chatters": 1403,
+ "members_confirmed": 362,
  "member_classes": {
   "known": 83,
-  "unknown": 261,
+  "unknown": 241,
   "gift": 38
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 89
+   "members": 88
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 21
+   "members": 18
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 143
+   "members": 131
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 129
+   "members": 125
   }
  ],
  "events": {
   "new_members": 18,
-  "rejoins": 1,
-  "milestones": 47,
-  "gift_purchases": 8,
-  "gifted_total": 39,
+  "rejoins": 0,
+  "milestones": 40,
+  "gift_purchases": 7,
+  "gifted_total": 38,
   "gift_redemptions": 38
  },
  "tiers_configured": true,
@@ -57,10 +57,10 @@
    "net_per_member": 184.5,
    "confirmed_members": 22,
    "share_of_confirmed_pct": 26.5,
-   "allocated_unknown": 69.2,
-   "estimated_members": 91.2,
+   "allocated_unknown": 63.9,
+   "estimated_members": 85.9,
    "monthly_net_confirmed": 4060,
-   "monthly_net_estimated": 16827
+   "monthly_net_estimated": 15849
   },
   {
    "tier": "鹿友",
@@ -68,19 +68,19 @@
    "net_per_member": 439.1,
    "confirmed_members": 61,
    "share_of_confirmed_pct": 73.5,
-   "allocated_unknown": 191.8,
-   "estimated_members": 252.8,
+   "allocated_unknown": 177.1,
+   "estimated_members": 238.1,
    "monthly_net_confirmed": 26785,
-   "monthly_net_estimated": 111011
+   "monthly_net_estimated": 104557
   }
  ],
  "revenue": {
-  "monthly_low": 79011,
-  "monthly_est": 127838,
-  "gift_once": 7197,
-  "total_low": 86208,
-  "total_est": 135035,
-  "paying_members": 344,
+  "monthly_low": 75320,
+  "monthly_est": 120405,
+  "gift_once": 7013,
+  "total_low": 82333,
+  "total_est": 127418,
+  "paying_members": 324,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -89,26 +89,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "e6acfMolexU",
-   "start": "2026-10-24 18:00",
-   "title": "奏（スキマスイッチ） - 鹿乃まほろ cover.",
-   "kind": "プレミア",
-   "chatters": 194,
-   "member_chatters": 74,
-   "new_members": 0,
-   "gifted_total": 1
-  },
-  {
-   "video_id": "6kkUuO04VaU",
-   "start": "2026-10-24 20:59",
-   "title": "【BOMBANANA】こまちゃんとメメちゃんと爆弾解除ゲーム！【鹿乃まほろ/ミリプロ】with 小廻こま・メーメントヴァニタス",
-   "kind": "配信",
-   "chatters": 155,
-   "member_chatters": 88,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "OFNccogcP44",
    "start": "2026-10-25 12:03",
@@ -292,6 +272,18 @@
    "members_level": "",
    "like_count": 566,
    "view_count": 14859
+  },
+  {
+   "video_id": "7ErM_QlcdcY",
+   "start": "2026-11-23 00:00",
+   "title": "【Apex Legends】ぶいすぽGG本番！れつご～！【鹿乃まほろ/ミリプロ】with / 秋雪こはく・絲依とい",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 589,
+   "view_count": 22197
   }
  ],
  "members_only_content": [],
@@ -411,10 +403,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-23"
+    "to": "2026-11-24"
    },
    "streams_analyzed": 14,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 1139,
    "members_confirmed": 294,
    "member_classes": {

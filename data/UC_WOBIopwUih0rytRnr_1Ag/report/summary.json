@@ -3,27 +3,27 @@
  "channel_id": "UC_WOBIopwUih0rytRnr_1Ag",
  "handle": "@Rui_Seshima",
  "subscribers": 60100,
- "fetched_at": "2026-11-23 06:34",
- "generated_at": "2026-11-23 06:34",
+ "fetched_at": "2026-11-24 06:33",
+ "generated_at": "2026-11-24 06:33",
  "period": {
-  "from": "2026-10-24 06:34",
-  "to": "2026-11-23 06:34",
+  "from": "2026-10-25 06:33",
+  "to": "2026-11-24 06:33",
   "days": 30
  },
- "streams_analyzed": 18,
+ "streams_analyzed": 16,
  "streams_missed": 2,
- "unique_chatters": 682,
- "members_confirmed": 185,
+ "unique_chatters": 600,
+ "members_confirmed": 174,
  "member_classes": {
-  "unknown": 95,
-  "known": 41,
-  "gift": 49
+  "unknown": 92,
+  "known": 39,
+  "gift": 43
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 50
+   "members": 47
   },
   {
    "months": 1,
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 21
+   "members": 18
   },
   {
    "months": 6,
@@ -43,36 +43,36 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 15
+   "members": 14
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 12
+   "members": 11
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 15
+   "members": 14
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 17
+   "members": 16
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 39
+   "members": 38
   }
  ],
  "events": {
   "new_members": 7,
   "rejoins": 3,
-  "milestones": 21,
-  "gift_purchases": 12,
-  "gifted_total": 49,
-  "gift_redemptions": 49
+  "milestones": 15,
+  "gift_purchases": 10,
+  "gifted_total": 43,
+  "gift_redemptions": 43
  },
  "tiers_configured": true,
  "tiers": [
@@ -80,21 +80,21 @@
    "tier": "ふぁみるい",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 41,
+   "confirmed_members": 39,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 95.0,
-   "estimated_members": 136.0,
-   "monthly_net_confirmed": 12785,
-   "monthly_net_estimated": 42407
+   "allocated_unknown": 92.0,
+   "estimated_members": 131.0,
+   "monthly_net_confirmed": 12161,
+   "monthly_net_estimated": 40848
   }
  ],
  "revenue": {
-  "monthly_low": 42407,
-  "monthly_est": 42407,
-  "gift_once": 15279,
-  "total_low": 57686,
-  "total_est": 57686,
-  "paying_members": 136,
+  "monthly_low": 40848,
+  "monthly_est": 40848,
+  "gift_once": 13408,
+  "total_low": 54256,
+  "total_est": 54256,
+  "paying_members": 131,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -103,26 +103,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "mMEcOkhM_sY",
-   "start": "2026-10-24 17:00",
-   "title": "【 難問⁉ 】ママから聞いた幼少期クイズに正解せよ🐶🎒【 瀬島るい┋ななしいんく】",
-   "kind": "配信",
-   "chatters": 81,
-   "member_chatters": 33,
-   "new_members": 0,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "qzSwswxROsE",
-   "start": "2026-10-24 23:31",
-   "title": "ゲリラ【 #歌枠 #karaoke 】緊　急　6　万　人　ま　で　あ　と　🎙 / Singing Stream 【  瀬島るい┋ななしいんく】",
-   "kind": "配信",
-   "chatters": 176,
-   "member_chatters": 64,
-   "new_members": 0,
-   "gifted_total": 6
-  },
   {
    "video_id": "-fYGorH71po",
    "start": "2026-10-27 12:11",
@@ -306,7 +286,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "ふぁみるい",
-   "like_count": 243,
+   "like_count": 244,
    "view_count": null
   }
  ],
@@ -328,7 +308,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "ふぁみるい",
-   "like_count": 243,
+   "like_count": 244,
    "view_count": null
   }
  ],
@@ -482,7 +462,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-23"
+    "to": "2026-11-24"
    },
    "streams_analyzed": 12,
    "streams_missed": 1,

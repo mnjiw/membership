@@ -3,19 +3,19 @@
  "channel_id": "UCyVypf7vg9KqoDiXkDIvetg",
  "handle": "@mishiomolf",
  "subscribers": 49100,
- "fetched_at": "2026-11-23 06:43",
- "generated_at": "2026-11-23 06:43",
+ "fetched_at": "2026-11-24 06:43",
+ "generated_at": "2026-11-24 06:43",
  "period": {
-  "from": "2026-10-24 06:43",
-  "to": "2026-11-23 06:43",
+  "from": "2026-10-25 06:43",
+  "to": "2026-11-24 06:43",
   "days": 30
  },
- "streams_analyzed": 18,
+ "streams_analyzed": 19,
  "streams_missed": 4,
- "unique_chatters": 779,
- "members_confirmed": 528,
+ "unique_chatters": 789,
+ "members_confirmed": 531,
  "member_classes": {
-  "unknown": 127,
+  "unknown": 130,
   "known": 5,
   "gift": 396
  },
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 59
+   "members": 60
   },
   {
    "months": 6,
@@ -43,12 +43,12 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 47
+   "members": 48
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 44
+   "members": 45
   }
  ],
  "events": {
@@ -67,10 +67,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 5,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 127.0,
-   "estimated_members": 132.0,
+   "allocated_unknown": 130.0,
+   "estimated_members": 135.0,
    "monthly_net_confirmed": 1559,
-   "monthly_net_estimated": 41160
+   "monthly_net_estimated": 42095
   },
   {
    "tier": "海汐海賊団　お掃除係",
@@ -107,12 +107,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 41160,
-  "monthly_est": 41160,
+  "monthly_low": 42095,
+  "monthly_est": 42095,
   "gift_once": 125039,
-  "total_low": 166199,
-  "total_est": 166199,
-  "paying_members": 132,
+  "total_low": 167135,
+  "total_est": 167135,
+  "paying_members": 135,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -298,6 +298,16 @@
    "kind": "配信",
    "chatters": 44,
    "member_chatters": 30,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "oqyGLMC0YSM",
+   "start": "2026-11-23 12:00",
+   "title": "#1【ゼルダの伝説 時のオカリナ】完全初見！名作と話題の時のオカリナやるぞ！！【海汐もるふ/Varium】",
+   "kind": "配信",
+   "chatters": 87,
+   "member_chatters": 53,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -538,30 +548,30 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-23"
+    "to": "2026-11-24"
    },
-   "streams_analyzed": 10,
+   "streams_analyzed": 11,
    "streams_missed": 3,
-   "unique_chatters": 291,
-   "members_confirmed": 160,
+   "unique_chatters": 317,
+   "members_confirmed": 169,
    "member_classes": {
     "known": 4,
-    "unknown": 115,
+    "unknown": 124,
     "gift": 41
    },
-   "long_term_members": 65,
+   "long_term_members": 70,
    "badges": [
     {
      "months": 0,
-     "members": 49
+     "members": 51
     },
     {
      "months": 1,
-     "members": 9
+     "members": 10
     },
     {
      "months": 2,
-     "members": 17
+     "members": 18
     },
     {
      "months": 6,
@@ -569,11 +579,11 @@
     },
     {
      "months": 12,
-     "members": 34
+     "members": 35
     },
     {
      "months": 24,
-     "members": 31
+     "members": 35
     }
    ],
    "events": {
@@ -587,7 +597,7 @@
      "tier": "海汐海賊団　見習い",
      "price": 490,
      "confirmed_members": 4,
-     "estimated_members": 119.0
+     "estimated_members": 128.0
     },
     {
      "tier": "海汐海賊団　お掃除係",
@@ -609,11 +619,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 37106,
-    "monthly_est": 37106,
+    "monthly_low": 39913,
+    "monthly_est": 39913,
     "gift_once": 12785
    },
-   "avg_member_chatters": 45.6,
+   "avg_member_chatters": 46.3,
    "partial": true,
    "finalized": false
   }

@@ -3,32 +3,32 @@
  "channel_id": "UCAHQGIKolfBfoeXXMY79SBA",
  "handle": "@ShironaShizuku",
  "subscribers": 151000,
- "fetched_at": "2026-11-23 06:42",
- "generated_at": "2026-11-23 06:42",
+ "fetched_at": "2026-11-24 06:41",
+ "generated_at": "2026-11-24 06:41",
  "period": {
-  "from": "2026-10-24 06:42",
-  "to": "2026-11-23 06:42",
+  "from": "2026-10-25 06:41",
+  "to": "2026-11-24 06:41",
   "days": 30
  },
  "streams_analyzed": 19,
  "streams_missed": 1,
- "unique_chatters": 1678,
- "members_confirmed": 329,
+ "unique_chatters": 1645,
+ "members_confirmed": 318,
  "member_classes": {
   "known": 121,
-  "unknown": 173,
-  "gift": 35
+  "unknown": 172,
+  "gift": 25
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 59
+   "members": 49
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 25
+   "members": 24
   },
   {
    "months": 2,
@@ -54,10 +54,10 @@
  "events": {
   "new_members": 14,
   "rejoins": 4,
-  "milestones": 70,
-  "gift_purchases": 4,
-  "gifted_total": 35,
-  "gift_redemptions": 35
+  "milestones": 68,
+  "gift_purchases": 3,
+  "gifted_total": 25,
+  "gift_redemptions": 25
  },
  "tiers_configured": true,
  "tiers": [
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 121,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 173.0,
-   "estimated_members": 294.0,
+   "allocated_unknown": 172.0,
+   "estimated_members": 293.0,
    "monthly_net_confirmed": 37730,
-   "monthly_net_estimated": 91675
+   "monthly_net_estimated": 91363
   }
  ],
  "revenue": {
-  "monthly_low": 91675,
-  "monthly_est": 91675,
-  "gift_once": 10914,
-  "total_low": 102588,
-  "total_est": 102588,
-  "paying_members": 294,
+  "monthly_low": 91363,
+  "monthly_est": 91363,
+  "gift_once": 7795,
+  "total_low": 99158,
+  "total_est": 99158,
+  "paying_members": 293,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "amc0_GNnAf4",
-   "start": "2026-10-24 23:44",
-   "title": "【 League of Legends #LTK】 物語が始動します w/えんてぃ先生【白那しずく / ネオポルテ】",
-   "kind": "配信",
-   "chatters": 135,
-   "member_chatters": 58,
-   "new_members": 1,
-   "gifted_total": 10
-  },
   {
    "video_id": "F4eueitxojI",
    "start": "2026-10-25 19:00",
@@ -277,6 +267,16 @@
    "member_chatters": 62,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "YUEs3H-7U6Q",
+   "start": "2026-11-23 18:55",
+   "title": "【 APEX 】ぶいすぽGG チャンピオンとるぞー！【白那しずく / ネオポルテ】",
+   "kind": "配信",
+   "chatters": 86,
+   "member_chatters": 65,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -430,30 +430,30 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-23"
+    "to": "2026-11-24"
    },
-   "streams_analyzed": 14,
+   "streams_analyzed": 15,
    "streams_missed": 1,
-   "unique_chatters": 1540,
-   "members_confirmed": 310,
+   "unique_chatters": 1545,
+   "members_confirmed": 311,
    "member_classes": {
     "unknown": 169,
-    "known": 116,
+    "known": 117,
     "gift": 25
    },
    "long_term_members": 161,
    "badges": [
     {
      "months": 0,
-     "members": 45
+     "members": 46
     },
     {
      "months": 1,
-     "members": 24
+     "members": 23
     },
     {
      "months": 2,
-     "members": 34
+     "members": 35
     },
     {
      "months": 6,
@@ -469,7 +469,7 @@
     }
    ],
    "events": {
-    "new_members": 11,
+    "new_members": 12,
     "rejoins": 4,
     "milestones": 65,
     "gifted_total": 25
@@ -478,16 +478,16 @@
     {
      "tier": "メンバーシップ",
      "price": 490,
-     "confirmed_members": 116,
-     "estimated_members": 285.0
+     "confirmed_members": 117,
+     "estimated_members": 286.0
     }
    ],
    "revenue": {
-    "monthly_low": 88868,
-    "monthly_est": 88868,
+    "monthly_low": 89180,
+    "monthly_est": 89180,
     "gift_once": 7795
    },
-   "avg_member_chatters": 70,
+   "avg_member_chatters": 69.7,
    "partial": true,
    "finalized": false
   }

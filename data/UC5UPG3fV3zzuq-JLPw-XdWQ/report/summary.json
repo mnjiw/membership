@@ -3,37 +3,37 @@
  "channel_id": "UC5UPG3fV3zzuq-JLPw-XdWQ",
  "handle": "@azusa_honami",
  "subscribers": 442000,
- "fetched_at": "2026-11-23 06:38",
- "generated_at": "2026-11-23 06:39",
+ "fetched_at": "2026-11-24 06:38",
+ "generated_at": "2026-11-24 06:39",
  "period": {
-  "from": "2026-10-24 06:38",
-  "to": "2026-11-23 06:38",
+  "from": "2026-10-25 06:38",
+  "to": "2026-11-24 06:38",
   "days": 30
  },
- "streams_analyzed": 16,
+ "streams_analyzed": 15,
  "streams_missed": 3,
- "unique_chatters": 3210,
- "members_confirmed": 375,
+ "unique_chatters": 2959,
+ "members_confirmed": 374,
  "member_classes": {
-  "unknown": 269,
-  "known": 39,
-  "gift": 67
+  "known": 38,
+  "unknown": 270,
+  "gift": 66
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 86
+   "members": 85
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 37
+   "members": 33
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 42
+   "members": 45
   },
   {
    "months": 12,
@@ -43,16 +43,16 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 95
+   "members": 96
   }
  ],
  "events": {
   "new_members": 4,
   "rejoins": 3,
-  "milestones": 12,
-  "gift_purchases": 8,
-  "gifted_total": 67,
-  "gift_redemptions": 67
+  "milestones": 11,
+  "gift_purchases": 7,
+  "gifted_total": 66,
+  "gift_redemptions": 66
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,20 +60,20 @@
    "tier": "ゲームセンターアジュール",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 39,
+   "confirmed_members": 38,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 269.0,
+   "allocated_unknown": 270.0,
    "estimated_members": 308.0,
-   "monthly_net_confirmed": 12161,
+   "monthly_net_confirmed": 11849,
    "monthly_net_estimated": 96040
   }
  ],
  "revenue": {
   "monthly_low": 96040,
   "monthly_est": 96040,
-  "gift_once": 20892,
-  "total_low": 116932,
-  "total_est": 116932,
+  "gift_once": 20580,
+  "total_low": 116620,
+  "total_est": 116620,
   "paying_members": 308,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -83,26 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "OsF_zMK-J2Q",
-   "start": "2026-10-24 14:01",
-   "title": "【ドンキーコングランド】あじゅの思い出のゲームする【 本阿弥あずさ / すぺしゃりて 】",
-   "kind": "配信",
-   "chatters": 785,
-   "member_chatters": 110,
-   "new_members": 1,
-   "gifted_total": 1
-  },
-  {
-   "video_id": "4ZpJpA6eEmQ",
-   "start": "2026-10-24 19:56",
-   "title": "【GUILTY GEAR -STRIVE-】令和最新版コンボ実装【 本阿弥あずさ / すぺしゃりて 】GGST",
-   "kind": "配信",
-   "chatters": 183,
-   "member_chatters": 64,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "Y8pjTjdPap0",
    "start": "2026-10-27 20:03",
@@ -242,6 +222,16 @@
    "member_chatters": 130,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "2ATkEPSQ8ac",
+   "start": "2026-11-23 19:57",
+   "title": "【深夜ドライブイン】1988年、ドライブイン【 本阿弥あずさ / すぺしゃりて 】Midnight Rest Stop",
+   "kind": "配信",
+   "chatters": 601,
+   "member_chatters": 125,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -278,7 +268,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 142,
+   "like_count": 143,
    "view_count": null
   }
  ],
@@ -310,7 +300,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 142,
+   "like_count": 143,
    "view_count": null
   }
  ],
@@ -432,22 +422,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-23"
+    "to": "2026-11-24"
    },
-   "streams_analyzed": 12,
+   "streams_analyzed": 13,
    "streams_missed": 1,
-   "unique_chatters": 2265,
-   "members_confirmed": 264,
+   "unique_chatters": 2511,
+   "members_confirmed": 279,
    "member_classes": {
-    "unknown": 229,
-    "known": 34,
+    "unknown": 240,
+    "known": 38,
     "gift": 1
    },
-   "long_term_members": 182,
+   "long_term_members": 189,
    "badges": [
     {
      "months": 0,
-     "members": 17
+     "members": 21
     },
     {
      "months": 2,
@@ -455,19 +445,19 @@
     },
     {
      "months": 6,
-     "members": 35
+     "members": 39
     },
     {
      "months": 12,
-     "members": 93
+     "members": 98
     },
     {
      "months": 24,
-     "members": 89
+     "members": 91
     }
    ],
    "events": {
-    "new_members": 2,
+    "new_members": 3,
     "rejoins": 2,
     "milestones": 10,
     "gifted_total": 1
@@ -476,16 +466,16 @@
     {
      "tier": "ゲームセンターアジュール",
      "price": 490,
-     "confirmed_members": 34,
-     "estimated_members": 263.0
+     "confirmed_members": 38,
+     "estimated_members": 278.0
     }
    ],
    "revenue": {
-    "monthly_low": 82008,
-    "monthly_est": 82008,
+    "monthly_low": 86685,
+    "monthly_est": 86685,
     "gift_once": 312
    },
-   "avg_member_chatters": 101.9,
+   "avg_member_chatters": 103.7,
    "partial": true,
    "finalized": false
   }

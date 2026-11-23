@@ -2,20 +2,20 @@
  "channel": "Arcana Ch. アルカナ・グリミィベア",
  "channel_id": "UCvj_cfALhRaO8dxa0Q6bgfg",
  "handle": "@ArcanaGrimmybear",
- "subscribers": 31200,
- "fetched_at": "2026-11-23 06:43",
- "generated_at": "2026-11-23 06:44",
+ "subscribers": 31300,
+ "fetched_at": "2026-11-24 06:43",
+ "generated_at": "2026-11-24 06:44",
  "period": {
-  "from": "2026-10-24 06:43",
-  "to": "2026-11-23 06:43",
+  "from": "2026-10-25 06:43",
+  "to": "2026-11-24 06:43",
   "days": 30
  },
  "streams_analyzed": 32,
  "streams_missed": 3,
- "unique_chatters": 1142,
- "members_confirmed": 716,
+ "unique_chatters": 1136,
+ "members_confirmed": 711,
  "member_classes": {
-  "unknown": 260,
+  "unknown": 255,
   "known": 17,
   "gift": 439
  },
@@ -23,17 +23,17 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 427
+   "members": 425
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 59
+   "members": 57
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 230
+   "members": 229
   }
  ],
  "events": {
@@ -52,10 +52,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 16,
    "share_of_confirmed_pct": 94.1,
-   "allocated_unknown": 244.7,
-   "estimated_members": 260.7,
+   "allocated_unknown": 240.0,
+   "estimated_members": 256.0,
    "monthly_net_confirmed": 4989,
-   "monthly_net_estimated": 81293
+   "monthly_net_estimated": 79825
   },
   {
    "tier": "📖 正式調査員 ✧",
@@ -63,10 +63,10 @@
    "net_per_member": 757.3,
    "confirmed_members": 1,
    "share_of_confirmed_pct": 5.9,
-   "allocated_unknown": 15.3,
-   "estimated_members": 16.3,
+   "allocated_unknown": 15.0,
+   "estimated_members": 16.0,
    "monthly_net_confirmed": 757,
-   "monthly_net_estimated": 12339
+   "monthly_net_estimated": 12116
   },
   {
    "tier": "🕯️ 特別調査官 ✧",
@@ -92,12 +92,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 86819,
-  "monthly_est": 93632,
+  "monthly_low": 85260,
+  "monthly_est": 91942,
   "gift_once": 137824,
-  "total_low": 224643,
-  "total_est": 231456,
-  "paying_members": 277,
+  "total_low": 223084,
+  "total_est": 229765,
+  "paying_members": 272,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -106,16 +106,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "T9ZbOEvXdrM",
-   "start": "2026-10-24 08:00",
-   "title": "【 FINAL FANTASY RESONANCE 】ファイナルファンタジーレゾナンス.ᐟ 話題の新作を全力でプレイするぞ✨ ※ネタバレ注意【アルカナ・グリミィベア/Varium】",
-   "kind": "配信",
-   "chatters": 195,
-   "member_chatters": 87,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "W5KLfQ8SIEE",
    "start": "2026-10-25 12:01",
@@ -425,6 +415,16 @@
    "member_chatters": 108,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "3BOxRv0ukbU",
+   "start": "2026-11-23 23:00",
+   "title": "【#ASMR/Ear Cleaning】Deep ear cleaning and whispers that help you sleep【Towel Massage/Ear Blowing】",
+   "kind": "配信",
+   "chatters": 126,
+   "member_chatters": 82,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -437,7 +437,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 167,
+   "like_count": 168,
    "view_count": null
   },
   {
@@ -473,7 +473,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 167,
+   "like_count": 168,
    "view_count": null
   },
   {
@@ -607,11 +607,11 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-23"
+    "to": "2026-11-24"
    },
-   "streams_analyzed": 23,
+   "streams_analyzed": 24,
    "streams_missed": 3,
-   "unique_chatters": 960,
+   "unique_chatters": 973,
    "members_confirmed": 684,
    "member_classes": {
     "unknown": 245,
@@ -670,7 +670,7 @@
     "monthly_est": 81073,
     "gift_once": 133146
    },
-   "avg_member_chatters": 122.8,
+   "avg_member_chatters": 121.1,
    "partial": true,
    "finalized": false
   }

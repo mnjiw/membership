@@ -3,19 +3,19 @@
  "channel_id": "UCPqswBEjZm3FdvOzPyDw9wg",
  "handle": "@AnonRemu",
  "subscribers": 47200,
- "fetched_at": "2026-11-23 06:43",
- "generated_at": "2026-11-23 06:43",
+ "fetched_at": "2026-11-24 06:43",
+ "generated_at": "2026-11-24 06:43",
  "period": {
-  "from": "2026-10-24 06:43",
-  "to": "2026-11-23 06:43",
+  "from": "2026-10-25 06:43",
+  "to": "2026-11-24 06:43",
   "days": 30
  },
- "streams_analyzed": 19,
+ "streams_analyzed": 20,
  "streams_missed": 0,
- "unique_chatters": 924,
- "members_confirmed": 520,
+ "unique_chatters": 940,
+ "members_confirmed": 521,
  "member_classes": {
-  "unknown": 157,
+  "unknown": 158,
   "known": 7,
   "gift": 356
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 270
+   "members": 267
   },
   {
    "months": 1,
@@ -33,17 +33,17 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 77
+   "members": 81
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 37
+   "members": 36
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 110
+   "members": 111
   }
  ],
  "events": {
@@ -62,10 +62,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 7,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 157.0,
-   "estimated_members": 164.0,
+   "allocated_unknown": 158.0,
+   "estimated_members": 165.0,
    "monthly_net_confirmed": 2183,
-   "monthly_net_estimated": 51138
+   "monthly_net_estimated": 51450
   },
   {
    "tier": "ししゃく",
@@ -102,12 +102,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 51138,
-  "monthly_est": 51138,
+  "monthly_low": 51450,
+  "monthly_est": 51450,
   "gift_once": 112878,
-  "total_low": 164016,
-  "total_est": 164016,
-  "paying_members": 164,
+  "total_low": 164328,
+  "total_est": 164328,
+  "paying_members": 165,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -305,6 +305,16 @@
    "member_chatters": 78,
    "new_members": 0,
    "gifted_total": 8
+  },
+  {
+   "video_id": "DnSKc8jSeIA",
+   "start": "2026-11-23 14:35",
+   "title": "\"Chatting\" Why though... [Remu Akine / Varium]",
+   "kind": "配信",
+   "chatters": 164,
+   "member_chatters": 84,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -445,30 +455,30 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-23"
+    "to": "2026-11-24"
    },
-   "streams_analyzed": 13,
+   "streams_analyzed": 14,
    "streams_missed": 0,
-   "unique_chatters": 623,
-   "members_confirmed": 427,
+   "unique_chatters": 648,
+   "members_confirmed": 431,
    "member_classes": {
-    "unknown": 173,
+    "unknown": 177,
     "known": 7,
     "gift": 247
    },
-   "long_term_members": 100,
+   "long_term_members": 101,
    "badges": [
     {
      "months": 0,
-     "members": 222
+     "members": 220
     },
     {
      "months": 1,
-     "members": 17
+     "members": 18
     },
     {
      "months": 2,
-     "members": 56
+     "members": 60
     },
     {
      "months": 6,
@@ -476,7 +486,7 @@
     },
     {
      "months": 12,
-     "members": 100
+     "members": 101
     }
    ],
    "events": {
@@ -490,7 +500,7 @@
      "tier": "だんしゃく",
      "price": 490,
      "confirmed_members": 7,
-     "estimated_members": 180.0
+     "estimated_members": 184.0
     },
     {
      "tier": "ししゃく",
@@ -512,11 +522,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 56127,
-    "monthly_est": 56127,
+    "monthly_low": 57375,
+    "monthly_est": 57375,
     "gift_once": 78578
    },
-   "avg_member_chatters": 91.4,
+   "avg_member_chatters": 90.9,
    "partial": true,
    "finalized": false
   }

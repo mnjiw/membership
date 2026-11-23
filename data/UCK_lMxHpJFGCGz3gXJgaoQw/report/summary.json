@@ -3,20 +3,20 @@
  "channel_id": "UCK_lMxHpJFGCGz3gXJgaoQw",
  "handle": "@lumi_yukime",
  "subscribers": 27500,
- "fetched_at": "2026-11-23 06:39",
- "generated_at": "2026-11-23 06:39",
+ "fetched_at": "2026-11-24 06:39",
+ "generated_at": "2026-11-24 06:39",
  "period": {
-  "from": "2026-10-24 06:39",
-  "to": "2026-11-23 06:39",
+  "from": "2026-10-25 06:39",
+  "to": "2026-11-24 06:39",
   "days": 30
  },
- "streams_analyzed": 24,
- "streams_missed": 1,
- "unique_chatters": 588,
+ "streams_analyzed": 23,
+ "streams_missed": 2,
+ "unique_chatters": 581,
  "members_confirmed": 240,
  "member_classes": {
-  "unknown": 47,
   "known": 7,
+  "unknown": 47,
   "gift": 186
  },
  "badges": [
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "mSpsA4IGUZM",
-   "start": "2026-10-24 21:32",
-   "title": "*❅ RUST┊オカネ カセグ！DAY4 #TABRUST〖 雪芽るみ┊すぺしゃりて 〗",
-   "kind": "配信",
-   "chatters": 35,
-   "member_chatters": 11,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "DYKBpQFfDcA",
    "start": "2026-10-25 22:16",
@@ -341,6 +331,18 @@
    "members_level": "",
    "like_count": 30,
    "view_count": null
+  },
+  {
+   "video_id": "vvR9wXSh-qc",
+   "start": "2026-11-23 22:01",
+   "title": "*❅ メン限┊MEMBERS ONLY.ᐟ まったり作業雑談〖 雪芽るみ┊すぺしゃりて 〗",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 36,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -362,6 +364,16 @@
    "status": "members_only_video",
    "members_level": "",
    "like_count": 50,
+   "view_count": null
+  },
+  {
+   "video_id": "vvR9wXSh-qc",
+   "start": "2026-11-23 22:01",
+   "title": "*❅ メン限┊MEMBERS ONLY.ᐟ まったり作業雑談〖 雪芽るみ┊すぺしゃりて 〗",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 36,
    "view_count": null
   }
  ],
@@ -491,10 +503,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-23"
+    "to": "2026-11-24"
    },
    "streams_analyzed": 19,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 325,
    "members_confirmed": 95,
    "member_classes": {

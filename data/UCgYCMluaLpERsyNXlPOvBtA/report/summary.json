@@ -3,16 +3,16 @@
  "channel_id": "UCgYCMluaLpERsyNXlPOvBtA",
  "handle": "@-kamitochannel-2486",
  "subscribers": 524000,
- "fetched_at": "2026-11-23 06:46",
- "generated_at": "2026-11-23 06:46",
+ "fetched_at": "2026-11-24 06:46",
+ "generated_at": "2026-11-24 06:46",
  "period": {
-  "from": "2026-10-24 06:46",
-  "to": "2026-11-23 06:46",
+  "from": "2026-10-25 06:46",
+  "to": "2026-11-24 06:46",
   "days": 30
  },
  "streams_analyzed": 10,
  "streams_missed": 0,
- "unique_chatters": 1832,
+ "unique_chatters": 1764,
  "members_confirmed": 231,
  "member_classes": {
   "unknown": 210,
@@ -38,7 +38,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 8
+   "members": 9
   },
   {
    "months": 12,
@@ -48,7 +48,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 168
+   "members": 167
   }
  ],
  "events": {
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "bFWFprk1GT8",
-   "start": "2026-10-24 13:02",
-   "title": "【ApexLegends】ふるぱｗ/エニ　めと【Kamito】",
-   "kind": "配信",
-   "chatters": 326,
-   "member_chatters": 81,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "cKIApN0V-Jw",
    "start": "2026-10-27 13:09",
@@ -185,6 +175,16 @@
    "kind": "配信",
    "chatters": 379,
    "member_chatters": 92,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "GtH6Pu_Pzgk",
+   "start": "2026-11-23 18:11",
+   "title": "[Apex Legends] Vspo GG w/ Inui-dono, Takaspe [Kamito]",
+   "kind": "配信",
+   "chatters": 112,
+   "member_chatters": 50,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -317,18 +317,18 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-23"
+    "to": "2026-11-24"
    },
-   "streams_analyzed": 8,
+   "streams_analyzed": 9,
    "streams_missed": 0,
-   "unique_chatters": 1715,
-   "members_confirmed": 225,
+   "unique_chatters": 1722,
+   "members_confirmed": 227,
    "member_classes": {
-    "unknown": 204,
+    "unknown": 206,
     "known": 16,
     "gift": 5
    },
-   "long_term_members": 187,
+   "long_term_members": 188,
    "badges": [
     {
      "months": 0,
@@ -344,7 +344,7 @@
     },
     {
      "months": 6,
-     "members": 8
+     "members": 9
     },
     {
      "months": 12,
@@ -352,7 +352,7 @@
     },
     {
      "months": 24,
-     "members": 163
+     "members": 164
     }
    ],
    "events": {
@@ -366,15 +366,15 @@
      "tier": "オタクのオタク",
      "price": 490,
      "confirmed_members": 16,
-     "estimated_members": 220.0
+     "estimated_members": 222.0
     }
    ],
    "revenue": {
-    "monthly_low": 68600,
-    "monthly_est": 68600,
+    "monthly_low": 69224,
+    "monthly_est": 69224,
     "gift_once": 1559
    },
-   "avg_member_chatters": 92.1,
+   "avg_member_chatters": 87.4,
    "partial": true,
    "finalized": false
   }

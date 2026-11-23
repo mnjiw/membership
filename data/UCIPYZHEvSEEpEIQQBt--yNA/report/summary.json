@@ -3,42 +3,42 @@
  "channel_id": "UCIPYZHEvSEEpEIQQBt--yNA",
  "handle": "@urara_ai",
  "subscribers": 20200,
- "fetched_at": "2026-11-23 06:39",
- "generated_at": "2026-11-23 06:40",
+ "fetched_at": "2026-11-24 06:39",
+ "generated_at": "2026-11-24 06:39",
  "period": {
-  "from": "2026-10-24 06:39",
-  "to": "2026-11-23 06:39",
+  "from": "2026-10-25 06:39",
+  "to": "2026-11-24 06:39",
   "days": 30
  },
  "streams_analyzed": 30,
  "streams_missed": 4,
- "unique_chatters": 1260,
+ "unique_chatters": 1258,
  "members_confirmed": 340,
  "member_classes": {
-  "known": 53,
   "unknown": 179,
+  "known": 53,
   "gift": 108
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 126
+   "members": 125
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 41
+   "members": 40
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 40
+   "members": 41
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 41
+   "members": 42
   },
   {
    "months": 12,
@@ -49,7 +49,7 @@
  "events": {
   "new_members": 9,
   "rejoins": 3,
-  "milestones": 17,
+  "milestones": 18,
   "gift_purchases": 17,
   "gifted_total": 108,
   "gift_redemptions": 108
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "AgRRISvTBdA",
-   "start": "2026-10-25 01:31",
-   "title": "【 スイカゲームDLC 】明日もはやおきな天使、スイカ作ったら寝ます【 あいうらら / すぺしゃりて 】",
-   "kind": "配信",
-   "chatters": 86,
-   "member_chatters": 61,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "6zv9QLaJv-M",
    "start": "2026-10-26 22:04",
@@ -382,6 +372,16 @@
    "member_chatters": 67,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "0T-wnF-26Xk",
+   "start": "2026-11-23 18:02",
+   "title": "【 ARK: Survival Ascended 】今日も全力ゆらら鯖！ワニノ神を育てたい＃７【 あいうらら / すぺしゃりて 】",
+   "kind": "配信",
+   "chatters": 128,
+   "member_chatters": 68,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -594,14 +594,14 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-23"
+    "to": "2026-11-24"
    },
-   "streams_analyzed": 22,
+   "streams_analyzed": 23,
    "streams_missed": 2,
-   "unique_chatters": 993,
-   "members_confirmed": 258,
+   "unique_chatters": 1001,
+   "members_confirmed": 259,
    "member_classes": {
-    "unknown": 191,
+    "unknown": 192,
     "known": 52,
     "gift": 15
    },
@@ -613,15 +613,15 @@
     },
     {
      "months": 1,
-     "members": 31
-    },
-    {
-     "months": 2,
      "members": 30
     },
     {
+     "months": 2,
+     "members": 31
+    },
+    {
      "months": 6,
-     "members": 39
+     "members": 40
     },
     {
      "months": 12,
@@ -631,7 +631,7 @@
    "events": {
     "new_members": 9,
     "rejoins": 2,
-    "milestones": 13,
+    "milestones": 14,
     "gifted_total": 15
    },
    "tiers": [
@@ -639,15 +639,15 @@
      "tier": "うららの天界",
      "price": 490,
      "confirmed_members": 52,
-     "estimated_members": 243.0
+     "estimated_members": 244.0
     }
    ],
    "revenue": {
-    "monthly_low": 75772,
-    "monthly_est": 75772,
+    "monthly_low": 76084,
+    "monthly_est": 76084,
     "gift_once": 4677
    },
-   "avg_member_chatters": 74.3,
+   "avg_member_chatters": 74.0,
    "partial": true,
    "finalized": false
   }

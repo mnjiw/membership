@@ -3,52 +3,52 @@
  "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
  "handle": "@KoboKanaeru",
  "subscribers": 2800000,
- "fetched_at": "2026-11-23 06:31",
- "generated_at": "2026-11-23 06:31",
+ "fetched_at": "2026-11-24 06:30",
+ "generated_at": "2026-11-24 06:31",
  "period": {
-  "from": "2026-10-24 06:31",
-  "to": "2026-11-23 06:31",
+  "from": "2026-10-25 06:30",
+  "to": "2026-11-24 06:30",
   "days": 30
  },
  "streams_analyzed": 8,
  "streams_missed": 1,
- "unique_chatters": 3721,
- "members_confirmed": 415,
+ "unique_chatters": 3900,
+ "members_confirmed": 439,
  "member_classes": {
-  "known": 120,
-  "unknown": 245,
+  "known": 123,
+  "unknown": 266,
   "gift": 50
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 165
+   "members": 170
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 16
+   "members": 18
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 21
+   "members": 25
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 36
+   "members": 39
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 47
+   "members": 53
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 43
+   "members": 45
   },
   {
    "months": 36,
@@ -58,15 +58,15 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 49
+   "members": 51
   }
  ],
  "events": {
   "new_members": 5,
-  "rejoins": 19,
-  "milestones": 42,
-  "gift_purchases": 7,
-  "gifted_total": 60,
+  "rejoins": 21,
+  "milestones": 47,
+  "gift_purchases": 6,
+  "gifted_total": 50,
   "gift_redemptions": 50
  },
  "tiers_configured": true,
@@ -75,32 +75,32 @@
    "tier": "Kobolonimbus",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 81,
-   "share_of_confirmed_pct": 67.5,
-   "allocated_unknown": 165.4,
-   "estimated_members": 246.4,
-   "monthly_net_confirmed": 25257,
-   "monthly_net_estimated": 76824
+   "confirmed_members": 82,
+   "share_of_confirmed_pct": 66.7,
+   "allocated_unknown": 177.3,
+   "estimated_members": 259.3,
+   "monthly_net_confirmed": 25569,
+   "monthly_net_estimated": 80865
   },
   {
    "tier": "Kobosphere",
    "price": 1090,
    "net_per_member": 693.6,
-   "confirmed_members": 39,
-   "share_of_confirmed_pct": 32.5,
-   "allocated_unknown": 79.6,
-   "estimated_members": 118.6,
-   "monthly_net_confirmed": 27052,
-   "monthly_net_estimated": 82283
+   "confirmed_members": 41,
+   "share_of_confirmed_pct": 33.3,
+   "allocated_unknown": 88.7,
+   "estimated_members": 129.7,
+   "monthly_net_confirmed": 28439,
+   "monthly_net_estimated": 89942
   }
  ],
  "revenue": {
-  "monthly_low": 128705,
-  "monthly_est": 159107,
-  "gift_once": 18709,
-  "total_low": 147414,
-  "total_est": 177816,
-  "paying_members": 365,
+  "monthly_low": 136952,
+  "monthly_est": 170806,
+  "gift_once": 15591,
+  "total_low": 152543,
+  "total_est": 186397,
+  "paying_members": 389,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -109,16 +109,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "h03mMhkVP_s",
-   "start": "2026-10-24 22:08",
-   "title": "【hololive Dreams】daily holodori #holodori #ホロドリ",
-   "kind": "配信",
-   "chatters": 398,
-   "member_chatters": 82,
-   "new_members": 0,
-   "gifted_total": 10
-  },
   {
    "video_id": "dAkUy8ScRNY",
    "start": "2026-10-25 22:01",
@@ -188,6 +178,16 @@
    "member_chatters": 124,
    "new_members": 1,
    "gifted_total": 5
+  },
+  {
+   "video_id": "KFy_qApQWas",
+   "start": "2026-11-23 19:01",
+   "title": "【hololive Dreams】LET ME WIN GRRRRRAAAAAAAAAAAA  #ホロドリトライアスロン",
+   "kind": "配信",
+   "chatters": 816,
+   "member_chatters": 161,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -200,7 +200,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 193,
+   "like_count": 195,
    "view_count": null
   }
  ],
@@ -212,7 +212,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 193,
+   "like_count": 195,
    "view_count": null
   }
  ],
@@ -364,42 +364,42 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-23"
+    "to": "2026-11-24"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 6,
    "streams_missed": 1,
-   "unique_chatters": 2886,
-   "members_confirmed": 351,
+   "unique_chatters": 3249,
+   "members_confirmed": 387,
    "member_classes": {
-    "known": 112,
-    "unknown": 209,
+    "known": 117,
+    "unknown": 240,
     "gift": 30
    },
-   "long_term_members": 162,
+   "long_term_members": 178,
    "badges": [
     {
      "months": 0,
-     "members": 122
+     "members": 130
     },
     {
      "months": 1,
-     "members": 12
+     "members": 16
     },
     {
      "months": 2,
-     "members": 20
+     "members": 24
     },
     {
      "months": 6,
-     "members": 35
+     "members": 39
     },
     {
      "months": 12,
-     "members": 42
+     "members": 50
     },
     {
      "months": 24,
-     "members": 40
+     "members": 44
     },
     {
      "months": 36,
@@ -407,35 +407,35 @@
     },
     {
      "months": 48,
-     "members": 45
+     "members": 49
     }
    ],
    "events": {
     "new_members": 5,
-    "rejoins": 17,
-    "milestones": 30,
+    "rejoins": 19,
+    "milestones": 37,
     "gifted_total": 30
    },
    "tiers": [
     {
      "tier": "Kobolonimbus",
      "price": 490,
-     "confirmed_members": 75,
-     "estimated_members": 215.0
+     "confirmed_members": 78,
+     "estimated_members": 238.0
     },
     {
      "tier": "Kobosphere",
      "price": 1090,
-     "confirmed_members": 37,
-     "estimated_members": 106.0
+     "confirmed_members": 39,
+     "estimated_members": 119.0
     }
    ],
    "revenue": {
-    "monthly_low": 114221,
-    "monthly_est": 140583,
+    "monthly_low": 126210,
+    "monthly_est": 156755,
     "gift_once": 9355
    },
-   "avg_member_chatters": 131.4,
+   "avg_member_chatters": 136.3,
    "partial": true,
    "finalized": false
   }

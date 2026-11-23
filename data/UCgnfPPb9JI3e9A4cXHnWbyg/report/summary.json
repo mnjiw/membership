@@ -3,61 +3,61 @@
  "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
  "handle": "@ShioriNovella",
  "subscribers": 759000,
- "fetched_at": "2026-11-23 06:32",
- "generated_at": "2026-11-23 06:32",
+ "fetched_at": "2026-11-24 06:31",
+ "generated_at": "2026-11-24 06:31",
  "period": {
-  "from": "2026-10-24 06:32",
-  "to": "2026-11-23 06:32",
+  "from": "2026-10-25 06:31",
+  "to": "2026-11-24 06:31",
   "days": 30
  },
- "streams_analyzed": 17,
+ "streams_analyzed": 15,
  "streams_missed": 5,
- "unique_chatters": 6461,
- "members_confirmed": 2116,
+ "unique_chatters": 5981,
+ "members_confirmed": 1991,
  "member_classes": {
-  "known": 613,
-  "unknown": 839,
-  "gift": 664
+  "unknown": 789,
+  "known": 588,
+  "gift": 614
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 725
+   "members": 667
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 56
+   "members": 51
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 177
+   "members": 165
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 152
+   "members": 138
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 326
+   "members": 308
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 680
+   "members": 662
   }
  ],
  "events": {
-  "new_members": 26,
-  "rejoins": 23,
-  "milestones": 363,
-  "gift_purchases": 201,
-  "gifted_total": 987,
-  "gift_redemptions": 665
+  "new_members": 19,
+  "rejoins": 19,
+  "milestones": 305,
+  "gift_purchases": 180,
+  "gifted_total": 896,
+  "gift_redemptions": 615
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,43 +65,43 @@
    "tier": "Page",
    "price": 390,
    "net_per_member": 248.2,
-   "confirmed_members": 65,
-   "share_of_confirmed_pct": 10.6,
-   "allocated_unknown": 89.0,
-   "estimated_members": 154.0,
-   "monthly_net_confirmed": 16132,
-   "monthly_net_estimated": 38211
+   "confirmed_members": 61,
+   "share_of_confirmed_pct": 10.4,
+   "allocated_unknown": 81.9,
+   "estimated_members": 142.9,
+   "monthly_net_confirmed": 15139,
+   "monthly_net_estimated": 35453
   },
   {
    "tier": "Bookwyrm",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 283,
-   "share_of_confirmed_pct": 46.2,
-   "allocated_unknown": 387.3,
-   "estimated_members": 670.3,
-   "monthly_net_confirmed": 124263,
-   "monthly_net_estimated": 294338
+   "confirmed_members": 270,
+   "share_of_confirmed_pct": 45.9,
+   "allocated_unknown": 362.3,
+   "estimated_members": 632.3,
+   "monthly_net_confirmed": 118555,
+   "monthly_net_estimated": 277635
   },
   {
    "tier": "Novelknights",
    "price": 1290,
    "net_per_member": 820.9,
-   "confirmed_members": 265,
-   "share_of_confirmed_pct": 43.2,
-   "allocated_unknown": 362.7,
-   "estimated_members": 627.7,
-   "monthly_net_confirmed": 217541,
-   "monthly_net_estimated": 515285
+   "confirmed_members": 257,
+   "share_of_confirmed_pct": 43.7,
+   "allocated_unknown": 344.9,
+   "estimated_members": 601.9,
+   "monthly_net_confirmed": 210974,
+   "monthly_net_estimated": 494066
   }
  ],
  "revenue": {
-  "monthly_low": 566160,
-  "monthly_est": 847834,
-  "gift_once": 244955,
-  "total_low": 811115,
-  "total_est": 1092790,
-  "paying_members": 1452,
+  "monthly_low": 540483,
+  "monthly_est": 807154,
+  "gift_once": 222371,
+  "total_low": 762854,
+  "total_est": 1029525,
+  "paying_members": 1377,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -110,26 +110,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "Ub1x7clOXr4",
-   "start": "2026-10-24 07:57",
-   "title": "Help I'm Stuck in a Roguelite Horror Game 【Withering Rooms】",
-   "kind": "配信",
-   "chatters": 1070,
-   "member_chatters": 490,
-   "new_members": 5,
-   "gifted_total": 50
-  },
-  {
-   "video_id": "eiuX72ejH6g",
-   "start": "2026-10-25 04:56",
-   "title": "The Vanishing of Ethan Carter 【Powered by Polish Video Game Days】#PVGD #ad",
-   "kind": "配信",
-   "chatters": 1060,
-   "member_chatters": 477,
-   "new_members": 2,
-   "gifted_total": 41
-  },
   {
    "video_id": "ATured4k3Jc",
    "start": "2026-10-28 05:56",
@@ -315,7 +295,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "Bookwyrm",
-   "like_count": 709,
+   "like_count": 713,
    "view_count": null
   },
   {
@@ -327,7 +307,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "Bookwyrm",
-   "like_count": 547,
+   "like_count": 550,
    "view_count": null
   },
   {
@@ -361,7 +341,7 @@
    "kind": "video",
    "status": "members_only_video",
    "members_level": "Novelknights",
-   "like_count": 249,
+   "like_count": 250,
    "view_count": null
   },
   {
@@ -381,7 +361,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "Bookwyrm",
-   "like_count": 709,
+   "like_count": 713,
    "view_count": null
   },
   {
@@ -391,7 +371,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "Bookwyrm",
-   "like_count": 547,
+   "like_count": 550,
    "view_count": null
   }
  ],
@@ -533,7 +513,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-23"
+    "to": "2026-11-24"
    },
    "streams_analyzed": 12,
    "streams_missed": 4,

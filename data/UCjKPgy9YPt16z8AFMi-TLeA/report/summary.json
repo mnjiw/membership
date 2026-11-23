@@ -3,19 +3,19 @@
  "channel_id": "UCjKPgy9YPt16z8AFMi-TLeA",
  "handle": "@_YuraYuragi",
  "subscribers": 302000,
- "fetched_at": "2026-11-23 11:52",
- "generated_at": "2026-11-23 11:52",
+ "fetched_at": "2026-11-24 06:42",
+ "generated_at": "2026-11-24 06:43",
  "period": {
-  "from": "2026-10-24 11:52",
-  "to": "2026-11-23 11:52",
+  "from": "2026-10-25 06:42",
+  "to": "2026-11-24 06:42",
   "days": 30
  },
- "streams_analyzed": 38,
- "streams_missed": 9,
- "unique_chatters": 4226,
- "members_confirmed": 410,
+ "streams_analyzed": 40,
+ "streams_missed": 8,
+ "unique_chatters": 4273,
+ "members_confirmed": 411,
  "member_classes": {
-  "unknown": 160,
+  "unknown": 161,
   "known": 158,
   "gift": 92
  },
@@ -23,12 +23,12 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 154
+   "members": 151
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 21
+   "members": 24
   },
   {
    "months": 2,
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 67
+   "members": 68
   },
   {
    "months": 24,
@@ -67,10 +67,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 107,
    "share_of_confirmed_pct": 67.7,
-   "allocated_unknown": 108.4,
-   "estimated_members": 215.4,
+   "allocated_unknown": 109.0,
+   "estimated_members": 216.0,
    "monthly_net_confirmed": 33365,
-   "monthly_net_estimated": 67151
+   "monthly_net_estimated": 67363
   },
   {
    "tier": "ゆらとASMR",
@@ -78,10 +78,10 @@
    "net_per_member": 2220.9,
    "confirmed_members": 37,
    "share_of_confirmed_pct": 23.4,
-   "allocated_unknown": 37.5,
-   "estimated_members": 74.5,
+   "allocated_unknown": 37.7,
+   "estimated_members": 74.7,
    "monthly_net_confirmed": 82174,
-   "monthly_net_estimated": 165387
+   "monthly_net_estimated": 165908
   },
   {
    "tier": "ゆらとシチュボ",
@@ -89,19 +89,19 @@
    "net_per_member": 3563.6,
    "confirmed_members": 14,
    "share_of_confirmed_pct": 8.9,
-   "allocated_unknown": 14.2,
-   "estimated_members": 28.2,
+   "allocated_unknown": 14.3,
+   "estimated_members": 28.3,
    "monthly_net_confirmed": 49891,
-   "monthly_net_estimated": 100413
+   "monthly_net_estimated": 100729
   }
  ],
  "revenue": {
-  "monthly_low": 215320,
-  "monthly_est": 332952,
+  "monthly_low": 215632,
+  "monthly_est": 333999,
   "gift_once": 29311,
-  "total_low": 244631,
-  "total_est": 362263,
-  "paying_members": 318,
+  "total_low": 244943,
+  "total_est": 363310,
+  "paying_members": 319,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -489,21 +489,29 @@
    "member_chatters": 48,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "NjmgbJIjQIg",
+   "start": "2026-11-23 15:14",
+   "title": "【APEX】キャラに操作慣れるぞ！【 ゆらぎゆら/ミリプロ 】",
+   "kind": "配信",
+   "chatters": 130,
+   "member_chatters": 46,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "DP2SU4mhoKc",
+   "start": "2026-11-23 18:12",
+   "title": "【 APEX 】ぶいすぽGGカスタム！笑顔でGGって言いたい！！！w/心白てと, 碧依さくら【 ゆらぎゆら/ミリプロ 】",
+   "kind": "配信",
+   "chatters": 148,
+   "member_chatters": 75,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
-  {
-   "video_id": "wj_S6f77RlY",
-   "start": "2026-10-24 21:00",
-   "title": "メン限┆雑談！！！！！！【ゆらぎゆら/ミリプロ】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "ゆらのえふぃら",
-   "like_count": 77,
-   "view_count": null
-  },
   {
    "video_id": "FZKajUYqaXs",
    "start": "2026-10-26 21:17",
@@ -603,16 +611,6 @@
  ],
  "members_only_content": [
   {
-   "video_id": "wj_S6f77RlY",
-   "start": "2026-10-24 21:00",
-   "title": "メン限┆雑談！！！！！！【ゆらぎゆら/ミリプロ】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "ゆらのえふぃら",
-   "like_count": 77,
-   "view_count": null
-  },
-  {
    "video_id": "FZKajUYqaXs",
    "start": "2026-10-26 21:17",
    "title": "メン限┆まったりさぎょつ",
@@ -639,7 +637,7 @@
    "kind": "video",
    "status": "members_only_video",
    "members_level": "ゆらとシチュボ",
-   "like_count": 12,
+   "like_count": 13,
    "view_count": null
   },
   {
@@ -841,26 +839,26 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-23"
+    "to": "2026-11-24"
    },
-   "streams_analyzed": 30,
+   "streams_analyzed": 32,
    "streams_missed": 7,
-   "unique_chatters": 3842,
-   "members_confirmed": 379,
+   "unique_chatters": 3890,
+   "members_confirmed": 380,
    "member_classes": {
     "known": 154,
-    "unknown": 153,
+    "unknown": 154,
     "gift": 72
    },
-   "long_term_members": 84,
+   "long_term_members": 85,
    "badges": [
     {
      "months": 0,
-     "members": 136
+     "members": 133
     },
     {
      "months": 1,
-     "members": 21
+     "members": 24
     },
     {
      "months": 2,
@@ -872,7 +870,7 @@
     },
     {
      "months": 12,
-     "members": 65
+     "members": 66
     },
     {
      "months": 24,
@@ -890,27 +888,27 @@
      "tier": "ゆらのえふぃら",
      "price": 490,
      "confirmed_members": 105,
-     "estimated_members": 209.3
+     "estimated_members": 210.0
     },
     {
      "tier": "ゆらとASMR",
      "price": 3490,
      "confirmed_members": 35,
-     "estimated_members": 69.8
+     "estimated_members": 70.0
     },
     {
      "tier": "ゆらとシチュボ",
      "price": 5600,
      "confirmed_members": 14,
-     "estimated_members": 27.9
+     "estimated_members": 28.0
     }
    ],
    "revenue": {
-    "monthly_low": 208072,
-    "monthly_est": 319686,
+    "monthly_low": 208384,
+    "monthly_est": 320727,
     "gift_once": 22763
    },
-   "avg_member_chatters": 83.0,
+   "avg_member_chatters": 81.6,
    "partial": true,
    "finalized": false
   }

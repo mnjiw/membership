@@ -3,76 +3,76 @@
  "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
  "handle": "@Robocosan",
  "subscribers": 1200000,
- "fetched_at": "2026-11-23 06:18",
- "generated_at": "2026-11-23 06:18",
+ "fetched_at": "2026-11-24 06:18",
+ "generated_at": "2026-11-24 06:18",
  "period": {
-  "from": "2026-10-24 06:18",
-  "to": "2026-11-23 06:18",
+  "from": "2026-10-25 06:18",
+  "to": "2026-11-24 06:18",
   "days": 30
  },
  "streams_analyzed": 13,
  "streams_missed": 1,
- "unique_chatters": 4516,
- "members_confirmed": 1294,
+ "unique_chatters": 4519,
+ "members_confirmed": 1287,
  "member_classes": {
-  "unknown": 593,
-  "known": 252,
-  "gift": 449
+  "known": 249,
+  "unknown": 595,
+  "gift": 443
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 500
+   "members": 492
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 33
+   "members": 30
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 102
+   "members": 109
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 107
+   "members": 109
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 200
+   "members": 199
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 92
+   "members": 93
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 62
+   "members": 59
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 51
+   "members": 50
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 147
+   "members": 146
   }
  ],
  "events": {
-  "new_members": 19,
+  "new_members": 20,
   "rejoins": 14,
   "milestones": 62,
-  "gift_purchases": 158,
-  "gifted_total": 458,
-  "gift_redemptions": 452
+  "gift_purchases": 153,
+  "gifted_total": 453,
+  "gift_redemptions": 446
  },
  "tiers_configured": true,
  "tiers": [
@@ -80,32 +80,32 @@
    "tier": "★ろぼさーへ★",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 176,
-   "share_of_confirmed_pct": 69.8,
-   "allocated_unknown": 414.2,
-   "estimated_members": 590.2,
-   "monthly_net_confirmed": 54880,
-   "monthly_net_estimated": 184022
+   "confirmed_members": 173,
+   "share_of_confirmed_pct": 69.5,
+   "allocated_unknown": 413.4,
+   "estimated_members": 586.4,
+   "monthly_net_confirmed": 53945,
+   "monthly_net_estimated": 182848
   },
   {
    "tier": "★高性能ろぼさ～へ★",
    "price": 1190,
    "net_per_member": 757.3,
    "confirmed_members": 76,
-   "share_of_confirmed_pct": 30.2,
-   "allocated_unknown": 178.8,
-   "estimated_members": 254.8,
+   "share_of_confirmed_pct": 30.5,
+   "allocated_unknown": 181.6,
+   "estimated_members": 257.6,
    "monthly_net_confirmed": 57553,
-   "monthly_net_estimated": 192984
+   "monthly_net_estimated": 195078
   }
  ],
  "revenue": {
-  "monthly_low": 297341,
-  "monthly_est": 377007,
-  "gift_once": 142813,
-  "total_low": 440154,
-  "total_est": 519819,
-  "paying_members": 845,
+  "monthly_low": 297029,
+  "monthly_est": 377926,
+  "gift_once": 141254,
+  "total_low": 438283,
+  "total_est": 519180,
+  "paying_members": 844,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -114,16 +114,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "Z5mEiQb_Fz8",
-   "start": "2026-10-24 21:19",
-   "title": "【 ＃ホロドリ】ふれあとそらちゃんとポカジャンするじゃん【ホロライブ/ ロボ子さん 】",
-   "kind": "配信",
-   "chatters": 417,
-   "member_chatters": 231,
-   "new_members": 0,
-   "gifted_total": 8
-  },
   {
    "video_id": "eM2gAjRhqtE",
    "start": "2026-10-25 20:01",
@@ -243,6 +233,16 @@
    "member_chatters": 296,
    "new_members": 2,
    "gifted_total": 30
+  },
+  {
+   "video_id": "PaAsnlNyf6s",
+   "start": "2026-11-23 18:57",
+   "title": "【#ホロドリトライアスロン】優勝いっけえええええええええ【ホロライブ/ ロボ子さん #ロボ子生放送】",
+   "kind": "配信",
+   "chatters": 522,
+   "member_chatters": 271,
+   "new_members": 1,
+   "gifted_total": 3
   }
  ],
  "missed_streams": [
@@ -255,7 +255,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 499,
+   "like_count": 501,
    "view_count": null
   }
  ],
@@ -267,7 +267,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 499,
+   "like_count": 501,
    "view_count": null
   }
  ],
@@ -444,46 +444,46 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-23"
+    "to": "2026-11-24"
    },
-   "streams_analyzed": 9,
+   "streams_analyzed": 10,
    "streams_missed": 1,
-   "unique_chatters": 3647,
-   "members_confirmed": 1094,
+   "unique_chatters": 3766,
+   "members_confirmed": 1121,
    "member_classes": {
-    "unknown": 512,
-    "known": 232,
-    "gift": 350
+    "unknown": 535,
+    "known": 233,
+    "gift": 353
    },
-   "long_term_members": 490,
+   "long_term_members": 504,
    "badges": [
     {
      "months": 0,
-     "members": 385
+     "members": 388
     },
     {
      "months": 1,
-     "members": 30
+     "members": 28
     },
     {
      "months": 2,
-     "members": 94
+     "members": 102
     },
     {
      "months": 6,
-     "members": 95
+     "members": 99
     },
     {
      "months": 12,
-     "members": 176
+     "members": 182
     },
     {
      "months": 24,
-     "members": 81
+     "members": 83
     },
     {
      "months": 36,
-     "members": 53
+     "members": 54
     },
     {
      "months": 48,
@@ -491,35 +491,35 @@
     },
     {
      "months": 60,
-     "members": 134
+     "members": 139
     }
    ],
    "events": {
-    "new_members": 15,
+    "new_members": 16,
     "rejoins": 11,
     "milestones": 47,
-    "gifted_total": 360
+    "gifted_total": 363
    },
    "tiers": [
     {
      "tier": "★ろぼさーへ★",
      "price": 490,
-     "confirmed_members": 162,
-     "estimated_members": 519.5
+     "confirmed_members": 163,
+     "estimated_members": 537.3
     },
     {
      "tier": "★高性能ろぼさ～へ★",
      "price": 1190,
      "confirmed_members": 70,
-     "estimated_members": 224.5
+     "estimated_members": 230.7
     }
    ],
    "revenue": {
-    "monthly_low": 263175,
-    "monthly_est": 331990,
-    "gift_once": 112255
+    "monthly_low": 270658,
+    "monthly_est": 342256,
+    "gift_once": 113190
    },
-   "avg_member_chatters": 289.3,
+   "avg_member_chatters": 287.5,
    "partial": true,
    "finalized": false
   }
