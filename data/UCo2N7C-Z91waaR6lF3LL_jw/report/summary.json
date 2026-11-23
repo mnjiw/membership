@@ -3,20 +3,20 @@
  "channel_id": "UCo2N7C-Z91waaR6lF3LL_jw",
  "handle": "@KaidaHaru",
  "subscribers": 744000,
- "fetched_at": "2026-11-23 05:25",
- "generated_at": "2026-11-23 05:27",
+ "fetched_at": "2026-11-24 05:27",
+ "generated_at": "2026-11-24 05:29",
  "period": {
-  "from": "2026-10-24 05:25",
-  "to": "2026-11-23 05:25",
+  "from": "2026-10-25 05:27",
+  "to": "2026-11-24 05:27",
   "days": 30
  },
- "streams_analyzed": 11,
- "streams_missed": 1,
- "unique_chatters": 5012,
- "members_confirmed": 2858,
+ "streams_analyzed": 12,
+ "streams_missed": 0,
+ "unique_chatters": 5177,
+ "members_confirmed": 2908,
  "member_classes": {
-  "unknown": 2767,
-  "known": 91
+  "unknown": 2816,
+  "known": 92
  },
  "badges": [
   {
@@ -32,36 +32,36 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 266
+   "members": 271
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 317
+   "members": 326
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 718
+   "members": 728
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 433
+   "members": 439
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 351
+   "members": 363
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 650
+   "members": 658
   }
  ],
  "events": {
-  "new_members": 44,
+  "new_members": 45,
   "rejoins": 17,
   "milestones": 0,
   "gift_purchases": 0,
@@ -75,31 +75,31 @@
    "price": 490,
    "net_per_member": 311.8,
    "confirmed_members": 58,
-   "share_of_confirmed_pct": 63.7,
-   "allocated_unknown": 1763.6,
-   "estimated_members": 1821.6,
+   "share_of_confirmed_pct": 63.0,
+   "allocated_unknown": 1775.3,
+   "estimated_members": 1833.3,
    "monthly_net_confirmed": 18085,
-   "monthly_net_estimated": 568003
+   "monthly_net_estimated": 571658
   },
   {
    "tier": "見習い助手コース",
    "price": 1190,
    "net_per_member": 757.3,
-   "confirmed_members": 33,
-   "share_of_confirmed_pct": 36.3,
-   "allocated_unknown": 1003.4,
-   "estimated_members": 1036.4,
-   "monthly_net_confirmed": 24990,
-   "monthly_net_estimated": 784851
+   "confirmed_members": 34,
+   "share_of_confirmed_pct": 37.0,
+   "allocated_unknown": 1040.7,
+   "estimated_members": 1074.7,
+   "monthly_net_confirmed": 25747,
+   "monthly_net_estimated": 813838
   }
  ],
  "revenue": {
-  "monthly_low": 905876,
-  "monthly_est": 1352853,
+  "monthly_low": 921913,
+  "monthly_est": 1385495,
   "gift_once": 0,
-  "total_low": 905876,
-  "total_est": 1352853,
-  "paying_members": 2858,
+  "total_low": 921913,
+  "total_est": 1385495,
+  "paying_members": 2908,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -217,34 +217,20 @@
    "member_chatters": 1042,
    "new_members": 3,
    "gifted_total": 0
-  }
- ],
- "missed_streams": [
+  },
   {
-   "video_id": "fQPKQETxX8k",
-   "start": "2026-10-24 22:00",
-   "title": "【メン限】ZAのサブミッションとか図鑑埋めする【甲斐田晴/にじさんじ】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "研修助手コース",
-   "like_count": 857,
-   "view_count": null
+   "video_id": "qEtn2gWNLL8",
+   "start": "2026-11-23 21:00",
+   "title": "【BOMBANANA!】VΔLZで例の爆弾解除【甲斐田晴/にじさんじ】",
+   "kind": "配信",
+   "chatters": 1316,
+   "member_chatters": 978,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
- "members_only_content": [
-  {
-   "video_id": "fQPKQETxX8k",
-   "start": "2026-10-24 22:00",
-   "title": "【メン限】ZAのサブミッションとか図鑑埋めする【甲斐田晴/にじさんじ】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "研修助手コース",
-   "like_count": 857,
-   "view_count": null
-  }
- ],
+ "missed_streams": [],
+ "members_only_content": [],
  "history": [
   {
    "month": "2026-09",
@@ -408,21 +394,21 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-23"
+    "to": "2026-11-24"
    },
-   "streams_analyzed": 7,
+   "streams_analyzed": 8,
    "streams_missed": 0,
-   "unique_chatters": 3718,
-   "members_confirmed": 2260,
+   "unique_chatters": 3940,
+   "members_confirmed": 2344,
    "member_classes": {
-    "unknown": 2188,
-    "known": 72
+    "unknown": 2270,
+    "known": 74
    },
-   "long_term_members": 1687,
+   "long_term_members": 1750,
    "badges": [
     {
      "months": 0,
-     "members": 58
+     "members": 59
     },
     {
      "months": 1,
@@ -430,31 +416,31 @@
     },
     {
      "months": 2,
-     "members": 214
+     "members": 223
     },
     {
      "months": 6,
-     "members": 271
+     "members": 282
     },
     {
      "months": 12,
-     "members": 568
+     "members": 587
     },
     {
      "months": 24,
-     "members": 335
+     "members": 348
     },
     {
      "months": 36,
-     "members": 262
+     "members": 278
     },
     {
      "months": 48,
-     "members": 522
+     "members": 537
     }
    ],
    "events": {
-    "new_members": 17,
+    "new_members": 18,
     "rejoins": 9,
     "milestones": 0,
     "gifted_total": 0
@@ -464,21 +450,21 @@
      "tier": "研修助手コース",
      "price": 490,
      "confirmed_members": 44,
-     "estimated_members": 1381.1
+     "estimated_members": 1393.7
     },
     {
      "tier": "見習い助手コース",
      "price": 1190,
-     "confirmed_members": 28,
-     "estimated_members": 878.9
+     "confirmed_members": 30,
+     "estimated_members": 950.3
     }
    ],
    "revenue": {
-    "monthly_low": 717182,
-    "monthly_est": 1096214,
+    "monthly_low": 744265,
+    "monthly_est": 1154204,
     "gift_once": 0
    },
-   "avg_member_chatters": 1042.6,
+   "avg_member_chatters": 1034.5,
    "partial": true,
    "finalized": false
   }

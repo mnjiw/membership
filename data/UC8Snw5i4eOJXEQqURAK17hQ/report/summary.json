@@ -3,27 +3,27 @@
  "channel_id": "UC8Snw5i4eOJXEQqURAK17hQ",
  "handle": "@RaiGalilei",
  "subscribers": 57900,
- "fetched_at": "2026-11-23 05:28",
- "generated_at": "2026-11-23 05:28",
+ "fetched_at": "2026-11-24 05:30",
+ "generated_at": "2026-11-24 05:30",
  "period": {
-  "from": "2026-10-24 05:28",
-  "to": "2026-11-23 05:28",
+  "from": "2026-10-25 05:30",
+  "to": "2026-11-24 05:30",
   "days": 30
  },
- "streams_analyzed": 29,
+ "streams_analyzed": 27,
  "streams_missed": 0,
- "unique_chatters": 282,
- "members_confirmed": 89,
+ "unique_chatters": 244,
+ "members_confirmed": 85,
  "member_classes": {
-  "unknown": 7,
-  "known": 5,
-  "gift": 77
+  "unknown": 9,
+  "gift": 72,
+  "known": 4
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 70
+   "members": 69
   },
   {
    "months": 1,
@@ -33,12 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 5
-  },
-  {
-   "months": 6,
-   "label": "6ヶ月",
-   "members": 1
+   "members": 4
   },
   {
    "months": 12,
@@ -48,16 +43,16 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 9
+   "members": 8
   }
  ],
  "events": {
   "new_members": 0,
   "rejoins": 2,
   "milestones": 1,
-  "gift_purchases": 16,
-  "gifted_total": 77,
-  "gift_redemptions": 77
+  "gift_purchases": 15,
+  "gifted_total": 72,
+  "gift_redemptions": 72
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +60,21 @@
    "tier": "A.I.D Program",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 5,
+   "confirmed_members": 4,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 7.0,
-   "estimated_members": 12.0,
-   "monthly_net_confirmed": 1559,
-   "monthly_net_estimated": 3742
+   "allocated_unknown": 9.0,
+   "estimated_members": 13.0,
+   "monthly_net_confirmed": 1247,
+   "monthly_net_estimated": 4054
   }
  ],
  "revenue": {
-  "monthly_low": 3742,
-  "monthly_est": 3742,
-  "gift_once": 24010,
-  "total_low": 27752,
-  "total_est": 27752,
-  "paying_members": 12,
+  "monthly_low": 4054,
+  "monthly_est": 4054,
+  "gift_once": 22451,
+  "total_low": 26505,
+  "total_est": 26505,
+  "paying_members": 13,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,26 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "UzC6lfgg_BU",
-   "start": "2026-10-24 23:16",
-   "title": "【Freetalk】 Rai Galilei's: \"Confusilei\"【NIJISANJI】",
-   "kind": "配信",
-   "chatters": 40,
-   "member_chatters": 9,
-   "new_members": 0,
-   "gifted_total": 5
-  },
-  {
-   "video_id": "C6xlb9h-iV0",
-   "start": "2026-10-25 00:57",
-   "title": "【Umigari】 Rai Galilei's: \"What a funny looking fish haha\"【NIJISANJI】",
-   "kind": "配信",
-   "chatters": 60,
-   "member_chatters": 6,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "7K7tpjMI3fA",
    "start": "2026-10-28 22:32",
@@ -518,7 +493,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-23"
+    "to": "2026-11-24"
    },
    "streams_analyzed": 19,
    "streams_missed": 0,

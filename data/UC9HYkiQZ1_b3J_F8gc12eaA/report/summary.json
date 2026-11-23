@@ -3,19 +3,19 @@
  "channel_id": "UC9HYkiQZ1_b3J_F8gc12eaA",
  "handle": "@TsukaharaDaichi_Y4T4",
  "subscribers": 124000,
- "fetched_at": "2026-11-23 05:33",
- "generated_at": "2026-11-23 05:34",
+ "fetched_at": "2026-11-24 05:37",
+ "generated_at": "2026-11-24 05:38",
  "period": {
-  "from": "2026-10-24 05:33",
-  "to": "2026-11-23 05:33",
+  "from": "2026-10-25 05:37",
+  "to": "2026-11-24 05:37",
   "days": 30
  },
  "streams_analyzed": 29,
  "streams_missed": 1,
- "unique_chatters": 2501,
- "members_confirmed": 394,
+ "unique_chatters": 2513,
+ "members_confirmed": 397,
  "member_classes": {
-  "unknown": 336,
+  "unknown": 339,
   "known": 57,
   "gift": 1
  },
@@ -23,21 +23,21 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 76
+   "members": 75
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 33
+   "members": 34
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 285
+   "members": 288
   }
  ],
  "events": {
-  "new_members": 41,
+  "new_members": 39,
   "rejoins": 6,
   "milestones": 0,
   "gift_purchases": 1,
@@ -52,19 +52,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 57,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 336.0,
-   "estimated_members": 393.0,
+   "allocated_unknown": 339.0,
+   "estimated_members": 396.0,
    "monthly_net_confirmed": 17774,
-   "monthly_net_estimated": 122545
+   "monthly_net_estimated": 123480
   }
  ],
  "revenue": {
-  "monthly_low": 122545,
-  "monthly_est": 122545,
+  "monthly_low": 123480,
+  "monthly_est": 123480,
   "gift_once": 312,
-  "total_low": 122856,
-  "total_est": 122856,
-  "paying_members": 393,
+  "total_low": 123792,
+  "total_est": 123792,
+  "paying_members": 396,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "6cakpwTREQM",
-   "start": "2026-10-24 19:04",
-   "title": "【OW】 #にじEX_OW パッションで勝つ。スクリムDAY2 W / D4P4【塚原大地 / にじさんじ】",
-   "kind": "配信",
-   "chatters": 117,
-   "member_chatters": 78,
-   "new_members": 2,
-   "gifted_total": 0
-  },
   {
    "video_id": "5hggbX7eyCI",
    "start": "2026-10-25 15:11",
@@ -362,6 +352,16 @@
    "member_chatters": 81,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "goxCls_V-1U",
+   "start": "2026-11-23 18:56",
+   "title": "【#ぶいすぽGG】本番いくぜ。フィジカルでフィジカルする。【塚原大地 / にじさんじ】",
+   "kind": "配信",
+   "chatters": 199,
+   "member_chatters": 108,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -374,7 +374,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 132,
+   "like_count": 133,
    "view_count": null
   }
  ],
@@ -386,7 +386,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 132,
+   "like_count": 133,
    "view_count": null
   }
  ],
@@ -501,14 +501,14 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-23"
+    "to": "2026-11-24"
    },
-   "streams_analyzed": 21,
+   "streams_analyzed": 22,
    "streams_missed": 1,
-   "unique_chatters": 1970,
-   "members_confirmed": 366,
+   "unique_chatters": 1993,
+   "members_confirmed": 369,
    "member_classes": {
-    "unknown": 318,
+    "unknown": 321,
     "known": 47,
     "gift": 1
    },
@@ -516,15 +516,15 @@
    "badges": [
     {
      "months": 0,
-     "members": 68
+     "members": 67
     },
     {
      "months": 1,
-     "members": 28
+     "members": 29
     },
     {
      "months": 2,
-     "members": 270
+     "members": 273
     }
    ],
    "events": {
@@ -538,15 +538,15 @@
      "tier": "つかズ",
      "price": 490,
      "confirmed_members": 47,
-     "estimated_members": 365.0
+     "estimated_members": 368.0
     }
    ],
    "revenue": {
-    "monthly_low": 113814,
-    "monthly_est": 113814,
+    "monthly_low": 114749,
+    "monthly_est": 114749,
     "gift_once": 312
    },
-   "avg_member_chatters": 96.5,
+   "avg_member_chatters": 97.0,
    "partial": true,
    "finalized": false
   }

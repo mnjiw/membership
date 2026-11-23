@@ -2,20 +2,20 @@
  "channel": "緋八マナ / Hibachi Mana【にじさんじ】",
  "channel_id": "UCqXxS-9x9Ha_UiH6hG4kh5Q",
  "handle": "@HibachiMana",
- "subscribers": 431000,
- "fetched_at": "2026-11-23 05:29",
- "generated_at": "2026-11-23 05:30",
+ "subscribers": 432000,
+ "fetched_at": "2026-11-24 05:32",
+ "generated_at": "2026-11-24 05:33",
  "period": {
-  "from": "2026-10-24 05:29",
-  "to": "2026-11-23 05:29",
+  "from": "2026-10-25 05:32",
+  "to": "2026-11-24 05:32",
   "days": 30
  },
- "streams_analyzed": 26,
+ "streams_analyzed": 27,
  "streams_missed": 2,
- "unique_chatters": 6643,
- "members_confirmed": 1994,
+ "unique_chatters": 6707,
+ "members_confirmed": 2007,
  "member_classes": {
-  "unknown": 1635,
+  "unknown": 1648,
   "known": 312,
   "gift": 47
  },
@@ -23,32 +23,32 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 286
+   "members": 287
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 100
+   "members": 102
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 292
+   "members": 295
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 366
+   "members": 368
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 577
+   "members": 578
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 240
+   "members": 244
   },
   {
    "months": 36,
@@ -72,19 +72,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 312,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1635.0,
-   "estimated_members": 1947.0,
+   "allocated_unknown": 1648.0,
+   "estimated_members": 1960.0,
    "monthly_net_confirmed": 97287,
-   "monthly_net_estimated": 607110
+   "monthly_net_estimated": 611164
   }
  ],
  "revenue": {
-  "monthly_low": 607110,
-  "monthly_est": 607110,
+  "monthly_low": 611164,
+  "monthly_est": 611164,
   "gift_once": 14655,
-  "total_low": 621765,
-  "total_est": 621765,
-  "paying_members": 1947,
+  "total_low": 625819,
+  "total_est": 625819,
+  "paying_members": 1960,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -352,6 +352,16 @@
    "member_chatters": 395,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "oESFTiuq8pU",
+   "start": "2026-11-23 18:02",
+   "title": "【APEX】大会本番！楽しくしゃべって勝つ！【にじさんじ/緋八マナ】",
+   "kind": "配信",
+   "chatters": 622,
+   "member_chatters": 420,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -547,42 +557,42 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-23"
+    "to": "2026-11-24"
    },
-   "streams_analyzed": 22,
+   "streams_analyzed": 23,
    "streams_missed": 0,
-   "unique_chatters": 6189,
-   "members_confirmed": 1906,
+   "unique_chatters": 6254,
+   "members_confirmed": 1919,
    "member_classes": {
-    "unknown": 1578,
+    "unknown": 1591,
     "known": 288,
     "gift": 40
    },
-   "long_term_members": 924,
+   "long_term_members": 929,
    "badges": [
     {
      "months": 0,
-     "members": 253
+     "members": 254
     },
     {
      "months": 1,
-     "members": 94
+     "members": 96
     },
     {
      "months": 2,
-     "members": 280
+     "members": 283
     },
     {
      "months": 6,
-     "members": 355
+     "members": 357
     },
     {
      "months": 12,
-     "members": 561
+     "members": 562
     },
     {
      "months": 24,
-     "members": 233
+     "members": 237
     },
     {
      "months": 36,
@@ -600,15 +610,15 @@
      "tier": "第マナ世代",
      "price": 490,
      "confirmed_members": 288,
-     "estimated_members": 1866.0
+     "estimated_members": 1879.0
     }
    ],
    "revenue": {
-    "monthly_low": 581853,
-    "monthly_est": 581853,
+    "monthly_low": 585906,
+    "monthly_est": 585906,
     "gift_once": 12473
    },
-   "avg_member_chatters": 441.5,
+   "avg_member_chatters": 440.5,
    "partial": true,
    "finalized": false
   }

@@ -3,16 +3,16 @@
  "channel_id": "UCRm6lqtdxs_Qo6HeL-SRQ-w",
  "handle": "@LainPaterson",
  "subscribers": 470000,
- "fetched_at": "2026-11-23 05:26",
- "generated_at": "2026-11-23 05:26",
+ "fetched_at": "2026-11-24 05:29",
+ "generated_at": "2026-11-24 05:29",
  "period": {
-  "from": "2026-10-24 05:26",
-  "to": "2026-11-23 05:26",
+  "from": "2026-10-25 05:29",
+  "to": "2026-11-24 05:29",
   "days": 30
  },
  "streams_analyzed": 20,
  "streams_missed": 1,
- "unique_chatters": 1147,
+ "unique_chatters": 1127,
  "members_confirmed": 81,
  "member_classes": {
   "unknown": 66,
@@ -66,7 +66,7 @@
   }
  ],
  "events": {
-  "new_members": 4,
+  "new_members": 5,
   "rejoins": 3,
   "milestones": 3,
   "gift_purchases": 0,
@@ -124,16 +124,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "E7NyQzGCqZM",
-   "start": "2026-10-24 07:59",
-   "title": "【 JUDGE EYES:死神の遺言 】完全初見！Chapter３から！｜＃03 ※ネタバレあり【 レイン・パターソン/にじさんじ 】",
-   "kind": "配信",
-   "chatters": 223,
-   "member_chatters": 22,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "GyT4p2ufRLU",
    "start": "2026-10-25 07:59",
@@ -323,6 +313,16 @@
    "member_chatters": 11,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "ro7szZukiFo",
+   "start": "2026-11-23 12:58",
+   "title": "【 JUDGE EYES:死神の遺言 】完全初見！Chapter11から！｜＃09 ※ネタバレあり【 レイン・パターソン/にじさんじ 】",
+   "kind": "配信",
+   "chatters": 166,
+   "member_chatters": 22,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -357,7 +357,7 @@
    "kind": "video",
    "status": "members_only_video",
    "members_level": "level4",
-   "like_count": 8,
+   "like_count": 9,
    "view_count": null
   }
  ],
@@ -546,21 +546,21 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-23"
+    "to": "2026-11-24"
    },
-   "streams_analyzed": 13,
+   "streams_analyzed": 14,
    "streams_missed": 0,
-   "unique_chatters": 691,
-   "members_confirmed": 71,
+   "unique_chatters": 754,
+   "members_confirmed": 72,
    "member_classes": {
     "unknown": 59,
-    "known": 12
+    "known": 13
    },
    "long_term_members": 59,
    "badges": [
     {
      "months": 0,
-     "members": 4
+     "members": 5
     },
     {
      "months": 2,
@@ -592,7 +592,7 @@
     }
    ],
    "events": {
-    "new_members": 3,
+    "new_members": 4,
     "rejoins": 0,
     "milestones": 1,
     "gifted_total": 0
@@ -601,28 +601,28 @@
     {
      "tier": "level1",
      "price": 490,
-     "confirmed_members": 4,
-     "estimated_members": 23.7
+     "confirmed_members": 5,
+     "estimated_members": 27.7
     },
     {
      "tier": "level2",
      "price": 1190,
      "confirmed_members": 2,
-     "estimated_members": 11.8
+     "estimated_members": 11.1
     },
     {
      "tier": "level4",
      "price": 6300,
      "confirmed_members": 6,
-     "estimated_members": 35.5
+     "estimated_members": 33.2
     }
    ],
    "revenue": {
-    "monthly_low": 45214,
-    "monthly_est": 158663,
+    "monthly_low": 45525,
+    "monthly_est": 150248,
     "gift_once": 0
    },
-   "avg_member_chatters": 21.3,
+   "avg_member_chatters": 21.4,
    "partial": true,
    "finalized": false
   }

@@ -3,41 +3,41 @@
  "channel_id": "UCFimqykDM5g9a5KxlW_e7ZQ",
  "handle": "@Onotora_Y4T4",
  "subscribers": 130000,
- "fetched_at": "2026-11-23 05:33",
- "generated_at": "2026-11-23 05:33",
+ "fetched_at": "2026-11-24 05:37",
+ "generated_at": "2026-11-24 05:38",
  "period": {
-  "from": "2026-10-24 05:33",
-  "to": "2026-11-23 05:33",
+  "from": "2026-10-25 05:37",
+  "to": "2026-11-24 05:37",
   "days": 30
  },
- "streams_analyzed": 25,
+ "streams_analyzed": 26,
  "streams_missed": 2,
- "unique_chatters": 2601,
- "members_confirmed": 410,
+ "unique_chatters": 2671,
+ "members_confirmed": 415,
  "member_classes": {
-  "unknown": 340,
-  "known": 49,
+  "unknown": 344,
+  "known": 50,
   "gift": 21
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 87
+   "members": 86
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 33
+   "members": 31
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 290
+   "members": 298
   }
  ],
  "events": {
-  "new_members": 36,
+  "new_members": 35,
   "rejoins": 3,
   "milestones": 0,
   "gift_purchases": 2,
@@ -50,21 +50,21 @@
    "tier": "オノヘッズ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 49,
+   "confirmed_members": 50,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 340.0,
-   "estimated_members": 389.0,
-   "monthly_net_confirmed": 15279,
-   "monthly_net_estimated": 121297
+   "allocated_unknown": 344.0,
+   "estimated_members": 394.0,
+   "monthly_net_confirmed": 15591,
+   "monthly_net_estimated": 122856
   }
  ],
  "revenue": {
-  "monthly_low": 121297,
-  "monthly_est": 121297,
+  "monthly_low": 122856,
+  "monthly_est": 122856,
   "gift_once": 6548,
-  "total_low": 127845,
-  "total_est": 127845,
-  "paying_members": 389,
+  "total_low": 129405,
+  "total_est": 129405,
+  "paying_members": 394,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "aAkCVUHHXZM",
-   "start": "2026-10-24 20:00",
-   "title": "【オーバーウォッチ】大会スクリム二日目！男虎ロボット爆進。　#わんおぺWIN  【 にじさんじ / 男虎】",
-   "kind": "配信",
-   "chatters": 175,
-   "member_chatters": 101,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "tuAZI-xlN4I",
    "start": "2026-10-25 15:00",
@@ -322,6 +312,26 @@
    "member_chatters": 107,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "GRYu5tc0Nck",
+   "start": "2026-11-23 22:03",
+   "title": "[Casual Chat] Creator Off-Collab [Nijisanji]",
+   "kind": "配信",
+   "chatters": 205,
+   "member_chatters": 109,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "pB__TPB5sGQ",
+   "start": "2026-11-23 22:23",
+   "title": "【雑談】くりえいたおふこらぼ【にじさんじ】",
+   "kind": "配信",
+   "chatters": 266,
+   "member_chatters": 125,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -485,22 +495,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-23"
+    "to": "2026-11-24"
    },
-   "streams_analyzed": 21,
+   "streams_analyzed": 23,
    "streams_missed": 1,
-   "unique_chatters": 2245,
-   "members_confirmed": 353,
+   "unique_chatters": 2329,
+   "members_confirmed": 362,
    "member_classes": {
-    "unknown": 305,
-    "known": 47,
+    "unknown": 313,
+    "known": 48,
     "gift": 1
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 67
+     "members": 66
     },
     {
      "months": 1,
@@ -508,7 +518,7 @@
     },
     {
      "months": 2,
-     "members": 257
+     "members": 267
     }
    ],
    "events": {
@@ -521,16 +531,16 @@
     {
      "tier": "オノヘッズ",
      "price": 490,
-     "confirmed_members": 47,
-     "estimated_members": 352.0
+     "confirmed_members": 48,
+     "estimated_members": 361.0
     }
    ],
    "revenue": {
-    "monthly_low": 109760,
-    "monthly_est": 109760,
+    "monthly_low": 112566,
+    "monthly_est": 112566,
     "gift_once": 312
    },
-   "avg_member_chatters": 105.6,
+   "avg_member_chatters": 106.6,
    "partial": true,
    "finalized": false
   }

@@ -2,21 +2,22 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-23"
+  "to": "2026-11-24"
  },
- "streams_analyzed": 19,
+ "streams_analyzed": 20,
  "streams_missed": 0,
- "unique_chatters": 1989,
- "members_confirmed": 845,
+ "unique_chatters": 2102,
+ "members_confirmed": 905,
  "member_classes": {
-  "unknown": 787,
-  "known": 58
+  "unknown": 836,
+  "known": 59,
+  "gift": 10
  },
- "long_term_members": 401,
+ "long_term_members": 441,
  "badges": [
   {
    "months": 0,
-   "members": 57
+   "members": 69
   },
   {
    "months": 1,
@@ -28,33 +29,33 @@
   },
   {
    "months": 6,
-   "members": 232
+   "members": 240
   },
   {
    "months": 12,
-   "members": 401
+   "members": 441
   }
  ],
  "events": {
-  "new_members": 25,
+  "new_members": 26,
   "rejoins": 11,
   "milestones": 0,
-  "gifted_total": 0
+  "gifted_total": 10
  },
  "tiers": [
   {
    "tier": "魔道の入門書",
    "price": 490,
-   "confirmed_members": 58,
-   "estimated_members": 845.0
+   "confirmed_members": 59,
+   "estimated_members": 895.0
   }
  ],
  "revenue": {
-  "monthly_low": 263486,
-  "monthly_est": 263486,
-  "gift_once": 0
+  "monthly_low": 279077,
+  "monthly_est": 279077,
+  "gift_once": 3118
  },
- "avg_member_chatters": 227.8,
+ "avg_member_chatters": 238.7,
  "partial": true,
  "finalized": false
 }

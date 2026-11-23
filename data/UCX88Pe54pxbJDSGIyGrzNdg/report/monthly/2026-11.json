@@ -2,22 +2,26 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-23"
+  "to": "2026-11-24"
  },
- "streams_analyzed": 3,
+ "streams_analyzed": 4,
  "streams_missed": 0,
- "unique_chatters": 288,
- "members_confirmed": 100,
+ "unique_chatters": 342,
+ "members_confirmed": 111,
  "member_classes": {
-  "unknown": 65,
-  "known": 20,
-  "gift": 15
+  "unknown": 69,
+  "known": 21,
+  "gift": 21
  },
- "long_term_members": 64,
+ "long_term_members": 66,
  "badges": [
   {
    "months": 0,
-   "members": 17
+   "members": 23
+  },
+  {
+   "months": 1,
+   "members": 1
   },
   {
    "months": 2,
@@ -25,7 +29,7 @@
   },
   {
    "months": 6,
-   "members": 6
+   "members": 8
   },
   {
    "months": 12,
@@ -37,33 +41,33 @@
   },
   {
    "months": 36,
-   "members": 9
+   "members": 10
   },
   {
    "months": 48,
-   "members": 30
+   "members": 31
   }
  ],
  "events": {
   "new_members": 2,
   "rejoins": 2,
-  "milestones": 14,
-  "gifted_total": 15
+  "milestones": 22,
+  "gifted_total": 21
  },
  "tiers": [
   {
    "tier": "🌸🌙 ケセラ魔法クラス🌟케세라 마법 클래스",
    "price": 490,
-   "confirmed_members": 20,
-   "estimated_members": 85.0
+   "confirmed_members": 21,
+   "estimated_members": 90.0
   }
  ],
  "revenue": {
-  "monthly_low": 26505,
-  "monthly_est": 26505,
-  "gift_once": 4677
+  "monthly_low": 28064,
+  "monthly_est": 28064,
+  "gift_once": 6548
  },
- "avg_member_chatters": 52.7,
+ "avg_member_chatters": 53,
  "partial": true,
  "finalized": false
 }

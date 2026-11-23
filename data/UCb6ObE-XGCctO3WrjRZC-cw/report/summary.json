@@ -3,19 +3,19 @@
  "channel_id": "UCb6ObE-XGCctO3WrjRZC-cw",
  "handle": "@LuisCammy",
  "subscribers": 257000,
- "fetched_at": "2026-11-23 11:44",
- "generated_at": "2026-11-23 11:44",
+ "fetched_at": "2026-11-24 05:25",
+ "generated_at": "2026-11-24 05:25",
  "period": {
-  "from": "2026-10-24 11:44",
-  "to": "2026-11-23 11:44",
+  "from": "2026-10-25 05:25",
+  "to": "2026-11-24 05:25",
   "days": 30
  },
- "streams_analyzed": 16,
+ "streams_analyzed": 17,
  "streams_missed": 2,
- "unique_chatters": 1829,
- "members_confirmed": 124,
+ "unique_chatters": 2113,
+ "members_confirmed": 127,
  "member_classes": {
-  "unknown": 100,
+  "unknown": 103,
   "known": 8,
   "gift": 16
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 17
+   "members": 16
   },
   {
    "months": 1,
@@ -33,12 +33,12 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 3
+   "members": 4
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 6
+   "members": 7
   },
   {
    "months": 12,
@@ -48,7 +48,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 85
+   "members": 87
   }
  ],
  "events": {
@@ -67,10 +67,10 @@
    "net_per_member": 439.1,
    "confirmed_members": 4,
    "share_of_confirmed_pct": 50.0,
-   "allocated_unknown": 50.0,
-   "estimated_members": 54.0,
+   "allocated_unknown": 51.5,
+   "estimated_members": 55.5,
    "monthly_net_confirmed": 1756,
-   "monthly_net_estimated": 23711
+   "monthly_net_estimated": 24370
   },
   {
    "tier": "ルイスの相棒",
@@ -78,19 +78,19 @@
    "net_per_member": 1266.4,
    "confirmed_members": 4,
    "share_of_confirmed_pct": 50.0,
-   "allocated_unknown": 50.0,
-   "estimated_members": 54.0,
+   "allocated_unknown": 51.5,
+   "estimated_members": 55.5,
    "monthly_net_confirmed": 5065,
-   "monthly_net_estimated": 68384
+   "monthly_net_estimated": 70283
   }
  ],
  "revenue": {
-  "monthly_low": 50731,
-  "monthly_est": 92095,
+  "monthly_low": 52048,
+  "monthly_est": 94653,
   "gift_once": 7025,
-  "total_low": 57756,
-  "total_est": 99120,
-  "paying_members": 108,
+  "total_low": 59074,
+  "total_est": 101678,
+  "paying_members": 111,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -256,6 +256,16 @@
    "kind": "配信",
    "chatters": 702,
    "member_chatters": 14,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "8sIsEIR025k",
+   "start": "2026-11-23 11:00",
+   "title": "大量に芋むきするゲーム【Potato Please/ルイス・キャミー/にじさんじ】",
+   "kind": "配信",
+   "chatters": 534,
+   "member_chatters": 56,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -456,29 +466,33 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-23"
+    "to": "2026-11-24"
    },
-   "streams_analyzed": 11,
+   "streams_analyzed": 12,
    "streams_missed": 1,
-   "unique_chatters": 1344,
-   "members_confirmed": 92,
+   "unique_chatters": 1676,
+   "members_confirmed": 100,
    "member_classes": {
-    "unknown": 84,
+    "unknown": 92,
     "known": 8
    },
-   "long_term_members": 81,
+   "long_term_members": 87,
    "badges": [
     {
      "months": 0,
-     "members": 2
+     "members": 1
+    },
+    {
+     "months": 1,
+     "members": 1
     },
     {
      "months": 2,
-     "members": 3
+     "members": 4
     },
     {
      "months": 6,
-     "members": 6
+     "members": 7
     },
     {
      "months": 12,
@@ -486,7 +500,7 @@
     },
     {
      "months": 24,
-     "members": 70
+     "members": 76
     }
    ],
    "events": {
@@ -500,21 +514,21 @@
      "tier": "怪盗団",
      "price": 690,
      "confirmed_members": 4,
-     "estimated_members": 46.0
+     "estimated_members": 50.0
     },
     {
      "tier": "ルイスの相棒",
      "price": 1990,
      "confirmed_members": 4,
-     "estimated_members": 46.0
+     "estimated_members": 50.0
     }
    ],
    "revenue": {
-    "monthly_low": 43705,
-    "monthly_est": 78451,
+    "monthly_low": 47218,
+    "monthly_est": 85273,
     "gift_once": 0
    },
-   "avg_member_chatters": 27.4,
+   "avg_member_chatters": 29.8,
    "partial": true,
    "finalized": false
   }

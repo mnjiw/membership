@@ -3,27 +3,27 @@
  "channel_id": "UCFtyinR2ZdvKK_Xgy07qXUg",
  "handle": "@MilanKestrel",
  "subscribers": 314000,
- "fetched_at": "2026-11-23 05:31",
- "generated_at": "2026-11-23 05:31",
+ "fetched_at": "2026-11-24 05:34",
+ "generated_at": "2026-11-24 05:35",
  "period": {
-  "from": "2026-10-24 05:31",
-  "to": "2026-11-23 05:31",
+  "from": "2026-10-25 05:34",
+  "to": "2026-11-24 05:34",
   "days": 30
  },
  "streams_analyzed": 25,
  "streams_missed": 0,
- "unique_chatters": 3948,
- "members_confirmed": 939,
+ "unique_chatters": 3939,
+ "members_confirmed": 985,
  "member_classes": {
-  "unknown": 872,
-  "known": 62,
-  "gift": 5
+  "unknown": 907,
+  "known": 63,
+  "gift": 15
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 67
+   "members": 79
   },
   {
    "months": 1,
@@ -33,26 +33,26 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 125
+   "members": 123
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 246
+   "members": 252
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 457
+   "members": 487
   }
  ],
  "events": {
-  "new_members": 27,
+  "new_members": 28,
   "rejoins": 13,
   "milestones": 0,
-  "gift_purchases": 1,
-  "gifted_total": 5,
-  "gift_redemptions": 5
+  "gift_purchases": 2,
+  "gifted_total": 15,
+  "gift_redemptions": 15
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,21 +60,21 @@
    "tier": "魔道の入門書",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 62,
+   "confirmed_members": 63,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 872.0,
-   "estimated_members": 934.0,
-   "monthly_net_confirmed": 19333,
-   "monthly_net_estimated": 291238
+   "allocated_unknown": 907.0,
+   "estimated_members": 970.0,
+   "monthly_net_confirmed": 19645,
+   "monthly_net_estimated": 302464
   }
  ],
  "revenue": {
-  "monthly_low": 291238,
-  "monthly_est": 291238,
-  "gift_once": 1559,
-  "total_low": 292797,
-  "total_est": 292797,
-  "paying_members": 934,
+  "monthly_low": 302464,
+  "monthly_est": 302464,
+  "gift_once": 4677,
+  "total_low": 307141,
+  "total_est": 307141,
+  "paying_members": 970,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "oJN1jcc_u6s",
-   "start": "2026-10-24 14:05",
-   "title": "【ACE COMBAT 8】シリーズ最新作！！　#３｜空よ、教えてくれ。 【にじさんじ/ミラン・ケストレル】　※ネバタレあり",
-   "kind": "配信",
-   "chatters": 321,
-   "member_chatters": 157,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "oJZb_XFoqQo",
    "start": "2026-10-25 23:04",
@@ -332,6 +322,16 @@
    "member_chatters": 232,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "Y8np9_11fYQ",
+   "start": "2026-11-23 22:12",
+   "title": "【記念雑談】 もう３年、まだ３年、如何にせよ素晴らしき時間さね。ありがとう、みんな。【にじさんじ/ミラン・ケストレル】",
+   "kind": "配信",
+   "chatters": 578,
+   "member_chatters": 444,
+   "new_members": 1,
+   "gifted_total": 10
   }
  ],
  "missed_streams": [],
@@ -465,21 +465,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-23"
+    "to": "2026-11-24"
    },
-   "streams_analyzed": 19,
+   "streams_analyzed": 20,
    "streams_missed": 0,
-   "unique_chatters": 1989,
-   "members_confirmed": 845,
+   "unique_chatters": 2102,
+   "members_confirmed": 905,
    "member_classes": {
-    "unknown": 787,
-    "known": 58
+    "unknown": 836,
+    "known": 59,
+    "gift": 10
    },
-   "long_term_members": 401,
+   "long_term_members": 441,
    "badges": [
     {
      "months": 0,
-     "members": 57
+     "members": 69
     },
     {
      "months": 1,
@@ -491,33 +492,33 @@
     },
     {
      "months": 6,
-     "members": 232
+     "members": 240
     },
     {
      "months": 12,
-     "members": 401
+     "members": 441
     }
    ],
    "events": {
-    "new_members": 25,
+    "new_members": 26,
     "rejoins": 11,
     "milestones": 0,
-    "gifted_total": 0
+    "gifted_total": 10
    },
    "tiers": [
     {
      "tier": "魔道の入門書",
      "price": 490,
-     "confirmed_members": 58,
-     "estimated_members": 845.0
+     "confirmed_members": 59,
+     "estimated_members": 895.0
     }
    ],
    "revenue": {
-    "monthly_low": 263486,
-    "monthly_est": 263486,
-    "gift_once": 0
+    "monthly_low": 279077,
+    "monthly_est": 279077,
+    "gift_once": 3118
    },
-   "avg_member_chatters": 227.8,
+   "avg_member_chatters": 238.7,
    "partial": true,
    "finalized": false
   }
