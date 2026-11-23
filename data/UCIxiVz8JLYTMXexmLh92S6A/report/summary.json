@@ -3,19 +3,19 @@
  "channel_id": "UCIxiVz8JLYTMXexmLh92S6A",
  "handle": "@PurinLalaMode",
  "subscribers": 95900,
- "fetched_at": "2026-11-23 05:34",
- "generated_at": "2026-11-23 05:34",
+ "fetched_at": "2026-11-23 11:45",
+ "generated_at": "2026-11-23 11:46",
  "period": {
-  "from": "2026-10-24 05:34",
-  "to": "2026-11-23 05:34",
+  "from": "2026-10-24 11:45",
+  "to": "2026-11-23 11:45",
   "days": 30
  },
- "streams_analyzed": 21,
- "streams_missed": 1,
- "unique_chatters": 2130,
- "members_confirmed": 155,
+ "streams_analyzed": 22,
+ "streams_missed": 0,
+ "unique_chatters": 2154,
+ "members_confirmed": 156,
  "member_classes": {
-  "unknown": 114,
+  "unknown": 115,
   "known": 40,
   "gift": 1
  },
@@ -23,17 +23,17 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 41
+   "members": 40
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 17
+   "members": 18
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 97
+   "members": 98
   }
  ],
  "events": {
@@ -52,19 +52,19 @@
    "net_per_member": 439.1,
    "confirmed_members": 40,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 114.0,
-   "estimated_members": 154.0,
+   "allocated_unknown": 115.0,
+   "estimated_members": 155.0,
    "monthly_net_confirmed": 17564,
-   "monthly_net_estimated": 67620
+   "monthly_net_estimated": 68059
   }
  ],
  "revenue": {
-  "monthly_low": 67620,
-  "monthly_est": 67620,
+  "monthly_low": 68059,
+  "monthly_est": 68059,
   "gift_once": 439,
-  "total_low": 68059,
-  "total_est": 68059,
-  "paying_members": 154,
+  "total_low": 68498,
+  "total_est": 68498,
+  "paying_members": 155,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -282,22 +282,19 @@
    "member_chatters": 24,
    "new_members": 1,
    "gifted_total": 0
-  }
- ],
- "missed_streams": [
+  },
   {
    "video_id": "qdAhrzGibJM",
-   "start": "2026-11-22 00:00",
-   "title": "【Kawaii女子会】始まってるぞQoo10メガ割！まだ間に合えーみんなでメガ割り作戦会議🍮💌【ぷりん・らら・もーど / にじさんじ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 473,
-   "view_count": 11899
+   "start": "2026-11-22 21:02",
+   "title": "[Kawaii Girls' Night] The Qoo10 Mega Sale is on! It's not too late—let's have a Mega Sale strateg...",
+   "kind": "配信",
+   "chatters": 91,
+   "member_chatters": 32,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -410,12 +407,12 @@
     "from": "2026-11-01",
     "to": "2026-11-23"
    },
-   "streams_analyzed": 15,
-   "streams_missed": 1,
-   "unique_chatters": 1792,
-   "members_confirmed": 132,
+   "streams_analyzed": 16,
+   "streams_missed": 0,
+   "unique_chatters": 1818,
+   "members_confirmed": 134,
    "member_classes": {
-    "unknown": 94,
+    "unknown": 96,
     "known": 37,
     "gift": 1
    },
@@ -423,15 +420,15 @@
    "badges": [
     {
      "months": 0,
-     "members": 37
+     "members": 36
     },
     {
      "months": 1,
-     "members": 12
+     "members": 13
     },
     {
      "months": 2,
-     "members": 83
+     "members": 85
     }
    ],
    "events": {
@@ -445,15 +442,15 @@
      "tier": "ぷりんのおともだち",
      "price": 690,
      "confirmed_members": 37,
-     "estimated_members": 131.0
+     "estimated_members": 133.0
     }
    ],
    "revenue": {
-    "monthly_low": 57521,
-    "monthly_est": 57521,
+    "monthly_low": 58399,
+    "monthly_est": 58399,
     "gift_once": 439
    },
-   "avg_member_chatters": 39.7,
+   "avg_member_chatters": 39.2,
    "partial": true,
    "finalized": false
   }

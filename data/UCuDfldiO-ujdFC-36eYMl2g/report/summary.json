@@ -3,16 +3,16 @@
  "channel_id": "UCuDfldiO-ujdFC-36eYMl2g",
  "handle": "@Coco_Jester",
  "subscribers": 16800,
- "fetched_at": "2026-11-23 06:35",
- "generated_at": "2026-11-23 06:35",
+ "fetched_at": "2026-11-23 11:49",
+ "generated_at": "2026-11-23 11:50",
  "period": {
-  "from": "2026-10-24 06:35",
-  "to": "2026-11-23 06:35",
+  "from": "2026-10-24 11:49",
+  "to": "2026-11-23 11:49",
   "days": 30
  },
- "streams_analyzed": 15,
+ "streams_analyzed": 16,
  "streams_missed": 1,
- "unique_chatters": 482,
+ "unique_chatters": 489,
  "members_confirmed": 162,
  "member_classes": {
   "unknown": 108,
@@ -23,12 +23,12 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 27
+   "members": 26
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 30
+   "members": 31
   },
   {
    "months": 2,
@@ -222,6 +222,16 @@
    "member_chatters": 44,
    "new_members": 1,
    "gifted_total": 5
+  },
+  {
+   "video_id": "FD7hmUjGhKc",
+   "start": "2026-11-23 06:00",
+   "title": "祝日、布団でぬくぬくな朝 【 ＃ここモニコ / ここ・じぇす汰 / ななしいんく】",
+   "kind": "配信",
+   "chatters": 84,
+   "member_chatters": 46,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -354,12 +364,12 @@
     "from": "2026-11-01",
     "to": "2026-11-23"
    },
-   "streams_analyzed": 11,
+   "streams_analyzed": 12,
    "streams_missed": 1,
-   "unique_chatters": 419,
-   "members_confirmed": 141,
+   "unique_chatters": 428,
+   "members_confirmed": 142,
    "member_classes": {
-    "unknown": 96,
+    "unknown": 97,
     "known": 28,
     "gift": 17
    },
@@ -367,15 +377,15 @@
    "badges": [
     {
      "months": 0,
-     "members": 22
-    },
-    {
-     "months": 1,
      "members": 21
     },
     {
+     "months": 1,
+     "members": 22
+    },
+    {
      "months": 2,
-     "members": 98
+     "members": 99
     }
    ],
    "events": {
@@ -389,15 +399,15 @@
      "tier": "じぇす汰のおやつ",
      "price": 490,
      "confirmed_members": 28,
-     "estimated_members": 124.0
+     "estimated_members": 125.0
     }
    ],
    "revenue": {
-    "monthly_low": 38665,
-    "monthly_est": 38665,
+    "monthly_low": 38977,
+    "monthly_est": 38977,
     "gift_once": 5301
    },
-   "avg_member_chatters": 49.4,
+   "avg_member_chatters": 49.1,
    "partial": true,
    "finalized": false
   }

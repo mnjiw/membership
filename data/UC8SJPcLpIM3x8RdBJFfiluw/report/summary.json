@@ -3,27 +3,27 @@
  "channel_id": "UC8SJPcLpIM3x8RdBJFfiluw",
  "handle": "@Kaisei_nijisanji",
  "subscribers": 367000,
- "fetched_at": "2026-11-23 05:31",
- "generated_at": "2026-11-23 05:31",
+ "fetched_at": "2026-11-23 11:45",
+ "generated_at": "2026-11-23 11:45",
  "period": {
-  "from": "2026-10-24 05:31",
-  "to": "2026-11-23 05:31",
+  "from": "2026-10-24 11:45",
+  "to": "2026-11-23 11:45",
   "days": 30
  },
- "streams_analyzed": 34,
+ "streams_analyzed": 35,
  "streams_missed": 1,
- "unique_chatters": 7577,
- "members_confirmed": 1351,
+ "unique_chatters": 7699,
+ "members_confirmed": 1368,
  "member_classes": {
-  "unknown": 1195,
-  "known": 64,
-  "gift": 92
+  "unknown": 1210,
+  "known": 65,
+  "gift": 93
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 154
+   "members": 156
   },
   {
    "months": 1,
@@ -33,26 +33,26 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 160
+   "members": 162
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 187
+   "members": 190
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 805
+   "members": 815
   }
  ],
  "events": {
-  "new_members": 31,
+  "new_members": 32,
   "rejoins": 16,
   "milestones": 0,
-  "gift_purchases": 7,
-  "gifted_total": 98,
-  "gift_redemptions": 92
+  "gift_purchases": 8,
+  "gifted_total": 99,
+  "gift_redemptions": 93
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,21 +60,21 @@
    "tier": "ファンキーな錠連",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 64,
+   "confirmed_members": 65,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1195.0,
-   "estimated_members": 1259.0,
-   "monthly_net_confirmed": 19956,
-   "monthly_net_estimated": 392579
+   "allocated_unknown": 1210.0,
+   "estimated_members": 1275.0,
+   "monthly_net_confirmed": 20268,
+   "monthly_net_estimated": 397568
   }
  ],
  "revenue": {
-  "monthly_low": 392579,
-  "monthly_est": 392579,
-  "gift_once": 30558,
-  "total_low": 423137,
-  "total_est": 423137,
-  "paying_members": 1259,
+  "monthly_low": 397568,
+  "monthly_est": 397568,
+  "gift_once": 30870,
+  "total_low": 428438,
+  "total_est": 428438,
+  "paying_members": 1275,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -422,6 +422,16 @@
    "member_chatters": 191,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "X-gKT_WcOFc",
+   "start": "2026-11-23 06:01",
+   "title": "[Morning Radio] Soak Up the Sun, Toshogu Shrine [Kaisei/NIJISANJI]",
+   "kind": "配信",
+   "chatters": 605,
+   "member_chatters": 311,
+   "new_members": 1,
+   "gifted_total": 1
   }
  ],
  "missed_streams": [
@@ -581,20 +591,20 @@
     "from": "2026-11-01",
     "to": "2026-11-23"
    },
-   "streams_analyzed": 28,
+   "streams_analyzed": 29,
    "streams_missed": 1,
-   "unique_chatters": 6889,
-   "members_confirmed": 1131,
+   "unique_chatters": 7028,
+   "members_confirmed": 1156,
    "member_classes": {
-    "unknown": 1051,
-    "known": 57,
-    "gift": 23
+    "unknown": 1074,
+    "known": 58,
+    "gift": 24
    },
-   "long_term_members": 718,
+   "long_term_members": 735,
    "badges": [
     {
      "months": 0,
-     "members": 74
+     "members": 76
     },
     {
      "months": 1,
@@ -602,37 +612,37 @@
     },
     {
      "months": 2,
-     "members": 136
+     "members": 139
     },
     {
      "months": 6,
-     "members": 170
+     "members": 173
     },
     {
      "months": 12,
-     "members": 718
+     "members": 735
     }
    ],
    "events": {
-    "new_members": 22,
+    "new_members": 23,
     "rejoins": 13,
     "milestones": 0,
-    "gifted_total": 23
+    "gifted_total": 24
    },
    "tiers": [
     {
      "tier": "ファンキーな錠連",
      "price": 490,
-     "confirmed_members": 57,
-     "estimated_members": 1108.0
+     "confirmed_members": 58,
+     "estimated_members": 1132.0
     }
    ],
    "revenue": {
-    "monthly_low": 345495,
-    "monthly_est": 345495,
-    "gift_once": 7172
+    "monthly_low": 352978,
+    "monthly_est": 352978,
+    "gift_once": 7484
    },
-   "avg_member_chatters": 258.7,
+   "avg_member_chatters": 260.5,
    "partial": true,
    "finalized": false
   }
