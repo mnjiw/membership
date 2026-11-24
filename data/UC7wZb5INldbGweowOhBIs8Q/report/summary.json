@@ -3,19 +3,19 @@
  "channel_id": "UC7wZb5INldbGweowOhBIs8Q",
  "handle": "@akari0415",
  "subscribers": 204000,
- "fetched_at": "2026-11-24 06:37",
- "generated_at": "2026-11-24 06:37",
+ "fetched_at": "2026-11-25 06:35",
+ "generated_at": "2026-11-25 06:35",
  "period": {
-  "from": "2026-10-25 06:37",
-  "to": "2026-11-24 06:37",
+  "from": "2026-10-26 06:35",
+  "to": "2026-11-25 06:35",
   "days": 30
  },
- "streams_analyzed": 6,
+ "streams_analyzed": 7,
  "streams_missed": 0,
- "unique_chatters": 525,
- "members_confirmed": 144,
+ "unique_chatters": 540,
+ "members_confirmed": 146,
  "member_classes": {
-  "unknown": 122,
+  "unknown": 124,
   "known": 22
  },
  "badges": [
@@ -37,7 +37,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 21
+   "members": 22
   },
   {
    "months": 12,
@@ -52,7 +52,7 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 38
+   "members": 39
   }
  ],
  "events": {
@@ -71,19 +71,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 22,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 122.0,
-   "estimated_members": 144.0,
+   "allocated_unknown": 124.0,
+   "estimated_members": 146.0,
    "monthly_net_confirmed": 6860,
-   "monthly_net_estimated": 44902
+   "monthly_net_estimated": 45525
   }
  ],
  "revenue": {
-  "monthly_low": 44902,
-  "monthly_est": 44902,
+  "monthly_low": 45525,
+  "monthly_est": 45525,
   "gift_once": 0,
-  "total_low": 44902,
-  "total_est": 44902,
-  "paying_members": 144,
+  "total_low": 45525,
+  "total_est": 45525,
+  "paying_members": 146,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -149,6 +149,16 @@
    "kind": "配信",
    "chatters": 150,
    "member_chatters": 76,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "vEhCjYghwYc",
+   "start": "2026-11-24 20:01",
+   "title": "ネズミになって逃げたりシェフになって捕まえたりするゲームらしい！",
+   "kind": "配信",
+   "chatters": 71,
+   "member_chatters": 41,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -288,17 +298,17 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-24"
+    "to": "2026-11-25"
    },
-   "streams_analyzed": 4,
+   "streams_analyzed": 5,
    "streams_missed": 0,
-   "unique_chatters": 270,
-   "members_confirmed": 99,
+   "unique_chatters": 288,
+   "members_confirmed": 103,
    "member_classes": {
-    "unknown": 87,
-    "known": 12
+    "unknown": 90,
+    "known": 13
    },
-   "long_term_members": 72,
+   "long_term_members": 75,
    "badges": [
     {
      "months": 0,
@@ -314,19 +324,19 @@
     },
     {
      "months": 6,
-     "members": 16
+     "members": 17
     },
     {
      "months": 12,
-     "members": 24
+     "members": 25
     },
     {
      "months": 24,
-     "members": 23
+     "members": 24
     },
     {
      "months": 36,
-     "members": 25
+     "members": 26
     }
    ],
    "events": {
@@ -339,16 +349,16 @@
     {
      "tier": "石狩のメンバーシップ",
      "price": 490,
-     "confirmed_members": 12,
-     "estimated_members": 99.0
+     "confirmed_members": 13,
+     "estimated_members": 103.0
     }
    ],
    "revenue": {
-    "monthly_low": 30870,
-    "monthly_est": 30870,
+    "monthly_low": 32117,
+    "monthly_est": 32117,
     "gift_once": 0
    },
-   "avg_member_chatters": 54,
+   "avg_member_chatters": 51.4,
    "partial": true,
    "finalized": false
   }

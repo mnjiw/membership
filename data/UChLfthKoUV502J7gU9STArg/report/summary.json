@@ -2,20 +2,20 @@
  "channel": "渋谷ハル",
  "channel_id": "UChLfthKoUV502J7gU9STArg",
  "handle": "@ShibuyaHAL",
- "subscribers": 901000,
- "fetched_at": "2026-11-24 15:07",
- "generated_at": "2026-11-24 15:07",
+ "subscribers": 902000,
+ "fetched_at": "2026-11-25 06:37",
+ "generated_at": "2026-11-25 06:38",
  "period": {
-  "from": "2026-10-25 15:07",
-  "to": "2026-11-24 15:07",
+  "from": "2026-10-26 06:37",
+  "to": "2026-11-25 06:37",
   "days": 30
  },
  "streams_analyzed": 32,
  "streams_missed": 1,
- "unique_chatters": 2420,
- "members_confirmed": 279,
+ "unique_chatters": 2387,
+ "members_confirmed": 274,
  "member_classes": {
-  "unknown": 252,
+  "unknown": 247,
   "known": 7,
   "gift": 20
  },
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 25
+   "members": 24
   },
   {
    "months": 24,
@@ -58,7 +58,7 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 113
+   "members": 109
   }
  ],
  "events": {
@@ -77,10 +77,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 6,
    "share_of_confirmed_pct": 85.7,
-   "allocated_unknown": 216.0,
-   "estimated_members": 222.0,
+   "allocated_unknown": 211.7,
+   "estimated_members": 217.7,
    "monthly_net_confirmed": 1871,
-   "monthly_net_estimated": 69224
+   "monthly_net_estimated": 67887
   },
   {
    "tier": "バイトリーダー",
@@ -88,10 +88,10 @@
    "net_per_member": 757.3,
    "confirmed_members": 1,
    "share_of_confirmed_pct": 14.3,
-   "allocated_unknown": 36.0,
-   "estimated_members": 37.0,
+   "allocated_unknown": 35.3,
+   "estimated_members": 36.3,
    "monthly_net_confirmed": 757,
-   "monthly_net_estimated": 28019
+   "monthly_net_estimated": 27478
   },
   {
    "tier": "店長",
@@ -117,12 +117,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 81206,
-  "monthly_est": 97243,
+  "monthly_low": 79647,
+  "monthly_est": 95365,
   "gift_once": 6236,
-  "total_low": 87443,
-  "total_est": 103479,
-  "paying_members": 259,
+  "total_low": 85884,
+  "total_est": 101602,
+  "paying_members": 254,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -131,16 +131,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "t3pILNtvsoU",
-   "start": "2026-10-25 15:27",
-   "title": "【APEX LEGENDS】雑談ソロランクって楽しくてェ～→フルパGO w/ CR LEO りんしゃんつかい",
-   "kind": "配信",
-   "chatters": 269,
-   "member_chatters": 80,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "9WTocVYtwds",
    "start": "2026-10-26 15:45",
@@ -450,6 +440,16 @@
    "member_chatters": 83,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "7zgAEoVgA5U",
+   "start": "2026-11-24 18:33",
+   "title": "初見スプラ3日目→ハイゲチームArc練習→ハイゲチームOW練習【息抜き】",
+   "kind": "配信",
+   "chatters": 183,
+   "member_chatters": 53,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -462,8 +462,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 130,
-   "view_count": 30009
+   "like_count": 135,
+   "view_count": 32232
   }
  ],
  "members_only_content": [],
@@ -623,11 +623,11 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-24"
+    "to": "2026-11-25"
    },
-   "streams_analyzed": 25,
+   "streams_analyzed": 26,
    "streams_missed": 1,
-   "unique_chatters": 2116,
+   "unique_chatters": 2164,
    "members_confirmed": 239,
    "member_classes": {
     "unknown": 234,
@@ -705,7 +705,7 @@
     "monthly_est": 95817,
     "gift_once": 0
    },
-   "avg_member_chatters": 64.0,
+   "avg_member_chatters": 63.6,
    "partial": true,
    "finalized": false
   }

@@ -3,19 +3,19 @@
  "channel_id": "UC_hjHmi-ODGhHlSzD16p5Pw",
  "handle": "@Popo_Ieiri",
  "subscribers": 131000,
- "fetched_at": "2026-11-24 06:33",
- "generated_at": "2026-11-24 06:34",
+ "fetched_at": "2026-11-25 06:32",
+ "generated_at": "2026-11-25 06:32",
  "period": {
-  "from": "2026-10-25 06:33",
-  "to": "2026-11-24 06:33",
+  "from": "2026-10-26 06:32",
+  "to": "2026-11-25 06:32",
   "days": 30
  },
- "streams_analyzed": 32,
+ "streams_analyzed": 30,
  "streams_missed": 1,
- "unique_chatters": 1001,
- "members_confirmed": 127,
+ "unique_chatters": 935,
+ "members_confirmed": 124,
  "member_classes": {
-  "unknown": 111,
+  "unknown": 108,
   "known": 11,
   "gift": 5
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 4
+   "members": 3
   },
   {
    "months": 1,
@@ -48,12 +48,12 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 16
+   "members": 15
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 66
+   "members": 65
   }
  ],
  "events": {
@@ -72,19 +72,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 11,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 111.0,
-   "estimated_members": 122.0,
+   "allocated_unknown": 108.0,
+   "estimated_members": 119.0,
    "monthly_net_confirmed": 3430,
-   "monthly_net_estimated": 38042
+   "monthly_net_estimated": 37106
   }
  ],
  "revenue": {
-  "monthly_low": 38042,
-  "monthly_est": 38042,
+  "monthly_low": 37106,
+  "monthly_est": 37106,
   "gift_once": 1559,
-  "total_low": 39601,
-  "total_est": 39601,
-  "paying_members": 122,
+  "total_low": 38665,
+  "total_est": 38665,
+  "paying_members": 119,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -93,26 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "JDiMY8vD8UY",
-   "start": "2026-10-25 18:00",
-   "title": "【#家入ポポ5周年】5周年なので5万円の〇〇を！？！でっかくなったポポだな、ポポ。。。【家入ポポ / ななしいんく】",
-   "kind": "配信",
-   "chatters": 144,
-   "member_chatters": 52,
-   "new_members": 0,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "GVuLu_-jtXQ",
-   "start": "2026-10-25 20:30",
-   "title": "【🎀#なかよくうたおうアニソン歌枠リレー🎀】ポポの好きなアニメランキング【家入ポポ / ななしいんく】",
-   "kind": "配信",
-   "chatters": 110,
-   "member_chatters": 35,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "-X-gjMt7E64",
    "start": "2026-10-26 18:00",
@@ -573,7 +553,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-24"
+    "to": "2026-11-25"
    },
    "streams_analyzed": 25,
    "streams_missed": 0,

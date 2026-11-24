@@ -3,56 +3,56 @@
  "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
  "handle": "@holoen_ceciliaimmergreen",
  "subscribers": 555000,
- "fetched_at": "2026-11-24 15:04",
- "generated_at": "2026-11-24 15:06",
+ "fetched_at": "2026-11-25 06:31",
+ "generated_at": "2026-11-25 06:31",
  "period": {
-  "from": "2026-10-25 15:04",
-  "to": "2026-11-24 15:04",
+  "from": "2026-10-26 06:31",
+  "to": "2026-11-25 06:31",
   "days": 30
  },
- "streams_analyzed": 24,
+ "streams_analyzed": 23,
  "streams_missed": 3,
- "unique_chatters": 23799,
- "members_confirmed": 3904,
+ "unique_chatters": 23222,
+ "members_confirmed": 3861,
  "member_classes": {
-  "known": 1713,
-  "unknown": 1710,
-  "gift": 481
+  "known": 1698,
+  "unknown": 1683,
+  "gift": 480
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 688
+   "members": 686
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 133
+   "members": 131
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 357
+   "members": 352
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 387
+   "members": 378
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 2339
+   "members": 2314
   }
  ],
  "events": {
-  "new_members": 117,
-  "rejoins": 69,
-  "milestones": 1281,
-  "gift_purchases": 72,
-  "gifted_total": 594,
-  "gift_redemptions": 482
+  "new_members": 113,
+  "rejoins": 67,
+  "milestones": 1239,
+  "gift_purchases": 71,
+  "gifted_total": 593,
+  "gift_redemptions": 481
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,32 +60,32 @@
    "tier": "otomems",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 1508,
+   "confirmed_members": 1495,
    "share_of_confirmed_pct": 88.0,
-   "allocated_unknown": 1505.4,
-   "estimated_members": 3013.4,
-   "monthly_net_confirmed": 662149,
-   "monthly_net_estimated": 1323139
+   "allocated_unknown": 1481.8,
+   "estimated_members": 2976.8,
+   "monthly_net_confirmed": 656441,
+   "monthly_net_estimated": 1307083
   },
   {
    "tier": "otocranks",
    "price": 1290,
    "net_per_member": 820.9,
-   "confirmed_members": 205,
+   "confirmed_members": 203,
    "share_of_confirmed_pct": 12.0,
-   "allocated_unknown": 204.6,
-   "estimated_members": 409.6,
-   "monthly_net_confirmed": 168286,
-   "monthly_net_estimated": 336278
+   "allocated_unknown": 201.2,
+   "estimated_members": 404.2,
+   "monthly_net_confirmed": 166645,
+   "monthly_net_estimated": 331817
   }
  ],
  "revenue": {
-  "monthly_low": 1581281,
-  "monthly_est": 1659417,
-  "gift_once": 260820,
-  "total_low": 1842101,
-  "total_est": 1920237,
-  "paying_members": 3423,
+  "monthly_low": 1562075,
+  "monthly_est": 1638900,
+  "gift_once": 260381,
+  "total_low": 1822456,
+  "total_est": 1899281,
+  "paying_members": 3381,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -94,16 +94,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "vWaYUZpwmro",
-   "start": "2026-10-26 05:01",
-   "title": "【SLAY THE PRINCESS】Guess the game this time!!!!!! WOAH",
-   "kind": "配信",
-   "chatters": 3024,
-   "member_chatters": 963,
-   "new_members": 4,
-   "gifted_total": 1
-  },
   {
    "video_id": "pXGkLztSycE",
    "start": "2026-10-27 22:01",
@@ -345,7 +335,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "otomems",
-   "like_count": 890,
+   "like_count": 892,
    "view_count": null
   },
   {
@@ -357,7 +347,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "otomems",
-   "like_count": 1425,
+   "like_count": 1431,
    "view_count": null
   },
   {
@@ -369,7 +359,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "otomems",
-   "like_count": 536,
+   "like_count": 538,
    "view_count": null
   }
  ],
@@ -381,7 +371,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "otomems",
-   "like_count": 890,
+   "like_count": 892,
    "view_count": null
   },
   {
@@ -391,7 +381,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "otomems",
-   "like_count": 1425,
+   "like_count": 1431,
    "view_count": null
   },
   {
@@ -401,7 +391,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "otomems",
-   "like_count": 536,
+   "like_count": 538,
    "view_count": null
   }
  ],
@@ -529,7 +519,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-24"
+    "to": "2026-11-25"
    },
    "streams_analyzed": 19,
    "streams_missed": 2,

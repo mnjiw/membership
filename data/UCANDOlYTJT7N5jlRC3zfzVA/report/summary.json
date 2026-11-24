@@ -3,19 +3,19 @@
  "channel_id": "UCANDOlYTJT7N5jlRC3zfzVA",
  "handle": "@YukokuRoberu",
  "subscribers": 387000,
- "fetched_at": "2026-11-24 15:08",
- "generated_at": "2026-11-24 15:08",
+ "fetched_at": "2026-11-25 06:42",
+ "generated_at": "2026-11-25 06:42",
  "period": {
-  "from": "2026-10-25 15:08",
-  "to": "2026-11-24 15:08",
+  "from": "2026-10-26 06:42",
+  "to": "2026-11-25 06:42",
   "days": 30
  },
- "streams_analyzed": 19,
+ "streams_analyzed": 20,
  "streams_missed": 0,
- "unique_chatters": 3674,
- "members_confirmed": 310,
+ "unique_chatters": 3905,
+ "members_confirmed": 312,
  "member_classes": {
-  "unknown": 287,
+  "unknown": 289,
   "known": 13,
   "gift": 10
  },
@@ -28,12 +28,12 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 9
+   "members": 8
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 11
+   "members": 12
   },
   {
    "months": 6,
@@ -48,7 +48,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 169
+   "members": 171
   }
  ],
  "events": {
@@ -67,10 +67,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 12,
    "share_of_confirmed_pct": 92.3,
-   "allocated_unknown": 264.9,
-   "estimated_members": 276.9,
+   "allocated_unknown": 266.8,
+   "estimated_members": 278.8,
    "monthly_net_confirmed": 3742,
-   "monthly_net_estimated": 86350
+   "monthly_net_estimated": 86925
   },
   {
    "tier": "ダブル",
@@ -78,10 +78,10 @@
    "net_per_member": 630.0,
    "confirmed_members": 1,
    "share_of_confirmed_pct": 7.7,
-   "allocated_unknown": 22.1,
-   "estimated_members": 23.1,
+   "allocated_unknown": 22.2,
+   "estimated_members": 23.2,
    "monthly_net_confirmed": 630,
-   "monthly_net_estimated": 14538
+   "monthly_net_estimated": 14635
   },
   {
    "tier": "ボトルキープ",
@@ -96,12 +96,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 93864,
-  "monthly_est": 100888,
+  "monthly_low": 94487,
+  "monthly_est": 101561,
   "gift_once": 3118,
-  "total_low": 96982,
-  "total_est": 104006,
-  "paying_members": 300,
+  "total_low": 97605,
+  "total_est": 104679,
+  "paying_members": 302,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -299,6 +299,16 @@
    "member_chatters": 141,
    "new_members": 0,
    "gifted_total": 1
+  },
+  {
+   "video_id": "LuMQoiaEuHM",
+   "start": "2026-11-24 13:00",
+   "title": "【崩壊：スターレイル】Ver4.7　開拓クエスト『いま、群星は笑いに包まれる』をやる男【夕刻ロベル/ホロスターズ】",
+   "kind": "配信",
+   "chatters": 435,
+   "member_chatters": 65,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -440,18 +450,18 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-24"
+    "to": "2026-11-25"
    },
-   "streams_analyzed": 14,
+   "streams_analyzed": 15,
    "streams_missed": 0,
-   "unique_chatters": 3046,
-   "members_confirmed": 302,
+   "unique_chatters": 3286,
+   "members_confirmed": 304,
    "member_classes": {
-    "unknown": 281,
+    "unknown": 283,
     "known": 11,
     "gift": 10
    },
-   "long_term_members": 217,
+   "long_term_members": 219,
    "badges": [
     {
      "months": 0,
@@ -459,11 +469,11 @@
     },
     {
      "months": 1,
-     "members": 9
+     "members": 8
     },
     {
      "months": 2,
-     "members": 10
+     "members": 11
     },
     {
      "months": 6,
@@ -475,7 +485,7 @@
     },
     {
      "months": 24,
-     "members": 168
+     "members": 170
     }
    ],
    "events": {
@@ -489,7 +499,7 @@
      "tier": "シングル",
      "price": 490,
      "confirmed_members": 11,
-     "estimated_members": 292.0
+     "estimated_members": 294.0
     },
     {
      "tier": "ダブル",
@@ -505,11 +515,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 91051,
-    "monthly_est": 91051,
+    "monthly_low": 91675,
+    "monthly_est": 91675,
     "gift_once": 3118
    },
-   "avg_member_chatters": 78.5,
+   "avg_member_chatters": 77.6,
    "partial": true,
    "finalized": false
   }

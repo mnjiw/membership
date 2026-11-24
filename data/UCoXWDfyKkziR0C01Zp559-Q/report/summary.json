@@ -3,46 +3,46 @@
  "channel_id": "UCoXWDfyKkziR0C01Zp559-Q",
  "handle": "@Mirine_Shionari",
  "subscribers": 14100,
- "fetched_at": "2026-11-24 15:05",
- "generated_at": "2026-11-24 15:05",
+ "fetched_at": "2026-11-25 06:32",
+ "generated_at": "2026-11-25 06:32",
  "period": {
-  "from": "2026-10-25 15:05",
-  "to": "2026-11-24 15:05",
+  "from": "2026-10-26 06:32",
+  "to": "2026-11-25 06:32",
   "days": 30
  },
  "streams_analyzed": 22,
  "streams_missed": 1,
- "unique_chatters": 748,
- "members_confirmed": 438,
+ "unique_chatters": 743,
+ "members_confirmed": 427,
  "member_classes": {
-  "unknown": 178,
-  "known": 61,
-  "gift": 199
+  "known": 60,
+  "unknown": 179,
+  "gift": 188
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 193
+   "members": 187
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 59
+   "members": 58
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 186
+   "members": 182
   }
  ],
  "events": {
-  "new_members": 5,
+  "new_members": 4,
   "rejoins": 1,
-  "milestones": 38,
-  "gift_purchases": 35,
-  "gifted_total": 199,
-  "gift_redemptions": 199
+  "milestones": 35,
+  "gift_purchases": 33,
+  "gifted_total": 188,
+  "gift_redemptions": 188
  },
  "tiers_configured": true,
  "tiers": [
@@ -50,20 +50,20 @@
    "tier": "みりねちーむ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 61,
+   "confirmed_members": 60,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 178.0,
+   "allocated_unknown": 179.0,
    "estimated_members": 239.0,
-   "monthly_net_confirmed": 19021,
+   "monthly_net_confirmed": 18709,
    "monthly_net_estimated": 74525
   }
  ],
  "revenue": {
   "monthly_low": 74525,
   "monthly_est": 74525,
-  "gift_once": 62052,
-  "total_low": 136576,
-  "total_est": 136576,
+  "gift_once": 58622,
+  "total_low": 133146,
+  "total_est": 133146,
   "paying_members": 239,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "tTchy7swP6Y",
-   "start": "2026-10-25 19:30",
-   "title": "【 雀魂 】 雀傑目指す＆大会の称号もいただいたので自慢配信🎶【汐鳴みりね / ななしいんく】",
-   "kind": "配信",
-   "chatters": 121,
-   "member_chatters": 81,
-   "new_members": 1,
-   "gifted_total": 11
-  },
   {
    "video_id": "55ancQ9dxDY",
    "start": "2026-10-26 08:02",
@@ -292,6 +282,16 @@
    "member_chatters": 105,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "vACsxtoGH8o",
+   "start": "2026-11-24 12:01",
+   "title": "【ゼルダの伝説 ブレワイ DLC】完全初見🔰 ゲルドにやってきました！# 2【汐鳴みりね / ななしいんく】",
+   "kind": "配信",
+   "chatters": 86,
+   "member_chatters": 31,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -422,11 +422,11 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-24"
+    "to": "2026-11-25"
    },
-   "streams_analyzed": 18,
+   "streams_analyzed": 19,
    "streams_missed": 0,
-   "unique_chatters": 692,
+   "unique_chatters": 703,
    "members_confirmed": 416,
    "member_classes": {
     "unknown": 169,
@@ -467,7 +467,7 @@
     "monthly_est": 71406,
     "gift_once": 58310
    },
-   "avg_member_chatters": 82,
+   "avg_member_chatters": 79.3,
    "partial": true,
    "finalized": false
   }

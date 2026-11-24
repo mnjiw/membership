@@ -3,15 +3,15 @@
  "channel_id": "UCQYy35PowPpc6ImRH1TQgcw",
  "handle": "@nora_shitagai",
  "subscribers": 181000,
- "fetched_at": "2026-11-24 06:46",
- "generated_at": "2026-11-24 06:46",
+ "fetched_at": "2026-11-25 06:42",
+ "generated_at": "2026-11-25 06:42",
  "period": {
-  "from": "2026-10-25 06:46",
-  "to": "2026-11-24 06:46",
+  "from": "2026-10-26 06:42",
+  "to": "2026-11-25 06:42",
   "days": 30
  },
  "streams_analyzed": 0,
- "streams_missed": 2,
+ "streams_missed": 3,
  "unique_chatters": 0,
  "members_confirmed": 0,
  "member_classes": {},
@@ -63,7 +63,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 126,
+   "like_count": 128,
    "view_count": null
   },
   {
@@ -77,6 +77,18 @@
    "members_level": "",
    "like_count": 306,
    "view_count": 6689
+  },
+  {
+   "video_id": "RZSsXal3fYk",
+   "start": "2026-11-24 00:00",
+   "title": "お前らの\"癖\"で、ボクの世界を広げてくれ。【従井ノラ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 523,
+   "view_count": 8391
   }
  ],
  "members_only_content": [
@@ -87,7 +99,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 126,
+   "like_count": 128,
    "view_count": null
   }
  ],

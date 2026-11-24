@@ -2,44 +2,48 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-24"
+  "to": "2026-11-25"
  },
- "streams_analyzed": 12,
+ "streams_analyzed": 13,
  "streams_missed": 2,
- "unique_chatters": 12240,
- "members_confirmed": 2971,
+ "unique_chatters": 13293,
+ "members_confirmed": 3064,
  "member_classes": {
-  "unknown": 1366,
-  "known": 1301,
-  "gift": 304
+  "unknown": 1407,
+  "known": 1340,
+  "gift": 317
  },
  "long_term_members": 0,
  "badges": [
   {
    "months": 0,
-   "members": 2971
+   "members": 2245
+  },
+  {
+   "months": 1,
+   "members": 819
   }
  ],
  "events": {
-  "new_members": 142,
+  "new_members": 167,
   "rejoins": 0,
   "milestones": 0,
-  "gifted_total": 315
+  "gifted_total": 328
  },
  "tiers": [
   {
    "tier": "そぴあの秘密基地",
    "price": 490,
-   "confirmed_members": 1301,
-   "estimated_members": 2667.0
+   "confirmed_members": 1340,
+   "estimated_members": 2747.0
   }
  ],
  "revenue": {
-  "monthly_low": 831619,
-  "monthly_est": 831619,
-  "gift_once": 98223
+  "monthly_low": 856565,
+  "monthly_est": 856565,
+  "gift_once": 102276
  },
- "avg_member_chatters": 982.4,
+ "avg_member_chatters": 991.3,
  "partial": true,
  "finalized": false
 }

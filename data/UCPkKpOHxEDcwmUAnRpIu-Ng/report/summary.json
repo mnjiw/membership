@@ -3,62 +3,62 @@
  "channel_id": "UCPkKpOHxEDcwmUAnRpIu-Ng",
  "handle": "@AizawaEma",
  "subscribers": 707000,
- "fetched_at": "2026-11-24 15:05",
- "generated_at": "2026-11-24 15:06",
+ "fetched_at": "2026-11-25 06:33",
+ "generated_at": "2026-11-25 06:33",
  "period": {
-  "from": "2026-10-25 15:05",
-  "to": "2026-11-24 15:05",
+  "from": "2026-10-26 06:33",
+  "to": "2026-11-25 06:33",
   "days": 30
  },
  "streams_analyzed": 36,
  "streams_missed": 8,
- "unique_chatters": 8219,
- "members_confirmed": 3319,
+ "unique_chatters": 8130,
+ "members_confirmed": 3316,
  "member_classes": {
-  "unknown": 1411,
-  "known": 1506,
+  "known": 1505,
+  "unknown": 1409,
   "gift": 402
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 1590
+   "members": 1593
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 138
+   "members": 139
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 291
+   "members": 289
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 205
+   "members": 206
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 289
+   "members": 287
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 271
+   "members": 270
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 247
+   "members": 243
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 217
+   "members": 218
   },
   {
    "months": 60,
@@ -67,9 +67,9 @@
   }
  ],
  "events": {
-  "new_members": 1032,
-  "rejoins": 284,
-  "milestones": 60,
+  "new_members": 1034,
+  "rejoins": 282,
+  "milestones": 59,
   "gift_purchases": 30,
   "gifted_total": 413,
   "gift_redemptions": 403
@@ -80,21 +80,21 @@
    "tier": "エマの藍方",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 1506,
+   "confirmed_members": 1505,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1411.0,
-   "estimated_members": 2917.0,
-   "monthly_net_confirmed": 469598,
-   "monthly_net_estimated": 909574
+   "allocated_unknown": 1409.0,
+   "estimated_members": 2914.0,
+   "monthly_net_confirmed": 469286,
+   "monthly_net_estimated": 908638
   }
  ],
  "revenue": {
-  "monthly_low": 909574,
-  "monthly_est": 909574,
+  "monthly_low": 908638,
+  "monthly_est": 908638,
   "gift_once": 128781,
-  "total_low": 1038355,
-  "total_est": 1038355,
-  "paying_members": 2917,
+  "total_low": 1037419,
+  "total_est": 1037419,
+  "paying_members": 2914,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -103,16 +103,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "W5HAjb5ycoQ",
-   "start": "2026-10-25 21:38",
-   "title": "【スト6】あたらしいレバーレス触ってみる【ぶいすぽっ！/ 藍沢エマ】",
-   "kind": "配信",
-   "chatters": 716,
-   "member_chatters": 239,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "99Ana9luM5g",
    "start": "2026-10-26 14:09",
@@ -462,6 +452,16 @@
    "member_chatters": 26,
    "new_members": 2,
    "gifted_total": 0
+  },
+  {
+   "video_id": "BO7ayvht-yA",
+   "start": "2026-11-24 18:45",
+   "title": "【スト6】ボタンの緊急オペを開始します【ぶいすぽっ！/ 藍沢エマ】",
+   "kind": "配信",
+   "chatters": 381,
+   "member_chatters": 192,
+   "new_members": 3,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -498,7 +498,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 3502,
+   "like_count": 3518,
    "view_count": null
   },
   {
@@ -510,7 +510,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 689,
+   "like_count": 691,
    "view_count": null
   },
   {
@@ -522,7 +522,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 801,
+   "like_count": 802,
    "view_count": null
   },
   {
@@ -558,7 +558,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 551,
+   "like_count": 586,
    "view_count": null
   }
  ],
@@ -590,7 +590,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 3502,
+   "like_count": 3518,
    "view_count": null
   },
   {
@@ -600,7 +600,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 689,
+   "like_count": 691,
    "view_count": null
   },
   {
@@ -610,7 +610,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 801,
+   "like_count": 802,
    "view_count": null
   },
   {
@@ -630,7 +630,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 551,
+   "like_count": 586,
    "view_count": null
   }
  ],
@@ -776,50 +776,50 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-24"
+    "to": "2026-11-25"
    },
-   "streams_analyzed": 27,
+   "streams_analyzed": 28,
    "streams_missed": 7,
-   "unique_chatters": 7594,
-   "members_confirmed": 3223,
+   "unique_chatters": 7651,
+   "members_confirmed": 3242,
    "member_classes": {
-    "unknown": 1338,
-    "known": 1493,
+    "unknown": 1354,
+    "known": 1496,
     "gift": 392
    },
-   "long_term_members": 1044,
+   "long_term_members": 1051,
    "badges": [
     {
      "months": 0,
-     "members": 1567
+     "members": 1575
     },
     {
      "months": 1,
-     "members": 133
+     "members": 134
     },
     {
      "months": 2,
-     "members": 279
+     "members": 280
     },
     {
      "months": 6,
-     "members": 200
+     "members": 202
     },
     {
      "months": 12,
-     "members": 276
+     "members": 277
     },
     {
      "months": 24,
-     "members": 258
+     "members": 259
     },
     {
      "months": 36,
-     "members": 234
+     "members": 236
     },
     {
      "months": 48,
-     "members": 205
+     "members": 208
     },
     {
      "months": 60,
@@ -827,7 +827,7 @@
     }
    ],
    "events": {
-    "new_members": 1027,
+    "new_members": 1030,
     "rejoins": 280,
     "milestones": 58,
     "gifted_total": 403
@@ -836,16 +836,16 @@
     {
      "tier": "エマの藍方",
      "price": 490,
-     "confirmed_members": 1493,
-     "estimated_members": 2831.0
+     "confirmed_members": 1496,
+     "estimated_members": 2850.0
     }
    ],
    "revenue": {
-    "monthly_low": 882757,
-    "monthly_est": 882757,
+    "monthly_low": 888682,
+    "monthly_est": 888682,
     "gift_once": 125663
    },
-   "avg_member_chatters": 282.4,
+   "avg_member_chatters": 279.2,
    "partial": true,
    "finalized": false
   }

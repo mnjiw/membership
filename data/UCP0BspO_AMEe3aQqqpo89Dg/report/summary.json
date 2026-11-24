@@ -3,27 +3,27 @@
  "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
  "handle": "@MoonaHoshinova",
  "subscribers": 1420000,
- "fetched_at": "2026-11-24 06:30",
- "generated_at": "2026-11-24 06:30",
+ "fetched_at": "2026-11-25 06:28",
+ "generated_at": "2026-11-25 06:28",
  "period": {
-  "from": "2026-10-25 06:30",
-  "to": "2026-11-24 06:30",
+  "from": "2026-10-26 06:28",
+  "to": "2026-11-25 06:28",
   "days": 30
  },
- "streams_analyzed": 8,
+ "streams_analyzed": 7,
  "streams_missed": 1,
- "unique_chatters": 2064,
- "members_confirmed": 269,
+ "unique_chatters": 2025,
+ "members_confirmed": 264,
  "member_classes": {
-  "known": 73,
-  "unknown": 166,
-  "gift": 30
+  "unknown": 167,
+  "known": 72,
+  "gift": 25
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 59
+   "members": 55
   },
   {
    "months": 1,
@@ -58,16 +58,16 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 80
+   "members": 79
   }
  ],
  "events": {
   "new_members": 5,
   "rejoins": 11,
-  "milestones": 26,
-  "gift_purchases": 5,
-  "gifted_total": 30,
-  "gift_redemptions": 30
+  "milestones": 25,
+  "gift_purchases": 4,
+  "gifted_total": 25,
+  "gift_redemptions": 25
  },
  "tiers_configured": true,
  "tiers": [
@@ -75,20 +75,20 @@
    "tier": "Moonafic",
    "price": 390,
    "net_per_member": 248.2,
-   "confirmed_members": 73,
+   "confirmed_members": 72,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 166.0,
+   "allocated_unknown": 167.0,
    "estimated_members": 239.0,
-   "monthly_net_confirmed": 18117,
+   "monthly_net_confirmed": 17869,
    "monthly_net_estimated": 59315
   }
  ],
  "revenue": {
   "monthly_low": 59315,
   "monthly_est": 59315,
-  "gift_once": 7445,
-  "total_low": 66761,
-  "total_est": 66761,
+  "gift_once": 6205,
+  "total_low": 65520,
+  "total_est": 65520,
   "paying_members": 239,
   "single_tier": true,
   "tax_rate": 0.1,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "skgRofiUBu0",
-   "start": "2026-10-25 22:18",
-   "title": "【Hololive Dreams】Play play~【hololive | moona】",
-   "kind": "配信",
-   "chatters": 137,
-   "member_chatters": 48,
-   "new_members": 0,
-   "gifted_total": 5
-  },
   {
    "video_id": "pVSuqseDO0M",
    "start": "2026-10-30 19:00",
@@ -189,7 +179,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 108,
+   "like_count": 125,
    "view_count": null
   }
  ],
@@ -201,7 +191,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 108,
+   "like_count": 125,
    "view_count": null
   }
  ],
@@ -358,7 +348,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-24"
+    "to": "2026-11-25"
    },
    "streams_analyzed": 6,
    "streams_missed": 1,

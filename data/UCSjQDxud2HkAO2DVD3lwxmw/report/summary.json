@@ -3,19 +3,19 @@
  "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
  "handle": "@HyakutoKyoko",
  "subscribers": 350000,
- "fetched_at": "2026-11-24 15:04",
- "generated_at": "2026-11-24 15:04",
+ "fetched_at": "2026-11-25 06:28",
+ "generated_at": "2026-11-25 06:29",
  "period": {
-  "from": "2026-10-25 15:04",
-  "to": "2026-11-24 15:04",
+  "from": "2026-10-26 06:28",
+  "to": "2026-11-25 06:28",
   "days": 30
  },
  "streams_analyzed": 54,
  "streams_missed": 2,
- "unique_chatters": 26929,
- "members_confirmed": 2869,
+ "unique_chatters": 27111,
+ "members_confirmed": 2876,
  "member_classes": {
-  "unknown": 761,
+  "unknown": 768,
   "known": 1490,
   "gift": 618
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 2869
+   "members": 2876
   }
  ],
  "events": {
@@ -42,19 +42,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 1490,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 761.0,
-   "estimated_members": 2251.0,
+   "allocated_unknown": 768.0,
+   "estimated_members": 2258.0,
    "monthly_net_confirmed": 464609,
-   "monthly_net_estimated": 701903
+   "monthly_net_estimated": 704085
   }
  ],
  "revenue": {
-  "monthly_low": 701903,
-  "monthly_est": 701903,
+  "monthly_low": 704085,
+  "monthly_est": 704085,
   "gift_once": 206735,
-  "total_low": 908638,
-  "total_est": 908638,
-  "paying_members": 2251,
+  "total_low": 910821,
+  "total_est": 910821,
+  "paying_members": 2258,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -63,16 +63,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "BtIXGeBO2dU",
-   "start": "2026-10-25 21:59",
-   "title": "#4 審判の日が近づく！？今回も謎をガンガン解いてこーー！！！ | 都市伝説解体センター　※ネタバレ注意【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-   "kind": "配信",
-   "chatters": 1030,
-   "member_chatters": 0,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "FLSPXynYTJ0",
    "start": "2026-10-26 10:59",
@@ -602,6 +592,16 @@
    "member_chatters": 328,
    "new_members": 1,
    "gifted_total": 5
+  },
+  {
+   "video_id": "liBzMZpKCnQ",
+   "start": "2026-11-24 11:59",
+   "title": "【EN】Cute and horror? I love both of them!!  | Amanda the Adventurer【Hyakuto Kyoko/Hololive】",
+   "kind": "配信",
+   "chatters": 1505,
+   "member_chatters": 377,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -614,7 +614,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "百灯派出所 // Chembership",
-   "like_count": 720,
+   "like_count": 721,
    "view_count": null
   },
   {
@@ -638,7 +638,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "百灯派出所 // Chembership",
-   "like_count": 720,
+   "like_count": 721,
    "view_count": null
   },
   {
@@ -729,22 +729,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-24"
+    "to": "2026-11-25"
    },
-   "streams_analyzed": 40,
+   "streams_analyzed": 41,
    "streams_missed": 2,
-   "unique_chatters": 20814,
-   "members_confirmed": 2441,
+   "unique_chatters": 21143,
+   "members_confirmed": 2454,
    "member_classes": {
-    "unknown": 758,
-    "known": 1198,
+    "unknown": 768,
+    "known": 1201,
     "gift": 485
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 2441
+     "members": 2454
     }
    ],
    "events": {
@@ -757,16 +757,16 @@
     {
      "tier": "百灯派出所 // Chembership",
      "price": 490,
-     "confirmed_members": 1198,
-     "estimated_members": 1956.0
+     "confirmed_members": 1201,
+     "estimated_members": 1969.0
     }
    ],
    "revenue": {
-    "monthly_low": 609916,
-    "monthly_est": 609916,
+    "monthly_low": 613970,
+    "monthly_est": 613970,
     "gift_once": 162145
    },
-   "avg_member_chatters": 367.9,
+   "avg_member_chatters": 368.1,
    "partial": true,
    "finalized": false
   }

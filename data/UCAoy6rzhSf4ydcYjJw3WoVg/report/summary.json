@@ -3,37 +3,37 @@
  "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
  "handle": "@AiraniIofifteen",
  "subscribers": 836000,
- "fetched_at": "2026-11-24 06:30",
- "generated_at": "2026-11-24 06:30",
+ "fetched_at": "2026-11-25 06:28",
+ "generated_at": "2026-11-25 06:29",
  "period": {
-  "from": "2026-10-25 06:30",
-  "to": "2026-11-24 06:30",
+  "from": "2026-10-26 06:28",
+  "to": "2026-11-25 06:28",
   "days": 30
  },
- "streams_analyzed": 11,
- "streams_missed": 1,
- "unique_chatters": 2054,
- "members_confirmed": 339,
+ "streams_analyzed": 9,
+ "streams_missed": 0,
+ "unique_chatters": 1862,
+ "members_confirmed": 311,
  "member_classes": {
-  "unknown": 196,
-  "known": 76,
-  "gift": 67
+  "known": 70,
+  "unknown": 184,
+  "gift": 57
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 117
+   "members": 104
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 22
+   "members": 20
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 20
+   "members": 16
   },
   {
    "months": 6,
@@ -43,31 +43,31 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 59
+   "members": 55
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 26
+   "members": 24
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 15
+   "members": 14
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 56
+   "members": 54
   }
  ],
  "events": {
   "new_members": 9,
-  "rejoins": 5,
-  "milestones": 22,
-  "gift_purchases": 10,
-  "gifted_total": 67,
-  "gift_redemptions": 67
+  "rejoins": 2,
+  "milestones": 20,
+  "gift_purchases": 9,
+  "gifted_total": 57,
+  "gift_redemptions": 57
  },
  "tiers_configured": true,
  "tiers": [
@@ -75,21 +75,21 @@
    "tier": "Kira Kira Club",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 76,
+   "confirmed_members": 70,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 196.0,
-   "estimated_members": 272.0,
-   "monthly_net_confirmed": 23698,
-   "monthly_net_estimated": 84815
+   "allocated_unknown": 184.0,
+   "estimated_members": 254.0,
+   "monthly_net_confirmed": 21827,
+   "monthly_net_estimated": 79202
   }
  ],
  "revenue": {
-  "monthly_low": 84815,
-  "monthly_est": 84815,
-  "gift_once": 20892,
-  "total_low": 105706,
-  "total_est": 105706,
-  "paying_members": 272,
+  "monthly_low": 79202,
+  "monthly_est": 79202,
+  "gift_once": 17774,
+  "total_low": 96975,
+  "total_est": 96975,
+  "paying_members": 254,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,26 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "QWHIbU1cY5o",
-   "start": "2026-10-25 17:02",
-   "title": "【 #holoctober 】DAY 25 : ONSEN【 iofi / hololive】",
-   "kind": "配信",
-   "chatters": 333,
-   "member_chatters": 97,
-   "new_members": 0,
-   "gifted_total": 10
-  },
-  {
-   "video_id": "8O7uRt1WR9I",
-   "start": "2026-10-25 20:59",
-   "title": "【#holodori 】DAILY AAAAAAAAAA【 iofi / hololive】",
-   "kind": "配信",
-   "chatters": 176,
-   "member_chatters": 62,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "YYK6BkOUQ0Q",
    "start": "2026-10-28 00:00",
@@ -209,32 +189,8 @@
    "gifted_total": 5
   }
  ],
- "missed_streams": [
-  {
-   "video_id": "FozMUoFyc0Q",
-   "start": "2026-10-25 22:31",
-   "title": "We Listen and We Do Not Judge PART 2",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 123,
-   "view_count": null
-  }
- ],
- "members_only_content": [
-  {
-   "video_id": "FozMUoFyc0Q",
-   "start": "2026-10-25 22:31",
-   "title": "We Listen and We Do Not Judge PART 2",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 123,
-   "view_count": null
-  }
- ],
+ "missed_streams": [],
+ "members_only_content": [],
  "history": [
   {
    "month": "2026-09",
@@ -388,7 +344,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-24"
+    "to": "2026-11-25"
    },
    "streams_analyzed": 5,
    "streams_missed": 0,
