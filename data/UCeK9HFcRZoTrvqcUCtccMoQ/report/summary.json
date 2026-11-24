@@ -3,16 +3,16 @@
  "channel_id": "UCeK9HFcRZoTrvqcUCtccMoQ",
  "handle": "@ShibuyaHajime",
  "subscribers": 161000,
- "fetched_at": "2026-11-24 05:19",
- "generated_at": "2026-11-24 05:19",
+ "fetched_at": "2026-11-25 05:18",
+ "generated_at": "2026-11-25 05:18",
  "period": {
-  "from": "2026-10-25 05:19",
-  "to": "2026-11-24 05:19",
+  "from": "2026-10-26 05:18",
+  "to": "2026-11-25 05:18",
   "days": 30
  },
  "streams_analyzed": 16,
  "streams_missed": 0,
- "unique_chatters": 217,
+ "unique_chatters": 249,
  "members_confirmed": 53,
  "member_classes": {
   "unknown": 53
@@ -26,12 +26,12 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 2
+   "members": 1
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 3
+   "members": 4
   },
   {
    "months": 6,
@@ -52,7 +52,7 @@
  "events": {
   "new_members": 2,
   "rejoins": 2,
-  "milestones": 12,
+  "milestones": 11,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -86,16 +86,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "ud0ZrCZKhWs",
-   "start": "2026-10-25 19:20",
-   "title": "【遊戯王マスターデュエル】DCLv17幻影騎士団で回す！！【にじさんじ/渋谷ハジメ】",
-   "kind": "配信",
-   "chatters": 39,
-   "member_chatters": 15,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "2pakFiPrCAg",
    "start": "2026-10-27 21:32",
@@ -245,6 +235,16 @@
    "member_chatters": 14,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "RKmgZOBwE0I",
+   "start": "2026-11-24 19:30",
+   "title": "【学園アイドルマスター】新米Pですよろしくお願いします。【にじさんじ/渋谷ハジメ】",
+   "kind": "配信",
+   "chatters": 85,
+   "member_chatters": 24,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -382,16 +382,16 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-24"
+    "to": "2026-11-25"
    },
-   "streams_analyzed": 13,
+   "streams_analyzed": 14,
    "streams_missed": 0,
-   "unique_chatters": 175,
-   "members_confirmed": 47,
+   "unique_chatters": 222,
+   "members_confirmed": 48,
    "member_classes": {
-    "unknown": 47
+    "unknown": 48
    },
-   "long_term_members": 35,
+   "long_term_members": 36,
    "badges": [
     {
      "months": 0,
@@ -399,11 +399,11 @@
     },
     {
      "months": 1,
-     "members": 2
+     "members": 1
     },
     {
      "months": 2,
-     "members": 3
+     "members": 4
     },
     {
      "months": 6,
@@ -415,7 +415,7 @@
     },
     {
      "months": 24,
-     "members": 29
+     "members": 30
     }
    ],
    "events": {
@@ -429,15 +429,15 @@
      "tier": "メンバーシップ",
      "price": 490,
      "confirmed_members": 0,
-     "estimated_members": 47.0
+     "estimated_members": 48.0
     }
    ],
    "revenue": {
-    "monthly_low": 14655,
-    "monthly_est": 14655,
+    "monthly_low": 14967,
+    "monthly_est": 14967,
     "gift_once": 0
    },
-   "avg_member_chatters": 19.6,
+   "avg_member_chatters": 19.9,
    "partial": true,
    "finalized": false
   }

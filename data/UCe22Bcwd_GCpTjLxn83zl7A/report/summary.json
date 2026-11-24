@@ -3,16 +3,16 @@
  "channel_id": "UCe22Bcwd_GCpTjLxn83zl7A",
  "handle": "@PontoNei",
  "subscribers": 322000,
- "fetched_at": "2026-11-24 05:29",
- "generated_at": "2026-11-24 05:30",
+ "fetched_at": "2026-11-25 05:27",
+ "generated_at": "2026-11-25 05:27",
  "period": {
-  "from": "2026-10-25 05:29",
-  "to": "2026-11-24 05:29",
+  "from": "2026-10-26 05:27",
+  "to": "2026-11-25 05:27",
   "days": 30
  },
  "streams_analyzed": 18,
  "streams_missed": 3,
- "unique_chatters": 1728,
+ "unique_chatters": 1695,
  "members_confirmed": 224,
  "member_classes": {
   "unknown": 215,
@@ -82,16 +82,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "Qc9K6eM0kYk",
-   "start": "2026-10-25 22:00",
-   "title": "【FE 万紫千紅│15】勢いのままに！いざダグシオンへ！ ※ネタバレ注意【先斗寧/にじさんじ】",
-   "kind": "配信",
-   "chatters": 329,
-   "member_chatters": 52,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "9mUM0Ixsq_I",
    "start": "2026-10-27 19:04",
@@ -261,6 +251,16 @@
    "member_chatters": 97,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "riypiX_H9Jw",
+   "start": "2026-11-24 22:00",
+   "title": "【FE 万紫千紅│24】瘴気やめませんかほんまに；； ※ネタバレ注意【先斗寧/にじさんじ】",
+   "kind": "配信",
+   "chatters": 188,
+   "member_chatters": 54,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -273,7 +273,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "バックヤード",
-   "like_count": 64,
+   "like_count": 65,
    "view_count": null
   },
   {
@@ -309,7 +309,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "バックヤード",
-   "like_count": 64,
+   "like_count": 65,
    "view_count": null
   },
   {
@@ -460,21 +460,21 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-24"
+    "to": "2026-11-25"
    },
-   "streams_analyzed": 14,
+   "streams_analyzed": 15,
    "streams_missed": 3,
-   "unique_chatters": 1503,
-   "members_confirmed": 218,
+   "unique_chatters": 1520,
+   "members_confirmed": 219,
    "member_classes": {
-    "unknown": 209,
+    "unknown": 210,
     "known": 9
    },
    "long_term_members": 165,
    "badges": [
     {
      "months": 0,
-     "members": 12
+     "members": 13
     },
     {
      "months": 1,
@@ -504,15 +504,15 @@
      "tier": "バックヤード",
      "price": 490,
      "confirmed_members": 9,
-     "estimated_members": 218.0
+     "estimated_members": 219.0
     }
    ],
    "revenue": {
-    "monthly_low": 67976,
-    "monthly_est": 67976,
+    "monthly_low": 68288,
+    "monthly_est": 68288,
     "gift_once": 0
    },
-   "avg_member_chatters": 71.4,
+   "avg_member_chatters": 70.2,
    "partial": true,
    "finalized": false
   }

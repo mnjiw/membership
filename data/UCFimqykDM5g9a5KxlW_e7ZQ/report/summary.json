@@ -3,46 +3,46 @@
  "channel_id": "UCFimqykDM5g9a5KxlW_e7ZQ",
  "handle": "@Onotora_Y4T4",
  "subscribers": 130000,
- "fetched_at": "2026-11-24 05:37",
- "generated_at": "2026-11-24 05:38",
+ "fetched_at": "2026-11-25 05:35",
+ "generated_at": "2026-11-25 05:36",
  "period": {
-  "from": "2026-10-25 05:37",
-  "to": "2026-11-24 05:37",
+  "from": "2026-10-26 05:35",
+  "to": "2026-11-25 05:35",
   "days": 30
  },
- "streams_analyzed": 26,
- "streams_missed": 2,
- "unique_chatters": 2671,
- "members_confirmed": 415,
+ "streams_analyzed": 25,
+ "streams_missed": 3,
+ "unique_chatters": 2462,
+ "members_confirmed": 371,
  "member_classes": {
-  "unknown": 344,
-  "known": 50,
-  "gift": 21
+  "unknown": 321,
+  "known": 49,
+  "gift": 1
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 86
+   "members": 68
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 31
+   "members": 29
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 298
+   "members": 274
   }
  ],
  "events": {
-  "new_members": 35,
+  "new_members": 34,
   "rejoins": 3,
   "milestones": 0,
-  "gift_purchases": 2,
-  "gifted_total": 21,
-  "gift_redemptions": 21
+  "gift_purchases": 1,
+  "gifted_total": 1,
+  "gift_redemptions": 1
  },
  "tiers_configured": true,
  "tiers": [
@@ -50,21 +50,21 @@
    "tier": "オノヘッズ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 50,
+   "confirmed_members": 49,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 344.0,
-   "estimated_members": 394.0,
-   "monthly_net_confirmed": 15591,
-   "monthly_net_estimated": 122856
+   "allocated_unknown": 321.0,
+   "estimated_members": 370.0,
+   "monthly_net_confirmed": 15279,
+   "monthly_net_estimated": 115373
   }
  ],
  "revenue": {
-  "monthly_low": 122856,
-  "monthly_est": 122856,
-  "gift_once": 6548,
-  "total_low": 129405,
-  "total_est": 129405,
-  "paying_members": 394,
+  "monthly_low": 115373,
+  "monthly_est": 115373,
+  "gift_once": 312,
+  "total_low": 115685,
+  "total_est": 115685,
+  "paying_members": 370,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "tuAZI-xlN4I",
-   "start": "2026-10-25 15:00",
-   "title": "【オーバーウォッチ】 #にじEX_OW 大会本番！俺が信じるわんおぺを信じろ。　#わんおぺWIN  【 にじさんじ / 男虎】",
-   "kind": "配信",
-   "chatters": 546,
-   "member_chatters": 225,
-   "new_members": 1,
-   "gifted_total": 20
-  },
   {
    "video_id": "5mnxhPCCF-4",
    "start": "2026-10-30 22:59",
@@ -358,6 +348,18 @@
    "members_level": "オノヘッズ",
    "like_count": 128,
    "view_count": null
+  },
+  {
+   "video_id": "Vc3Yqy6lFvw",
+   "start": "2026-11-25 00:10",
+   "title": "【メン限】ちゃんとした話【にじさんじ】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "オノヘッズ",
+   "like_count": 68,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -379,6 +381,16 @@
    "status": "members_only",
    "members_level": "オノヘッズ",
    "like_count": 128,
+   "view_count": null
+  },
+  {
+   "video_id": "Vc3Yqy6lFvw",
+   "start": "2026-11-25 00:10",
+   "title": "【メン限】ちゃんとした話【にじさんじ】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "オノヘッズ",
+   "like_count": 68,
    "view_count": null
   }
  ],
@@ -495,10 +507,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-24"
+    "to": "2026-11-25"
    },
    "streams_analyzed": 23,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 2329,
    "members_confirmed": 362,
    "member_classes": {

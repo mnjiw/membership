@@ -3,19 +3,19 @@
  "channel_id": "UCtLfA_qUqCJtjXJM2ZR_keg",
  "handle": "@IshigamiNozomi",
  "subscribers": 445000,
- "fetched_at": "2026-11-24 15:01",
- "generated_at": "2026-11-24 15:01",
+ "fetched_at": "2026-11-25 05:30",
+ "generated_at": "2026-11-25 05:30",
  "period": {
-  "from": "2026-10-25 15:01",
-  "to": "2026-11-24 15:01",
+  "from": "2026-10-26 05:30",
+  "to": "2026-11-25 05:30",
   "days": 30
  },
- "streams_analyzed": 19,
+ "streams_analyzed": 17,
  "streams_missed": 2,
- "unique_chatters": 9791,
- "members_confirmed": 2044,
+ "unique_chatters": 9403,
+ "members_confirmed": 1994,
  "member_classes": {
-  "unknown": 1953,
+  "unknown": 1903,
   "known": 76,
   "gift": 15
  },
@@ -23,36 +23,36 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 114
+   "members": 112
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 48
+   "members": 46
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 289
+   "members": 279
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 272
+   "members": 266
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 424
+   "members": 416
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 897
+   "members": 875
   }
  ],
  "events": {
-  "new_members": 44,
+  "new_members": 42,
   "rejoins": 17,
   "milestones": 0,
   "gift_purchases": 3,
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 76,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1953.0,
-   "estimated_members": 2029.0,
+   "allocated_unknown": 1903.0,
+   "estimated_members": 1979.0,
    "monthly_net_confirmed": 23698,
-   "monthly_net_estimated": 632679
+   "monthly_net_estimated": 617088
   }
  ],
  "revenue": {
-  "monthly_low": 632679,
-  "monthly_est": 632679,
+  "monthly_low": 617088,
+  "monthly_est": 617088,
   "gift_once": 4677,
-  "total_low": 637356,
-  "total_est": 637356,
-  "paying_members": 2029,
+  "total_low": 621765,
+  "total_est": 621765,
+  "paying_members": 1979,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,26 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "PSYh60ERmxE",
-   "start": "2026-10-25 15:11",
-   "title": "今この世で一番美味いバーガー、バーガーキングのチキンピックルボールバーガー",
-   "kind": "配信",
-   "chatters": 1172,
-   "member_chatters": 488,
-   "new_members": 2,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "QrsS6juw6OM",
-   "start": "2026-10-25 20:16",
-   "title": "【 インボキア 】ジュマンジらしいゲームいくぞ！！！！！！！！！！！！【花畑チャイカと珠乃井ナナと十河ののは】",
-   "kind": "配信",
-   "chatters": 623,
-   "member_chatters": 356,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "fkzibaDwqYk",
    "start": "2026-10-26 20:32",
@@ -289,7 +269,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 725,
+   "like_count": 726,
    "view_count": null
   },
   {
@@ -301,8 +281,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 1049,
-   "view_count": 107802
+   "like_count": 1083,
+   "view_count": 112755
   }
  ],
  "members_only_content": [
@@ -313,7 +293,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 725,
+   "like_count": 726,
    "view_count": null
   }
  ],
@@ -453,7 +433,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-24"
+    "to": "2026-11-25"
    },
    "streams_analyzed": 12,
    "streams_missed": 2,

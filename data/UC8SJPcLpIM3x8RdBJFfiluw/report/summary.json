@@ -3,27 +3,27 @@
  "channel_id": "UC8SJPcLpIM3x8RdBJFfiluw",
  "handle": "@Kaisei_nijisanji",
  "subscribers": 367000,
- "fetched_at": "2026-11-24 15:01",
- "generated_at": "2026-11-24 15:02",
+ "fetched_at": "2026-11-25 05:33",
+ "generated_at": "2026-11-25 05:33",
  "period": {
-  "from": "2026-10-25 15:01",
-  "to": "2026-11-24 15:01",
+  "from": "2026-10-26 05:33",
+  "to": "2026-11-25 05:33",
   "days": 30
  },
- "streams_analyzed": 36,
- "streams_missed": 1,
- "unique_chatters": 7683,
- "members_confirmed": 1348,
+ "streams_analyzed": 35,
+ "streams_missed": 2,
+ "unique_chatters": 7657,
+ "members_confirmed": 1345,
  "member_classes": {
-  "unknown": 1211,
-  "known": 64,
+  "unknown": 1209,
+  "known": 63,
   "gift": 73
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 131
+   "members": 130
   },
   {
    "months": 1,
@@ -43,11 +43,11 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 818
+   "members": 816
   }
  ],
  "events": {
-  "new_members": 29,
+  "new_members": 28,
   "rejoins": 16,
   "milestones": 0,
   "gift_purchases": 7,
@@ -60,21 +60,21 @@
    "tier": "ファンキーな錠連",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 64,
+   "confirmed_members": 63,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1211.0,
-   "estimated_members": 1275.0,
-   "monthly_net_confirmed": 19956,
-   "monthly_net_estimated": 397568
+   "allocated_unknown": 1209.0,
+   "estimated_members": 1272.0,
+   "monthly_net_confirmed": 19645,
+   "monthly_net_estimated": 396633
   }
  ],
  "revenue": {
-  "monthly_low": 397568,
-  "monthly_est": 397568,
+  "monthly_low": 396633,
+  "monthly_est": 396633,
   "gift_once": 24634,
-  "total_low": 422202,
-  "total_est": 422202,
-  "paying_members": 1275,
+  "total_low": 421266,
+  "total_est": 421266,
+  "paying_members": 1272,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "OltPTr9qZ28",
-   "start": "2026-10-25 20:02",
-   "title": "【セミたちはどう生きるか】セミ完全体になる【魁星/にじさんじ】",
-   "kind": "配信",
-   "chatters": 366,
-   "member_chatters": 267,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "BbUTDouDzS4",
    "start": "2026-10-26 06:02",
@@ -456,6 +446,18 @@
    "members_level": "",
    "like_count": 423,
    "view_count": null
+  },
+  {
+   "video_id": "Zb78cga7dn8",
+   "start": "2026-11-24 00:00",
+   "title": "【スプラトゥーン3】A帯の洗礼を浴びに行く【魁星/にじさんじ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 879,
+   "view_count": 34175
   }
  ],
  "members_only_content": [
@@ -599,10 +601,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-24"
+    "to": "2026-11-25"
    },
    "streams_analyzed": 31,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 7225,
    "members_confirmed": 1196,
    "member_classes": {

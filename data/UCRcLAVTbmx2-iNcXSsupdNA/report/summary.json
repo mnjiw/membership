@@ -3,67 +3,67 @@
  "channel_id": "UCRcLAVTbmx2-iNcXSsupdNA",
  "handle": "@KurusuNatsume",
  "subscribers": 268000,
- "fetched_at": "2026-11-24 05:25",
- "generated_at": "2026-11-24 05:26",
+ "fetched_at": "2026-11-25 05:24",
+ "generated_at": "2026-11-25 05:25",
  "period": {
-  "from": "2026-10-25 05:25",
-  "to": "2026-11-24 05:25",
+  "from": "2026-10-26 05:24",
+  "to": "2026-11-25 05:24",
   "days": 30
  },
- "streams_analyzed": 21,
+ "streams_analyzed": 20,
  "streams_missed": 11,
- "unique_chatters": 1111,
- "members_confirmed": 518,
+ "unique_chatters": 1006,
+ "members_confirmed": 481,
  "member_classes": {
-  "unknown": 472,
-  "known": 36,
+  "unknown": 440,
+  "known": 31,
   "gift": 10
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 28
+   "members": 27
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 11
+   "members": 9
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 20
+   "members": 19
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 42
+   "members": 38
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 68
+   "members": 64
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 56
+   "members": 51
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 83
+   "members": 78
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 91
+   "members": 83
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 97
+   "members": 90
   },
   {
    "months": 72,
@@ -72,8 +72,8 @@
   }
  ],
  "events": {
-  "new_members": 14,
-  "rejoins": 14,
+  "new_members": 12,
+  "rejoins": 13,
   "milestones": 0,
   "gift_purchases": 2,
   "gifted_total": 10,
@@ -85,32 +85,32 @@
    "tier": "なつめいとスタンダード",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 30,
-   "share_of_confirmed_pct": 83.3,
-   "allocated_unknown": 393.3,
-   "estimated_members": 423.3,
-   "monthly_net_confirmed": 9355,
-   "monthly_net_estimated": 132003
+   "confirmed_members": 27,
+   "share_of_confirmed_pct": 87.1,
+   "allocated_unknown": 383.2,
+   "estimated_members": 410.2,
+   "monthly_net_confirmed": 8419,
+   "monthly_net_estimated": 127916
   },
   {
    "tier": "なつめいとクリエイティブ",
    "price": 1190,
    "net_per_member": 757.3,
-   "confirmed_members": 6,
-   "share_of_confirmed_pct": 16.7,
-   "allocated_unknown": 78.7,
-   "estimated_members": 84.7,
-   "monthly_net_confirmed": 4544,
-   "monthly_net_estimated": 64116
+   "confirmed_members": 4,
+   "share_of_confirmed_pct": 12.9,
+   "allocated_unknown": 56.8,
+   "estimated_members": 60.8,
+   "monthly_net_confirmed": 3029,
+   "monthly_net_estimated": 46023
   }
  ],
  "revenue": {
-  "monthly_low": 161076,
-  "monthly_est": 196119,
+  "monthly_low": 148648,
+  "monthly_est": 173939,
   "gift_once": 3118,
-  "total_low": 164195,
-  "total_est": 199237,
-  "paying_members": 508,
+  "total_low": 151766,
+  "total_est": 177057,
+  "paying_members": 471,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -119,16 +119,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "ghLOIzJ7CSo",
-   "start": "2026-10-25 20:01",
-   "title": "果樹と辞書が増えたしクリスマスは待ち遠しい【来栖夏芽/にじさんじ】",
-   "kind": "配信",
-   "chatters": 393,
-   "member_chatters": 242,
-   "new_members": 2,
-   "gifted_total": 0
-  },
   {
    "video_id": "B_fjbOnS3B0",
    "start": "2026-10-31 18:00",
@@ -376,7 +366,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "なつめいとスタンダード",
-   "like_count": 237,
+   "like_count": 238,
    "view_count": null
   },
   {
@@ -460,7 +450,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 83,
+   "like_count": 84,
    "view_count": null
   }
  ],
@@ -502,7 +492,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "なつめいとスタンダード",
-   "like_count": 237,
+   "like_count": 238,
    "view_count": null
   },
   {
@@ -572,7 +562,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 83,
+   "like_count": 84,
    "view_count": null
   }
  ],
@@ -757,7 +747,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-24"
+    "to": "2026-11-25"
    },
    "streams_analyzed": 19,
    "streams_missed": 8,

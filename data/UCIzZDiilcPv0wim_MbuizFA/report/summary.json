@@ -3,27 +3,27 @@
  "channel_id": "UCIzZDiilcPv0wim_MbuizFA",
  "handle": "@RyomaBarrenwort",
  "subscribers": 81200,
- "fetched_at": "2026-11-24 15:02",
- "generated_at": "2026-11-24 15:03",
+ "fetched_at": "2026-11-25 05:38",
+ "generated_at": "2026-11-25 05:38",
  "period": {
-  "from": "2026-10-25 15:02",
-  "to": "2026-11-24 15:02",
+  "from": "2026-10-26 05:38",
+  "to": "2026-11-25 05:38",
   "days": 30
  },
- "streams_analyzed": 5,
- "streams_missed": 1,
- "unique_chatters": 177,
- "members_confirmed": 50,
+ "streams_analyzed": 6,
+ "streams_missed": 0,
+ "unique_chatters": 193,
+ "members_confirmed": 54,
  "member_classes": {
   "unknown": 20,
-  "known": 15,
-  "gift": 15
+  "known": 18,
+  "gift": 16
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 14
+   "members": 15
   },
   {
    "months": 1,
@@ -43,21 +43,21 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 19
+   "members": 20
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 12
+   "members": 14
   }
  ],
  "events": {
   "new_members": 0,
   "rejoins": 0,
-  "milestones": 10,
-  "gift_purchases": 7,
-  "gifted_total": 15,
-  "gift_redemptions": 15
+  "milestones": 13,
+  "gift_purchases": 8,
+  "gifted_total": 16,
+  "gift_redemptions": 16
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +65,21 @@
    "tier": "Ryonins",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 15,
+   "confirmed_members": 18,
    "share_of_confirmed_pct": 100.0,
    "allocated_unknown": 20.0,
-   "estimated_members": 35.0,
-   "monthly_net_confirmed": 6586,
-   "monthly_net_estimated": 15368
+   "estimated_members": 38.0,
+   "monthly_net_confirmed": 7904,
+   "monthly_net_estimated": 16685
   }
  ],
  "revenue": {
-  "monthly_low": 15368,
-  "monthly_est": 15368,
-  "gift_once": 6586,
-  "total_low": 21955,
-  "total_est": 21955,
-  "paying_members": 35,
+  "monthly_low": 16685,
+  "monthly_est": 16685,
+  "gift_once": 7025,
+  "total_low": 23711,
+  "total_est": 23711,
+  "paying_members": 38,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -137,22 +137,19 @@
    "member_chatters": 28,
    "new_members": 0,
    "gifted_total": 6
-  }
- ],
- "missed_streams": [
+  },
   {
    "video_id": "HrOZipNAjYE",
-   "start": "2026-11-24 00:00",
+   "start": "2026-11-24 11:53",
    "title": "un-rusting [ 日本語字幕 ] | APEX Legends",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 175,
-   "view_count": 954
+   "kind": "配信",
+   "chatters": 39,
+   "member_chatters": 17,
+   "new_members": 0,
+   "gifted_total": 1
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -291,22 +288,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-24"
+    "to": "2026-11-25"
    },
-   "streams_analyzed": 4,
-   "streams_missed": 1,
-   "unique_chatters": 160,
-   "members_confirmed": 45,
+   "streams_analyzed": 5,
+   "streams_missed": 0,
+   "unique_chatters": 176,
+   "members_confirmed": 49,
    "member_classes": {
-    "known": 12,
+    "known": 15,
     "unknown": 19,
-    "gift": 14
+    "gift": 15
    },
-   "long_term_members": 27,
+   "long_term_members": 30,
    "badges": [
     {
      "months": 0,
-     "members": 13
+     "members": 14
     },
     {
      "months": 1,
@@ -322,33 +319,33 @@
     },
     {
      "months": 12,
-     "members": 16
+     "members": 17
     },
     {
      "months": 24,
-     "members": 11
+     "members": 13
     }
    ],
    "events": {
     "new_members": 0,
     "rejoins": 0,
-    "milestones": 7,
-    "gifted_total": 14
+    "milestones": 10,
+    "gifted_total": 15
    },
    "tiers": [
     {
      "tier": "Ryonins",
      "price": 690,
-     "confirmed_members": 12,
-     "estimated_members": 31.0
+     "confirmed_members": 15,
+     "estimated_members": 34.0
     }
    ],
    "revenue": {
-    "monthly_low": 13612,
-    "monthly_est": 13612,
-    "gift_once": 6147
+    "monthly_low": 14929,
+    "monthly_est": 14929,
+    "gift_once": 6586
    },
-   "avg_member_chatters": 19.2,
+   "avg_member_chatters": 18.8,
    "partial": true,
    "finalized": false
   }

@@ -3,15 +3,15 @@
  "channel_id": "UCRV9d6YCYIMUszK-83TwxVA",
  "handle": "@TodorokiKyoko",
  "subscribers": 148000,
- "fetched_at": "2026-11-24 05:19",
- "generated_at": "2026-11-24 05:19",
+ "fetched_at": "2026-11-25 05:19",
+ "generated_at": "2026-11-25 05:19",
  "period": {
-  "from": "2026-10-25 05:19",
-  "to": "2026-11-24 05:19",
+  "from": "2026-10-26 05:19",
+  "to": "2026-11-25 05:19",
   "days": 30
  },
  "streams_analyzed": 12,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 319,
  "members_confirmed": 34,
  "member_classes": {
@@ -197,7 +197,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "5o0XBgr5xho",
+   "start": "2026-11-24 00:00",
+   "title": "【 🎮 ゼルダの伝説 時のオカリナ / #9】行ったことないところに行ってみよう！探検だ！【にじさんじ/轟京子】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 271,
+   "view_count": 6970
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -318,10 +331,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-24"
+    "to": "2026-11-25"
    },
    "streams_analyzed": 9,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 190,
    "members_confirmed": 27,
    "member_classes": {

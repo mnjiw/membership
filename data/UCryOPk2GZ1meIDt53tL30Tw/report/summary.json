@@ -3,11 +3,11 @@
  "channel_id": "UCryOPk2GZ1meIDt53tL30Tw",
  "handle": "@SuzukiMasaru",
  "subscribers": 332000,
- "fetched_at": "2026-11-24 05:19",
- "generated_at": "2026-11-24 05:20",
+ "fetched_at": "2026-11-25 05:19",
+ "generated_at": "2026-11-25 05:19",
  "period": {
-  "from": "2026-10-25 05:19",
-  "to": "2026-11-24 05:19",
+  "from": "2026-10-26 05:19",
+  "to": "2026-11-25 05:19",
   "days": 30
  },
  "streams_analyzed": 9,
@@ -170,18 +170,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "8VRd4t9N0Gk",
-   "start": "2026-10-25 21:04",
-   "title": "【メン限】『チェンソーマン総集編 前編』 同時視聴する 2026.10.25",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 41,
-   "view_count": null
-  },
-  {
    "video_id": "PkgMXQZrTLs",
    "start": "2026-11-01 21:09",
    "title": "【メン限】『チェンソーマン総集編 後編』 同時視聴する 2026.11.1",
@@ -228,19 +216,21 @@
    "members_level": "",
    "like_count": 37,
    "view_count": null
+  },
+  {
+   "video_id": "WyU03DKXkgA",
+   "start": "2026-11-24 00:00",
+   "title": "【360°配信】VR de CHAT in 自宅3Dスタジオ【鈴木勝/にじさんじ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 560,
+   "view_count": 8768
   }
  ],
  "members_only_content": [
-  {
-   "video_id": "8VRd4t9N0Gk",
-   "start": "2026-10-25 21:04",
-   "title": "【メン限】『チェンソーマン総集編 前編』 同時視聴する 2026.10.25",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 41,
-   "view_count": null
-  },
   {
    "video_id": "PkgMXQZrTLs",
    "start": "2026-11-01 21:09",
@@ -397,10 +387,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-24"
+    "to": "2026-11-25"
    },
    "streams_analyzed": 6,
-   "streams_missed": 4,
+   "streams_missed": 5,
    "unique_chatters": 553,
    "members_confirmed": 156,
    "member_classes": {

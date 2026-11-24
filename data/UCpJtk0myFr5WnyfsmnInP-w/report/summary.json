@@ -3,19 +3,19 @@
  "channel_id": "UCpJtk0myFr5WnyfsmnInP-w",
  "handle": "@HanaMacchia",
  "subscribers": 279000,
- "fetched_at": "2026-11-24 05:30",
- "generated_at": "2026-11-24 05:30",
+ "fetched_at": "2026-11-25 05:29",
+ "generated_at": "2026-11-25 05:29",
  "period": {
-  "from": "2026-10-25 05:30",
-  "to": "2026-11-24 05:30",
+  "from": "2026-10-26 05:29",
+  "to": "2026-11-25 05:29",
   "days": 30
  },
- "streams_analyzed": 11,
+ "streams_analyzed": 9,
  "streams_missed": 1,
- "unique_chatters": 385,
- "members_confirmed": 68,
+ "unique_chatters": 286,
+ "members_confirmed": 57,
  "member_classes": {
-  "unknown": 53,
+  "unknown": 42,
   "known": 10,
   "gift": 5
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 7
+   "members": 6
   },
   {
    "months": 2,
@@ -43,13 +43,13 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 55
+   "members": 45
   }
  ],
  "events": {
   "new_members": 0,
   "rejoins": 1,
-  "milestones": 3,
+  "milestones": 1,
   "gift_purchases": 1,
   "gifted_total": 5,
   "gift_redemptions": 5
@@ -62,19 +62,19 @@
    "net_per_member": 439.1,
    "confirmed_members": 10,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 53.0,
-   "estimated_members": 63.0,
+   "allocated_unknown": 42.0,
+   "estimated_members": 52.0,
    "monthly_net_confirmed": 4391,
-   "monthly_net_estimated": 27663
+   "monthly_net_estimated": 22833
   }
  ],
  "revenue": {
-  "monthly_low": 27663,
-  "monthly_est": 27663,
+  "monthly_low": 22833,
+  "monthly_est": 22833,
   "gift_once": 2195,
-  "total_low": 29858,
-  "total_est": 29858,
-  "paying_members": 63,
+  "total_low": 25028,
+  "total_est": 25028,
+  "paying_members": 52,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,26 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "duuDmSUlJKQ",
-   "start": "2026-10-25 12:18",
-   "title": "(Free Talk) tiny yaps because i'm bored teehee【NIJISANJI | Hana Macchia】",
-   "kind": "配信",
-   "chatters": 108,
-   "member_chatters": 21,
-   "new_members": 0,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "ATslFVJBJyk",
-   "start": "2026-10-25 23:03",
-   "title": "(Dressmaker) better late than never let's make terrible dresses /sarcasm【NIJISANJI | Hana Macchia】",
-   "kind": "配信",
-   "chatters": 87,
-   "member_chatters": 27,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "UWONiNkLbyc",
    "start": "2026-10-26 23:39",
@@ -336,7 +316,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-24"
+    "to": "2026-11-25"
    },
    "streams_analyzed": 5,
    "streams_missed": 1,

@@ -3,15 +3,15 @@
  "channel_id": "UCtnO2N4kPTXmyvedjGWdx3Q",
  "handle": "@LeviElipha",
  "subscribers": 375000,
- "fetched_at": "2026-11-24 14:59",
- "generated_at": "2026-11-24 14:59",
+ "fetched_at": "2026-11-25 05:22",
+ "generated_at": "2026-11-25 05:22",
  "period": {
-  "from": "2026-10-25 14:59",
-  "to": "2026-11-24 14:59",
+  "from": "2026-10-26 05:22",
+  "to": "2026-11-25 05:22",
   "days": 30
  },
  "streams_analyzed": 23,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 632,
  "members_confirmed": 103,
  "member_classes": {
@@ -336,7 +336,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "-C9YMtsp0SE",
+   "start": "2026-11-24 00:00",
+   "title": "#6【ゼルダの伝説 時のオカリナ】大人リンクダンジョン最難関⁉水の神殿へ行くゾウ🐘🐘【にじさんじ/レヴィ・エリファ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 296,
+   "view_count": 10970
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -491,10 +504,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-24"
+    "to": "2026-11-25"
    },
    "streams_analyzed": 19,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 552,
    "members_confirmed": 100,
    "member_classes": {
