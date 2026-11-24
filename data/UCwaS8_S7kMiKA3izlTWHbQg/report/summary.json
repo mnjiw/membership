@@ -3,16 +3,16 @@
  "channel_id": "UCwaS8_S7kMiKA3izlTWHbQg",
  "handle": "@MariaMarionette",
  "subscribers": 479000,
- "fetched_at": "2026-11-24 05:39",
- "generated_at": "2026-11-24 05:39",
+ "fetched_at": "2026-11-24 15:02",
+ "generated_at": "2026-11-24 15:02",
  "period": {
-  "from": "2026-10-25 05:39",
-  "to": "2026-11-24 05:39",
+  "from": "2026-10-25 15:02",
+  "to": "2026-11-24 15:02",
   "days": 30
  },
- "streams_analyzed": 21,
- "streams_missed": 4,
- "unique_chatters": 1032,
+ "streams_analyzed": 22,
+ "streams_missed": 3,
+ "unique_chatters": 1040,
  "members_confirmed": 175,
  "member_classes": {
   "unknown": 81,
@@ -54,7 +54,7 @@
  "events": {
   "new_members": 2,
   "rejoins": 3,
-  "milestones": 32,
+  "milestones": 33,
   "gift_purchases": 11,
   "gifted_total": 46,
   "gift_redemptions": 46
@@ -297,6 +297,16 @@
    "member_chatters": 24,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "J8z5meHS-pc",
+   "start": "2026-11-23 16:01",
+   "title": "FINAL BOSS - Cult of the Lamb #5 First Playthrough【Maria Marionette | NIJISANJI EN】",
+   "kind": "配信",
+   "chatters": 63,
+   "member_chatters": 27,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -335,18 +345,6 @@
    "members_level": "",
    "like_count": 13,
    "view_count": null
-  },
-  {
-   "video_id": "J8z5meHS-pc",
-   "start": "2026-11-23 00:00",
-   "title": "FINAL BOSS - Cult of the Lamb #5 First Playthrough【Maria Marionette | NIJISANJI EN】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 429,
-   "view_count": 9858
   }
  ],
  "members_only_content": [
@@ -530,9 +528,9 @@
     "from": "2026-11-01",
     "to": "2026-11-24"
    },
-   "streams_analyzed": 17,
-   "streams_missed": 4,
-   "unique_chatters": 757,
+   "streams_analyzed": 18,
+   "streams_missed": 3,
+   "unique_chatters": 765,
    "members_confirmed": 145,
    "member_classes": {
     "known": 40,
@@ -569,7 +567,7 @@
    "events": {
     "new_members": 2,
     "rejoins": 2,
-    "milestones": 20,
+    "milestones": 21,
     "gifted_total": 41
    },
    "tiers": [
@@ -585,7 +583,7 @@
     "monthly_est": 32429,
     "gift_once": 12785
    },
-   "avg_member_chatters": 28.5,
+   "avg_member_chatters": 28.4,
    "partial": true,
    "finalized": false
   }

@@ -3,16 +3,16 @@
  "channel_id": "UCfQVs_KuXeNAlGa3fb8rlnQ",
  "handle": "@SakuraRitsuki",
  "subscribers": 281000,
- "fetched_at": "2026-11-24 05:22",
- "generated_at": "2026-11-24 05:22",
+ "fetched_at": "2026-11-24 14:59",
+ "generated_at": "2026-11-24 14:59",
  "period": {
-  "from": "2026-10-25 05:22",
-  "to": "2026-11-24 05:22",
+  "from": "2026-10-25 14:59",
+  "to": "2026-11-24 14:59",
   "days": 30
  },
  "streams_analyzed": 31,
  "streams_missed": 3,
- "unique_chatters": 997,
+ "unique_chatters": 1294,
  "members_confirmed": 126,
  "member_classes": {
   "unknown": 90,
@@ -38,12 +38,12 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 14
+   "members": 13
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 5
+   "members": 6
   },
   {
    "months": 36,
@@ -59,7 +59,7 @@
  "events": {
   "new_members": 0,
   "rejoins": 1,
-  "milestones": 16,
+  "milestones": 15,
   "gift_purchases": 2,
   "gifted_total": 15,
   "gift_redemptions": 15
@@ -104,16 +104,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "8gNRB37mhDk",
-   "start": "2026-10-25 13:04",
-   "title": "【健康スプラ】 負けたら筋トレ 対面強化します！前張り頑張る！【にじさんじ/桜凛月】",
-   "kind": "配信",
-   "chatters": 63,
-   "member_chatters": 26,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "UqcS9NKStqA",
    "start": "2026-10-26 11:03",
@@ -413,6 +403,16 @@
    "member_chatters": 54,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "H0zQil3ZIEw",
+   "start": "2026-11-24 12:00",
+   "title": "【ゲストさんに聞いた10の質問】第44回 ゲストさんに聞いた10の質問  叢雲カゲツ様【にじさんじ/桜凛月】",
+   "kind": "配信",
+   "chatters": 339,
+   "member_chatters": 24,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -651,16 +651,16 @@
     "from": "2026-11-01",
     "to": "2026-11-24"
    },
-   "streams_analyzed": 19,
+   "streams_analyzed": 20,
    "streams_missed": 2,
-   "unique_chatters": 810,
-   "members_confirmed": 119,
+   "unique_chatters": 1113,
+   "members_confirmed": 120,
    "member_classes": {
     "known": 21,
-    "unknown": 83,
+    "unknown": 84,
     "gift": 15
    },
-   "long_term_members": 91,
+   "long_term_members": 92,
    "badges": [
     {
      "months": 0,
@@ -680,7 +680,7 @@
     },
     {
      "months": 24,
-     "members": 5
+     "members": 6
     },
     {
      "months": 36,
@@ -702,21 +702,21 @@
      "tier": "桜ンボの箱舟",
      "price": 490,
      "confirmed_members": 10,
-     "estimated_members": 49.5
+     "estimated_members": 50.0
     },
     {
      "tier": "桜SP",
      "price": 3490,
      "confirmed_members": 11,
-     "estimated_members": 54.5
+     "estimated_members": 55.0
     }
    ],
    "revenue": {
-    "monthly_low": 53429,
-    "monthly_est": 136429,
+    "monthly_low": 53741,
+    "monthly_est": 137741,
     "gift_once": 4677
    },
-   "avg_member_chatters": 38.3,
+   "avg_member_chatters": 37.5,
    "partial": true,
    "finalized": false
   }

@@ -3,19 +3,19 @@
  "channel_id": "UCHVSA2OScyef9W7OwPGgJ9w",
  "handle": "@ShiroseIsumi",
  "subscribers": 149000,
- "fetched_at": "2026-11-24 05:37",
- "generated_at": "2026-11-24 05:37",
+ "fetched_at": "2026-11-24 15:02",
+ "generated_at": "2026-11-24 15:02",
  "period": {
-  "from": "2026-10-25 05:37",
-  "to": "2026-11-24 05:37",
+  "from": "2026-10-25 15:02",
+  "to": "2026-11-24 15:02",
   "days": 30
  },
- "streams_analyzed": 23,
+ "streams_analyzed": 24,
  "streams_missed": 2,
- "unique_chatters": 2648,
- "members_confirmed": 213,
+ "unique_chatters": 2686,
+ "members_confirmed": 218,
  "member_classes": {
-  "unknown": 161,
+  "unknown": 166,
   "known": 38,
   "gift": 14
  },
@@ -23,17 +23,17 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 54
+   "members": 55
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 20
+   "members": 19
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 37
+   "members": 41
   },
   {
    "months": 6,
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 59
+   "members": 60
   }
  ],
  "events": {
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 38,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 161.0,
-   "estimated_members": 199.0,
+   "allocated_unknown": 166.0,
+   "estimated_members": 204.0,
    "monthly_net_confirmed": 11849,
-   "monthly_net_estimated": 62052
+   "monthly_net_estimated": 63611
   }
  ],
  "revenue": {
-  "monthly_low": 62052,
-  "monthly_est": 62052,
+  "monthly_low": 63611,
+  "monthly_est": 63611,
   "gift_once": 4365,
-  "total_low": 66417,
-  "total_est": 66417,
-  "paying_members": 199,
+  "total_low": 67976,
+  "total_est": 67976,
+  "paying_members": 204,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -312,6 +312,16 @@
    "member_chatters": 38,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "QRzXSTmmJxM",
+   "start": "2026-11-24 07:00",
+   "title": "[Morning Activity] Just after the long weekend? You're telling a sophisticated lie. I won't be fo...",
+   "kind": "配信",
+   "chatters": 129,
+   "member_chatters": 49,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -488,28 +498,28 @@
     "from": "2026-11-01",
     "to": "2026-11-24"
    },
-   "streams_analyzed": 17,
+   "streams_analyzed": 18,
    "streams_missed": 1,
-   "unique_chatters": 1169,
-   "members_confirmed": 187,
+   "unique_chatters": 1209,
+   "members_confirmed": 192,
    "member_classes": {
-    "unknown": 141,
+    "unknown": 146,
     "known": 34,
     "gift": 12
    },
-   "long_term_members": 55,
+   "long_term_members": 56,
    "badges": [
     {
      "months": 0,
-     "members": 45
+     "members": 46
     },
     {
      "months": 1,
-     "members": 19
+     "members": 18
     },
     {
      "months": 2,
-     "members": 32
+     "members": 36
     },
     {
      "months": 6,
@@ -517,7 +527,7 @@
     },
     {
      "months": 12,
-     "members": 55
+     "members": 56
     }
    ],
    "events": {
@@ -531,15 +541,15 @@
      "tier": "くらすみゃいと",
      "price": 490,
      "confirmed_members": 34,
-     "estimated_members": 175.0
+     "estimated_members": 180.0
     }
    ],
    "revenue": {
-    "monthly_low": 54568,
-    "monthly_est": 54568,
+    "monthly_low": 56127,
+    "monthly_est": 56127,
     "gift_once": 3742
    },
-   "avg_member_chatters": 43,
+   "avg_member_chatters": 43.3,
    "partial": true,
    "finalized": false
   }

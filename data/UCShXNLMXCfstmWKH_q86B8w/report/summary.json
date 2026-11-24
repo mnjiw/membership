@@ -3,48 +3,48 @@
  "channel_id": "UCShXNLMXCfstmWKH_q86B8w",
  "handle": "@Kano_",
  "subscribers": 542000,
- "fetched_at": "2026-11-24 06:42",
- "generated_at": "2026-11-24 06:42",
+ "fetched_at": "2026-11-24 15:07",
+ "generated_at": "2026-11-24 15:08",
  "period": {
-  "from": "2026-10-25 06:42",
-  "to": "2026-11-24 06:42",
+  "from": "2026-10-25 15:07",
+  "to": "2026-11-24 15:07",
   "days": 30
  },
  "streams_analyzed": 17,
- "streams_missed": 2,
- "unique_chatters": 1403,
- "members_confirmed": 362,
+ "streams_missed": 1,
+ "unique_chatters": 1305,
+ "members_confirmed": 349,
  "member_classes": {
-  "known": 83,
-  "unknown": 241,
+  "known": 78,
+  "unknown": 233,
   "gift": 38
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 88
+   "members": 81
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 18
+   "members": 17
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 131
+   "members": 130
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 125
+   "members": 121
   }
  ],
  "events": {
-  "new_members": 18,
+  "new_members": 13,
   "rejoins": 0,
-  "milestones": 40,
+  "milestones": 27,
   "gift_purchases": 7,
   "gifted_total": 38,
   "gift_redemptions": 38
@@ -55,32 +55,32 @@
    "tier": "ばんび～の",
    "price": 290,
    "net_per_member": 184.5,
-   "confirmed_members": 22,
-   "share_of_confirmed_pct": 26.5,
-   "allocated_unknown": 63.9,
-   "estimated_members": 85.9,
-   "monthly_net_confirmed": 4060,
-   "monthly_net_estimated": 15849
+   "confirmed_members": 21,
+   "share_of_confirmed_pct": 26.9,
+   "allocated_unknown": 62.7,
+   "estimated_members": 83.7,
+   "monthly_net_confirmed": 3875,
+   "monthly_net_estimated": 15452
   },
   {
    "tier": "鹿友",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 61,
-   "share_of_confirmed_pct": 73.5,
-   "allocated_unknown": 177.1,
-   "estimated_members": 238.1,
-   "monthly_net_confirmed": 26785,
-   "monthly_net_estimated": 104557
+   "confirmed_members": 57,
+   "share_of_confirmed_pct": 73.1,
+   "allocated_unknown": 170.3,
+   "estimated_members": 227.3,
+   "monthly_net_confirmed": 25028,
+   "monthly_net_estimated": 99792
   }
  ],
  "revenue": {
-  "monthly_low": 75320,
-  "monthly_est": 120405,
+  "monthly_low": 71903,
+  "monthly_est": 115244,
   "gift_once": 7013,
-  "total_low": 82333,
-  "total_est": 127418,
-  "paying_members": 324,
+  "total_low": 78915,
+  "total_est": 122257,
+  "paying_members": 311,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -89,16 +89,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "OFNccogcP44",
-   "start": "2026-10-25 12:03",
-   "title": "【Supermarket Chaos】お掃除好きの私が汚世界を救済するට⩊ටಇ【鹿乃まほろ/ミリプロ】",
-   "kind": "配信",
-   "chatters": 315,
-   "member_chatters": 127,
-   "new_members": 5,
-   "gifted_total": 0
-  },
   {
    "video_id": "oXXXfkwBNhU",
    "start": "2026-10-29 18:00",
@@ -258,6 +248,16 @@
    "member_chatters": 47,
    "new_members": 2,
    "gifted_total": 10
+  },
+  {
+   "video_id": "7ErM_QlcdcY",
+   "start": "2026-11-23 19:01",
+   "title": "【Apex Legends】ぶいすぽGG本番！れつご～！【鹿乃まほろ/ミリプロ】with / 秋雪こはく・絲依とい",
+   "kind": "配信",
+   "chatters": 85,
+   "member_chatters": 49,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -272,18 +272,6 @@
    "members_level": "",
    "like_count": 566,
    "view_count": 14859
-  },
-  {
-   "video_id": "7ErM_QlcdcY",
-   "start": "2026-11-23 00:00",
-   "title": "【Apex Legends】ぶいすぽGG本番！れつご～！【鹿乃まほろ/ミリプロ】with / 秋雪こはく・絲依とい",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 589,
-   "view_count": 22197
   }
  ],
  "members_only_content": [],
@@ -405,13 +393,13 @@
     "from": "2026-11-01",
     "to": "2026-11-24"
    },
-   "streams_analyzed": 14,
-   "streams_missed": 2,
-   "unique_chatters": 1139,
-   "members_confirmed": 294,
+   "streams_analyzed": 15,
+   "streams_missed": 1,
+   "unique_chatters": 1152,
+   "members_confirmed": 297,
    "member_classes": {
     "known": 73,
-    "unknown": 198,
+    "unknown": 201,
     "gift": 23
    },
    "long_term_members": 0,
@@ -426,7 +414,7 @@
     },
     {
      "months": 2,
-     "members": 113
+     "members": 116
     },
     {
      "months": 6,
@@ -444,21 +432,21 @@
      "tier": "ばんび～の",
      "price": 290,
      "confirmed_members": 19,
-     "estimated_members": 70.5
+     "estimated_members": 71.3
     },
     {
      "tier": "鹿友",
      "price": 690,
      "confirmed_members": 54,
-     "estimated_members": 200.5
+     "estimated_members": 202.7
     }
    ],
    "revenue": {
-    "monthly_low": 63757,
-    "monthly_est": 101039,
+    "monthly_low": 64311,
+    "monthly_est": 102158,
     "gift_once": 4245
    },
-   "avg_member_chatters": 75.2,
+   "avg_member_chatters": 73.5,
    "partial": true,
    "finalized": false
   }

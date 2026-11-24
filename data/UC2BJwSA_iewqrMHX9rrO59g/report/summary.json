@@ -3,16 +3,16 @@
  "channel_id": "UC2BJwSA_iewqrMHX9rrO59g",
  "handle": "@meru_onino",
  "subscribers": 12700,
- "fetched_at": "2026-11-24 06:39",
- "generated_at": "2026-11-24 06:39",
+ "fetched_at": "2026-11-24 15:06",
+ "generated_at": "2026-11-24 15:07",
  "period": {
-  "from": "2026-10-25 06:39",
-  "to": "2026-11-24 06:39",
+  "from": "2026-10-25 15:06",
+  "to": "2026-11-24 15:06",
   "days": 30
  },
- "streams_analyzed": 22,
- "streams_missed": 3,
- "unique_chatters": 905,
+ "streams_analyzed": 23,
+ "streams_missed": 2,
+ "unique_chatters": 908,
  "members_confirmed": 370,
  "member_classes": {
   "unknown": 119,
@@ -23,12 +23,12 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 252
+   "members": 250
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 39
+   "members": 41
   },
   {
    "months": 2,
@@ -302,6 +302,16 @@
    "member_chatters": 67,
    "new_members": 0,
    "gifted_total": 11
+  },
+  {
+   "video_id": "qyLzoQkqxtA",
+   "start": "2026-11-23 21:04",
+   "title": "【 Minecraft 】DDDのメンバーで連帯責任ハードコアします。【 鬼ノめる / すぺしゃりて 】",
+   "kind": "配信",
+   "chatters": 40,
+   "member_chatters": 18,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -328,18 +338,6 @@
    "members_level": "",
    "like_count": 70,
    "view_count": null
-  },
-  {
-   "video_id": "qyLzoQkqxtA",
-   "start": "2026-11-23 00:00",
-   "title": "【 Minecraft 】DDDのメンバーで連帯責任ハードコアします。【 鬼ノめる / すぺしゃりて 】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 169,
-   "view_count": 4578
   }
  ],
  "members_only_content": [
@@ -480,9 +478,9 @@
     "from": "2026-11-01",
     "to": "2026-11-24"
    },
-   "streams_analyzed": 16,
-   "streams_missed": 2,
-   "unique_chatters": 372,
+   "streams_analyzed": 17,
+   "streams_missed": 1,
+   "unique_chatters": 377,
    "members_confirmed": 164,
    "member_classes": {
     "unknown": 127,
@@ -493,11 +491,11 @@
    "badges": [
     {
      "months": 0,
-     "members": 77
+     "members": 75
     },
     {
      "months": 1,
-     "members": 25
+     "members": 27
     },
     {
      "months": 2,
@@ -531,7 +529,7 @@
     "monthly_est": 45214,
     "gift_once": 6236
    },
-   "avg_member_chatters": 32.1,
+   "avg_member_chatters": 31.2,
    "partial": true,
    "finalized": false
   }

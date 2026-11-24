@@ -3,19 +3,19 @@
  "channel_id": "UC8SJPcLpIM3x8RdBJFfiluw",
  "handle": "@Kaisei_nijisanji",
  "subscribers": 367000,
- "fetched_at": "2026-11-24 05:35",
- "generated_at": "2026-11-24 05:35",
+ "fetched_at": "2026-11-24 15:01",
+ "generated_at": "2026-11-24 15:02",
  "period": {
-  "from": "2026-10-25 05:35",
-  "to": "2026-11-24 05:35",
+  "from": "2026-10-25 15:01",
+  "to": "2026-11-24 15:01",
   "days": 30
  },
- "streams_analyzed": 35,
+ "streams_analyzed": 36,
  "streams_missed": 1,
- "unique_chatters": 7503,
- "members_confirmed": 1315,
+ "unique_chatters": 7683,
+ "members_confirmed": 1348,
  "member_classes": {
-  "unknown": 1178,
+  "unknown": 1211,
   "known": 64,
   "gift": 73
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 134
+   "members": 131
   },
   {
    "months": 1,
@@ -33,17 +33,17 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 157
+   "members": 161
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 187
+   "members": 199
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 798
+   "members": 818
   }
  ],
  "events": {
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 64,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1178.0,
-   "estimated_members": 1242.0,
+   "allocated_unknown": 1211.0,
+   "estimated_members": 1275.0,
    "monthly_net_confirmed": 19956,
-   "monthly_net_estimated": 387278
+   "monthly_net_estimated": 397568
   }
  ],
  "revenue": {
-  "monthly_low": 387278,
-  "monthly_est": 387278,
+  "monthly_low": 397568,
+  "monthly_est": 397568,
   "gift_once": 24634,
-  "total_low": 411912,
-  "total_est": 411912,
-  "paying_members": 1242,
+  "total_low": 422202,
+  "total_est": 422202,
+  "paying_members": 1275,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -432,6 +432,16 @@
    "member_chatters": 212,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "eAC4YKHnUWc",
+   "start": "2026-11-24 06:39",
+   "title": "【Morning Radio】I overslept🙇【Kaisei/NIJISANJI】",
+   "kind": "配信",
+   "chatters": 806,
+   "member_chatters": 399,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -591,36 +601,36 @@
     "from": "2026-11-01",
     "to": "2026-11-24"
    },
-   "streams_analyzed": 30,
+   "streams_analyzed": 31,
    "streams_missed": 1,
-   "unique_chatters": 7030,
-   "members_confirmed": 1156,
+   "unique_chatters": 7225,
+   "members_confirmed": 1196,
    "member_classes": {
-    "unknown": 1074,
+    "unknown": 1114,
     "known": 58,
     "gift": 24
    },
-   "long_term_members": 735,
+   "long_term_members": 758,
    "badges": [
     {
      "months": 0,
-     "members": 76
+     "members": 74
     },
     {
      "months": 1,
-     "members": 33
+     "members": 34
     },
     {
      "months": 2,
-     "members": 139
+     "members": 145
     },
     {
      "months": 6,
-     "members": 173
+     "members": 185
     },
     {
      "months": 12,
-     "members": 735
+     "members": 758
     }
    ],
    "events": {
@@ -634,15 +644,15 @@
      "tier": "ファンキーな錠連",
      "price": 490,
      "confirmed_members": 58,
-     "estimated_members": 1132.0
+     "estimated_members": 1172.0
     }
    ],
    "revenue": {
-    "monthly_low": 352978,
-    "monthly_est": 352978,
+    "monthly_low": 365451,
+    "monthly_est": 365451,
     "gift_once": 7484
    },
-   "avg_member_chatters": 258.9,
+   "avg_member_chatters": 263.4,
    "partial": true,
    "finalized": false
   }

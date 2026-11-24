@@ -3,33 +3,33 @@
  "channel_id": "UClS6k3w1sPwlVFqK3-yID5A",
  "handle": "@RyuHari",
  "subscribers": 45100,
- "fetched_at": "2026-11-24 05:31",
- "generated_at": "2026-11-24 05:31",
+ "fetched_at": "2026-11-24 15:01",
+ "generated_at": "2026-11-24 15:01",
  "period": {
-  "from": "2026-10-25 05:31",
-  "to": "2026-11-24 05:31",
+  "from": "2026-10-25 15:01",
+  "to": "2026-11-24 15:01",
   "days": 30
  },
- "streams_analyzed": 12,
- "streams_missed": 2,
- "unique_chatters": 133,
- "members_confirmed": 65,
+ "streams_analyzed": 13,
+ "streams_missed": 1,
+ "unique_chatters": 144,
+ "members_confirmed": 67,
  "member_classes": {
-  "unknown": 31,
-  "known": 13,
+  "unknown": 32,
+  "known": 14,
   "gift": 21
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 65
+   "members": 67
   }
  ],
  "events": {
-  "new_members": 2,
+  "new_members": 3,
   "rejoins": 0,
-  "milestones": 1,
+  "milestones": 2,
   "gift_purchases": 2,
   "gifted_total": 21,
   "gift_redemptions": 21
@@ -40,21 +40,21 @@
    "tier": "리몽",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 13,
+   "confirmed_members": 14,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 31.0,
-   "estimated_members": 44.0,
-   "monthly_net_confirmed": 4054,
-   "monthly_net_estimated": 13720
+   "allocated_unknown": 32.0,
+   "estimated_members": 46.0,
+   "monthly_net_confirmed": 4365,
+   "monthly_net_estimated": 14344
   }
  ],
  "revenue": {
-  "monthly_low": 13720,
-  "monthly_est": 13720,
+  "monthly_low": 14344,
+  "monthly_est": 14344,
   "gift_once": 6548,
-  "total_low": 20268,
-  "total_est": 20268,
-  "paying_members": 44,
+  "total_low": 20892,
+  "total_est": 20892,
+  "paying_members": 46,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -182,6 +182,16 @@
    "member_chatters": 28,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "OThlX1Lr9Rg",
+   "start": "2026-11-23 22:32",
+   "title": "雑談&初めての羊毛フェルト(本当) 【にじさんじ／リュハリ】",
+   "kind": "配信",
+   "chatters": 47,
+   "member_chatters": 27,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -196,18 +206,6 @@
    "members_level": "",
    "like_count": 27,
    "view_count": null
-  },
-  {
-   "video_id": "OThlX1Lr9Rg",
-   "start": "2026-11-23 00:00",
-   "title": "雑談&初めての羊毛フェルト(本当) 【にじさんじ／リュハリ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 182,
-   "view_count": 2493
   }
  ],
  "members_only_content": [
@@ -321,42 +319,42 @@
     "from": "2026-11-01",
     "to": "2026-11-24"
    },
-   "streams_analyzed": 9,
-   "streams_missed": 2,
-   "unique_chatters": 115,
-   "members_confirmed": 60,
+   "streams_analyzed": 10,
+   "streams_missed": 1,
+   "unique_chatters": 127,
+   "members_confirmed": 63,
    "member_classes": {
-    "unknown": 29,
-    "known": 11,
+    "unknown": 31,
+    "known": 12,
     "gift": 20
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 60
+     "members": 63
     }
    ],
    "events": {
-    "new_members": 0,
+    "new_members": 1,
     "rejoins": 0,
-    "milestones": 1,
+    "milestones": 2,
     "gifted_total": 20
    },
    "tiers": [
     {
      "tier": "리몽",
      "price": 490,
-     "confirmed_members": 11,
-     "estimated_members": 40.0
+     "confirmed_members": 12,
+     "estimated_members": 43.0
     }
    ],
    "revenue": {
-    "monthly_low": 12473,
-    "monthly_est": 12473,
+    "monthly_low": 13408,
+    "monthly_est": 13408,
     "gift_once": 6236
    },
-   "avg_member_chatters": 22.8,
+   "avg_member_chatters": 23.2,
    "partial": true,
    "finalized": false
   }
