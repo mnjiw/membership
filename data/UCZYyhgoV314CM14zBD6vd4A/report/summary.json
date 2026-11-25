@@ -3,16 +3,16 @@
  "channel_id": "UCZYyhgoV314CM14zBD6vd4A",
  "handle": "@tenkaitsukasa",
  "subscribers": 367000,
- "fetched_at": "2026-11-25 14:01",
- "generated_at": "2026-11-25 14:01",
+ "fetched_at": "2026-11-26 06:42",
+ "generated_at": "2026-11-26 06:43",
  "period": {
-  "from": "2026-10-26 14:01",
-  "to": "2026-11-25 14:01",
+  "from": "2026-10-27 06:42",
+  "to": "2026-11-26 06:42",
   "days": 30
  },
  "streams_analyzed": 24,
  "streams_missed": 1,
- "unique_chatters": 2926,
+ "unique_chatters": 2873,
  "members_confirmed": 157,
  "member_classes": {
   "unknown": 157
@@ -21,7 +21,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 8
+   "members": 7
   },
   {
    "months": 2,
@@ -41,11 +41,11 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 121
+   "members": 122
   }
  ],
  "events": {
-  "new_members": 7,
+  "new_members": 1,
   "rejoins": 0,
   "milestones": 3,
   "gift_purchases": 0,
@@ -81,16 +81,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "8qsOGCreY4Q",
-   "start": "2026-10-26 19:00",
-   "title": "【ドラゴンクエストⅤ/完全初見#2】エルフの国は救うが厚着くらいしてくれ【天開司/Vtuber】",
-   "kind": "配信",
-   "chatters": 513,
-   "member_chatters": 73,
-   "new_members": 6,
-   "gifted_total": 0
-  },
   {
    "video_id": "ZZOdUpdhh8g",
    "start": "2026-10-27 20:00",
@@ -320,6 +310,16 @@
    "member_chatters": 55,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "sENvKgEQi7c",
+   "start": "2026-11-25 20:00",
+   "title": "[Cursed Shopping/Horror Game] It's Black Friday, so I'm going to splurge! [Tenkai Tsukasa/Vtuber]",
+   "kind": "配信",
+   "chatters": 170,
+   "member_chatters": 53,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -332,8 +332,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 265,
-   "view_count": 20166
+   "like_count": 279,
+   "view_count": 23861
   }
  ],
  "members_only_content": [],
@@ -459,16 +459,16 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-25"
+    "to": "2026-11-26"
    },
-   "streams_analyzed": 20,
+   "streams_analyzed": 21,
    "streams_missed": 1,
-   "unique_chatters": 2682,
-   "members_confirmed": 150,
+   "unique_chatters": 2722,
+   "members_confirmed": 155,
    "member_classes": {
-    "unknown": 150
+    "unknown": 155
    },
-   "long_term_members": 129,
+   "long_term_members": 134,
    "badges": [
     {
      "months": 0,
@@ -484,11 +484,11 @@
     },
     {
      "months": 12,
-     "members": 12
+     "members": 13
     },
     {
      "months": 24,
-     "members": 117
+     "members": 121
     }
    ],
    "events": {
@@ -502,15 +502,15 @@
      "tier": "メンバーシップ",
      "price": 490,
      "confirmed_members": 0,
-     "estimated_members": 150.0
+     "estimated_members": 155.0
     }
    ],
    "revenue": {
-    "monthly_low": 46773,
-    "monthly_est": 46773,
+    "monthly_low": 48332,
+    "monthly_est": 48332,
     "gift_once": 0
    },
-   "avg_member_chatters": 42.8,
+   "avg_member_chatters": 43.3,
    "partial": true,
    "finalized": false
   }

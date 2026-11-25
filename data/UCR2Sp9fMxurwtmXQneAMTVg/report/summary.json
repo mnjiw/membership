@@ -3,16 +3,16 @@
  "channel_id": "UCR2Sp9fMxurwtmXQneAMTVg",
  "handle": "@magomo_magomori",
  "subscribers": 13900,
- "fetched_at": "2026-11-25 14:00",
- "generated_at": "2026-11-25 14:00",
+ "fetched_at": "2026-11-26 06:37",
+ "generated_at": "2026-11-26 06:38",
  "period": {
-  "from": "2026-10-26 14:00",
-  "to": "2026-11-25 14:00",
+  "from": "2026-10-27 06:37",
+  "to": "2026-11-26 06:37",
   "days": 30
  },
- "streams_analyzed": 36,
+ "streams_analyzed": 37,
  "streams_missed": 14,
- "unique_chatters": 831,
+ "unique_chatters": 849,
  "members_confirmed": 212,
  "member_classes": {
   "unknown": 140,
@@ -28,12 +28,12 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 36
+   "members": 35
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 27
+   "members": 28
   },
   {
    "months": 6,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "CTizKy2iQ30",
-   "start": "2026-10-26 20:59",
-   "title": "【 Japanese Ramen Simulator 】ラーメン屋のバイトです！替え玉はいかが？【 孫守まごも / すぺしゃりて 】",
-   "kind": "配信",
-   "chatters": 50,
-   "member_chatters": 34,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "kRVSSaeEhrE",
    "start": "2026-10-27 08:29",
@@ -442,6 +432,26 @@
    "member_chatters": 27,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "EIW74uLXQvY",
+   "start": "2026-11-25 13:29",
+   "title": "【 ARK: Survival Ascended 】ARKゆらら鯖4日目！生き物を育てたい！！【 孫守まごも / すぺしゃりて 】",
+   "kind": "配信",
+   "chatters": 59,
+   "member_chatters": 17,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "cR6sJg5AC6Q",
+   "start": "2026-11-25 20:58",
+   "title": "【スプラ3】大会に向けてはてなさんに教える！【すぺしゃりて  / 新人vtuber  孫守まごも】スプラトゥーン3",
+   "kind": "配信",
+   "chatters": 44,
+   "member_chatters": 24,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -762,7 +772,7 @@
    "kind": "video",
    "status": "members_only_video",
    "members_level": "",
-   "like_count": 14,
+   "like_count": 21,
    "view_count": null
   }
  ],
@@ -880,14 +890,14 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-25"
+    "to": "2026-11-26"
    },
-   "streams_analyzed": 29,
+   "streams_analyzed": 31,
    "streams_missed": 11,
-   "unique_chatters": 600,
-   "members_confirmed": 141,
+   "unique_chatters": 621,
+   "members_confirmed": 143,
    "member_classes": {
-    "unknown": 101,
+    "unknown": 103,
     "known": 20,
     "gift": 20
    },
@@ -895,7 +905,7 @@
    "badges": [
     {
      "months": 0,
-     "members": 49
+     "members": 50
     },
     {
      "months": 1,
@@ -903,7 +913,7 @@
     },
     {
      "months": 2,
-     "members": 24
+     "members": 25
     },
     {
      "months": 6,
@@ -925,15 +935,15 @@
      "tier": "まごもをさらにかわいがる会",
      "price": 490,
      "confirmed_members": 20,
-     "estimated_members": 121.0
+     "estimated_members": 123.0
     }
    ],
    "revenue": {
-    "monthly_low": 37730,
-    "monthly_est": 37730,
+    "monthly_low": 38354,
+    "monthly_est": 38354,
     "gift_once": 6236
    },
-   "avg_member_chatters": 28.0,
+   "avg_member_chatters": 27.5,
    "partial": true,
    "finalized": false
   }

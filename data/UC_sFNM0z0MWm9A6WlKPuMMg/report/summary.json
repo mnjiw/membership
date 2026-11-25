@@ -3,37 +3,37 @@
  "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
  "handle": "@NerissaRavencroft",
  "subscribers": 1040000,
- "fetched_at": "2026-11-25 13:58",
- "generated_at": "2026-11-25 13:58",
+ "fetched_at": "2026-11-26 06:30",
+ "generated_at": "2026-11-26 06:31",
  "period": {
-  "from": "2026-10-26 13:58",
-  "to": "2026-11-25 13:58",
+  "from": "2026-10-27 06:30",
+  "to": "2026-11-26 06:30",
   "days": 30
  },
- "streams_analyzed": 13,
- "streams_missed": 4,
- "unique_chatters": 10382,
- "members_confirmed": 2245,
+ "streams_analyzed": 14,
+ "streams_missed": 3,
+ "unique_chatters": 10977,
+ "members_confirmed": 2292,
  "member_classes": {
-  "unknown": 1158,
-  "known": 682,
-  "gift": 405
+  "unknown": 1186,
+  "known": 698,
+  "gift": 408
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 531
+   "members": 542
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 53
+   "members": 55
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 171
+   "members": 176
   },
   {
    "months": 6,
@@ -43,26 +43,26 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 357
+   "members": 366
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 317
+   "members": 318
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 618
+   "members": 637
   }
  ],
  "events": {
-  "new_members": 47,
-  "rejoins": 25,
-  "milestones": 519,
-  "gift_purchases": 59,
-  "gifted_total": 501,
-  "gift_redemptions": 405
+  "new_members": 48,
+  "rejoins": 27,
+  "milestones": 534,
+  "gift_purchases": 62,
+  "gifted_total": 504,
+  "gift_redemptions": 408
  },
  "tiers_configured": true,
  "tiers": [
@@ -70,23 +70,23 @@
    "tier": "Jailbirds+",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 648,
-   "share_of_confirmed_pct": 95.0,
-   "allocated_unknown": 1100.3,
-   "estimated_members": 1748.3,
-   "monthly_net_confirmed": 284531,
-   "monthly_net_estimated": 767649
+   "confirmed_members": 664,
+   "share_of_confirmed_pct": 95.1,
+   "allocated_unknown": 1128.2,
+   "estimated_members": 1792.2,
+   "monthly_net_confirmed": 291556,
+   "monthly_net_estimated": 786952
   },
   {
    "tier": "Jailbirds Ultra",
    "price": 1290,
    "net_per_member": 820.9,
    "confirmed_members": 23,
-   "share_of_confirmed_pct": 3.4,
+   "share_of_confirmed_pct": 3.3,
    "allocated_unknown": 39.1,
    "estimated_members": 62.1,
    "monthly_net_confirmed": 18881,
-   "monthly_net_estimated": 50940
+   "monthly_net_estimated": 50962
   },
   {
    "tier": "Jailbirds Ultra+",
@@ -97,16 +97,16 @@
    "allocated_unknown": 18.7,
    "estimated_members": 29.7,
    "monthly_net_confirmed": 24430,
-   "monthly_net_estimated": 65911
+   "monthly_net_estimated": 65940
   }
  ],
  "revenue": {
-  "monthly_low": 836309,
-  "monthly_est": 884500,
-  "gift_once": 219985,
-  "total_low": 1056294,
-  "total_est": 1104484,
-  "paying_members": 1840,
+  "monthly_low": 855629,
+  "monthly_est": 903854,
+  "gift_once": 221302,
+  "total_low": 1076931,
+  "total_est": 1125156,
+  "paying_members": 1884,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -244,6 +244,16 @@
    "member_chatters": 938,
    "new_members": 5,
    "gifted_total": 98
+  },
+  {
+   "video_id": "oOo2s0GHMMU",
+   "start": "2026-11-25 10:01",
+   "title": "A New Classic | The Legend of Zelda™: Ocarina of Time(Remake)",
+   "kind": "配信",
+   "chatters": 1602,
+   "member_chatters": 497,
+   "new_members": 1,
+   "gifted_total": 3
   }
  ],
  "missed_streams": [
@@ -256,7 +266,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "Jailbirds+",
-   "like_count": 806,
+   "like_count": 808,
    "view_count": null
   },
   {
@@ -268,7 +278,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "Jailbirds+",
-   "like_count": 6944,
+   "like_count": 6951,
    "view_count": null
   },
   {
@@ -280,20 +290,8 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 744,
+   "like_count": 748,
    "view_count": null
-  },
-  {
-   "video_id": "oOo2s0GHMMU",
-   "start": "2026-11-25 00:00",
-   "title": "A New Classic | The Legend of Zelda™: Ocarina of Time(Remake)",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 4886,
-   "view_count": 48552
   }
  ],
  "members_only_content": [
@@ -304,7 +302,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "Jailbirds+",
-   "like_count": 806,
+   "like_count": 808,
    "view_count": null
   },
   {
@@ -314,7 +312,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "Jailbirds+",
-   "like_count": 6944,
+   "like_count": 6951,
    "view_count": null
   },
   {
@@ -324,7 +322,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 744,
+   "like_count": 748,
    "view_count": null
   }
  ],
@@ -474,80 +472,80 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-25"
+    "to": "2026-11-26"
    },
-   "streams_analyzed": 10,
-   "streams_missed": 3,
-   "unique_chatters": 9061,
-   "members_confirmed": 2045,
+   "streams_analyzed": 11,
+   "streams_missed": 2,
+   "unique_chatters": 9704,
+   "members_confirmed": 2101,
    "member_classes": {
-    "known": 649,
-    "unknown": 1063,
-    "gift": 333
+    "known": 667,
+    "unknown": 1098,
+    "gift": 336
    },
-   "long_term_members": 1202,
+   "long_term_members": 1235,
    "badges": [
     {
      "months": 0,
-     "members": 455
+     "members": 467
     },
     {
      "months": 1,
-     "members": 50
+     "members": 52
     },
     {
      "months": 2,
-     "members": 153
+     "members": 159
     },
     {
      "months": 6,
-     "members": 185
+     "members": 188
     },
     {
      "months": 12,
-     "members": 328
+     "members": 338
     },
     {
      "months": 24,
-     "members": 289
+     "members": 292
     },
     {
      "months": 36,
-     "members": 585
+     "members": 605
     }
    ],
    "events": {
-    "new_members": 42,
-    "rejoins": 21,
-    "milestones": 466,
-    "gifted_total": 429
+    "new_members": 43,
+    "rejoins": 23,
+    "milestones": 481,
+    "gifted_total": 432
    },
    "tiers": [
     {
      "tier": "Jailbirds+",
      "price": 690,
-     "confirmed_members": 619,
-     "estimated_members": 1632.9
+     "confirmed_members": 637,
+     "estimated_members": 1685.6
     },
     {
      "tier": "Jailbirds Ultra",
      "price": 1290,
      "confirmed_members": 19,
-     "estimated_members": 50.1
+     "estimated_members": 50.3
     },
     {
      "tier": "Jailbirds Ultra+",
      "price": 3490,
      "confirmed_members": 11,
-     "estimated_members": 29.0
+     "estimated_members": 29.1
     }
    ],
    "revenue": {
-    "monthly_low": 778578,
-    "monthly_est": 822563,
-    "gift_once": 188370
+    "monthly_low": 801850,
+    "monthly_est": 846057,
+    "gift_once": 189687
    },
-   "avg_member_chatters": 530.1,
+   "avg_member_chatters": 527.1,
    "partial": true,
    "finalized": false
   }

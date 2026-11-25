@@ -3,27 +3,27 @@
  "channel_id": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
  "handle": "@963Noah",
  "subscribers": 814000,
- "fetched_at": "2026-11-25 13:59",
- "generated_at": "2026-11-25 13:59",
+ "fetched_at": "2026-11-26 06:33",
+ "generated_at": "2026-11-26 06:34",
  "period": {
-  "from": "2026-10-26 13:59",
-  "to": "2026-11-25 13:59",
+  "from": "2026-10-27 06:33",
+  "to": "2026-11-26 06:33",
   "days": 30
  },
- "streams_analyzed": 39,
+ "streams_analyzed": 40,
  "streams_missed": 1,
- "unique_chatters": 4425,
- "members_confirmed": 1657,
+ "unique_chatters": 4413,
+ "members_confirmed": 1662,
  "member_classes": {
-  "unknown": 1114,
-  "known": 93,
-  "gift": 450
+  "unknown": 1110,
+  "known": 92,
+  "gift": 460
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 505
+   "members": 517
   },
   {
    "months": 1,
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 80
+   "members": 77
   },
   {
    "months": 6,
@@ -43,7 +43,7 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 234
+   "members": 232
   },
   {
    "months": 24,
@@ -53,26 +53,26 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 184
+   "members": 183
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 167
+   "members": 164
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 95
+   "members": 97
   }
  ],
  "events": {
-  "new_members": 38,
-  "rejoins": 16,
+  "new_members": 40,
+  "rejoins": 14,
   "milestones": 0,
-  "gift_purchases": 29,
-  "gifted_total": 513,
-  "gift_redemptions": 451
+  "gift_purchases": 30,
+  "gifted_total": 523,
+  "gift_redemptions": 461
  },
  "tiers_configured": true,
  "tiers": [
@@ -80,21 +80,21 @@
    "tier": "963fam",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 93,
+   "confirmed_members": 92,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1114.0,
-   "estimated_members": 1207.0,
-   "monthly_net_confirmed": 28999,
-   "monthly_net_estimated": 376365
+   "allocated_unknown": 1110.0,
+   "estimated_members": 1202.0,
+   "monthly_net_confirmed": 28687,
+   "monthly_net_estimated": 374805
   }
  ],
  "revenue": {
-  "monthly_low": 376365,
-  "monthly_est": 376365,
-  "gift_once": 159963,
-  "total_low": 536327,
-  "total_est": 536327,
-  "paying_members": 1207,
+  "monthly_low": 374805,
+  "monthly_est": 374805,
+  "gift_once": 163081,
+  "total_low": 537886,
+  "total_est": 537886,
+  "paying_members": 1202,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -103,16 +103,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "FjPVM3IqJJI",
-   "start": "2026-10-26 15:42",
-   "title": "【 APEX 】ちょっと寝てたけどワールズエッジのために【 ぶいすぽっ！胡桃のあ 】",
-   "kind": "配信",
-   "chatters": 356,
-   "member_chatters": 193,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "SXCdr-oqoJI",
    "start": "2026-10-27 17:21",
@@ -492,6 +482,26 @@
    "member_chatters": 191,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "JqyW51rS5U8",
+   "start": "2026-11-25 13:33",
+   "title": "【 魔法少女ノ魔女裁判 】#5 誰も失いたくない【 ぶいすぽっ！胡桃のあ 】",
+   "kind": "配信",
+   "chatters": 148,
+   "member_chatters": 77,
+   "new_members": 2,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "q1DKze4KD0Q",
+   "start": "2026-11-25 21:11",
+   "title": "【 APEX 】ハセとヘンディーとフルパです【 ぶいすぽっ！胡桃のあ 】",
+   "kind": "配信",
+   "chatters": 284,
+   "member_chatters": 192,
+   "new_members": 0,
+   "gifted_total": 10
   }
  ],
  "missed_streams": [
@@ -504,8 +514,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 372,
-   "view_count": 19193
+   "like_count": 373,
+   "view_count": 20163
   }
  ],
  "members_only_content": [],
@@ -659,22 +669,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-25"
+    "to": "2026-11-26"
    },
-   "streams_analyzed": 30,
+   "streams_analyzed": 32,
    "streams_missed": 1,
-   "unique_chatters": 3639,
-   "members_confirmed": 1096,
+   "unique_chatters": 3689,
+   "members_confirmed": 1118,
    "member_classes": {
-    "unknown": 946,
-    "known": 78,
-    "gift": 72
+    "unknown": 956,
+    "known": 80,
+    "gift": 82
    },
-   "long_term_members": 752,
+   "long_term_members": 760,
    "badges": [
     {
      "months": 0,
-     "members": 128
+     "members": 141
     },
     {
      "months": 1,
@@ -686,19 +696,19 @@
     },
     {
      "months": 6,
-     "members": 114
+     "members": 115
     },
     {
      "months": 12,
-     "members": 190
+     "members": 192
     },
     {
      "months": 24,
-     "members": 177
+     "members": 179
     },
     {
      "months": 36,
-     "members": 163
+     "members": 165
     },
     {
      "months": 48,
@@ -706,29 +716,29 @@
     },
     {
      "months": 60,
-     "members": 87
+     "members": 89
     }
    ],
    "events": {
-    "new_members": 28,
+    "new_members": 30,
     "rejoins": 12,
     "milestones": 0,
-    "gifted_total": 72
+    "gifted_total": 82
    },
    "tiers": [
     {
      "tier": "963fam",
      "price": 490,
-     "confirmed_members": 78,
-     "estimated_members": 1024.0
+     "confirmed_members": 80,
+     "estimated_members": 1036.0
     }
    ],
    "revenue": {
-    "monthly_low": 319302,
-    "monthly_est": 319302,
-    "gift_once": 22451
+    "monthly_low": 323044,
+    "monthly_est": 323044,
+    "gift_once": 25569
    },
-   "avg_member_chatters": 188.5,
+   "avg_member_chatters": 185.1,
    "partial": true,
    "finalized": false
   }

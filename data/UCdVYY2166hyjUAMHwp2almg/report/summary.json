@@ -3,19 +3,19 @@
  "channel_id": "UCdVYY2166hyjUAMHwp2almg",
  "handle": "@Mitsuba_Eni",
  "subscribers": 101000,
- "fetched_at": "2026-11-25 14:01",
- "generated_at": "2026-11-25 14:01",
+ "fetched_at": "2026-11-26 06:39",
+ "generated_at": "2026-11-26 06:39",
  "period": {
-  "from": "2026-10-26 14:01",
-  "to": "2026-11-25 14:01",
+  "from": "2026-10-27 06:39",
+  "to": "2026-11-26 06:39",
   "days": 30
  },
- "streams_analyzed": 29,
+ "streams_analyzed": 30,
  "streams_missed": 1,
- "unique_chatters": 1283,
- "members_confirmed": 113,
+ "unique_chatters": 1317,
+ "members_confirmed": 114,
  "member_classes": {
-  "known": 32,
+  "known": 33,
   "unknown": 76,
   "gift": 5
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 18
+   "members": 19
   },
   {
    "months": 1,
@@ -33,12 +33,12 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 19
+   "members": 18
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 27
+   "members": 28
   },
   {
    "months": 12,
@@ -47,7 +47,7 @@
   }
  ],
  "events": {
-  "new_members": 6,
+  "new_members": 7,
   "rejoins": 0,
   "milestones": 11,
   "gift_purchases": 1,
@@ -60,21 +60,21 @@
    "tier": "エニマニア",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 32,
+   "confirmed_members": 33,
    "share_of_confirmed_pct": 100.0,
    "allocated_unknown": 76.0,
-   "estimated_members": 108.0,
-   "monthly_net_confirmed": 9978,
-   "monthly_net_estimated": 33676
+   "estimated_members": 109.0,
+   "monthly_net_confirmed": 10290,
+   "monthly_net_estimated": 33988
   }
  ],
  "revenue": {
-  "monthly_low": 33676,
-  "monthly_est": 33676,
+  "monthly_low": 33988,
+  "monthly_est": 33988,
   "gift_once": 1559,
-  "total_low": 35235,
-  "total_est": 35235,
-  "paying_members": 108,
+  "total_low": 35547,
+  "total_est": 35547,
+  "paying_members": 109,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -372,6 +372,16 @@
    "member_chatters": 20,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "m4UU0Djtp2w",
+   "start": "2026-11-25 12:00",
+   "title": "【 トルネコの大冒険 】完全初見！トルネコきちゃ！！！ネタバレ禁止！【ネオポルテ / 光葉エニ】",
+   "kind": "配信",
+   "chatters": 116,
+   "member_chatters": 24,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -507,22 +517,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-25"
+    "to": "2026-11-26"
    },
-   "streams_analyzed": 22,
+   "streams_analyzed": 23,
    "streams_missed": 1,
-   "unique_chatters": 1055,
-   "members_confirmed": 107,
+   "unique_chatters": 1090,
+   "members_confirmed": 108,
    "member_classes": {
     "unknown": 72,
-    "known": 30,
+    "known": 31,
     "gift": 5
    },
    "long_term_members": 39,
    "badges": [
     {
      "months": 0,
-     "members": 17
+     "members": 18
     },
     {
      "months": 1,
@@ -530,11 +540,11 @@
     },
     {
      "months": 2,
-     "members": 18
+     "members": 17
     },
     {
      "months": 6,
-     "members": 26
+     "members": 27
     },
     {
      "months": 12,
@@ -542,7 +552,7 @@
     }
    ],
    "events": {
-    "new_members": 5,
+    "new_members": 6,
     "rejoins": 0,
     "milestones": 8,
     "gifted_total": 5
@@ -551,16 +561,16 @@
     {
      "tier": "エニマニア",
      "price": 490,
-     "confirmed_members": 30,
-     "estimated_members": 102.0
+     "confirmed_members": 31,
+     "estimated_members": 103.0
     }
    ],
    "revenue": {
-    "monthly_low": 31805,
-    "monthly_est": 31805,
+    "monthly_low": 32117,
+    "monthly_est": 32117,
     "gift_once": 1559
    },
-   "avg_member_chatters": 23.6,
+   "avg_member_chatters": 23.7,
    "partial": true,
    "finalized": false
   }

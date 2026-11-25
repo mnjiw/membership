@@ -3,15 +3,15 @@
  "channel_id": "UCrV1Hf5r8P148idjoSfrGEQ",
  "handle": "@結城さくな",
  "subscribers": 1090000,
- "fetched_at": "2026-11-25 06:41",
- "generated_at": "2026-11-25 06:41",
+ "fetched_at": "2026-11-26 06:42",
+ "generated_at": "2026-11-26 06:42",
  "period": {
-  "from": "2026-10-26 06:41",
-  "to": "2026-11-25 06:41",
+  "from": "2026-10-27 06:42",
+  "to": "2026-11-26 06:42",
   "days": 30
  },
  "streams_analyzed": 15,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 11556,
  "members_confirmed": 2877,
  "member_classes": {
@@ -239,8 +239,32 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
- "members_only_content": [],
+ "missed_streams": [
+  {
+   "video_id": "TK-h0e2Aqo4",
+   "start": "2026-11-25 22:01",
+   "title": "メン限配信でなんかする！",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 1818,
+   "view_count": null
+  }
+ ],
+ "members_only_content": [
+  {
+   "video_id": "TK-h0e2Aqo4",
+   "start": "2026-11-25 22:01",
+   "title": "メン限配信でなんかする！",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 1818,
+   "view_count": null
+  }
+ ],
  "history": [
   {
    "month": "2026-09",
@@ -359,10 +383,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-25"
+    "to": "2026-11-26"
    },
    "streams_analyzed": 11,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 9690,
    "members_confirmed": 2345,
    "member_classes": {

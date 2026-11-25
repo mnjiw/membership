@@ -3,36 +3,36 @@
  "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
  "handle": "@HyakutoKyoko",
  "subscribers": 351000,
- "fetched_at": "2026-11-25 13:57",
- "generated_at": "2026-11-25 13:58",
+ "fetched_at": "2026-11-26 06:28",
+ "generated_at": "2026-11-26 06:29",
  "period": {
-  "from": "2026-10-26 13:57",
-  "to": "2026-11-25 13:57",
+  "from": "2026-10-27 06:28",
+  "to": "2026-11-26 06:28",
   "days": 30
  },
  "streams_analyzed": 54,
  "streams_missed": 2,
- "unique_chatters": 27059,
- "members_confirmed": 2883,
+ "unique_chatters": 28049,
+ "members_confirmed": 2931,
  "member_classes": {
-  "unknown": 769,
-  "known": 1490,
-  "gift": 624
+  "unknown": 788,
+  "known": 1495,
+  "gift": 648
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 2883
+   "members": 2931
   }
  ],
  "events": {
-  "new_members": 1490,
+  "new_members": 1495,
   "rejoins": 0,
   "milestones": 0,
-  "gift_purchases": 114,
-  "gifted_total": 669,
-  "gift_redemptions": 624
+  "gift_purchases": 122,
+  "gifted_total": 698,
+  "gift_redemptions": 648
  },
  "tiers_configured": true,
  "tiers": [
@@ -40,21 +40,21 @@
    "tier": "百灯派出所 // Chembership",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 1490,
+   "confirmed_members": 1495,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 769.0,
-   "estimated_members": 2259.0,
-   "monthly_net_confirmed": 464609,
-   "monthly_net_estimated": 704397
+   "allocated_unknown": 788.0,
+   "estimated_members": 2283.0,
+   "monthly_net_confirmed": 466168,
+   "monthly_net_estimated": 711881
   }
  ],
  "revenue": {
-  "monthly_low": 704397,
-  "monthly_est": 704397,
-  "gift_once": 208606,
-  "total_low": 913004,
-  "total_est": 913004,
-  "paying_members": 2259,
+  "monthly_low": 711881,
+  "monthly_est": 711881,
+  "gift_once": 217649,
+  "total_low": 929530,
+  "total_est": 929530,
+  "paying_members": 2283,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -63,16 +63,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "3-s2q1Wqk4g",
-   "start": "2026-10-26 19:59",
-   "title": "【コラボ】天才＆最強の”””知”””を見せちゃうぞー！！｜ The Past Within【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-   "kind": "配信",
-   "chatters": 1567,
-   "member_chatters": 0,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "mPLR_SFcifc",
    "start": "2026-10-27 10:59",
@@ -602,6 +592,16 @@
    "member_chatters": 228,
    "new_members": 0,
    "gifted_total": 6
+  },
+  {
+   "video_id": "5umqJja1i2o",
+   "start": "2026-11-25 19:59",
+   "title": "MTGはじめたい人集合～～！！ゼロから遊び方を解説するよ～～！！ | MTGアリーナ【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+   "kind": "配信",
+   "chatters": 2663,
+   "member_chatters": 381,
+   "new_members": 5,
+   "gifted_total": 29
   }
  ],
  "missed_streams": [
@@ -614,7 +614,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "百灯派出所 // Chembership",
-   "like_count": 721,
+   "like_count": 723,
    "view_count": null
   },
   {
@@ -626,7 +626,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 804,
+   "like_count": 806,
    "view_count": null
   }
  ],
@@ -638,7 +638,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "百灯派出所 // Chembership",
-   "like_count": 721,
+   "like_count": 723,
    "view_count": null
   },
   {
@@ -648,7 +648,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 804,
+   "like_count": 806,
    "view_count": null
   }
  ],
@@ -729,44 +729,44 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-25"
+    "to": "2026-11-26"
    },
-   "streams_analyzed": 42,
+   "streams_analyzed": 43,
    "streams_missed": 2,
-   "unique_chatters": 21261,
-   "members_confirmed": 2461,
+   "unique_chatters": 22700,
+   "members_confirmed": 2509,
    "member_classes": {
-    "unknown": 769,
-    "known": 1201,
-    "gift": 491
+    "unknown": 788,
+    "known": 1206,
+    "gift": 515
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 2461
+     "members": 2509
     }
    ],
    "events": {
-    "new_members": 533,
+    "new_members": 538,
     "rejoins": 0,
     "milestones": 0,
-    "gifted_total": 526
+    "gifted_total": 555
    },
    "tiers": [
     {
      "tier": "百灯派出所 // Chembership",
      "price": 490,
-     "confirmed_members": 1201,
-     "estimated_members": 1970.0
+     "confirmed_members": 1206,
+     "estimated_members": 1994.0
     }
    ],
    "revenue": {
-    "monthly_low": 614282,
-    "monthly_est": 614282,
-    "gift_once": 164016
+    "monthly_low": 621765,
+    "monthly_est": 621765,
+    "gift_once": 173059
    },
-   "avg_member_chatters": 364.8,
+   "avg_member_chatters": 365.1,
    "partial": true,
    "finalized": false
   }

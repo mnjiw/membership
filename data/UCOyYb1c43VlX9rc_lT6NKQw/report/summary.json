@@ -3,57 +3,57 @@
  "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
  "handle": "@ayundarisu",
  "subscribers": 1020000,
- "fetched_at": "2026-11-25 13:57",
- "generated_at": "2026-11-25 13:57",
+ "fetched_at": "2026-11-26 06:28",
+ "generated_at": "2026-11-26 06:28",
  "period": {
-  "from": "2026-10-26 13:57",
-  "to": "2026-11-25 13:57",
+  "from": "2026-10-27 06:28",
+  "to": "2026-11-26 06:28",
   "days": 30
  },
- "streams_analyzed": 13,
+ "streams_analyzed": 12,
  "streams_missed": 4,
- "unique_chatters": 3935,
- "members_confirmed": 753,
+ "unique_chatters": 3582,
+ "members_confirmed": 719,
  "member_classes": {
-  "unknown": 368,
-  "known": 199,
-  "gift": 186
+  "known": 190,
+  "unknown": 351,
+  "gift": 178
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 287
+   "members": 278
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 37
+   "members": 35
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 74
+   "members": 71
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 71
+   "members": 65
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 121
+   "members": 114
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 63
+   "members": 58
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 39
+   "members": 38
   },
   {
    "months": 48,
@@ -68,16 +68,16 @@
   {
    "months": 72,
    "label": "6年",
-   "members": 14
+   "members": 13
   }
  ],
  "events": {
   "new_members": 18,
-  "rejoins": 30,
-  "milestones": 77,
-  "gift_purchases": 41,
-  "gifted_total": 186,
-  "gift_redemptions": 186
+  "rejoins": 28,
+  "milestones": 70,
+  "gift_purchases": 37,
+  "gifted_total": 178,
+  "gift_redemptions": 178
  },
  "tiers_configured": true,
  "tiers": [
@@ -85,21 +85,21 @@
    "tier": "Prisuners",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 199,
+   "confirmed_members": 190,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 368.0,
-   "estimated_members": 567.0,
-   "monthly_net_confirmed": 62052,
-   "monthly_net_estimated": 176801
+   "allocated_unknown": 351.0,
+   "estimated_members": 541.0,
+   "monthly_net_confirmed": 59245,
+   "monthly_net_estimated": 168694
   }
  ],
  "revenue": {
-  "monthly_low": 176801,
-  "monthly_est": 176801,
-  "gift_once": 57998,
-  "total_low": 234799,
-  "total_est": 234799,
-  "paying_members": 567,
+  "monthly_low": 168694,
+  "monthly_est": 168694,
+  "gift_once": 55504,
+  "total_low": 224197,
+  "total_est": 224197,
+  "paying_members": 541,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -108,16 +108,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "RvJmjgyzTm0",
-   "start": "2026-10-26 21:30",
-   "title": "#MMMalas : MONDAY MALAM MALASSSSSS is here !!",
-   "kind": "配信",
-   "chatters": 955,
-   "member_chatters": 212,
-   "new_members": 0,
-   "gifted_total": 8
-  },
   {
    "video_id": "nLJQ_uNNSls",
    "start": "2026-11-02 21:59",
@@ -285,8 +275,8 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 2602,
-   "view_count": 37483
+   "like_count": 2598,
+   "view_count": 36944
   }
  ],
  "members_only_content": [
@@ -490,7 +480,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-25"
+    "to": "2026-11-26"
    },
    "streams_analyzed": 12,
    "streams_missed": 4,

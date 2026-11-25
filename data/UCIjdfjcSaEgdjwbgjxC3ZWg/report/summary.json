@@ -3,67 +3,67 @@
  "channel_id": "UCIjdfjcSaEgdjwbgjxC3ZWg",
  "handle": "@tsuna_nekota",
  "subscribers": 672000,
- "fetched_at": "2026-11-25 06:33",
- "generated_at": "2026-11-25 06:33",
+ "fetched_at": "2026-11-26 06:34",
+ "generated_at": "2026-11-26 06:34",
  "period": {
-  "from": "2026-10-26 06:33",
-  "to": "2026-11-25 06:33",
+  "from": "2026-10-27 06:34",
+  "to": "2026-11-26 06:34",
   "days": 30
  },
- "streams_analyzed": 17,
- "streams_missed": 1,
- "unique_chatters": 4925,
- "members_confirmed": 1279,
+ "streams_analyzed": 16,
+ "streams_missed": 2,
+ "unique_chatters": 4420,
+ "members_confirmed": 1189,
  "member_classes": {
-  "unknown": 1154,
-  "known": 119,
+  "unknown": 1070,
+  "known": 113,
   "gift": 6
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 109
+   "members": 104
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 45
+   "members": 43
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 144
+   "members": 133
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 180
+   "members": 165
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 278
+   "members": 261
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 196
+   "members": 180
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 131
+   "members": 118
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 196
+   "members": 185
   }
  ],
  "events": {
-  "new_members": 47,
-  "rejoins": 30,
+  "new_members": 42,
+  "rejoins": 27,
   "milestones": 0,
   "gift_purchases": 2,
   "gifted_total": 6,
@@ -75,21 +75,21 @@
    "tier": "つな友",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 119,
+   "confirmed_members": 113,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1154.0,
-   "estimated_members": 1273.0,
-   "monthly_net_confirmed": 37106,
-   "monthly_net_estimated": 396945
+   "allocated_unknown": 1070.0,
+   "estimated_members": 1183.0,
+   "monthly_net_confirmed": 35235,
+   "monthly_net_estimated": 368881
   }
  ],
  "revenue": {
-  "monthly_low": 396945,
-  "monthly_est": 396945,
+  "monthly_low": 368881,
+  "monthly_est": 368881,
   "gift_once": 1871,
-  "total_low": 398815,
-  "total_est": 398815,
-  "paying_members": 1273,
+  "total_low": 370752,
+  "total_est": 370752,
+  "paying_members": 1183,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "Psiekh_hjI4",
-   "start": "2026-10-26 08:16",
-   "title": "いっぱい寝たよおはにょー【ぶいすぽ / 猫汰つな】",
-   "kind": "配信",
-   "chatters": 1146,
-   "member_chatters": 399,
-   "new_members": 5,
-   "gifted_total": 0
-  },
   {
    "video_id": "KI6OqBgB4aA",
    "start": "2026-10-27 17:21",
@@ -281,6 +271,18 @@
    "members_level": "つな友",
    "like_count": 602,
    "view_count": null
+  },
+  {
+   "video_id": "ow09Hn5DaO8",
+   "start": "2026-11-25 15:08",
+   "title": "実家ですスマホですどうも",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "つな友",
+   "like_count": 1659,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -292,6 +294,16 @@
    "status": "members_only",
    "members_level": "つな友",
    "like_count": 602,
+   "view_count": null
+  },
+  {
+   "video_id": "ow09Hn5DaO8",
+   "start": "2026-11-25 15:08",
+   "title": "実家ですスマホですどうも",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "つな友",
+   "like_count": 1659,
    "view_count": null
   }
  ],
@@ -436,10 +448,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-25"
+    "to": "2026-11-26"
    },
    "streams_analyzed": 11,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 3673,
    "members_confirmed": 1038,
    "member_classes": {

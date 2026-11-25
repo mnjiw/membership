@@ -3,15 +3,15 @@
  "channel_id": "UC5LyYg6cCA4yHEYvtUsir3g",
  "handle": "@uruhaichinose",
  "subscribers": 775000,
- "fetched_at": "2026-11-25 06:32",
- "generated_at": "2026-11-25 06:33",
+ "fetched_at": "2026-11-26 06:33",
+ "generated_at": "2026-11-26 06:33",
  "period": {
-  "from": "2026-10-26 06:32",
-  "to": "2026-11-25 06:32",
+  "from": "2026-10-27 06:33",
+  "to": "2026-11-26 06:33",
   "days": 30
  },
  "streams_analyzed": 24,
- "streams_missed": 4,
+ "streams_missed": 3,
  "unique_chatters": 7570,
  "members_confirmed": 1890,
  "member_classes": {
@@ -341,18 +341,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "ORRijoGDPRU",
-   "start": "2026-10-26 22:59",
-   "title": "【同時視聴】アイアンマン",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 433,
-   "view_count": null
-  },
-  {
    "video_id": "nVNV2Ke7xzA",
    "start": "2026-11-10 00:33",
    "title": "【同時視聴】アイアンマン2",
@@ -361,7 +349,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 310,
+   "like_count": 311,
    "view_count": null
   },
   {
@@ -391,23 +379,13 @@
  ],
  "members_only_content": [
   {
-   "video_id": "ORRijoGDPRU",
-   "start": "2026-10-26 22:59",
-   "title": "【同時視聴】アイアンマン",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 433,
-   "view_count": null
-  },
-  {
    "video_id": "nVNV2Ke7xzA",
    "start": "2026-11-10 00:33",
    "title": "【同時視聴】アイアンマン2",
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 310,
+   "like_count": 311,
    "view_count": null
   },
   {
@@ -573,7 +551,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-25"
+    "to": "2026-11-26"
    },
    "streams_analyzed": 20,
    "streams_missed": 3,

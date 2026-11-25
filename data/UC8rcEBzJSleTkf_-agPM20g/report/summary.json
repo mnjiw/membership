@@ -3,71 +3,71 @@
  "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
  "handle": "@IRyS",
  "subscribers": 1150000,
- "fetched_at": "2026-11-25 13:58",
- "generated_at": "2026-11-25 13:58",
+ "fetched_at": "2026-11-26 06:29",
+ "generated_at": "2026-11-26 06:31",
  "period": {
-  "from": "2026-10-26 13:58",
-  "to": "2026-11-25 13:58",
+  "from": "2026-10-27 06:29",
+  "to": "2026-11-26 06:29",
   "days": 30
  },
- "streams_analyzed": 6,
+ "streams_analyzed": 7,
  "streams_missed": 1,
- "unique_chatters": 5723,
- "members_confirmed": 1644,
+ "unique_chatters": 6303,
+ "members_confirmed": 1730,
  "member_classes": {
-  "known": 397,
-  "unknown": 1059,
-  "gift": 188
+  "known": 413,
+  "unknown": 1119,
+  "gift": 198
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 206
+   "members": 219
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 31
+   "members": 34
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 63
+   "members": 64
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 98
+   "members": 100
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 173
+   "members": 192
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 214
+   "members": 224
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 262
+   "members": 267
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 597
+   "members": 630
   }
  ],
  "events": {
-  "new_members": 7,
+  "new_members": 8,
   "rejoins": 13,
-  "milestones": 192,
-  "gift_purchases": 23,
-  "gifted_total": 198,
-  "gift_redemptions": 188
+  "milestones": 209,
+  "gift_purchases": 25,
+  "gifted_total": 208,
+  "gift_redemptions": 198
  },
  "tiers_configured": true,
  "tiers": [
@@ -75,43 +75,43 @@
    "tier": "IRySoCool",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 385,
-   "share_of_confirmed_pct": 97.0,
-   "allocated_unknown": 1027.0,
-   "estimated_members": 1412.0,
-   "monthly_net_confirmed": 169050,
-   "monthly_net_estimated": 619992
+   "confirmed_members": 401,
+   "share_of_confirmed_pct": 97.1,
+   "allocated_unknown": 1086.5,
+   "estimated_members": 1487.5,
+   "monthly_net_confirmed": 176075,
+   "monthly_net_estimated": 653142
   },
   {
    "tier": "IRySuperCool",
    "price": 1990,
    "net_per_member": 1266.4,
    "confirmed_members": 3,
-   "share_of_confirmed_pct": 0.8,
-   "allocated_unknown": 8.0,
-   "estimated_members": 11.0,
+   "share_of_confirmed_pct": 0.7,
+   "allocated_unknown": 8.1,
+   "estimated_members": 11.1,
    "monthly_net_confirmed": 3799,
-   "monthly_net_estimated": 13933
+   "monthly_net_estimated": 14093
   },
   {
    "tier": "IRySuperDuperCool",
    "price": 3490,
    "net_per_member": 2220.9,
    "confirmed_members": 9,
-   "share_of_confirmed_pct": 2.3,
-   "allocated_unknown": 24.0,
-   "estimated_members": 33.0,
+   "share_of_confirmed_pct": 2.2,
+   "allocated_unknown": 24.4,
+   "estimated_members": 33.4,
    "monthly_net_confirmed": 19988,
-   "monthly_net_estimated": 73307
+   "monthly_net_estimated": 74145
   }
  ],
  "revenue": {
-  "monthly_low": 657835,
-  "monthly_est": 707232,
-  "gift_once": 86940,
-  "total_low": 744775,
-  "total_est": 794172,
-  "paying_members": 1456,
+  "monthly_low": 691205,
+  "monthly_est": 741379,
+  "gift_once": 91331,
+  "total_low": 782536,
+  "total_est": 832710,
+  "paying_members": 1532,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -179,6 +179,16 @@
    "member_chatters": 979,
    "new_members": 2,
    "gifted_total": 167
+  },
+  {
+   "video_id": "EQHfSP8uhig",
+   "start": "2026-11-25 12:29",
+   "title": "【Onimusha: Way of the Sword】Back at unsheathing my SWORD",
+   "kind": "配信",
+   "chatters": 1660,
+   "member_chatters": 673,
+   "new_members": 1,
+   "gifted_total": 10
   }
  ],
  "missed_streams": [
@@ -191,7 +201,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 887,
+   "like_count": 892,
    "view_count": null
   }
  ],
@@ -203,7 +213,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 887,
+   "like_count": 892,
    "view_count": null
   }
  ],
@@ -361,84 +371,84 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-25"
+    "to": "2026-11-26"
    },
-   "streams_analyzed": 5,
+   "streams_analyzed": 6,
    "streams_missed": 1,
-   "unique_chatters": 5448,
-   "members_confirmed": 1514,
+   "unique_chatters": 6058,
+   "members_confirmed": 1618,
    "member_classes": {
-    "known": 362,
-    "unknown": 969,
-    "gift": 183
+    "known": 384,
+    "unknown": 1041,
+    "gift": 193
    },
-   "long_term_members": 1142,
+   "long_term_members": 1225,
    "badges": [
     {
      "months": 0,
-     "members": 194
+     "members": 207
     },
     {
      "months": 1,
-     "members": 29
+     "members": 32
     },
     {
      "months": 2,
-     "members": 59
+     "members": 60
     },
     {
      "months": 6,
-     "members": 90
+     "members": 94
     },
     {
      "months": 12,
-     "members": 156
+     "members": 177
     },
     {
      "months": 24,
-     "members": 191
+     "members": 206
     },
     {
      "months": 36,
-     "members": 248
+     "members": 255
     },
     {
      "months": 48,
-     "members": 547
+     "members": 587
     }
    ],
    "events": {
-    "new_members": 7,
+    "new_members": 8,
     "rejoins": 10,
-    "milestones": 153,
-    "gifted_total": 188
+    "milestones": 170,
+    "gifted_total": 198
    },
    "tiers": [
     {
      "tier": "IRySoCool",
      "price": 690,
-     "confirmed_members": 350,
-     "estimated_members": 1286.9
+     "confirmed_members": 372,
+     "estimated_members": 1380.5
     },
     {
      "tier": "IRySuperCool",
      "price": 1990,
      "confirmed_members": 3,
-     "estimated_members": 11.0
+     "estimated_members": 11.1
     },
     {
      "tier": "IRySuperDuperCool",
      "price": 3490,
      "confirmed_members": 9,
-     "estimated_members": 33.1
+     "estimated_members": 33.4
     }
    ],
    "revenue": {
-    "monthly_low": 602948,
-    "monthly_est": 652518,
-    "gift_once": 82549
+    "monthly_low": 644223,
+    "monthly_est": 694424,
+    "gift_once": 86940
    },
-   "avg_member_chatters": 616,
+   "avg_member_chatters": 625.5,
    "partial": true,
    "finalized": false
   }

@@ -2,16 +2,16 @@
  "channel": "Riko Solari【VSPO! EN】",
  "channel_id": "UC7Xglp1fske9zmRe7Oj8YyA",
  "handle": "@rikosolari",
- "subscribers": 73000,
- "fetched_at": "2026-11-25 06:34",
- "generated_at": "2026-11-25 06:34",
+ "subscribers": 73100,
+ "fetched_at": "2026-11-26 06:35",
+ "generated_at": "2026-11-26 06:35",
  "period": {
-  "from": "2026-10-26 06:34",
-  "to": "2026-11-25 06:34",
+  "from": "2026-10-27 06:35",
+  "to": "2026-11-26 06:35",
   "days": 30
  },
  "streams_analyzed": 9,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 510,
  "members_confirmed": 73,
  "member_classes": {
@@ -178,7 +178,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "xQGP2rD97M4",
+   "start": "2026-11-25 00:00",
+   "title": "【APEX LEGENDS】afternoon ranking sesh 【#VSPOEN #RikoSolari】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 531,
+   "view_count": 12266
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -306,10 +319,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-25"
+    "to": "2026-11-26"
    },
    "streams_analyzed": 5,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 413,
    "members_confirmed": 62,
    "member_classes": {

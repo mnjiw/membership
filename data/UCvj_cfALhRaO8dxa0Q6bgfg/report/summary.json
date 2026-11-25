@@ -3,32 +3,32 @@
  "channel_id": "UCvj_cfALhRaO8dxa0Q6bgfg",
  "handle": "@ArcanaGrimmybear",
  "subscribers": 31400,
- "fetched_at": "2026-11-25 14:01",
- "generated_at": "2026-11-25 14:01",
+ "fetched_at": "2026-11-26 06:41",
+ "generated_at": "2026-11-26 06:42",
  "period": {
-  "from": "2026-10-26 14:01",
-  "to": "2026-11-25 14:01",
+  "from": "2026-10-27 06:41",
+  "to": "2026-11-26 06:41",
   "days": 30
  },
  "streams_analyzed": 30,
- "streams_missed": 4,
- "unique_chatters": 1120,
- "members_confirmed": 708,
+ "streams_missed": 3,
+ "unique_chatters": 1154,
+ "members_confirmed": 709,
  "member_classes": {
   "unknown": 262,
   "known": 17,
-  "gift": 429
+  "gift": 430
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 422
+   "members": 421
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 57
+   "members": 59
   },
   {
    "months": 2,
@@ -37,12 +37,12 @@
   }
  ],
  "events": {
-  "new_members": 12,
-  "rejoins": 1,
+  "new_members": 11,
+  "rejoins": 2,
   "milestones": 0,
-  "gift_purchases": 23,
-  "gifted_total": 432,
-  "gift_redemptions": 430
+  "gift_purchases": 24,
+  "gifted_total": 433,
+  "gift_redemptions": 431
  },
  "tiers_configured": true,
  "tiers": [
@@ -94,9 +94,9 @@
  "revenue": {
   "monthly_low": 87443,
   "monthly_est": 94308,
-  "gift_once": 134705,
-  "total_low": 222148,
-  "total_est": 229013,
+  "gift_once": 135017,
+  "total_low": 222460,
+  "total_est": 229325,
   "paying_members": 279,
   "single_tier": false,
   "tax_rate": 0.1,
@@ -106,16 +106,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "gdbtIiA67hE",
-   "start": "2026-10-26 20:00",
-   "title": "【 FINAL FANTASY RESONANCE 】ファイナルファンタジーレゾナンス.ᐟ 第1章グランポートで船を探そうから全力プレイ✨※ネタバレ注意【アルカナ・グリミィベア/Varium】",
-   "kind": "配信",
-   "chatters": 151,
-   "member_chatters": 82,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "roQO8EwynEQ",
    "start": "2026-10-28 21:00",
@@ -405,6 +395,16 @@
    "member_chatters": 82,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "yfYoRcxtHp0",
+   "start": "2026-11-24 22:01",
+   "title": "【 ドラクエ5 】PS2実機プレイ『ドラゴンクエストⅤ 天空の花嫁』大好きな冒険が、今ふたたび始まる✨※ネタバレ注意【アルカナ・グリミィベア/Varium】",
+   "kind": "配信",
+   "chatters": 274,
+   "member_chatters": 141,
+   "new_members": 0,
+   "gifted_total": 1
   }
  ],
  "missed_streams": [
@@ -443,18 +443,6 @@
    "members_level": "",
    "like_count": 102,
    "view_count": null
-  },
-  {
-   "video_id": "yfYoRcxtHp0",
-   "start": "2026-11-24 00:00",
-   "title": "【 ドラクエ5 】PS2実機プレイ『ドラゴンクエストⅤ 天空の花嫁』大好きな冒険が、今ふたたび始まる✨※ネタバレ注意【アルカナ・グリミィベア/Varium】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 819,
-   "view_count": 24172
   }
  ],
  "members_only_content": [
@@ -599,44 +587,44 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-25"
+    "to": "2026-11-26"
    },
-   "streams_analyzed": 24,
-   "streams_missed": 4,
-   "unique_chatters": 973,
-   "members_confirmed": 684,
+   "streams_analyzed": 25,
+   "streams_missed": 3,
+   "unique_chatters": 1027,
+   "members_confirmed": 687,
    "member_classes": {
-    "unknown": 245,
-    "known": 15,
-    "gift": 424
+    "unknown": 246,
+    "known": 16,
+    "gift": 425
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 417
+     "members": 416
     },
     {
      "months": 1,
-     "members": 54
+     "members": 56
     },
     {
      "months": 2,
-     "members": 213
+     "members": 215
     }
    ],
    "events": {
     "new_members": 9,
-    "rejoins": 0,
+    "rejoins": 1,
     "milestones": 0,
-    "gifted_total": 427
+    "gifted_total": 428
    },
    "tiers": [
     {
      "tier": "🐾 見習い調査員 ✧",
      "price": 490,
-     "confirmed_members": 15,
-     "estimated_members": 260.0
+     "confirmed_members": 16,
+     "estimated_members": 262.0
     },
     {
      "tier": "📖 正式調査員 ✧",
@@ -658,11 +646,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 81073,
-    "monthly_est": 81073,
-    "gift_once": 133146
+    "monthly_low": 81696,
+    "monthly_est": 81696,
+    "gift_once": 133458
    },
-   "avg_member_chatters": 121.1,
+   "avg_member_chatters": 121.9,
    "partial": true,
    "finalized": false
   }

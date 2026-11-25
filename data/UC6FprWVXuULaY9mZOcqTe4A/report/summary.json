@@ -3,32 +3,32 @@
  "channel_id": "UC6FprWVXuULaY9mZOcqTe4A",
  "handle": "@Amu_amane",
  "subscribers": 82800,
- "fetched_at": "2026-11-25 06:38",
- "generated_at": "2026-11-25 06:39",
+ "fetched_at": "2026-11-26 06:39",
+ "generated_at": "2026-11-26 06:39",
  "period": {
-  "from": "2026-10-26 06:38",
-  "to": "2026-11-25 06:38",
+  "from": "2026-10-27 06:39",
+  "to": "2026-11-26 06:39",
   "days": 30
  },
- "streams_analyzed": 18,
+ "streams_analyzed": 19,
  "streams_missed": 0,
- "unique_chatters": 818,
- "members_confirmed": 224,
+ "unique_chatters": 835,
+ "members_confirmed": 228,
  "member_classes": {
-  "unknown": 91,
-  "known": 102,
+  "unknown": 93,
+  "known": 104,
   "gift": 31
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 62
+   "members": 61
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 11
+   "members": 14
   },
   {
    "months": 2,
@@ -48,13 +48,13 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 42
+   "members": 44
   }
  ],
  "events": {
-  "new_members": 15,
+  "new_members": 16,
   "rejoins": 3,
-  "milestones": 38,
+  "milestones": 42,
   "gift_purchases": 4,
   "gifted_total": 31,
   "gift_redemptions": 31
@@ -65,21 +65,21 @@
    "tier": "あむ党",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 102,
+   "confirmed_members": 104,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 91.0,
-   "estimated_members": 193.0,
-   "monthly_net_confirmed": 31805,
-   "monthly_net_estimated": 60181
+   "allocated_unknown": 93.0,
+   "estimated_members": 197.0,
+   "monthly_net_confirmed": 32429,
+   "monthly_net_estimated": 61428
   }
  ],
  "revenue": {
-  "monthly_low": 60181,
-  "monthly_est": 60181,
+  "monthly_low": 61428,
+  "monthly_est": 61428,
   "gift_once": 9666,
-  "total_low": 69847,
-  "total_est": 69847,
-  "paying_members": 193,
+  "total_low": 71095,
+  "total_est": 71095,
+  "paying_members": 197,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -267,6 +267,16 @@
    "member_chatters": 36,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "bVc8pwjcm3w",
+   "start": "2026-11-25 23:35",
+   "title": "なんかやる枠【甘音あむ / ネオポルテ】",
+   "kind": "配信",
+   "chatters": 107,
+   "member_chatters": 50,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -396,26 +406,26 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-25"
+    "to": "2026-11-26"
    },
-   "streams_analyzed": 14,
+   "streams_analyzed": 15,
    "streams_missed": 0,
-   "unique_chatters": 662,
-   "members_confirmed": 203,
+   "unique_chatters": 686,
+   "members_confirmed": 210,
    "member_classes": {
-    "known": 95,
-    "unknown": 77,
+    "known": 97,
+    "unknown": 82,
     "gift": 31
    },
-   "long_term_members": 71,
+   "long_term_members": 76,
    "badges": [
     {
      "months": 0,
-     "members": 59
+     "members": 58
     },
     {
      "months": 1,
-     "members": 11
+     "members": 14
     },
     {
      "months": 2,
@@ -427,33 +437,33 @@
     },
     {
      "months": 12,
-     "members": 34
+     "members": 35
     },
     {
      "months": 24,
-     "members": 37
+     "members": 41
     }
    ],
    "events": {
-    "new_members": 13,
+    "new_members": 14,
     "rejoins": 3,
-    "milestones": 34,
+    "milestones": 38,
     "gifted_total": 31
    },
    "tiers": [
     {
      "tier": "あむ党",
      "price": 490,
-     "confirmed_members": 95,
-     "estimated_members": 172.0
+     "confirmed_members": 97,
+     "estimated_members": 179.0
     }
    ],
    "revenue": {
-    "monthly_low": 53633,
-    "monthly_est": 53633,
+    "monthly_low": 55815,
+    "monthly_est": 55815,
     "gift_once": 9666
    },
-   "avg_member_chatters": 42.3,
+   "avg_member_chatters": 42.8,
    "partial": true,
    "finalized": false
   }
