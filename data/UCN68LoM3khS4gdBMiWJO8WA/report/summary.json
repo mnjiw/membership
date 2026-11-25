@@ -3,15 +3,15 @@
  "channel_id": "UCN68LoM3khS4gdBMiWJO8WA",
  "handle": "@AiaAmare",
  "subscribers": 283000,
- "fetched_at": "2026-11-25 13:56",
- "generated_at": "2026-11-25 13:56",
+ "fetched_at": "2026-11-26 05:31",
+ "generated_at": "2026-11-26 05:32",
  "period": {
-  "from": "2026-10-26 13:56",
-  "to": "2026-11-25 13:56",
+  "from": "2026-10-27 05:31",
+  "to": "2026-11-26 05:31",
   "days": 30
  },
- "streams_analyzed": 27,
- "streams_missed": 2,
+ "streams_analyzed": 28,
+ "streams_missed": 1,
  "unique_chatters": 1136,
  "members_confirmed": 303,
  "member_classes": {
@@ -33,12 +33,12 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 18
+   "members": 17
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 15
+   "members": 16
   },
   {
    "months": 12,
@@ -64,7 +64,7 @@
  "events": {
   "new_members": 0,
   "rejoins": 7,
-  "milestones": 111,
+  "milestones": 112,
   "gift_purchases": 36,
   "gifted_total": 77,
   "gift_redemptions": 77
@@ -367,6 +367,16 @@
    "member_chatters": 54,
    "new_members": 0,
    "gifted_total": 2
+  },
+  {
+   "video_id": "hP__QRvw_jA",
+   "start": "2026-11-25 09:37",
+   "title": "【ESOTERIC EBB】 why did the skull ask me if i was a feminist (part 14)",
+   "kind": "配信",
+   "chatters": 60,
+   "member_chatters": 31,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -379,20 +389,8 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 35,
+   "like_count": 36,
    "view_count": null
-  },
-  {
-   "video_id": "hP__QRvw_jA",
-   "start": "2026-11-25 00:00",
-   "title": "【ESOTERIC EBB】 why did the skull ask me if i was a feminist (part 14)",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 205,
-   "view_count": 1547
   }
  ],
  "members_only_content": [
@@ -403,7 +401,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 35,
+   "like_count": 36,
    "view_count": null
   }
  ],
@@ -560,15 +558,15 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-25"
+    "to": "2026-11-26"
    },
-   "streams_analyzed": 22,
-   "streams_missed": 2,
-   "unique_chatters": 1052,
-   "members_confirmed": 284,
+   "streams_analyzed": 23,
+   "streams_missed": 1,
+   "unique_chatters": 1053,
+   "members_confirmed": 285,
    "member_classes": {
     "known": 148,
-    "unknown": 71,
+    "unknown": 72,
     "gift": 65
    },
    "long_term_members": 189,
@@ -587,7 +585,7 @@
     },
     {
      "months": 6,
-     "members": 12
+     "members": 13
     },
     {
      "months": 12,
@@ -609,7 +607,7 @@
    "events": {
     "new_members": 0,
     "rejoins": 7,
-    "milestones": 97,
+    "milestones": 98,
     "gifted_total": 66
    },
    "tiers": [
@@ -617,15 +615,15 @@
      "tier": "Maidenship",
      "price": 690,
      "confirmed_members": 148,
-     "estimated_members": 219.0
+     "estimated_members": 220.0
     }
    ],
    "revenue": {
-    "monthly_low": 96161,
-    "monthly_est": 96161,
+    "monthly_low": 96600,
+    "monthly_est": 96600,
     "gift_once": 28980
    },
-   "avg_member_chatters": 57.3,
+   "avg_member_chatters": 56.1,
    "partial": true,
    "finalized": false
   }

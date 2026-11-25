@@ -3,19 +3,19 @@
  "channel_id": "UCtHY-tP0dyykhTRMmnfPs_g",
  "handle": "@UmiseYotsuha",
  "subscribers": 272000,
- "fetched_at": "2026-11-25 05:27",
- "generated_at": "2026-11-25 05:27",
+ "fetched_at": "2026-11-26 05:25",
+ "generated_at": "2026-11-26 05:26",
  "period": {
-  "from": "2026-10-26 05:27",
-  "to": "2026-11-25 05:27",
+  "from": "2026-10-27 05:25",
+  "to": "2026-11-26 05:25",
   "days": 30
  },
  "streams_analyzed": 23,
  "streams_missed": 4,
- "unique_chatters": 1700,
- "members_confirmed": 225,
+ "unique_chatters": 1657,
+ "members_confirmed": 216,
  "member_classes": {
-  "unknown": 175,
+  "unknown": 166,
   "known": 30,
   "gift": 20
  },
@@ -28,37 +28,37 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 7
+   "members": 6
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 10
+   "members": 9
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 12
+   "members": 13
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 29
+   "members": 27
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 17
+   "members": 16
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 111
+   "members": 106
   }
  ],
  "events": {
-  "new_members": 12,
-  "rejoins": 2,
+  "new_members": 11,
+  "rejoins": 1,
   "milestones": 8,
   "gift_purchases": 2,
   "gifted_total": 20,
@@ -72,10 +72,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 25,
    "share_of_confirmed_pct": 83.3,
-   "allocated_unknown": 145.8,
-   "estimated_members": 170.8,
+   "allocated_unknown": 138.3,
+   "estimated_members": 163.3,
    "monthly_net_confirmed": 7795,
-   "monthly_net_estimated": 53269
+   "monthly_net_estimated": 50930
   },
   {
    "tier": "ほごしゃ会",
@@ -83,19 +83,19 @@
    "net_per_member": 757.3,
    "confirmed_members": 5,
    "share_of_confirmed_pct": 16.7,
-   "allocated_unknown": 29.2,
-   "estimated_members": 34.2,
+   "allocated_unknown": 27.7,
+   "estimated_members": 32.7,
    "monthly_net_confirmed": 3786,
-   "monthly_net_estimated": 25873
+   "monthly_net_estimated": 24738
   }
  ],
  "revenue": {
-  "monthly_low": 66150,
-  "monthly_est": 79142,
+  "monthly_low": 63344,
+  "monthly_est": 75668,
   "gift_once": 6236,
-  "total_low": 72386,
-  "total_est": 85379,
-  "paying_members": 205,
+  "total_low": 69580,
+  "total_est": 81904,
+  "paying_members": 196,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -104,16 +104,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "-kMmkLIJ4Xo",
-   "start": "2026-10-26 21:01",
-   "title": "【雑談】あったかい気持ちでちょっとだけ【海妹四葉/にじさんじ】",
-   "kind": "配信",
-   "chatters": 256,
-   "member_chatters": 89,
-   "new_members": 2,
-   "gifted_total": 0
-  },
   {
    "video_id": "e6S78B8NoKQ",
    "start": "2026-10-27 20:00",
@@ -333,6 +323,16 @@
    "member_chatters": 41,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "r_R5ufV8T_c",
+   "start": "2026-11-25 15:02",
+   "title": "【昼雑談】ミスドアローラディグダの真実に迫る【海妹四葉/にじさんじ】",
+   "kind": "配信",
+   "chatters": 144,
+   "member_chatters": 34,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -369,7 +369,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "コアツメイト",
-   "like_count": 58,
+   "like_count": 59,
    "view_count": null
   },
   {
@@ -413,7 +413,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "コアツメイト",
-   "like_count": 58,
+   "like_count": 59,
    "view_count": null
   },
   {
@@ -508,22 +508,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-25"
+    "to": "2026-11-26"
    },
-   "streams_analyzed": 18,
+   "streams_analyzed": 19,
    "streams_missed": 3,
-   "unique_chatters": 1324,
-   "members_confirmed": 198,
+   "unique_chatters": 1371,
+   "members_confirmed": 199,
    "member_classes": {
     "unknown": 159,
-    "known": 29,
+    "known": 30,
     "gift": 10
    },
    "long_term_members": 144,
    "badges": [
     {
      "months": 0,
-     "members": 27
+     "members": 28
     },
     {
      "months": 1,
@@ -531,11 +531,11 @@
     },
     {
      "months": 2,
-     "members": 9
+     "members": 8
     },
     {
      "months": 6,
-     "members": 12
+     "members": 13
     },
     {
      "months": 12,
@@ -551,7 +551,7 @@
     }
    ],
    "events": {
-    "new_members": 10,
+    "new_members": 11,
     "rejoins": 1,
     "milestones": 8,
     "gifted_total": 10
@@ -560,22 +560,22 @@
     {
      "tier": "コアツメイト",
      "price": 490,
-     "confirmed_members": 24,
-     "estimated_members": 155.6
+     "confirmed_members": 25,
+     "estimated_members": 157.5
     },
     {
      "tier": "ほごしゃ会",
      "price": 1190,
      "confirmed_members": 5,
-     "estimated_members": 32.4
+     "estimated_members": 31.5
     }
    ],
    "revenue": {
-    "monthly_low": 60849,
-    "monthly_est": 73061,
+    "monthly_low": 61161,
+    "monthly_est": 72965,
     "gift_once": 3118
    },
-   "avg_member_chatters": 51.8,
+   "avg_member_chatters": 50.8,
    "partial": true,
    "finalized": false
   }

@@ -3,25 +3,25 @@
  "channel_id": "UCsFn_ueskBkMCEyzCEqAOvg",
  "handle": "@HanabatakeChaika",
  "subscribers": 574000,
- "fetched_at": "2026-11-25 05:19",
- "generated_at": "2026-11-25 05:20",
+ "fetched_at": "2026-11-26 05:20",
+ "generated_at": "2026-11-26 05:20",
  "period": {
-  "from": "2026-10-26 05:19",
-  "to": "2026-11-25 05:19",
+  "from": "2026-10-27 05:20",
+  "to": "2026-11-26 05:20",
   "days": 30
  },
- "streams_analyzed": 23,
- "streams_missed": 3,
- "unique_chatters": 4572,
- "members_confirmed": 632,
+ "streams_analyzed": 22,
+ "streams_missed": 4,
+ "unique_chatters": 4315,
+ "members_confirmed": 612,
  "member_classes": {
-  "unknown": 632
+  "unknown": 612
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 57
+   "members": 52
   },
   {
    "months": 2,
@@ -31,13 +31,13 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 543
+   "members": 528
   }
  ],
  "events": {
-  "new_members": 31,
+  "new_members": 26,
   "rejoins": 10,
-  "milestones": 68,
+  "milestones": 60,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -50,19 +50,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 0,
    "share_of_confirmed_pct": "",
-   "allocated_unknown": 632.0,
-   "estimated_members": 632.0,
+   "allocated_unknown": 612.0,
+   "estimated_members": 612.0,
    "monthly_net_confirmed": 0,
-   "monthly_net_estimated": 197069
+   "monthly_net_estimated": 190833
   }
  ],
  "revenue": {
-  "monthly_low": 197069,
-  "monthly_est": 197069,
+  "monthly_low": 190833,
+  "monthly_est": 190833,
   "gift_once": 0,
-  "total_low": 197069,
-  "total_est": 197069,
-  "paying_members": 632,
+  "total_low": 190833,
+  "total_est": 190833,
+  "paying_members": 612,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -71,16 +71,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "0EddZHMToOM",
-   "start": "2026-10-26 20:01",
-   "title": "花畑チャイカと都市伝説解体センター第六話 え～ 実に面白い この謎は既に お前のやった事は全部 簡単なことだよ もう一つだけ じっちゃんの いろはの 見えたこれが 長袖を 犯人はお前だ！ ネタバレ注意",
-   "kind": "配信",
-   "chatters": 700,
-   "member_chatters": 201,
-   "new_members": 5,
-   "gifted_total": 0
-  },
   {
    "video_id": "uItEf8NYCLU",
    "start": "2026-10-27 19:04",
@@ -336,7 +326,19 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 157,
+   "like_count": 159,
+   "view_count": null
+  },
+  {
+   "video_id": "OYZAj4Zxlq8",
+   "start": "2026-11-25 23:02",
+   "title": "花畑チャイカとメンゲン 俺って結構メン限するね",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 154,
    "view_count": null
   }
  ],
@@ -368,7 +370,17 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 157,
+   "like_count": 159,
+   "view_count": null
+  },
+  {
+   "video_id": "OYZAj4Zxlq8",
+   "start": "2026-11-25 23:02",
+   "title": "花畑チャイカとメンゲン 俺って結構メン限するね",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 154,
    "view_count": null
   }
  ],
@@ -481,10 +493,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-25"
+    "to": "2026-11-26"
    },
    "streams_analyzed": 20,
-   "streams_missed": 3,
+   "streams_missed": 4,
    "unique_chatters": 4164,
    "members_confirmed": 594,
    "member_classes": {

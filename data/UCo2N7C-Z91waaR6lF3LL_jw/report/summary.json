@@ -3,31 +3,31 @@
  "channel_id": "UCo2N7C-Z91waaR6lF3LL_jw",
  "handle": "@KaidaHaru",
  "subscribers": 744000,
- "fetched_at": "2026-11-25 05:25",
- "generated_at": "2026-11-25 05:28",
+ "fetched_at": "2026-11-26 05:24",
+ "generated_at": "2026-11-26 05:25",
  "period": {
-  "from": "2026-10-26 05:25",
-  "to": "2026-11-25 05:25",
+  "from": "2026-10-27 05:24",
+  "to": "2026-11-26 05:24",
   "days": 30
  },
  "streams_analyzed": 11,
  "streams_missed": 0,
- "unique_chatters": 4260,
- "members_confirmed": 2406,
+ "unique_chatters": 4301,
+ "members_confirmed": 2400,
  "member_classes": {
-  "unknown": 2329,
+  "unknown": 2323,
   "known": 77
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 60
+   "members": 51
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 34
+   "members": 40
   },
   {
    "months": 2,
@@ -52,12 +52,12 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 287
+   "members": 286
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 556
+   "members": 554
   }
  ],
  "events": {
@@ -76,10 +76,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 47,
    "share_of_confirmed_pct": 61.0,
-   "allocated_unknown": 1421.6,
-   "estimated_members": 1468.6,
+   "allocated_unknown": 1417.9,
+   "estimated_members": 1464.9,
    "monthly_net_confirmed": 14655,
-   "monthly_net_estimated": 457935
+   "monthly_net_estimated": 456793
   },
   {
    "tier": "見習い助手コース",
@@ -87,19 +87,19 @@
    "net_per_member": 757.3,
    "confirmed_members": 30,
    "share_of_confirmed_pct": 39.0,
-   "allocated_unknown": 907.4,
-   "estimated_members": 937.4,
+   "allocated_unknown": 905.1,
+   "estimated_members": 935.1,
    "monthly_net_confirmed": 22718,
-   "monthly_net_estimated": 709869
+   "monthly_net_estimated": 708099
   }
  ],
  "revenue": {
-  "monthly_low": 763598,
-  "monthly_est": 1167805,
+  "monthly_low": 761727,
+  "monthly_est": 1164893,
   "gift_once": 0,
-  "total_low": 763598,
-  "total_est": 1167805,
-  "paying_members": 2406,
+  "total_low": 761727,
+  "total_est": 1164893,
+  "paying_members": 2400,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -108,16 +108,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "QpVjlW8tXc8",
-   "start": "2026-10-26 21:00",
-   "title": "【原神】スネージナヤでストーリー進めるぞ！【甲斐田晴/にじさんじ】",
-   "kind": "配信",
-   "chatters": 959,
-   "member_chatters": 761,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "QemcDXvfbeE",
    "start": "2026-10-31 21:01",
@@ -216,6 +206,16 @@
    "chatters": 1007,
    "member_chatters": 730,
    "new_members": 1,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "RX9NQlp-tS0",
+   "start": "2026-11-25 20:59",
+   "title": "【Qoo10メガ割】メガ割ってお祭りらしいぞ【にじさんじ/甲斐田晴・魔界ノりりむ】",
+   "kind": "配信",
+   "chatters": 818,
+   "member_chatters": 645,
+   "new_members": 0,
    "gifted_total": 0
   }
  ],
@@ -384,25 +384,25 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-25"
+    "to": "2026-11-26"
    },
-   "streams_analyzed": 9,
+   "streams_analyzed": 10,
    "streams_missed": 0,
-   "unique_chatters": 4076,
-   "members_confirmed": 2364,
+   "unique_chatters": 4179,
+   "members_confirmed": 2375,
    "member_classes": {
-    "unknown": 2289,
+    "unknown": 2300,
     "known": 75
    },
-   "long_term_members": 1766,
+   "long_term_members": 1774,
    "badges": [
     {
      "months": 0,
-     "members": 58
+     "members": 50
     },
     {
      "months": 1,
-     "members": 32
+     "members": 40
     },
     {
      "months": 2,
@@ -410,23 +410,23 @@
     },
     {
      "months": 6,
-     "members": 283
+     "members": 286
     },
     {
      "months": 12,
-     "members": 591
+     "members": 593
     },
     {
      "months": 24,
-     "members": 351
+     "members": 352
     },
     {
      "months": 36,
-     "members": 282
+     "members": 284
     },
     {
      "months": 48,
-     "members": 542
+     "members": 545
     }
    ],
    "events": {
@@ -440,21 +440,21 @@
      "tier": "研修助手コース",
      "price": 490,
      "confirmed_members": 45,
-     "estimated_members": 1418.4
+     "estimated_members": 1425.0
     },
     {
      "tier": "見習い助手コース",
      "price": 1190,
      "confirmed_members": 30,
-     "estimated_members": 945.6
+     "estimated_members": 950.0
     }
    ],
    "revenue": {
-    "monthly_low": 750502,
-    "monthly_est": 1158360,
+    "monthly_low": 753932,
+    "monthly_est": 1163750,
     "gift_once": 0
    },
-   "avg_member_chatters": 1000.7,
+   "avg_member_chatters": 965.1,
    "partial": true,
    "finalized": false
   }

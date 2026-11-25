@@ -3,19 +3,19 @@
  "channel_id": "UCnbJ8LTbHrsRgqkxwJXCU8w",
  "handle": "@TachitsuteToto",
  "subscribers": 185000,
- "fetched_at": "2026-11-25 05:32",
- "generated_at": "2026-11-25 05:33",
+ "fetched_at": "2026-11-26 05:27",
+ "generated_at": "2026-11-26 05:28",
  "period": {
-  "from": "2026-10-26 05:32",
-  "to": "2026-11-25 05:32",
+  "from": "2026-10-27 05:27",
+  "to": "2026-11-26 05:27",
   "days": 30
  },
- "streams_analyzed": 17,
- "streams_missed": 1,
- "unique_chatters": 4375,
- "members_confirmed": 377,
+ "streams_analyzed": 16,
+ "streams_missed": 2,
+ "unique_chatters": 4295,
+ "members_confirmed": 376,
  "member_classes": {
-  "unknown": 332,
+  "unknown": 331,
   "known": 23,
   "gift": 22
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 39
+   "members": 38
   },
   {
    "months": 1,
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 23,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 332.0,
-   "estimated_members": 355.0,
+   "allocated_unknown": 331.0,
+   "estimated_members": 354.0,
    "monthly_net_confirmed": 7172,
-   "monthly_net_estimated": 110695
+   "monthly_net_estimated": 110384
   }
  ],
  "revenue": {
-  "monthly_low": 110695,
-  "monthly_est": 110695,
+  "monthly_low": 110384,
+  "monthly_est": 110384,
   "gift_once": 6860,
-  "total_low": 117555,
-  "total_est": 117555,
-  "paying_members": 355,
+  "total_low": 117244,
+  "total_est": 117244,
+  "paying_members": 354,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "mn3cpCBphds",
-   "start": "2026-10-26 19:03",
-   "title": "#12【空の軌跡 the 2nd 】ふたりはいつかまた逢える🧭ヨシュアとの再会が来るのか…【立伝都々/にじさんじ】",
-   "kind": "配信",
-   "chatters": 680,
-   "member_chatters": 89,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "ydYzWTFFRNw",
    "start": "2026-10-29 19:06",
@@ -271,6 +261,18 @@
    "members_level": "",
    "like_count": 188,
    "view_count": null
+  },
+  {
+   "video_id": "IMRIHcn_EOM",
+   "start": "2026-11-25 00:00",
+   "title": "【メン限】麻雀が…したいんですッ！",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 130,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -282,6 +284,16 @@
    "status": "members_only",
    "members_level": "",
    "like_count": 188,
+   "view_count": null
+  },
+  {
+   "video_id": "IMRIHcn_EOM",
+   "start": "2026-11-25 00:00",
+   "title": "【メン限】麻雀が…したいんですッ！",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 130,
    "view_count": null
   }
  ],
@@ -422,10 +434,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-25"
+    "to": "2026-11-26"
    },
    "streams_analyzed": 13,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 4125,
    "members_confirmed": 352,
    "member_classes": {

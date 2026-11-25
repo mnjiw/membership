@@ -3,61 +3,61 @@
  "channel_id": "UCIytNcoz4pWzXfLda0DoULQ",
  "handle": "@ExAlbio",
  "subscribers": 594000,
- "fetched_at": "2026-11-25 05:22",
- "generated_at": "2026-11-25 05:25",
+ "fetched_at": "2026-11-26 05:21",
+ "generated_at": "2026-11-26 05:22",
  "period": {
-  "from": "2026-10-26 05:22",
-  "to": "2026-11-25 05:22",
+  "from": "2026-10-27 05:21",
+  "to": "2026-11-26 05:21",
   "days": 30
  },
- "streams_analyzed": 28,
- "streams_missed": 2,
- "unique_chatters": 8962,
- "members_confirmed": 2064,
+ "streams_analyzed": 27,
+ "streams_missed": 3,
+ "unique_chatters": 8750,
+ "members_confirmed": 2004,
  "member_classes": {
-  "unknown": 1844,
-  "known": 144,
-  "gift": 76
+  "unknown": 1798,
+  "known": 140,
+  "gift": 66
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 194
+   "members": 177
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 106
+   "members": 104
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 230
+   "members": 224
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 473
+   "members": 470
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 553
+   "members": 540
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 508
+   "members": 489
   }
  ],
  "events": {
-  "new_members": 31,
-  "rejoins": 10,
+  "new_members": 30,
+  "rejoins": 9,
   "milestones": 19,
-  "gift_purchases": 15,
-  "gifted_total": 106,
-  "gift_redemptions": 76
+  "gift_purchases": 14,
+  "gifted_total": 96,
+  "gift_redemptions": 66
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +65,21 @@
    "tier": "英友",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 144,
+   "confirmed_members": 140,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1844.0,
-   "estimated_members": 1988.0,
-   "monthly_net_confirmed": 44902,
-   "monthly_net_estimated": 619895
+   "allocated_unknown": 1798.0,
+   "estimated_members": 1938.0,
+   "monthly_net_confirmed": 43655,
+   "monthly_net_estimated": 604304
   }
  ],
  "revenue": {
-  "monthly_low": 619895,
-  "monthly_est": 619895,
-  "gift_once": 33053,
-  "total_low": 652947,
-  "total_est": 652947,
-  "paying_members": 1988,
+  "monthly_low": 604304,
+  "monthly_est": 604304,
+  "gift_once": 29935,
+  "total_low": 634238,
+  "total_est": 634238,
+  "paying_members": 1938,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "YLdEWppk1U4",
-   "start": "2026-10-26 21:05",
-   "title": "WAHOすぎるメンバーで久しぶりのフルパAPEXで暴れるぞ！！『 エーペックスレジェンズ 』【 エビオ/にじさんじ 】",
-   "kind": "配信",
-   "chatters": 1258,
-   "member_chatters": 744,
-   "new_members": 1,
-   "gifted_total": 10
-  },
   {
    "video_id": "tstgKsID0yw",
    "start": "2026-10-27 22:41",
@@ -391,7 +381,19 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 510,
+   "like_count": 511,
+   "view_count": null
+  },
+  {
+   "video_id": "Afi5K_jHCOk",
+   "start": "2026-11-25 22:01",
+   "title": "きらきら",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 446,
    "view_count": null
   }
  ],
@@ -413,7 +415,17 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 510,
+   "like_count": 511,
+   "view_count": null
+  },
+  {
+   "video_id": "Afi5K_jHCOk",
+   "start": "2026-11-25 22:01",
+   "title": "きらきら",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 446,
    "view_count": null
   }
  ],
@@ -554,10 +566,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-25"
+    "to": "2026-11-26"
    },
    "streams_analyzed": 23,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 8009,
    "members_confirmed": 1861,
    "member_classes": {

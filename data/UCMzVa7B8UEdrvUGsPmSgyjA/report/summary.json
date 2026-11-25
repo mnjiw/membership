@@ -3,15 +3,15 @@
  "channel_id": "UCMzVa7B8UEdrvUGsPmSgyjA",
  "handle": "@DeremKado",
  "subscribers": 48500,
- "fetched_at": "2026-11-25 05:29",
- "generated_at": "2026-11-25 05:29",
+ "fetched_at": "2026-11-26 05:26",
+ "generated_at": "2026-11-26 05:26",
  "period": {
-  "from": "2026-10-26 05:29",
-  "to": "2026-11-25 05:29",
+  "from": "2026-10-27 05:26",
+  "to": "2026-11-26 05:26",
   "days": 30
  },
  "streams_analyzed": 22,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 235,
  "members_confirmed": 135,
  "member_classes": {
@@ -319,7 +319,20 @@
    "gifted_total": 5
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "PR7f0NHKT-Y",
+   "start": "2026-11-25 00:00",
+   "title": "【 Valheim 】 Breathe【 NIJISANJI | Derem Kado 】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 123,
+   "view_count": 1002
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -474,10 +487,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-25"
+    "to": "2026-11-26"
    },
    "streams_analyzed": 16,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 191,
    "members_confirmed": 113,
    "member_classes": {

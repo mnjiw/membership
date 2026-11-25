@@ -2,15 +2,15 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-25"
+  "to": "2026-11-26"
  },
- "streams_analyzed": 24,
+ "streams_analyzed": 25,
  "streams_missed": 3,
- "unique_chatters": 2658,
- "members_confirmed": 1049,
+ "unique_chatters": 2726,
+ "members_confirmed": 1061,
  "member_classes": {
-  "known": 408,
-  "unknown": 610,
+  "known": 413,
+  "unknown": 617,
   "gift": 31
  },
  "long_term_members": 0,
@@ -21,12 +21,16 @@
   },
   {
    "months": 1,
-   "members": 881
+   "members": 669
+  },
+  {
+   "months": 2,
+   "members": 224
   }
  ],
  "events": {
-  "new_members": 49,
-  "rejoins": 0,
+  "new_members": 50,
+  "rejoins": 3,
   "milestones": 0,
   "gifted_total": 33
  },
@@ -34,16 +38,16 @@
   {
    "tier": "山田のメンバー",
    "price": 490,
-   "confirmed_members": 408,
-   "estimated_members": 1018.0
+   "confirmed_members": 413,
+   "estimated_members": 1030.0
   }
  ],
  "revenue": {
-  "monthly_low": 317431,
-  "monthly_est": 317431,
+  "monthly_low": 321173,
+  "monthly_est": 321173,
   "gift_once": 10290
  },
- "avg_member_chatters": 289,
+ "avg_member_chatters": 288.3,
  "partial": true,
  "finalized": false
 }

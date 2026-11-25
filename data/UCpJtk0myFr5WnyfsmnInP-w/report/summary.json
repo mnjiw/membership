@@ -3,20 +3,20 @@
  "channel_id": "UCpJtk0myFr5WnyfsmnInP-w",
  "handle": "@HanaMacchia",
  "subscribers": 279000,
- "fetched_at": "2026-11-25 05:29",
- "generated_at": "2026-11-25 05:29",
+ "fetched_at": "2026-11-26 05:26",
+ "generated_at": "2026-11-26 05:26",
  "period": {
-  "from": "2026-10-26 05:29",
-  "to": "2026-11-25 05:29",
+  "from": "2026-10-27 05:26",
+  "to": "2026-11-26 05:26",
   "days": 30
  },
- "streams_analyzed": 9,
- "streams_missed": 1,
- "unique_chatters": 286,
- "members_confirmed": 57,
+ "streams_analyzed": 8,
+ "streams_missed": 2,
+ "unique_chatters": 255,
+ "members_confirmed": 53,
  "member_classes": {
-  "unknown": 42,
-  "known": 10,
+  "unknown": 39,
+  "known": 9,
   "gift": 5
  },
  "badges": [
@@ -43,7 +43,7 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 45
+   "members": 41
   }
  ],
  "events": {
@@ -60,21 +60,21 @@
    "tier": "Nijisenja",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 10,
+   "confirmed_members": 9,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 42.0,
-   "estimated_members": 52.0,
-   "monthly_net_confirmed": 4391,
-   "monthly_net_estimated": 22833
+   "allocated_unknown": 39.0,
+   "estimated_members": 48.0,
+   "monthly_net_confirmed": 3952,
+   "monthly_net_estimated": 21076
   }
  ],
  "revenue": {
-  "monthly_low": 22833,
-  "monthly_est": 22833,
+  "monthly_low": 21076,
+  "monthly_est": 21076,
   "gift_once": 2195,
-  "total_low": 25028,
-  "total_est": 25028,
-  "paying_members": 52,
+  "total_low": 23272,
+  "total_est": 23272,
+  "paying_members": 48,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "UWONiNkLbyc",
-   "start": "2026-10-26 23:39",
-   "title": "(Fields of Mistria) farm sim noob earnestly tries to play one【NIJISANJI | Hana Macchia】",
-   "kind": "配信",
-   "chatters": 72,
-   "member_chatters": 24,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "QwHjLfmAtXw",
    "start": "2026-10-29 23:18",
@@ -186,6 +176,18 @@
    "members_level": "",
    "like_count": 33,
    "view_count": null
+  },
+  {
+   "video_id": "uaLeNSZfYKc",
+   "start": "2026-11-25 00:00",
+   "title": "【#10】(Valheim Collab) we're going to explore the snowy mountains mayhaps【NIJISANJI | Hana Macchia】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 196,
+   "view_count": 3525
   }
  ],
  "members_only_content": [
@@ -316,10 +318,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-25"
+    "to": "2026-11-26"
    },
    "streams_analyzed": 5,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 162,
    "members_confirmed": 45,
    "member_classes": {
