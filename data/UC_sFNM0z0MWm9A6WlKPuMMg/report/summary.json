@@ -3,27 +3,27 @@
  "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
  "handle": "@NerissaRavencroft",
  "subscribers": 1040000,
- "fetched_at": "2026-11-25 06:30",
- "generated_at": "2026-11-25 06:31",
+ "fetched_at": "2026-11-25 13:58",
+ "generated_at": "2026-11-25 13:58",
  "period": {
-  "from": "2026-10-26 06:30",
-  "to": "2026-11-25 06:30",
+  "from": "2026-10-26 13:58",
+  "to": "2026-11-25 13:58",
   "days": 30
  },
- "streams_analyzed": 14,
- "streams_missed": 3,
- "unique_chatters": 10664,
- "members_confirmed": 2301,
+ "streams_analyzed": 13,
+ "streams_missed": 4,
+ "unique_chatters": 10382,
+ "members_confirmed": 2245,
  "member_classes": {
-  "unknown": 1194,
-  "known": 691,
-  "gift": 416
+  "unknown": 1158,
+  "known": 682,
+  "gift": 405
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 547
+   "members": 531
   },
   {
    "months": 1,
@@ -33,36 +33,36 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 177
+   "members": 171
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 202
+   "members": 198
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 368
+   "members": 357
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 321
+   "members": 317
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 633
+   "members": 618
   }
  ],
  "events": {
-  "new_members": 49,
-  "rejoins": 26,
-  "milestones": 558,
-  "gift_purchases": 62,
-  "gifted_total": 512,
-  "gift_redemptions": 416
+  "new_members": 47,
+  "rejoins": 25,
+  "milestones": 519,
+  "gift_purchases": 59,
+  "gifted_total": 501,
+  "gift_redemptions": 405
  },
  "tiers_configured": true,
  "tiers": [
@@ -70,23 +70,23 @@
    "tier": "Jailbirds+",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 657,
-   "share_of_confirmed_pct": 95.1,
-   "allocated_unknown": 1135.3,
-   "estimated_members": 1792.3,
-   "monthly_net_confirmed": 288483,
-   "monthly_net_estimated": 786961
+   "confirmed_members": 648,
+   "share_of_confirmed_pct": 95.0,
+   "allocated_unknown": 1100.3,
+   "estimated_members": 1748.3,
+   "monthly_net_confirmed": 284531,
+   "monthly_net_estimated": 767649
   },
   {
    "tier": "Jailbirds Ultra",
    "price": 1290,
    "net_per_member": 820.9,
    "confirmed_members": 23,
-   "share_of_confirmed_pct": 3.3,
-   "allocated_unknown": 39.7,
-   "estimated_members": 62.7,
+   "share_of_confirmed_pct": 3.4,
+   "allocated_unknown": 39.1,
+   "estimated_members": 62.1,
    "monthly_net_confirmed": 18881,
-   "monthly_net_estimated": 51506
+   "monthly_net_estimated": 50940
   },
   {
    "tier": "Jailbirds Ultra+",
@@ -94,19 +94,19 @@
    "net_per_member": 2220.9,
    "confirmed_members": 11,
    "share_of_confirmed_pct": 1.6,
-   "allocated_unknown": 19.0,
-   "estimated_members": 30.0,
+   "allocated_unknown": 18.7,
+   "estimated_members": 29.7,
    "monthly_net_confirmed": 24430,
-   "monthly_net_estimated": 66643
+   "monthly_net_estimated": 65911
   }
  ],
  "revenue": {
-  "monthly_low": 856068,
-  "monthly_est": 905110,
-  "gift_once": 224815,
-  "total_low": 1080883,
-  "total_est": 1129925,
-  "paying_members": 1885,
+  "monthly_low": 836309,
+  "monthly_est": 884500,
+  "gift_once": 219985,
+  "total_low": 1056294,
+  "total_est": 1104484,
+  "paying_members": 1840,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -115,16 +115,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "S62JRna41GI",
-   "start": "2026-10-26 09:54",
-   "title": "We gotta unlock minigames!!! | hololive Dreams【#holodori】",
-   "kind": "配信",
-   "chatters": 1120,
-   "member_chatters": 478,
-   "new_members": 2,
-   "gifted_total": 11
-  },
   {
    "video_id": "X1Dgw5kLaSE",
    "start": "2026-10-28 09:55",
@@ -292,6 +282,18 @@
    "members_level": "",
    "like_count": 744,
    "view_count": null
+  },
+  {
+   "video_id": "oOo2s0GHMMU",
+   "start": "2026-11-25 00:00",
+   "title": "A New Classic | The Legend of Zelda™: Ocarina of Time(Remake)",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 4886,
+   "view_count": 48552
   }
  ],
  "members_only_content": [
@@ -475,7 +477,7 @@
     "to": "2026-11-25"
    },
    "streams_analyzed": 10,
-   "streams_missed": 2,
+   "streams_missed": 3,
    "unique_chatters": 9061,
    "members_confirmed": 2045,
    "member_classes": {

@@ -889,17 +889,20 @@
   "Y_TDVc-BUlE": {
    "id": "Y_TDVc-BUlE",
    "title": "Is this the new game everyone's been playing?",
-   "status": "live_now",
+   "status": "error",
    "seen_live_at": "2026-11-25 06:31",
-   "was_public_when_live": true
+   "was_public_when_live": true,
+   "error": "ERROR: [youtube] Video unavailable. This video has been removed by the uploader",
+   "unavailable": true,
+   "failed_since_ts": 1795582711.9478915
   }
  },
  "channel": "Cecilia Immergreen Ch. hololive",
  "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
  "handle": "@holoen_ceciliaimmergreen",
  "subscribers": 555000,
- "fetched_at": "2026-11-25 06:31",
- "fetched_at_ts": 1795555868.1566358,
- "checked_from": "2026-11-18 06:31",
+ "fetched_at": "2026-11-25 13:58",
+ "fetched_at_ts": 1795582711.9478915,
+ "checked_from": "2026-11-18 13:58",
  "initial_fetch_done": true
 }

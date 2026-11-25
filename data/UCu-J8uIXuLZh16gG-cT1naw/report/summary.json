@@ -3,16 +3,16 @@
  "channel_id": "UCu-J8uIXuLZh16gG-cT1naw",
  "handle": "@FinanaRyugu",
  "subscribers": 474000,
- "fetched_at": "2026-11-25 05:36",
- "generated_at": "2026-11-25 05:36",
+ "fetched_at": "2026-11-25 13:56",
+ "generated_at": "2026-11-25 13:56",
  "period": {
-  "from": "2026-10-26 05:36",
-  "to": "2026-11-25 05:36",
+  "from": "2026-10-26 13:56",
+  "to": "2026-11-25 13:56",
   "days": 30
  },
- "streams_analyzed": 22,
- "streams_missed": 3,
- "unique_chatters": 736,
+ "streams_analyzed": 23,
+ "streams_missed": 2,
+ "unique_chatters": 738,
  "members_confirmed": 159,
  "member_classes": {
   "unknown": 71,
@@ -54,7 +54,7 @@
  "events": {
   "new_members": 3,
   "rejoins": 3,
-  "milestones": 10,
+  "milestones": 11,
   "gift_purchases": 34,
   "gifted_total": 62,
   "gift_redemptions": 62
@@ -307,6 +307,16 @@
    "member_chatters": 36,
    "new_members": 0,
    "gifted_total": 2
+  },
+  {
+   "video_id": "cYzJOqckbBU",
+   "start": "2026-11-24 06:05",
+   "title": "【Silver Pines】 I NEED TO SAVE MORE OFTEN RAAA [3]",
+   "kind": "配信",
+   "chatters": 61,
+   "member_chatters": 27,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -333,18 +343,6 @@
    "members_level": "",
    "like_count": 28,
    "view_count": null
-  },
-  {
-   "video_id": "cYzJOqckbBU",
-   "start": "2026-11-23 00:00",
-   "title": "【Silver Pines】 I NEED TO SAVE MORE OFTEN RAAA [3]",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 297,
-   "view_count": 6143
   }
  ],
  "members_only_content": [
@@ -508,13 +506,13 @@
     "from": "2026-11-01",
     "to": "2026-11-25"
    },
-   "streams_analyzed": 17,
-   "streams_missed": 3,
-   "unique_chatters": 658,
-   "members_confirmed": 141,
+   "streams_analyzed": 18,
+   "streams_missed": 2,
+   "unique_chatters": 664,
+   "members_confirmed": 142,
    "member_classes": {
     "unknown": 70,
-    "known": 23,
+    "known": 24,
     "gift": 48
    },
    "long_term_members": 75,
@@ -529,7 +527,7 @@
     },
     {
      "months": 2,
-     "members": 2
+     "members": 3
     },
     {
      "months": 6,
@@ -547,23 +545,23 @@
    "events": {
     "new_members": 3,
     "rejoins": 3,
-    "milestones": 8,
+    "milestones": 9,
     "gifted_total": 48
    },
    "tiers": [
     {
      "tier": "Ryuguard",
      "price": 690,
-     "confirmed_members": 23,
-     "estimated_members": 93.0
+     "confirmed_members": 24,
+     "estimated_members": 94.0
     }
    ],
    "revenue": {
-    "monthly_low": 40835,
-    "monthly_est": 40835,
+    "monthly_low": 41275,
+    "monthly_est": 41275,
     "gift_once": 21076
    },
-   "avg_member_chatters": 36.8,
+   "avg_member_chatters": 36.3,
    "partial": true,
    "finalized": false
   }

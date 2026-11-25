@@ -3,32 +3,32 @@
  "channel_id": "UCL9hJsdk9eQa0IlWbFB2oRg",
  "handle": "@HanabiChoya",
  "subscribers": 313000,
- "fetched_at": "2026-11-25 06:33",
- "generated_at": "2026-11-25 06:34",
+ "fetched_at": "2026-11-25 13:59",
+ "generated_at": "2026-11-25 13:59",
  "period": {
-  "from": "2026-10-26 06:33",
-  "to": "2026-11-25 06:33",
+  "from": "2026-10-26 13:59",
+  "to": "2026-11-25 13:59",
   "days": 30
  },
- "streams_analyzed": 18,
+ "streams_analyzed": 19,
  "streams_missed": 4,
- "unique_chatters": 3979,
- "members_confirmed": 1306,
+ "unique_chatters": 4045,
+ "members_confirmed": 1364,
  "member_classes": {
-  "unknown": 767,
+  "unknown": 775,
   "known": 244,
-  "gift": 295
+  "gift": 345
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 400
+   "members": 448
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 69
+   "members": 72
   },
   {
    "months": 2,
@@ -43,21 +43,21 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 366
+   "members": 368
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 113
+   "members": 118
   }
  ],
  "events": {
   "new_members": 122,
   "rejoins": 110,
   "milestones": 0,
-  "gift_purchases": 8,
-  "gifted_total": 306,
-  "gift_redemptions": 295
+  "gift_purchases": 9,
+  "gifted_total": 356,
+  "gift_redemptions": 345
  },
  "tiers_configured": true,
  "tiers": [
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 244,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 767.0,
-   "estimated_members": 1011.0,
+   "allocated_unknown": 775.0,
+   "estimated_members": 1019.0,
    "monthly_net_confirmed": 76084,
-   "monthly_net_estimated": 315248
+   "monthly_net_estimated": 317743
   }
  ],
  "revenue": {
-  "monthly_low": 315248,
-  "monthly_est": 315248,
-  "gift_once": 95416,
-  "total_low": 410665,
-  "total_est": 410665,
-  "paying_members": 1011,
+  "monthly_low": 317743,
+  "monthly_est": 317743,
+  "gift_once": 111007,
+  "total_low": 428750,
+  "total_est": 428750,
+  "paying_members": 1019,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -267,6 +267,16 @@
    "member_chatters": 125,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "OL8x5E-wFCw",
+   "start": "2026-11-25 06:57",
+   "title": "【朝活雑談】　夏はまだか＿＿＿！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+   "kind": "配信",
+   "chatters": 346,
+   "member_chatters": 207,
+   "new_members": 0,
+   "gifted_total": 50
   }
  ],
  "missed_streams": [
@@ -481,24 +491,24 @@
     "from": "2026-11-01",
     "to": "2026-11-25"
    },
-   "streams_analyzed": 15,
+   "streams_analyzed": 16,
    "streams_missed": 3,
-   "unique_chatters": 3072,
-   "members_confirmed": 1289,
+   "unique_chatters": 3148,
+   "members_confirmed": 1347,
    "member_classes": {
-    "unknown": 751,
+    "unknown": 759,
     "known": 244,
-    "gift": 294
+    "gift": 344
    },
-   "long_term_members": 470,
+   "long_term_members": 477,
    "badges": [
     {
      "months": 0,
-     "members": 398
+     "members": 446
     },
     {
      "months": 1,
-     "members": 68
+     "members": 71
     },
     {
      "months": 2,
@@ -510,33 +520,33 @@
     },
     {
      "months": 12,
-     "members": 357
+     "members": 359
     },
     {
      "months": 24,
-     "members": 113
+     "members": 118
     }
    ],
    "events": {
     "new_members": 122,
     "rejoins": 110,
     "milestones": 0,
-    "gifted_total": 305
+    "gifted_total": 355
    },
    "tiers": [
     {
      "tier": "かやく",
      "price": 490,
      "confirmed_members": 244,
-     "estimated_members": 995.0
+     "estimated_members": 1003.0
     }
    ],
    "revenue": {
-    "monthly_low": 310259,
-    "monthly_est": 310259,
-    "gift_once": 95105
+    "monthly_low": 312754,
+    "monthly_est": 312754,
+    "gift_once": 110695
    },
-   "avg_member_chatters": 211.8,
+   "avg_member_chatters": 211.5,
    "partial": true,
    "finalized": false
   }

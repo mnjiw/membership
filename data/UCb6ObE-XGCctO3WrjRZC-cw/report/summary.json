@@ -3,27 +3,27 @@
  "channel_id": "UCb6ObE-XGCctO3WrjRZC-cw",
  "handle": "@LuisCammy",
  "subscribers": 257000,
- "fetched_at": "2026-11-25 05:23",
- "generated_at": "2026-11-25 05:23",
+ "fetched_at": "2026-11-25 13:54",
+ "generated_at": "2026-11-25 13:54",
  "period": {
-  "from": "2026-10-26 05:23",
-  "to": "2026-11-25 05:23",
+  "from": "2026-10-26 13:54",
+  "to": "2026-11-25 13:54",
   "days": 30
  },
- "streams_analyzed": 16,
- "streams_missed": 2,
- "unique_chatters": 2078,
- "members_confirmed": 123,
+ "streams_analyzed": 15,
+ "streams_missed": 3,
+ "unique_chatters": 2068,
+ "members_confirmed": 122,
  "member_classes": {
   "unknown": 99,
   "known": 8,
-  "gift": 16
+  "gift": 15
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 16
+   "members": 15
   },
   {
    "months": 1,
@@ -55,9 +55,9 @@
   "new_members": 0,
   "rejoins": 0,
   "milestones": 3,
-  "gift_purchases": 3,
-  "gifted_total": 16,
-  "gift_redemptions": 16
+  "gift_purchases": 2,
+  "gifted_total": 15,
+  "gift_redemptions": 15
  },
  "tiers_configured": true,
  "tiers": [
@@ -87,9 +87,9 @@
  "revenue": {
   "monthly_low": 50292,
   "monthly_est": 91242,
-  "gift_once": 7025,
-  "total_low": 57317,
-  "total_est": 98267,
+  "gift_once": 6586,
+  "total_low": 56878,
+  "total_est": 97828,
   "paying_members": 107,
   "single_tier": false,
   "tax_rate": 0.1,
@@ -99,16 +99,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "cfUgdjN6CMk",
-   "start": "2026-10-26 11:14",
-   "title": "収集した小物なくなるのやめて？？？【Wanderstop/ルイス・キャミー/にじさんじ】",
-   "kind": "配信",
-   "chatters": 83,
-   "member_chatters": 25,
-   "new_members": 0,
-   "gifted_total": 1
-  },
   {
    "video_id": "8d4bQRa0HnQ",
    "start": "2026-10-28 11:01",
@@ -284,6 +274,18 @@
    "members_level": "怪盗団",
    "like_count": 49,
    "view_count": null
+  },
+  {
+   "video_id": "dZYfOGhXlaA",
+   "start": "2026-11-25 00:00",
+   "title": "ちぎっては投げ！ちぎっては投げぇ！！【What the Buck?!/ルイス・キャミー/にじさんじ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 455,
+   "view_count": 8687
   }
  ],
  "members_only_content": [
@@ -459,7 +461,7 @@
     "to": "2026-11-25"
    },
    "streams_analyzed": 12,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 1676,
    "members_confirmed": 100,
    "member_classes": {

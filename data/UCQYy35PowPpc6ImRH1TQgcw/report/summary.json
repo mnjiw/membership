@@ -3,19 +3,37 @@
  "channel_id": "UCQYy35PowPpc6ImRH1TQgcw",
  "handle": "@nora_shitagai",
  "subscribers": 181000,
- "fetched_at": "2026-11-25 06:42",
- "generated_at": "2026-11-25 06:42",
+ "fetched_at": "2026-11-25 14:02",
+ "generated_at": "2026-11-25 14:02",
  "period": {
-  "from": "2026-10-26 06:42",
-  "to": "2026-11-25 06:42",
+  "from": "2026-10-26 14:02",
+  "to": "2026-11-25 14:02",
   "days": 30
  },
- "streams_analyzed": 0,
- "streams_missed": 3,
- "unique_chatters": 0,
- "members_confirmed": 0,
- "member_classes": {},
- "badges": [],
+ "streams_analyzed": 1,
+ "streams_missed": 2,
+ "unique_chatters": 198,
+ "members_confirmed": 64,
+ "member_classes": {
+  "unknown": 64
+ },
+ "badges": [
+  {
+   "months": 0,
+   "label": "新規(1ヶ月未満)",
+   "members": 3
+  },
+  {
+   "months": 1,
+   "label": "1ヶ月",
+   "members": 2
+  },
+  {
+   "months": 2,
+   "label": "2ヶ月",
+   "members": 59
+  }
+ ],
  "events": {
   "new_members": 0,
   "rejoins": 0,
@@ -32,19 +50,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 0,
    "share_of_confirmed_pct": "",
-   "allocated_unknown": 0.0,
-   "estimated_members": 0.0,
+   "allocated_unknown": 64.0,
+   "estimated_members": 64.0,
    "monthly_net_confirmed": 0,
-   "monthly_net_estimated": 0
+   "monthly_net_estimated": 19956
   }
  ],
  "revenue": {
-  "monthly_low": 0,
-  "monthly_est": 0,
+  "monthly_low": 19956,
+  "monthly_est": 19956,
   "gift_once": 0,
-  "total_low": 0,
-  "total_est": 0,
-  "paying_members": 0,
+  "total_low": 19956,
+  "total_est": 19956,
+  "paying_members": 64,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -52,7 +70,18 @@
   "currency": "JPY",
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
- "streams": [],
+ "streams": [
+  {
+   "video_id": "RZSsXal3fYk",
+   "start": "2026-11-24 21:59",
+   "title": "お前らの\"癖\"で、ボクの世界を広げてくれ。【従井ノラ】",
+   "kind": "配信",
+   "chatters": 198,
+   "member_chatters": 64,
+   "new_members": 0,
+   "gifted_total": 0
+  }
+ ],
  "missed_streams": [
   {
    "video_id": "UfT8KRwhqhk",
@@ -77,18 +106,6 @@
    "members_level": "",
    "like_count": 306,
    "view_count": 6689
-  },
-  {
-   "video_id": "RZSsXal3fYk",
-   "start": "2026-11-24 00:00",
-   "title": "お前らの\"癖\"で、ボクの世界を広げてくれ。【従井ノラ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 523,
-   "view_count": 8391
   }
  ],
  "members_only_content": [
@@ -195,9 +212,60 @@
    "partial": false,
    "finalized": true,
    "finalized_at": "2026-11-08 06:55"
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-25"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 1,
+   "unique_chatters": 198,
+   "members_confirmed": 64,
+   "member_classes": {
+    "unknown": 64
+   },
+   "long_term_members": 0,
+   "badges": [
+    {
+     "months": 0,
+     "members": 3
+    },
+    {
+     "months": 1,
+     "members": 2
+    },
+    {
+     "months": 2,
+     "members": 59
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 0,
+    "milestones": 0,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "ノラ組構成員",
+     "price": 490,
+     "confirmed_members": 0,
+     "estimated_members": 64.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 19956,
+    "monthly_est": 19956,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 64,
+   "partial": true,
+   "finalized": false
   }
  ],
- "no_streams": true,
+ "no_streams": false,
  "membership": true,
  "price_history": [
   {

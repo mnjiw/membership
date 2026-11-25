@@ -3,27 +3,27 @@
  "channel_id": "UCv3EicDtxObcZZmnFcHvNnw",
  "handle": "@onigayaten0512",
  "subscribers": 88000,
- "fetched_at": "2026-11-25 06:39",
- "generated_at": "2026-11-25 06:39",
+ "fetched_at": "2026-11-25 14:00",
+ "generated_at": "2026-11-25 14:01",
  "period": {
-  "from": "2026-10-26 06:39",
-  "to": "2026-11-25 06:39",
+  "from": "2026-10-26 14:00",
+  "to": "2026-11-25 14:00",
   "days": 30
  },
- "streams_analyzed": 45,
+ "streams_analyzed": 46,
  "streams_missed": 3,
- "unique_chatters": 562,
- "members_confirmed": 218,
+ "unique_chatters": 578,
+ "members_confirmed": 220,
  "member_classes": {
   "known": 23,
-  "unknown": 125,
+  "unknown": 127,
   "gift": 70
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 78
+   "members": 79
   },
   {
    "months": 1,
@@ -38,12 +38,12 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 35
+   "members": 34
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 63
+   "members": 65
   },
   {
    "months": 24,
@@ -67,19 +67,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 23,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 125.0,
-   "estimated_members": 148.0,
+   "allocated_unknown": 127.0,
+   "estimated_members": 150.0,
    "monthly_net_confirmed": 7172,
-   "monthly_net_estimated": 46149
+   "monthly_net_estimated": 46773
   }
  ],
  "revenue": {
-  "monthly_low": 46149,
-  "monthly_est": 46149,
+  "monthly_low": 46773,
+  "monthly_est": 46773,
   "gift_once": 21827,
-  "total_low": 67976,
-  "total_est": 67976,
-  "paying_members": 148,
+  "total_low": 68600,
+  "total_est": 68600,
+  "paying_members": 150,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -537,6 +537,16 @@
    "member_chatters": 31,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "s3jd5OI0wzs",
+   "start": "2026-11-25 06:00",
+   "title": "【雑談】それではやっていきましょうでﾔｽ【鬼ヶ谷テン/ネオポルテ】",
+   "kind": "配信",
+   "chatters": 93,
+   "member_chatters": 44,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -757,20 +767,20 @@
     "from": "2026-11-01",
     "to": "2026-11-25"
    },
-   "streams_analyzed": 37,
+   "streams_analyzed": 38,
    "streams_missed": 2,
-   "unique_chatters": 458,
-   "members_confirmed": 166,
+   "unique_chatters": 476,
+   "members_confirmed": 168,
    "member_classes": {
-    "unknown": 114,
+    "unknown": 116,
     "known": 22,
     "gift": 30
    },
-   "long_term_members": 65,
+   "long_term_members": 67,
    "badges": [
     {
      "months": 0,
-     "members": 41
+     "members": 42
     },
     {
      "months": 1,
@@ -782,11 +792,11 @@
     },
     {
      "months": 6,
-     "members": 31
+     "members": 30
     },
     {
      "months": 12,
-     "members": 55
+     "members": 57
     },
     {
      "months": 24,
@@ -804,15 +814,15 @@
      "tier": "鬼組",
      "price": 490,
      "confirmed_members": 22,
-     "estimated_members": 136.0
+     "estimated_members": 138.0
     }
    ],
    "revenue": {
-    "monthly_low": 42407,
-    "monthly_est": 42407,
+    "monthly_low": 43031,
+    "monthly_est": 43031,
     "gift_once": 9355
    },
-   "avg_member_chatters": 28.1,
+   "avg_member_chatters": 28.6,
    "partial": true,
    "finalized": false
   }

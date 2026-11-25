@@ -3,31 +3,31 @@
  "channel_id": "UCGLS7BOgNa6c03r7VYacblw",
  "handle": "@MinamoMadoka",
  "subscribers": 148000,
- "fetched_at": "2026-11-25 05:35",
- "generated_at": "2026-11-25 05:36",
+ "fetched_at": "2026-11-25 13:55",
+ "generated_at": "2026-11-25 13:56",
  "period": {
-  "from": "2026-10-26 05:35",
-  "to": "2026-11-25 05:35",
+  "from": "2026-10-26 13:55",
+  "to": "2026-11-25 13:55",
   "days": 30
  },
- "streams_analyzed": 21,
- "streams_missed": 3,
- "unique_chatters": 2298,
- "members_confirmed": 226,
+ "streams_analyzed": 22,
+ "streams_missed": 2,
+ "unique_chatters": 2373,
+ "members_confirmed": 229,
  "member_classes": {
-  "unknown": 212,
-  "known": 14
+  "unknown": 213,
+  "known": 16
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 20
+   "members": 22
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 45
+   "members": 46
   },
   {
    "months": 6,
@@ -36,7 +36,7 @@
   }
  ],
  "events": {
-  "new_members": 4,
+  "new_members": 6,
   "rejoins": 1,
   "milestones": 0,
   "gift_purchases": 0,
@@ -49,21 +49,21 @@
    "tier": "水飲み隊",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 14,
+   "confirmed_members": 16,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 212.0,
-   "estimated_members": 226.0,
-   "monthly_net_confirmed": 4365,
-   "monthly_net_estimated": 70471
+   "allocated_unknown": 213.0,
+   "estimated_members": 229.0,
+   "monthly_net_confirmed": 4989,
+   "monthly_net_estimated": 71406
   }
  ],
  "revenue": {
-  "monthly_low": 70471,
-  "monthly_est": 70471,
+  "monthly_low": 71406,
+  "monthly_est": 71406,
   "gift_once": 0,
-  "total_low": 70471,
-  "total_est": 70471,
-  "paying_members": 226,
+  "total_low": 71406,
+  "total_est": 71406,
+  "paying_members": 229,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -281,6 +281,16 @@
    "member_chatters": 53,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "VB2J-1DnIYg",
+   "start": "2026-11-24 22:01",
+   "title": "【 魔法少女ノ魔女裁判 】#04 今回はどんな人間性が見られるかなあ ※ネタバレ注意【 にじさんじ / 水面まどか 】",
+   "kind": "配信",
+   "chatters": 288,
+   "member_chatters": 54,
+   "new_members": 2,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -307,18 +317,6 @@
    "members_level": "",
    "like_count": 69,
    "view_count": null
-  },
-  {
-   "video_id": "VB2J-1DnIYg",
-   "start": "2026-11-24 00:00",
-   "title": "【 魔法少女ノ魔女裁判 】#04 今回はどんな人間性が見られるかなあ ※ネタバレ注意【 にじさんじ / 水面まどか 】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 617,
-   "view_count": 27594
   }
  ],
  "members_only_content": [
@@ -458,23 +456,23 @@
     "from": "2026-11-01",
     "to": "2026-11-25"
    },
-   "streams_analyzed": 16,
-   "streams_missed": 2,
-   "unique_chatters": 1981,
-   "members_confirmed": 199,
+   "streams_analyzed": 17,
+   "streams_missed": 1,
+   "unique_chatters": 2057,
+   "members_confirmed": 202,
    "member_classes": {
-    "unknown": 187,
-    "known": 12
+    "unknown": 188,
+    "known": 14
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 16
+     "members": 18
     },
     {
      "months": 2,
-     "members": 41
+     "members": 42
     },
     {
      "months": 6,
@@ -482,7 +480,7 @@
     }
    ],
    "events": {
-    "new_members": 3,
+    "new_members": 5,
     "rejoins": 1,
     "milestones": 0,
     "gifted_total": 0
@@ -491,16 +489,16 @@
     {
      "tier": "水飲み隊",
      "price": 490,
-     "confirmed_members": 12,
-     "estimated_members": 199.0
+     "confirmed_members": 14,
+     "estimated_members": 202.0
     }
    ],
    "revenue": {
-    "monthly_low": 62052,
-    "monthly_est": 62052,
+    "monthly_low": 62987,
+    "monthly_est": 62987,
     "gift_once": 0
    },
-   "avg_member_chatters": 57.6,
+   "avg_member_chatters": 57.4,
    "partial": true,
    "finalized": false
   }

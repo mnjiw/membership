@@ -3,27 +3,27 @@
  "channel_id": "UCN68LoM3khS4gdBMiWJO8WA",
  "handle": "@AiaAmare",
  "subscribers": 283000,
- "fetched_at": "2026-11-25 05:37",
- "generated_at": "2026-11-25 05:37",
+ "fetched_at": "2026-11-25 13:56",
+ "generated_at": "2026-11-25 13:56",
  "period": {
-  "from": "2026-10-26 05:37",
-  "to": "2026-11-25 05:37",
+  "from": "2026-10-26 13:56",
+  "to": "2026-11-25 13:56",
   "days": 30
  },
- "streams_analyzed": 29,
- "streams_missed": 1,
- "unique_chatters": 1419,
- "members_confirmed": 309,
+ "streams_analyzed": 27,
+ "streams_missed": 2,
+ "unique_chatters": 1136,
+ "members_confirmed": 303,
  "member_classes": {
   "known": 151,
-  "unknown": 75,
-  "gift": 83
+  "unknown": 76,
+  "gift": 76
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 75
+   "members": 73
   },
   {
    "months": 1,
@@ -33,12 +33,12 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 19
+   "members": 18
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 17
+   "members": 15
   },
   {
    "months": 12,
@@ -58,16 +58,16 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 32
+   "members": 31
   }
  ],
  "events": {
   "new_members": 0,
   "rejoins": 7,
-  "milestones": 112,
-  "gift_purchases": 39,
-  "gifted_total": 84,
-  "gift_redemptions": 84
+  "milestones": 111,
+  "gift_purchases": 36,
+  "gifted_total": 77,
+  "gift_redemptions": 77
  },
  "tiers_configured": true,
  "tiers": [
@@ -77,19 +77,19 @@
    "net_per_member": 439.1,
    "confirmed_members": 151,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 75.0,
-   "estimated_members": 226.0,
+   "allocated_unknown": 76.0,
+   "estimated_members": 227.0,
    "monthly_net_confirmed": 66303,
-   "monthly_net_estimated": 99235
+   "monthly_net_estimated": 99674
   }
  ],
  "revenue": {
-  "monthly_low": 99235,
-  "monthly_est": 99235,
-  "gift_once": 36884,
-  "total_low": 136118,
-  "total_est": 136118,
-  "paying_members": 226,
+  "monthly_low": 99674,
+  "monthly_est": 99674,
+  "gift_once": 33810,
+  "total_low": 133484,
+  "total_est": 133484,
+  "paying_members": 227,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,26 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "4ZDQmdQIvE0",
-   "start": "2026-10-26 07:28",
-   "title": "ONE NIGHT AT VILLAIN'S 【AIA'S TABLETOP ADVENTURES】【NIJISANJI EN | Aia Amare 】",
-   "kind": "配信",
-   "chatters": 480,
-   "member_chatters": 72,
-   "new_members": 0,
-   "gifted_total": 7
-  },
-  {
-   "video_id": "5WcN_pm8Z1Q",
-   "start": "2026-10-26 11:20",
-   "title": "POST DM CLARITY",
-   "kind": "配信",
-   "chatters": 87,
-   "member_chatters": 39,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "o6goWamoFik",
    "start": "2026-10-27 08:37",
@@ -401,6 +381,18 @@
    "members_level": "",
    "like_count": 35,
    "view_count": null
+  },
+  {
+   "video_id": "hP__QRvw_jA",
+   "start": "2026-11-25 00:00",
+   "title": "【ESOTERIC EBB】 why did the skull ask me if i was a feminist (part 14)",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 205,
+   "view_count": 1547
   }
  ],
  "members_only_content": [
@@ -571,7 +563,7 @@
     "to": "2026-11-25"
    },
    "streams_analyzed": 22,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 1052,
    "members_confirmed": 284,
    "member_classes": {
