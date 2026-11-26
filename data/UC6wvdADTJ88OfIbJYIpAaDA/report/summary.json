@@ -3,20 +3,20 @@
  "channel_id": "UC6wvdADTJ88OfIbJYIpAaDA",
  "handle": "@FuwaMinato",
  "subscribers": 1210000,
- "fetched_at": "2026-11-26 05:23",
- "generated_at": "2026-11-26 05:23",
+ "fetched_at": "2026-11-26 13:10",
+ "generated_at": "2026-11-26 13:13",
  "period": {
-  "from": "2026-10-27 05:23",
-  "to": "2026-11-26 05:23",
+  "from": "2026-10-27 13:10",
+  "to": "2026-11-26 13:10",
   "days": 30
  },
- "streams_analyzed": 20,
- "streams_missed": 1,
- "unique_chatters": 7350,
- "members_confirmed": 3065,
+ "streams_analyzed": 21,
+ "streams_missed": 0,
+ "unique_chatters": 7432,
+ "members_confirmed": 3087,
  "member_classes": {
-  "unknown": 2963,
-  "known": 102
+  "unknown": 2984,
+  "known": 103
  },
  "badges": [
   {
@@ -27,7 +27,7 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 33
+   "members": 34
   },
   {
    "months": 2,
@@ -37,26 +37,26 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 284
+   "members": 287
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 573
+   "members": 571
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 931
+   "members": 945
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 934
+   "members": 940
   }
  ],
  "events": {
-  "new_members": 42,
+  "new_members": 43,
   "rejoins": 38,
   "milestones": 0,
   "gift_purchases": 0,
@@ -69,21 +69,21 @@
    "tier": "不破狂",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 102,
+   "confirmed_members": 103,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 2963.0,
-   "estimated_members": 3065.0,
-   "monthly_net_confirmed": 31805,
-   "monthly_net_estimated": 955723
+   "allocated_unknown": 2984.0,
+   "estimated_members": 3087.0,
+   "monthly_net_confirmed": 32117,
+   "monthly_net_estimated": 962583
   }
  ],
  "revenue": {
-  "monthly_low": 955723,
-  "monthly_est": 955723,
+  "monthly_low": 962583,
+  "monthly_est": 962583,
   "gift_once": 0,
-  "total_low": 955723,
-  "total_est": 955723,
-  "paying_members": 3065,
+  "total_low": 962583,
+  "total_est": 962583,
+  "paying_members": 3087,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -291,22 +291,19 @@
    "member_chatters": 755,
    "new_members": 0,
    "gifted_total": 0
-  }
- ],
- "missed_streams": [
+  },
   {
    "video_id": "r3VWM5oNfZ8",
-   "start": "2026-11-25 00:00",
+   "start": "2026-11-25 20:01",
    "title": "【ゼルダの伝説 時のオカリナ】魂の完全コンプ最終回【不破湊/にじさんじ】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 1892,
-   "view_count": 93769
+   "kind": "配信",
+   "chatters": 1076,
+   "member_chatters": 800,
+   "new_members": 1,
+   "gifted_total": 0
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -453,15 +450,15 @@
     "from": "2026-11-01",
     "to": "2026-11-26"
    },
-   "streams_analyzed": 19,
-   "streams_missed": 1,
-   "unique_chatters": 7127,
-   "members_confirmed": 2971,
+   "streams_analyzed": 20,
+   "streams_missed": 0,
+   "unique_chatters": 7213,
+   "members_confirmed": 2994,
    "member_classes": {
-    "unknown": 2875,
-    "known": 96
+    "unknown": 2896,
+    "known": 98
    },
-   "long_term_members": 2374,
+   "long_term_members": 2393,
    "badges": [
     {
      "months": 0,
@@ -469,7 +466,7 @@
     },
     {
      "months": 1,
-     "members": 31
+     "members": 32
     },
     {
      "months": 2,
@@ -477,23 +474,23 @@
     },
     {
      "months": 6,
-     "members": 274
+     "members": 277
     },
     {
      "months": 12,
-     "members": 558
+     "members": 556
     },
     {
      "months": 24,
-     "members": 900
+     "members": 915
     },
     {
      "months": 48,
-     "members": 916
+     "members": 922
     }
    ],
    "events": {
-    "new_members": 39,
+    "new_members": 40,
     "rejoins": 37,
     "milestones": 0,
     "gifted_total": 0
@@ -502,16 +499,16 @@
     {
      "tier": "不破狂",
      "price": 490,
-     "confirmed_members": 96,
-     "estimated_members": 2971.0
+     "confirmed_members": 98,
+     "estimated_members": 2994.0
     }
    ],
    "revenue": {
-    "monthly_low": 926412,
-    "monthly_est": 926412,
+    "monthly_low": 933584,
+    "monthly_est": 933584,
     "gift_once": 0
    },
-   "avg_member_chatters": 962.2,
+   "avg_member_chatters": 954.0,
    "partial": true,
    "finalized": false
   }

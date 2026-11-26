@@ -3,16 +3,16 @@
  "channel_id": "UCMzVa7B8UEdrvUGsPmSgyjA",
  "handle": "@DeremKado",
  "subscribers": 48500,
- "fetched_at": "2026-11-26 05:26",
- "generated_at": "2026-11-26 05:26",
+ "fetched_at": "2026-11-26 13:11",
+ "generated_at": "2026-11-26 13:11",
  "period": {
-  "from": "2026-10-27 05:26",
-  "to": "2026-11-26 05:26",
+  "from": "2026-10-27 13:11",
+  "to": "2026-11-26 13:11",
   "days": 30
  },
- "streams_analyzed": 22,
- "streams_missed": 1,
- "unique_chatters": 235,
+ "streams_analyzed": 23,
+ "streams_missed": 0,
+ "unique_chatters": 239,
  "members_confirmed": 135,
  "member_classes": {
   "known": 4,
@@ -317,22 +317,19 @@
    "member_chatters": 14,
    "new_members": 0,
    "gifted_total": 5
-  }
- ],
- "missed_streams": [
+  },
   {
    "video_id": "PR7f0NHKT-Y",
-   "start": "2026-11-25 00:00",
+   "start": "2026-11-25 23:33",
    "title": "【 Valheim 】 Breathe【 NIJISANJI | Derem Kado 】",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
-   "members_only": false,
-   "members_level": "",
-   "like_count": 123,
-   "view_count": 1002
+   "kind": "配信",
+   "chatters": 24,
+   "member_chatters": 8,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
+ "missed_streams": [],
  "members_only_content": [],
  "history": [
   {
@@ -489,16 +486,16 @@
     "from": "2026-11-01",
     "to": "2026-11-26"
    },
-   "streams_analyzed": 16,
-   "streams_missed": 1,
-   "unique_chatters": 191,
-   "members_confirmed": 113,
+   "streams_analyzed": 17,
+   "streams_missed": 0,
+   "unique_chatters": 197,
+   "members_confirmed": 115,
    "member_classes": {
     "known": 4,
-    "unknown": 15,
+    "unknown": 17,
     "gift": 94
    },
-   "long_term_members": 16,
+   "long_term_members": 18,
    "badges": [
     {
      "months": 0,
@@ -518,11 +515,11 @@
     },
     {
      "months": 24,
-     "members": 3
+     "members": 4
     },
     {
      "months": 36,
-     "members": 4
+     "members": 5
     },
     {
      "months": 48,
@@ -540,15 +537,15 @@
      "tier": "Magical Domikado",
      "price": 490,
      "confirmed_members": 4,
-     "estimated_members": 19.0
+     "estimated_members": 21.0
     }
    ],
    "revenue": {
-    "monthly_low": 5925,
-    "monthly_est": 5925,
+    "monthly_low": 6548,
+    "monthly_est": 6548,
     "gift_once": 29311
    },
-   "avg_member_chatters": 11.9,
+   "avg_member_chatters": 11.6,
    "partial": true,
    "finalized": false
   }

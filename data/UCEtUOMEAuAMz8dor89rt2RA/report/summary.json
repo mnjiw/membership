@@ -3,16 +3,16 @@
  "channel_id": "UCEtUOMEAuAMz8dor89rt2RA",
  "handle": "@kohakuteto_Q",
  "subscribers": 130000,
- "fetched_at": "2026-11-26 06:38",
- "generated_at": "2026-11-26 06:38",
+ "fetched_at": "2026-11-26 13:19",
+ "generated_at": "2026-11-26 13:19",
  "period": {
-  "from": "2026-10-27 06:38",
-  "to": "2026-11-26 06:38",
+  "from": "2026-10-27 13:19",
+  "to": "2026-11-26 13:19",
   "days": 30
  },
  "streams_analyzed": 33,
  "streams_missed": 5,
- "unique_chatters": 1203,
+ "unique_chatters": 1217,
  "members_confirmed": 303,
  "member_classes": {
   "unknown": 106,
@@ -59,7 +59,7 @@
  "events": {
   "new_members": 9,
   "rejoins": 4,
-  "milestones": 53,
+  "milestones": 54,
   "gift_purchases": 18,
   "gifted_total": 123,
   "gift_redemptions": 123
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "r9laKvK_FFo",
-   "start": "2026-10-27 13:05",
-   "title": "〖 VALORANT 〗 ハッシュ先行体験させていただきます⁺₊✦ / とい〖 心白てと / ネオポルテ 〗",
-   "kind": "配信",
-   "chatters": 84,
-   "member_chatters": 21,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "Y3DHmeH3FSE",
    "start": "2026-10-27 21:04",
@@ -422,6 +412,16 @@
    "member_chatters": 69,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "QT5OqxYl3GE",
+   "start": "2026-11-26 06:32",
+   "title": "〖 てともに╎#11 〗 みんなにおはよする☀〖 心白てと / ネオポルテ 〗",
+   "kind": "配信",
+   "chatters": 182,
+   "member_chatters": 67,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -475,15 +475,15 @@
   },
   {
    "video_id": "OzWUFKE2OU8",
-   "start": "2026-11-22 00:00",
+   "start": "2026-11-22 17:10",
    "title": "〖 APEX╎Watch Party 〗 Apex Legends LCQ FINAL〖 心白てと / ネオポルテ 〗",
-   "kind": "video",
-   "status": "error",
-   "reason": "取得エラー（次回再確認）",
+   "kind": "live",
+   "status": "no_chat",
+   "reason": "チャットリプレイなし（アーカイブ編集・チャット無効の可能性）",
    "members_only": false,
    "members_level": "",
    "like_count": 300,
-   "view_count": 26844
+   "view_count": 26846
   }
  ],
  "members_only_content": [
@@ -664,9 +664,9 @@
     "from": "2026-11-01",
     "to": "2026-11-26"
    },
-   "streams_analyzed": 26,
+   "streams_analyzed": 27,
    "streams_missed": 4,
-   "unique_chatters": 1035,
+   "unique_chatters": 1081,
    "members_confirmed": 298,
    "member_classes": {
     "unknown": 102,
@@ -707,7 +707,7 @@
    "events": {
     "new_members": 7,
     "rejoins": 2,
-    "milestones": 48,
+    "milestones": 49,
     "gifted_total": 123
    },
    "tiers": [
@@ -723,7 +723,7 @@
     "monthly_est": 54568,
     "gift_once": 38354
    },
-   "avg_member_chatters": 51.5,
+   "avg_member_chatters": 52.1,
    "partial": true,
    "finalized": false
   }

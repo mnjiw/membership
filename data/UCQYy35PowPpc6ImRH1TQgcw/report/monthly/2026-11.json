@@ -4,18 +4,20 @@
   "from": "2026-11-01",
   "to": "2026-11-26"
  },
- "streams_analyzed": 1,
+ "streams_analyzed": 2,
  "streams_missed": 1,
- "unique_chatters": 198,
- "members_confirmed": 64,
+ "unique_chatters": 325,
+ "members_confirmed": 100,
  "member_classes": {
-  "unknown": 64
+  "unknown": 89,
+  "gift": 10,
+  "known": 1
  },
  "long_term_members": 0,
  "badges": [
   {
    "months": 0,
-   "members": 3
+   "members": 14
   },
   {
    "months": 1,
@@ -23,29 +25,29 @@
   },
   {
    "months": 2,
-   "members": 59
+   "members": 84
   }
  ],
  "events": {
-  "new_members": 0,
+  "new_members": 1,
   "rejoins": 0,
   "milestones": 0,
-  "gifted_total": 0
+  "gifted_total": 10
  },
  "tiers": [
   {
    "tier": "ノラ組構成員",
    "price": 490,
-   "confirmed_members": 0,
-   "estimated_members": 64.0
+   "confirmed_members": 1,
+   "estimated_members": 90.0
   }
  ],
  "revenue": {
-  "monthly_low": 19956,
-  "monthly_est": 19956,
-  "gift_once": 0
+  "monthly_low": 28064,
+  "monthly_est": 28064,
+  "gift_once": 3118
  },
- "avg_member_chatters": 64,
+ "avg_member_chatters": 56,
  "partial": true,
  "finalized": false
 }

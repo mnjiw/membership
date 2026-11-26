@@ -3,19 +3,19 @@
  "channel_id": "UClrQ7xhRBxS_v_-WuudGKmA",
  "handle": "@KaburakiRoco",
  "subscribers": 261000,
- "fetched_at": "2026-11-26 05:27",
- "generated_at": "2026-11-26 05:27",
+ "fetched_at": "2026-11-26 13:11",
+ "generated_at": "2026-11-26 13:12",
  "period": {
-  "from": "2026-10-27 05:27",
-  "to": "2026-11-26 05:27",
+  "from": "2026-10-27 13:11",
+  "to": "2026-11-26 13:11",
   "days": 30
  },
  "streams_analyzed": 21,
  "streams_missed": 5,
- "unique_chatters": 3350,
- "members_confirmed": 625,
+ "unique_chatters": 3381,
+ "members_confirmed": 615,
  "member_classes": {
-  "unknown": 573,
+  "unknown": 563,
   "known": 41,
   "gift": 11
  },
@@ -23,27 +23,27 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 64
+   "members": 60
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 25
+   "members": 28
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 60
+   "members": 59
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 78
+   "members": 77
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 141
+   "members": 136
   },
   {
    "months": 24,
@@ -53,7 +53,7 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 142
+   "members": 140
   }
  ],
  "events": {
@@ -72,19 +72,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 41,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 573.0,
-   "estimated_members": 614.0,
+   "allocated_unknown": 563.0,
+   "estimated_members": 604.0,
    "monthly_net_confirmed": 12785,
-   "monthly_net_estimated": 191456
+   "monthly_net_estimated": 188338
   }
  ],
  "revenue": {
-  "monthly_low": 191456,
-  "monthly_est": 191456,
+  "monthly_low": 188338,
+  "monthly_est": 188338,
   "gift_once": 3430,
-  "total_low": 194886,
-  "total_est": 194886,
-  "paying_members": 614,
+  "total_low": 191768,
+  "total_est": 191768,
+  "paying_members": 604,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "5EMcPLhzVdA",
-   "start": "2026-10-27 07:00",
-   "title": "【 おはろこ！】新衣装が出たぜっっ！！！【 鏑木ろこ￤にじさんじ 】",
-   "kind": "配信",
-   "chatters": 474,
-   "member_chatters": 186,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "sJ-ouhRIMME",
    "start": "2026-10-27 23:02",
@@ -302,6 +292,16 @@
    "member_chatters": 91,
    "new_members": 0,
    "gifted_total": 5
+  },
+  {
+   "video_id": "QkWVlMy7T80",
+   "start": "2026-11-26 07:02",
+   "title": "【 おはろこ！】朝だぜ！！！！！！！！！！【 鏑木ろこ￤にじさんじ 】",
+   "kind": "配信",
+   "chatters": 481,
+   "member_chatters": 138,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -565,24 +565,24 @@
     "from": "2026-11-01",
     "to": "2026-11-26"
    },
-   "streams_analyzed": 18,
+   "streams_analyzed": 19,
    "streams_missed": 4,
-   "unique_chatters": 3155,
-   "members_confirmed": 596,
+   "unique_chatters": 3287,
+   "members_confirmed": 598,
    "member_classes": {
-    "unknown": 544,
+    "unknown": 546,
     "known": 41,
     "gift": 11
    },
-   "long_term_members": 376,
+   "long_term_members": 378,
    "badges": [
     {
      "months": 0,
-     "members": 63
+     "members": 59
     },
     {
      "months": 1,
-     "members": 24
+     "members": 27
     },
     {
      "months": 2,
@@ -590,7 +590,7 @@
     },
     {
      "months": 6,
-     "members": 74
+     "members": 75
     },
     {
      "months": 12,
@@ -598,7 +598,7 @@
     },
     {
      "months": 24,
-     "members": 106
+     "members": 108
     },
     {
      "months": 36,
@@ -616,15 +616,15 @@
      "tier": "鏑木ろこのメンバーシップ",
      "price": 490,
      "confirmed_members": 41,
-     "estimated_members": 585.0
+     "estimated_members": 587.0
     }
    ],
    "revenue": {
-    "monthly_low": 182414,
-    "monthly_est": 182414,
+    "monthly_low": 183037,
+    "monthly_est": 183037,
     "gift_once": 3430
    },
-   "avg_member_chatters": 173.8,
+   "avg_member_chatters": 171.9,
    "partial": true,
    "finalized": false
   }
