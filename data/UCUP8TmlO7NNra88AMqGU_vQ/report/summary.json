@@ -3,15 +3,15 @@
  "channel_id": "UCUP8TmlO7NNra88AMqGU_vQ",
  "handle": "@KoshimizuToru",
  "subscribers": 395000,
- "fetched_at": "2026-11-26 13:11",
- "generated_at": "2026-11-26 13:12",
+ "fetched_at": "2026-11-27 05:36",
+ "generated_at": "2026-11-27 05:36",
  "period": {
-  "from": "2026-10-27 13:11",
-  "to": "2026-11-26 13:11",
+  "from": "2026-10-28 05:36",
+  "to": "2026-11-27 05:36",
   "days": 30
  },
  "streams_analyzed": 23,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 2872,
  "members_confirmed": 542,
  "member_classes": {
@@ -323,7 +323,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "pY-Jx6uqxow",
+   "start": "2026-11-26 00:00",
+   "title": "炎の神殿最強の敵はボスじゃなかった！？ドラゴンより手強い●●に大苦戦する小清水透【時オカリメイク / 小清水 透 / にじさんじ】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 317,
+   "view_count": 14575
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -469,10 +482,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-26"
+    "to": "2026-11-27"
    },
    "streams_analyzed": 20,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 2626,
    "members_confirmed": 512,
    "member_classes": {

@@ -3,19 +3,19 @@
  "channel_id": "UCL34fAoFim9oHLbVzMKFavQ",
  "handle": "@YorumiRena",
  "subscribers": 606000,
- "fetched_at": "2026-11-26 05:22",
- "generated_at": "2026-11-26 05:22",
+ "fetched_at": "2026-11-27 05:25",
+ "generated_at": "2026-11-27 05:26",
  "period": {
-  "from": "2026-10-27 05:22",
-  "to": "2026-11-26 05:22",
+  "from": "2026-10-28 05:25",
+  "to": "2026-11-27 05:25",
   "days": 30
  },
  "streams_analyzed": 15,
  "streams_missed": 0,
- "unique_chatters": 2571,
- "members_confirmed": 236,
+ "unique_chatters": 2633,
+ "members_confirmed": 242,
  "member_classes": {
-  "unknown": 225,
+  "unknown": 231,
   "known": 11
  },
  "badges": [
@@ -32,7 +32,7 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 11
+   "members": 12
   },
   {
    "months": 12,
@@ -42,17 +42,17 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 20
+   "members": 23
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 27
+   "members": 28
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 21
+   "members": 22
   },
   {
    "months": 60,
@@ -63,7 +63,7 @@
  "events": {
   "new_members": 1,
   "rejoins": 1,
-  "milestones": 3,
+  "milestones": 4,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -76,19 +76,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 11,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 225.0,
-   "estimated_members": 236.0,
+   "allocated_unknown": 231.0,
+   "estimated_members": 242.0,
    "monthly_net_confirmed": 3430,
-   "monthly_net_estimated": 73589
+   "monthly_net_estimated": 75460
   }
  ],
  "revenue": {
-  "monthly_low": 73589,
-  "monthly_est": 73589,
+  "monthly_low": 75460,
+  "monthly_est": 75460,
   "gift_once": 0,
-  "total_low": 73589,
-  "total_est": 73589,
-  "paying_members": 236,
+  "total_low": 75460,
+  "total_est": 75460,
+  "paying_members": 242,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -97,16 +97,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "AnKHKO07EPU",
-   "start": "2026-10-28 00:00",
-   "title": "【 ONEPIECE海のごちそうレストラン 】#03  時代は２年後！シャボンディ諸島✨ 【 にじさんじ / 夜見れな 】",
-   "kind": "配信",
-   "chatters": 178,
-   "member_chatters": 68,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "UrQfR2G6_Sg",
    "start": "2026-10-29 20:03",
@@ -244,6 +234,16 @@
    "kind": "配信",
    "chatters": 212,
    "member_chatters": 71,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "Zf8b9zigRO4",
+   "start": "2026-11-26 22:00",
+   "title": "【 グラブル 】闇古戦場　本戦３日　極星器➡古戦場雑談 【 にじさんじ / 夜見れな 】",
+   "kind": "配信",
+   "chatters": 334,
+   "member_chatters": 96,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -409,17 +409,17 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-26"
+    "to": "2026-11-27"
    },
-   "streams_analyzed": 12,
+   "streams_analyzed": 13,
    "streams_missed": 0,
-   "unique_chatters": 2443,
-   "members_confirmed": 229,
+   "unique_chatters": 2545,
+   "members_confirmed": 238,
    "member_classes": {
-    "unknown": 219,
+    "unknown": 228,
     "known": 10
    },
-   "long_term_members": 211,
+   "long_term_members": 219,
    "badges": [
     {
      "months": 0,
@@ -431,7 +431,7 @@
     },
     {
      "months": 6,
-     "members": 11
+     "members": 12
     },
     {
      "months": 12,
@@ -439,25 +439,25 @@
     },
     {
      "months": 24,
-     "members": 19
+     "members": 22
     },
     {
      "months": 36,
-     "members": 27
+     "members": 28
     },
     {
      "months": 48,
-     "members": 20
+     "members": 22
     },
     {
      "months": 60,
-     "members": 120
+     "members": 122
     }
    ],
    "events": {
     "new_members": 1,
     "rejoins": 1,
-    "milestones": 2,
+    "milestones": 3,
     "gifted_total": 0
    },
    "tiers": [
@@ -465,15 +465,15 @@
      "tier": "夜見のひよこプラン",
      "price": 490,
      "confirmed_members": 10,
-     "estimated_members": 229.0
+     "estimated_members": 238.0
     }
    ],
    "revenue": {
-    "monthly_low": 71406,
-    "monthly_est": 71406,
+    "monthly_low": 74213,
+    "monthly_est": 74213,
     "gift_once": 0
    },
-   "avg_member_chatters": 84.8,
+   "avg_member_chatters": 85.7,
    "partial": true,
    "finalized": false
   }

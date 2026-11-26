@@ -3,19 +3,33 @@
  "channel_id": "UCpNH2Zk2gw3JBjWAKSyZcQQ",
  "handle": "@EliConifer",
  "subscribers": 248000,
- "fetched_at": "2026-11-26 05:22",
- "generated_at": "2026-11-26 05:22",
+ "fetched_at": "2026-11-27 05:26",
+ "generated_at": "2026-11-27 05:26",
  "period": {
-  "from": "2026-10-27 05:22",
-  "to": "2026-11-26 05:22",
+  "from": "2026-10-28 05:26",
+  "to": "2026-11-27 05:26",
   "days": 30
  },
- "streams_analyzed": 0,
+ "streams_analyzed": 1,
  "streams_missed": 0,
- "unique_chatters": 0,
- "members_confirmed": 0,
- "member_classes": {},
- "badges": [],
+ "unique_chatters": 285,
+ "members_confirmed": 12,
+ "member_classes": {
+  "unknown": 8,
+  "known": 4
+ },
+ "badges": [
+  {
+   "months": 2,
+   "label": "2ヶ月",
+   "members": 1
+  },
+  {
+   "months": 12,
+   "label": "1年",
+   "members": 11
+  }
+ ],
  "events": {
   "new_members": 0,
   "rejoins": 0,
@@ -30,19 +44,19 @@
    "tier": "エリ草",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 0,
-   "share_of_confirmed_pct": "",
-   "allocated_unknown": 0.0,
-   "estimated_members": 0.0,
-   "monthly_net_confirmed": 0,
-   "monthly_net_estimated": 0
+   "confirmed_members": 3,
+   "share_of_confirmed_pct": 75.0,
+   "allocated_unknown": 6.0,
+   "estimated_members": 9.0,
+   "monthly_net_confirmed": 935,
+   "monthly_net_estimated": 2806
   },
   {
    "tier": "ハイエリ草",
    "price": 1190,
    "net_per_member": 757.3,
    "confirmed_members": 0,
-   "share_of_confirmed_pct": "",
+   "share_of_confirmed_pct": 0.0,
    "allocated_unknown": 0.0,
    "estimated_members": 0.0,
    "monthly_net_confirmed": 0,
@@ -52,19 +66,19 @@
    "tier": "ラストエリ草",
    "price": 3490,
    "net_per_member": 2220.9,
-   "confirmed_members": 0,
-   "share_of_confirmed_pct": "",
-   "allocated_unknown": 0.0,
-   "estimated_members": 0.0,
-   "monthly_net_confirmed": 0,
-   "monthly_net_estimated": 0
+   "confirmed_members": 1,
+   "share_of_confirmed_pct": 25.0,
+   "allocated_unknown": 2.0,
+   "estimated_members": 3.0,
+   "monthly_net_confirmed": 2221,
+   "monthly_net_estimated": 6663
   },
   {
    "tier": "この木なんの木エリーの木🎄",
    "price": 6300,
    "net_per_member": 4009.1,
    "confirmed_members": 0,
-   "share_of_confirmed_pct": "",
+   "share_of_confirmed_pct": 0.0,
    "allocated_unknown": 0.0,
    "estimated_members": 0.0,
    "monthly_net_confirmed": 0,
@@ -72,12 +86,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 0,
-  "monthly_est": 0,
+  "monthly_low": 5651,
+  "monthly_est": 9469,
   "gift_once": 0,
-  "total_low": 0,
-  "total_est": 0,
-  "paying_members": 0,
+  "total_low": 5651,
+  "total_est": 9469,
+  "paying_members": 12,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -85,7 +99,18 @@
   "currency": "JPY",
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
- "streams": [],
+ "streams": [
+  {
+   "video_id": "uDSR-6J3OuI",
+   "start": "2026-11-26 19:29",
+   "title": "【楽団V!VO】スタジオ練習会🎼❕️課題曲、最終回！『名探偵コナン メインテーマ』ゲスト：樋口楓さま【にじさんじ】",
+   "kind": "配信",
+   "chatters": 285,
+   "member_chatters": 12,
+   "new_members": 0,
+   "gifted_total": 0
+  }
+ ],
  "missed_streams": [],
  "members_only_content": [],
  "history": [
@@ -248,9 +273,75 @@
    "partial": false,
    "finalized": true,
    "finalized_at": "2026-11-08 05:24"
+  },
+  {
+   "month": "2026-11",
+   "coverage": {
+    "from": "2026-11-01",
+    "to": "2026-11-27"
+   },
+   "streams_analyzed": 1,
+   "streams_missed": 0,
+   "unique_chatters": 285,
+   "members_confirmed": 12,
+   "member_classes": {
+    "unknown": 8,
+    "known": 4
+   },
+   "long_term_members": 11,
+   "badges": [
+    {
+     "months": 2,
+     "members": 1
+    },
+    {
+     "months": 12,
+     "members": 11
+    }
+   ],
+   "events": {
+    "new_members": 0,
+    "rejoins": 0,
+    "milestones": 0,
+    "gifted_total": 0
+   },
+   "tiers": [
+    {
+     "tier": "エリ草",
+     "price": 490,
+     "confirmed_members": 3,
+     "estimated_members": 9.0
+    },
+    {
+     "tier": "ハイエリ草",
+     "price": 1190,
+     "confirmed_members": 0,
+     "estimated_members": 0.0
+    },
+    {
+     "tier": "ラストエリ草",
+     "price": 3490,
+     "confirmed_members": 1,
+     "estimated_members": 3.0
+    },
+    {
+     "tier": "この木なんの木エリーの木🎄",
+     "price": 6300,
+     "confirmed_members": 0,
+     "estimated_members": 0.0
+    }
+   ],
+   "revenue": {
+    "monthly_low": 5651,
+    "monthly_est": 9469,
+    "gift_once": 0
+   },
+   "avg_member_chatters": 12,
+   "partial": true,
+   "finalized": false
   }
  ],
- "no_streams": true,
+ "no_streams": false,
  "membership": true,
  "price_history": [
   {

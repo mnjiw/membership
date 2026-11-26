@@ -3,27 +3,27 @@
  "channel_id": "UC3lNFeJiTq6L3UWoz4g1e-A",
  "handle": "@UzukiKou",
  "subscribers": 462000,
- "fetched_at": "2026-11-26 05:20",
- "generated_at": "2026-11-26 05:20",
+ "fetched_at": "2026-11-27 05:21",
+ "generated_at": "2026-11-27 05:23",
  "period": {
-  "from": "2026-10-27 05:20",
-  "to": "2026-11-26 05:20",
+  "from": "2026-10-28 05:21",
+  "to": "2026-11-27 05:21",
   "days": 30
  },
  "streams_analyzed": 13,
  "streams_missed": 0,
- "unique_chatters": 3688,
- "members_confirmed": 909,
+ "unique_chatters": 3887,
+ "members_confirmed": 950,
  "member_classes": {
+  "unknown": 685,
   "known": 140,
-  "unknown": 644,
   "gift": 125
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 133
+   "members": 132
   },
   {
    "months": 1,
@@ -38,33 +38,33 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 47
+   "members": 54
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 133
+   "members": 136
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 104
+   "members": 106
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 123
+   "members": 131
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 324
+   "members": 346
   }
  ],
  "events": {
-  "new_members": 10,
+  "new_members": 9,
   "rejoins": 4,
-  "milestones": 87,
+  "milestones": 86,
   "gift_purchases": 9,
   "gifted_total": 126,
   "gift_redemptions": 125
@@ -77,19 +77,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 140,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 644.0,
-   "estimated_members": 784.0,
+   "allocated_unknown": 685.0,
+   "estimated_members": 825.0,
    "monthly_net_confirmed": 43655,
-   "monthly_net_estimated": 244465
+   "monthly_net_estimated": 257250
   }
  ],
  "revenue": {
-  "monthly_low": 244465,
-  "monthly_est": 244465,
+  "monthly_low": 257250,
+  "monthly_est": 257250,
   "gift_once": 39289,
-  "total_low": 283755,
-  "total_est": 283755,
-  "paying_members": 784,
+  "total_low": 296539,
+  "total_est": 296539,
+  "paying_members": 825,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "NmR_ep4nM8E",
-   "start": "2026-10-27 18:35",
-   "title": "【ELDEN RING/エルデンリング】蛇を倒し、樹を焼いて王になる #9【にじさんじ/卯月コウ】",
-   "kind": "配信",
-   "chatters": 667,
-   "member_chatters": 166,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "Pg3txrjdb48",
    "start": "2026-10-28 20:02",
@@ -225,6 +215,16 @@
    "kind": "配信",
    "chatters": 707,
    "member_chatters": 203,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "qzVN8m153OM",
+   "start": "2026-11-26 20:00",
+   "title": "死んだら即終了！にじさんじで仮想サバイバル「にじさんじDAYZ:ONE LIFE」に参加します",
+   "kind": "配信",
+   "chatters": 1013,
+   "member_chatters": 379,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -384,18 +384,18 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-26"
+    "to": "2026-11-27"
    },
-   "streams_analyzed": 9,
+   "streams_analyzed": 10,
    "streams_missed": 0,
-   "unique_chatters": 3384,
-   "members_confirmed": 852,
+   "unique_chatters": 3748,
+   "members_confirmed": 915,
    "member_classes": {
-    "unknown": 611,
-    "known": 135,
+    "unknown": 671,
+    "known": 138,
     "gift": 106
    },
-   "long_term_members": 651,
+   "long_term_members": 704,
    "badges": [
     {
      "months": 0,
@@ -407,49 +407,49 @@
     },
     {
      "months": 2,
-     "members": 37
+     "members": 38
     },
     {
      "months": 6,
-     "members": 44
+     "members": 53
     },
     {
      "months": 12,
-     "members": 125
+     "members": 132
     },
     {
      "months": 24,
-     "members": 98
+     "members": 103
     },
     {
      "months": 36,
-     "members": 118
+     "members": 130
     },
     {
      "months": 48,
-     "members": 310
+     "members": 339
     }
    ],
    "events": {
     "new_members": 8,
     "rejoins": 3,
-    "milestones": 82,
+    "milestones": 83,
     "gifted_total": 106
    },
    "tiers": [
     {
      "tier": "卯月コウのメンバーシップ",
      "price": 490,
-     "confirmed_members": 135,
-     "estimated_members": 746.0
+     "confirmed_members": 138,
+     "estimated_members": 809.0
     }
    ],
    "revenue": {
-    "monthly_low": 232616,
-    "monthly_est": 232616,
+    "monthly_low": 252261,
+    "monthly_est": 252261,
     "gift_once": 33053
    },
-   "avg_member_chatters": 252.7,
+   "avg_member_chatters": 265.3,
    "partial": true,
    "finalized": false
   }

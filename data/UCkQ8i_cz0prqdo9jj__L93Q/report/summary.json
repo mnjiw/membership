@@ -3,20 +3,20 @@
  "channel_id": "UCkQ8i_cz0prqdo9jj__L93Q",
  "handle": "@SakayoriSoma",
  "subscribers": 294000,
- "fetched_at": "2026-11-26 05:29",
- "generated_at": "2026-11-26 05:29",
+ "fetched_at": "2026-11-27 05:42",
+ "generated_at": "2026-11-27 05:43",
  "period": {
-  "from": "2026-10-27 05:29",
-  "to": "2026-11-26 05:29",
+  "from": "2026-10-28 05:42",
+  "to": "2026-11-27 05:42",
   "days": 30
  },
  "streams_analyzed": 20,
  "streams_missed": 1,
- "unique_chatters": 2795,
- "members_confirmed": 601,
+ "unique_chatters": 2616,
+ "members_confirmed": 585,
  "member_classes": {
-  "unknown": 555,
   "known": 41,
+  "unknown": 539,
   "gift": 5
  },
  "badges": [
@@ -28,26 +28,26 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 26
+   "members": 25
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 128
+   "members": 123
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 101
+   "members": 100
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 298
+   "members": 289
   }
  ],
  "events": {
-  "new_members": 19,
+  "new_members": 18,
   "rejoins": 11,
   "milestones": 0,
   "gift_purchases": 1,
@@ -62,19 +62,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 41,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 555.0,
-   "estimated_members": 596.0,
+   "allocated_unknown": 539.0,
+   "estimated_members": 580.0,
    "monthly_net_confirmed": 12785,
-   "monthly_net_estimated": 185844
+   "monthly_net_estimated": 180855
   }
  ],
  "revenue": {
-  "monthly_low": 185844,
-  "monthly_est": 185844,
+  "monthly_low": 180855,
+  "monthly_est": 180855,
   "gift_once": 1559,
-  "total_low": 187403,
-  "total_est": 187403,
-  "paying_members": 596,
+  "total_low": 182414,
+  "total_est": 182414,
+  "paying_members": 580,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "rnCoj1YrjiA",
-   "start": "2026-10-27 21:11",
-   "title": "【LTK】Day4 本番 仕上がり披露会【酒寄颯馬/にじさんじ】",
-   "kind": "配信",
-   "chatters": 924,
-   "member_chatters": 288,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "dFkmpGmS7aU",
    "start": "2026-10-28 17:00",
@@ -282,6 +272,16 @@
    "member_chatters": 234,
    "new_members": 1,
    "gifted_total": 0
+  },
+  {
+   "video_id": "-zeo0Wa6rB0",
+   "start": "2026-11-26 21:38",
+   "title": "【LOL】フルパです w/あるふぁくん、うるかさん、わたる、リオン様【酒寄颯馬/にじさんじ】",
+   "kind": "配信",
+   "chatters": 220,
+   "member_chatters": 102,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -294,7 +294,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 247,
+   "like_count": 248,
    "view_count": null
   }
  ],
@@ -306,7 +306,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 247,
+   "like_count": 248,
    "view_count": null
   }
  ],
@@ -439,18 +439,18 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-26"
+    "to": "2026-11-27"
    },
-   "streams_analyzed": 16,
+   "streams_analyzed": 17,
    "streams_missed": 1,
-   "unique_chatters": 2450,
-   "members_confirmed": 572,
+   "unique_chatters": 2467,
+   "members_confirmed": 574,
    "member_classes": {
-    "unknown": 526,
+    "unknown": 528,
     "known": 41,
     "gift": 5
    },
-   "long_term_members": 285,
+   "long_term_members": 286,
    "badges": [
     {
      "months": 0,
@@ -466,11 +466,11 @@
     },
     {
      "months": 6,
-     "members": 96
+     "members": 97
     },
     {
      "months": 12,
-     "members": 285
+     "members": 286
     }
    ],
    "events": {
@@ -484,15 +484,15 @@
      "tier": "酒寄颯馬のメンバーシップ",
      "price": 490,
      "confirmed_members": 41,
-     "estimated_members": 567.0
+     "estimated_members": 569.0
     }
    ],
    "revenue": {
-    "monthly_low": 176801,
-    "monthly_est": 176801,
+    "monthly_low": 177425,
+    "monthly_est": 177425,
     "gift_once": 1559
    },
-   "avg_member_chatters": 178.4,
+   "avg_member_chatters": 173.9,
    "partial": true,
    "finalized": false
   }

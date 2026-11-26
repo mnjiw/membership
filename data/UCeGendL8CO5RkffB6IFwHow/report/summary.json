@@ -3,15 +3,15 @@
  "channel_id": "UCeGendL8CO5RkffB6IFwHow",
  "handle": "@Seffyna",
  "subscribers": 239000,
- "fetched_at": "2026-11-26 05:26",
- "generated_at": "2026-11-26 05:27",
+ "fetched_at": "2026-11-27 05:36",
+ "generated_at": "2026-11-27 05:36",
  "period": {
-  "from": "2026-10-27 05:26",
-  "to": "2026-11-26 05:26",
+  "from": "2026-10-28 05:36",
+  "to": "2026-11-27 05:36",
   "days": 30
  },
  "streams_analyzed": 19,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 1282,
  "members_confirmed": 90,
  "member_classes": {
@@ -289,8 +289,32 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
- "members_only_content": [],
+ "missed_streams": [
+  {
+   "video_id": "mkcRMXrGToM",
+   "start": "2026-11-26 20:03",
+   "title": "さむいめんげん (´◉ω◉` )",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "セフィナイトの温室",
+   "like_count": 26,
+   "view_count": null
+  }
+ ],
+ "members_only_content": [
+  {
+   "video_id": "mkcRMXrGToM",
+   "start": "2026-11-26 20:03",
+   "title": "さむいめんげん (´◉ω◉` )",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "セフィナイトの温室",
+   "like_count": 26,
+   "view_count": null
+  }
+ ],
  "history": [
   {
    "month": "2026-09",
@@ -434,10 +458,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-26"
+    "to": "2026-11-27"
    },
    "streams_analyzed": 16,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 1234,
    "members_confirmed": 86,
    "member_classes": {

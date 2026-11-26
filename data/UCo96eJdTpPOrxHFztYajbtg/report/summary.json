@@ -3,56 +3,56 @@
  "channel_id": "UCo96eJdTpPOrxHFztYajbtg",
  "handle": "@ShinomiyaYuno",
  "subscribers": 116000,
- "fetched_at": "2026-11-26 05:30",
- "generated_at": "2026-11-26 05:30",
+ "fetched_at": "2026-11-27 05:44",
+ "generated_at": "2026-11-27 05:44",
  "period": {
-  "from": "2026-10-27 05:30",
-  "to": "2026-11-26 05:30",
+  "from": "2026-10-28 05:44",
+  "to": "2026-11-27 05:44",
   "days": 30
  },
- "streams_analyzed": 17,
- "streams_missed": 0,
- "unique_chatters": 1138,
- "members_confirmed": 395,
+ "streams_analyzed": 15,
+ "streams_missed": 1,
+ "unique_chatters": 1016,
+ "members_confirmed": 366,
  "member_classes": {
-  "unknown": 340,
-  "known": 31,
-  "gift": 24
+  "unknown": 318,
+  "known": 28,
+  "gift": 20
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 58
+   "members": 49
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 31
+   "members": 27
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 98
+   "members": 95
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 73
+   "members": 68
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 135
+   "members": 127
   }
  ],
  "events": {
   "new_members": 6,
   "rejoins": 0,
   "milestones": 0,
-  "gift_purchases": 4,
-  "gifted_total": 25,
-  "gift_redemptions": 24
+  "gift_purchases": 3,
+  "gifted_total": 20,
+  "gift_redemptions": 20
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,21 +60,21 @@
    "tier": "しのみーるさん",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 31,
+   "confirmed_members": 28,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 340.0,
-   "estimated_members": 371.0,
-   "monthly_net_confirmed": 9666,
-   "monthly_net_estimated": 115685
+   "allocated_unknown": 318.0,
+   "estimated_members": 346.0,
+   "monthly_net_confirmed": 8731,
+   "monthly_net_estimated": 107889
   }
  ],
  "revenue": {
-  "monthly_low": 115685,
-  "monthly_est": 115685,
-  "gift_once": 7795,
-  "total_low": 123480,
-  "total_est": 123480,
-  "paying_members": 371,
+  "monthly_low": 107889,
+  "monthly_est": 107889,
+  "gift_once": 6236,
+  "total_low": 114125,
+  "total_est": 114125,
+  "paying_members": 346,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,26 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "l6a8Yw9h9UQ",
-   "start": "2026-10-27 07:02",
-   "title": "【 縦型朝活 】ぶはは、おはようございます【 篠宮ゆの / すぷれあ / にじさんじ 】",
-   "kind": "配信",
-   "chatters": 243,
-   "member_chatters": 115,
-   "new_members": 0,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "J33u4vObpvk",
-   "start": "2026-10-27 22:47",
-   "title": "【 エイトリ 】夕班B面13話から！ 高校生ドルオタアイドルと行く、18TRIP【 篠宮ゆの / 18TRIP / にじさんじ 】",
-   "kind": "配信",
-   "chatters": 130,
-   "member_chatters": 78,
-   "new_members": 0,
-   "gifted_total": 5
-  },
   {
    "video_id": "opRBplwKraE",
    "start": "2026-10-31 06:12",
@@ -254,7 +234,20 @@
    "gifted_total": 5
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "xFYnl6zaLHo",
+   "start": "2026-11-26 00:00",
+   "title": "【 毎日スイカゲーム 】8月中にダブルスイカを作りたい男、25日目【 篠宮ゆの / すぷれあ / にじさんじ 】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 470,
+   "view_count": 19207
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -381,10 +374,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-26"
+    "to": "2026-11-27"
    },
    "streams_analyzed": 12,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 877,
    "members_confirmed": 340,
    "member_classes": {

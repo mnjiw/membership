@@ -3,20 +3,20 @@
  "channel_id": "UCryOPk2GZ1meIDt53tL30Tw",
  "handle": "@SuzukiMasaru",
  "subscribers": 332000,
- "fetched_at": "2026-11-26 13:08",
- "generated_at": "2026-11-26 13:09",
+ "fetched_at": "2026-11-27 05:21",
+ "generated_at": "2026-11-27 05:21",
  "period": {
-  "from": "2026-10-27 13:08",
-  "to": "2026-11-26 13:08",
+  "from": "2026-10-28 05:21",
+  "to": "2026-11-27 05:21",
   "days": 30
  },
- "streams_analyzed": 9,
+ "streams_analyzed": 8,
  "streams_missed": 5,
- "unique_chatters": 639,
- "members_confirmed": 186,
+ "unique_chatters": 612,
+ "members_confirmed": 179,
  "member_classes": {
-  "unknown": 182,
-  "known": 4
+  "unknown": 176,
+  "known": 3
  },
  "badges": [
   {
@@ -32,17 +32,17 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 5
+   "members": 4
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 178
+   "members": 172
   }
  ],
  "events": {
   "new_members": 0,
-  "rejoins": 2,
+  "rejoins": 1,
   "milestones": 0,
   "gift_purchases": 0,
   "gifted_total": 0,
@@ -54,21 +54,21 @@
    "tier": "特別観測者",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 4,
+   "confirmed_members": 3,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 182.0,
-   "estimated_members": 186.0,
-   "monthly_net_confirmed": 1247,
-   "monthly_net_estimated": 57998
+   "allocated_unknown": 176.0,
+   "estimated_members": 179.0,
+   "monthly_net_confirmed": 935,
+   "monthly_net_estimated": 55815
   }
  ],
  "revenue": {
-  "monthly_low": 57998,
-  "monthly_est": 57998,
+  "monthly_low": 55815,
+  "monthly_est": 55815,
   "gift_once": 0,
-  "total_low": 57998,
-  "total_est": 57998,
-  "paying_members": 186,
+  "total_low": 55815,
+  "total_est": 55815,
+  "paying_members": 179,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -77,16 +77,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "uhohm5hry6o",
-   "start": "2026-10-28 00:01",
-   "title": "【バイノーラル雑談】10月が終わるということはつまり👻【鈴木勝/にじさんじ】",
-   "kind": "配信",
-   "chatters": 131,
-   "member_chatters": 79,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "QKvA0aBy_fI",
    "start": "2026-10-29 22:04",
@@ -219,15 +209,15 @@
   },
   {
    "video_id": "WyU03DKXkgA",
-   "start": "2026-11-25 00:02",
+   "start": "2026-11-24 00:00",
    "title": "【360°配信】VR de CHAT in 自宅3Dスタジオ【鈴木勝/にじさんじ】",
-   "kind": "live",
-   "status": "processing",
-   "reason": "アーカイブ処理中（次回再確認）",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 974,
-   "view_count": 16386
+   "like_count": 1328,
+   "view_count": 23279
   }
  ],
  "members_only_content": [
@@ -387,7 +377,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-26"
+    "to": "2026-11-27"
    },
    "streams_analyzed": 6,
    "streams_missed": 5,

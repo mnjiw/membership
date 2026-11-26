@@ -3,20 +3,20 @@
  "channel_id": "UCPvGypSgfDkVe7JG2KygK7A",
  "handle": "@RindouMikoto",
  "subscribers": 595000,
- "fetched_at": "2026-11-26 05:21",
- "generated_at": "2026-11-26 05:21",
+ "fetched_at": "2026-11-27 05:23",
+ "generated_at": "2026-11-27 05:23",
  "period": {
-  "from": "2026-10-27 05:21",
-  "to": "2026-11-26 05:21",
+  "from": "2026-10-28 05:23",
+  "to": "2026-11-27 05:23",
   "days": 30
  },
  "streams_analyzed": 4,
  "streams_missed": 1,
- "unique_chatters": 492,
+ "unique_chatters": 465,
  "members_confirmed": 166,
  "member_classes": {
-  "known": 69,
-  "unknown": 97
+  "known": 67,
+  "unknown": 99
  },
  "badges": [
   {
@@ -27,7 +27,7 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 6
+   "members": 5
   },
   {
    "months": 2,
@@ -37,22 +37,22 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 8
+   "members": 7
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 18
+   "members": 20
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 21
+   "members": 20
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 14
+   "members": 15
   },
   {
    "months": 48,
@@ -62,12 +62,12 @@
   {
    "months": 60,
    "label": "5年",
-   "members": 17
+   "members": 18
   },
   {
    "months": 72,
    "label": "6年",
-   "members": 24
+   "members": 23
   },
   {
    "months": 84,
@@ -76,8 +76,8 @@
   }
  ],
  "events": {
-  "new_members": 9,
-  "rejoins": 11,
+  "new_members": 8,
+  "rejoins": 9,
   "milestones": 7,
   "gift_purchases": 0,
   "gifted_total": 0,
@@ -90,30 +90,30 @@
    "price": 490,
    "net_per_member": 311.8,
    "confirmed_members": 13,
-   "share_of_confirmed_pct": 18.8,
-   "allocated_unknown": 18.3,
-   "estimated_members": 31.3,
+   "share_of_confirmed_pct": 19.4,
+   "allocated_unknown": 19.2,
+   "estimated_members": 32.2,
    "monthly_net_confirmed": 4054,
-   "monthly_net_estimated": 9752
+   "monthly_net_estimated": 10043
   },
   {
    "tier": "鬼に癒されたい者の集い",
    "price": 2790,
    "net_per_member": 1775.5,
-   "confirmed_members": 56,
-   "share_of_confirmed_pct": 81.2,
-   "allocated_unknown": 78.7,
-   "estimated_members": 134.7,
-   "monthly_net_confirmed": 99425,
-   "monthly_net_estimated": 239197
+   "confirmed_members": 54,
+   "share_of_confirmed_pct": 80.6,
+   "allocated_unknown": 79.8,
+   "estimated_members": 133.8,
+   "monthly_net_confirmed": 95875,
+   "monthly_net_estimated": 237540
   }
  ],
  "revenue": {
-  "monthly_low": 133725,
-  "monthly_est": 248950,
+  "monthly_low": 130798,
+  "monthly_est": 247583,
   "gift_once": 0,
-  "total_low": 133725,
-  "total_est": 248950,
+  "total_low": 130798,
+  "total_est": 247583,
   "paying_members": 166,
   "single_tier": false,
   "tax_rate": 0.1,
@@ -123,16 +123,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "uRirpc6h0Rs",
-   "start": "2026-10-28 00:32",
-   "title": "【  HER TREES : THE PUZZLE HOUSE 】モノクロな世界のチルいパズルゲーム【  竜胆 尊┆ にじさんじ  】",
-   "kind": "配信",
-   "chatters": 154,
-   "member_chatters": 63,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "RgW7s9O000M",
    "start": "2026-11-09 22:04",
@@ -162,6 +152,16 @@
    "member_chatters": 53,
    "new_members": 4,
    "gifted_total": 0
+  },
+  {
+   "video_id": "16n4U3vEEMA",
+   "start": "2026-11-26 19:55",
+   "title": "【 #にじONELIFE 】死んだら × 終了 × サバイバル ?!【  竜胆 尊┆にじさんじ  】",
+   "kind": "配信",
+   "chatters": 114,
+   "member_chatters": 60,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -174,7 +174,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "鬼に癒されたい者の集い",
-   "like_count": 398,
+   "like_count": 400,
    "view_count": null
   }
  ],
@@ -186,7 +186,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "鬼に癒されたい者の集い",
-   "like_count": 398,
+   "like_count": 400,
    "view_count": null
   }
  ],
@@ -363,45 +363,45 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-26"
+    "to": "2026-11-27"
    },
-   "streams_analyzed": 3,
+   "streams_analyzed": 4,
    "streams_missed": 1,
-   "unique_chatters": 418,
-   "members_confirmed": 152,
+   "unique_chatters": 465,
+   "members_confirmed": 166,
    "member_classes": {
-    "known": 65,
-    "unknown": 87
+    "known": 67,
+    "unknown": 99
    },
-   "long_term_members": 126,
+   "long_term_members": 137,
    "badges": [
     {
      "months": 0,
-     "members": 8
+     "members": 10
     },
     {
      "months": 1,
-     "members": 6
+     "members": 5
     },
     {
      "months": 2,
-     "members": 6
+     "members": 7
     },
     {
      "months": 6,
-     "members": 6
+     "members": 7
     },
     {
      "months": 12,
-     "members": 16
+     "members": 20
     },
     {
      "months": 24,
-     "members": 19
+     "members": 20
     },
     {
      "months": 36,
-     "members": 13
+     "members": 15
     },
     {
      "months": 48,
@@ -409,7 +409,7 @@
     },
     {
      "months": 60,
-     "members": 16
+     "members": 18
     },
     {
      "months": 72,
@@ -417,12 +417,12 @@
     },
     {
      "months": 84,
-     "members": 19
+     "members": 21
     }
    ],
    "events": {
     "new_members": 8,
-    "rejoins": 7,
+    "rejoins": 9,
     "milestones": 7,
     "gifted_total": 0
    },
@@ -430,22 +430,22 @@
     {
      "tier": "鬼の居る間",
      "price": 490,
-     "confirmed_members": 12,
-     "estimated_members": 28.1
+     "confirmed_members": 13,
+     "estimated_members": 32.2
     },
     {
      "tier": "鬼に癒されたい者の集い",
      "price": 2790,
-     "confirmed_members": 53,
-     "estimated_members": 123.9
+     "confirmed_members": 54,
+     "estimated_members": 133.8
     }
    ],
    "revenue": {
-    "monthly_low": 124969,
-    "monthly_est": 228797,
+    "monthly_low": 130798,
+    "monthly_est": 247583,
     "gift_once": 0
    },
-   "avg_member_chatters": 74,
+   "avg_member_chatters": 70.5,
    "partial": true,
    "finalized": false
   }

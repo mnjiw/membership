@@ -3,15 +3,15 @@
  "channel_id": "UCwrjITPwG4q71HzihV2C7Nw",
  "handle": "@Fumi",
  "subscribers": 280000,
- "fetched_at": "2026-11-26 13:10",
- "generated_at": "2026-11-26 13:10",
+ "fetched_at": "2026-11-27 05:27",
+ "generated_at": "2026-11-27 05:27",
  "period": {
-  "from": "2026-10-27 13:10",
-  "to": "2026-11-26 13:10",
+  "from": "2026-10-28 05:27",
+  "to": "2026-11-27 05:27",
   "days": 30
  },
  "streams_analyzed": 20,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 2902,
  "members_confirmed": 253,
  "member_classes": {
@@ -322,8 +322,32 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
- "members_only_content": [],
+ "missed_streams": [
+  {
+   "video_id": "JPB8P46BOII",
+   "start": "2026-11-26 23:01",
+   "title": "【 めんげん 】２８万人おめでとう🎊【 にじさんじフミ 】",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "ツクヨミ",
+   "like_count": 76,
+   "view_count": null
+  }
+ ],
+ "members_only_content": [
+  {
+   "video_id": "JPB8P46BOII",
+   "start": "2026-11-26 23:01",
+   "title": "【 めんげん 】２８万人おめでとう🎊【 にじさんじフミ 】",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "ツクヨミ",
+   "like_count": 76,
+   "view_count": null
+  }
+ ],
  "history": [
   {
    "month": "2026-09",
@@ -497,10 +521,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-26"
+    "to": "2026-11-27"
    },
    "streams_analyzed": 19,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 2896,
    "members_confirmed": 251,
    "member_classes": {

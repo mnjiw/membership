@@ -2,59 +2,60 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-26"
+  "to": "2026-11-27"
  },
- "streams_analyzed": 14,
+ "streams_analyzed": 15,
  "streams_missed": 0,
- "unique_chatters": 1700,
- "members_confirmed": 890,
+ "unique_chatters": 2097,
+ "members_confirmed": 1071,
  "member_classes": {
-  "unknown": 822,
-  "known": 68
+  "unknown": 927,
+  "known": 99,
+  "gift": 45
  },
- "long_term_members": 573,
+ "long_term_members": 662,
  "badges": [
   {
    "months": 0,
-   "members": 25
+   "members": 71
   },
   {
    "months": 1,
-   "members": 132
+   "members": 148
   },
   {
    "months": 6,
-   "members": 160
+   "members": 190
   },
   {
    "months": 12,
-   "members": 250
+   "members": 283
   },
   {
    "months": 24,
-   "members": 323
+   "members": 379
   }
  ],
  "events": {
-  "new_members": 8,
+  "new_members": 10,
   "rejoins": 5,
-  "milestones": 15,
-  "gifted_total": 0
+  "milestones": 54,
+  "gifted_total": 45
  },
  "tiers": [
   {
    "tier": "きたみんシップ",
    "price": 490,
-   "confirmed_members": 68,
-   "estimated_members": 890.0
+   "confirmed_members": 99,
+   "estimated_members": 1026.0
   }
  ],
  "revenue": {
-  "monthly_low": 277518,
-  "monthly_est": 277518,
-  "gift_once": 0
+  "monthly_low": 319925,
+  "monthly_est": 319925,
+  "gift_once": 14032
  },
- "avg_member_chatters": 321.7,
+ "avg_member_chatters": 347.2,
  "partial": true,
  "finalized": false
 }
