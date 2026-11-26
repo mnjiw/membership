@@ -3,27 +3,27 @@
  "channel_id": "UC-O0yAOb7iu1I_XcF_2Pfhg",
  "handle": "@kasane_teion",
  "subscribers": 19200,
- "fetched_at": "2026-11-26 06:37",
- "generated_at": "2026-11-26 06:38",
+ "fetched_at": "2026-11-27 06:39",
+ "generated_at": "2026-11-27 06:40",
  "period": {
-  "from": "2026-10-27 06:37",
-  "to": "2026-11-26 06:37",
+  "from": "2026-10-28 06:39",
+  "to": "2026-11-27 06:39",
   "days": 30
  },
- "streams_analyzed": 35,
+ "streams_analyzed": 34,
  "streams_missed": 4,
- "unique_chatters": 1351,
- "members_confirmed": 307,
+ "unique_chatters": 1341,
+ "members_confirmed": 298,
  "member_classes": {
-  "unknown": 196,
-  "known": 46,
-  "gift": 65
+  "unknown": 198,
+  "known": 45,
+  "gift": 55
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 91
+   "members": 82
   },
   {
    "months": 1,
@@ -40,9 +40,9 @@
   "new_members": 9,
   "rejoins": 2,
   "milestones": 15,
-  "gift_purchases": 13,
-  "gifted_total": 65,
-  "gift_redemptions": 65
+  "gift_purchases": 12,
+  "gifted_total": 55,
+  "gift_redemptions": 55
  },
  "tiers_configured": true,
  "tiers": [
@@ -50,21 +50,21 @@
    "tier": "かさねふぁむ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 46,
+   "confirmed_members": 45,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 196.0,
-   "estimated_members": 242.0,
-   "monthly_net_confirmed": 14344,
-   "monthly_net_estimated": 75460
+   "allocated_unknown": 198.0,
+   "estimated_members": 243.0,
+   "monthly_net_confirmed": 14032,
+   "monthly_net_estimated": 75772
   }
  ],
  "revenue": {
-  "monthly_low": 75460,
-  "monthly_est": 75460,
-  "gift_once": 20268,
-  "total_low": 95728,
-  "total_est": 95728,
-  "paying_members": 242,
+  "monthly_low": 75772,
+  "monthly_est": 75772,
+  "gift_once": 17150,
+  "total_low": 92922,
+  "total_est": 92922,
+  "paying_members": 243,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "1ByVMOn2Tzs",
-   "start": "2026-10-27 12:01",
-   "title": "【#鳴潮 】 完全初見プレイ🔰世界観PVを語る＆シャコンヌイベント「常夏に書き綴る詩」　【 #蹄音かさね / すぺしゃりて 】",
-   "kind": "配信",
-   "chatters": 95,
-   "member_chatters": 59,
-   "new_members": 0,
-   "gifted_total": 10
-  },
   {
    "video_id": "XsJN7xh44Vk",
    "start": "2026-10-28 22:01",
@@ -470,7 +460,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 26,
+   "like_count": 27,
    "view_count": null
   }
  ],
@@ -512,7 +502,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 26,
+   "like_count": 27,
    "view_count": null
   }
  ],
@@ -618,7 +608,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-26"
+    "to": "2026-11-27"
    },
    "streams_analyzed": 31,
    "streams_missed": 3,

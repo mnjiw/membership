@@ -2,38 +2,38 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-26"
+  "to": "2026-11-27"
  },
- "streams_analyzed": 5,
+ "streams_analyzed": 6,
  "streams_missed": 4,
- "unique_chatters": 2236,
- "members_confirmed": 321,
+ "unique_chatters": 2507,
+ "members_confirmed": 334,
  "member_classes": {
-  "known": 119,
-  "unknown": 178,
+  "known": 126,
+  "unknown": 184,
   "gift": 24
  },
- "long_term_members": 195,
+ "long_term_members": 205,
  "badges": [
   {
    "months": 0,
-   "members": 57
+   "members": 56
   },
   {
    "months": 1,
-   "members": 11
+   "members": 12
   },
   {
    "months": 2,
-   "members": 28
-  },
-  {
-   "months": 6,
    "members": 30
   },
   {
+   "months": 6,
+   "members": 31
+  },
+  {
    "months": 12,
-   "members": 70
+   "members": 74
   },
   {
    "months": 24,
@@ -41,33 +41,33 @@
   },
   {
    "months": 36,
-   "members": 28
+   "members": 29
   },
   {
    "months": 48,
-   "members": 61
+   "members": 66
   }
  ],
  "events": {
   "new_members": 14,
   "rejoins": 5,
-  "milestones": 33,
+  "milestones": 36,
   "gifted_total": 24
  },
  "tiers": [
   {
    "tier": "ZOMILY",
    "price": 690,
-   "confirmed_members": 119,
-   "estimated_members": 297.0
+   "confirmed_members": 126,
+   "estimated_members": 310.0
   }
  ],
  "revenue": {
-  "monthly_low": 130410,
-  "monthly_est": 130410,
+  "monthly_low": 136118,
+  "monthly_est": 136118,
   "gift_once": 10538
  },
- "avg_member_chatters": 124,
+ "avg_member_chatters": 119.8,
  "partial": true,
  "finalized": false
 }

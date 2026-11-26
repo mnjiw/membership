@@ -3,16 +3,16 @@
  "channel_id": "UCez6PoUm-tuIzHLXiXDGKWg",
  "handle": "@PlaneiHoshikuzu",
  "subscribers": 37200,
- "fetched_at": "2026-11-26 06:36",
- "generated_at": "2026-11-26 06:37",
+ "fetched_at": "2026-11-27 06:38",
+ "generated_at": "2026-11-27 06:39",
  "period": {
-  "from": "2026-10-27 06:36",
-  "to": "2026-11-26 06:36",
+  "from": "2026-10-28 06:38",
+  "to": "2026-11-27 06:38",
   "days": 30
  },
  "streams_analyzed": 23,
  "streams_missed": 4,
- "unique_chatters": 1252,
+ "unique_chatters": 1235,
  "members_confirmed": 267,
  "member_classes": {
   "known": 33,
@@ -54,7 +54,7 @@
  "events": {
   "new_members": 2,
   "rejoins": 2,
-  "milestones": 17,
+  "milestones": 18,
   "gift_purchases": 27,
   "gifted_total": 124,
   "gift_redemptions": 123
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "i3NC1nVsSo4",
-   "start": "2026-10-27 19:59",
-   "title": "【ACE COMBAT ZERO】新たな空へ!!完全初見で挑むエスコンゼロ行くぞッ✨※ネタバレあり【星屑ぷらね/すぺしゃりて】#すぺしゃりて #エースコンバットゼロ #acecombatzero",
-   "kind": "配信",
-   "chatters": 116,
-   "member_chatters": 46,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "z7adRPmV74U",
    "start": "2026-10-28 19:57",
@@ -317,6 +307,16 @@
    "member_chatters": 47,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "eReDf4NkZdU",
+   "start": "2026-11-26 21:11",
+   "title": "【Japanese Ramen Simulator】Teamwork or Culinary Chaos!? A Wild New Ramen Shop Opens Today!!【Ruri A...",
+   "kind": "配信",
+   "chatters": 65,
+   "member_chatters": 39,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -353,7 +353,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "ぷらねの侵略会議室",
-   "like_count": 65,
+   "like_count": 66,
    "view_count": null
   },
   {
@@ -397,7 +397,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "ぷらねの侵略会議室",
-   "like_count": 65,
+   "like_count": 66,
    "view_count": null
   },
   {
@@ -537,14 +537,14 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-26"
+    "to": "2026-11-27"
    },
-   "streams_analyzed": 19,
+   "streams_analyzed": 20,
    "streams_missed": 3,
-   "unique_chatters": 859,
-   "members_confirmed": 205,
+   "unique_chatters": 872,
+   "members_confirmed": 207,
    "member_classes": {
-    "unknown": 119,
+    "unknown": 121,
     "known": 32,
     "gift": 54
    },
@@ -552,7 +552,7 @@
    "badges": [
     {
      "months": 0,
-     "members": 61
+     "members": 63
     },
     {
      "months": 1,
@@ -578,7 +578,7 @@
    "events": {
     "new_members": 2,
     "rejoins": 0,
-    "milestones": 16,
+    "milestones": 17,
     "gifted_total": 55
    },
    "tiers": [
@@ -586,15 +586,15 @@
      "tier": "ぷらねの侵略会議室",
      "price": 490,
      "confirmed_members": 32,
-     "estimated_members": 151.0
+     "estimated_members": 153.0
     }
    ],
    "revenue": {
-    "monthly_low": 47085,
-    "monthly_est": 47085,
+    "monthly_low": 47708,
+    "monthly_est": 47708,
     "gift_once": 17150
    },
-   "avg_member_chatters": 47.6,
+   "avg_member_chatters": 47.2,
    "partial": true,
    "finalized": false
   }

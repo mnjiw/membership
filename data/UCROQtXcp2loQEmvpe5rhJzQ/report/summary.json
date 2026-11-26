@@ -2,42 +2,42 @@
  "channel": "Sopia Ch. 宙科そぴあ ‐ アソビ★まわり隊!",
  "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
  "handle": "@SorashinaSopia",
- "subscribers": 340000,
- "fetched_at": "2026-11-26 06:28",
- "generated_at": "2026-11-26 06:28",
+ "subscribers": 341000,
+ "fetched_at": "2026-11-27 06:30",
+ "generated_at": "2026-11-27 06:33",
  "period": {
-  "from": "2026-10-27 06:28",
-  "to": "2026-11-26 06:28",
+  "from": "2026-10-28 06:30",
+  "to": "2026-11-27 06:30",
   "days": 30
  },
  "streams_analyzed": 17,
  "streams_missed": 3,
- "unique_chatters": 16082,
- "members_confirmed": 3545,
+ "unique_chatters": 16416,
+ "members_confirmed": 3391,
  "member_classes": {
-  "unknown": 1510,
-  "known": 1547,
-  "gift": 488
+  "known": 1499,
+  "unknown": 1524,
+  "gift": 368
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 2726
+   "members": 2369
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 819
+   "members": 1022
   }
  ],
  "events": {
-  "new_members": 314,
+  "new_members": 255,
   "rejoins": 0,
   "milestones": 0,
-  "gift_purchases": 70,
-  "gifted_total": 500,
-  "gift_redemptions": 488
+  "gift_purchases": 56,
+  "gifted_total": 400,
+  "gift_redemptions": 368
  },
  "tiers_configured": true,
  "tiers": [
@@ -45,21 +45,21 @@
    "tier": "そぴあの秘密基地",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 1547,
+   "confirmed_members": 1499,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1510.0,
-   "estimated_members": 3057.0,
-   "monthly_net_confirmed": 482383,
-   "monthly_net_estimated": 953228
+   "allocated_unknown": 1524.0,
+   "estimated_members": 3023.0,
+   "monthly_net_confirmed": 467415,
+   "monthly_net_estimated": 942626
   }
  ],
  "revenue": {
-  "monthly_low": 953228,
-  "monthly_est": 953228,
-  "gift_once": 155909,
-  "total_low": 1109137,
-  "total_est": 1109137,
-  "paying_members": 3057,
+  "monthly_low": 942626,
+  "monthly_est": 942626,
+  "gift_once": 124727,
+  "total_low": 1067354,
+  "total_est": 1067354,
+  "paying_members": 3023,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -68,16 +68,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "OaM_7vrjkKk",
-   "start": "2026-10-27 20:00",
-   "title": "収益化記念＆1ヵ月記念枠のお礼配信【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-   "kind": "配信",
-   "chatters": 1791,
-   "member_chatters": 1118,
-   "new_members": 60,
-   "gifted_total": 130
-  },
   {
    "video_id": "fMC8x2qT5-A",
    "start": "2026-10-28 20:00",
@@ -237,6 +227,16 @@
    "member_chatters": 1098,
    "new_members": 25,
    "gifted_total": 13
+  },
+  {
+   "video_id": "IwJK8BUnRQw",
+   "start": "2026-11-26 20:00",
+   "title": "【アソビ★まわり隊！】さらなる難問も、ウチらなら余裕っしょ！【PICO PARK/ホロライブ】",
+   "kind": "配信",
+   "chatters": 2516,
+   "member_chatters": 755,
+   "new_members": 1,
+   "gifted_total": 30
   }
  ],
  "missed_streams": [
@@ -261,7 +261,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "そぴあの秘密基地",
-   "like_count": 1426,
+   "like_count": 1428,
    "view_count": null
   },
   {
@@ -273,7 +273,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "そぴあの秘密基地",
-   "like_count": 973,
+   "like_count": 1076,
    "view_count": null
   }
  ],
@@ -295,7 +295,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "そぴあの秘密基地",
-   "like_count": 1426,
+   "like_count": 1428,
    "view_count": null
   },
   {
@@ -305,7 +305,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "そぴあの秘密基地",
-   "like_count": 973,
+   "like_count": 1076,
    "view_count": null
   }
  ],
@@ -386,48 +386,48 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-26"
+    "to": "2026-11-27"
    },
-   "streams_analyzed": 13,
+   "streams_analyzed": 14,
    "streams_missed": 3,
-   "unique_chatters": 13293,
-   "members_confirmed": 3064,
+   "unique_chatters": 14067,
+   "members_confirmed": 3107,
    "member_classes": {
-    "unknown": 1407,
-    "known": 1340,
-    "gift": 317
+    "unknown": 1432,
+    "known": 1348,
+    "gift": 327
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 2245
+     "members": 2085
     },
     {
      "months": 1,
-     "members": 819
+     "members": 1022
     }
    ],
    "events": {
-    "new_members": 167,
+    "new_members": 168,
     "rejoins": 0,
     "milestones": 0,
-    "gifted_total": 328
+    "gifted_total": 358
    },
    "tiers": [
     {
      "tier": "そぴあの秘密基地",
      "price": 490,
-     "confirmed_members": 1340,
-     "estimated_members": 2747.0
+     "confirmed_members": 1348,
+     "estimated_members": 2780.0
     }
    ],
    "revenue": {
-    "monthly_low": 856565,
-    "monthly_est": 856565,
-    "gift_once": 102276
+    "monthly_low": 866855,
+    "monthly_est": 866855,
+    "gift_once": 111631
    },
-   "avg_member_chatters": 991.3,
+   "avg_member_chatters": 974.4,
    "partial": true,
    "finalized": false
   }

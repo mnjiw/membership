@@ -2,21 +2,22 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-26"
+  "to": "2026-11-27"
  },
- "streams_analyzed": 20,
+ "streams_analyzed": 21,
  "streams_missed": 2,
- "unique_chatters": 478,
- "members_confirmed": 90,
+ "unique_chatters": 500,
+ "members_confirmed": 123,
  "member_classes": {
-  "known": 26,
-  "unknown": 64
+  "known": 27,
+  "unknown": 64,
+  "gift": 32
  },
- "long_term_members": 62,
+ "long_term_members": 63,
  "badges": [
   {
    "months": 0,
-   "members": 1
+   "members": 33
   },
   {
    "months": 1,
@@ -36,29 +37,29 @@
   },
   {
    "months": 24,
-   "members": 34
+   "members": 35
   }
  ],
  "events": {
   "new_members": 0,
-  "rejoins": 1,
-  "milestones": 9,
-  "gifted_total": 0
+  "rejoins": 2,
+  "milestones": 10,
+  "gifted_total": 32
  },
  "tiers": [
   {
    "tier": "BOTchis",
    "price": 490,
-   "confirmed_members": 26,
-   "estimated_members": 90.0
+   "confirmed_members": 27,
+   "estimated_members": 91.0
   }
  ],
  "revenue": {
-  "monthly_low": 28064,
-  "monthly_est": 28064,
-  "gift_once": 0
+  "monthly_low": 28375,
+  "monthly_est": 28375,
+  "gift_once": 9978
  },
- "avg_member_chatters": 31.8,
+ "avg_member_chatters": 33.3,
  "partial": true,
  "finalized": false
 }

@@ -3,26 +3,26 @@
  "channel_id": "UCIu-aUArYq_H84dBpCAokMA",
  "handle": "@Shirayuki_Reid",
  "subscribers": 423000,
- "fetched_at": "2026-11-26 13:18",
- "generated_at": "2026-11-26 13:20",
+ "fetched_at": "2026-11-27 06:40",
+ "generated_at": "2026-11-27 06:40",
  "period": {
-  "from": "2026-10-27 13:18",
-  "to": "2026-11-26 13:18",
+  "from": "2026-10-28 06:40",
+  "to": "2026-11-27 06:40",
   "days": 30
  },
  "streams_analyzed": 32,
  "streams_missed": 0,
- "unique_chatters": 2512,
- "members_confirmed": 332,
+ "unique_chatters": 2886,
+ "members_confirmed": 343,
  "member_classes": {
-  "unknown": 328,
+  "unknown": 339,
   "known": 4
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 3
+   "members": 4
   },
   {
    "months": 1,
@@ -32,17 +32,17 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 11
+   "members": 12
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 13
+   "members": 15
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 41
+   "members": 43
   },
   {
    "months": 24,
@@ -52,7 +52,7 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 215
+   "members": 220
   }
  ],
  "events": {
@@ -71,19 +71,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 4,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 328.0,
-   "estimated_members": 332.0,
+   "allocated_unknown": 339.0,
+   "estimated_members": 343.0,
    "monthly_net_confirmed": 1247,
-   "monthly_net_estimated": 103524
+   "monthly_net_estimated": 106954
   }
  ],
  "revenue": {
-  "monthly_low": 103524,
-  "monthly_est": 103524,
+  "monthly_low": 106954,
+  "monthly_est": 106954,
   "gift_once": 0,
-  "total_low": 103524,
-  "total_est": 103524,
-  "paying_members": 332,
+  "total_low": 106954,
+  "total_est": 106954,
+  "paying_members": 343,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -92,16 +92,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "P7zzIzvHkMI",
-   "start": "2026-10-27 23:25",
-   "title": "【#雀魂】４位になったら即終了 ～原点目の前編～【王座の間 ５分遅延】",
-   "kind": "配信",
-   "chatters": 138,
-   "member_chatters": 38,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "dgLIA18Lj7w",
    "start": "2026-10-28 18:43",
@@ -411,6 +401,16 @@
    "member_chatters": 49,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "AGFFoFQMrNw",
+   "start": "2026-11-26 17:09",
+   "title": "【#ホロじゃん】やるでしょ【白雪レイド】",
+   "kind": "配信",
+   "chatters": 685,
+   "member_chatters": 96,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -548,21 +548,21 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-26"
+    "to": "2026-11-27"
    },
-   "streams_analyzed": 28,
+   "streams_analyzed": 29,
    "streams_missed": 0,
-   "unique_chatters": 2279,
-   "members_confirmed": 320,
+   "unique_chatters": 2677,
+   "members_confirmed": 333,
    "member_classes": {
-    "unknown": 316,
+    "unknown": 329,
     "known": 4
    },
-   "long_term_members": 290,
+   "long_term_members": 299,
    "badges": [
     {
      "months": 0,
-     "members": 2
+     "members": 3
     },
     {
      "months": 1,
@@ -570,15 +570,15 @@
     },
     {
      "months": 2,
-     "members": 11
-    },
-    {
-     "months": 6,
      "members": 12
     },
     {
+     "months": 6,
+     "members": 14
+    },
+    {
      "months": 12,
-     "members": 40
+     "members": 42
     },
     {
      "months": 24,
@@ -586,7 +586,7 @@
     },
     {
      "months": 36,
-     "members": 209
+     "members": 216
     }
    ],
    "events": {
@@ -600,15 +600,15 @@
      "tier": "ホワ民",
      "price": 490,
      "confirmed_members": 4,
-     "estimated_members": 320.0
+     "estimated_members": 333.0
     }
    ],
    "revenue": {
-    "monthly_low": 99782,
-    "monthly_est": 99782,
+    "monthly_low": 103835,
+    "monthly_est": 103835,
     "gift_once": 0
    },
-   "avg_member_chatters": 58.5,
+   "avg_member_chatters": 59.8,
    "partial": true,
    "finalized": false
   }

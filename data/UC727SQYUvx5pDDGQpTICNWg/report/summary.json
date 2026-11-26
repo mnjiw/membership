@@ -3,42 +3,42 @@
  "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
  "handle": "@AnyaMelfissa",
  "subscribers": 806000,
- "fetched_at": "2026-11-26 06:28",
- "generated_at": "2026-11-26 06:29",
+ "fetched_at": "2026-11-27 06:31",
+ "generated_at": "2026-11-27 06:32",
  "period": {
-  "from": "2026-10-27 06:28",
-  "to": "2026-11-26 06:28",
+  "from": "2026-10-28 06:31",
+  "to": "2026-11-27 06:31",
   "days": 30
  },
  "streams_analyzed": 21,
  "streams_missed": 2,
- "unique_chatters": 3125,
- "members_confirmed": 491,
+ "unique_chatters": 3121,
+ "members_confirmed": 490,
  "member_classes": {
   "known": 83,
-  "unknown": 224,
+  "unknown": 223,
   "gift": 184
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 218
+   "members": 216
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 20
+   "members": 19
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 23
+   "members": 22
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 39
+   "members": 40
   },
   {
    "months": 12,
@@ -53,13 +53,13 @@
   {
    "months": 36,
    "label": "3年",
-   "members": 99
+   "members": 101
   }
  ],
  "events": {
   "new_members": 11,
   "rejoins": 7,
-  "milestones": 34,
+  "milestones": 33,
   "gift_purchases": 36,
   "gifted_total": 194,
   "gift_redemptions": 184
@@ -72,19 +72,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 83,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 224.0,
-   "estimated_members": 307.0,
+   "allocated_unknown": 223.0,
+   "estimated_members": 306.0,
    "monthly_net_confirmed": 25881,
-   "monthly_net_estimated": 95728
+   "monthly_net_estimated": 95416
   }
  ],
  "revenue": {
-  "monthly_low": 95728,
-  "monthly_est": 95728,
+  "monthly_low": 95416,
+  "monthly_est": 95416,
   "gift_once": 60493,
-  "total_low": 156221,
-  "total_est": 156221,
-  "paying_members": 307,
+  "total_low": 155909,
+  "total_est": 155909,
+  "paying_members": 306,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "HQrmk1DZW1Y",
-   "start": "2026-10-27 18:00",
-   "title": "【Tsugunohi -The Thread That Beckons to Heaven-】It Is Still Summer【hololive holoro | Anya Melfissa】",
-   "kind": "配信",
-   "chatters": 240,
-   "member_chatters": 73,
-   "new_members": 0,
-   "gifted_total": 5
-  },
   {
    "video_id": "aSeIgFCmhrI",
    "start": "2026-10-29 20:46",
@@ -302,6 +292,16 @@
    "member_chatters": 83,
    "new_members": 0,
    "gifted_total": 5
+  },
+  {
+   "video_id": "SVEG2wGwxfE",
+   "start": "2026-11-26 21:04",
+   "title": "【Forest Escape: Last Train】こわ〜い森からみんなと脱出したい！！！ This Forest Is Scary【hololive holoro | Anya Melfissa】",
+   "kind": "配信",
+   "chatters": 261,
+   "member_chatters": 74,
+   "new_members": 0,
+   "gifted_total": 5
   }
  ],
  "missed_streams": [
@@ -497,22 +497,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-26"
+    "to": "2026-11-27"
    },
-   "streams_analyzed": 17,
+   "streams_analyzed": 18,
    "streams_missed": 1,
-   "unique_chatters": 2658,
-   "members_confirmed": 426,
+   "unique_chatters": 2725,
+   "members_confirmed": 434,
    "member_classes": {
     "known": 80,
-    "unknown": 213,
-    "gift": 133
+    "unknown": 216,
+    "gift": 138
    },
-   "long_term_members": 185,
+   "long_term_members": 187,
    "badges": [
     {
      "months": 0,
-     "members": 163
+     "members": 168
     },
     {
      "months": 1,
@@ -524,7 +524,7 @@
     },
     {
      "months": 6,
-     "members": 39
+     "members": 40
     },
     {
      "months": 12,
@@ -536,29 +536,29 @@
     },
     {
      "months": 36,
-     "members": 97
+     "members": 99
     }
    ],
    "events": {
     "new_members": 11,
     "rejoins": 6,
     "milestones": 29,
-    "gifted_total": 143
+    "gifted_total": 148
    },
    "tiers": [
     {
      "tier": "Melhomies Den",
      "price": 490,
      "confirmed_members": 80,
-     "estimated_members": 293.0
+     "estimated_members": 296.0
     }
    ],
    "revenue": {
-    "monthly_low": 91363,
-    "monthly_est": 91363,
-    "gift_once": 44590
+    "monthly_low": 92298,
+    "monthly_est": 92298,
+    "gift_once": 46149
    },
-   "avg_member_chatters": 88.8,
+   "avg_member_chatters": 87.9,
    "partial": true,
    "finalized": false
   }

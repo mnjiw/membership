@@ -3,61 +3,61 @@
  "channel_id": "UCuDY3ibSP2MFRgf7eo3cojg",
  "handle": "@SendoYuuhi",
  "subscribers": 392000,
- "fetched_at": "2026-11-26 06:35",
- "generated_at": "2026-11-26 06:35",
+ "fetched_at": "2026-11-27 06:36",
+ "generated_at": "2026-11-27 06:36",
  "period": {
-  "from": "2026-10-27 06:35",
-  "to": "2026-11-26 06:35",
+  "from": "2026-10-28 06:36",
+  "to": "2026-11-27 06:36",
   "days": 30
  },
- "streams_analyzed": 34,
+ "streams_analyzed": 32,
  "streams_missed": 5,
- "unique_chatters": 7173,
- "members_confirmed": 1097,
+ "unique_chatters": 7033,
+ "members_confirmed": 1074,
  "member_classes": {
-  "known": 117,
-  "unknown": 879,
-  "gift": 101
+  "unknown": 867,
+  "known": 113,
+  "gift": 94
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 141
+   "members": 134
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 26
+   "members": 25
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 111
+   "members": 110
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 156
+   "members": 153
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 306
+   "members": 300
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 357
+   "members": 352
   }
  ],
  "events": {
-  "new_members": 24,
+  "new_members": 23,
   "rejoins": 12,
-  "milestones": 33,
-  "gift_purchases": 19,
-  "gifted_total": 101,
-  "gift_redemptions": 101
+  "milestones": 25,
+  "gift_purchases": 16,
+  "gifted_total": 94,
+  "gift_redemptions": 94
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,21 +65,21 @@
    "tier": "てんとうむし🐞",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 117,
+   "confirmed_members": 113,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 879.0,
-   "estimated_members": 996.0,
-   "monthly_net_confirmed": 36483,
-   "monthly_net_estimated": 310571
+   "allocated_unknown": 867.0,
+   "estimated_members": 980.0,
+   "monthly_net_confirmed": 35235,
+   "monthly_net_estimated": 305582
   }
  ],
  "revenue": {
-  "monthly_low": 310571,
-  "monthly_est": 310571,
-  "gift_once": 31494,
-  "total_low": 342065,
-  "total_est": 342065,
-  "paying_members": 996,
+  "monthly_low": 305582,
+  "monthly_est": 305582,
+  "gift_once": 29311,
+  "total_low": 334893,
+  "total_est": 334893,
+  "paying_members": 980,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -88,26 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "0Nag72r0aBw",
-   "start": "2026-10-27 15:05",
-   "title": "【#LTK】驚異の0ptチーム本番折り返し！【 ぶいすぽっ！ / 千燈ゆうひ 】",
-   "kind": "配信",
-   "chatters": 580,
-   "member_chatters": 291,
-   "new_members": 1,
-   "gifted_total": 6
-  },
-  {
-   "video_id": "wFx8xom5D5Y",
-   "start": "2026-10-27 23:53",
-   "title": "【録画視聴】AL vs TLAW 2試合目～ Worlds 2026 | Swiss Stage Day 4 公式ウォッチパーティー！【ぶいすぽっ！/千燈ゆうひ】",
-   "kind": "配信",
-   "chatters": 444,
-   "member_chatters": 157,
-   "new_members": 0,
-   "gifted_total": 1
-  },
   {
    "video_id": "giixKGVK0Jo",
    "start": "2026-10-28 17:03",
@@ -451,7 +431,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 138,
+   "like_count": 139,
    "view_count": null
   },
   {
@@ -487,7 +467,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 200,
+   "like_count": 203,
    "view_count": null
   }
  ],
@@ -509,7 +489,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 138,
+   "like_count": 139,
    "view_count": null
   },
   {
@@ -539,7 +519,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 200,
+   "like_count": 203,
    "view_count": null
   }
  ],
@@ -669,7 +649,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-26"
+    "to": "2026-11-27"
    },
    "streams_analyzed": 25,
    "streams_missed": 5,

@@ -3,16 +3,16 @@
  "channel_id": "UCYLp2FLXcqLUZhvrCxQmNIA",
  "handle": "@Ririka_krmzw0707",
  "subscribers": 120000,
- "fetched_at": "2026-11-26 13:20",
- "generated_at": "2026-11-26 13:21",
+ "fetched_at": "2026-11-27 06:45",
+ "generated_at": "2026-11-27 06:45",
  "period": {
-  "from": "2026-10-27 13:20",
-  "to": "2026-11-26 13:20",
+  "from": "2026-10-28 06:45",
+  "to": "2026-11-27 06:45",
   "days": 30
  },
- "streams_analyzed": 30,
+ "streams_analyzed": 29,
  "streams_missed": 2,
- "unique_chatters": 2093,
+ "unique_chatters": 2079,
  "members_confirmed": 190,
  "member_classes": {
   "unknown": 159,
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "UVDgXlJwaZg",
-   "start": "2026-10-27 23:48",
-   "title": "【FINAL FANTASY RESONANCE ファイナルファンタジーレゾナンス】5章から！やるぞ！！※ネタバレ注意【胡桃沢りりか】",
-   "kind": "配信",
-   "chatters": 285,
-   "member_chatters": 65,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "Hf9tunssF0w",
    "start": "2026-10-28 23:48",
@@ -404,15 +394,15 @@
   },
   {
    "video_id": "kpEwKkR5q3o",
-   "start": "2026-11-25 23:51",
+   "start": "2026-11-25 00:00",
    "title": "【スターオーシャン３ Till the End of Time】新編開始！地球めざすぞ！！【胡桃沢りりか】",
-   "kind": "live",
-   "status": "processing",
-   "reason": "アーカイブ処理中（次回再確認）",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 915,
-   "view_count": 62656
+   "like_count": 937,
+   "view_count": 66207
   }
  ],
  "members_only_content": [
@@ -552,7 +542,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-26"
+    "to": "2026-11-27"
    },
    "streams_analyzed": 26,
    "streams_missed": 1,

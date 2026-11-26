@@ -3,20 +3,20 @@
  "channel_id": "UC7Xglp1fske9zmRe7Oj8YyA",
  "handle": "@rikosolari",
  "subscribers": 73100,
- "fetched_at": "2026-11-26 13:17",
- "generated_at": "2026-11-26 13:18",
+ "fetched_at": "2026-11-27 06:37",
+ "generated_at": "2026-11-27 06:37",
  "period": {
-  "from": "2026-10-27 13:17",
-  "to": "2026-11-26 13:17",
+  "from": "2026-10-28 06:37",
+  "to": "2026-11-27 06:37",
   "days": 30
  },
- "streams_analyzed": 9,
+ "streams_analyzed": 10,
  "streams_missed": 0,
- "unique_chatters": 543,
- "members_confirmed": 77,
+ "unique_chatters": 617,
+ "members_confirmed": 82,
  "member_classes": {
-  "known": 41,
-  "unknown": 36
+  "known": 42,
+  "unknown": 40
  },
  "badges": [
   {
@@ -32,7 +32,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 6
+   "members": 7
   },
   {
    "months": 6,
@@ -42,18 +42,18 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 20
+   "members": 23
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 27
+   "members": 28
   }
  ],
  "events": {
   "new_members": 5,
   "rejoins": 1,
-  "milestones": 13,
+  "milestones": 15,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -64,21 +64,21 @@
    "tier": "Rikonaut",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 41,
+   "confirmed_members": 42,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 36.0,
-   "estimated_members": 77.0,
-   "monthly_net_confirmed": 12785,
-   "monthly_net_estimated": 24010
+   "allocated_unknown": 40.0,
+   "estimated_members": 82.0,
+   "monthly_net_confirmed": 13096,
+   "monthly_net_estimated": 25569
   }
  ],
  "revenue": {
-  "monthly_low": 24010,
-  "monthly_est": 24010,
+  "monthly_low": 25569,
+  "monthly_est": 25569,
   "gift_once": 0,
-  "total_low": 24010,
-  "total_est": 24010,
-  "paying_members": 77,
+  "total_low": 25569,
+  "total_est": 25569,
+  "paying_members": 82,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -174,6 +174,16 @@
    "kind": "配信",
    "chatters": 153,
    "member_chatters": 32,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "rrpl8LltRmM",
+   "start": "2026-11-26 22:01",
+   "title": "【APEX LEGENDS】getting out of gold today!!!!【#VSPOEN #RikoSolari】",
+   "kind": "配信",
+   "chatters": 162,
+   "member_chatters": 36,
    "new_members": 0,
    "gifted_total": 0
   }
@@ -306,17 +316,17 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-26"
+    "to": "2026-11-27"
    },
-   "streams_analyzed": 6,
+   "streams_analyzed": 7,
    "streams_missed": 0,
-   "unique_chatters": 482,
-   "members_confirmed": 70,
+   "unique_chatters": 557,
+   "members_confirmed": 76,
    "member_classes": {
-    "known": 37,
-    "unknown": 33
+    "known": 39,
+    "unknown": 37
    },
-   "long_term_members": 42,
+   "long_term_members": 47,
    "badges": [
     {
      "months": 0,
@@ -328,7 +338,7 @@
     },
     {
      "months": 2,
-     "members": 6
+     "members": 7
     },
     {
      "months": 6,
@@ -336,33 +346,33 @@
     },
     {
      "months": 12,
-     "members": 18
+     "members": 21
     },
     {
      "months": 24,
-     "members": 24
+     "members": 26
     }
    ],
    "events": {
     "new_members": 5,
     "rejoins": 0,
-    "milestones": 9,
+    "milestones": 11,
     "gifted_total": 0
    },
    "tiers": [
     {
      "tier": "Rikonaut",
      "price": 490,
-     "confirmed_members": 37,
-     "estimated_members": 70.0
+     "confirmed_members": 39,
+     "estimated_members": 76.0
     }
    ],
    "revenue": {
-    "monthly_low": 21827,
-    "monthly_est": 21827,
+    "monthly_low": 23698,
+    "monthly_est": 23698,
     "gift_once": 0
    },
-   "avg_member_chatters": 26.5,
+   "avg_member_chatters": 27.9,
    "partial": true,
    "finalized": false
   }

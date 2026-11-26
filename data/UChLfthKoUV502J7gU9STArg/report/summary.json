@@ -3,15 +3,15 @@
  "channel_id": "UChLfthKoUV502J7gU9STArg",
  "handle": "@ShibuyaHAL",
  "subscribers": 902000,
- "fetched_at": "2026-11-26 13:18",
- "generated_at": "2026-11-26 13:19",
+ "fetched_at": "2026-11-27 06:40",
+ "generated_at": "2026-11-27 06:40",
  "period": {
-  "from": "2026-10-27 13:18",
-  "to": "2026-11-26 13:18",
+  "from": "2026-10-28 06:40",
+  "to": "2026-11-27 06:40",
   "days": 30
  },
  "streams_analyzed": 30,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 2422,
  "members_confirmed": 269,
  "member_classes": {
@@ -432,7 +432,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "rNwVUruvTtA",
+   "start": "2026-11-26 00:00",
+   "title": "初見スプラ5日目→関チーム集合でチーム練習予定【息抜き】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 357,
+   "view_count": 75868
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -590,10 +603,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-26"
+    "to": "2026-11-27"
    },
    "streams_analyzed": 27,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 2318,
    "members_confirmed": 241,
    "member_classes": {

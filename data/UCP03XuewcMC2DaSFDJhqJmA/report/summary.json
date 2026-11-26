@@ -3,51 +3,51 @@
  "channel_id": "UCP03XuewcMC2DaSFDJhqJmA",
  "handle": "@HanamaeHaru",
  "subscribers": 46100,
- "fetched_at": "2026-11-26 06:42",
- "generated_at": "2026-11-26 06:43",
+ "fetched_at": "2026-11-27 06:45",
+ "generated_at": "2026-11-27 06:45",
  "period": {
-  "from": "2026-10-27 06:42",
-  "to": "2026-11-26 06:42",
+  "from": "2026-10-28 06:45",
+  "to": "2026-11-27 06:45",
   "days": 30
  },
  "streams_analyzed": 28,
  "streams_missed": 3,
- "unique_chatters": 1017,
- "members_confirmed": 253,
+ "unique_chatters": 1023,
+ "members_confirmed": 266,
  "member_classes": {
-  "unknown": 110,
-  "known": 48,
-  "gift": 95
+  "unknown": 111,
+  "known": 49,
+  "gift": 106
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 132
+   "members": 145
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 15
+   "members": 16
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 50
+   "members": 48
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 56
+   "members": 57
   }
  ],
  "events": {
-  "new_members": 29,
+  "new_members": 31,
   "rejoins": 16,
   "milestones": 8,
-  "gift_purchases": 36,
-  "gifted_total": 96,
-  "gift_redemptions": 95
+  "gift_purchases": 39,
+  "gifted_total": 107,
+  "gift_redemptions": 106
  },
  "tiers_configured": true,
  "tiers": [
@@ -55,32 +55,32 @@
    "tier": "086Hz",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 43,
-   "share_of_confirmed_pct": 89.6,
-   "allocated_unknown": 98.5,
-   "estimated_members": 141.5,
-   "monthly_net_confirmed": 13408,
-   "monthly_net_estimated": 44135
+   "confirmed_members": 44,
+   "share_of_confirmed_pct": 89.8,
+   "allocated_unknown": 99.7,
+   "estimated_members": 143.7,
+   "monthly_net_confirmed": 13720,
+   "monthly_net_estimated": 44800
   },
   {
    "tier": "870Hz",
    "price": 1290,
    "net_per_member": 820.9,
    "confirmed_members": 5,
-   "share_of_confirmed_pct": 10.4,
-   "allocated_unknown": 11.5,
-   "estimated_members": 16.5,
+   "share_of_confirmed_pct": 10.2,
+   "allocated_unknown": 11.3,
+   "estimated_members": 16.3,
    "monthly_net_confirmed": 4105,
-   "monthly_net_estimated": 13511
+   "monthly_net_estimated": 13403
   }
  ],
  "revenue": {
-  "monthly_low": 51813,
-  "monthly_est": 57646,
-  "gift_once": 29935,
-  "total_low": 81747,
-  "total_est": 87581,
-  "paying_members": 158,
+  "monthly_low": 52436,
+  "monthly_est": 58203,
+  "gift_once": 33365,
+  "total_low": 85801,
+  "total_est": 91567,
+  "paying_members": 160,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -89,16 +89,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "GGK-RaB8uiU",
-   "start": "2026-10-27 18:00",
-   "title": "【トルネコの大冒険 ちょっとステキなリマスター】完全初見！本当の本当に27階から脱出する※ネタバレあり【花前ハル/REJECT】",
-   "kind": "配信",
-   "chatters": 104,
-   "member_chatters": 37,
-   "new_members": 0,
-   "gifted_total": 1
-  },
   {
    "video_id": "HRZwmtdqqfY",
    "start": "2026-10-29 17:59",
@@ -368,6 +358,16 @@
    "member_chatters": 44,
    "new_members": 0,
    "gifted_total": 1
+  },
+  {
+   "video_id": "dnxZt9cGBPo",
+   "start": "2026-11-26 23:00",
+   "title": "【歌枠/KARAOKE】深夜に1曲、いかがですか？/singing stream【花前ハル/REJECT】",
+   "kind": "配信",
+   "chatters": 117,
+   "member_chatters": 61,
+   "new_members": 2,
+   "gifted_total": 12
   }
  ],
  "missed_streams": [
@@ -404,7 +404,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 162,
+   "like_count": 163,
    "view_count": null
   }
  ],
@@ -436,7 +436,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 162,
+   "like_count": 163,
    "view_count": null
   }
  ],
@@ -548,62 +548,62 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-26"
+    "to": "2026-11-27"
    },
-   "streams_analyzed": 23,
+   "streams_analyzed": 24,
    "streams_missed": 2,
-   "unique_chatters": 898,
-   "members_confirmed": 236,
+   "unique_chatters": 931,
+   "members_confirmed": 252,
    "member_classes": {
-    "unknown": 108,
-    "known": 45,
-    "gift": 83
+    "unknown": 110,
+    "known": 47,
+    "gift": 95
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 118
+     "members": 133
     },
     {
      "months": 1,
-     "members": 15
+     "members": 16
     },
     {
      "months": 2,
-     "members": 47
+     "members": 46
     },
     {
      "months": 6,
-     "members": 56
+     "members": 57
     }
    ],
    "events": {
-    "new_members": 27,
+    "new_members": 29,
     "rejoins": 16,
     "milestones": 7,
-    "gifted_total": 84
+    "gifted_total": 96
    },
    "tiers": [
     {
      "tier": "086Hz",
      "price": 490,
-     "confirmed_members": 42,
-     "estimated_members": 142.8
+     "confirmed_members": 44,
+     "estimated_members": 147.0
     },
     {
      "tier": "870Hz",
      "price": 1290,
      "confirmed_members": 3,
-     "estimated_members": 10.2
+     "estimated_members": 10.0
     }
    ],
    "revenue": {
-    "monthly_low": 49235,
-    "monthly_est": 52901,
-    "gift_once": 26193
+    "monthly_low": 50483,
+    "monthly_est": 54057,
+    "gift_once": 29935
    },
-   "avg_member_chatters": 43.0,
+   "avg_member_chatters": 43.8,
    "partial": true,
    "finalized": false
   }

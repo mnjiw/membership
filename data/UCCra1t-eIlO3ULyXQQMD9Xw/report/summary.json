@@ -2,27 +2,28 @@
  "channel": "Remia Aotsuki 【VSPO! EN】",
  "channel_id": "UCCra1t-eIlO3ULyXQQMD9Xw",
  "handle": "@RemiaAotsuki",
- "subscribers": 81600,
- "fetched_at": "2026-11-26 06:35",
- "generated_at": "2026-11-26 06:35",
+ "subscribers": 81700,
+ "fetched_at": "2026-11-27 06:37",
+ "generated_at": "2026-11-27 06:37",
  "period": {
-  "from": "2026-10-27 06:35",
-  "to": "2026-11-26 06:35",
+  "from": "2026-10-28 06:37",
+  "to": "2026-11-27 06:37",
   "days": 30
  },
  "streams_analyzed": 25,
  "streams_missed": 2,
- "unique_chatters": 544,
- "members_confirmed": 102,
+ "unique_chatters": 546,
+ "members_confirmed": 130,
  "member_classes": {
-  "unknown": 73,
-  "known": 29
+  "known": 28,
+  "unknown": 70,
+  "gift": 32
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 4
+   "members": 36
   },
   {
    "months": 1,
@@ -32,31 +33,31 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 11
+   "members": 10
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 18
+   "members": 17
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 30
+   "members": 29
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 38
+   "members": 37
   }
  ],
  "events": {
   "new_members": 0,
   "rejoins": 2,
-  "milestones": 15,
-  "gift_purchases": 0,
-  "gifted_total": 0,
-  "gift_redemptions": 0
+  "milestones": 13,
+  "gift_purchases": 11,
+  "gifted_total": 32,
+  "gift_redemptions": 32
  },
  "tiers_configured": true,
  "tiers": [
@@ -64,21 +65,21 @@
    "tier": "BOTchis",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 29,
+   "confirmed_members": 28,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 73.0,
-   "estimated_members": 102.0,
-   "monthly_net_confirmed": 9043,
-   "monthly_net_estimated": 31805
+   "allocated_unknown": 70.0,
+   "estimated_members": 98.0,
+   "monthly_net_confirmed": 8731,
+   "monthly_net_estimated": 30558
   }
  ],
  "revenue": {
-  "monthly_low": 31805,
-  "monthly_est": 31805,
-  "gift_once": 0,
-  "total_low": 31805,
-  "total_est": 31805,
-  "paying_members": 102,
+  "monthly_low": 30558,
+  "monthly_est": 30558,
+  "gift_once": 9978,
+  "total_low": 40536,
+  "total_est": 40536,
+  "paying_members": 98,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -87,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "Z7T051csu3w",
-   "start": "2026-10-27 20:57",
-   "title": "【VSPO! EN OUTLAST TRIALS】 Trying to last... 【#VSPOEN #RemiaAotsuki】",
-   "kind": "配信",
-   "chatters": 89,
-   "member_chatters": 42,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "3wzIN36dagk",
    "start": "2026-10-28 23:03",
@@ -336,6 +327,16 @@
    "member_chatters": 35,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "Bk1zvJ_2df8",
+   "start": "2026-11-27 00:06",
+   "title": "【SOMA: part 2】  deep sea walking 【#VSPOEN #RemiaAotsuki】",
+   "kind": "配信",
+   "chatters": 79,
+   "member_chatters": 64,
+   "new_members": 0,
+   "gifted_total": 32
   }
  ],
  "missed_streams": [
@@ -512,21 +513,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-26"
+    "to": "2026-11-27"
    },
-   "streams_analyzed": 20,
+   "streams_analyzed": 21,
    "streams_missed": 2,
-   "unique_chatters": 478,
-   "members_confirmed": 90,
+   "unique_chatters": 500,
+   "members_confirmed": 123,
    "member_classes": {
-    "known": 26,
-    "unknown": 64
+    "known": 27,
+    "unknown": 64,
+    "gift": 32
    },
-   "long_term_members": 62,
+   "long_term_members": 63,
    "badges": [
     {
      "months": 0,
-     "members": 1
+     "members": 33
     },
     {
      "months": 1,
@@ -546,29 +548,29 @@
     },
     {
      "months": 24,
-     "members": 34
+     "members": 35
     }
    ],
    "events": {
     "new_members": 0,
-    "rejoins": 1,
-    "milestones": 9,
-    "gifted_total": 0
+    "rejoins": 2,
+    "milestones": 10,
+    "gifted_total": 32
    },
    "tiers": [
     {
      "tier": "BOTchis",
      "price": 490,
-     "confirmed_members": 26,
-     "estimated_members": 90.0
+     "confirmed_members": 27,
+     "estimated_members": 91.0
     }
    ],
    "revenue": {
-    "monthly_low": 28064,
-    "monthly_est": 28064,
-    "gift_once": 0
+    "monthly_low": 28375,
+    "monthly_est": 28375,
+    "gift_once": 9978
    },
-   "avg_member_chatters": 31.8,
+   "avg_member_chatters": 33.3,
    "partial": true,
    "finalized": false
   }

@@ -3,11 +3,11 @@
  "channel_id": "UCK_lMxHpJFGCGz3gXJgaoQw",
  "handle": "@lumi_yukime",
  "subscribers": 27500,
- "fetched_at": "2026-11-26 06:36",
- "generated_at": "2026-11-26 06:37",
+ "fetched_at": "2026-11-27 06:39",
+ "generated_at": "2026-11-27 06:39",
  "period": {
-  "from": "2026-10-27 06:36",
-  "to": "2026-11-26 06:36",
+  "from": "2026-10-28 06:39",
+  "to": "2026-11-27 06:39",
   "days": 30
  },
  "streams_analyzed": 23,
@@ -321,18 +321,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "LA1EkKJHhwg",
-   "start": "2026-10-27 22:09",
-   "title": "*❅ メン限┊MEMBERS ONLY.ᐟ 恋愛トークしよ～〖 雪芽るみ┊すぺしゃりて 〗",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 30,
-   "view_count": null
-  },
-  {
    "video_id": "vvR9wXSh-qc",
    "start": "2026-11-23 22:01",
    "title": "*❅ メン限┊MEMBERS ONLY.ᐟ まったり作業雑談〖 雪芽るみ┊すぺしゃりて 〗",
@@ -343,19 +331,21 @@
    "members_level": "",
    "like_count": 37,
    "view_count": null
+  },
+  {
+   "video_id": "uoXmIAgrAIs",
+   "start": "2026-11-26 00:00",
+   "title": "*❅ #Valheim┊YOUtopiaメンバーでサバイバル🔥DAY1〖 雪芽るみ┊すぺしゃりて 〗",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 258,
+   "view_count": 7122
   }
  ],
  "members_only_content": [
-  {
-   "video_id": "LA1EkKJHhwg",
-   "start": "2026-10-27 22:09",
-   "title": "*❅ メン限┊MEMBERS ONLY.ᐟ 恋愛トークしよ～〖 雪芽るみ┊すぺしゃりて 〗",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 30,
-   "view_count": null
-  },
   {
    "video_id": "IsmqYh_cQ5g",
    "start": "2026-10-30 18:00",
@@ -363,7 +353,7 @@
    "kind": "video",
    "status": "members_only_video",
    "members_level": "",
-   "like_count": 50,
+   "like_count": 51,
    "view_count": null
   },
   {
@@ -503,10 +493,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-26"
+    "to": "2026-11-27"
    },
    "streams_analyzed": 20,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 328,
    "members_confirmed": 97,
    "member_classes": {

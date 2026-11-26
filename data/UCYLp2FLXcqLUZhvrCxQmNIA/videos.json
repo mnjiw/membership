@@ -1453,8 +1453,8 @@
    "checked_at": "2026-11-01 12:27",
    "members_level": "めろんそーだ",
    "status": "members_only",
-   "likes_checked_ts": 1795642985.4106207,
-   "likes_checked_at": "2026-11-26 06:43"
+   "likes_checked_ts": 1795729531.6399724,
+   "likes_checked_at": "2026-11-27 06:45"
   },
   "klaJM2VJgXA": {
    "id": "klaJM2VJgXA",
@@ -1928,27 +1928,38 @@
   "kpEwKkR5q3o": {
    "id": "kpEwKkR5q3o",
    "title": "【スターオーシャン３ Till the End of Time】新編開始！地球めざすぞ！！【胡桃沢りりか】",
-   "kind": "live",
-   "start_ts": 1795618295,
-   "start_jst": "2026-11-25 23:51",
-   "duration_sec": 42901,
-   "view_count": 62656,
-   "like_count": 915,
-   "live_status": "post_live",
+   "kind": "video",
+   "start_ts": 1795532400.0,
+   "start_jst": "2026-11-25 00:00",
+   "duration_sec": null,
+   "view_count": 66207,
+   "like_count": 937,
+   "live_status": null,
    "members_only": false,
    "has_chat": false,
-   "checked_at": "2026-11-26 13:21",
+   "checked_at": "2026-11-27 06:45",
+   "info_limited": true,
    "seen_live_at": "2026-11-26 06:43",
    "was_public_when_live": true,
-   "status": "processing"
+   "error": "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)",
+   "tab": "live",
+   "status": "error",
+   "failed_since_ts": 1795729531.6399724
+  },
+  "QnvKxvSNZgI": {
+   "id": "QnvKxvSNZgI",
+   "title": "【キャプテン翼 RISE OF NEW CHAMPIONS】世界優勝なるか！？オランダ戦からいくぞ！！※ネタバレ注意【胡桃沢りりか】",
+   "status": "live_now",
+   "seen_live_at": "2026-11-27 06:45",
+   "was_public_when_live": true
   }
  },
  "channel": "胡桃沢りりか",
  "channel_id": "UCYLp2FLXcqLUZhvrCxQmNIA",
  "handle": "@Ririka_krmzw0707",
  "subscribers": 120000,
- "fetched_at": "2026-11-26 13:20",
- "fetched_at_ts": 1795666850.4668603,
- "checked_from": "2026-11-19 13:20",
+ "fetched_at": "2026-11-27 06:45",
+ "fetched_at_ts": 1795729531.6399724,
+ "checked_from": "2026-11-20 06:45",
  "initial_fetch_done": true
 }

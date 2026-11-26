@@ -1027,8 +1027,8 @@
    "checked_at": "2026-10-26 08:46",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1795642628.1816869,
-   "likes_checked_at": "2026-11-26 06:37"
+   "likes_checked_ts": 1795729152.39742,
+   "likes_checked_at": "2026-11-27 06:39"
   },
   "6zv9QLaJv-M": {
    "id": "6zv9QLaJv-M",
@@ -1162,15 +1162,15 @@
    "start_jst": "2026-10-31 23:34",
    "duration_sec": 5512,
    "view_count": null,
-   "like_count": 85,
+   "like_count": 86,
    "live_status": "post_live",
    "members_only": true,
    "has_chat": false,
    "checked_at": "2026-11-01 12:17",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1795642628.1816869,
-   "likes_checked_at": "2026-11-26 06:37"
+   "likes_checked_ts": 1795729152.39742,
+   "likes_checked_at": "2026-11-27 06:39"
   },
   "t0s-y2Lv8U4": {
    "id": "t0s-y2Lv8U4",
@@ -1304,8 +1304,8 @@
    "checked_at": "2026-11-07 06:33",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1795642628.1816869,
-   "likes_checked_at": "2026-11-26 06:37"
+   "likes_checked_ts": 1795729152.39742,
+   "likes_checked_at": "2026-11-27 06:39"
   },
   "1EWnP5D0Zdc": {
    "id": "1EWnP5D0Zdc",
@@ -1439,8 +1439,8 @@
    "checked_at": "2026-11-17 06:36",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1795642628.1816869,
-   "likes_checked_at": "2026-11-26 06:37"
+   "likes_checked_ts": 1795729152.39742,
+   "likes_checked_at": "2026-11-27 06:39"
   },
   "CwgB7wS8Hec": {
    "id": "CwgB7wS8Hec",
@@ -1606,19 +1606,65 @@
   "JOUm5nCGkzY": {
    "id": "JOUm5nCGkzY",
    "title": "【 ARK: Survival Ascended 】ARKゆらら鯖いくぞ～！＃８【 あいうらら / すぺしゃりて 】",
-   "status": "error",
+   "kind": "video",
+   "start_ts": 1795532400.0,
+   "start_jst": "2026-11-25 00:00",
+   "duration_sec": null,
+   "view_count": 13469,
+   "like_count": 450,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": false,
+   "checked_at": "2026-11-27 06:39",
+   "info_limited": true,
    "seen_live_at": "2026-11-26 06:37",
    "was_public_when_live": true,
-   "error": "ERROR: [youtube] JOUm5nCGkzY: Unable to download API page: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)",
+   "error": "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)",
+   "tab": "live",
+   "status": "error",
    "failed_since_ts": 1795666698.6040814
+  },
+  "sdiQVHJoH2U": {
+   "id": "sdiQVHJoH2U",
+   "title": "【 ARK: Survival Ascended 】ARKゆらら鯖！アクロカントをテイムする！PART2＃９【 あいうらら / すぺしゃりて 】",
+   "kind": "live",
+   "start_ts": 1795707247.124921,
+   "start_jst": "2026-11-27 00:34",
+   "duration_sec": 16433,
+   "view_count": 9392,
+   "like_count": 317,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-27 06:39",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
+  },
+  "HYRlGwbETeE": {
+   "id": "HYRlGwbETeE",
+   "title": "【 ホロライブ麻雀 -ホロじゃん- 】あるいりコラボ！飲酒しながら楽しく打つぞ～！！！【 あいうらら 海汐もるふ 朝陽にいな まるげりちゃ 】",
+   "kind": "live",
+   "start_ts": 1795698054.2368999,
+   "start_jst": "2026-11-26 22:00",
+   "duration_sec": 7101,
+   "view_count": 8139,
+   "like_count": 322,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-27 06:39",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "あいうらら / Urara Ai",
  "channel_id": "UCIPYZHEvSEEpEIQQBt--yNA",
  "handle": "@urara_ai",
  "subscribers": 20300,
- "fetched_at": "2026-11-26 13:18",
- "fetched_at_ts": 1795666698.6040814,
- "checked_from": "2026-11-19 13:18",
+ "fetched_at": "2026-11-27 06:39",
+ "fetched_at_ts": 1795729152.39742,
+ "checked_from": "2026-11-20 06:39",
  "initial_fetch_done": true
 }

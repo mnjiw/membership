@@ -3,76 +3,76 @@
  "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
  "handle": "@OuroKronii",
  "subscribers": 1170000,
- "fetched_at": "2026-11-26 06:29",
- "generated_at": "2026-11-26 06:29",
+ "fetched_at": "2026-11-27 06:32",
+ "generated_at": "2026-11-27 06:32",
  "period": {
-  "from": "2026-10-27 06:29",
-  "to": "2026-11-26 06:29",
+  "from": "2026-10-28 06:32",
+  "to": "2026-11-27 06:32",
   "days": 30
  },
- "streams_analyzed": 3,
+ "streams_analyzed": 2,
  "streams_missed": 0,
- "unique_chatters": 6321,
- "members_confirmed": 1222,
+ "unique_chatters": 5092,
+ "members_confirmed": 975,
  "member_classes": {
-  "unknown": 793,
-  "known": 368,
-  "gift": 61
+  "unknown": 666,
+  "known": 302,
+  "gift": 7
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 96
+   "members": 33
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 14
+   "members": 12
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 76
+   "members": 58
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 139
+   "members": 114
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 215
+   "members": 184
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 150
+   "members": 131
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 111
+   "members": 98
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 164
+   "members": 135
   },
   {
    "months": 60,
    "label": "5年",
-   "members": 257
+   "members": 210
   }
  ],
  "events": {
-  "new_members": 2,
-  "rejoins": 8,
-  "milestones": 109,
-  "gift_purchases": 13,
-  "gifted_total": 66,
-  "gift_redemptions": 61
+  "new_members": 1,
+  "rejoins": 5,
+  "milestones": 58,
+  "gift_purchases": 8,
+  "gifted_total": 12,
+  "gift_redemptions": 7
  },
  "tiers_configured": true,
  "tiers": [
@@ -80,43 +80,43 @@
    "tier": "Second",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 347,
-   "share_of_confirmed_pct": 94.3,
-   "allocated_unknown": 747.7,
-   "estimated_members": 1094.7,
-   "monthly_net_confirmed": 152365,
-   "monthly_net_estimated": 480694
+   "confirmed_members": 283,
+   "share_of_confirmed_pct": 93.7,
+   "allocated_unknown": 624.1,
+   "estimated_members": 907.1,
+   "monthly_net_confirmed": 124263,
+   "monthly_net_estimated": 398299
   },
   {
    "tier": "Minute",
    "price": 1290,
    "net_per_member": 820.9,
-   "confirmed_members": 11,
+   "confirmed_members": 9,
    "share_of_confirmed_pct": 3.0,
-   "allocated_unknown": 23.7,
-   "estimated_members": 34.7,
-   "monthly_net_confirmed": 9030,
-   "monthly_net_estimated": 28489
+   "allocated_unknown": 19.8,
+   "estimated_members": 28.8,
+   "monthly_net_confirmed": 7388,
+   "monthly_net_estimated": 23681
   },
   {
    "tier": "Hour",
    "price": 3490,
    "net_per_member": 2220.9,
    "confirmed_members": 10,
-   "share_of_confirmed_pct": 2.7,
-   "allocated_unknown": 21.5,
-   "estimated_members": 31.5,
+   "share_of_confirmed_pct": 3.3,
+   "allocated_unknown": 22.1,
+   "estimated_members": 32.1,
    "monthly_net_confirmed": 22209,
-   "monthly_net_estimated": 70067
+   "monthly_net_estimated": 71187
   }
  ],
  "revenue": {
-  "monthly_low": 531803,
-  "monthly_est": 579250,
-  "gift_once": 28980,
-  "total_low": 560783,
-  "total_est": 608230,
-  "paying_members": 1161,
+  "monthly_low": 446295,
+  "monthly_est": 493167,
+  "gift_once": 5269,
+  "total_low": 451564,
+  "total_est": 498436,
+  "paying_members": 968,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -125,16 +125,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "eF3Mqmtb3AQ",
-   "start": "2026-10-27 10:01",
-   "title": "【Carrion】Hold Up Let Her Eat | #1 – Powered by Polish Video Game Days #PVGD #ad",
-   "kind": "配信",
-   "chatters": 2159,
-   "member_chatters": 697,
-   "new_members": 1,
-   "gifted_total": 54
-  },
   {
    "video_id": "7ymE_3k2Lk4",
    "start": "2026-10-29 12:02",
@@ -320,7 +310,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-26"
+    "to": "2026-11-27"
    },
    "streams_analyzed": 1,
    "streams_missed": 0,
