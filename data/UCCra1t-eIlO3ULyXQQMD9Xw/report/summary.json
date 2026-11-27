@@ -3,27 +3,27 @@
  "channel_id": "UCCra1t-eIlO3ULyXQQMD9Xw",
  "handle": "@RemiaAotsuki",
  "subscribers": 81700,
- "fetched_at": "2026-11-27 06:37",
- "generated_at": "2026-11-27 06:37",
+ "fetched_at": "2026-11-28 06:30",
+ "generated_at": "2026-11-28 06:31",
  "period": {
-  "from": "2026-10-28 06:37",
-  "to": "2026-11-27 06:37",
+  "from": "2026-10-29 06:30",
+  "to": "2026-11-28 06:30",
   "days": 30
  },
  "streams_analyzed": 25,
  "streams_missed": 2,
- "unique_chatters": 546,
+ "unique_chatters": 566,
  "members_confirmed": 130,
  "member_classes": {
-  "known": 28,
-  "unknown": 70,
+  "known": 29,
+  "unknown": 69,
   "gift": 32
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 36
+   "members": 35
   },
   {
    "months": 1,
@@ -48,13 +48,13 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 37
+   "members": 38
   }
  ],
  "events": {
   "new_members": 0,
   "rejoins": 2,
-  "milestones": 13,
+  "milestones": 15,
   "gift_purchases": 11,
   "gifted_total": 32,
   "gift_redemptions": 32
@@ -65,11 +65,11 @@
    "tier": "BOTchis",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 28,
+   "confirmed_members": 29,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 70.0,
+   "allocated_unknown": 69.0,
    "estimated_members": 98.0,
-   "monthly_net_confirmed": 8731,
+   "monthly_net_confirmed": 9043,
    "monthly_net_estimated": 30558
   }
  ],
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "3wzIN36dagk",
-   "start": "2026-10-28 23:03",
-   "title": "【VSPO! EN PHASMOPHOBIA】 the crimson eye 👁️【#VSPOEN #RemiaAotsuki】",
-   "kind": "配信",
-   "chatters": 66,
-   "member_chatters": 34,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "MZUFOtEdD9E",
    "start": "2026-10-29 23:10",
@@ -337,6 +327,16 @@
    "member_chatters": 64,
    "new_members": 0,
    "gifted_total": 32
+  },
+  {
+   "video_id": "pRC-11N5MBA",
+   "start": "2026-11-28 00:02",
+   "title": "【Counter-Strike 2】 trying our best in red rank | Premier【#VSPOEN #RemiaAotsuki】",
+   "kind": "配信",
+   "chatters": 112,
+   "member_chatters": 34,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -513,18 +513,18 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-27"
+    "to": "2026-11-28"
    },
-   "streams_analyzed": 21,
+   "streams_analyzed": 22,
    "streams_missed": 2,
-   "unique_chatters": 500,
-   "members_confirmed": 123,
+   "unique_chatters": 527,
+   "members_confirmed": 125,
    "member_classes": {
-    "known": 27,
-    "unknown": 64,
+    "known": 28,
+    "unknown": 65,
     "gift": 32
    },
-   "long_term_members": 63,
+   "long_term_members": 65,
    "badges": [
     {
      "months": 0,
@@ -548,26 +548,26 @@
     },
     {
      "months": 24,
-     "members": 35
+     "members": 37
     }
    ],
    "events": {
     "new_members": 0,
     "rejoins": 2,
-    "milestones": 10,
+    "milestones": 13,
     "gifted_total": 32
    },
    "tiers": [
     {
      "tier": "BOTchis",
      "price": 490,
-     "confirmed_members": 27,
-     "estimated_members": 91.0
+     "confirmed_members": 28,
+     "estimated_members": 93.0
     }
    ],
    "revenue": {
-    "monthly_low": 28375,
-    "monthly_est": 28375,
+    "monthly_low": 28999,
+    "monthly_est": 28999,
     "gift_once": 9978
    },
    "avg_member_chatters": 33.3,

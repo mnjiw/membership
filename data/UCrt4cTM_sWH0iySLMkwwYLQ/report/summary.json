@@ -3,20 +3,20 @@
  "channel_id": "UCrt4cTM_sWH0iySLMkwwYLQ",
  "handle": "@Tier_Hebiyoi",
  "subscribers": 95500,
- "fetched_at": "2026-11-27 13:17",
- "generated_at": "2026-11-27 13:17",
+ "fetched_at": "2026-11-28 06:27",
+ "generated_at": "2026-11-28 06:28",
  "period": {
-  "from": "2026-10-28 13:17",
-  "to": "2026-11-27 13:17",
+  "from": "2026-10-29 06:27",
+  "to": "2026-11-28 06:27",
   "days": 30
  },
- "streams_analyzed": 38,
+ "streams_analyzed": 39,
  "streams_missed": 0,
- "unique_chatters": 920,
+ "unique_chatters": 939,
  "members_confirmed": 147,
  "member_classes": {
-  "unknown": 83,
-  "known": 30,
+  "known": 31,
+  "unknown": 82,
   "gift": 34
  },
  "badges": [
@@ -65,11 +65,11 @@
    "tier": "蛇宵幸福教団",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 30,
+   "confirmed_members": 31,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 83.0,
+   "allocated_unknown": 82.0,
    "estimated_members": 113.0,
-   "monthly_net_confirmed": 9355,
+   "monthly_net_confirmed": 9666,
    "monthly_net_estimated": 35235
   }
  ],
@@ -88,16 +88,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "_QhY-1GzYL4",
-   "start": "2026-10-28 19:00",
-   "title": "【MoonSweepers】歯ブラシで月って磨けるんだ【 蛇宵ティア / ななしいんく 】",
-   "kind": "配信",
-   "chatters": 95,
-   "member_chatters": 40,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "QSfmpxsCzW4",
    "start": "2026-10-29 18:00",
@@ -467,6 +457,26 @@
    "member_chatters": 36,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "DaxmV0YRIC4",
+   "start": "2026-11-27 12:00",
+   "title": "【 Lightyear Frontier #6 】新しい鉱石にマイルストーン到達も目指して【 蛇宵ティア / ななしいんく 】",
+   "kind": "配信",
+   "chatters": 63,
+   "member_chatters": 18,
+   "new_members": 0,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "Rqid4J6X5a0",
+   "start": "2026-11-27 19:00",
+   "title": "【 DEATH STRANDING #2 】最強の運び屋なので傷なんてつけませんよはい【 蛇宵ティア / ななしいんく 】",
+   "kind": "配信",
+   "chatters": 115,
+   "member_chatters": 31,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -597,15 +607,15 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-27"
+    "to": "2026-11-28"
    },
-   "streams_analyzed": 32,
+   "streams_analyzed": 34,
    "streams_missed": 0,
-   "unique_chatters": 858,
+   "unique_chatters": 885,
    "members_confirmed": 144,
    "member_classes": {
-    "unknown": 80,
-    "known": 30,
+    "unknown": 79,
+    "known": 31,
     "gift": 34
    },
    "long_term_members": 91,
@@ -638,14 +648,14 @@
    "events": {
     "new_members": 1,
     "rejoins": 1,
-    "milestones": 9,
+    "milestones": 10,
     "gifted_total": 34
    },
    "tiers": [
     {
      "tier": "蛇宵幸福教団",
      "price": 490,
-     "confirmed_members": 30,
+     "confirmed_members": 31,
      "estimated_members": 110.0
     }
    ],
@@ -654,7 +664,7 @@
     "monthly_est": 34300,
     "gift_once": 10602
    },
-   "avg_member_chatters": 32.2,
+   "avg_member_chatters": 31.8,
    "partial": true,
    "finalized": false
   }

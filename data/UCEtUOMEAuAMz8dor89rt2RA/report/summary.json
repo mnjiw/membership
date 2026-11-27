@@ -3,19 +3,19 @@
  "channel_id": "UCEtUOMEAuAMz8dor89rt2RA",
  "handle": "@kohakuteto_Q",
  "subscribers": 131000,
- "fetched_at": "2026-11-27 06:40",
- "generated_at": "2026-11-27 06:41",
+ "fetched_at": "2026-11-28 06:34",
+ "generated_at": "2026-11-28 06:34",
  "period": {
-  "from": "2026-10-28 06:40",
-  "to": "2026-11-27 06:40",
+  "from": "2026-10-29 06:34",
+  "to": "2026-11-28 06:34",
   "days": 30
  },
  "streams_analyzed": 33,
  "streams_missed": 5,
- "unique_chatters": 1202,
- "members_confirmed": 303,
+ "unique_chatters": 1196,
+ "members_confirmed": 302,
  "member_classes": {
-  "unknown": 106,
+  "unknown": 105,
   "known": 74,
   "gift": 123
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 137
+   "members": 136
   },
   {
    "months": 1,
@@ -59,7 +59,7 @@
  "events": {
   "new_members": 9,
   "rejoins": 4,
-  "milestones": 53,
+  "milestones": 50,
   "gift_purchases": 18,
   "gifted_total": 123,
   "gift_redemptions": 123
@@ -72,19 +72,19 @@
    "net_per_member": 311.8,
    "confirmed_members": 74,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 106.0,
-   "estimated_members": 180.0,
+   "allocated_unknown": 105.0,
+   "estimated_members": 179.0,
    "monthly_net_confirmed": 23075,
-   "monthly_net_estimated": 56127
+   "monthly_net_estimated": 55815
   }
  ],
  "revenue": {
-  "monthly_low": 56127,
-  "monthly_est": 56127,
+  "monthly_low": 55815,
+  "monthly_est": 55815,
   "gift_once": 38354,
-  "total_low": 94481,
-  "total_est": 94481,
-  "paying_members": 180,
+  "total_low": 94169,
+  "total_est": 94169,
+  "paying_members": 179,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -93,16 +93,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "IcH3APRtyoc",
-   "start": "2026-10-28 08:06",
-   "title": "〖 朝活 〗 準備しながら話そう🌞💄 〖 心白てと / ネオポルテ 〗",
-   "kind": "配信",
-   "chatters": 93,
-   "member_chatters": 50,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "_iQiNakvRH0",
    "start": "2026-10-30 01:59",
@@ -422,6 +412,16 @@
    "member_chatters": 37,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "-1f7rrEjfuY",
+   "start": "2026-11-27 20:02",
+   "title": "〖 APEX 〗 珍しいメンバーフルパ⁺₊✦ / あおはるちゃん、テンちゃん〖 心白てと / ネオポルテ 〗",
+   "kind": "配信",
+   "chatters": 54,
+   "member_chatters": 33,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -470,7 +470,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 49,
+   "like_count": 50,
    "view_count": null
   },
   {
@@ -524,7 +524,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 49,
+   "like_count": 50,
    "view_count": null
   }
  ],
@@ -662,11 +662,11 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-27"
+    "to": "2026-11-28"
    },
-   "streams_analyzed": 28,
+   "streams_analyzed": 29,
    "streams_missed": 4,
-   "unique_chatters": 1081,
+   "unique_chatters": 1085,
    "members_confirmed": 298,
    "member_classes": {
     "unknown": 102,
@@ -723,7 +723,7 @@
     "monthly_est": 54568,
     "gift_once": 38354
    },
-   "avg_member_chatters": 51.6,
+   "avg_member_chatters": 50.9,
    "partial": true,
    "finalized": false
   }

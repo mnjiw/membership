@@ -3,32 +3,32 @@
  "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
  "handle": "@usadapekora",
  "subscribers": 2800000,
- "fetched_at": "2026-11-27 06:18",
- "generated_at": "2026-11-27 06:23",
+ "fetched_at": "2026-11-28 06:18",
+ "generated_at": "2026-11-28 06:18",
  "period": {
-  "from": "2026-10-28 06:18",
-  "to": "2026-11-27 06:18",
+  "from": "2026-10-29 06:18",
+  "to": "2026-11-28 06:18",
   "days": 30
  },
- "streams_analyzed": 38,
- "streams_missed": 2,
- "unique_chatters": 30794,
- "members_confirmed": 7034,
+ "streams_analyzed": 37,
+ "streams_missed": 3,
+ "unique_chatters": 30477,
+ "members_confirmed": 6985,
  "member_classes": {
-  "unknown": 6081,
-  "known": 218,
-  "gift": 735
+  "unknown": 6045,
+  "known": 215,
+  "gift": 725
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 866
+   "members": 855
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 82
+   "members": 80
   },
   {
    "months": 2,
@@ -38,21 +38,21 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 594
+   "members": 588
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 5125
+   "members": 5095
   }
  ],
  "events": {
-  "new_members": 70,
-  "rejoins": 73,
+  "new_members": 69,
+  "rejoins": 72,
   "milestones": 0,
-  "gift_purchases": 117,
-  "gifted_total": 895,
-  "gift_redemptions": 735
+  "gift_purchases": 115,
+  "gifted_total": 885,
+  "gift_redemptions": 725
  },
  "tiers_configured": true,
  "tiers": [
@@ -60,21 +60,21 @@
    "tier": "兎田ふぁみりあ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 218,
+   "confirmed_members": 215,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 6081.0,
-   "estimated_members": 6299.0,
-   "monthly_net_confirmed": 67976,
-   "monthly_net_estimated": 1964143
+   "allocated_unknown": 6045.0,
+   "estimated_members": 6260.0,
+   "monthly_net_confirmed": 67041,
+   "monthly_net_estimated": 1951982
   }
  ],
  "revenue": {
-  "monthly_low": 1964143,
-  "monthly_est": 1964143,
-  "gift_once": 279077,
-  "total_low": 2243220,
-  "total_est": 2243220,
-  "paying_members": 6299,
+  "monthly_low": 1951982,
+  "monthly_est": 1951982,
+  "gift_once": 275959,
+  "total_low": 2227941,
+  "total_est": 2227941,
+  "paying_members": 6260,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "AZPIzPt4cJo",
-   "start": "2026-10-28 20:01",
-   "title": "【#ホロ鯖ARK】DAY18🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
-   "kind": "配信",
-   "chatters": 4041,
-   "member_chatters": 1800,
-   "new_members": 1,
-   "gifted_total": 10
-  },
   {
    "video_id": "KweMgPbHN9I",
    "start": "2026-10-29 15:58",
@@ -488,6 +478,18 @@
    "members_level": "",
    "like_count": 5917,
    "view_count": 212268
+  },
+  {
+   "video_id": "zUXxqOW5m8U",
+   "start": "2026-11-27 00:00",
+   "title": "6万個のジャガイモを剥くまで帰れません！『Potato Please』ぺこ！【ホロライブ/兎田ぺこら】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 10070,
+   "view_count": 479128
   }
  ],
  "members_only_content": [
@@ -620,10 +622,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-27"
+    "to": "2026-11-28"
    },
    "streams_analyzed": 32,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 29553,
    "members_confirmed": 6858,
    "member_classes": {

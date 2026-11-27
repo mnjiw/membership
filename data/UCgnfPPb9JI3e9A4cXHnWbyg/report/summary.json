@@ -3,61 +3,61 @@
  "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
  "handle": "@ShioriNovella",
  "subscribers": 759000,
- "fetched_at": "2026-11-27 13:16",
- "generated_at": "2026-11-27 13:16",
+ "fetched_at": "2026-11-28 06:26",
+ "generated_at": "2026-11-28 06:27",
  "period": {
-  "from": "2026-10-28 13:16",
-  "to": "2026-11-27 13:16",
+  "from": "2026-10-29 06:26",
+  "to": "2026-11-28 06:26",
   "days": 30
  },
- "streams_analyzed": 15,
+ "streams_analyzed": 14,
  "streams_missed": 5,
- "unique_chatters": 5819,
- "members_confirmed": 1976,
+ "unique_chatters": 5436,
+ "members_confirmed": 1848,
  "member_classes": {
-  "known": 589,
-  "unknown": 781,
-  "gift": 606
+  "known": 576,
+  "unknown": 756,
+  "gift": 516
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 656
+   "members": 567
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 52
+   "members": 50
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 162
+   "members": 156
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 140
+   "members": 136
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 298
+   "members": 284
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 668
+   "members": 655
   }
  ],
  "events": {
-  "new_members": 20,
-  "rejoins": 21,
-  "milestones": 292,
-  "gift_purchases": 173,
-  "gifted_total": 901,
-  "gift_redemptions": 608
+  "new_members": 19,
+  "rejoins": 19,
+  "milestones": 275,
+  "gift_purchases": 159,
+  "gifted_total": 800,
+  "gift_redemptions": 518
  },
  "tiers_configured": true,
  "tiers": [
@@ -65,43 +65,43 @@
    "tier": "Page",
    "price": 390,
    "net_per_member": 248.2,
-   "confirmed_members": 61,
+   "confirmed_members": 60,
    "share_of_confirmed_pct": 10.4,
-   "allocated_unknown": 80.9,
-   "estimated_members": 141.9,
-   "monthly_net_confirmed": 15139,
-   "monthly_net_estimated": 35213
+   "allocated_unknown": 78.8,
+   "estimated_members": 138.8,
+   "monthly_net_confirmed": 14891,
+   "monthly_net_estimated": 34435
   },
   {
    "tier": "Bookwyrm",
    "price": 690,
    "net_per_member": 439.1,
-   "confirmed_members": 268,
-   "share_of_confirmed_pct": 45.5,
-   "allocated_unknown": 355.4,
-   "estimated_members": 623.4,
-   "monthly_net_confirmed": 117676,
-   "monthly_net_estimated": 273712
+   "confirmed_members": 261,
+   "share_of_confirmed_pct": 45.3,
+   "allocated_unknown": 342.6,
+   "estimated_members": 603.6,
+   "monthly_net_confirmed": 114603,
+   "monthly_net_estimated": 265019
   },
   {
    "tier": "Novelknights",
    "price": 1290,
    "net_per_member": 820.9,
-   "confirmed_members": 260,
-   "share_of_confirmed_pct": 44.1,
-   "allocated_unknown": 344.8,
-   "estimated_members": 604.8,
-   "monthly_net_confirmed": 213436,
-   "monthly_net_estimated": 496448
+   "confirmed_members": 255,
+   "share_of_confirmed_pct": 44.3,
+   "allocated_unknown": 334.7,
+   "estimated_members": 589.7,
+   "monthly_net_confirmed": 209332,
+   "monthly_net_estimated": 484080
   }
  ],
  "revenue": {
-  "monthly_low": 540082,
-  "monthly_est": 805373,
-  "gift_once": 223612,
-  "total_low": 763694,
-  "total_est": 1028985,
-  "paying_members": 1370,
+  "monthly_low": 526451,
+  "monthly_est": 783534,
+  "gift_once": 198545,
+  "total_low": 724996,
+  "total_est": 982079,
+  "paying_members": 1332,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -110,16 +110,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "fCJD0waTDwQ",
-   "start": "2026-10-29 05:56",
-   "title": "I KNEAD You Screaming ASMR 【Poppy Playtime Ch 4】",
-   "kind": "配信",
-   "chatters": 1129,
-   "member_chatters": 514,
-   "new_members": 1,
-   "gifted_total": 101
-  },
   {
    "video_id": "O9j07qEMbZU",
    "start": "2026-10-31 07:58",
@@ -283,7 +273,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "Bookwyrm",
-   "like_count": 716,
+   "like_count": 718,
    "view_count": null
   },
   {
@@ -295,7 +285,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "Bookwyrm",
-   "like_count": 721,
+   "like_count": 723,
    "view_count": null
   },
   {
@@ -307,7 +297,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "Bookwyrm",
-   "like_count": 558,
+   "like_count": 560,
    "view_count": null
   },
   {
@@ -351,7 +341,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "Bookwyrm",
-   "like_count": 716,
+   "like_count": 718,
    "view_count": null
   },
   {
@@ -361,7 +351,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "Bookwyrm",
-   "like_count": 721,
+   "like_count": 723,
    "view_count": null
   },
   {
@@ -371,7 +361,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "Bookwyrm",
-   "like_count": 558,
+   "like_count": 560,
    "view_count": null
   }
  ],
@@ -513,7 +503,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-27"
+    "to": "2026-11-28"
    },
    "streams_analyzed": 13,
    "streams_missed": 4,

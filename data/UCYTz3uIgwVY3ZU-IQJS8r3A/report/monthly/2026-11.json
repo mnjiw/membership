@@ -2,18 +2,22 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-27"
+  "to": "2026-11-28"
  },
- "streams_analyzed": 18,
+ "streams_analyzed": 19,
  "streams_missed": 1,
- "unique_chatters": 459,
- "members_confirmed": 98,
+ "unique_chatters": 482,
+ "members_confirmed": 104,
  "member_classes": {
-  "unknown": 91,
-  "known": 7
+  "unknown": 96,
+  "known": 8
  },
- "long_term_members": 96,
+ "long_term_members": 101,
  "badges": [
+  {
+   "months": 0,
+   "members": 1
+  },
   {
    "months": 6,
    "members": 2
@@ -24,7 +28,7 @@
   },
   {
    "months": 24,
-   "members": 11
+   "members": 12
   },
   {
    "months": 36,
@@ -32,29 +36,29 @@
   },
   {
    "months": 48,
-   "members": 66
+   "members": 70
   }
  ],
  "events": {
-  "new_members": 0,
+  "new_members": 1,
   "rejoins": 0,
-  "milestones": 4,
+  "milestones": 5,
   "gifted_total": 0
  },
  "tiers": [
   {
    "tier": "♣️島村建設のひろば",
    "price": 490,
-   "confirmed_members": 7,
-   "estimated_members": 98.0
+   "confirmed_members": 8,
+   "estimated_members": 104.0
   }
  ],
  "revenue": {
-  "monthly_low": 30558,
-  "monthly_est": 30558,
+  "monthly_low": 32429,
+  "monthly_est": 32429,
   "gift_once": 0
  },
- "avg_member_chatters": 29.1,
+ "avg_member_chatters": 30.2,
  "partial": true,
  "finalized": false
 }

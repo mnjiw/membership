@@ -759,8 +759,8 @@
    "checked_at": "2026-11-21 06:35",
    "members_level": "",
    "status": "members_only",
-   "likes_checked_ts": 1795729192.0083668,
-   "likes_checked_at": "2026-11-27 06:39"
+   "likes_checked_ts": 1795815191.3561916,
+   "likes_checked_at": "2026-11-28 06:33"
   },
   "irq5r_2NQ_I": {
    "id": "irq5r_2NQ_I",
@@ -833,17 +833,48 @@
   "oGliKFhqKNA": {
    "id": "oGliKFhqKNA",
    "title": "【 #アズールプロミリア】アズールレーン開発元さんの新作!?まずは初日楽しみます！【並走バトル Day1】#PR",
-   "status": "live_now",
+   "kind": "video",
+   "start_ts": 1795705200.0,
+   "start_jst": "2026-11-27 00:00",
+   "duration_sec": null,
+   "view_count": 27470,
+   "like_count": 1060,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": false,
+   "checked_at": "2026-11-28 06:33",
+   "info_limited": true,
    "seen_live_at": "2026-11-27 13:18",
-   "was_public_when_live": true
+   "was_public_when_live": true,
+   "error": "YouTube から配信の情報を取得できませんでした (アクセスを制限されている可能性)",
+   "tab": "live",
+   "status": "error",
+   "failed_since_ts": 1795815191.3561916
+  },
+  "mSgOfkTTWwI": {
+   "id": "mSgOfkTTWwI",
+   "title": "【ゼルダの伝説 時のオカリナ】#３ 時をこえるリンク【安心院みさ / すぺしゃりて】",
+   "kind": "live",
+   "start_ts": 1795772313.9024692,
+   "start_jst": "2026-11-27 18:38",
+   "duration_sec": 15550,
+   "view_count": 19555,
+   "like_count": 798,
+   "live_status": null,
+   "members_only": false,
+   "has_chat": true,
+   "checked_at": "2026-11-28 06:33",
+   "info_limited": true,
+   "start_from_chat": true,
+   "status": "ok"
   }
  },
  "channel": "安心院みさ / ANSHININ MISA",
  "channel_id": "UC4OAmxLab5tVF094Sgry6hw",
  "handle": "@AnshininMisa",
  "subscribers": 88900,
- "fetched_at": "2026-11-27 13:18",
- "fetched_at_ts": 1795753086.2130976,
- "checked_from": "2026-11-20 13:18",
+ "fetched_at": "2026-11-28 06:33",
+ "fetched_at_ts": 1795815191.3561916,
+ "checked_from": "2026-11-21 06:33",
  "initial_fetch_done": true
 }

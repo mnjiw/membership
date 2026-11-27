@@ -2,37 +2,37 @@
  "channel": "Kyoko Ch. 百灯キョーコ ‐ アソビ★まわり隊!",
  "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
  "handle": "@HyakutoKyoko",
- "subscribers": null,
- "fetched_at": "2026-11-27 13:16",
- "generated_at": "2026-11-27 13:16",
+ "subscribers": 354000,
+ "fetched_at": "2026-11-28 06:24",
+ "generated_at": "2026-11-28 06:25",
  "period": {
-  "from": "2026-10-28 13:16",
-  "to": "2026-11-27 13:16",
+  "from": "2026-10-29 06:24",
+  "to": "2026-11-28 06:24",
   "days": 30
  },
  "streams_analyzed": 52,
- "streams_missed": 2,
- "unique_chatters": 26910,
- "members_confirmed": 2954,
+ "streams_missed": 4,
+ "unique_chatters": 26755,
+ "members_confirmed": 2972,
  "member_classes": {
-  "unknown": 793,
-  "known": 1498,
-  "gift": 663
+  "unknown": 796,
+  "known": 1502,
+  "gift": 674
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 2954
+   "members": 2972
   }
  ],
  "events": {
-  "new_members": 1498,
+  "new_members": 1502,
   "rejoins": 0,
   "milestones": 0,
-  "gift_purchases": 124,
-  "gifted_total": 713,
-  "gift_redemptions": 663
+  "gift_purchases": 126,
+  "gifted_total": 724,
+  "gift_redemptions": 674
  },
  "tiers_configured": true,
  "tiers": [
@@ -40,21 +40,21 @@
    "tier": "百灯派出所 // Chembership",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 1498,
+   "confirmed_members": 1502,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 793.0,
-   "estimated_members": 2291.0,
-   "monthly_net_confirmed": 467104,
-   "monthly_net_estimated": 714375
+   "allocated_unknown": 796.0,
+   "estimated_members": 2298.0,
+   "monthly_net_confirmed": 468351,
+   "monthly_net_estimated": 716558
   }
  ],
  "revenue": {
-  "monthly_low": 714375,
-  "monthly_est": 714375,
-  "gift_once": 222326,
-  "total_low": 936702,
-  "total_est": 936702,
-  "paying_members": 2291,
+  "monthly_low": 716558,
+  "monthly_est": 716558,
+  "gift_once": 225756,
+  "total_low": 942315,
+  "total_est": 942315,
+  "paying_members": 2298,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -63,16 +63,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "yLNe1445sNs",
-   "start": "2026-10-28 22:00",
-   "title": "【壺おじ】シーズン２、遂に解禁【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-   "kind": "配信",
-   "chatters": 1585,
-   "member_chatters": 0,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "S0kwyIv6ntM",
    "start": "2026-10-29 10:59",
@@ -582,6 +572,16 @@
    "member_chatters": 316,
    "new_members": 3,
    "gifted_total": 15
+  },
+  {
+   "video_id": "FJa4cChECms",
+   "start": "2026-11-27 12:00",
+   "title": "【EN】We are gonna try to make it farther this time!!  | Spelunky 2【Hyakuto Kyoko/Hololive】",
+   "kind": "配信",
+   "chatters": 1118,
+   "member_chatters": 318,
+   "new_members": 4,
+   "gifted_total": 11
   }
  ],
  "missed_streams": [
@@ -594,7 +594,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "百灯派出所 // Chembership",
-   "like_count": 723,
+   "like_count": 724,
    "view_count": null
   },
   {
@@ -606,8 +606,32 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 809,
+   "like_count": 810,
    "view_count": null
+  },
+  {
+   "video_id": "Cqx8KBSwyDA",
+   "start": "2026-11-27 00:00",
+   "title": "【ホロドリ】ストーリーにミニゲームに…いろいろたのしみた～～い！！ | Hololive Dreams【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 5466,
+   "view_count": 134261
+  },
+  {
+   "video_id": "ulUrblhTvSA",
+   "start": "2026-11-27 00:00",
+   "title": "【一気見】レベル上げ禁止！死んだら最初から！縛りでダークソウルをプレイするよ～！７日目＆８日目【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 786,
+   "view_count": 19809
   }
  ],
  "members_only_content": [
@@ -618,7 +642,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "百灯派出所 // Chembership",
-   "like_count": 723,
+   "like_count": 724,
    "view_count": null
   },
   {
@@ -628,7 +652,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 809,
+   "like_count": 810,
    "view_count": null
   }
  ],
@@ -709,44 +733,44 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-27"
+    "to": "2026-11-28"
    },
-   "streams_analyzed": 44,
-   "streams_missed": 2,
-   "unique_chatters": 22840,
-   "members_confirmed": 2532,
+   "streams_analyzed": 45,
+   "streams_missed": 4,
+   "unique_chatters": 23004,
+   "members_confirmed": 2551,
    "member_classes": {
-    "unknown": 793,
-    "known": 1209,
-    "gift": 530
+    "unknown": 796,
+    "known": 1214,
+    "gift": 541
    },
    "long_term_members": 0,
    "badges": [
     {
      "months": 0,
-     "members": 2532
+     "members": 2551
     }
    ],
    "events": {
-    "new_members": 541,
+    "new_members": 545,
     "rejoins": 0,
     "milestones": 0,
-    "gifted_total": 570
+    "gifted_total": 581
    },
    "tiers": [
     {
      "tier": "百灯派出所 // Chembership",
      "price": 490,
-     "confirmed_members": 1209,
-     "estimated_members": 2002.0
+     "confirmed_members": 1214,
+     "estimated_members": 2010.0
     }
    ],
    "revenue": {
-    "monthly_low": 624260,
-    "monthly_est": 624260,
-    "gift_once": 177736
+    "monthly_low": 626755,
+    "monthly_est": 626755,
+    "gift_once": 181166
    },
-   "avg_member_chatters": 364.0,
+   "avg_member_chatters": 363,
    "partial": true,
    "finalized": false
   }

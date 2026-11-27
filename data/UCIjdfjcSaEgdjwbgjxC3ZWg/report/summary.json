@@ -3,67 +3,67 @@
  "channel_id": "UCIjdfjcSaEgdjwbgjxC3ZWg",
  "handle": "@tsuna_nekota",
  "subscribers": 672000,
- "fetched_at": "2026-11-27 06:36",
- "generated_at": "2026-11-27 06:37",
+ "fetched_at": "2026-11-28 06:29",
+ "generated_at": "2026-11-28 06:30",
  "period": {
-  "from": "2026-10-28 06:36",
-  "to": "2026-11-27 06:36",
+  "from": "2026-10-29 06:29",
+  "to": "2026-11-28 06:29",
   "days": 30
  },
- "streams_analyzed": 16,
+ "streams_analyzed": 17,
  "streams_missed": 2,
- "unique_chatters": 4737,
- "members_confirmed": 1494,
+ "unique_chatters": 5463,
+ "members_confirmed": 1946,
  "member_classes": {
-  "unknown": 1156,
-  "known": 332,
+  "unknown": 1462,
+  "known": 478,
   "gift": 6
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 182
+   "members": 241
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 80
+   "members": 113
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 227
+   "members": 313
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 193
+   "members": 236
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 300
+   "members": 382
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 192
+   "members": 250
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 127
+   "members": 160
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 193
+   "members": 251
   }
  ],
  "events": {
-  "new_members": 151,
-  "rejoins": 135,
+  "new_members": 213,
+  "rejoins": 211,
   "milestones": 0,
   "gift_purchases": 2,
   "gifted_total": 6,
@@ -75,21 +75,21 @@
    "tier": "つな友",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 332,
+   "confirmed_members": 478,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1156.0,
-   "estimated_members": 1488.0,
-   "monthly_net_confirmed": 103524,
-   "monthly_net_estimated": 463985
+   "allocated_unknown": 1462.0,
+   "estimated_members": 1940.0,
+   "monthly_net_confirmed": 149049,
+   "monthly_net_estimated": 604927
   }
  ],
  "revenue": {
-  "monthly_low": 463985,
-  "monthly_est": 463985,
+  "monthly_low": 604927,
+  "monthly_est": 604927,
   "gift_once": 1871,
-  "total_low": 465856,
-  "total_est": 465856,
-  "paying_members": 1488,
+  "total_low": 606798,
+  "total_est": 606798,
+  "paying_members": 1940,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "YL6NXYNeqcU",
-   "start": "2026-10-28 15:46",
-   "title": "【ペルソナ５ ザ・ロイヤル】#８ 完全初見！双葉ちゃんかわいい　※ネタバレ注意【ぶいすぽ / 猫汰つな】",
-   "kind": "配信",
-   "chatters": 442,
-   "member_chatters": 164,
-   "new_members": 1,
-   "gifted_total": 0
-  },
   {
    "video_id": "oYA6IhRZZss",
    "start": "2026-10-31 13:59",
@@ -257,6 +247,26 @@
    "member_chatters": 722,
    "new_members": 110,
    "gifted_total": 0
+  },
+  {
+   "video_id": "Pq7eP2XsZgY",
+   "start": "2026-11-27 18:31",
+   "title": "I Love Myself. Covered by Tsuna Nekota",
+   "kind": "プレミア",
+   "chatters": 267,
+   "member_chatters": 217,
+   "new_members": 4,
+   "gifted_total": 0
+  },
+  {
+   "video_id": "ldvOQGU2yzc",
+   "start": "2026-11-27 19:03",
+   "title": "【#NekotaTsunaBirthday2026】 A reveal, maybe! I was born, so please wish me a happy birthday!!!【VSP...",
+   "kind": "配信",
+   "chatters": 1725,
+   "member_chatters": 1041,
+   "new_members": 59,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -281,7 +291,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "つな友",
-   "like_count": 1691,
+   "like_count": 1703,
    "view_count": null
   }
  ],
@@ -303,7 +313,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "つな友",
-   "like_count": 1691,
+   "like_count": 1703,
    "view_count": null
   }
  ],
@@ -448,55 +458,55 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-27"
+    "to": "2026-11-28"
    },
-   "streams_analyzed": 12,
+   "streams_analyzed": 14,
    "streams_missed": 1,
-   "unique_chatters": 4195,
-   "members_confirmed": 1389,
+   "unique_chatters": 5068,
+   "members_confirmed": 1888,
    "member_classes": {
-    "unknown": 1059,
-    "known": 324,
+    "unknown": 1407,
+    "known": 475,
     "gift": 6
    },
-   "long_term_members": 742,
+   "long_term_members": 1002,
    "badges": [
     {
      "months": 0,
-     "members": 176
+     "members": 239
     },
     {
      "months": 1,
-     "members": 78
+     "members": 112
     },
     {
      "months": 2,
-     "members": 216
+     "members": 306
     },
     {
      "months": 6,
-     "members": 177
+     "members": 229
     },
     {
      "months": 12,
-     "members": 282
+     "members": 368
     },
     {
      "months": 24,
-     "members": 170
+     "members": 239
     },
     {
      "months": 36,
-     "members": 116
+     "members": 153
     },
     {
      "months": 48,
-     "members": 174
+     "members": 242
     }
    ],
    "events": {
-    "new_members": 149,
-    "rejoins": 130,
+    "new_members": 212,
+    "rejoins": 208,
     "milestones": 0,
     "gifted_total": 6
    },
@@ -504,16 +514,16 @@
     {
      "tier": "つな友",
      "price": 490,
-     "confirmed_members": 324,
-     "estimated_members": 1383.0
+     "confirmed_members": 475,
+     "estimated_members": 1882.0
     }
    ],
    "revenue": {
-    "monthly_low": 431245,
-    "monthly_est": 431245,
+    "monthly_low": 586842,
+    "monthly_est": 586842,
     "gift_once": 1871
    },
-   "avg_member_chatters": 289.6,
+   "avg_member_chatters": 338.1,
    "partial": true,
    "finalized": false
   }

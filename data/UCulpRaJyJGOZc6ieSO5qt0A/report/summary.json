@@ -3,19 +3,19 @@
  "channel_id": "UCulpRaJyJGOZc6ieSO5qt0A",
  "handle": "@ToonoOto",
  "subscribers": 142000,
- "fetched_at": "2026-11-27 13:18",
- "generated_at": "2026-11-27 13:19",
+ "fetched_at": "2026-11-28 06:36",
+ "generated_at": "2026-11-28 06:36",
  "period": {
-  "from": "2026-10-28 13:18",
-  "to": "2026-11-27 13:18",
+  "from": "2026-10-29 06:36",
+  "to": "2026-11-28 06:36",
   "days": 30
  },
- "streams_analyzed": 15,
- "streams_missed": 1,
- "unique_chatters": 1082,
- "members_confirmed": 302,
+ "streams_analyzed": 14,
+ "streams_missed": 2,
+ "unique_chatters": 1054,
+ "members_confirmed": 299,
  "member_classes": {
-  "unknown": 214,
+  "unknown": 211,
   "known": 10,
   "gift": 78
  },
@@ -23,7 +23,7 @@
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 32
+   "members": 31
   },
   {
    "months": 1,
@@ -33,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 47
+   "members": 46
   },
   {
    "months": 6,
@@ -48,12 +48,12 @@
   {
    "months": 24,
    "label": "2年",
-   "members": 96
+   "members": 95
   }
  ],
  "events": {
   "new_members": 1,
-  "rejoins": 3,
+  "rejoins": 2,
   "milestones": 0,
   "gift_purchases": 15,
   "gifted_total": 78,
@@ -67,10 +67,10 @@
    "net_per_member": 311.8,
    "confirmed_members": 9,
    "share_of_confirmed_pct": 90.0,
-   "allocated_unknown": 192.6,
-   "estimated_members": 201.6,
+   "allocated_unknown": 189.9,
+   "estimated_members": 198.9,
    "monthly_net_confirmed": 2806,
-   "monthly_net_estimated": 62863
+   "monthly_net_estimated": 62021
   },
   {
    "tier": "はぐりゅま",
@@ -100,19 +100,19 @@
    "net_per_member": 8909.1,
    "confirmed_members": 1,
    "share_of_confirmed_pct": 10.0,
-   "allocated_unknown": 21.4,
-   "estimated_members": 22.4,
+   "allocated_unknown": 21.1,
+   "estimated_members": 22.1,
    "monthly_net_confirmed": 8909,
-   "monthly_net_estimated": 199564
+   "monthly_net_estimated": 196891
   }
  ],
  "revenue": {
-  "monthly_low": 78445,
-  "monthly_est": 262426,
+  "monthly_low": 77509,
+  "monthly_est": 258912,
   "gift_once": 24322,
-  "total_low": 102766,
-  "total_est": 286748,
-  "paying_members": 224,
+  "total_low": 101831,
+  "total_est": 283233,
+  "paying_members": 221,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -121,16 +121,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "52FUnwEVfcY",
-   "start": "2026-10-29 06:31",
-   "title": "〖 #朝活 〗１０月が終わろうとしている✧*｡〖 透乃おと / Varium 〗",
-   "kind": "配信",
-   "chatters": 265,
-   "member_chatters": 116,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "mSAzyREbrVU",
    "start": "2026-10-29 22:00",
@@ -282,7 +272,19 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 162,
+   "like_count": 163,
+   "view_count": null
+  },
+  {
+   "video_id": "nOh1plN_g70",
+   "start": "2026-11-27 20:32",
+   "title": "〖 メン限 〗ちょっとだけ✧*｡〖 透乃おと / Varium 〗",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 146,
    "view_count": null
   }
  ],
@@ -294,7 +296,17 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 162,
+   "like_count": 163,
+   "view_count": null
+  },
+  {
+   "video_id": "nOh1plN_g70",
+   "start": "2026-11-27 20:32",
+   "title": "〖 メン限 〗ちょっとだけ✧*｡〖 透乃おと / Varium 〗",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 146,
    "view_count": null
   }
  ],
@@ -442,10 +454,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-27"
+    "to": "2026-11-28"
    },
    "streams_analyzed": 12,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 887,
    "members_confirmed": 267,
    "member_classes": {

@@ -3,16 +3,16 @@
  "channel_id": "UC4oIghT3W9Y99nyiNCTXwlg",
  "handle": "@Azri_0822",
  "subscribers": 14700,
- "fetched_at": "2026-11-27 06:34",
- "generated_at": "2026-11-27 06:34",
+ "fetched_at": "2026-11-28 06:28",
+ "generated_at": "2026-11-28 06:28",
  "period": {
-  "from": "2026-10-28 06:34",
-  "to": "2026-11-27 06:34",
+  "from": "2026-10-29 06:28",
+  "to": "2026-11-28 06:28",
   "days": 30
  },
  "streams_analyzed": 19,
  "streams_missed": 1,
- "unique_chatters": 505,
+ "unique_chatters": 506,
  "members_confirmed": 187,
  "member_classes": {
   "unknown": 158,
@@ -28,12 +28,12 @@
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 18
+   "members": 16
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 149
+   "members": 151
   }
  ],
  "events": {
@@ -73,16 +73,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "VIJZNewb20E",
-   "start": "2026-10-28 21:57",
-   "title": "この社会は、不条理を赦す。　- SILENTHILL: Townfall【ななしいんく/アズリ】#silenthilltownfall",
-   "kind": "配信",
-   "chatters": 82,
-   "member_chatters": 57,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "p7g6ST_as9A",
    "start": "2026-10-31 21:59",
@@ -262,6 +252,16 @@
    "member_chatters": 68,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "a-2cq2WsAmg",
+   "start": "2026-11-27 21:58",
+   "title": "〖完全初見/ベジータ編〗ピッコロさんそりゃないよ　-　#ドラゴンボールZ KAKAROT #DBカカロット【ななしいんく/アズリ】",
+   "kind": "配信",
+   "chatters": 73,
+   "member_chatters": 43,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -392,14 +392,14 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-27"
+    "to": "2026-11-28"
    },
-   "streams_analyzed": 17,
+   "streams_analyzed": 18,
    "streams_missed": 0,
-   "unique_chatters": 472,
-   "members_confirmed": 180,
+   "unique_chatters": 481,
+   "members_confirmed": 181,
    "member_classes": {
-    "unknown": 152,
+    "unknown": 153,
     "known": 13,
     "gift": 15
    },
@@ -411,11 +411,11 @@
     },
     {
      "months": 1,
-     "members": 15
+     "members": 14
     },
     {
      "months": 2,
-     "members": 145
+     "members": 147
     }
    ],
    "events": {
@@ -429,15 +429,15 @@
      "tier": "あずりのえでん",
      "price": 490,
      "confirmed_members": 13,
-     "estimated_members": 165.0
+     "estimated_members": 166.0
     }
    ],
    "revenue": {
-    "monthly_low": 51450,
-    "monthly_est": 51450,
+    "monthly_low": 51762,
+    "monthly_est": 51762,
     "gift_once": 4989
    },
-   "avg_member_chatters": 70.4,
+   "avg_member_chatters": 68.9,
    "partial": true,
    "finalized": false
   }
