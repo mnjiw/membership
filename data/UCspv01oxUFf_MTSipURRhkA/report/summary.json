@@ -3,15 +3,15 @@
  "channel_id": "UCspv01oxUFf_MTSipURRhkA",
  "handle": "@Kanae",
  "subscribers": 1650000,
- "fetched_at": "2026-11-27 05:19",
- "generated_at": "2026-11-27 05:23",
+ "fetched_at": "2026-11-27 13:12",
+ "generated_at": "2026-11-27 13:12",
  "period": {
-  "from": "2026-10-28 05:19",
-  "to": "2026-11-27 05:19",
+  "from": "2026-10-28 13:12",
+  "to": "2026-11-27 13:12",
   "days": 30
  },
  "streams_analyzed": 22,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 8216,
  "members_confirmed": 3199,
  "member_classes": {
@@ -309,7 +309,20 @@
    "gifted_total": 5
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "F_xyIw3dB6c",
+   "start": "2026-11-27 00:00",
+   "title": "【#にじONELIFE】仲間がいないと裏切れない！？裏切るはずが仲間を守るために奔走した叶のにじさんじDAYZ【にじさんじ/叶/切り抜き】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 237,
+   "view_count": 3197
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -451,7 +464,7 @@
     "to": "2026-11-27"
    },
    "streams_analyzed": 20,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 8083,
    "members_confirmed": 3172,
    "member_classes": {
