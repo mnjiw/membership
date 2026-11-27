@@ -3,20 +3,20 @@
  "channel_id": "UCtnO2N4kPTXmyvedjGWdx3Q",
  "handle": "@LeviElipha",
  "subscribers": 375000,
- "fetched_at": "2026-11-27 13:13",
- "generated_at": "2026-11-27 13:13",
+ "fetched_at": "2026-11-28 05:21",
+ "generated_at": "2026-11-28 05:21",
  "period": {
-  "from": "2026-10-28 13:13",
-  "to": "2026-11-27 13:13",
+  "from": "2026-10-29 05:21",
+  "to": "2026-11-28 05:21",
   "days": 30
  },
  "streams_analyzed": 24,
  "streams_missed": 0,
- "unique_chatters": 632,
+ "unique_chatters": 645,
  "members_confirmed": 105,
  "member_classes": {
-  "known": 18,
   "unknown": 58,
+  "known": 18,
   "gift": 29
  },
  "badges": [
@@ -38,12 +38,12 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 3
+   "members": 4
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 61
+   "members": 60
   }
  ],
  "events": {
@@ -105,16 +105,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "KTavIWfquew",
-   "start": "2026-10-28 23:05",
-   "title": "#18【ほの暮しの庭】またまたアップデート⁉楽しみだゾウ🐘🐘【にじさんじ/レヴィ・エリファ】※ネタバレあり",
-   "kind": "配信",
-   "chatters": 54,
-   "member_chatters": 26,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "jr7GQkKyycA",
    "start": "2026-10-31 23:07",
@@ -344,6 +334,16 @@
    "member_chatters": 22,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "ncAppJHCORE",
+   "start": "2026-11-27 12:02",
+   "title": "#9【ゼルダの伝説 時のオカリナ】最終回‼いよいよガノンドロフとラストバトルするゾウ🐘🐘【にじさんじ/レヴィ・エリファ】",
+   "kind": "配信",
+   "chatters": 96,
+   "member_chatters": 21,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -501,14 +501,14 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-27"
+    "to": "2026-11-28"
    },
-   "streams_analyzed": 22,
+   "streams_analyzed": 23,
    "streams_missed": 0,
-   "unique_chatters": 596,
-   "members_confirmed": 102,
+   "unique_chatters": 629,
+   "members_confirmed": 103,
    "member_classes": {
-    "unknown": 56,
+    "unknown": 57,
     "known": 17,
     "gift": 29
    },
@@ -528,7 +528,7 @@
     },
     {
      "months": 6,
-     "members": 3
+     "members": 4
     },
     {
      "months": 12,
@@ -546,27 +546,27 @@
      "tier": "バイ",
      "price": 490,
      "confirmed_members": 10,
-     "estimated_members": 42.9
+     "estimated_members": 43.5
     },
     {
      "tier": "チク",
      "price": 1190,
      "confirmed_members": 5,
-     "estimated_members": 21.5
+     "estimated_members": 21.8
     },
     {
      "tier": "ショー",
      "price": 3490,
      "confirmed_members": 2,
-     "estimated_members": 8.6
+     "estimated_members": 8.7
     }
    ],
    "revenue": {
-    "monthly_low": 28808,
-    "monthly_est": 48723,
+    "monthly_low": 29120,
+    "monthly_est": 49390,
     "gift_once": 9355
    },
-   "avg_member_chatters": 26.5,
+   "avg_member_chatters": 26.2,
    "partial": true,
    "finalized": false
   }

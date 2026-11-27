@@ -2,22 +2,22 @@
  "month": "2026-11",
  "coverage": {
   "from": "2026-11-01",
-  "to": "2026-11-27"
+  "to": "2026-11-28"
  },
- "streams_analyzed": 20,
+ "streams_analyzed": 21,
  "streams_missed": 1,
- "unique_chatters": 9724,
- "members_confirmed": 1838,
+ "unique_chatters": 10063,
+ "members_confirmed": 1855,
  "member_classes": {
-  "unknown": 1575,
-  "known": 237,
-  "gift": 26
+  "unknown": 1578,
+  "known": 250,
+  "gift": 27
  },
- "long_term_members": 1258,
+ "long_term_members": 1266,
  "badges": [
   {
    "months": 0,
-   "members": 91
+   "members": 96
   },
   {
    "months": 1,
@@ -25,19 +25,19 @@
   },
   {
    "months": 2,
-   "members": 140
+   "members": 142
   },
   {
    "months": 6,
-   "members": 319
+   "members": 321
   },
   {
    "months": 12,
-   "members": 884
+   "members": 891
   },
   {
    "months": 24,
-   "members": 113
+   "members": 114
   },
   {
    "months": 36,
@@ -57,25 +57,25 @@
   }
  ],
  "events": {
-  "new_members": 36,
-  "rejoins": 41,
-  "milestones": 55,
-  "gifted_total": 26
+  "new_members": 38,
+  "rejoins": 44,
+  "milestones": 66,
+  "gifted_total": 28
  },
  "tiers": [
   {
    "tier": "星くずたち",
    "price": 490,
-   "confirmed_members": 237,
-   "estimated_members": 1812.0
+   "confirmed_members": 250,
+   "estimated_members": 1828.0
   }
  ],
  "revenue": {
-  "monthly_low": 565015,
-  "monthly_est": 565015,
-  "gift_once": 8107
+  "monthly_low": 570004,
+  "monthly_est": 570004,
+  "gift_once": 8731
  },
- "avg_member_chatters": 373.8,
+ "avg_member_chatters": 368.5,
  "partial": true,
  "finalized": false
 }

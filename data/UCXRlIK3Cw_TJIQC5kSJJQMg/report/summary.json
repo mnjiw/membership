@@ -3,11 +3,11 @@
  "channel_id": "UCXRlIK3Cw_TJIQC5kSJJQMg",
  "handle": "@InuiToko",
  "subscribers": 1040000,
- "fetched_at": "2026-11-27 05:24",
- "generated_at": "2026-11-27 05:24",
+ "fetched_at": "2026-11-28 05:20",
+ "generated_at": "2026-11-28 05:21",
  "period": {
-  "from": "2026-10-28 05:24",
-  "to": "2026-11-27 05:24",
+  "from": "2026-10-29 05:20",
+  "to": "2026-11-28 05:20",
   "days": 30
  },
  "streams_analyzed": 14,
@@ -229,18 +229,6 @@
  ],
  "missed_streams": [
   {
-   "video_id": "t31aC0qqYKE",
-   "start": "2026-10-28 22:00",
-   "title": "【メン限】ハリー・ポッターと秘密の部屋（字幕版）同時視聴",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 307,
-   "view_count": null
-  },
-  {
    "video_id": "47xKBGsywA0",
    "start": "2026-11-03 23:50",
    "title": "【メン限】ちょっと喋る",
@@ -249,7 +237,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 498,
+   "like_count": 499,
    "view_count": null
   },
   {
@@ -261,29 +249,31 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 497,
+   "like_count": 499,
+   "view_count": null
+  },
+  {
+   "video_id": "PsNNsLu9Gsk",
+   "start": "2026-11-27 21:51",
+   "title": "【メン限】ちょこっとだけ～",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 381,
    "view_count": null
   }
  ],
  "members_only_content": [
   {
-   "video_id": "t31aC0qqYKE",
-   "start": "2026-10-28 22:00",
-   "title": "【メン限】ハリー・ポッターと秘密の部屋（字幕版）同時視聴",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 307,
-   "view_count": null
-  },
-  {
    "video_id": "47xKBGsywA0",
    "start": "2026-11-03 23:50",
    "title": "【メン限】ちょっと喋る",
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 498,
+   "like_count": 499,
    "view_count": null
   },
   {
@@ -293,7 +283,17 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 497,
+   "like_count": 499,
+   "view_count": null
+  },
+  {
+   "video_id": "PsNNsLu9Gsk",
+   "start": "2026-11-27 21:51",
+   "title": "【メン限】ちょこっとだけ～",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 381,
    "view_count": null
   }
  ],
@@ -430,10 +430,10 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-27"
+    "to": "2026-11-28"
    },
    "streams_analyzed": 12,
-   "streams_missed": 2,
+   "streams_missed": 3,
    "unique_chatters": 6481,
    "members_confirmed": 1574,
    "member_classes": {

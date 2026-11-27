@@ -3,31 +3,31 @@
  "channel_id": "UCiBBDZ-ndtBgE4xKbswlgXQ",
  "handle": "@ItsukiSakyo",
  "subscribers": 166000,
- "fetched_at": "2026-11-27 05:42",
- "generated_at": "2026-11-27 05:43",
+ "fetched_at": "2026-11-28 05:27",
+ "generated_at": "2026-11-28 05:28",
  "period": {
-  "from": "2026-10-28 05:42",
-  "to": "2026-11-27 05:42",
+  "from": "2026-10-29 05:27",
+  "to": "2026-11-28 05:27",
   "days": 30
  },
  "streams_analyzed": 21,
  "streams_missed": 1,
- "unique_chatters": 2408,
- "members_confirmed": 366,
+ "unique_chatters": 2497,
+ "members_confirmed": 378,
  "member_classes": {
-  "unknown": 311,
-  "known": 55
+  "unknown": 321,
+  "known": 57
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 25
+   "members": 26
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 6
+   "members": 5
   },
   {
    "months": 2,
@@ -37,17 +37,17 @@
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 62
+   "members": 66
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 232
+   "members": 240
   }
  ],
  "events": {
   "new_members": 6,
-  "rejoins": 4,
+  "rejoins": 5,
   "milestones": 20,
   "gift_purchases": 1,
   "gifted_total": 10,
@@ -59,21 +59,21 @@
    "tier": "うさ部員総会",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 55,
+   "confirmed_members": 57,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 311.0,
-   "estimated_members": 366.0,
-   "monthly_net_confirmed": 17150,
-   "monthly_net_estimated": 114125
+   "allocated_unknown": 321.0,
+   "estimated_members": 378.0,
+   "monthly_net_confirmed": 17774,
+   "monthly_net_estimated": 117867
   }
  ],
  "revenue": {
-  "monthly_low": 114125,
-  "monthly_est": 114125,
+  "monthly_low": 117867,
+  "monthly_est": 117867,
   "gift_once": 3118,
-  "total_low": 117244,
-  "total_est": 117244,
-  "paying_members": 366,
+  "total_low": 120985,
+  "total_est": 120985,
+  "paying_members": 378,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -82,16 +82,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "1uhs7medI4k",
-   "start": "2026-10-28 20:59",
-   "title": "18,490個のレンガを積みながらさすがに一旦ゆっくりする『Brick by Brick』【にじさんじ / 五木左京】",
-   "kind": "配信",
-   "chatters": 285,
-   "member_chatters": 174,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "cayfezSk_qE",
    "start": "2026-10-30 20:02",
@@ -291,6 +281,16 @@
    "member_chatters": 134,
    "new_members": 0,
    "gifted_total": 10
+  },
+  {
+   "video_id": "ejF0Byva_sk",
+   "start": "2026-11-27 20:00",
+   "title": "【雑談】2026年はあと34日です【にじさんじ / 五木左京】",
+   "kind": "配信",
+   "chatters": 415,
+   "member_chatters": 197,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [
@@ -448,21 +448,21 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-27"
+    "to": "2026-11-28"
    },
-   "streams_analyzed": 18,
+   "streams_analyzed": 19,
    "streams_missed": 0,
-   "unique_chatters": 2248,
-   "members_confirmed": 334,
+   "unique_chatters": 2388,
+   "members_confirmed": 353,
    "member_classes": {
-    "known": 54,
-    "unknown": 280
+    "known": 57,
+    "unknown": 296
    },
-   "long_term_members": 209,
+   "long_term_members": 221,
    "badges": [
     {
      "months": 0,
-     "members": 23
+     "members": 24
     },
     {
      "months": 1,
@@ -474,33 +474,33 @@
     },
     {
      "months": 6,
-     "members": 57
+     "members": 63
     },
     {
      "months": 12,
-     "members": 209
+     "members": 221
     }
    ],
    "events": {
     "new_members": 5,
-    "rejoins": 4,
-    "milestones": 15,
+    "rejoins": 5,
+    "milestones": 19,
     "gifted_total": 10
    },
    "tiers": [
     {
      "tier": "うさ部員総会",
      "price": 490,
-     "confirmed_members": 54,
-     "estimated_members": 334.0
+     "confirmed_members": 57,
+     "estimated_members": 353.0
     }
    ],
    "revenue": {
-    "monthly_low": 104147,
-    "monthly_est": 104147,
+    "monthly_low": 110072,
+    "monthly_est": 110072,
     "gift_once": 3118
    },
-   "avg_member_chatters": 130.3,
+   "avg_member_chatters": 133.8,
    "partial": true,
    "finalized": false
   }

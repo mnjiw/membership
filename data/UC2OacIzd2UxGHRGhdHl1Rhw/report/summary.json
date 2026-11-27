@@ -3,26 +3,27 @@
  "channel_id": "UC2OacIzd2UxGHRGhdHl1Rhw",
  "handle": "@HayaseSou",
  "subscribers": 300000,
- "fetched_at": "2026-11-27 05:26",
- "generated_at": "2026-11-27 05:27",
+ "fetched_at": "2026-11-28 05:21",
+ "generated_at": "2026-11-28 05:22",
  "period": {
-  "from": "2026-10-28 05:26",
-  "to": "2026-11-27 05:26",
+  "from": "2026-10-29 05:21",
+  "to": "2026-11-28 05:21",
   "days": 30
  },
  "streams_analyzed": 30,
  "streams_missed": 0,
- "unique_chatters": 11598,
- "members_confirmed": 56,
+ "unique_chatters": 12429,
+ "members_confirmed": 65,
  "member_classes": {
-  "unknown": 53,
-  "known": 3
+  "unknown": 55,
+  "known": 5,
+  "gift": 5
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 5
+   "members": 11
   },
   {
    "months": 1,
@@ -32,7 +33,7 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 3
+   "members": 4
   },
   {
    "months": 6,
@@ -42,21 +43,21 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 3
+   "members": 4
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 40
+   "members": 41
   }
  ],
  "events": {
-  "new_members": 1,
+  "new_members": 3,
   "rejoins": 1,
   "milestones": 1,
-  "gift_purchases": 0,
-  "gifted_total": 0,
-  "gift_redemptions": 0
+  "gift_purchases": 1,
+  "gifted_total": 5,
+  "gift_redemptions": 5
  },
  "tiers_configured": true,
  "tiers": [
@@ -64,12 +65,12 @@
    "tier": "早瀬荘",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 3,
+   "confirmed_members": 5,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 53.0,
-   "estimated_members": 56.0,
-   "monthly_net_confirmed": 935,
-   "monthly_net_estimated": 17462
+   "allocated_unknown": 55.0,
+   "estimated_members": 60.0,
+   "monthly_net_confirmed": 1559,
+   "monthly_net_estimated": 18709
   },
   {
    "tier": "早瀬ハイツ",
@@ -95,12 +96,12 @@
   }
  ],
  "revenue": {
-  "monthly_low": 17462,
-  "monthly_est": 17462,
-  "gift_once": 0,
-  "total_low": 17462,
-  "total_est": 17462,
-  "paying_members": 56,
+  "monthly_low": 18709,
+  "monthly_est": 18709,
+  "gift_once": 1559,
+  "total_low": 20268,
+  "total_est": 20268,
+  "paying_members": 60,
   "single_tier": false,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -109,26 +110,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "Q1W85EC4uIM",
-   "start": "2026-10-28 10:00",
-   "title": "【MOTHER3】#6  奇妙で、おもしろい。そして、せつない。",
-   "kind": "配信",
-   "chatters": 123,
-   "member_chatters": 10,
-   "new_members": 0,
-   "gifted_total": 0
-  },
-  {
-   "video_id": "CI1BigzKHG4",
-   "start": "2026-10-28 22:01",
-   "title": "【#早瀬とサシ飲み】早瀬走×クー　part.91",
-   "kind": "配信",
-   "chatters": 94,
-   "member_chatters": 14,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "WY5oWZzIkdI",
    "start": "2026-11-01 22:01",
@@ -408,6 +389,26 @@
    "member_chatters": 12,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "P49P7MwZAw0",
+   "start": "2026-11-27 18:29",
+   "title": "新人来たって",
+   "kind": "配信",
+   "chatters": 619,
+   "member_chatters": 29,
+   "new_members": 2,
+   "gifted_total": 5
+  },
+  {
+   "video_id": "TNLsIv2KojM",
+   "start": "2026-11-27 22:01",
+   "title": "【#早瀬とサシ飲み再演】早瀬走×社築　part.27",
+   "kind": "配信",
+   "chatters": 1048,
+   "member_chatters": 16,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -568,21 +569,22 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-27"
+    "to": "2026-11-28"
    },
-   "streams_analyzed": 28,
+   "streams_analyzed": 30,
    "streams_missed": 0,
-   "unique_chatters": 11493,
-   "members_confirmed": 55,
+   "unique_chatters": 12429,
+   "members_confirmed": 65,
    "member_classes": {
-    "unknown": 52,
-    "known": 3
+    "unknown": 55,
+    "known": 5,
+    "gift": 5
    },
-   "long_term_members": 42,
+   "long_term_members": 45,
    "badges": [
     {
      "months": 0,
-     "members": 5
+     "members": 11
     },
     {
      "months": 1,
@@ -590,7 +592,7 @@
     },
     {
      "months": 2,
-     "members": 3
+     "members": 4
     },
     {
      "months": 6,
@@ -598,25 +600,25 @@
     },
     {
      "months": 12,
-     "members": 3
+     "members": 4
     },
     {
      "months": 24,
-     "members": 39
+     "members": 41
     }
    ],
    "events": {
-    "new_members": 1,
+    "new_members": 3,
     "rejoins": 1,
     "milestones": 1,
-    "gifted_total": 0
+    "gifted_total": 5
    },
    "tiers": [
     {
      "tier": "早瀬荘",
      "price": 490,
-     "confirmed_members": 3,
-     "estimated_members": 55.0
+     "confirmed_members": 5,
+     "estimated_members": 60.0
     },
     {
      "tier": "早瀬ハイツ",
@@ -632,11 +634,11 @@
     }
    ],
    "revenue": {
-    "monthly_low": 17150,
-    "monthly_est": 17150,
-    "gift_once": 0
+    "monthly_low": 18709,
+    "monthly_est": 18709,
+    "gift_once": 1559
    },
-   "avg_member_chatters": 13.3,
+   "avg_member_chatters": 13.9,
    "partial": true,
    "finalized": false
   }

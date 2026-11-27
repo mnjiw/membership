@@ -3,20 +3,20 @@
  "channel_id": "UCYKP16oMX9KKPbrNgo_Kgag",
  "handle": "@Elu",
  "subscribers": 739000,
- "fetched_at": "2026-11-27 05:18",
- "generated_at": "2026-11-27 05:18",
+ "fetched_at": "2026-11-28 05:18",
+ "generated_at": "2026-11-28 05:18",
  "period": {
-  "from": "2026-10-28 05:18",
-  "to": "2026-11-27 05:18",
+  "from": "2026-10-29 05:18",
+  "to": "2026-11-28 05:18",
   "days": 30
  },
  "streams_analyzed": 25,
- "streams_missed": 1,
- "unique_chatters": 2881,
- "members_confirmed": 267,
+ "streams_missed": 0,
+ "unique_chatters": 2852,
+ "members_confirmed": 264,
  "member_classes": {
-  "unknown": 226,
-  "known": 41
+  "known": 40,
+  "unknown": 224
  },
  "badges": [
   {
@@ -42,12 +42,12 @@
   {
    "months": 12,
    "label": "1年",
-   "members": 52
+   "members": 51
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 37
+   "members": 36
   },
   {
    "months": 36,
@@ -57,13 +57,13 @@
   {
    "months": 48,
    "label": "4年",
-   "members": 90
+   "members": 89
   }
  ],
  "events": {
   "new_members": 2,
   "rejoins": 2,
-  "milestones": 17,
+  "milestones": 16,
   "gift_purchases": 0,
   "gifted_total": 0,
   "gift_redemptions": 0
@@ -74,21 +74,21 @@
    "tier": "エルフの森",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 41,
+   "confirmed_members": 40,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 226.0,
-   "estimated_members": 267.0,
-   "monthly_net_confirmed": 12785,
-   "monthly_net_estimated": 83255
+   "allocated_unknown": 224.0,
+   "estimated_members": 264.0,
+   "monthly_net_confirmed": 12473,
+   "monthly_net_estimated": 82320
   }
  ],
  "revenue": {
-  "monthly_low": 83255,
-  "monthly_est": 83255,
+  "monthly_low": 82320,
+  "monthly_est": 82320,
   "gift_once": 0,
-  "total_low": 83255,
-  "total_est": 83255,
-  "paying_members": 267,
+  "total_low": 82320,
+  "total_est": 82320,
+  "paying_members": 264,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -97,16 +97,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "L_TlyWvIuXU",
-   "start": "2026-10-28 13:16",
-   "title": "【 ドラゴンボールZ:KAKAROT 】#09 完全初見！DLC：BARDOCK -たったひとりの最終決戦- 【にじさんじ/える】",
-   "kind": "配信",
-   "chatters": 327,
-   "member_chatters": 52,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "P29if5MF6Hk",
    "start": "2026-10-29 19:00",
@@ -346,34 +336,20 @@
    "member_chatters": 95,
    "new_members": 0,
    "gifted_total": 0
-  }
- ],
- "missed_streams": [
+  },
   {
-   "video_id": "C966HaNLOpc",
-   "start": "2026-10-28 20:02",
-   "title": "【アークナイツ：エンドフィールド】The k4sen に向けて自主練の刃～付け焼き編～②【にじさんじ/える】",
-   "kind": "live",
-   "status": "members_only",
-   "reason": "メンバー限定配信",
-   "members_only": true,
-   "members_level": "",
-   "like_count": 423,
-   "view_count": null
+   "video_id": "hWh-dC3udcM",
+   "start": "2026-11-27 19:59",
+   "title": "【#アズールプロミリア】 癒しエルフと癒し生物でほのぼの大冒険します！【にじさんじ/える】",
+   "kind": "配信",
+   "chatters": 176,
+   "member_chatters": 54,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
- "members_only_content": [
-  {
-   "video_id": "C966HaNLOpc",
-   "start": "2026-10-28 20:02",
-   "title": "【アークナイツ：エンドフィールド】The k4sen に向けて自主練の刃～付け焼き編～②【にじさんじ/える】",
-   "kind": "live",
-   "status": "members_only",
-   "members_level": "",
-   "like_count": 423,
-   "view_count": null
-  }
- ],
+ "missed_streams": [],
+ "members_only_content": [],
  "history": [
   {
    "month": "2026-09",
@@ -525,17 +501,17 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-27"
+    "to": "2026-11-28"
    },
-   "streams_analyzed": 23,
+   "streams_analyzed": 24,
    "streams_missed": 0,
-   "unique_chatters": 2717,
-   "members_confirmed": 262,
+   "unique_chatters": 2784,
+   "members_confirmed": 263,
    "member_classes": {
-    "unknown": 222,
+    "unknown": 223,
     "known": 40
    },
-   "long_term_members": 227,
+   "long_term_members": 228,
    "badges": [
     {
      "months": 0,
@@ -563,7 +539,7 @@
     },
     {
      "months": 36,
-     "members": 51
+     "members": 52
     },
     {
      "months": 48,
@@ -581,15 +557,15 @@
      "tier": "エルフの森",
      "price": 490,
      "confirmed_members": 40,
-     "estimated_members": 262.0
+     "estimated_members": 263.0
     }
    ],
    "revenue": {
-    "monthly_low": 81696,
-    "monthly_est": 81696,
+    "monthly_low": 82008,
+    "monthly_est": 82008,
     "gift_once": 0
    },
-   "avg_member_chatters": 65.3,
+   "avg_member_chatters": 64.9,
    "partial": true,
    "finalized": false
   }

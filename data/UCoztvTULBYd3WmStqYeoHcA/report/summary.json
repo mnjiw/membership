@@ -3,71 +3,71 @@
  "channel_id": "UCoztvTULBYd3WmStqYeoHcA",
  "handle": "@SasakiSaku",
  "subscribers": 1000000,
- "fetched_at": "2026-11-27 05:19",
- "generated_at": "2026-11-27 05:19",
+ "fetched_at": "2026-11-28 05:19",
+ "generated_at": "2026-11-28 05:19",
  "period": {
-  "from": "2026-10-28 05:19",
-  "to": "2026-11-27 05:19",
+  "from": "2026-10-29 05:19",
+  "to": "2026-11-28 05:19",
   "days": 30
  },
- "streams_analyzed": 13,
+ "streams_analyzed": 12,
  "streams_missed": 1,
- "unique_chatters": 5079,
- "members_confirmed": 713,
+ "unique_chatters": 4856,
+ "members_confirmed": 688,
  "member_classes": {
-  "unknown": 604,
-  "known": 28,
-  "gift": 81
+  "unknown": 584,
+  "known": 24,
+  "gift": 80
  },
  "badges": [
   {
    "months": 0,
    "label": "新規(1ヶ月未満)",
-   "members": 112
+   "members": 108
   },
   {
    "months": 1,
    "label": "1ヶ月",
-   "members": 20
+   "members": 16
   },
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 41
+   "members": 37
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 41
+   "members": 39
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 60
+   "members": 59
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 63
+   "members": 61
   },
   {
    "months": 36,
    "label": "3年",
-   "members": 88
+   "members": 84
   },
   {
    "months": 48,
    "label": "4年",
-   "members": 288
+   "members": 284
   }
  ],
  "events": {
-  "new_members": 11,
+  "new_members": 9,
   "rejoins": 7,
   "milestones": 0,
-  "gift_purchases": 16,
-  "gifted_total": 82,
-  "gift_redemptions": 81
+  "gift_purchases": 15,
+  "gifted_total": 81,
+  "gift_redemptions": 80
  },
  "tiers_configured": true,
  "tiers": [
@@ -75,21 +75,21 @@
    "tier": "しゃしゃりめんばー",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 28,
+   "confirmed_members": 24,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 604.0,
-   "estimated_members": 632.0,
-   "monthly_net_confirmed": 8731,
-   "monthly_net_estimated": 197069
+   "allocated_unknown": 584.0,
+   "estimated_members": 608.0,
+   "monthly_net_confirmed": 7484,
+   "monthly_net_estimated": 189585
   }
  ],
  "revenue": {
-  "monthly_low": 197069,
-  "monthly_est": 197069,
-  "gift_once": 25569,
-  "total_low": 222638,
-  "total_est": 222638,
-  "paying_members": 632,
+  "monthly_low": 189585,
+  "monthly_est": 189585,
+  "gift_once": 25257,
+  "total_low": 214843,
+  "total_est": 214843,
+  "paying_members": 608,
   "single_tier": true,
   "tax_rate": 0.1,
   "creator_share": 0.7,
@@ -98,16 +98,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "3Z09p_N12KU",
-   "start": "2026-10-28 19:31",
-   "title": "10月終わりの雑談やよ〜〜〜っ！！！",
-   "kind": "配信",
-   "chatters": 640,
-   "member_chatters": 232,
-   "new_members": 2,
-   "gifted_total": 1
-  },
   {
    "video_id": "xL-hgapU-0M",
    "start": "2026-10-31 22:00",
@@ -239,7 +229,7 @@
    "reason": "メンバー限定配信",
    "members_only": true,
    "members_level": "",
-   "like_count": 200,
+   "like_count": 204,
    "view_count": null
   }
  ],
@@ -251,7 +241,7 @@
    "kind": "live",
    "status": "members_only",
    "members_level": "",
-   "like_count": 200,
+   "like_count": 204,
    "view_count": null
   }
  ],
@@ -408,7 +398,7 @@
    "month": "2026-11",
    "coverage": {
     "from": "2026-11-01",
-    "to": "2026-11-27"
+    "to": "2026-11-28"
    },
    "streams_analyzed": 11,
    "streams_missed": 1,
