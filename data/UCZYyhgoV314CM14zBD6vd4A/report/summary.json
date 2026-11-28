@@ -3,15 +3,15 @@
  "channel_id": "UCZYyhgoV314CM14zBD6vd4A",
  "handle": "@tenkaitsukasa",
  "subscribers": 367000,
- "fetched_at": "2026-11-28 06:38",
- "generated_at": "2026-11-28 06:38",
+ "fetched_at": "2026-11-28 13:04",
+ "generated_at": "2026-11-28 13:04",
  "period": {
-  "from": "2026-10-29 06:38",
-  "to": "2026-11-28 06:38",
+  "from": "2026-10-29 13:04",
+  "to": "2026-11-28 13:04",
   "days": 30
  },
  "streams_analyzed": 24,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 2848,
  "members_confirmed": 156,
  "member_classes": {
@@ -327,7 +327,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "mwcoBOMbae0",
+   "start": "2026-11-28 00:00",
+   "title": "[Clip/Dragon Quest V] Tenkai Tsukasa, the dad who loses confidence and becomes self-deprecating b...",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 95,
+   "view_count": 734
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -454,7 +467,7 @@
     "to": "2026-11-28"
    },
    "streams_analyzed": 23,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 2768,
    "members_confirmed": 155,
    "member_classes": {

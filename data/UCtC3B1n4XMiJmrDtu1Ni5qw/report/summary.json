@@ -3,20 +3,20 @@
  "channel_id": "UCtC3B1n4XMiJmrDtu1Ni5qw",
  "handle": "@NanaseSuzuna",
  "subscribers": 324000,
- "fetched_at": "2026-11-28 05:27",
- "generated_at": "2026-11-28 05:27",
+ "fetched_at": "2026-11-28 12:55",
+ "generated_at": "2026-11-28 12:56",
  "period": {
-  "from": "2026-10-29 05:27",
-  "to": "2026-11-28 05:27",
+  "from": "2026-10-29 12:55",
+  "to": "2026-11-28 12:55",
   "days": 30
  },
  "streams_analyzed": 35,
  "streams_missed": 0,
- "unique_chatters": 7252,
+ "unique_chatters": 7314,
  "members_confirmed": 1197,
  "member_classes": {
-  "unknown": 1048,
-  "known": 129,
+  "unknown": 1049,
+  "known": 128,
   "gift": 20
  },
  "badges": [
@@ -28,28 +28,28 @@
   {
    "months": 2,
    "label": "2ヶ月",
-   "members": 248
+   "members": 247
   },
   {
    "months": 6,
    "label": "6ヶ月",
-   "members": 147
+   "members": 150
   },
   {
    "months": 12,
    "label": "1年",
-   "members": 377
+   "members": 376
   },
   {
    "months": 24,
    "label": "2年",
-   "members": 267
+   "members": 266
   }
  ],
  "events": {
   "new_members": 21,
   "rejoins": 5,
-  "milestones": 13,
+  "milestones": 15,
   "gift_purchases": 4,
   "gifted_total": 20,
   "gift_redemptions": 20
@@ -60,11 +60,11 @@
    "tier": "すずふぁーむ",
    "price": 490,
    "net_per_member": 311.8,
-   "confirmed_members": 129,
+   "confirmed_members": 128,
    "share_of_confirmed_pct": 100.0,
-   "allocated_unknown": 1048.0,
+   "allocated_unknown": 1049.0,
    "estimated_members": 1177.0,
-   "monthly_net_confirmed": 40225,
+   "monthly_net_confirmed": 39913,
    "monthly_net_estimated": 367010
   }
  ],
@@ -83,16 +83,6 @@
   "price_source": "メンバー登録画面で確認（2026-11-01）"
  },
  "streams": [
-  {
-   "video_id": "gQ2RH24sGuc",
-   "start": "2026-10-29 07:02",
-   "title": "【朝活】おはすず10月29日（木）＃606【七瀬すず菜/にじさんじ】",
-   "kind": "配信",
-   "chatters": 1279,
-   "member_chatters": 411,
-   "new_members": 0,
-   "gifted_total": 0
-  },
   {
    "video_id": "dpu-a1mJ6tA",
    "start": "2026-10-30 07:01",
@@ -432,6 +422,16 @@
    "member_chatters": 415,
    "new_members": 0,
    "gifted_total": 0
+  },
+  {
+   "video_id": "eIFqpf_YRSA",
+   "start": "2026-11-28 08:02",
+   "title": "【 ポケモン リーフグリーン 】#8 遂にポケモンリーグに乗り込むぞ！！！【七瀬すず菜/にじさんじ】",
+   "kind": "配信",
+   "chatters": 944,
+   "member_chatters": 287,
+   "new_members": 0,
+   "gifted_total": 0
   }
  ],
  "missed_streams": [],
@@ -567,58 +567,58 @@
     "from": "2026-11-01",
     "to": "2026-11-28"
    },
-   "streams_analyzed": 33,
+   "streams_analyzed": 34,
    "streams_missed": 0,
-   "unique_chatters": 6736,
-   "members_confirmed": 1160,
+   "unique_chatters": 7010,
+   "members_confirmed": 1178,
    "member_classes": {
-    "unknown": 1014,
-    "known": 126,
+    "unknown": 1031,
+    "known": 127,
     "gift": 20
    },
-   "long_term_members": 628,
+   "long_term_members": 632,
    "badges": [
     {
      "months": 0,
-     "members": 152
+     "members": 155
     },
     {
      "months": 2,
-     "members": 238
+     "members": 243
     },
     {
      "months": 6,
-     "members": 142
+     "members": 148
     },
     {
      "months": 12,
-     "members": 369
+     "members": 370
     },
     {
      "months": 24,
-     "members": 259
+     "members": 262
     }
    ],
    "events": {
     "new_members": 21,
     "rejoins": 5,
-    "milestones": 13,
+    "milestones": 15,
     "gifted_total": 20
    },
    "tiers": [
     {
      "tier": "すずふぁーむ",
      "price": 490,
-     "confirmed_members": 126,
-     "estimated_members": 1140.0
+     "confirmed_members": 127,
+     "estimated_members": 1158.0
     }
    ],
    "revenue": {
-    "monthly_low": 355473,
-    "monthly_est": 355473,
+    "monthly_low": 361085,
+    "monthly_est": 361085,
     "gift_once": 6236
    },
-   "avg_member_chatters": 260.2,
+   "avg_member_chatters": 261,
    "partial": true,
    "finalized": false
   }

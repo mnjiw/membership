@@ -3,15 +3,15 @@
  "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
  "handle": "@HakosBaelz",
  "subscribers": 1240000,
- "fetched_at": "2026-11-28 06:26",
- "generated_at": "2026-11-28 06:26",
+ "fetched_at": "2026-11-28 13:00",
+ "generated_at": "2026-11-28 13:01",
  "period": {
-  "from": "2026-10-29 06:26",
-  "to": "2026-11-28 06:26",
+  "from": "2026-10-29 13:00",
+  "to": "2026-11-28 13:00",
   "days": 30
  },
  "streams_analyzed": 15,
- "streams_missed": 2,
+ "streams_missed": 3,
  "unique_chatters": 10874,
  "members_confirmed": 1703,
  "member_classes": {
@@ -298,8 +298,20 @@
    "reason": "取得エラー（次回再確認）",
    "members_only": false,
    "members_level": "",
-   "like_count": 2863,
-   "view_count": 36010
+   "like_count": 3807,
+   "view_count": 55560
+  },
+  {
+   "video_id": "D816WOd-8OI",
+   "start": "2026-11-28 10:00",
+   "title": "≪MEMBERS ONLY≫ lil yap before REGALIA",
+   "kind": "live",
+   "status": "members_only",
+   "reason": "メンバー限定配信",
+   "members_only": true,
+   "members_level": "",
+   "like_count": 482,
+   "view_count": null
   }
  ],
  "members_only_content": [
@@ -311,6 +323,16 @@
    "status": "members_only",
    "members_level": "",
    "like_count": 553,
+   "view_count": null
+  },
+  {
+   "video_id": "D816WOd-8OI",
+   "start": "2026-11-28 10:00",
+   "title": "≪MEMBERS ONLY≫ lil yap before REGALIA",
+   "kind": "live",
+   "status": "members_only",
+   "members_level": "",
+   "like_count": 482,
    "view_count": null
   }
  ],
@@ -475,7 +497,7 @@
     "to": "2026-11-28"
    },
    "streams_analyzed": 14,
-   "streams_missed": 1,
+   "streams_missed": 2,
    "unique_chatters": 10100,
    "members_confirmed": 1655,
    "member_classes": {

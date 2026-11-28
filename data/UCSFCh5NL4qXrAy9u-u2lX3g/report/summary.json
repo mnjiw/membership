@@ -3,15 +3,15 @@
  "channel_id": "UCSFCh5NL4qXrAy9u-u2lX3g",
  "handle": "@Kuzuha",
  "subscribers": 2250000,
- "fetched_at": "2026-11-28 05:19",
- "generated_at": "2026-11-28 05:19",
+ "fetched_at": "2026-11-28 12:53",
+ "generated_at": "2026-11-28 12:53",
  "period": {
-  "from": "2026-10-29 05:19",
-  "to": "2026-11-28 05:19",
+  "from": "2026-10-29 12:53",
+  "to": "2026-11-28 12:53",
   "days": 30
  },
  "streams_analyzed": 17,
- "streams_missed": 0,
+ "streams_missed": 1,
  "unique_chatters": 18108,
  "members_confirmed": 5779,
  "member_classes": {
@@ -268,7 +268,20 @@
    "gifted_total": 0
   }
  ],
- "missed_streams": [],
+ "missed_streams": [
+  {
+   "video_id": "wXawXA2cEuM",
+   "start": "2026-11-28 00:00",
+   "title": "【にじさんじDAYZ:ONE LIFE】生への執着を見たがるイブラヒム主催のデスゲームで、なぜかスローライフを満喫し始める葛葉達【葛葉/にじさんじ/切り抜き】",
+   "kind": "video",
+   "status": "error",
+   "reason": "取得エラー（次回再確認）",
+   "members_only": false,
+   "members_level": "",
+   "like_count": 706,
+   "view_count": 9008
+  }
+ ],
  "members_only_content": [],
  "history": [
   {
@@ -424,7 +437,7 @@
     "to": "2026-11-28"
    },
    "streams_analyzed": 15,
-   "streams_missed": 0,
+   "streams_missed": 1,
    "unique_chatters": 17857,
    "members_confirmed": 5722,
    "member_classes": {
