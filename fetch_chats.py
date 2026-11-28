@@ -582,6 +582,9 @@ def main():
     chats_dir = out_dir / "chats"
     chats_dir.mkdir(parents=True, exist_ok=True)
 
+    for k in ("subscribers", "handle"):   # YouTube が登録者数などを返さなかった日は、前回の値を残す
+        if not channel.get(k) and store.get(k):
+            channel[k] = store[k]
     store.update(channel)
     store["fetched_at"] = fmt_ts(now)
     store["fetched_at_ts"] = now
